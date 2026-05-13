@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/21p9K1RiiIHSvfJeK2wwnF"
+    },
+    {
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/5W8SvJTwnL2joYd7J5yu7L"
       },
@@ -572,7 +594,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 140307,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/4AyHlEuenAyjMOifhsjBBd"

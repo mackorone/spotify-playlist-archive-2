@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 94667,
+  "num_followers": 94676,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
-      },
-      "artists": [
-        {
-          "name": "Danny Worsnop",
-          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "The Vandoliers",
         "url": "https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 185386,
       "name": "Better Run",
       "url": "https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
+      },
+      "artists": [
+        {
+          "name": "Danny Worsnop",
+          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
+        }
+      ],
+      "duration_ms": 186764,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Without The Pain",
         "url": "https://open.spotify.com/album/0muiv2vfeWAvQkf7VtBq1U"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 207857,
       "name": "Down No More (feat. Nikki Lane)",
       "url": "https://open.spotify.com/track/31DDhtBgILgcROksRkxU6M"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
+        "name": "Natchez",
+        "url": "https://open.spotify.com/album/7cuM4fOrG1nbdsGggB4Zq4"
+      },
+      "artists": [
+        {
+          "name": "Bishop Gunn",
+          "url": "https://open.spotify.com/artist/78FpcvFFNC1ZTrUvWb0tlm"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Alabama",
+      "url": "https://open.spotify.com/track/13iwFAkP5vMi6oEwV3uUsP"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
         "name": "Let It Ride",
         "url": "https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 217786,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
-        "name": "Truth And Lies",
-        "url": "https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "On To The Next",
-      "url": "https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw"
     }
   ],
   "unique_name": "Southern Comfort",

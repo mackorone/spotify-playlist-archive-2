@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,961 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,975 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 41 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
 | 42 | [Lose My Mind](https://open.spotify.com/track/5LMqNwIFZBPwTh2buKaHix) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Lose My Mind](https://open.spotify.com/album/5NK6a73PWXffL6PzUeMNIf) | 3:02 |
 | 43 | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \- Satirized & Noxiouz Remix](https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \(Satirized & Noxiouz Remix\)](https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5) | 3:10 |
-| 44 | [The Nightmare Man](https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [The Nightmare Man](https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU) | 3:06 |
-| 45 | [Oof](https://open.spotify.com/track/1JvqYuixZu73UkG3p0T8qM) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Oof](https://open.spotify.com/album/6RqMp8wI0jkJKjhacFLvih) | 2:05 |
+| 44 | [Oof](https://open.spotify.com/track/1JvqYuixZu73UkG3p0T8qM) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Oof](https://open.spotify.com/album/6RqMp8wI0jkJKjhacFLvih) | 2:05 |
+| 45 | [The Nightmare Man](https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [The Nightmare Man](https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU) | 3:06 |
 | 46 | [Trip to Old England](https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Captain Core](https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu) | [Trip to Old England](https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD) | 3:51 |
 | 47 | [WaKe uP](https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [WaKe uP](https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ) | 2:25 |
 | 48 | [Sikam Szampan Techno](https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Sikam Szampan Techno](https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz) | 3:08 |
 | 49 | [BAMM](https://open.spotify.com/track/6gFYR0l7xwGCYfiYRdwld5) | [Essociaal](https://open.spotify.com/artist/4G2YFwn4mbVinDu5MrDMI0), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s) | [BAMM](https://open.spotify.com/album/7vQcXvS4vvL3Kghayv2IjY) | 3:01 |
 | 50 | [Murder On The Dancefloor](https://open.spotify.com/track/6hc23rlusaZU0oZy3Zmf38) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Murder On The Dancefloor](https://open.spotify.com/album/1aBix6Eh50Bz7VzRK8wvKH) | 2:28 |
 
-Snapshot ID: `AAAAAM5PbvdnYo7CYrXz2p/ketDk3Uaj`
+Snapshot ID: `AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4`

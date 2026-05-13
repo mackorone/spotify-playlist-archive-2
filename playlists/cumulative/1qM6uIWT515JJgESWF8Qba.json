@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm"
+      },
+      "artists": [
+        {
+          "name": "The Fuzes",
+          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144347,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5"
+    },
+    {
+      "album": {
         "name": "Get Outta My Head",
         "url": "https://open.spotify.com/album/4IXPVKy739ap5syrDJguG5"
       },
@@ -1572,6 +1590,24 @@
       "duration_ms": 201614,
       "name": "Glide",
       "url": "https://open.spotify.com/track/7lBT4r2EB25JjsXzoDJjZ4"
+    },
+    {
+      "album": {
+        "name": "A Big Dose of Speed",
+        "url": "https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7"
+      },
+      "artists": [
+        {
+          "name": "On-Off",
+          "url": "https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243472,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/7FMnpQg1vy0fc4sDaKUb5Q"
     },
     {
       "album": {

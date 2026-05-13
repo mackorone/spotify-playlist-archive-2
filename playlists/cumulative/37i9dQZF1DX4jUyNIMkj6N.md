@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-412 songs - 1 day 0 hr 46 min
+413 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 | 2022-03-24 | 2025-02-20 |
 | [Elver](https://open.spotify.com/track/7JFl6iRLynsTPvxWtLswVl) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Elver](https://open.spotify.com/album/00meFMAVQIUMGv8eHp55uG) | 4:27 | 2024-01-11 | 2024-04-28 |
 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 | 2021-12-02 |  |
+| [End of July](https://open.spotify.com/track/6ag0v6PX7xlKu1RqmU6dm4) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Simpler Times](https://open.spotify.com/album/4uZZKroW4sf3973ravoU6s) | 3:56 | 2026-05-07 |  |
 | [Er du ensom har du meg](https://open.spotify.com/track/2lnRijAqNKDZvpSxoIMJEs) | [Valkyrien Allstars](https://open.spotify.com/artist/4E1kp6gNDweuoJ7UIrTbgU) | [venter på noen som venter på noen](https://open.spotify.com/album/4LLXR5tKNKOxlG9h0FQacF) | 3:44 | 2025-06-12 | 2025-11-01 |
 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 | 2023-05-25 | 2025-04-09 |
 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 | 2023-04-27 |  |
@@ -283,7 +284,7 @@
 | [River \- Live](https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Live 2020](https://open.spotify.com/album/3MfrdryGGjczqK1NalPSks) | 4:18 | 2021-12-02 | 2022-07-29 |
 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 | 2023-10-12 | 2024-06-09 |
 | [Romain's Place](https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening, Pt\. 1](https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v) | 3:44 | 2022-09-01 | 2023-01-27 |
-| [Roses](https://open.spotify.com/track/3D8ZM1wtK9TOoJTzlFrSNU) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf) | [Roses](https://open.spotify.com/album/2gxfakFxfl2nBHFtSFRnzV) | 3:09 | 2026-04-30 |  |
+| [Roses](https://open.spotify.com/track/3D8ZM1wtK9TOoJTzlFrSNU) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf) | [Roses](https://open.spotify.com/album/2gxfakFxfl2nBHFtSFRnzV) | 3:09 | 2026-04-30 | 2026-05-13 |
 | [Rover](https://open.spotify.com/track/7clop9zhvfP0lTKXi3eoYr) | [Red Langur](https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9) | [Rover](https://open.spotify.com/album/262X8tkz5jtA0yNqgRa0TI) | 3:12 | 2025-02-27 | 2025-09-05 |
 | [Sail Into Me](https://open.spotify.com/track/3jVueWu5TDQB4DhkJWmXmL) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Sail Into Me](https://open.spotify.com/album/691P8uwfdfBOWBrUzEOAre) | 2:18 | 2026-03-26 |  |
 | [Salamina](https://open.spotify.com/track/77n2LesdLx0krLwVgsVIWn) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Salamina](https://open.spotify.com/album/7EFHatQ7I0LuZNNFmwIFeV) | 2:56 | 2024-07-25 | 2024-08-02 |

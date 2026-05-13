@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,942 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,962 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 28 | [Loner](https://open.spotify.com/track/1PZ3DwxBYzuRYXt2fpomfY) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 4:59 |
 | 29 | [Supernaut \- 2009 Remaster](https://open.spotify.com/track/03qx2RKyfJ4gPXMYvYN8Pt) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 4:41 |
 | 30 | [Never Say Die \- 2009 Remaster](https://open.spotify.com/track/42aY1pEcjp3GWENE6LUPnx) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Never Say Die!](https://open.spotify.com/album/3L6ss776rbc4BlupPEDOLw) | 3:47 |
-| 31 | [Hole in the Sky \- 2009 Remaster](https://open.spotify.com/track/37Y1feezGuGVCe0kTBbKjg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 3:59 |
-| 32 | [Killing Yourself to Live \(2009 Remaster\)](https://open.spotify.com/track/1qykMIVb09E9dv6BylCUab) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 5:38 |
+| 31 | [Killing Yourself to Live \(2009 Remaster\)](https://open.spotify.com/track/1qykMIVb09E9dv6BylCUab) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 5:38 |
+| 32 | [Hole in the Sky \- 2009 Remaster](https://open.spotify.com/track/37Y1feezGuGVCe0kTBbKjg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 3:59 |
 | 33 | [Wicked World \- 2009 Remaster](https://open.spotify.com/track/2X0g40RcASNCKcum3drycX) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 4:44 |
 | 34 | [Lady Evil](https://open.spotify.com/track/2VZ9U830gFLrgR7aRW3OfR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 4:22 |
 | 35 | [Zeitgeist](https://open.spotify.com/track/4HFRItYjNrcwT6Vbtbk2i4) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Cornucopia \- 2009 Remaster](https://open.spotify.com/track/327Ec0FooWSZMtVd7zPng2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 3:51 |
 | 50 | [Wasp / Behind the Wall of Sleep / Bassically / N.I.B\. \- 2014 Remaster](https://open.spotify.com/track/4hx9RvP93j79EJLAiyJQoI) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 9:43 |
 
-Snapshot ID: `af/KgAAAAAC3G1HYTr/4/0r7GADwxi2B`
+Snapshot ID: `agEcAAAAAABmbLG1t14wpsyiqYRdOTax`

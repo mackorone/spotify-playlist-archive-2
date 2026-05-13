@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Din\u00e1micos Jrs en portada.",
-  "num_followers": 529794,
+  "num_followers": 529809,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -415,38 +415,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Para Que Ya No Duela",
-        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Para Que Ya No Duela",
-      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
-        "name": "Llamada Prohibida",
-        "url": "https://open.spotify.com/album/0kCd03KyQWeyMTwVPPvvIW"
-      },
-      "artists": [
-        {
-          "name": "Los Tercos",
-          "url": "https://open.spotify.com/artist/5odMYPZe4F6mmYF0QEwfZz"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Llamada Prohibida",
-      "url": "https://open.spotify.com/track/13pfpsGhaxPbSKZHuuc5Ni"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "De Los Dientes Pa Fuera",
         "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
       },
@@ -467,6 +435,38 @@
       "duration_ms": 168664,
       "name": "De Los Dientes Pa Fuera",
       "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Llamada Prohibida",
+        "url": "https://open.spotify.com/album/0kCd03KyQWeyMTwVPPvvIW"
+      },
+      "artists": [
+        {
+          "name": "Los Tercos",
+          "url": "https://open.spotify.com/artist/5odMYPZe4F6mmYF0QEwfZz"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Llamada Prohibida",
+      "url": "https://open.spotify.com/track/13pfpsGhaxPbSKZHuuc5Ni"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Para Que Ya No Duela",
+        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Para Que Ya No Duela",
+      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
+        "name": "Fuera Mas Feliz",
+        "url": "https://open.spotify.com/album/1sEAPhutMLCyyChH05Moru"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 141285,
+      "name": "Fuera Mas Feliz",
+      "url": "https://open.spotify.com/track/03hxCxEXYvCBtoLizpPIzT"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
         "name": "Andamos Ready",
         "url": "https://open.spotify.com/album/5eZtNyhRU4LWBV6RZoMeIt"
       },
@@ -587,6 +603,22 @@
       "duration_ms": 190612,
       "name": "Andamos Ready",
       "url": "https://open.spotify.com/track/1OG7aTOFOhGRlHD3BA7Y6M"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/1a6uJBZfQHnjZmVkmbCGqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 150440,
+      "name": "El Estr\u00e9s",
+      "url": "https://open.spotify.com/track/7wAkHI64oZwGRY20OkaEX7"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -631,38 +663,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Fuera Mas Feliz",
-        "url": "https://open.spotify.com/album/1sEAPhutMLCyyChH05Moru"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 141285,
-      "name": "Fuera Mas Feliz",
-      "url": "https://open.spotify.com/track/03hxCxEXYvCBtoLizpPIzT"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/1a6uJBZfQHnjZmVkmbCGqT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 150440,
-      "name": "El Estr\u00e9s",
-      "url": "https://open.spotify.com/track/7wAkHI64oZwGRY20OkaEX7"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Covers De Mi Gusto, Vol. 3 (En Vivo)",
         "url": "https://open.spotify.com/album/6Eb7L6i4a2S0YsALJiY3Be"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 198421,
       "name": "Migajero",
       "url": "https://open.spotify.com/track/5epbktRwPpLwYz5mnBgNPq"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
-        "name": "Cuando Empec\u00e9",
-        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 197051,
-      "name": "Cuando Empec\u00e9",
-      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -743,6 +727,22 @@
       "duration_ms": 146474,
       "name": "La Soluci\u00f3n",
       "url": "https://open.spotify.com/track/7My7ANjRIKAcoavRGchP25"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Cuando Empec\u00e9",
+        "url": "https://open.spotify.com/album/2vJvbL9xU5fqmYhy28HOVp"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 197051,
+      "name": "Cuando Empec\u00e9",
+      "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
-        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 286218,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Toca Disfrutar",
         "url": "https://open.spotify.com/album/6gYmnDCUV6WIB3JoLTxFoZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 193220,
       "name": "Toca Disfrutar",
       "url": "https://open.spotify.com/track/7HGqMeJcReCpKZlVMwqIST"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
+        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 286218,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/29xqfiJEpdsEbsuuyH1Tde"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        },
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 166338,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4K0te6vi1ugbtcURotuLeU"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Apenas Prend\u00ed El Motor",
         "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 117866,
       "name": "Apenas Prend\u00ed El Motor",
       "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/29xqfiJEpdsEbsuuyH1Tde"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        },
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 166338,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4K0te6vi1ugbtcURotuLeU"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "EL CHAVALON",
-        "url": "https://open.spotify.com/album/6T80qFUIxL19njTbB4iUCw"
-      },
-      "artists": [
-        {
-          "name": "Linea M",
-          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "EL CHAVALON",
-      "url": "https://open.spotify.com/track/070iYUd4a6hmqpLZiikJV3"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "La Reina",
         "url": "https://open.spotify.com/album/13IwsYGj7sAPuWpVVeK2wz"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 178090,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/2qmUxCaT4RjLzaZSyTaWbW"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "EL CHAVALON",
+        "url": "https://open.spotify.com/album/6T80qFUIxL19njTbB4iUCw"
+      },
+      "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "EL CHAVALON",
+      "url": "https://open.spotify.com/track/070iYUd4a6hmqpLZiikJV3"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Seras Mia",
-        "url": "https://open.spotify.com/album/06W0RYfvO5ZVW2DpKOUy2A"
-      },
-      "artists": [
-        {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
-        }
-      ],
-      "duration_ms": 256587,
-      "name": "Seras Mia",
-      "url": "https://open.spotify.com/track/1eYNeNvks6wWxaIKL2mCtf"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "El Consejo",
         "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "C\u00f3mo est\u00e1s t\u00fa",
-        "url": "https://open.spotify.com/album/5CnLsMoKIXFOnT8vcstLBE"
+        "name": "Seras Mia",
+        "url": "https://open.spotify.com/album/06W0RYfvO5ZVW2DpKOUy2A"
       },
       "artists": [
         {
-          "name": "Jorge Morales El Jilguero",
-          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
         }
       ],
-      "duration_ms": 175458,
-      "name": "C\u00f3mo est\u00e1s t\u00fa",
-      "url": "https://open.spotify.com/track/3FGlyZ16PQEdLgcjSNCSGt"
+      "duration_ms": 256587,
+      "name": "Seras Mia",
+      "url": "https://open.spotify.com/track/1eYNeNvks6wWxaIKL2mCtf"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1539,6 +1523,22 @@
       "duration_ms": 156013,
       "name": "De Beso En Cuando",
       "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "C\u00f3mo est\u00e1s t\u00fa",
+        "url": "https://open.spotify.com/album/5CnLsMoKIXFOnT8vcstLBE"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "C\u00f3mo est\u00e1s t\u00fa",
+      "url": "https://open.spotify.com/track/3FGlyZ16PQEdLgcjSNCSGt"
     },
     {
       "added_at": "2026-05-08 06:00:22",

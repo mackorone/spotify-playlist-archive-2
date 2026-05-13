@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 352381,
+  "num_followers": 352563,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAD1DLl5XhRCe0giGPIJLfrU",
+  "snapshot_id": "agEcAAAAAADr8jvXcAKN+B2rIQXD3R8S",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "El Diablo (Tema De La Pel\u00edcula \"El Infierno\")",
+      "url": "https://open.spotify.com/track/5yFBa03KP98kIbOQkD2UeT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mundo De Amor",
         "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
       },
@@ -303,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
+        "name": "Soy Todo Tuyo",
+        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
       },
       "artists": [
         {
@@ -312,9 +328,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 198466,
-      "name": "El Diablo (Tema De La Pel\u00edcula \"El Infierno\")",
-      "url": "https://open.spotify.com/track/5yFBa03KP98kIbOQkD2UeT"
+      "duration_ms": 187373,
+      "name": "Soy Todo Tuyo",
+      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
     },
     {
       "added_at": null,
@@ -335,22 +351,6 @@
       "duration_ms": 227275,
       "name": "Rigo Campos",
       "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Todo Tuyo",
-        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "Soy Todo Tuyo",
-      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 198324,
-      "name": "El Borrego",
-      "url": "https://open.spotify.com/track/7hVGVarDgrC7FCOslZFcAo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 166720,
       "name": "Las Heladas (En Vivo)",
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "El Borrego",
+      "url": "https://open.spotify.com/track/7hVGVarDgrC7FCOslZFcAo"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tucanes De Plata ... Tucanazos Censurados",
-        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 164320,
-      "name": "El Doctor Del Pueblo",
-      "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mas Buscados",
         "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 206280,
       "name": "El Heredero",
       "url": "https://open.spotify.com/track/59YF0TRYWRyS4O3taW5Wuc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tucanes De Plata ... Tucanazos Censurados",
+        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 164320,
+      "name": "El Doctor Del Pueblo",
+      "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 233431,
-      "name": "El Guero Palma",
-      "url": "https://open.spotify.com/track/6p9oaClC7aKEfUPGlvozCM"
+      "duration_ms": 145004,
+      "name": "Carrera Prohibida",
+      "url": "https://open.spotify.com/track/6WOJAgzKbqHxBmYsKqbiW5"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 145004,
-      "name": "Carrera Prohibida",
-      "url": "https://open.spotify.com/track/6WOJAgzKbqHxBmYsKqbiW5"
+      "duration_ms": 233431,
+      "name": "El Guero Palma",
+      "url": "https://open.spotify.com/track/6p9oaClC7aKEfUPGlvozCM"
     },
     {
       "added_at": null,

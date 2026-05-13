@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 49695,
+  "num_followers": 49700,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAADNMionajNu3DhtZO6240zA",
+  "snapshot_id": "agEcAAAAAADgL1v3nIDoTf38GA6gqHVL",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chase This Light",
-        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "Here It Goes",
-      "url": "https://open.spotify.com/track/0BXtDzijBaHpqlBkMOIJFl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 246560,
       "name": "For Me This Is Heaven",
       "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "Here It Goes",
+      "url": "https://open.spotify.com/track/0BXtDzijBaHpqlBkMOIJFl"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "All The Way (Stay)",
-      "url": "https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 242693,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/47yXVjpiJnZB5VxxAL782h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "All The Way (Stay)",
+      "url": "https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 193387,
-      "name": "Delivery",
-      "url": "https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 209640,
       "name": "Blister",
       "url": "https://open.spotify.com/track/1k4SbPrQlJws5oxPvVi6bP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 193387,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 184781,
-      "name": "Surviving",
-      "url": "https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 191796,
       "name": "Crush",
       "url": "https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 184781,
+      "name": "Surviving",
+      "url": "https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 191257,
-      "name": "Criminal Energy",
-      "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 160560,
       "name": "Your New Aesthetic",
       "url": "https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 191257,
+      "name": "Criminal Energy",
+      "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 174343,
-      "name": "Love Never",
-      "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
       },
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static Prevails (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
       "artists": [
         {
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 219906,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/1bCXKWb5TTlhRgdrF3CUzW"
+      "duration_ms": 174343,
+      "name": "Love Never",
+      "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
       "duration_ms": 198506,
       "name": "Heart Is Hard To Find",
       "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Claire",
+      "url": "https://open.spotify.com/track/1bCXKWb5TTlhRgdrF3CUzW"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static Prevails (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "What Would I Say To You Now",
-      "url": "https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Telepath",
         "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 218746,
       "name": "Telepath",
       "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "What Would I Say To You Now",
+      "url": "https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc"
     }
   ],
   "unique_name": "This Is Jimmy Eat World",

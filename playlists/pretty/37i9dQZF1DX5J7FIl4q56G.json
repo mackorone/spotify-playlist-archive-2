@@ -1,6 +1,6 @@
 {
   "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: Black Veil Brides",
-  "num_followers": 791976,
+  "num_followers": 791977,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
@@ -496,12 +496,12 @@
       },
       "artists": [
         {
-          "name": "Nathan James",
-          "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS"
-        },
-        {
           "name": "Jonny Hawkins",
           "url": "https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN"
+        },
+        {
+          "name": "Nathan James",
+          "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS"
         }
       ],
       "duration_ms": 224615,

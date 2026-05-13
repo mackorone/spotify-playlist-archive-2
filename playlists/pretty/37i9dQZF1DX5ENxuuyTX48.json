@@ -1,6 +1,6 @@
 {
   "description": "After all, we are all siblings. Cover: Siti Badriah",
-  "num_followers": 36845,
+  "num_followers": 36853,
   "original_name": "mantap vibes",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,26 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
+        "name": "Alamak",
+        "url": "https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "Adrian Khalif",
+          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Alamak",
+      "url": "https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe"
+    },
+    {
+      "added_at": "2026-05-08 07:52:18",
+      "album": {
         "name": "Kasih Aba Aba",
         "url": "https://open.spotify.com/album/7epsFufhjXWBTRp8i4IkmM"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 176608,
       "name": "Kasih Aba Aba",
       "url": "https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI"
-    },
-    {
-      "added_at": "2026-05-08 07:52:18",
-      "album": {
-        "name": "Alamak",
-        "url": "https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        },
-        {
-          "name": "Adrian Khalif",
-          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Alamak",
-      "url": "https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "Semusim",
-        "url": "https://open.spotify.com/album/2SwklQLPnXVIJIS0ZqIlrL"
+        "name": "Berharap Pada Timur",
+        "url": "https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3"
       },
       "artists": [
         {
-          "name": "Tohpati",
-          "url": "https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN"
-        },
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
         }
       ],
-      "duration_ms": 254900,
-      "name": "Semusim",
-      "url": "https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2"
+      "duration_ms": 221927,
+      "name": "Berharap Pada Timur",
+      "url": "https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1363,18 +1359,22 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "Berharap Pada Timur",
-        "url": "https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3"
+        "name": "Semusim",
+        "url": "https://open.spotify.com/album/2SwklQLPnXVIJIS0ZqIlrL"
       },
       "artists": [
         {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+          "name": "Tohpati",
+          "url": "https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN"
+        },
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
         }
       ],
-      "duration_ms": 221927,
-      "name": "Berharap Pada Timur",
-      "url": "https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN"
+      "duration_ms": 254900,
+      "name": "Semusim",
+      "url": "https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "Jodoh Lebaran",
-        "url": "https://open.spotify.com/album/1hDVBHpc3olc1owvjnqoyX"
+        "name": "Dulu Kita Masih Remaja (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/6JptcIbyDVqXg6ulVCnRz2"
       },
       "artists": [
         {
-          "name": "Aisha Retno",
-          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Jodoh Lebaran",
-      "url": "https://open.spotify.com/track/3BcxLgdfM9wR2cyfMuyHL9"
+      "duration_ms": 181000,
+      "name": "Dulu Kita Masih Remaja - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "Kacamata",
-        "url": "https://open.spotify.com/album/7A28H5rQ3TaREoMvcqJZqP"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 196434,
-      "name": "Kacamata",
-      "url": "https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm"
-    },
-    {
-      "added_at": "2026-05-08 07:52:18",
-      "album": {
         "name": "P Ramlee Saloma",
         "url": "https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN"
       },
@@ -1531,34 +1515,34 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "Dulu Kita Masih Remaja (Original Soundtrack Dilan ITB 1997)",
-        "url": "https://open.spotify.com/album/6JptcIbyDVqXg6ulVCnRz2"
+        "name": "Kacamata",
+        "url": "https://open.spotify.com/album/7A28H5rQ3TaREoMvcqJZqP"
       },
       "artists": [
         {
-          "name": "Ariel NOAH",
-          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Dulu Kita Masih Remaja - Original Soundtrack Dilan ITB 1997",
-      "url": "https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY"
+      "duration_ms": 196434,
+      "name": "Kacamata",
+      "url": "https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm"
     },
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "Sialnya, Hidup Harus Tetap Berjalan",
-        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
+        "name": "Jodoh Lebaran",
+        "url": "https://open.spotify.com/album/1hDVBHpc3olc1owvjnqoyX"
       },
       "artists": [
         {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
         }
       ],
-      "duration_ms": 178976,
-      "name": "Sialnya, Hidup Harus Tetap Berjalan",
-      "url": "https://open.spotify.com/track/7Lm4S2P0MHwBktcdNILLQA"
+      "duration_ms": 192786,
+      "name": "Jodoh Lebaran",
+      "url": "https://open.spotify.com/track/3BcxLgdfM9wR2cyfMuyHL9"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1579,6 +1563,54 @@
       "duration_ms": 206000,
       "name": "Nafas",
       "url": "https://open.spotify.com/track/0HydcejUZ63IGT7ff4Rurs"
+    },
+    {
+      "added_at": "2026-05-08 07:52:18",
+      "album": {
+        "name": "Sialnya, Hidup Harus Tetap Berjalan",
+        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 178976,
+      "name": "Sialnya, Hidup Harus Tetap Berjalan",
+      "url": "https://open.spotify.com/track/7Lm4S2P0MHwBktcdNILLQA"
+    },
+    {
+      "added_at": "2026-05-08 07:52:18",
+      "album": {
+        "name": "iqro'",
+        "url": "https://open.spotify.com/album/3XqIOufqMUKfSTpzuz4ok3"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "duration_ms": 271343,
+      "name": "Menari-nari",
+      "url": "https://open.spotify.com/track/0UZOqGXaMzOSuhgew24neL"
+    },
+    {
+      "added_at": "2026-05-08 07:52:18",
+      "album": {
+        "name": "Mungkin di Depan Buram",
+        "url": "https://open.spotify.com/album/7A2XPc9WgnKN3S4yGUJVLo"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "duration_ms": 157969,
+      "name": "Mungkin di Depan Buram",
+      "url": "https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1611,22 +1643,6 @@
       "duration_ms": 227834,
       "name": "Malapetaka",
       "url": "https://open.spotify.com/track/42elvNonmDWGnpyxBpd9Mu"
-    },
-    {
-      "added_at": "2026-05-08 07:52:18",
-      "album": {
-        "name": "Mungkin di Depan Buram",
-        "url": "https://open.spotify.com/album/7A2XPc9WgnKN3S4yGUJVLo"
-      },
-      "artists": [
-        {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
-        }
-      ],
-      "duration_ms": 157969,
-      "name": "Mungkin di Depan Buram",
-      "url": "https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "iqro'",
-        "url": "https://open.spotify.com/album/3XqIOufqMUKfSTpzuz4ok3"
-      },
-      "artists": [
-        {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
-        }
-      ],
-      "duration_ms": 271343,
-      "name": "Menari-nari",
-      "url": "https://open.spotify.com/track/0UZOqGXaMzOSuhgew24neL"
-    },
-    {
-      "added_at": "2026-05-08 07:52:18",
-      "album": {
         "name": "Sembuh Tanpaku",
         "url": "https://open.spotify.com/album/6AmdOHPpZxhdo4ob7Ehkf6"
       },
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
+        "name": "Pergilah Kasih",
+        "url": "https://open.spotify.com/album/1beyGP8N6Gk25YnbytA3vv"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "duration_ms": 257785,
+      "name": "Pergilah Kasih",
+      "url": "https://open.spotify.com/track/0lMfcdowtnDVtg6hSi1PyI"
+    },
+    {
+      "added_at": "2026-05-08 07:52:18",
+      "album": {
         "name": "Tunggu Apa Lagi",
         "url": "https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 219352,
       "name": "Tunggu Apa Lagi",
       "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
-    },
-    {
-      "added_at": "2026-05-08 07:52:18",
-      "album": {
-        "name": "Bodohnya Aku",
-        "url": "https://open.spotify.com/album/4vVOsn3g5jQup5Kc9FhiQI"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 240875,
-      "name": "Bodohnya Aku",
-      "url": "https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy"
     }
   ],
   "unique_name": "mantap vibes",

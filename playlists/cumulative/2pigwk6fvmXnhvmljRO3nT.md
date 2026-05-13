@@ -4,7 +4,7 @@
 
 > 
 
-8,621 songs - 21 day 23 hr 10 min
+8,623 songs - 21 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1199,6 +1199,7 @@
 | [Check](https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 3:50 | 2025-01-15 |  |
 | [CHEER UP](https://open.spotify.com/track/4CeE0LU1SkHshwHeMfPwqk) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/78YI3q126L1plYhXxn7rUL) | 3:28 | 2026-04-18 |  |
 | [CHEER UP](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [PAGE TWO](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) | 3:28 | 2025-01-15 |  |
+| [Cheerleader](https://open.spotify.com/track/1ggsR5kCepKTW4F64bCFdV) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/7qx3Q51nfQvkEHIREiTRCO) | 3:57 | 2026-05-12 |  |
 | [Cheerleader](https://open.spotify.com/track/5iyuwVaMliMdloOzSBxohv) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy) | 3:57 | 2025-01-15 |  |
 | [Cheers \(feat\. Q\-Tip\)](https://open.spotify.com/track/4qNijbGeHqlcFWrGrATFOX) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 5:34 | 2024-12-05 |  |
 | [Chemical Reaction](https://open.spotify.com/track/6GuyfWHLeQAezV3POp3uiv) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Secrets](https://open.spotify.com/album/3ok2as0GNHEgHvwRe8YZz8) | 4:17 | 2025-01-15 |  |
@@ -4692,6 +4693,7 @@
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2025-01-04 |  |
 | [OMG \(FRNK Remix\)](https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 | 2025-01-06 |  |
 | [on](https://open.spotify.com/track/7HXs149WscOjEmnnfk0NSY) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [Unrest](https://open.spotify.com/album/1peYKUNIuPZk2yeuoYQcNt) | 5:05 | 2025-04-28 |  |
+| [On & On](https://open.spotify.com/track/4uukXoeAUxow3aV9kVkcjY) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/2Ms3svRNQf0jFryjT2HKCQ) | 3:27 | 2026-05-12 |  |
 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 | 2025-04-08 |  |
 | [On & On](https://open.spotify.com/track/6hYCHgEJMiTtVTKhfZTOrH) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Dyemond Lewis](https://open.spotify.com/artist/40UMRUWJQ51oX7skdm10CE) | [B4.DA.$$](https://open.spotify.com/album/2NTIYavFZmU1PCvJvn2USJ) | 4:40 | 2025-01-03 |  |
 | [On a Cherry Blossom Night](https://open.spotify.com/track/2ZBwrKf491fLO9KmndyT8y) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [On a Cherry Blossom Night](https://open.spotify.com/album/3PuW5BFmJ89GHJyfUs9hbQ) | 4:29 | 2024-12-05 |  |

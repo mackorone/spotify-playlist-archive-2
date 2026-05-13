@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Black Veil Brides
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,976 likes - 95 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,977 likes - 95 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 26 | [Never Heaven](https://open.spotify.com/track/4k008eCRkQHZN5zjXKqb5C) | [Advents](https://open.spotify.com/artist/4uRiS36Rkfo2N0QMoBaYes) | [Never Heaven](https://open.spotify.com/album/7CHqYExg3RAJX8qq3hR3GB) | 3:11 |
 | 27 | [Cyanide](https://open.spotify.com/track/5EW6qF1HX0CMNwmrMVTz9G) | [Drop Dead, Gorgeous](https://open.spotify.com/artist/7ib9jRPvGJ6VPCTg35G2L9) | [Cyanide](https://open.spotify.com/album/6qU0sYqX2avZ1Fv5OjWYvt) | 2:56 |
 | 28 | [COME SAY SUM \(feat\. Fred Durst\)](https://open.spotify.com/track/6kixNh6AfOQwcLz3I52r50) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [COME SAY SUM \(feat\. Fred Durst\)](https://open.spotify.com/album/5aCOiw2AOd46DL0WKnPIVU) | 2:26 |
-| 29 | [Power](https://open.spotify.com/track/0souAacIZZ6PPSSyayapSq) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN) | [Power](https://open.spotify.com/album/2SpLH0wo9nyBiEDYMzkOWT) | 3:44 |
+| 29 | [Power](https://open.spotify.com/track/0souAacIZZ6PPSSyayapSq) | [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Power](https://open.spotify.com/album/2SpLH0wo9nyBiEDYMzkOWT) | 3:44 |
 | 30 | [Goodnight](https://open.spotify.com/track/6GnPkQZxse8JIrz8G7zI4V) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Goodnight](https://open.spotify.com/album/4EHga18hgk4gEygwuAaD8q) | 2:36 |
 | 31 | [The Day of Execution](https://open.spotify.com/track/7kwZh75K9zlwYItLmMvt1Y) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [The Day of Execution](https://open.spotify.com/album/6FTrcBqi6MZwGtqbdKzPQW) | 5:12 |
 | 32 | [Beneath the Scythe](https://open.spotify.com/track/4FIUe6szGpTGCaXQHisXr6) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Beneath the Scythe](https://open.spotify.com/album/5JJLReI8HApHrBRwskW102) | 5:55 |

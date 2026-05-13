@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103969,
+  "num_followers": 103963,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABprpjijfkgw0FdwYknJk7Q",
+  "snapshot_id": "agEcAAAAAACCNDcAGmRlAzwRMK9FTlle",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pena Negra",
-        "url": "https://open.spotify.com/album/6sS807A3vu79g6Dkbar92U"
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
       },
       "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Pena Negra",
-      "url": "https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh"
+      "duration_ms": 153994,
+      "name": "No Le Hago Falta",
+      "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
     },
     {
       "added_at": null,
@@ -503,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+        "name": "Pena Negra",
+        "url": "https://open.spotify.com/album/6sS807A3vu79g6Dkbar92U"
       },
       "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 153994,
-      "name": "No Le Hago Falta",
-      "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
+      "duration_ms": 180800,
+      "name": "Pena Negra",
+      "url": "https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Kelela
 
-880 songs - 2 day 2 hr 49 min
+881 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,7 @@
 | [Hallelujah!](https://open.spotify.com/track/7lbPVYxNxuQMdDpC4lwv5n) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Hallelujah!](https://open.spotify.com/album/5X6t1Y5kuS47gJSwfrAEH0) | 2:37 | 2024-08-08 | 2024-09-06 |
 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 | 2025-06-19 | 2025-06-27 |
 | [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 | 2026-04-16 |  |
-| [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 | 2026-03-20 |  |
+| [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 | 2026-03-20 | 2026-05-13 |
 | [Happy People](https://open.spotify.com/track/41wgHYaNAx7QAEaUvmpUBb) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Happy People](https://open.spotify.com/album/7K84PEN3LOZvwIigoIbJpy) | 3:20 | 2025-01-17 | 2025-05-02 |
 | [Happy Survival \(feat\. Khruangbin\)](https://open.spotify.com/track/0Ck3kW2KiRLjMOGiKzW3la) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:23 | 2024-07-18 | 2024-08-09 |
 | [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 3:34 | 2025-12-19 |  |
@@ -483,6 +483,7 @@
 | [lvl 6 \- VIDEO GAMES](https://open.spotify.com/track/4rUzVbdbpROiDvrn6EqMsH) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [lvl 6 \- VIDEO GAMES](https://open.spotify.com/album/4qqSFJ9ylEJoW2PB0vid5I) | 3:39 | 2025-03-14 | 2025-05-09 |
 | [Machine Noise For A Quiet Daydream](https://open.spotify.com/track/10JFarxbsF4XwH9CNYKIx3) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Séamus](https://open.spotify.com/artist/4L9TckXVA6Vpl2CDYCwyUd) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 2:35 | 2025-07-10 | 2025-08-29 |
 | [Made 2 Luv](https://open.spotify.com/track/7en5t6rDhWd40NcifSsZDK) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Made 2 Luv](https://open.spotify.com/album/61FAqGBl3ivf5hqjUSpXxi) | 2:26 | 2025-04-11 | 2025-06-13 |
+| [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 | 2026-05-07 |  |
 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-09-05 | 2024-09-13 |
 | [Maelstrom](https://open.spotify.com/track/6ZsyO1IOY1d5tk1Q5OoqoG) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [And Your Song is Like a Circle](https://open.spotify.com/album/62MKnX9dinEbi3Zz9w6rx8) | 3:33 | 2025-10-16 | 2026-01-30 |
 | [Mafone](https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [Mafone](https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA) | 2:44 | 2024-11-08 | 2025-03-21 |

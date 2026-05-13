@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Winehouse. The essential tracks, all in one playlist.",
-  "num_followers": 1202913,
+  "num_followers": 1202952,
   "original_name": "This Is Amy Winehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAAvwXkUhsOlENj5ZpROvniM",
+  "snapshot_id": "agEcAAAAAABKwJurf8GbtJPKX8rR6QtA",
   "tracks": [
     {
       "added_at": null,
@@ -426,11 +426,15 @@
         {
           "name": "Amy Winehouse",
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 176293,
-      "name": "Best Friends, Right?",
-      "url": "https://open.spotify.com/track/7BizTaPDXSWVi8vdGeFg0W"
+      "duration_ms": 278000,
+      "name": "Like Smoke",
+      "url": "https://open.spotify.com/track/2r45rookK2awLkiOHOef1o"
     },
     {
       "added_at": null,

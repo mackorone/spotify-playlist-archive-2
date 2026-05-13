@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43727,
+  "num_followers": 43731,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAD3y9zYwTRPwDJ97UXdAlOu",
+  "snapshot_id": "agEcAAAAAACTHKsXVZSatPsZp7L5g9B9",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uebe",
+        "url": "https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 160855,
+      "name": "Il tuo profumo",
+      "url": "https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
         "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uebe",
-        "url": "https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un"
-      },
-      "artists": [
-        {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 160855,
-      "name": "Il tuo profumo",
-      "url": "https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ"
     },
     {
       "added_at": null,
@@ -835,30 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 221320,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' La Cultura",
         "url": "https://open.spotify.com/album/3lafienEVOSKlWKwZY1vwu"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 221320,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
     },
     {
       "added_at": null,

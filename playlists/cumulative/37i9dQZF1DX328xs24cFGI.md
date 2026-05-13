@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-530 songs - 1 day 9 hr 33 min
+531 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 4:18 | 2024-04-16 |  |
 | [Happy Ending](https://open.spotify.com/track/3b2BqLB9U3PNdMhcGq8pOR) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Happy Ending](https://open.spotify.com/album/0dSDXhmYL9VjTIj9PMn1ny) | 3:49 | 2023-06-13 | 2023-08-05 |
 | [happy ending](https://open.spotify.com/track/6Ej417VdDyV4NJ9CMyd7pt) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ending](https://open.spotify.com/album/57mtjHY4I31nFLDqiAmrnP) | 3:49 | 2023-06-13 | 2023-06-15 |
+| [Haru Ni Mau](https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Haru Ni Mau](https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn) | 3:58 | 2026-05-12 |  |
 | [Hateshinai Futari](https://open.spotify.com/track/4nIDnd8FurNoauKpwUEg1y) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:42 | 2023-03-28 | 2023-04-04 |
 | [Hateshinai Futari](https://open.spotify.com/track/6leWYHCjGa8xdExUj5DtR1) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hateshinai Futari](https://open.spotify.com/album/5MBxq5TrnTGAsQD77RU5k2) | 4:44 | 2023-03-28 | 2023-04-01 |
 | [Heart](https://open.spotify.com/track/7DDg31QPMt7UBjKkCUG6S9) | [TAIL](https://open.spotify.com/artist/5MdDqXrWH37mpmVqj04VE5) | [Heart](https://open.spotify.com/album/17rbE4ISRCXF6D02qmFVHX) | 3:16 | 2025-01-14 | 2025-01-22 |
@@ -211,7 +212,7 @@
 | [Toki Yo Tomare](https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Toki Yo Tomare](https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP) | 3:08 | 2025-09-02 |  |
 | [TOKIDOKI](https://open.spotify.com/track/3SiUx0t1TvXEYNjRkxsfx7) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [TOKIDOKI](https://open.spotify.com/album/6BnEpQLKLJDwcVz9Wm5WUe) | 3:20 | 2023-06-27 | 2023-08-05 |
 | [tomato](https://open.spotify.com/track/0fvg4lNtdROo83CGCfgyNF) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [tomato](https://open.spotify.com/album/7wRw76TSgb16kQfeGvGtal) | 4:40 | 2025-06-10 | 2025-12-03 |
-| [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 | 2025-08-19 |  |
+| [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 | 2025-08-19 | 2026-05-13 |
 | [True Love](https://open.spotify.com/track/5EqNFRYvdvHo6kfKTB3qgF) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE WINTER MAGIC](https://open.spotify.com/album/7EPhcoQIaHON3W29MMFDpF) | 2:40 | 2025-12-23 | 2025-12-25 |
 | [TRUE LOVE](https://open.spotify.com/track/0wnjaknKCvliLDwsrTiAYz) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [TRUE LOVE](https://open.spotify.com/album/0Vx9lG8jqCsS4lYKnynCO8) | 4:25 | 2025-10-21 | 2026-02-04 |
 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 | 2023-08-04 |  |

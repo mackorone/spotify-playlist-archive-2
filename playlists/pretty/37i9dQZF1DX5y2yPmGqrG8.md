@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Sumérgete en un panorama imaginario de paisajes sonoros atmosféricos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,946 likes - 125 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,949 likes - 125 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 18 | [14Mm](https://open.spotify.com/track/2bjumbwYUXyGmCoUgVORCC) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Long Exposure](https://open.spotify.com/album/1Z3AfcdNKfUDB6BZBT3QRY) | 7:54 |
 | 19 | [Beautiful People](https://open.spotify.com/track/5gEzjKLS1ggO5cULx3eK87) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Under The Sun](https://open.spotify.com/album/39OlksvQLqQOOOctXERwmK) | 6:02 |
 | 20 | [Aqualung, Motherfucker](https://open.spotify.com/track/5rcRRL4g1qDT4P4SVwUgzo) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Undivided Five](https://open.spotify.com/album/3AuhGsh99iTqA57kn3rzvl) | 5:19 |
-| 21 | [Suite Bergamasque: Clair de Lune, No\. 3](https://open.spotify.com/track/7Lcz0kdcDOdt5IVBr4M2Od) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Snowflakes Are Dancing](https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E) | 5:50 |
+| 21 | [Suite Bergamasque: Clair de Lune, No\. 3](https://open.spotify.com/track/7Lcz0kdcDOdt5IVBr4M2Od) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv), [Nathaniel S\. Johnson](https://open.spotify.com/artist/1VsWMkOej4LMPKAhQ6g6kc) | [Snowflakes Are Dancing](https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E) | 5:53 |
 | 22 | [Ode](https://open.spotify.com/track/2ArgGZmSFNHPTDVAlRIqnz) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Solo](https://open.spotify.com/album/7eC6sBSIM2MgWdpywd90iU) | 4:34 |
 | 23 | [Sea\-Watch](https://open.spotify.com/track/343MTAHIcZRw91arzrMeDs) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 4:04 |
 | 24 | [Weightless Memories](https://open.spotify.com/track/3x8ORfjJH2W2xzvyB0LeB9) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE), [Jonas Munk](https://open.spotify.com/artist/6KPFlbSbh1zeN7x9QpgB4O) | [Ulrich Schnauss and Jonas Munk](https://open.spotify.com/album/2Vo9lWtktJ8KjPN5yRSD0V) | 6:15 |

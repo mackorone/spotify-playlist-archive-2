@@ -7352,7 +7352,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 155250,
       "name": "B\u0103ie\u021bi de Ora\u0219 - From \"B\u0103ie\u021bi De Ora\u0219 | Golden Boyz\" The Movie",
       "url": "https://open.spotify.com/track/33XJD6EhI9Od8gFhLsbdGi"
@@ -20411,6 +20411,24 @@
     },
     {
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245837,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -27002,7 +27020,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 182452,
       "name": "Marae",
       "url": "https://open.spotify.com/track/0B0G4rBspOqDL7Ap9pgFm0"
@@ -27064,7 +27082,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 142796,
       "name": "Marimea J-Lo",
       "url": "https://open.spotify.com/track/0JQQukgIdXIP6NzaXsRxVv"
@@ -36336,7 +36354,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 122608,
       "name": "Regele pe reggaeton",
       "url": "https://open.spotify.com/track/6iPBnOlhX2VSN8uVG3UEbo"
@@ -49024,7 +49042,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

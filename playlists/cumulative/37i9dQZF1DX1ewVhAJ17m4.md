@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Koyo
 
-573 songs - 1 day 4 hr 44 min
+574 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [WEST COAST](https://open.spotify.com/track/2QCwIcd7COBkzEmfRvREha) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [WEST COAST](https://open.spotify.com/album/3hOBh1X4dghn0RZO6CsUDL) | 2:48 | 2025-08-07 | 2025-09-13 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-03-22 | 2025-06-23 |
 | [What's Up?](https://open.spotify.com/track/1rCQdw3dnvVexJwu1c7EAL) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [What's Up?](https://open.spotify.com/album/471qHpHrvs92sYyQgPHLYz) | 2:21 | 2021-12-20 | 2023-04-01 |
+| [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 | 2026-05-09 |  |
 | [When I'm Dead](https://open.spotify.com/track/1Zpe97i8SK2dPGA0yaJsIm) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [When I'm Dead](https://open.spotify.com/album/4u99JawFy9aht4HCD6FKak) | 3:04 | 2025-02-21 | 2025-05-16 |
 | [When I'm Feeling Down](https://open.spotify.com/track/1ZbZdWuSMWDTmC3vc8pc8i) | [Beauty School](https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6) | [When I'm Feeling Down](https://open.spotify.com/album/4cIjgy8xbxeDwnOLcFCdur) | 3:20 | 2025-05-15 | 2026-02-21 |
 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 | 2022-10-13 | 2024-11-19 |
@@ -574,7 +575,7 @@
 | [Worthy](https://open.spotify.com/track/6UcydD46iXzyCpoJYeM8tG) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Worthy](https://open.spotify.com/album/3v9dyqvNaLL57rqIJQ0qvO) | 3:11 | 2025-05-23 |  |
 | [Wrist](https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Wrist](https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD) | 3:22 | 2026-05-09 |  |
 | [X’s For Eyes](https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X's For Eyes](https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt) | 2:56 | 2025-08-07 | 2025-11-11 |
-| [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 | 2023-10-19 |  |
+| [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 | 2023-10-19 | 2026-05-13 |
 | [You Broke Me Too \(feat\. Avril Lavigne\)](https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:07 | 2025-10-10 |  |
 | [You Know Who the Fuck We Are](https://open.spotify.com/track/0kqqFUL05VFt3D99tlNPJp) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [You Know Who the Fuck We Are](https://open.spotify.com/album/0GXkkVCZdlq6oYxGTVeZqO) | 3:05 | 2025-08-07 | 2025-09-13 |
 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 | 2023-05-18 | 2023-07-07 |

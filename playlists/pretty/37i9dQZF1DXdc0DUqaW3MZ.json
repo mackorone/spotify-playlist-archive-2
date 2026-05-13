@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 375875,
+  "num_followers": 375900,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Not Enough",
-        "url": "https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Haile Supreme",
-          "url": "https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R"
-        }
-      ],
-      "duration_ms": 222534,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD"
       },
@@ -575,6 +555,26 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Haile Supreme",
+          "url": "https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R"
+        }
+      ],
+      "duration_ms": 222534,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
         "name": "Static on My Tongue",
         "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 179538,
       "name": "Static on My Tongue",
       "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
-        "name": "Curses Broken",
-        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
-      },
-      "artists": [
-        {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        }
-      ],
-      "duration_ms": 277838,
-      "name": "Better Let It Go",
-      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -623,22 +607,18 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+        "name": "Curses Broken",
+        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
         }
       ],
-      "duration_ms": 134714,
-      "name": "Still (feat. Charlotte Day Wilson)",
-      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
+      "duration_ms": 277838,
+      "name": "Better Let It Go",
+      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -663,6 +643,26 @@
       "duration_ms": 193032,
       "name": "Salve",
       "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 134714,
+      "name": "Still (feat. Charlotte Day Wilson)",
+      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 174562,
-      "name": "More Than A Little Bit (feat. Tinashe)",
-      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 284573,
       "name": "Impact (feat. Robyn & Channel Tres)",
       "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 174562,
+      "name": "More Than A Little Bit (feat. Tinashe)",
+      "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -987,6 +987,26 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
+        "name": "Promises (feat. Rochelle Jordan)",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Promises (feat. Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
         "name": "This World Of Mine",
         "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 186691,
       "name": "This World Of Mine",
       "url": "https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
-        "name": "Promises (feat. Rochelle Jordan)",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises (feat. Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Strike a Pose (feat. Camille Munn)",
-        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
-      },
-      "artists": [
-        {
-          "name": "IZCO",
-          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
-        },
-        {
-          "name": "Camille Munn",
-          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
-        }
-      ],
-      "duration_ms": 186604,
-      "name": "Strike a Pose (feat. Camille Munn)",
-      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/1EMYcLuml95vQGCoAbb4aC"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 200107,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/6E1wMj9RapVx9yVajUPctG"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "Strike a Pose (feat. Camille Munn)",
+        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
+      },
+      "artists": [
+        {
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+        },
+        {
+          "name": "Camille Munn",
+          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
+        }
+      ],
+      "duration_ms": 186604,
+      "name": "Strike a Pose (feat. Camille Munn)",
+      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Sa\u00efna",
-          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
-        }
-      ],
-      "duration_ms": 154735,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Sa\u00efna",
+          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
+        }
+      ],
+      "duration_ms": 154735,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "We Just Got Started",
-        "url": "https://open.spotify.com/album/4UwnE6qGrzqSfs4ZKO6chL"
-      },
-      "artists": [
-        {
-          "name": "Krafty Kuts",
-          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 224714,
-      "name": "We Just Got Started",
-      "url": "https://open.spotify.com/track/068oUeiG85BIf78eMv45Sn"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "DUN DI DUN",
         "url": "https://open.spotify.com/album/6yiQLSFVe8zT2NtvPBedUd"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 162439,
       "name": "DUN DI DUN",
       "url": "https://open.spotify.com/track/3Z9nSzxrucQVMXS8cfOYzr"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "We Just Got Started",
+        "url": "https://open.spotify.com/album/4UwnE6qGrzqSfs4ZKO6chL"
+      },
+      "artists": [
+        {
+          "name": "Krafty Kuts",
+          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+        },
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 224714,
+      "name": "We Just Got Started",
+      "url": "https://open.spotify.com/track/068oUeiG85BIf78eMv45Sn"
     },
     {
       "added_at": "2026-05-07 13:54:31",

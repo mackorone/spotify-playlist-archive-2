@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAAtLeMHQykY+fhN8fXkVO13",
+  "snapshot_id": "agEcAAAAAABUKyNA1Q/ohPw+Y45iHB10",
   "tracks": [
     {
       "added_at": null,
@@ -420,15 +420,15 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 211253,
-      "name": "The Old School Way",
-      "url": "https://open.spotify.com/track/5F4VAqLivojMqr9mn9ORBk"
+      "duration_ms": 257838,
+      "name": "Wave Form",
+      "url": "https://open.spotify.com/track/5FjFC56lrbiHcO3aE3nG5T"
     },
     {
       "added_at": null,
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS"
+        "name": "What You Get",
+        "url": "https://open.spotify.com/album/12mMk1LYNxZ80S7notPNHr"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 272066,
-      "name": "Cerebra",
-      "url": "https://open.spotify.com/track/6dFkhKuX87DaF1W27RmIeD"
+      "duration_ms": 188893,
+      "name": "Don't Forget",
+      "url": "https://open.spotify.com/track/0SVuU8e4VVa4TewIiy2szE"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You Get",
-        "url": "https://open.spotify.com/album/12mMk1LYNxZ80S7notPNHr"
+        "name": "One",
+        "url": "https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 188893,
-      "name": "Don't Forget",
-      "url": "https://open.spotify.com/track/0SVuU8e4VVa4TewIiy2szE"
+      "duration_ms": 272066,
+      "name": "Cerebra",
+      "url": "https://open.spotify.com/track/6dFkhKuX87DaF1W27RmIeD"
     },
     {
       "added_at": null,

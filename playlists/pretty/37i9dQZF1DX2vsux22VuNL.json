@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 291077,
+  "num_followers": 291080,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,26 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
+        "name": "Para todas as mulheres que j\u00e1 rimei Pt. 2",
+        "url": "https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 186486,
+      "name": "Quem sabe?",
+      "url": "https://open.spotify.com/track/5HPvLVF78LE2OD8fboFDo1"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
         "name": "Sempre Que Me V\u00ea",
         "url": "https://open.spotify.com/album/0gjyJm3JIFWXueTBg318dI"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 211764,
       "name": "Sempre Que Me V\u00ea",
       "url": "https://open.spotify.com/track/486dXyOiD0WKfEtSzUEWuj"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
-        "name": "Para todas as mulheres que j\u00e1 rimei Pt. 2",
-        "url": "https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 186486,
-      "name": "Quem sabe?",
-      "url": "https://open.spotify.com/track/5HPvLVF78LE2OD8fboFDo1"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -667,6 +667,26 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
+        "name": "Ele Me Falou",
+        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Ele Me Falou",
+      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
         "name": "T\u00c1 FELIZ?!",
         "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 191093,
       "name": "SAMBA DE CRIA",
       "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
-        "name": "Ele Me Falou",
-        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Ele Me Falou",
-      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
     },
     {
       "added_at": "2026-02-23 14:14:13",

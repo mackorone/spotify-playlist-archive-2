@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K6ZzA.md) - [plain]
 
 > This is sombr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,805 likes - 32 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,930 likes - 32 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K6ZzA.md) - [plain]
 | 16 | [never find u](https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [never find u](https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG) | 2:46 |
 | 17 | [ivy](https://open.spotify.com/track/4FViqA2oyyONDAvTs16Lvd) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in another life](https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R) | 4:07 |
 | 18 | [willow](https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [willow](https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv) | 3:32 |
-| 19 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 |
+| 19 | [crushing](https://open.spotify.com/track/2pQoErkcTbLdQLnUtMYvuZ) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:27 |
 | 20 | [i'll remember tonight](https://open.spotify.com/track/06IdOdSeh4nnIgH3btVa7j) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [i'll remember tonight](https://open.spotify.com/album/6u6DZ9erldiL0ITDgqbFdl) | 3:57 |
 | 21 | [you're so pretty](https://open.spotify.com/track/47blJgUlDKV0g1lBBQAO1y) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in another life](https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R) | 3:46 |
 | 22 | [nothing left to say](https://open.spotify.com/track/5wHxolLhv57y3eGKtndvwE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [nothing left to say](https://open.spotify.com/album/5Tm8qe8ULxBORiRswEbuNU) | 3:40 |
-| 23 | [crushing](https://open.spotify.com/track/2pQoErkcTbLdQLnUtMYvuZ) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:27 |
+| 23 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 |
 | 24 | [through it all](https://open.spotify.com/track/6JHe836Jxc4Uilqe7fR5zJ) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [through it all](https://open.spotify.com/album/721nbCDpYtdceidRoJAOki) | 3:30 |
 | 25 | [burner phone](https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in another life](https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R) | 3:51 |
 | 26 | [silhouette](https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [silhouette](https://open.spotify.com/album/3oIahIvFl1nQjfzoJrdP7Y) | 4:16 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K6ZzA.md) - [plain]
 | 31 | [weak](https://open.spotify.com/track/1ofVfjaqv1taQ7xsmcYjZc) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [weak](https://open.spotify.com/album/7jCutVKlyZ5UFD9MB96pra) | 3:56 |
 | 32 | [why are we like this](https://open.spotify.com/track/7D5f7W4CYGBrqXBF1jDyqR) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in another life](https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R) | 2:34 |
 
-Snapshot ID: `af/KgAAAAAD3MwcAfxcdauRAJoRMglrv`
+Snapshot ID: `agEcAAAAAACedPzHnKKbRjpjG1n0mHd5`

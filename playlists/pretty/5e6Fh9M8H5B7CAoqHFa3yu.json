@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 318,
+  "num_followers": 319,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJlMgbWlQgRZL0iEyLk3IGmxoWNVcY",
+  "snapshot_id": "AAAJlaw1Xu+Ehsu0DaCY27Dh6PqzaRzW",
   "tracks": [
     {
       "added_at": "2026-04-28 22:21:45",
@@ -38791,6 +38791,22 @@
       "duration_ms": 122116,
       "name": "Justin",
       "url": "https://open.spotify.com/track/2Sz2PJ4WHrJXlHstvPiGjS"
+    },
+    {
+      "added_at": "2026-05-12 22:44:44",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/22Pfw2Cr7UHCJdmEizej8V"
+      },
+      "artists": [
+        {
+          "name": "N\u00a3GRA",
+          "url": "https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW"
+        }
+      ],
+      "duration_ms": 142245,
+      "name": "Disorder",
+      "url": "https://open.spotify.com/track/76sKVlV9JbKDXWSanOBzkd"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

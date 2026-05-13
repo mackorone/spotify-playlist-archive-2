@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16086,
+  "num_followers": 16084,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAAvnsSBkeg9TLm3bGKbYKzN",
+  "snapshot_id": "agEcAAAAAADrKwamFVaQr/Qx1SFEbDoo",
   "tracks": [
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buy What U Want",
-        "url": "https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h"
-      },
-      "artists": [
-        {
-          "name": "Black Fortune",
-          "url": "https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 227669,
-      "name": "Buy What U Want",
-      "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Savage (feat. BIA)",
         "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 164131,
       "name": "Savage (feat. BIA)",
       "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buy What U Want",
+        "url": "https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h"
+      },
+      "artists": [
+        {
+          "name": "Black Fortune",
+          "url": "https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 227669,
+      "name": "Buy What U Want",
+      "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
     },
     {
       "added_at": null,

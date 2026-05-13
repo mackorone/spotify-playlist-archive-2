@@ -140,14 +140,22 @@
       },
       "artists": [
         {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
           "name": "Isao Tomita",
           "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
+        },
+        {
+          "name": "Nathaniel S. Johnson",
+          "url": "https://open.spotify.com/artist/1VsWMkOej4LMPKAhQ6g6kc"
         }
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 239600,
+      "duration_ms": 243426,
       "name": "Arabesque No. 1",
       "url": "https://open.spotify.com/track/44E9fWdAOFcxXLctkQZMt7"
     },
@@ -2490,6 +2498,10 @@
       },
       "artists": [
         {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
           "name": "Isao Tomita",
           "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
         }
@@ -2497,7 +2509,7 @@
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 613800,
+      "duration_ms": 618626,
       "name": "Prelude to the Afternoon of a Faun",
       "url": "https://open.spotify.com/track/49PTfrUJSYFFBIdaEXcwyJ"
     },
@@ -2816,14 +2828,22 @@
       },
       "artists": [
         {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
           "name": "Isao Tomita",
           "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
+        },
+        {
+          "name": "Nathaniel S. Johnson",
+          "url": "https://open.spotify.com/artist/1VsWMkOej4LMPKAhQ6g6kc"
         }
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 350000,
+      "duration_ms": 353600,
       "name": "Suite Bergamasque: Clair de Lune, No. 3",
       "url": "https://open.spotify.com/track/7Lcz0kdcDOdt5IVBr4M2Od"
     },
@@ -2834,6 +2854,10 @@
       },
       "artists": [
         {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
           "name": "Isao Tomita",
           "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
         }
@@ -2841,8 +2865,8 @@
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 199426,
-      "name": "Suite bergamasque: No. 4: Passepied",
+      "duration_ms": 203200,
+      "name": "Suite bergamasque: Passepied",
       "url": "https://open.spotify.com/track/6V7sNMVFArM2DLteFLiPPg"
     },
     {

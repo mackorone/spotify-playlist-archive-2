@@ -4415,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "scuba diving",
+        "url": "https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT"
+      },
+      "artists": [
+        {
+          "name": "Quanzo",
+          "url": "https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "scuba diving",
+      "url": "https://open.spotify.com/track/4vHtTlW8yvweqJxTvJwtsf"
+    },
+    {
+      "album": {
         "name": "A Bedroom of One's Own",
         "url": "https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb"
       },
@@ -5886,6 +5904,24 @@
       "duration_ms": 165283,
       "name": "Yoohoo",
       "url": "https://open.spotify.com/track/1czNiios6D4whvN5oXkek7"
+    },
+    {
+      "album": {
+        "name": "you call it love, i call it lie",
+        "url": "https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR"
+      },
+      "artists": [
+        {
+          "name": "CClaire \u99ac\u6137\u4f36",
+          "url": "https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182771,
+      "name": "you call it love, i call it lie",
+      "url": "https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA"
     },
     {
       "album": {

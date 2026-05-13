@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 254506,
       "name": "Metal Postcard (Mittageisen)",
       "url": "https://open.spotify.com/track/58JjV3gddrK1BLNsz5Qzez"
@@ -794,6 +794,24 @@
       "duration_ms": 244360,
       "name": "Swimming Horses",
       "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
+    },
+    {
+      "album": {
+        "name": "The Rapture (Remastered / Expanded)",
+        "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "Tearing Apart",
+      "url": "https://open.spotify.com/track/5An31c59INXWcKImST7vgX"
     },
     {
       "album": {

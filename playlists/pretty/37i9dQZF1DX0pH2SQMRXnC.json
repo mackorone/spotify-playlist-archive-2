@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1539475,
+  "num_followers": 1539626,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Rave Mozart",
-        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Rave Mozart",
-      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
         "name": "It Will Be OK",
         "url": "https://open.spotify.com/album/0DaQqq24cESLXFjyt4kMfv"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 207750,
       "name": "It Will Be OK",
       "url": "https://open.spotify.com/track/6CtHeORCTBgceaxVrWKgm0"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "Rave Mozart",
+        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Rave Mozart",
+      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -983,30 +983,6 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Special D.",
-          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
-        }
-      ],
-      "duration_ms": 161589,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
         "name": "Be Somebody",
         "url": "https://open.spotify.com/album/0mRAOZAX50yiKFMXA1LNnP"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 165744,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/5NZqHX364zHsyiKf1Lo4BZ"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Special D.",
+          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
+        }
+      ],
+      "duration_ms": 161589,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
+      },
+      "artists": [
+        {
+          "name": "Frequencerz",
+          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
         "name": "Can Can",
         "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
-        "name": "The Unknown",
-        "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
-      },
-      "artists": [
-        {
-          "name": "Frequencerz",
-          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -1587,6 +1587,30 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
+        "name": "Miss You (Remix)",
+        "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        },
+        {
+          "name": "Dionysus",
+          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Miss You - Remix",
+      "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA"
       },
@@ -1623,30 +1647,6 @@
       "duration_ms": 116250,
       "name": "DON'T SLEEP",
       "url": "https://open.spotify.com/track/2ftrEmzMbleD2rMmAAI6vh"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
-        "name": "Miss You (Remix)",
-        "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Yosuf",
-          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
-        },
-        {
-          "name": "Dionysus",
-          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Miss You - Remix",
-      "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 181787,
-      "name": "Boom Boom Boom",
-      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
         "name": "HEAR THIZ MF",
         "url": "https://open.spotify.com/album/03OA9l45Pee4ix15dXhtxX"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 143264,
       "name": "HEAR THIZ MF",
       "url": "https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 181787,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 174967,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/2tcKKWhpEpA5v6R4toUIB1"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/61FDBTmciFHAX2N7qkezim"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2387,26 +2387,22 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Blow Ya Mind",
-        "url": "https://open.spotify.com/album/6WyKSr06KqwjYGYgLHIXzk"
+        "name": "Blow Up The Speakers (Again)",
+        "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
       },
       "artists": [
         {
-          "name": "Lock 'N Load",
-          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
         },
         {
-          "name": "Ruthless",
-          "url": "https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F"
-        },
-        {
-          "name": "Potato",
-          "url": "https://open.spotify.com/artist/6qMNbZcFG1ibrUM4QhUsQV"
+          "name": "The Moon",
+          "url": "https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC"
         }
       ],
-      "duration_ms": 167994,
-      "name": "Blow Ya Mind",
-      "url": "https://open.spotify.com/track/1IkE1saSXrs3IgDnlZeX3M"
+      "duration_ms": 208657,
+      "name": "Blow Up The Speakers (Again)",
+      "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2427,22 +2423,26 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Blow Up The Speakers (Again)",
-        "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
+        "name": "Blow Ya Mind",
+        "url": "https://open.spotify.com/album/6WyKSr06KqwjYGYgLHIXzk"
       },
       "artists": [
         {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+          "name": "Lock 'N Load",
+          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
         },
         {
-          "name": "The Moon",
-          "url": "https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC"
+          "name": "Ruthless",
+          "url": "https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F"
+        },
+        {
+          "name": "Potato",
+          "url": "https://open.spotify.com/artist/6qMNbZcFG1ibrUM4QhUsQV"
         }
       ],
-      "duration_ms": 208657,
-      "name": "Blow Up The Speakers (Again)",
-      "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
+      "duration_ms": 167994,
+      "name": "Blow Ya Mind",
+      "url": "https://open.spotify.com/track/1IkE1saSXrs3IgDnlZeX3M"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2483,6 +2483,22 @@
       "duration_ms": 128250,
       "name": "Japan",
       "url": "https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2531,18 +2547,18 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+        "name": "Euphoria (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
       },
       "artists": [
         {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
         }
       ],
-      "duration_ms": 210580,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
+      "duration_ms": 214546,
+      "name": "Euphoria - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2563,22 +2579,6 @@
       "duration_ms": 170253,
       "name": "Nothing Ever Feels The Same",
       "url": "https://open.spotify.com/track/0YsHLOlwB1BcnMPmcXBDgF"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
-        "name": "Euphoria (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
-      },
-      "artists": [
-        {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Euphoria - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2675,30 +2675,6 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Mona Lisa (All That She Wants)",
-        "url": "https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9"
-      },
-      "artists": [
-        {
-          "name": "Jordiz",
-          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
-        },
-        {
-          "name": "Stephen Oaks",
-          "url": "https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 205028,
-      "name": "Mona Lisa (All That She Wants)",
-      "url": "https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4Ju6Z1k6wAgqwb46FM1y7B"
       },
@@ -2719,6 +2695,30 @@
       "duration_ms": 244507,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/2QcRNDG4fnBb7rjbfN4jd1"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "Mona Lisa (All That She Wants)",
+        "url": "https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "Stephen Oaks",
+          "url": "https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 205028,
+      "name": "Mona Lisa (All That She Wants)",
+      "url": "https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -3019,22 +3019,22 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Body Move",
-        "url": "https://open.spotify.com/album/0P5w4jlC0azTCXjNfC4OFj"
+        "name": "Cambodia",
+        "url": "https://open.spotify.com/album/61luiakkDLCHhVZPFq50CT"
       },
       "artists": [
         {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "TwinTigerz",
-          "url": "https://open.spotify.com/artist/0pEKh68H0lmNrnAwV2aU4B"
+          "name": "Vorwerk",
+          "url": "https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC"
         }
       ],
-      "duration_ms": 229548,
-      "name": "Body Move",
-      "url": "https://open.spotify.com/track/7oqIwI5vvNXUjnt8EZHVrh"
+      "duration_ms": 166874,
+      "name": "Cambodia",
+      "url": "https://open.spotify.com/track/4la0X6BxxFkKI7lFFMx4s4"
     }
   ],
   "unique_name": "Hardstyle Bangers",

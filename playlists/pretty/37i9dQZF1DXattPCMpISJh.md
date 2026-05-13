@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Dabeull
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,439 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,498 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shadow Of Your Smile](https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb) | [Shadow Of Your Smile](https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl) | 3:46 |
+| 1 | [Shadow Of Your Smile](https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Rude Jude](https://open.spotify.com/artist/0ej7iy4pJCCFKh4wo8Cycf) | [Shadow Of Your Smile](https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl) | 3:46 |
 | 2 | [Rhythm Unknown](https://open.spotify.com/track/1WeM5XntFJnLceZ7RVAcgo) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Rhythm Unknown](https://open.spotify.com/album/6t4d4ZN2JjuEzWgmg3b3yK) | 3:00 |
 | 3 | [Easy Love](https://open.spotify.com/track/5Mm9eOexQgDBt3Kzyg6BPP) | [BowAsWell](https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe) | [Easy Love](https://open.spotify.com/album/1JfbKBCGJHhS5pH3LAzWIC) | 2:26 |
 | 4 | [Bad Girls](https://open.spotify.com/track/0Wgjmt7RIQYdRFh5bViTdA) | [Baccus](https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW) | [Bad Girls](https://open.spotify.com/album/2GSzcW6NFA9XUpMqLqpZUy) | 3:00 |

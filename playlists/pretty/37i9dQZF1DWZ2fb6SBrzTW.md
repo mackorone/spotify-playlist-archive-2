@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,830 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,847 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 54 | [Hi Hi](https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Hi Hi](https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt) | 2:15 |
 | 55 | [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 |
 | 56 | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg) | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 |
-| 57 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
-| 58 | [Saba Julukisa \(feat\. Mfana Kah Gogo & Spux\)](https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7) | [Dj Karri](https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1), [Deep Saints](https://open.spotify.com/artist/0lXcTk3qlOxdzoj2cGoseW), [Mfana Kah Gogo](https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1), [Spux](https://open.spotify.com/artist/0ZxrcCOIeckPgTMHT8feXG) | [Saba Julukisa \(feat\. Mfana Kah Gogo & Spux\)](https://open.spotify.com/album/7n1TxSwhsdR6p10jptrKhL) | 6:06 |
+| 57 | [Saba Julukisa \(feat\. Mfana Kah Gogo & Spux\)](https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7) | [Dj Karri](https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1), [Deep Saints](https://open.spotify.com/artist/0lXcTk3qlOxdzoj2cGoseW), [Mfana Kah Gogo](https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1), [Spux](https://open.spotify.com/artist/0ZxrcCOIeckPgTMHT8feXG) | [Saba Julukisa \(feat\. Mfana Kah Gogo & Spux\)](https://open.spotify.com/album/7n1TxSwhsdR6p10jptrKhL) | 6:06 |
+| 58 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
 | 59 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 | 60 | [Jujupiano](https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Richiemusic](https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG) | [Jujupiano La Presido](https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg) | 2:09 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269836,
+  "num_followers": 269840,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACxN8acV5XFoThR4qPWKoEt",
+  "snapshot_id": "agEcAAAAAABYtgiRJgrLKx5etoC3qeE0",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 222882,
-      "name": "Abra\u00e7a-me - Live 2020",
-      "url": "https://open.spotify.com/track/4o5WmT5T3jZl6EA3L4W8Wf"
+      "duration_ms": 384870,
+      "name": "A Ele a Gl\u00f3ria / Porque Ele vive - Live 2020",
+      "url": "https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs"
     },
     {
       "added_at": null,
@@ -455,6 +455,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ecoar",
+        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 230719,
+      "name": "O Mover do Esp\u00edrito (Quero que Valorize)",
+      "url": "https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juntos Em Adora\u00e7\u00e3o (Live 2020)",
+        "url": "https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 222882,
+      "name": "Abra\u00e7a-me - Live 2020",
+      "url": "https://open.spotify.com/track/4o5WmT5T3jZl6EA3L4W8Wf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
       },
@@ -471,38 +503,6 @@
       "duration_ms": 374986,
       "name": "Nada Al\u00e9m de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juntos Em Adora\u00e7\u00e3o (Live 2020)",
-        "url": "https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 384870,
-      "name": "A Ele a Gl\u00f3ria / Porque Ele vive - Live 2020",
-      "url": "https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ecoar",
-        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 230719,
-      "name": "O Mover do Esp\u00edrito (Quero que Valorize)",
-      "url": "https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 520935,
+      "name": "Meu Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4CBrbzhvuka2a3gZOm48E8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 473955,
       "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 520935,
-      "name": "Meu Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4CBrbzhvuka2a3gZOm48E8"
     },
     {
       "added_at": null,

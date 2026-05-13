@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-483 songs - 1 day 5 hr 51 min
+485 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-11-11 | 2025-12-12 |
 | [Aquella noche de Octubre](https://open.spotify.com/track/6sGco2VaRvibMnWPYKLxJM) | [Zian Ka'an](https://open.spotify.com/artist/3CAsPodiK0nPyiIYhkceeW) | [Aquella noche de Octubre](https://open.spotify.com/album/1BZrrJGChOtoUQb2h0jbJm) | 2:54 | 2025-11-04 | 2025-12-12 |
 | [ARE YOU BORED?](https://open.spotify.com/track/74MrNmVQMrv5fjn8Ugkhcg) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [ARE YOU BORED?](https://open.spotify.com/album/3ZhFoJsxuJSHowxyPn2TVp) | 3:33 | 2025-10-27 | 2025-11-22 |
+| [Artificial Intelligence](https://open.spotify.com/track/4Q4dia1Ln26H29TrcsyuBY) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Artificial Intelligence](https://open.spotify.com/album/0qEV9qVrOfS2HtWSXNBpJS) | 3:02 | 2026-05-12 |  |
 | [Ashes](https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Ashes](https://open.spotify.com/album/3sG4UIFpkZKghgMzSmh0x1) | 3:33 | 2025-11-20 |  |
 | [Ashes in the wind](https://open.spotify.com/track/7gNFVnnMn7aWYhuZP39OBY) | [Alexis Da Rosa](https://open.spotify.com/artist/4wnSCrGwzRBlUpFnFctHAL) | [Ashes in the wind](https://open.spotify.com/album/7frKrYvBpn45Pkt0lrQ7Uz) | 3:07 | 2025-12-22 | 2026-01-21 |
 | [Audio Garden](https://open.spotify.com/track/0Eht5ezV1mVtrpiBlOgblJ) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Immortal](https://open.spotify.com/album/1Bww8qOOKesIVb0V0njtwe) | 4:07 | 2025-11-11 | 2025-12-12 |
@@ -303,6 +304,7 @@
 | [Pear Tree](https://open.spotify.com/track/7DzSWxZSWw1s9DtD9PIxNn) | [Latvija](https://open.spotify.com/artist/4Zy2ssMFKgmYzpaGVJ4j2R) | [Pear Tree](https://open.spotify.com/album/5tvAeyesEagq1JOtZoDlRr) | 3:10 | 2026-02-04 | 2026-02-23 |
 | [Perilous Crests](https://open.spotify.com/track/0SjeRsyPzUfOWQgEfbtnNO) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Perilous Crests](https://open.spotify.com/album/664kp9PX6QSxOuCuP0lvS1) | 3:47 | 2026-01-24 | 2026-02-23 |
 | [Perspectives](https://open.spotify.com/track/4E5vUYWAQPmRHDbVZriqt1) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:19 | 2026-04-30 |  |
+| [Pizza Feet](https://open.spotify.com/track/2lGhyNxLY05052wtN66sfK) | [Giant DeNiro](https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY) | [Pizza Feet](https://open.spotify.com/album/6wQj0bkUwhOl3YV3pzRWTa) | 4:35 | 2026-05-12 |  |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 | 2025-12-12 |
 | [Playing God](https://open.spotify.com/track/58MmPniM5FnH9c1WfeTzdO) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Playing God](https://open.spotify.com/album/2ZxXf7pkmshkpbMgHSfQnv) | 3:40 | 2025-11-04 | 2025-12-12 |
 | [Plummeting](https://open.spotify.com/track/7mIYYO8ISbtuPahooGa6ha) | [Moviegoer](https://open.spotify.com/artist/3SjWkSiIhsJDqU05WfrUJG) | [Plummeting](https://open.spotify.com/album/0GQqX233VMGh74rhPJcdVz) | 2:39 | 2025-12-20 | 2026-01-21 |

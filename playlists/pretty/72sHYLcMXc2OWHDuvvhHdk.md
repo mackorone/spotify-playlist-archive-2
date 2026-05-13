@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 569 likes - 2,631 songs - 6 day 9 hr 20 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 569 likes - 2,648 songs - 6 day 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2639,5 +2639,22 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2629 | [Waiting for the wolf](https://open.spotify.com/track/7dTPTFriLh1IFWvc18nZyp) | [Gopal Martin](https://open.spotify.com/artist/11EPUXkIepKcr9ThxGY4EV) | [basscontact volume 2](https://open.spotify.com/album/3mvcybYNmUMjiksY3UDxtD) | 3:42 |
 | 2630 | [Esto no es un cuento](https://open.spotify.com/track/5cRxFWd9jzAp7Z9XxGL9Ai) | [Reina Cruda](https://open.spotify.com/artist/3iHQ05Da99Bi0pNSzJaRV2) | [Esto no es un cuento](https://open.spotify.com/album/4hfn831mOUQrEeRcL0OS5T) | 2:50 |
 | 2631 | [Yin:Yang](https://open.spotify.com/track/4B0UCLlMIrItb7b4snndYW) | [southpaw](https://open.spotify.com/artist/57X6NKq2ZyeJAIlAlNRItD), [Era 51](https://open.spotify.com/artist/3vxacLf1tP9PILySz0wgY0) | [Don't Run From the Rain](https://open.spotify.com/album/4UQlvsO5uEIr7qhr0fxsPg) | 2:26 |
+| 2632 | [That's Cool](https://open.spotify.com/track/2k7SrfAazc3aXOSGcBT66L) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [That's Cool](https://open.spotify.com/album/7aPGxG33vGIZrTO3YQ5xQb) | 3:46 |
+| 2633 | [The Will Of Dreams](https://open.spotify.com/track/7o3R04NSsn7ve58s1UJIvG) | [Chuck Mullen](https://open.spotify.com/artist/341qXStb1CSIdiK1Mn8sWO) | [The Will Of Dreams](https://open.spotify.com/album/2hPSjnGGbW0FgLSfOyp1Rx) | 3:54 |
+| 2634 | [Roots](https://open.spotify.com/track/5bmOxntRAOmhvC3TLbgpq2) | [Patros15](https://open.spotify.com/artist/2NQF0HhnnOptRqkLitCkbz), [ish10 yow1r0](https://open.spotify.com/artist/5q05ynhYfxXArRzUi6WZe0) | [Roots](https://open.spotify.com/album/7GYHWuWwjRxNWC0Ojd54s2) | 2:58 |
+| 2635 | [Head Over Heels](https://open.spotify.com/track/3hdTlslJ0uVmJts1ttjU60) | [Scott Baker Graham](https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA), [Pain in the Yeahs](https://open.spotify.com/artist/2h3u3wJ0xRr93FoibwB3hd) | [Head Over Heels](https://open.spotify.com/album/3Je6Ewp88CXTf01RLqq9PM) | 3:44 |
+| 2636 | [Misfits Rejoice](https://open.spotify.com/track/1T08MkKOgNuqMHg3nDjsnU) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [Misfits Rejoice](https://open.spotify.com/album/1mVKv1gmUXXFLxBZgViTDe) | 2:34 |
+| 2637 | [On the Road notturno](https://open.spotify.com/track/0VmapjDWG1RxRAAZXAUqQq) | [Manuel Marino](https://open.spotify.com/artist/0gbimxmrRQbbiwHeWinxWQ) | [On the Road notturno](https://open.spotify.com/album/24qIDodZleXMV3T1yB6Ge0) | 4:04 |
+| 2638 | [10/10](https://open.spotify.com/track/5Qdn4cUu9JAKi4gnRCcmp5) | [Mark T](https://open.spotify.com/artist/27d6O835slwAUxGGhVmbwa) | [10/10](https://open.spotify.com/album/3gvNFhesy3bcBen90HIVed) | 2:43 |
+| 2639 | [Pizza Chilli](https://open.spotify.com/track/5ApKuzKc6hoEYL3hBL4rkj) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Chilli](https://open.spotify.com/album/5K9urh9zUIBi3Uc8XCVdgt) | 2:29 |
+| 2640 | [Hotel Soldiers](https://open.spotify.com/track/5GHYWH6OT5v4Dt7LxSFLM0) | [Strawberry Nixon](https://open.spotify.com/artist/4Y4LMJUmLARW4fZyAgdEar) | [Hotel Soldiers](https://open.spotify.com/album/6mhJwuECI8D8T7PzpHHLOV) | 4:39 |
+| 2641 | [Ой у вишневому саду](https://open.spotify.com/track/3uw90rKneFTicOHhLwUnWZ) | [Ana Danch](https://open.spotify.com/artist/32ey5EpTVPAVTRcKVeZ1jf) | [Ой у вишневому саду](https://open.spotify.com/album/5FDpqEvWe4ttesKjow3lNc) | 3:01 |
+| 2642 | [Dlmg](https://open.spotify.com/track/4b2oA4Z7QwVNFywI3w0m4Q) | [BrØken MemØry](https://open.spotify.com/artist/2f3r8cRKzljSSKpyQ9AiSA) | [Dlmg](https://open.spotify.com/album/2JljaIXEeFuACuwBv2NdOm) | 3:09 |
+| 2643 | [Mulheres Todas](https://open.spotify.com/track/7z6QCqRHEoSqIpAVpgABWI) | [Fabricio Oliveira](https://open.spotify.com/artist/3ADwn10up3TgsU6Y1KJoEY) | [Mulheres Todas](https://open.spotify.com/album/0H15y6M8ChQulNj0FVH2vT) | 4:32 |
+| 2644 | [Lonesome Train](https://open.spotify.com/track/3374ydM6aG4NmFRYTZLVki) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 3:57 |
+| 2645 | [Win or Lose](https://open.spotify.com/track/0MiLTqnrYi00mVHehHqwX2) | [Douglas & The World](https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV) | [Win or Lose](https://open.spotify.com/album/7aqG0b5lNhFVvSz42C3l3A) | 5:01 |
+| 2646 | [Árbol](https://open.spotify.com/track/0GpiB3Dx2Bcj3xKALOENJR) | [Eduardo Robles](https://open.spotify.com/artist/2qwNSIP0Jyv5mstU2i5wwm) | [De paso música que dejan los migrantes](https://open.spotify.com/album/24OvaVA7Rp7mjugolMl4jN) | 3:54 |
+| 2647 | [Sanctuary](https://open.spotify.com/track/6U79SPUdOBIwaZ62hX2nKZ) | [Victorian Darkwave](https://open.spotify.com/artist/0sLsnNiEVSMZugnnUhlHmu) | [Dream Echo](https://open.spotify.com/album/1FIupHRKq7lTbWpSddF1Ro) | 4:11 |
+| 2648 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 |
 
-Snapshot ID: `AAAK4IafrqwEVmiosqo/7VwaTCdRGqJP`
+Snapshot ID: `AAAK8Qzjk7U2zJuj6vTqu5h3/H4bDZQ4`

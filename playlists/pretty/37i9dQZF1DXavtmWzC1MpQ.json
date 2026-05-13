@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 154858,
+  "num_followers": 154865,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Rainforest Soundscapes",
-        "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
-      },
-      "artists": [
-        {
-          "name": "Rain Gems",
-          "url": "https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq"
-        }
-      ],
-      "duration_ms": 162679,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Small River Stream in the Jungle",
         "url": "https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 281792,
       "name": "Small River Stream in the Jungle",
       "url": "https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Rainforest Soundscapes",
+        "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
+      },
+      "artists": [
+        {
+          "name": "Rain Gems",
+          "url": "https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq"
+        }
+      ],
+      "duration_ms": 162679,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -579,26 +579,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Tr\u00f3pico",
-        "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
-      },
-      "artists": [
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Vozterra",
-          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
-        }
-      ],
-      "duration_ms": 158037,
-      "name": "Piqueros",
-      "url": "https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Forest Bird Sounds Vol. 1",
         "url": "https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 153488,
       "name": "Still the River Flows",
       "url": "https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Tr\u00f3pico",
+        "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "duration_ms": 158037,
+      "name": "Piqueros",
+      "url": "https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -663,6 +663,38 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "3D Audio Textures of Birds & Water",
+        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "Close to the River, Birds Watching",
+      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Catskill Forest Preserve",
+        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
+      },
+      "artists": [
+        {
+          "name": "Waveseekers",
+          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "Catskill Forest Preserve",
+      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Tr\u00f3pico",
         "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
       },
@@ -679,22 +711,6 @@
       "duration_ms": 184611,
       "name": "Tr\u00f3pico",
       "url": "https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "3D Audio Textures of Birds & Water",
-        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
-      },
-      "artists": [
-        {
-          "name": "Shaman",
-          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "Close to the River, Birds Watching",
-      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -727,22 +743,6 @@
       "duration_ms": 248000,
       "name": "Sunny Windy Day",
       "url": "https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Catskill Forest Preserve",
-        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
-      },
-      "artists": [
-        {
-          "name": "Waveseekers",
-          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
-        }
-      ],
-      "duration_ms": 247466,
-      "name": "Catskill Forest Preserve",
-      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Lastovo Island Summer Bird Song",
-        "url": "https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt"
-      },
-      "artists": [
-        {
-          "name": "Natural Song",
-          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
-        }
-      ],
-      "duration_ms": 195180,
-      "name": "Lastovo Island Summer Bird Song",
-      "url": "https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Soul Healing Birds",
         "url": "https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 145500,
       "name": "Soul Healing Birds",
       "url": "https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Lastovo Island Summer Bird Song",
+        "url": "https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt"
+      },
+      "artists": [
+        {
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+        }
+      ],
+      "duration_ms": 195180,
+      "name": "Lastovo Island Summer Bird Song",
+      "url": "https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI"
     }
   ],
   "unique_name": "Sons da Natureza",

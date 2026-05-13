@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,301 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,313 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 47 | [Chirac En Prison](https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:55 |
 | 48 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
 | 49 | [Bitch](https://open.spotify.com/track/1ymXKqHO6CGAWlhERwf3Ug) | [Plastiscines](https://open.spotify.com/artist/6L3Af26OWMQw1uHTcxTVxP) | [About Love](https://open.spotify.com/album/0hQaUyf3aWK1UqeID5xA7x) | 3:09 |
-| 50 | [Te revoir](https://open.spotify.com/track/1IG7yiK7vAUD1bg5wfMmEO) | [Eiffel](https://open.spotify.com/artist/5IiWXFMbz2luGGkdzSBNhJ) | [Abricotine](https://open.spotify.com/album/49A5xZlHxQq92tl58EAAlC) | 5:06 |
+| 50 | [Qui que tu sois](https://open.spotify.com/track/6oS7ATqkkkuPH96EaUht4t) | [Blankass](https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03) | [Elliott](https://open.spotify.com/album/3LTATpdZP4sE3UocHfEHit) | 3:46 |
 
 Snapshot ID: `AAAAAOmERqJYL7RywKR8K0ibzv9C5ixm`

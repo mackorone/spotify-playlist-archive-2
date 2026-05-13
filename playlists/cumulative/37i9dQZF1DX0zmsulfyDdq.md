@@ -4,7 +4,7 @@
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-257 songs - 13 hr 18 min
+258 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Into the Unknown \- Orgel Version](https://open.spotify.com/track/1yxHVEjw1e9IPoNcWAlJTa) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM](https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9) | 3:56 | 2022-04-15 |  |
 | [It's a Small World](https://open.spotify.com/track/1KmzKvDdiKdcVoxxILTDdz) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 2:02 | 2022-04-15 |  |
 | [It's a Small World \- Instrumental](https://open.spotify.com/track/3wI9eq7AaOYGnaO3kKoA8o) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Sleepytime Lullabies](https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6) | 1:24 | 2022-04-15 |  |
+| [It's Always Been You](https://open.spotify.com/track/7kiF2QdaqLWAnlANX4AuYf) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Devil Wears Prada 2 \(Original Score\)](https://open.spotify.com/album/3KxLOqeODUgNqCEFlblbr8) | 1:52 | 2026-05-12 |  |
 | [Jack's Lament](https://open.spotify.com/track/3M7XhueJoJtX27v9d5wtid) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Dream](https://open.spotify.com/album/6KvAEqxeFDVxFkCvE8gw0C) | 3:47 | 2022-04-15 |  |
 | [Jolly Holiday](https://open.spotify.com/track/24e8yqtO1W0G4BUd38YqpH) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:07 | 2022-04-15 |  |
 | [Just Around the Riverbend](https://open.spotify.com/track/4mGxsqBl0hZ8VmiayUWVJ5) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Blissful](https://open.spotify.com/album/7kFYl7LzfMz29lwsDyh2bf) | 2:49 | 2022-04-15 |  |

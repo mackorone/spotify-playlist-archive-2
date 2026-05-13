@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Cody Johnson
 
-722 songs - 1 day 18 hr 58 min
+723 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2021-12-17 | 2022-03-19 |
 | [Highway Boys](https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Highway Boys](https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ) | 3:40 | 2022-03-25 | 2024-02-03 |
 | [Highways](https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 3:24 | 2022-02-18 | 2023-09-02 |
-| [Hit The Hay Runnin'](https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Hit The Hay Runnin'](https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN) | 3:04 | 2024-08-30 |  |
+| [Hit The Hay Runnin'](https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Hit The Hay Runnin'](https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN) | 3:04 | 2024-08-30 | 2026-05-13 |
 | [Hits a Little Different](https://open.spotify.com/track/2yOYqHpfCZQjv7u9dfnK5W) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hits a Little Different](https://open.spotify.com/album/676lVWRKGoaQ9lTBmzPCu9) | 2:54 | 2021-12-17 | 2022-01-08 |
 | [Hometown Hero](https://open.spotify.com/track/03CL7YkJByZRIjciH0uQq1) | [Austin Alexander](https://open.spotify.com/artist/65qp4f5zNeT1bHgikTsc5y) | [Hometown Hero](https://open.spotify.com/album/2EmcaUORGDhzpeYqqSE9AV) | 3:52 | 2022-05-27 | 2022-07-09 |
 | [Honky Tonk Blue](https://open.spotify.com/track/0zTCWgi08I9X8Ev6Befe8j) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Honky Tonk Blue](https://open.spotify.com/album/58AZZqzRTvZdnKZwgteh41) | 3:08 | 2025-03-14 | 2025-08-27 |
@@ -573,6 +573,7 @@
 | [Superhero](https://open.spotify.com/track/60JFHHGFvMprnCB6kh25jU) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Superhero](https://open.spotify.com/album/3VINTQx8hUezyee8AX0oFX) | 4:01 | 2022-10-14 | 2023-02-02 |
 | [Sweet Irene](https://open.spotify.com/track/1E8oXata1MPMC78MAPWyLS) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Sweet Irene](https://open.spotify.com/album/2WCm8RARzrO6oaq0BtIpEK) | 3:48 | 2021-12-17 | 2022-08-27 |
 | [Sweet Lady](https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Sweet Lady](https://open.spotify.com/album/0kEMsyo87L9rno89g4rBRM) | 2:59 | 2025-10-17 |  |
+| [Tail Lights](https://open.spotify.com/track/2jOiIu8R7GnAiPPoydE5tO) | [Colby Lee Swift](https://open.spotify.com/artist/7h0IvtBCdPbcIBkSskcM49) | [Tail Lights](https://open.spotify.com/album/2tvZhLoBHwlrClogSojTqy) | 2:58 | 2026-03-06 |  |
 | [Tails I Lose](https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Tails I Lose](https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b) | 3:45 | 2023-04-14 | 2023-09-02 |
 | [Talkin' Company Man Blues](https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Talkin' Company Man Blues](https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2) | 4:10 | 2023-09-15 | 2024-01-20 |
 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 | 2022-07-29 | 2023-09-02 |

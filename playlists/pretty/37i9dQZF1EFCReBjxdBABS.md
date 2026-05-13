@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 129 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 249 likes - 129 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 92 | [Hell of a Hometown](https://open.spotify.com/track/62GUW1nFv6ekfNyprziCvo) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Hell of a Hometown](https://open.spotify.com/album/0JjAkZAQcXjrSPBrLXrJ9c) | 3:03 |
 | 93 | [Show Up](https://open.spotify.com/track/1ENpEBh3B1Sf7sQrhlj58C) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Show Up](https://open.spotify.com/album/0QnOXwlpdBKPJE5zZXMXri) | 3:02 |
 | 94 | [Same Kind of Crazy](https://open.spotify.com/track/0kBSNUDkV3UjlO7Y1kZ1xQ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [36/86 EP](https://open.spotify.com/album/0cfbDWwjQ3FORWD1RhwDEW) | 2:31 |
-| 95 | [What's Mine Is Yours](https://open.spotify.com/track/1PuU0rcStbl1TkCwSaCYmq) | [Ryan and Rory](https://open.spotify.com/artist/2GhFq4SQPUb3GaBp1ec9pC) | [What's Mine Is Yours](https://open.spotify.com/album/4CGkjLqKhv1Xg47kgyTf22) | 2:21 |
-| 96 | [Rosalee](https://open.spotify.com/track/1dlddvHp5NcSIQB8XMaMDf) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:53 |
+| 95 | [Rosalee](https://open.spotify.com/track/1dlddvHp5NcSIQB8XMaMDf) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:53 |
+| 96 | [What's Mine Is Yours](https://open.spotify.com/track/1PuU0rcStbl1TkCwSaCYmq) | [Ryan and Rory](https://open.spotify.com/artist/2GhFq4SQPUb3GaBp1ec9pC) | [What's Mine Is Yours](https://open.spotify.com/album/4CGkjLqKhv1Xg47kgyTf22) | 2:21 |
 | 97 | [Buy A Bar](https://open.spotify.com/track/3nvmN9daV6DhMNFtewTwl1) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Buy A Bar](https://open.spotify.com/album/2rErpjvL6KXfptALvB0pcd) | 2:57 |
 | 98 | [99 Bottles](https://open.spotify.com/track/6XdPUABmGiRnQzP171vyhk) | [TracieLynn](https://open.spotify.com/artist/0mPEljpx3NF2bWuBQdlF2v) | [99 Bottles](https://open.spotify.com/album/78yVqDRZaD4YFgrgPBWPt3) | 3:35 |
 | 99 | [As Far as Love Goes](https://open.spotify.com/track/5Kcq1DpTCfcce85latUZRp) | [Ian Flanigan](https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y) | [Strong](https://open.spotify.com/album/0C3XW8l5BNv8dUHuEuDDSf) | 3:10 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 128 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 129 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcRPfAAAAADgRBB0x82arz313jwr8q9m`
+Snapshot ID: `AcRVHAAAAABSwPwqmVBWV6B6ulQMx4Na`

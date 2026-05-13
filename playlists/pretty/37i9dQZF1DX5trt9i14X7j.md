@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,316 likes - 129 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,375 likes - 129 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 128 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 |
 | 129 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 |
 
-Snapshot ID: `AAAAANOdF+sR8X9FvqkacsKa0Tpn9AX2`
+Snapshot ID: `AAAAAHnhILnSq/F7LoVPKFIDTTZZHDUx`

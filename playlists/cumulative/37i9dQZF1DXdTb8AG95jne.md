@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: DORI\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,342 songs - 3 day 9 hr 20 min
+1,342 songs - 3 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,7 +465,7 @@
 | [Haute](https://open.spotify.com/track/14jEON4mqnJOclBOORrEMy) | [sueun](https://open.spotify.com/artist/0rStncdtq6ZiVoeCwjGPZ2) | [9 ways to say "I Love You"](https://open.spotify.com/album/5ncCGQypYgjQSyftbcGs29) | 3:52 | 2022-03-31 | 2022-04-07 |
 | [Hazard Course \(feat\. mei ehara\)](https://open.spotify.com/track/74UQERYjLFUVVkIIj7pwqP) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Hazard Course \(feat\. mei ehara\)](https://open.spotify.com/album/7tXzWoZGNzOppuIV8B2Iau) | 4:12 | 2026-01-19 | 2026-04-10 |
 | [Heart](https://open.spotify.com/track/73aUjezd8PBHyNrW5lJ8C9) | [Yooin](https://open.spotify.com/artist/5xS0mno5CiTJzrdEROGsCn) | [Heart](https://open.spotify.com/album/3pisk7bLoTZREoNooWkZZU) | 2:32 | 2025-09-01 | 2025-10-02 |
-| [Heart of Gold](https://open.spotify.com/track/3ei1nPTxRlGUWYfNMTCds9) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Heart of Gold](https://open.spotify.com/album/3K8n186vv6tMeS3l7fpluB) | 4:42 | 2026-05-07 |  |
+| [Heart of Gold](https://open.spotify.com/track/3ei1nPTxRlGUWYfNMTCds9) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Heart of Gold](https://open.spotify.com/album/3K8n186vv6tMeS3l7fpluB) | 5:14 | 2026-05-07 |  |
 | [Heart of Gold](https://open.spotify.com/track/7M42ZcNZ3jVzYvZYm0QpkV) | [Twomyung](https://open.spotify.com/artist/6uENO0HTR2Tt1sZzQmPKst), [Trickyneko](https://open.spotify.com/artist/5UNMeC6UjnNmJRkpVZJsHd), [howaho](https://open.spotify.com/artist/4lEQCDab4fOSiY7r0SlOhi) | [Heart of Gold](https://open.spotify.com/album/6Ty9ExLhYQHOwN8re6QmMF) | 3:36 | 2022-03-31 | 2022-04-05 |
 | [Heavy Going \- Single Ver.](https://open.spotify.com/track/2o3wx46DLWC0kUiS6js2OJ) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [Heavy Going](https://open.spotify.com/album/0YFFUQOr36O0gobK7vyuQd) | 4:04 | 2024-04-30 | 2024-05-10 |
 | [Hello, Goodbye](https://open.spotify.com/track/6MKJgg1iFKGOOpqge8vhhD) | [Ruru](https://open.spotify.com/artist/4flinhIhFYE7Ehy3fFBg3l) | [Hello, Goodbye](https://open.spotify.com/album/0HONgJtedOHoxfciPlocSQ) | 2:41 | 2025-09-09 | 2025-10-15 |

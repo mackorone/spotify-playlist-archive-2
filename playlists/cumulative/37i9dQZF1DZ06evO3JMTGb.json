@@ -42,7 +42,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 248154,
       "name": "Arch",
       "url": "https://open.spotify.com/track/7J3rIJQfGotyvvtYD7ncYC"
@@ -649,6 +649,28 @@
     },
     {
       "album": {
+        "name": "Mue (Sofie Birch Remix)",
+        "url": "https://open.spotify.com/album/2MEoH5Q9S4WuAKhuqn4QFT"
+      },
+      "artists": [
+        {
+          "name": "Koki Nakano",
+          "url": "https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE"
+        },
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246967,
+      "name": "Mue - Sofie Birch Remix",
+      "url": "https://open.spotify.com/track/6tPDhPCJu8NlVd2QehezEv"
+    },
+    {
+      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -842,7 +864,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 432106,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/6npTUba77dx5CHI2nN3lfZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 977 likes - 103 songs - 6 hr 12 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 980 likes - 105 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 101 | [Uncrumpled](https://open.spotify.com/track/5Pv86y8cdyKj1VbKVrrJK9) | [Skyway](https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R) | [Time To Be Alive](https://open.spotify.com/album/6QRatbdQi9sUQfP7o5sN82) | 2:24 |
 | 102 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 |
 | 103 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 |
+| 104 | [Pizza Feet](https://open.spotify.com/track/2lGhyNxLY05052wtN66sfK) | [Giant DeNiro](https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY) | [Pizza Feet](https://open.spotify.com/album/6wQj0bkUwhOl3YV3pzRWTa) | 4:35 |
+| 105 | [Artificial Intelligence](https://open.spotify.com/track/4Q4dia1Ln26H29TrcsyuBY) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Artificial Intelligence](https://open.spotify.com/album/0qEV9qVrOfS2HtWSXNBpJS) | 3:02 |
 
-Snapshot ID: `AAAGBinAdI4Ic1RkHXBLtcAxZQymLBQe`
+Snapshot ID: `AAAGCPcQ1y77fMdD7Nq812asOz+Auu+W`

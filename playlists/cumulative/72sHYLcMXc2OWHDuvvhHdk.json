@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/3gvNFhesy3bcBen90HIVed"
+      },
+      "artists": [
+        {
+          "name": "Mark T",
+          "url": "https://open.spotify.com/artist/27d6O835slwAUxGGhVmbwa"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163280,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/5Qdn4cUu9JAKi4gnRCcmp5"
+    },
+    {
+      "album": {
         "name": "1000G VOL 2",
         "url": "https://open.spotify.com/album/18Xbt0AII2ai3XL00b834s"
       },
@@ -8817,6 +8835,24 @@
     },
     {
       "album": {
+        "name": "Dlmg",
+        "url": "https://open.spotify.com/album/2JljaIXEeFuACuwBv2NdOm"
+      },
+      "artists": [
+        {
+          "name": "Br\u00d8ken Mem\u00d8ry",
+          "url": "https://open.spotify.com/artist/2f3r8cRKzljSSKpyQ9AiSA"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189391,
+      "name": "Dlmg",
+      "url": "https://open.spotify.com/track/4b2oA4Z7QwVNFywI3w0m4Q"
+    },
+    {
+      "album": {
         "name": "We've Got Time",
         "url": "https://open.spotify.com/album/62pYMRfAyLLjf6AUbp94Ju"
       },
@@ -14619,6 +14655,28 @@
     },
     {
       "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/3Je6Ewp88CXTf01RLqq9PM"
+      },
+      "artists": [
+        {
+          "name": "Scott Baker Graham",
+          "url": "https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA"
+        },
+        {
+          "name": "Pain in the Yeahs",
+          "url": "https://open.spotify.com/artist/2h3u3wJ0xRr93FoibwB3hd"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224318,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/3hdTlslJ0uVmJts1ttjU60"
+    },
+    {
+      "album": {
         "name": "Heads Carolina, Tails California",
         "url": "https://open.spotify.com/album/3xHtcn676RfMnGyn1kioB2"
       },
@@ -16130,6 +16188,24 @@
       "duration_ms": 237973,
       "name": "Hot Tonight",
       "url": "https://open.spotify.com/track/1TM88rBbUCWEj1H3KY5lAN"
+    },
+    {
+      "album": {
+        "name": "Hotel Soldiers",
+        "url": "https://open.spotify.com/album/6mhJwuECI8D8T7PzpHHLOV"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Nixon",
+          "url": "https://open.spotify.com/artist/4Y4LMJUmLARW4fZyAgdEar"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279272,
+      "name": "Hotel Soldiers",
+      "url": "https://open.spotify.com/track/5GHYWH6OT5v4Dt7LxSFLM0"
     },
     {
       "album": {
@@ -21731,6 +21807,24 @@
     },
     {
       "album": {
+        "name": "MUST BE BLUE",
+        "url": "https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH"
+      },
+      "artists": [
+        {
+          "name": "David Starr",
+          "url": "https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237640,
+      "name": "Lonesome Train",
+      "url": "https://open.spotify.com/track/3374ydM6aG4NmFRYTZLVki"
+    },
+    {
+      "album": {
         "name": "Sound On Remastered",
         "url": "https://open.spotify.com/album/26XsWu3tUxDKxm3z4SPKU9"
       },
@@ -23477,6 +23571,24 @@
     },
     {
       "album": {
+        "name": "Misfits Rejoice",
+        "url": "https://open.spotify.com/album/1mVKv1gmUXXFLxBZgViTDe"
+      },
+      "artists": [
+        {
+          "name": "Purple Microdot",
+          "url": "https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154131,
+      "name": "Misfits Rejoice",
+      "url": "https://open.spotify.com/track/1T08MkKOgNuqMHg3nDjsnU"
+    },
+    {
+      "album": {
         "name": "Mindfield",
         "url": "https://open.spotify.com/album/5jylpsenC69YTYfbCO6SOp"
       },
@@ -24102,6 +24214,24 @@
       "duration_ms": 161008,
       "name": "Mudamos",
       "url": "https://open.spotify.com/track/365wpm8haYRdFa30ObB1LP"
+    },
+    {
+      "album": {
+        "name": "Mulheres Todas",
+        "url": "https://open.spotify.com/album/0H15y6M8ChQulNj0FVH2vT"
+      },
+      "artists": [
+        {
+          "name": "Fabricio Oliveira",
+          "url": "https://open.spotify.com/artist/3ADwn10up3TgsU6Y1KJoEY"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272598,
+      "name": "Mulheres Todas",
+      "url": "https://open.spotify.com/track/7z6QCqRHEoSqIpAVpgABWI"
     },
     {
       "album": {
@@ -26617,6 +26747,24 @@
     },
     {
       "album": {
+        "name": "On the Road notturno",
+        "url": "https://open.spotify.com/album/24qIDodZleXMV3T1yB6Ge0"
+      },
+      "artists": [
+        {
+          "name": "Manuel Marino",
+          "url": "https://open.spotify.com/artist/0gbimxmrRQbbiwHeWinxWQ"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244250,
+      "name": "On the Road notturno",
+      "url": "https://open.spotify.com/track/0VmapjDWG1RxRAAZXAUqQq"
+    },
+    {
+      "album": {
         "name": "Highway Surf",
         "url": "https://open.spotify.com/album/5dlWQzcnEEPbOidcviymCv"
       },
@@ -27916,6 +28064,24 @@
       "duration_ms": 302560,
       "name": "Pirate of the River",
       "url": "https://open.spotify.com/track/5ydPvEvDNnw4V9m4zfUMHv"
+    },
+    {
+      "album": {
+        "name": "Pizza Chilli",
+        "url": "https://open.spotify.com/album/5K9urh9zUIBi3Uc8XCVdgt"
+      },
+      "artists": [
+        {
+          "name": "Lunamber",
+          "url": "https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Pizza Chilli",
+      "url": "https://open.spotify.com/track/5ApKuzKc6hoEYL3hBL4rkj"
     },
     {
       "album": {
@@ -30325,6 +30491,28 @@
     },
     {
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/7GYHWuWwjRxNWC0Ojd54s2"
+      },
+      "artists": [
+        {
+          "name": "Patros15",
+          "url": "https://open.spotify.com/artist/2NQF0HhnnOptRqkLitCkbz"
+        },
+        {
+          "name": "ish10 yow1r0",
+          "url": "https://open.spotify.com/artist/5q05ynhYfxXArRzUi6WZe0"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/5bmOxntRAOmhvC3TLbgpq2"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/0NjovRnD5unUBDJ7U8QH3G"
       },
@@ -30844,6 +31032,24 @@
       "duration_ms": 193834,
       "name": "Same Roads - Live",
       "url": "https://open.spotify.com/track/4FDMzxlBNh6DrCsvhYUzj0"
+    },
+    {
+      "album": {
+        "name": "Dream Echo",
+        "url": "https://open.spotify.com/album/1FIupHRKq7lTbWpSddF1Ro"
+      },
+      "artists": [
+        {
+          "name": "Victorian Darkwave",
+          "url": "https://open.spotify.com/artist/0sLsnNiEVSMZugnnUhlHmu"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251713,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/6U79SPUdOBIwaZ62hX2nKZ"
     },
     {
       "album": {
@@ -35966,6 +36172,24 @@
       "duration_ms": 200197,
       "name": "That Easy Road",
       "url": "https://open.spotify.com/track/4lU53o7jfW4RxKAM0aaRHR"
+    },
+    {
+      "album": {
+        "name": "That's Cool",
+        "url": "https://open.spotify.com/album/7aPGxG33vGIZrTO3YQ5xQb"
+      },
+      "artists": [
+        {
+          "name": "Slaney Bay",
+          "url": "https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226722,
+      "name": "That's Cool",
+      "url": "https://open.spotify.com/track/2k7SrfAazc3aXOSGcBT66L"
     },
     {
       "album": {
@@ -41377,6 +41601,24 @@
     },
     {
       "album": {
+        "name": "Win or Lose",
+        "url": "https://open.spotify.com/album/7aqG0b5lNhFVvSz42C3l3A"
+      },
+      "artists": [
+        {
+          "name": "Douglas & The World",
+          "url": "https://open.spotify.com/artist/2tNqnVreooduKUtEidhIFV"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Win or Lose",
+      "url": "https://open.spotify.com/track/0MiLTqnrYi00mVHehHqwX2"
+    },
+    {
+      "album": {
         "name": "Dirty Lines Through Indigo Minds",
         "url": "https://open.spotify.com/album/5VGOfHz3KrBSynttgQ48J7"
       },
@@ -42818,6 +43060,24 @@
       "duration_ms": 115723,
       "name": "\u00c1gape",
       "url": "https://open.spotify.com/track/1NiJbGmrS0bLZqnPPSxHZ5"
+    },
+    {
+      "album": {
+        "name": "De paso m\u00fasica que dejan los migrantes",
+        "url": "https://open.spotify.com/album/24OvaVA7Rp7mjugolMl4jN"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Robles",
+          "url": "https://open.spotify.com/artist/2qwNSIP0Jyv5mstU2i5wwm"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "\u00c1rbol",
+      "url": "https://open.spotify.com/track/0GpiB3Dx2Bcj3xKALOENJR"
     },
     {
       "album": {

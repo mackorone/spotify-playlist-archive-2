@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147 likes - 197 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 148 likes - 197 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 42 | [5 in the Morning](https://open.spotify.com/track/62VpKdGyA7OIyUCj3a3LPU) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [5 in the Morning](https://open.spotify.com/album/5XHUZmTmB9naGhgQrkqKwF) | 2:49 |
 | 43 | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/track/3xmfi7nXVWFFN706CBTAyP) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/album/6Pp51kxuCHKcHMhopNfMNo) | 3:52 |
 | 44 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 |
-| 45 | [Weekend](https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA) | [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU) | [Weekend](https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF) | 2:50 |
-| 46 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 45 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 46 | [Weekend](https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA) | [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU) | [Weekend](https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF) | 2:50 |
 | 47 | [Gateway Drug](https://open.spotify.com/track/51BroelKJaagm8GOIVFv3f) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 1](https://open.spotify.com/album/2rBHhp9tNShxTb529Hi5AS) | 3:32 |
 | 48 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 |
 | 49 | [Back to Life](https://open.spotify.com/track/6ixjgNCGvFTXTO1fGqltw1) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Back to Life](https://open.spotify.com/album/2eShCMLXmJ06B65OMOIOQ4) | 2:06 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 126 | [2nd Nature](https://open.spotify.com/track/6HxJmedXOuP3jomJguAsJF) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:42 |
 | 127 | [WITCHCRAFT GIRLS](https://open.spotify.com/track/6ENVUi31WSw6Tqp2dvNrrl) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [BLOOD, MAGIC & DIAMONDS.](https://open.spotify.com/album/1ogLL6L0DEfYGOHmy1JIQN) | 2:46 |
 | 128 | [Showgirl](https://open.spotify.com/track/5eYQZSQPlLHHc1bLL0UmO5) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:46 |
-| 129 | [Things I Really Mean](https://open.spotify.com/track/1ifdycBCHgcbRSMskdpSRB) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [Things I Really Mean](https://open.spotify.com/album/3cxyV5ddJhlyCR9KmshfLR) | 2:42 |
-| 130 | [Drum Machine](https://open.spotify.com/track/1nKvzyWhcP4KYAXeOMrul5) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:16 |
+| 129 | [Drum Machine](https://open.spotify.com/track/1nKvzyWhcP4KYAXeOMrul5) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:16 |
+| 130 | [Things I Really Mean](https://open.spotify.com/track/1ifdycBCHgcbRSMskdpSRB) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [Things I Really Mean](https://open.spotify.com/album/3cxyV5ddJhlyCR9KmshfLR) | 2:42 |
 | 131 | [16 Summers](https://open.spotify.com/track/7Ftzsq58catsPcpSoWzjlo) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 4:41 |
 | 132 | [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 |
 | 133 | [Fear](https://open.spotify.com/track/6zsaQIs0gWs6anNBEQw7fC) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Red Flag](https://open.spotify.com/album/2eQjNxatEtQmwhBOVfRd5q) | 3:56 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 196 | [Time](https://open.spotify.com/track/4IXo4QEaA0C5L1gmwcoLs6) | [Mali](https://open.spotify.com/artist/44hC0isoN7FTViV4xB4VsD) | [Time](https://open.spotify.com/album/3AnHWPc0t69do84olU1b7b) | 3:00 |
 | 197 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcRPVAAAAADaH77UK36urOCqUSIjbHn0`
+Snapshot ID: `AcRVHAAAAACJ+bcGMNP40M+lDCT4XKSA`

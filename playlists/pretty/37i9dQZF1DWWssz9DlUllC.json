@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Kashcoming",
-  "num_followers": 91015,
+  "num_followers": 91055,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -903,30 +903,6 @@
     {
       "added_at": "2026-05-08 00:02:05",
       "album": {
-        "name": "ROAD TO PARATI",
-        "url": "https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Jenerall",
-          "url": "https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Stack",
-      "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"
-    },
-    {
-      "added_at": "2026-05-08 00:02:05",
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -959,6 +935,30 @@
       "duration_ms": 214441,
       "name": "Na So",
       "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
+    },
+    {
+      "added_at": "2026-05-08 00:02:05",
+      "album": {
+        "name": "ROAD TO PARATI",
+        "url": "https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Jenerall",
+          "url": "https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"
     },
     {
       "added_at": "2026-05-08 00:02:05",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-08 00:02:05",
       "album": {
-        "name": "Back to Back",
-        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 146129,
-      "name": "Back to Back",
-      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
-    },
-    {
-      "added_at": "2026-05-08 00:02:05",
-      "album": {
         "name": "God is working",
         "url": "https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 165296,
       "name": "Shakabulizzy",
       "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
+    },
+    {
+      "added_at": "2026-05-08 00:02:05",
+      "album": {
+        "name": "Back to Back",
+        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 146129,
+      "name": "Back to Back",
+      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
     },
     {
       "added_at": "2026-05-08 00:02:05",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-05-08 00:02:05",
       "album": {
-        "name": "Laye Mi",
-        "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 204159,
-      "name": "Laye Mi",
-      "url": "https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co"
-    },
-    {
-      "added_at": "2026-05-08 00:02:05",
-      "album": {
         "name": "Giddem",
         "url": "https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 178000,
       "name": "Giddem",
       "url": "https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN"
+    },
+    {
+      "added_at": "2026-05-08 00:02:05",
+      "album": {
+        "name": "Laye Mi",
+        "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 204159,
+      "name": "Laye Mi",
+      "url": "https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co"
     },
     {
       "added_at": "2026-05-08 00:02:05",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-05-08 00:02:05",
       "album": {
-        "name": "Afghanistans",
-        "url": "https://open.spotify.com/album/6IbS4932vgFWufdwMxZBkb"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        }
-      ],
-      "duration_ms": 129557,
-      "name": "Hilux",
-      "url": "https://open.spotify.com/track/7fxJixThxRS7DdBxcrVJ0s"
-    },
-    {
-      "added_at": "2026-05-08 00:02:05",
-      "album": {
         "name": "HOW ARE YOU",
         "url": "https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 167213,
       "name": "MAJO",
       "url": "https://open.spotify.com/track/0CRU6MdxT0fuptw7GoGrrA"
+    },
+    {
+      "added_at": "2026-05-08 00:02:05",
+      "album": {
+        "name": "Afghanistans",
+        "url": "https://open.spotify.com/album/6IbS4932vgFWufdwMxZBkb"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        }
+      ],
+      "duration_ms": 129557,
+      "name": "Hilux",
+      "url": "https://open.spotify.com/track/7fxJixThxRS7DdBxcrVJ0s"
     },
     {
       "added_at": "2026-05-08 00:02:05",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-05-08 00:02:05",
       "album": {
-        "name": "Mr Caesar",
-        "url": "https://open.spotify.com/album/0gohIAnWN1vnyFrZbXBzt1"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Big Fearless",
-          "url": "https://open.spotify.com/artist/6HBrHz0msvztD26a6R4qaO"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Mr Caesar",
-      "url": "https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb"
-    },
-    {
-      "added_at": "2026-05-08 00:02:05",
-      "album": {
         "name": "Mean 2 Me",
         "url": "https://open.spotify.com/album/0npUtWGx1oEk4AXLoNvhKm"
       },
@@ -1507,6 +1487,26 @@
     {
       "added_at": "2026-05-08 00:02:05",
       "album": {
+        "name": "Mr Caesar",
+        "url": "https://open.spotify.com/album/0gohIAnWN1vnyFrZbXBzt1"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Big Fearless",
+          "url": "https://open.spotify.com/artist/6HBrHz0msvztD26a6R4qaO"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Mr Caesar",
+      "url": "https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb"
+    },
+    {
+      "added_at": "2026-05-08 00:02:05",
+      "album": {
         "name": "eko",
         "url": "https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N"
       },
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-05-08 00:02:05",
       "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 174812,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
-    },
-    {
-      "added_at": "2026-05-08 00:02:05",
-      "album": {
         "name": "BOBO",
         "url": "https://open.spotify.com/album/66gCIlSy7wrGshPZAp0dLK"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 205128,
       "name": "BOBO",
       "url": "https://open.spotify.com/track/3ojkCh9xRGNUihupY3Tb8o"
+    },
+    {
+      "added_at": "2026-05-08 00:02:05",
+      "album": {
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 174812,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
     },
     {
       "added_at": "2026-05-08 00:02:05",

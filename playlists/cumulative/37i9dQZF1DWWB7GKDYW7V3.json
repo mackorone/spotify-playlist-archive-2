@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-08-19",
-  "description": "26 tips voor LL26 van onze muziekredactie \u00e9n natuurlijk de Lowlands klassiekers!",
+  "description": "De Spotify muziekredactie tipt 26 acts voor LL26! ",
   "name": "Best of Lowlands",
   "tracks": [
     {
@@ -360,6 +360,24 @@
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "album": {
+        "name": "Bitterzoet",
+        "url": "https://open.spotify.com/album/6i4IItGQSRvbdBguRDggMI"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238746,
+      "name": "Bitterzoet",
+      "url": "https://open.spotify.com/track/39He9xYIIOdK0pU3U9OjAs"
     },
     {
       "album": {
@@ -810,7 +828,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 218945,
       "name": "DON'T BELIEVE DE KRANT",
       "url": "https://open.spotify.com/track/4j3R4MpvwHA9LRJgejoe7q"
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 205601,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 154029,
       "name": "HDP",
       "url": "https://open.spotify.com/track/3t85nUPCmSq3O4bJXK0qhT"
@@ -1273,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Comfort To Me",
+        "url": "https://open.spotify.com/album/09hDOH6485A7SIg1FmpuX2"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Hertz",
+      "url": "https://open.spotify.com/track/1GTPRD8z9c7kVDqwGbn52f"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -1288,6 +1324,28 @@
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+    },
+    {
+      "album": {
+        "name": "INSOMNIA",
+        "url": "https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW"
+      },
+      "artists": [
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136632,
+      "name": "hoeveel is genoeg?",
+      "url": "https://open.spotify.com/track/5WZUrRDtGc9OyAQSh8k57t"
     },
     {
       "album": {
@@ -1432,7 +1490,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/6TMLUWtrSoTNFo7viirKh3"
@@ -1894,7 +1952,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 157969,
       "name": "Lost Souls",
       "url": "https://open.spotify.com/track/1Oy76bpB8jg3CcPk9m9Cmb"
@@ -2064,7 +2122,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 195327,
       "name": "NEW MAGIC WAND",
       "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
@@ -2626,7 +2684,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 260786,
       "name": "Stilstand",
       "url": "https://open.spotify.com/track/5V5d3Phyu77vvN8Ea6gMIb"
@@ -2666,6 +2724,24 @@
       "duration_ms": 275440,
       "name": "Strong",
       "url": "https://open.spotify.com/track/6k1I9gABiasGZiWWAosAEb"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "album": {
@@ -2767,6 +2843,32 @@
     },
     {
       "album": {
+        "name": "The One (feat. Jocelyn Brown)",
+        "url": "https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182498,
+      "name": "The One (feat. Jocelyn Brown)",
+      "url": "https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM"
+    },
+    {
+      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -2800,6 +2902,32 @@
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "album": {
+        "name": "IJSLAND 2",
+        "url": "https://open.spotify.com/album/1L95CMnIW9LHwQ8MKhkauD"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        },
+        {
+          "name": "IJSLAND",
+          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199371,
+      "name": "TIJDSGEEST",
+      "url": "https://open.spotify.com/track/4YfGgMhpLCnO2119WJ15pi"
     },
     {
       "album": {
@@ -3036,7 +3164,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 266375,
       "name": "Yosemite",
       "url": "https://open.spotify.com/track/6Z3cE0ZK0tmj7131PFIOeZ"

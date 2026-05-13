@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-866 songs - 1 day 16 hr 57 min
+867 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [BADMAN](https://open.spotify.com/track/6rQYQ98IyOaINzS7f8mohG) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [BADMAN](https://open.spotify.com/album/1fHzrqo9Om0sZFvrE17iuJ) | 2:05 | 2025-06-13 | 2025-06-24 |
 | [Bag of Money](https://open.spotify.com/track/6oB9epBZc6bnBjAgUCiIq0) | [DJ HABIBEATS](https://open.spotify.com/artist/6TuJEVeUBF7uFjMWiMX0st), [Cheekychizzy](https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1), [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Bag of Money](https://open.spotify.com/album/2HgmRP7SL9z330M3mxghds) | 3:05 | 2024-08-25 | 2024-09-20 |
 | [Bahamas](https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:46 | 2024-04-12 | 2025-02-25 |
+| [Ball](https://open.spotify.com/track/4C0SSSbwyxGSCxoEOUnXa2) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ball](https://open.spotify.com/album/46AbMXJHKRj8UfFIzPOUOn) | 2:56 | 2026-05-08 |  |
 | [Ballerina \(with Rema, Skillibeng, & Disco Neil\)](https://open.spotify.com/track/7wI4jzM1fIGoysnGJSpHZY) | [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Disco Neil](https://open.spotify.com/artist/1HSo2p6kMvBVyt5BZay3r0), [Bashment](https://open.spotify.com/artist/6q6II3boTwoBG0jP88smLb) | [Ballerina \(with Rema, Skillibeng, & Disco Neil\)](https://open.spotify.com/album/7Me0lVWxSy5AGNBCgcFEAZ) | 2:44 | 2026-02-27 | 2026-03-17 |
 | [Ballin](https://open.spotify.com/track/55B4vsTxKHCjDhx7Qx96iB) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ballin](https://open.spotify.com/album/2YOrMIgSjAYxGy0rjzE1Ch) | 2:34 | 2022-12-02 | 2023-01-20 |
 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 | 2022-07-14 | 2023-10-27 |
@@ -376,7 +377,7 @@
 | [HIGH STAR](https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [HIGH STAR](https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95) | 2:19 | 2025-07-18 | 2025-09-19 |
 | [High Tension](https://open.spotify.com/track/7AaxIXNXvS7hqTLaQlXmgm) | [Gdzilla](https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K) | [High Tension](https://open.spotify.com/album/2QGfvvvbYyk5ZU3WVBIXem) | 2:24 | 2023-12-01 | 2024-01-13 |
 | [Higher](https://open.spotify.com/track/1JK4yUEI1kLQKw424MYoSD) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Higher](https://open.spotify.com/album/1RRZz91gJ2St8d7EhXl8q4) | 3:18 | 2023-06-16 | 2023-08-11 |
-| [Hildabaci \- Remix](https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Hildabaci \(Remix\)](https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z) | 3:12 | 2025-05-09 |  |
+| [Hildabaci \- Remix](https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Hildabaci \(Remix\)](https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z) | 3:12 | 2025-05-09 | 2026-05-13 |
 | [Hillary](https://open.spotify.com/track/6I1oMY6NrE8Iqx7bx0gIw2) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Hillary](https://open.spotify.com/album/3KUbmSvjvHH5Qxf1A9lS09) | 2:51 | 2023-03-24 | 2023-04-15 |
 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 | 2024-04-19 | 2025-02-25 |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-16 | 2023-05-01 |

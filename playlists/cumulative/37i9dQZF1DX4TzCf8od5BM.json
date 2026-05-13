@@ -702,7 +702,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 86588,
       "name": "Clean Up",
       "url": "https://open.spotify.com/track/1ScYQioZ1DwWcgKc4XWCLY"
@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 98779,
       "name": "Life in the Pride Lands",
       "url": "https://open.spotify.com/track/0naLDQTAkKocazxCHTjNf3"
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 86176,
       "name": "Listening Ears",
       "url": "https://open.spotify.com/track/58j2ntc4hoiNcm9HhsEzMX"
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 66150,
       "name": "Playtime",
       "url": "https://open.spotify.com/track/0qJPlNOJ25dsI8MeClWjfv"
@@ -3640,7 +3640,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 56000,
       "name": "Sleepover Survival Kit",
       "url": "https://open.spotify.com/track/3tj6EmcDiII8FMPtcuAQ5x"
@@ -4345,6 +4345,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Sofia the First: Royal Magic",
+        "url": "https://open.spotify.com/album/1j0tuWhwfJUN7MbkVZYyQj"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215695,
+      "name": "Time to Shine",
+      "url": "https://open.spotify.com/track/1qDhlnqtKmW1VUcr7rcz6m"
+    },
+    {
+      "album": {
         "name": "Time to Spidey Save the Day (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
         "url": "https://open.spotify.com/album/2IHNXES7SoyxWN1Nr2fpt7"
       },
@@ -4484,7 +4506,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 61933,
       "name": "Trust in Me",
       "url": "https://open.spotify.com/track/38wNMduPdinI2fjg7Y729M"
@@ -4934,7 +4956,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 106634,
       "name": "You Can't Catch Me",
       "url": "https://open.spotify.com/track/3Wq8JjxFtujN9zyzK0cGQL"
@@ -5010,7 +5032,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 117813,
       "name": "Zuka Zama",
       "url": "https://open.spotify.com/track/6bnoqhh0lEfF90fuD5JZEO"

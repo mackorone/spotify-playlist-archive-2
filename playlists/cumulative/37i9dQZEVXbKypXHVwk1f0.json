@@ -7603,6 +7603,24 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4UDJUwV6pngJWWcxHK5xGz"
+      },
+      "artists": [
+        {
+          "name": "Dariel J",
+          "url": "https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200454,
+      "name": "Cuerpo Natural",
+      "url": "https://open.spotify.com/track/4uhRGeF8qhuNZYLrKbwxgV"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -8052,7 +8070,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 244675,
       "name": "Daikoku",
       "url": "https://open.spotify.com/track/6g1c531586S5DzdWYraRzv"
@@ -8759,6 +8777,24 @@
     },
     {
       "album": {
+        "name": "DesOrden",
+        "url": "https://open.spotify.com/album/2P4DYITUx7faiFzAzXaofU"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156845,
+      "name": "DesOrden",
+      "url": "https://open.spotify.com/track/2Fd7PA5quhm73Aw7H3FwwN"
+    },
+    {
+      "album": {
         "name": "Despecho",
         "url": "https://open.spotify.com/album/5Hh7ytHOxK1hLbFRLTXTyT"
       },
@@ -8986,7 +9022,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 246428,
       "name": "Dichavate",
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
@@ -11780,7 +11816,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -15192,7 +15228,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -25392,7 +25428,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 279685,
       "name": "PANTI Y COLALE 2.0",
       "url": "https://open.spotify.com/track/2ZSBqVV3T89BohjsYHmWtJ"
@@ -30870,8 +30906,8 @@
           "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
         },
         {
-          "name": "Bomber Musik",
-          "url": "https://open.spotify.com/artist/4zr3RwMjXXtxGlU3hsZJ2P"
+          "name": "Bombermusik",
+          "url": "https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ"
         }
       ],
       "date_added": "2025-12-04",
@@ -35714,7 +35750,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 177994,
       "name": "TU SANCHO",
       "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"

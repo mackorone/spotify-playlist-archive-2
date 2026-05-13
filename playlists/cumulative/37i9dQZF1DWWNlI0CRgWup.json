@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Oria",
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Asfar Shamsi",
   "name": "RADAR FRANCE",
   "tracks": [
     {
@@ -4162,6 +4162,24 @@
       "duration_ms": 184954,
       "name": "Se dire au revoir",
       "url": "https://open.spotify.com/track/5ifm6TYmhqQIOJ22aC7o2n"
+    },
+    {
+      "album": {
+        "name": "cuicui",
+        "url": "https://open.spotify.com/album/4OsIHJzoFdSEdFaYg6uSAE"
+      },
+      "artists": [
+        {
+          "name": "Asfar Shamsi",
+          "url": "https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174293,
+      "name": "Ses yeux",
+      "url": "https://open.spotify.com/track/1FkXhWnAODxXoaCnmMGo4j"
     },
     {
       "album": {

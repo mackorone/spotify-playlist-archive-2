@@ -1,12 +1,12 @@
 {
   "description": "This is Emily A. Sprague. The essential tracks, all in one playlist.",
-  "num_followers": 177,
+  "num_followers": 176,
   "original_name": "This Is Emily A. Sprague",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAADy4OBGNcAHtswRuFdgB34N",
+  "snapshot_id": "agEcAAAAAAByPg1FfhDuUhVhc4Ca2c4t",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 384226,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n"
+      "duration_ms": 369773,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/04ZsK2jPzneYHxkFWeu667"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 369773,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/04ZsK2jPzneYHxkFWeu667"
+      "duration_ms": 384226,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n"
     }
   ],
   "unique_name": "This Is Emily A. Sprague",

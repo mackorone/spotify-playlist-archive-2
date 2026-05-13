@@ -4,12 +4,12 @@
 
 > Embrace your inner Princess with your favorite Disney Princess songs.
 
-78 songs - 3 hr 46 min
+79 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/3s6nfqfT6kyLBT10vs0M4l) | [Lily James](https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:00 | 2022-10-07 |  |
-| [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/6BZ6BVgYmCmzdzCpwBVSKh) | [Vinil](https://open.spotify.com/artist/4B9njk5H0MezHq02ZrF6SA), [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [We Love Disney](https://open.spotify.com/album/20hXXkA6id62eSBnD5WSxH) | 3:19 | 2022-10-07 |  |
+| [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/6BZ6BVgYmCmzdzCpwBVSKh) | [Vinil](https://open.spotify.com/artist/4B9njk5H0MezHq02ZrF6SA), [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [We Love Disney](https://open.spotify.com/album/20hXXkA6id62eSBnD5WSxH) | 3:19 | 2022-10-07 | 2026-05-13 |
 | [A Dream is a Wish Your Heart Makes/So This is Love](https://open.spotify.com/track/3WlCLuC6emWu8kbpaEb0KT) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Dream Is a Wish Your Heart Makes/So This Is Love](https://open.spotify.com/album/3Es44cvPertgyqLdX7Shob) | 2:29 | 2022-10-07 |  |
 | [A Whole New World](https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin Special Edition](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) | 2:40 | 2022-10-07 |  |
 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 | 2022-10-07 |  |
@@ -75,6 +75,7 @@
 | [Starting Now Mashup](https://open.spotify.com/track/5Rj3PMCkJuVWeo0v3EO96D) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Starting Now Mashup](https://open.spotify.com/album/698o2GeA9evGYkRwpAenyF) | 2:24 | 2022-10-07 |  |
 | [Strong](https://open.spotify.com/track/7CMUQu028pU9oKOFMI6pgK) | [Sonna Rele](https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 3:14 | 2022-10-07 |  |
 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 | 2022-10-07 |  |
+| [Time to Shine](https://open.spotify.com/track/1qDhlnqtKmW1VUcr7rcz6m) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Sofia the First: Royal Magic](https://open.spotify.com/album/1j0tuWhwfJUN7MbkVZYyQj) | 3:35 | 2026-05-12 |  |
 | [Touch The Sky](https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave \(Original Soundtrack\)](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:31 | 2022-10-07 |  |
 | [Try Everything \- From "Zootropolis"](https://open.spotify.com/track/3qrH2YFnbEiQeUe4wzgOuP) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Try Everything \(From "Zootropolis"\)](https://open.spotify.com/album/661EtVkZYuH41VXXuOMBbo) | 3:16 | 2022-10-07 | 2025-08-09 |
 | [Under the Sea \- From "The Little Mermaid Live!"](https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:01 | 2022-10-07 |  |

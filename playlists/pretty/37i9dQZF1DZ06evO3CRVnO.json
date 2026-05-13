@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 326186,
+  "num_followers": 326220,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABgZ1k6np5xKx1G4NoKo7fL",
+  "snapshot_id": "agEcAAAAAAC9lidVztiCBH/hUJ8gN669",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "OLYMPIAN",
-      "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 235535,
       "name": "wokeuplikethis*",
       "url": "https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "OLYMPIAN",
+      "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM"
     },
     {
       "added_at": null,

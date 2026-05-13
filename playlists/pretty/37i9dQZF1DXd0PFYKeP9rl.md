@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0PFYKeP9rl.md) - [plain]
 
 > Freshly squeezed, from concentrate and 100% online.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,863 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,864 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0PFYKeP9rl.md) - [plain]
 | 49 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 50 | [ALL 2 U](https://open.spotify.com/track/3Fkrn3vvdYIyZxmRjQGIBr) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [ALL 2 U](https://open.spotify.com/album/33taQZFQEoXg4mUbg8Jbhw) | 2:38 |
 
-Snapshot ID: `AAAAAGp8IDkAsOI6rAvZYD3UuiFOqUJ7`
+Snapshot ID: `AAAAAD7aEKlYPL7kPOBq0l8/wZBYyM0Y`

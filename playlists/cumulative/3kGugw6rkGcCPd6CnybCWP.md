@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-362 songs - 20 hr 59 min
+366 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ask Me Why](https://open.spotify.com/track/0FXqsSgfEQhk3gsLs8FKyL) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Ask Me Why](https://open.spotify.com/album/1A6vohn8A6e7Gn8mN5Ob0H) | 3:32 | 2025-11-15 | 2026-01-17 |
 | [Atychiphobia](https://open.spotify.com/track/6tBFBC5Etcyk65r39tFTAj) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Atychiphobia](https://open.spotify.com/album/4sWV1ookrG5cyfB1x0Kozc) | 3:44 | 2026-03-09 | 2026-04-16 |
 | [Bacardi Love.](https://open.spotify.com/track/6P8S17uPnnLSEf2XPtDPbJ) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Bacardi Love.](https://open.spotify.com/album/4qK19G4ytKA2L8MYT6u2JQ) | 1:53 | 2025-11-07 | 2026-01-17 |
+| [Back to the Start](https://open.spotify.com/track/47HHmW5YouagaGwQrMCRvi) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Back to the Start](https://open.spotify.com/album/5PNIo39qx1mVQnluO3UM4f) | 2:23 | 2026-05-12 |  |
 | [Bad Attitude](https://open.spotify.com/track/5zM9Qohifqmxn2vzxfpx2C) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Bad Attitude](https://open.spotify.com/album/0xNPYQ8vVS3wNDEaWKY3iw) | 4:29 | 2026-02-06 | 2026-03-20 |
 | [Bad Perfume](https://open.spotify.com/track/50IJUVhqz7WhOLMV4ZDl4d) | [KC Johns](https://open.spotify.com/artist/3QoFTL03dyRNkukUWVVwfK) | [Bad Perfume](https://open.spotify.com/album/6Kzv2P8X9OOHtZqgjV6iGf) | 2:52 | 2026-04-20 |  |
 | [Badly Scripted Film](https://open.spotify.com/track/4Si8TfDhpe7nYnDbG0WMP2) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Badly Scripted Film](https://open.spotify.com/album/4dZqhfjWiAI1Q19Q19ZZx7) | 3:23 | 2026-03-04 | 2026-04-16 |
@@ -236,6 +237,7 @@
 | [Offsides](https://open.spotify.com/track/2bZPTbLabDiobYOcOsAtYS) | [Hey Again](https://open.spotify.com/artist/1DdU2OIgRTefByXP3yjTNI) | [Trial Run](https://open.spotify.com/album/42I6e9JHOr7Wo52OwdkIUI) | 1:54 | 2026-04-28 |  |
 | [Oh, Juliette!](https://open.spotify.com/track/5Uz0ggdrjLMTK91wVFMgpo) | [Apostles](https://open.spotify.com/artist/3RcRQvnGYuY8dyIROokwNi) | [Here to Stay](https://open.spotify.com/album/6QdDsrjkS70Lkub6FYUXvf) | 2:41 | 2025-10-30 | 2026-01-17 |
 | [One Day to Live](https://open.spotify.com/track/09g8TbfdsT563Hn0K0CgTF) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [One Day to Live](https://open.spotify.com/album/1psa25gJ5LnSF6s97hudRv) | 2:26 | 2026-04-15 |  |
+| [Online](https://open.spotify.com/track/6orF4Fdls3oyIIatwI4tLm) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Online](https://open.spotify.com/album/17FiFf2zK6GnULQt8lTAmh) | 2:38 | 2026-05-12 |  |
 | [Only Good Things Will Come](https://open.spotify.com/track/263iWFX37tqJlEdhiANAZ6) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [Only Good Things Will Come](https://open.spotify.com/album/1H3UTxWPBuzpZfuXew7rOB) | 3:06 | 2026-05-05 |  |
 | [Opening \- \|wa\|hia\|wa\|](https://open.spotify.com/track/4MhnSrDsVbd0EtXXp8bOkw) | [Niam Daia](https://open.spotify.com/artist/33Z86L54jqPDUxsx8u4PCZ) | [\|Invocation\|](https://open.spotify.com/album/7FeGBeSyXlSDnYis3bXDev) | 4:49 | 2026-05-10 |  |
 | [Ophelia](https://open.spotify.com/track/1yJUXqK5uC1FBJcH6mYlmr) | [Luciana Zogbi](https://open.spotify.com/artist/4ijejASaFZOolpZwK0XO9O) | [Ophelia](https://open.spotify.com/album/1lhbNpKc1sSnASkhi9T1NR) | 3:35 | 2026-03-08 | 2026-04-16 |
@@ -263,6 +265,7 @@
 | [SALEM](https://open.spotify.com/track/1XQEKHZ7DkLbttxrSWI72j) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [SALEM](https://open.spotify.com/album/2yxTaNnjFgwUVjEO3xNAUt) | 4:54 | 2026-03-08 | 2026-04-16 |
 | [Satellite](https://open.spotify.com/track/0DubPnJ1rX0O1dIBiAihPZ) | [Cold Equations](https://open.spotify.com/artist/2axEJPob8hT3XbjX72Npii) | [Satellite](https://open.spotify.com/album/6yjxqvOUnOQRiIpi4MtEHN) | 4:11 | 2025-10-27 | 2025-12-02 |
 | [SATISFIED](https://open.spotify.com/track/4tgRMPgQF7cjJ0t2oeqAEg) | [Mike Manos](https://open.spotify.com/artist/6pdy7rMEZXFowM5Z2gu6yA) | [SATISFIED](https://open.spotify.com/album/4wl2aolRxxD08ItnHxsovn) | 2:59 | 2025-10-30 | 2025-12-12 |
+| [Say Something](https://open.spotify.com/track/2sBEE8SZudR0dBr3JNbOjd) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Say Something](https://open.spotify.com/album/3m1tA8n5qe5weca6RPf1lM) | 2:50 | 2026-05-12 |  |
 | [See the Sun](https://open.spotify.com/track/70wXd8KHJGGeXQ3wBzNpO4) | [Vinyl Arch Rodeo](https://open.spotify.com/artist/6dUpuhgr9qyVooQ8bNI35H) | [See the Sun](https://open.spotify.com/album/6JxAl2HIHiULrLQsFXT2Ms) | 5:33 | 2026-05-05 |  |
 | [Semi\-Virgin](https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:12 | 2026-02-14 | 2026-04-02 |
 | [Serene](https://open.spotify.com/track/2n3tPMnCBMR7d1uZxrUtqT) | [Redam](https://open.spotify.com/artist/0KfO6Tzsb8sOkQ84khWyrd) | [Serene](https://open.spotify.com/album/4HyhWK0yZzMSiL1d0GNSfQ) | 3:23 | 2025-11-11 | 2026-01-17 |
@@ -354,6 +357,7 @@
 | [Wild](https://open.spotify.com/track/5ZhMqk7FzOrl0gTwSbQYxX) | [Sole](https://open.spotify.com/artist/4XJbFQL2rePYjFPTB9eiDK) | [Wild](https://open.spotify.com/album/18YO0QoSZm3l1KdQECEYbg) | 2:51 | 2026-02-16 | 2026-04-16 |
 | [WILLIAM \| wyws](https://open.spotify.com/track/4RzhWknS83AGSiMLSbTOxh) | [REIVEN](https://open.spotify.com/artist/4Fwo4QvaDDRtYMMRX0oIVW) | [WYWS \(WILLIAM\)](https://open.spotify.com/album/5A0B8iPVCVjhuhAf9HJQhz) | 4:00 | 2026-05-10 |  |
 | [Winter's Whisper](https://open.spotify.com/track/1syD8DhfIrIHUu0B5vGjTh) | [Scarlett](https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2) | [Winter's Whisper](https://open.spotify.com/album/3gMzux9f0mMkkv7a2W5uZj) | 3:40 | 2026-02-23 | 2026-04-16 |
+| [Wish It Were True](https://open.spotify.com/track/0ccX8b6roUZh5wdt4J4dR9) | [The meantime green](https://open.spotify.com/artist/03AuzDuKaTGM8tBZDtT90h) | [Wish It Were True](https://open.spotify.com/album/6BWOyHzOcBHsvS4FU9iMf5) | 3:16 | 2026-05-12 |  |
 | [Wishing Me Dead](https://open.spotify.com/track/68cOf9WYuULrqncSwLynKv) | [otobahn](https://open.spotify.com/artist/3uIcjCMqPqYfn2ColxJhpb) | [Wishing Me Dead](https://open.spotify.com/album/6CihvrHXu9YoY9XH9z1o53) | 5:06 | 2026-01-22 | 2026-03-10 |
 | [With You](https://open.spotify.com/track/6I7g2BvGCJzC20Ez6tEqHH) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [With You](https://open.spotify.com/album/7MSeQ2Pk4zXEa7ZjG6uJIT) | 3:21 | 2026-02-13 | 2026-03-29 |
 | [Wonderful Paradox](https://open.spotify.com/track/7LfF485Urzmt6zMcqNOVYu) | [Mad'J](https://open.spotify.com/artist/5trtjhxKBebFy3DnvgY1vy) | [Wonderful Paradox](https://open.spotify.com/album/39DtRuSIrgtoSb9TpkOOlC) | 3:44 | 2025-10-30 | 2026-01-17 |

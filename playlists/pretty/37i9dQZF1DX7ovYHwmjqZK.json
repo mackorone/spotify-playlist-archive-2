@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 277849,
+  "num_followers": 277858,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Ataraxia",
-        "url": "https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk"
-      },
-      "artists": [
-        {
-          "name": "Emma dos Santos",
-          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
-        }
-      ],
-      "duration_ms": 183656,
-      "name": "Ataraxia",
-      "url": "https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Novo Bossa Nova",
         "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 200285,
       "name": "Escada Infinita",
       "url": "https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Ataraxia",
+        "url": "https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk"
+      },
+      "artists": [
+        {
+          "name": "Emma dos Santos",
+          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
+        }
+      ],
+      "duration_ms": 183656,
+      "name": "Ataraxia",
+      "url": "https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Anos Dourados",
+        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
+      },
+      "artists": [
+        {
+          "name": "Luiz Lucas",
+          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
+        }
+      ],
+      "duration_ms": 333251,
+      "name": "A Paz",
+      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Rabiscos",
         "url": "https://open.spotify.com/album/0InaXpoubmJdDOEsqZpgoC"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 196000,
       "name": "Rabiscos",
       "url": "https://open.spotify.com/track/4Sr6vobosgTMEvJKWPeSd5"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Anos Dourados",
-        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
-      },
-      "artists": [
-        {
-          "name": "Luiz Lucas",
-          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
-        }
-      ],
-      "duration_ms": 333251,
-      "name": "A Paz",
-      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "House Of Jade",
+        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
+      },
+      "artists": [
+        {
+          "name": "Eugene Lambert",
+          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
+        }
+      ],
+      "duration_ms": 442000,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
         "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 204394,
       "name": "Cl\u00e1udia",
       "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "House Of Jade",
-        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
-      },
-      "artists": [
-        {
-          "name": "Eugene Lambert",
-          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
-        }
-      ],
-      "duration_ms": 442000,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -595,26 +595,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Bossa nova - Girls from Bela Vista",
-        "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
+        "name": "Semente Chorojazz",
+        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
       },
       "artists": [
         {
-          "name": "Petit Comit\u00e9",
-          "url": "https://open.spotify.com/artist/3gSyEcwH7JrMJPubpcHiIK"
-        },
-        {
-          "name": "Maur\u00edcio Tagliari",
-          "url": "https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml"
-        },
-        {
-          "name": "Luca Raele",
-          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
+          "name": "Z\u00e9 Paulo Becker",
+          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
         }
       ],
-      "duration_ms": 264722,
-      "name": "Girls from Bela Vista",
-      "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
+      "duration_ms": 267000,
+      "name": "Sambete",
+      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -639,18 +631,26 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Semente Chorojazz",
-        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
+        "name": "Bossa nova - Girls from Bela Vista",
+        "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Paulo Becker",
-          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
+          "name": "Petit Comit\u00e9",
+          "url": "https://open.spotify.com/artist/3gSyEcwH7JrMJPubpcHiIK"
+        },
+        {
+          "name": "Maur\u00edcio Tagliari",
+          "url": "https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml"
+        },
+        {
+          "name": "Luca Raele",
+          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Sambete",
-      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
+      "duration_ms": 264722,
+      "name": "Girls from Bela Vista",
+      "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Samba Doce",
+        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
+      },
+      "artists": [
+        {
+          "name": "Jorge Helder",
+          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Samba Doce",
+      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Navegante - Dudu Sperb Recebe Guinga",
         "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 285613,
       "name": "Choro Pro Z\u00e9",
       "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Samba Doce",
-        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
-      },
-      "artists": [
-        {
-          "name": "Jorge Helder",
-          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Samba Doce",
-      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
+      },
+      "artists": [
+        {
+          "name": "Francis Hime",
+          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Samba Dolente",
+      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Deslizando Na Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
+        "name": "Liberdade, vai",
+        "url": "https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI"
       },
       "artists": [
         {
-          "name": "Francis Hime",
-          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 234973,
-      "name": "Samba Dolente",
-      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+      "duration_ms": 231500,
+      "name": "Liberdade, vai",
+      "url": "https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1175,22 +1191,6 @@
       "duration_ms": 197672,
       "name": "Eu Canto pro Dia Nascer",
       "url": "https://open.spotify.com/track/3qvOBE1XoAdmzot2Uak4lx"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Liberdade, vai",
-        "url": "https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Liberdade, vai",
-      "url": "https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Vaga-Lumes",
-        "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        },
-        {
-          "name": "Tiago Nacarato",
-          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "Vaga-Lumes",
-      "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Afro Choro",
         "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 298014,
       "name": "Afro Choro",
       "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Vaga-Lumes",
+        "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        },
+        {
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Vaga-Lumes",
+      "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
     },
     {
       "added_at": "2025-09-19 14:10:48",

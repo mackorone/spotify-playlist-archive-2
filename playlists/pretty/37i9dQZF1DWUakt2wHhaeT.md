@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Lea Michele in CHESS the Musical
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,411 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,404 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [If I Ain’t Got You](https://open.spotify.com/track/6pakSvNOuGZOLmzBHN3IXh) | [Brandon Victor Dixon](https://open.spotify.com/artist/3rIXaFZEmvRxMDdxvkg5g2), [Maleah Joi Moon](https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM) | [Hell’s Kitchen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We) | 4:28 |
 | 50 | [Go](https://open.spotify.com/track/1qCTRPS71kuks85AAEBhrH) | [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 2:51 |
 
-Snapshot ID: `AAAAAACyoGXRf+uPMxog/TrSnL9j4h2I`
+Snapshot ID: `AAAAAOQaWD2e68K3Q3RRb8+Sw+BcX/3G`

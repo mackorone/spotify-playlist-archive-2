@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover:  Josh Groban
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,311 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,318 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 46 | [The Way It Was Before \(End Credits Version\)](https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [The Way It Was Before \(End Credits Version\) \[From the Netflix film by Skydance Animation "Spellbound"\]](https://open.spotify.com/album/60hiESggNyRXv4japokeyn) | 3:46 |
 | 47 | [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 |
 | 48 | [A World of Your Own](https://open.spotify.com/track/1ZfYtdc9FXkRmVXyNXxjoy) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb), [The Cast of Wonka](https://open.spotify.com/artist/31L4YQDSTiISRYoBVWUPt2) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:42 |
-| 49 | [MacArthur Park](https://open.spotify.com/track/4fDSBDNejNH4oPdkLZLtVL) | [Micah McLaurin](https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD), [RILEY](https://open.spotify.com/artist/5AKj7LRRQHfYPsCKfsptga) | [MacArthur Park](https://open.spotify.com/album/2nkfXVJbyimwijG4UYVqyB) | 6:15 |
+| 49 | [MacArthur Park](https://open.spotify.com/track/4fDSBDNejNH4oPdkLZLtVL) | [Saint Micah](https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD), [RILEY](https://open.spotify.com/artist/5AKj7LRRQHfYPsCKfsptga) | [MacArthur Park](https://open.spotify.com/album/2nkfXVJbyimwijG4UYVqyB) | 6:15 |
 | 50 | [Spanish or Vanish](https://open.spotify.com/track/0ijwa9A6H3WFoEFzBNzrxo) | [Duolingo](https://open.spotify.com/artist/5H7yCVEeAz3fdNJ16QO3Iq) | [Duolingo on Ice \(Original Broadway Recording\)](https://open.spotify.com/album/2igT4o8J4ldF4CLLauFmmF) | 1:00 |
 | 51 | [Therapy](https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 2:44 |
 | 52 | [Burn for You](https://open.spotify.com/track/6lmke3XxJTBC2x2tT6gMo7) | [Barlow & Bear](https://open.spotify.com/artist/2JymsYVZ5c5prv9mOdPB3p), [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu), [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk) | [The Unofficial Bridgerton Musical](https://open.spotify.com/album/7gXx19GNHIiQ3fIbXxeY1U) | 2:53 |

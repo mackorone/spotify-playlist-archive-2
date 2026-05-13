@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 436753,
+  "num_followers": 436945,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACA7X1maa313vbXlse1GkVN",
+  "snapshot_id": "agEcAAAAAAA1iJrbM9yX4ud4BDxcbB+0",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Times: Singles 1992-2006",
-        "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 226613,
-      "name": "Runaway - Remastered 2006",
-      "url": "https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ"
+      "duration_ms": 215080,
+      "name": "All Good In The Hood",
+      "url": "https://open.spotify.com/track/6lYDFEsQRgCDj0cBKodzG0"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+        "name": "High Times: Singles 1992-2006",
+        "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 215080,
-      "name": "All Good In The Hood",
-      "url": "https://open.spotify.com/track/6lYDFEsQRgCDj0cBKodzG0"
+      "duration_ms": 226613,
+      "name": "Runaway - Remastered 2006",
+      "url": "https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ"
     },
     {
       "added_at": null,

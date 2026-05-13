@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "Welcome to the Devil's Room",
+        "url": "https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5"
+      },
+      "artists": [
+        {
+          "name": "Hellblazers",
+          "url": "https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Bed Made of Roses",
+      "url": "https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP"
+    },
+    {
+      "album": {
         "name": "Bendito Cordeiro",
         "url": "https://open.spotify.com/album/4SarQR2GYrWQl7vcDLQysr"
       },
@@ -4542,6 +4560,24 @@
       "duration_ms": 230085,
       "name": "Lo Que Pudo Ser",
       "url": "https://open.spotify.com/track/0IwYsw7OECCgoHTbZWKmXU"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/0zXTGKTKT4ascu8laqtbsN"
+      },
+      "artists": [
+        {
+          "name": "David McKnight",
+          "url": "https://open.spotify.com/artist/6ok5d7uaATSwly0SKtNZ2Z"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163991,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0ApKAgVZmOG6DdfjO9BQHR"
     },
     {
       "album": {
@@ -8594,6 +8630,24 @@
       "duration_ms": 319732,
       "name": "What I Need from You",
       "url": "https://open.spotify.com/track/0AWDRo8aeuR6JBfc15g0wj"
+    },
+    {
+      "album": {
+        "name": "What's the Deal",
+        "url": "https://open.spotify.com/album/2nZMIWpDc27QL0NAFKWk4C"
+      },
+      "artists": [
+        {
+          "name": "Paranoize",
+          "url": "https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "What's the Deal",
+      "url": "https://open.spotify.com/track/65mwECblaHqM3LSRBTT1nE"
     },
     {
       "album": {

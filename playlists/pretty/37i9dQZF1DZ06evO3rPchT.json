@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 86538,
+  "num_followers": 86540,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACRTpInMOAjs4SKCS4YFgqk",
+  "snapshot_id": "agEcAAAAAACzoStQUmCJXdT3EaNyrq4a",
   "tracks": [
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 198748,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY"
+      "duration_ms": 201832,
+      "name": "REDNECKER",
+      "url": "https://open.spotify.com/track/6LLe2s3JrbawMkHzgyYeek"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 201832,
-      "name": "REDNECKER",
-      "url": "https://open.spotify.com/track/6LLe2s3JrbawMkHzgyYeek"
+      "duration_ms": 198748,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY"
     },
     {
       "added_at": null,
@@ -227,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
       },
       "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 221795,
-      "name": "JIM BOB",
-      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
+      "duration_ms": 195326,
+      "name": "In The Bible",
+      "url": "https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
       "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 195326,
-      "name": "In The Bible",
-      "url": "https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV"
+      "duration_ms": 221795,
+      "name": "JIM BOB",
+      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 140523,
+      "name": ".30-06",
+      "url": "https://open.spotify.com/track/1AF2ISbmAwwNTGUjgqMNQu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 213693,
       "name": "He Went To Jared (HARDY feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/49lYjrC2iz9Kqb30EL8XmK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 140523,
-      "name": ".30-06",
-      "url": "https://open.spotify.com/track/1AF2ISbmAwwNTGUjgqMNQu"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gin & Juice (HARDY\u2019s Version)",
-        "url": "https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 240452,
-      "name": "Gin & Juice - HARDY\u2019s Version",
-      "url": "https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THIS OLE BOY",
         "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gin & Juice (HARDY\u2019s Version)",
+        "url": "https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 240452,
+      "name": "Gin & Juice - HARDY\u2019s Version",
+      "url": "https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COUNTRY! COUNTRY!",
         "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 217270,
       "name": "Take The Country And Run",
       "url": "https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 208478,
-      "name": "SIGNED, SOBER YOU",
-      "url": "https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 203674,
       "name": "THROWBACK",
       "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 208478,
+      "name": "SIGNED, SOBER YOU",
+      "url": "https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc"
     },
     {
       "added_at": null,

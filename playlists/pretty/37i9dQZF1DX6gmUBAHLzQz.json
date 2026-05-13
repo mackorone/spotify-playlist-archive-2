@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. (C)BNP/BANDAI, DENTSU, TV TOKYO\n",
-  "num_followers": 41281,
+  "num_followers": 41290,
   "original_name": "Let's Aikatsu!",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-04-08 15:07:26",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 4\u5e74\u76ee",
-        "url": "https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT"
-      },
-      "artists": [
-        {
-          "name": "\u3082\u306a from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/4VPREigW2d9IB5D8xZEZw9"
-        }
-      ],
-      "duration_ms": 245346,
-      "name": "\u3044\u3070\u3089\u306e\u5973\u738b",
-      "url": "https://open.spotify.com/track/4Y2uO5rzu5UENvKvFNClQS"
-    },
-    {
-      "added_at": "2025-04-08 15:07:26",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 1\u5e74\u76ee2",
         "url": "https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 271000,
       "name": "\u653e\u8ab2\u5f8c\u30dd\u30cb\u30fc\u30c6\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6eNQAc1EbiY0gZBLtqY6YB"
+    },
+    {
+      "added_at": "2025-04-08 15:07:26",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 4\u5e74\u76ee",
+        "url": "https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u306a from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/4VPREigW2d9IB5D8xZEZw9"
+        }
+      ],
+      "duration_ms": 245346,
+      "name": "\u3044\u3070\u3089\u306e\u5973\u738b",
+      "url": "https://open.spotify.com/track/4Y2uO5rzu5UENvKvFNClQS"
     },
     {
       "added_at": "2025-04-08 15:07:26",
@@ -612,13 +612,13 @@
       },
       "artists": [
         {
-          "name": "\u3082\u306a from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/4VPREigW2d9IB5D8xZEZw9"
+          "name": "\u308b\u304b\u30fb\u3082\u306a\u30fb\u307f\u304d from AIKATSU\u2606STARS! & \u308f\u304b from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/00zQjOwNpDon4OsHmxUmoK"
         }
       ],
-      "duration_ms": 243040,
-      "name": "\u30bf\u30eb\u30c8\u30fb\u30bf\u30bf\u30f3",
-      "url": "https://open.spotify.com/track/14rUJ3yA1zQsJwuH2DmMEH"
+      "duration_ms": 241800,
+      "name": "Du-Du-Wa DO IT!!",
+      "url": "https://open.spotify.com/track/2QAVxAYeSqbAs01hXOh4M2"
     },
     {
       "added_at": "2025-04-08 15:07:26",
@@ -628,13 +628,13 @@
       },
       "artists": [
         {
-          "name": "\u308b\u304b\u30fb\u3082\u306a\u30fb\u307f\u304d from AIKATSU\u2606STARS! & \u308f\u304b from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/00zQjOwNpDon4OsHmxUmoK"
+          "name": "\u3082\u306a from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/4VPREigW2d9IB5D8xZEZw9"
         }
       ],
-      "duration_ms": 241800,
-      "name": "Du-Du-Wa DO IT!!",
-      "url": "https://open.spotify.com/track/2QAVxAYeSqbAs01hXOh4M2"
+      "duration_ms": 243040,
+      "name": "\u30bf\u30eb\u30c8\u30fb\u30bf\u30bf\u30f3",
+      "url": "https://open.spotify.com/track/14rUJ3yA1zQsJwuH2DmMEH"
     },
     {
       "added_at": "2025-04-08 15:07:26",

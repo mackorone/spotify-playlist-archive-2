@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 431 likes - 98 songs - 6 hr 16 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 433 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 96 | [Tanzt mit mir](https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Tanzt mit mir](https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ) | 3:39 |
 | 97 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 |
 | 98 | [Glide](https://open.spotify.com/track/7lBT4r2EB25JjsXzoDJjZ4) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Event Horizon](https://open.spotify.com/album/3QStexIRzKruswq8FDYp9S) | 3:21 |
+| 99 | [Going Down](https://open.spotify.com/track/7FMnpQg1vy0fc4sDaKUb5Q) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [A Big Dose of Speed](https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7) | 4:03 |
+| 100 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 |
 
-Snapshot ID: `AAABk91l9NjlM/IyDsxsXLIqCxNJcKjK`
+Snapshot ID: `AAABlUqBkHfjuS75CBMi3O34CbgOlOlj`

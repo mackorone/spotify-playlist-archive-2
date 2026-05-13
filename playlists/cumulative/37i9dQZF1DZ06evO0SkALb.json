@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "Soul Serenade - Digitally Remastered 00",
+      "url": "https://open.spotify.com/track/47jH75M7iaxFhSThMGLE4N"
+    },
+    {
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
       },
@@ -2302,7 +2320,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 173933,
       "name": "Your Good Thing (Is About To End)",
       "url": "https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Atemi Oyungu",
+  "description": "East Africa queens in their music bag. Cover: Ava Peace",
   "name": "Malkia",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 216466,
       "name": "Amini",
       "url": "https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN"
@@ -60,6 +60,24 @@
       "duration_ms": 199090,
       "name": "Anayefaa",
       "url": "https://open.spotify.com/track/6WJpstQ3jrreN8NPFGcj1a"
+    },
+    {
+      "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/2WOfCrcK8E7VwIpPebY4JR"
+      },
+      "artists": [
+        {
+          "name": "We are Nubia",
+          "url": "https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216561,
+      "name": "Available",
+      "url": "https://open.spotify.com/track/68kSXTp3h9GuVRJCXAXrmt"
     },
     {
       "album": {
@@ -744,7 +762,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 136296,
       "name": "Haya",
       "url": "https://open.spotify.com/track/42hRf2eAhvWnGqAUGnLHh1"
@@ -892,7 +910,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 264000,
       "name": "I Love You (Nakupenda)",
       "url": "https://open.spotify.com/track/55XMfPb2ZUm5vNYu8nWdx5"
@@ -928,7 +946,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 254000,
       "name": "Inawezekana",
       "url": "https://open.spotify.com/track/5LFqAvooQPm0XFZ63WawzM"
@@ -950,6 +968,24 @@
       "duration_ms": 149559,
       "name": "INCONSISTENT",
       "url": "https://open.spotify.com/track/2pZoUhklrNvuK4snbBn9ek"
+    },
+    {
+      "album": {
+        "name": "Ingia Ndani",
+        "url": "https://open.spotify.com/album/4BExbBfEv7R00sG0D9mO40"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200412,
+      "name": "Ingia Ndani",
+      "url": "https://open.spotify.com/track/2oRtYP1HnZt4AbkJvpzOH5"
     },
     {
       "album": {
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 194000,
       "name": "Kakana - Acoustic",
       "url": "https://open.spotify.com/track/7rtIoh5Gmq2Gds1cJQ7xTU"
@@ -1214,7 +1250,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 178348,
       "name": "Let It Flow",
       "url": "https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5"
@@ -1624,10 +1660,32 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 217826,
       "name": "Milele",
       "url": "https://open.spotify.com/track/0GRikCkCDjo6KZflphU4J6"
+    },
+    {
+      "album": {
+        "name": "RNB",
+        "url": "https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        },
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Mimi Na Wewe",
+      "url": "https://open.spotify.com/track/3dD3R2tOwctlnslnNl4rnq"
     },
     {
       "album": {
@@ -1761,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Ndi Omu",
+        "url": "https://open.spotify.com/album/60ZlE7CFnEko98CfhCAF5X"
+      },
+      "artists": [
+        {
+          "name": "Ava Peace",
+          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Ndi Omu",
+      "url": "https://open.spotify.com/track/6UgcbxONqCTponZo7ko0Ch"
+    },
+    {
+      "album": {
         "name": "NEMANYI",
         "url": "https://open.spotify.com/album/6MLCSfgN9nR1KdegiFY1HN"
       },
@@ -1834,6 +1910,24 @@
       "duration_ms": 196954,
       "name": "Ningwetele",
       "url": "https://open.spotify.com/track/674UoSgYQzmUza8uxOzRjP"
+    },
+    {
+      "album": {
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/3qpsd3313heP97lFUi5klk"
+      },
+      "artists": [
+        {
+          "name": "Zaituni",
+          "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315048,
+      "name": "Nipende",
+      "url": "https://open.spotify.com/track/1E7zvR5rjAQ8iXUzusdjZl"
     },
     {
       "album": {
@@ -1986,7 +2080,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 192000,
       "name": "Ogenda Kukilaba",
       "url": "https://open.spotify.com/track/6PNH55xC7zpHR30WT8paSw"
@@ -2040,7 +2134,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 225985,
       "name": "Omwenge",
       "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
@@ -2076,7 +2170,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 180278,
       "name": "On Yah - Intro",
       "url": "https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ"
@@ -2130,7 +2224,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 147906,
       "name": "OTD",
       "url": "https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd"
@@ -2341,6 +2435,28 @@
     },
     {
       "album": {
+        "name": "Watiri's Trouble",
+        "url": "https://open.spotify.com/album/0fLdMoX6lwdeXwHOuUUj2i"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        },
+        {
+          "name": "FEMI ONE",
+          "url": "https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172580,
+      "name": "Pole Pole",
+      "url": "https://open.spotify.com/track/5e8vMUSUiMuM7QmsEE6roD"
+    },
+    {
+      "album": {
         "name": "Moonsoon",
         "url": "https://open.spotify.com/album/7LTHIDC5Ui2HzF50HTeOzD"
       },
@@ -2460,10 +2576,28 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 194920,
       "name": "Raha",
       "url": "https://open.spotify.com/track/5L9ABMBidJ9jzZLJEM8ShZ"
+    },
+    {
+      "album": {
+        "name": "Off My Chest",
+        "url": "https://open.spotify.com/album/3UkjFytj440El2a712oDX9"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/460RSpd9DRIWWbBYi57WpF"
     },
     {
       "album": {
@@ -2630,7 +2764,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 228251,
       "name": "Sisi Ni Wale",
       "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
@@ -2710,7 +2844,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 228923,
       "name": "Sitaki",
       "url": "https://open.spotify.com/track/3jLbPvmEX7niNIoFCQjY7I"
@@ -2927,6 +3061,28 @@
     },
     {
       "album": {
+        "name": "Tonalaba",
+        "url": "https://open.spotify.com/album/5ONL2pLRZJpbFgHCKActmW"
+      },
+      "artists": [
+        {
+          "name": "Tracy Melon",
+          "url": "https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp"
+        },
+        {
+          "name": "Mojo",
+          "url": "https://open.spotify.com/artist/4eD6fI7A4KRt2T8HZaXJ7n"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Tonalaba",
+      "url": "https://open.spotify.com/track/0zyvr9G5PrfuvhqlCKMh4O"
+    },
+    {
+      "album": {
         "name": "Osobola",
         "url": "https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC"
       },
@@ -3106,7 +3262,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 216666,
       "name": "Utaniua",
       "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
@@ -3240,7 +3396,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 177049,
       "name": "Where Ya Been? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234"
@@ -3284,7 +3440,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 162313,
       "name": "Wild Ride - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
@@ -3302,7 +3458,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 181903,
       "name": "Wildin'",
       "url": "https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa"

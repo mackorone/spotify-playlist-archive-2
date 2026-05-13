@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Momo Boyd",
-  "num_followers": 92669,
+  "num_followers": 92641,
   "original_name": "Editors' Picks: Best Songs of April",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "Deep Water",
-        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 153069,
-      "name": "Deep Water",
-      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "car crash",
         "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 160626,
       "name": "car crash",
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Deep Water",
+        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 153069,
+      "name": "Deep Water",
+      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 188767,
+      "name": "Hell On Me",
+      "url": "https://open.spotify.com/track/4XzAJ5UubRHl8mSx3T4Aab"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "Sunday Again (with 2 Chainz)",
         "url": "https://open.spotify.com/album/1b3dLmOwWOyyqsUtT0NrBv"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 188767,
-      "name": "Hell On Me",
-      "url": "https://open.spotify.com/track/4XzAJ5UubRHl8mSx3T4Aab"
+      "duration_ms": 140461,
+      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -379,22 +395,6 @@
       "duration_ms": 265606,
       "name": "Ache",
       "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 140461,
-      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "Mr. Lovebomb",
-        "url": "https://open.spotify.com/album/6P5iNEDyHXsLhL781CJFyZ"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 227317,
-      "name": "side slider",
-      "url": "https://open.spotify.com/track/2O3zj9sxh8NcurUYDGfduH"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "In All Of My Tomorrows",
         "url": "https://open.spotify.com/album/52gf1YDvLm2WfjW5URSQkg"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 209850,
       "name": "In All Of My Tomorrows",
       "url": "https://open.spotify.com/track/7j8M0MdmOs2sacS1JAcP2y"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Mr. Lovebomb",
+        "url": "https://open.spotify.com/album/6P5iNEDyHXsLhL781CJFyZ"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 227317,
+      "name": "side slider",
+      "url": "https://open.spotify.com/track/2O3zj9sxh8NcurUYDGfduH"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -827,22 +827,18 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "No Trick (feat. Trim)",
-        "url": "https://open.spotify.com/album/2Ef9wMwtKu70uEH2MUQDec"
+        "name": "sweet talk",
+        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
       },
       "artists": [
         {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        },
-        {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
         }
       ],
-      "duration_ms": 123866,
-      "name": "No Trick (feat. Trim)",
-      "url": "https://open.spotify.com/track/10675f8RVNLuoz4cp2Jpc2"
+      "duration_ms": 146315,
+      "name": "sweet talk",
+      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -863,6 +859,26 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "No Trick (feat. Trim)",
+        "url": "https://open.spotify.com/album/2Ef9wMwtKu70uEH2MUQDec"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        }
+      ],
+      "duration_ms": 123866,
+      "name": "No Trick (feat. Trim)",
+      "url": "https://open.spotify.com/track/10675f8RVNLuoz4cp2Jpc2"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/200LAacp5mXwgFAr490iKq"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 223573,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "sweet talk",
-        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 146315,
-      "name": "sweet talk",
-      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "Humble'Em_PINK / Doin Too Much",
-        "url": "https://open.spotify.com/album/0j9CJn69fdtymqVXfKo4EA"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        },
-        {
-          "name": "CUZZOS",
-          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Humble'Em_PINK",
-      "url": "https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "mind be so numb",
         "url": "https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 195428,
       "name": "mind be so numb",
       "url": "https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Humble'Em_PINK / Doin Too Much",
+        "url": "https://open.spotify.com/album/0j9CJn69fdtymqVXfKo4EA"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "CUZZOS",
+          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Humble'Em_PINK",
+      "url": "https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "For All The Right Reasons Vol. 1",
+        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 254014,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/12Hhc4vvZv3gC8nGxcIBwf"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "USTILLDERE",
         "url": "https://open.spotify.com/album/21rrqgtywVRU2kSWMKNs7D"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 198626,
       "name": "USTILLDERE",
       "url": "https://open.spotify.com/track/6I6G2bpBRamSBitqmPYcdn"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "For All The Right Reasons Vol. 1",
-        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 254014,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/12Hhc4vvZv3gC8nGxcIBwf"
     }
   ],
   "unique_name": "Editors' Picks: Best Songs of April",

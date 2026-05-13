@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 977,
+  "num_followers": 980,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGBinAdI4Ic1RkHXBLtcAxZQymLBQe",
+  "snapshot_id": "AAAGCPcQ1y77fMdD7Nq812asOz+Auu+W",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1663,6 +1663,38 @@
       "duration_ms": 194960,
       "name": "She Wants To Walk Away (Distribution)",
       "url": "https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn"
+    },
+    {
+      "added_at": "2026-05-12 14:29:26",
+      "album": {
+        "name": "Pizza Feet",
+        "url": "https://open.spotify.com/album/6wQj0bkUwhOl3YV3pzRWTa"
+      },
+      "artists": [
+        {
+          "name": "Giant DeNiro",
+          "url": "https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY"
+        }
+      ],
+      "duration_ms": 275437,
+      "name": "Pizza Feet",
+      "url": "https://open.spotify.com/track/2lGhyNxLY05052wtN66sfK"
+    },
+    {
+      "added_at": "2026-05-12 14:34:13",
+      "album": {
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/0qEV9qVrOfS2HtWSXNBpJS"
+      },
+      "artists": [
+        {
+          "name": "The New Old",
+          "url": "https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb"
+        }
+      ],
+      "duration_ms": 182770,
+      "name": "Artificial Intelligence",
+      "url": "https://open.spotify.com/track/4Q4dia1Ln26H29TrcsyuBY"
     }
   ],
   "unique_name": "Unsigned Rock",

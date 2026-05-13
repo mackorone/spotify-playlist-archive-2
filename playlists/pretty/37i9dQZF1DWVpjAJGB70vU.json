@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2199846,
+  "num_followers": 2200310,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "American Pride",
-        "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "I'm in a Hurry (And Don't Know Why)",
-      "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 201600,
       "name": "Where The Green Grass Grows",
       "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "American Pride",
+        "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "I'm in a Hurry (And Don't Know Why)",
+      "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
-      },
-      "artists": [
-        {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Paint Me A Birmingham",
-      "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 285200,
       "name": "Fast as You",
       "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Paint Me A Birmingham",
+      "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Clay Walker",
-        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 166626,
-      "name": "What's It to You",
-      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Honky Tonk Attitude",
         "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 272066,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Clay Walker",
+        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 166626,
+      "name": "What's It to You",
+      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
         }
       ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
+      "duration_ms": 188840,
+      "name": "Life's a Dance",
+      "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
       },
       "artists": [
         {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Life's a Dance",
-      "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "High Lonesome",
-        "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 160360,
-      "name": "Better Class of Losers",
-      "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Dream Walkin'",
         "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 237160,
       "name": "Dream Walkin'",
       "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "High Lonesome",
+        "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "Better Class of Losers",
+      "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "What Mattered Most",
-        "url": "https://open.spotify.com/album/5Qo3ap2epPKhvaQCDnIJj6"
-      },
-      "artists": [
-        {
-          "name": "Ty Herndon",
-          "url": "https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "What Mattered Most",
-      "url": "https://open.spotify.com/track/09nWHcNuohUS7HMPdIDwrr"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Life's So Funny",
         "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 237226,
       "name": "Bigger Than the Beatles",
       "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "What Mattered Most",
+        "url": "https://open.spotify.com/album/5Qo3ap2epPKhvaQCDnIJj6"
+      },
+      "artists": [
+        {
+          "name": "Ty Herndon",
+          "url": "https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "What Mattered Most",
+      "url": "https://open.spotify.com/track/09nWHcNuohUS7HMPdIDwrr"
     },
     {
       "added_at": "2026-02-11 22:52:29",

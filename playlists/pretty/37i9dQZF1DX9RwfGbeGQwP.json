@@ -1,6 +1,6 @@
 {
   "description": "chill beats for cool coffeehouse vibes.",
-  "num_followers": 537550,
+  "num_followers": 537635,
   "original_name": "lofi cafe",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
+        "name": "crimeage",
+        "url": "https://open.spotify.com/album/1l2lkRiQHM1qvb43BEsMdp"
+      },
+      "artists": [
+        {
+          "name": "Meringuemanic",
+          "url": "https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn"
+        }
+      ],
+      "duration_ms": 124954,
+      "name": "crimeage",
+      "url": "https://open.spotify.com/track/0tFutaV60AviDnHLPWoViG"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
         "name": "Soft Slumber",
         "url": "https://open.spotify.com/album/6rY1d1JKF8lZH5I6WLveCK"
       },
@@ -419,18 +435,18 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "crimeage",
-        "url": "https://open.spotify.com/album/1l2lkRiQHM1qvb43BEsMdp"
+        "name": "It's just a phase",
+        "url": "https://open.spotify.com/album/2UbjJdAj76M4lMHp2m0ZAN"
       },
       "artists": [
         {
-          "name": "Meringuemanic",
-          "url": "https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn"
+          "name": "cuttingwood",
+          "url": "https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw"
         }
       ],
-      "duration_ms": 124954,
-      "name": "crimeage",
-      "url": "https://open.spotify.com/track/0tFutaV60AviDnHLPWoViG"
+      "duration_ms": 138000,
+      "name": "It's just a phase",
+      "url": "https://open.spotify.com/track/1lbU8i2RPO0DKGWCzkjdDP"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -447,22 +463,6 @@
       "duration_ms": 127135,
       "name": "Raven",
       "url": "https://open.spotify.com/track/0JmZwnmi3kceVlMQWBfW2y"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
-        "name": "It's just a phase",
-        "url": "https://open.spotify.com/album/2UbjJdAj76M4lMHp2m0ZAN"
-      },
-      "artists": [
-        {
-          "name": "cuttingwood",
-          "url": "https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "It's just a phase",
-      "url": "https://open.spotify.com/track/1lbU8i2RPO0DKGWCzkjdDP"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "St4rgaze",
-        "url": "https://open.spotify.com/album/0Vl5RR457Z9u2jky2mt6hL"
-      },
-      "artists": [
-        {
-          "name": "Zeitgeister",
-          "url": "https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "St4rgaze",
-      "url": "https://open.spotify.com/track/1cF4ddR83XpBTgnL0b9g1k"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "i love u",
         "url": "https://open.spotify.com/album/0UY0O01qnUYVIl3j2Yj9or"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "t\u00e5rpil",
-        "url": "https://open.spotify.com/album/1xbUiFBro17aLBR1nCgJmS"
+        "name": "St4rgaze",
+        "url": "https://open.spotify.com/album/0Vl5RR457Z9u2jky2mt6hL"
       },
       "artists": [
         {
-          "name": "bomull",
-          "url": "https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub"
+          "name": "Zeitgeister",
+          "url": "https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl"
         }
       ],
-      "duration_ms": 198709,
-      "name": "t\u00e5rpil",
-      "url": "https://open.spotify.com/track/3aAqdW5d6T4NXp3jUJd8rJ"
+      "duration_ms": 142400,
+      "name": "St4rgaze",
+      "url": "https://open.spotify.com/track/1cF4ddR83XpBTgnL0b9g1k"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -575,6 +559,22 @@
       "duration_ms": 131265,
       "name": "aldo",
       "url": "https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "t\u00e5rpil",
+        "url": "https://open.spotify.com/album/1xbUiFBro17aLBR1nCgJmS"
+      },
+      "artists": [
+        {
+          "name": "bomull",
+          "url": "https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub"
+        }
+      ],
+      "duration_ms": 198709,
+      "name": "t\u00e5rpil",
+      "url": "https://open.spotify.com/track/3aAqdW5d6T4NXp3jUJd8rJ"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -779,18 +779,18 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Im Like Ice, Buddy",
-        "url": "https://open.spotify.com/album/7limCyVYGVJjik6yeFef92"
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/0tuhaoSXp16EvvWykkE7fy"
       },
       "artists": [
         {
-          "name": "Cosmoo",
-          "url": "https://open.spotify.com/artist/5fntdguRKMh3yJhfTqmFrG"
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
         }
       ],
-      "duration_ms": 124895,
-      "name": "Im Like Ice, Buddy",
-      "url": "https://open.spotify.com/track/0QEfHUCh4fM9BOziJAZRG4"
+      "duration_ms": 143780,
+      "name": "Palette",
+      "url": "https://open.spotify.com/track/52A1HqtgXF8ZFKTbX7UpFr"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/0tuhaoSXp16EvvWykkE7fy"
+        "name": "Im Like Ice, Buddy",
+        "url": "https://open.spotify.com/album/7limCyVYGVJjik6yeFef92"
       },
       "artists": [
         {
-          "name": "Mozzie",
-          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+          "name": "Cosmoo",
+          "url": "https://open.spotify.com/artist/5fntdguRKMh3yJhfTqmFrG"
         }
       ],
-      "duration_ms": 143780,
-      "name": "Palette",
-      "url": "https://open.spotify.com/track/52A1HqtgXF8ZFKTbX7UpFr"
+      "duration_ms": 124895,
+      "name": "Im Like Ice, Buddy",
+      "url": "https://open.spotify.com/track/0QEfHUCh4fM9BOziJAZRG4"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "sunburn",
-        "url": "https://open.spotify.com/album/6NZfxSxsfouv5exah4wkzZ"
-      },
-      "artists": [
-        {
-          "name": "love_eight",
-          "url": "https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE"
-        }
-      ],
-      "duration_ms": 130832,
-      "name": "sunburn",
-      "url": "https://open.spotify.com/track/4U5WqVdkISyQaKIlAOICAt"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "Take your time",
         "url": "https://open.spotify.com/album/5QJETfJVFFzNn1VcM2jkR9"
       },
@@ -907,18 +891,34 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Natsumi",
-        "url": "https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ"
+        "name": "sunburn",
+        "url": "https://open.spotify.com/album/6NZfxSxsfouv5exah4wkzZ"
       },
       "artists": [
         {
-          "name": "Neko Kedi",
-          "url": "https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw"
+          "name": "love_eight",
+          "url": "https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE"
         }
       ],
-      "duration_ms": 126153,
-      "name": "Natsumi",
-      "url": "https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H"
+      "duration_ms": 130832,
+      "name": "sunburn",
+      "url": "https://open.spotify.com/track/4U5WqVdkISyQaKIlAOICAt"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "from the concrete jungle.",
+        "url": "https://open.spotify.com/album/4qxnAjDlgrkSg5jHdW7bG1"
+      },
+      "artists": [
+        {
+          "name": "igory",
+          "url": "https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9"
+        }
+      ],
+      "duration_ms": 126687,
+      "name": "from the concrete jungle.",
+      "url": "https://open.spotify.com/track/1EyDzxJvCP8qO1yoZOgeBY"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "from the concrete jungle.",
-        "url": "https://open.spotify.com/album/4qxnAjDlgrkSg5jHdW7bG1"
+        "name": "Natsumi",
+        "url": "https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ"
       },
       "artists": [
         {
-          "name": "igory",
-          "url": "https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9"
+          "name": "Neko Kedi",
+          "url": "https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw"
         }
       ],
-      "duration_ms": 126687,
-      "name": "from the concrete jungle.",
-      "url": "https://open.spotify.com/track/1EyDzxJvCP8qO1yoZOgeBY"
+      "duration_ms": 126153,
+      "name": "Natsumi",
+      "url": "https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Rainbower",
-        "url": "https://open.spotify.com/album/0OJRLC4hCEoQWJqVl9P2AC"
-      },
-      "artists": [
-        {
-          "name": "Aurora 10",
-          "url": "https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Rainbower",
-      "url": "https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "Cinco Osa",
         "url": "https://open.spotify.com/album/6QXzN2V0UEBwk09mhN0D6N"
       },
@@ -1635,6 +1619,38 @@
       "duration_ms": 150404,
       "name": "Cinco Osa",
       "url": "https://open.spotify.com/track/5J7ZHm2aHn4SyNVc9I6z20"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "Rainbower",
+        "url": "https://open.spotify.com/album/0OJRLC4hCEoQWJqVl9P2AC"
+      },
+      "artists": [
+        {
+          "name": "Aurora 10",
+          "url": "https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Rainbower",
+      "url": "https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "you, me & the breeze",
+        "url": "https://open.spotify.com/album/0l3z2rKWputEafQDqBaeyX"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 127407,
+      "name": "you, me & the breeze",
+      "url": "https://open.spotify.com/track/5Oturu85XoGTEHA0uNpUm3"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -1667,22 +1683,6 @@
       "duration_ms": 112941,
       "name": "Seat",
       "url": "https://open.spotify.com/track/7K30wL2fXA9qxrTS9JR8Om"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
-        "name": "you, me & the breeze",
-        "url": "https://open.spotify.com/album/0l3z2rKWputEafQDqBaeyX"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 127407,
-      "name": "you, me & the breeze",
-      "url": "https://open.spotify.com/track/5Oturu85XoGTEHA0uNpUm3"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -1791,18 +1791,34 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "washed up",
-        "url": "https://open.spotify.com/album/2qt6rOo8RTUt0lBbIPjMiS"
+        "name": "maple syrup",
+        "url": "https://open.spotify.com/album/7wpwlovTl7rVa0BIwNFPEG"
       },
       "artists": [
         {
-          "name": "Sleepy Titan",
-          "url": "https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL"
+          "name": "Slacker Jack's",
+          "url": "https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0"
         }
       ],
-      "duration_ms": 121446,
-      "name": "washed up",
-      "url": "https://open.spotify.com/track/2uhlAgdxgzwMvJ1YEA5ZaT"
+      "duration_ms": 137750,
+      "name": "maple syrup",
+      "url": "https://open.spotify.com/track/2RHglN6UQBJ3tpDSdkpZmn"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "Wandering Mind",
+        "url": "https://open.spotify.com/album/2CtsLFFhWPJTi4FOPaVsZB"
+      },
+      "artists": [
+        {
+          "name": "sodero",
+          "url": "https://open.spotify.com/artist/5dqoqyuDtvIPeTDNyRFA7k"
+        }
+      ],
+      "duration_ms": 129832,
+      "name": "Wandering Mind",
+      "url": "https://open.spotify.com/track/43W8ReyzcOORb0r1i8WJee"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -1823,18 +1839,18 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "maple syrup",
-        "url": "https://open.spotify.com/album/7wpwlovTl7rVa0BIwNFPEG"
+        "name": "washed up",
+        "url": "https://open.spotify.com/album/2qt6rOo8RTUt0lBbIPjMiS"
       },
       "artists": [
         {
-          "name": "Slacker Jack's",
-          "url": "https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0"
+          "name": "Sleepy Titan",
+          "url": "https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL"
         }
       ],
-      "duration_ms": 137750,
-      "name": "maple syrup",
-      "url": "https://open.spotify.com/track/2RHglN6UQBJ3tpDSdkpZmn"
+      "duration_ms": 121446,
+      "name": "washed up",
+      "url": "https://open.spotify.com/track/2uhlAgdxgzwMvJ1YEA5ZaT"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -1871,22 +1887,6 @@
       "duration_ms": 128059,
       "name": "Coffee Break",
       "url": "https://open.spotify.com/track/6ZgY3qsLYw1CfEqIuBjNPG"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
-        "name": "Wandering Mind",
-        "url": "https://open.spotify.com/album/2CtsLFFhWPJTi4FOPaVsZB"
-      },
-      "artists": [
-        {
-          "name": "sodero",
-          "url": "https://open.spotify.com/artist/5dqoqyuDtvIPeTDNyRFA7k"
-        }
-      ],
-      "duration_ms": 129832,
-      "name": "Wandering Mind",
-      "url": "https://open.spotify.com/track/43W8ReyzcOORb0r1i8WJee"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
+        "name": "Rainy Garden",
+        "url": "https://open.spotify.com/album/4t4XHavoZI07IKe2RyLEaV"
+      },
+      "artists": [
+        {
+          "name": "Hickah",
+          "url": "https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V"
+        }
+      ],
+      "duration_ms": 131660,
+      "name": "Rainy Garden",
+      "url": "https://open.spotify.com/track/5OYUfe47KilF4naZycbf0q"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/4ZROMfhzXmzeA6SkgoiBMD"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 108000,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7tfPRq7O7QsyddB0LmLBhJ"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
-        "name": "Rainy Garden",
-        "url": "https://open.spotify.com/album/4t4XHavoZI07IKe2RyLEaV"
-      },
-      "artists": [
-        {
-          "name": "Hickah",
-          "url": "https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V"
-        }
-      ],
-      "duration_ms": 131660,
-      "name": "Rainy Garden",
-      "url": "https://open.spotify.com/track/5OYUfe47KilF4naZycbf0q"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Street 34",
-        "url": "https://open.spotify.com/album/6jFTYjYvX678auOMIeYwVh"
-      },
-      "artists": [
-        {
-          "name": "Benjiroe",
-          "url": "https://open.spotify.com/artist/6Wn8G21OpyLGppBZazEhHp"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Street 34",
-      "url": "https://open.spotify.com/track/4hIalvhaz7MeO1J0kYKx3p"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "Michelin Guide",
         "url": "https://open.spotify.com/album/1QhKvjA26ZIzy5fkUOTqC2"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 145776,
       "name": "Michelin Guide",
       "url": "https://open.spotify.com/track/0K6V3RDzjkqdcrZowIw0W4"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "Street 34",
+        "url": "https://open.spotify.com/album/6jFTYjYvX678auOMIeYwVh"
+      },
+      "artists": [
+        {
+          "name": "Benjiroe",
+          "url": "https://open.spotify.com/artist/6Wn8G21OpyLGppBZazEhHp"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Street 34",
+      "url": "https://open.spotify.com/track/4hIalvhaz7MeO1J0kYKx3p"
     },
     {
       "added_at": "2026-04-23 08:45:52",

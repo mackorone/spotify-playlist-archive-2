@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden ke\u015fifler! Kapak: Ven\u00fcs \u00c7izim: Isu Kim",
+  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden ke\u015fifler! Kapak: Selen \u00c7izim: Isu Kim",
   "name": "Fresh Finds T\u00fcrkiye",
   "tracks": [
     {
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 157823,
       "name": "Art\u0131k Ka\u00e7ma",
       "url": "https://open.spotify.com/track/67Zchk9vtnPe4fXWxlvuRK"
@@ -3713,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "D\u00fc\u015fenin Dostu Olmaz",
+        "url": "https://open.spotify.com/album/0UzUrsyAM65xiknTFkLEKr"
+      },
+      "artists": [
+        {
+          "name": "Ray Anka",
+          "url": "https://open.spotify.com/artist/3CZCgjCxjlTiGZwodRPX3n"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118681,
+      "name": "Bol Bol Kelle Pa\u00e7a",
+      "url": "https://open.spotify.com/track/5fFCOorIkRTT3sopxbUqlT"
+    },
+    {
+      "album": {
         "name": "bombo\u015f",
         "url": "https://open.spotify.com/album/71nnWaKljCnfVJkcl03vS9"
       },
@@ -4640,7 +4658,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 198684,
       "name": "B\u00fcy\u00fck Burhan",
       "url": "https://open.spotify.com/track/4CIAQMDiSbmkrN9dHPHAV8"
@@ -7497,6 +7515,24 @@
     },
     {
       "album": {
+        "name": "Gecenin Be\u015fi",
+        "url": "https://open.spotify.com/album/0N5ZprrtGHpyoiXDBE9YFT"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6pekler",
+          "url": "https://open.spotify.com/artist/3DFcg2rWRKj3TPmC6KX6fh"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Gecenin Be\u015fi",
+      "url": "https://open.spotify.com/track/6ll5krLDHLXnxxEUPI0naR"
+    },
+    {
+      "album": {
         "name": "Eve D\u00f6n\u00fc\u015f",
         "url": "https://open.spotify.com/album/4H4MiPYSzfPZz7IaCB1ecv"
       },
@@ -7890,7 +7926,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 246000,
       "name": "Ge\u00e7mi\u015f G\u00fcl\u00fc\u015fler",
       "url": "https://open.spotify.com/track/6wXHZRDbMFoPPM9WvqDAMX"
@@ -11654,6 +11690,24 @@
       "duration_ms": 282419,
       "name": "Kay\u0131p",
       "url": "https://open.spotify.com/track/783fTyBGbozulQvBxR4pCt"
+    },
+    {
+      "album": {
+        "name": "Kay\u0131p",
+        "url": "https://open.spotify.com/album/0WdYpvzFz0ESpoAujkidj4"
+      },
+      "artists": [
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/6Hlp9DujTemu7A0SIIRyvS"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258988,
+      "name": "Kay\u0131p",
+      "url": "https://open.spotify.com/track/50UulFuKf16guKJrMq5F0c"
     },
     {
       "album": {
@@ -16075,6 +16129,24 @@
     },
     {
       "album": {
+        "name": "sakla ikimizi",
+        "url": "https://open.spotify.com/album/0ipeFeWEiC0pOnIWah5M4i"
+      },
+      "artists": [
+        {
+          "name": "Olabilir!",
+          "url": "https://open.spotify.com/artist/5Q17hiDpug3g5J2Z7XSWhd"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213645,
+      "name": "sakla ikimizi",
+      "url": "https://open.spotify.com/track/6lArS3LY2ieViyvpYGcLTi"
+    },
+    {
+      "album": {
         "name": "Saklansam",
         "url": "https://open.spotify.com/album/4F5aNu5wgcrP6PuACO5EYP"
       },
@@ -17832,7 +17904,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 190961,
       "name": "Sonsuz Kalabal\u0131klar",
       "url": "https://open.spotify.com/track/65Z1phkAnnTauKDnA2Inrq"
@@ -19336,7 +19408,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 150638,
       "name": "Uzatmam",
       "url": "https://open.spotify.com/track/1sGd8ofqiKxm2obCJA8YoQ"
@@ -20454,6 +20526,24 @@
       "duration_ms": 193893,
       "name": "yanl\u0131\u015f anlama",
       "url": "https://open.spotify.com/track/4MoE9f77QnHWFTpLDJlkY1"
+    },
+    {
+      "album": {
+        "name": "Yanl\u0131\u015f Yaln\u0131z",
+        "url": "https://open.spotify.com/album/2SswNMeI21i4t2UDAy1t85"
+      },
+      "artists": [
+        {
+          "name": "\u0130nsanl\u0131k Hali",
+          "url": "https://open.spotify.com/artist/0fn5WFRFyd4iHglCrNPqyo"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179379,
+      "name": "Yanl\u0131\u015f Yaln\u0131z",
+      "url": "https://open.spotify.com/track/7vLJSDZTOsohSEn3F6lcBr"
     },
     {
       "album": {

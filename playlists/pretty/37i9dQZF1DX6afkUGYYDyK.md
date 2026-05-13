@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,616 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,630 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 68 | [Give Thanks](https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Give Thanks](https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK) | 4:31 |
 | 69 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 | 70 | [Thank You](https://open.spotify.com/track/6uv1fhJ65Ev2lcgRmCMeOf) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [Thank You, I Love You](https://open.spotify.com/album/1Q3OpMJgTNZZq6wE4kcscv) | 4:39 |
-| 71 | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/track/6QQstj40hrBqzmz6yIOsoL) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [Jonathan Lee McElhenny](https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L) | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/album/0clx0dPMrLJKyF8O1vbEtq) | 4:45 |
-| 72 | [Too Grateful](https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [You Find a Way](https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN) | 4:55 |
+| 71 | [Too Grateful](https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [You Find a Way](https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN) | 4:55 |
+| 72 | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/track/6QQstj40hrBqzmz6yIOsoL) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [Jonathan Lee McElhenny](https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L) | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/album/0clx0dPMrLJKyF8O1vbEtq) | 4:45 |
 | 73 | [Thank You](https://open.spotify.com/track/1jSHuG8UuSHITdKR8EqtrE) | [Tondi Rams](https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Thank You](https://open.spotify.com/album/1ZjYyqnWU5CV1buejFZFk1) | 3:15 |
 | 74 | [Give Thanks](https://open.spotify.com/track/0htJRr9dFJJqCH8d9ETLSJ) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [Give Thanks](https://open.spotify.com/album/5bVCjApVZfaMMYdoeojjaz) | 3:45 |
 | 75 | [That Thank You Song!](https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [That Thank You Song!](https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR) | 3:06 |

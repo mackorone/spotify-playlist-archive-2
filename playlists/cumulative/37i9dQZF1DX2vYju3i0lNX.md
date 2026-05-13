@@ -4,7 +4,7 @@
 
 > Mellow jazz for focus or unwinding.
 
-1,348 songs - 3 day 7 hr 13 min
+1,349 songs - 3 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Asking You Out](https://open.spotify.com/track/0QCyenIbvoll6CIjDstGSj) | [Quinn Perry Trio](https://open.spotify.com/artist/16azKEAxILijPKm6gQf9Rb) | [Asking You Out](https://open.spotify.com/album/034e3pSqJygDVB8tMsXck0) | 3:04 | 2024-03-22 | 2026-01-27 |
 | [At Dawn](https://open.spotify.com/track/5nLMgWEQA33IDqZJyCkHND) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Paris in Spring](https://open.spotify.com/album/6j3hvmLvXl1eIHonHyj8cV) | 3:53 | 2023-10-13 | 2025-06-06 |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-05-09 | 2024-10-22 |
-| [At Last](https://open.spotify.com/track/4A8eikKPQAGf0ZyrQpku2O) | [Homeboy](https://open.spotify.com/artist/30s7ciNzZ7ULqyMmFvpEeE) | [At Last](https://open.spotify.com/album/5U2OFnDF6qJpbsO8frYuSK) | 3:28 | 2025-08-01 |  |
+| [At Last](https://open.spotify.com/track/4A8eikKPQAGf0ZyrQpku2O) | [Homeboy](https://open.spotify.com/artist/30s7ciNzZ7ULqyMmFvpEeE) | [At Last](https://open.spotify.com/album/5U2OFnDF6qJpbsO8frYuSK) | 3:28 | 2025-08-01 | 2026-05-13 |
 | [At Sea](https://open.spotify.com/track/15VwmSWvyL1OS3Q3zLd5DP) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [At Sea](https://open.spotify.com/album/4fwt7rT4Riq2ctN7Pfh4Ev) | 2:27 | 2024-08-12 | 2025-06-06 |
 | [At The Core](https://open.spotify.com/track/2DBs5uxGA8SW9chKTXhjgg) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [At The Core](https://open.spotify.com/album/3NvsH6mqSkzNKV2uWVcBJR) | 3:13 | 2025-07-23 |  |
 | [At the end of the day](https://open.spotify.com/track/0flOyulYWI5aqATizzKxdU) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [At the end of the day](https://open.spotify.com/album/4hBDyCoutcG2IhvK1p87P8) | 3:36 | 2024-05-10 | 2026-01-27 |
@@ -663,6 +663,7 @@
 | [Least\-Dressed Woman](https://open.spotify.com/track/4LuOtrVQrtJB8pdD5H7vi2) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Least\-Dressed Woman](https://open.spotify.com/album/24GEw2L1N3Woo4WBdExMPc) | 3:12 | 2023-05-25 | 2025-11-19 |
 | [Leave Your Umbrella at Home](https://open.spotify.com/track/1lSNa1Da5Q5OeNhjzgovSg) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Leave Your Umbrella at Home](https://open.spotify.com/album/05ap7L64mGjQP9plKI35Vf) | 3:22 | 2024-04-23 | 2025-06-06 |
 | [Lesters's Tears](https://open.spotify.com/track/4h4NyGcAmkInin8wNidCfS) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lesters's Tears](https://open.spotify.com/album/4QV6IWuWigFnh8XXrPyMRX) | 3:52 | 2023-05-11 | 2025-07-24 |
+| [Let's Be In Love](https://open.spotify.com/track/1ERVDUNSdOSorgWYUdauWA) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Let's Be In Love](https://open.spotify.com/album/50KonU2PiDTqvRJ53eHYHA) | 3:14 | 2026-05-12 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/23DcHmLNaFGDZgwvDGFZAr) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Let's Fall In Love](https://open.spotify.com/album/7G0rXg3K3k85sqOLOeBokT) | 2:50 | 2023-12-08 | 2025-11-19 |
 | [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 | 2025-03-04 |
 | [Let's Have Lunch at the Counter](https://open.spotify.com/track/7GsguN3kbzxm2n4kCEbXUf) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Let's Have Lunch at the Counter](https://open.spotify.com/album/3YcoF3yc2mpOsBCBO1dOwE) | 2:46 | 2024-02-09 | 2025-11-19 |

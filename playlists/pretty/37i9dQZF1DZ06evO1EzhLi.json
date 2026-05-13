@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 180755,
+  "num_followers": 180758,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAC48vcPei4+zuN8wLbccLNR",
+  "snapshot_id": "agEcAAAAAABK41LxjJbtxQVNAgHAcZYM",
   "tracks": [
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Something In My Mind",
-      "url": "https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG"
+      "duration_ms": 218066,
+      "name": "Long Day",
+      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 218066,
-      "name": "Long Day",
-      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
+      "duration_ms": 198653,
+      "name": "Something In My Mind",
+      "url": "https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG"
     },
     {
       "added_at": null,

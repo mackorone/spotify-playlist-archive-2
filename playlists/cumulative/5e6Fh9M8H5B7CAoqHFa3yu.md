@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,208 songs - 5 day 10 hr 38 min
+2,209 songs - 5 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Disco Fever \- Radio Edit](https://open.spotify.com/track/3wNybqxtA7yvDwPd2sTBjF) | [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [Disco Fever](https://open.spotify.com/album/3aLbYm244NShbPuDti88qK) | 2:38 | 2024-12-25 |  |
 | [Disconec](https://open.spotify.com/track/4rn9AUPDzqJHDNY9HbmhFf) | [Charl´s Tone](https://open.spotify.com/artist/0pmheYtMCd7dDJsAfDEAcn) | [Disconec](https://open.spotify.com/album/0XEzIcN8aIeanM70vNC0iF) | 4:25 | 2025-08-02 |  |
 | [Disfraz](https://open.spotify.com/track/6px55UKbJjmJkd5tvN3If6) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:10 | 2025-12-28 |  |
+| [Disorder](https://open.spotify.com/track/76sKVlV9JbKDXWSanOBzkd) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Rare](https://open.spotify.com/album/22Pfw2Cr7UHCJdmEizej8V) | 2:22 | 2026-05-12 |  |
 | [Dissonance](https://open.spotify.com/track/7ojTGZAKHV9QVswnIWaHnt) | [Ambith](https://open.spotify.com/artist/4fAMSGI9YBnkkkNx8dsyF2) | [Dissonance](https://open.spotify.com/album/1qgZndhIljvvCFIupC6Fct) | 3:58 | 2026-01-30 |  |
 | [Distant Memories](https://open.spotify.com/track/3jEzTEIQlLUvAI8MCa6ZTX) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [The Lofi Tape Vol 1](https://open.spotify.com/album/669reT1wAagQzhBIIzo4nK) | 3:49 | 2025-07-27 |  |
 | [Distante](https://open.spotify.com/track/3Ss2udUvmiLurWoHEhTOJ2) | [1702](https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS) | [Una Montañita/Distante](https://open.spotify.com/album/34Etl8WfcdeNHjWzPk3uNc) | 3:20 | 2026-03-17 |  |

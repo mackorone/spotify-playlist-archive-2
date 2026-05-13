@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,682 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,678 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 35 | [Deus Proverá + De Nada Tenho Falta \(Ao Vivo\)](https://open.spotify.com/track/0P32dn0FwLXHbGn9nUxT8H) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Deus Proverá + De Nada Tenho Falta \(Ao Vivo\)](https://open.spotify.com/album/2zyADzeYjaUwdBh7ecCpSP) | 6:03 |
 | 36 | [Sonhos Não Têm Fim + Volte a Sonhar \(Ao Vivo\)](https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Sonhos Não Têm Fim + Volte a Sonhar \(Ao Vivo\)](https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG) | 6:09 |
 | 37 | [Eu Quero Ser Santo + Pela Santidade de Deus \(Ao Vivo\)](https://open.spotify.com/track/0B6CvjP0zkqEMe03vzEx91) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Eu Quero Ser Santo + Pela Santidade de Deus \(Ao Vivo\)](https://open.spotify.com/album/7GMCW2o8zYxHIv5Dms2nu0) | 5:08 |
-| 38 | [Eu Me Arrependo](https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Jesus, o Brasil Te Adora](https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC) | 5:53 |
-| 39 | [Fala Comigo + Estamos de Pé \(Ao Vivo\)](https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Fala Comigo + Estamos de Pé \(Ao Vivo\)](https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL) | 4:29 |
+| 38 | [Fala Comigo + Estamos de Pé \(Ao Vivo\)](https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Fala Comigo + Estamos de Pé \(Ao Vivo\)](https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL) | 4:29 |
+| 39 | [Eu Me Arrependo](https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Jesus, o Brasil Te Adora](https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC) | 5:53 |
 | 40 | [Deus dos Vales, Deus dos Montes](https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:43 |
 | 41 | [Deus Está me Ensinando](https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 4:54 |
 | 42 | [Descanse o Seu Coração + Deus é Deus \(Ao Vivo\)](https://open.spotify.com/track/6e2AAioKth03BlAjIXiTJr) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Descanse o Seu Coração + Deus é Deus \(Ao Vivo\)](https://open.spotify.com/album/0iwwmZaDhcPFlBQ97Sx6jm) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 49 | [É Assim Que Eu Quero Te Adorar + Som de um Coração \(Ao Vivo\)](https://open.spotify.com/track/2ydWTetNwvbuXhEDG0yq3V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [É Assim Que Eu Quero Te Adorar \(Ao Vivo\)](https://open.spotify.com/album/61wOcR7NX5iu1OfYb6V5Rf) | 6:46 |
 | 50 | [Deus no Controle](https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:51 |
 
-Snapshot ID: `af/KgAAAAADDqxp+DkuOGSHTzc55jCts`
+Snapshot ID: `agEcAAAAAAAFOm3g/mQcM2a++YaaysCb`

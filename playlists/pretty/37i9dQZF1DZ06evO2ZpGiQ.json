@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 479413,
+  "num_followers": 479472,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABKav+vn/1GFZbyHcZD/z5/",
+  "snapshot_id": "agEcAAAAAABENbwjmC73FofSWjeVh/fK",
   "tracks": [
     {
       "added_at": null,
@@ -607,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry 4 The Wait",
-        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
+        "name": "Me U & Hennessy (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO"
       },
       "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 148610,
-      "name": "Twist Made Me",
-      "url": "https://open.spotify.com/track/4AZKDSYA1qtpiZQBdXno2j"
+      "duration_ms": 224971,
+      "name": "Me U & Hennessy (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
     },
     {
       "added_at": null,
@@ -639,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me U & Hennessy (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO"
+        "name": "Sorry 4 The Wait",
+        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
       },
       "artists": [
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 224971,
-      "name": "Me U & Hennessy (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
+      "duration_ms": 148610,
+      "name": "Twist Made Me",
+      "url": "https://open.spotify.com/track/4AZKDSYA1qtpiZQBdXno2j"
     },
     {
       "added_at": null,

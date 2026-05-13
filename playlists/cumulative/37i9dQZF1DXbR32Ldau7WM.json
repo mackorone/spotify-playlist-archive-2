@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: [Alexandros]",
+  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: kanekoayano",
   "name": "Rock Strike Japan",
   "tracks": [
     {
@@ -6188,7 +6188,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 195463,
       "name": "I DON'T WANNA DIE!",
       "url": "https://open.spotify.com/track/6wfgtLGaf3CRNHUrl27OdF"
@@ -7209,6 +7209,24 @@
     },
     {
       "album": {
+        "name": "Travessia",
+        "url": "https://open.spotify.com/album/1AABJwnD3LB9dRkIihBM3J"
+      },
+      "artists": [
+        {
+          "name": "Maverick Mom",
+          "url": "https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Karakuri",
+      "url": "https://open.spotify.com/track/1BupfSkdNPkfKzUMHpO03e"
+    },
+    {
+      "album": {
         "name": "Kare Wa 3.0",
         "url": "https://open.spotify.com/album/3GskQdudpnahBmVyTcnjxw"
       },
@@ -7336,7 +7354,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 203547,
       "name": "KINTSUGI feat. Koie",
       "url": "https://open.spotify.com/track/5HxM1saoFXmxuegcBvf8gP"
@@ -14894,7 +14912,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 226026,
       "name": "TAIDADA",
       "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
@@ -17284,7 +17302,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 179826,
       "name": "Waterloo",
       "url": "https://open.spotify.com/track/4QMteoJ6BM8RrkWQWOMJEd"
@@ -19167,6 +19185,24 @@
     },
     {
       "album": {
+        "name": "\u3060\u3088",
+        "url": "https://open.spotify.com/album/5HMF0jFGPGqtHka0GoIoge"
+      },
+      "artists": [
+        {
+          "name": "never young beach",
+          "url": "https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199235,
+      "name": "\u3060\u3088",
+      "url": "https://open.spotify.com/track/2P29b4IhpipUwq6OKMwda8"
+    },
+    {
+      "album": {
         "name": "\u611b\u5f4c\u3005",
         "url": "https://open.spotify.com/album/5sQWqif17rMKy4LNifoXFx"
       },
@@ -19672,6 +19708,24 @@
       "duration_ms": 307133,
       "name": "\u307f\u3089\u3044\u306e\u3046\u305f - 2023 Master",
       "url": "https://open.spotify.com/track/51UlfCizQkKyESnzcJjOn4"
+    },
+    {
+      "album": {
+        "name": "\u3081\u3093\u3069\u3044\u306a...",
+        "url": "https://open.spotify.com/album/7koDFtKgtEUxtapnKdL4Pl"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248333,
+      "name": "\u3081\u3093\u3069\u3044\u306a...",
+      "url": "https://open.spotify.com/track/3oq3zZ8Ho92TJl14tALPfS"
     },
     {
       "album": {
@@ -22399,6 +22453,24 @@
     },
     {
       "album": {
+        "name": "\u30d6\u30eb\u30fc/\u307e\u3060\u554f\u984c\u306a\u3044",
+        "url": "https://open.spotify.com/album/08xScu3cYp3QW5kakLd17P"
+      },
+      "artists": [
+        {
+          "name": "kanekoayano",
+          "url": "https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290949,
+      "name": "\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/6773G0vy7KnC1c5mnHyVbf"
+    },
+    {
+      "album": {
         "name": "\u3089\u3093\u3069",
         "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
       },
@@ -23110,6 +23182,24 @@
       "duration_ms": 193000,
       "name": "\u30ef\u30fc\u30eb\u30c9\u30a8\u30f3\u30c9\u30ac\u30fc\u30eb\u30d5\u30ec\u30f3\u30c9",
       "url": "https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C"
+    },
+    {
+      "album": {
+        "name": "\u30ef\u30fc\u30eb\u30d7\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/5QRYsJD5pzVbwBuKToNNvp"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235495,
+      "name": "\u30ef\u30fc\u30eb\u30d7\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/67XyRH9Xb08XnV028CX6eb"
     },
     {
       "album": {
@@ -26022,7 +26112,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 250000,
       "name": "\u6708\u306e\u6900",
       "url": "https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v"
@@ -26991,6 +27081,24 @@
     },
     {
       "album": {
+        "name": "\u7570\u6b21\u5143\u306e\u66ae\u3089\u3057",
+        "url": "https://open.spotify.com/album/1in1MsABiu1uVDG5jBrqgx"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30ec\u30d3\u5927\u9678\u97f3\u982d",
+          "url": "https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214794,
+      "name": "\u7570\u6b21\u5143\u306e\u66ae\u3089\u3057",
+      "url": "https://open.spotify.com/track/1q0gjCOES8TvZkDICo1GBP"
+    },
+    {
+      "album": {
         "name": "\u75be\u98a8\u6012\u6fe4",
         "url": "https://open.spotify.com/album/4dTOxbXSDpVGs4tR6ByCZQ"
       },
@@ -27338,7 +27446,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 208226,
       "name": "\u79c1\u306e\u6b4c",
       "url": "https://open.spotify.com/track/3QUCS59HrDVuLdGdkA69Ip"

@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 215988,
+  "num_followers": 216079,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Top Hat Crown & the Clapmaster's Son",
         "url": "https://open.spotify.com/album/0JGmK6gTeDeca4ijGPEUaf"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 319227,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3s5NrHgyTkuinl0TgHCHeK"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 275690,
-      "name": "Sunday Mornin' Comin' Down",
-      "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "All Your'n",
         "url": "https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL"
       },
@@ -991,34 +975,18 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "High Top Mountain",
-        "url": "https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf"
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 126466,
-      "name": "Life Ain't Fair and the World Is Mean",
-      "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+      "duration_ms": 275690,
+      "name": "Sunday Mornin' Comin' Down",
+      "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -1039,18 +1007,18 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
       "artists": [
         {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
         }
       ],
-      "duration_ms": 147909,
-      "name": "Help Me Make It Through the Night",
-      "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -1067,6 +1035,38 @@
       "duration_ms": 199773,
       "name": "Let the Rain Come Down",
       "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "High Top Mountain",
+        "url": "https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 126466,
+      "name": "Life Ain't Fair and the World Is Mean",
+      "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 147909,
+      "name": "Help Me Make It Through the Night",
+      "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
+        "name": "Straw in the Wind",
+        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Straw in the Wind",
+      "url": "https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
         "name": "I'm Jessi Colter",
         "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 176973,
       "name": "I Been to Georgia on a Fast Train",
       "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
-        "name": "Straw in the Wind",
-        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Straw in the Wind",
-      "url": "https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8"
     },
     {
       "added_at": "2026-04-03 04:00:34",

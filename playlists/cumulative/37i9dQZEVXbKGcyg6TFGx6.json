@@ -4254,7 +4254,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 138923,
       "name": "APALUSA",
       "url": "https://open.spotify.com/track/6CycPeO7afAVFR0zgfHT40"
@@ -27402,7 +27402,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
@@ -29398,7 +29398,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -35705,6 +35705,24 @@
     },
     {
       "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192005,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
+    },
+    {
+      "album": {
         "name": "FUGA",
         "url": "https://open.spotify.com/album/1vW3c1fJnDZc0e3hmIZP6w"
       },
@@ -40096,7 +40114,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 153779,
       "name": "m\u00e9li-m\u00e9lo",
       "url": "https://open.spotify.com/track/1kEVqYA0JMm0qKQqykm7gE"
@@ -40984,7 +41002,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -43098,7 +43116,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 220000,
       "name": "One Tiny Winter Please",
       "url": "https://open.spotify.com/track/5qQvroBbVrXmV7XSEb6eGO"
@@ -49484,7 +49502,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 174493,
       "name": "RUINART",
       "url": "https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w"
@@ -54916,7 +54934,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -55878,7 +55896,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 169846,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0RcQ7Z0vnVzNX8Gv2m95Xt"
@@ -56906,6 +56924,24 @@
       "duration_ms": 142408,
       "name": "Takeoff",
       "url": "https://open.spotify.com/track/2PZUDnMgnqYxS6JRgIP6ZB"
+    },
+    {
+      "album": {
+        "name": "Talk To Me About",
+        "url": "https://open.spotify.com/album/2mGFjUxnC58ljCcXIE4mNW"
+      },
+      "artists": [
+        {
+          "name": "MrRay",
+          "url": "https://open.spotify.com/artist/47KcCSlSzrN7OI7VxA3Wit"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235216,
+      "name": "Talk To Me About",
+      "url": "https://open.spotify.com/track/6xXvBgeUlVLDdGb1lusfE0"
     },
     {
       "album": {
@@ -67000,7 +67036,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

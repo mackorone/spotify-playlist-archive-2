@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2140535,
+  "num_followers": 2140292,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Like I Used To (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "If I Didn\u2019t Love You",
         "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 246350,
       "name": "If I Didn\u2019t Love You",
       "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Like I Used To (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Colony of Bees",
+        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "On the Frame",
+      "url": "https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Loving Takes This Course - a Tribute to the Songs of Kath Bloom",
-        "url": "https://open.spotify.com/album/45Ae8sd3ZB5gbBHNNIZaGY"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 383066,
-      "name": "The Breeze / My Baby Cries",
-      "url": "https://open.spotify.com/track/32QtDJN4oRfo3Jwy6gpoWN"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Colony of Bees",
-        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
+        "name": "Loving Takes This Course - a Tribute to the Songs of Kath Bloom",
+        "url": "https://open.spotify.com/album/45Ae8sd3ZB5gbBHNNIZaGY"
       },
       "artists": [
         {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
         }
       ],
-      "duration_ms": 219480,
-      "name": "On the Frame",
-      "url": "https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px"
+      "duration_ms": 383066,
+      "name": "The Breeze / My Baby Cries",
+      "url": "https://open.spotify.com/track/32QtDJN4oRfo3Jwy6gpoWN"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "The Life",
-        "url": "https://open.spotify.com/album/0P7elKGRg3sqrIoxF5gHqw"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 146873,
-      "name": "The Life",
-      "url": "https://open.spotify.com/track/6v2NgEbmGFOulY74emLe6u"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "call me when u get home (acoustic)",
         "url": "https://open.spotify.com/album/2AkstuR3cQ5RGus5nK8hnF"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 196391,
       "name": "call me when u get home - acoustic",
       "url": "https://open.spotify.com/track/2PheVaKE7Dd7qY0NAD4VBr"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "The Life",
+        "url": "https://open.spotify.com/album/0P7elKGRg3sqrIoxF5gHqw"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 146873,
+      "name": "The Life",
+      "url": "https://open.spotify.com/track/6v2NgEbmGFOulY74emLe6u"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/5atmHcN5ky3QHDN74C5DE4"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 211488,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/6J8sDxzI3nJqHMnRcKX9VI"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 195850,
       "name": "Real Peach - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/5atmHcN5ky3QHDN74C5DE4"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 211488,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/6J8sDxzI3nJqHMnRcKX9VI"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "New Paint - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 273413,
       "name": "For a While",
       "url": "https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "New Paint - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Worst Day (Stripped Version)",
-        "url": "https://open.spotify.com/album/1DYJdrMj7pXgVzj8HD5b51"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 168774,
-      "name": "Worst Day - Stripped Version",
-      "url": "https://open.spotify.com/track/7dWVYMBp1sAECRjWKh3ySp"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Neon",
         "url": "https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ"
       },
@@ -1963,6 +1943,26 @@
       "duration_ms": 220864,
       "name": "I Hope It Takes You Higher - Acoustic",
       "url": "https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Worst Day (Stripped Version)",
+        "url": "https://open.spotify.com/album/1DYJdrMj7pXgVzj8HD5b51"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 168774,
+      "name": "Worst Day - Stripped Version",
+      "url": "https://open.spotify.com/track/7dWVYMBp1sAECRjWKh3ySp"
     },
     {
       "added_at": "2026-01-09 13:51:16",

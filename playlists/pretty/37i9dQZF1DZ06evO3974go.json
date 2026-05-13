@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21061,
+  "num_followers": 21058,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAAmZgtWyadWNMOCdai/VB0d",
+  "snapshot_id": "agEcAAAAAAD+GpdTL0kIJHI2YD5DRgNw",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Cry",
-        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 169880,
-      "name": "Song Cry",
-      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich As In Spirit",
         "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
       },
@@ -559,6 +543,26 @@
       "duration_ms": 141818,
       "name": "Risk Takers",
       "url": "https://open.spotify.com/track/2MamyTCQ8NxwdXDuAuleWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Label Vol. 2",
+        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 281704,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF"
     },
     {
       "added_at": null,
@@ -599,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Song Cry",
+        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 169880,
+      "name": "Song Cry",
+      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -612,9 +632,9 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 281704,
-      "name": "No Way",
-      "url": "https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF"
+      "duration_ms": 214935,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6DBEM7SPgNvLTDowgmxvwN"
     },
     {
       "added_at": null,
@@ -679,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Label Vol. 2",
-        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 214935,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6DBEM7SPgNvLTDowgmxvwN"
+      "duration_ms": 253452,
+      "name": "RedBone",
+      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
       "duration_ms": 222720,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 253452,
-      "name": "RedBone",
-      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy of Hits",
-        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 188010,
-      "name": "Reloaded",
-      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legacy of Hits",
+        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 188010,
+      "name": "Reloaded",
+      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich As In Spirit",
         "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
       },
@@ -875,6 +875,26 @@
       "duration_ms": 214947,
       "name": "Perfect Flower",
       "url": "https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "Celebrate (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
     },
     {
       "added_at": null,
@@ -903,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+        "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
       },
       "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 192773,
-      "name": "Celebrate (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
+      "duration_ms": 287085,
+      "name": "Imma Ride",
+      "url": "https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ"
     },
     {
       "added_at": null,
@@ -939,22 +955,6 @@
       "duration_ms": 256506,
       "name": "We Good",
       "url": "https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 287085,
-      "name": "Imma Ride",
-      "url": "https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ"
     }
   ],
   "unique_name": "This Is Rich Homie Quan",

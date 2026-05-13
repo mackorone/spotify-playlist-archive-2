@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Siraheem",
-  "num_followers": 111596,
+  "num_followers": 111601,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
+        "name": "Isn't It Beautiful",
+        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 156997,
+      "name": "Isn't It Beautiful",
+      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
         "name": "Ei voi (feat. Luwa.Mp4)",
         "url": "https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG"
       },
@@ -163,42 +179,18 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Isn't It Beautiful",
-        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
+        "name": "Honey, I Love You",
+        "url": "https://open.spotify.com/album/0a9wo8ZZsUCy4XoeDEAs69"
       },
       "artists": [
         {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
         }
       ],
-      "duration_ms": 156997,
-      "name": "Isn't It Beautiful",
-      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "FL STUDIO II",
-        "url": "https://open.spotify.com/album/4sp6D3AC6VpUXNqoqZ7D7E"
-      },
-      "artists": [
-        {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
-        },
-        {
-          "name": "R33NZO",
-          "url": "https://open.spotify.com/artist/2w34rjWGumCU3vOiCVd3J6"
-        },
-        {
-          "name": "Champz",
-          "url": "https://open.spotify.com/artist/2fZXMOwo3wPF5TcA48sKKs"
-        }
-      ],
-      "duration_ms": 120868,
-      "name": "FL STUDIO II",
-      "url": "https://open.spotify.com/track/1A2MQMzE9on8FqI2vc984w"
+      "duration_ms": 238026,
+      "name": "Honey, I Love You",
+      "url": "https://open.spotify.com/track/46qrlJPMBoYpdBxZmneY3z"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -235,18 +227,26 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Honey, I Love You",
-        "url": "https://open.spotify.com/album/0a9wo8ZZsUCy4XoeDEAs69"
+        "name": "FL STUDIO II",
+        "url": "https://open.spotify.com/album/4sp6D3AC6VpUXNqoqZ7D7E"
       },
       "artists": [
         {
-          "name": "Anendlessocean",
-          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        },
+        {
+          "name": "R33NZO",
+          "url": "https://open.spotify.com/artist/2w34rjWGumCU3vOiCVd3J6"
+        },
+        {
+          "name": "Champz",
+          "url": "https://open.spotify.com/artist/2fZXMOwo3wPF5TcA48sKKs"
         }
       ],
-      "duration_ms": 238026,
-      "name": "Honey, I Love You",
-      "url": "https://open.spotify.com/track/46qrlJPMBoYpdBxZmneY3z"
+      "duration_ms": 120868,
+      "name": "FL STUDIO II",
+      "url": "https://open.spotify.com/track/1A2MQMzE9on8FqI2vc984w"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -383,18 +383,22 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Greedy",
-        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
+        "name": "No Crumbs",
+        "url": "https://open.spotify.com/album/2g6BzKvlN2Dze9LC9ccAyE"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "Skinny Skater",
+          "url": "https://open.spotify.com/artist/1GS3dN5V15qDZV5Qqi9Bm1"
+        },
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
         }
       ],
-      "duration_ms": 165415,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
+      "duration_ms": 157555,
+      "name": "No Crumbs",
+      "url": "https://open.spotify.com/track/6hl0gUi8PKxQ7I8e6FiY9l"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -411,6 +415,22 @@
       "duration_ms": 172035,
       "name": "Do Not Disturb (DND)",
       "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 165415,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -471,26 +491,6 @@
       "duration_ms": 187118,
       "name": "TRU$T FUND",
       "url": "https://open.spotify.com/track/7fUD6s55nUdOWo4l7IzoFR"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "No Crumbs",
-        "url": "https://open.spotify.com/album/2g6BzKvlN2Dze9LC9ccAyE"
-      },
-      "artists": [
-        {
-          "name": "Skinny Skater",
-          "url": "https://open.spotify.com/artist/1GS3dN5V15qDZV5Qqi9Bm1"
-        },
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 157555,
-      "name": "No Crumbs",
-      "url": "https://open.spotify.com/track/6hl0gUi8PKxQ7I8e6FiY9l"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -565,7 +565,7 @@
         }
       ],
       "duration_ms": 187500,
-      "name": "Only Water - Feat. Lady Donli",
+      "name": "Only Water (Feat. Lady Donli)",
       "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
     },
     {
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
+        "name": "Diamond in a Process",
+        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
+      },
+      "artists": [
+        {
+          "name": "Jiire Smith",
+          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "Yapa Yapa",
+      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
         "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
         "url": "https://open.spotify.com/album/6BqgPqXsxOlo3xoNLNKrUQ"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 128399,
       "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
       "url": "https://open.spotify.com/track/1IupBattMLqPdJBGWQt4bW"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "Diamond in a Process",
-        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
-      },
-      "artists": [
-        {
-          "name": "Jiire Smith",
-          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Yapa Yapa",
-      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Imperfect Daughters",
-        "url": "https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK"
-      },
-      "artists": [
-        {
-          "name": "Anabel Rose",
-          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Imperfect Daughters",
-      "url": "https://open.spotify.com/track/481OshZ1RPTStU15tZLic7"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
         "name": "Princessa",
         "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 118974,
       "name": "Princessa",
       "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "Imperfect Daughters",
+        "url": "https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK"
+      },
+      "artists": [
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Imperfect Daughters",
+      "url": "https://open.spotify.com/track/481OshZ1RPTStU15tZLic7"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/3YhdPIPXx8bjOTwONdViH4"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "duration_ms": 148137,
+      "name": "Soho",
+      "url": "https://open.spotify.com/track/5MAWpKLbJn5XOOm3AIUCW5"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
         "name": "Formula & Vim/Strangers in Accra",
         "url": "https://open.spotify.com/album/0gxmM3YdxrWLiEHRpTLBrp"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 312819,
       "name": "Formula & Vim/Strangers in Accra",
       "url": "https://open.spotify.com/track/4rZOmXA1vGT1KRg3zVcDKq"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/3YhdPIPXx8bjOTwONdViH4"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 148137,
-      "name": "Soho",
-      "url": "https://open.spotify.com/track/5MAWpKLbJn5XOOm3AIUCW5"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -1303,66 +1303,6 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "If You Try",
-        "url": "https://open.spotify.com/album/0iF3xgiDeR9hqRi3c62NdQ"
-      },
-      "artists": [
-        {
-          "name": "Ogeezy",
-          "url": "https://open.spotify.com/artist/0SatsvdVxN5iPo2VTGPuVY"
-        },
-        {
-          "name": "Soundlykbb",
-          "url": "https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG"
-        },
-        {
-          "name": "Joka",
-          "url": "https://open.spotify.com/artist/7umpHJB8guUwgjaP2ZryKw"
-        }
-      ],
-      "duration_ms": 176299,
-      "name": "If You Try",
-      "url": "https://open.spotify.com/track/5vDaZI2RvpevJq7xUWkKSI"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
-      },
-      "artists": [
-        {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
-        },
-        {
-          "name": "Hunter Drake",
-          "url": "https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "DUA PA",
-        "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
-      },
-      "artists": [
-        {
-          "name": "Bapi Joss",
-          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "DUA PA",
-      "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
         "name": "Try Me",
         "url": "https://open.spotify.com/album/7buvO2dAe29hXmWVd5g2iE"
       },
@@ -1387,6 +1327,66 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        },
+        {
+          "name": "Hunter Drake",
+          "url": "https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "If You Try",
+        "url": "https://open.spotify.com/album/0iF3xgiDeR9hqRi3c62NdQ"
+      },
+      "artists": [
+        {
+          "name": "Ogeezy",
+          "url": "https://open.spotify.com/artist/0SatsvdVxN5iPo2VTGPuVY"
+        },
+        {
+          "name": "Soundlykbb",
+          "url": "https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG"
+        },
+        {
+          "name": "Joka",
+          "url": "https://open.spotify.com/artist/7umpHJB8guUwgjaP2ZryKw"
+        }
+      ],
+      "duration_ms": 176299,
+      "name": "If You Try",
+      "url": "https://open.spotify.com/track/5vDaZI2RvpevJq7xUWkKSI"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "DUA PA",
+        "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
+      },
+      "artists": [
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "DUA PA",
+      "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
         "name": "Italawa",
         "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Emefa's Revenge",
-        "url": "https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR"
-      },
-      "artists": [
-        {
-          "name": "M3NSA",
-          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "Emefa's Revenge",
-      "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
         "name": "Pray for the Kids",
         "url": "https://open.spotify.com/album/6YK2EvLKE64QQjYjHGtHIS"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 186636,
       "name": "Pray for the Kids",
       "url": "https://open.spotify.com/track/79HMF5FAzSwzhFp6it4XFL"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "Emefa's Revenge",
+        "url": "https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR"
+      },
+      "artists": [
+        {
+          "name": "M3NSA",
+          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "Emefa's Revenge",
+      "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
     },
     {
       "added_at": "2026-05-08 00:01:59",

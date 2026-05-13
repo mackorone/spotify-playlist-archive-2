@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,018 likes - 60 songs - 2 hr 46 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,017 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 11 | [Gates Flow 2 \(She Don't Wanna\)](https://open.spotify.com/track/7DxOo87U0J785h5cWEEZ5z) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Most Hated 2](https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW) | 2:53 |
 | 12 | [gold on my body](https://open.spotify.com/track/6TGpJkbatGnrfzphgqNKpC) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt) | [gold on my body](https://open.spotify.com/album/5CMxkTZRpnck6aCmvK1Z8x) | 2:39 |
 | 13 | [WAT WE ON](https://open.spotify.com/track/45dwmDUQh9BvLDTeHO2zPf) | [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [WAT WE ON](https://open.spotify.com/album/1GnAnyjrxwAWP9Pohl1xdS) | 2:18 |
-| 14 | [2C](https://open.spotify.com/track/7KjI1Wfa0VJao6hufL43eq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [2C](https://open.spotify.com/album/2SGKhKXp1aEFO4vfjcvKMi) | 3:03 |
+| 14 | [2C \(feat\. Cash Cobain\)](https://open.spotify.com/track/7KjI1Wfa0VJao6hufL43eq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [2C \(feat\. Cash Cobain\)](https://open.spotify.com/album/2SGKhKXp1aEFO4vfjcvKMi) | 3:03 |
 | 15 | [Slow Rolling Sunrise](https://open.spotify.com/track/7g8CLoWtVgMYDukAx63COc) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Slow Rolling Sunrise](https://open.spotify.com/album/5VsVYdrRXoBn9LIAHxAfDQ) | 3:12 |
 | 16 | [Geek Squad](https://open.spotify.com/track/4UQEWvWCRIC0UoNZlWCFM1) | [ShittyBoyz](https://open.spotify.com/artist/0ztFqsZLzjkKU2aRyeqQ9S), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [StanWill](https://open.spotify.com/artist/0fvPHeXr0H4AMsxvO62DdX), [Trdee](https://open.spotify.com/artist/48BxYnkFMs8KAXg23YTWXi) | [Geek Squad](https://open.spotify.com/album/62uwUYVKAOlfa7dnjahIen) | 3:05 |
 | 17 | [Checkmate](https://open.spotify.com/track/7sg3P4YdxnBHo4LYIjOmUP) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Once Upon A Time: The Soundtrack](https://open.spotify.com/album/4vGHElMgaRgarn4FJKNAfC) | 2:27 |

@@ -1,6 +1,6 @@
 {
   "description": "Help your faith keep up with these gas prices. ",
-  "num_followers": 256094,
+  "num_followers": 256139,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "Do It All Alone",
-        "url": "https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 172738,
-      "name": "Do It All Alone",
-      "url": "https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
         "name": "So Long Sad Songs",
         "url": "https://open.spotify.com/album/7mU9YGfE049DBQYQTiefuG"
       },
@@ -591,22 +575,34 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "Wait For Me",
-        "url": "https://open.spotify.com/album/21WbEejZ6Bp1mlAbd4qzdq"
+        "name": "Do It All Alone",
+        "url": "https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy"
       },
       "artists": [
         {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        },
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 210991,
-      "name": "Wait For Me",
-      "url": "https://open.spotify.com/track/2rB7wo5WpVwCY1Ewcr1kc6"
+      "duration_ms": 172738,
+      "name": "Do It All Alone",
+      "url": "https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 175770,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -627,18 +623,22 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz"
+        "name": "Wait For Me",
+        "url": "https://open.spotify.com/album/21WbEejZ6Bp1mlAbd4qzdq"
       },
       "artists": [
         {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
         }
       ],
-      "duration_ms": 175770,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1"
+      "duration_ms": 210991,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/2rB7wo5WpVwCY1Ewcr1kc6"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "God Is For Me",
-        "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 164309,
-      "name": "God Is For Me",
-      "url": "https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
         "name": "Higher Places",
         "url": "https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 153237,
       "name": "Higher Places",
       "url": "https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
+        "name": "God Is For Me",
+        "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 164309,
+      "name": "God Is For Me",
+      "url": "https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 122391,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 255233,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 122391,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "Greatest Hits (Acoustic)",
-        "url": "https://open.spotify.com/album/2bwstN2RquejYuJvxz8lZK"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 216624,
-      "name": "Remind Me Who I Am - Acoustic",
-      "url": "https://open.spotify.com/track/1rvB0BJ6JxbnwlmDPBrDae"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
         "name": "Brighter Days (New Day Edition)",
         "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 231151,
       "name": "Everything_",
       "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
+        "name": "Greatest Hits (Acoustic)",
+        "url": "https://open.spotify.com/album/2bwstN2RquejYuJvxz8lZK"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 216624,
+      "name": "Remind Me Who I Am - Acoustic",
+      "url": "https://open.spotify.com/track/1rvB0BJ6JxbnwlmDPBrDae"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "True Religion",
-        "url": "https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk"
-      },
-      "artists": [
-        {
-          "name": "Allie Paige",
-          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "True Religion",
-      "url": "https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
         "name": "Like The Prodigal (Come Home)",
         "url": "https://open.spotify.com/album/68N0FwU3ser9k5veW6JAGQ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 281375,
       "name": "Like The Prodigal (Come Home)",
       "url": "https://open.spotify.com/track/7DBugFty697vJcT7so4kfl"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
+        "name": "True Religion",
+        "url": "https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk"
+      },
+      "artists": [
+        {
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "True Religion",
+      "url": "https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9"
     },
     {
       "added_at": "2026-03-23 14:32:10",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-03-23 14:32:10",
       "album": {
-        "name": "Years and Years",
-        "url": "https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm"
-      },
-      "artists": [
-        {
-          "name": "Northwest Stories",
-          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Years and Years",
-      "url": "https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO"
-    },
-    {
-      "added_at": "2026-03-23 14:32:10",
-      "album": {
         "name": "SPIN BACK!",
         "url": "https://open.spotify.com/album/4Zykomn4WwkD6yHyXC8Kcq"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 122400,
       "name": "SPIN BACK!",
       "url": "https://open.spotify.com/track/6io60qSWxYi4ZSWrF2lWYF"
+    },
+    {
+      "added_at": "2026-03-23 14:32:10",
+      "album": {
+        "name": "Years and Years",
+        "url": "https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm"
+      },
+      "artists": [
+        {
+          "name": "Northwest Stories",
+          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Years and Years",
+      "url": "https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO"
     },
     {
       "added_at": "2026-03-23 14:32:10",

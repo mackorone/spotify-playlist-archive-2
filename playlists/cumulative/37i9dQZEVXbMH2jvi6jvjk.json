@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -8038,7 +8038,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 206315,
       "name": "Blueberry Skies",
       "url": "https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6"
@@ -9668,7 +9668,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
@@ -12116,7 +12116,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -20576,7 +20576,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 386482,
       "name": "Head Movement",
       "url": "https://open.spotify.com/track/1uJXJdzBwA6Tx8WWi8ngBO"
@@ -24934,7 +24934,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
@@ -40238,7 +40238,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -46624,7 +46624,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 278073,
       "name": "Sekuzolunga Mama",
       "url": "https://open.spotify.com/track/6W8CWNHx5yktT9EPIPBYFR"
@@ -48096,6 +48096,40 @@
       "duration_ms": 403975,
       "name": "SJEPA",
       "url": "https://open.spotify.com/track/1AIDip3K6hTanmj65dKHV7"
+    },
+    {
+      "album": {
+        "name": "Skhethe (feat. Westboy, Caeser & DJ Janisto)",
+        "url": "https://open.spotify.com/album/39ZXfUWSAFKknIWgVVLvy7"
+      },
+      "artists": [
+        {
+          "name": "Ba Bethe Gashoazen",
+          "url": "https://open.spotify.com/artist/0HX88eTlictNvgUjBLn03r"
+        },
+        {
+          "name": "Nova sa style",
+          "url": "https://open.spotify.com/artist/4I8qIZwLyx6CqE88hHGnjJ"
+        },
+        {
+          "name": "Westboy",
+          "url": "https://open.spotify.com/artist/4feLzuIrjiKM2KirRK56Zz"
+        },
+        {
+          "name": "Caeser",
+          "url": "https://open.spotify.com/artist/16q6safPCA8LcCF71MMpss"
+        },
+        {
+          "name": "DJ Janisto",
+          "url": "https://open.spotify.com/artist/49pDCx2fEbFhIhVwE37KZW"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264586,
+      "name": "Skhethe (feat. Westboy, Caeser & DJ Janisto)",
+      "url": "https://open.spotify.com/track/5NCLQtEbyUslIyZpzkNuTj"
     },
     {
       "album": {
@@ -57834,7 +57868,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 368000,
       "name": "uValo (feat. Dlala Thukzin)",
       "url": "https://open.spotify.com/track/0y7lIKJXlNFPcqVCxfnvOO"

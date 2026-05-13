@@ -10315,6 +10315,24 @@
     },
     {
       "album": {
+        "name": "Start Living",
+        "url": "https://open.spotify.com/album/1EqzV4nq9M9sd3mOOhSSig"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Start Living",
+      "url": "https://open.spotify.com/track/1UnmH9FrCiUhxQ9Ua8RBvy"
+    },
+    {
+      "album": {
         "name": "Started With You",
         "url": "https://open.spotify.com/album/3F1B6OAjoD2K3vm0vrXmLw"
       },
@@ -10344,7 +10362,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 205213,
       "name": "Stay (Gonna Be Okay)",
       "url": "https://open.spotify.com/track/3jAlLFdrqwuiyzmKuNm5GQ"

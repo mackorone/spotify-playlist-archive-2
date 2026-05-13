@@ -720,7 +720,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 215039,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/6AEiVvowy0FhIACwS9BROM"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 175727,
       "name": "BOW AND ARROW",
       "url": "https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 145385,
       "name": "Fright",
       "url": "https://open.spotify.com/track/0KOwIxuylidjOSllJAINxO"
@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 238711,
       "name": "Home",
       "url": "https://open.spotify.com/track/1knxnVB9KzKWp4lSWURen8"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 170625,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi"
@@ -3020,7 +3020,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 242066,
       "name": "Mela!",
       "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
@@ -4000,7 +4000,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 212884,
       "name": "Revival",
       "url": "https://open.spotify.com/track/6vWrFTC5PrDDgMQNhoWoE7"
@@ -4401,6 +4401,24 @@
     },
     {
       "album": {
+        "name": "Travessia",
+        "url": "https://open.spotify.com/album/1AABJwnD3LB9dRkIihBM3J"
+      },
+      "artists": [
+        {
+          "name": "Maverick Mom",
+          "url": "https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "Shower!!!!!",
+      "url": "https://open.spotify.com/track/2c0uwxb3bkvzV6wsvn5BM2"
+    },
+    {
+      "album": {
         "name": "Noodle",
         "url": "https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz"
       },
@@ -4756,6 +4774,24 @@
       "duration_ms": 163608,
       "name": "stay tune",
       "url": "https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX"
+    },
+    {
+      "album": {
+        "name": "CLASSIC",
+        "url": "https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171306,
+      "name": "Sugar Rush",
+      "url": "https://open.spotify.com/track/7GId0e73UnUrSCJmfjRTG8"
     },
     {
       "album": {
@@ -7566,7 +7602,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 219200,
       "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
       "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
@@ -8082,7 +8118,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 184567,
       "name": "\u30e1\u30de\u30a4",
       "url": "https://open.spotify.com/track/2WCn9HrGDwcEm0bU0xgcrt"
@@ -8960,7 +8996,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 187800,
       "name": "\u5348\u524d\u56db\u6642",
       "url": "https://open.spotify.com/track/0wQdYrJT00p7OKoUiBZZaW"
@@ -10067,6 +10103,24 @@
     },
     {
       "album": {
+        "name": "\u7761\u308b\u541b",
+        "url": "https://open.spotify.com/album/2z9WuGKhNHOqhi1SH0dnZD"
+      },
+      "artists": [
+        {
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248235,
+      "name": "\u7761\u308b\u541b",
+      "url": "https://open.spotify.com/track/44IRqjfSa15d8E6URV3WO0"
+    },
+    {
+      "album": {
         "name": "\u7768\u3081\u3063\u5a18",
         "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
       },
@@ -10618,7 +10672,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 249000,
       "name": "\u9752\u304f\u3001\u6625",
       "url": "https://open.spotify.com/track/6OjaQTLVAIgr5mTEQaDDj9"

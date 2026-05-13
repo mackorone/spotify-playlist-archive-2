@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 ### [Your Valentine's Mood](https://open.spotify.com/playlist/37i9dQZF1DWZEBR5Lu37rb)
 
-> If love is in the air then you've got your own gas tank\. No roses\. Just vibes.
+> You have loved, you have lost, and you survived with your headphones on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,437 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,452 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Mike Lamadrid en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,128 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,135 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 9 | [Yuzu](https://open.spotify.com/track/7uDlSSOTrXYaz48GzkT24f) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [Zavalah](https://open.spotify.com/artist/0AjXdLsgBphKgddIFUKgUX) | [Yuzu](https://open.spotify.com/album/0AO6NxVUSX9K7LdreE7F8H) | 2:14 |
 | 10 | [Scratchin' Souls](https://open.spotify.com/track/4SWr3MhL4SowgBsObNvUat) | [Mugshot](https://open.spotify.com/artist/6AwBAYKXPOrNnfgz9loLUn), [Ojal De Ajaw](https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ) | [Scratchin' Souls](https://open.spotify.com/album/7G3tHagghEuKPEY5N0dyxg) | 3:38 |
 | 11 | [Cuando Pienso](https://open.spotify.com/track/69WHa8WfluUXsfwbwc0NyH) | [Putolargo](https://open.spotify.com/artist/3lP2GgJaO5TZJt8dE1WsSQ), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Yabulé](https://open.spotify.com/artist/5s0UiGPVJ2Ghj3ushukRNG) | [Cuando Pienso](https://open.spotify.com/album/34E9TLOzpjSLycHGTsGM9v) | 3:34 |
-| 12 | [MI CALLE MI EDUCACION](https://open.spotify.com/track/1roAys2sloggpm6OnNKErm) | [Rafaell Cocoa](https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc), [Zika Boy](https://open.spotify.com/artist/6Fypcfdl78sCm4BRy3MDet), [Mick&Dallas](https://open.spotify.com/artist/1X9Daxz93LKCdjXlN66PBn) | [ETERNAL TAPES II](https://open.spotify.com/album/7qqUQYxDlELA9ctsUCatYS) | 2:46 |
+| 12 | [MI CALLE MI EDUCACION](https://open.spotify.com/track/1roAys2sloggpm6OnNKErm) | [Rafaell Cocoa](https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc), [Zika Boy](https://open.spotify.com/artist/6Fypcfdl78sCm4BRy3MDet), [Mick&Dallas](https://open.spotify.com/artist/1X9Daxz93LKCdjXlN66PBn) | [ETERNAL TAPES II](https://open.spotify.com/album/7qqUQYxDlELA9ctsUCatYS) | 2:44 |
 | 13 | [10 de Mayo](https://open.spotify.com/track/4CStCO1MNI5nyNxtzzvbx4) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [10 de Mayo](https://open.spotify.com/album/55RG13vApYGcejkgI1dzb5) | 4:34 |
 | 14 | [Fuego Azul](https://open.spotify.com/track/1qBXIowcVO9kZ0C4cD8CLK) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Pablito Calavera](https://open.spotify.com/artist/2TH4NXRgjM7vIW76o7pbas) | [Fuego Azul](https://open.spotify.com/album/4AKAJlQMHgAp2eqrbGhyp7) | 6:00 |
 | 15 | [El Pana Deiby](https://open.spotify.com/track/0p5vebYEqSahFULjaYB8LY) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [El Pana Deiby](https://open.spotify.com/album/6ugV5SZ0KALBO8BAt1vYXr) | 4:11 |

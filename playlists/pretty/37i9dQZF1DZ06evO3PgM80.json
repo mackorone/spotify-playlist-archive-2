@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22149,
+  "num_followers": 22152,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAADriZFWMi1LElW6GSwi8svm",
+  "snapshot_id": "agEcAAAAAADCzipUzkCMw729k8Ujm4ef",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Adentro Hacia Afuera",
         "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 307173,
       "name": "De Adentro Hacia Afuera",
       "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Silvana Estrada, pablopablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,973 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,782 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Ñera Fina](https://open.spotify.com/track/1QcjTvutacDnZjwVVe4G4p) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Saulito Pi](https://open.spotify.com/artist/2YUKPfsqatwka855RoterR), [Jey La Sensacion](https://open.spotify.com/artist/00YadeZPexIzJDINevlSff), [Dj Arath](https://open.spotify.com/artist/57l00WjXo1gSEexjs20zwm), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Ñera Fina](https://open.spotify.com/album/1qMJLRz9mTLTI35WKOcBB0) | 2:52 |
 | 50 | [Only](https://open.spotify.com/track/7uMN0N0Wvq6kH9xJYQGZlG) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Only](https://open.spotify.com/album/6T9uBQyAwPFlJU1KGUfT2x) | 2:15 |
 | 51 | [CON LAS OLAS](https://open.spotify.com/track/2bhOsvwZW2C8jym9n4k8oo) | [Dellacruz](https://open.spotify.com/artist/1SQBmAQTSx9Zj9uyM3c3qW), [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [CON LAS OLAS](https://open.spotify.com/album/7iHsrnrGHzP4MhRSoOj3L5) | 2:24 |
-| 52 | [MI CALLE MI EDUCACION](https://open.spotify.com/track/1roAys2sloggpm6OnNKErm) | [Rafaell Cocoa](https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc), [Zika Boy](https://open.spotify.com/artist/6Fypcfdl78sCm4BRy3MDet), [Mick&Dallas](https://open.spotify.com/artist/1X9Daxz93LKCdjXlN66PBn) | [ETERNAL TAPES II](https://open.spotify.com/album/7qqUQYxDlELA9ctsUCatYS) | 2:46 |
+| 52 | [MI CALLE MI EDUCACION](https://open.spotify.com/track/1roAys2sloggpm6OnNKErm) | [Rafaell Cocoa](https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc), [Zika Boy](https://open.spotify.com/artist/6Fypcfdl78sCm4BRy3MDet), [Mick&Dallas](https://open.spotify.com/artist/1X9Daxz93LKCdjXlN66PBn) | [ETERNAL TAPES II](https://open.spotify.com/album/7qqUQYxDlELA9ctsUCatYS) | 2:44 |
 | 53 | [La Champeta](https://open.spotify.com/track/4MbVt6iZ9JF3bFnbvTBuSy) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm) | [Dime Que Tal Te Suena](https://open.spotify.com/album/0LArTNRFGPH0Ro6MevLEiS) | 3:28 |
 | 54 | [TE ASUSTASTE](https://open.spotify.com/track/5HmnuoBHRGdUZGLaYtoDx2) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [PUNTO DE QUIEBRE](https://open.spotify.com/album/7IwKAbHti1pHDdXApyCbmd) | 2:55 |
 | 55 | [Obvio No](https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Obvio No](https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z) | 3:16 |

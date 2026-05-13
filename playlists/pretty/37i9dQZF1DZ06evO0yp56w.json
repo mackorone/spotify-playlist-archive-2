@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 835251,
+  "num_followers": 835268,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAADFLizlNdeDDCpkNCgxJzyW",
+  "snapshot_id": "agEcAAAAAADUK01sKdyuc6BfJeXcTpe4",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 258066,
-      "name": "Map of the Problematique",
-      "url": "https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 2nd Law",
         "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 295373,
       "name": "Supremacy",
       "url": "https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 258066,
+      "name": "Map of the Problematique",
+      "url": "https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 363266,
-      "name": "New Born",
-      "url": "https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 2nd Law",
         "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 184200,
       "name": "Panic Station",
       "url": "https://open.spotify.com/track/1tjHKKI0r82IB5KL29whHs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 363266,
+      "name": "New Born",
+      "url": "https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 251146,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0j3obufLXq5toSs592dX9U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 262947,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 251146,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0j3obufLXq5toSs592dX9U"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 380760,
-      "name": "Space Dementia",
-      "url": "https://open.spotify.com/track/00jXDm9BLNZdf2QC3Br0r7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 380760,
+      "name": "Space Dementia",
+      "url": "https://open.spotify.com/track/00jXDm9BLNZdf2QC3Br0r7"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 250860,
-      "name": "Compliance",
-      "url": "https://open.spotify.com/track/6tpl3yuDnYHAHb6dY60p5O"
+      "duration_ms": 198849,
+      "name": "Will Of The People",
+      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neutron Star Collision [Love Is Forever]",
-        "url": "https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb"
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 230256,
-      "name": "Neutron Star Collision (Love Is Forever) - Soundtrack Version",
-      "url": "https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692"
+      "duration_ms": 317000,
+      "name": "Showbiz",
+      "url": "https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz"
     },
     {
       "added_at": null,
@@ -740,15 +740,15 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 198849,
-      "name": "Will Of The People",
-      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
+      "duration_ms": 250860,
+      "name": "Compliance",
+      "url": "https://open.spotify.com/track/6tpl3yuDnYHAHb6dY60p5O"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+        "name": "Neutron Star Collision [Love Is Forever]",
+        "url": "https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Showbiz",
-      "url": "https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz"
+      "duration_ms": 230256,
+      "name": "Neutron Star Collision (Love Is Forever) - Soundtrack Version",
+      "url": "https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692"
     },
     {
       "added_at": null,

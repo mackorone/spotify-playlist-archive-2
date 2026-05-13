@@ -4,7 +4,7 @@
 
 > Diese Beats machen garantiert gute Laune!
 
-218 songs - 10 hr 11 min
+219 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 | 2023-09-01 | 2024-08-23 |
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-08-22 |  |
 | [I Follow Rivers](https://open.spotify.com/track/2hBG8hwCNBzwNOOTa4elCG) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [I Follow Rivers](https://open.spotify.com/album/0yABlHaS4pa0AuNkNFoXEI) | 2:30 | 2023-09-29 | 2023-10-07 |
+| [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg) | 2:23 | 2026-05-12 |  |
 | [i need u](https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [i need u](https://open.spotify.com/album/2t6Ie2kxapG2kMs4hxRJmt) | 3:45 | 2026-04-09 |  |
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-29 |  |
 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 | 2023-09-01 | 2024-07-21 |
@@ -128,7 +129,7 @@
 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-11-11 | 2026-04-12 |
 | [LSD](https://open.spotify.com/track/03nVbs87Wv4nvL3YZrdy3n) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [LSD](https://open.spotify.com/album/2uy91QEOLtNigoebYUXknj) | 1:52 | 2023-12-01 | 2024-01-31 |
 | [Mad World](https://open.spotify.com/track/5pIOX4Fy3CXEdvs6Yp8roU) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Mad World](https://open.spotify.com/album/4lJuvmioRCQCHahAemAGzs) | 2:18 | 2026-03-23 | 2026-04-10 |
-| [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 | 2023-09-01 |  |
+| [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 | 2023-09-01 | 2026-05-13 |
 | [Marianela \(Qué Pasa\)](https://open.spotify.com/track/1aKOneRVEZPGjnY76AE2dq) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Qué Pasa\)](https://open.spotify.com/album/0BJtNHQ2hd3zrXWWSLLBdz) | 2:25 | 2024-08-22 | 2024-08-30 |
 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 | 2023-09-01 | 2024-11-12 |
 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-10-27 | 2024-11-10 |

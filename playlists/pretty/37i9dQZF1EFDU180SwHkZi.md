@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 11 | [CROWN](https://open.spotify.com/track/1JArK6kqe9N0xmBR1mktkT) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:17 |
 | 12 | [Tea](https://open.spotify.com/track/4Ck9AfpdKWdgSVkiZgC3EX) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Tea](https://open.spotify.com/album/55ECRkDnJucO6Px96J8h6S) | 2:16 |
 | 13 | [FLIRT](https://open.spotify.com/track/44CLDpmfKDXY6HBhkJ7IpL) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [FLIRT](https://open.spotify.com/album/408SJkmzVEOvNE93UHnPTF) | 2:10 |
-| 14 | [next 2 me](https://open.spotify.com/track/3MsTJ3uwQAWBAHkh0qQ4Rq) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [next 2 me](https://open.spotify.com/album/2PKCGPLVxa4iIysVUHUCIn) | 2:32 |
-| 15 | [CHESS \(DAHYUN\)](https://open.spotify.com/track/0dvrmOYJJHSCG9MKyclogF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:29 |
+| 14 | [CHESS \(DAHYUN\)](https://open.spotify.com/track/0dvrmOYJJHSCG9MKyclogF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:29 |
+| 15 | [next 2 me](https://open.spotify.com/track/3MsTJ3uwQAWBAHkh0qQ4Rq) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [next 2 me](https://open.spotify.com/album/2PKCGPLVxa4iIysVUHUCIn) | 2:32 |
 | 16 | [Focus](https://open.spotify.com/track/1GGPj6ObCrqqFb2aJE7WMz) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Focus](https://open.spotify.com/album/55DfnqrmuB2o81gfsx5neO) | 2:06 |
 | 17 | [Thug Ranjha](https://open.spotify.com/track/5bqUumRoZphXU2AHd3ydkp) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Thug Ranjha](https://open.spotify.com/album/1TSSBVocGOEZZiyJfnAAw2) | 3:04 |
 | 18 | [Thought About That](https://open.spotify.com/track/0KqQk985HTWIkQgEABSwPP) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Thought About That](https://open.spotify.com/album/3G06Xtuozm5OVMq3iEetEL) | 3:19 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 138 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 139 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `AcRPaAAAAADGjGuLRW8UC6d99vUOEOVb`
+Snapshot ID: `AcRVHAAAAAB3ZlLSb87madTt/cqH4+g+`

@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/0qEV9qVrOfS2HtWSXNBpJS"
+      },
+      "artists": [
+        {
+          "name": "The New Old",
+          "url": "https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182770,
+      "name": "Artificial Intelligence",
+      "url": "https://open.spotify.com/track/4Q4dia1Ln26H29TrcsyuBY"
+    },
+    {
+      "album": {
         "name": "Ashes",
         "url": "https://open.spotify.com/album/3sG4UIFpkZKghgMzSmh0x1"
       },
@@ -5348,6 +5366,24 @@
       "duration_ms": 199569,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/4E5vUYWAQPmRHDbVZriqt1"
+    },
+    {
+      "album": {
+        "name": "Pizza Feet",
+        "url": "https://open.spotify.com/album/6wQj0bkUwhOl3YV3pzRWTa"
+      },
+      "artists": [
+        {
+          "name": "Giant DeNiro",
+          "url": "https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275437,
+      "name": "Pizza Feet",
+      "url": "https://open.spotify.com/track/2lGhyNxLY05052wtN66sfK"
     },
     {
       "album": {

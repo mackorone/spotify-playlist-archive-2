@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwrjTQRJ4LX.md) - [plain]
 
 > <a href="spotify:artist:62k5LKMhymqlDNo2DWOvvv">Boys Noize</a>'s favorite tracks\. Updated regularly\. Curated by Boys Noize\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,352 likes - 53 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,365 likes - 53 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

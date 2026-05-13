@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 101 songs - 5 hr 50 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 105 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,9 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 99 | [Opening \- \|wa\|hia\|wa\|](https://open.spotify.com/track/4MhnSrDsVbd0EtXXp8bOkw) | [Niam Daia](https://open.spotify.com/artist/33Z86L54jqPDUxsx8u4PCZ) | [\|Invocation\|](https://open.spotify.com/album/7FeGBeSyXlSDnYis3bXDev) | 4:49 |
 | 100 | [Forget](https://open.spotify.com/track/3ccTskdIayct3ul6ImpFhF) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [Forget](https://open.spotify.com/album/68e7pBLOsqIvD05rIkYCgp) | 3:28 |
 | 101 | [Coming/Going](https://open.spotify.com/track/5A5WmOCHyTpCaBx9cvgIKu) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Coming/Going](https://open.spotify.com/album/1larJtXr5S0h7EUAgpm3Hx) | 2:58 |
+| 102 | [Wish It Were True](https://open.spotify.com/track/0ccX8b6roUZh5wdt4J4dR9) | [The meantime green](https://open.spotify.com/artist/03AuzDuKaTGM8tBZDtT90h) | [Wish It Were True](https://open.spotify.com/album/6BWOyHzOcBHsvS4FU9iMf5) | 3:16 |
+| 103 | [Back to the Start](https://open.spotify.com/track/47HHmW5YouagaGwQrMCRvi) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Back to the Start](https://open.spotify.com/album/5PNIo39qx1mVQnluO3UM4f) | 2:23 |
+| 104 | [Say Something](https://open.spotify.com/track/2sBEE8SZudR0dBr3JNbOjd) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Say Something](https://open.spotify.com/album/3m1tA8n5qe5weca6RPf1lM) | 2:50 |
+| 105 | [Online](https://open.spotify.com/track/6orF4Fdls3oyIIatwI4tLm) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Online](https://open.spotify.com/album/17FiFf2zK6GnULQt8lTAmh) | 2:38 |
 
-Snapshot ID: `AAAOycr+6cQWOkP84G1OQlf1XUDmk9Fc`
+Snapshot ID: `AAAOzVurNz7NB/SbqLS054z0B/MVaRPb`

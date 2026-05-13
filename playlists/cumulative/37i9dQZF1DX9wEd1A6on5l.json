@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Ball",
+        "url": "https://open.spotify.com/album/46AbMXJHKRj8UfFIzPOUOn"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Ball",
+      "url": "https://open.spotify.com/track/4C0SSSbwyxGSCxoEOUnXa2"
+    },
+    {
+      "album": {
         "name": "Ballerina (with Rema, Skillibeng, & Disco Neil)",
         "url": "https://open.spotify.com/album/7Me0lVWxSy5AGNBCgcFEAZ"
       },
@@ -7740,7 +7758,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 192921,
       "name": "Hildabaci - Remix",
       "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"

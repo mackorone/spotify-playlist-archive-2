@@ -23876,6 +23876,24 @@
     {
       "album": {
         "name": "SMILE! :D",
+        "url": "https://open.spotify.com/album/7qx3Q51nfQvkEHIREiTRCO"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237567,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/1ggsR5kCepKTW4F64bCFdV"
+    },
+    {
+      "album": {
+        "name": "SMILE! :D",
         "url": "https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy"
       },
       "artists": [
@@ -93286,6 +93304,32 @@
       "duration_ms": 305333,
       "name": "on",
       "url": "https://open.spotify.com/track/7HXs149WscOjEmnnfk0NSY"
+    },
+    {
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2Ms3svRNQf0jFryjT2HKCQ"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "J\u00e9ja",
+          "url": "https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh"
+        },
+        {
+          "name": "Daniel Levi",
+          "url": "https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207068,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/4uukXoeAUxow3aV9kVkcjY"
     },
     {
       "album": {

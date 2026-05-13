@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Kidene Fighter",
-  "num_followers": 10015,
+  "num_followers": 10020,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-04-23 23:00:57",
       "album": {
+        "name": "Twende",
+        "url": "https://open.spotify.com/album/24H1AVBF6gLoAljBGn3LgU"
+      },
+      "artists": [
+        {
+          "name": "DJ Travella",
+          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+        }
+      ],
+      "duration_ms": 140971,
+      "name": "TRUST",
+      "url": "https://open.spotify.com/track/5gI8Ik5plCd1mK6FTMaswu"
+    },
+    {
+      "added_at": "2026-04-23 23:00:57",
+      "album": {
         "name": "Kuokota",
         "url": "https://open.spotify.com/album/3qCkBRoCpgU297HVuKyiPT"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2026-04-23 23:00:57",
       "album": {
-        "name": "Twende",
-        "url": "https://open.spotify.com/album/24H1AVBF6gLoAljBGn3LgU"
-      },
-      "artists": [
-        {
-          "name": "DJ Travella",
-          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
-        }
-      ],
-      "duration_ms": 140971,
-      "name": "TRUST",
-      "url": "https://open.spotify.com/track/5gI8Ik5plCd1mK6FTMaswu"
-    },
-    {
-      "added_at": "2026-04-23 23:00:57",
-      "album": {
         "name": "Nampakia Mkongo",
         "url": "https://open.spotify.com/album/3A347rTOQ2qQBTyXjwrtmX"
       },
@@ -771,42 +771,6 @@
     {
       "added_at": "2026-04-23 23:00:57",
       "album": {
-        "name": "After All",
-        "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
-      },
-      "artists": [
-        {
-          "name": "Yammi",
-          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
-        },
-        {
-          "name": "Mdogo sajent",
-          "url": "https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC"
-        }
-      ],
-      "duration_ms": 152112,
-      "name": "Sijafunzwa (feat. Mdogo Sajent)",
-      "url": "https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5"
-    },
-    {
-      "added_at": "2026-04-23 23:00:57",
-      "album": {
-        "name": "HASSANI",
-        "url": "https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 153740,
-      "name": "HASSANI",
-      "url": "https://open.spotify.com/track/6CQlALBnuYZ91sv1qgefak"
-    },
-    {
-      "added_at": "2026-04-23 23:00:57",
-      "album": {
         "name": "Wewe Hapo",
         "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
       },
@@ -823,6 +787,22 @@
       "duration_ms": 148036,
       "name": "Wewe Hapo",
       "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
+    },
+    {
+      "added_at": "2026-04-23 23:00:57",
+      "album": {
+        "name": "HASSANI",
+        "url": "https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 153740,
+      "name": "HASSANI",
+      "url": "https://open.spotify.com/track/6CQlALBnuYZ91sv1qgefak"
     },
     {
       "added_at": "2026-04-23 23:00:57",
@@ -859,18 +839,22 @@
     {
       "added_at": "2026-04-23 23:00:57",
       "album": {
-        "name": "Weeeweeeeeeee",
-        "url": "https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o"
+        "name": "After All",
+        "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
       },
       "artists": [
         {
-          "name": "DJ Travella",
-          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        },
+        {
+          "name": "Mdogo sajent",
+          "url": "https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Weeeweeeeeeee",
-      "url": "https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN"
+      "duration_ms": 152112,
+      "name": "Sijafunzwa (feat. Mdogo Sajent)",
+      "url": "https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5"
     },
     {
       "added_at": "2026-04-23 23:00:57",
@@ -891,6 +875,22 @@
       "duration_ms": 199132,
       "name": "Ex Arudiwi",
       "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
+    },
+    {
+      "added_at": "2026-04-23 23:00:57",
+      "album": {
+        "name": "Weeeweeeeeeee",
+        "url": "https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o"
+      },
+      "artists": [
+        {
+          "name": "DJ Travella",
+          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Weeeweeeeeeee",
+      "url": "https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN"
     },
     {
       "added_at": "2026-04-23 23:00:57",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-04-23 23:00:57",
       "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB"
-      },
-      "artists": [
-        {
-          "name": "DJ Travella",
-          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
-        }
-      ],
-      "duration_ms": 101009,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi"
-    },
-    {
-      "added_at": "2026-04-23 23:00:57",
-      "album": {
         "name": "Penzi Jipya",
         "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 314493,
       "name": "Penzi Jipya",
       "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
+    },
+    {
+      "added_at": "2026-04-23 23:00:57",
+      "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB"
+      },
+      "artists": [
+        {
+          "name": "DJ Travella",
+          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+        }
+      ],
+      "duration_ms": 101009,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi"
     },
     {
       "added_at": "2026-04-23 23:00:57",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-04-23 23:00:57",
       "album": {
-        "name": "Shobo",
-        "url": "https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ"
-      },
-      "artists": [
-        {
-          "name": "Barnaba",
-          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
-        }
-      ],
-      "duration_ms": 186193,
-      "name": "Shobo",
-      "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"
-    },
-    {
-      "added_at": "2026-04-23 23:00:57",
-      "album": {
         "name": "Kijumbe",
         "url": "https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 209084,
       "name": "Kijumbe",
       "url": "https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4"
+    },
+    {
+      "added_at": "2026-04-23 23:00:57",
+      "album": {
+        "name": "Shobo",
+        "url": "https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "duration_ms": 186193,
+      "name": "Shobo",
+      "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"
     },
     {
       "added_at": "2026-04-23 23:00:57",
@@ -1347,6 +1347,26 @@
       "duration_ms": 224545,
       "name": "Natafuta Hela",
       "url": "https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK"
+    },
+    {
+      "added_at": "2026-04-23 23:00:57",
+      "album": {
+        "name": "Lipa",
+        "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
+      },
+      "artists": [
+        {
+          "name": "Kiwanda",
+          "url": "https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT"
+        },
+        {
+          "name": "Aslam Tz",
+          "url": "https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O"
+        }
+      ],
+      "duration_ms": 223884,
+      "name": "Lipa",
+      "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
     },
     {
       "added_at": "2026-04-23 23:00:57",
@@ -1391,38 +1411,18 @@
     {
       "added_at": "2026-04-23 23:00:57",
       "album": {
-        "name": "Lipa",
-        "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
+        "name": "Makombolelo singeli version",
+        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
       },
       "artists": [
         {
-          "name": "Kiwanda",
-          "url": "https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT"
-        },
-        {
-          "name": "Aslam Tz",
-          "url": "https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O"
+          "name": "Mazegele Boy",
+          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
         }
       ],
-      "duration_ms": 223884,
-      "name": "Lipa",
-      "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
-    },
-    {
-      "added_at": "2026-04-23 23:00:57",
-      "album": {
-        "name": "Pisi",
-        "url": "https://open.spotify.com/album/3JPjYrhhQPdx30W3bgvAFq"
-      },
-      "artists": [
-        {
-          "name": "Anjella",
-          "url": "https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls"
-        }
-      ],
-      "duration_ms": 220044,
-      "name": "Pisi",
-      "url": "https://open.spotify.com/track/1tb1zxPaAkmFtvH1YFLKDH"
+      "duration_ms": 133746,
+      "name": "Makombolelo singeli version",
+      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
     }
   ],
   "unique_name": "Singeli Sounds",

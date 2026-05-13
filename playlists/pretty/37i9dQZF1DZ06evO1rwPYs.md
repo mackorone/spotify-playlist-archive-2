@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,395 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,399 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 43 | [Sabor Gitano](https://open.spotify.com/track/6Pf8k23JUFjnLk6oBiv14o) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [En España](https://open.spotify.com/album/7L1kk0NoH0rJR7ucNhhet8) | 3:37 |
 | 44 | [Sazón](https://open.spotify.com/track/1hZ0AcMDdOv4C7lpgBfmpE) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Azúcar Negra](https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt) | 4:49 |
 | 45 | [Y Mi Negro Esta Cansao](https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba's Queen Of Rhythm](https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX) | 2:39 |
-| 46 | [Ay Mi Cuba](https://open.spotify.com/track/1wn4tJRraiHIx518NyMmHA) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa), [Justi Barreto](https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2) | [Homenaje A Beny Moré](https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY) | 4:56 |
-| 47 | [Dos Jueyes](https://open.spotify.com/track/79LLoATRBfeQ6XrY5sOurY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia y Willie](https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS) | 4:11 |
+| 46 | [Dos Jueyes](https://open.spotify.com/track/79LLoATRBfeQ6XrY5sOurY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia y Willie](https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS) | 4:11 |
+| 47 | [Ay Mi Cuba](https://open.spotify.com/track/1wn4tJRraiHIx518NyMmHA) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa), [Justi Barreto](https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2) | [Homenaje A Beny Moré](https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY) | 4:56 |
 | 48 | [Tres Gotas De Agua Bendita \(feat\. Celia Cruz\)](https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Alma Caribeña](https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np) | 4:17 |
 | 49 | [Amores De Un Día](https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Azúcar Negra](https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt) | 3:50 |
 | 50 | [Azúcar, Azúcar](https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Etc\. Etc\. Etc.](https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv) | 3:00 |
 
-Snapshot ID: `af/KgAAAAAAvAbCJwF2NCTQfXMSt4uZi`
+Snapshot ID: `agEcAAAAAACmQXB+IG1gve9iSwMz4v0A`

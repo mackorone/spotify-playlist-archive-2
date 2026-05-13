@@ -4,12 +4,12 @@
 
 > This is Sofie Birch\. The essential tracks, all in one playlist.
 
-54 songs - 5 hr 2 min
+55 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2nd Quake](https://open.spotify.com/track/6BA5BBreQeelzjmpZSSlUv) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 5:18 | 2026-04-11 | 2026-04-25 |
-| [Arch](https://open.spotify.com/track/7J3rIJQfGotyvvtYD7ncYC) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 4:08 | 2026-03-19 | 2026-05-12 |
+| [Arch](https://open.spotify.com/track/7J3rIJQfGotyvvtYD7ncYC) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 4:08 | 2026-03-19 |  |
 | [Begin Sync End](https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 4:34 | 2026-03-19 |  |
 | [Behind the Hill](https://open.spotify.com/track/42kuJapejU5G2RATHD1sCY) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:47 | 2026-03-19 |  |
 | [Calibrating Sense](https://open.spotify.com/track/4VT2PYRCp9xD7KBVHm1fIr) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 4:02 | 2026-03-19 |  |
@@ -38,6 +38,7 @@
 | [Morning Room I](https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:16 | 2026-04-27 |  |
 | [Morning Room II](https://open.spotify.com/track/1l0XBAqITx2387TGripMv1) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 3:48 | 2026-05-11 | 2026-05-12 |
 | [Mu Evans](https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 5:44 | 2026-03-20 |  |
+| [Mue \- Sofie Birch Remix](https://open.spotify.com/track/6tPDhPCJu8NlVd2QehezEv) | [Koki Nakano](https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Mue \(Sofie Birch Remix\)](https://open.spotify.com/album/2MEoH5Q9S4WuAKhuqn4QFT) | 4:06 | 2026-05-13 |  |
 | [My River](https://open.spotify.com/track/34L1BjT10mI1dKvOJw4qd4) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:48 | 2026-03-19 |  |
 | [Myg](https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 10:18 | 2026-03-19 |  |
 | [Myrian Myriad](https://open.spotify.com/track/2yrejC1lOTJ7eCcQXRar6v) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 11:28 | 2026-04-09 |  |
@@ -47,7 +48,7 @@
 | [Outro](https://open.spotify.com/track/1xMb2ja1p267QATU3oXg8Y) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:50 | 2026-03-19 | 2026-05-03 |
 | [Portal Of](https://open.spotify.com/track/1cVO0Xcf4ZhZXjz2NOSBZI) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 1:42 | 2026-03-19 |  |
 | [Return from Silence](https://open.spotify.com/track/2ZRQeRdVWghcc42LGUEWUN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 5:11 | 2026-04-12 | 2026-05-11 |
-| [Reverie](https://open.spotify.com/track/6npTUba77dx5CHI2nN3lfZ) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 7:12 | 2026-04-12 |  |
+| [Reverie](https://open.spotify.com/track/6npTUba77dx5CHI2nN3lfZ) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 7:12 | 2026-04-12 | 2026-05-13 |
 | [Runge](https://open.spotify.com/track/1ox3vHoIccsiV7t86Zw3RF) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 3:54 | 2026-03-19 |  |
 | [Silver Age](https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 5:11 | 2026-03-19 |  |
 | [Slow Piru](https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 6:53 | 2026-03-19 |  |

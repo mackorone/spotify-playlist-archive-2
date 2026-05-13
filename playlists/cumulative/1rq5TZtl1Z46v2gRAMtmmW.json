@@ -4909,6 +4909,28 @@
     },
     {
       "album": {
+        "name": "If This Is It",
+        "url": "https://open.spotify.com/album/4EQ1QONy2hsmWHFdxOB7gm"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243702,
+      "name": "If This Is It",
+      "url": "https://open.spotify.com/track/71vkCMFohC2QD94tlyIGln"
+    },
+    {
+      "album": {
         "name": "If We Only Knew (From the Documentary Film \"Blue Carbon\u201d)",
         "url": "https://open.spotify.com/album/0RKMHWmW6g5JZWZnvW2a4f"
       },
@@ -9026,6 +9048,24 @@
       "duration_ms": 289846,
       "name": "These Dreams are Killing Me",
       "url": "https://open.spotify.com/track/3l3kfVCK5rhMlLzVw8ZYzg"
+    },
+    {
+      "album": {
+        "name": "THIEF",
+        "url": "https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182248,
+      "name": "THIEF",
+      "url": "https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII"
     },
     {
       "album": {

@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Back to the Start",
+        "url": "https://open.spotify.com/album/5PNIo39qx1mVQnluO3UM4f"
+      },
+      "artists": [
+        {
+          "name": "Evan Fahey",
+          "url": "https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143622,
+      "name": "Back to the Start",
+      "url": "https://open.spotify.com/track/47HHmW5YouagaGwQrMCRvi"
+    },
+    {
+      "album": {
         "name": "Bad Attitude",
         "url": "https://open.spotify.com/album/0xNPYQ8vVS3wNDEaWKY3iw"
       },
@@ -4173,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "Online",
+        "url": "https://open.spotify.com/album/17FiFf2zK6GnULQt8lTAmh"
+      },
+      "artists": [
+        {
+          "name": "Western Jaguar",
+          "url": "https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/6orF4Fdls3oyIIatwI4tLm"
+    },
+    {
+      "album": {
         "name": "Only Good Things Will Come",
         "url": "https://open.spotify.com/album/1H3UTxWPBuzpZfuXew7rOB"
       },
@@ -4660,6 +4696,24 @@
       "duration_ms": 179299,
       "name": "SATISFIED",
       "url": "https://open.spotify.com/track/4tgRMPgQF7cjJ0t2oeqAEg"
+    },
+    {
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/3m1tA8n5qe5weca6RPf1lM"
+      },
+      "artists": [
+        {
+          "name": "Savannah Strand",
+          "url": "https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170285,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/2sBEE8SZudR0dBr3JNbOjd"
     },
     {
       "album": {
@@ -6326,6 +6380,24 @@
       "duration_ms": 220805,
       "name": "Winter's Whisper",
       "url": "https://open.spotify.com/track/1syD8DhfIrIHUu0B5vGjTh"
+    },
+    {
+      "album": {
+        "name": "Wish It Were True",
+        "url": "https://open.spotify.com/album/6BWOyHzOcBHsvS4FU9iMf5"
+      },
+      "artists": [
+        {
+          "name": "The meantime green",
+          "url": "https://open.spotify.com/artist/03AuzDuKaTGM8tBZDtT90h"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196385,
+      "name": "Wish It Were True",
+      "url": "https://open.spotify.com/track/0ccX8b6roUZh5wdt4J4dR9"
     },
     {
       "album": {

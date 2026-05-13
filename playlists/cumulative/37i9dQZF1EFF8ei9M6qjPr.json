@@ -3296,6 +3296,24 @@
     {
       "album": {
         "name": "Sick of Me Too",
+        "url": "https://open.spotify.com/album/2lyxfE2VgGFQ6oj26dwPjk"
+      },
+      "artists": [
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151236,
+      "name": "Sick of Me Too",
+      "url": "https://open.spotify.com/track/5KqHyTE8kz7jHq9HPeRBqW"
+    },
+    {
+      "album": {
+        "name": "Sick of Me Too",
         "url": "https://open.spotify.com/album/3r9SgXJ51nliEoI6Az7zO5"
       },
       "artists": [

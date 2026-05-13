@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: DEAN & Anderson .Paak)",
-  "num_followers": 1095387,
+  "num_followers": 1095302,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -427,70 +427,6 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
-        "name": "DIE 4 YOU",
-        "url": "https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 194045,
-      "name": "DIE 4 YOU",
-      "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
-    },
-    {
-      "added_at": "2026-05-08 04:42:18",
-      "album": {
-        "name": "Twenty-Five Twenty-One OST Part 4",
-        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 204229,
-      "name": "Your Existence",
-      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
-    },
-    {
-      "added_at": "2026-05-08 04:42:18",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
-    },
-    {
-      "added_at": "2026-05-08 04:42:18",
-      "album": {
-        "name": "Baby, Honey",
-        "url": "https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM"
-      },
-      "artists": [
-        {
-          "name": "HOSHI",
-          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Baby, Honey",
-      "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
-    },
-    {
-      "added_at": "2026-05-08 04:42:18",
-      "album": {
         "name": "Lullaby Remix",
         "url": "https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB"
       },
@@ -515,6 +451,70 @@
       "duration_ms": 217000,
       "name": "Lullaby Remix",
       "url": "https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx"
+    },
+    {
+      "added_at": "2026-05-08 04:42:18",
+      "album": {
+        "name": "DIE 4 YOU",
+        "url": "https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 194045,
+      "name": "DIE 4 YOU",
+      "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
+    },
+    {
+      "added_at": "2026-05-08 04:42:18",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+    },
+    {
+      "added_at": "2026-05-08 04:42:18",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 4",
+        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 204229,
+      "name": "Your Existence",
+      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
+    },
+    {
+      "added_at": "2026-05-08 04:42:18",
+      "album": {
+        "name": "Baby, Honey",
+        "url": "https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Baby, Honey",
+      "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
     },
     {
       "added_at": "2026-05-08 04:42:18",
@@ -571,18 +571,18 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
-        "name": "Wait On Me - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
+        "name": "ANTIDOTE",
+        "url": "https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu"
       },
       "artists": [
         {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
         }
       ],
-      "duration_ms": 193053,
-      "name": "Wait On Me",
-      "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
+      "duration_ms": 147299,
+      "name": "SAY MY NAME",
+      "url": "https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818"
     },
     {
       "added_at": "2026-05-08 04:42:18",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
-        "name": "ANTIDOTE",
-        "url": "https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu"
+        "name": "Wait On Me - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
       },
       "artists": [
         {
-          "name": "DIMO REX",
-          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
         }
       ],
-      "duration_ms": 147299,
-      "name": "SAY MY NAME",
-      "url": "https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818"
+      "duration_ms": 193053,
+      "name": "Wait On Me",
+      "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
     },
     {
       "added_at": "2026-05-08 04:42:18",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
-        "name": "MY WORLD - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
-    },
-    {
-      "added_at": "2026-05-08 04:42:18",
-      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 205101,
       "name": "Shoong! (feat. LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
+    },
+    {
+      "added_at": "2026-05-08 04:42:18",
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
     },
     {
       "added_at": "2026-05-08 04:42:18",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Lucid Dream",
-      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
-    },
-    {
-      "added_at": "2026-05-08 04:42:18",
-      "album": {
         "name": "VIBE (feat. Jimin of BTS)",
         "url": "https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka"
+    },
+    {
+      "added_at": "2026-05-08 04:42:18",
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
     },
     {
       "added_at": "2026-05-08 04:42:18",

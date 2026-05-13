@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Lift your spirit and anchor your faith in these songs of hopefulness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,260 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,264 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 29 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 4:01 |
 | 30 | [The Love I Have For You](https://open.spotify.com/track/75aoONJnZBvJ7va31RjtSv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [The Love I Have For You](https://open.spotify.com/album/6IAZRtDcKhLmoK8KFziqrE) | 2:42 |
 | 31 | [Already On The Way](https://open.spotify.com/track/5BiB8P7GtRhU5qXhfUVraS) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Already On The Way](https://open.spotify.com/album/5XEkfQjUdUlyleyG4uc0yo) | 4:12 |
-| 32 | [Make It Through](https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Make It Through](https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm) | 3:12 |
+| 32 | [The Reminder](https://open.spotify.com/track/6INilJMURz2ptArultdEDl) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The Reminder](https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp) | 4:02 |
 | 33 | [Marvelous \- Live](https://open.spotify.com/track/7yGFqQLgDpHmSetmzyWX94) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah Waters](https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L) | [Marvelous \(Live\)](https://open.spotify.com/album/7MC0d2DF0kSt5stF1ce58g) | 8:45 |
-| 34 | [The Reminder](https://open.spotify.com/track/6INilJMURz2ptArultdEDl) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The Reminder](https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp) | 4:02 |
+| 34 | [Make It Through](https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Make It Through](https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm) | 3:12 |
 | 35 | [I Set My Hope \(Hymn For A Deconstructing Friend\)](https://open.spotify.com/track/6WOMNb2YNHE3HhTo3w0KCx) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [I Set My Hope On Jesus](https://open.spotify.com/album/2Tk1ntQrATbl2G05ncpJDK) | 4:15 |
 | 36 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 |
 | 37 | [Be Close](https://open.spotify.com/track/6JqvAi5ve8N0jLyn35Dn27) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Be Close](https://open.spotify.com/album/7dFq18r3OrKBC1tL6Qu7Wb) | 3:32 |

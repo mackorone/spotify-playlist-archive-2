@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Ken Yokoyama
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: テレビ大陸音頭
 
-892 songs - 1 day 23 hr 2 min
+894 songs - 1 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-28 | 2023-12-20 |
 | [dingdong jungle](https://open.spotify.com/track/0uCKvN0hL2lfbEIodpPT1F) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [dingdong jungle](https://open.spotify.com/album/44MPdzmWZh0bMALoYGSuDh) | 2:53 | 2022-08-02 | 2022-08-10 |
 | [Dirty Party](https://open.spotify.com/track/2UixLInT8vsLbefK63BXLB) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 3:07 | 2022-05-17 | 2022-07-29 |
-| [Dive into the Beat](https://open.spotify.com/track/79Z4csJLFpuPiI94MfiUhS) | [No Guard Okey](https://open.spotify.com/artist/0WChAIlhqnTFsCusfLKQLL) | [Dive into the Beat](https://open.spotify.com/album/3PJBUr6NF8eji7kTWSz1VJ) | 2:33 | 2026-02-10 |  |
+| [Dive into the Beat](https://open.spotify.com/track/79Z4csJLFpuPiI94MfiUhS) | [No Guard Okey](https://open.spotify.com/artist/0WChAIlhqnTFsCusfLKQLL) | [Dive into the Beat](https://open.spotify.com/album/3PJBUr6NF8eji7kTWSz1VJ) | 2:33 | 2026-02-10 | 2026-05-13 |
 | [DIVE!!!](https://open.spotify.com/track/1pc34YhP1c2OYOzEG3eUEQ) | [skaskaskaclub](https://open.spotify.com/artist/4fYQktTqLvpdHtd8Ue87Fq) | [SKA! SKA! SKA!?](https://open.spotify.com/album/1SXRbcrIquZ3UNLsHP7rWA) | 2:43 | 2024-11-05 | 2025-01-22 |
 | [Don't forget the origin](https://open.spotify.com/track/1KiC3LwXUqkLWxaMXOqHqw) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS), [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Don't forget the origin](https://open.spotify.com/album/2kgGK9FDnAC9Vjb2YVejec) | 2:38 | 2025-06-17 | 2025-07-23 |
 | [Don't Let Me Down](https://open.spotify.com/track/2umiTDOadc6AtsjCIXBkT7) | [Five State Drive](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [We'll be the Next](https://open.spotify.com/album/6jf1XEwvf9Nwyk3cf9bGKn) | 2:50 | 2022-05-17 | 2022-07-28 |
@@ -293,6 +293,7 @@
 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-20 | 2023-12-06 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW) | 2:42 | 2023-12-07 | 2023-12-20 |
 | [Let The Beat Carry On](https://open.spotify.com/track/5aIxRbYvjSr5fYco54GbgA) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Four](https://open.spotify.com/album/1A2qh9qzsHSiN4jbRMSL7C) | 3:09 | 2022-05-12 | 2022-07-25 |
+| [Let's make music!](https://open.spotify.com/track/75dDuJ9YqoBuSpbiCUmdQA) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [Let's make music!](https://open.spotify.com/album/5jYGE70bAs9xuGgkX1Ephy) | 4:28 | 2026-05-12 |  |
 | [Life is](https://open.spotify.com/track/1TWyvuvElJ57xCpsFD9ngs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 3:23 | 2023-07-11 | 2024-06-12 |
 | [Life is](https://open.spotify.com/track/7fwrQ99Av65pJVvpvqaW41) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 3:23 | 2023-07-11 | 2023-09-20 |
 | [Life Is A Suspense](https://open.spotify.com/track/72bDB4wY8ztaIG4MJqP5an) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 2:48 | 2022-05-19 | 2022-07-28 |
@@ -494,7 +495,7 @@
 | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/track/713QsTBsZ0YQbWrAbZ31Pq) | [For A Reason](https://open.spotify.com/artist/7xKhPv4ap1useGKUaLLh7q) | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/album/3GgSgMFsq1TUV0zYT9tcqo) | 2:50 | 2022-05-12 | 2022-07-23 |
 | [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2022-05-12 | 2026-02-27 |
 | [Skull Skater](https://open.spotify.com/track/3g5K6bWk8PsAp0pNMi5fBo) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Skull Skater](https://open.spotify.com/album/2DHaOoIyFkzuscp2eE4YLA) | 2:39 | 2026-04-21 |  |
-| [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2022-12-13 |  |
+| [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2022-12-13 | 2026-05-13 |
 | [Sleep](https://open.spotify.com/track/6QeU2s3F49pefIGevH0Xcv) | [KICKASSRAY](https://open.spotify.com/artist/3kDn7aNNfO1sfrK5oCeI36) | [Hold Water EP](https://open.spotify.com/album/2tyiEdraFvdGSigC1dD0ZE) | 3:34 | 2022-06-07 | 2022-07-20 |
 | [sleeps](https://open.spotify.com/track/13xF5hSOJOBbv2jNNEwY7F) | [RAINCOVER](https://open.spotify.com/artist/2sOzogZ56UHGK5MxDIniyW) | [sleeps](https://open.spotify.com/album/2isLTYuqfrBPQXwXuIgSe7) | 4:22 | 2024-04-16 | 2024-09-18 |
 | [sleeps](https://open.spotify.com/track/7xeYoyOdyJvcbfh9FKQE4e) | [RAINCOVER](https://open.spotify.com/artist/2sOzogZ56UHGK5MxDIniyW) | [sleeps](https://open.spotify.com/album/3gDcmKiNQIffNxvaQwwigT) | 4:22 | 2024-01-16 | 2024-04-19 |
@@ -864,6 +865,7 @@
 | [理想と現実](https://open.spotify.com/track/4iJ8gbwQxNhdun2Vz7maj1) | [WEAKEND HEROES](https://open.spotify.com/artist/4JJsbXfC3fanYgoCP4T0F8) | [振り出しに向かう](https://open.spotify.com/album/0HvmWwHOIxjGkaPrVGgTcx) | 3:36 | 2022-05-12 | 2022-07-24 |
 | [生命](https://open.spotify.com/track/089CvfGDwYV3hrjV8ccxqC) | [sassya\-](https://open.spotify.com/artist/0Ro15lPEJLZfG9H7hxXOxu) | [生命](https://open.spotify.com/album/521XLb57KE7oyqscQIB71S) | 3:14 | 2022-07-12 | 2022-07-15 |
 | [画鋲](https://open.spotify.com/track/0ExLkkjmLB2X6KhFHPXqeE) | [画鋲](https://open.spotify.com/artist/4AZ61DUBlmjViXIzqoknqT) | [画鋲ファースト](https://open.spotify.com/album/6V6TuH4pZ89bUo7yvwJSdZ) | 2:15 | 2022-05-12 | 2022-07-24 |
+| [異次元の暮らし](https://open.spotify.com/track/1q0gjCOES8TvZkDICo1GBP) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [異次元の暮らし](https://open.spotify.com/album/1in1MsABiu1uVDG5jBrqgx) | 3:34 | 2026-05-12 |  |
 | [白煙](https://open.spotify.com/track/0yGq8ZsyE3cYBYQC9R1P0g) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 3:49 | 2022-05-17 | 2022-07-28 |
 | [百合の咲く場所で](https://open.spotify.com/track/5fU5rBiYS7ICg3BtojUCIn) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd) | 3:16 | 2023-02-21 | 2023-02-23 |
 | [目が覚めてon the road](https://open.spotify.com/track/1gphTBLh9vXTXNPsq67MJY) | [ザ・リラクシンズ](https://open.spotify.com/artist/2TUQcoBWcdL0ID73Hxqn2H) | [目が覚めてon the road](https://open.spotify.com/album/1CowD0JcqhSUh9NyKkmUj8) | 3:42 | 2022-05-12 | 2022-07-19 |

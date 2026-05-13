@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Sofía Comas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,769 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,765 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 12 | [Derecho de Nacimiento \(feat\. Los Macorinos\)](https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 5:48 |
 | 13 | [Agua de Galicia](https://open.spotify.com/track/48zPOHTSD7edQnUa228nna) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Amar La Sed](https://open.spotify.com/album/5gMxIQExjzRDvEYt1BISQU) | 2:35 |
 | 14 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 |
-| 15 | [Canción de la simples cosas \- En Vivo](https://open.spotify.com/track/6RSAPcawZBLpOVozOmF8Ur) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Corazón Acústico Vol\. I \- En Vivo desde Studio A B48 \(Barcelona\)](https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w) | 3:40 |
+| 15 | [Canción de las simples cosas \- En Vivo](https://open.spotify.com/track/6RSAPcawZBLpOVozOmF8Ur) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Corazón Acústico Vol\. I \- En Vivo desde Studio A B48 \(Barcelona\)](https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w) | 3:40 |
 | 16 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 |
 | 17 | [Sin decir adiós \(BSO Después de Kim\)](https://open.spotify.com/track/4f4EeMfjsckRzjiwmcxm6A) | [Christina Rosenvinge](https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp) | [Sin decir adiós \(BSO Después de Kim\)](https://open.spotify.com/album/1mXw5HrMCLV31KT355eitc) | 2:46 |
 | 18 | [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 |

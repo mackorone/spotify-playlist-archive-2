@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 75389,
+  "num_followers": 75390,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -47,18 +47,30 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
-        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
+        "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
+        "url": "https://open.spotify.com/album/01018kIpMNDTe0WrYornLN"
       },
       "artists": [
         {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+          "name": "M\u0119skie Granie Orkiestra",
+          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
+        },
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        },
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
         }
       ],
-      "duration_ms": 251053,
-      "name": "D\u0142ugo\u015b\u0107 d\u017awi\u0119ku samotno\u015bci",
-      "url": "https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB"
+      "duration_ms": 209655,
+      "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
+      "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -131,22 +143,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Muzyka Komercyjna (Deluxe)",
-        "url": "https://open.spotify.com/album/0btfWeG02knwyMwwTjySgo"
+        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
+        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
       },
       "artists": [
         {
-          "name": "Pezet",
-          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
-        },
-        {
-          "name": "Auer",
-          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
         }
       ],
-      "duration_ms": 195704,
-      "name": "Dom Nad Wod\u0105",
-      "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
+      "duration_ms": 251053,
+      "name": "D\u0142ugo\u015b\u0107 d\u017awi\u0119ku samotno\u015bci",
+      "url": "https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -167,30 +175,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
-        "url": "https://open.spotify.com/album/01018kIpMNDTe0WrYornLN"
+        "name": "Muzyka Komercyjna (Deluxe)",
+        "url": "https://open.spotify.com/album/0btfWeG02knwyMwwTjySgo"
       },
       "artists": [
         {
-          "name": "M\u0119skie Granie Orkiestra",
-          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
         },
         {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        },
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
         }
       ],
-      "duration_ms": 209655,
-      "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
-      "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
+      "duration_ms": 195704,
+      "name": "Dom Nad Wod\u0105",
+      "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -651,18 +651,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Zakryj (Deluxe)",
-        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
+        "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
+        "url": "https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6"
       },
       "artists": [
         {
-          "name": "Sarsa",
-          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 215266,
-      "name": "T\u0119skno Mi",
-      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
+      "duration_ms": 190105,
+      "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
+      "url": "https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -683,18 +683,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
-        "url": "https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6"
+        "name": "Zakryj (Deluxe)",
+        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
         }
       ],
-      "duration_ms": 190105,
-      "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
-      "url": "https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG"
+      "duration_ms": 215266,
+      "name": "T\u0119skno Mi",
+      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Nic dwa razy (W. Szymborska)",
-        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Nic dwa razy (W. Szymborska)",
-      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Bu\u0142garskie centrum",
         "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 374093,
       "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
       "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Nic dwa razy (W. Szymborska)",
+        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Nic dwa razy (W. Szymborska)",
+      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Bumerang",
+        "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
+      },
+      "artists": [
+        {
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+        }
+      ],
+      "duration_ms": 246771,
+      "name": "Zosta\u0144",
+      "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Osobista kolekcja 2",
         "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 319346,
       "name": "Dwa serca, dwa smutki",
       "url": "https://open.spotify.com/track/0hmuqBnZVaud5KU7lMRJlE"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Bumerang",
-        "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
-      },
-      "artists": [
-        {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
-        }
-      ],
-      "duration_ms": 246771,
-      "name": "Zosta\u0144",
-      "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
     },
     {
       "added_at": "2025-10-16 09:34:51",

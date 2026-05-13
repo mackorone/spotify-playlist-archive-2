@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 30783,
+  "num_followers": 30787,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAD8S6UUKPFpVzYldy/TmNj1",
+  "snapshot_id": "agEcAAAAAADp7UCaKv8P2iacQqGaYXfc",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 253480,
-      "name": "Colorado Bulldog",
-      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
+      "duration_ms": 232373,
+      "name": "The Whole World's Gonna Know",
+      "url": "https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 232373,
-      "name": "The Whole World's Gonna Know",
-      "url": "https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v"
+      "duration_ms": 253480,
+      "name": "Colorado Bulldog",
+      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 230120,
-      "name": "Rock & Roll Over - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actual Size",
         "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 300293,
       "name": "Nothing Like It In The World",
       "url": "https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 230120,
+      "name": "Rock & Roll Over - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Take A Walk - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actual Size",
         "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 282626,
       "name": "Suffocation",
       "url": "https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Take A Walk - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 289266,
-      "name": "Big Love - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 247093,
       "name": "Voodoo Kiss",
       "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 289266,
+      "name": "Big Love - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
     },
     {
       "added_at": null,

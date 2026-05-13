@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 116089,
+  "num_followers": 116145,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1631,22 +1631,18 @@
     {
       "added_at": "2026-05-08 04:01:51",
       "album": {
-        "name": "La bohemia",
-        "url": "https://open.spotify.com/album/6xQ8fWvwPReZSU4uRkUI8p"
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
       },
       "artists": [
         {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
         }
       ],
-      "duration_ms": 228764,
-      "name": "La bohemia",
-      "url": "https://open.spotify.com/track/5E8eu7Jfj7dkZgnbMOPtwK"
+      "duration_ms": 180109,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
     },
     {
       "added_at": "2026-05-08 04:01:51",
@@ -1667,18 +1663,22 @@
     {
       "added_at": "2026-05-08 04:01:51",
       "album": {
-        "name": "Kiki",
-        "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
+        "name": "La bohemia",
+        "url": "https://open.spotify.com/album/6xQ8fWvwPReZSU4uRkUI8p"
       },
       "artists": [
         {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         }
       ],
-      "duration_ms": 180109,
-      "name": "Kiki",
-      "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
+      "duration_ms": 228764,
+      "name": "La bohemia",
+      "url": "https://open.spotify.com/track/5E8eu7Jfj7dkZgnbMOPtwK"
     },
     {
       "added_at": "2026-05-08 04:01:51",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2026-05-08 04:01:51",
       "album": {
+        "name": "Matadora (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+      },
+      "artists": [
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Matadora - Radio Edit",
+      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+    },
+    {
+      "added_at": "2026-05-08 04:01:51",
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
       },
@@ -1799,26 +1819,6 @@
     {
       "added_at": "2026-05-08 04:01:51",
       "album": {
-        "name": "Matadora (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
-      },
-      "artists": [
-        {
-          "name": "Maahez",
-          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Matadora - Radio Edit",
-      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
-    },
-    {
-      "added_at": "2026-05-08 04:01:51",
-      "album": {
         "name": "Se Va (feat. Cumbiafrica)",
         "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
       },
@@ -1835,26 +1835,6 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
-    },
-    {
-      "added_at": "2026-05-08 04:01:51",
-      "album": {
-        "name": "YASSOMA",
-        "url": "https://open.spotify.com/album/54wZm9gDV1cCU7lzYC5J0h"
-      },
-      "artists": [
-        {
-          "name": "KLYMVX",
-          "url": "https://open.spotify.com/artist/68PsxdwOmePEmaNZJgKBU3"
-        },
-        {
-          "name": "Jamy Nox",
-          "url": "https://open.spotify.com/artist/2VdnGtTNKt8Bm6hS5Pgra3"
-        }
-      ],
-      "duration_ms": 220161,
-      "name": "YASSOMA - Radio Edit",
-      "url": "https://open.spotify.com/track/7oDyhbJlgD1xs0xziPM4Fw"
     },
     {
       "added_at": "2026-05-08 04:01:51",
@@ -1879,6 +1859,26 @@
       "duration_ms": 162580,
       "name": "Piquete Cabron",
       "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
+    },
+    {
+      "added_at": "2026-05-08 04:01:51",
+      "album": {
+        "name": "YASSOMA",
+        "url": "https://open.spotify.com/album/54wZm9gDV1cCU7lzYC5J0h"
+      },
+      "artists": [
+        {
+          "name": "KLYMVX",
+          "url": "https://open.spotify.com/artist/68PsxdwOmePEmaNZJgKBU3"
+        },
+        {
+          "name": "Jamy Nox",
+          "url": "https://open.spotify.com/artist/2VdnGtTNKt8Bm6hS5Pgra3"
+        }
+      ],
+      "duration_ms": 220161,
+      "name": "YASSOMA - Radio Edit",
+      "url": "https://open.spotify.com/track/7oDyhbJlgD1xs0xziPM4Fw"
     },
     {
       "added_at": "2026-05-08 04:01:51",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2026-05-08 04:01:51",
       "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf"
+      },
+      "artists": [
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae"
+    },
+    {
+      "added_at": "2026-05-08 04:01:51",
+      "album": {
         "name": "Globo (feat. Blessd & Kofla)",
         "url": "https://open.spotify.com/album/1kUmugvmPWIY6ZEODVrMSx"
       },
@@ -1943,26 +1963,6 @@
       "duration_ms": 193846,
       "name": "Globo (feat. Blessd & Kofla)",
       "url": "https://open.spotify.com/track/3QyQNNpJg7spXyMzobBoX3"
-    },
-    {
-      "added_at": "2026-05-08 04:01:51",
-      "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf"
-      },
-      "artists": [
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        },
-        {
-          "name": "Benja (NL)",
-          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae"
     },
     {
       "added_at": "2026-05-08 04:01:51",

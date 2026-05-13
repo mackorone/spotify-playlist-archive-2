@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 9 | [Big Mic Energy \| Dee Salmin on Working in Radio & Getting Intimate On and Off the Air](https://open.spotify.com/episode/1h65O6niI5OS2suo7ts2fS) | [I Want Your Job](https://open.spotify.com/show/1vtu7Z7duC9qPdjRKNWWmO) | [I Want Your Job](https://open.spotify.com/album/1vtu7Z7duC9qPdjRKNWWmO) | 41:28 |
 | 10 | [Not Knowing is Knowing \| Graphic Designer Rowena Lloyd on Time & Uncertainty](https://open.spotify.com/episode/6y82ceD200mJz1dL3jIeVB) | [I Want Your Job](https://open.spotify.com/show/1vtu7Z7duC9qPdjRKNWWmO) | [I Want Your Job](https://open.spotify.com/album/1vtu7Z7duC9qPdjRKNWWmO) | 48:05 |
 
-Snapshot ID: `AAAAAMhZyJ7STTtlCO1d3uUzznkbKAew`
+Snapshot ID: `AAAAABO2DVVBZFUY5ZXrClfrAp23v/RV`

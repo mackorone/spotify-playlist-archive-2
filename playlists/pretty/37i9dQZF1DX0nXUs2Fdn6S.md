@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Nucleya
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,113 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,118 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

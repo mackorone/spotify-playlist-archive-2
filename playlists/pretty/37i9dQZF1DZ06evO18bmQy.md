@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,078 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,068 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 35 | [Santa Ceia](https://open.spotify.com/track/5vCzUWgHCURn3jN8dvdDTP) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [El Lif Beatz](https://open.spotify.com/artist/0femyMpoKFBbS4NCFbriFX), [Yodabren](https://open.spotify.com/artist/0aWOEUoRtkCHK96QTOcTjn) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 4:39 |
 | 36 | [das amantes freestyle](https://open.spotify.com/track/2CRnqV3kVYuqZ9iTWPvCy8) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:18 |
 | 37 | [O Cara de Óculos](https://open.spotify.com/track/6qL5zqdwgWjZZV6qmqbWzF) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Bia Nogueira](https://open.spotify.com/artist/7aOLFuqkyvr4VA70c4dMCl), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE) | 4:10 |
-| 38 | [Xapralá](https://open.spotify.com/track/76RsGo3soeUtmxJ946PzXc) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MDN Beatz](https://open.spotify.com/artist/2yk8dzqXBuwIPUHV81fVyx), [Rapaz do Dread](https://open.spotify.com/artist/2kwdyyy0ThTRg8B7qy5MLJ) | [NU](https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E) | 3:48 |
-| 39 | [HOMO SACER](https://open.spotify.com/track/1KECJSyDhEtRCjyRerdOuv) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL) | [TAMBORES, CAFEZAIS, FUZIS, GUARANAS E OUTRAS BRASILIDADES](https://open.spotify.com/album/00cEB8F0pxKdTz35WojR7A) | 3:48 |
+| 38 | [HOMO SACER](https://open.spotify.com/track/1KECJSyDhEtRCjyRerdOuv) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL) | [TAMBORES, CAFEZAIS, FUZIS, GUARANAS E OUTRAS BRASILIDADES](https://open.spotify.com/album/00cEB8F0pxKdTz35WojR7A) | 3:48 |
+| 39 | [Xapralá](https://open.spotify.com/track/76RsGo3soeUtmxJ946PzXc) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MDN Beatz](https://open.spotify.com/artist/2yk8dzqXBuwIPUHV81fVyx), [Rapaz do Dread](https://open.spotify.com/artist/2kwdyyy0ThTRg8B7qy5MLJ) | [NU](https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E) | 3:48 |
 | 40 | [Geminiano](https://open.spotify.com/track/3EBnCczKBkV03uMqNtDMW1) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 2:55 |
 | 41 | [Obstinado](https://open.spotify.com/track/5UBfIiXf71PxgqyO6vAfxW) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Jogzz](https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Obstinado](https://open.spotify.com/album/2qte1yUh9UwvAEoDO1mQAd) | 4:11 |
 | 42 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [bala fini](https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:29 |
 | 50 | [Oto Patamá](https://open.spotify.com/track/7AMSNqs5ApBmjuUQo8xEsd) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE) | 3:58 |
 
-Snapshot ID: `af/KgAAAAACY5IbLYaPCXRwy6G3GVMmt`
+Snapshot ID: `agEcAAAAAABZTyzhRg8MolehQwMMaJA9`

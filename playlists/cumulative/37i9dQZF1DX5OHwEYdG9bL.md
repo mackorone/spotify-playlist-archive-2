@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: aespa\) \(Enjoy a playlist of songs that support music video features!\)
 
-223 songs - 12 hr 16 min
+224 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Handlebars](https://open.spotify.com/track/02ycmM2h4Qy7N7F8d68evw) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Handlebars](https://open.spotify.com/album/3gcVaAZbYasW3tPtFYLMo9) | 3:31 | 2025-07-15 | 2025-08-20 |
 | [HANDS UP](https://open.spotify.com/track/36pQp4XqaNgg3aGipDkQc4) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/2tcFy4JMpGJ97f2IEi7VLb) | 3:24 | 2025-07-15 |  |
 | [HANDS UP](https://open.spotify.com/track/5A6Hz16MM07t7yYacvB8fO) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/5LZ71KaercZEeBpGk3AOMp) | 3:24 | 2025-07-15 |  |
+| [Heavy Serenade](https://open.spotify.com/track/6HtaC2TRP4QMoCtK1MHPoe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/1CcQeGV2y27qbZFvfKgNkL) | 3:23 | 2026-05-12 |  |
 | [HER](https://open.spotify.com/track/3H3PlGOLu5RqW8oC4upoi9) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/6oe7WSv4pqbz3xC7MFTxm5) | 2:49 | 2025-07-15 | 2025-08-20 |
 | [HomeRUN](https://open.spotify.com/track/2QPjIYPYysnKvZwyVKTXaP) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [HomeRUN](https://open.spotify.com/album/0duN67iQTQ2rmPx0SwdGHi) | 3:01 | 2025-12-03 |  |
 | [Hooligan](https://open.spotify.com/track/4TZc4KyZrSOcKCdrTKVYdS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Hooligan](https://open.spotify.com/album/7Gdn1kwr0LZ39avRoflJd8) | 3:57 | 2026-04-08 |  |

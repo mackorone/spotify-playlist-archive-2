@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Sayf, The Rolling Stones, LDA e Aka 7even, Coez e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,055 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,036 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 34 | [Game On \(ft\. JT\)](https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Sugar Girl](https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI) | 2:29 |
 | 35 | [CHOOM](https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k) | 2:58 |
 | 36 | [Big Dog](https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Big Dog](https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1) | 2:59 |
-| 37 | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07) | 4:17 |
+| 37 | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07) | 4:05 |
 | 38 | [Piume](https://open.spotify.com/track/3e6NpgKdxjOhzjJPVReisy) | [MEZZANERA](https://open.spotify.com/artist/5mzvaN29YKtfK4wmctgEqv) | [Piume](https://open.spotify.com/album/1pA2qbqQGtEVTaOIzXUzGG) | 2:57 |
 | 39 | [Quando poi ci lasceremo](https://open.spotify.com/track/4KX9Q5pFzA5isVlxnkprVH) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [Quando poi ci lasceremo](https://open.spotify.com/album/2bygDp78fWZxBLbBjnr5PS) | 2:33 |
 | 40 | [burrocacao](https://open.spotify.com/track/5aVXKwmDJH3QqUNfGg2bgT) | [Fausto Lama](https://open.spotify.com/artist/5h3Z2Vlk3KkOi99YZ2MwGI) | [burrocacao](https://open.spotify.com/album/1UYBB9xynt5KMA0WqPyweV) | 3:34 |

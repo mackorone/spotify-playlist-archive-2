@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 40672,
+  "num_followers": 40706,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,6 @@
     {
       "added_at": "2026-04-24 13:14:46",
       "album": {
-        "name": "Nit Khair Manga",
-        "url": "https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b"
-      },
-      "artists": [
-        {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
-        },
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Nit Khair Manga",
-      "url": "https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe"
-    },
-    {
-      "added_at": "2026-04-24 13:14:46",
-      "album": {
         "name": "Mahiya Tere Vekan Nu",
         "url": "https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 221379,
       "name": "Mahiya Tere Vekan Nu",
       "url": "https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb"
+    },
+    {
+      "added_at": "2026-04-24 13:14:46",
+      "album": {
+        "name": "Nit Khair Manga",
+        "url": "https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b"
+      },
+      "artists": [
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Nit Khair Manga",
+      "url": "https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe"
     },
     {
       "added_at": "2026-04-24 13:14:46",

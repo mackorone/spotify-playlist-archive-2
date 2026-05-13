@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 350235,
+  "num_followers": 350259,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -603,18 +603,66 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "El Hombre Del Traje Gris",
-        "url": "https://open.spotify.com/album/0Hf59j4braIFrtH0rFXjwZ"
+        "name": "Para Aute: Pasaba por Aqu\u00ed (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodr\u00edguez, Vanesa Martin & Xoel L\u00f3pez)",
+        "url": "https://open.spotify.com/album/2952fTsJClZUWrkhXYDGRN"
       },
       "artists": [
         {
           "name": "Joaqu\u00edn Sabina",
           "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        },
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        },
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        },
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        },
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        },
+        {
+          "name": "Xoel L\u00f3pez",
+          "url": "https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx"
         }
       ],
-      "duration_ms": 297120,
-      "name": "Qui\u00e9n Me Ha Robado el Mes de Abril",
-      "url": "https://open.spotify.com/track/1HX9kKDz6dG4fmLBuKVzOF"
+      "duration_ms": 178811,
+      "name": "Para Aute: Pasaba por Aqu\u00ed (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodr\u00edguez, Vanesa Martin & Xoel L\u00f3pez)",
+      "url": "https://open.spotify.com/track/7D9idjcIEbErDKK2vtUM2D"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -715,22 +763,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 110373,
-      "name": "Aquellas Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
         "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
       },
@@ -747,6 +779,22 @@
       "duration_ms": 390861,
       "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
       "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 110373,
+      "name": "Aquellas Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -967,22 +1015,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "La hora de los gigantes",
-        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
-      },
-      "artists": [
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
-      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "Cuerpo a Cuerpo (Remasterizado)",
         "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
       },
@@ -995,6 +1027,22 @@
       "duration_ms": 302000,
       "name": "Sin Tu Latido - Remasterizado",
       "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "La hora de los gigantes",
+        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
+      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -1235,22 +1283,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "No Me Ir\u00e9 Ma\u00f1ana (Edici\u00f3n 25 Aniversario)",
-        "url": "https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Se Dejaba Llevar Por Ti - Remastered 2015",
-      "url": "https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
@@ -1263,6 +1295,22 @@
       "duration_ms": 442680,
       "name": "Ahora Que Te Encuentro",
       "url": "https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "No Me Ir\u00e9 Ma\u00f1ana (Edici\u00f3n 25 Aniversario)",
+        "url": "https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Se Dejaba Llevar Por Ti - Remastered 2015",
+      "url": "https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -1331,22 +1379,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
       },
@@ -1359,6 +1391,22 @@
       "duration_ms": 240000,
       "name": "Agua",
       "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -1415,22 +1463,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "Cecilia",
-        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Dama Dama (Album Version)",
-      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "Algo contigo",
         "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
       },
@@ -1443,6 +1475,22 @@
       "duration_ms": 170000,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Dama Dama (Album Version)",
+      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -1531,22 +1579,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "tiene que ser m\u00e1s f\u00e1cil",
-        "url": "https://open.spotify.com/album/6xVdTAJCQAcjM4CyHiJjZa"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 230653,
-      "name": "tiene que ser m\u00e1s f\u00e1cil",
-      "url": "https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "Contigo En La Distancia",
         "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
@@ -1559,6 +1591,22 @@
       "duration_ms": 157386,
       "name": "Contigo en la Distancia",
       "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "tiene que ser m\u00e1s f\u00e1cil",
+        "url": "https://open.spotify.com/album/6xVdTAJCQAcjM4CyHiJjZa"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "tiene que ser m\u00e1s f\u00e1cil",
+      "url": "https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh"
     },
     {
       "added_at": "2026-05-07 22:02:24",

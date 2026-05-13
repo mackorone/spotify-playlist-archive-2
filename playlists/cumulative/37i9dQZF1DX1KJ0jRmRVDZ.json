@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: \u83c5\u539f\u572d",
+  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: syudou",
   "name": "Cloud Archive\uff5c\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -4250,6 +4250,24 @@
       "duration_ms": 227634,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/1eoLE3pztHTV9UL5muESxw"
+    },
+    {
+      "album": {
+        "name": "Haru Ni Mau",
+        "url": "https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238180,
+      "name": "Haru Ni Mau",
+      "url": "https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q"
     },
     {
       "album": {
@@ -12312,6 +12330,24 @@
       "duration_ms": 273478,
       "name": "\u3042\u308f\u3072",
       "url": "https://open.spotify.com/track/2abDXgPKaf45yypH4ifUdr"
+    },
+    {
+      "album": {
+        "name": "\u3042\u30fc\u3042",
+        "url": "https://open.spotify.com/album/5IIzw1RVdvPpBPoyFs8ruE"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231633,
+      "name": "\u3042\u30fc\u3042",
+      "url": "https://open.spotify.com/track/6m1Tv7NjB7Y2Ru1OZSMkXm"
     },
     {
       "album": {
@@ -27086,7 +27122,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 184666,
       "name": "\u66b4\u9732",
       "url": "https://open.spotify.com/track/7ENV1wpuCIlCx2AjlSE2PA"
@@ -29968,7 +30004,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 188982,
       "name": "\u7dba\u7f85",
       "url": "https://open.spotify.com/track/4dSWGjuW29GHffKWwx0bGw"

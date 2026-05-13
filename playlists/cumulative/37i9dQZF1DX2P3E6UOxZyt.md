@@ -4,7 +4,7 @@
 
 > 他們就是本年度的重點雷達及力推星人！Let's meet the future！Cover: E1and
 
-833 songs - 1 day 23 hr 46 min
+835 songs - 1 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Santé](https://open.spotify.com/track/0Ykbr3QGOHAYmuX5BIk1ig) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:34 | 2022-01-20 | 2024-01-26 |
 | [Satellite \(feat\. 李佳歡\)](https://open.spotify.com/track/7onWLCs10ymbRjd5DWnNcq) | [Apio](https://open.spotify.com/artist/6uuzm4DlmoSw9XCePLWRIv), [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [Un271](https://open.spotify.com/album/0muV1QnzaWEH3JI3pDEPG6) | 3:52 | 2022-06-30 | 2023-01-13 |
 | [Say Something](https://open.spotify.com/track/1GwuQihIuhqGSYO4Y5FZJM) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Say Something](https://open.spotify.com/album/3HbozZVrYjSl3NghdNPciZ) | 4:30 | 2023-04-13 | 2024-03-29 |
+| [scuba diving](https://open.spotify.com/track/4vHtTlW8yvweqJxTvJwtsf) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [scuba diving](https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT) | 2:04 | 2026-05-12 |  |
 | [Seh Ah Seh](https://open.spotify.com/track/57sjJwJK8yltKdfR6HwlMu) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:25 | 2024-02-29 | 2024-03-29 |
 | [Self Love](https://open.spotify.com/track/6txQK5I4ufgpnNbbqRSFvp) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Self Love](https://open.spotify.com/album/0M4mszH8MfUGHxi90o3ui4) | 3:30 | 2022-09-01 | 2022-11-11 |
 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 | 2023-06-08 | 2024-01-05 |
@@ -306,6 +307,7 @@
 | [Yes No Maybe \(feat\. 桃子A1J\)](https://open.spotify.com/track/0P0FuSptrRMuUeeFayaKYk) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [IKARUS](https://open.spotify.com/album/5uxcK6vD7C7VhA94J3jnmT) | 2:57 | 2024-02-01 | 2024-02-16 |
 | [Yes No Maybe \(feat\. 桃子A1J\)](https://open.spotify.com/track/5CVLF555R63QYvmDQCKZAG) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [Yes No Maybe \(feat\. 桃子A1J\)](https://open.spotify.com/album/6IwxNZDPjOnC0B1JLThqdo) | 2:57 | 2021-12-30 | 2022-11-25 |
 | [Yoohoo](https://open.spotify.com/track/1czNiios6D4whvN5oXkek7) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [Yoohoo](https://open.spotify.com/album/6CugJfTrHJm6FJDpnn3Njl) | 2:45 | 2022-05-26 | 2022-07-29 |
+| [you call it love, i call it lie](https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [you call it love, i call it lie](https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR) | 3:02 | 2026-05-12 |  |
 | [You Hurt Me So Bad](https://open.spotify.com/track/3aGNlXxpEflmur1f0m6EDU) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro), [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [You Hurt Me So Bad](https://open.spotify.com/album/7stvQ2j6sn2nZ96Vdbwe9F) | 3:07 | 2025-10-06 | 2025-12-04 |
 | [You Like Me](https://open.spotify.com/track/7x6lPvge2DmUzODEWkYYam) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [You Like Me](https://open.spotify.com/album/7gDEwYDkvHA7J2BOWnntBX) | 3:00 | 2021-12-30 | 2023-04-07 |
 | [You Say Goodbye Easily](https://open.spotify.com/track/4JiP9YjPXjP8Axcx779PKk) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:09 | 2022-02-10 | 2023-12-22 |

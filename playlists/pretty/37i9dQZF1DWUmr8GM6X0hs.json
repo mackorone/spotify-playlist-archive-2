@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 105876,
+  "num_followers": 105883,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
+        "name": "30 Mejores: Alci Acosta",
+        "url": "https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv"
+      },
+      "artists": [
+        {
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "La Carcel de Sing Sing",
+      "url": "https://open.spotify.com/track/29Jg2oo2XRAM135DXG9fZp"
+    },
+    {
+      "added_at": "2025-12-19 04:59:16",
+      "album": {
         "name": "Brillantes - Eydie Gorme Y Los Panchos",
         "url": "https://open.spotify.com/album/2x0Uc0vEeVPsX1z80i3VcO"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 215000,
       "name": "Ma\u00f1anas de Carnaval",
       "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
-        "name": "30 Mejores: Alci Acosta",
-        "url": "https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv"
-      },
-      "artists": [
-        {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "La Carcel de Sing Sing",
-      "url": "https://open.spotify.com/track/29Jg2oo2XRAM135DXG9fZp"
     },
     {
       "added_at": "2025-12-19 04:59:16",

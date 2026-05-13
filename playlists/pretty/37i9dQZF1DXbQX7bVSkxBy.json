@@ -1,6 +1,6 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Sinach",
-  "num_followers": 57434,
+  "num_followers": 57454,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
+      "added_at": "2026-05-01 00:02:19",
+      "album": {
+        "name": "I have escaped (Main Version)",
+        "url": "https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "I have escaped",
+      "url": "https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "The Message",
@@ -811,22 +827,6 @@
       "duration_ms": 638798,
       "name": "Calling My Name (I'm A Soldier) - Live",
       "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
-    },
-    {
-      "added_at": "2026-05-01 00:02:19",
-      "album": {
-        "name": "I have escaped (Main Version)",
-        "url": "https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "I have escaped",
-      "url": "https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K"
     },
     {
       "added_at": "2024-04-05 00:01:00",

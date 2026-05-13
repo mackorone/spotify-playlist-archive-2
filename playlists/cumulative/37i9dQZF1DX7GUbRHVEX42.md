@@ -4,7 +4,7 @@
 
 > The best of current & contemporary Reggae\.  Cover: Buju Banton
 
-310 songs - 19 hr 6 min
+311 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Blaze Away](https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Blaze Away](https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc) | 3:09 | 2021-10-24 |  |
 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 | 2021-10-24 |  |
 | [Blood Money](https://open.spotify.com/track/5e1k77pDTPzOYN9TOwpWn6) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Blood Money](https://open.spotify.com/album/5x0RPMWoS4YzhXs6lRSB8i) | 3:48 | 2023-07-10 | 2023-08-08 |
-| [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 | 2021-10-24 |  |
+| [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 | 2021-10-24 | 2026-05-13 |
 | [Butterflies](https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Butterflies](https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i) | 2:34 | 2026-04-23 |  |
 | [By Any Mean$ \(with Jesse Royal\)](https://open.spotify.com/track/6bFbSluNoeF83UVJRi6YiG) | [KA$E](https://open.spotify.com/artist/11p4fDNXEPs2gMtNVEYmKG), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Loud City](https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1) | [By Any Mean$ \(with Jesse Royal\)](https://open.spotify.com/album/2Hrl1LzZTfBQ9yyr0ME1rB) | 2:48 | 2026-02-20 |  |
 | [Bye Bye Bye \(feat\. Chronixx\)](https://open.spotify.com/track/5t7DR7W68CiC393I1amWD0) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 2:45 | 2023-08-07 | 2023-11-25 |
@@ -143,6 +143,7 @@
 | [Lift Our Spirits, Raise Our Voice](https://open.spotify.com/track/7K8nggstlxeOpmmsgAWqoy) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Lift Our Spirits, Raise Our Voice](https://open.spotify.com/album/2s2sWaRzbATbcc9e4f3oLD) | 3:56 | 2023-05-15 | 2023-07-11 |
 | [Lift Up Your Head](https://open.spotify.com/track/3NJ4HJLTD2q2Yq3l4ZsNaZ) | [Everton Blender](https://open.spotify.com/artist/4g87eDwWKEcIpEW8kiTUla) | [Strictly The Best Vol\. 18](https://open.spotify.com/album/3IVnpXa9ipRb3SgxjJOQju) | 3:59 | 2023-07-10 | 2023-08-08 |
 | [Light My Way](https://open.spotify.com/track/6lbN9JJcWYCq0KrpHXqQ9d) | [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [The Autos](https://open.spotify.com/artist/0UJa2HnlrNe3QueQ7MWTR0) | [Light My Way](https://open.spotify.com/album/4ebYOwCdrhNktMPMv8zrcZ) | 3:19 | 2024-06-18 |  |
+| [Light Of Mine](https://open.spotify.com/track/27OJkWLoSTF6JcQXUoiJw1) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Light Of Mine](https://open.spotify.com/album/3tXhyhTgxoF5s4PrBajFla) | 3:42 | 2026-04-23 |  |
 | [Lightning](https://open.spotify.com/track/2NrmiC7IpTXJrWPvueZMzX) | [Mortimer](https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv) | [Lightning](https://open.spotify.com/album/7cTMnsjjUEsUMe4JLShz3e) | 5:09 | 2022-07-29 | 2023-05-16 |
 | [Like Mountain](https://open.spotify.com/track/7MvQf3Ql2RcIUKAoZPGRSg) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [The Journey \- The Very Best Of Sizzla Kalonji](https://open.spotify.com/album/07AQybXuRFflDzipExouL4) | 3:40 | 2022-07-29 | 2023-05-16 |
 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 | 2021-10-24 | 2024-10-29 |

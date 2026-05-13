@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-565 songs - 1 day 9 hr 25 min
+566 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Från landet](https://open.spotify.com/track/1CGGrztimeQFtsmEVk9GFE) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [Från landet](https://open.spotify.com/album/2Y5L1zs2PSBAHT0t86EFCY) | 2:59 | 2026-03-05 | 2026-05-08 |
 | [Fyllda Av Sommar](https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Fyllda Av Sommar](https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3) | 3:24 | 2025-02-14 | 2025-09-03 |
 | [Född i Gävle](https://open.spotify.com/track/6jqkhohvJNvxUvfxnY4JfL) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [Född i Gävle](https://open.spotify.com/album/2vC9ENn7GqKUYXaRhj3BxI) | 2:54 | 2026-02-19 | 2026-04-17 |
-| [För evigt ny](https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [För evigt ny](https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW) | 4:08 | 2025-09-04 |  |
+| [För evigt ny](https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [För evigt ny](https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW) | 4:08 | 2025-09-04 | 2026-05-13 |
 | [För vägens vind](https://open.spotify.com/track/2CjVjcTethPX4VLYNsZPlP) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [För vägens vind](https://open.spotify.com/album/1JYKArJzrDTQc7hUNvCY9Y) | 3:20 | 2025-10-02 | 2025-10-27 |
 | [Förbjudna tankar](https://open.spotify.com/track/23fBN1sw5DBKnADUPxUicl) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Förbjudna tankar](https://open.spotify.com/album/0jEvZDn9Q701djBnQeZEAj) | 2:19 | 2024-06-27 | 2024-08-09 |
 | [Förloraren](https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Förloraren](https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo) | 3:05 | 2025-03-20 | 2026-02-13 |
@@ -240,6 +240,7 @@
 | [I Had Some Help](https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm) | [Twenty One Two](https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp) | [I Had Some Help](https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo) | 2:56 | 2024-06-27 | 2024-09-21 |
 | [I Keep On Falling in Love](https://open.spotify.com/track/4hSFhD9TNsgiHg0LazilZI) | [The Moniker](https://open.spotify.com/artist/3lh0txPGRzXwKDsgMAtixi) | [I Keep On Falling in Love](https://open.spotify.com/album/0ymhQryQrdMfStblEmf8bB) | 3:30 | 2024-06-27 | 2024-08-30 |
 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 | 2024-08-22 | 2025-01-24 |
+| [I Rock My Country](https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [I Rock My Country](https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf) | 3:16 | 2026-05-11 |  |
 | [I våra händer](https://open.spotify.com/track/1QJjgnpmj2kLnm3aSqohk8) | [Anna Stadling](https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs) | [I våra händer](https://open.spotify.com/album/6Ss8sf2hBctLpp5yfVTWio) | 3:22 | 2024-06-27 | 2024-08-09 |
 | [I Will See You](https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr) | [Doug Seegers](https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm), [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [I Will See You](https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc) | 4:32 | 2024-08-08 | 2024-09-16 |
 | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu) | 3:20 | 2024-09-06 | 2025-04-11 |

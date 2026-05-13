@@ -1,6 +1,6 @@
 {
   "description": "Themes to groove to from Telugu Movies!\n\nCover: Varanasi",
-  "num_followers": 45715,
+  "num_followers": 45724,
   "original_name": "Tollywood Themes",
   "owner": {
     "name": "Spotify",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/3UwuNDTGxZhKvgEpneC8mH"
     },
     {
+      "added_at": "2026-05-11 05:49:48",
+      "album": {
+        "name": "Athidhi - OST",
+        "url": "https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        }
+      ],
+      "duration_ms": 51428,
+      "name": "Soul's Reunite",
+      "url": "https://open.spotify.com/track/1DFbomfZEGaVDAmiSi97IR"
+    },
+    {
       "added_at": "2024-08-23 06:29:52",
       "album": {
         "name": "Chatrapathi",
@@ -903,22 +919,6 @@
       "duration_ms": 204320,
       "name": "Leader Instrumental",
       "url": "https://open.spotify.com/track/4Ts5DWlmFI8DL8bqAY9RwN"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Karthikeya",
-        "url": "https://open.spotify.com/album/5e0PXRVSqL2hqJ4RysHdTC"
-      },
-      "artists": [
-        {
-          "name": "Shekar Chandra",
-          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
-        }
-      ],
-      "duration_ms": 81000,
-      "name": "Rise of Karthikeya",
-      "url": "https://open.spotify.com/track/2tdFX0TdftpyaixQ2OJPvE"
     }
   ],
   "unique_name": "Tollywood Themes",

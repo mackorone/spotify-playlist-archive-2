@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 54929,
+  "num_followers": 54931,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "Emi",
-        "url": "https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM"
-      },
-      "artists": [
-        {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Emi",
-      "url": "https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "\u591a\u5909\u6570",
         "url": "https://open.spotify.com/album/6lWSo35E2z9FBgbHuAEElU"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 184166,
       "name": "\u591a\u5909\u6570",
       "url": "https://open.spotify.com/track/1yrb9lYmUnu8jTC0gwGyUk"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "Emi",
+        "url": "https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Emi",
+      "url": "https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -435,26 +435,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "This is Our First EP",
-        "url": "https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9"
-      },
-      "artists": [
-        {
-          "name": "BLYNE",
-          "url": "https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD"
-        },
-        {
-          "name": "B O K E H",
-          "url": "https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO"
-        }
-      ],
-      "duration_ms": 212690,
-      "name": "School",
-      "url": "https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "Dreamwave",
         "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 145454,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "This is Our First EP",
+        "url": "https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9"
+      },
+      "artists": [
+        {
+          "name": "BLYNE",
+          "url": "https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD"
+        },
+        {
+          "name": "B O K E H",
+          "url": "https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO"
+        }
+      ],
+      "duration_ms": 212690,
+      "name": "School",
+      "url": "https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+      },
+      "artists": [
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 167543,
+      "name": "Walk (Interlude)",
+      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
         "name": "Two Breath EP",
         "url": "https://open.spotify.com/album/3w1FAdL9TmDrcXsYGbriYi"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 233846,
       "name": "Two Breath",
       "url": "https://open.spotify.com/track/5BJZMtXqjsM8TzWlkR43yo"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
-      },
-      "artists": [
-        {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
-        }
-      ],
-      "duration_ms": 167543,
-      "name": "Walk (Interlude)",
-      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "So Long So Blue",
-        "url": "https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ"
-      },
-      "artists": [
-        {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Goodbye Blurry Days",
-      "url": "https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "Sushi In Tokyo",
         "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 138426,
       "name": "Yura Yura",
       "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "So Long So Blue",
+        "url": "https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ"
+      },
+      "artists": [
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Goodbye Blurry Days",
+      "url": "https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -751,6 +751,26 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+      },
+      "artists": [
+        {
+          "name": "Sonn",
+          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
         "name": "Chips & Chill",
         "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 154482,
       "name": "Cristo Redentor",
       "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
-      },
-      "artists": [
-        {
-          "name": "Sonn",
-          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "fresh",
-        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
-      },
-      "artists": [
-        {
-          "name": "sukima",
-          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
-        }
-      ],
-      "duration_ms": 263341,
-      "name": "fresh",
-      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "Abbot Kinney",
         "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 191040,
       "name": "Thank You (feat. Jozzy)",
       "url": "https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "fresh",
+        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
+      },
+      "artists": [
+        {
+          "name": "sukima",
+          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
+        }
+      ],
+      "duration_ms": 263341,
+      "name": "fresh",
+      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "hakubo",
-        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
-      },
-      "artists": [
-        {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
-        }
-      ],
-      "duration_ms": 55226,
-      "name": "hakubo",
-      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "SHIBUYA 246",
         "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
+        "name": "hakubo",
+        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
+      },
+      "artists": [
+        {
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+        }
+      ],
+      "duration_ms": 55226,
+      "name": "hakubo",
+      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
         "name": "The Color and the Light",
         "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
       },
@@ -955,22 +955,6 @@
       "duration_ms": 295058,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -995,22 +979,18 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "It Hurts to Love You (it meant a lot)",
-        "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
       },
       "artists": [
         {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 117600,
-      "name": "It Hurts to Love You (it meant a lot)",
-      "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1027,6 +1007,26 @@
       "duration_ms": 156363,
       "name": "Day of the Moon",
       "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "It Hurts to Love You (it meant a lot)",
+        "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "It Hurts to Love You (it meant a lot)",
+      "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "C.itosakura f.ascendens (synfilums rework)",
-        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
-      },
-      "artists": [
-        {
-          "name": "synfilums",
-          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "C.itosakura f.ascendens - synfilums rework",
-      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "When We Were Small",
         "url": "https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 133953,
       "name": "When We Were Small",
       "url": "https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "C.itosakura f.ascendens (synfilums rework)",
+        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
+      },
+      "artists": [
+        {
+          "name": "synfilums",
+          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "C.itosakura f.ascendens - synfilums rework",
+      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1135,26 +1135,18 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB"
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
       },
       "artists": [
         {
-          "name": "DLJ",
-          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
-        },
-        {
-          "name": "Florent Garcia",
-          "url": "https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh"
-        },
-        {
-          "name": "Bastien Brison",
-          "url": "https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa"
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy"
+      "duration_ms": 245200,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1175,18 +1167,26 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB"
       },
       "artists": [
         {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+          "name": "DLJ",
+          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
+        },
+        {
+          "name": "Florent Garcia",
+          "url": "https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh"
+        },
+        {
+          "name": "Bastien Brison",
+          "url": "https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
+      "duration_ms": 168750,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "cycling break",
-        "url": "https://open.spotify.com/album/6NdjDaNui5lhGKM8qY4MuP"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
-          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
-        },
-        {
-          "name": "\u4e00\u670dtrack",
-          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "cycling break",
-      "url": "https://open.spotify.com/track/0oR80EdfVbRs0gJgNMEsq4"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 169090,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "cycling break",
+        "url": "https://open.spotify.com/album/6NdjDaNui5lhGKM8qY4MuP"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
+          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
+        },
+        {
+          "name": "\u4e00\u670dtrack",
+          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "cycling break",
+      "url": "https://open.spotify.com/track/0oR80EdfVbRs0gJgNMEsq4"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "Night Owl Dream",
-        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "Night Owl Dream",
-      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "Generic",
         "url": "https://open.spotify.com/album/0YTqkKm4WdDeCARIrHQ3BS"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
+        "name": "Night Owl Dream",
+        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 156279,
+      "name": "Night Owl Dream",
+      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
         "name": "Continue",
         "url": "https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1"
       },
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "Introspect",
-        "url": "https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV"
-      },
-      "artists": [
-        {
-          "name": "mndbd",
-          "url": "https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci"
-        },
-        {
-          "name": "Minthaze",
-          "url": "https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v"
-        }
-      ],
-      "duration_ms": 67062,
-      "name": "Muse",
-      "url": "https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "falling asleep.",
         "url": "https://open.spotify.com/album/4tKFwi75AtxxN1EaGC87gK"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 194000,
       "name": "falling asleep.",
       "url": "https://open.spotify.com/track/0X88c8pOrPZhuwBYe1lgWl"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "Introspect",
+        "url": "https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV"
+      },
+      "artists": [
+        {
+          "name": "mndbd",
+          "url": "https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci"
+        },
+        {
+          "name": "Minthaze",
+          "url": "https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v"
+        }
+      ],
+      "duration_ms": 67062,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "asobiba",
-        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
-      },
-      "artists": [
-        {
-          "name": "chanoma",
-          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "asobiba",
-      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "last winter / pool",
         "url": "https://open.spotify.com/album/45G6qoJIxHlz5cWzK2MMzn"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 203479,
       "name": "last winter",
       "url": "https://open.spotify.com/track/3yx1fT4YAHSWqrSuDGTrxz"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "asobiba",
+        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
+      },
+      "artists": [
+        {
+          "name": "chanoma",
+          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "asobiba",
+      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
     },
     {
       "added_at": "2026-05-09 04:00:17",

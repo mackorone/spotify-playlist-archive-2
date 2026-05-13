@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 
 > Embrace your inner Princess with your favorite Disney Princess songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,449 likes - 71 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,542 likes - 71 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 | 57 | [Live Your Story](https://open.spotify.com/track/6dXkX4y7QWoTkhjAnjRw7h) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Live Your Story](https://open.spotify.com/album/4EZsKG8lQLmphvWsXFaYNx) | 3:26 |
 | 58 | [Into The Open Air](https://open.spotify.com/track/3jR1HXX7vhjlrLrdhLr3NJ) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave \(Original Soundtrack\)](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:41 |
 | 59 | [We're Back](https://open.spotify.com/track/1t0BoWU7oLtfrOX5XsBXAG) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3K7KtvJLEzijZoLJfKsOma) | 3:11 |
-| 60 | [Poor Unfortunate Souls](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) | [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 4:51 |
-| 61 | [Volerai](https://open.spotify.com/track/6kSoM99mGeF9nqwoSbJzAB) | [Amalia Gre'](https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv) | [Principesse \- Le Più Belle Canzoni](https://open.spotify.com/album/0450iDXoR3nasF3bZrgNrg) | 3:11 |
-| 62 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/6BZ6BVgYmCmzdzCpwBVSKh) | [Vinil](https://open.spotify.com/artist/4B9njk5H0MezHq02ZrF6SA), [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [We Love Disney](https://open.spotify.com/album/20hXXkA6id62eSBnD5WSxH) | 3:19 |
+| 60 | [Time to Shine](https://open.spotify.com/track/1qDhlnqtKmW1VUcr7rcz6m) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Sofia the First: Royal Magic](https://open.spotify.com/album/1j0tuWhwfJUN7MbkVZYyQj) | 3:35 |
+| 61 | [Poor Unfortunate Souls](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) | [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 4:51 |
+| 62 | [Volerai](https://open.spotify.com/track/6kSoM99mGeF9nqwoSbJzAB) | [Amalia Gre'](https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv) | [Principesse \- Le Più Belle Canzoni](https://open.spotify.com/album/0450iDXoR3nasF3bZrgNrg) | 3:11 |
 | 63 | [Dig a Little Deeper](https://open.spotify.com/track/7kh64k3P9Fk4EsA6vOdwmj) | [Jenifer Lewis](https://open.spotify.com/artist/6e28WiPlKSu1ukkhHCZEnF), [The Pinnacle Gospel Choir](https://open.spotify.com/artist/4R1dpQ2VCZsEutiXZKeIzk) | [The Princess and the Frog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) | 2:47 |
 | 64 | [Under the Sea \- From "The Little Mermaid Live!"](https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:01 |
 | 65 | [A Dream is a Wish Your Heart Makes/So This is Love](https://open.spotify.com/track/3WlCLuC6emWu8kbpaEb0KT) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Dream Is a Wish Your Heart Makes/So This Is Love](https://open.spotify.com/album/3Es44cvPertgyqLdX7Shob) | 2:29 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 | 70 | [Strong](https://open.spotify.com/track/7CMUQu028pU9oKOFMI6pgK) | [Sonna Rele](https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 3:14 |
 | 71 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 |
 
-Snapshot ID: `AAAAAGV3KDPE6I32E42Cr1Y0yTD171R1`
+Snapshot ID: `AAAAAJ9e9549HHph6d/A0frmymVj6uTQ`

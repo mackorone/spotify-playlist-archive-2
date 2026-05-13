@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: BIGYUKI",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: aron! Mei Semones",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -3755,6 +3755,24 @@
     },
     {
       "album": {
+        "name": "Goldenrod",
+        "url": "https://open.spotify.com/album/0eBoa4Hy10aMARpgnsZls4"
+      },
+      "artists": [
+        {
+          "name": "Fried Banana Shop",
+          "url": "https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185139,
+      "name": "Goldenrod",
+      "url": "https://open.spotify.com/track/0DxgSLBHK7MPfpncNdwJc8"
+    },
+    {
+      "album": {
         "name": "GOLD\uff06TURQUOISE",
         "url": "https://open.spotify.com/album/6SypSk7Nl6Zx27Perwnv6i"
       },
@@ -4618,6 +4636,24 @@
       "duration_ms": 366500,
       "name": "Impulsive Procession - opolopo remix",
       "url": "https://open.spotify.com/track/2OZkKHnGRSCKe9GVFQZQTZ"
+    },
+    {
+      "album": {
+        "name": "John Connor",
+        "url": "https://open.spotify.com/album/2ctx9aWCjIlAWojJSIcVKA"
+      },
+      "artists": [
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339006,
+      "name": "In a Spiral",
+      "url": "https://open.spotify.com/track/1NVuW1w0mkVJQF5nFGo1PR"
     },
     {
       "album": {
@@ -8805,6 +8841,24 @@
     },
     {
       "album": {
+        "name": "Stand Still",
+        "url": "https://open.spotify.com/album/4oabzSr5LNJ049MLW6iH37"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/1867RP4RmHjiGnBlpk0f3w"
+    },
+    {
+      "album": {
         "name": "More Chaos",
         "url": "https://open.spotify.com/album/0kUv0WevtizDaXNZe3gBzj"
       },
@@ -9624,6 +9678,24 @@
       "duration_ms": 200000,
       "name": "The Way You Stay",
       "url": "https://open.spotify.com/track/6HMCdAwJWTvlX8Gv1BzJGN"
+    },
+    {
+      "album": {
+        "name": "THIEF",
+        "url": "https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182248,
+      "name": "THIEF",
+      "url": "https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII"
     },
     {
       "album": {

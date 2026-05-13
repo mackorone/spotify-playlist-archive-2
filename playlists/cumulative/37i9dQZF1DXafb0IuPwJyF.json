@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: MISIA",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Kvi Baba, KREVA",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -7194,7 +7194,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 224946,
       "name": "Home (feat. Hikaru Utada)",
       "url": "https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r"
@@ -8172,7 +8172,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 226313,
       "name": "IRANAI",
       "url": "https://open.spotify.com/track/4b4rwXmVgXV8AnVZRJPt32"
@@ -17298,7 +17298,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 267133,
       "name": "The Story of Us",
       "url": "https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq"
@@ -18280,7 +18280,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 172866,
       "name": "USOTSUKI",
       "url": "https://open.spotify.com/track/6JzydmDkNhr2fl8wYFPMCO"
@@ -21647,6 +21647,24 @@
     },
     {
       "album": {
+        "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
+        "url": "https://open.spotify.com/album/262lizNS5FxoWK1QFsGQGz"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271733,
+      "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
+      "url": "https://open.spotify.com/track/3eh3LNQK84ZkwINGLotAON"
+    },
+    {
+      "album": {
         "name": "\u3088\u3082\u3059\u304c\u3089",
         "url": "https://open.spotify.com/album/7cPTWBJ0hkadQDnIgNMS9r"
       },
@@ -24402,6 +24420,24 @@
       "duration_ms": 163300,
       "name": "\u30d1\u30c3\u3068\u54b2\u3044\u3066\u6563\u3063\u3066\u7070\u306b",
       "url": "https://open.spotify.com/track/7dhfRM5zkUWFsC8gD2rsh6"
+    },
+    {
+      "album": {
+        "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230900,
+      "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg"
     },
     {
       "album": {
@@ -27984,6 +28020,24 @@
       "duration_ms": 236133,
       "name": "\u590f\u67af\u308c",
       "url": "https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E"
+    },
+    {
+      "album": {
+        "name": "sakanaction",
+        "url": "https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302920,
+      "name": "\u591c\u306e\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
     },
     {
       "album": {
@@ -31590,6 +31644,24 @@
       "duration_ms": 255605,
       "name": "\u79c1\u306e\u307e\u307e\u3067",
       "url": "https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/5n7OkT26L5CtYMZKDmpXdW"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "\u79c1\u306e\u6b4c",
+      "url": "https://open.spotify.com/track/3QUCS59HrDVuLdGdkA69Ip"
     },
     {
       "album": {

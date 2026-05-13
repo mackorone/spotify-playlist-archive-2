@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Bleachers",
-  "num_followers": 93713,
+  "num_followers": 93714,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "My New Band Believe",
-        "url": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J"
-      },
-      "artists": [
-        {
-          "name": "My New Band Believe",
-          "url": "https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O"
-        }
-      ],
-      "duration_ms": 226077,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/6NZzRwgpQAuKWy8N9OdZpY"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Mark William Lewis",
         "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 173493,
       "name": "Petals",
       "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "My New Band Believe",
+        "url": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J"
+      },
+      "artists": [
+        {
+          "name": "My New Band Believe",
+          "url": "https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O"
+        }
+      ],
+      "duration_ms": 226077,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/6NZzRwgpQAuKWy8N9OdZpY"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 182360,
       "name": "Rock And Roll",
       "url": "https://open.spotify.com/track/58yz3lbCHxj18jsbwkQEyz"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Spike Island",
-        "url": "https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy"
+        "name": "5words",
+        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
         }
       ],
-      "duration_ms": 282459,
-      "name": "Spike Island",
-      "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
+      "duration_ms": 317613,
+      "name": "5words",
+      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "5words",
-        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+        "name": "Spike Island",
+        "url": "https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy"
       },
       "artists": [
         {
-          "name": "RIP Magic",
-          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 317613,
-      "name": "5words",
-      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
+      "duration_ms": 282459,
+      "name": "Spike Island",
+      "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+        "name": "For Melancholy Brunettes (& sad women)",
+        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 207242,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+      "duration_ms": 178213,
+      "name": "Picture Window",
+      "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -791,18 +791,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "For Melancholy Brunettes (& sad women)",
-        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 178213,
-      "name": "Picture Window",
-      "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
+      "duration_ms": 207242,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "God\u2019s Lonely Man",
-        "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
-      },
-      "artists": [
-        {
-          "name": "Anna Calvi",
-          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 163120,
-      "name": "God's Lonely Man",
-      "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Trailers after dark",
         "url": "https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 202865,
       "name": "You're All I Got",
       "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "God\u2019s Lonely Man",
+        "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
+      },
+      "artists": [
+        {
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "God's Lonely Man",
+      "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 219503,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
         "name": "Flags",
         "url": "https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 219503,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+      "duration_ms": 202626,
+      "name": "All over me",
+      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1059,22 +1075,6 @@
       "duration_ms": 130785,
       "name": "But You Just Woke Me Up",
       "url": "https://open.spotify.com/track/3O3qS7OEH1cIFfDzzWO3ym"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
-        "name": "I quit",
-        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "All over me",
-      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 127714,
-      "name": "Mud",
-      "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "The Scythe",
         "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 285240,
       "name": "The Scythe",
       "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 127714,
+      "name": "Mud",
+      "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Black James Dean",
-        "url": "https://open.spotify.com/album/3ipPjBzXI1iqWIgF991UK8"
-      },
-      "artists": [
-        {
-          "name": "Pigeon",
-          "url": "https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU"
-        }
-      ],
-      "duration_ms": 322213,
-      "name": "Black James Dean",
-      "url": "https://open.spotify.com/track/4V6u2JRED2D0936h6NPucc"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Dancing Shoes",
         "url": "https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 224287,
       "name": "Kneel",
       "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Black James Dean",
+        "url": "https://open.spotify.com/album/3ipPjBzXI1iqWIgF991UK8"
+      },
+      "artists": [
+        {
+          "name": "Pigeon",
+          "url": "https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU"
+        }
+      ],
+      "duration_ms": 322213,
+      "name": "Black James Dean",
+      "url": "https://open.spotify.com/track/4V6u2JRED2D0936h6NPucc"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "All The People (\u6240\u6709\u4eba)",
-        "url": "https://open.spotify.com/album/0nC0feKX2EiVtfEQLHAUV2"
-      },
-      "artists": [
-        {
-          "name": "Chinese American Bear",
-          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
-        }
-      ],
-      "duration_ms": 213322,
-      "name": "All The People (\u6240\u6709\u4eba)",
-      "url": "https://open.spotify.com/track/4P1jRNtwsrEx72UfiZnlIv"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 143592,
       "name": "Portal",
       "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "All The People (\u6240\u6709\u4eba)",
+        "url": "https://open.spotify.com/album/0nC0feKX2EiVtfEQLHAUV2"
+      },
+      "artists": [
+        {
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+        }
+      ],
+      "duration_ms": 213322,
+      "name": "All The People (\u6240\u6709\u4eba)",
+      "url": "https://open.spotify.com/track/4P1jRNtwsrEx72UfiZnlIv"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "PLAY ME",
-        "url": "https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk"
+        "name": "Sharon Van Etten & The Attachment Theory",
+        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
       },
       "artists": [
         {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 120090,
-      "name": "NO HANDS",
-      "url": "https://open.spotify.com/track/0Ius1utxt6FWkzrvPyrTQ2"
+      "duration_ms": 250409,
+      "name": "Idiot Box",
+      "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Sharon Van Etten & The Attachment Theory",
-        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
+        "name": "PLAY ME",
+        "url": "https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
         }
       ],
-      "duration_ms": 250409,
-      "name": "Idiot Box",
-      "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
+      "duration_ms": 120090,
+      "name": "NO HANDS",
+      "url": "https://open.spotify.com/track/0Ius1utxt6FWkzrvPyrTQ2"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
+        "name": "Grenadine",
+        "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 188777,
+      "name": "Grenadine",
+      "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f"
       },
@@ -1451,38 +1467,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/68uNKLGz6gfR1efpp027ep"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 219310,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/0r66U3zD7beNhmsuvcmyw2"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
-        "name": "Grenadine",
-        "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 188777,
-      "name": "Grenadine",
-      "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Pined For You My Whole Life",
         "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 194013,
       "name": "Black Ulysses",
       "url": "https://open.spotify.com/track/75IorrAVPCZfzET2ICkVx7"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/68uNKLGz6gfR1efpp027ep"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 219310,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0r66U3zD7beNhmsuvcmyw2"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Selling A Vibe",
-        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
-      },
-      "artists": [
-        {
-          "name": "The Cribs",
-          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "Never The Same",
-      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Every Dawn's a Mountain",
         "url": "https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "drains",
-        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
+        "name": "Selling A Vibe",
+        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
       },
       "artists": [
         {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+          "name": "The Cribs",
+          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
         }
       ],
-      "duration_ms": 228999,
-      "name": "drains",
-      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
+      "duration_ms": 170533,
+      "name": "Never The Same",
+      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1663,6 +1647,22 @@
       "duration_ms": 203167,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1sAbFyl5tkdQyMBPNRjjVl"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "drains",
+        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 228999,
+      "name": "drains",
+      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
     },
     {
       "added_at": "2026-04-30 23:01:24",

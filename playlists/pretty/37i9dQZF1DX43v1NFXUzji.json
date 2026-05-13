@@ -1,6 +1,6 @@
 {
   "description": "Latin music bangers for your gaming session! PEDRO SAMPAIO & El Bogueto on cover",
-  "num_followers": 611895,
+  "num_followers": 611872,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
@@ -35,42 +35,6 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
-        "name": "MALASNOTICIAS.",
-        "url": "https://open.spotify.com/album/76HEOpvvIpymofngK3tRSE"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "MALASNOTICIAS.",
-      "url": "https://open.spotify.com/track/5W1bHlFGv5jJw1xyWQJlrJ"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7"
       },
@@ -95,6 +59,42 @@
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
+        "name": "MALASNOTICIAS.",
+        "url": "https://open.spotify.com/album/76HEOpvvIpymofngK3tRSE"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "MALASNOTICIAS.",
+      "url": "https://open.spotify.com/track/5W1bHlFGv5jJw1xyWQJlrJ"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
-        "name": "Mi Ni\u00f1a",
-        "url": "https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 183480,
       "name": "PERO T\u00da",
       "url": "https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "WANDA",
+      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
         "name": "en dormir sin Madrid",
         "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 189901,
       "name": "Milo J: Bzrp Music Sessions, Vol. 57/66",
       "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "WANDA",
-      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
-        "name": "Cuando Ella Se Va",
-        "url": "https://open.spotify.com/album/3NHoaNSKaPIejGHLwaXKDP"
-      },
-      "artists": [
-        {
-          "name": "Cano",
-          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
-        }
-      ],
-      "duration_ms": 163527,
-      "name": "Cuando Ella Se Va",
-      "url": "https://open.spotify.com/track/5d2NpYRSedleVRVzQUxCNI"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
         "name": "VISTA AL MAR",
         "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 180672,
       "name": "VISTA AL MAR",
       "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
+        "name": "Cuando Ella Se Va",
+        "url": "https://open.spotify.com/album/3NHoaNSKaPIejGHLwaXKDP"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        }
+      ],
+      "duration_ms": 163527,
+      "name": "Cuando Ella Se Va",
+      "url": "https://open.spotify.com/track/5d2NpYRSedleVRVzQUxCNI"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
+        "name": "PUNTO G",
+        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
         "name": "EL NENE",
         "url": "https://open.spotify.com/album/66dX9XaTPTYeTg3w7mHV5i"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 179999,
       "name": "EL NENE",
       "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
-        "name": "PUNTO G",
-        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -2427,6 +2427,26 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 237344,
+      "name": "Mbapp\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/1T6CF1qnG0hK0absyeVL5H"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
         "name": "Chulx",
         "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
       },
@@ -2447,26 +2467,6 @@
       "duration_ms": 183829,
       "name": "Chulx",
       "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 237344,
-      "name": "Mbapp\u00e9 - Remix",
-      "url": "https://open.spotify.com/track/1T6CF1qnG0hK0absyeVL5H"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -2615,26 +2615,6 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
-        "name": "NACER DE NUEVO",
-        "url": "https://open.spotify.com/album/2Q3qBzFiex2SN5hWMEJj1H"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "CONTAR",
-      "url": "https://open.spotify.com/track/7I87RX1yvMdcRl7KiGspZ6"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
         "name": "Trap Vibes",
         "url": "https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ"
       },
@@ -2651,6 +2631,26 @@
       "duration_ms": 284285,
       "name": "Mi Vicio - Remix",
       "url": "https://open.spotify.com/track/7tpeqecMwVxj1iQHDQt2TI"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
+        "name": "NACER DE NUEVO",
+        "url": "https://open.spotify.com/album/2Q3qBzFiex2SN5hWMEJj1H"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "CONTAR",
+      "url": "https://open.spotify.com/track/7I87RX1yvMdcRl7KiGspZ6"
     },
     {
       "added_at": "2026-05-04 03:43:18",

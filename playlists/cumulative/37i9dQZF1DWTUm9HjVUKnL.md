@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-1,352 songs - 3 day 9 hr 16 min
+1,355 songs - 3 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2025-02-07 |  |
 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 | 2022-01-19 |  |
 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 | 2022-02-09 |  |
+| [Forever \- Spotify Singles](https://open.spotify.com/track/4VxhqjS0hkg4osZsObZikY) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Forever \- Spotify Singles](https://open.spotify.com/album/1WohfzE4ivo1HUxXQCBCtd) | 5:36 | 2026-05-13 |  |
 | [Forget Me \- Spotify Singles](https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 3:49 | 2022-10-03 |  |
 | [Fountain Of Youth](https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 3:49 | 2022-01-19 |  |
 | [Four Out Of Five \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 4:34 | 2022-01-19 |  |
@@ -533,6 +534,7 @@
 | [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:14 | 2022-01-19 |  |
 | [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4WxVFeTim6kVU6e3mlysV8) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/1qQmZJt638Nr5xbhsGWQgj) | 4:14 | 2023-10-02 | 2024-04-19 |
 | [How Did We Get So Dark? \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/4sPsQFpgU7F8fQDISIhRcr) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 3:14 | 2022-01-19 |  |
+| [How Great Thou Art \- Spotify Single](https://open.spotify.com/track/3L9nwP3kwbpf8wkgfmVrdS) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [How Great Thou Art \- Spotify Single](https://open.spotify.com/album/4qYJjN3CJviygsXChaHYSL) | 3:55 | 2026-05-13 |  |
 | [Human \(feat\. JONA XX\) \- Spotify Singles](https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf), [JONA XX](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP) | [Spotify Singles](https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ) | 2:38 | 2023-07-13 |  |
 | [Human \- Jim Eno Sessions](https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Spotify Singles](https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM) | 3:39 | 2022-01-19 |  |
 | [Human \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/42SrFsBezRR2t8nGutWuyu) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/47NeUjqABCu1kEXNT3zBYp) | 2:40 | 2023-05-24 | 2024-04-19 |
@@ -1160,6 +1162,7 @@
 | [The Morning Stars \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3KPge13Ep6kwZyuoxgGy2I) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/3s5TN4ugglJpRCRMzWsoci) | 3:41 | 2022-10-12 | 2024-04-19 |
 | [The Morning Stars \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5406irqE4nbhyF32Hgbtid) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/43KwOELEOKAFhnBSruUM3N) | 3:41 | 2022-07-05 | 2022-10-13 |
 | [The Morning Stars \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/05UZtI1UvFXl2QyKUlHFOt) | [Hamilton Leithauser + Rostam](https://open.spotify.com/artist/3h0w83PsjASrm5999trG4n) | [Spotify Singles](https://open.spotify.com/album/0XyEzOV3gsUwkCjuFdxD47) | 3:41 | 2022-01-19 |  |
+| [The Old Rugged Cross \- Spotify Singles](https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [The Old Rugged Cross \(Spotify Singles\)](https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58) | 3:08 | 2026-05-13 |  |
 | [The Only Exception \- Spotify Single](https://open.spotify.com/track/3aemIcBosf7udts37BAvXx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY) | 4:44 | 2022-10-12 | 2024-04-19 |
 | [The Only Exception \- Spotify Single](https://open.spotify.com/track/4GSP51OmKGNs57ZT9coUDF) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0) | 4:44 | 2022-08-17 |  |
 | [The Only Living Boy in New York \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6PAAYRbXQd9nPTz4vi7bIB) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Spotify Singles](https://open.spotify.com/album/23eXBuGFc0aHSnDhYXaAZk) | 4:00 | 2022-07-05 | 2024-04-19 |

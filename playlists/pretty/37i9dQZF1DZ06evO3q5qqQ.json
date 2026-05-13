@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 117854,
+  "num_followers": 117851,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACg9abpss3llsbIP5peEQd+",
+  "snapshot_id": "agEcAAAAAACdw693d2jELjfH8ycAn8GR",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo Por Bonita",
-        "url": "https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 132711,
-      "name": "Solo Por Bonita",
-      "url": "https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alumno Y Maestro",
         "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 179786,
       "name": "Alumno Y Maestro",
       "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solo Por Bonita",
+        "url": "https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 132711,
+      "name": "Solo Por Bonita",
+      "url": "https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
-        "url": "https://open.spotify.com/album/4YkZWo36gl5YrcyFxT6foX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 153344,
-      "name": "La Linea Directa - En Vivo",
-      "url": "https://open.spotify.com/track/2YqVZ6GhEoX84XhOTDH60Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ra\u00edces de Acero",
         "url": "https://open.spotify.com/album/0YjOVBSJx2XHYN9m7hdqlG"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 160325,
       "name": "Me Preparaste Para Todo",
       "url": "https://open.spotify.com/track/0bRsRqYTxqOXPtlRVfwOX9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/4YkZWo36gl5YrcyFxT6foX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 153344,
+      "name": "La Linea Directa - En Vivo",
+      "url": "https://open.spotify.com/track/2YqVZ6GhEoX84XhOTDH60Y"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/4wCvnmJE6EVQs341JWtbnO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 171989,
+      "name": "El Bolas",
+      "url": "https://open.spotify.com/track/4DBOOahsOYymk6uAXfrQ4i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Pato Nada (feat. Jando Cartagena)",
         "url": "https://open.spotify.com/album/7m0oqUROrZJHBaMnyv5NgC"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 164989,
       "name": "El Pato Nada (feat. Jando Cartagena)",
       "url": "https://open.spotify.com/track/7mMsQyBBFcKGspp7gafJto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/4wCvnmJE6EVQs341JWtbnO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "El Bolas",
-      "url": "https://open.spotify.com/track/4DBOOahsOYymk6uAXfrQ4i"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149952,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149952,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Da Igual",
         "url": "https://open.spotify.com/album/7vGoivzTraBMRLUGDeqEVm"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/3ZwmpO7idpLUzTvVeRkQbJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 164690,
-      "name": "El H",
-      "url": "https://open.spotify.com/track/5E6mUKZr7ee4RhWxLoaMBa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey Del Desierto",
         "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 179733,
       "name": "El Rey Del Desierto",
       "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/3ZwmpO7idpLUzTvVeRkQbJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 164690,
+      "name": "El H",
+      "url": "https://open.spotify.com/track/5E6mUKZr7ee4RhWxLoaMBa"
     },
     {
       "added_at": null,

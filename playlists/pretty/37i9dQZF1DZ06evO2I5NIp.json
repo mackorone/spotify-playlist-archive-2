@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 5929,
+  "num_followers": 5928,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAC+LMBQYLhmTIYJoO+NI1UZ",
+  "snapshot_id": "agEcAAAAAABL+wLkkzr0Wsxq3jOLCMbr",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "When A Woman's Had Enough",
+      "url": "https://open.spotify.com/track/0NM6L05PewFO039wYaFjq9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B.B. King's Blues Summit 100",
         "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 251346,
       "name": "When Love Comes To Town",
       "url": "https://open.spotify.com/track/6cU1IiJ1OU9A0Wg8FSvoo5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "When A Woman's Had Enough",
-      "url": "https://open.spotify.com/track/0NM6L05PewFO039wYaFjq9"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 319458,
+      "name": "Promised Myself",
+      "url": "https://open.spotify.com/track/0yaXKiab57hWIDIgDdi3m7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unbreakable",
         "url": "https://open.spotify.com/album/7hYyT1qYD7EaZl7UqbqxZ0"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 172261,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/2Kh8M6YbyuaP9iOMsYc58i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 319458,
-      "name": "Promised Myself",
-      "url": "https://open.spotify.com/track/0yaXKiab57hWIDIgDdi3m7"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girl Friends",
+        "url": "https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 197468,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Basie Swings The Blues",
         "url": "https://open.spotify.com/album/2LgSp4MlNeohQq2WmmqI0V"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 298984,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/7mK9ELM2oGKDTFdFXbijHo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girl Friends",
-        "url": "https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        },
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 197468,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "The Push I Need",
-      "url": "https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 308121,
       "name": "Done Come Too Far",
       "url": "https://open.spotify.com/track/2HP1DiQ2nfEiK7rK9cvMtf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "The Push I Need",
+      "url": "https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY"
     },
     {
       "added_at": null,

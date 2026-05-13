@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 158249,
+  "num_followers": 158260,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACiIN+xCLA9eZIL3K2kPEFv",
+  "snapshot_id": "agEcAAAAAAA2UX/fCXuoEJx+oBtXGCgr",
   "tracks": [
     {
       "added_at": null,
@@ -646,15 +646,11 @@
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 233826,
-      "name": "A Mess (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm"
+      "duration_ms": 194826,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/0TYsPcmqWOtPdaEXmHvNSE"
     },
     {
       "added_at": null,
@@ -722,11 +718,15 @@
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 194826,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/0TYsPcmqWOtPdaEXmHvNSE"
+      "duration_ms": 233826,
+      "name": "A Mess (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm"
     }
   ],
   "unique_name": "This Is Ella Mai",

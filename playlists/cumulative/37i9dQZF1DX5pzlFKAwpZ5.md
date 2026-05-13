@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-387 songs - 1 day 3 hr 57 min
+389 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Bananatron](https://open.spotify.com/track/03CbUuPxmE1hvo5fuCs86N) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 7:40 | 2022-12-30 | 2023-08-19 |
 | [barely](https://open.spotify.com/track/45HvQappqMA3ekJzhBxhfP) | [Keigo Tatsumi](https://open.spotify.com/artist/0CdfyGSPzkbOuhlsltYr8M) | [AT US](https://open.spotify.com/album/0Gvs95sa3jXOZA7w7YcZbk) | 4:00 | 2025-06-12 |  |
 | [Bayou](https://open.spotify.com/track/4pmkk5jUvi46uAgnuA7D9c) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Canadian Love Letters](https://open.spotify.com/album/5MqeWE0BF5TkOjr4YHRRcr) | 4:35 | 2022-03-25 |  |
-| [BEAMS](https://open.spotify.com/track/4ITZWlrroLXgMj9K3jvZPG) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [BEAMS](https://open.spotify.com/album/4KVRLz2Vwc2bQNhoKudhTt) | 1:44 | 2026-02-25 |  |
+| [BEAMS](https://open.spotify.com/track/4ITZWlrroLXgMj9K3jvZPG) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [BEAMS](https://open.spotify.com/album/4KVRLz2Vwc2bQNhoKudhTt) | 1:44 | 2026-02-25 | 2026-05-13 |
 | [Beauty in Imperfection](https://open.spotify.com/track/1C4xtnNBK4Lau7iEkdYNVw) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Beauty in Imperfection](https://open.spotify.com/album/5WPvDzaQpEDkJNZ4zP0mRd) | 4:56 | 2025-06-12 | 2026-01-15 |
 | [Billowing](https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ), [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF) | [Music for Peace and Harmony](https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW) | 4:35 | 2025-03-06 |  |
 | [Bin](https://open.spotify.com/track/3glw2vbGfpq3aDJ575ZT6n) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Bin](https://open.spotify.com/album/2b2Ld9mFZHvl4iyEpJlXkP) | 2:24 | 2025-05-02 | 2026-02-04 |
@@ -51,6 +51,7 @@
 | [Blue Drizzling](https://open.spotify.com/track/3tePjDdzSunNH67I2dXY5F) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/5n9ur47UO8zWyuhRo6zaj7) | 8:16 | 2022-10-10 | 2024-04-19 |
 | [Blue Drizzling](https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z) | 8:16 | 2022-01-07 | 2025-01-25 |
 | [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 | 2025-02-09 |  |
+| [Boku Wa Obake](https://open.spotify.com/track/0iNfgOPZsR6YviAfm96lxa) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Boku Wa Obake](https://open.spotify.com/album/01xypQ8STDaKbaZG0SxQ3h) | 7:38 | 2026-05-12 |  |
 | [bori](https://open.spotify.com/track/24z1kOj1Dsabb3Ld6dje02) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Wakare](https://open.spotify.com/album/2OkHSHVniZVIuHGSuNLFuG) | 3:08 | 2022-01-07 | 2023-09-09 |
 | [Breaking Dawn](https://open.spotify.com/track/36UIW0lRwokuSQHgkdraAI) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y) | 2:43 | 2023-09-08 | 2024-04-19 |
 | [Breaking Dawn](https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:43 | 2022-01-07 | 2025-02-01 |
@@ -175,7 +176,7 @@
 | [La Cathédrale Engloutie](https://open.spotify.com/track/0GiSKGYCdQtGXDSCmSxuVb) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 4:04 | 2022-01-07 | 2022-12-21 |
 | [la circulation silencieuse](https://open.spotify.com/track/3E3va6hFvGt05VGGgI9XRt) | [attic](https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku) | [la circulation silencieuse](https://open.spotify.com/album/4ZyImCuB2iBG8QTExJIKoa) | 1:52 | 2026-04-08 |  |
 | [Lachrymation](https://open.spotify.com/track/5SCIlWl5oI8QmSgF9j5mjr) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lachrymation](https://open.spotify.com/album/4av2tDxEG9t4rlssx6XJUT) | 3:59 | 2022-01-07 | 2025-03-20 |
-| [Layer](https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Layer](https://open.spotify.com/album/60lpyOQBN0qHUDHuP2IB9F) | 3:12 | 2025-05-16 |  |
+| [Layer](https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Layer](https://open.spotify.com/album/60lpyOQBN0qHUDHuP2IB9F) | 3:12 | 2025-05-16 | 2026-05-13 |
 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 | 2023-10-13 | 2024-03-08 |
 | [les cinquième alternées](https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [northern wind](https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD) | 2:59 | 2025-03-21 |  |
 | [Liberty](https://open.spotify.com/track/2pv4n0WhR3f0IayyG0lc4z) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Envision](https://open.spotify.com/album/2lnwd16ApEAAJ0GNqH7SNq) | 2:39 | 2022-01-07 | 2025-03-30 |
@@ -275,6 +276,7 @@
 | [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/6mqZsDccxymJpBFX5OAuR8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/2XZm1qudmuRBlupOM82pvo) | 3:45 | 2022-12-30 | 2024-04-19 |
 | [Sen](https://open.spotify.com/track/6Dx6G9i7t0OzSCRr6lUV7p) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:16 | 2022-01-07 |  |
 | [sensory](https://open.spotify.com/track/5s55CnaMZgC7RRzZkUbAPC) | [gen asai](https://open.spotify.com/artist/4s1ecdG6K20lrCOSkqf7BR) | [saunagood](https://open.spotify.com/album/0iNaYKXcXqLvGuRP5w3BYl) | 4:33 | 2022-01-07 | 2026-03-10 |
+| [SERENE](https://open.spotify.com/track/2HJSIyXM8ToAcWSrAEGSFP) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [SERENE](https://open.spotify.com/album/4zkfNH7buXzUYwBF8Fi1x5) | 1:36 | 2026-05-12 |  |
 | [shade](https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [shade](https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc) | 1:53 | 2025-07-03 |  |
 | [Shaded Navy](https://open.spotify.com/track/0ssU0CAQUDiqhPTG1iNCHo) | [Shaded Navy](https://open.spotify.com/artist/3uMPx1jmWJ2rvzrLgrsX4T), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Shaded Navy](https://open.spotify.com/album/4lAwEpCkSyoyCQO7yO5F9l) | 3:12 | 2023-01-06 | 2025-04-06 |
 | [shibuya](https://open.spotify.com/track/2cKWlY2DGnPMT5ZOWPpm1T) | [Masayuki Ishii](https://open.spotify.com/artist/4GxXuTsoHfRRqhpYzxJ7zN), [Naohisa Taniguchi](https://open.spotify.com/artist/6J1WlaCpbUL1sak8JPlIVL) | [shibuya](https://open.spotify.com/album/5r8pTArU0UdC1K5PSPqX2x) | 4:24 | 2025-03-21 | 2025-07-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸    Cover: Thea Dora
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,142 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,135 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 7 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 |
 | 8 | [Hvorfor skulle jeg vide det?](https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Hvorfor skulle jeg vide det?](https://open.spotify.com/album/360MgRzxQLYOT70TgyPyg4) | 2:15 |
 | 9 | [drikker med mig selv](https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [vågner](https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w) | 2:30 |
-| 10 | [Skyklapper](https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM) | [Skyklapper](https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz) | 2:53 |
+| 10 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 |
 | 11 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 |
-| 12 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 |
+| 12 | [Skyklapper](https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM) | [Skyklapper](https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz) | 2:53 |
 | 13 | [Gav Det Et Skud](https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Gav Det Et Skud](https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ) | 2:56 |
 | 14 | [Genstart](https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [GENSTART](https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11) | 4:40 |
 | 15 | [Hvad Nu Hvis](https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Sytten](https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J) | 3:14 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 66 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 |
 | 67 | [Upgrade](https://open.spotify.com/track/3ogJQFKXZconuA2XeTYo90) | [marius](https://open.spotify.com/artist/0DxnhmBH9QUcVojeyZROdZ) | [Upgrade](https://open.spotify.com/album/5W2Ey9dqhjwkG4zxSynNjy) | 2:18 |
 | 68 | [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 |
-| 69 | [ja ja ja](https://open.spotify.com/track/0R2ZuzA1mZcrIWFhpOZnSP) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [aldrig uden dig](https://open.spotify.com/album/0GEGTjPWdIcUdNq7ZtH9rd) | 4:27 |
+| 69 | [Bye Sofia](https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [The Way She Says Goodbye](https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB) | 2:45 |
 | 70 | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA) | 4:18 |
 
 Snapshot ID: `AAAAAF3SavAa0JVTa/h8Xceh9+b3BlxF`

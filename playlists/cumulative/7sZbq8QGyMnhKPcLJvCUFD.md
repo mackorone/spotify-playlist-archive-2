@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-854 songs - 1 day 18 hr 20 min
+855 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Bad Habit](https://open.spotify.com/track/39LleyvGIy48hCibZROiWD) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit](https://open.spotify.com/album/3lq84tIwKgWOnx0GNg2w1B) | 2:27 | 2023-03-24 | 2023-08-10 |
 | [Bad Habit \- Phonk Version](https://open.spotify.com/track/2cxSqpXFAEa0VIZkDed4eM) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit \(Phonk Version\)](https://open.spotify.com/album/2iG2ou48zBxOk3qH2vT1px) | 1:39 | 2023-04-13 | 2023-08-10 |
 | [BAD IDEA](https://open.spotify.com/track/454QBjmfFC8tAiEGWvVVvx) | [Aditya Sharma](https://open.spotify.com/artist/7yuq2YAERvdU11fdpT3U4U) | [BAD IDEA](https://open.spotify.com/album/5PblGV3rZOaVQLHKRFHDms) | 2:56 | 2026-02-26 |  |
+| [Bad Pitch For You](https://open.spotify.com/track/3zzMrBmRiQ39KsCPzmLuz8) | [ruindkid](https://open.spotify.com/artist/45QfSnVjou58EbJsXSeJ7e) | [Bad Pitch For You](https://open.spotify.com/album/72Mpjqj1AfwHsKLUtISmMv) | 2:47 | 2026-05-12 |  |
 | [BANDIDO FUNK](https://open.spotify.com/track/5Q80DQEiCvzePZTgCb1MlS) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX), [Kamran747](https://open.spotify.com/artist/2EecinNxCiwoxm8SaGdB4R) | [BANDIDO FUNK](https://open.spotify.com/album/3ho4KiO44oOR46s9SNwy2n) | 2:05 | 2024-06-19 | 2024-12-09 |
 | [BANE](https://open.spotify.com/track/0a5xYmF0xUfXlU6bwzeqPi) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX) | [BANE](https://open.spotify.com/album/1dICirHlSGKgaaWyYvug3l) | 2:01 | 2024-05-16 | 2024-12-09 |
 | [Bass Face](https://open.spotify.com/track/5sRe8o0v1CV3p5gFLrGzeH) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Bass Face](https://open.spotify.com/album/3sp5KnHFEln5c0nAWZD5kv) | 2:56 | 2024-02-13 | 2024-08-28 |

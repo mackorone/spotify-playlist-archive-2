@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2026 (previous playlists archived on my profile)",
-  "num_followers": 24328,
+  "num_followers": 24330,
   "original_name": "life is sweet",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOUUZDKpAYQ7aHDslpuzeAE0Q/+/RW",
+  "snapshot_id": "AAAOVZSWjgVBE5hQRWRC4r5ftQTY9G1O",
   "tracks": [
     {
       "added_at": "2026-05-05 17:12:50",
@@ -311,6 +311,38 @@
       "duration_ms": 252019,
       "name": "If Lady Does It",
       "url": "https://open.spotify.com/track/4cEIOH8zQJRUNt9TGZGQ2Z"
+    },
+    {
+      "added_at": "2026-05-12 23:15:26",
+      "album": {
+        "name": "Oh Vanille / Ova Nil",
+        "url": "https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th"
+      },
+      "artists": [
+        {
+          "name": "Diane Cluck",
+          "url": "https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Half a Million Miles from Home",
+      "url": "https://open.spotify.com/track/047PqVwCAmSuowUYFD5ger"
+    },
+    {
+      "added_at": "2026-05-12 23:20:27",
+      "album": {
+        "name": "Oh Vanille / Ova Nil",
+        "url": "https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th"
+      },
+      "artists": [
+        {
+          "name": "Diane Cluck",
+          "url": "https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5"
+        }
+      ],
+      "duration_ms": 319160,
+      "name": "The Turnaround Road",
+      "url": "https://open.spotify.com/track/5bK3tLaBVX7lSfGavEm2VH"
     }
   ],
   "unique_name": "life is sweet",

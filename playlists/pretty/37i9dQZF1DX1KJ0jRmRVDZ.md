@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 ### [Cloud Archive｜インターネットミュージック](https://open.spotify.com/playlist/37i9dQZF1DX1KJ0jRmRVDZ)
 
-> インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: 菅原圭
+> インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: syudou
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,064 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,052 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ハイセンス＝ナンセンス](https://open.spotify.com/track/11JPVASzRw6bHemz5FAqwX) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [B.G.M.](https://open.spotify.com/album/0kr1JL5urhQ3XG8EUdiOCt) | 3:02 |
-| 2 | [KILLERMOON](https://open.spotify.com/track/5Zgu2pFwTgpTzMdyjNpII1) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [EYE](https://open.spotify.com/album/0SxFKQ1SqA3SF9EPcSG5E0) | 3:45 |
-| 3 | [Vivop](https://open.spotify.com/track/32t5Dj1fDMw6i0rYGVCXPD) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [Vivop](https://open.spotify.com/album/3SksuT7V1zXAAoQZVDSskP) | 3:23 |
+| 1 | [あーあ](https://open.spotify.com/track/6m1Tv7NjB7Y2Ru1OZSMkXm) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [あーあ](https://open.spotify.com/album/5IIzw1RVdvPpBPoyFs8ruE) | 3:51 |
+| 2 | [Vivop](https://open.spotify.com/track/32t5Dj1fDMw6i0rYGVCXPD) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [Vivop](https://open.spotify.com/album/3SksuT7V1zXAAoQZVDSskP) | 3:23 |
+| 3 | [KILLERMOON](https://open.spotify.com/track/5Zgu2pFwTgpTzMdyjNpII1) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [EYE](https://open.spotify.com/album/0SxFKQ1SqA3SF9EPcSG5E0) | 3:45 |
 | 4 | [火種](https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [火種](https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5) | 3:24 |
 | 5 | [あぶく](https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [あぶく](https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L) | 3:54 |
 | 6 | [セレナーデ](https://open.spotify.com/track/0CWAQlHsvfqcKJVVz9up2R) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [深海](https://open.spotify.com/album/5bPtxy1zsivShMZKJVrzfF) | 3:39 |
 | 7 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 |
-| 8 | [綺羅](https://open.spotify.com/track/4dSWGjuW29GHffKWwx0bGw) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [綺羅](https://open.spotify.com/album/2ylq1to8eVacAzHi4gpC3J) | 3:08 |
-| 9 | [Wind's Anthem \(feat\. suis From Yorushika\)](https://open.spotify.com/track/1xjyjzvD6l7nCHMySQrgVc) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Wind's Anthem \(feat\. suis From Yorushika\)](https://open.spotify.com/album/3bIY6ZyJs190WknnUMIKFp) | 3:42 |
-| 10 | [間人間](https://open.spotify.com/track/0yNQwwEmuMnLz5WekZzo1j) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [形藻土](https://open.spotify.com/album/5BmBdOh7Q78sz2TWLtRmF5) | 4:04 |
-| 11 | [Ash＆Ember \(feat\. LiSA, ナナホシ管弦楽団\)](https://open.spotify.com/track/6Cl7zIrLFYuHhu4iR5zTK1) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [NanahoshiKangengakudan](https://open.spotify.com/artist/546Z4c3hsgGSbpUKi298Oo) | [Ash＆Ember \(feat\. LiSA, ナナホシ管弦楽団\)](https://open.spotify.com/album/6KkZytxXWIr5t9d45H1bih) | 3:25 |
-| 12 | [蛹](https://open.spotify.com/track/6JQJKJbDiBPrqfuDv7yZxH) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [C.U.T](https://open.spotify.com/album/29dHJXu3uX5FQKtQpgim4t) | 3:57 |
-| 13 | [MONOCHROME](https://open.spotify.com/track/38U8IA8734YUV3wfD1tMer) | [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [FLTR](https://open.spotify.com/album/7uUj16dnnuyLYEY8cDGDAM) | 3:03 |
-| 14 | [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 |
-| 15 | [暴露](https://open.spotify.com/track/7ENV1wpuCIlCx2AjlSE2PA) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [暴露](https://open.spotify.com/album/7GUWygF7EHYfrOvxOe7xE5) | 3:04 |
+| 8 | [Wind's Anthem \(feat\. suis From Yorushika\)](https://open.spotify.com/track/1xjyjzvD6l7nCHMySQrgVc) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Wind's Anthem \(feat\. suis From Yorushika\)](https://open.spotify.com/album/3bIY6ZyJs190WknnUMIKFp) | 3:42 |
+| 9 | [ハイセンス＝ナンセンス](https://open.spotify.com/track/11JPVASzRw6bHemz5FAqwX) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [B.G.M.](https://open.spotify.com/album/0kr1JL5urhQ3XG8EUdiOCt) | 3:02 |
+| 10 | [Haru Ni Mau](https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Haru Ni Mau](https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn) | 3:58 |
+| 11 | [間人間](https://open.spotify.com/track/0yNQwwEmuMnLz5WekZzo1j) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [形藻土](https://open.spotify.com/album/5BmBdOh7Q78sz2TWLtRmF5) | 4:04 |
+| 12 | [Ash＆Ember \(feat\. LiSA, ナナホシ管弦楽団\)](https://open.spotify.com/track/6Cl7zIrLFYuHhu4iR5zTK1) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [NanahoshiKangengakudan](https://open.spotify.com/artist/546Z4c3hsgGSbpUKi298Oo) | [Ash＆Ember \(feat\. LiSA, ナナホシ管弦楽団\)](https://open.spotify.com/album/6KkZytxXWIr5t9d45H1bih) | 3:25 |
+| 13 | [蛹](https://open.spotify.com/track/6JQJKJbDiBPrqfuDv7yZxH) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [C.U.T](https://open.spotify.com/album/29dHJXu3uX5FQKtQpgim4t) | 3:57 |
+| 14 | [MONOCHROME](https://open.spotify.com/track/38U8IA8734YUV3wfD1tMer) | [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [FLTR](https://open.spotify.com/album/7uUj16dnnuyLYEY8cDGDAM) | 3:03 |
+| 15 | [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 |
 | 16 | [零\-zero\-](https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [零\-zero\-](https://open.spotify.com/album/0M7H0tlUKc9PSljiRzx9mi) | 3:58 |
 | 17 | [LET'S JUST CRASH](https://open.spotify.com/track/3sE2VokkeH68napilCny6J) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [DISASTERPIECE](https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk) | 3:16 |
 | 18 | [BAP](https://open.spotify.com/track/1JdsoKfpOvpgv87IMnNpEi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [BAP](https://open.spotify.com/album/0anSZ8oaE78LcVdNBmg0gl) | 2:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 69 | [ブレインロット](https://open.spotify.com/track/1C1skAeFtnguXNlCYRQoCr) | [東京真中](https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K) | [ブレインロット](https://open.spotify.com/album/1JLclTNvD2eXpJ0BiJXmpy) | 2:02 |
 | 70 | [灯火](https://open.spotify.com/track/2oQBfHk7cnw5apliL2Lu3i) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [碧い海](https://open.spotify.com/album/5gYA6u1KUCExpmr9PYl45Z) | 3:30 |
 
-Snapshot ID: `AAAAAHRAdXKjQcPk9k/UIvCJQ3o3+jxq`
+Snapshot ID: `AAAAAO/GVwdyWac581S89FpvpcyKSEHo`

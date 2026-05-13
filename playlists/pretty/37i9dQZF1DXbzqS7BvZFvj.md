@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Nemzzz, Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,939 likes - 78 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,932 likes - 78 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 25 | [金蘭の契り](https://open.spotify.com/track/6TnugOiOc9THhpVWLy6aDU) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [花燈](https://open.spotify.com/album/7HHg3RBa4qqFN4cX5Jjfiv) | 3:02 |
 | 26 | [Paperbag Boy](https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Paperbag Boy](https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb) | 3:11 |
 | 27 | [6IXER PARTY \(FEAT\. SNOOP DOGG\)](https://open.spotify.com/track/0bWbDcx2GyvCFjCOW9XvlH) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr), [Yung Hood](https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 3:08 |
-| 28 | [2C](https://open.spotify.com/track/7KjI1Wfa0VJao6hufL43eq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [2C](https://open.spotify.com/album/2SGKhKXp1aEFO4vfjcvKMi) | 3:03 |
+| 28 | [2C \(feat\. Cash Cobain\)](https://open.spotify.com/track/7KjI1Wfa0VJao6hufL43eq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [2C \(feat\. Cash Cobain\)](https://open.spotify.com/album/2SGKhKXp1aEFO4vfjcvKMi) | 3:03 |
 | 29 | [Ya Dig](https://open.spotify.com/track/2A94GZ5pVHLPcZuhx8cMbm) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Ya Dig](https://open.spotify.com/album/5Yr7duqfOQ7PFqTYqb119j) | 2:53 |
 | 30 | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 |
 | 31 | [Real Ones \(feat\. Albee Al & Harrd Luck\)](https://open.spotify.com/track/6wBQe277BHlbO53ybstmYr) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Albee Al](https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd), [Harrd Luck](https://open.spotify.com/artist/68TTDOuDAwyCZaGpoDyVAU) | [Zavier](https://open.spotify.com/album/5ZcuJ1sGBS0tl32RnHUNx1) | 3:44 |

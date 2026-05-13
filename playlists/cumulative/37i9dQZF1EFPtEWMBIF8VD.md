@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6m3hSTUS0vdJhCUl1EBPXA">Abby Keen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-65 songs - 3 hr 13 min
+66 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2025-08-16 |  |
 | [Amor Real \- Holiday Song](https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Amor Real \(Holiday Song\)](https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13) | 3:05 | 2025-05-02 |  |
 | [Are You Even Real](https://open.spotify.com/track/4xH1Nq3P7agzhXV2szHMAz) | [James Major](https://open.spotify.com/artist/3UcqDmghLI8TR0MxHPtUDM) | [Are You Even Real](https://open.spotify.com/album/42WlqSCZxm7wtjh1xjSSus) | 2:28 | 2025-09-10 | 2026-02-20 |
-| [Are You Even Real \(vocal\)](https://open.spotify.com/track/609aY2KT1JaZFt8t3GJY3F) | [Party Tyme](https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC) | [Hottest Hits 2025, Vol\. 4 \(vocal\)](https://open.spotify.com/album/0zJmBl86i6fGPo0zZtgubd) | 2:28 | 2025-07-18 |  |
+| [Are you even real](https://open.spotify.com/track/4VpHBRvZAbqTLNcQDN8yyD) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Teddy Swims](https://open.spotify.com/album/192QslwmJb0HL7Pr1Cztsp) | 2:26 | 2026-05-12 |  |
+| [Are You Even Real \(vocal\)](https://open.spotify.com/track/609aY2KT1JaZFt8t3GJY3F) | [Party Tyme](https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC) | [Hottest Hits 2025, Vol\. 4 \(vocal\)](https://open.spotify.com/album/0zJmBl86i6fGPo0zZtgubd) | 2:28 | 2025-07-18 | 2026-05-13 |
 | [Arrivals](https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:05 | 2025-05-02 |  |
 | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/track/59nbIJxGb1qkrzbtTomZkL) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/album/4ShgsMHEHPPLI6Dk16HNF1) | 2:59 | 2025-05-02 |  |
 | [Close To You](https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:54 | 2025-05-02 |  |

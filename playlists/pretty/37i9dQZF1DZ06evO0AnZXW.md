@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,946,023 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,945,933 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 49 | [MIDDLE CHILD](https://open.spotify.com/track/4AEzAEnbm9uRgbmTdeI63K) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [TrapStar Turnt PopStar](https://open.spotify.com/album/3TaYhEM7MtqukeISKBV2cx) | 2:31 |
 | 50 | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/track/5jVQ5q8TKE1xZpqTmIF5B2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/album/33kv6G3jJt1lGfMIq9pqqb) | 1:34 |
 
-Snapshot ID: `af/KgAAAAACcbzPp78aK8uHqdNA/Vat6`
+Snapshot ID: `agEcAAAAAABmjmgUmPGXWGSxw56nKOmG`

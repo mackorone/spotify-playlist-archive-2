@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66682,
+  "num_followers": 66678,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAADDqxp+DkuOGSHTzc55jCts",
+  "snapshot_id": "agEcAAAAAAAFOm3g/mQcM2a++YaaysCb",
   "tracks": [
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus, o Brasil Te Adora",
-        "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        }
-      ],
-      "duration_ms": 353893,
-      "name": "Eu Me Arrependo",
-      "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 269133,
       "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus, o Brasil Te Adora",
+        "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 353893,
+      "name": "Eu Me Arrependo",
+      "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
     },
     {
       "added_at": null,

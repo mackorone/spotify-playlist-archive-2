@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Dardan, Azet
+> 50 Hits in einer Playlist! Cover: HUGEL
 
-363 songs - 17 hr 12 min
+365 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Butcher](https://open.spotify.com/track/0uSHA5dbsCRMmzbidwhKwl) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Butcher](https://open.spotify.com/album/71Xdk4hTiAbzeCMfm4oo6X) | 2:47 | 2024-12-11 | 2025-01-15 |
 | [Camilla](https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5) | [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [Camilla](https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS) | 3:12 | 2025-06-03 | 2025-09-10 |
 | [Capri Sun](https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Capri Sun](https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY) | 1:59 | 2025-06-17 | 2025-07-30 |
+| [CASA CUBA](https://open.spotify.com/track/3XWKL33NgAJfOmMP8xnu9U) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [CASA CUBA](https://open.spotify.com/album/096CyB48X0XXSzlY3DzWtM) | 2:41 | 2026-05-12 |  |
 | [CDY](https://open.spotify.com/track/6BRGGHydYjs2xpSjw8Dwx7) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [CDY](https://open.spotify.com/album/3uR81H1Std9NSoYDYRiHi5) | 2:19 | 2026-03-10 | 2026-04-08 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-11-26 | 2026-03-25 |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-06-03 | 2025-07-10 |
@@ -212,7 +213,7 @@
 | [Miami](https://open.spotify.com/track/5N1C1ii0IsKp1Ux3OXUM8C) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Miami](https://open.spotify.com/album/7afOEr838kmsWI5peWbZB2) | 3:04 | 2024-09-10 | 2025-02-05 |
 | [Miami](https://open.spotify.com/track/0Ohuw01rSI3aVbxh2agxwh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [Miami](https://open.spotify.com/album/0yMtB5zHyQIllZAOBphgdE) | 2:19 | 2026-01-20 | 2026-03-11 |
 | [Miami](https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Unlock](https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla) | 2:44 | 2025-12-02 | 2026-01-15 |
-| [Mira](https://open.spotify.com/track/4yJqByeB0UMFgGPT6Wxhby) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Mira](https://open.spotify.com/album/3UYN81sO2AzhucWBS9SkKy) | 2:25 | 2026-04-28 |  |
+| [Mira](https://open.spotify.com/track/4yJqByeB0UMFgGPT6Wxhby) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Mira](https://open.spotify.com/album/3UYN81sO2AzhucWBS9SkKy) | 2:25 | 2026-04-28 | 2026-05-13 |
 | [mit dir ist es anders](https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [pass auf mein herz auf](https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j) | 2:36 | 2024-10-16 | 2025-01-11 |
 | [Mittelmeer](https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Mittelmeer](https://open.spotify.com/album/2HOaHc9820Ds6YD76BbU9j) | 2:59 | 2024-09-10 | 2024-10-09 |
 | [Mon Amour](https://open.spotify.com/track/6H1j5PiyxgyWTnDmabW0Ng) | [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf), [Aditotoro](https://open.spotify.com/artist/7AYd5ec5oCdcckA0IsFSM6), [Paul Frege](https://open.spotify.com/artist/5fk2jh0KFCJ6LTTkZhRjMt) | [Mon Amour](https://open.spotify.com/album/3BjIVd4hhgr3Y0q95O1b1Z) | 3:02 | 2026-05-05 |  |
@@ -230,6 +231,7 @@
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-19 | 2025-04-16 |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-09-10 | 2024-10-02 |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-07-22 |  |
+| [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 | 2026-05-12 |  |
 | [Nonstop](https://open.spotify.com/track/72mTkKFJYy497k5cJhqVwi) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Nonstop](https://open.spotify.com/album/74GrasHWig0q5L1RP1osVu) | 2:31 | 2026-04-14 | 2026-04-29 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-02-11 | 2025-04-09 |
 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 | 2025-10-07 |  |
@@ -286,7 +288,7 @@
 | [Si Ai](https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Si Ai](https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK) | 2:46 | 2024-09-10 | 2025-01-22 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-09-10 | 2024-10-02 |
 | [Sigma Boy \- Сигма Бой](https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Maria Iankovskaia](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Сигма Бой\)](https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH) | 2:14 | 2025-01-21 | 2025-04-02 |
-| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2026-02-17 |  |
+| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2026-02-17 | 2026-05-13 |
 | [so heiß \(feat\. Cro\)](https://open.spotify.com/track/5ve67AkrXN3B6Gx7tHfz76) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [so heiß \(feat\. Cro\)](https://open.spotify.com/album/3BM2OMiSjsv6Q8on1MVqFb) | 2:25 | 2025-08-19 | 2025-09-10 |
 | [SOMMERNÄCHTE](https://open.spotify.com/track/1IHZV2I3riACMv2Uz92LJS) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [SOMMERNÄCHTE](https://open.spotify.com/album/6qskdHd6p8TSdBIv0OosZs) | 2:04 | 2025-08-05 | 2025-11-19 |
 | [Sommerregen](https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:26 | 2026-03-24 |  |

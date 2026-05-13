@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 154841,
+  "num_followers": 154878,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 356133,
+      "name": "Walkin' Out Blues",
+      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
         "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
       },
@@ -735,18 +751,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+        "name": "Jazz Alive! A Night At The Half Note (Live)",
+        "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Zoot Sims",
+          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
+        },
+        {
+          "name": "Al Cohn",
+          "url": "https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y"
         }
       ],
-      "duration_ms": 356133,
-      "name": "Walkin' Out Blues",
-      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
+      "duration_ms": 614533,
+      "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
+      "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -783,26 +803,6 @@
       "duration_ms": 146880,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Jazz Alive! A Night At The Half Note (Live)",
-        "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
-      },
-      "artists": [
-        {
-          "name": "Zoot Sims",
-          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
-        },
-        {
-          "name": "Al Cohn",
-          "url": "https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y"
-        }
-      ],
-      "duration_ms": 614533,
-      "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
-      "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
     },
     {
       "added_at": "2024-07-08 07:01:17",

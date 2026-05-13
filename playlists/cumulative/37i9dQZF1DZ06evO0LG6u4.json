@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 80745,
       "name": "Commande musicale",
       "url": "https://open.spotify.com/track/2eQYadzPjRQ44OjjY6wvtW"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 96557,
       "name": "La note",
       "url": "https://open.spotify.com/track/2ZpGWu0myOzQevbBpjcA8P"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 48433,
       "name": "Le soleil",
       "url": "https://open.spotify.com/track/5iFT5Xi0wixMPmBw8PI0Lh"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 48993,
       "name": "Musique pour l'image",
       "url": "https://open.spotify.com/track/32Cql4hQZxiHAvyuLwk703"

@@ -1,13 +1,113 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u304a\u5bb6\u3067\u306e\u3093\u3073\u308a\u8074\u304d\u305f\u3044\u7652\u3057\u7cfb\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 222,
+  "num_followers": 223,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAG7wiVQOwB8ojn/zfCffWzbhRUCGjP",
+  "snapshot_id": "AAAG/jLhAgGOngYbchCCCw/76QrUu5Fa",
   "tracks": [
+    {
+      "added_at": "2026-05-12 07:51:53",
+      "album": {
+        "name": "First Train",
+        "url": "https://open.spotify.com/album/11MG3tXhi4GtX806eeQNSm"
+      },
+      "artists": [
+        {
+          "name": "SO87",
+          "url": "https://open.spotify.com/artist/2eR3ksIaq18myFHm0EtLL4"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 172571,
+      "name": "First Train (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/24JPVZcZarWff0shzWMxWV"
+    },
+    {
+      "added_at": "2026-05-12 07:52:05",
+      "album": {
+        "name": "Sugar (2026 Version)",
+        "url": "https://open.spotify.com/album/2eTXldBNy1lxmtqTZA2GfI"
+      },
+      "artists": [
+        {
+          "name": "\u3081\u308d\u304f\u308b",
+          "url": "https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Sugar (2026 Version) (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6woBPlGDWXTYnNzKH1mJpd"
+    },
+    {
+      "added_at": "2026-05-12 07:52:20",
+      "album": {
+        "name": "\u6697\u6642",
+        "url": "https://open.spotify.com/album/4BJWUpjhOUYGtimshsbuds"
+      },
+      "artists": [
+        {
+          "name": "\u7531\u672b\u30a4\u30ea",
+          "url": "https://open.spotify.com/artist/1rHy3uxDsp5pvrLQooiJJ9"
+        }
+      ],
+      "duration_ms": 146496,
+      "name": "\u6697\u6642",
+      "url": "https://open.spotify.com/track/6CdbdeB538tnslZrEPf49n"
+    },
+    {
+      "added_at": "2026-05-12 07:52:32",
+      "album": {
+        "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+        "url": "https://open.spotify.com/album/1fCqPlPBn18EQdKifC0h2C"
+      },
+      "artists": [
+        {
+          "name": "Ponchi\u266a",
+          "url": "https://open.spotify.com/artist/4aLSgnO5sLMezHhSzSioMs"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "\u59cb\u307e\u308a\u306e0\u30da\u30fc\u30b8 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1bQRfWTnK9vucqZQRJcf6P"
+    },
+    {
+      "added_at": "2026-05-12 07:52:44",
+      "album": {
+        "name": "\u62bd\u8c61\u306e\u5916\u5074",
+        "url": "https://open.spotify.com/album/0QQcd5nSPMkB3Lq5wCgOGR"
+      },
+      "artists": [
+        {
+          "name": "\u78e8\u702c",
+          "url": "https://open.spotify.com/artist/4rG5vr6YW3rWm4aAO4VZd8"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "v flower",
+          "url": "https://open.spotify.com/artist/5N9Kd8rPfG32TRMcH7SZ4N"
+        }
+      ],
+      "duration_ms": 201263,
+      "name": "\u30bd\u30fc\u30af\u30a2\u30c6\u30a3\u30a2",
+      "url": "https://open.spotify.com/track/1rvRZWqTg2teyUPAjJwBPs"
+    },
     {
       "added_at": "2026-04-28 07:58:24",
       "album": {
@@ -731,98 +831,6 @@
       "duration_ms": 176000,
       "name": "SUGOI NEMUI (feat. \u5c0f\u6625\u516d\u82b1&\u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/40go7TJML6pQSRwyB8kj6g"
-    },
-    {
-      "added_at": "2026-02-24 07:36:46",
-      "album": {
-        "name": "\u8ab0\u304c\u70ba\u306e\u82f1\u96c4\u8b5a",
-        "url": "https://open.spotify.com/album/0uG413gxbzbTKf94UYwbbF"
-      },
-      "artists": [
-        {
-          "name": "nogumi",
-          "url": "https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8"
-        },
-        {
-          "name": "\u6b4c\u611b\u30e6\u30ad",
-          "url": "https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "\u8ab0\u304c\u70ba\u306e\u82f1\u96c4\u8b5a (feat. \u6b4c\u611b\u30e6\u30ad)",
-      "url": "https://open.spotify.com/track/6vqJWuAPenItS9DBLLXRvX"
-    },
-    {
-      "added_at": "2026-02-24 07:37:00",
-      "album": {
-        "name": "El rebano de Gish",
-        "url": "https://open.spotify.com/album/1Eq21TDbOSz31FFPRnVM4i"
-      },
-      "artists": [
-        {
-          "name": "Maubox",
-          "url": "https://open.spotify.com/artist/6Pawecfq5bF3s2o01TlOIe"
-        }
-      ],
-      "duration_ms": 261543,
-      "name": "El rebano de Gish",
-      "url": "https://open.spotify.com/track/4PzLNgrDI2oGbMWDuJHdff"
-    },
-    {
-      "added_at": "2026-02-24 07:37:11",
-      "album": {
-        "name": "Color of Synergy",
-        "url": "https://open.spotify.com/album/5mz2xITm6fxxC29h3yrR91"
-      },
-      "artists": [
-        {
-          "name": "Mwk",
-          "url": "https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Emptiness",
-      "url": "https://open.spotify.com/track/6t2Gle6C25cM2Oil2VoA41"
-    },
-    {
-      "added_at": "2026-02-24 07:37:55",
-      "album": {
-        "name": "\u304a\u3084\u3059\u307f\u30aa\u30e9\u30f3\u30b8\u30a7\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/1cSXUU5HhrWGWweNUky6vU"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u64ab\u5bfa",
-          "url": "https://open.spotify.com/artist/5wvPfEco9mG8kzdMnhL3ct"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 158457,
-      "name": "\u304a\u3084\u3059\u307f\u30aa\u30e9\u30f3\u30b8\u30a7\u30c3\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/5PgUNE6zjB61rsLxy0jE1W"
-    },
-    {
-      "added_at": "2026-02-24 07:38:32",
-      "album": {
-        "name": "Grow on...",
-        "url": "https://open.spotify.com/album/5b7qJb5Ih9R0HuoCAGsZxo"
-      },
-      "artists": [
-        {
-          "name": "EO",
-          "url": "https://open.spotify.com/artist/4jcGNX43ioTG1HGfJSDISU"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "\u30e8\u30ea\u30df\u30c1 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/1qKEFIPpmwttUIY5bCFVjP"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: DG IMMORTALS
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,849 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,872 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 46 | [ON MY OWN](https://open.spotify.com/track/44F9E52qICkPn25RTgV4fm) | [Heer Sharma](https://open.spotify.com/artist/4QQR1yL6LPFEdLXrRsKyJU) | [ON MY OWN](https://open.spotify.com/album/2n0YUx9pVR9qytcTfFUEJy) | 2:41 |
 | 47 | [Tension](https://open.spotify.com/track/70YFXFbrvl5J3nUfqxTFue) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Tension](https://open.spotify.com/album/4q4VhpYWO14Jtdeyg3w6wb) | 2:23 |
 | 48 | [Andaaze](https://open.spotify.com/track/6x4Prss1bJsnDDg4UNXt79) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Andaaze](https://open.spotify.com/album/5x8Usa1QvEBMTHlFNTHSgI) | 2:16 |
-| 49 | [Haryana Zone](https://open.spotify.com/track/2VuW3jjvVYpA4H6RfIPMeP) | [Sintaa](https://open.spotify.com/artist/1bqg31w0YtAKbMLO2701Gv), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Haryana Zone](https://open.spotify.com/album/4e1PVvyjf5qLMPRJ8PDq8P) | 2:33 |
+| 49 | [Haryana Zone](https://open.spotify.com/track/2VuW3jjvVYpA4H6RfIPMeP) | [Sintaa](https://open.spotify.com/artist/5Tjcx2u1QHdkVArO0ayf1P), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Haryana Zone](https://open.spotify.com/album/4e1PVvyjf5qLMPRJ8PDq8P) | 2:33 |
 | 50 | [FARIDA DRIP](https://open.spotify.com/track/07tKXov8dK1y2pS1DbfreN) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FEROZI: THE ARRIVAL](https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l) | 4:20 |
 | 51 | [Not Guilty](https://open.spotify.com/track/4YPSg93DDJW9Uf4IgklCHc) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Not Guilty](https://open.spotify.com/album/2ArzqdKnu0N93P4Z206F7c) | 2:55 |
 | 52 | [Yaar Chale Ni](https://open.spotify.com/track/5KMW5VJUMG1AEJlhN5Eyh6) | [Avy Nyoli](https://open.spotify.com/artist/2R5btwiJhkxWzX1nfjRWQ8) | [Yaar Chale Ni](https://open.spotify.com/album/0fozvGqOCpvPti5t59SJWc) | 2:41 |

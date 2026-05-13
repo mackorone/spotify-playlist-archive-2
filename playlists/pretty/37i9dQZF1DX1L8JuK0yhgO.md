@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,392 likes - 120 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,393 likes - 120 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 112 | [Boys In Blue](https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Boys In Blue](https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH) | 2:33 |
 | 113 | [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 |
 | 114 | [confessions part iii](https://open.spotify.com/track/2y4LQN6xlAMXOJibSrnPlS) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [confessions part iii](https://open.spotify.com/album/5lh2ASzeSuQwkzxV5PHUME) | 2:01 |
-| 115 | [Flatline ft Miho Hatori](https://open.spotify.com/track/46hRuvIURYyKI6x7yR9P6G) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Detachd From The Rest Of You](https://open.spotify.com/album/7xxnVGcVszIZAQb6rZzyJv) | 3:12 |
+| 115 | [Flatline ft Miho Hatori](https://open.spotify.com/track/46hRuvIURYyKI6x7yR9P6G) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Detached From The Rest Of You](https://open.spotify.com/album/7xxnVGcVszIZAQb6rZzyJv) | 3:12 |
 | 116 | [friends](https://open.spotify.com/track/2wjc0DH5AhndXQQQd74wky) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [i asked the stars for this\. x](https://open.spotify.com/album/3KNYkyPYwSkUbHybeJVJzu) | 3:05 |
 | 117 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
 | 118 | [Can't Lose](https://open.spotify.com/track/2JmWtCjSA6DrO9hITxQGaZ) | [Rocketman](https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ) | [Can't Lose](https://open.spotify.com/album/5LAatsmv1CrJwYp30UxQ8y) | 3:10 |

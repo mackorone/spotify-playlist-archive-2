@@ -4,7 +4,7 @@
 
 > 
 
-1,452 songs - 3 day 5 hr 21 min
+1,453 songs - 3 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Auditorium](https://open.spotify.com/track/7dGG7W2p1qUzbf7KwZBAsZ) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Ecstatic](https://open.spotify.com/album/11cVBbfOAdGzq6lMMscDOC) | 4:34 | 2024-01-25 | 2024-03-05 |
 | [Aux Cord](https://open.spotify.com/track/25FSYy5ox8ZXYzBCvTEKLd) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [4eva Is A Mighty Long Time](https://open.spotify.com/album/6vGEX2ejVVsHTIsqI1teZg) | 3:15 | 2026-02-23 |  |
 | [AYAHUASCA](https://open.spotify.com/track/3Hw4D78ZOwN9UIuLjmH0IS) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [8 ALBUM](https://open.spotify.com/album/3CbN0bwf9B6SwqLlLOtrri) | 3:48 | 2022-11-17 | 2023-12-14 |
+| [B.O.B\. \- Bombs Over Baghdad](https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 5:04 | 2026-05-12 |  |
 | [B5](https://open.spotify.com/track/4TYqIpFfz85iP3XBgV5Jlj) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5TH AMNDMNT](https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n) | 1:46 | 2023-10-27 | 2024-11-06 |
 | [Baby Blue Gwag](https://open.spotify.com/track/22b6LwrxaYchTsfci1ON5v) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:40 | 2023-01-27 | 2023-04-24 |
 | [Baby Fewch!](https://open.spotify.com/track/2teCehETqT6kvKyovtd5FF) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC3 \#\#B4GC3](https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw) | 2:31 | 2023-01-20 | 2023-04-12 |

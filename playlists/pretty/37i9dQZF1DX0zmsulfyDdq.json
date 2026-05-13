@@ -1,12 +1,12 @@
 {
   "description": "For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.",
-  "num_followers": 391936,
+  "num_followers": 392078,
   "original_name": "Disney Lullaby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPMp/XCKLSo+z3WDMjEIlo1hufm3",
+  "snapshot_id": "AAAAAF/vOABibSBz6N6qIMMLQXj9w1g2",
   "tracks": [
     {
       "added_at": "2026-05-01 13:00:05",
@@ -1591,6 +1591,22 @@
       "duration_ms": 84584,
       "name": "Twinkle, Twinkle, Little Star",
       "url": "https://open.spotify.com/track/1BEtrQSOOb7jdffB6IoD3N"
+    },
+    {
+      "added_at": "2026-05-12 14:38:41",
+      "album": {
+        "name": "The Devil Wears Prada 2 (Original Score)",
+        "url": "https://open.spotify.com/album/3KxLOqeODUgNqCEFlblbr8"
+      },
+      "artists": [
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "duration_ms": 112880,
+      "name": "It's Always Been You",
+      "url": "https://open.spotify.com/track/7kiF2QdaqLWAnlANX4AuYf"
     },
     {
       "added_at": "2026-05-01 13:00:05",

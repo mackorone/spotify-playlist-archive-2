@@ -4,14 +4,15 @@
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 32 min
+44 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12th House](https://open.spotify.com/track/1thpTj5LbAQbWTzPBbWRQX) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 1:28 | 2022-10-12 |  |
 | [Ash Anywhere](https://open.spotify.com/track/7jH4ClqJQJT1l0SxU10OOb) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Coursing Through](https://open.spotify.com/album/7CKVvhRVZHbLCfOgsbUdxX) | 5:28 | 2022-09-16 | 2023-11-11 |
 | [Ashtray](https://open.spotify.com/track/1AmVWLPhCqTMt4y5t0cB8T) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:56 | 2022-09-16 |  |
-| [Brain Dead](https://open.spotify.com/track/4JkPEQKAQ9Uwg1vTilKx5y) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:57 | 2022-09-16 |  |
+| [Brain Dead](https://open.spotify.com/track/6Llb9UKeCZYGyVqiuYgAP1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/2TPomhhSrg4HHy4rONuWjo) | 3:57 | 2026-05-13 |  |
+| [Brain Dead](https://open.spotify.com/track/4JkPEQKAQ9Uwg1vTilKx5y) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:57 | 2022-09-16 | 2026-05-13 |
 | [Breakup Song](https://open.spotify.com/track/2T77w3UJGIj2ZTtjOaq5tv) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 4:08 | 2023-02-11 | 2023-03-08 |
 | [Bulma](https://open.spotify.com/track/3R7Gy621ZWHLd8kYl9Bz6s) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Bulma \- Single](https://open.spotify.com/album/3q0oPKvM3rcpuGY8nOvWc4) | 2:51 | 2022-09-16 | 2023-11-11 |
 | [Caroline](https://open.spotify.com/track/1QihdrOippsltEK1LqdbPI) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:32 | 2023-02-27 |  |

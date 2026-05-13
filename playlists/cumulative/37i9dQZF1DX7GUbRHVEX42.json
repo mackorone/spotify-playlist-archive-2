@@ -612,7 +612,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 217114,
       "name": "Born A Rebel",
       "url": "https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6"
@@ -2740,6 +2740,24 @@
       "duration_ms": 199230,
       "name": "Light My Way",
       "url": "https://open.spotify.com/track/6lbN9JJcWYCq0KrpHXqQ9d"
+    },
+    {
+      "album": {
+        "name": "Light Of Mine",
+        "url": "https://open.spotify.com/album/3tXhyhTgxoF5s4PrBajFla"
+      },
+      "artists": [
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Light Of Mine",
+      "url": "https://open.spotify.com/track/27OJkWLoSTF6JcQXUoiJw1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,294 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,349 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 35 | [Lifetime](https://open.spotify.com/track/5LyasyYr7dDoTYypnZ9A2k) | [Surfing](https://open.spotify.com/artist/2vTrzq2s1adq6MrQ5mdQNj) | [Deep Fantasy](https://open.spotify.com/album/0AAMPkXXB6bjlH499tR5BM) | 3:23 |
 | 36 | [Akaiwa 1985](https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw) | [豊平区民Toyohirakumin](https://open.spotify.com/artist/4fsJpVczcZYWFbvvMWgTEN) | [Music in the Air](https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx) | 2:22 |
 | 37 | [Sonic in the Holobeach](https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Sonic in the Holobeach](https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau) | 4:16 |
-| 38 | [Us Ephemeral \(George Clanton Remix\)](https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Us Ephemeral \(George Clanton Remix\)](https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR) | 4:29 |
+| 38 | [TELL ME HOW IT FEELS](https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2) | [bbrainz](https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E) | [Crystal](https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU) | 3:01 |
 | 39 | [今夜](https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Miami Virtual](https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7) | 3:54 |
-| 40 | [TELL ME HOW IT FEELS](https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2) | [bbrainz](https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E) | [Crystal](https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU) | 3:01 |
+| 40 | [Us Ephemeral \(George Clanton Remix\)](https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Us Ephemeral \(George Clanton Remix\)](https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR) | 4:29 |
 | 41 | [City Lights](https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [City Lights](https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc) | 3:20 |
 | 42 | [Hibiscus Pacific](https://open.spotify.com/track/212guZJYmzASElwy8HmVKx) | [Greeen Linez](https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14) | [Things That Fade](https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV) | 4:11 |
 | 43 | [詩 Desktop](https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf) | [Incorporeal Visions Deluxe](https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e) | [Network Entities](https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd) | 2:21 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 95 | [Fire Magic](https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Fire Magic](https://open.spotify.com/album/5I70VHdIilo0dbckapINnW) | 3:17 |
 | 96 | [Tomorrow \(Slowed & Reverb\)](https://open.spotify.com/track/5f4JemFGhXM4755zhVElIi) | [Kyo\-2](https://open.spotify.com/artist/4eC4Y8j9lLRk0YcnDHH5cE), [Macintosh Plus](https://open.spotify.com/artist/2hkoUqWFI4KP39O9MViMY3), [Saint Pepsi](https://open.spotify.com/artist/3b014NFgLGBMV2q0sGyFQM), [Benny Alexander](https://open.spotify.com/artist/3sEoVGHwnRpTQGOicq6iJH) | [Tomorrow \(Slowed & Reverb\)](https://open.spotify.com/album/3jUuevbHg51FltoeAjJ7bi) | 3:34 |
 | 97 | [Playback](https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS) | [</body>](https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6) | [Information Superhighway](https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4) | 1:47 |
-| 98 | [Stunts](https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL) | [Teams](https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ) | [Dxys Xff](https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d) | 5:26 |
-| 99 | [Timeless](https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Marina Forever](https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1) | 2:42 |
-| 100 | [Spring Water](https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Tropics 1](https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO) | 3:35 |
+| 98 | [Spring Water](https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Tropics 1](https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO) | 3:35 |
+| 99 | [Stunts](https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL) | [Teams](https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ) | [Dxys Xff](https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d) | 5:26 |
+| 100 | [Vcrheadaches \- Purge](https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT) | [King Quartz](https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri), [VCRheadaches](https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI) | [The 33rd Split](https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn) | 4:20 |
 
 Snapshot ID: `AAAAACd5bsDncuj7hP9d+aehWbTvCnq4`

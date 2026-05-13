@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,546 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,551 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 64 | [Marian](https://open.spotify.com/track/7bzhrRyCmhRQDXsUjdre8t) | [The Cats](https://open.spotify.com/artist/4mplweFSgMgpH03ruEMEMv) | [Colour Us Gold](https://open.spotify.com/album/1ZDBN4kTB9eLw9Dumwtqyv) | 4:00 |
 | 65 | [What the World Needs Now Is Love](https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Close to You](https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA) | 3:10 |
 | 66 | [You'll Never Walk Alone](https://open.spotify.com/track/3nxEmpFc1R0kiDrULNkSaf) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [Oldies 60's](https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH) | 2:40 |
-| 67 | [Everlasting Love](https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ) | [Love Affair](https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux) | [The Everlasting Love Affair](https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX) | 3:02 |
-| 68 | [Ain't Got No \- I Got Life \- Single Version](https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 2:56 |
-| 69 | [Window Of My Eyes \- From "The American" Soundtrack](https://open.spotify.com/track/5sTFozFnwuXbWyw0Qaj4LX) | [Cuby & The Blizzards](https://open.spotify.com/artist/1cxNemZ9o1ObvAbgq4WzvQ) | [Trippin' Thru' A Midnight Blues](https://open.spotify.com/album/2KHBkxWYnhEdz5c5m6hKiI) | 3:26 |
+| 67 | [Ain't Got No \- I Got Life \- Single Version](https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 2:56 |
+| 68 | [Window Of My Eyes \- From "The American" Soundtrack](https://open.spotify.com/track/5sTFozFnwuXbWyw0Qaj4LX) | [Cuby & The Blizzards](https://open.spotify.com/artist/1cxNemZ9o1ObvAbgq4WzvQ) | [Trippin' Thru' A Midnight Blues](https://open.spotify.com/album/2KHBkxWYnhEdz5c5m6hKiI) | 3:26 |
+| 69 | [Everlasting Love](https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ) | [Love Affair](https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux) | [The Everlasting Love Affair](https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX) | 3:02 |
 | 70 | [Times Were When](https://open.spotify.com/track/5dlok4lYndri2ZVlcSFBOl) | [The Cats](https://open.spotify.com/artist/4mplweFSgMgpH03ruEMEMv) | [Cats](https://open.spotify.com/album/22JDOwhFNSHRQEzvTd2iSM) | 3:11 |
 | 71 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 |
 | 72 | [Ben Ik Te Min](https://open.spotify.com/track/5s6yU2Gfs9oCTxiX2LNbHC) | [Armand](https://open.spotify.com/artist/2TjgWhGv4T3pGRalEQmiwV) | [Het Beste van Armand](https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: jolle
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,910 likes - 90 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,855 likes - 90 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

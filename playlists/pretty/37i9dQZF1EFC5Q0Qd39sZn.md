@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,382 likes - 581 songs - 1 day 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,389 likes - 581 songs - 1 day 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 123 | [Set the Night to Music](https://open.spotify.com/track/3tf0iRfyJd4eYqs1Dn1w79) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:47 |
 | 124 | [A Estrela Que Mais Brilhar](https://open.spotify.com/track/20d64OB5wgNTkb19x8PyWj) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:22 |
 | 125 | [The Crazy Ones](https://open.spotify.com/track/4GJAvLmyRubhcd9BaNd5F0) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Crazy Ones](https://open.spotify.com/album/6H8zjjHJk5B2wB4w0qYaAT) | 4:05 |
-| 126 | [Prayers For This World](https://open.spotify.com/track/1vJk4EVtz7EKzO8nIh1to4) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:42 |
-| 127 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
+| 126 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
+| 127 | [Prayers For This World](https://open.spotify.com/track/1vJk4EVtz7EKzO8nIh1to4) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:42 |
 | 128 | [After Tonight](https://open.spotify.com/track/5nxuah08yYECil4UZuEE8N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
 | 129 | [Sarai qui](https://open.spotify.com/track/3p0tUvqwfaypMhK6wVcjKl) | [Alessandro Safina](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [Dedicated](https://open.spotify.com/album/7F6JXUZ6PEaz53NbFrVMDv) | 3:57 |
 | 130 | [Bruised But Not Broken](https://open.spotify.com/track/5mxBzblbenmVm7C6wh5ulc) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Introducing Joss Stone](https://open.spotify.com/album/3VD9HPEpnbbNMIg05avkIk) | 4:15 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 132 | [Animal Crackers](https://open.spotify.com/track/7MLtoeFx1XO3BDsEWAX6Nc) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 2:35 |
 | 133 | [Flaws](https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 3:04 |
 | 134 | [Completely](https://open.spotify.com/track/1ZnwFwzQoFno1T2aYzVDmr) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 4:24 |
-| 135 | [How Many Times, How Many Lies](https://open.spotify.com/track/41wBXvAim2xfInCEqhy3hW) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 3:55 |
-| 136 | [You'll Never Stand Alone](https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:20 |
+| 135 | [You'll Never Stand Alone](https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:20 |
+| 136 | [How Many Times, How Many Lies](https://open.spotify.com/track/41wBXvAim2xfInCEqhy3hW) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 3:55 |
 | 137 | [I Will Get There \- A Cappella](https://open.spotify.com/track/7kSnTetIKAJZpKV2kEBHsv) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 4:20 |
 | 138 | [Eu Vou Seguir](https://open.spotify.com/track/4YgjSOSNFfcKEt0MA7YK7m) | [Marina Elali](https://open.spotify.com/artist/77Wl6L20WG41VO6pqpHrkL) | [De Corpo e Alma Outra Vez](https://open.spotify.com/album/2JojYLWjB8Y0dN33PmHYcm) | 3:51 |
 | 139 | [Wherever Would I Be](https://open.spotify.com/track/5u6tE49JDHC6qiA0d2Ci6i) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Busted](https://open.spotify.com/album/0EALB7KHwFpWvvNYTqPEBJ) | 4:06 |
@@ -270,8 +270,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 260 | [Me Leve Com Você](https://open.spotify.com/track/6ILEjq8z3T80lt4Onfi3l7) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:07 |
 | 261 | [Careless Heart](https://open.spotify.com/track/3LQFJ4XfUy8SqSM7vQgFqM) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 4:08 |
 | 262 | [As Long As I Can Dream](https://open.spotify.com/track/2WukpFZIJd3HiF0Aos3eXE) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Exposé](https://open.spotify.com/album/4O0YlGNpMCAPXsWOiivJJd) | 4:50 |
-| 263 | [Into the Night of Blue](https://open.spotify.com/track/6P1iCXKKoBefpyJQAhynKB) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Hidden Gems](https://open.spotify.com/album/1aOCleRKNqzbn1Qr9crZXF) | 4:13 |
-| 264 | [Cry Over Me](https://open.spotify.com/track/1XUcDN732D3YOYtZjAEq02) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell 3](https://open.spotify.com/album/3Az1FmmreuG2fS7uCU6VPJ) | 4:38 |
+| 263 | [Cry Over Me](https://open.spotify.com/track/1XUcDN732D3YOYtZjAEq02) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell 3](https://open.spotify.com/album/3Az1FmmreuG2fS7uCU6VPJ) | 4:38 |
+| 264 | [Into the Night of Blue](https://open.spotify.com/track/6P1iCXKKoBefpyJQAhynKB) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Hidden Gems](https://open.spotify.com/album/1aOCleRKNqzbn1Qr9crZXF) | 4:13 |
 | 265 | [Inside](https://open.spotify.com/track/3N6rgE1UZj3g3T3bKPKnpB) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/0aj4GGjLOlbmUgv4SZQaqU) | 4:12 |
 | 266 | [Through the Storm \(with Elton John\)](https://open.spotify.com/track/2xTzFWaVvNzmz1JXbhOt64) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Through the Storm](https://open.spotify.com/album/0K8kAGeIofQOUkWiMOYr8P) | 4:21 |
 | 267 | [Big Big Love](https://open.spotify.com/track/5qn8AKjdjvSTWxsQ1Irk8l) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/1KXFA21w4IxGGVJltnH119) | 3:46 |
@@ -590,4 +590,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 580 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 581 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcRPaAAAAABlN85wVnSIYuajVPeZdy0X`
+Snapshot ID: `AcRVJgAAAAAkyYUftrF15dpE6UPDQvPb`

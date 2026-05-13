@@ -10866,14 +10866,22 @@
       },
       "artists": [
         {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
           "name": "Isao Tomita",
           "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
+        },
+        {
+          "name": "Nathaniel S. Johnson",
+          "url": "https://open.spotify.com/artist/1VsWMkOej4LMPKAhQ6g6kc"
         }
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 350000,
+      "duration_ms": 353600,
       "name": "Suite Bergamasque: Clair de Lune, No. 3",
       "url": "https://open.spotify.com/track/7Lcz0kdcDOdt5IVBr4M2Od"
     },

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1365505,
+  "num_followers": 1365561,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAAtq0f3/7gBs6z+OzpZ51Je",
+  "snapshot_id": "agEcAAAAAACCRACXLKbk12TkaMQXS2dX",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "A M\u00ed Me Esta Doliendo",
-      "url": "https://open.spotify.com/track/01dVdmSV7eaVgRzUAi6o13"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Me Pidas Perd\u00f3n",
         "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 224840,
       "name": "Por Este Amor",
       "url": "https://open.spotify.com/track/0b8ONx6Vjfuq2u4G0uouuW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "A M\u00ed Me Esta Doliendo",
+      "url": "https://open.spotify.com/track/01dVdmSV7eaVgRzUAi6o13"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Enfermo",
-        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "De Ti Enamorado",
-      "url": "https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mejor Versi\u00f3n De M\u00ed",
         "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 168386,
       "name": "La Mejor Versi\u00f3n De M\u00ed",
       "url": "https://open.spotify.com/track/36V82ZTiFqW21W8UTzkloN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Enfermo",
+        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "De Ti Enamorado",
+      "url": "https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC"
     },
     {
       "added_at": null,

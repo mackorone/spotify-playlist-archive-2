@@ -4,7 +4,7 @@
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Kid Milli & OKASHII\)
 
-1,893 songs - 4 day 5 hr 13 min
+1,894 songs - 4 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1829,6 +1829,7 @@
 | [YADOM \(with Shyboiitobii\)](https://open.spotify.com/track/2pnVT4th5bMxnalj4SjQsa) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ) | [WUUSLIME](https://open.spotify.com/album/5F5uZoZ8wKFBiKFcWepkNd) | 2:10 | 2025-05-12 | 2025-09-02 |
 | [YAH\-HO \(BADTITUDE\)](https://open.spotify.com/track/7MGHY91IHRqbhm6w4tPhYp) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [OVERSTEP](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) | 2:12 | 2024-06-28 | 2024-10-24 |
 | [Yaro!](https://open.spotify.com/track/4XAR1tOVBg3GpLnd3HhxBd) | [Illho](https://open.spotify.com/artist/2BPEoEZ55KvqSrZMT9rHed), [FUNKY STONE](https://open.spotify.com/artist/2PM9Mze0xeJIIQsZW1czcE), [KOBU](https://open.spotify.com/artist/37zeVCSi7oqxfACeRAoKpV) | [Hold On](https://open.spotify.com/album/4d9drDaQNmCS7rEoEQ7xTO) | 2:46 | 2024-10-27 | 2024-11-28 |
+| [Yarrr](https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Yarrr](https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ) | 2:46 | 2026-05-12 |  |
 | [YAYAYA \(Feat\. Mirani\)](https://open.spotify.com/track/6H7hpnwgn2zH1OUsJjbrPo) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [TokkinnyBrown1.5](https://open.spotify.com/album/5bOKueM07L06faNzgjL3U5) | 3:18 | 2021-12-21 | 2022-07-04 |
 | [YAYO \(Feat\. Slim9lock\)](https://open.spotify.com/track/31pv3Qj2wNfFIZ9ymhSL6L) | [Jimmy Paige](https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK), [Slim 9lock](https://open.spotify.com/artist/0th6fLI9VttKJ9gIjoNPAM) | [YAYO \(Feat\. Slim 9lock\)](https://open.spotify.com/album/1bi4xVDtw9MMOW30seM4is) | 3:24 | 2023-04-07 | 2023-06-14 |
 | [Yellin' \(feat\. Kid Milli\)](https://open.spotify.com/track/0deGjHATm7Hc1oJwqii1l3) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [CLUTCH](https://open.spotify.com/album/4tw47Y64E5YY4ZbgL2KESM) | 1:53 | 2025-11-03 | 2026-03-13 |

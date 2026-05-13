@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 57173,
+  "num_followers": 57181,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABXOTS1fs4NLljqWk3OxWzI",
+  "snapshot_id": "agEcAAAAAAB3JMiuq532LA7sReI+6LkK",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dariel Party, Vol 1.",
-        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 192086,
-      "name": "Siempre A Tu Lado (En Vivo)",
-      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Bruta (En Vivo)",
         "url": "https://open.spotify.com/album/1NQCMMZnRZkqTMX0QpLTvn"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 256105,
       "name": "La Bruta (En Vivo)",
       "url": "https://open.spotify.com/track/72sUhaR3zbNJI1He6EW9TC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dariel Party, Vol 1.",
+        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 192086,
+      "name": "Siempre A Tu Lado (En Vivo)",
+      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 237182,
+      "name": "Si Tu Quieres",
+      "url": "https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dariel Party, Vol 1.",
         "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 243885,
       "name": "Conv\u00e9nceme (En Vivo)",
       "url": "https://open.spotify.com/track/4rrY9i7GRZrBi4bcBaC2BU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 237182,
-      "name": "Si Tu Quieres",
-      "url": "https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Renacido Tour 2023",
-        "url": "https://open.spotify.com/album/6cFN69KXbmuwXqmJSRXn7X"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 381851,
-      "name": "Popurr\u00ed Kumbia Kings (En Vivo). Na Na Na (Dulce Ni\u00f1a)/ Chiquilla",
-      "url": "https://open.spotify.com/track/42SZjpJpPf5ATDn7PeOqAb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Duele Menos",
         "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
       },
@@ -919,6 +903,26 @@
       "duration_ms": 217531,
       "name": "No Vuelvo A Extranarte",
       "url": "https://open.spotify.com/track/40TKsH6bIiGJ58vU2G8HhQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Tijuana",
+        "url": "https://open.spotify.com/album/2TORCuwBsbwYncckRQrM5N"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "duration_ms": 168874,
+      "name": "Modo Serio - En Vivo",
+      "url": "https://open.spotify.com/track/0b2IOrT0aNgzzWRlw0Rg4d"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

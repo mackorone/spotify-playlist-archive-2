@@ -3548,7 +3548,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 179999,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/3bTsAnErZrtBoUfORcTDTo"
@@ -3644,6 +3644,24 @@
     {
       "album": {
         "name": "Angels Above Me",
+        "url": "https://open.spotify.com/album/5LojZjORfZDoOgVWFI6d8s"
+      },
+      "artists": [
+        {
+          "name": "wiatra",
+          "url": "https://open.spotify.com/artist/6lFfwOIFlFgQ8EGIa0SyAB"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327111,
+      "name": "Angels Above Me",
+      "url": "https://open.spotify.com/track/3dn9imaDNfJGczVPawTKmj"
+    },
+    {
+      "album": {
+        "name": "Angels Above Me",
         "url": "https://open.spotify.com/album/2KKYw7pkkGDnJddbcbXjD5"
       },
       "artists": [
@@ -3666,7 +3684,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 327111,
       "name": "Angels Above Me",
       "url": "https://open.spotify.com/track/5RjZLUNEOMT5R1CsZDefAl"
@@ -10035,6 +10053,28 @@
     },
     {
       "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+    },
+    {
+      "album": {
         "name": "Even In Arcadia",
         "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
       },
@@ -14978,7 +15018,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 275102,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j"
@@ -18268,6 +18308,24 @@
     {
       "album": {
         "name": "Feeling Good Today",
+        "url": "https://open.spotify.com/album/6f52C9wXKhbelzeMpFLXuC"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193520,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/4mh9X4JIq47s0EIdPctTLT"
+    },
+    {
+      "album": {
+        "name": "Feeling Good Today",
         "url": "https://open.spotify.com/album/4Vnu314Dm9lM3IuOinUDXB"
       },
       "artists": [
@@ -18278,7 +18336,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 193538,
       "name": "Feeling Good Today",
       "url": "https://open.spotify.com/track/1hTDrAziXO5Pyw3Br9WH3l"
@@ -20058,7 +20116,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 174374,
       "name": "F\u00f8r Vi G\u00e5r Hjem",
       "url": "https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf"
@@ -23964,6 +24022,24 @@
       "duration_ms": 164773,
       "name": "Hellfire - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6n484S6vV8IUenkz43YzTt"
+    },
+    {
+      "album": {
+        "name": "Hello (The Sun Is Up Where Are You)",
+        "url": "https://open.spotify.com/album/0sneYAyvNpsY7X8hJN8zro"
+      },
+      "artists": [
+        {
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "Hello (The Sun Is Up Where Are You)",
+      "url": "https://open.spotify.com/track/3RzMm7UF45THfWav8wVdQa"
     },
     {
       "album": {
@@ -31556,7 +31632,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 132693,
       "name": "LDNB",
       "url": "https://open.spotify.com/track/5O8HYf2CdbUJIQdd6PzAA7"
@@ -35180,10 +35256,28 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 192005,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
+    },
+    {
+      "album": {
+        "name": "Malediven",
+        "url": "https://open.spotify.com/album/5bwSStyyL6KQqY4zOsKWFk"
+      },
+      "artists": [
+        {
+          "name": "Laurenz Nikolaus",
+          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140985,
+      "name": "Malediven",
+      "url": "https://open.spotify.com/track/1UzrkNhFVccHTN1et4nTBR"
     },
     {
       "album": {
@@ -37834,7 +37928,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 102048,
       "name": "MONTAGEM PEGADORA - Slowed",
       "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
@@ -39126,7 +39220,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 106666,
       "name": "NALAKA",
       "url": "https://open.spotify.com/track/5h5QPBDmsxIGuH55zsBgRU"
@@ -40350,7 +40444,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
@@ -42342,7 +42436,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 175475,
       "name": "Papi hat viel Geld",
       "url": "https://open.spotify.com/track/67zWryVSV97U0lfKDr4PIB"
@@ -42774,7 +42868,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 143653,
       "name": "Pause",
       "url": "https://open.spotify.com/track/6IM2LNtEfICxZrLrL8QKQX"
@@ -46216,6 +46310,24 @@
       "duration_ms": 196754,
       "name": "Ronald",
       "url": "https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg"
+    },
+    {
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2HZk8OFg1Ua8yEQj2sj7Vx"
+      },
+      "artists": [
+        {
+          "name": "Bandidos do Cante",
+          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179991,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6djCOY8krAnQw8JFK4fbYa"
     },
     {
       "album": {
@@ -50177,6 +50289,24 @@
     },
     {
       "album": {
+        "name": "Something Moves",
+        "url": "https://open.spotify.com/album/6q8bHClbIoPmBbYdYhnzF2"
+      },
+      "artists": [
+        {
+          "name": "Mike Mana",
+          "url": "https://open.spotify.com/artist/54CyPPYrmaRRxsN8rjwYnQ"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170156,
+      "name": "Something Moves",
+      "url": "https://open.spotify.com/track/0oTYdYuO18baBxYyT92W2d"
+    },
+    {
+      "album": {
         "name": "Something to Believe In",
         "url": "https://open.spotify.com/album/3DtIKSufhSQbpChyHq4Ygf"
       },
@@ -50541,6 +50671,24 @@
     },
     {
       "album": {
+        "name": "Spacey",
+        "url": "https://open.spotify.com/album/364ms6awqRPNolPlw7Pf8p"
+      },
+      "artists": [
+        {
+          "name": "The Rose Hips",
+          "url": "https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189642,
+      "name": "Spacey",
+      "url": "https://open.spotify.com/track/0iIvDVbTgFV8a06FiVSjxO"
+    },
+    {
+      "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
       },
@@ -50760,6 +50908,24 @@
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
+    },
+    {
+      "album": {
+        "name": "Sprengt den Wal!",
+        "url": "https://open.spotify.com/album/3V4m5XJSHEZVzvUec658ZQ"
+      },
+      "artists": [
+        {
+          "name": "TULPE",
+          "url": "https://open.spotify.com/artist/2UQxT4pHOWi3Kkif5SwfUH"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125754,
+      "name": "Sprengt den Wal!",
+      "url": "https://open.spotify.com/track/78TuSRHSCOSWOa9y26H2Rz"
     },
     {
       "album": {
@@ -51492,6 +51658,28 @@
       "duration_ms": 176360,
       "name": "Stop The Cavalry",
       "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
+    },
+    {
+      "album": {
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173433,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
     },
     {
       "album": {
@@ -52280,7 +52468,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 104534,
       "name": "S\u00fc\u00dfer",
       "url": "https://open.spotify.com/track/4i9MMlgfUTuC3ClXAsbjYw"
@@ -53990,7 +54178,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 171719,
       "name": "THE DEVIL STEPS BACK",
       "url": "https://open.spotify.com/track/55FbDKntig3wkJ5MaTcJdc"

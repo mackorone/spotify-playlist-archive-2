@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,397 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,384 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 24 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
 | 25 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
 | 26 | [Kirjotettu tähtiin](https://open.spotify.com/track/6JKClwOEbYMZrSJGRACtY2) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Kirjotettu tähtiin](https://open.spotify.com/album/2jnDXAJYyg6170tk9cQ7JT) | 2:38 |
-| 27 | [Tom Ford](https://open.spotify.com/track/52gUymoTGCj5xg0YU1kCw3) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Stallion](https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo) | 2:03 |
-| 28 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
+| 27 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
+| 28 | [Tom Ford](https://open.spotify.com/track/52gUymoTGCj5xg0YU1kCw3) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Stallion](https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo) | 2:03 |
 | 29 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
 | 30 | [Maailman Huipulla](https://open.spotify.com/track/39tNLJl07Dzxktiu6mKtJH) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Maailman Huipulla](https://open.spotify.com/album/1zwH2Ac1JCcbMxZbIUSh6r) | 2:36 |
 | 31 | [MVMB](https://open.spotify.com/track/2wYOgzfeAtCaLENTzkGOgg) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [MVMB](https://open.spotify.com/album/58lzgf4G1TY7ABMEYwU5p3) | 2:30 |

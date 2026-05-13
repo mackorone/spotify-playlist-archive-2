@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACrRIsUF1hBS/3U0N8xWIKq",
+  "snapshot_id": "agEcAAAAAAA+8ngonNf/e/QKAd1Jom+q",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "La San Marque\u00f1a",
-      "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ra\u00edz",
         "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "La San Marque\u00f1a",
+      "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Border",
         "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 185923,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Sandunga",
         "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
       },
@@ -855,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+        "name": "Tumba 7",
+        "url": "https://open.spotify.com/album/6fPRIFEbcszWFz0xxoGPzl"
       },
       "artists": [
         {
@@ -864,9 +880,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 185923,
-      "name": "Conjuro",
-      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
+      "duration_ms": 301621,
+      "name": "Tumba 7",
+      "url": "https://open.spotify.com/track/68yaDbdzyd0qgtZLIm4MCq"
     },
     {
       "added_at": null,
@@ -891,22 +907,6 @@
       "duration_ms": 187186,
       "name": "El Relampago",
       "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tumba 7",
-        "url": "https://open.spotify.com/album/6fPRIFEbcszWFz0xxoGPzl"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 301621,
-      "name": "Tumba 7",
-      "url": "https://open.spotify.com/track/68yaDbdzyd0qgtZLIm4MCq"
     },
     {
       "added_at": null,

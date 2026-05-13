@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-1,003 songs - 2 day 12 hr 51 min
+1,005 songs - 2 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Groovin'](https://open.spotify.com/track/1pZ4YQ93Wc9xoN0Q3h3fLq) | [Willie Mitchell](https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS) | [Solid Soul](https://open.spotify.com/album/5kjFbhLFuJ5mMlsAcCWPjq) | 2:59 | 2025-09-28 | 2025-11-15 |
 | [Guided Beam](https://open.spotify.com/track/4z1YabjDCOGQuv2E4ymKyi) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientist Meets The Space Invaders](https://open.spotify.com/album/5MNl47ou2VjYKXUHlcKuZT) | 3:16 | 2025-06-12 | 2025-07-04 |
 | [Hackney Carriage](https://open.spotify.com/track/56mhW3y7zNyqMSDMfjSIeu) | [Cedric King Palmer](https://open.spotify.com/artist/6LG2S5JxaoBk1zeY8ujpy1) | [Kpm 1000 Series: Archive Series Volume 1 \- Light Atmospheres](https://open.spotify.com/album/49GCMOquJta60c00taYMZ4) | 1:57 | 2024-08-07 | 2024-09-08 |
+| [Half a Million Miles from Home](https://open.spotify.com/track/047PqVwCAmSuowUYFD5ger) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 3:25 | 2026-05-12 |  |
 | [Hallelujah Bruv](https://open.spotify.com/track/0oyOsaqUQhvZH7Dfavot0g) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Hallelujah Bruv](https://open.spotify.com/album/2XOlDfipPw0DbVptNQlFsd) | 2:01 | 2024-09-08 | 2024-11-14 |
 | [Hands Of Man](https://open.spotify.com/track/6FrW7htz75AtmZJZk59BEv) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Hands Of Man](https://open.spotify.com/album/3LzI2gXTQQ96VtaC2NYXF2) | 5:05 | 2024-01-30 | 2024-03-10 |
 | [Happy](https://open.spotify.com/track/1JGdQ6bAbTShATQV7iZuoB) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Happy](https://open.spotify.com/album/1cu2Otwcl1p9FnnPffqwhA) | 2:19 | 2024-10-08 | 2024-11-14 |
@@ -878,6 +879,7 @@
 | [The Sky Is So Blue](https://open.spotify.com/track/0FnQJbknnZXdKnhiU6qxdp) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 4:04 | 2025-01-25 | 2025-03-02 |
 | [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 | 2024-05-26 | 2024-07-12 |
 | [The Thoughts Of Mary Jane](https://open.spotify.com/track/3k5C3vlDqE5rOqiikOjJ10) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 3:18 | 2025-09-10 | 2025-11-15 |
+| [The Turnaround Road](https://open.spotify.com/track/5bK3tLaBVX7lSfGavEm2VH) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 5:19 | 2026-05-12 |  |
 | [The Ultraworld](https://open.spotify.com/track/1KGLcXp6hVKESnRYxzo10m) | [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Wendy Eisenberg](https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5) | 5:10 | 2026-04-10 | 2026-05-06 |
 | [The Underground Solution](https://open.spotify.com/track/4HgK9B850KCWFDL4y6posB) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Still Electric](https://open.spotify.com/album/53AaCjLl4lnuu0gRDaacoN) | 3:43 | 2024-11-25 | 2025-01-12 |
 | [The Valley in Flight](https://open.spotify.com/track/35vrYVGTV7E6Fp66hprKV2) | [Richard Youngs](https://open.spotify.com/artist/1rMkroCNvGAk4kO6I1j5A3) | [Beyond The Valley Of Ultrahits](https://open.spotify.com/album/6xp1MvM7LFR24g9ZO9RK92) | 3:49 | 2026-02-22 | 2026-03-13 |

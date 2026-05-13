@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 15042,
+  "num_followers": 15079,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAD6ZTpFExF3W7+SvXz6WeCQ",
+  "snapshot_id": "agEcAAAAAAA2Ud71xCkKyec1ZhY0a21p",
   "tracks": [
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outra Mulher",
+        "url": "https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Outra Mulher",
+      "url": "https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 138545,
       "name": "Cigana",
       "url": "https://open.spotify.com/track/2Fvnv1hJ3t9F1YygLQqy39"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outra Mulher",
-        "url": "https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Outra Mulher",
-      "url": "https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Pq a Policia Smp Acaba Com a Festa?",
-      "url": "https://open.spotify.com/track/77rtEhucHdylGhhxAEgAay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unic\u00f3rnio",
         "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 183005,
       "name": "P\u00e2nico",
       "url": "https://open.spotify.com/track/5g2L6Ev4rNUf5Ti4MlpOsT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Pq a Policia Smp Acaba Com a Festa?",
+      "url": "https://open.spotify.com/track/77rtEhucHdylGhhxAEgAay"
     },
     {
       "added_at": null,
@@ -1027,6 +1027,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/5FAv7HvHUlRHB4FcpIlLFq"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 129386,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/0zMq8ku7rPwkWiFgLNTJ4J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/5FAv7HvHUlRHB4FcpIlLFq"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 129386,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/0zMq8ku7rPwkWiFgLNTJ4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aju",
         "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
       },
@@ -1079,38 +1079,6 @@
       "duration_ms": 153586,
       "name": "Aju",
       "url": "https://open.spotify.com/track/5OKRfZjxg0rfrx8ZQxw8X0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Su Madre Mandrake",
-          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
-        }
-      ],
-      "duration_ms": 246965,
-      "name": "Pantera",
-      "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
     }
   ],
   "unique_name": "This Is AJULLIACOSTA",

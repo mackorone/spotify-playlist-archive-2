@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,075 likes - 150 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,108 likes - 150 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ebb + Flow](https://open.spotify.com/track/40zauhSW2YyiCBoZvYhtg7) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Ebb + Flow](https://open.spotify.com/album/5hMxgKbuFVSUfvu3JL1aPq) | 4:00 |
-| 2 | [Dim Stars](https://open.spotify.com/track/4uXMT0xoObBj422bkwOnXv) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Dim Stars / For Residue \(Extended\)](https://open.spotify.com/album/1apaH4pqZbqx7ETQ5BBdTw) | 3:54 |
-| 3 | [Prophecy At 1420 MHz](https://open.spotify.com/track/4gYaI1S9Qug6B96E2HwxeN) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Prophecy At 1420 MHz](https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y) | 5:04 |
+| 1 | [Prophecy At 1420 MHz](https://open.spotify.com/track/4gYaI1S9Qug6B96E2HwxeN) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Prophecy At 1420 MHz](https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y) | 5:04 |
+| 2 | [Ebb + Flow](https://open.spotify.com/track/40zauhSW2YyiCBoZvYhtg7) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Ebb + Flow](https://open.spotify.com/album/5hMxgKbuFVSUfvu3JL1aPq) | 4:00 |
+| 3 | [Dim Stars](https://open.spotify.com/track/4uXMT0xoObBj422bkwOnXv) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Dim Stars / For Residue \(Extended\)](https://open.spotify.com/album/1apaH4pqZbqx7ETQ5BBdTw) | 3:54 |
 | 4 | [One Shall Sleep](https://open.spotify.com/track/1XhROhffxz05Zecw04Deov) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 4:21 |
 | 5 | [A Thousand Steps](https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 4:06 |
 | 6 | [Disque](https://open.spotify.com/track/0bF68n7iG7JYOgAeCIUBei) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Disque](https://open.spotify.com/album/2nGu7fJJjdqso0JFZeqSES) | 3:20 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 149 | [PREY](https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF) | [SZARY](https://open.spotify.com/artist/3hVzRHaqJWJvSg9DY4Y0Ca) | [PREY](https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU) | 4:24 |
 | 150 | [Approaching](https://open.spotify.com/track/1HwGffKegkpj4oEIJH3U8j) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [Approaching](https://open.spotify.com/album/6arIVpHOFRFuYWIy9JxekU) | 3:16 |
 
-Snapshot ID: `AAAAAOgb33b06VASL06dxsDHypQdYhBr`
+Snapshot ID: `AAAAAEyn0jjYhGaDyY+og9TODTYNm2aI`

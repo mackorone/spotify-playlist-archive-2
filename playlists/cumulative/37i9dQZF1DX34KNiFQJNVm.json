@@ -69381,7 +69381,7 @@
         },
         {
           "name": "Pedr\u00e3o",
-          "url": "https://open.spotify.com/artist/5dHL4lN2SP9WfUez8pJDsp"
+          "url": "https://open.spotify.com/artist/5KfFIz80310f8KGbsX8WWr"
         }
       ],
       "date_added": "2026-05-08",
@@ -93666,16 +93666,16 @@
           "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
         },
         {
-          "name": "DKmixx",
-          "url": "https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX"
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
         },
         {
           "name": "Bymd.wav",
           "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
         },
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+          "name": "DKmixx",
+          "url": "https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX"
         }
       ],
       "date_added": "2026-05-08",
@@ -253857,6 +253857,24 @@
     },
     {
       "album": {
+        "name": "Sol Jo\u00e3o",
+        "url": "https://open.spotify.com/album/3FbS1oa6lia4y4xlA9F95R"
+      },
+      "artists": [
+        {
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156871,
+      "name": "O Sol Jo\u00e3o Vai Pegar Fogo",
+      "url": "https://open.spotify.com/track/28Jkkj3EzksuRgoqlLrXs7"
+    },
+    {
+      "album": {
         "name": "Adrian Younge presents Something About April III",
         "url": "https://open.spotify.com/album/2lbVK9NP3QKqEeA8NrOjbx"
       },
@@ -312870,6 +312888,10 @@
         {
           "name": "MISAEL",
           "url": "https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR"
+        },
+        {
+          "name": "Mattexv",
+          "url": "https://open.spotify.com/artist/1fGtjltOhMS01o7tKIRJjb"
         }
       ],
       "date_added": "2026-05-08",
@@ -340504,24 +340526,6 @@
       "duration_ms": 150000,
       "name": "Sol em Salvador",
       "url": "https://open.spotify.com/track/1LkomEz4I1h4CfGSMiegvW"
-    },
-    {
-      "album": {
-        "name": "Sol Jo\u00e3o",
-        "url": "https://open.spotify.com/album/3FbS1oa6lia4y4xlA9F95R"
-      },
-      "artists": [
-        {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
-        }
-      ],
-      "date_added": "2026-05-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156871,
-      "name": "Sol Jo\u00e3o",
-      "url": "https://open.spotify.com/track/28Jkkj3EzksuRgoqlLrXs7"
     },
     {
       "album": {

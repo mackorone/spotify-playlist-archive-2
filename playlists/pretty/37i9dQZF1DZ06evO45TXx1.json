@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 15924,
+  "num_followers": 15936,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABsBLnwIt54aS4MSrRWiDoa",
+  "snapshot_id": "agEcAAAAAACidGSOMn29eri6R2nigrQq",
   "tracks": [
     {
       "added_at": null,
@@ -1163,6 +1163,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Jayp",
+          "url": "https://open.spotify.com/artist/4B89qqZfta5V4f2tV0JS7O"
+        }
+      ],
+      "duration_ms": 106549,
+      "name": "Atacante",
+      "url": "https://open.spotify.com/track/1sPnEamR8ZmrYYCjRR0uRd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc (feat. Mac J\u00falia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna)",
         "url": "https://open.spotify.com/album/2Q8yyzij3ZwnhnBgKq9hO8"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 343373,
       "name": "Set Ajc (feat. Mac J\u00falia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna)",
       "url": "https://open.spotify.com/track/6alaU0cNbfd67sjJqjAXG2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Jayp",
-          "url": "https://open.spotify.com/artist/4B89qqZfta5V4f2tV0JS7O"
-        }
-      ],
-      "duration_ms": 106549,
-      "name": "Atacante",
-      "url": "https://open.spotify.com/track/1sPnEamR8ZmrYYCjRR0uRd"
     },
     {
       "added_at": null,
@@ -1267,6 +1267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+        }
+      ],
+      "duration_ms": 98676,
+      "name": "\u00cdntimo",
+      "url": "https://open.spotify.com/track/2NReVQ3ftEDlJSSYJeESRG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donas do Jogo 2",
         "url": "https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 197340,
       "name": "Donas do Jogo 2",
       "url": "https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
-        }
-      ],
-      "duration_ms": 98676,
-      "name": "\u00cdntimo",
-      "url": "https://open.spotify.com/track/2NReVQ3ftEDlJSSYJeESRG"
     }
   ],
   "unique_name": "This Is Mc Luanna",

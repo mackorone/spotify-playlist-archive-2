@@ -1,6 +1,6 @@
 {
   "description": "Sum\u00e9rgete en un panorama imaginario de paisajes sonoros atmosf\u00e9ricos. ",
-  "num_followers": 409946,
+  "num_followers": 409949,
   "original_name": "aud\u00edfonos con cable",
   "owner": {
     "name": "Spotify",
@@ -360,11 +360,19 @@
       },
       "artists": [
         {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
           "name": "Isao Tomita",
           "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
+        },
+        {
+          "name": "Nathaniel S. Johnson",
+          "url": "https://open.spotify.com/artist/1VsWMkOej4LMPKAhQ6g6kc"
         }
       ],
-      "duration_ms": 350000,
+      "duration_ms": 353600,
       "name": "Suite Bergamasque: Clair de Lune, No. 3",
       "url": "https://open.spotify.com/track/7Lcz0kdcDOdt5IVBr4M2Od"
     },

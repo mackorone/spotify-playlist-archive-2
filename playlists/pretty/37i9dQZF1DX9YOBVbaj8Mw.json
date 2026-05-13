@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19309,
+  "num_followers": 19308,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Dziewczyna Pop",
-        "url": "https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB"
-      },
-      "artists": [
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        }
-      ],
-      "duration_ms": 262753,
-      "name": "Ballada o Niej",
-      "url": "https://open.spotify.com/track/2A4d6vp3I61jSEv8Ty9c8x"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Wolne duchy (feat. Daria Zawia\u0142ow, Mrozu & Kacperczyk)",
         "url": "https://open.spotify.com/album/3TNtZ6k211KiaNhldNtGie"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 185471,
       "name": "Wolne duchy",
       "url": "https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Dziewczyna Pop",
+        "url": "https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB"
+      },
+      "artists": [
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        }
+      ],
+      "duration_ms": 262753,
+      "name": "Ballada o Niej",
+      "url": "https://open.spotify.com/track/2A4d6vp3I61jSEv8Ty9c8x"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Himalaje",
-        "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
-      },
-      "artists": [
-        {
-          "name": "Mela Koteluk",
-          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
-        }
-      ],
-      "duration_ms": 207677,
-      "name": "Himalaje",
-      "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Cudze rady psuj\u0105 mi \u017cycie",
         "url": "https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 237482,
       "name": "Zima",
       "url": "https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Himalaje",
+        "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
+      },
+      "artists": [
+        {
+          "name": "Mela Koteluk",
+          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
+        }
+      ],
+      "duration_ms": 207677,
+      "name": "Himalaje",
+      "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Grzybnia",
-        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 173486,
-      "name": "Kozak",
-      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Pierwsza P\u0142yta",
         "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 202069,
       "name": "mleko i mood",
       "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Grzybnia",
+        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "duration_ms": 173486,
+      "name": "Kozak",
+      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Edi",
-        "url": "https://open.spotify.com/album/2eVNqBKwSgxSpMnuFFGXKv"
-      },
-      "artists": [
-        {
-          "name": "Grzegorz Kupczyk",
-          "url": "https://open.spotify.com/artist/3lkaXtLLG1tXxxN50g3Rgu"
-        }
-      ],
-      "duration_ms": 203543,
-      "name": "Edi",
-      "url": "https://open.spotify.com/track/44KoYpJ0kv0CpZzU5NWuuL"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "United Kingdom Of Anxiety",
         "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 230489,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/0ZzE5aySLbUQpb71oRjCCs"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Edi",
+        "url": "https://open.spotify.com/album/2eVNqBKwSgxSpMnuFFGXKv"
+      },
+      "artists": [
+        {
+          "name": "Grzegorz Kupczyk",
+          "url": "https://open.spotify.com/artist/3lkaXtLLG1tXxxN50g3Rgu"
+        }
+      ],
+      "duration_ms": 203543,
+      "name": "Edi",
+      "url": "https://open.spotify.com/track/44KoYpJ0kv0CpZzU5NWuuL"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1247,34 +1247,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "I Love Music",
-        "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
-      },
-      "artists": [
-        {
-          "name": "Piotr Wyle\u017co\u0142",
-          "url": "https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx"
-        },
-        {
-          "name": "Andy Middleton",
-          "url": "https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N"
-        },
-        {
-          "name": "Ferenc Nemeth",
-          "url": "https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB"
-        },
-        {
-          "name": "Micha\u0142 Bara\u0144ski",
-          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
-        }
-      ],
-      "duration_ms": 443446,
-      "name": "Tatras",
-      "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Tradycyja",
         "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
       },
@@ -1299,6 +1271,34 @@
       "duration_ms": 278672,
       "name": "G\u00f3rniczy stan",
       "url": "https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "I Love Music",
+        "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wyle\u017co\u0142",
+          "url": "https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx"
+        },
+        {
+          "name": "Andy Middleton",
+          "url": "https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N"
+        },
+        {
+          "name": "Ferenc Nemeth",
+          "url": "https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB"
+        },
+        {
+          "name": "Micha\u0142 Bara\u0144ski",
+          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
+        }
+      ],
+      "duration_ms": 443446,
+      "name": "Tatras",
+      "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
     },
     {
       "added_at": "2025-04-06 08:27:45",

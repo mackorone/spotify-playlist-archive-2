@@ -1,12 +1,12 @@
 {
   "description": "This is iu takahashi. The essential tracks, all in one playlist.",
-  "num_followers": 40,
+  "num_followers": 41,
   "original_name": "This Is iu takahashi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACBEVrwHKK03B0zOFnFYVmR",
+  "snapshot_id": "agEcAAAAAADaZ89eY7xuUt7Ug2a+rYay",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
+        "name": "bath",
+        "url": "https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 380624,
-      "name": "Dew",
-      "url": "https://open.spotify.com/track/5yUkO5rXLUsMTIRyGJujaj"
+      "duration_ms": 236000,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ"
     },
     {
       "added_at": null,
@@ -212,70 +212,6 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 341999,
-      "name": "Awake / Lakeside",
-      "url": "https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 499990,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "still left",
-        "url": "https://open.spotify.com/album/5IEmzobpHtW97EjytH6N8H"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "far",
-      "url": "https://open.spotify.com/track/271MyW637PvyF3PvMOppW2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Late in life",
-        "url": "https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 315124,
-      "name": "Vacant house",
-      "url": "https://open.spotify.com/track/7uRSs9QvLUvKD5Y6tixIyb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sense/Margin",
-        "url": "https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
       "duration_ms": 221101,
       "name": "Open / Rain",
       "url": "https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx"
@@ -324,6 +260,70 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
+      "duration_ms": 315124,
+      "name": "Vacant house",
+      "url": "https://open.spotify.com/track/7uRSs9QvLUvKD5Y6tixIyb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sense/Margin",
+        "url": "https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 341999,
+      "name": "Awake / Lakeside",
+      "url": "https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 499990,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "still left",
+        "url": "https://open.spotify.com/album/5IEmzobpHtW97EjytH6N8H"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "far",
+      "url": "https://open.spotify.com/track/271MyW637PvyF3PvMOppW2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late in life",
+        "url": "https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
       "duration_ms": 238000,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3gO9CRgwtyTo1aohvw6rYD"
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Depthscape",
-        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Foggy",
-      "url": "https://open.spotify.com/track/48BaTYfr7tCqfUxAoU0ARE"
+      "duration_ms": 380624,
+      "name": "Dew",
+      "url": "https://open.spotify.com/track/5yUkO5rXLUsMTIRyGJujaj"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
+      "duration_ms": 390000,
+      "name": "Foggy",
+      "url": "https://open.spotify.com/track/48BaTYfr7tCqfUxAoU0ARE"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 420979,
-      "name": "Hamon",
-      "url": "https://open.spotify.com/track/6mazXf0065n3ttcbEXQVba"
+      "duration_ms": 506583,
+      "name": "Mitake",
+      "url": "https://open.spotify.com/track/1Cq7uBcl3gHm4l2fvdknv3"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 624000,
-      "name": "Ten",
-      "url": "https://open.spotify.com/track/4qYZegpAWSfWecpp6qAYh2"
+      "duration_ms": 223000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
       },
@@ -532,9 +516,25 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 506583,
-      "name": "Mitake",
-      "url": "https://open.spotify.com/track/1Cq7uBcl3gHm4l2fvdknv3"
+      "duration_ms": 420979,
+      "name": "Hamon",
+      "url": "https://open.spotify.com/track/6mazXf0065n3ttcbEXQVba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Depthscape",
+        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 624000,
+      "name": "Ten",
+      "url": "https://open.spotify.com/track/4qYZegpAWSfWecpp6qAYh2"
     },
     {
       "added_at": null,

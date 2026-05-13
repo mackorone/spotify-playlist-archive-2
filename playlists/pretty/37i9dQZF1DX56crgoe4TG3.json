@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285437,
+  "num_followers": 285442,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Red On Blonde",
-        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
-      },
-      "artists": [
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
-        }
-      ],
-      "duration_ms": 242760,
-      "name": "Senor (Tales Of Yankee Power)",
-      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Aerials",
         "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 228490,
       "name": "Aerials",
       "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Red On Blonde",
+        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
+      },
+      "artists": [
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Senor (Tales Of Yankee Power)",
+      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Cover to Cover",
         "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 184773,
       "name": "You Can Close Your Eyes",
       "url": "https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Make Me Stay or Make Me Go",
-        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Make Me Stay or Make Me Go",
-      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "YMCA b/w Rasputin",
-        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
-      },
-      "artists": [
-        {
-          "name": "Hayseed Dixie",
-          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
-        }
-      ],
-      "duration_ms": 281287,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 223005,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "YMCA b/w Rasputin",
+        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
+      },
+      "artists": [
+        {
+          "name": "Hayseed Dixie",
+          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
+        }
+      ],
+      "duration_ms": 281287,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Me and Bobby McGee (2024 Mix)",
-        "url": "https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV"
-      },
-      "artists": [
-        {
-          "name": "Tompall & The Glaser Brothers",
-          "url": "https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py"
-        }
-      ],
-      "duration_ms": 396516,
-      "name": "Me and Bobby McGee (2024 Mix)",
-      "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 263317,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Me and Bobby McGee (2024 Mix)",
+        "url": "https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV"
+      },
+      "artists": [
+        {
+          "name": "Tompall & The Glaser Brothers",
+          "url": "https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py"
+        }
+      ],
+      "duration_ms": 396516,
+      "name": "Me and Bobby McGee (2024 Mix)",
+      "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
     },
     {
       "added_at": "2026-02-04 05:00:53",

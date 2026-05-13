@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABAcTO7ElEpcrvZih2gMf+f",
+  "snapshot_id": "agEcAAAAAADH71oj6xRw+PTWuMbuPcKn",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even So Come (Radio Version/Live)",
-        "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 254373,
-      "name": "Even So Come - Radio Version/Live",
-      "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 412227,
       "name": "Way Maker - Live From Passion 2020",
       "url": "https://open.spotify.com/track/16lF3B47C7KM9GPok917Ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Even So Come (Radio Version/Live)",
+        "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 254373,
+      "name": "Even So Come - Radio Version/Live",
+      "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: White Flag",
-        "url": "https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 350720,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 303653,
       "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live",
       "url": "https://open.spotify.com/track/0KigSoVvXDoiuCr1NcEU1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: White Flag",
+        "url": "https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 350720,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs That Changed The Church - Worship",
-        "url": "https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Breathe - Live",
-      "url": "https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Our Love Is Loud (Live)",
         "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 278440,
       "name": "God Of Wonders - Live",
       "url": "https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs That Changed The Church - Worship",
+        "url": "https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Breathe - Live",
+      "url": "https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Even So Come (Live)",
-        "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Shout Hosanna - Live",
-      "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Our Love Is Loud (Live)",
         "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 291626,
       "name": "Here I Am To Worship - Live",
       "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Even So Come (Live)",
+        "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Shout Hosanna - Live",
+      "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From LIFT: Creative Conference",
-        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Jourdan Johnson",
-          "url": "https://open.spotify.com/artist/4txdUXlNO7VGMJf6wVzt2X"
-        }
-      ],
-      "duration_ms": 221477,
-      "name": "Shout To The Lord - Live From LIFT: Creative Conference",
-      "url": "https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bless God",
         "url": "https://open.spotify.com/album/074Y58Kfks4iXnPCGWlo0O"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 314535,
       "name": "Bless God - Live From Passion 2024",
       "url": "https://open.spotify.com/track/55891kIDHcEGReUrpD461w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From LIFT: Creative Conference",
+        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Jourdan Johnson",
+          "url": "https://open.spotify.com/artist/4txdUXlNO7VGMJf6wVzt2X"
+        }
+      ],
+      "duration_ms": 221477,
+      "name": "Shout To The Lord - Live From LIFT: Creative Conference",
+      "url": "https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL"
     },
     {
       "added_at": null,

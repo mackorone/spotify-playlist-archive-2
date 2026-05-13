@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,613 songs - 6 day 17 hr 26 min
+2,615 songs - 6 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [DAISY](https://open.spotify.com/track/1FvuLLe1ucGonMuFrOYO99) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [Azu is](https://open.spotify.com/album/1ySPJFxnsbnsWSiFZIJ5m6) | 2:56 | 2023-11-07 | 2023-11-09 |
 | [Dance In The Game](https://open.spotify.com/track/5deMG1Ko0ycpPVYPwW0yi8) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Dance In The Game](https://open.spotify.com/album/1a2xSbvHc69UpRhx5MO2Nk) | 3:28 | 2022-07-12 | 2022-10-19 |
 | [DANCE IN THE MAGIC](https://open.spotify.com/track/6BVNrVh84996f4QxwK8VHx) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [DANCE IN THE MAGIC](https://open.spotify.com/album/74c8aJPvqMmJW9rgPXifaL) | 2:58 | 2022-08-16 | 2022-09-07 |
+| [Dance with STEEL BALL RUN](https://open.spotify.com/track/4lJMMdMHq3qk2Uqld0AEkF) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [Dance with STEEL BALL RUN](https://open.spotify.com/album/18Aw5v6gvYlYNcnYnbWXof) | 4:47 | 2026-05-12 |  |
 | [Dandelion](https://open.spotify.com/track/789P2tLRCkrUC7GPDCw6Vd) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Dandelion](https://open.spotify.com/album/7CBdjCnHX5LP1KWv6yJzDj) | 3:57 | 2025-07-22 | 2025-10-15 |
 | [DangeR](https://open.spotify.com/track/0YtacP8pG7EZ7XbDyGoFEU) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [DangeR](https://open.spotify.com/album/3PyafZtw3SGrKChcY9jh54) | 3:27 | 2023-06-29 | 2023-07-05 |
 | [Dark Will Fall \(feat\. Jacob Lusk\)](https://open.spotify.com/track/5SFNrWCxLi1NPjE4zjhNiU) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [Dark Will Fall \(from "LAZARUS" Soundtrack\) \(feat\. Jacob Lusk\)](https://open.spotify.com/album/5V7vnxgEDNt2i8odquLCAZ) | 2:16 | 2025-03-27 | 2025-06-29 |
@@ -865,6 +866,7 @@
 | [NAME \(TV Size ver.\)](https://open.spotify.com/track/3va1rkFz1ARYv4TffRBDfo) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [NAME "TV Size ver."](https://open.spotify.com/album/3q9yB2HwObUmITSbTmdMV6) | 1:29 | 2023-07-11 | 2023-08-02 |
 | [NAME\(TV Size ver.\)](https://open.spotify.com/track/0cBvsNgb7JqPpxRrBCcM8m) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [TVアニメ『好きな子がめがねを忘れた』オープニング主題歌「NAME\(TV Size ver.\)」](https://open.spotify.com/album/6iOoHdDciwgHuPUcopPrJe) | 1:29 | 2023-07-11 | 2023-07-13 |
 | [NANI?](https://open.spotify.com/track/1y33kshjDNRnUoIKM7Cd8R) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [NANI?](https://open.spotify.com/album/4WC3me8swIsMvAXBhXiROD) | 2:17 | 2024-08-13 | 2024-10-02 |
+| [Naninimonarenai](https://open.spotify.com/track/5u58ofe0q8BSyr1hVyk62X) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Naninimonarenai](https://open.spotify.com/album/58tW1zUGWh7JBkmJcxwKIB) | 2:57 | 2026-05-12 |  |
 | [NANIWAROTONNENN](https://open.spotify.com/track/0oFeqtKx3jf2Xq2RJEcR8L) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [NANIWAROTONNENN](https://open.spotify.com/album/0MdHehfKem66oyTfkrVv0o) | 3:07 | 2024-10-08 | 2025-01-10 |
 | [Nascent Sacrifice](https://open.spotify.com/track/1QzvSEACKXiCPweJe8OLmm) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Nascent Sacrifice](https://open.spotify.com/album/6TBYIFQR3zIQmqkAEqUmv6) | 3:12 | 2023-04-20 | 2023-07-12 |
 | [Natsu no Sumika](https://open.spotify.com/track/5DTIrXVQ5ajrtBenKe11wT) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Natsu no Sumika](https://open.spotify.com/album/6h6Qqux2HIPrgkPHYCHjqX) | 4:27 | 2025-09-02 | 2025-10-01 |
@@ -1416,7 +1418,7 @@
 | [What if](https://open.spotify.com/track/06DiWtZyEmlSBPe1U5OPQw) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [What if](https://open.spotify.com/album/1JSs7r2tllydj8LfzdGhWD) | 2:39 | 2025-10-03 | 2025-10-10 |
 | [What is justice?](https://open.spotify.com/track/4vAggQmX4qEfH61xaS8d3u) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [What is justice?](https://open.spotify.com/album/59OiELsvwPvlLpay3seSNP) | 3:22 | 2025-07-17 | 2025-10-03 |
 | [What is my LIFE?](https://open.spotify.com/track/4uWUgAX6o7ssWVyiGmp4Ij) | [いきづらい部！](https://open.spotify.com/artist/1zJfgB2BeMgTB3pXkgrg3P) | [What is my LIFE?](https://open.spotify.com/album/7eYqQFLfUorvGCEPrCxwXl) | 4:56 | 2025-05-21 | 2025-07-05 |
-| [What's "KAZOKU"?](https://open.spotify.com/track/7kkFDpSRlBtlxBF2vbChHU) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [What's "KAZOKU"?](https://open.spotify.com/album/3KSCq5VOfyMCpq2XVHjhyu) | 3:35 | 2026-04-18 |  |
+| [What's "KAZOKU"?](https://open.spotify.com/track/7kkFDpSRlBtlxBF2vbChHU) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [What's "KAZOKU"?](https://open.spotify.com/album/3KSCq5VOfyMCpq2XVHjhyu) | 3:35 | 2026-04-18 | 2026-05-13 |
 | [What's for dinner today?](https://open.spotify.com/track/4NKJxYKXxlAhJqQRNdl43e) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [What's for dinner today?](https://open.spotify.com/album/7gfEUykZUfEDznPHXr3gxF) | 3:29 | 2025-10-02 | 2025-11-05 |
 | [Whatever Comes](https://open.spotify.com/track/0fjDWBGZR65iXyvEnKVaOA) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [Whatever Comes](https://open.spotify.com/album/6n1hdXqcaQTJEVxwLxS0Gr) | 4:52 | 2023-08-22 | 2023-10-04 |
 | [Whatever Comes\(Opening Edit\)](https://open.spotify.com/track/68JznVdudTCLyC7sUf2XB2) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [Whatever Comes\(Opening Edit\)](https://open.spotify.com/album/164t7qgPOhrJ31rR6p3x6O) | 1:35 | 2023-06-13 | 2023-07-19 |
@@ -1597,7 +1599,7 @@
 | [ちいさな蕾](https://open.spotify.com/track/0Smvig0u9w4eh9XQas3TKf) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [ちいさな蕾](https://open.spotify.com/album/4cpyjFrwBAWq2koEiTqIPD) | 3:38 | 2024-07-09 | 2024-10-04 |
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2022-11-22 | 2023-01-11 |
 | [ちゅ、多様性。 \- from CrosSing](https://open.spotify.com/track/08Fm1W9xau49K2xotaMYsx) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [ちゅ、多様性。 \- from CrosSing](https://open.spotify.com/album/2NTGjyahX231PdHbLRBSMG) | 3:07 | 2024-06-12 | 2024-07-03 |
-| [ちゅーんあっぷ☆](https://open.spotify.com/track/2YaBsZP9zTga0Tzx7ESDmj) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [ちゅーんあっぷ☆](https://open.spotify.com/album/3kTheH72sTAWiEPKgYFAjd) | 2:48 | 2026-04-16 |  |
+| [ちゅーんあっぷ☆](https://open.spotify.com/track/2YaBsZP9zTga0Tzx7ESDmj) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [ちゅーんあっぷ☆](https://open.spotify.com/album/3kTheH72sTAWiEPKgYFAjd) | 2:48 | 2026-04-16 | 2026-05-13 |
 | [つよがるガール](https://open.spotify.com/track/3GxZpsOr0vFZfU30PYULgU) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo), [もっさ](https://open.spotify.com/artist/7a7uhcdZvYg4IGcD9tUB3g) | [つよがるガール](https://open.spotify.com/album/2udxqBTrnKaqPzRLzC5w9K) | 3:09 | 2024-07-23 | 2024-10-12 |
 | [ときはなて！](https://open.spotify.com/track/21Wgqu00gOXzmnycUnF1Ny) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [ときはなて！](https://open.spotify.com/album/5VUOIuIKEMn26nUczsVSB9) | 3:45 | 2025-06-28 | 2025-10-12 |
 | [となりあわせ](https://open.spotify.com/track/4fvSpQzTsHOMevyvppbfut) | [松本千夏](https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS) | [となりあわせ](https://open.spotify.com/album/47JPJhvwaFQWFluvjKX9EX) | 3:05 | 2023-04-11 | 2023-06-21 |

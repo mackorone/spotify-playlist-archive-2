@@ -2925,6 +2925,28 @@
     },
     {
       "album": {
+        "name": "Me Gustas Tu",
+        "url": "https://open.spotify.com/album/3xCvaL302GI5AfR3xN3G6Y"
+      },
+      "artists": [
+        {
+          "name": "Los Flamingo",
+          "url": "https://open.spotify.com/artist/2JlMuemTsSuUKSZqghyTm0"
+        },
+        {
+          "name": "Capit\u00e1n El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/5a4CjfqcIDFQFUxaQqg2Ka"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162551,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/235Y5A55l0S5VuHAArd8e8"
+    },
+    {
+      "album": {
         "name": "Me Meti En Su Juego",
         "url": "https://open.spotify.com/album/26nRdW54KVKEX8xhrzbXKs"
       },

@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544561,
+  "num_followers": 544553,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Worries",
+        "url": "https://open.spotify.com/album/0lR5SeL2xHTOEHh7a4aDoI"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 143808,
+      "name": "Worries",
+      "url": "https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Swig",
         "url": "https://open.spotify.com/album/44rTjYzn34A7DC3aXahGM9"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 200660,
       "name": "Bored of Being Sad",
       "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Worries",
-        "url": "https://open.spotify.com/album/0lR5SeL2xHTOEHh7a4aDoI"
-      },
-      "artists": [
-        {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
-        }
-      ],
-      "duration_ms": 143808,
-      "name": "Worries",
-      "url": "https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "No Strange Cats",
-        "url": "https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp"
-      },
-      "artists": [
-        {
-          "name": "Radkey",
-          "url": "https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C"
-        }
-      ],
-      "duration_ms": 160677,
-      "name": "P.A.W",
-      "url": "https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 190000,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/7zziAaDRIHcKWSBC4DTAZZ"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "No Strange Cats",
+        "url": "https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp"
+      },
+      "artists": [
+        {
+          "name": "Radkey",
+          "url": "https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C"
+        }
+      ],
+      "duration_ms": 160677,
+      "name": "P.A.W",
+      "url": "https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL"
     },
     {
       "added_at": "2024-07-19 11:53:42",

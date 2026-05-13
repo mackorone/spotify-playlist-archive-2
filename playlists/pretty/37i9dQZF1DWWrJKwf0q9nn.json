@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update! Cover: Andromedik, Arcando & Raphaella",
-  "num_followers": 156229,
+  "num_followers": 156222,
   "original_name": "New Dance 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGJbtB7sfxCnXyWTQQwv9CTOfPtU",
+  "snapshot_id": "AAAAAME6DHyWrTf8lkidHN1jEJ0ouJJp",
   "tracks": [
     {
       "added_at": "2026-05-07 22:03:13",
@@ -79,6 +79,42 @@
     {
       "added_at": "2026-05-07 22:03:13",
       "album": {
+        "name": "I look sh!t (and i\u2018m fine with it)",
+        "url": "https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 143478,
+      "name": "I look sh!t (and i\u2018m fine with it)",
+      "url": "https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb"
+    },
+    {
+      "added_at": "2026-05-07 22:03:13",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/3iAFLFUboFcXZ1KuYHSu9f"
+      },
+      "artists": [
+        {
+          "name": "Team Rush Hour",
+          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
+        }
+      ],
+      "duration_ms": 145135,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/7gsjhI836IA7bHKUs5rPlE"
+    },
+    {
+      "added_at": "2026-05-07 22:03:13",
+      "album": {
         "name": "Yogen",
         "url": "https://open.spotify.com/album/6lV6E5nP31wVp6lIO2qiqu"
       },
@@ -127,22 +163,6 @@
       "duration_ms": 156190,
       "name": "I Love Life (feat. RANI)",
       "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
-    },
-    {
-      "added_at": "2026-05-07 22:03:13",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/3iAFLFUboFcXZ1KuYHSu9f"
-      },
-      "artists": [
-        {
-          "name": "Team Rush Hour",
-          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
-        }
-      ],
-      "duration_ms": 145135,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/7gsjhI836IA7bHKUs5rPlE"
     },
     {
       "added_at": "2026-05-07 22:03:13",
@@ -643,26 +663,6 @@
       "duration_ms": 179999,
       "name": "Panther",
       "url": "https://open.spotify.com/track/1lFZKuVgfNpSdIdemq0utb"
-    },
-    {
-      "added_at": "2026-05-07 22:03:13",
-      "album": {
-        "name": "I look sh!t (and i\u2018m fine with it)",
-        "url": "https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg"
-      },
-      "artists": [
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 143478,
-      "name": "I look sh!t (and i\u2018m fine with it)",
-      "url": "https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb"
     },
     {
       "added_at": "2026-05-07 22:03:13",

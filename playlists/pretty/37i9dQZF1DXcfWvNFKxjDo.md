@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: LAVINIA x Ely Oaks
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,399 likes - 78 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,397 likes - 78 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 69 | [Ego](https://open.spotify.com/track/7Fjvha7feMbL51h0lnEUSl) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9), [GEPPS](https://open.spotify.com/artist/73L4PEW4FAJ7bsHZHqq4hP) | [Ego](https://open.spotify.com/album/0L4mRDzXu4NXWl62DRBURy) | 2:25 |
 | 70 | [Keine Lösung](https://open.spotify.com/track/6advgzb0ZBpVOQwZAo7EQj) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [LEZA](https://open.spotify.com/artist/63kYBRsSCUPGp8eB1zK9e3) | [Keine Lösung](https://open.spotify.com/album/4soi3nHF2HGf7mzFd2toEl) | 2:14 |
 | 71 | [This Moment](https://open.spotify.com/track/3400n3bR2xZ4fKlhcJf4Fl) | [Dino Mileta](https://open.spotify.com/artist/2wxCWN0Nc1mCCC9PoKYAvB) | [This Moment](https://open.spotify.com/album/1NtHHDW45f096e99ujkEJZ) | 3:05 |
-| 72 | [BASS BASS BASS](https://open.spotify.com/track/5dKJ2swiIHwBDfXz0dcLto) | [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [BASS BASS BASS](https://open.spotify.com/album/5JZR5lBLCCIumFT0pEk3qr) | 2:01 |
+| 72 | [BASS BASS BASS](https://open.spotify.com/track/5dKJ2swiIHwBDfXz0dcLto) | [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [BASS BASS BASS](https://open.spotify.com/album/5JZR5lBLCCIumFT0pEk3qr) | 2:01 |
 | 73 | [Close To You](https://open.spotify.com/track/0ccXAWAhbQYJlY3dvdS6t8) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Maurice](https://open.spotify.com/artist/71ISd9r7s72oVofsujmIiu) | [Close To You](https://open.spotify.com/album/2KYJsJn0YaHNdiUQAxwM6M) | 2:09 |
 | 74 | [I Need U \(feat\. Ellie Maxwell\)](https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Ellie Maxwell](https://open.spotify.com/artist/7FBLZFylhcXi86QYEEXVv4) | [I Need U \(feat\. Ellie Maxwell\)](https://open.spotify.com/album/6UClC9nN6aQddmQ3dRKyPS) | 2:56 |
 | 75 | [No Limit](https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [FLKN](https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww) | [No Limit](https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz) | 3:39 |

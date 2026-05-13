@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,421 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,421 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 33 | [Bien Pilas \- En Vivo](https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Bien Pilas \(En Vivo\)](https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg) | 1:58 |
 | 34 | [Lujos Y Damitas](https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jr Heguertty](https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU) | [Lujos Y Damitas](https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU) | 2:34 |
 | 35 | [KIWI](https://open.spotify.com/track/5DrnnArGDULw7cL2UGYS0a) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:27 |
-| 36 | [DESDE MIS OJOS](https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [DESDE MIS OJOS](https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4) | 2:07 |
-| 37 | [Será](https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Doña Soledad](https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W) | 2:43 |
+| 36 | [Será](https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Doña Soledad](https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W) | 2:43 |
+| 37 | [DESDE MIS OJOS](https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [DESDE MIS OJOS](https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4) | 2:07 |
 | 38 | [Zendaya](https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Fama De Ingrata](https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ) | 3:08 |
 | 39 | [BRONCEADITA](https://open.spotify.com/track/5civOQC2cKVvOnhRg7zNUj) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:48 |
 | 40 | [El Uno Al 7 \- En Vivo](https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Uno Al 7 \(En Vivo\)](https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs) | 3:24 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 47 | [MAZA](https://open.spotify.com/track/0CpbXYbLQk4ALP7geleeSs) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:52 |
 | 48 | [El Lic \- En Vivo](https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:04 |
 | 49 | [Sin Faramaya](https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7) | [Ely Rosario](https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Sin Faramaya](https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY) | 2:24 |
-| 50 | [El Marin](https://open.spotify.com/track/5anAtF4GsmsWMeZ1z4HVkg) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Marin](https://open.spotify.com/album/4eASAZRdq38xNSpvPnJULX) | 2:13 |
+| 50 | [Nos Gusto El Estilo](https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Perfil SS](https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc) | [Nos Gusto El Estilo](https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI) | 2:59 |
 
-Snapshot ID: `af/KgAAAAACugRtAQlxZ3GZUt/LSzIP/`
+Snapshot ID: `agEcAAAAAABNsxIkQOVj1B3SawfCKDRv`

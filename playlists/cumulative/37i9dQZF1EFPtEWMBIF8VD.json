@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Babies Go Teddy Swims",
+        "url": "https://open.spotify.com/album/192QslwmJb0HL7Pr1Cztsp"
+      },
+      "artists": [
+        {
+          "name": "Sweet Little Band",
+          "url": "https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146600,
+      "name": "Are you even real",
+      "url": "https://open.spotify.com/track/4VpHBRvZAbqTLNcQDN8yyD"
+    },
+    {
+      "album": {
         "name": "Hottest Hits 2025, Vol. 4 (vocal)",
         "url": "https://open.spotify.com/album/0zJmBl86i6fGPo0zZtgubd"
       },
@@ -172,7 +190,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 148200,
       "name": "Are You Even Real (vocal)",
       "url": "https://open.spotify.com/track/609aY2KT1JaZFt8t3GJY3F"

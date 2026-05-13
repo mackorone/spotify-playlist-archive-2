@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 51642,
+  "num_followers": 51650,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACJt7H1LY00v5dI1BJjW3e5",
+  "snapshot_id": "agEcAAAAAADc1zZpSb6I1Ac9DyzZn1LO",
   "tracks": [
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 129029,
-      "name": "Seesaw",
-      "url": "https://open.spotify.com/track/4PqKOgIkMnvAJmlGZJWwdB"
+      "duration_ms": 105820,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/1jj6Je2MpB2vZ6cfoK4nMl"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 105820,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/1jj6Je2MpB2vZ6cfoK4nMl"
+      "duration_ms": 129029,
+      "name": "Seesaw",
+      "url": "https://open.spotify.com/track/4PqKOgIkMnvAJmlGZJWwdB"
     },
     {
       "added_at": null,

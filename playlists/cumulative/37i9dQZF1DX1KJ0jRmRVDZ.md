@@ -2,9 +2,9 @@
 
 ### [Cloud Archive｜インターネットミュージック](https://open.spotify.com/playlist/37i9dQZF1DX1KJ0jRmRVDZ)
 
-> インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: 菅原圭
+> インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: syudou
 
-1,702 songs - 4 day 0 hr 26 min
+1,704 songs - 4 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Hanamushiro](https://open.spotify.com/track/2MBkWeapnzFZst4fxaaC8m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [C.U.T](https://open.spotify.com/album/29dHJXu3uX5FQKtQpgim4t) | 5:00 | 2026-03-17 | 2026-03-25 |
 | [Hand Sign](https://open.spotify.com/track/2MFBMGjgPLDEw3P4O3TZz9) | [KizunaAI](https://open.spotify.com/artist/0PBygVazIp5XN6sBMSa14Y) | [Hand Sign](https://open.spotify.com/album/4zyX7UkA5jaid83eqGSeeS) | 3:58 | 2025-08-19 | 2025-09-18 |
 | [Happiness](https://open.spotify.com/track/1eoLE3pztHTV9UL5muESxw) | [Nano](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Happiness](https://open.spotify.com/album/3JMDEQxkO3m9utSvlcn8hl) | 3:47 | 2022-06-09 | 2022-06-13 |
+| [Haru Ni Mau](https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Haru Ni Mau](https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn) | 3:58 | 2026-05-12 |  |
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2022-07-28 | 2024-04-17 |
 | [hazama \- 新東京 Rearrange](https://open.spotify.com/track/4m4SjSDEpv7CcUvnpsjtLo) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [hazama \(新東京 Rearrange\)](https://open.spotify.com/album/4VfhXfCeToVA9gio1L4oCh) | 3:07 | 2022-08-16 | 2022-08-26 |
 | [Hazard Symbol](https://open.spotify.com/track/6os11uQ1ycan0RdUtfvnA9) | [Yuyu](https://open.spotify.com/artist/4OTSiRMbLZrza8dQsoTUBy) | [Hazard Symbol](https://open.spotify.com/album/5ZOD8tOIUtizQrVNzZro5h) | 3:57 | 2024-04-16 | 2024-04-19 |
@@ -649,6 +650,7 @@
 | [ある呪文](https://open.spotify.com/track/2V7O1PRmvosh5diyVXeYBY) | [織重 夕](https://open.spotify.com/artist/0KvyTAf3LiFMWOxA4FctDD), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ある呪文](https://open.spotify.com/album/4r9Z5Eo8bSezHxSDFzfJhJ) | 3:09 | 2024-04-30 | 2024-06-01 |
 | [あわ](https://open.spotify.com/track/6O0LyEm9dwtPlG3KsNu6Ao) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [あわ](https://open.spotify.com/album/4dLGMFAdTKZTmdjhzViSLC) | 3:17 | 2026-04-07 |  |
 | [あわひ](https://open.spotify.com/track/2abDXgPKaf45yypH4ifUdr) | [KEN KAMIKITA](https://open.spotify.com/artist/0Ln6sTdmb1WboqQweUDexs) | [あわひ](https://open.spotify.com/album/0GMYvYMvBdsMsPc9JH5quz) | 4:33 | 2022-06-14 | 2022-07-14 |
+| [あーあ](https://open.spotify.com/track/6m1Tv7NjB7Y2Ru1OZSMkXm) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [あーあ](https://open.spotify.com/album/5IIzw1RVdvPpBPoyFs8ruE) | 3:51 | 2026-05-12 |  |
 | [いざなゐ](https://open.spotify.com/track/54TLof65DKpxRCogf7zxqz) | [ロス](https://open.spotify.com/artist/1ZJ9RKrUKQB5wEl5Liv4kL) | [いざなゐ](https://open.spotify.com/album/335Ri8hKG2w3fiIrjS0yRH) | 2:58 | 2023-08-08 | 2023-08-16 |
 | [いたいの、いたいの、とんでいけ \(feat\. 『ユイカ』, KAFUNÉ\)](https://open.spotify.com/track/5Pzq29ytGEbvz9kH2p03RA) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj), [KAFUNÉ](https://open.spotify.com/artist/7bNRhxhTWymWZpS31aE9qG) | [いたいの、いたいの、とんでいけ \(feat\. 『ユイカ』, KAFUNÉ\)](https://open.spotify.com/album/0GyY5gSLnVP4pACU9d07IB) | 2:34 | 2024-05-30 | 2024-07-10 |
 | [いつかオトナになれるといいね。](https://open.spotify.com/track/5kCSZ1QK0Ac5C5sSg1Eg7B) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [いつかオトナになれるといいね。](https://open.spotify.com/album/0yQLpQhIhOTVFya8OXrHgp) | 2:55 | 2022-06-13 | 2022-07-16 |
@@ -1423,7 +1425,7 @@
 | [春泥棒](https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春泥棒](https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz) | 4:50 | 2022-07-28 | 2022-12-14 |
 | [春陽](https://open.spotify.com/track/5NC3yAtCGSRx9patPXTAy9) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [春陽](https://open.spotify.com/album/386OwivZPAdAi3BHAj4Q50) | 3:13 | 2022-06-30 | 2022-07-26 |
 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 | 2024-01-04 | 2026-03-25 |
-| [暴露](https://open.spotify.com/track/7ENV1wpuCIlCx2AjlSE2PA) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [暴露](https://open.spotify.com/album/7GUWygF7EHYfrOvxOe7xE5) | 3:04 | 2026-01-20 |  |
+| [暴露](https://open.spotify.com/track/7ENV1wpuCIlCx2AjlSE2PA) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [暴露](https://open.spotify.com/album/7GUWygF7EHYfrOvxOe7xE5) | 3:04 | 2026-01-20 | 2026-05-13 |
 | [最低](https://open.spotify.com/track/2atYk1G7HEY4QPPwXTO9Ui) | [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0) | [STRANGE POP](https://open.spotify.com/album/4jIMuO9hU908AP5T0IPxNm) | 3:52 | 2025-04-15 | 2025-04-23 |
 | [最後の心臓 \- \[Vocal : suis \(ヨルシカ\)\]](https://open.spotify.com/track/1aHax3Co1P6YV9uaFXduBI) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [suis](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [BIG WORLD](https://open.spotify.com/album/1n0hYqLgR7wHK8AKi3SaCx) | 2:50 | 2022-07-14 | 2022-07-16 |
 | [最新話](https://open.spotify.com/track/7lMorFlsjBf5acSIdPcVpK) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [最新話](https://open.spotify.com/album/0Qm12bqTojAUEYvd8lpDR6) | 3:14 | 2026-03-24 | 2026-04-24 |
@@ -1574,7 +1576,7 @@
 | [絶対零度](https://open.spotify.com/track/5XE2D9myVJ7wXxmV7MjvdN) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [絶対零度](https://open.spotify.com/album/200PU49rVMaMwvHU9EmOnF) | 3:41 | 2022-06-09 | 2022-07-15 |
 | [絶望さん](https://open.spotify.com/track/4o8zpN0NMmoCQTooeuhTDk) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [絶望さん](https://open.spotify.com/album/4vZbdNZ8dldEn3HmgRXPei) | 2:51 | 2022-06-28 | 2022-07-08 |
 | [絶頂讃歌](https://open.spotify.com/track/4cwO2KkiUe6iTfebjmSx6y) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [絶頂讃歌](https://open.spotify.com/album/5d0BouPAuu6SLpxljAxeCE) | 3:03 | 2022-09-06 | 2022-10-05 |
-| [綺羅](https://open.spotify.com/track/4dSWGjuW29GHffKWwx0bGw) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [綺羅](https://open.spotify.com/album/2ylq1to8eVacAzHi4gpC3J) | 3:08 | 2026-04-23 |  |
+| [綺羅](https://open.spotify.com/track/4dSWGjuW29GHffKWwx0bGw) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [綺羅](https://open.spotify.com/album/2ylq1to8eVacAzHi4gpC3J) | 3:08 | 2026-04-23 | 2026-05-13 |
 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 | 2022-12-15 | 2023-08-09 |
 | [綺麗で痛い \- From ヨムオト](https://open.spotify.com/track/6NSbPZjRYr51hyatWaqpFa) | [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE), [邑玲](https://open.spotify.com/artist/7LvQSt9f6WeBGcm8EFkfHy) | [綺麗で痛い \- From ヨムオト](https://open.spotify.com/album/4HL80kWdxvV6xvgdcZxYuX) | 3:05 | 2022-06-09 | 2022-06-13 |
 | [羊は眠らない](https://open.spotify.com/track/30y5fJvrOHq5DSvfaXZSgI) | [susumu.](https://open.spotify.com/artist/1MNhL3vOZZu1179Z031OF5) | [羊は眠らない](https://open.spotify.com/album/3NH73cCRrJiYHhjgK3de2S) | 3:37 | 2026-01-27 | 2026-02-04 |

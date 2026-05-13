@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33913,
+  "num_followers": 33916,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
-      },
-      "artists": [
-        {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
-        }
-      ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 140213,
       "name": "I'm Beginning to See the Light",
       "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+      },
+      "artists": [
+        {
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+        }
+      ],
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -619,22 +619,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "El Reino del Rev\u00e9s",
-        "url": "https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx"
+        "name": "Milonga Del Fin Del Mundo",
+        "url": "https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw"
       },
       "artists": [
-        {
-          "name": "Elena Roger",
-          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
-        },
         {
           "name": "Escalandrum",
           "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
         }
       ],
-      "duration_ms": 216099,
-      "name": "El Reino del Rev\u00e9s",
-      "url": "https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD"
+      "duration_ms": 324720,
+      "name": "Milonga Del Fin Del Mundo",
+      "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -655,18 +651,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Milonga Del Fin Del Mundo",
-        "url": "https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw"
+        "name": "El Reino del Rev\u00e9s",
+        "url": "https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx"
       },
       "artists": [
+        {
+          "name": "Elena Roger",
+          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+        },
         {
           "name": "Escalandrum",
           "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
         }
       ],
-      "duration_ms": 324720,
-      "name": "Milonga Del Fin Del Mundo",
-      "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
+      "duration_ms": 216099,
+      "name": "El Reino del Rev\u00e9s",
+      "url": "https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
+      },
+      "artists": [
+        {
+          "name": "Commodore",
+          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
+        }
+      ],
+      "duration_ms": 412693,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Querido Bill : Tributo a Bill Evans",
         "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
       },
@@ -839,38 +855,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Enero",
-        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
-      },
-      "artists": [
-        {
-          "name": "Commodore",
-          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
-        }
-      ],
-      "duration_ms": 412693,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 405604,
-      "name": "La Novena",
-      "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "All the Things You Are",
         "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 408293,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 405604,
+      "name": "La Novena",
+      "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+        }
+      ],
+      "duration_ms": 272036,
+      "name": "Cristal",
+      "url": "https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Sexto VI",
         "url": "https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 193711,
       "name": "Dos Verdades en Una Botella",
       "url": "https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Danza",
-        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
-        }
-      ],
-      "duration_ms": 272036,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3"
     },
     {
       "added_at": "2025-04-14 14:58:34",

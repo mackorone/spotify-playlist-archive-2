@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,656 songs - 5 day 19 hr 33 min
+2,657 songs - 5 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 | 2023-09-09 | 2023-09-17 |
 | [Alle Digger Treddis](https://open.spotify.com/track/2rBIVOZA4G99ubyt2DWxRR) | [3D](https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU), [Generalen](https://open.spotify.com/artist/5oud9gmLpNuZfvGs74Dy5n) | [Alle Digger Treddis](https://open.spotify.com/album/4FKppSUlhwb9XPAwZ86Ikl) | 2:54 | 2025-02-20 | 2025-03-23 |
 | [Alle roser \(feat\. Olivia Lobato\)](https://open.spotify.com/track/6gVks60nYcLUwHt4cXwPQU) | [Sebastian Zalo](https://open.spotify.com/artist/5CGn9wJhdFhjB3DoU7LHX0), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Alle roser \(feat\. Olivia Lobato\)](https://open.spotify.com/album/5SqIqOm6q4twx138RP5lKk) | 3:12 | 2022-09-17 | 2022-09-19 |
-| [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 | 2025-05-31 |  |
+| [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 | 2025-05-31 | 2026-05-13 |
 | [Alle Vil Være Med \(Piruss\)](https://open.spotify.com/track/28ZIMgajc3paWJYhWOViZn) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Alle Vil Være Med \(Piruss\)](https://open.spotify.com/album/3Sg8exAlKERUaDzT6QWBb2) | 3:06 | 2023-06-24 | 2023-09-05 |
 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2025-10-25 | 2025-10-27 |
 | [Alone In The Night](https://open.spotify.com/track/6JlOnI9nWyluM2IArokGOV) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Avatars Of Love](https://open.spotify.com/album/2gt23H4dhmiJ41rAvLG8Id) | 6:25 | 2022-04-02 | 2022-04-06 |
@@ -1067,6 +1067,7 @@
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-03 | 2022-11-06 |
 | [How I'm Feeling Now](https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [How I'm Feeling Now](https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj) | 3:46 | 2023-03-18 | 2023-03-26 |
 | [How It’s Done](https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:56 | 2025-07-15 | 2025-11-05 |
+| [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:05 | 2026-05-12 |  |
 | [Hummer & Calamari](https://open.spotify.com/track/4fB2ieWdLnE9TLjhSfiJ2f) | [Henrik von Grogg](https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx), [Henning](https://open.spotify.com/artist/5W4Q4ACzjvwnFX81oFeMnL) | [Hummer & Calamari](https://open.spotify.com/album/7x0T438xAbCUQZlxXIKrXK) | 2:14 | 2023-04-22 | 2023-04-28 |
 | [Hundre problemer \(Si No Estás\)](https://open.spotify.com/track/4fWaQxKUOW3bYJ2R1qDRzR) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU) | [Hundre problemer \(Si No Estás\)](https://open.spotify.com/album/7IPddaKV4ycsvaExuG0JVd) | 2:18 | 2023-10-28 | 2023-11-05 |
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-05-13 | 2024-05-16 |

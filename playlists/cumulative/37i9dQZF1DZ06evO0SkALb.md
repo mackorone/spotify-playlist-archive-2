@@ -4,7 +4,7 @@
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-120 songs - 7 hr 33 min
+121 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [She's No Lady](https://open.spotify.com/track/5wtHVeMwtU2CoTwzeCnn4T) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 3:00 | 2023-04-24 | 2026-01-28 |
 | [Sit Down and Talk to Me](https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:53 | 2022-05-25 |  |
 | [Something](https://open.spotify.com/track/27rCHNKY2BChr1lW2uif7r) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Lou Rawls Live At The Century Plaza](https://open.spotify.com/album/1nhMHLvUIts0CgAM2pcfl7) | 2:48 | 2024-06-26 | 2024-07-01 |
+| [Soul Serenade \- Digitally Remastered 00](https://open.spotify.com/track/47jH75M7iaxFhSThMGLE4N) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:27 | 2026-05-13 |  |
 | [Southside Blues/Tobacco Road \- Live/Medley](https://open.spotify.com/track/7E7IVQTT08vYalrSXXQajt) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 7:56 | 2022-05-25 | 2022-10-15 |
 | [Spring Again](https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Unmistakably Lou](https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r) | 4:26 | 2022-05-25 |  |
 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 | 2022-05-25 |  |
@@ -127,6 +128,6 @@
 | [You're the One](https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 5:18 | 2022-05-25 | 2024-01-29 |
 | [You've Made Me So Very Happy](https://open.spotify.com/track/4KClNuFZIA0Tqjk3eTnEUt) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 4:27 | 2022-05-25 |  |
 | [You've Made Me So Very Happy \- 2000 Digital Remaster](https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 4:27 | 2023-07-12 | 2026-02-02 |
-| [Your Good Thing \(Is About To End\)](https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:53 | 2022-05-25 |  |
+| [Your Good Thing \(Is About To End\)](https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:53 | 2022-05-25 | 2026-05-13 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

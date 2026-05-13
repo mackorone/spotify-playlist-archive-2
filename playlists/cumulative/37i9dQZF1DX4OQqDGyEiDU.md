@@ -2,9 +2,9 @@
 
 ### [VOCALOID now](https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU)
 
-> Explore the current wave of VOCALOID culture\. Cover: Kikuo
+> Explore the current wave of VOCALOID culture\. Cover: DECO\*27
 
-713 songs - 1 day 15 hr 52 min
+716 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,13 +83,14 @@
 | [God sees all](https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6) | [Ethyria](https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy) | [God sees all](https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU) | 3:16 | 2022-06-09 | 2023-01-13 |
 | [God\-ish](https://open.spotify.com/track/206UWNKXURTnN4zf9vmXUV) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [God\-ish](https://open.spotify.com/album/5MEXGTej0dxa5MbXZCJJyk) | 3:23 | 2022-07-26 | 2023-05-20 |
 | [God\-ish](https://open.spotify.com/track/08Th6KDn0ESaxZis89HxRo) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:25 | 2023-05-18 | 2024-04-19 |
-| [gONE](https://open.spotify.com/track/6J7TyJPpibB6wQeGNVzFlZ) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX) | [gONE](https://open.spotify.com/album/52ROe33baeAGdxT202IyqX) | 3:47 | 2026-04-28 |  |
+| [gONE](https://open.spotify.com/track/6J7TyJPpibB6wQeGNVzFlZ) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX) | [gONE](https://open.spotify.com/album/52ROe33baeAGdxT202IyqX) | 3:47 | 2026-04-28 | 2026-05-13 |
 | [Good\-bye Declaration](https://open.spotify.com/track/6TJnkjQL9Ar8JQVrGiBhVf) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [Good\-bye Declaration](https://open.spotify.com/album/0HdeiaHzPCeF543SeBwL7q) | 2:52 | 2022-11-08 | 2022-11-13 |
 | [good\-bye declaration](https://open.spotify.com/track/6SYj9vjjVTwKn08iKZR11m) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [The Deluge](https://open.spotify.com/album/0XVzhmnx7nQ1TYxUGKBmXx) | 2:52 | 2023-01-12 | 2024-04-19 |
 | [GURU](https://open.spotify.com/track/44bhs2HUL9FLVB3hdYCF2x) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [GURU](https://open.spotify.com/album/7yd2EeJwKUL5mdU3B3DLVe) | 3:10 | 2022-08-16 | 2022-08-24 |
 | [Hanataba](https://open.spotify.com/track/6H42G7PmewVxTBQv7ruF3P) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Hanataba](https://open.spotify.com/album/4OW2aF9K7CREPKQscfW6m3) | 2:30 | 2023-05-18 | 2023-10-06 |
 | [Hand in Hand](https://open.spotify.com/track/7kgTu64wW8N6s4GTk0ksNO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Hand in Hand](https://open.spotify.com/album/6Cu3utCV4ysD3RjaeIWE6d) | 5:12 | 2022-07-19 | 2022-07-24 |
 | [HappyCoaster](https://open.spotify.com/track/5iyY8j4qo5k9Yjdj68YmmT) | [emon\(Tes.\)](https://open.spotify.com/artist/4gSRXG5tamMDAxsswktQKG) | [HappyCoaster](https://open.spotify.com/album/3KH8WAYRAyNd40Yiu8nRss) | 4:32 | 2022-07-05 | 2022-07-07 |
+| [Hate full Donuts \(feat\. KASANE TETO\)](https://open.spotify.com/track/0BEnyvCkVIJln2Y30mXA5C) | [暴飲暴食P](https://open.spotify.com/artist/5bT9WQ6QLrbabzdzvC63EN), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [Hate full Donuts \(feat\. KASANE TETO\)](https://open.spotify.com/album/3xTS3IQQxKPFHP0BO38mGH) | 2:43 | 2026-05-12 |  |
 | [Henceforth](https://open.spotify.com/track/0IrFbhdGbgz9NemUAzaNi1) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [And So Henceforth,](https://open.spotify.com/album/2vVnTKk2FkGP6oGiE8HpT7) | 3:54 | 2023-08-31 | 2023-09-08 |
 | [Henceforth](https://open.spotify.com/track/4gLC5fds3QR3w7f5TmuNjh) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Henceforth](https://open.spotify.com/album/1rlYATigfdlT3euu2Lgniz) | 3:55 | 2022-06-09 | 2022-07-29 |
 | [Henceforth](https://open.spotify.com/track/57ogQzcfCwQW1YoBdfz4Wa) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Henceforth](https://open.spotify.com/album/2RqPD5PUvE0buIQ74wpmFV) | 3:55 | 2022-07-26 | 2023-09-02 |
@@ -130,6 +131,7 @@
 | [MACHINEGUN POEM DOLL](https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MACHINEGUN POEM DOLL](https://open.spotify.com/album/5PH0dNztK2UMLj8lLwmLqH) | 2:20 | 2023-01-12 | 2023-08-16 |
 | [Magical Girl and Chocolate](https://open.spotify.com/track/12shJ1oIZnCG5ZZD8HjQVi) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Magical Girl and Chocolate](https://open.spotify.com/album/1zXLavJ8fGLSqPfCc8Z4yG) | 3:07 | 2022-07-26 | 2022-08-10 |
 | [magnet](https://open.spotify.com/track/0xqOk9g0UVJOWhlNc1nX1S) | [minato](https://open.spotify.com/artist/2GtIff7l3cKBRRRM0Dn4tF), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Luka Megurine](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [Download feat.初音ミク](https://open.spotify.com/album/3mXJ1X0bSZ8qF1pl6nQvdD) | 4:04 | 2022-06-23 | 2022-06-26 |
+| [magnet \- recall](https://open.spotify.com/track/5Nv7QGcv68ex12c6csMQz9) | [湊貴大\(流星P\)](https://open.spotify.com/artist/2IXgEsyVWo6yWxD0lKU0he) | [magnet \(recall\)](https://open.spotify.com/album/5WqwtZTh63W2n364wrnEAW) | 4:04 | 2026-05-12 |  |
 | [manimani](https://open.spotify.com/track/7ntAoXzFfyVDYarUnAzhdO) | [r\-906](https://open.spotify.com/artist/7os1UVlIK50EAaP990Z8aE) | [manimani](https://open.spotify.com/album/0qDVMwJMeXVbznKcBjzDiU) | 4:28 | 2023-10-17 | 2023-11-29 |
 | [Maos para cima! \~手を上げな\~ \(feat\. 初音ミク\)](https://open.spotify.com/track/24wK5OjDeJMvIigC3ULXfP) | [めろくる](https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Maos para cima! \~手を上げな\~](https://open.spotify.com/album/0LJ5foFNMYUOa6oCxkT8IO) | 2:45 | 2025-02-27 | 2025-05-17 |
 | [Marshmary](https://open.spotify.com/track/5dKykKE5h3zapzslkcGDBE) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [Marshmary](https://open.spotify.com/album/0D6NbvI5QAXu10qoQxcWRk) | 3:33 | 2022-06-23 | 2022-07-28 |
@@ -404,8 +406,8 @@
 | [デイバイデイズ](https://open.spotify.com/track/516VOCrYMVailWonQYvlXB) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [デイバイデイズ](https://open.spotify.com/album/6nhA9TfMKJdKAhg1upHyd1) | 2:09 | 2022-06-09 | 2022-07-29 |
 | [デウスエクスマキナ](https://open.spotify.com/track/6d0MEF5nYQ9x3On2Eib3LS) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | [白雨の下](https://open.spotify.com/album/6I1yhPOU0KTelD1s6MaV65) | 4:22 | 2023-12-19 | 2023-12-21 |
 | [デスぺレート](https://open.spotify.com/track/2HkSkpTUMolgOJldoaWFII) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [LOLUET](https://open.spotify.com/artist/5JoNnbXEGcykxL6fHRNola) | [デスぺレート](https://open.spotify.com/album/2wKuX8N0UVlwsBxFVPVIso) | 2:53 | 2022-10-13 | 2022-12-14 |
-| [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 | 2023-01-19 |  |
-| [デロスサントス](https://open.spotify.com/track/5W6i71A1a4cZL9bQ6CN4qv) | [山本](https://open.spotify.com/artist/00fzpOBrYFD3sfklXqTkBU) | [デロスサントス](https://open.spotify.com/album/7aQIYdwuQ2eVhqM19FO5X5) | 3:21 | 2026-04-09 |  |
+| [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 | 2023-01-19 | 2026-05-13 |
+| [デロスサントス](https://open.spotify.com/track/5W6i71A1a4cZL9bQ6CN4qv) | [山本](https://open.spotify.com/artist/00fzpOBrYFD3sfklXqTkBU) | [デロスサントス](https://open.spotify.com/album/7aQIYdwuQ2eVhqM19FO5X5) | 3:21 | 2026-04-09 | 2026-05-13 |
 | [デーモンロード](https://open.spotify.com/track/6ZZdq51TOnLbSAUDhTvVPB) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [デーモンロード](https://open.spotify.com/album/0bGiqwbKQFu9GQy6UL6cjK) | 2:38 | 2024-06-18 | 2024-12-27 |
 | [ドクター=ファンクビート](https://open.spotify.com/track/10aURDc5wCO14NOKOHeBC0) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv) | [カドワナルカ=シアノタイプ](https://open.spotify.com/album/2FGdJBAjE4hS41DUAiEWeL) | 3:30 | 2022-06-09 | 2022-07-04 |
 | [トキヲ・ファンカ](https://open.spotify.com/track/1zzdir27Qnk0hS0JMhChnt) | [takamatt](https://open.spotify.com/artist/2R42xVG4zUh3UdPegxw2dE) | [イーストエンド・パンデモニウム](https://open.spotify.com/album/7meiSQd7gVv7X2Qy8vUiwS) | 5:40 | 2022-06-14 | 2022-07-16 |
@@ -516,6 +518,7 @@
 | [ラッキー☆オーブ](https://open.spotify.com/track/6eHBG3FNB4jrX8Z7zkOYxJ) | [emon\(Tes.\)](https://open.spotify.com/artist/4gSRXG5tamMDAxsswktQKG) | [ラッキー☆オーブ](https://open.spotify.com/album/6ZQnbk8grheS4h9cyNmFMD) | 4:13 | 2022-06-14 | 2022-07-08 |
 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 | 2023-06-13 |  |
 | [ラブ&デストロイ](https://open.spotify.com/track/6P6sDGoWxtoaHajfoliJTw) | [MI8k](https://open.spotify.com/artist/4AzUadV5RIk4CrjWdxL4Uj), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [Cupid Power](https://open.spotify.com/album/2DBjbysv0IIu5xeCBUDbk4) | 3:29 | 2022-07-05 | 2022-07-11 |
+| [ラブパラ](https://open.spotify.com/track/0nOeQHoZI9S4BburaZYWlB) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラブパラ](https://open.spotify.com/album/5Dwd0E2Q3pXFrHJagd84Y6) | 2:59 | 2026-05-12 |  |
 | [ラヴィット](https://open.spotify.com/track/1ur49kBrFRricLdeZISDEu) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [ラヴィット](https://open.spotify.com/album/4ujuoY8dcaS3ZKHcGiiJA2) | 3:38 | 2022-06-09 | 2022-07-29 |
 | [リコレクションエンドロウル](https://open.spotify.com/track/4yidMiyJn77F7Gl62OoB9w) | [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [SAKKAC CRAFT](https://open.spotify.com/album/55Rv0QRBYFu3X1rlrxwExc) | 3:23 | 2022-06-09 | 2026-04-10 |
 | [リズム](https://open.spotify.com/track/40Eef1JCHRiD2tZF41UO3K) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [リズム](https://open.spotify.com/album/4yiqXnfWIbUUfVix9yqG8j) | 2:51 | 2022-07-14 | 2022-07-20 |

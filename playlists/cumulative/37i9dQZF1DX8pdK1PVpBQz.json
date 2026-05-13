@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Indigo King",
+  "description": "The best new music by independent artists and labels. Cover: Margo Mann",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -6330,6 +6330,24 @@
       "duration_ms": 182500,
       "name": "Bars from Unamii",
       "url": "https://open.spotify.com/track/31uHyMfrLRyhc4bdC4eyby"
+    },
+    {
+      "album": {
+        "name": "Bassendean Station",
+        "url": "https://open.spotify.com/album/30RQPWOZWQyXxujaJelsJf"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Keegan",
+          "url": "https://open.spotify.com/artist/7xXZ4wFtGtUBUWiOD0k4TI"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255210,
+      "name": "Bassendean Station",
+      "url": "https://open.spotify.com/track/1R1z6VV6NQf9xVHuOgRam7"
     },
     {
       "album": {
@@ -16045,6 +16063,24 @@
     },
     {
       "album": {
+        "name": "Everyone Is Kissing, Except Us",
+        "url": "https://open.spotify.com/album/2YQySkqwIXXOeUCJSEB6Fs"
+      },
+      "artists": [
+        {
+          "name": "MYMA",
+          "url": "https://open.spotify.com/artist/6rkLiFPjgyQ5VDm16CNCWX"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "cruel October",
+      "url": "https://open.spotify.com/track/15ukfWJtfxmjZvCsL4ATzo"
+    },
+    {
+      "album": {
         "name": "Cruise Control",
         "url": "https://open.spotify.com/album/6oLRKPf6GpVoJmIK3nLPl3"
       },
@@ -21742,7 +21778,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 167767,
       "name": "EH LE LE LE",
       "url": "https://open.spotify.com/track/3bnjO5EQ6vajksHb2VODbZ"
@@ -28714,7 +28750,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 187346,
       "name": "Girls Night",
       "url": "https://open.spotify.com/track/0qr0PdHKhYtePWIPUWE4nl"
@@ -35958,7 +35994,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 164296,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/4HOns4faEjBFkyJXEuhaiZ"
@@ -40958,6 +40994,24 @@
       "duration_ms": 212298,
       "name": "Lady Beetle",
       "url": "https://open.spotify.com/track/5qC7PMj4nHBNX7YxiArOGU"
+    },
+    {
+      "album": {
+        "name": "LALELEI",
+        "url": "https://open.spotify.com/album/24Uk9C01vpKONRC4nZWsl0"
+      },
+      "artists": [
+        {
+          "name": "LEAO",
+          "url": "https://open.spotify.com/artist/3k84hEUh6DPW0PStKI86lZ"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304248,
+      "name": "LALELEI",
+      "url": "https://open.spotify.com/track/0jXYE1zRcDLbrCOXWFgSA6"
     },
     {
       "album": {
@@ -63081,6 +63135,24 @@
     },
     {
       "album": {
+        "name": "Science Fiction",
+        "url": "https://open.spotify.com/album/5BLVawtW1WuYtuBRjIyGiF"
+      },
+      "artists": [
+        {
+          "name": "Chattysworld",
+          "url": "https://open.spotify.com/artist/33tWuPprHZxJjM4HQUTAfa"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "Science Fiction",
+      "url": "https://open.spotify.com/track/5M0gOIEJYXJFX3XSD1Q5IE"
+    },
+    {
+      "album": {
         "name": "Scooby Snack",
         "url": "https://open.spotify.com/album/1iyUzHpQrjdMqz8hkfiqhI"
       },
@@ -63312,7 +63384,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 95937,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/7LN2eS7gyXt1MenkXRlqAF"
@@ -65722,7 +65794,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 163445,
       "name": "SLEEP",
       "url": "https://open.spotify.com/track/48eBAejf09NFFnpm5GKZ6Q"
@@ -80578,6 +80650,24 @@
       "duration_ms": 217948,
       "name": "West Side",
       "url": "https://open.spotify.com/track/3eKcZ2GZuz74M60cefKl2x"
+    },
+    {
+      "album": {
+        "name": "Westgarth / Grace",
+        "url": "https://open.spotify.com/album/54haRjf5Zvdx7VWbOfzPHq"
+      },
+      "artists": [
+        {
+          "name": "Margo Mann",
+          "url": "https://open.spotify.com/artist/4WGpMtr9ad50DyrAJxckcA"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227804,
+      "name": "Westgarth",
+      "url": "https://open.spotify.com/track/4GvNyCdF60aiz0js9CKozI"
     },
     {
       "album": {

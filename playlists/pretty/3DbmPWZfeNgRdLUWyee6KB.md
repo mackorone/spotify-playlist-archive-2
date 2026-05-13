@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,302 likes - 157 songs - 9 hr 11 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,302 likes - 166 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,5 +165,14 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 155 | [I Believe In A Thing Called Love](https://open.spotify.com/track/4MIfPxadLGN52O6PZmGWsg) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [I Believe In A Thing Called Love](https://open.spotify.com/album/0J2tyt22Agtt6i4IgZnkTC) | 3:25 |
 | 156 | [Ritmo magnetico solare](https://open.spotify.com/track/5xTFotBEtNDdDirTt0JvDb) | [Humanoira](https://open.spotify.com/artist/3NSB6J5aWZa6QiVy31fjeg) | [Ritmo magnetico solare](https://open.spotify.com/album/2rmopc5Y9DONiFrF56F8k9) | 3:02 |
 | 157 | [How Lucky](https://open.spotify.com/track/4SVVS4cFwX4k2a35Y27eaH) | [Jill Baldassari](https://open.spotify.com/artist/1kv1SoMj9osbG1MeUzRp12) | [How Lucky](https://open.spotify.com/album/2MiQlo3MZvLUz9YQjkgIaE) | 2:37 |
+| 158 | [Rain \(Acoustic Version\)](https://open.spotify.com/track/1cSiGZuT6GIndL0RQhOeLz) | [Amelia Earnshaw](https://open.spotify.com/artist/1eafCvcMewyKKxAW0cxbtK) | [Rain \(Acoustic Version\)](https://open.spotify.com/album/0qwneIXclosOC2FZTkVAaL) | 4:38 |
+| 159 | [The White Dance](https://open.spotify.com/track/2B65NHdWVHzZvWMHse7sU1) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [The White Dance](https://open.spotify.com/album/2rGAbnxoklQ6T7ojcm5pz9) | 3:19 |
+| 160 | [Rebirth](https://open.spotify.com/track/1IdFUJbDpk2Jn84iY7hZ0M) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 2:53 |
+| 161 | [Stranger \- English Version](https://open.spotify.com/track/5WUuYDnzHZfxSeHDP0cdUE) | [ALTSOUND SRB](https://open.spotify.com/artist/4OZruhUi24VNQTmHMkU2lA) | [Stranger \(English Version\)](https://open.spotify.com/album/3soyBxYSGs1H4vcdmQi406) | 3:13 |
+| 162 | [Olio su Tela](https://open.spotify.com/track/15HHNA0dhhYKI9K5MK9bRx) | [Almaghrib](https://open.spotify.com/artist/7qW0X0F0TFO93P6kI3u9bm) | [Silenzio](https://open.spotify.com/album/6ysgWhQuMo4yDwCe3hhD2j) | 4:51 |
+| 163 | [La Nostra Malinconia](https://open.spotify.com/track/4WOQHH6rMUJjcJ5DD1KZYv) | [Raven Note](https://open.spotify.com/artist/1NRJEUIwnBQBbxRGei4NOi) | [La Nostra Malinconia](https://open.spotify.com/album/6rGMB4XX6rCy8jz1Td66yh) | 4:11 |
+| 164 | [September](https://open.spotify.com/track/2SN3hprK2oa9y7akcRRNFH) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06), [Megan Spencer](https://open.spotify.com/artist/0EZBR3iku1cNJJvBs5tmB5) | [September](https://open.spotify.com/album/5zTi8VzRc7rwRnRPw924wT) | 2:03 |
+| 165 | [Si Te Vuelvo A Ver](https://open.spotify.com/track/7DgYYH6lSB5vX9NLfTvxJP) | [Pipe Silva](https://open.spotify.com/artist/3mrFWmteqD5ZFXeOB69ErT) | [Si Te Vuelvo A Ver](https://open.spotify.com/album/57zylp9u3YcoscliH36yBD) | 2:52 |
+| 166 | [La Señal](https://open.spotify.com/track/1Y2ieR8LZEVPTBtUEg8oLV) | [Gerald](https://open.spotify.com/artist/0ACkKTaJzwclivk0zT0ruL), [Roxha](https://open.spotify.com/artist/21aliB0KIXA2A5nhqyxAsU) | [La Señal](https://open.spotify.com/album/2pnpc5la9zgZ0q3v0ezXnV) | 3:21 |
 
-Snapshot ID: `AAAT5Kh2E91xk8/qEaEPkFc0hjYicfai`
+Snapshot ID: `AAAT7UpaXeNkaxdMzIPYKXZNPBbSM9dX`

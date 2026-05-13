@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 202193,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/1RQnDgL3pRJzMUhog19Rol"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 116558,
       "name": "El Padre Abraham",
       "url": "https://open.spotify.com/track/4hFTrfayKWmdQWCiSbiq9T"
@@ -406,6 +406,24 @@
       "duration_ms": 219609,
       "name": "Esta Es Mi Canci\u00f3n",
       "url": "https://open.spotify.com/track/1bEan8FYcB8lRqygZP3DDC"
+    },
+    {
+      "album": {
+        "name": "Fuerza y Movimiento",
+        "url": "https://open.spotify.com/album/5KzC1eJSOrCtlPQ2SvlbBM"
+      },
+      "artists": [
+        {
+          "name": "Biper Y Sus Amigos",
+          "url": "https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124410,
+      "name": "Fuerza y Movimiento",
+      "url": "https://open.spotify.com/track/70Y52BJMJP4avDjtdlEUjZ"
     },
     {
       "album": {
@@ -481,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Jes\u00fas Mi Capit\u00e1n",
+        "url": "https://open.spotify.com/album/3KccNlVBTeL8wzHDpSza7k"
+      },
+      "artists": [
+        {
+          "name": "Peque\u00f1os H\u00e9roes",
+          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165302,
+      "name": "Jes\u00fas Mi Capit\u00e1n",
+      "url": "https://open.spotify.com/track/5ZhEWpTyy6EA7tIXQdiKuI"
+    },
+    {
+      "album": {
         "name": "Jes\u00fas Te Llama",
         "url": "https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N"
       },
@@ -528,7 +564,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 189230,
       "name": "La Creaci\u00f3n",
       "url": "https://open.spotify.com/track/40nl5kCXsFg4XqvJXHoB5N"
@@ -703,6 +739,24 @@
     },
     {
       "album": {
+        "name": "10 Veces M\u00e1s",
+        "url": "https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6"
+      },
+      "artists": [
+        {
+          "name": "Peque\u00f1os H\u00e9roes",
+          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142616,
+      "name": "Sans\u00f3n",
+      "url": "https://open.spotify.com/track/2hnAkfaKzF6aODzvixKtnh"
+    },
+    {
+      "album": {
         "name": "Se Fuerte y Fiel (Ester)",
         "url": "https://open.spotify.com/album/1w6wXQQFMDXgjpZ6HWkBIq"
       },
@@ -768,7 +822,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 186475,
       "name": "Siempre Que Me Muevo",
       "url": "https://open.spotify.com/track/4ffiY4HwsRdFFmomDpthhS"
@@ -826,6 +880,24 @@
       "duration_ms": 196826,
       "name": "Todo Lo Hizo Jesus",
       "url": "https://open.spotify.com/track/39XKrFt3TEHoh4CBm52ZcG"
+    },
+    {
+      "album": {
+        "name": "Tu Gozo",
+        "url": "https://open.spotify.com/album/6uEcWET6bOZB3ulU57hA1R"
+      },
+      "artists": [
+        {
+          "name": "Peque\u00f1os H\u00e9roes",
+          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147976,
+      "name": "Tu Gozo",
+      "url": "https://open.spotify.com/track/5RJPlCkGknJW8E7GXTvUax"
     },
     {
       "album": {

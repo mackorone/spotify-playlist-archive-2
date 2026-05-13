@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-194 songs - 8 hr 31 min
+195 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Expanding Horizons](https://open.spotify.com/track/1UPTvaZ5LGEWXL56DHqUv9) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 3:04 | 2025-03-11 | 2025-03-20 |
 | [Explorer](https://open.spotify.com/track/4FmCFp0c86L7F93XlapSzI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Impressions](https://open.spotify.com/album/4txuWPwrvExlcoJuTX0tsK) | 3:26 | 2023-11-10 | 2023-12-14 |
 | [Farewell My Lovely](https://open.spotify.com/track/03akrR9PMvgCWzkFT8vzDs) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRF1: Comedy Situations](https://open.spotify.com/album/4fwtXYpBCCFpiwRWo9D4q4) | 2:56 | 2024-08-18 |  |
+| [Fifth Avenue](https://open.spotify.com/track/2CM23NoR3QADGxfrPr8VJ2) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRB4: Jingles, Vol\. 4](https://open.spotify.com/album/5P7epw0DWKGLMXRAzWXYGg) | 0:33 | 2026-05-13 |  |
 | [First Affair](https://open.spotify.com/track/3cASj8j2a8tZTmxapSk0Ab) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:55 | 2022-06-07 | 2022-10-02 |
 | [Flashback](https://open.spotify.com/track/7C2EnOksa6TsDpAt1yYaQ7) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Flamboyant Themes](https://open.spotify.com/album/1gp1jUURBZCmp0q3IM5Z5a) | 2:04 | 2025-07-03 | 2025-07-29 |
 | [Fly The Flag](https://open.spotify.com/track/33fG4PXgTNTNsaRcs5onCg) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Rainbow Warrior](https://open.spotify.com/album/2WyJJ8W800AXuxPx1pXDZX) | 1:07 | 2024-11-25 | 2024-11-26 |
@@ -168,7 +169,7 @@
 | [Strangelands](https://open.spotify.com/track/4EZF2uDziv2o3mgl1Z8Itu) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 3:23 | 2022-05-29 | 2022-10-14 |
 | [Strummin' That Old Banjo \(Faster Veriosn\)](https://open.spotify.com/track/0A6QcOJpz5DvHexgbMdLRu) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Rhythm of Modern Life / Vaudeville](https://open.spotify.com/album/40CPLvjMJMDi6BNBvqh99V) | 1:19 | 2025-11-24 |  |
 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 | 2022-05-29 |  |
-| [Sunflower](https://open.spotify.com/track/1h70v5iWJWPmLbmQjKoRvT) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Happy Rainbows](https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH) | 2:25 | 2022-09-06 |  |
+| [Sunflower](https://open.spotify.com/track/1h70v5iWJWPmLbmQjKoRvT) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Happy Rainbows](https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH) | 2:25 | 2022-09-06 | 2026-05-13 |
 | [Sunny Side Up](https://open.spotify.com/track/0tUXPEMn1F5gs6pzg22pV7) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [70's Easy FM](https://open.spotify.com/album/5XZm1PW4b7rDU6MAgrj21d) | 3:09 | 2025-06-24 | 2025-07-22 |
 | [Sweet Dreams](https://open.spotify.com/track/20TnSEQvdXuy4xN9SZYw3O) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 2:08 | 2026-02-18 | 2026-04-17 |
 | [Sweet Summer \(A\)](https://open.spotify.com/track/0ybVqxksvCV2qCGIUw49Dy) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 2:10 | 2023-07-24 | 2026-01-25 |

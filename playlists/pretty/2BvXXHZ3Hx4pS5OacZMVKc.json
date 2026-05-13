@@ -1,13 +1,29 @@
 {
   "description": "NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming",
-  "num_followers": 131032,
+  "num_followers": 131027,
   "original_name": "Gaming Music 2026",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAMhTokDGXQ8OwK0yFI7aJJKxl5F4+c",
+  "snapshot_id": "AAAMhvWX3IaiUsKb3jPCEH6YiskZE9Nq",
   "tracks": [
+    {
+      "added_at": "2026-05-12 09:13:32",
+      "album": {
+        "name": "Bad Pitch For You",
+        "url": "https://open.spotify.com/album/72Mpjqj1AfwHsKLUtISmMv"
+      },
+      "artists": [
+        {
+          "name": "ruindkid",
+          "url": "https://open.spotify.com/artist/45QfSnVjou58EbJsXSeJ7e"
+        }
+      ],
+      "duration_ms": 167181,
+      "name": "Bad Pitch For You",
+      "url": "https://open.spotify.com/track/3zzMrBmRiQ39KsCPzmLuz8"
+    },
     {
       "added_at": "2026-04-28 09:20:21",
       "album": {

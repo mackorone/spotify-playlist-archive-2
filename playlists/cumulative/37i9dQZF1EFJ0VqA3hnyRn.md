@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-377 songs - 21 hr 38 min
+378 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Better Thangs](https://open.spotify.com/track/34uOYKTIOAfxZh1hibRx1c) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Better Thangs](https://open.spotify.com/album/5p0qpCnLfkjg4XbiL8nLSm) | 3:34 | 2024-12-11 |  |
 | [Better Thangs \(with Summer Walker\)](https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Better Thangs](https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77) | 3:34 | 2024-02-07 | 2024-12-12 |
 | [Big Big](https://open.spotify.com/track/4wsNgpWYdQjQZjP0eiCT3P) | [Timo Makaveli](https://open.spotify.com/artist/68nIghWoFPxGpj5aHIyznz), [Deli Banger](https://open.spotify.com/artist/3SEStgS4TnJvgUjqGPvt5b), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Right On Time](https://open.spotify.com/album/5MFK2qG2EJRgpEibwM823C) | 2:54 | 2025-01-30 | 2025-04-12 |
-| [Big Energy](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 | 2024-02-07 |  |
+| [Big Energy](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 | 2024-02-07 | 2026-05-13 |
 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/0nAq9zxgvrVVFYnY7ZwkCf) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [777](https://open.spotify.com/album/5ueY4adtiHTNj7FLkgb15I) | 3:01 | 2024-02-07 |  |
 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 | 2024-02-07 |  |
 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 | 2024-02-07 |  |
@@ -232,6 +232,7 @@
 | [Massacre](https://open.spotify.com/track/35TzX56MU1bvVRhLuLeqzz) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:26 | 2024-02-07 |  |
 | [Melody \(feat\. James Francis\)](https://open.spotify.com/track/5w265FOnA3toapoiCSfEjo) | [The Boy Next Door](https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs), [Rino](https://open.spotify.com/artist/2dEmGZwc9RpOUnd1LGn7h5), [James Francis](https://open.spotify.com/artist/0JiTjLmtWcCosekkIJS5VA) | [Melody \(feat\. James Francis\)](https://open.spotify.com/album/7KFxF6CPgaNTv0cOUSV5KA) | 2:57 | 2025-01-09 | 2025-04-12 |
 | [Misses Glass](https://open.spotify.com/track/5rbbfmGWjHI3XoG3Y9wiSA) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:41 | 2024-02-07 |  |
+| [Monster Step](https://open.spotify.com/track/1cANRyFLbqA4M0C1oHa4gy) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:21 | 2026-05-12 |  |
 | [Movie](https://open.spotify.com/track/7M3exc7sKObiTQLM5nZDHm) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Graffiti](https://open.spotify.com/album/2BVLHDC0K5kHc4f7pZvNBn) | 4:04 | 2026-02-19 |  |
 | [Music For Love](https://open.spotify.com/track/5gikplVdSoYfG0YKCRuicp) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:49 | 2024-02-07 |  |
 | [My Bih](https://open.spotify.com/track/0qGMWc9QuQ3KTfzqtbvvfW) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Back Flossin](https://open.spotify.com/album/3vmo3yZ1f2Rj6lK6lHTECy) | 3:11 | 2024-02-07 |  |

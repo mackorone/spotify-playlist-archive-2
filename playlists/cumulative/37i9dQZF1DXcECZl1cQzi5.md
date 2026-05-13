@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-226 songs - 10 hr 47 min
+227 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Little Blue](https://open.spotify.com/track/2amxnls3sy5GChJp52wOQE) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [A Little Blue](https://open.spotify.com/album/0mE29gC0shDYMixT7ouFS1) | 2:37 | 2025-01-15 |  |
 | [A New Wave](https://open.spotify.com/track/6rVPuBfXzKQCfloRxatSXs) | [Circular Motions](https://open.spotify.com/artist/36Vt0UA3d6xl8GpzdlINva) | [A New Wave](https://open.spotify.com/album/56mwvzRQCVTuIw8ZSDenMl) | 3:01 | 2025-12-03 |  |
 | [Aabha \- Sound Bath](https://open.spotify.com/track/4CGYBCKiaSm5Y5oqn7xZIh) | [Amrita Ananda](https://open.spotify.com/artist/17ph9VKUlu3hc0liTAhYWP) | [Aabha \- Sound Bath](https://open.spotify.com/album/5SNx9VaBDuGycrI7lxJnfl) | 2:52 | 2023-10-23 | 2026-02-28 |
-| [Above the Clouds](https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Above the Clouds](https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT) | 2:55 | 2023-10-23 |  |
+| [Above the Clouds](https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Above the Clouds](https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT) | 2:55 | 2023-10-23 | 2026-05-13 |
 | [Abyss](https://open.spotify.com/track/1MLXR6OqagKLfIsUv5MHfV) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [Abyss](https://open.spotify.com/album/6sWwvTF9xh2XXWcY6yhpuQ) | 2:12 | 2024-07-08 | 2025-02-17 |
 | [Aethaerum](https://open.spotify.com/track/1dEA7WCxIcfirzbNADvc7k) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Aethaerum](https://open.spotify.com/album/6n5YtNCZaQFCh6PndO9IhI) | 3:06 | 2023-10-23 | 2025-10-28 |
 | [Another World](https://open.spotify.com/track/2SOGbt8MlCF9d7h3ZGbRVh) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Another World](https://open.spotify.com/album/0HnGZ4yQPFXqPFU6EtrGYn) | 2:44 | 2026-02-27 |  |
@@ -183,6 +183,7 @@
 | [Seaesta](https://open.spotify.com/track/3URABoQxXx1Grenb3NDklF) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Seaesta](https://open.spotify.com/album/2Dyt2lLbfcgvtTjSPS0jKQ) | 2:29 | 2025-10-02 |  |
 | [Seas in Balance](https://open.spotify.com/track/3nZWbaCeHbuczBt6KrgerH) | [Yin Canopy](https://open.spotify.com/artist/0Noyn207iScjKuf0Rzbe5s) | [Seas in Balance](https://open.spotify.com/album/448smD1wZADRppxWq8tmS4) | 2:22 | 2025-10-02 |  |
 | [Sedated](https://open.spotify.com/track/0ZSyO3bqGpDxGioVHLXbjr) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Sedated](https://open.spotify.com/album/4V3KjRIT8asHHUS1rXlgUm) | 2:44 | 2024-08-22 |  |
+| [Sensual Ocean](https://open.spotify.com/track/3w1O6FSaSrc7UnobR68H7K) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Sensual Ocean](https://open.spotify.com/album/062bVbe4HIKx2JoaFd2YLU) | 3:06 | 2026-02-27 |  |
 | [Shoreline Serenity](https://open.spotify.com/track/4pJ0qiET0w17eYIangFjDo) | [Carmela Zavala](https://open.spotify.com/artist/00OuphZkinOuOhenMlndwQ) | [Shoreline Serenity](https://open.spotify.com/album/5tlda8TQsXWnCNf2isVNxg) | 2:48 | 2025-06-23 |  |
 | [Shores of Serenity](https://open.spotify.com/track/56Wi8HppRbnVgvG4DDrm76) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Shores of Serenity](https://open.spotify.com/album/3DdHLlGtxU5vLbYEvyMzc5) | 2:32 | 2023-10-23 | 2024-08-23 |
 | [Silent Glow](https://open.spotify.com/track/1ZLibBKJupB9wQ0pctoa9o) | [Inner Cabin](https://open.spotify.com/artist/7x6ZvvIbEUTL39ZpxeaMo7) | [Silent Glow](https://open.spotify.com/album/6rjUc8JpOpej3SNSHj3WlA) | 3:20 | 2025-05-21 |  |

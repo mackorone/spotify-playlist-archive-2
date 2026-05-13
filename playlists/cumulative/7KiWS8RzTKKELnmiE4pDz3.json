@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304226,
+      "name": "B.O.B. - Bombs Over Baghdad",
+      "url": "https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU"
+    },
+    {
+      "album": {
         "name": "5TH AMNDMNT",
         "url": "https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n"
       },

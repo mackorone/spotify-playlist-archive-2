@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Picturemegreen\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,186 songs - 2 day 23 hr 58 min
+1,186 songs - 2 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,7 @@
 | [Hate U](https://open.spotify.com/track/4ueUHXReK3sHdgRuxU45uY) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [Hate U](https://open.spotify.com/album/1YbnGOAtb3gBTElItID7TJ) | 2:43 | 2022-05-11 | 2022-06-14 |
 | [Haze](https://open.spotify.com/track/72QuyLICroWabN7X85pDSL) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Fever](https://open.spotify.com/album/7hANiZ9XFG3TJPptCPemFW) | 4:17 | 2023-08-17 | 2023-08-29 |
 | [Heart Emoji \(feat\. BIGONE\)](https://open.spotify.com/track/5BhMBl7sVdjb8SOY7fwZjT) | [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Heart Emoji](https://open.spotify.com/album/3woPtSI7v4acRdHxKcjUvA) | 2:18 | 2023-01-26 | 2023-02-11 |
-| [Heart of Gold](https://open.spotify.com/track/3ei1nPTxRlGUWYfNMTCds9) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Heart of Gold](https://open.spotify.com/album/3K8n186vv6tMeS3l7fpluB) | 4:42 | 2026-05-08 |  |
+| [Heart of Gold](https://open.spotify.com/track/3ei1nPTxRlGUWYfNMTCds9) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Heart of Gold](https://open.spotify.com/album/3K8n186vv6tMeS3l7fpluB) | 5:14 | 2026-05-08 |  |
 | [Heavy Days of Youth \(Prod\. Jeong DongHwan\) \(Veiled Musician X LEE MU JIN with Hwagok\-dong\)](https://open.spotify.com/track/6MUXMpfPsIhEftomfUrBaD) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Heavy Days of Youth \(Prod\. Jeong DongHwan\) \(Veiled Musician X LEE MU JIN with Hwagok\-dong\)](https://open.spotify.com/album/4pUm7glXKf1SzTcfWbFAPw) | 3:28 | 2023-11-30 | 2024-05-10 |
 | [hellbound](https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [hellbound](https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo) | 3:07 | 2025-01-30 | 2025-03-18 |
 | [Hello Stranger](https://open.spotify.com/track/4mCM8hfSM90j7dDBuzFYvc) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Hello Stranger](https://open.spotify.com/album/20nWISvEaeTmzSY4CDVqUd) | 3:53 | 2026-04-17 |  |

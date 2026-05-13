@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Heavy Serenade",
+        "url": "https://open.spotify.com/album/1CcQeGV2y27qbZFvfKgNkL"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "Heavy Serenade",
+      "url": "https://open.spotify.com/track/6HtaC2TRP4QMoCtK1MHPoe"
+    },
+    {
+      "album": {
         "name": "HER",
         "url": "https://open.spotify.com/album/6oe7WSv4pqbz3xC7MFTxm5"
       },

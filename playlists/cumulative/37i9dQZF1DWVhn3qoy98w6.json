@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: caracazador.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: MaiteQuiero.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -23385,6 +23385,24 @@
     },
     {
       "album": {
+        "name": "CERVATANA",
+        "url": "https://open.spotify.com/album/24ItTEIYNKk00v32icTI69"
+      },
+      "artists": [
+        {
+          "name": "CERVATANA",
+          "url": "https://open.spotify.com/artist/7r2PXbbTvFexdcxnjrhNkG"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435946,
+      "name": "Cap. VII: El Cazador",
+      "url": "https://open.spotify.com/track/21F2B3R8ILDMFD0graj62z"
+    },
+    {
+      "album": {
         "name": "H\u00e4xan",
         "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
       },
@@ -24952,7 +24970,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 171357,
       "name": "Cego de algo",
       "url": "https://open.spotify.com/track/1vYR4YGDeksJr19XTlS45X"
@@ -51975,6 +51993,24 @@
     },
     {
       "album": {
+        "name": "Espejito espejito",
+        "url": "https://open.spotify.com/album/1qUOfmhKltvfzgMmVxsTKN"
+      },
+      "artists": [
+        {
+          "name": "BARIRI",
+          "url": "https://open.spotify.com/artist/7EI5ggCJHETX3cWcqtQR2F"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234093,
+      "name": "Espejito espejito",
+      "url": "https://open.spotify.com/track/0usBL5asJPsE0My9HeJs2C"
+    },
+    {
+      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/7kaKouhnZrD8TzgpRWUW35"
       },
@@ -68752,6 +68788,24 @@
       "duration_ms": 164873,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7qwjVh7IGW8daRtIpEQcKf"
+    },
+    {
+      "album": {
+        "name": "kascov",
+        "url": "https://open.spotify.com/album/19iySh44LmSxj104KyQ9G8"
+      },
+      "artists": [
+        {
+          "name": "duna",
+          "url": "https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102797,
+      "name": "kascov",
+      "url": "https://open.spotify.com/track/6u4C0zTLKiqW1ccpqeSTmI"
     },
     {
       "album": {
@@ -88932,7 +88986,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 134150,
       "name": "Mejor",
       "url": "https://open.spotify.com/track/2gPGKV3pAgHTuqoZQugRH6"
@@ -91506,6 +91560,24 @@
       "duration_ms": 180000,
       "name": "Midnight in Paris",
       "url": "https://open.spotify.com/track/2PwKlGHgLjEvkwDyWydolm"
+    },
+    {
+      "album": {
+        "name": "Mi deseo es transparente",
+        "url": "https://open.spotify.com/album/55GNxa9xWuS5TJFjRnB7fL"
+      },
+      "artists": [
+        {
+          "name": "Elena Carat",
+          "url": "https://open.spotify.com/artist/4F7tG90z3UVK5jSItq3GbM"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201490,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/6NvyNlnRhvh6zGXDcooKHH"
     },
     {
       "album": {
@@ -111524,7 +111596,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 168000,
       "name": "parque",
       "url": "https://open.spotify.com/track/3nLCxrcf5gsa4Gu9lwMl1T"
@@ -149650,7 +149722,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 180613,
       "name": "un hechizo",
       "url": "https://open.spotify.com/track/6JNaqyx653lFWJ84iwkr1H"

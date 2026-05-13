@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Q´Lokura, Lauta & Amigo de Artistas
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,445 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,451 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 97 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
 | 98 | [Castillo de Arena / Me Quieres Olvidar \- En Vivo](https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Grandes Exitos](https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl) | 2:58 |
 | 99 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 |
-| 100 | [Son De Amores](https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M), [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Son De Amores](https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd) | 3:01 |
+| 100 | [Por lo Que Yo Te Quiero / Miénteles a Ellos \- En Vivo](https://open.spotify.com/track/5CNL6wtodffbjXzTwKzYS2) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Por lo Que Yo Te Quiero / Miénteles a Ellos \(En Vivo\)](https://open.spotify.com/album/7kv36MMXX9UCBezzFhdiTM) | 9:07 |
 
 Snapshot ID: `AAAAAM6EAwupMjQwH5zO6hejUMX9UUlX`

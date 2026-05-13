@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 
 > <a href="spotify:artist:7sAqpkrQBaOkddsv1Tz1XK">Mosimann</a>'s favourite tracks\. Updated regularly\. Curated by Mosimann\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,699 likes - 88 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,709 likes - 88 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 | 27 | [gossip \- Chris Lake Remix](https://open.spotify.com/track/4ypboAEndfCMGxDJQa9i5w) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip \(Chris Lake Remix\)](https://open.spotify.com/album/6a0CnQt108jabqdOwKkdCv) | 2:27 |
 | 28 | [Rausch](https://open.spotify.com/track/1xijy9aCodnCi9m190Ue6g) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Traumwerk \(TW\_JAN\_26\)](https://open.spotify.com/album/7bNKxVUsYyRY7InRT9k9OZ) | 5:06 |
 | 29 | [Sunglasses On](https://open.spotify.com/track/5eKBrj4CuKbOM3fnKIcM0a) | [Merk \(ITA\)](https://open.spotify.com/artist/7la4AhxS3u92K30Zjg9cDz) | [Sunglasses On](https://open.spotify.com/album/4IhV0cJnGKHirOVO7Wokcc) | 4:55 |
-| 30 | [PUT EM' UP](https://open.spotify.com/track/2gPR6S06sJxrxAnSrwUGz8) | [Jake Bleu](https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN), [CHAN](https://open.spotify.com/artist/4i7DSbtW1kZ2iv0w8j6lUZ) | [PUT EM’ UP](https://open.spotify.com/album/4KNuiUopsXbhSfQ3qbd5K3) | 2:47 |
+| 30 | [PUT EM' UP](https://open.spotify.com/track/2gPR6S06sJxrxAnSrwUGz8) | [Jake Bleu](https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN), [Chandler McFadden](https://open.spotify.com/artist/4j1BMv29IPIAAdIATJhxIa) | [PUT EM’ UP](https://open.spotify.com/album/4KNuiUopsXbhSfQ3qbd5K3) | 2:47 |
 | 31 | [Go Back \(feat\. Julia Church\) \- Kyle Watson Remix](https://open.spotify.com/track/4M02PvpMpHzt7zpI9RRLcF) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Go Back \(feat\. Julia Church\) \[Kyle Watson Remix\]](https://open.spotify.com/album/4uYMHC7geGejO4U7pxmvQ1) | 3:46 |
 | 32 | [Shout](https://open.spotify.com/track/36L9XjMT6y3TOFl7EElrAH) | [ALP](https://open.spotify.com/artist/5f3xRUpKn6mS0Rj1likFdi), [Bravetone](https://open.spotify.com/artist/6HLUmL9wto0WP9G8wIoZD7), [Førehand](https://open.spotify.com/artist/2eOeSMHXnKrwLO8rEZuc22) | [Shout](https://open.spotify.com/album/1vat8FkgBMBs1u0RNIE88i) | 2:49 |
 | 33 | [Smack That](https://open.spotify.com/track/3ArJ5pPOS5n6iv6pTWElew) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Smack That](https://open.spotify.com/album/2KdxHZiQgGK4wq9HvBF6yr) | 3:45 |

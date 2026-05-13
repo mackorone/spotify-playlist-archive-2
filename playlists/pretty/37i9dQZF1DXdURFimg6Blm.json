@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1480953,
+  "num_followers": 1480950,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,26 @@
     {
       "added_at": "2026-05-08 04:03:23",
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
+    },
+    {
+      "added_at": "2026-05-08 04:03:23",
+      "album": {
         "name": "Think About Us",
         "url": "https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 178148,
       "name": "Think About Us",
       "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
-    },
-    {
-      "added_at": "2026-05-08 04:03:23",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "added_at": "2026-05-08 04:03:23",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-05-08 04:03:23",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 219785,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X"
-    },
-    {
-      "added_at": "2026-05-08 04:03:23",
-      "album": {
         "name": "All the Things She Said",
         "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 165299,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
+    },
+    {
+      "added_at": "2026-05-08 04:03:23",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 219785,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X"
     },
     {
       "added_at": "2026-05-08 04:03:23",
@@ -775,6 +775,30 @@
     {
       "added_at": "2026-05-08 04:03:23",
       "album": {
+        "name": "Won\u2019t Be Possible",
+        "url": "https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Won\u2019t Be Possible",
+      "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"
+    },
+    {
+      "added_at": "2026-05-08 04:03:23",
+      "album": {
         "name": "Addicted To Bass (Dom Dolla Relapse)",
         "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
       },
@@ -807,30 +831,6 @@
       "duration_ms": 158333,
       "name": "LIGHTS GO OUT",
       "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
-    },
-    {
-      "added_at": "2026-05-08 04:03:23",
-      "album": {
-        "name": "Won\u2019t Be Possible",
-        "url": "https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Won\u2019t Be Possible",
-      "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"
     },
     {
       "added_at": "2026-05-08 04:03:23",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2026-05-08 04:03:23",
       "album": {
+        "name": "POP DAT THANG (David Guetta Mix)",
+        "url": "https://open.spotify.com/album/7rtul2MGOdXBk485Ua18L6"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "POP DAT THANG - David Guetta Mix",
+      "url": "https://open.spotify.com/track/1DyPR5YSPHlRhqRQQR4CGB"
+    },
+    {
+      "added_at": "2026-05-08 04:03:23",
+      "album": {
         "name": "Houseboy",
         "url": "https://open.spotify.com/album/04lXyW1kr6xRKw89cnqNJO"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 210580,
       "name": "Stomp Your Feet",
       "url": "https://open.spotify.com/track/494lD6w8j07gDMub1UFd07"
-    },
-    {
-      "added_at": "2026-05-08 04:03:23",
-      "album": {
-        "name": "POP DAT THANG (David Guetta Mix)",
-        "url": "https://open.spotify.com/album/7rtul2MGOdXBk485Ua18L6"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "POP DAT THANG - David Guetta Mix",
-      "url": "https://open.spotify.com/track/1DyPR5YSPHlRhqRQQR4CGB"
     },
     {
       "added_at": "2026-05-08 04:03:23",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2026-05-08 04:03:23",
       "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "duration_ms": 178865,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk"
+    },
+    {
+      "added_at": "2026-05-08 04:03:23",
+      "album": {
         "name": "OK OK (Hamdi remix)",
         "url": "https://open.spotify.com/album/6POSPBtibhdNu2fQG4tUH7"
       },
@@ -1523,22 +1543,22 @@
     {
       "added_at": "2026-05-08 04:03:23",
       "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y"
+        "name": "The Dreams Strange and Eternal",
+        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
         }
       ],
-      "duration_ms": 178865,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk"
+      "duration_ms": 233794,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
     },
     {
       "added_at": "2026-05-08 04:03:23",
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2026-05-08 04:03:23",
       "album": {
-        "name": "The Dreams Strange and Eternal",
-        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "FORS",
-          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
-        }
-      ],
-      "duration_ms": 233794,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
-    },
-    {
-      "added_at": "2026-05-08 04:03:23",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 163384,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+    },
+    {
+      "added_at": "2026-05-08 04:03:23",
+      "album": {
+        "name": "For The Soul",
+        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "For The Soul",
+      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
     },
     {
       "added_at": "2026-05-08 04:03:23",
@@ -1627,22 +1643,6 @@
       "duration_ms": 180520,
       "name": "Through The Pain (feat. Pozer)",
       "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
-    },
-    {
-      "added_at": "2026-05-08 04:03:23",
-      "album": {
-        "name": "For The Soul",
-        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
-      },
-      "artists": [
-        {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "For The Soul",
-      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
     },
     {
       "added_at": "2026-05-08 04:03:23",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-05-08 04:03:23",
       "album": {
-        "name": "Fast Money",
-        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 142529,
-      "name": "Fast Money",
-      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
-    },
-    {
-      "added_at": "2026-05-08 04:03:23",
-      "album": {
         "name": "CELEBRATION (Sara Landry Remix)",
         "url": "https://open.spotify.com/album/0wti1ZxzH9QwP4J4DJaYMq"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 261538,
       "name": "CELEBRATION (Sara Landry Remix)",
       "url": "https://open.spotify.com/track/6wU5RtdPK5Gp3qwUa987Ty"
+    },
+    {
+      "added_at": "2026-05-08 04:03:23",
+      "album": {
+        "name": "Fast Money",
+        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 142529,
+      "name": "Fast Money",
+      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
     },
     {
       "added_at": "2026-05-08 04:03:23",

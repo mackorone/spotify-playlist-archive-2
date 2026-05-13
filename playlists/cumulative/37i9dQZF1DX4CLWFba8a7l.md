@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Genesis Owusu
 
-634 songs - 1 day 11 hr 26 min
+635 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-11 | 2025-01-11 |
 | [Alter Ego](https://open.spotify.com/track/43nOsmlhrByj1QtPYjFtN2) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Alter Ego](https://open.spotify.com/album/6wWJpVkHxBcK2bagL8q2po) | 3:14 | 2025-01-23 | 2025-01-31 |
 | [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 | 2024-11-28 | 2024-12-22 |
-| [Ancestors](https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Tripping Over Time](https://open.spotify.com/album/0Qv7CQ2vU9vcUqqcODFs4i) | 2:56 | 2025-12-11 |  |
+| [Ancestors](https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Tripping Over Time](https://open.spotify.com/album/0Qv7CQ2vU9vcUqqcODFs4i) | 2:56 | 2025-12-11 | 2026-05-13 |
 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 | 2024-05-31 | 2025-01-25 |
 | [ANGEL](https://open.spotify.com/track/5Kk8AiJSxdhT5nflK8l4oE) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [ANGEL](https://open.spotify.com/album/6OGMwoSKdKLbTfKfaAGkaV) | 2:40 | 2025-06-12 | 2025-09-05 |
 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 | 2025-10-30 | 2025-12-14 |
@@ -565,6 +565,7 @@
 | [The Suburbs](https://open.spotify.com/track/2WIvvJ2xRJ71hxmNRr3RtU) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Suburbs](https://open.spotify.com/album/4xjh3S26biJGSw8WMPHlkw) | 3:08 | 2025-08-21 | 2025-10-03 |
 | [The Worst Person Alive](https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [The Worst Person Alive](https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz) | 3:30 | 2024-05-31 | 2024-09-07 |
 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 | 2024-05-31 | 2025-04-04 |
+| [These Arms](https://open.spotify.com/track/1xcBiYE5Jt8fynhe9ehVKt) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [These Arms](https://open.spotify.com/album/0wlMUld5GFdP9oLIMMd5om) | 4:17 | 2026-05-07 |  |
 | [THICK SKIN \(feat\. Thelma Plum, Emma Donovan, Kee'ahn & Jada Weazel\)](https://open.spotify.com/track/57lqdbgvZslueRuQOeOwTq) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL), [Jada Weazel](https://open.spotify.com/artist/5igkWBCRLxZdrvDNeuRaXm) | [THICK SKIN \(feat\. Thelma Plum, Emma Donovan, Kee'ahn & Jada Weazel\)](https://open.spotify.com/album/7aaWje6d6QPi5vUkC39co2) | 4:06 | 2025-09-04 | 2025-09-12 |
 | [things i want](https://open.spotify.com/track/06aqgaHt1M1ZRcEe04CvaN) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [things i want](https://open.spotify.com/album/35h4YIUVtsoJ68H20lmmEa) | 3:43 | 2025-03-04 | 2025-03-21 |
 | [Think of You](https://open.spotify.com/track/0BNeOo4KmP69DqGyEayE1Y) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Think of You](https://open.spotify.com/album/4AXpf220CHkgip6J4lDtD6) | 2:39 | 2025-09-01 | 2025-09-05 |

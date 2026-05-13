@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
-  "num_followers": 509499,
+  "num_followers": 509806,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1283,26 +1283,22 @@
     {
       "added_at": "2026-05-08 04:01:59",
       "album": {
-        "name": "The Final Countdown 2025",
-        "url": "https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC"
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
       },
       "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
         {
           "name": "Hypaton",
           "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
         },
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 182343,
-      "name": "The Final Countdown 2025",
-      "url": "https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG"
+      "duration_ms": 203307,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
     },
     {
       "added_at": "2026-05-08 04:01:59",
@@ -1323,22 +1319,26 @@
     {
       "added_at": "2026-05-08 04:01:59",
       "album": {
-        "name": "Feeling Good",
-        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
+        "name": "The Final Countdown 2025",
+        "url": "https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC"
       },
       "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
         {
           "name": "Hypaton",
           "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 203307,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
+      "duration_ms": 182343,
+      "name": "The Final Countdown 2025",
+      "url": "https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG"
     },
     {
       "added_at": "2026-05-08 04:01:59",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2026-05-08 04:01:59",
       "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 199804,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH"
+    },
+    {
+      "added_at": "2026-05-08 04:01:59",
+      "album": {
         "name": "Thrill Of The Night (David Guetta Remix)",
         "url": "https://open.spotify.com/album/00Op8MnbcJeLAdPobZtaKj"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 161452,
       "name": "Thrill Of The Night - David Guetta Remix",
       "url": "https://open.spotify.com/track/4tAfe5NsVbdq8a0cUgtKrv"
-    },
-    {
-      "added_at": "2026-05-08 04:01:59",
-      "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 199804,
-      "name": "MAD",
-      "url": "https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH"
     },
     {
       "added_at": "2026-05-08 04:01:59",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2026-05-08 04:01:59",
       "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
-    },
-    {
-      "added_at": "2026-05-08 04:01:59",
-      "album": {
         "name": "Feels Like Us",
         "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 234545,
       "name": "Feels Like Us",
       "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
+    },
+    {
+      "added_at": "2026-05-08 04:01:59",
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
     },
     {
       "added_at": "2026-05-08 04:01:59",

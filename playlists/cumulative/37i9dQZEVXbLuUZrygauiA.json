@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 240000,
       "name": "66 am",
       "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
@@ -2932,6 +2932,28 @@
       "duration_ms": 224374,
       "name": "Al Final Del D\u00eda",
       "url": "https://open.spotify.com/track/6r9czfSZp4moVpP1NUlWub"
+    },
+    {
+      "album": {
+        "name": "EL BAIFO",
+        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Nueva L\u00ednea",
+          "url": "https://open.spotify.com/artist/0znHeiocrsC2Bj33L7FBzM"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207734,
+      "name": "AL GOLPITO",
+      "url": "https://open.spotify.com/track/6LD1tYOKReFqZh5ZdCdxIz"
     },
     {
       "album": {
@@ -11468,7 +11490,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 180133,
       "name": "Canto A La Madre - Tema Remasterizado",
       "url": "https://open.spotify.com/track/7hQvMZbTFwk81J1xyIGGXB"
@@ -11486,7 +11508,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 180533,
       "name": "Canto A La Madre - Tema Remasterizado",
       "url": "https://open.spotify.com/track/0ON1eJLbEYcRAP6ofjUw0r"
@@ -18777,6 +18799,28 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s de ti",
+        "url": "https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Greg Gonzalez",
+          "url": "https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275898,
+      "name": "Despu\u00e9s de ti",
+      "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
+    },
+    {
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -19030,7 +19074,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 246428,
       "name": "Dichavate",
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
@@ -20606,7 +20650,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
@@ -24528,7 +24572,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 209260,
       "name": "Entre Tu y Yo",
       "url": "https://open.spotify.com/track/6Axwzs2r4Y2eQNyk5kzYkg"
@@ -24788,7 +24832,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 195089,
       "name": "Eres T\u00fa - Mam\u00e1",
       "url": "https://open.spotify.com/track/6XU1mXRVr4blbTG9FOsFSV"
@@ -31398,7 +31442,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 245837,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
@@ -34749,6 +34793,24 @@
     },
     {
       "album": {
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136585,
+      "name": "La Buena",
+      "url": "https://open.spotify.com/track/6qxEvJ4EAEbZPtTV1PJXah"
+    },
+    {
+      "album": {
         "name": "La Cagu\u00e9",
         "url": "https://open.spotify.com/album/74gVdaDvYpQF91s7e8eIAN"
       },
@@ -34866,6 +34928,24 @@
       "duration_ms": 155000,
       "name": "La Chilena Belica",
       "url": "https://open.spotify.com/track/4gBnsHrEhzDbXnrcOeR4Ro"
+    },
+    {
+      "album": {
+        "name": "La Cita 2.0",
+        "url": "https://open.spotify.com/album/5mvrp3KIEpQDXfxW1cfpXa"
+      },
+      "artists": [
+        {
+          "name": "mysterious",
+          "url": "https://open.spotify.com/artist/3lQeNnMvIOPj8w16WOltVk"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141514,
+      "name": "La Cita 2.0",
+      "url": "https://open.spotify.com/track/5pkgyPkNIDd2pFV3cktrue"
     },
     {
       "album": {
@@ -49454,7 +49534,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 228535,
       "name": "Nuestra Casa",
       "url": "https://open.spotify.com/track/32PLngqOwuA7jZzfZVk6Wb"
@@ -50168,6 +50248,24 @@
       "duration_ms": 189080,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
+    },
+    {
+      "album": {
+        "name": "Ojitos Bellos",
+        "url": "https://open.spotify.com/album/2QMmrYT9RG0dGQBpXvED9c"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179818,
+      "name": "Ojitos Bellos",
+      "url": "https://open.spotify.com/track/75OegUZV4dD54IVeonBKwr"
     },
     {
       "album": {
@@ -62714,10 +62812,28 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 191879,
       "name": "Sin Aviso",
       "url": "https://open.spotify.com/track/5gyN4TuLCoC6NMmOSITONE"
+    },
+    {
+      "album": {
+        "name": "Sin Aviso",
+        "url": "https://open.spotify.com/album/0K7atd0Xlkz78z0iGjjGsZ"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcero Banks",
+          "url": "https://open.spotify.com/artist/18v14AqUUBNlYU6gvfpx9x"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191880,
+      "name": "Sin Aviso",
+      "url": "https://open.spotify.com/track/5Ex1PeshQCjESMfgdDjpc1"
     },
     {
       "album": {
@@ -63108,7 +63224,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 125222,
       "name": "Slay",
       "url": "https://open.spotify.com/track/7CrEWnC2hQNYKlsOyPiaDK"
@@ -65729,6 +65845,24 @@
     },
     {
       "album": {
+        "name": "Super Snake (Mendivil)",
+        "url": "https://open.spotify.com/album/2OsBGtUmu952CfP8YHjimi"
+      },
+      "artists": [
+        {
+          "name": "santos77",
+          "url": "https://open.spotify.com/artist/74Gtuc4nf1Z2zRbmIFlUe3"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104977,
+      "name": "Super Snake - Mendivil",
+      "url": "https://open.spotify.com/track/6crybT8xceynhWyeCM0TlC"
+    },
+    {
+      "album": {
         "name": "Super Tuna",
         "url": "https://open.spotify.com/album/7urG1JarAksXgoLSp5OfnT"
       },
@@ -66752,7 +66886,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 285106,
       "name": "Te Amo Mam\u00e1",
       "url": "https://open.spotify.com/track/5cUeyXKmaqNctvDDo3cftd"
@@ -67248,6 +67382,32 @@
       "duration_ms": 217797,
       "name": "Te Marqu\u00e9 Pedo - Remix",
       "url": "https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI"
+    },
+    {
+      "album": {
+        "name": "Te Marqu\u00e9 Pedo con Sabino",
+        "url": "https://open.spotify.com/album/3C99BE7bMUVdNcOsB4UnKu"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235555,
+      "name": "Te Marqu\u00e9 Pedo con Sabino",
+      "url": "https://open.spotify.com/track/6xSoVFn9vY7R3oikFFSAHq"
     },
     {
       "album": {
@@ -67916,7 +68076,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 211022,
       "name": "Termonuclear",
       "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"
@@ -73336,7 +73496,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 133746,
       "name": "VELOCIDADE",
       "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"

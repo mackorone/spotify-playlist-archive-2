@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 141182,
+  "num_followers": 141184,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABUAlAdjwD0wz937FLAz/VM",
+  "snapshot_id": "agEcAAAAAABv5mhICkvLLl6o1WQ+1Qvw",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriving",
-        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
+        "name": "You Are My King (Amazing Love) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 237986,
-      "name": "Indescribable",
-      "url": "https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT"
+      "duration_ms": 254443,
+      "name": "You Are My King (Amazing Love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
     },
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Are My King (Amazing Love) [Spotify Singles]",
-        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
+        "name": "Arriving",
+        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 254443,
-      "name": "You Are My King (Amazing Love) - Spotify Singles",
-      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
+      "duration_ms": 237986,
+      "name": "Indescribable",
+      "url": "https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT"
     },
     {
       "added_at": null,
@@ -651,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The King Is Still The King",
-        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
+        "name": "Holy Forever (Instrumental)",
+        "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
       },
       "artists": [
+        {
+          "name": "The Maker & The Instrument",
+          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
+        },
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 286152,
-      "name": "Still The King",
-      "url": "https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu"
+      "duration_ms": 480193,
+      "name": "Holy Forever - Instrumental",
+      "url": "https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft"
     },
     {
       "added_at": null,
@@ -743,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Forever (Instrumental)",
-        "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
+        "name": "The King Is Still The King",
+        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
       },
       "artists": [
-        {
-          "name": "The Maker & The Instrument",
-          "url": "https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV"
-        },
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 480193,
-      "name": "Holy Forever - Instrumental",
-      "url": "https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft"
+      "duration_ms": 286152,
+      "name": "Still The King",
+      "url": "https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu"
     },
     {
       "added_at": null,

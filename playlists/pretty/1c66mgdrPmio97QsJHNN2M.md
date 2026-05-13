@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,489 likes - 299 songs - 15 hr 41 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,497 likes - 307 songs - 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -307,5 +307,13 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 297 | [Try Again](https://open.spotify.com/track/7zZH4I44iimTISzvkvZHmQ) | [CR0WN](https://open.spotify.com/artist/4t4Eu8jCaR3osTxu4hIGjV) | [Try Again](https://open.spotify.com/album/2qZpY5vs73qZj1HkHfU6kf) | 3:28 |
 | 298 | [Blood Of The Stone](https://open.spotify.com/track/2e42Wx6svRX1Oznf9Tvr0Q) | [Andy Camp](https://open.spotify.com/artist/3EIvKp5dXUFwFG6d6jDFDN) | [Themantics 2](https://open.spotify.com/album/07uTeo0TfHjIo88g4H6zyu) | 3:00 |
 | 299 | [Kalbim seninle](https://open.spotify.com/track/2PMPCTJPuDDrzRpHH7uu3g) | [Tomos Withano](https://open.spotify.com/artist/3qoKqlGIP6UNXnxvEQfWzp), [Tomos Clayton](https://open.spotify.com/artist/4WLTRVL1N6kYNUUiUFdTIO) | [Kalbim seninle](https://open.spotify.com/album/4Sra1JGM1d8npqNaL8M61s) | 2:20 |
+| 300 | [Kinda Crazy \(But I like it\)](https://open.spotify.com/track/6x6r22T0xELp8uCyvKZ6sv) | [Porshager](https://open.spotify.com/artist/0OiwnJIYb3b22ntc8LmszC) | [Kinda Crazy \(But I like it\)](https://open.spotify.com/album/4wsZXjDuNJIUimsvJXkYH1) | 2:30 |
+| 301 | [Way more than dollars](https://open.spotify.com/track/2gaFfeDdwBd9Y37cur5QmG) | [AVNG](https://open.spotify.com/artist/6FSNhma3n201aAiYBH0Hoo) | [Way more than dollars](https://open.spotify.com/album/4tuQRbMufO3yw7szvqees1) | 3:21 |
+| 302 | [Love Actually](https://open.spotify.com/track/4HGUgYPtXInlqTn3WMZbXL) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [Love Actually](https://open.spotify.com/album/6aCUSrkAkViqQ3TWL23b7e) | 2:02 |
+| 303 | [pretty things](https://open.spotify.com/track/45NjUKuI1Yt4fjtq9XL4OU) | [Jerad Finn](https://open.spotify.com/artist/0TsaDukSGj3e01dEgLCPNu) | [pretty things](https://open.spotify.com/album/7Ig65u9kNF64Aiv3HKtJQq) | 2:52 |
+| 304 | [Heaven And Hurt](https://open.spotify.com/track/1xLYDSwtPYUiWpueHTabpF) | [TJ Stewart](https://open.spotify.com/artist/5ysblpDbUGwr2DPcsse92N) | [Heaven And Hurt](https://open.spotify.com/album/3IQPgxHTyWb76ytCMpqdDM) | 2:42 |
+| 305 | [Keep It Simple](https://open.spotify.com/track/39qpZpCUrW5vAYnGxSzewp) | [Eric Reinhart](https://open.spotify.com/artist/2LybFoVrOQYMtMegL9Xl5H) | [Keep It Simple](https://open.spotify.com/album/7arVnKt50dk3gaDsjSxqqP) | 2:19 |
+| 306 | [September](https://open.spotify.com/track/2SN3hprK2oa9y7akcRRNFH) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06), [Megan Spencer](https://open.spotify.com/artist/0EZBR3iku1cNJJvBs5tmB5) | [September](https://open.spotify.com/album/5zTi8VzRc7rwRnRPw924wT) | 2:03 |
+| 307 | [Kasioppea \- Hannes Bieger Remix Short Edit](https://open.spotify.com/track/6VglO1QwG37kj0IIviueXI) | [PETRU KSS](https://open.spotify.com/artist/7cPZbyvSVxTc5GC3kZqXuv), [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9) | [Kolibri Live Part 5](https://open.spotify.com/album/0YC9r46UwOXj1w0EW5Qu7c) | 3:50 |
 
-Snapshot ID: `AAA4H0dyRWjdcOyKNXiRpqEH0apQnXF6`
+Snapshot ID: `AAA4J3Cesjj7KbRgV6xwxYAneRMHOKrQ`

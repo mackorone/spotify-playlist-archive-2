@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,927 likes - 98 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,942 likes - 98 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Special](https://open.spotify.com/track/4GPjOTUczRPWGp07NzFWqf) | [FK&M](https://open.spotify.com/artist/0QEY4d9rhrxTR8nMdudJ0y), [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Keith Staten](https://open.spotify.com/artist/1p94IpPWGRqcNsAmzCtnWe), [Marcus Cole](https://open.spotify.com/artist/2bijKkJaOp4tSJASryiJNB), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Special](https://open.spotify.com/album/1uzgm9GOXjEFOdg8y9aAyh) | 3:58 |
-| 2 | [Shadow Of Your Smile](https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb) | [Shadow Of Your Smile](https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl) | 3:46 |
+| 2 | [Shadow Of Your Smile](https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Rude Jude](https://open.spotify.com/artist/0ej7iy4pJCCFKh4wo8Cycf) | [Shadow Of Your Smile](https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl) | 3:46 |
 | 3 | [Artificial Love](https://open.spotify.com/track/3bp5qpZaIgSiCBdgZP2s49) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb), [Diastrata](https://open.spotify.com/artist/1Z1MedqFUlxM3OHqdHK7mx) | [Artificial Love](https://open.spotify.com/album/65UpqgG3qjIrwPLVfdIg2z) | 3:56 |
 | 4 | [Freak\-A\-Zoid \- Reboot](https://open.spotify.com/track/5p1qlJbZVirHNJbNzwG6Zy) | [Calloway](https://open.spotify.com/artist/3MKSm2U72NzNdxRjMhzyHh) | [Freak\-A\-Zoid \(Reboot\)](https://open.spotify.com/album/5l3bOFkCwff9VtB5CF04F4) | 2:12 |
 | 5 | [BOUNCE OUT](https://open.spotify.com/track/1ur9eFiVzYvlT2w1Ufn9Bv) | [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [BOUNCE OUT](https://open.spotify.com/album/3WUm6IoL869ydp3m7VNW2D) | 4:36 |

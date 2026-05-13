@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: K.ZIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,684 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,695 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 7 | [Walk with Me \(feat\. Sheila Maurice Grey\)](https://open.spotify.com/track/7hPIbQs1P227dUuXM2lO3v) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Sheila Maurice\-Grey](https://open.spotify.com/artist/6213qnwAKa0wEJBVXxfOdC) | [PSALM FUNK](https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk) | 3:08 |
 | 8 | [Something That Still Is](https://open.spotify.com/track/0WtPQLZJP2vdNZLrAEG3QQ) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Waiting Room \(with the ticking time bomb\)](https://open.spotify.com/album/0jxktpYRoH73fnHUANUdb3) | 3:06 |
 | 9 | [Rain Down](https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Rain Down](https://open.spotify.com/album/4he1mekN0K30tihK6xL0yL) | 4:38 |
-| 10 | [Only Water \- Feat\. Lady Donli](https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Only Water \(Feat\. Lady Donli\)](https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF) | 3:07 |
+| 10 | [Only Water \(Feat\. Lady Donli\)](https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Only Water \(Feat\. Lady Donli\)](https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF) | 3:07 |
 | 11 | [Fallen Angels](https://open.spotify.com/track/3BlYetXXRSqm5ncpxSsm4R) | [ROSEYE](https://open.spotify.com/artist/5OgVIGurum64YtfpEjicYy) | [Fallen Angels](https://open.spotify.com/album/1dronIYa4y1p9BNHOC9LpC) | 4:20 |
 | 12 | [Follow Me](https://open.spotify.com/track/6SaBRWlHeO9ZX1yZqxsMjQ) | [Soul Supreme](https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy), [Marlon Penn](https://open.spotify.com/artist/50soZXHu21vzgnmM3x9e69) | [Follow Me](https://open.spotify.com/album/4RqZobe4Nf7gyUt63ktsnU) | 4:13 |
 | 13 | [Tomorrow](https://open.spotify.com/track/4umymn6Qc9NZkoloGbEDgr) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Tomorrow](https://open.spotify.com/album/3YT79msB3OrgU1qvd7vyot) | 1:58 |

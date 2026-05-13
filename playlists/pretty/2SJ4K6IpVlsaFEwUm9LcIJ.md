@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,328 likes - 19 songs - 1 hr 10 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,330 likes - 21 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,5 +27,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 17 | [\(Loaded @ the Wrong Door,](https://open.spotify.com/track/0xhY3TJLJTTJX9zoaV88rh) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Impasse \(Deluxe Reissue\)](https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K) | 3:30 |
 | 18 | [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 |
 | 19 | [If Lady Does It](https://open.spotify.com/track/4cEIOH8zQJRUNt9TGZGQ2Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:12 |
+| 20 | [Half a Million Miles from Home](https://open.spotify.com/track/047PqVwCAmSuowUYFD5ger) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 3:25 |
+| 21 | [The Turnaround Road](https://open.spotify.com/track/5bK3tLaBVX7lSfGavEm2VH) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 5:19 |
 
-Snapshot ID: `AAAOUUZDKpAYQ7aHDslpuzeAE0Q/+/RW`
+Snapshot ID: `AAAOVZSWjgVBE5hQRWRC4r5ftQTY9G1O`

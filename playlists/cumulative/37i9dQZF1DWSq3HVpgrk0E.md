@@ -4,7 +4,7 @@
 
 > The whole truth\. Cover: Blade Brown, Benny The Butcher
 
-81 songs - 3 hr 58 min
+82 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 | 2025-12-12 | 2026-03-13 |
 | [Pattern](https://open.spotify.com/track/6ZdnXGLHEtYuvb49N9nGfq) | [SINN6R](https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [\#FEDERAL++](https://open.spotify.com/album/6Xo6JB03TxDvxF0KE0QXfU) | 2:33 | 2026-03-13 | 2026-04-17 |
 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 | 2025-10-17 | 2026-01-17 |
-| [PAYG](https://open.spotify.com/track/0lgxvRcbVVylxN9cli3WSi) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [PAYG](https://open.spotify.com/album/1auIHYagR2co2AFtmAKILv) | 2:38 | 2026-04-16 |  |
+| [PAYG](https://open.spotify.com/track/0lgxvRcbVVylxN9cli3WSi) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [PAYG](https://open.spotify.com/album/1auIHYagR2co2AFtmAKILv) | 2:38 | 2026-04-16 | 2026-05-13 |
 | [PBT](https://open.spotify.com/track/5820PtzfB116EIALe50F6t) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:10 | 2025-10-17 | 2026-04-27 |
 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 | 2025-10-17 |  |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-10-17 |  |
@@ -87,6 +87,7 @@
 | [What She Like](https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:07 | 2025-12-05 |  |
 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 | 2025-10-17 |  |
 | [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 | 2025-10-17 | 2026-03-31 |
+| [WIZARD OF OZ](https://open.spotify.com/track/4WUmgsEZZZx5aJqb5DE9Ta) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [WIZARD OF OZ](https://open.spotify.com/album/3ogwVPzWAxYZjROwu0MidL) | 2:33 | 2026-04-23 |  |
 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 | 2025-10-17 | 2026-02-20 |
 | [You've Changed](https://open.spotify.com/track/1yCuloYO2IJNmKoMwWjlno) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [You've Changed](https://open.spotify.com/album/2BLonWEwLiNzXp7cfaeFLr) | 3:15 | 2026-03-06 | 2026-04-10 |
 

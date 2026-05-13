@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACjeO45bgpPn2Vi0Lie3c+Y",
+  "snapshot_id": "agEcAAAAAADSPy72eT/HmVh93fiplW/9",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 168997,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HERSKIII",
         "url": "https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 120774,
       "name": "HERSKIII",
       "url": "https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 168997,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg"
     },
     {
       "added_at": null,
@@ -499,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "incua (special edition)",
+        "url": "https://open.spotify.com/album/1NJuOCEopoGxavyU2T0Y7t"
+      },
+      "artists": [
+        {
+          "name": "Destiny Briona",
+          "url": "https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "special - remix",
+      "url": "https://open.spotify.com/track/2KSyX260gogr0jfAupg4OQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "313-414 (feat. Tee Grizzley)",
         "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 149938,
       "name": "313-414 (feat. Tee Grizzley)",
       "url": "https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "incua (special edition)",
-        "url": "https://open.spotify.com/album/1NJuOCEopoGxavyU2T0Y7t"
-      },
-      "artists": [
-        {
-          "name": "Destiny Briona",
-          "url": "https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "special - remix",
-      "url": "https://open.spotify.com/track/2KSyX260gogr0jfAupg4OQ"
     },
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ETHER",
+        "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 194676,
+      "name": "WATER (with Lakeyah)",
+      "url": "https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Ratchet",
         "url": "https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 141030,
       "name": "Get Ratchet",
       "url": "https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ETHER",
-        "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
-      },
-      "artists": [
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 194676,
-      "name": "WATER (with Lakeyah)",
-      "url": "https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FYT (Fuckin you tonight)",
-        "url": "https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 254915,
-      "name": "FYT (Fuckin you tonight)",
-      "url": "https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bridge Kard Blessings",
         "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
       },
@@ -751,6 +735,38 @@
       "duration_ms": 146938,
       "name": "To The Money - feat. Lakeyah",
       "url": "https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FYT (Fuckin you tonight)",
+        "url": "https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 254915,
+      "name": "FYT (Fuckin you tonight)",
+      "url": "https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure (Pt. 1)",
+        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 116288,
+      "name": "Record Straight",
+      "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 208163,
       "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
       "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure (Pt. 1)",
-        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 116288,
-      "name": "Record Straight",
-      "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Hesitation",
+        "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 133903,
+      "name": "No Hesitation",
+      "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It's Not Me It's You (Deluxe)",
         "url": "https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 161684,
       "name": "Rich Bitch (feat. Lakeyah & Coi Leray)",
       "url": "https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Hesitation",
-        "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 133903,
-      "name": "No Hesitation",
-      "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
     },
     {
       "added_at": null,

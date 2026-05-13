@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Martyna Baranowska",
-  "num_followers": 25781,
+  "num_followers": 25774,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Stygnie lato",
-        "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
-      },
-      "artists": [
-        {
-          "name": "Kuba i Kuba",
-          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Stygnie lato",
-      "url": "https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "What's the Point!",
         "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 163754,
       "name": "What's the Point!",
       "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "Stygnie lato",
+        "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Stygnie lato",
+      "url": "https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
-        }
-      ],
-      "duration_ms": 162683,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "Million dollar baby",
         "url": "https://open.spotify.com/album/5YxT5Fl7ghytt6jNFRbeiz"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 166956,
       "name": "Million dollar baby",
       "url": "https://open.spotify.com/track/660cvt2QQCrWo4hfk4L4rX"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "duration_ms": 162683,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "have fun bby",
-        "url": "https://open.spotify.com/album/2dyS6p9Ng1KLP5JGMVlgx6"
-      },
-      "artists": [
-        {
-          "name": "Julia Po\u015bnik",
-          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
-        }
-      ],
-      "duration_ms": 156254,
-      "name": "have fun bby",
-      "url": "https://open.spotify.com/track/1HEBn1kTxE6fwDofeN1abq"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "fuck, i\u2019m yours?",
         "url": "https://open.spotify.com/album/3tNuN7r0HFJJxzfz05dVcm"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 167500,
       "name": "fuck, i\u2019m yours?",
       "url": "https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "have fun bby",
+        "url": "https://open.spotify.com/album/2dyS6p9Ng1KLP5JGMVlgx6"
+      },
+      "artists": [
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        }
+      ],
+      "duration_ms": 156254,
+      "name": "have fun bby",
+      "url": "https://open.spotify.com/track/1HEBn1kTxE6fwDofeN1abq"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
+        "name": "ASFALT",
+        "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "duration_ms": 153280,
+      "name": "ASFALT",
+      "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
         "name": "Pytania",
         "url": "https://open.spotify.com/album/6gDgbvpxYVyCTwJ1oLifF5"
       },
@@ -523,18 +539,18 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "ASFALT",
-        "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
+        "name": "Eksperyment",
+        "url": "https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO"
       },
       "artists": [
         {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
         }
       ],
-      "duration_ms": 153280,
-      "name": "ASFALT",
-      "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
+      "duration_ms": 202295,
+      "name": "Z cukrem myl\u0119 l\u00f3d",
+      "url": "https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -559,22 +575,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Eksperyment",
-        "url": "https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 202295,
-      "name": "Z cukrem myl\u0119 l\u00f3d",
-      "url": "https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "Egipt",
         "url": "https://open.spotify.com/album/7omIQ3EMXxvYjlJUjcEQA6"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "S\u0142oneczna strona ulicy",
-        "url": "https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y"
-      },
-      "artists": [
-        {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Lustro",
-      "url": "https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "cisza nocna",
         "url": "https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 182518,
       "name": "cisza nocna",
       "url": "https://open.spotify.com/track/6c6lldByHVVBfqha25sOor"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "S\u0142oneczna strona ulicy",
+        "url": "https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Lustro",
+      "url": "https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
+        "name": "STILL PRETTY WHEN I CRY",
+        "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "STILL PRETTY WHEN I CRY",
+      "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
         "name": "powiem/nie powiem",
         "url": "https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "STILL PRETTY WHEN I CRY",
-        "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
-      },
-      "artists": [
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
-        }
-      ],
-      "duration_ms": 159473,
-      "name": "STILL PRETTY WHEN I CRY",
-      "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "Na stacji paliw",
         "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "lie to me better",
-        "url": "https://open.spotify.com/album/6t4iyrvn3OAPRhbtYFtzxO"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 160795,
-      "name": "lie to me better",
-      "url": "https://open.spotify.com/track/1yOVQADad0VaKAmx9VKkZb"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "Lustro",
         "url": "https://open.spotify.com/album/3W91mDbnv8CLmX75f9RtO8"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 173100,
       "name": "Lustro",
       "url": "https://open.spotify.com/track/1juFCYbgxY2JQRXAmDoQey"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "lie to me better",
+        "url": "https://open.spotify.com/album/6t4iyrvn3OAPRhbtYFtzxO"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 160795,
+      "name": "lie to me better",
+      "url": "https://open.spotify.com/track/1yOVQADad0VaKAmx9VKkZb"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Piosenki z film\u00f3w, kt\u00f3rych nie by\u0142o",
-        "url": "https://open.spotify.com/album/7s2bGUQv7ftvuBe7F372sA"
-      },
-      "artists": [
-        {
-          "name": "micha\u0142 od ko\u015bci",
-          "url": "https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI"
-        }
-      ],
-      "duration_ms": 234352,
-      "name": "Pi\u0105tki",
-      "url": "https://open.spotify.com/track/7hN6LIVSU8WlbZ383vtLPA"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "chce Twoje zarazki",
         "url": "https://open.spotify.com/album/6lG2MHCF8CPxnSy8o6EBW1"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 168965,
       "name": "chce Twoje zarazki",
       "url": "https://open.spotify.com/track/4RNfRk8YAv28vlF3bplP2t"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "Piosenki z film\u00f3w, kt\u00f3rych nie by\u0142o",
+        "url": "https://open.spotify.com/album/7s2bGUQv7ftvuBe7F372sA"
+      },
+      "artists": [
+        {
+          "name": "micha\u0142 od ko\u015bci",
+          "url": "https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI"
+        }
+      ],
+      "duration_ms": 234352,
+      "name": "Pi\u0105tki",
+      "url": "https://open.spotify.com/track/7hN6LIVSU8WlbZ383vtLPA"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "\u017bURAWIE",
-        "url": "https://open.spotify.com/album/5HjIBIK0vlq42Yzc4Mzm3t"
-      },
-      "artists": [
-        {
-          "name": "Barnim",
-          "url": "https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "\u017bURAWIE",
-      "url": "https://open.spotify.com/track/1nT0822I7pQ2qISF80IWjo"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "baza",
         "url": "https://open.spotify.com/album/4JiIxzBwzqYSxWqXGIFUNm"
       },
@@ -1087,18 +1071,34 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Explozja",
-        "url": "https://open.spotify.com/album/54QrKE2qeUoQEpqZVRPzKv"
+        "name": "PORTO",
+        "url": "https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn"
       },
       "artists": [
         {
-          "name": "IKARVS",
-          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
         }
       ],
-      "duration_ms": 177777,
-      "name": "Explozja",
-      "url": "https://open.spotify.com/track/19jrg0zOmmSJcLUARHqF6x"
+      "duration_ms": 149011,
+      "name": "PORTO",
+      "url": "https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "\u017bURAWIE",
+        "url": "https://open.spotify.com/album/5HjIBIK0vlq42Yzc4Mzm3t"
+      },
+      "artists": [
+        {
+          "name": "Barnim",
+          "url": "https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "\u017bURAWIE",
+      "url": "https://open.spotify.com/track/1nT0822I7pQ2qISF80IWjo"
     }
   ],
   "unique_name": "up next",

@@ -4,7 +4,7 @@
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-126 songs - 6 hr 30 min
+127 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Days Are Getting Shorter](https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Days Are Getting Shorter](https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w) | 5:34 | 2025-04-24 |  |
 | [deserve](https://open.spotify.com/track/5Zt5MQYztxNlvqOF0kmrOS) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [deserve / energy](https://open.spotify.com/album/1IbLj6D3Ju2larSueFQtib) | 1:46 | 2025-03-08 | 2025-03-09 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2022-09-14 |  |
-| [Devotion](https://open.spotify.com/track/4AyHlEuenAyjMOifhsjBBd) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Devotion](https://open.spotify.com/album/5W8SvJTwnL2joYd7J5yu7L) | 2:20 | 2025-10-30 |  |
+| [Devotion](https://open.spotify.com/track/21p9K1RiiIHSvfJeK2wwnF) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 2:20 | 2026-05-13 |  |
+| [Devotion](https://open.spotify.com/track/4AyHlEuenAyjMOifhsjBBd) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Devotion](https://open.spotify.com/album/5W8SvJTwnL2joYd7J5yu7L) | 2:20 | 2025-10-30 | 2026-05-13 |
 | [DISTRACTION](https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 3:00 | 2024-07-25 |  |
 | [Do You Remember?](https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:58 | 2024-09-29 |  |
 | [Don't Be Afraid to Fly](https://open.spotify.com/track/54cthKyZakydPsIydH8PI5) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Don't Be Afraid to Fly](https://open.spotify.com/album/5fvi8Ak4JKHq3O49Dz1011) | 3:03 | 2022-09-14 | 2022-10-13 |

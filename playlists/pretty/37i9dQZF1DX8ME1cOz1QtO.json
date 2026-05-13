@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 121813,
+  "num_followers": 121827,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Tubular Bells",
-        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 1397160,
-      "name": "Tubular Bells - Pt. II",
-      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Natural States",
         "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 258000,
       "name": "Rain Forest",
       "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Tubular Bells",
+        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 1397160,
+      "name": "Tubular Bells - Pt. II",
+      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -400,11 +400,19 @@
       },
       "artists": [
         {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
           "name": "Isao Tomita",
           "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
+        },
+        {
+          "name": "Nathaniel S. Johnson",
+          "url": "https://open.spotify.com/artist/1VsWMkOej4LMPKAhQ6g6kc"
         }
       ],
-      "duration_ms": 350000,
+      "duration_ms": 353600,
       "name": "Suite Bergamasque: Clair de Lune, No. 3",
       "url": "https://open.spotify.com/track/7Lcz0kdcDOdt5IVBr4M2Od"
     },
@@ -775,22 +783,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Oasis [Remastered]",
-        "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
-      },
-      "artists": [
-        {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        }
-      ],
-      "duration_ms": 489093,
-      "name": "Cosmic Energy",
-      "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Island",
         "url": "https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr"
       },
@@ -807,6 +799,22 @@
       "duration_ms": 288333,
       "name": "Carnation Lily Lily Rose",
       "url": "https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Oasis [Remastered]",
+        "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
+      },
+      "artists": [
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        }
+      ],
+      "duration_ms": 489093,
+      "name": "Cosmic Energy",
+      "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -875,6 +883,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Best Of Tim Weisberg: Smile!",
+        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+      },
+      "artists": [
+        {
+          "name": "Tim Weisberg",
+          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Dion Blue",
+      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB"
       },
@@ -891,22 +915,6 @@
       "duration_ms": 754103,
       "name": "Prism",
       "url": "https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Best Of Tim Weisberg: Smile!",
-        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
-      },
-      "artists": [
-        {
-          "name": "Tim Weisberg",
-          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Dion Blue",
-      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1259,18 +1267,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Pathless Path",
-        "url": "https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok"
+        "name": "Procession",
+        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
       },
       "artists": [
         {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+          "name": "Bernard Xolotl",
+          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
         }
       ],
-      "duration_ms": 226826,
-      "name": "Koto",
-      "url": "https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD"
+      "duration_ms": 447000,
+      "name": "Procession",
+      "url": "https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1323,18 +1331,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
+        "name": "Pathless Path",
+        "url": "https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok"
       },
       "artists": [
         {
-          "name": "Bernard Xolotl",
-          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
         }
       ],
-      "duration_ms": 447000,
-      "name": "Procession",
-      "url": "https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB"
+      "duration_ms": 226826,
+      "name": "Koto",
+      "url": "https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1351,6 +1359,22 @@
       "duration_ms": 376333,
       "name": "Oceans And Continents",
       "url": "https://open.spotify.com/track/6X1jdivZEvbFlOjVn4GyYP"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Procession",
+        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
+      },
+      "artists": [
+        {
+          "name": "Bernard Xolotl",
+          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
+        }
+      ],
+      "duration_ms": 936000,
+      "name": "Mirador",
+      "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1403,22 +1427,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
-      },
-      "artists": [
-        {
-          "name": "Bernard Xolotl",
-          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
-        }
-      ],
-      "duration_ms": 936000,
-      "name": "Mirador",
-      "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
       },
@@ -1467,22 +1475,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 460640,
-      "name": "Oxygene, Pt. 1",
-      "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Celestial Soul Portrait",
         "url": "https://open.spotify.com/album/4teQ1kGvpBu2cxPc4xo9Kh"
       },
@@ -1495,6 +1487,22 @@
       "duration_ms": 659426,
       "name": "The Angels Of Comfort",
       "url": "https://open.spotify.com/track/2G5qQOk7Oi7IrcFUXlpJ2e"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 460640,
+      "name": "Oxygene, Pt. 1",
+      "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1551,22 +1559,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Oxygene, Pt. 3",
-      "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Images of Flutes in Nature",
         "url": "https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa"
       },
@@ -1583,6 +1575,22 @@
       "duration_ms": 201186,
       "name": "Forest Spirit",
       "url": "https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Oxygene, Pt. 3",
+      "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
     },
     {
       "added_at": "2023-08-18 14:02:54",

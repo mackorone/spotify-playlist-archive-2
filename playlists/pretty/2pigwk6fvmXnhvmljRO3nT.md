@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,441 songs - 21 day 12 hr 10 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,443 songs - 21 day 12 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8449,5 +8449,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8439 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 8440 | [Roommates](https://open.spotify.com/track/5vPUv0xziXbV4lnWeVNXNq) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:34 |
 | 8441 | [4Me 4Me](https://open.spotify.com/track/7uEFboafVLvROPYTqdMi0n) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:30 |
+| 8442 | [On & On](https://open.spotify.com/track/4uukXoeAUxow3aV9kVkcjY) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/2Ms3svRNQf0jFryjT2HKCQ) | 3:27 |
+| 8443 | [Cheerleader](https://open.spotify.com/track/1ggsR5kCepKTW4F64bCFdV) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/7qx3Q51nfQvkEHIREiTRCO) | 3:57 |
 
-Snapshot ID: `AAALwtmTyyf9XXRyi0y/vTfJFa1HfEfI`
+Snapshot ID: `AAALxAvPKhVcAVo/b9KFoZWhmU8XOC22`

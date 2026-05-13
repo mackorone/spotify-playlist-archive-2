@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 589503,
+  "num_followers": 589625,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "No Quiere Amor (feat. Farruko)",
+        "url": "https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "No Quiere Amor (feat. Farruko)",
+      "url": "https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "B.U.H.O",
         "url": "https://open.spotify.com/album/03obMR1fgKaIIuQHEZDNee"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 298393,
       "name": "B.U.H.O",
       "url": "https://open.spotify.com/track/3juYl7RDkfwMGX5a17ach5"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "No Quiere Amor (feat. Farruko)",
-        "url": "https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "No Quiere Amor (feat. Farruko)",
-      "url": "https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Coronamos",
+        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Coronamos",
+      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 221802,
       "name": "Vengo De Nada",
       "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Coronamos",
-        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
-      },
-      "artists": [
-        {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Coronamos",
-      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "duration_ms": 220147,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Malportau",
         "url": "https://open.spotify.com/album/2vfsczLvfRlioZqTWfoaDx"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 213471,
       "name": "Malportau",
       "url": "https://open.spotify.com/track/4jLFEYbIYqNWnxbuLEf7z5"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
-      },
-      "artists": [
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        }
-      ],
-      "duration_ms": 220147,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
     },
     {
       "added_at": "2024-03-08 16:14:30",

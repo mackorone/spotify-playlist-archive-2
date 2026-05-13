@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: Kikuo",
+  "description": "Explore the current wave of VOCALOID culture. Cover: DECO*27",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 227700,
       "name": "gONE",
       "url": "https://open.spotify.com/track/6J7TyJPpibB6wQeGNVzFlZ"
@@ -1594,6 +1594,28 @@
       "duration_ms": 272410,
       "name": "HappyCoaster",
       "url": "https://open.spotify.com/track/5iyY8j4qo5k9Yjdj68YmmT"
+    },
+    {
+      "album": {
+        "name": "Hate full Donuts (feat. KASANE TETO)",
+        "url": "https://open.spotify.com/album/3xTS3IQQxKPFHP0BO38mGH"
+      },
+      "artists": [
+        {
+          "name": "\u66b4\u98f2\u66b4\u98dfP",
+          "url": "https://open.spotify.com/artist/5bT9WQ6QLrbabzdzvC63EN"
+        },
+        {
+          "name": "Kasane Teto",
+          "url": "https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163965,
+      "name": "Hate full Donuts (feat. KASANE TETO)",
+      "url": "https://open.spotify.com/track/0BEnyvCkVIJln2Y30mXA5C"
     },
     {
       "album": {
@@ -2386,6 +2408,24 @@
       "duration_ms": 244226,
       "name": "magnet",
       "url": "https://open.spotify.com/track/0xqOk9g0UVJOWhlNc1nX1S"
+    },
+    {
+      "album": {
+        "name": "magnet (recall)",
+        "url": "https://open.spotify.com/album/5WqwtZTh63W2n364wrnEAW"
+      },
+      "artists": [
+        {
+          "name": "\u6e4a\u8cb4\u5927(\u6d41\u661fP)",
+          "url": "https://open.spotify.com/artist/2IXgEsyVWo6yWxD0lKU0he"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244444,
+      "name": "magnet - recall",
+      "url": "https://open.spotify.com/track/5Nv7QGcv68ex12c6csMQz9"
     },
     {
       "album": {
@@ -7684,7 +7724,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 163682,
       "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
       "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
@@ -7702,7 +7742,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 201265,
       "name": "\u30c7\u30ed\u30b9\u30b5\u30f3\u30c8\u30b9",
       "url": "https://open.spotify.com/track/5W6i71A1a4cZL9bQ6CN4qv"
@@ -9782,6 +9822,24 @@
       "duration_ms": 209574,
       "name": "\u30e9\u30d6&\u30c7\u30b9\u30c8\u30ed\u30a4",
       "url": "https://open.spotify.com/track/6P6sDGoWxtoaHajfoliJTw"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30d1\u30e9",
+        "url": "https://open.spotify.com/album/5Dwd0E2Q3pXFrHJagd84Y6"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179066,
+      "name": "\u30e9\u30d6\u30d1\u30e9",
+      "url": "https://open.spotify.com/track/0nOeQHoZI9S4BburaZYWlB"
     },
     {
       "album": {

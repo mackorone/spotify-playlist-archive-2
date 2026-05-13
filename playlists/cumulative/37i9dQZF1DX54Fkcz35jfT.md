@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: Fear, and Loathing in Las Vegas
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: METALVERSE
 
-481 songs - 1 day 3 hr 41 min
+482 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [gg燦然](https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [gg燦然](https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR) | 2:29 | 2024-07-09 | 2025-07-09 |
 | [GIRL'S TALK](https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [GIRL'S TALK](https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO) | 2:54 | 2024-05-14 | 2026-01-28 |
 | [girls lie.](https://open.spotify.com/track/5AlpGLlLw51j1HvauS8KJt) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [DIGITAL PARANOIA 2052](https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO) | 2:45 | 2024-02-06 | 2025-05-12 |
+| [GIZA](https://open.spotify.com/track/4VtKZP3vOFd0hHKCRzLTfX) | [METALVERSE](https://open.spotify.com/artist/4FZB47paQH8eOatPhgG7pp) | [GIZA](https://open.spotify.com/album/0CnyDtoegFUUEm9uZbcMb6) | 3:13 | 2026-05-12 |  |
 | [GLORY](https://open.spotify.com/track/2ElIOMmJFVGE2l4rZsRjsy) | [Are Square](https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY) | [GLORY](https://open.spotify.com/album/2yF7hXYwvJiV27KWSUUcMl) | 3:48 | 2024-07-30 | 2024-10-16 |
 | [God Speed \(feat\. WARGASM \(UK\)\)](https://open.spotify.com/track/7CqdptwGjeskv3rim4Spvi) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [God Speed \(feat\. WARGASM \(UK\)\)](https://open.spotify.com/album/0mu1GjpR57D8aStHJyyboQ) | 3:16 | 2024-05-14 | 2024-11-13 |
 | [GROUNDSWELL](https://open.spotify.com/track/4REYshNixTxWSmDaEmA3aC) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [GROUNDSWELL ep.](https://open.spotify.com/album/0N44vXI4msINfTkRBt38qH) | 3:57 | 2023-07-20 | 2023-11-22 |
@@ -342,7 +343,7 @@
 | [STAY GROUND](https://open.spotify.com/track/594mWwCmEPEUdbTylWSr5p) | [ISCREAM NEVER GROUND](https://open.spotify.com/artist/3VaWHUyDEoBjigERzadi1g) | [MAKING THE GROUND](https://open.spotify.com/album/0wYws2sv9puyf9jO7U2r0y) | 3:34 | 2025-06-24 | 2025-08-06 |
 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 | 2023-07-20 |  |
 | [Still Burning](https://open.spotify.com/track/5Ep7HRnmu32mSkk1U1eaYQ) | [BRIDEAR](https://open.spotify.com/artist/3h6F7NaadGF3Ayf3FJBjdR) | [Born Again](https://open.spotify.com/album/1klS1EXSjRdF0bXuTMcHZO) | 5:20 | 2024-07-09 | 2024-07-23 |
-| [STILL ON FIRE](https://open.spotify.com/track/5blRKN8WIFG3WXUzNytf5B) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [STILL ON FIRE](https://open.spotify.com/album/0mVecY7PMTHop2lnWOb7Vf) | 3:16 | 2026-03-03 |  |
+| [STILL ON FIRE](https://open.spotify.com/track/5blRKN8WIFG3WXUzNytf5B) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [STILL ON FIRE](https://open.spotify.com/album/0mVecY7PMTHop2lnWOb7Vf) | 3:16 | 2026-03-03 | 2026-05-13 |
 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 | 2024-07-23 |  |
 | [Straight Up feat\. JESSE](https://open.spotify.com/track/75dPUj5ErNVEQexYGcGq3x) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef) | [Straight Up feat\. JESSE](https://open.spotify.com/album/4KedQNW6Evrgu7vZCJtYYG) | 4:20 | 2024-10-01 | 2025-04-16 |
 | [sugar cannon ball](https://open.spotify.com/track/6KF2HG0q8q7xighJaoKPvU) | [インディアカヌー](https://open.spotify.com/artist/1KNT3mnqMTCRXaDHkGcm7r) | [sugar cannon ball / alcohol](https://open.spotify.com/album/3s1VTJFQN3viRC9NEh2mfU) | 5:18 | 2023-11-30 | 2024-01-17 |

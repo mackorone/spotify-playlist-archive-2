@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 7465,
+  "num_followers": 7468,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 249033,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Kilometre",
-        "url": "https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 152692,
-      "name": "Kilometre",
-      "url": "https://open.spotify.com/track/0oQgoesQJq0fRnWOY1D73g"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 258982,
       "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
       "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Kilometre",
+        "url": "https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 152692,
+      "name": "Kilometre",
+      "url": "https://open.spotify.com/track/0oQgoesQJq0fRnWOY1D73g"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Lock Down",
-        "url": "https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476"
-      },
-      "artists": [
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        },
-        {
-          "name": "Usain Bolt",
-          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Lock Down",
-      "url": "https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 196037,
       "name": "WE GOING CRAZY (feat. H.E.R. & Migos)",
       "url": "https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Lock Down",
+        "url": "https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "Lock Down",
+      "url": "https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17"
     },
     {
       "added_at": "2022-10-01 16:00:00",

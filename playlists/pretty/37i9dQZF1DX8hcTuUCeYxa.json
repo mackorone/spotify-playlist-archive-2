@@ -1,6 +1,6 @@
 {
   "description": "Die besten Neuheiten von Alt-Pop bis Indie-Rock. Cover: Lykke Li",
-  "num_followers": 177964,
+  "num_followers": 177959,
   "original_name": "Indie Brandneu",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-05-07 22:00:58",
       "album": {
+        "name": "Mammoth",
+        "url": "https://open.spotify.com/album/3dnhxDJuhlGMOlSLYFucMK"
+      },
+      "artists": [
+        {
+          "name": "Flora Hibberd",
+          "url": "https://open.spotify.com/artist/5EFG7rqfVfdyaXiRZbRkpS"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "Mammoth",
+      "url": "https://open.spotify.com/track/3aE7UURzEUkznUbf1mJAMS"
+    },
+    {
+      "added_at": "2026-05-07 22:00:58",
+      "album": {
         "name": "New Love",
         "url": "https://open.spotify.com/album/7IV6vTYEjC1ScBNJa06Xo2"
       },
@@ -443,6 +459,26 @@
       "duration_ms": 183465,
       "name": "Freaking Out",
       "url": "https://open.spotify.com/track/0DR7mYqiG81ZTQPct6AwpV"
+    },
+    {
+      "added_at": "2026-05-07 22:00:58",
+      "album": {
+        "name": "Catching Sunlight",
+        "url": "https://open.spotify.com/album/2yo3X1eLmITUg1dDkmxFKt"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Stephen Simons",
+          "url": "https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave"
+        },
+        {
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+        }
+      ],
+      "duration_ms": 168276,
+      "name": "Catching Sunlight",
+      "url": "https://open.spotify.com/track/44yIg3ZXkbWWoZHQooaciQ"
     },
     {
       "added_at": "2026-05-07 22:00:58",
@@ -571,6 +607,22 @@
       "duration_ms": 195632,
       "name": "The Weak",
       "url": "https://open.spotify.com/track/5VynIbPZQP6UR2JTddLKqw"
+    },
+    {
+      "added_at": "2026-05-07 22:00:58",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/4016CeKzSOstXXe2jLqqoh"
+      },
+      "artists": [
+        {
+          "name": "Paycheque",
+          "url": "https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe"
+        }
+      ],
+      "duration_ms": 239700,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR"
     },
     {
       "added_at": "2026-05-07 22:00:58",

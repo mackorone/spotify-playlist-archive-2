@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,398 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,443 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 61 | [Response \- Live](https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [A Rift In Decorum: Live At The Village Vanguard](https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb) | 5:37 |
 | 62 | [Paul's Pal \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Off To The Races \(Remastered\)](https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi) | 7:06 |
 | 63 | [Apple House](https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Moving Picture](https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh) | 5:12 |
-| 64 | [Instigator](https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL) | [Jon Faddis](https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX) | [Legacy](https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV) | 4:45 |
-| 65 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
+| 64 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
+| 65 | [Instigator](https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL) | [Jon Faddis](https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX) | [Legacy](https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV) | 4:45 |
 | 66 | [Jacob's Ladder](https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Magnetic](https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98) | 7:59 |
 | 67 | [El Sino](https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd's Eye View](https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF) | 10:03 |
 | 68 | [The Gift That Keeps on Giving](https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L) | [I Am a Man \(with Bill Frisell, Brian Blade, Jason Moran & Thomas Morgan\)](https://open.spotify.com/album/7foEq7VyoOsDoFMVaBQz80) | 9:31 |

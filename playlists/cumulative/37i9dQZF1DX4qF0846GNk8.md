@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر! الغلاف: حمو المرشدي
 
-378 songs - 23 hr 28 min
+379 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [حمرا](https://open.spotify.com/track/0nkJCooURSEVpWFpeYOzeI) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [حمرا](https://open.spotify.com/album/0g8MIat372o8vp1Shk1sMe) | 3:38 | 2023-03-01 | 2024-02-22 |
 | [حمص](https://open.spotify.com/track/603yXldrQ8YFrTD0zgUK5B) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr), [Mohamed Abdel Salam](https://open.spotify.com/artist/2GniCLZUERdnooiq0zGlaz) | [حمص](https://open.spotify.com/album/2X9ukkkitGJu5BSdRBDlDX) | 3:00 | 2023-05-18 | 2023-09-26 |
 | [حياتي مرار وخدت قرار\(حبيب القلب روح القلب\)](https://open.spotify.com/track/3Bzq126bbUzSD26eHBc6JX) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [حياتي مرار وخدت قرار\(حبيب القلب روح القلب\)](https://open.spotify.com/album/54YA0OY0dRNw1OIiuhNuvh) | 4:08 | 2023-06-21 | 2023-09-26 |
-| [خابط نفسي بسلاح حامي](https://open.spotify.com/track/7FJ7Lnc06wTrNXkskAg0Ud) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15) | [خابط نفسي بسلاح حامي](https://open.spotify.com/album/1wPsE8kvr3lfGVT2ivywMN) | 3:31 | 2025-07-24 |  |
+| [خابط نفسي بسلاح حامي](https://open.spotify.com/track/7FJ7Lnc06wTrNXkskAg0Ud) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15) | [خابط نفسي بسلاح حامي](https://open.spotify.com/album/1wPsE8kvr3lfGVT2ivywMN) | 3:31 | 2025-07-24 | 2026-05-13 |
 | [خارج الشارع متحول](https://open.spotify.com/track/3wt6bx8Up4q1ujsRoVtsx6) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB), [Mostafa El Gen](https://open.spotify.com/artist/2drznmRpH5GnzMiKfJDyOZ) | [خارج الشارع متحول](https://open.spotify.com/album/3WP6GZ7jlCVG6y0NJYQhBy) | 4:45 | 2023-05-30 | 2025-05-08 |
 | [خصمي الزايف](https://open.spotify.com/track/2rFoGamJCAO3b9URna86UR) | [Fares Zezo](https://open.spotify.com/artist/4o337qB8c2ciGL4spdX7su), [Shwaha](https://open.spotify.com/artist/0y9Lt4V8MCaO1vJBgNpb0d), [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [خصمي الزايف](https://open.spotify.com/album/4vFuPjaXNv4ibGtfvytw7r) | 5:36 | 2024-06-11 | 2024-07-09 |
 | [خصمي بكيفه مكتفه \- انا مش بتكسف يا ابلتي](https://open.spotify.com/track/3Kroxt7mnIUfSDFGpWF5yJ) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [خصمي بكيفه مكتفه \(انا مش بتكسف يا ابلتي\)](https://open.spotify.com/album/369scONG77YROb5sy7AnTt) | 4:33 | 2022-03-30 | 2022-06-03 |
@@ -307,6 +307,7 @@
 | [مسا مسا علي عينك يا عنيا](https://open.spotify.com/track/1NwtSKtKzrKFDKPIzd97gv) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [مسا مسا علي عينك يا عنيا](https://open.spotify.com/album/2bXze71F2TRpE0oLgGEHIN) | 4:20 | 2023-03-21 | 2023-03-25 |
 | [مسا مني ليكوا](https://open.spotify.com/track/7qnR06N2Ekj9iBOQHiFqdq) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [مسا منى ليكوا](https://open.spotify.com/album/7xJews3EUUzYDq1Ycez0Kq) | 3:39 | 2023-01-12 | 2025-06-04 |
 | [مساء اللذاذه رافعلي ازازة](https://open.spotify.com/track/6iYt4DFRlCQX4qsjc4yNVp) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [مساء اللذاذه رافعلي ازازة](https://open.spotify.com/album/3a0Hv8DY64kbCxLXySBNYI) | 2:42 | 2025-04-22 | 2025-05-08 |
+| [مسجون](https://open.spotify.com/track/5HdwOCH19HtVJbLgcNrxdW) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kimo El Deeb](https://open.spotify.com/artist/49FPLRUHMBRiUIhtx3N07x) | [مسجون](https://open.spotify.com/album/6ltOLhg9IcvDwrtXxppZGE) | 5:03 | 2026-05-12 |  |
 | [مسجون حزين](https://open.spotify.com/track/0TxEBrs9Py9uOxwOSYBROV) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مسجون حزين](https://open.spotify.com/album/5bCHHycTY8di9iZoGO6hYI) | 4:24 | 2021-12-16 | 2022-10-25 |
 | [مسيلى على نفسك مسا](https://open.spotify.com/track/6CQNzeaZaiHNI6B8UTl5EE) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7), [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [مسيلى على نفسك مسا](https://open.spotify.com/album/0UoKkR5b9EwbwcfTZP2t4u) | 4:34 | 2024-03-08 | 2026-02-28 |
 | [مش شايفك](https://open.spotify.com/track/348qlmHvImqrjdgqlwvPjr) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [مش شايفك](https://open.spotify.com/album/0C8L9omqkyv8af3yCXNg7L) | 2:21 | 2022-10-16 | 2026-02-12 |

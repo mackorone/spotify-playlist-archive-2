@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 100156,
+  "num_followers": 100173,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACYn/5YZaEzEDrohMc1frce",
+  "snapshot_id": "agEcAAAAAAAK6sRKTWMPmr/apbt0GZOp",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 180197,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Internacional",
         "url": "https://open.spotify.com/album/5lOudBxycPSzUC6GKDQ2Cs"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 159176,
       "name": "La Internacional",
       "url": "https://open.spotify.com/track/6T0FTw6tAOUbeMIvGV7WrX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fin De Semana",
-        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 180197,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 3 De Siempre",
-        "url": "https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE"
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 175777,
-      "name": "Los 3 De Siempre",
-      "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
+      "duration_ms": 184751,
+      "name": "Cuartitos De Libra",
+      "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+        "name": "Los 3 De Siempre",
+        "url": "https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 184751,
-      "name": "Cuartitos De Libra",
-      "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
+      "duration_ms": 175777,
+      "name": "Los 3 De Siempre",
+      "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
     },
     {
       "added_at": null,

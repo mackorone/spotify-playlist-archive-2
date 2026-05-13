@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,539 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,536 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [San Jose](https://open.spotify.com/track/10faGZlZW8884vtccmxfuG) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Bomber Musik](https://open.spotify.com/artist/4zr3RwMjXXtxGlU3hsZJ2P) | [San Jose](https://open.spotify.com/album/01cCEYFBAyC4bWcKZoSoKU) | 3:55 |
+| 1 | [San Jose](https://open.spotify.com/track/10faGZlZW8884vtccmxfuG) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Bombermusik](https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ) | [San Jose](https://open.spotify.com/album/01cCEYFBAyC4bWcKZoSoKU) | 3:55 |
 | 2 | [PERVERSA \- Remix](https://open.spotify.com/track/0esaR3jt3HS2uoDEoz4rjC) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Ladele OTM](https://open.spotify.com/artist/0ryLYxj89KsjwIZEwS0k8J), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d) | [GRM MIXTAPE 2.5](https://open.spotify.com/album/1nqqJRp3psz3zYle9KXwG0) | 3:25 |
 | 3 | [Paris](https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Paris](https://open.spotify.com/album/6slcxJSXyA96hAUiaABZW2) | 3:09 |
 | 4 | [Woy](https://open.spotify.com/track/3UB1zEUQBh9Ff1emup6gvW) | [Josuan](https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU), [Eshconinco](https://open.spotify.com/artist/4GcktEVE1rB4Kyv1woxUrx) | [Woy](https://open.spotify.com/album/2JkcMT5sw72hYSRV7hNKCn) | 3:25 |

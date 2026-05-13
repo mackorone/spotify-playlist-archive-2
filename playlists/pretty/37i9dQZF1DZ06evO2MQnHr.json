@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABVDdYMLsofLtpydHa/4qge",
+  "snapshot_id": "agEcAAAAAADc+i3fEvKaB93IHvFz0cNo",
   "tracks": [
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tim + Faith",
-        "url": "https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv"
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 230106,
-      "name": "Tim + Faith",
-      "url": "https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX"
+      "duration_ms": 204493,
+      "name": "War Paint",
+      "url": "https://open.spotify.com/track/0ozzHTaaXNLaVxuO1VQ8KT"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Soul",
-        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
+        "name": "Tim + Faith",
+        "url": "https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 204493,
-      "name": "War Paint",
-      "url": "https://open.spotify.com/track/0ozzHTaaXNLaVxuO1VQ8KT"
+      "duration_ms": 230106,
+      "name": "Tim + Faith",
+      "url": "https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX"
     },
     {
       "added_at": null,
@@ -223,6 +223,22 @@
       "duration_ms": 189253,
       "name": "Neon Love",
       "url": "https://open.spotify.com/track/0sKeaaAQYBTTkO8drpnEN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Whatcha Wanna Do About It",
+      "url": "https://open.spotify.com/track/4RvfyCTSXK7sxQ6Srp26lu"
     },
     {
       "added_at": null,
@@ -259,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Soul",
-        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Whatcha Wanna Do About It",
-      "url": "https://open.spotify.com/track/4RvfyCTSXK7sxQ6Srp26lu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Makeup",
         "url": "https://open.spotify.com/album/0gMQ8smzxR8h75ByKOhyYR"
       },
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You'll Think Of Me",
-        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "You'll Think Of Me",
-      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Soul",
         "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 188013,
       "name": "Honey Jack",
       "url": "https://open.spotify.com/track/6xh9ldjY4JllfaguxDQqz5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You'll Think Of Me",
+        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "You'll Think Of Me",
+      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE HOUSE DOWN (from the girl next door)",
-        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "One House Down (from the girl next door)",
-      "url": "https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Soul",
         "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 207906,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1tZ1TWoBfBIOnWU3ieSRzk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONE HOUSE DOWN (from the girl next door)",
+        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "One House Down (from the girl next door)",
+      "url": "https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE HOUSE DOWN (from the girl next door)",
-        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 192373,
-      "name": "Bar Fight",
-      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Soul",
         "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 199306,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/0C8zrFkcEsOW5hhBdAFzYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONE HOUSE DOWN (from the girl next door)",
+        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 202920,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE HOUSE DOWN (from the girl next door)",
-        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 202920,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Soul",
         "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 237240,
       "name": "Sinking Like a Stone",
       "url": "https://open.spotify.com/track/5gcfq2p2cEQEwrzuq9ojQD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONE HOUSE DOWN (from the girl next door)",
+        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 192373,
+      "name": "Bar Fight",
+      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
     },
     {
       "added_at": null,

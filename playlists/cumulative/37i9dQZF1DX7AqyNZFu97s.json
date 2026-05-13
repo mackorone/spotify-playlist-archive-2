@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: PENNY",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: plusamari",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 180000,
       "name": "+44",
       "url": "https://open.spotify.com/track/4cDnX3cMVIVRg8wKO1fCjW"
+    },
+    {
+      "album": {
+        "name": "+deriva",
+        "url": "https://open.spotify.com/album/2VRNcYjJfKqk9yAImvgpCY"
+      },
+      "artists": [
+        {
+          "name": "plusamari",
+          "url": "https://open.spotify.com/artist/7aBsay1LwiX89GuowSd15N"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175304,
+      "name": "+new strangers",
+      "url": "https://open.spotify.com/track/6snObK4c5mYNC0obf5J2VC"
     },
     {
       "album": {
@@ -684,7 +702,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 147500,
       "name": "2099",
       "url": "https://open.spotify.com/track/4ooICmT2zrfMprazExomIi"
@@ -26357,6 +26375,24 @@
     },
     {
       "album": {
+        "name": "Hold Tight",
+        "url": "https://open.spotify.com/album/1lOvYZN91FZsVsGf2WUVLt"
+      },
+      "artists": [
+        {
+          "name": "Deepmore",
+          "url": "https://open.spotify.com/artist/13BYWimbSkr7PU9bBad8T7"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Hold Tight",
+      "url": "https://open.spotify.com/track/1VZxMT8y4nkXVRAqwERP0W"
+    },
+    {
+      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/0sHCFyPdbq5UJHeBt8xp1Q"
       },
@@ -33784,7 +33820,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 274000,
       "name": "Lean In",
       "url": "https://open.spotify.com/track/76Zp5J2tvWilouDcMEn8OP"
@@ -37360,7 +37396,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 225610,
       "name": "Mama, My Heart Is Achin'",
       "url": "https://open.spotify.com/track/6tVk7AVFvAa5oSj2YEoB6W"
@@ -40686,7 +40722,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 281173,
       "name": "Nevagonna",
       "url": "https://open.spotify.com/track/0xAZva9E2vELq4DKF0mtpO"
@@ -49516,7 +49552,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 143098,
       "name": "round, round",
       "url": "https://open.spotify.com/track/3udUpLCl78125UkbwtSNIE"
@@ -58794,7 +58830,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 182348,
       "name": "The Rain Isn't Over",
       "url": "https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0"
@@ -59725,6 +59761,24 @@
     },
     {
       "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/2qnquruBha6qtNaiVsxvXX"
+      },
+      "artists": [
+        {
+          "name": "Shay O'Dowd",
+          "url": "https://open.spotify.com/artist/1xp8arQmoMdz3b5LlJ5LJu"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Time & Space",
+      "url": "https://open.spotify.com/track/2fYU9hcP63iRXPQjKAFZDT"
+    },
+    {
+      "album": {
         "name": "Time Lost",
         "url": "https://open.spotify.com/album/4CJCGMU40qZmYtJrAgJJrO"
       },
@@ -59974,6 +60028,24 @@
       "duration_ms": 170721,
       "name": "Tom Ford",
       "url": "https://open.spotify.com/track/1YLnHNp7CUGgGOSBPi3zpa"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/1aRB0NWjsEQPC14xSwQlEY"
+      },
+      "artists": [
+        {
+          "name": "Dharma",
+          "url": "https://open.spotify.com/artist/4VFSqLDEGp8fp9E8EuWHmf"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1CzbGE8Pjmus67qSF6tjFK"
     },
     {
       "album": {
@@ -65228,6 +65300,24 @@
       "duration_ms": 153663,
       "name": "Woke Up, Chose Violence",
       "url": "https://open.spotify.com/track/5UhbJJTRnfIkuzYAPlyVA3"
+    },
+    {
+      "album": {
+        "name": "Fight Or Flight",
+        "url": "https://open.spotify.com/album/2wP0LSPgAZ0cw3Xsd7sNpK"
+      },
+      "artists": [
+        {
+          "name": "Emily Doyle",
+          "url": "https://open.spotify.com/artist/4ylNHpovRFZlBKqgWRBQV6"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Won't Be Long",
+      "url": "https://open.spotify.com/track/2fzdBg7EFqJ9Am0HOHbsLl"
     },
     {
       "album": {

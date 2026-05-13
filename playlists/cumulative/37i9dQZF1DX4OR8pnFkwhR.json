@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: luv",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: Maya, Rol3ert",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 186285,
       "name": "Boy",
       "url": "https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu"
@@ -3955,6 +3955,24 @@
     },
     {
       "album": {
+        "name": "Chapter",
+        "url": "https://open.spotify.com/album/3eSd7qjQ6HSi8rebCfUAdT"
+      },
+      "artists": [
+        {
+          "name": "NELKE",
+          "url": "https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Chapter",
+      "url": "https://open.spotify.com/track/2Foy22FGZWsM7pr8zGatbw"
+    },
+    {
+      "album": {
         "name": "CHARM",
         "url": "https://open.spotify.com/album/0XSNjTZuZhlcmaMkShTuka"
       },
@@ -4050,6 +4068,28 @@
       "duration_ms": 178399,
       "name": "cheers",
       "url": "https://open.spotify.com/track/3abasVZR9LCHo7V6gmdr2s"
+    },
+    {
+      "album": {
+        "name": "Get Litty?",
+        "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "Cheese (feat. Manaka)",
+      "url": "https://open.spotify.com/track/2iu0jCYe28cYNsETzGf1z3"
     },
     {
       "album": {
@@ -6416,6 +6456,24 @@
       "duration_ms": 214907,
       "name": "Eadgb",
       "url": "https://open.spotify.com/track/3Xzc2XEAocSqgmYwOHWMYe"
+    },
+    {
+      "album": {
+        "name": "lovely moments",
+        "url": "https://open.spotify.com/album/6CyzVOFACwRAb3HULseANJ"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141106,
+      "name": "Earl Gray",
+      "url": "https://open.spotify.com/track/5lBCoZEnfKWUqQEVlY2Kkx"
     },
     {
       "album": {
@@ -9888,7 +9946,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 185837,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5ix2wkMTtb4wHy67rSdm6Q"
@@ -11191,6 +11249,24 @@
     },
     {
       "album": {
+        "name": "Travessia",
+        "url": "https://open.spotify.com/album/1AABJwnD3LB9dRkIihBM3J"
+      },
+      "artists": [
+        {
+          "name": "Maverick Mom",
+          "url": "https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Karakuri",
+      "url": "https://open.spotify.com/track/1BupfSkdNPkfKzUMHpO03e"
+    },
+    {
+      "album": {
         "name": "Bandit",
         "url": "https://open.spotify.com/album/4kgeOVKTBb6Ng0Cz4ehinv"
       },
@@ -11592,7 +11668,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 190999,
       "name": "Kodoku ni Toku",
       "url": "https://open.spotify.com/track/3FTRoyrGwcuy4HRmFPS8lw"
@@ -14358,7 +14434,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 165000,
       "name": "My Fan",
       "url": "https://open.spotify.com/track/6J4Jgnx5PxCeyrJxDmBAG1"
@@ -14442,6 +14518,24 @@
       "duration_ms": 223350,
       "name": "My Plan",
       "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "album": {
+        "name": "My Rhapsody",
+        "url": "https://open.spotify.com/album/0pSdQr09yMSnExMSEvjlj3"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4e45\u9593\u9f8d\u661f",
+          "url": "https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272494,
+      "name": "My Rhapsody",
+      "url": "https://open.spotify.com/track/33qPdOgz1EmgmAMJeDbfIw"
     },
     {
       "album": {
@@ -18221,6 +18315,32 @@
     },
     {
       "album": {
+        "name": "ROMANTICIZE",
+        "url": "https://open.spotify.com/album/6EkLu27GIDM8QR3rEYyUAT"
+      },
+      "artists": [
+        {
+          "name": "Maya",
+          "url": "https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4"
+        },
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207116,
+      "name": "ROMANTICIZE",
+      "url": "https://open.spotify.com/track/732nsS7pPnfVDX73bbzNgB"
+    },
+    {
+      "album": {
         "name": "Rookies",
         "url": "https://open.spotify.com/album/1yS8JPw8shuUuc1hTMeB8u"
       },
@@ -21604,7 +21724,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 260745,
       "name": "Tell me",
       "url": "https://open.spotify.com/track/6hk1BBFv4FehBkrkgwCExJ"
@@ -30358,7 +30478,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 233095,
       "name": "\u30cf\u30fc\u30e2\u30cb\u30fc",
       "url": "https://open.spotify.com/track/3Gt35aibizWFiBlhlhmDgf"

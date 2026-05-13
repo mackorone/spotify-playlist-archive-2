@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1086690,
+  "num_followers": 1086792,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAADz5BGOJrJ28ZCKTReHj2VF",
+  "snapshot_id": "agEcAAAAAAAST6MlCfIFIXZK6TbkTM89",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Siga La Fiesta",
-        "url": "https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 235253,
-      "name": "Los Lujos Del R.",
-      "url": "https://open.spotify.com/track/1QZrQnjIMS9yVFVYRoqnaX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Caballo",
         "url": "https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 262608,
       "name": "Amor Del Bueno (con Alfredo Olivas)",
       "url": "https://open.spotify.com/track/5ckl6DcMSiDJV80U1uPhVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Siga La Fiesta",
+        "url": "https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 235253,
+      "name": "Los Lujos Del R.",
+      "url": "https://open.spotify.com/track/1QZrQnjIMS9yVFVYRoqnaX"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 3)",
-        "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 201409,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El D\u00eda De Los Muertos",
         "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 218000,
       "name": "Te quiero, te amo",
       "url": "https://open.spotify.com/track/73XUqDO8fU7dhFuwHw4W3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Aniversario (Vol. 3)",
+        "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 201409,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 210267,
-      "name": "Borracha",
-      "url": "https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N"
+      "duration_ms": 212418,
+      "name": "\"Vivo\"",
+      "url": "https://open.spotify.com/track/46Ddt3qamOYmedJ0t1TgUd"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 212418,
-      "name": "\"Vivo\"",
-      "url": "https://open.spotify.com/track/46Ddt3qamOYmedJ0t1TgUd"
+      "duration_ms": 210267,
+      "name": "Borracha",
+      "url": "https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N"
     }
   ],
   "unique_name": "This Is Alfredo Olivas",

@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65772,
+  "num_followers": 65769,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACrBUxXkdo9W5x7dFJOsGa6",
+  "snapshot_id": "agEcAAAAAADLqpKaYGAp10lvvNbLFTg9",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/5W8SvJTwnL2joYd7J5yu7L"
+        "name": "Call U Tomorrow",
+        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
       },
       "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 140307,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/4AyHlEuenAyjMOifhsjBBd"
+      "duration_ms": 186666,
+      "name": "Call U Tomorrow",
+      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
     },
     {
       "added_at": null,
@@ -296,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 49076,
-      "name": "Enough For You",
-      "url": "https://open.spotify.com/track/37G1Mx1vZHxKia3aDPMQxd"
+      "duration_ms": 110000,
+      "name": "Fallin Out of Love With You",
+      "url": "https://open.spotify.com/track/3Eq9N7ymMN0GNG7vSKjTrF"
     },
     {
       "added_at": null,
@@ -319,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call U Tomorrow",
-        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Call U Tomorrow",
-      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISTRACTION / SCREAM MY NAME",
         "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
       },
@@ -351,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/21p9K1RiiIHSvfJeK2wwnF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 110000,
-      "name": "Fallin Out of Love With You",
-      "url": "https://open.spotify.com/track/3Eq9N7ymMN0GNG7vSKjTrF"
+      "duration_ms": 49076,
+      "name": "Enough For You",
+      "url": "https://open.spotify.com/track/37G1Mx1vZHxKia3aDPMQxd"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Days Are Getting Shorter",
+        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 56000,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/5K6ZJglE2XxqABL3rY2OgB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -491,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Are Getting Shorter",
-        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
       },
       "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 56000,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/5K6ZJglE2XxqABL3rY2OgB"
+      "duration_ms": 100000,
+      "name": "If Only I Could Tell You - T.S.S.R. Piano Edit",
+      "url": "https://open.spotify.com/track/0jhVe4Cxma0YS1Jj0sHlYU"
     },
     {
       "added_at": null,
@@ -543,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 200009,
+      "name": "Is it a Crime?",
+      "url": "https://open.spotify.com/track/7xSHbxyntE0RRVyTuFOgFL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't You Love Me? - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1WPY8kRB01objem7KdBwya"
       },
@@ -559,26 +595,6 @@
       "duration_ms": 267110,
       "name": "Don't You Love Me? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Spirit Still Remains (Purgatory)",
-        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "If Only I Could Tell You - T.S.S.R. Piano Edit",
-      "url": "https://open.spotify.com/track/0jhVe4Cxma0YS1Jj0sHlYU"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 200009,
-      "name": "Is it a Crime?",
-      "url": "https://open.spotify.com/track/7xSHbxyntE0RRVyTuFOgFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aeon",
         "url": "https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9"
       },
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay (With Me).",
-        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 303355,
-      "name": "Stay (With Me).",
-      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
+      "duration_ms": 124885,
+      "name": "You Changed on Me.",
+      "url": "https://open.spotify.com/track/0xOsSPCBAs2vU5PN9gJ3kz"
     },
     {
       "added_at": null,
@@ -675,6 +675,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stay (With Me).",
+        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 303355,
+      "name": "Stay (With Me).",
+      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "3:35am",
+      "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHARLOTTE",
         "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
       },
@@ -684,9 +716,29 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 124885,
-      "name": "You Changed on Me.",
-      "url": "https://open.spotify.com/track/0xOsSPCBAs2vU5PN9gJ3kz"
+      "duration_ms": 188000,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/7kzWwZlJ1SP35FPvImMn7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 144008,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/5YCjVkFdXfq6wBpmADgfxR"
     },
     {
       "added_at": null,
@@ -719,38 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Beautiful.",
-        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "3:35am",
-      "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Spirit Still Remains (Purgatory)",
-        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
         },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 144008,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/5YCjVkFdXfq6wBpmADgfxR"
+      "duration_ms": 119156,
+      "name": "6:16am",
+      "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
     },
     {
       "added_at": null,
@@ -783,58 +819,6 @@
       "duration_ms": 168000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 119156,
-      "name": "6:16am",
-      "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days Are Getting Shorter",
-        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 334285,
-      "name": "Days Are Getting Shorter",
-      "url": "https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/7kzWwZlJ1SP35FPvImMn7D"
     },
     {
       "added_at": null,
@@ -875,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 80945,
+      "name": "God or The Devil?",
+      "url": "https://open.spotify.com/track/3DhViJjtdwXn0A7LTeBoLK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As We Walk into Forever",
         "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
       },
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+        "name": "Days Are Getting Shorter",
+        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 80945,
-      "name": "God or The Devil?",
-      "url": "https://open.spotify.com/track/3DhViJjtdwXn0A7LTeBoLK"
+      "duration_ms": 334285,
+      "name": "Days Are Getting Shorter",
+      "url": "https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE"
     }
   ],
   "unique_name": "This Is Montell Fish",

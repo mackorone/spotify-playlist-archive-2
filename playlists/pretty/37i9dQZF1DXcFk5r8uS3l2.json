@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
-  "num_followers": 1068874,
+  "num_followers": 1068865,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN/gIwFOHhaYlfS1IzMZVnIVSpnN",
+  "snapshot_id": "AAAAACqMgH1ir6/pN7C2gIIf3XxSdvCP",
   "tracks": [
     {
       "added_at": "2026-05-01 04:01:36",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4wMk7mjtzYXFuMSEA8AIcb"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 152626,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5yw4C8rft1mCGdTlsrCY4X"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/2LLMqNFixxuY0ea3pzRvc5"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 253657,
       "name": "Justified",
       "url": "https://open.spotify.com/track/1AYBEB31ytpqhUZGeXtJi8"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "13 Years",
-        "url": "https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG"
-      },
-      "artists": [
-        {
-          "name": "Marc A Ridge",
-          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
-        }
-      ],
-      "duration_ms": 402240,
-      "name": "13 Years",
-      "url": "https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Roll Mega",
         "url": "https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 282857,
       "name": "Twist Your Arm",
       "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "13 Years",
+        "url": "https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG"
+      },
+      "artists": [
+        {
+          "name": "Marc A Ridge",
+          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
+        }
+      ],
+      "duration_ms": 402240,
+      "name": "13 Years",
+      "url": "https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
         "url": "https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
         "name": "White Jesus Black Problems",
         "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Watch Me Gone",
-        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
-      },
-      "artists": [
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Watch Me Gone",
-      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Goodbye's Kickin' In",
         "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 201970,
       "name": "Goodbye\u2019s Kickin\u2019 In",
       "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Watch Me Gone",
+        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Watch Me Gone",
+      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
-      },
-      "artists": [
-        {
-          "name": "Alain Apaloo",
-          "url": "https://open.spotify.com/artist/3q8l8BcNjXxBaUP204OgX2"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 255218,
-      "name": "Drifting (feat. Marcus King)",
-      "url": "https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Everything's Fine",
         "url": "https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 234596,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
+      },
+      "artists": [
+        {
+          "name": "Alain Apaloo",
+          "url": "https://open.spotify.com/artist/3q8l8BcNjXxBaUP204OgX2"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 255218,
+      "name": "Drifting (feat. Marcus King)",
+      "url": "https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
+        "name": "Close To Me (with Madison Hughes)",
+        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
+      },
+      "artists": [
+        {
+          "name": "The Deltaz",
+          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
+        },
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        }
+      ],
+      "duration_ms": 178869,
+      "name": "Close To Me (with Madison Hughes)",
+      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
         "name": "I\u2019m Done Runnin'",
         "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
       },
@@ -1091,42 +1111,22 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Close To Me (with Madison Hughes)",
-        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
       "artists": [
         {
-          "name": "The Deltaz",
-          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
+          "name": "The Imaginaries",
+          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
         },
         {
-          "name": "Madison Hughes",
-          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 178869,
-      "name": "Close To Me (with Madison Hughes)",
-      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
-        "name": "Revelations",
-        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
-      },
-      "artists": [
-        {
-          "name": "Chris Tapp",
-          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
-        },
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 221239,
-      "name": "Revelations",
-      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
+      "duration_ms": 227453,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
       },
       "artists": [
         {
-          "name": "The Imaginaries",
-          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
+          "name": "Chris Tapp",
+          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
         },
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
         }
       ],
-      "duration_ms": 227453,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
+      "duration_ms": 221239,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1247,38 +1247,18 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Coast of Light",
-        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
+        "name": "Flang Dang",
+        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
       },
       "artists": [
         {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
         }
       ],
-      "duration_ms": 217581,
-      "name": "Teacher's Desk",
-      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
-        "name": "Gathering Forces",
-        "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
-      },
-      "artists": [
-        {
-          "name": "Jonah Smith",
-          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
-        },
-        {
-          "name": "Family Company",
-          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
-        }
-      ],
-      "duration_ms": 185399,
-      "name": "Gathering Forces",
-      "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
+      "duration_ms": 218746,
+      "name": "99 Ways",
+      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1303,18 +1283,18 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Medium Raw",
-        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
+        "name": "Coast of Light",
+        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
       },
       "artists": [
         {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
         }
       ],
-      "duration_ms": 255573,
-      "name": "I Could Just Die Right Now",
-      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
+      "duration_ms": 217581,
+      "name": "Teacher's Desk",
+      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1335,18 +1315,38 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Flang Dang",
-        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
+        "name": "Medium Raw",
+        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
       },
       "artists": [
         {
-          "name": "Andy Fairweather Low",
-          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "duration_ms": 218746,
-      "name": "99 Ways",
-      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
+      "duration_ms": 255573,
+      "name": "I Could Just Die Right Now",
+      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Gathering Forces",
+        "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
+      },
+      "artists": [
+        {
+          "name": "Jonah Smith",
+          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
+        },
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        }
+      ],
+      "duration_ms": 185399,
+      "name": "Gathering Forces",
+      "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
-      },
-      "artists": [
-        {
-          "name": "Chadwick Johnson",
-          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "Seasons Change",
-      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Noah's Children",
         "url": "https://open.spotify.com/album/6mg5QcrnRs8u2CuX1NWRTS"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 264629,
       "name": "Noah's Children",
       "url": "https://open.spotify.com/track/3h4ECnl24qRZmQ53a5zBzl"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
+      },
+      "artists": [
+        {
+          "name": "Chadwick Johnson",
+          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
     },
     {
       "added_at": "2026-05-01 04:01:36",

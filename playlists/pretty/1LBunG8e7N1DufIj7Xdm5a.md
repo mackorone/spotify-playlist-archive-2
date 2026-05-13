@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,442 songs - 9 day 20 hr 52 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,443 songs - 9 day 20 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1351,7 +1351,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 1341 | [Santa Monica](https://open.spotify.com/track/7mFEHPdcxMpb6uOvwbRjjf) | [Jordan Solomon](https://open.spotify.com/artist/3F2OHxH7rWTkyfchtYA7bQ) | [Santa Monica](https://open.spotify.com/album/0l9cbOaFILSs9bGoMiop21) | 3:32 |
 | 1342 | [TOMARI JONNE](https://open.spotify.com/track/0O4ygk1Ads1kciG238AoM0) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [Tasbir Wolvez](https://open.spotify.com/artist/2KTKNxDitsDIIzOpyJQaUh), [Awwn1k](https://open.spotify.com/artist/5XnPw0poYIhtitKgsmX7rU) | [TOMARI JONNE](https://open.spotify.com/album/3nHGf5THsRvtonQoe1aXgH) | 2:33 |
 | 1343 | [Need to Feed](https://open.spotify.com/track/0cwXbFCjC4frtFtFPT3Tn9) | [Die Tired](https://open.spotify.com/artist/3u85MmjA5iOpAtvZPWyus2) | [Need to Feed](https://open.spotify.com/album/0vK8rnqE191FvPVPWVm80U) | 4:08 |
-| 1344 | [ComeTe](https://open.spotify.com/track/2ECV2hrsNMx0kiSLTS8BSk) | [ALIENo](https://open.spotify.com/artist/4KTgaVVDIvu8i1bbEKHmhx) | [ComeTe](https://open.spotify.com/album/0GtGIpHJJhLbA24uCKdj1s) | 2:40 |
+| 1344 | [ComeTe](https://open.spotify.com/track/2ECV2hrsNMx0kiSLTS8BSk) | [ETRE](https://open.spotify.com/artist/4KTgaVVDIvu8i1bbEKHmhx) | [ComeTe](https://open.spotify.com/album/0GtGIpHJJhLbA24uCKdj1s) | 2:40 |
 | 1345 | [Amore odio e clichè](https://open.spotify.com/track/0pjfZ0Q9gtFASnDkHbAN5D) | [Domenico Troiano](https://open.spotify.com/artist/7eTu0uCjfP0Zo2Zq9MyUp3) | [Canzoni Normali](https://open.spotify.com/album/2BuycqrhjEnLBV92ddo68X) | 3:20 |
 | 1346 | [Sei fatta così](https://open.spotify.com/track/6BuHRQtUqvUtt6Uvv8441L) | [ChiaroScuro](https://open.spotify.com/artist/5eseuLgyBu4fzbBag8nSOq) | [Sei fatta così](https://open.spotify.com/album/3U61k8khzCwGA6I9EUo0KR) | 3:26 |
 | 1347 | [Destini Incrociati](https://open.spotify.com/track/4t8UxcDhj9Dv2mHKIlKpk9) | [ALI](https://open.spotify.com/artist/3DJfqc8zXlT27LYHh7NHtC) | [Destini Incrociati](https://open.spotify.com/album/1k1k9k4oU0w4HWfl5YsS3d) | 3:43 |
@@ -4450,5 +4450,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4440 | [Truth Without A Voice](https://open.spotify.com/track/6VWCYsFaSzmtdmzSrTKMW7) | [Changeover](https://open.spotify.com/artist/2u4GX0Bif1sfEzNfj6ehmg) | [Truth Without A Voice](https://open.spotify.com/album/3zEX5kzLx0JYkhFhyW9ZVt) | 3:10 |
 | 4441 | [Amor Carnal](https://open.spotify.com/track/5VVqYfF4DjuTp7Je0vCGYe) | [Royad](https://open.spotify.com/artist/4IlKoBCUtrGWnFgQf0wtyO) | [Amor Carnal](https://open.spotify.com/album/0wzXxsGWg3Y0gI5ibGpEB7) | 4:19 |
 | 4442 | [Heaven is Lying Down](https://open.spotify.com/track/02Io4cV8WNNfnf81UWciem) | [DOUG ROCKS](https://open.spotify.com/artist/2SYkdo95tZe0avloQNzGSV) | [Heaven is Lying Down](https://open.spotify.com/album/3tz842t9Z72OBYoG8f4d3k) | 3:24 |
+| 4443 | [Shakin'](https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Shakin'](https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ) | 3:05 |
 
-Snapshot ID: `AAAImTaqx4iwyPcPE7Qf0MJa5TfrmvOI`
+Snapshot ID: `AAAImuWsh09PsK0rKLDszEcmzitiNn76`

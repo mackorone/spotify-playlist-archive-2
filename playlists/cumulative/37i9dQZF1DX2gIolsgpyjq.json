@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: shinyhunt. Artwork: Isu Kim",
+  "description": "The best new music by independent artists in the Nordics. Cover: shinyhunt. Artwork: Emelie Trahan",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -3046,7 +3046,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 184060,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/0ebIDciVUpDhnNrivrXMzv"
@@ -5151,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "AFTERwork",
+        "url": "https://open.spotify.com/album/6vWoj3VIogiTj8F6DBSn2j"
+      },
+      "artists": [
+        {
+          "name": "MAMI UMAMI",
+          "url": "https://open.spotify.com/artist/1gXudtIPsBxon00193AQb9"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198321,
+      "name": "Conor",
+      "url": "https://open.spotify.com/track/4UMaclARcQjCBQoPQHAwr3"
+    },
+    {
+      "album": {
         "name": "CONTROL",
         "url": "https://open.spotify.com/album/2XHVG7UjUCLkFZN8RR4tqI"
       },
@@ -5376,7 +5394,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 199069,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/6Bwoy1JlqL9aG1GxeLH8SA"
@@ -11582,7 +11600,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 151053,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/0DB1CP2brTqH6L05BdezWu"
@@ -11972,6 +11990,24 @@
       "duration_ms": 174415,
       "name": "Hurts Like a Mother",
       "url": "https://open.spotify.com/track/2buOnJfGN17NEJht9NPr9d"
+    },
+    {
+      "album": {
+        "name": "Hwasong-12 / Fair Exchange",
+        "url": "https://open.spotify.com/album/5vhNS2OjD9OvEjATOJSxSz"
+      },
+      "artists": [
+        {
+          "name": "Hund Begraven",
+          "url": "https://open.spotify.com/artist/5lxFG6o0VsW4wUEWAD5ngI"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197443,
+      "name": "Hwasong-12",
+      "url": "https://open.spotify.com/track/4tkgZJ1nesz7Z8Ifx2Fak1"
     },
     {
       "album": {
@@ -12756,6 +12792,24 @@
       "duration_ms": 142992,
       "name": "I'll be fine",
       "url": "https://open.spotify.com/track/34JnZt7LU9dKbkbopyFu1G"
+    },
+    {
+      "album": {
+        "name": "i'll quit quitting",
+        "url": "https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk"
+      },
+      "artists": [
+        {
+          "name": "Thea Dora",
+          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198810,
+      "name": "i'll quit quitting",
+      "url": "https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k"
     },
     {
       "album": {
@@ -15777,6 +15831,24 @@
     },
     {
       "album": {
+        "name": "Lose My Sleep",
+        "url": "https://open.spotify.com/album/7HtjRhoB68EPZk21nJSf0D"
+      },
+      "artists": [
+        {
+          "name": "Wyrel",
+          "url": "https://open.spotify.com/artist/0L6lxoIAwqAHh9rNCJStYl"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Lose My Sleep",
+      "url": "https://open.spotify.com/track/0iNaEjcTWQVfliMSOPGi0P"
+    },
+    {
+      "album": {
         "name": "lose myself",
         "url": "https://open.spotify.com/album/1Fcold90Sgrl0jZBIaVhxl"
       },
@@ -16388,7 +16460,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 276000,
       "name": "made it another year",
       "url": "https://open.spotify.com/track/4ECUmFGRJR7Kp6Ki29oUKJ"
@@ -17910,6 +17982,24 @@
       "duration_ms": 146337,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/33PhjlJSzCGh5ZXvdddlxm"
+    },
+    {
+      "album": {
+        "name": "Never Be Friends",
+        "url": "https://open.spotify.com/album/25xUgydy4RfI3TQ3q9P8xD"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179189,
+      "name": "Never Be Friends",
+      "url": "https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk"
     },
     {
       "album": {
@@ -28430,7 +28520,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 197789,
       "name": "wash away",
       "url": "https://open.spotify.com/track/3wRM4IwCDAXbYz3L97OaIY"

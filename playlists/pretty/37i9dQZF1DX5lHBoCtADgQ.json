@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 49655,
+  "num_followers": 49675,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Challa X Chan Kithan Guzari",
-        "url": "https://open.spotify.com/album/34bbYQoSZGbmrSSebFPXxy"
-      },
-      "artists": [
-        {
-          "name": "Waqar Khan",
-          "url": "https://open.spotify.com/artist/1SNuHi2OFtW7XggF1NbeV9"
-        },
-        {
-          "name": "Kabul Bukhari",
-          "url": "https://open.spotify.com/artist/14KvoiphLvP8UmalvMqT49"
-        }
-      ],
-      "duration_ms": 320064,
-      "name": "Challa X Chan Kithan Guzari",
-      "url": "https://open.spotify.com/track/2hWNpP7C7mvLTloxpQM9Dw"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Challa Mera Jee Dhola",
         "url": "https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 193404,
       "name": "Suhe Ve Cheere Waliya",
       "url": "https://open.spotify.com/track/6ewedOp4bawjafS1lsIPam"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Challa X Chan Kithan Guzari",
+        "url": "https://open.spotify.com/album/34bbYQoSZGbmrSSebFPXxy"
+      },
+      "artists": [
+        {
+          "name": "Waqar Khan",
+          "url": "https://open.spotify.com/artist/1SNuHi2OFtW7XggF1NbeV9"
+        },
+        {
+          "name": "Kabul Bukhari",
+          "url": "https://open.spotify.com/artist/14KvoiphLvP8UmalvMqT49"
+        }
+      ],
+      "duration_ms": 320064,
+      "name": "Challa X Chan Kithan Guzari",
+      "url": "https://open.spotify.com/track/2hWNpP7C7mvLTloxpQM9Dw"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Punjabi Folk Boliyan",
-        "url": "https://open.spotify.com/album/6tTzfqYgGphqYBAu1y3ijP"
+        "name": "The King (Greatest Hits)",
+        "url": "https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH"
       },
       "artists": [
         {
-          "name": "Aabha Hanjura",
-          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
+          "name": "Surjit Bindrakhia",
+          "url": "https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX"
         }
       ],
-      "duration_ms": 185472,
-      "name": "Punjabi Folk Boliyan",
-      "url": "https://open.spotify.com/track/4KVJYdubRM0owXUyZabLTR"
+      "duration_ms": 298251,
+      "name": "(Boliyan) Geetan Da Guldasta",
+      "url": "https://open.spotify.com/track/5PBB2DjqraVp7tdPlaZyD2"
     }
   ],
   "unique_name": "Folk Punjabi",

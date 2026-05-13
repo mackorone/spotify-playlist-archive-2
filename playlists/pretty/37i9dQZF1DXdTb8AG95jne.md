@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: DORI\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,346 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,406 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 9 | [is blue](https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [is blue](https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE) | 3:07 |
 | 10 | [Find You](https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Find You](https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz) | 2:55 |
 | 11 | [Under The Blue Moon](https://open.spotify.com/track/5lgjWj5fEdcp365k59SiOM) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [Under The Blue Moon](https://open.spotify.com/album/5DQMc4cSacAPweb4q1d7dQ) | 3:46 |
-| 12 | [Heart of Gold](https://open.spotify.com/track/3ei1nPTxRlGUWYfNMTCds9) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Heart of Gold](https://open.spotify.com/album/3K8n186vv6tMeS3l7fpluB) | 4:42 |
+| 12 | [Heart of Gold](https://open.spotify.com/track/3ei1nPTxRlGUWYfNMTCds9) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Heart of Gold](https://open.spotify.com/album/3K8n186vv6tMeS3l7fpluB) | 5:14 |
 | 13 | [lemon](https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 3:21 |
 | 14 | [victim mentality](https://open.spotify.com/track/48GvrfUWFnrxOxkiSthRIO) | [METP](https://open.spotify.com/artist/6cUnLHLMciBCEk9sAA3lLB) | [victim mentality](https://open.spotify.com/album/7fk1B1SQm00Uik0FPE9JQv) | 3:40 |
 | 15 | [Sanha Express](https://open.spotify.com/track/2RrPNyH9ncokySNU3wJnQ1) | [sanha](https://open.spotify.com/artist/3SSkfDFsKDXm5gwMK47uBR) | [SANHA EXPRESS](https://open.spotify.com/album/08zCoQcNilJ7QZfn42gGtJ) | 2:59 |

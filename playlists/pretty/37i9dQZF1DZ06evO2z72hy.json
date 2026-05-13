@@ -1,12 +1,12 @@
 {
   "description": "This is Gondwana. The essential tracks, all in one playlist.",
-  "num_followers": 91563,
+  "num_followers": 91582,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABfp6sXFS6vdo2CBT2BkIaK",
+  "snapshot_id": "agEcAAAAAAAmMIytJfRszx6zJVgCUULW",
   "tracks": [
     {
       "added_at": null,
@@ -755,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CrazyXXversario",
-        "url": "https://open.spotify.com/album/3Pdlrki6kwTwAjaRCUAain"
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
       },
       "artists": [
-        {
-          "name": "Huecco",
-          "url": "https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i"
-        },
         {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 212354,
-      "name": "AMOR SUICIDA",
-      "url": "https://open.spotify.com/track/7bvHjhBit28ylRpfEXVzKt"
+      "duration_ms": 325450,
+      "name": "Divina verdad",
+      "url": "https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N"
     },
     {
       "added_at": null,
@@ -791,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gondwana En Vivo En Buenos Aires",
-        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+        "name": "CrazyXXversario",
+        "url": "https://open.spotify.com/album/3Pdlrki6kwTwAjaRCUAain"
       },
       "artists": [
+        {
+          "name": "Huecco",
+          "url": "https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i"
+        },
         {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 325450,
-      "name": "Divina verdad",
-      "url": "https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N"
+      "duration_ms": 212354,
+      "name": "AMOR SUICIDA",
+      "url": "https://open.spotify.com/track/7bvHjhBit28ylRpfEXVzKt"
     },
     {
       "added_at": null,

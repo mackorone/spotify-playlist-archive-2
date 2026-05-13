@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Agnes Nunes",
-  "num_followers": 435000,
+  "num_followers": 434987,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
+        "name": "Eu Vejo Luz Em Maior Propor\u00e7\u00e3o Do Que Eu Vejo A Escurid\u00e3o",
+        "url": "https://open.spotify.com/album/1fMl4mHJsmccGHebkNAdeV"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 208607,
+      "name": "Semeia",
+      "url": "https://open.spotify.com/track/2gcSyG9JxCdb4gIDtbbtCG"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
         "name": "Troco Likes 10 Anos",
         "url": "https://open.spotify.com/album/4ENAQW1v7CNmUjxJckfqI5"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 205671,
       "name": "Cataflor",
       "url": "https://open.spotify.com/track/3KQgz9YoHSBPUZHHwZ6nbR"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
-        "name": "Eu Vejo Luz Em Maior Propor\u00e7\u00e3o Do Que Eu Vejo A Escurid\u00e3o",
-        "url": "https://open.spotify.com/album/1fMl4mHJsmccGHebkNAdeV"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 208607,
-      "name": "Semeia",
-      "url": "https://open.spotify.com/track/2gcSyG9JxCdb4gIDtbbtCG"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
-        "name": "Improv\u00e1vel",
-        "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 176862,
-      "name": "Improv\u00e1vel",
-      "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
         "name": "10/10",
         "url": "https://open.spotify.com/album/6Pc0LcsskzQ8CkTT6bpgrg"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 138000,
       "name": "Calma, Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
+        "name": "Improv\u00e1vel",
+        "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 176862,
+      "name": "Improv\u00e1vel",
+      "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
         "name": "Quarto",
         "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
         "name": "coisas triviais",
         "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
       },
@@ -903,26 +903,6 @@
       "duration_ms": 190320,
       "name": "coisas triviais",
       "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
-        "name": "BOCA GOSTOSA",
-        "url": "https://open.spotify.com/album/3mG4tBOqLMy1irVaFToYTs"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 142553,
-      "name": "BOCA GOSTOSA",
-      "url": "https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -947,22 +927,22 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
-        "name": "Tudo que deu pra fazer em um ano",
-        "url": "https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I"
+        "name": "BOCA GOSTOSA",
+        "url": "https://open.spotify.com/album/3mG4tBOqLMy1irVaFToYTs"
       },
       "artists": [
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
         },
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 131538,
-      "name": "Nada vai ser como antes",
-      "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
+      "duration_ms": 142553,
+      "name": "BOCA GOSTOSA",
+      "url": "https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -979,6 +959,26 @@
       "duration_ms": 124666,
       "name": "Depois do Fim",
       "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
+        "name": "Tudo que deu pra fazer em um ano",
+        "url": "https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 131538,
+      "name": "Nada vai ser como antes",
+      "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
+        "name": "Saber Confiar",
+        "url": "https://open.spotify.com/album/5n1s0HVLzCZbSM0e221Afi"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Saber Confiar",
+      "url": "https://open.spotify.com/track/72fZiooQ214zq66ix04xJh"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
         "name": "SENSA\u00c7\u00c3O BONITA",
         "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 159997,
       "name": "SENSA\u00c7\u00c3O BONITA",
       "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
-        "name": "Saber Confiar",
-        "url": "https://open.spotify.com/album/5n1s0HVLzCZbSM0e221Afi"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Saber Confiar",
-      "url": "https://open.spotify.com/track/72fZiooQ214zq66ix04xJh"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
+        "name": "Tudo Pode Mudar (Acusticamente)",
+        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 245009,
+      "name": "Tudo Pode Mudar (Acusticamente)",
+      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
         "name": "BALAN\u00c7O",
         "url": "https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 136575,
       "name": "BALAN\u00c7O",
       "url": "https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
-        "name": "Tudo Pode Mudar (Acusticamente)",
-        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 245009,
-      "name": "Tudo Pode Mudar (Acusticamente)",
-      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
-        "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
-        "url": "https://open.spotify.com/album/1hQ6qBfJStD1UpnX6TEHMB"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
-      "url": "https://open.spotify.com/track/7FNZlKNZxb25CzGDiFU7FC"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
         "name": "Um Dia Tudo Acaba",
         "url": "https://open.spotify.com/album/5N1U8kZurTZaFdf5comnhb"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 192494,
       "name": "um dia tudo acaba",
       "url": "https://open.spotify.com/track/1ER2UcRQEIxghQsAcmd9bP"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
+        "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
+        "url": "https://open.spotify.com/album/1hQ6qBfJStD1UpnX6TEHMB"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
+      "url": "https://open.spotify.com/track/7FNZlKNZxb25CzGDiFU7FC"
     },
     {
       "added_at": "2026-05-01 03:01:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Mack Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,265 likes - 180 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,267 likes - 180 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

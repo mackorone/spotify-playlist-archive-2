@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[SONGBIRD\-CN](https://open.spotify.com/user/megustager) - 882 likes - 522 songs - 1 day 12 hr 9 min
+[SONGBIRD\-CN](https://open.spotify.com/user/megustager) - 882 likes - 537 songs - 1 day 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -530,5 +530,20 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 520 | [Deus Ex Machina](https://open.spotify.com/track/2HhFqOIzuqtOWc9m4faTOr) | [Hommarju](https://open.spotify.com/artist/76V0LQ9DlR2N5tcn0ZworW) | [The Gothic](https://open.spotify.com/album/5c91CcmUF2Jd3PgC1eYUPc) | 3:01 |
 | 521 | [WCBTH](https://open.spotify.com/track/75nHY2t28llqsULJ5ufYMN) | [QUIL](https://open.spotify.com/artist/3Q6X5VDF0Zfu1hGHTEARSR) | [IRREPARABLE HARDCORE IS BACK 2 鳳雷蘖華 ～ホウライゲッカ～](https://open.spotify.com/album/4lrzI4S5ghiPY8tWYni66C) | 2:56 |
 | 522 | [AYAKASHI](https://open.spotify.com/track/2lGHcwiOOUB74QSzsvuX9P) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Joe Fight](https://open.spotify.com/artist/3C463rGXXXCWI9NzlMFS6u) | [AYAKASHI](https://open.spotify.com/album/257rsNevRVxyF9BkOp1kN0) | 2:14 |
+| 523 | [Rave All Night](https://open.spotify.com/track/5TWHSgmaUQNNQCn137XxIY) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [INFINITE](https://open.spotify.com/album/0irRLnZ9RlyZajjTLACs50) | 2:19 |
+| 524 | [Turn It Up](https://open.spotify.com/track/7G0VfKeXAs0Zd3cJOyez3g) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [INFINITE](https://open.spotify.com/album/0irRLnZ9RlyZajjTLACs50) | 3:34 |
+| 525 | [Feel the Bass](https://open.spotify.com/track/4G63Yx0aZSROvinxrGNMQ6) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [INFINITE](https://open.spotify.com/album/0irRLnZ9RlyZajjTLACs50) | 3:37 |
+| 526 | [Trust \(feat\. Takenobu Mitsuyoshi\)](https://open.spotify.com/track/7uk2s7tyBeONBmrRemIzvS) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN), [Takenobu Mitsuyoshi](https://open.spotify.com/artist/1sLhIu05mcFgoEb6XGpj8e) | [INFINITE](https://open.spotify.com/album/0irRLnZ9RlyZajjTLACs50) | 3:56 |
+| 527 | [Drive Impact](https://open.spotify.com/track/6lDioqukWVBMK6ZmzL06mw) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [INFINITE](https://open.spotify.com/album/0irRLnZ9RlyZajjTLACs50) | 2:27 |
+| 528 | [Super Manji Rush](https://open.spotify.com/track/3jQMpHHYUP6sKLz6x3od6e) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [INFINITE](https://open.spotify.com/album/0irRLnZ9RlyZajjTLACs50) | 2:10 |
+| 529 | [Tonight](https://open.spotify.com/track/4AYOpxN8D7SwBjokyB29Lz) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [INFINITE](https://open.spotify.com/album/0irRLnZ9RlyZajjTLACs50) | 3:07 |
+| 530 | [Riot in the System \(feat\. Yashiro Kizuku\)](https://open.spotify.com/track/5xEAw2gBe0TWuTjcGdSyyr) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3), [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN), [Yashiro Kizuku](https://open.spotify.com/artist/6c4VeEmsSjSwBuKALMY6We) | [Riot in the System](https://open.spotify.com/album/5xR2nPhwK0497V3UP4F7Pl) | 3:10 |
+| 531 | [Astaroth \- Laur Remix](https://open.spotify.com/track/5JYTGtTeGMVTrY2QjulSHZ) | [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [ALISHA](https://open.spotify.com/album/7ba4SK3bprQtXDUagH0P0x) | 3:50 |
+| 532 | [Grievous Lady](https://open.spotify.com/track/0rzOykYyXP9Z9VFCh67TNn) | [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Arcaea Sound Collection: Memories of Conflict](https://open.spotify.com/album/45slopREa0Xk7yxQGrDxrn) | 2:21 |
+| 533 | [ÆTERNUM AXIOMA](https://open.spotify.com/track/4ySf8cavypnZvmJcv3N1jT) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3), [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa) | [ALISHA](https://open.spotify.com/album/7ba4SK3bprQtXDUagH0P0x) | 3:04 |
+| 534 | [DOPAMINE BABY](https://open.spotify.com/track/4Gi8P9txajSfNC6QnH2CJo) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [DOPAMINE BABY](https://open.spotify.com/album/4hGXuGqrtC4c8Q9ksJcyBC) | 2:58 |
+| 535 | [Smash Your Face In](https://open.spotify.com/track/10QAte2MBnpv8y5BuxcCwD) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Smash Your Face In](https://open.spotify.com/album/411GBEMGoWJMY6K9xT8ea5) | 2:38 |
+| 536 | [CrossFire](https://open.spotify.com/track/3m1eCTwUu2DbGM32NZ9vB9) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [SUPERNOVA](https://open.spotify.com/album/67d4c4cTZYKKUkqEOkkHYD) | 2:23 |
+| 537 | [INSANE](https://open.spotify.com/track/6voTcnDXjOBv94matxVXhG) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [SUPERNOVA](https://open.spotify.com/album/67d4c4cTZYKKUkqEOkkHYD) | 3:48 |
 
-Snapshot ID: `AAACaGjFp7C8YzGPwYPGPjk59YRg1QFm`
+Snapshot ID: `AAACd13znP+jl3zk1ZqxdPscKDkmzfAB`

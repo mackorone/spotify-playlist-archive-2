@@ -427,6 +427,22 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
+        "name": "\u00a1BANG BANG!",
+        "url": "https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
         "name": "SOLTERA",
         "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 178312,
       "name": "SOLTERA",
       "url": "https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
-        "name": "\u00a1BANG BANG!",
-        "url": "https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "DURO",
-      "url": "https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I"
     },
     {
       "added_at": "2025-10-10 17:36:00",

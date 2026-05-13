@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: Sasha Keable
 
-637 songs - 1 day 10 hr 19 min
+638 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,7 @@
 | [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 | 2023-10-12 | 2024-04-19 |
 | [On my way!](https://open.spotify.com/track/5gafkd7SV0YJZ3xriEJEqv) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [PINK PM](https://open.spotify.com/album/7Mwbp0ArZhIjOpRdzrGyb8) | 2:34 | 2023-10-12 | 2024-02-09 |
 | [On Our Own](https://open.spotify.com/track/5RgluVKZPb26mnlqM49LQl) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [From Me to You & Only You](https://open.spotify.com/album/50kl134khPMtu1FVrniPmi) | 1:24 | 2025-02-13 | 2025-03-01 |
-| [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 | 2025-04-24 |  |
+| [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 | 2025-04-24 | 2026-05-13 |
 | [One Of These](https://open.spotify.com/track/3SX7xiRjM8X2t5SmIU3aPQ) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 3:44 | 2024-11-29 | 2025-04-25 |
 | [One Way Ticket](https://open.spotify.com/track/2ILizzTkcXjA6NTioLdeuA) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:16 | 2025-05-01 | 2025-06-28 |
 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV) | 3:15 | 2024-09-11 | 2024-11-29 |
@@ -545,6 +545,7 @@
 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 | 2025-05-01 | 2025-09-26 |
 | [Sweet Nothing](https://open.spotify.com/track/2LZueKBZ9jGxsYBMueaR4R) | [Nalu](https://open.spotify.com/artist/591xpLmcojVwIHCiMVQ3dq) | [Sweet Nothing](https://open.spotify.com/album/0NbNpeeNiN6lr2O3I6C7y8) | 1:28 | 2023-10-12 | 2024-01-26 |
 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU) | 2:42 | 2026-04-24 |  |
+| [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 | 2026-05-07 |  |
 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 | 2024-05-16 | 2024-08-31 |
 | [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 | 2025-06-20 | 2025-12-05 |
 | [SYMPHONY](https://open.spotify.com/track/3Zbn9QI4ErtDqBrhQGudMy) | [Oxii Moron](https://open.spotify.com/artist/1eMXbPuLhjzGuW8I2p2XXX) | [The Decompress \(Solace Edition\)](https://open.spotify.com/album/2sc5qvyUNxiAIqtc6sqy6w) | 2:48 | 2024-11-11 | 2025-04-25 |

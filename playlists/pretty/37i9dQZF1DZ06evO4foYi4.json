@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55660,
+  "num_followers": 55661,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAD1asqCZP/4w79Pt0kYW18q",
+  "snapshot_id": "agEcAAAAAABDL8TcsVhIOxtaVvHTlprY",
   "tracks": [
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 237911,
-      "name": "Marrow (Live)",
-      "url": "https://open.spotify.com/track/53x8ls1sxWC6RcCplsFgu5"
+      "duration_ms": 256321,
+      "name": "Black Rainbow (Live)",
+      "url": "https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 256321,
-      "name": "Black Rainbow (Live)",
-      "url": "https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf"
+      "duration_ms": 237911,
+      "name": "Marrow (Live)",
+      "url": "https://open.spotify.com/track/53x8ls1sxWC6RcCplsFgu5"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Laughing with a Mouth of Blood",
-      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
+      "duration_ms": 214653,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
       "artists": [
         {
@@ -644,77 +644,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIVE IN LONDON! (BBC Proms at the Royal Albert Hall)",
-        "url": "https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
-        }
-      ],
-      "duration_ms": 88024,
-      "name": "We Put A Pearl In the Ground (Live)",
-      "url": "https://open.spotify.com/track/3lk3HVxUJYCErXukieewbV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 265053,
-      "name": "Surgeon",
-      "url": "https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "My Baby Wants A Baby",
-      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "St. Vincent",
-        "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 276626,
-      "name": "Prince Johnny",
-      "url": "https://open.spotify.com/track/7hLWQTGBtKo4pBpJ9CaQo9"
+      "duration_ms": 181733,
+      "name": "Laughing with a Mouth of Blood",
+      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
     },
     {
       "added_at": null,
@@ -735,6 +667,74 @@
       "duration_ms": 281578,
       "name": "The Nowhere Inn (Live)",
       "url": "https://open.spotify.com/track/5puEAUQFnOr5JeGfNbAhjo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 265053,
+      "name": "Surgeon",
+      "url": "https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Vincent",
+        "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 276626,
+      "name": "Prince Johnny",
+      "url": "https://open.spotify.com/track/7hLWQTGBtKo4pBpJ9CaQo9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "My Baby Wants A Baby",
+      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIVE IN LONDON! (BBC Proms at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 88024,
+      "name": "We Put A Pearl In the Ground (Live)",
+      "url": "https://open.spotify.com/track/3lk3HVxUJYCErXukieewbV"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 179920,
+      "name": "Bad Believer",
+      "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hyperspace (2020)",
         "url": "https://open.spotify.com/album/6Aqtcnv4SwSnXaZj987OQ0"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 179127,
       "name": "Uneventful Days - St. Vincent Remix",
       "url": "https://open.spotify.com/track/1zyBMwIWlKozL0hom8GT5x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 179920,
-      "name": "Bad Believer",
-      "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
     },
     {
       "added_at": null,
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 222986,
-      "name": "Dinner for Two",
-      "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
+      "duration_ms": 185320,
+      "name": "I Am an Ape",
+      "url": "https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV"
     }
   ],
   "unique_name": "This Is St. Vincent",

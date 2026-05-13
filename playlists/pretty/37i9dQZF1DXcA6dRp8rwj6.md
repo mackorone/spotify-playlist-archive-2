@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: SHIGGA SHAY, pH\-1, JP THE WAVY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,889 likes - 96 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,906 likes - 96 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

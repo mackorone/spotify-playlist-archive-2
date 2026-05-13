@@ -1,6 +1,6 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 22052,
+  "num_followers": 22049,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
@@ -2538,6 +2538,10 @@
         {
           "name": "Dabeull",
           "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "Rude Jude",
+          "url": "https://open.spotify.com/artist/0ej7iy4pJCCFKh4wo8Cycf"
         }
       ],
       "duration_ms": 226058,

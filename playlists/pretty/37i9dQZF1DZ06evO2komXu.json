@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 56212,
+  "num_followers": 56224,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABiWkzGzHkRgcPGJMn7t46C",
+  "snapshot_id": "agEcAAAAAADXmQejnNVRRwf+QAM1XEMf",
   "tracks": [
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On A Low",
-        "url": "https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs"
-      },
-      "artists": [
-        {
-          "name": "Elestee",
-          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "On A Low",
-      "url": "https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chapter X",
         "url": "https://open.spotify.com/album/7u1jkHWcxmUL7lbNDNyMRY"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 221190,
       "name": "Amina",
       "url": "https://open.spotify.com/track/6n30D6vK0xN4XjA8u64F5E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On A Low",
+        "url": "https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs"
+      },
+      "artists": [
+        {
+          "name": "Elestee",
+          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "On A Low",
+      "url": "https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR"
     },
     {
       "added_at": null,

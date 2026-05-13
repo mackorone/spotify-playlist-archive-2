@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Lykke Li
 
-2,843 songs - 6 day 19 hr 37 min
+2,846 songs - 6 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Catch My High](https://open.spotify.com/track/4BPSvVdJmJCGZ5tIeDniSF) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Catch My High](https://open.spotify.com/album/7H4EVvqkX8g2CqXKgVs8mj) | 3:40 | 2026-05-07 |  |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-03 | 2025-05-02 |
 | [Catch You](https://open.spotify.com/track/6ikOvPfy40gVDVt34WkoHk) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Catch You](https://open.spotify.com/album/5wZFv1zlIVCsda4SsvQTo8) | 3:17 | 2026-04-02 | 2026-04-17 |
+| [Catching Sunlight](https://open.spotify.com/track/44yIg3ZXkbWWoZHQooaciQ) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave), [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Catching Sunlight](https://open.spotify.com/album/2yo3X1eLmITUg1dDkmxFKt) | 2:48 | 2026-05-07 |  |
 | [Cathode Ray](https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Cathode Ray](https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX) | 4:09 | 2025-05-15 | 2025-06-13 |
 | [Cathy](https://open.spotify.com/track/37SmqFHvOOaRghaM6r4uIM) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Cathy](https://open.spotify.com/album/5R13wrMaZvdYsLP6OHVepn) | 3:26 | 2024-08-29 | 2024-09-13 |
 | [Caught](https://open.spotify.com/track/60F4PkVYMwIE74a9ssuWJl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Caught](https://open.spotify.com/album/2BL51vTtCfJwkZ32pdQzTA) | 3:10 | 2026-03-26 | 2026-04-10 |
@@ -1549,6 +1550,7 @@
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-05-22 | 2025-06-20 |
 | [Mama Mia](https://open.spotify.com/track/4sDa4HFEVH2oqU98lJl14U) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Mama Mia](https://open.spotify.com/album/2mwppwDWQZRnyYL1AOM2OF) | 3:17 | 2025-02-21 | 2025-03-21 |
 | [Mama, My Heart Is Achin'](https://open.spotify.com/track/6tVk7AVFvAa5oSj2YEoB6W) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Mama, My Heart Is Achin'](https://open.spotify.com/album/06uAi42XtPri4UzaL7usrT) | 3:45 | 2026-03-19 | 2026-04-17 |
+| [Mammoth](https://open.spotify.com/track/3aE7UURzEUkznUbf1mJAMS) | [Flora Hibberd](https://open.spotify.com/artist/5EFG7rqfVfdyaXiRZbRkpS) | [Mammoth](https://open.spotify.com/album/3dnhxDJuhlGMOlSLYFucMK) | 4:01 | 2026-05-07 |  |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-10 | 2025-08-09 |
 | [Maniac](https://open.spotify.com/track/6bClenGhKo9xfEj0E6geJE) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Maniac](https://open.spotify.com/album/6Y85Tlf0EPPOmHdfJYcLQX) | 2:25 | 2024-08-08 | 2024-08-23 |
 | [Mann](https://open.spotify.com/track/11jruuwAImnf2NwzIcgHh9) | [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm) | [Funkhaus](https://open.spotify.com/album/62znnj4FridOMqwrG8neNT) | 2:10 | 2025-12-18 | 2026-01-23 |
@@ -2378,6 +2380,7 @@
 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 | 2025-04-17 | 2025-05-02 |
 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 | 2025-05-22 | 2025-06-20 |
 | [Tempo](https://open.spotify.com/track/0osrIOnhXmpGo9T9Z001iw) | [Lucy Dreams](https://open.spotify.com/artist/7x8nHczUKxMXrHv2iYTRJT) | [Tempo](https://open.spotify.com/album/0V0DrW6nbNSKPycyf4e9va) | 3:02 | 2025-06-26 | 2025-07-25 |
+| [Temporary Love](https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR) | [Paycheque](https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe) | [Temporary Love](https://open.spotify.com/album/4016CeKzSOstXXe2jLqqoh) | 3:59 | 2026-05-07 |  |
 | [Ten Years Later](https://open.spotify.com/track/02A9GeCWcg4eesu516rFxX) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Ten Years Later](https://open.spotify.com/album/6EIWGUm6N8EUXvk0Bzn1re) | 2:57 | 2025-12-04 | 2026-01-16 |
 | [Tennis Bracelet](https://open.spotify.com/track/0ZCmVf5BIgmWNj1vcqAjJo) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Tennis Bracelet](https://open.spotify.com/album/0Jy6YjC6L3BdWKU3GIKSKV) | 3:28 | 2025-07-10 | 2025-08-09 |
 | [Tequila Shots](https://open.spotify.com/track/41a9e1pccolyyJxkg2reuw) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Tequila Shots](https://open.spotify.com/album/3RvspKF4izNsVsFfawFeH2) | 3:03 | 2026-02-26 | 2026-03-27 |

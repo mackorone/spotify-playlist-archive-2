@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : Thug Life
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,571 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,597 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 | 52 | [Rowdy Baby](https://open.spotify.com/track/5YtLIhAuPcNLkfHZto0MVV) | [Yuvan Shankar Raja,Dhanush,Dhee](https://open.spotify.com/artist/6fVqMOOw2ewl9TzT6aG7dL) | [Maari 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DXifmf9OSaHpOl3zqxTTg) | 4:41 |
 | 53 | [En Aasai Mythiliye](https://open.spotify.com/track/44OEXE0l8fdx6oaKexx2G5) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YvUZ2VpPl6SaKiA0Tp6i2) | 4:22 |
 | 54 | [Single Pasanga](https://open.spotify.com/track/5IirRCYX0AuRAZDDeOY7RA) | [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL), [Gana Ulagam Dharani](https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7) | [Natpe Thunai](https://open.spotify.com/album/1HYfvglqbtALCXpldXYakO) | 3:44 |
-| 55 | [Maari Thara Local \- Here Comes Maari](https://open.spotify.com/track/7w4kFO2slzHCu1qEOMaPkl) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 3:50 |
+| 55 | [Naa Ready \(From "Leo"\)](https://open.spotify.com/track/1B02UI29t3PTh3m98absaP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Naa Ready \(From "Leo"\)](https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI) | 4:08 |
 | 56 | [Naan Romba](https://open.spotify.com/track/3AveuWMomOOs92pmWeXZLZ) | [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Na.Muthukumar](https://open.spotify.com/artist/3xRtandQusLOaCPqLJ0ia2) | [Siruthai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7KHNl1rp4b6yc37rb8Ozmt) | 4:05 |
 | 57 | [Udhungada Sangu](https://open.spotify.com/track/24GlSNySJ9tAwkvZPuVb63) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 3:29 |
 | 58 | [What a Karavaad](https://open.spotify.com/track/5EjVRbQFSLYyeNLlO7qGLY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 4:27 |

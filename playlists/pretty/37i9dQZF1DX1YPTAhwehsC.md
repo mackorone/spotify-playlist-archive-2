@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: BIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,586 likes - 99 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,572 likes - 99 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 3 | [I Wanna Rock](https://open.spotify.com/track/6PetGqmYmxytj5TfEvHO5k) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [I Wanna Rock](https://open.spotify.com/album/5RvJlNjUyH6D7DEdbFjI1z) | 3:44 |
 | 4 | [Gone](https://open.spotify.com/track/45jsFbRoGY7Wjoufgpn9zc) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [They Just Ain't You](https://open.spotify.com/album/7JxNts9ZhHN2VvQ0NKU0tj) | 3:10 |
 | 5 | [Ever Since U Left Me \(I Went Deaf\)](https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Coke Wave 3.5: Narcos](https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE) | 2:16 |
-| 6 | [2C](https://open.spotify.com/track/7KjI1Wfa0VJao6hufL43eq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [2C](https://open.spotify.com/album/2SGKhKXp1aEFO4vfjcvKMi) | 3:03 |
+| 6 | [2C \(feat\. Cash Cobain\)](https://open.spotify.com/track/7KjI1Wfa0VJao6hufL43eq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [2C \(feat\. Cash Cobain\)](https://open.spotify.com/album/2SGKhKXp1aEFO4vfjcvKMi) | 3:03 |
 | 7 | [Belly](https://open.spotify.com/track/7MYypH9VM4e2Ai05LhhyDE) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Belly](https://open.spotify.com/album/6xkDEPFBEVdWcOF42JEbYP) | 3:08 |
 | 8 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 9 | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3) | 3:37 |

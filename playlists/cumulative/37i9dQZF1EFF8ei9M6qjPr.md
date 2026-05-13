@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-232 songs - 10 hr 55 min
+233 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [RUT](https://open.spotify.com/track/3WOj5K3NGSJc7UUTR0ohDh) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [RUT](https://open.spotify.com/album/5LiTATZE86gpS9OmO7mCL1) | 3:27 | 2026-04-03 |  |
 | [Same Streets](https://open.spotify.com/track/1ElVku2RbiCwpIHTtVH62l) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Same Streets](https://open.spotify.com/album/4VnYNeCLopXgVXa5btmJlc) | 2:33 | 2024-08-02 |  |
 | [Same Streets](https://open.spotify.com/track/7cUhsSkqpWI8JMrlRKdEGI) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Same Streets](https://open.spotify.com/album/32bbFhtMy0OhYcE4UolJAB) | 2:33 | 2024-07-09 | 2024-08-03 |
+| [Sick of Me Too](https://open.spotify.com/track/5KqHyTE8kz7jHq9HPeRBqW) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Sick of Me Too](https://open.spotify.com/album/2lyxfE2VgGFQ6oj26dwPjk) | 2:31 | 2026-05-12 |  |
 | [Sick of Me Too](https://open.spotify.com/track/5p10pR7Hs1nM99bUwCAaqW) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Sick of Me Too](https://open.spotify.com/album/3r9SgXJ51nliEoI6Az7zO5) | 2:31 | 2024-07-09 | 2024-12-14 |
 | [Sick of Me Too](https://open.spotify.com/track/6eMq93ZAXM4p3lUTcn5RMb) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Sick of Me Too](https://open.spotify.com/album/3YiObZSEulFloi6gA9V0rf) | 2:31 | 2024-12-13 | 2026-02-06 |
 | [Sick of Me Too](https://open.spotify.com/track/7JMdAJjOVg1a2zEaIOBhMO) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Sick of Me Too](https://open.spotify.com/album/2NXAXKV91fx1xAmgFLv7rP) | 2:31 | 2026-02-05 | 2026-04-26 |

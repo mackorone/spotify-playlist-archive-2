@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 548780,
+  "num_followers": 548833,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAB5udKp1BjPigo+y9ErzXQI",
+  "snapshot_id": "agEcAAAAAACSEG1KAwIuo3U9qECvDp7g",
   "tracks": [
     {
       "added_at": null,
@@ -620,23 +620,7 @@
       "added_at": null,
       "album": {
         "name": "The Stage",
-        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 221973,
-      "name": "God Damn",
-      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
+        "url": "https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd"
       },
       "artists": [
         {
@@ -646,7 +630,23 @@
       ],
       "duration_ms": 512024,
       "name": "The Stage",
-      "url": "https://open.spotify.com/track/69gBAQdpxvCsw34Bbf8MnD"
+      "url": "https://open.spotify.com/track/3jo1u5KsNTqW07fhlr1jCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 270123,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Stage",
+        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 221973,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamonds in the Rough",
         "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 270123,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe"
+      "duration_ms": 302400,
+      "name": "St. James",
+      "url": "https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
       "duration_ms": 222656,
       "name": "Magic",
       "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds in the Rough",
-        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 302400,
-      "name": "St. James",
-      "url": "https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6"
     },
     {
       "added_at": null,

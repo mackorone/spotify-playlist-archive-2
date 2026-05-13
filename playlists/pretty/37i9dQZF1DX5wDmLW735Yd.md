@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wDmLW735Yd.md) - [plain]
 
 > The world's biggest Drum 'n' Bass playlist! Cover: P Money, Whiney, Lady Leshurr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,190 likes - 105 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,143 likes - 105 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: MoMo",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: Crystal Kay",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -6350,7 +6350,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 245000,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/2JFSvkUw0TIPBajbi84UcZ"
@@ -6720,6 +6720,28 @@
       "duration_ms": 191966,
       "name": "Cheers!Cheers!",
       "url": "https://open.spotify.com/track/1AQ4UPkGibo0ELl4zvPoZj"
+    },
+    {
+      "album": {
+        "name": "Get Litty?",
+        "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "Cheese (feat. Manaka)",
+      "url": "https://open.spotify.com/track/2iu0jCYe28cYNsETzGf1z3"
     },
     {
       "album": {
@@ -10598,7 +10620,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 229312,
       "name": "evergreen",
       "url": "https://open.spotify.com/track/2CpvIkHvGiidJmS6MtEgxN"
@@ -26219,6 +26241,28 @@
     },
     {
       "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/5hyb010Cm1neU0k5l4zdSl"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        },
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/4lthtFNXXZZmRPdS1BlIpu"
+    },
+    {
+      "album": {
         "name": "Onozomidori",
         "url": "https://open.spotify.com/album/4gSVJvKLVGJP7cHuQue9qQ"
       },
@@ -40353,6 +40397,24 @@
     },
     {
       "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301109,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU"
+    },
+    {
+      "album": {
         "name": "\u5c0f\u3055\u306a\u6b4c",
         "url": "https://open.spotify.com/album/3HkSW9YrKFDeGxz0mTg3nu"
       },
@@ -46681,6 +46743,24 @@
     },
     {
       "album": {
+        "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
+        "url": "https://open.spotify.com/album/262lizNS5FxoWK1QFsGQGz"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271733,
+      "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
+      "url": "https://open.spotify.com/track/3eh3LNQK84ZkwINGLotAON"
+    },
+    {
+      "album": {
         "name": "\u3088\u308a\u901f\u304f!",
         "url": "https://open.spotify.com/album/0GIAL5G0Lw1hBAzLMN0y0Y"
       },
@@ -48714,6 +48794,24 @@
       "duration_ms": 401533,
       "name": "\u30ae\u30d6\u30b9",
       "url": "https://open.spotify.com/track/7kIKjH4RrK8LT5TbmwecK9"
+    },
+    {
+      "album": {
+        "name": "\u30ae\u30e5\u30fc\u30a2\u30b0",
+        "url": "https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188588,
+      "name": "\u30ae\u30e5\u30fc\u30a2\u30b0",
+      "url": "https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV"
     },
     {
       "album": {
@@ -56774,7 +56872,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 187800,
       "name": "\u5348\u524d\u56db\u6642",
       "url": "https://open.spotify.com/track/0wQdYrJT00p7OKoUiBZZaW"
@@ -66476,7 +66574,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 208333,
       "name": "\u79c1\u306e\u5e78\u305b\u306f\u79c1\u304c\u6c7a\u3081\u308b",
       "url": "https://open.spotify.com/track/6AhdAYvVQTHhJm4lDMiYWk"
@@ -67946,7 +68044,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 229012,
       "name": "\u82e6\u6e0b",
       "url": "https://open.spotify.com/track/4nudyv05Dd1pAdO6z1YBoh"

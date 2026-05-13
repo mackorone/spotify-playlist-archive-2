@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "The Stage",
+        "url": "https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512024,
+      "name": "The Stage",
+      "url": "https://open.spotify.com/track/3jo1u5KsNTqW07fhlr1jCf"
+    },
+    {
+      "album": {
         "name": "The Stage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
       },
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 512024,
       "name": "The Stage",
       "url": "https://open.spotify.com/track/69gBAQdpxvCsw34Bbf8MnD"

@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Ayla \u00c7elik",
-  "num_followers": 579938,
+  "num_followers": 579949,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-05-11 12:21:17",
       "album": {
+        "name": "Daha \u0130yi",
+        "url": "https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "duration_ms": 198595,
+      "name": "Daha \u0130yi",
+      "url": "https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT"
+    },
+    {
+      "added_at": "2026-05-11 12:21:17",
+      "album": {
         "name": "K\u00fc\u00e7\u00fck Bir Yol (Red Bull Track Takeover)",
         "url": "https://open.spotify.com/album/5tpgUR7cyZyc2B6KS9unWY"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 200512,
       "name": "K\u00fc\u00e7\u00fck Bir Yol - Red Bull Track Takeover",
       "url": "https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i"
-    },
-    {
-      "added_at": "2026-05-11 12:21:17",
-      "album": {
-        "name": "Daha \u0130yi",
-        "url": "https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx"
-      },
-      "artists": [
-        {
-          "name": "manifest",
-          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
-        }
-      ],
-      "duration_ms": 198595,
-      "name": "Daha \u0130yi",
-      "url": "https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT"
     },
     {
       "added_at": "2026-05-11 12:21:17",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-05-11 12:21:17",
       "album": {
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/6IsCf9WYDZrS0lQkFnwmCi"
+      },
+      "artists": [
+        {
+          "name": "Kenan Do\u011fulu",
+          "url": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
+        }
+      ],
+      "duration_ms": 279799,
+      "name": "Ara Beni L\u00fctfen",
+      "url": "https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y"
+    },
+    {
+      "added_at": "2026-05-11 12:21:17",
+      "album": {
         "name": "\u00dcz\u00fclmedim Ki",
         "url": "https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 154402,
       "name": "\u00dcz\u00fclmedim Ki",
       "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"
-    },
-    {
-      "added_at": "2026-05-11 12:21:17",
-      "album": {
-        "name": "Festival",
-        "url": "https://open.spotify.com/album/6IsCf9WYDZrS0lQkFnwmCi"
-      },
-      "artists": [
-        {
-          "name": "Kenan Do\u011fulu",
-          "url": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
-        }
-      ],
-      "duration_ms": 279799,
-      "name": "Ara Beni L\u00fctfen",
-      "url": "https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y"
     },
     {
       "added_at": "2026-05-11 12:21:17",

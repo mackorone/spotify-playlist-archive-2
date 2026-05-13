@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Sue\u00f1o A Marte en portada.",
-  "num_followers": 38436,
+  "num_followers": 38454,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-10-24 06:00:19",
       "album": {
-        "name": "Cielos Desconocidos",
-        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 328040,
-      "name": "Hasta Que el Tiempo No Nos Separe",
-      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
-    },
-    {
-      "added_at": "2025-10-24 06:00:19",
-      "album": {
         "name": "Organs",
         "url": "https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 287403,
       "name": "Organs",
       "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
+    },
+    {
+      "added_at": "2025-10-24 06:00:19",
+      "album": {
+        "name": "Cielos Desconocidos",
+        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 328040,
+      "name": "Hasta Que el Tiempo No Nos Separe",
+      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
       "added_at": "2025-10-24 06:00:19",

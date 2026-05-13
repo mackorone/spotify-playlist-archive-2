@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26765,
+  "num_followers": 26763,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "How I Get",
-        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "How I Get",
-      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Baby Blue / When It Comes To Loving You",
         "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 171630,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "How I Get",
+        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "How I Get",
+      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Hold Me In The Dark",
+        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Hold Me In The Dark",
+      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Kaikki viel edess\u00e4",
         "url": "https://open.spotify.com/album/0jvTvhcz36GobILqRNO1zD"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 243760,
       "name": "Dancing On The Wall",
       "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Hold Me In The Dark",
-        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Hold Me In The Dark",
-      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "FATHER (I Will Never Confess)",
-        "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
-      },
-      "artists": [
-        {
-          "name": "Erika Vikman",
-          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
-        }
-      ],
-      "duration_ms": 198250,
-      "name": "FATHER (I Will Never Confess)",
-      "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Kuudes aisti",
         "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 193965,
       "name": "Kuudes aisti",
       "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "FATHER (I Will Never Confess)",
+        "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "FATHER (I Will Never Confess)",
+      "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Olosuhteet",
+        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
+      },
+      "artists": [
+        {
+          "name": "Leyla",
+          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
+        }
+      ],
+      "duration_ms": 188810,
+      "name": "Olosuhteet",
+      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Bier over hier",
         "url": "https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 179122,
       "name": "Bier over hier",
       "url": "https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Olosuhteet",
-        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
-      },
-      "artists": [
-        {
-          "name": "Leyla",
-          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
-        }
-      ],
-      "duration_ms": 188810,
-      "name": "Olosuhteet",
-      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Apnea",
-        "url": "https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t"
-      },
-      "artists": [
-        {
-          "name": "Stam1na",
-          "url": "https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG"
-        }
-      ],
-      "duration_ms": 353915,
-      "name": "Lahja",
-      "url": "https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Papin tyt\u00e4r",
         "url": "https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 160933,
       "name": "Iltat\u00e4hti",
       "url": "https://open.spotify.com/track/5eMtpURpS5BeiZzuB5CCTq"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Apnea",
+        "url": "https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t"
+      },
+      "artists": [
+        {
+          "name": "Stam1na",
+          "url": "https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG"
+        }
+      ],
+      "duration_ms": 353915,
+      "name": "Lahja",
+      "url": "https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR"
     },
     {
       "added_at": "2026-05-08 04:10:15",

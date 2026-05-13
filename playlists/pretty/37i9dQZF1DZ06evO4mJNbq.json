@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABtNId2zV/44SseErlg12gv",
+  "snapshot_id": "agEcAAAAAABjJQ0JNwf2krm9taCfwkif",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immaculate Conception",
-        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/31fgruFIDb9BwdU3xZgtHe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen of Hearts (Deluxe Edition)",
         "url": "https://open.spotify.com/album/78gqMA4jrmtgwb9O94ZgYh"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 163866,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/4kqrvXW9JKqikb7K2Iyps0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Immaculate Conception",
+        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/31fgruFIDb9BwdU3xZgtHe"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 193466,
-      "name": "For the Both of Us",
-      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
+      "duration_ms": 200453,
+      "name": "Drunk with Your Exes",
+      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Drunk with Your Exes",
-      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
+      "duration_ms": 193466,
+      "name": "For the Both of Us",
+      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 150233,
-      "name": "Drag Me to Hell",
-      "url": "https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk"
+      "duration_ms": 215002,
+      "name": "Truth Tea",
+      "url": "https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 215002,
-      "name": "Truth Tea",
-      "url": "https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr"
+      "duration_ms": 150233,
+      "name": "Drag Me to Hell",
+      "url": "https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk"
     },
     {
       "added_at": null,

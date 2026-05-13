@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Arkangel Musical de Tierra Caliente en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,957 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,982 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 47 | [La Boca Es Para Comer](https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Al 100 y Pasadito](https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b) | 2:37 |
 | 48 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 3:19 |
 | 49 | [5 Minutos](https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Por Qué Me Gustas](https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP) | 3:41 |
-| 50 | [El Amor de Mi Vida](https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [El Amor de Tu Vida](https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf) | 4:38 |
-| 51 | [Flor Hermosa](https://open.spotify.com/track/557jO0VSx5Y0VgeA4BOwdO) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Adicto a Ti](https://open.spotify.com/album/7cJOsVE6qWAviyw5jl350L) | 2:28 |
+| 50 | [Flor Hermosa](https://open.spotify.com/track/557jO0VSx5Y0VgeA4BOwdO) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Adicto a Ti](https://open.spotify.com/album/7cJOsVE6qWAviyw5jl350L) | 2:28 |
+| 51 | [El Amor de Mi Vida](https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [El Amor de Tu Vida](https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf) | 4:38 |
 | 52 | [Las Joyas De Mi Vida](https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Exitos de La Nobleza de Aguililla](https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h) | 4:07 |
 | 53 | [Lo Que Empieza Acaba](https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Gracias a la Vida](https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW) | 2:24 |
 | 54 | [El Nike](https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [El Nike](https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq) | 4:02 |
-| 55 | [Dile](https://open.spotify.com/track/0RZ352rB5tBZ0Oepsu7ubJ) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [El Amor de Tu Vida](https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf) | 3:25 |
-| 56 | [Carta de Luto](https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU), [La Dinastia de Tuzantla Mich](https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w) | [Homenaje al Rey Pobre](https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST) | 2:52 |
+| 55 | [Carta de Luto](https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU), [La Dinastia de Tuzantla Mich](https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w) | [Homenaje al Rey Pobre](https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST) | 2:52 |
+| 56 | [Dile](https://open.spotify.com/track/0RZ352rB5tBZ0Oepsu7ubJ) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [El Amor de Tu Vida](https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf) | 3:25 |
 | 57 | [Me Va a Extrañar](https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Solo para Ti](https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X) | 2:37 |
 | 58 | [La Ultima Copa](https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Inspirados por Ti](https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb) | 4:16 |
 | 59 | [Flor De Limón / Te Llegará Mi Olvido / Pobre Bohemio / Beso A Beso / Tierra Mala / El Caminante \(En Vivo\)](https://open.spotify.com/track/0rvBiev8PnkB3lwnFLmRuI) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 19:51 |

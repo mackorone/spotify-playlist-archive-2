@@ -1,12 +1,12 @@
 {
   "description": "This is Benson Boone. The essential tracks, all in one playlist.",
-  "num_followers": 388696,
+  "num_followers": 388774,
   "original_name": "This Is Benson Boone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAAOYcycEbvdFytIampfwV6v",
+  "snapshot_id": "agEcAAAAAAA6SyC7Ky2UK0wktIHSH3WJ",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk Me Home...",
-        "url": "https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz"
+        "name": "Sugar Sweet",
+        "url": "https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 159937,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4X27CYcGvCfy75TkVJehSG"
+      "duration_ms": 169839,
+      "name": "Sugar Sweet",
+      "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Sweet",
-        "url": "https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c"
+        "name": "Walk Me Home...",
+        "url": "https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 169839,
-      "name": "Sugar Sweet",
-      "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
+      "duration_ms": 159937,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4X27CYcGvCfy75TkVJehSG"
     },
     {
       "added_at": null,

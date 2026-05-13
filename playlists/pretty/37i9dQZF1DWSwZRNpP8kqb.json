@@ -179,6 +179,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "K'arallanta",
+        "url": "https://open.spotify.com/album/5Hh7brIrWNPeoZyXUIXH61"
+      },
+      "artists": [
+        {
+          "name": "Milena Salamanca",
+          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
+        }
+      ],
+      "duration_ms": 294365,
+      "name": "Jujuy Mujer",
+      "url": "https://open.spotify.com/track/4tEpS58KfHWzvRCchFktCT"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Madre Tierra",
         "url": "https://open.spotify.com/album/46cdt75AjwW40xO5MPfweX"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 276787,
       "name": "Sol de los Andes",
       "url": "https://open.spotify.com/track/2k9snEi03Da0tGwkUYhPH5"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "K'arallanta",
-        "url": "https://open.spotify.com/album/5Hh7brIrWNPeoZyXUIXH61"
-      },
-      "artists": [
-        {
-          "name": "Milena Salamanca",
-          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
-        }
-      ],
-      "duration_ms": 294365,
-      "name": "Jujuy Mujer",
-      "url": "https://open.spotify.com/track/4tEpS58KfHWzvRCchFktCT"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Por el Contrario",
-        "url": "https://open.spotify.com/album/7mqC06N49AoHgs4MaZNsXm"
-      },
-      "artists": [
-        {
-          "name": "Carlita Celeste",
-          "url": "https://open.spotify.com/artist/2LWkwFDTAKh7zZwVAdvmH6"
-        }
-      ],
-      "duration_ms": 227434,
-      "name": "Por el Contrario",
-      "url": "https://open.spotify.com/track/5uHrRzzW3hTtYKG8JSpPNg"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Ojos de Cielo",
         "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 169500,
       "name": "Ojos de Cielo",
       "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Por el Contrario",
+        "url": "https://open.spotify.com/album/7mqC06N49AoHgs4MaZNsXm"
+      },
+      "artists": [
+        {
+          "name": "Carlita Celeste",
+          "url": "https://open.spotify.com/artist/2LWkwFDTAKh7zZwVAdvmH6"
+        }
+      ],
+      "duration_ms": 227434,
+      "name": "Por el Contrario",
+      "url": "https://open.spotify.com/track/5uHrRzzW3hTtYKG8JSpPNg"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Conviccion",
+        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
+      },
+      "artists": [
+        {
+          "name": "Rocio Araujo",
+          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Cuando Me Abandone el Alma",
+      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Memoria del Viento",
         "url": "https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 153840,
       "name": "Mba e Pa Do\u00f1a Froilana",
       "url": "https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Conviccion",
-        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
-      },
-      "artists": [
-        {
-          "name": "Rocio Araujo",
-          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Cuando Me Abandone el Alma",
-      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Gaucha",
-        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
-      },
-      "artists": [
-        {
-          "name": "Mavi Diaz &  Las Folkies",
-          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
-        }
-      ],
-      "duration_ms": 107710,
-      "name": "La Arruguita",
-      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Dentro, El Silencio",
         "url": "https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 320266,
       "name": "Lavandera Chaguanca",
       "url": "https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Gaucha",
+        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
+      },
+      "artists": [
+        {
+          "name": "Mavi Diaz &  Las Folkies",
+          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
+        }
+      ],
+      "duration_ms": 107710,
+      "name": "La Arruguita",
+      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Retrato de Familia",
-        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 260411,
-      "name": "Flor Abierta",
-      "url": "https://open.spotify.com/track/1SGjtb9kwVZQV8aH5rDzjt"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Anidar",
         "url": "https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 156368,
       "name": "Astilla de Tus Montes",
       "url": "https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Retrato de Familia",
+        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 260411,
+      "name": "Flor Abierta",
+      "url": "https://open.spotify.com/track/1SGjtb9kwVZQV8aH5rDzjt"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 249217,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Noche, d\u00eda y madrugada",
         "url": "https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 193451,
       "name": "Ojal\u00e1 te enamores",
       "url": "https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 249217,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
     },
     {
       "added_at": "2025-08-21 21:06:28",

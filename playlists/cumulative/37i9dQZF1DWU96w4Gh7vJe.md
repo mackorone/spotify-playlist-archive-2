@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-242 songs - 15 hr 14 min
+243 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [alon](https://open.spotify.com/track/1we7ejeeUYN2E3bau8DMkj) | [Kevin Montillano](https://open.spotify.com/artist/7Ef2aO3yFTcUnkv3Se81Ju) | [alon](https://open.spotify.com/album/1lp9u4tz7NfolKsKR2HvOU) | 3:31 | 2026-04-28 | 2026-05-06 |
 | [Anytime](https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW), [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [Anytime](https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN) | 4:19 | 2023-10-20 | 2025-06-13 |
 | [Asan Ang Gana Ko](https://open.spotify.com/track/7eyX57pLwUUP46gneOrxUr) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:05 | 2025-07-16 | 2025-08-26 |
+| [Autumn \(Reimagined\)](https://open.spotify.com/track/2NP0WCHeIjBi3oC7MruePl) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Autumn \(Reimagined\)](https://open.spotify.com/album/4jKfiwrpklbqDOrwiUBsLv) | 3:56 | 2026-05-12 |  |
 | [Awit Na Hinahanap](https://open.spotify.com/track/6ehsh5fEvJ2cfpzcW9UPuz) | [AINT](https://open.spotify.com/artist/3rNyOjaISuZ9vsZvNcnNjy) | [Pusong Lumilipad](https://open.spotify.com/album/6FR0LINSAVrlDKn8K1ErGj) | 3:08 | 2025-11-24 | 2025-12-09 |
 | [Bagong Tradisyon](https://open.spotify.com/track/5H7dSVRGiOP7eRUz7qXu6o) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Bagong Tradisyon](https://open.spotify.com/album/6BJHujHabp4qnJfwvAmfqp) | 3:32 | 2024-02-27 | 2024-04-29 |
 | [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 | 2026-03-17 |  |
@@ -62,7 +63,7 @@
 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 | 2023-10-20 |  |
 | [Follow](https://open.spotify.com/track/6yT9DXOOdumPMkrV0gWfHy) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Follow](https://open.spotify.com/album/1WM1m5U1JuoUG9c7Ur9o5K) | 2:50 | 2024-05-08 | 2024-07-11 |
 | [For You](https://open.spotify.com/track/6QzlxzQXbXsdzfprUKULTy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [For You](https://open.spotify.com/album/0OtaRZl2qPDKMGE3Ejbwiy) | 3:42 | 2025-12-08 | 2025-12-12 |
-| [Gabi](https://open.spotify.com/track/5Wgr1W75MsQG9RssVjjjMD) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Gabi](https://open.spotify.com/album/7wblINp3AEPE9nNOurnaCa) | 4:28 | 2026-04-08 |  |
+| [Gabi](https://open.spotify.com/track/5Wgr1W75MsQG9RssVjjjMD) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Gabi](https://open.spotify.com/album/7wblINp3AEPE9nNOurnaCa) | 4:28 | 2026-04-08 | 2026-05-13 |
 | [Gitara](https://open.spotify.com/track/7nbIGbDitZIYoMrMsXunAu) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Halina Sa Parokya](https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL) | 4:02 | 2023-10-20 | 2024-04-19 |
 | [Grabe Ka Naman Saktan](https://open.spotify.com/track/1xlozwdp4AABxtIgLVub7t) | [Abby Asistio](https://open.spotify.com/artist/1SzRbptyg5juRlfWOAFHLM) | [Grabe Ka Naman Saktan](https://open.spotify.com/album/292rYJLw0TqS2uC2LJJAAK) | 4:17 | 2026-03-17 | 2026-03-31 |
 | [Guhit](https://open.spotify.com/track/74maWJVe6tA1nKGs5pwfj5) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa) | [Guhit](https://open.spotify.com/album/7mEau3f3BD6ksCQQ9ukL3Q) | 3:45 | 2026-03-17 | 2026-03-31 |

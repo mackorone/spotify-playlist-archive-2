@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,052 likes - 149 songs - 8 hr 10 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,049 likes - 149 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 133 | [Better Off Before](https://open.spotify.com/track/395UwzdJRE8i8pEgXBtbTJ) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Better Off Before](https://open.spotify.com/album/0N6Wb352thnlCDXYBU6ltE) | 3:02 |
 | 134 | [RTS!](https://open.spotify.com/track/4E5Z5WjxfkXKf8xK3gJAdV) | [Y3llO](https://open.spotify.com/artist/2c0I559W7Og0mxp5F1Jo1H), [Tye Turner](https://open.spotify.com/artist/4OKJllpT5mK1pIrcKccBqB) | [RTS!](https://open.spotify.com/album/3VTTEFtVfxi1IPkciTQm1x) | 3:19 |
 | 135 | [Oh Yeah](https://open.spotify.com/track/3LUFqsqH7iubyJ11TwzMhB) | [Dennett](https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9) | [Oh Yeah](https://open.spotify.com/album/0LNFvvwOvUhwk1SBSZ0v9u) | 3:32 |
-| 136 | [Shadow Of Your Smile](https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb) | [Shadow Of Your Smile](https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl) | 3:46 |
+| 136 | [Shadow Of Your Smile](https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Rude Jude](https://open.spotify.com/artist/0ej7iy4pJCCFKh4wo8Cycf) | [Shadow Of Your Smile](https://open.spotify.com/album/5R9YEihXqBgCJQyxr2Edpl) | 3:46 |
 | 137 | [SHAKEUP](https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [SHAKEUP](https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5) | 3:33 |
 | 138 | [ONMYFEET](https://open.spotify.com/track/0mblCFqnjRMwcTABERlOJK) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Koya](https://open.spotify.com/artist/6qzW2S5bxtODohd2FtnEs5) | [ONMYFEET](https://open.spotify.com/album/5pBraE4nFiFez3sYr26y04) | 2:51 |
 | 139 | [NEXUS](https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW) | [G\-REX](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [NEXUS](https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ) | 2:31 |

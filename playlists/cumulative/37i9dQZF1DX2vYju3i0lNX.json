@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 208005,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4A8eikKPQAGf0ZyrQpku2O"
@@ -11828,6 +11828,24 @@
       "duration_ms": 232521,
       "name": "Lesters's Tears",
       "url": "https://open.spotify.com/track/4h4NyGcAmkInin8wNidCfS"
+    },
+    {
+      "album": {
+        "name": "Let's Be In Love",
+        "url": "https://open.spotify.com/album/50KonU2PiDTqvRJ53eHYHA"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194970,
+      "name": "Let's Be In Love",
+      "url": "https://open.spotify.com/track/1ERVDUNSdOSorgWYUdauWA"
     },
     {
       "album": {

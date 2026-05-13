@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-285 songs - 16 hr 23 min
+286 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Mami](https://open.spotify.com/track/3cUS04WmcPdU0mw6kURBfG) | [Hades THC](https://open.spotify.com/artist/3mZWdB1lqbnwVVwMhn8X2r) | [Mami](https://open.spotify.com/album/6z1JP1SFDk0P1yApandSzK) | 2:37 | 2025-04-18 | 2026-04-06 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2025-01-24 |  |
 | [Mañana Será Bonito \- Bolero Version](https://open.spotify.com/track/18hsKYxPFWqp1P2vS1Lug8) | [Anton](https://open.spotify.com/artist/6hVnAG9YpuD7sziXsRMypy), [Adriana Blu](https://open.spotify.com/artist/67wKfbZX3Iv0NbG4IOE3d1) | [Mañana Será Bonito \(Bolero Version\)](https://open.spotify.com/album/22MbXzyiPlOrc7UAZZDWos) | 3:50 | 2025-09-05 | 2026-04-06 |
+| [Me Gustas Tu](https://open.spotify.com/track/235Y5A55l0S5VuHAArd8e8) | [Los Flamingo](https://open.spotify.com/artist/2JlMuemTsSuUKSZqghyTm0), [Capitán Eléctrico](https://open.spotify.com/artist/5a4CjfqcIDFQFUxaQqg2Ka) | [Me Gustas Tu](https://open.spotify.com/album/3xCvaL302GI5AfR3xN3G6Y) | 2:42 | 2026-05-12 |  |
 | [Me Meti En Su Juego](https://open.spotify.com/track/2QIvd6YjX1c4pNVGE1oiDQ) | [ALÍÍ EL CHIVO](https://open.spotify.com/artist/0RshknZbFIyF0u97l4jg0L) | [Me Meti En Su Juego](https://open.spotify.com/album/26nRdW54KVKEX8xhrzbXKs) | 2:19 | 2025-03-04 | 2026-04-06 |
 | [MEDIO FILO](https://open.spotify.com/track/50C03SezGFxf3NbNBoBIdO) | [Seba Space](https://open.spotify.com/artist/47gWcVZefFfUUj5HZueC1M), [Yiorblezz](https://open.spotify.com/artist/5V9C3emtv3S2Ms4gMLaY3D), [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP) | [MEDIO FILO](https://open.spotify.com/album/55cKFQSYOznQ8Vty9TZ3pv) | 3:14 | 2025-03-23 | 2026-04-06 |
 | [Metallic Rain](https://open.spotify.com/track/5kfme25JbVzN0wI5OuxQSM) | [Persh](https://open.spotify.com/artist/7tjV6l0oXpoWQhBNWddTnk) | [Metallic Rain](https://open.spotify.com/album/46O3rOFNJrdTlEtgXzK5a8) | 4:50 | 2025-01-26 |  |

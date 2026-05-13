@@ -2,7 +2,7 @@
 
 ### [Desi Pop](https://open.spotify.com/playlist/37i9dQZF1DX2nX8HgBDmgL)
 
-> Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Asim Azhar
+> Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Zoha Waseem, Sheheryar Rehan
 
 393 songs - 21 hr 23 min
 

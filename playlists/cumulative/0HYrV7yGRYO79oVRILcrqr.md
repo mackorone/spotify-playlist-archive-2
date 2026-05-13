@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-494 songs - 1 day 6 hr 46 min
+497 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 | 2026-04-15 |  |
 | [Beat Up Chevy](https://open.spotify.com/track/4b3pnApfGfgQbmL44FeIl5) | [Mellowscape](https://open.spotify.com/artist/21SImcHsUMIWVlAM96ZIe3), [Lorelai Paige](https://open.spotify.com/artist/3HVWZoxdlflhNpe04Np1tD) | [Sunsick](https://open.spotify.com/album/18wREmEVKw4na0Q3uYKCYx) | 4:42 | 2025-09-22 | 2025-12-17 |
 | [Bebeğim](https://open.spotify.com/track/0UE1X4VimOchf2p37eE4uh) | [Evren Uğur](https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4) | [Bebeğim](https://open.spotify.com/album/78VtGQ3K0YPQxKHXrFuAyh) | 3:11 | 2025-10-28 | 2025-11-28 |
+| [Bed Made of Roses](https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Welcome to the Devil's Room](https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5) | 2:20 | 2026-05-12 |  |
 | [Bendito Cordeiro](https://open.spotify.com/track/3H9TRT0NyJjJUL8WuiCveG) | [Sergio Sampaio](https://open.spotify.com/artist/7GpP0myxq1RPbCFNFefMuo) | [Bendito Cordeiro](https://open.spotify.com/album/4SarQR2GYrWQl7vcDLQysr) | 3:34 | 2026-04-29 |  |
 | [Besándonos](https://open.spotify.com/track/4OKsfv1MEH1PqIDt81w6Sa) | [EnRockecidos](https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr) | [Lo que cuentan las aceras](https://open.spotify.com/album/2iJvyNUu7kiIpLz8WxmFaX) | 3:36 | 2026-01-16 | 2026-03-18 |
 | [Big Dick Boogie](https://open.spotify.com/track/76x8P66beazlp4BtXaGXpn) | [Hot Molluscs](https://open.spotify.com/artist/3m3ppkQCBHSbev6IHIG8XY) | [The Smelly Sound of Hot Molluscs](https://open.spotify.com/album/0Tby9AMVwYQoUGY7LpwDaZ) | 1:24 | 2026-04-01 | 2026-04-21 |
@@ -254,6 +255,7 @@
 | [Little Bit Closer](https://open.spotify.com/track/41ibNw69vc7EOi6jv9EqEU) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 2:54 | 2025-10-30 | 2025-12-17 |
 | [Little Girl](https://open.spotify.com/track/62lgxs50xzYUAjFLPTgfPj) | [Ryan Hanifl](https://open.spotify.com/artist/1AuTC05dE8pv2qIT1hIjMD) | [Sourpuss](https://open.spotify.com/album/6hQSWrkqdDJ1fRDxKw6jTM) | 4:13 | 2025-10-05 | 2025-11-28 |
 | [Lo Que Pudo Ser](https://open.spotify.com/track/0IwYsw7OECCgoHTbZWKmXU) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [Lo Que Pudo Ser](https://open.spotify.com/album/7JlXBgjl3Jrz2T6D8oevHP) | 3:50 | 2026-05-05 |  |
+| [Love](https://open.spotify.com/track/0ApKAgVZmOG6DdfjO9BQHR) | [David McKnight](https://open.spotify.com/artist/6ok5d7uaATSwly0SKtNZ2Z) | [Love](https://open.spotify.com/album/0zXTGKTKT4ascu8laqtbsN) | 2:43 | 2026-05-12 |  |
 | [Love Bomb Me](https://open.spotify.com/track/7qZgGW3dEySJaU9aXgQmn9) | [Who's Amber?](https://open.spotify.com/artist/1k1JkZDYdPfGr7sMhuzReV) | [Love Bomb Me](https://open.spotify.com/album/0Ht9x8uHVCDnGVG8yYiT1a) | 4:02 | 2025-10-04 | 2025-12-17 |
 | [LOVE CRY](https://open.spotify.com/track/1jZitmjNQnvi4bIAMaa6ED) | [The Morning Sons](https://open.spotify.com/artist/5Q0x4IVSxDcFgOwgyikTwD) | [LOVE CRY](https://open.spotify.com/album/1igVBGMLk0OiqaWjhFp1uV) | 5:15 | 2026-03-01 |  |
 | [Love dont live here no more](https://open.spotify.com/track/46ddaPksuVwz9I1I0MELlU) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 4:25 | 2026-01-27 | 2026-03-18 |
@@ -474,6 +476,7 @@
 | [Werewolves of London](https://open.spotify.com/track/0zYtpXjgqkKKQOpsl3y9qE) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [Werewolves of London](https://open.spotify.com/album/3hKZcu4BOd9ZP8knghvahJ) | 4:24 | 2025-11-06 | 2025-12-17 |
 | [What I Need](https://open.spotify.com/track/4Pyo1AIDTHsEXJnyDc5Ew1) | [The Fading Wish](https://open.spotify.com/artist/5sy66wBuZP3PpDgArbuItr) | [What I Need](https://open.spotify.com/album/6D24DlYbh2JJUPrxbKPaMo) | 2:42 | 2025-11-26 | 2025-12-17 |
 | [What I Need from You](https://open.spotify.com/track/0AWDRo8aeuR6JBfc15g0wj) | [Byron Walker](https://open.spotify.com/artist/48aPWjDPQcizEOJHQ8ghcJ) | [What I Need from You](https://open.spotify.com/album/3DgJSlbyGOLwkfF6DFr4SE) | 5:19 | 2025-10-04 | 2025-12-17 |
+| [What's the Deal](https://open.spotify.com/track/65mwECblaHqM3LSRBTT1nE) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [What's the Deal](https://open.spotify.com/album/2nZMIWpDc27QL0NAFKWk4C) | 2:37 | 2026-05-12 |  |
 | [When I Get Old](https://open.spotify.com/track/6yFzWY5DuTVibHfhUF4H8C) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [When I Get Old](https://open.spotify.com/album/4gLSznIkD0X8ndqSGe5rZn) | 2:27 | 2026-03-28 |  |
 | [When i see you again](https://open.spotify.com/track/2P9poLLH4lyqJX6Ym8W2ce) | [drew mado](https://open.spotify.com/artist/2wSPHPho5VMaJehm6VIywZ) | [Journey without destination](https://open.spotify.com/album/6sTSgNYjdWf7tSe2LMPlrk) | 3:29 | 2026-03-01 |  |
 | [Where Is My Home](https://open.spotify.com/track/7BOq5JrhLVdKlBoqzLJRij) | [Shao Hao](https://open.spotify.com/artist/2XTN7HUsm5XQJg6i3DGQHn) | [Where Is My Home](https://open.spotify.com/album/53o3hU2tzVnuhEzxi0smMY) | 2:54 | 2026-01-11 | 2026-03-18 |

@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Marvel's Daredevil: Born Again - Season 2: Vol. 2 (Episodes 5-8) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/29LmD14NEuB4UircTw43Km"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196044,
+      "name": "Caged Like an Animal",
+      "url": "https://open.spotify.com/track/4BQRknwWXpfbu9jw0ITRRD"
+    },
+    {
+      "album": {
         "name": "Hit-Monkey (Original Soundtrack)",
         "url": "https://open.spotify.com/album/24b6PR1lDSPnH9Z85spTfT"
       },
@@ -936,7 +954,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 153173,
       "name": "Earth to Asgard",
       "url": "https://open.spotify.com/track/4LQEsLI5QjOVwHSR4ZZfgd"

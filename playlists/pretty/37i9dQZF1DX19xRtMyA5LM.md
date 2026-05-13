@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Lijpe
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,435 likes - 70 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,387 likes - 70 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -141464,6 +141464,28 @@
     {
       "album": {
         "name": "Power",
+        "url": "https://open.spotify.com/album/2SpLH0wo9nyBiEDYMzkOWT"
+      },
+      "artists": [
+        {
+          "name": "Jonny Hawkins",
+          "url": "https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN"
+        },
+        {
+          "name": "Nathan James",
+          "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224615,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0souAacIZZ6PPSSyayapSq"
+    },
+    {
+      "album": {
+        "name": "Power",
         "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
       },
       "artists": [
@@ -141478,28 +141500,6 @@
       "duration_ms": 269265,
       "name": "Power",
       "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
-    },
-    {
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2SpLH0wo9nyBiEDYMzkOWT"
-      },
-      "artists": [
-        {
-          "name": "Nathan James",
-          "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS"
-        },
-        {
-          "name": "Jonny Hawkins",
-          "url": "https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN"
-        }
-      ],
-      "date_added": "2026-05-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224615,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/0souAacIZZ6PPSSyayapSq"
     },
     {
       "album": {

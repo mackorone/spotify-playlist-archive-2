@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41905,
+  "num_followers": 41907,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAADPg3N1g3S+uk5EE/fuX8rE",
+  "snapshot_id": "agEcAAAAAACg2+/eA4nlsTv3LyQEF32G",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
+        "url": "https://open.spotify.com/album/0UIPmtXYrJBWsJBttYmVEZ"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 245973,
+      "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
+      "url": "https://open.spotify.com/track/3ataDpjKHhWEii3cKbdS1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 339673,
       "name": "Incontrolable Amor",
       "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
-        "url": "https://open.spotify.com/album/0UIPmtXYrJBWsJBttYmVEZ"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 245973,
-      "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
-      "url": "https://open.spotify.com/track/3ataDpjKHhWEii3cKbdS1Z"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: BIGYUKI
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: aron! Mei Semones
 
-552 songs - 1 day 15 hr 34 min
+556 songs - 1 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Go around in circles](https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc) | [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO), [Antonio Loureiro](https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD) | [Asleep Above Creatures](https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T) | 4:51 | 2025-07-31 | 2026-01-23 |
 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-07-25 | 2024-10-18 |
 | [Going Home](https://open.spotify.com/track/4e2Mz6zcrRtEELeESDVUAi) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Let Go](https://open.spotify.com/album/1cg6ojS5m9lfUiNz6DUEMs) | 4:17 | 2025-06-12 | 2025-10-10 |
+| [Goldenrod](https://open.spotify.com/track/0DxgSLBHK7MPfpncNdwJc8) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Goldenrod](https://open.spotify.com/album/0eBoa4Hy10aMARpgnsZls4) | 3:05 | 2026-05-12 |  |
 | [GOLD＆TURQUOISE](https://open.spotify.com/track/2cce58yqFVClCcy6bDGYiM) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [GOLD＆TURQUOISE](https://open.spotify.com/album/6SypSk7Nl6Zx27Perwnv6i) | 4:22 | 2024-08-29 | 2024-12-18 |
 | [Good Intentions](https://open.spotify.com/track/6QtcGEyLF3SPMoR8i5bsKI) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Good Intentions](https://open.spotify.com/album/7KZbPMVX1MIgaamombQinf) | 3:14 | 2026-03-20 |  |
 | [Gravity](https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [Motion](https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX) | 5:49 | 2025-09-25 | 2026-04-10 |
@@ -230,6 +231,7 @@
 | [ILa](https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ILa](https://open.spotify.com/album/1fgM8l7SrpH7f9qG6iK6kk) | 3:11 | 2024-06-27 | 2024-08-09 |
 | [Imaginary Magnitude](https://open.spotify.com/track/329J9HAKX1HXzg7qiUtE6f) | [Greg Foat](https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0), [Forest Law](https://open.spotify.com/artist/5Mf1H5qdqjBmqWad8RtY08) | [Midnight Wave](https://open.spotify.com/album/2kbZB80jta9imn73yW7bts) | 5:03 | 2025-06-19 | 2025-07-11 |
 | [Impulsive Procession \- opolopo remix](https://open.spotify.com/track/2OZkKHnGRSCKe9GVFQZQTZ) | [Kyoto Jazz Massive](https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv), [Echoes Of A New Dawn Orchestra](https://open.spotify.com/artist/0Ybi9gkQMCI91gq8Ykje1r), [opolopo](https://open.spotify.com/artist/2EDRTyYzsLkQI5E17dv19H) | [Impulsive Procession \(opolopo remix\)](https://open.spotify.com/album/69xrM56c9BgKPmGfnIS736) | 6:06 | 2026-01-30 |  |
+| [In a Spiral](https://open.spotify.com/track/1NVuW1w0mkVJQF5nFGo1PR) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [John Connor](https://open.spotify.com/album/2ctx9aWCjIlAWojJSIcVKA) | 5:39 | 2026-05-12 |  |
 | [In Black](https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [In Black](https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq) | 3:31 | 2025-08-19 | 2026-02-18 |
 | [In My Head](https://open.spotify.com/track/6VBNhjwLvHkpQmhlhofBGX) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [In My Head](https://open.spotify.com/album/4DocDEGzuG9MzMzRUY6Fuy) | 2:04 | 2024-07-04 | 2024-09-20 |
 | [Insomnia](https://open.spotify.com/track/7b5zrhSZ2UNKVza8Fnfv6N) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08) | [Insomnia](https://open.spotify.com/album/1I8HPrHRyiVzrySgQTOY9A) | 2:59 | 2025-08-14 | 2025-12-12 |
@@ -424,6 +426,7 @@
 | [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 | 2025-01-30 | 2025-06-13 |
 | [SS](https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [SS](https://open.spotify.com/album/0l60RYyo5migWBDp8qaVYD) | 3:35 | 2026-01-30 | 2026-04-03 |
 | [Stair 1](https://open.spotify.com/track/4jl4G2EWBLxIVKeT03oAe9) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z) | [Diamond Staircase](https://open.spotify.com/album/7ndB2mztr8DG60MZnz93he) | 1:55 | 2025-08-14 | 2026-02-28 |
+| [Stand Still](https://open.spotify.com/track/1867RP4RmHjiGnBlpk0f3w) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Stand Still](https://open.spotify.com/album/4oabzSr5LNJ049MLW6iH37) | 2:24 | 2026-05-12 |  |
 | [Steam Train](https://open.spotify.com/track/4T1bg27zOYqe3tNhObzdKn) | [Tenors In Chaos](https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT) | [More Chaos](https://open.spotify.com/album/0kUv0WevtizDaXNZe3gBzj) | 6:22 | 2025-07-17 | 2026-01-31 |
 | [Step Ahead](https://open.spotify.com/track/4kx5HMY4HZ3YYe2x9XZU5h) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Ka'Cye Thompkins](https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I) | [Step Ahead](https://open.spotify.com/album/1Hm5RnZ6Fb1PKNPWscezsD) | 6:38 | 2025-01-10 | 2025-01-17 |
 | [Step Lightly](https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Of The Earth](https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ) | 4:24 | 2026-03-06 |  |
@@ -463,6 +466,7 @@
 | [The Smile of the Snake](https://open.spotify.com/track/6HNo6vEDnSxCVOwxXCRTMn) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [The Smile of the Snake](https://open.spotify.com/album/37WWlcmSslm4mAM2uOH9N8) | 5:27 | 2025-01-16 | 2025-02-07 |
 | [The Toro](https://open.spotify.com/track/5N2KR3R4mvvAst6J71Hv8S) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [The Toro](https://open.spotify.com/album/77AWJqA0ENHe9WRW6g0tC5) | 6:43 | 2025-03-21 | 2025-07-11 |
 | [The Way You Stay](https://open.spotify.com/track/6HMCdAwJWTvlX8Gv1BzJGN) | [ZIW](https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa), [Yuka Kawabata](https://open.spotify.com/artist/5EnPzvbgBpteSYgt9A3Tpr) | [The Way You Stay](https://open.spotify.com/album/47uCXEpPilE41W5r2kPcDP) | 3:20 | 2025-09-25 | 2025-11-28 |
+| [THIEF](https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [THIEF](https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ) | 3:02 | 2026-05-12 |  |
 | [Thinkin Bout You](https://open.spotify.com/track/4LiSdLjUXbS4daVzBJCTwH) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Thinkin Bout You](https://open.spotify.com/album/2fsXOXjqbWThZEfTLJL3xH) | 4:10 | 2026-02-17 |  |
 | [Thoth](https://open.spotify.com/track/7yDAKkaZFBjl4jdvXMPivN) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Thoth](https://open.spotify.com/album/1lQNAXOx50YgaTyKxK5jM7) | 4:43 | 2025-03-21 | 2025-07-18 |
 | [Thousand Knives \- ver.Rawment](https://open.spotify.com/track/2eDazC1X5NUITWXcV3jWqN) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Thousand Knives / Laila](https://open.spotify.com/album/70wflYUE9Dn5L4cDqrsgZx) | 5:37 | 2025-03-27 | 2025-06-27 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 84216,
+  "num_followers": 84301,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAAXku070LccUUtUDfJPMsub",
+  "snapshot_id": "agEcAAAAAACw17J6mC95HOR27jNgkATV",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Soy Mencho",
+      "url": "https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pecado",
         "url": "https://open.spotify.com/album/2Gn6fUHACYgkXDospTdO1z"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 168085,
       "name": "Pecado",
       "url": "https://open.spotify.com/track/2fN9jKhvXOotH3k0Dx12Ma"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Soy Mencho",
-      "url": "https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy De Agiabampo",
-        "url": "https://open.spotify.com/album/5kht3kei1benxfOUNZWycV"
-      },
-      "artists": [
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Soy De Agiabampo",
-      "url": "https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -303,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy De Agiabampo",
+        "url": "https://open.spotify.com/album/5kht3kei1benxfOUNZWycV"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Soy De Agiabampo",
+      "url": "https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Aroma a Alcohol",
         "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
       },
@@ -315,26 +315,6 @@
       "duration_ms": 171146,
       "name": "Con Aroma A Alcohol - Version Banda",
       "url": "https://open.spotify.com/track/2xhzEoGcFBLtJT2wH9CKE5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuiste Mi Todo",
-        "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Uriarte",
-          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 152908,
-      "name": "Fuiste Mi Todo",
-      "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
     },
     {
       "added_at": null,
@@ -367,6 +347,26 @@
       "duration_ms": 165480,
       "name": "Gente del General",
       "url": "https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuiste Mi Todo",
+        "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 152908,
+      "name": "Fuiste Mi Todo",
+      "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "Ella Sali\u00f3 a Bailar",
-      "url": "https://open.spotify.com/track/4v0onUOF5JnWFEqQ3qlCSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 200070,
       "name": "El de la Gorra 27",
       "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Ella Sali\u00f3 a Bailar",
+      "url": "https://open.spotify.com/track/4v0onUOF5JnWFEqQ3qlCSV"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 179008,
-      "name": "Canto Pa' Desahogarme",
-      "url": "https://open.spotify.com/track/6ySxbcCY8ifqY7i7fYA7af"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Conquista",
         "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 180050,
       "name": "Soy La Suerte",
       "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 179008,
+      "name": "Canto Pa' Desahogarme",
+      "url": "https://open.spotify.com/track/6ySxbcCY8ifqY7i7fYA7af"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 166917,
-      "name": "Ya No Se Olvidarte",
-      "url": "https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida Que Nos Toco",
         "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 174615,
       "name": "Si Tu Jalas Yo Jalo",
       "url": "https://open.spotify.com/track/2bO9xZpD5nOiel1GvGr1xG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 166917,
+      "name": "Ya No Se Olvidarte",
+      "url": "https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Aroma a Alcohol",
-        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "No Fue Suficiente",
-      "url": "https://open.spotify.com/track/49BlbuGvUpwLXY4648UP1P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos Adelante",
         "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 195242,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Aroma a Alcohol",
+        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "No Fue Suficiente",
+      "url": "https://open.spotify.com/track/49BlbuGvUpwLXY4648UP1P"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Conquista",
         "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 152000,
       "name": "La Fuga del Jefe",
       "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jalando la Banda y el Tololoche",
-        "url": "https://open.spotify.com/album/4LMSBwGqafnGVhYaX73lCF"
-      },
-      "artists": [
-        {
-          "name": "Los Elementos de Culiacan",
-          "url": "https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Cuando Nino (feat. Lenin Ramirez - Banda",
-      "url": "https://open.spotify.com/track/2HbTiBBBEMaQHTGWkniY5h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Gordo",
         "url": "https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 166613,
       "name": "El Gordo",
       "url": "https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jalando la Banda y el Tololoche",
+        "url": "https://open.spotify.com/album/4LMSBwGqafnGVhYaX73lCF"
+      },
+      "artists": [
+        {
+          "name": "Los Elementos de Culiacan",
+          "url": "https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cuando Nino (feat. Lenin Ramirez - Banda",
+      "url": "https://open.spotify.com/track/2HbTiBBBEMaQHTGWkniY5h"
     },
     {
       "added_at": null,

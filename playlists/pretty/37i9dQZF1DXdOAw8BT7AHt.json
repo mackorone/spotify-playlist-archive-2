@@ -1,6 +1,6 @@
 {
   "description": "The best of every corner of modern punk rock. Cover: Citizen",
-  "num_followers": 472958,
+  "num_followers": 472953,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Cartoon Darkness",
-        "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 128658,
-      "name": "Jerkin'",
-      "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "Boat Garage",
         "url": "https://open.spotify.com/album/0SUMGjHajl25ox0yApi0DK"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 179071,
       "name": "Boat Garage",
       "url": "https://open.spotify.com/track/4iMztkHIUoyrc5budQ1fOk"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Cartoon Darkness",
+        "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Moments Before The Wind",
-        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 189915,
-      "name": "MissingNo.",
-      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/2UejSXZV8wsfHIM47lo2hD"
       },
@@ -663,22 +647,6 @@
       "duration_ms": 238840,
       "name": "Redeemer",
       "url": "https://open.spotify.com/track/6rDVb2EImUpLRrOJkev2XE"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "Crystalpunk",
-        "url": "https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac"
-      },
-      "artists": [
-        {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
-        }
-      ],
-      "duration_ms": 298904,
-      "name": "Longer",
-      "url": "https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -699,6 +667,38 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
+        "name": "Moments Before The Wind",
+        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 189915,
+      "name": "MissingNo.",
+      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Crystalpunk",
+        "url": "https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "duration_ms": 298904,
+      "name": "Longer",
+      "url": "https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
         "name": "BOMB TO A KNIFE FIGHT",
         "url": "https://open.spotify.com/album/7t0w7wWnCcNvZrUGvreW21"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 161504,
       "name": "BOMB TO A KNIFE FIGHT",
       "url": "https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "The Weak",
+        "url": "https://open.spotify.com/album/6TTLoKr8xfA8yKEGJACJQ7"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 195632,
+      "name": "The Weak",
+      "url": "https://open.spotify.com/track/5VynIbPZQP6UR2JTddLKqw"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -759,22 +775,6 @@
       "duration_ms": 186000,
       "name": "Box In The Basement",
       "url": "https://open.spotify.com/track/44r3djxJsaQTlddoeW5hjh"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "The Weak",
-        "url": "https://open.spotify.com/album/6TTLoKr8xfA8yKEGJACJQ7"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 195632,
-      "name": "The Weak",
-      "url": "https://open.spotify.com/track/5VynIbPZQP6UR2JTddLKqw"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -879,6 +879,38 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
+        "name": "BOMBS AWAY",
+        "url": "https://open.spotify.com/album/0x7TGV64ILCVcXVyYHq0BP"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 185828,
+      "name": "BOMBS AWAY",
+      "url": "https://open.spotify.com/track/4YDpxvr0V6Qpfxj9FpvjRc"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "silhouette",
+        "url": "https://open.spotify.com/album/7AYZIyAbLweJ7Bztbht05A"
+      },
+      "artists": [
+        {
+          "name": "Midrift",
+          "url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "silhouette",
+      "url": "https://open.spotify.com/track/0T3PCxlxTUg6tBTUbV6ecf"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
         "name": "RUDE",
         "url": "https://open.spotify.com/album/07aVgAaXvYBOPFY0kWX6HK"
       },
@@ -931,50 +963,18 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/6Qi5ej0C9M1ru0bhuwkS5m"
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
       },
       "artists": [
         {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
         }
       ],
-      "duration_ms": 194657,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/061YzXs5MzqCO0LnNyelrn"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "BOMBS AWAY",
-        "url": "https://open.spotify.com/album/0x7TGV64ILCVcXVyYHq0BP"
-      },
-      "artists": [
-        {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
-        }
-      ],
-      "duration_ms": 185828,
-      "name": "BOMBS AWAY",
-      "url": "https://open.spotify.com/track/4YDpxvr0V6Qpfxj9FpvjRc"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "I Don't Need To Be In Your Strike Zone",
-        "url": "https://open.spotify.com/album/7BnvuF6WrkoduRc86hI0Ff"
-      },
-      "artists": [
-        {
-          "name": "Otoboke Beaver",
-          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
-        }
-      ],
-      "duration_ms": 64733,
-      "name": "I Don't Need To Be In Your Strike Zone",
-      "url": "https://open.spotify.com/track/6pfgiW3ugfx2gSv1H9WY5W"
+      "duration_ms": 168552,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -991,6 +991,38 @@
       "duration_ms": 248146,
       "name": "Twist My Tongue",
       "url": "https://open.spotify.com/track/2ortlBKkdxmL1uScotoHxp"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/6Qi5ej0C9M1ru0bhuwkS5m"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 194657,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/061YzXs5MzqCO0LnNyelrn"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "I Don't Need To Be In Your Strike Zone",
+        "url": "https://open.spotify.com/album/7BnvuF6WrkoduRc86hI0Ff"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "duration_ms": 64733,
+      "name": "I Don't Need To Be In Your Strike Zone",
+      "url": "https://open.spotify.com/track/6pfgiW3ugfx2gSv1H9WY5W"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1027,22 +1059,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "silhouette",
-        "url": "https://open.spotify.com/album/7AYZIyAbLweJ7Bztbht05A"
-      },
-      "artists": [
-        {
-          "name": "Midrift",
-          "url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "silhouette",
-      "url": "https://open.spotify.com/track/0T3PCxlxTUg6tBTUbV6ecf"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "Wet Death",
         "url": "https://open.spotify.com/album/2Tb0irVzY5GgmnPRNZqiq2"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 124300,
       "name": "Wet Death",
       "url": "https://open.spotify.com/track/6GT8vcEC3ZtWuhrNgFeBGf"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Limb From Limb / Mechanically Separated",
-        "url": "https://open.spotify.com/album/757tW1HgmEk6NhXZk0kcHt"
-      },
-      "artists": [
-        {
-          "name": "Heart Attack Man",
-          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Limb From Limb",
-      "url": "https://open.spotify.com/track/22w3dwj3nC5XjF7NdSJwrY"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "Eternal Youth",
         "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 152101,
       "name": "I See How It Is",
       "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Limb From Limb / Mechanically Separated",
+        "url": "https://open.spotify.com/album/757tW1HgmEk6NhXZk0kcHt"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Limb From Limb",
+      "url": "https://open.spotify.com/track/22w3dwj3nC5XjF7NdSJwrY"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Inner Peace",
-        "url": "https://open.spotify.com/album/64JgToGRjAxCDBuDGZ7g15"
-      },
-      "artists": [
-        {
-          "name": "The Flatliners",
-          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
-        }
-      ],
-      "duration_ms": 156670,
-      "name": "Inner Peace",
-      "url": "https://open.spotify.com/track/6Z0x4SRIbLvjvIkFzLdbN4"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "Dirty Mirror Selfie / Where Blue Light Blooms",
         "url": "https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 217765,
       "name": "Dirty Mirror Selfie",
       "url": "https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/64JgToGRjAxCDBuDGZ7g15"
+      },
+      "artists": [
+        {
+          "name": "The Flatliners",
+          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
+        }
+      ],
+      "duration_ms": 156670,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/6Z0x4SRIbLvjvIkFzLdbN4"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
+        "name": "Pick up the Check",
+        "url": "https://open.spotify.com/album/7skdCfUKG1lrMhn5bhLArI"
+      },
+      "artists": [
+        {
+          "name": "BODEGA",
+          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+        }
+      ],
+      "duration_ms": 278849,
+      "name": "Pick up the Check",
+      "url": "https://open.spotify.com/track/3sGFYqVj5xh1XlveFEF5np"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
         "name": "Semi-Detached Furnished Home",
         "url": "https://open.spotify.com/album/0yNCtSHNwrQsAodJmYR7y1"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Last Breath",
-        "url": "https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap"
+        "name": "Coming Up From Hell",
+        "url": "https://open.spotify.com/album/24v70eySN0px7R6SOjEZQR"
       },
       "artists": [
         {
-          "name": "Upchuck",
-          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+          "name": "Teenage Joans",
+          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
         }
       ],
-      "duration_ms": 110758,
-      "name": "Last Breath",
-      "url": "https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko"
+      "duration_ms": 232134,
+      "name": "Coming Up From Hell",
+      "url": "https://open.spotify.com/track/474gI8ikMGHJvxhqtOGhNv"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1475,6 +1491,22 @@
       "duration_ms": 198440,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/1OdxcrMq0y4OLX0jSwEapn"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Last Breath",
+        "url": "https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "duration_ms": 110758,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1527,22 +1559,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Pick up the Check",
-        "url": "https://open.spotify.com/album/7skdCfUKG1lrMhn5bhLArI"
-      },
-      "artists": [
-        {
-          "name": "BODEGA",
-          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
-        }
-      ],
-      "duration_ms": 278849,
-      "name": "Pick up the Check",
-      "url": "https://open.spotify.com/track/3sGFYqVj5xh1XlveFEF5np"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "Within Dreams",
         "url": "https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 145173,
       "name": "Volvo (On The Road)",
       "url": "https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "Coming Up From Hell",
-        "url": "https://open.spotify.com/album/24v70eySN0px7R6SOjEZQR"
-      },
-      "artists": [
-        {
-          "name": "Teenage Joans",
-          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
-        }
-      ],
-      "duration_ms": 232134,
-      "name": "Coming Up From Hell",
-      "url": "https://open.spotify.com/track/474gI8ikMGHJvxhqtOGhNv"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "i know computer",
-        "url": "https://open.spotify.com/album/3i6qKYoMeTRjsdyZD0uO3a"
-      },
-      "artists": [
-        {
-          "name": "Mclusky",
-          "url": "https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE"
-        }
-      ],
-      "duration_ms": 139040,
-      "name": "i know computer",
-      "url": "https://open.spotify.com/track/6BkoN5C3zXneLNa4nciVQn"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
         "name": "No Escape",
         "url": "https://open.spotify.com/album/0VOK9FZtYpXbKSg9qROQTL"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 134309,
       "name": "Cause and Effect",
       "url": "https://open.spotify.com/track/4ZrmK8wrGLBdkEp1qgDVRc"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "i know computer",
+        "url": "https://open.spotify.com/album/3i6qKYoMeTRjsdyZD0uO3a"
+      },
+      "artists": [
+        {
+          "name": "Mclusky",
+          "url": "https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE"
+        }
+      ],
+      "duration_ms": 139040,
+      "name": "i know computer",
+      "url": "https://open.spotify.com/track/6BkoN5C3zXneLNa4nciVQn"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2026-05-08 04:02:22",
       "album": {
-        "name": "Bite Harder Than You Bleed",
-        "url": "https://open.spotify.com/album/0b2GduToVZmx1XjEsd8szn"
+        "name": "WACO (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0nKJjIek7EpGsG6X85CojE"
       },
       "artists": [
         {
-          "name": "Roman Candle",
-          "url": "https://open.spotify.com/artist/5u1YdY7ZKkBNRvsAQXhFVy"
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 179562,
-      "name": "Bite Harder Than You Bleed",
-      "url": "https://open.spotify.com/track/2Iaz9HxyGExG8bfFpNIYFa"
+      "duration_ms": 223521,
+      "name": "Lay Me Down (B-Side)",
+      "url": "https://open.spotify.com/track/5caJrAFM6Uqs1Gv9JeYXof"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1767,6 +1767,22 @@
       "duration_ms": 300785,
       "name": "CONSTANT TENSION",
       "url": "https://open.spotify.com/track/1kg6BZB8zpWDJTgSbCEItf"
+    },
+    {
+      "added_at": "2026-05-08 04:02:22",
+      "album": {
+        "name": "Bite Harder Than You Bleed",
+        "url": "https://open.spotify.com/album/0b2GduToVZmx1XjEsd8szn"
+      },
+      "artists": [
+        {
+          "name": "Roman Candle",
+          "url": "https://open.spotify.com/artist/5u1YdY7ZKkBNRvsAQXhFVy"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "Bite Harder Than You Bleed",
+      "url": "https://open.spotify.com/track/2Iaz9HxyGExG8bfFpNIYFa"
     },
     {
       "added_at": "2026-05-08 04:02:22",
@@ -1831,22 +1847,6 @@
       "duration_ms": 124800,
       "name": "Big Star",
       "url": "https://open.spotify.com/track/7tEUBlisQoe2wYRqAEnGji"
-    },
-    {
-      "added_at": "2026-05-08 04:02:22",
-      "album": {
-        "name": "WACO (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0nKJjIek7EpGsG6X85CojE"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 223521,
-      "name": "Lay Me Down (B-Side)",
-      "url": "https://open.spotify.com/track/5caJrAFM6Uqs1Gv9JeYXof"
     },
     {
       "added_at": "2026-05-08 04:02:22",

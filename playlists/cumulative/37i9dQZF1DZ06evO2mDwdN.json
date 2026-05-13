@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 161986,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/6fjTzzc7pe2d60RIzEr0fG"
@@ -1412,6 +1412,24 @@
       "duration_ms": 367058,
       "name": "Now Is The Time",
       "url": "https://open.spotify.com/track/3LCW67QSmmqb3IegY8euzI"
+    },
+    {
+      "album": {
+        "name": "Now Is The Time / Feels Like Magic",
+        "url": "https://open.spotify.com/album/2x77aXa2YkslKAjnr6T1JR"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367058,
+      "name": "Now Is The Time",
+      "url": "https://open.spotify.com/track/5xYuHhfGACuxoeek50SdDr"
     },
     {
       "album": {

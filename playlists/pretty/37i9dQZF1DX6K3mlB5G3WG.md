@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Coez in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,274 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,272 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 52 | [Serratura](https://open.spotify.com/track/0JhubsNzDfRxDjQMAAAV2q) | [Lea Gavino](https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL) | [11 volte](https://open.spotify.com/album/4HZ33U04jJcIobqR2f7zqA) | 3:04 |
 | 53 | [Signorina](https://open.spotify.com/track/3TGQMgdGYS4xeKxaZv9A8b) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Signorina](https://open.spotify.com/album/2rR4Aoym5eqv3WFOVRJK3O) | 2:36 |
 | 54 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
-| 55 | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07) | 4:17 |
+| 55 | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07) | 4:05 |
 | 56 | [Ashtray](https://open.spotify.com/track/2oItc9z85s67npWFwZCZFR) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Ashtray](https://open.spotify.com/album/5rLWfx9zk2SNPVmZOtvRIA) | 2:56 |
 | 57 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 |
 | 58 | [Not Your Drug](https://open.spotify.com/track/2uTLxUasBF5a9t80oXzBMp) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [Not Your Drug](https://open.spotify.com/album/6wy7po6NpxwqKUVpBdSmVz) | 3:01 |

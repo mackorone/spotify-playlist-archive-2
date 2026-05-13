@@ -4560,7 +4560,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 97717,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/0c0SGs0WLLYrFbggbwtOlI"
@@ -6248,7 +6248,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -8846,7 +8846,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 133670,
       "name": "Demo",
       "url": "https://open.spotify.com/track/4FRW1aDiN6Im16fHPA64ww"
@@ -9060,7 +9060,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 159559,
       "name": "Dial",
       "url": "https://open.spotify.com/track/1cPNECEaVkXbEoxBJgtk2c"
@@ -10092,7 +10092,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -11262,7 +11262,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 142040,
       "name": "Espresso Martini",
       "url": "https://open.spotify.com/track/67ZUG9pirZK5myM6FUnqHl"
@@ -13849,6 +13849,24 @@
     },
     {
       "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "album": {
         "name": "Jednou nohou tam / Go hard",
         "url": "https://open.spotify.com/album/1ybXEwEmjLFvL1j6O1Bhv5"
       },
@@ -14520,7 +14538,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 146938,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/5VEXEXffwn8Tc4o45GDznd"
@@ -18870,7 +18888,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "J\u00e1 u\u017e vid\u00edm",
       "url": "https://open.spotify.com/track/5MASkrYZha9TxRywbo0CzS"
@@ -19314,6 +19332,24 @@
       "duration_ms": 202106,
       "name": "Katka",
       "url": "https://open.spotify.com/track/31gE4oBfYZVL4wlINvrgvE"
+    },
+    {
+      "album": {
+        "name": "KARAKORAM DLC",
+        "url": "https://open.spotify.com/album/2hhZFrAKdpcafto6rOsGVJ"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125760,
+      "name": "KA\u017dDEJ M\u00c1 SVOJE DEMONS",
+      "url": "https://open.spotify.com/track/6jLLlbIjRg7uk61xYFP6L1"
     },
     {
       "album": {
@@ -21904,6 +21940,24 @@
       "duration_ms": 159851,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1Za3bmODi0tz9pnlZE58ug"
+    },
+    {
+      "album": {
+        "name": "KARAKORAM DLC",
+        "url": "https://open.spotify.com/album/2hhZFrAKdpcafto6rOsGVJ"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189098,
+      "name": "LONG RUN",
+      "url": "https://open.spotify.com/track/0OrZ7lU2lGEF5neJc8h11o"
     },
     {
       "album": {
@@ -25702,7 +25756,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 223000,
       "name": "Na ost\u0159\u00ed no\u017ee",
       "url": "https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs"
@@ -26096,7 +26150,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 165728,
       "name": "NAV\u017dDYCKY BL\u00c1ZEN",
       "url": "https://open.spotify.com/track/0FvV3lYeJ5xiqhsFDT0rzI"
@@ -30519,6 +30573,24 @@
     },
     {
       "album": {
+        "name": "PERPETUUM MOBILE",
+        "url": "https://open.spotify.com/album/2GYh5gz3RyRGgnoClFYJVm"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207239,
+      "name": "PERPETUUM MOBILE",
+      "url": "https://open.spotify.com/track/7wxWwq6Pah4Y6mqsvEWTCa"
+    },
+    {
+      "album": {
         "name": "PEXESO",
         "url": "https://open.spotify.com/album/4f4TPgm9RLYj8ZEyCs6I1C"
       },
@@ -33368,7 +33440,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -37954,7 +38026,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 256720,
       "name": "Svaz \u010desk\u00fdch boh\u00e9m\u016f",
       "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
@@ -38400,7 +38472,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 174666,
       "name": "S\u00edla Starejch V\u00edn",
       "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
@@ -38660,7 +38732,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/1ldVQWgJYDKqq2oALACpFa"
@@ -44627,6 +44699,24 @@
     },
     {
       "album": {
+        "name": "KARAKORAM DLC",
+        "url": "https://open.spotify.com/album/2hhZFrAKdpcafto6rOsGVJ"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "WHO DAT",
+      "url": "https://open.spotify.com/track/5Kd9rtLExgXAD5Vmm02xMu"
+    },
+    {
+      "album": {
         "name": "J. EDEN E-GEN (mixed by NobodyListen)",
         "url": "https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g"
       },
@@ -45632,7 +45722,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 217426,
       "name": "Zakazane uvolneni",
       "url": "https://open.spotify.com/track/7wpbqcl0cxxGN8WNYz64Wr"

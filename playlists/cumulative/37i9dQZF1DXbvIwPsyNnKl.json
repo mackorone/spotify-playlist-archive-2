@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: SCOOP DOGG, Daarth",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Nik Makino",
   "name": "KALYE",
   "tracks": [
     {
@@ -948,7 +948,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 195250,
       "name": "B4 I LET YOU GO",
       "url": "https://open.spotify.com/track/3ubEHwfx9d54LTme8Ft8gp"
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 195840,
       "name": "D14U",
       "url": "https://open.spotify.com/track/2xz3eYcAkoZDWhcNKQLZ94"
@@ -2925,6 +2925,50 @@
     },
     {
       "album": {
+        "name": "GRAMO",
+        "url": "https://open.spotify.com/album/0FUKAoWdbZVInQyMzxqIve"
+      },
+      "artists": [
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        },
+        {
+          "name": "BRGR",
+          "url": "https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143505,
+      "name": "GRAMO",
+      "url": "https://open.spotify.com/track/510WAXvUZcMUZDWjUCuT3T"
+    },
+    {
+      "album": {
+        "name": "LiFT OFF MiXTAPE",
+        "url": "https://open.spotify.com/album/6AcssXGgA6H1jYq2eTVMsZ"
+      },
+      "artists": [
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
+        },
+        {
+          "name": "Guddhist Gunatita",
+          "url": "https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "GRiND NG GRiND",
+      "url": "https://open.spotify.com/track/7ljeSlwIjBRdwppyVKDoIv"
+    },
+    {
+      "album": {
         "name": "Gusto Ko Sakin Ka Lang",
         "url": "https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB"
       },
@@ -3378,7 +3422,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 225926,
       "name": "I can be the one",
       "url": "https://open.spotify.com/track/4rgexTquOBLYzQWusUsLyb"
@@ -3908,6 +3952,28 @@
       "duration_ms": 178500,
       "name": "Kuha Ang Inis",
       "url": "https://open.spotify.com/track/5ui3MyLG38GpybiOwZzukN"
+    },
+    {
+      "album": {
+        "name": "Kuha Bag",
+        "url": "https://open.spotify.com/album/2Yc60ByGZBw1OZ1MNi57SC"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Society",
+          "url": "https://open.spotify.com/artist/4WUC1M0EpVDrx7xKILoLy6"
+        },
+        {
+          "name": "Rjay Ty",
+          "url": "https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188903,
+      "name": "Kuha Bag",
+      "url": "https://open.spotify.com/track/5yezbvlED0OadYXGDex7pA"
     },
     {
       "album": {
@@ -6461,6 +6527,28 @@
     },
     {
       "album": {
+        "name": "Reefa",
+        "url": "https://open.spotify.com/album/6QjHlW0KH40KV5Yk3NZv9F"
+      },
+      "artists": [
+        {
+          "name": "Awie",
+          "url": "https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm"
+        },
+        {
+          "name": "ChillestMF",
+          "url": "https://open.spotify.com/artist/0D7yXKymEiGcCs9P7i6ezt"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Reefa",
+      "url": "https://open.spotify.com/track/1ePy5E92aCv0bq4BYmtRws"
+    },
+    {
+      "album": {
         "name": "BLUDEVL",
         "url": "https://open.spotify.com/album/2IjAbVlaGvgpWOUcVQjK8x"
       },
@@ -6534,6 +6622,24 @@
       "duration_ms": 209032,
       "name": "Republika Ng Tambay",
       "url": "https://open.spotify.com/track/1istlVUhddMaPxu1iqCSuq"
+    },
+    {
+      "album": {
+        "name": "RIOT",
+        "url": "https://open.spotify.com/album/2M6vfpovv9E2319BD749fO"
+      },
+      "artists": [
+        {
+          "name": "Owfuck",
+          "url": "https://open.spotify.com/artist/1HbkZKWhbFGrjJGfJp7Kgv"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224014,
+      "name": "RIOT",
+      "url": "https://open.spotify.com/track/0bYDan8As94CRmkPrcQxDo"
     },
     {
       "album": {
@@ -8124,7 +8230,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 208000,
       "name": "Tunay",
       "url": "https://open.spotify.com/track/2R1mehVFt3PYQn3E3qW2hj"
@@ -8668,7 +8774,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 161798,
       "name": "WINSTON REDS 2",
       "url": "https://open.spotify.com/track/0z6ydoj3EzUiUmTO3QduzU"

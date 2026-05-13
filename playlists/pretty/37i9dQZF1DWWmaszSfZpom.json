@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 476418,
+  "num_followers": 476425,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,54 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Privil\u00e9gio",
+        "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
+      },
+      "artists": [
+        {
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+        },
+        {
+          "name": "Mc Vitin do LJ",
+          "url": "https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny"
+        },
+        {
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m"
+        },
+        {
+          "name": "DJ 2w",
+          "url": "https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Privil\u00e9gio",
+      "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "LARISSA",
+        "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        }
+      ],
+      "duration_ms": 125304,
+      "name": "LARISSA",
+      "url": "https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -1027,54 +1075,6 @@
       "duration_ms": 176193,
       "name": "Que Rab\u00e3o (feat. Mr. Catra e YG)",
       "url": "https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "LARISSA",
-        "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        }
-      ],
-      "duration_ms": 125304,
-      "name": "LARISSA",
-      "url": "https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Privil\u00e9gio",
-        "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
-      },
-      "artists": [
-        {
-          "name": "MC Luan da BS",
-          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
-        },
-        {
-          "name": "Mc Vitin do LJ",
-          "url": "https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny"
-        },
-        {
-          "name": "MC Marley",
-          "url": "https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m"
-        },
-        {
-          "name": "DJ 2w",
-          "url": "https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Privil\u00e9gio",
-      "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
     },
     {
       "added_at": "2023-06-26 14:06:50",

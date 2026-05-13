@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 378837,
+  "num_followers": 378913,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAACPcQFIzfW/FErK6JGVV33C",
+  "snapshot_id": "agEcAAAAAABWxVtQcvV1bOQUq0azHZ75",
   "tracks": [
     {
       "added_at": null,
@@ -234,11 +234,15 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 152765,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/1YVjjxE9UErzHRL6hqA2CH"
+      "duration_ms": 198466,
+      "name": "D\u00edas Tristes",
+      "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
     },
     {
       "added_at": null,
@@ -306,15 +310,11 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 198466,
-      "name": "D\u00edas Tristes",
-      "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
+      "duration_ms": 152765,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/1YVjjxE9UErzHRL6hqA2CH"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En 4",
-        "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "En 4",
-      "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 202594,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En 4",
+        "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "En 4",
+      "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
     },
     {
       "added_at": null,

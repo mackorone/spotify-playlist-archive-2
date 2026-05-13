@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 88782,
+  "num_followers": 88802,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-05-08 17:20:32",
       "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2026-05-08 17:20:32",
+      "album": {
         "name": "Real Thing",
         "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 205146,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
-    },
-    {
-      "added_at": "2026-05-08 17:20:32",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "added_at": "2026-05-08 17:20:32",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-05-08 17:20:32",
       "album": {
-        "name": "Dearly Missed",
-        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Dearly Missed",
-      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
-    },
-    {
-      "added_at": "2026-05-08 17:20:32",
-      "album": {
         "name": "I Don't Know How But They Found Me!",
         "url": "https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 156666,
       "name": "Let Me Be Wrong",
       "url": "https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw"
+    },
+    {
+      "added_at": "2026-05-08 17:20:32",
+      "album": {
+        "name": "Dearly Missed",
+        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Dearly Missed",
+      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
     },
     {
       "added_at": "2026-05-08 17:20:32",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-05-08 17:20:32",
       "album": {
-        "name": "Old Holy Feeling",
-        "url": "https://open.spotify.com/album/2qXHmWN4ykdP4lRWy7cOoj"
-      },
-      "artists": [
-        {
-          "name": "Josephine Illingworth",
-          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
-        }
-      ],
-      "duration_ms": 306852,
-      "name": "Old Holy Feeling",
-      "url": "https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls"
-    },
-    {
-      "added_at": "2026-05-08 17:20:32",
-      "album": {
         "name": "happy ending",
         "url": "https://open.spotify.com/album/2wqktjryHxu6i4Mof6tWtL"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 157440,
       "name": "happy ending",
       "url": "https://open.spotify.com/track/2xSoj3qiRpbTd2ku7pvMvd"
+    },
+    {
+      "added_at": "2026-05-08 17:20:32",
+      "album": {
+        "name": "Old Holy Feeling",
+        "url": "https://open.spotify.com/album/2qXHmWN4ykdP4lRWy7cOoj"
+      },
+      "artists": [
+        {
+          "name": "Josephine Illingworth",
+          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
+        }
+      ],
+      "duration_ms": 306852,
+      "name": "Old Holy Feeling",
+      "url": "https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls"
     },
     {
       "added_at": "2026-05-08 17:20:32",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-05-08 17:20:32",
       "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
-    },
-    {
-      "added_at": "2026-05-08 17:20:32",
-      "album": {
         "name": "You and Me Time",
         "url": "https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 225559,
       "name": "You and Me Time (feat. Sheryl Crow)",
       "url": "https://open.spotify.com/track/4v0bYGAGo7GjTDQeoaSsp7"
+    },
+    {
+      "added_at": "2026-05-08 17:20:32",
+      "album": {
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
     },
     {
       "added_at": "2026-05-08 17:20:32",

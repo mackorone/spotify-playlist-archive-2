@@ -60,6 +60,24 @@
     {
       "album": {
         "name": "Far Removed",
+        "url": "https://open.spotify.com/album/2TPomhhSrg4HHy4rONuWjo"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237168,
+      "name": "Brain Dead",
+      "url": "https://open.spotify.com/track/6Llb9UKeCZYGyVqiuYgAP1"
+    },
+    {
+      "album": {
+        "name": "Far Removed",
         "url": "https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a"
       },
       "artists": [
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 237179,
       "name": "Brain Dead",
       "url": "https://open.spotify.com/track/4JkPEQKAQ9Uwg1vTilKx5y"

@@ -1,13 +1,61 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 239938,
+  "num_followers": 239941,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPLqWj/cVHqtSNgavA1Qsq8V6G4w",
+  "snapshot_id": "AAAAAOiVQyhlB73rjUWhZDFmPIfTc4Sy",
   "tracks": [
+    {
+      "added_at": "2026-05-13 00:39:47",
+      "album": {
+        "name": "How Great Thou Art - Spotify Single",
+        "url": "https://open.spotify.com/album/4qYJjN3CJviygsXChaHYSL"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 235438,
+      "name": "How Great Thou Art - Spotify Single",
+      "url": "https://open.spotify.com/track/3L9nwP3kwbpf8wkgfmVrdS"
+    },
+    {
+      "added_at": "2026-05-13 00:39:47",
+      "album": {
+        "name": "The Old Rugged Cross (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 188251,
+      "name": "The Old Rugged Cross - Spotify Singles",
+      "url": "https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58"
+    },
+    {
+      "added_at": "2026-05-13 00:39:47",
+      "album": {
+        "name": "Forever - Spotify Singles",
+        "url": "https://open.spotify.com/album/1WohfzE4ivo1HUxXQCBCtd"
+      },
+      "artists": [
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "duration_ms": 336902,
+      "name": "Forever - Spotify Singles",
+      "url": "https://open.spotify.com/track/4VxhqjS0hkg4osZsObZikY"
+    },
     {
       "added_at": "2026-03-23 12:49:49",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Tino Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,763 likes - 105 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,770 likes - 105 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 7 | [Al Win Ik 10 Miljoen](https://open.spotify.com/track/6Lt1QW8Y7eO8rv2bdiTO1Q) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Al Win Ik 10 Miljoen](https://open.spotify.com/album/0NvmRdmQNK1iFfcSjGcl12) | 2:02 |
 | 8 | [Hoe De Liefde Gaat](https://open.spotify.com/track/1ttwvoS4i4o69EgKQoP7T4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Hoe De Liefde Gaat](https://open.spotify.com/album/1rjIr84CoKQpiocgtqzhyW) | 3:11 |
 | 9 | [Mama Waar Ben Je Nou](https://open.spotify.com/track/7lt4KtDKN2eWPWSKoRIUub) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Mama Waar Ben Je Nou](https://open.spotify.com/album/10wemntqRXgJWwM9OkePF4) | 3:27 |
-| 10 | [De Nacht Is Mijn Leven \- 2026](https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [De Nacht Is Mijn Leven \(2026\)](https://open.spotify.com/album/4Hisi2H261bzzzWEf6gwPg) | 3:16 |
+| 10 | [De Nacht Is Mijn Leven](https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [De Nacht Is Mijn Leven](https://open.spotify.com/album/4Hisi2H261bzzzWEf6gwPg) | 3:16 |
 | 11 | [Wat Heb Ik Te Verliezen](https://open.spotify.com/track/6eFq9ZXV2pCOpow76FIsRc) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Wat Heb Ik Te Verliezen](https://open.spotify.com/album/06tGRDY9ENtbF5PrW9xf2D) | 2:18 |
 | 12 | [Lekker Ding](https://open.spotify.com/track/5ic3AIxWoxlC2iCjhRJbkr) | [Dennis van Dam](https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz) | [Lekker Ding](https://open.spotify.com/album/0zoekU2FHrkbdadVJ5qv74) | 2:46 |
 | 13 | [Waarom Doe Je Dit Nou](https://open.spotify.com/track/6mCGCSfBfmHW4mcSpmpeJW) | [Rob Van Daal](https://open.spotify.com/artist/3TbeR2GLVYNQW7ohVIzSJ8) | [Waarom Doe Je Dit Nou](https://open.spotify.com/album/4XogwSFNWc1bMKZbWlK8YT) | 2:35 |

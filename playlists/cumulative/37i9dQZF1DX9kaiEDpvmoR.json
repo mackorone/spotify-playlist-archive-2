@@ -3170,7 +3170,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 248624,
       "name": "F\u00f6r evigt ny",
       "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
@@ -4394,6 +4394,24 @@
       "duration_ms": 235392,
       "name": "I Let the Good Ones Go",
       "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
+    },
+    {
+      "album": {
+        "name": "I Rock My Country",
+        "url": "https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "I Rock My Country",
+      "url": "https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6"
     },
     {
       "album": {

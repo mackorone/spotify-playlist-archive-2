@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 123,954 likes - 80 songs - 4 hr 5 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 123,944 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,25 +68,5 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 58 | [Climb](https://open.spotify.com/track/4lmXPPcu9I1XNkCLVKCxdl) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [Climb](https://open.spotify.com/album/07nrhJ5PlKOAi2mKIhYZsO) | 2:37 |
 | 59 | [Psycho](https://open.spotify.com/track/3nGa8a9cYTLCpLrhpoAOoV) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [LAUD](https://open.spotify.com/artist/04kVAoKNfyQrbp3XqhAkOB) | [Psycho](https://open.spotify.com/album/3xjHrhvKu9iBpdWhVxX9Ui) | 3:02 |
 | 60 | [Dawn](https://open.spotify.com/track/75Y2PGippgYU4SzuPhiM9v) | [Grafine](https://open.spotify.com/artist/7shbsWIKV1TD2NSKbwVIyV) | [Dawn](https://open.spotify.com/album/24fQQNYmY6vjksnejWtLVg) | 2:42 |
-| 61 | [Next Track](https://open.spotify.com/track/46vXJTbShRHqARyE8gcgYC) | [Dodge & Fuski](https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m) | [Next Track](https://open.spotify.com/album/0qbXadH2YjcRp7cDt81i3s) | 2:14 |
-| 62 | [New World Order](https://open.spotify.com/track/5H46tW4a41Bc4RqrGppFwY) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [IM30](https://open.spotify.com/album/5uOOwtb5uScJECDz1fqZ9b) | 6:15 |
-| 63 | [feel somethin](https://open.spotify.com/track/51nnQoiyjsl0lMntLaLxGU) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [CLOSING THE CHAPTER](https://open.spotify.com/album/32g6vRZQboZDmljMlqS9PP) | 2:30 |
-| 64 | [Dive Deep \- VIP](https://open.spotify.com/track/5KFEiLxZnFkky2M2NvA6jj) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA), [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Dive Deep \(VIP\)](https://open.spotify.com/album/4lFbabSNM6l0qyKYLxHiq7) | 3:26 |
-| 65 | [Dale Earnhardt](https://open.spotify.com/track/1zg7wzuyq12v7beYiMjZNX) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68), [Big Baby Scumbag](https://open.spotify.com/artist/3WjxW7xt0RCSotYoQBzEXB) | [Dale Earnhardt](https://open.spotify.com/album/3NnsFhinUf7kLcHHC6T06t) | 2:58 |
-| 66 | [Walk The Line](https://open.spotify.com/track/4cyHh0gbmXfdm00WNNLzao) | [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Walk The Line](https://open.spotify.com/album/3ut8uhbZiwN06XYseEizgO) | 3:18 |
-| 67 | [LAMENTE](https://open.spotify.com/track/059AXPNP16IoFf7uqujfo5) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [LAMENTE](https://open.spotify.com/album/1w727HKCtYpl6OUdznZOfx) | 3:50 |
-| 68 | [SUPERCAR](https://open.spotify.com/track/6pJIgc6lMzltj2f4CZZxkq) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [SUPERCAR](https://open.spotify.com/album/0kUpoKgI8BiH2KqkS8cmnp) | 2:34 |
-| 69 | [Fall Apart](https://open.spotify.com/track/5FaSEefua3HfVIufoCPDyo) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Fall Apart](https://open.spotify.com/album/7E0xnIHATdZ8HHkNMkiHJt) | 3:07 |
-| 70 | [Dominator](https://open.spotify.com/track/23zzImIajKFyKPlg6vKsbY) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Dominator](https://open.spotify.com/album/5QORCfZo7zborPU5BGJGM8) | 3:15 |
-| 71 | [Cautious Love](https://open.spotify.com/track/7dkFMhhah6uSpaoOjg5jIG) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Cautious Love](https://open.spotify.com/album/7zSpyFV7k3KNbtS1yiU1sl) | 3:34 |
-| 72 | [Long Legs](https://open.spotify.com/track/3Zt9EqFeTyv4bw7UZimKM1) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Long Legs](https://open.spotify.com/album/2UCNb8fZiytlkaHFUvYuY5) | 3:00 |
-| 73 | [Violence](https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Maëlie](https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4) | [Violence](https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB) | 2:41 |
-| 74 | [Yonder](https://open.spotify.com/track/7x2BkQ2329FPdQSgfveQSo) | [Skyknock](https://open.spotify.com/artist/1xX451Pg0jqIXu8I6FM5N8) | [S.K.Y.](https://open.spotify.com/album/3H09VWQqjnA8PC7qmBltyf) | 3:09 |
-| 75 | [it's time to go home](https://open.spotify.com/track/4ZAy0LodwsNIYPsXoffhGk) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [it's time to go home](https://open.spotify.com/album/4nC28YyUh1VwVHsyUy7DYH) | 2:47 |
-| 76 | [LIKE THAT](https://open.spotify.com/track/27cN2bkTUkmG8X3Gp98G0z) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [MÆDM](https://open.spotify.com/artist/3f2JHeVMJvkFQbH8O81178) | [LIKE THAT](https://open.spotify.com/album/6HKkzxHYCtsn7hgXvEJlmC) | 2:59 |
-| 77 | [Angel Montreal](https://open.spotify.com/track/6WHD2lj2ZfGmTtnGp8QL9h) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Angel Montreal](https://open.spotify.com/album/2jDJH1Ck7dyWEu8JxfFPt4) | 3:00 |
-| 78 | [Resonate](https://open.spotify.com/track/0E2fH6NozBE42Tn2iTdTbV) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Resonate](https://open.spotify.com/album/4mhVMZM9F3TVxnMaJKuo1e) | 3:13 |
-| 79 | [Use That Love](https://open.spotify.com/track/7zsI93sw3ETJRVmcOsmssV) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Use That Love](https://open.spotify.com/album/25cNbRC8JeX7H6rkoBdHzQ) | 3:24 |
-| 80 | [Midnight](https://open.spotify.com/track/4ZClsW1pvRVsFtzikoBnGy) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V) | [Midnight](https://open.spotify.com/album/1OuKovdj28l4GMHf7cM0qX) | 2:56 |
 
-Snapshot ID: `AAAVYKzQUX0QRs59A0mvlqFnjPK79lI1`
+Snapshot ID: `AAAVYfe+OWO+QWCtSu30kaxRsoMAMJeG`

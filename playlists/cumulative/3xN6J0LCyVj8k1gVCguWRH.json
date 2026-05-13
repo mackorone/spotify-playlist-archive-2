@@ -8916,7 +8916,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 163488,
       "name": "Balance",
       "url": "https://open.spotify.com/track/3W8lIwd0LasD8KrGElW6kv"
@@ -9732,7 +9732,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 235844,
       "name": "Beat The Odds",
       "url": "https://open.spotify.com/track/1VbKxpZF1gB2Z6UlTGkr1p"
@@ -24898,7 +24898,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 171076,
       "name": "Different Man",
       "url": "https://open.spotify.com/track/5tC8QczVpGjP3nZohcyUFv"
@@ -40676,7 +40676,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 138129,
       "name": "greed",
       "url": "https://open.spotify.com/track/1JrQOlES4d9HJLawZbB2n1"
@@ -46528,7 +46528,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 154320,
       "name": "I Just Go",
       "url": "https://open.spotify.com/track/6Tmog58s1HRffPiiGx46TV"
@@ -61624,6 +61624,28 @@
       "duration_ms": 222896,
       "name": "Mala Mujer",
       "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
+    },
+    {
+      "album": {
+        "name": "MALETA",
+        "url": "https://open.spotify.com/album/4hNPcMTy177lAqUqjzo40o"
+      },
+      "artists": [
+        {
+          "name": "Jhosy",
+          "url": "https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo"
+        },
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127403,
+      "name": "MALETA",
+      "url": "https://open.spotify.com/track/33iAFMnDiA8aECvVzqYBHy"
     },
     {
       "album": {
@@ -99152,7 +99174,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 168648,
       "name": "THE THRILL IS GONE",
       "url": "https://open.spotify.com/track/5IfVeg4vfDvVPWpclWOWFL"
@@ -103674,7 +103696,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 180000,
       "name": "Turning Slow",
       "url": "https://open.spotify.com/track/47HQocT0wfhbvhe8yuSLOd"

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: The War and Treaty
 
-959 songs - 2 day 9 hr 6 min
+960 songs - 2 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Don't Doubt It](https://open.spotify.com/track/0nomiSFgD9mDCcKBHD8qpv) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/3qWK8chhUiXLHAGSu585DG) | 3:02 | 2023-04-28 | 2024-03-30 |
 | [Don't Doubt It](https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN) | 3:02 | 2023-04-28 | 2023-12-24 |
 | [Don't Play](https://open.spotify.com/track/4rZkgApbir8f7x9bTyjVta) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 2:42 | 2026-02-14 |  |
-| [Don't Play \- A COLORS SHOW](https://open.spotify.com/track/2416mFSovCiMHfpvExCNaa) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Don't Play \- A COLORS SHOW](https://open.spotify.com/album/4VoV1cJ3ql4COea87NNZ51) | 2:59 | 2026-01-16 |  |
+| [Don't Play \- A COLORS SHOW](https://open.spotify.com/track/2416mFSovCiMHfpvExCNaa) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Don't Play \- A COLORS SHOW](https://open.spotify.com/album/4VoV1cJ3ql4COea87NNZ51) | 2:59 | 2026-01-16 | 2026-05-13 |
 | [DON'T PLAY WITH MY HEART](https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DON'T PLAY WITH MY HEART](https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I) | 3:39 | 2021-12-03 | 2022-09-15 |
 | [Don't Pretend \- Acoustic](https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Don't Pretend \(Acoustic\)](https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1) | 2:21 | 2023-06-16 | 2025-01-18 |
 | [Don't Say Goodbye](https://open.spotify.com/track/0hGLohyTSf7m8MN3HyjnKn) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Don't Say Goodbye](https://open.spotify.com/album/5VKpSf694X1in1chfqdm9Z) | 4:33 | 2026-05-08 |  |
@@ -717,6 +717,7 @@
 | [Say Yes](https://open.spotify.com/track/24elH6i4AZUcsPQrsQgSUA) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Say Yes](https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7) | 3:45 | 2024-10-25 | 2025-01-21 |
 | [Say You Love Me](https://open.spotify.com/track/0WLkriErnHl4N4AnPiMn0h) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Say You Love Me](https://open.spotify.com/album/5NdNmpf1iRQU5NgAitpoqW) | 4:45 | 2024-02-16 | 2024-04-27 |
 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 | 2024-06-04 |
+| [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 | 2026-05-08 |  |
 | [See Me](https://open.spotify.com/track/0vtDLpnv8weWM33Wn29rXo) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [See Me](https://open.spotify.com/album/1fQgwNgiENNE3XDpTjDFXd) | 3:30 | 2021-12-03 | 2022-07-29 |
 | [Sell My Soul](https://open.spotify.com/track/5HoZIKWxMmV7N8GPBxc0k8) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Sell My Soul](https://open.spotify.com/album/6UOHX5m2GCTmu0ShSw1lj7) | 3:43 | 2026-05-08 |  |
 | [Sensitive](https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Sometimes, I'm Speechless](https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE) | 2:54 | 2022-12-16 | 2023-04-16 |

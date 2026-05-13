@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Isaura
 
-496 songs - 1 day 5 hr 25 min
+496 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-06-20 |  |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 |  |
 | [ensina\-me a gostar](https://open.spotify.com/track/04otGsW7VUReRQmo9Jfz3s) | [Capital da Bulgária](https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs) | [ensina\-me a gostar](https://open.spotify.com/album/5orb9dTAqz9RIiSX4z3R21) | 3:24 | 2026-03-27 | 2026-05-08 |
-| [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07) | 4:17 | 2026-05-07 |  |
+| [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07) | 4:05 | 2026-05-07 |  |
 | [Era de ouro \- Ao vivo](https://open.spotify.com/track/7HAXJmv0bonPTAU6bq601T) | [Samuel Úria](https://open.spotify.com/artist/5RRpftRxDNxlmo5lSn5UCg), [As Velhas Glórias](https://open.spotify.com/artist/6YFNyB4RWrgoJybTuhaPO8) | [Era de ouro](https://open.spotify.com/album/1E6LFG3WuLbR667lgUgV2p) | 3:27 | 2025-05-01 | 2025-06-21 |
 | [Escolhas](https://open.spotify.com/track/3L878H8B0sK3am7X3PqHgR) | [Capitão Fausto](https://open.spotify.com/artist/5CoXKGQeOWgWi8koTZh07b) | [Escolhas](https://open.spotify.com/album/0HKuuH3FL7IeBEkVyifMvk) | 2:54 | 2026-01-16 | 2026-02-13 |
 | [Escuridão](https://open.spotify.com/track/4LP5zRFwqoE8qLtOOgk06e) | [Sfil](https://open.spotify.com/artist/4SdefXsHLZnpwJGU5dgDcv) | [Raiz](https://open.spotify.com/album/3MB1zpj2sDqImQuQy0WtOq) | 2:48 | 2024-09-27 | 2024-10-15 |

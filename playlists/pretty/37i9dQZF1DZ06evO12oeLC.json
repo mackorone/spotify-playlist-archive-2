@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17911,
+  "num_followers": 17913,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAAARbpdwqHw6pn4uSf7biX/k",
+  "snapshot_id": "agEcAAAAAABt9OSNEDDDz3q2sjREKbD+",
   "tracks": [
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 180000,
-      "name": "CUTE",
-      "url": "https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx"
+      "duration_ms": 214650,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 214650,
-      "name": "MTV",
-      "url": "https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI"
+      "duration_ms": 206000,
+      "name": "SUICIDE",
+      "url": "https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 206000,
-      "name": "SUICIDE",
-      "url": "https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv"
+      "duration_ms": 180000,
+      "name": "CUTE",
+      "url": "https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx"
     },
     {
       "added_at": null,

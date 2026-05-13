@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Protoje
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,145,455 likes - 110 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,145,247 likes - 110 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 33 | [Three Little Birds \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Three Little Birds \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u) | 4:01 |
 | 34 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 |
 | 35 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
-| 36 | [Butterflies](https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Butterflies](https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i) | 2:34 |
+| 36 | [Kingston Town](https://open.spotify.com/track/3yDxEMaxtUATqs22VgqzTu) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love I & II](https://open.spotify.com/album/5Rl7hIIz0a2O6qQNEeHBV3) | 3:51 |
 | 37 | [BIG 45](https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [BIG 45](https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg) | 3:44 |
-| 38 | [Kingston Town](https://open.spotify.com/track/3yDxEMaxtUATqs22VgqzTu) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love I & II](https://open.spotify.com/album/5Rl7hIIz0a2O6qQNEeHBV3) | 3:51 |
+| 38 | [Butterflies](https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Butterflies](https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i) | 2:34 |
 | 39 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
 | 40 | [Spanish Town Rockin'](https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:24 |
 | 41 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted: The Best of King Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 80 | [Cry Wolf](https://open.spotify.com/track/6I2MrEcIvtLzz2Gv6DGCAU) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Cry Wolf](https://open.spotify.com/album/255urlK7V4yakvNY6r7aUK) | 3:27 |
 | 81 | [Firehouse Rock](https://open.spotify.com/track/2aEo5sPcclxVbA2vXFBi9M) | [Wailing Souls](https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL) | [The Very Best Of The Wailing Souls](https://open.spotify.com/album/35JVHz9f0H9oIzSYNW7BAC) | 4:12 |
 | 82 | [Inna Di Ghetto](https://open.spotify.com/track/1yKqoyJmeLymK6dLd1Tt9P) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Nectar of the Gods](https://open.spotify.com/album/7fTqjHVugWluTJ8Ih9sLeC) | 3:20 |
-| 83 | [Bad Dreams](https://open.spotify.com/track/0iYz835jZ1PKFs8BAwikFz) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf) | [Bad Dreams](https://open.spotify.com/album/2fXdXcYiFoDrb8VKXPDRQY) | 2:58 |
-| 84 | [Road Runner](https://open.spotify.com/track/68ZpiCWoEtGhl8s1uaMXux) | [Yeza](https://open.spotify.com/artist/36jYC060pMMY4uSbkj50cu), [Rorystonelove](https://open.spotify.com/artist/31hI4ZIjeMbbfxXgSsaRJC) | [Road Runner](https://open.spotify.com/album/28ok5rJgmNe4pZ3OvoyAPY) | 2:58 |
+| 83 | [Road Runner](https://open.spotify.com/track/68ZpiCWoEtGhl8s1uaMXux) | [Yeza](https://open.spotify.com/artist/36jYC060pMMY4uSbkj50cu), [Rorystonelove](https://open.spotify.com/artist/31hI4ZIjeMbbfxXgSsaRJC) | [Road Runner](https://open.spotify.com/album/28ok5rJgmNe4pZ3OvoyAPY) | 2:58 |
+| 84 | [Bad Dreams](https://open.spotify.com/track/0iYz835jZ1PKFs8BAwikFz) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf) | [Bad Dreams](https://open.spotify.com/album/2fXdXcYiFoDrb8VKXPDRQY) | 2:58 |
 | 85 | [Life From Kingston](https://open.spotify.com/track/5BcE6Qrh3tnkP6VfmhqGKL) | [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Life From Kingston](https://open.spotify.com/album/5r1gzIqEYoFEi7OdpNSiu8) | 2:49 |
 | 86 | [By Any Mean$ \(with Jesse Royal\)](https://open.spotify.com/track/6bFbSluNoeF83UVJRi6YiG) | [KA$E](https://open.spotify.com/artist/11p4fDNXEPs2gMtNVEYmKG), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Loud City](https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1) | [By Any Mean$ \(with Jesse Royal\)](https://open.spotify.com/album/2Hrl1LzZTfBQ9yyr0ME1rB) | 2:48 |
 | 87 | [Hallelujah](https://open.spotify.com/track/2d0xBDrSxKqLacd8OJkeZ6) | [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Hallelujah](https://open.spotify.com/album/3EmG2SaJaGoLoknL0Ad1oo) | 4:07 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 106 | [Love Is My Religion](https://open.spotify.com/track/3NmRPLkEx1EL7LHAe3OZVr) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI) | 3:43 |
 | 107 | [World A Reggae Music](https://open.spotify.com/track/3Gym3Rtm6FHpTrLlJTcz3j) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Black Star](https://open.spotify.com/album/4vwPhmk9UeW85CnLXexdrB) | 3:44 |
 | 108 | [Welcome To Jamrock](https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5) | 3:33 |
-| 109 | [Slow Down \(with H.E.R.\)](https://open.spotify.com/track/73FDJgnjt6ZcxoiavN6XrS) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Slow Down \(with H.E.R.\)](https://open.spotify.com/album/2Z6sqSTQprW8el0lCqojKi) | 3:15 |
+| 109 | [Israelites](https://open.spotify.com/track/0di7hMT6o1ogeUN1XDB9Ft) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Israelites](https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX) | 2:35 |
 | 110 | [Is This Love](https://open.spotify.com/track/5QTEEImISE4USGEwqAci8O) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 3:50 |
 
 Snapshot ID: `AAAAAHiwbR+4ntnw96cZ+FRbbqNcm3rI`

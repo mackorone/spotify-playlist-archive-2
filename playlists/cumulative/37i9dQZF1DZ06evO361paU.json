@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234413,
+      "name": "(I Can't Make It) Another Day (feat. Lenny Kravitz)",
+      "url": "https://open.spotify.com/track/5OgTq4ExF13EdcLD6PSYuN"
+    },
+    {
+      "album": {
         "name": "Raise Vibration",
         "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
       },
@@ -942,7 +964,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 379513,
       "name": "It\u2019s Just Another Fine Day (In This Universe of Love)",
       "url": "https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P"

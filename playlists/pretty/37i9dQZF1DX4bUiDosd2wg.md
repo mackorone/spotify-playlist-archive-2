@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,503 likes - 215 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,512 likes - 215 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 130 | [가시](https://open.spotify.com/track/7BHijuU3OSoh4WnLfmZfU5) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/3pax3J1b9jlG8GHdPQ8QU9) | 4:01 |
 | 131 | [Missing you](https://open.spotify.com/track/3hvWpX7wY89END0v5M0XJX) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Missing you](https://open.spotify.com/album/2EJYbNNYlVxB1fWOw9Aj4N) | 4:17 |
 | 132 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 |
-| 133 | [서쪽하늘 \(여심도둑 괴도루팡\)](https://open.spotify.com/track/7A51xRwUHXZDuOx7O7MjIg) | [Lee Hong Gi](https://open.spotify.com/artist/5qozfapWbbyt0JJEVwiwLz) | [Mask Singer 106th \(Live Version\)](https://open.spotify.com/album/5ve1qRKiahwjoK4kzwtiUv) | 4:31 |
+| 133 | [서쪽하늘 \(여심도둑 괴도루팡\)](https://open.spotify.com/track/7A51xRwUHXZDuOx7O7MjIg) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Mask Singer 106th \(Live Version\)](https://open.spotify.com/album/5ve1qRKiahwjoK4kzwtiUv) | 4:31 |
 | 134 | [천년의 사랑](https://open.spotify.com/track/36HpeuZMRWKAyVaRO8mePe) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [천년지애 \(天年之愛\)](https://open.spotify.com/album/3tP5zqC8xHT6R748b2hhYV) | 4:25 |
 | 135 | [가질 수 없는 너 \(화생방실 클레오파트라\) \- Bonus Track Version](https://open.spotify.com/track/3dWa7UqLOWwew2zuPmdXoe) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Mask Singer 14th \(Live Version\)](https://open.spotify.com/album/0rJFjRJkxSp4SBlldulQnp) | 3:56 |
 | 136 | [Jasmine \- Live](https://open.spotify.com/track/3UnALAO5wJmtjyROBGScOX) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [Lee Seung Chul: The Best Live \(World Tour\)](https://open.spotify.com/album/71QDFQa50alfsb3iGWOtjM) | 4:32 |

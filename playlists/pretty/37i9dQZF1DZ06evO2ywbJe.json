@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 8146,
+  "num_followers": 8160,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af/KgAAAAABSQbVueqPRrjEV+yKYbwpM",
+  "snapshot_id": "agEcAAAAAADk8PH1FIRyKs3k3A7exoN5",
   "tracks": [
     {
       "added_at": null,
@@ -382,15 +382,11 @@
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 139695,
-      "name": "Hip Hop Messiah",
-      "url": "https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO"
+      "duration_ms": 131592,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
     },
     {
       "added_at": null,
@@ -450,11 +446,15 @@
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 131592,
-      "name": "Pay Day",
-      "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
+      "duration_ms": 139695,
+      "name": "Hip Hop Messiah",
+      "url": "https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO"
     },
     {
       "added_at": null,
@@ -607,22 +607,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Astalavista",
-        "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
+        "name": "Help Is On The Way",
+        "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
       },
       "artists": [
+        {
+          "name": "Kellylivinglarge",
+          "url": "https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo"
+        },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         },
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Priddy Prince",
+          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
+        },
+        {
+          "name": "Brainyboi",
+          "url": "https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2"
         }
       ],
-      "duration_ms": 171921,
-      "name": "Astalavista",
-      "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+      "duration_ms": 176183,
+      "name": "Living Life",
+      "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
     },
     {
       "added_at": null,
@@ -647,26 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TE WO II",
-        "url": "https://open.spotify.com/album/7rorWGbmVSTdyuZVPFXv93"
+        "name": "Astalavista",
+        "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
       "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         },
         {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 141025,
-      "name": "TE WO II",
-      "url": "https://open.spotify.com/track/2FWdDRfkf1lfGxZnShMjpU"
+      "duration_ms": 171921,
+      "name": "Astalavista",
+      "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
     },
     {
       "added_at": null,
@@ -687,6 +691,30 @@
       "duration_ms": 223531,
       "name": "Killin Dem (feat. Zlatan)",
       "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TE WO II",
+        "url": "https://open.spotify.com/album/7rorWGbmVSTdyuZVPFXv93"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "duration_ms": 141025,
+      "name": "TE WO II",
+      "url": "https://open.spotify.com/track/2FWdDRfkf1lfGxZnShMjpU"
     },
     {
       "added_at": null,
@@ -739,34 +767,6 @@
       "duration_ms": 237647,
       "name": "DREAMS II",
       "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Help Is On The Way",
-        "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
-      },
-      "artists": [
-        {
-          "name": "Kellylivinglarge",
-          "url": "https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Priddy Prince",
-          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
-        },
-        {
-          "name": "Brainyboi",
-          "url": "https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2"
-        }
-      ],
-      "duration_ms": 176183,
-      "name": "Living Life",
-      "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
     },
     {
       "added_at": null,

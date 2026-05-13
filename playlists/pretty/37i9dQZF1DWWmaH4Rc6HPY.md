@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Ana Sofi W\. en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,508 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,520 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 39 | [Zero \(Feat\. Zaira Jabnell\)](https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Zaira Jabnell](https://open.spotify.com/artist/603fftWMCkmq7E98J2WzD0) | [Zero](https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY) | 4:32 |
 | 40 | [Igual de gris](https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Igual de gris](https://open.spotify.com/album/01ue76B6p752PENdJ6eurO) | 3:16 |
 | 41 | [Hagamos Que](https://open.spotify.com/track/6dERO18avM16kki5aCjTkb) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Hagamos Que](https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC) | 2:58 |
-| 42 | [TIEMPO OFF](https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [CUERPOS, Vol\. 1](https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV) | 3:46 |
-| 43 | [El Último Día de Nuestras Vidas](https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a) | 3:46 |
+| 42 | [El Último Día de Nuestras Vidas](https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a) | 3:46 |
+| 43 | [TIEMPO OFF](https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [CUERPOS, Vol\. 1](https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV) | 3:46 |
 | 44 | [NO ME IMPORTA](https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO ME IMPORTA](https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc) | 2:33 |
 | 45 | [MARIPOSA TECKNICOLOR](https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [MARIPOSA TECKNICOLOR](https://open.spotify.com/album/61goUJQEQm9DNsRUNfmOU6) | 3:00 |
 | 46 | [Bruma](https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Bruma](https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7) | 3:21 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 64 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
 | 65 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |
 | 66 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
-| 67 | [qué raro es ser normal](https://open.spotify.com/track/0SJastxx9FyW6Kbp1RLQaK) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [qué raro es ser normal](https://open.spotify.com/album/0XqsyT0z2gEtn6kXJvI2Kk) | 2:25 |
-| 68 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 |
+| 67 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 |
+| 68 | [qué raro es ser normal](https://open.spotify.com/track/0SJastxx9FyW6Kbp1RLQaK) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [qué raro es ser normal](https://open.spotify.com/album/0XqsyT0z2gEtn6kXJvI2Kk) | 2:25 |
 | 69 | [Gigantes](https://open.spotify.com/track/6DJ0XdK9lE9a4EkSaPf7mj) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Donde nada es para tanto](https://open.spotify.com/album/16HxA8so0smcyGapeDhXor) | 3:22 |
 | 70 | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx) | 4:27 |
 | 71 | [Brillo](https://open.spotify.com/track/3mlwujisr9X3OazRdRVFHp) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk) | [Brillo](https://open.spotify.com/album/643b849ZrdiJdvlpW8zn16) | 4:16 |

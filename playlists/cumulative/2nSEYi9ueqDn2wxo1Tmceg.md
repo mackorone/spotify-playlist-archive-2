@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-1,685 songs - 4 day 17 hr 56 min
+1,686 songs - 4 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Ceremony](https://open.spotify.com/track/65yE0MolVpKPQ5yazAAFzC) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [The Most Dear and The Future](https://open.spotify.com/album/51h6ahBtJWl7emcB5yDSuU) | 2:38 | 2025-11-26 | 2026-01-29 |
 | [Chain Reaction](https://open.spotify.com/track/5czdXtcbsQDJpKlnh35FDO) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Chain Reaction](https://open.spotify.com/album/0DWznw4xDVTnmdAVPVgMpc) | 2:51 | 2025-02-19 | 2025-03-28 |
 | [Chaise Longue \- Unknown Mortal Orchestra remix](https://open.spotify.com/track/63HfmTwWZVD3nk34OFJv05) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Chaise Longue \(Unknown Mortal Orchestra remix\)](https://open.spotify.com/album/5gvFcI6l6RL3OHOlJevdgn) | 3:31 | 2023-01-06 | 2023-02-16 |
-| [Chance to Bleed](https://open.spotify.com/track/6jGus0lgXFwZGQ9aNAhOFw) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Chance to Bleed](https://open.spotify.com/album/6YaH4jJhfaOlc5XyLqFBrx) | 4:56 | 2026-04-29 |  |
+| [Chance to Bleed](https://open.spotify.com/track/6jGus0lgXFwZGQ9aNAhOFw) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Chance to Bleed](https://open.spotify.com/album/6YaH4jJhfaOlc5XyLqFBrx) | 4:56 | 2026-04-29 | 2026-05-13 |
 | [Change](https://open.spotify.com/track/5YPyu3NVkNqoQsPXBVxyT2) | [Dancer](https://open.spotify.com/artist/4aRuyN2moR9xvYmIzUHiR1) | [Change](https://open.spotify.com/album/0PCRrgbxk2szcZCgTy6frH) | 2:46 | 2024-02-29 | 2024-04-11 |
 | [Change Into One Another](https://open.spotify.com/track/1Pv6l3IZJkbvoDAmOGqylZ) | [Discovery Zone](https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt), [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [Change Into One Another](https://open.spotify.com/album/4mOvs3vHLfQEq7jU6o8EyY) | 4:45 | 2025-09-17 | 2025-11-06 |
 | [changer](https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [changer](https://open.spotify.com/album/21aXm7ct1WdqEoOd1Ss5fW) | 3:28 | 2023-05-17 | 2023-07-06 |
@@ -584,6 +584,7 @@
 | [Glossolalia](https://open.spotify.com/track/0e3M8id1IbLwmh9GbqmyGD) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Glossolalia](https://open.spotify.com/album/3TPLvW4xsgo9V3ce3fPaY2) | 4:19 | 2025-02-19 | 2025-04-10 |
 | [Glow In The Dark](https://open.spotify.com/track/7tMVH4oTNZReH3X2834Run) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33), [James Elkington](https://open.spotify.com/artist/7COf7QkYuPrzl1lVrR1sIE) | [Rebuilding \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0R9pZ2LmheaqK8ftFfoDXw) | 2:46 | 2025-11-26 | 2026-01-29 |
 | [Go Dig My Grave](https://open.spotify.com/track/5FBto2Mh2gVkGWV0mRh0hg) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [Go Dig My Grave](https://open.spotify.com/album/0opq0M7iIK9YbyhPZefNYa) | 8:38 | 2023-02-22 | 2023-04-06 |
+| [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-05-12 |  |
 | [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 | 2022-07-13 | 2022-09-01 |
 | [Go To Them \- Bill Ryder\-Jones Rework](https://open.spotify.com/track/1b5nWWL2jHy7eHdslu8jdP) | [Matthew Wilcock](https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [Go To Them \(Bill Ryder\-Jones Rework\)](https://open.spotify.com/album/42pP7Xmks6vKbhyn4XBONq) | 3:31 | 2024-02-21 | 2024-04-11 |
 | [God Gets You Back](https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [God Gets You Back](https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD) | 6:40 | 2024-09-18 | 2024-10-24 |

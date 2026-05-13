@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Lis Mc, Thalin
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,221 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,231 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Contas Pagas](https://open.spotify.com/track/5TIuyixiZOUdnYGOiyPBZE) | [pedrvso](https://open.spotify.com/artist/1dPnN5JbjdsN3E4IyQyiuw), [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [Thalin](https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd), [Sujoground](https://open.spotify.com/artist/2sngdu3B3WLqIsadMhHDa2) | [Direitos Não Reservados](https://open.spotify.com/album/09ixUAnB4zcOmB7YU4F0Gm) | 2:15 |
 | 2 | [Brilha Igual Sol](https://open.spotify.com/track/0ovVBebdTrWQaCFhyTiEBI) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Brilha Igual Sol](https://open.spotify.com/album/130sbXP7PkXlkBXEwk3HvB) | 4:24 |
-| 3 | [PAPAI É BLABO](https://open.spotify.com/track/2E4FyhvU1bTawwUiQrbS9x) | [OGermano](https://open.spotify.com/artist/47Ugcwxj6p08XSn39xnGqs) | [VIRADA DE CHAVE](https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL) | 3:03 |
+| 3 | [PAPAI É BLABO](https://open.spotify.com/track/2E4FyhvU1bTawwUiQrbS9x) | [OGermano](https://open.spotify.com/artist/47Ugcwxj6p08XSn39xnGqs), [Jenni Rocha](https://open.spotify.com/artist/3JFNge4eb1nMMOwa0txAuV) | [VIRADA DE CHAVE](https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL) | 3:03 |
 | 4 | [Piada Mortal](https://open.spotify.com/track/3yQBlBMWLaEOwY8wkHYLnE) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8), [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Frankenstein](https://open.spotify.com/album/0y3Fwq8qDSVKTXKzCAqgGF) | 3:34 |
 | 5 | [OBRIGADO UNDERGROUND](https://open.spotify.com/track/1qOFDZfNq8KyjuHlheIefn) | [Carla Arakaki](https://open.spotify.com/artist/4ipvSgtz06mOACcEKcP8Ud), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [3AM \- Histórias de uma Madrugada](https://open.spotify.com/album/6OQkNjMwN1cci5ituLmKB6) | 1:45 |
 | 6 | [Q SE FODA](https://open.spotify.com/track/4e0XB8eBAo6Sx6T558MMhP) | [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [dubbeatzz](https://open.spotify.com/artist/6OfJeWc6M66ubUsQHNrhMt) | [Q SE FODA](https://open.spotify.com/album/4aDvgIwN8u036Pawc70Vk5) | 3:07 |

@@ -8597,6 +8597,24 @@
     },
     {
       "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/22Pfw2Cr7UHCJdmEizej8V"
+      },
+      "artists": [
+        {
+          "name": "N\u00a3GRA",
+          "url": "https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142245,
+      "name": "Disorder",
+      "url": "https://open.spotify.com/track/76sKVlV9JbKDXWSanOBzkd"
+    },
+    {
+      "album": {
         "name": "Dissonance",
         "url": "https://open.spotify.com/album/1qgZndhIljvvCFIupC6Fct"
       },

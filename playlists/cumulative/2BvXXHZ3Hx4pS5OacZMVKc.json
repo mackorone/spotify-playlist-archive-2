@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Bad Pitch For You",
+        "url": "https://open.spotify.com/album/72Mpjqj1AfwHsKLUtISmMv"
+      },
+      "artists": [
+        {
+          "name": "ruindkid",
+          "url": "https://open.spotify.com/artist/45QfSnVjou58EbJsXSeJ7e"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167181,
+      "name": "Bad Pitch For You",
+      "url": "https://open.spotify.com/track/3zzMrBmRiQ39KsCPzmLuz8"
+    },
+    {
+      "album": {
         "name": "Badniss",
         "url": "https://open.spotify.com/album/1krLgSqhTIvAi0T7FM3goB"
       },

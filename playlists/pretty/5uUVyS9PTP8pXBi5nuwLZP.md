@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 572,454 likes - 80 songs - 4 hr 37 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 572,615 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 68 | [Ethereal Embrace](https://open.spotify.com/track/1bbsyTwGtHSPCV9jAnP5yp) | [Giorgio Baggiani](https://open.spotify.com/artist/1H6JcZmmJhmZrxIPwyaMG7) | [Ethereal Embrace](https://open.spotify.com/album/4tl6MVq0kD3qo9cAGgmFfQ) | 5:36 |
 | 69 | [Prometi Perderte](https://open.spotify.com/track/2E9FX951qSrIjIGDYSclqr) | [Ginno Isaac](https://open.spotify.com/artist/3Ne69lEiKfBxNOK9PK6sus) | [Prometi Perderte](https://open.spotify.com/album/1S92aS8us9Djp0Vrpk5wVr) | 3:24 |
 | 70 | [Don't Touch My Thermostat](https://open.spotify.com/track/4EdQJCPoQyY4aZpllbGaVw) | [Mike Edwards](https://open.spotify.com/artist/0wBfSjmR0DuYQaxifkOwl7) | [Don't Touch My Thermostat](https://open.spotify.com/album/61XmLKfgCOJSrvTrL7GOiV) | 1:56 |
-| 71 | [Mario Style](https://open.spotify.com/track/4UkESAPf2wicV63gp9uUYF) | [Coya](https://open.spotify.com/artist/4Sk7nS0b73o1fMxiTYxd7x), [Louise Byrne](https://open.spotify.com/artist/5ZorT5fBXl3vsWIIAHgmHR) | [Retro Game \(Music for Streaming Soundtrack\)](https://open.spotify.com/album/6yyHMxUrMQiip5i2rtuYgp) | 2:58 |
+| 71 | [Mario Style](https://open.spotify.com/track/4UkESAPf2wicV63gp9uUYF) | [Coya](https://open.spotify.com/artist/4Sk7nS0b73o1fMxiTYxd7x) | [Retro Game \(Music for Streaming Soundtrack\)](https://open.spotify.com/album/6yyHMxUrMQiip5i2rtuYgp) | 2:58 |
 | 72 | [What Shall I Fear?](https://open.spotify.com/track/6MRFodVrWN7dDUBrS3V4vF) | [X3lijah](https://open.spotify.com/artist/6chwsXcH54AnvGoN4cKgSR) | [What Shall I Fear?](https://open.spotify.com/album/2KdqvuqPEB65DMlsQfps9N) | 2:26 |
 | 73 | [Unbreakable \(Made of Love\)](https://open.spotify.com/track/1MgdzZ6SkydnUF5LOL5nga) | [New Earth Rising](https://open.spotify.com/artist/0ID9YDrGVhs3bQxPG0Y6UJ) | [High Energy, Happy Energy Workout, Vol\. 1](https://open.spotify.com/album/4yQL1QADlj8kq95ji7MmyW) | 2:44 |
 | 74 | [Te Quede Muy Grande](https://open.spotify.com/track/5bcgDeYUk1haeTDXR8NtRZ) | [Banda Aventurero](https://open.spotify.com/artist/3OufVfb9pUdgvIv21ouYPq) | [Te Quede Muy Grande](https://open.spotify.com/album/2RH46gh78RgkyFShqmSRXd) | 2:06 |

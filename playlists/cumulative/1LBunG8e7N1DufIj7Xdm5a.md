@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,375 songs - 9 day 17 hr 27 min
+4,376 songs - 9 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -689,7 +689,7 @@
 | [Come Un Ultras Che Grida \- Vivere da Ultras \- Sessione Intima](https://open.spotify.com/track/63M7JMxzPhGLf70AxvdPgn) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 2:34 | 2025-04-04 |  |
 | [Come una cosa sola](https://open.spotify.com/track/4RjTFyHzhwMbIyTpUTAr0Z) | [Sandro Nucci](https://open.spotify.com/artist/4YWFuFcQ9nwErfpTOb0Rno) | [Come una cosa sola](https://open.spotify.com/album/51i0EREPO7D6hdNIrN2uQT) | 3:00 | 2025-06-07 |  |
 | [Come up and See Me](https://open.spotify.com/track/0emn0LIIhaxyg6b6Rl3cws) | [Teho Teardo](https://open.spotify.com/artist/3Amq9Iu3n8FEwaDq0sV5BL), [Blixa Bargeld](https://open.spotify.com/artist/0ecGioDyIR2QiyujHeiwHw) | [Still Smiling](https://open.spotify.com/album/7k0WGXPrNROKbejJ2Zhq90) | 4:45 | 2025-11-05 |  |
-| [ComeTe](https://open.spotify.com/track/2ECV2hrsNMx0kiSLTS8BSk) | [ALIENo](https://open.spotify.com/artist/4KTgaVVDIvu8i1bbEKHmhx) | [ComeTe](https://open.spotify.com/album/0GtGIpHJJhLbA24uCKdj1s) | 2:40 | 2025-06-24 |  |
+| [ComeTe](https://open.spotify.com/track/2ECV2hrsNMx0kiSLTS8BSk) | [ETRE](https://open.spotify.com/artist/4KTgaVVDIvu8i1bbEKHmhx) | [ComeTe](https://open.spotify.com/album/0GtGIpHJJhLbA24uCKdj1s) | 2:40 | 2025-06-24 |  |
 | [comical](https://open.spotify.com/track/6BNXYLvJGBp3EBNoYcKQNM) | [6xat!c](https://open.spotify.com/artist/2uwEvDBKbB5xehCgTlYflx) | [comical](https://open.spotify.com/album/5uQn1YhgxrKRH5OzEN7iJS) | 2:35 | 2025-07-28 |  |
 | [Companion](https://open.spotify.com/track/5gdTDWskPEc1QlJ4mukqBd) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC) | [Companion](https://open.spotify.com/album/4WuPNxFbBAuY9wyc0C3ptV) | 1:30 | 2025-05-16 |  |
 | [Company Car](https://open.spotify.com/track/13zKnltVahqjGRjFYKrYod) | [PLAY DEAD](https://open.spotify.com/artist/2XQ4KK7Ol8gTUBBLAkIF2j) | [Mug Cake](https://open.spotify.com/album/4b2FTmlWKSiCKPNY6djFfC) | 2:22 | 2025-11-05 |  |
@@ -3262,6 +3262,7 @@
 | [Shadows of Yesterday](https://open.spotify.com/track/1EO8Atavkvttoo4fOgCC6V) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sentimental rock](https://open.spotify.com/album/10MwxoHl3Ol00lsw6NrdDi) | 4:09 | 2025-09-13 |  |
 | [Shadows of Yesterday \(another\)](https://open.spotify.com/track/07p7uEEtbZPjure4mAgmus) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sentimental rock](https://open.spotify.com/album/10MwxoHl3Ol00lsw6NrdDi) | 3:49 | 2025-09-13 |  |
 | [Shake That Rock 'n' Roll](https://open.spotify.com/track/6EI1mbbcauGM8qolEYKTJ0) | [AISynthesia](https://open.spotify.com/artist/7IFfx6ctCT6S5lcGxm9q2r) | [Shake That Rock 'n' Roll](https://open.spotify.com/album/38arCeThWOMqlHK0ocjmpP) | 3:14 | 2025-06-01 |  |
+| [Shakin'](https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Shakin'](https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ) | 3:05 | 2026-05-12 |  |
 | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-01-19 |  |
 | [Shameless](https://open.spotify.com/track/1U1LDmjkRqejcZuBWOrMeD) | [Konbini Klan](https://open.spotify.com/artist/7CU7g0yi8aUdnlket0S873) | [Shameless](https://open.spotify.com/album/0quFJXJxKVX1wHLcZMDi5C) | 4:40 | 2025-06-03 |  |
 | [Sharavise](https://open.spotify.com/track/5Q6IzaBQ90vXoTqGX8CdpX) | [Goodbye Lenin](https://open.spotify.com/artist/36Le1UCarumb2FxVEImKpS) | [In Spite of Impending Doom](https://open.spotify.com/album/6OQ5JfQ2vqdAEY7VkVpLNP) | 4:45 | 2025-12-26 |  |

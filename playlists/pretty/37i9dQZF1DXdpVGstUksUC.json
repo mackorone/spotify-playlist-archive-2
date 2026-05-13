@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 547751,
+  "num_followers": 547741,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,18 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Murder the Mountains (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "Red Fang",
-          "url": "https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 343306,
-      "name": "Wires",
-      "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
+      "duration_ms": 364924,
+      "name": "God Is In The Radio",
+      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -395,18 +395,18 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+        "name": "Murder the Mountains (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Red Fang",
+          "url": "https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S"
         }
       ],
-      "duration_ms": 364924,
-      "name": "God Is In The Radio",
-      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
+      "duration_ms": 343306,
+      "name": "Wires",
+      "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Love Fear Choices and Astronauts",
-        "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
-      },
-      "artists": [
-        {
-          "name": "The Egocentrics",
-          "url": "https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh"
-        }
-      ],
-      "duration_ms": 651110,
-      "name": "Bright Dawn of the Soul",
-      "url": "https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Dos E.P.'s",
         "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 328960,
       "name": "Smokin' Woman",
       "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Love Fear Choices and Astronauts",
+        "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
+      },
+      "artists": [
+        {
+          "name": "The Egocentrics",
+          "url": "https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh"
+        }
+      ],
+      "duration_ms": 651110,
+      "name": "Bright Dawn of the Soul",
+      "url": "https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E"
     },
     {
       "added_at": "2026-03-13 04:00:13",

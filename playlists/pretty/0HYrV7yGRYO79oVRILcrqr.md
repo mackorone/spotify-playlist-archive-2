@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,814 likes - 133 songs - 8 hr 31 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,814 likes - 136 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,5 +141,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 131 | [Eco friendly](https://open.spotify.com/track/4ce7x8EqfVRzdw7keMoRgZ) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [Eco friendly](https://open.spotify.com/album/4JD9UxKxUa3Ar8FaX0QvUq) | 3:24 |
 | 132 | [Colores](https://open.spotify.com/track/755UkUqGE1RKVdZpCGDFj3) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Colores](https://open.spotify.com/album/6ktEAyCfI5KoTKSgPDFHTO) | 3:58 |
 | 133 | [Cicatriz de besos](https://open.spotify.com/track/2pPYQQjGsjoXtPkBfLaIQe) | [Xeimar](https://open.spotify.com/artist/2ogDO2M2jDroY1ms13KwKa) | [Cicatriz de besos](https://open.spotify.com/album/3F3qpCClHX7mydgVrxVg0y) | 3:49 |
+| 134 | [What's the Deal](https://open.spotify.com/track/65mwECblaHqM3LSRBTT1nE) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [What's the Deal](https://open.spotify.com/album/2nZMIWpDc27QL0NAFKWk4C) | 2:37 |
+| 135 | [Bed Made of Roses](https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Welcome to the Devil's Room](https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5) | 2:20 |
+| 136 | [Love](https://open.spotify.com/track/0ApKAgVZmOG6DdfjO9BQHR) | [David McKnight](https://open.spotify.com/artist/6ok5d7uaATSwly0SKtNZ2Z) | [Love](https://open.spotify.com/album/0zXTGKTKT4ascu8laqtbsN) | 2:43 |
 
-Snapshot ID: `AAALXi6/F5u7r47mJ6EIuTQq3AKeoJY0`
+Snapshot ID: `AAALYVcgOa11o+hm2WAaGdtbqyZU7F68`

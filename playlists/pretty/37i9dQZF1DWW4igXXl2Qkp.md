@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:2rs4EKIuoLOqrH89wLZ2mC">Iconic Savvy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,318 likes - 75 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,325 likes - 75 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 8 | [The Spokesman](https://open.spotify.com/track/4gKr3DugzfrLMQRXeVnVRD) | [HeadHuncho Amir](https://open.spotify.com/artist/1DRED2ii095cFu6EY1YkNm) | [The Spokesman](https://open.spotify.com/album/2bHtxcCLXxjc7ChsbWaP7h) | 2:33 |
 | 9 | [Butta B](https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 2](https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr) | 1:51 |
 | 10 | [OH](https://open.spotify.com/track/3BK0DfyqsvHbgsaempT8Bq) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [OH](https://open.spotify.com/album/2cagDANf723xW5ORlIghw5) | 2:07 |
-| 11 | [2C](https://open.spotify.com/track/7KjI1Wfa0VJao6hufL43eq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [2C](https://open.spotify.com/album/2SGKhKXp1aEFO4vfjcvKMi) | 3:03 |
+| 11 | [2C \(feat\. Cash Cobain\)](https://open.spotify.com/track/7KjI1Wfa0VJao6hufL43eq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [2C \(feat\. Cash Cobain\)](https://open.spotify.com/album/2SGKhKXp1aEFO4vfjcvKMi) | 3:03 |
 | 12 | [Think'n Bout You](https://open.spotify.com/track/4HXolmS05lHK3PiD13eQUb) | [Deadfaxe](https://open.spotify.com/artist/5Pkg1ypwUXMiLhrQYHOn4l) | [Who is Deadfaxe](https://open.spotify.com/album/5AGuw4Q15WbjOJZP0UYKnw) | 2:16 |
 | 13 | [Play This](https://open.spotify.com/track/3zMDPyL6qy6DZUi5xKT7Io) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Play This](https://open.spotify.com/album/53p6iXTDbZIcIBRIEjYa7s) | 2:33 |
 | 14 | [Windows 98](https://open.spotify.com/track/2HeWM9T5uXuh9U0g54fqwF) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU) | [Windows 98](https://open.spotify.com/album/0psECGsjUjWHD0uH383uYG) | 1:59 |

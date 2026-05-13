@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Guga",
-  "num_followers": 54372,
+  "num_followers": 54445,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
+        "name": "COR D'\u00c1GUA",
+        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 272637,
+      "name": "TA TUDO BEM",
+      "url": "https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2"
+    },
+    {
+      "added_at": "2026-05-07 23:00:55",
+      "album": {
         "name": "Amor de Agosto",
         "url": "https://open.spotify.com/album/43OLhOCAzmBiNuoNS856NS"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
-        "name": "COR D'\u00c1GUA",
-        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 272637,
-      "name": "TA TUDO BEM",
-      "url": "https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2"
-    },
-    {
-      "added_at": "2026-05-07 23:00:55",
-      "album": {
         "name": "Contra Probabilidades",
         "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 203082,
       "name": "Contra Probabilidades",
       "url": "https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC"
-    },
-    {
-      "added_at": "2026-05-07 23:00:55",
-      "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
     },
     {
       "added_at": "2026-05-07 23:00:55",
@@ -475,6 +459,22 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
+    },
+    {
+      "added_at": "2026-05-07 23:00:55",
+      "album": {
         "name": "Reservado",
         "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 158326,
       "name": "Cacau",
       "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
+    },
+    {
+      "added_at": "2026-05-07 23:00:55",
+      "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 242970,
+      "name": "Dire\u00e7\u00e3o Paris",
+      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
     },
     {
       "added_at": "2026-05-07 23:00:55",
@@ -519,18 +535,18 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
-        "name": "O Pr\u00f3prio",
-        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
       "artists": [
         {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 242970,
-      "name": "Dire\u00e7\u00e3o Paris",
-      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
+      "duration_ms": 243180,
+      "name": "Do You No Wrong",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
     },
     {
       "added_at": "2026-05-07 23:00:55",
@@ -555,22 +571,6 @@
       "duration_ms": 205934,
       "name": "B\u00ean\u00e7\u00e3o (feat. Van Zee & Bispo)",
       "url": "https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P"
-    },
-    {
-      "added_at": "2026-05-07 23:00:55",
-      "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
     },
     {
       "added_at": "2026-05-07 23:00:55",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
-        "name": "Eu Quero Um Preto",
-        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 233307,
-      "name": "Eu Quero Um Preto",
-      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
-    },
-    {
-      "added_at": "2026-05-07 23:00:55",
-      "album": {
         "name": "Camisa 10 (Primavera)",
         "url": "https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 151875,
       "name": "Camisa 10 (Primavera)",
       "url": "https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX"
+    },
+    {
+      "added_at": "2026-05-07 23:00:55",
+      "album": {
+        "name": "Eu Quero Um Preto",
+        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 233307,
+      "name": "Eu Quero Um Preto",
+      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
     },
     {
       "added_at": "2026-05-07 23:00:55",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
+        "name": "Dama & Vagabundo",
+        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 313825,
+      "name": "Dama & Vagabundo",
+      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2026-05-07 23:00:55",
+      "album": {
         "name": "FIM DA NOITE",
         "url": "https://open.spotify.com/album/3CqyVBp2IjCB9ZbhqPv4a1"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 214065,
       "name": "FIM DA NOITE",
       "url": "https://open.spotify.com/track/31pd4crQES4hOaWHGIpzXI"
-    },
-    {
-      "added_at": "2026-05-07 23:00:55",
-      "album": {
-        "name": "Dama & Vagabundo",
-        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 313825,
-      "name": "Dama & Vagabundo",
-      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
     },
     {
       "added_at": "2026-05-07 23:00:55",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
-        "name": "Bairrista de Luxo",
-        "url": "https://open.spotify.com/album/1Pu5zlwPj47xao8R3EYydN"
-      },
-      "artists": [
-        {
-          "name": "bapcat",
-          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
-        },
-        {
-          "name": "Joint One",
-          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
-        }
-      ],
-      "duration_ms": 135804,
-      "name": "Bairrista de Luxo",
-      "url": "https://open.spotify.com/track/1bR7HU0o2tgFcHUZsgqQ0t"
-    },
-    {
-      "added_at": "2026-05-07 23:00:55",
-      "album": {
         "name": "FIM DO NADA DELUXE",
         "url": "https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 240000,
       "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
       "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
+    },
+    {
+      "added_at": "2026-05-07 23:00:55",
+      "album": {
+        "name": "Bairrista de Luxo",
+        "url": "https://open.spotify.com/album/1Pu5zlwPj47xao8R3EYydN"
+      },
+      "artists": [
+        {
+          "name": "bapcat",
+          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
+        },
+        {
+          "name": "Joint One",
+          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
+        }
+      ],
+      "duration_ms": 135804,
+      "name": "Bairrista de Luxo",
+      "url": "https://open.spotify.com/track/1bR7HU0o2tgFcHUZsgqQ0t"
     },
     {
       "added_at": "2026-05-07 23:00:55",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
+        "name": "P\u00e9 Descal\u00e7o",
+        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 214677,
+      "name": "P\u00e9 Descal\u00e7o",
+      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
+    },
+    {
+      "added_at": "2026-05-07 23:00:55",
+      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
-    },
-    {
-      "added_at": "2026-05-07 23:00:55",
-      "album": {
-        "name": "P\u00e9 Descal\u00e7o",
-        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 214677,
-      "name": "P\u00e9 Descal\u00e7o",
-      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
     },
     {
       "added_at": "2026-05-07 23:00:55",

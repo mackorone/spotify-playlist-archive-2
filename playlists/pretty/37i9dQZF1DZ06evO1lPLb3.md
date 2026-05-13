@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,636 likes - 34 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,652 likes - 34 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 33 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/2jcLXice4V8TNsvwE76498) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 |
 | 34 | [In Sum](https://open.spotify.com/track/03lJOQU2pvvNVTppJ3VvIs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 6:36 |
 
-Snapshot ID: `af/KgAAAAABLIXjVnYeEZYQlu8cQzkP4`
+Snapshot ID: `agEcAAAAAACkUmaMtHbK2ZAyo9cwsn/B`

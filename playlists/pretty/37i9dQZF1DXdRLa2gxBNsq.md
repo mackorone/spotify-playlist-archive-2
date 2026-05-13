@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,621 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,633 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 60 | [Ibertrola](https://open.spotify.com/track/5YgRL4B64QejhddfcnERqm) | [Palazo En Las Kostillas](https://open.spotify.com/artist/6RKNVlujqe5qGNzx81OVbg) | [Toma y Calla](https://open.spotify.com/album/3KPGgatu9C4itTLoZdvtRA) | 2:43 |
 | 61 | [Jubilación a los 18](https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5) | [XpresidentX](https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK) | [Garrote Vil](https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD) | 1:45 |
 | 62 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
-| 63 | [Otra Vez](https://open.spotify.com/track/3ifC2eBCwIooMxWyqA8RiS) | [BARRACÜDA](https://open.spotify.com/artist/76CL5heNuTVZrutkli7cKx) | [Otra Vez](https://open.spotify.com/album/39SDEwuBUtdju4ZItqVs5D) | 3:38 |
-| 64 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
+| 63 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
+| 64 | [Otra Vez](https://open.spotify.com/track/3ifC2eBCwIooMxWyqA8RiS) | [BARRACÜDA](https://open.spotify.com/artist/76CL5heNuTVZrutkli7cKx) | [Otra Vez](https://open.spotify.com/album/39SDEwuBUtdju4ZItqVs5D) | 3:38 |
 | 65 | [A Las Mariscadas \- Directo Kafe Antzokia](https://open.spotify.com/track/7a0dWy6BZfWNI8Yy5UIdvZ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [A Las Mariscadas \(Directo Kafe Antzokia\)](https://open.spotify.com/album/2e6waJ1iTxP8Ipl2zdDnkw) | 2:04 |
 | 66 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |
 | 67 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |

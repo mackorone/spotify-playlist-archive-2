@@ -16008,7 +16008,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -27300,7 +27300,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 152666,
       "name": "Komu mia\u0142abym powiedzie\u0107?",
       "url": "https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9"
@@ -37017,6 +37017,28 @@
     },
     {
       "album": {
+        "name": "NIECH \u017bYJE BEZROBOCIE",
+        "url": "https://open.spotify.com/album/4LtHzVDDVLy3o0bzKgwxfY"
+      },
+      "artists": [
+        {
+          "name": "rydawarrior",
+          "url": "https://open.spotify.com/artist/4l4laIN7oJbSKMRO1LTi2J"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117473,
+      "name": "NIECH \u017bYJE BEZROBOCIE",
+      "url": "https://open.spotify.com/track/2uk5N36JY27LFid9VSxszn"
+    },
+    {
+      "album": {
         "name": "1-800-O\u015aWIECENIE",
         "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
       },
@@ -37184,6 +37206,24 @@
       "duration_ms": 171130,
       "name": "Niesko\u0144czono\u015b\u0107",
       "url": "https://open.spotify.com/track/3j1a22N3VBL62Z1rUVJvTt"
+    },
+    {
+      "album": {
+        "name": "Zimowy Gda\u0144sk",
+        "url": "https://open.spotify.com/album/14RrXgwKcnGlQM1g5FKWHw"
+      },
+      "artists": [
+        {
+          "name": "Cheatz",
+          "url": "https://open.spotify.com/artist/4ZA66hsvIPVsSelQsobJ0B"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129632,
+      "name": "Niesko\u0144czono\u015b\u0107",
+      "url": "https://open.spotify.com/track/440q1Tg7jVikYJryQHbYfv"
     },
     {
       "album": {
@@ -38366,7 +38406,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 176692,
       "name": "Obejmuj\u0119 noce",
       "url": "https://open.spotify.com/track/5d8JEUZ5PiMNE2mPnD6220"
@@ -47456,7 +47496,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 136838,
       "name": "R\u00f3\u017ce",
       "url": "https://open.spotify.com/track/2iQpHZw3cPGz7C7qMGqN3Y"

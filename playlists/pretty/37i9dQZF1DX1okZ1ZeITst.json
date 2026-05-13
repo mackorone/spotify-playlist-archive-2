@@ -1,12 +1,12 @@
 {
   "description": "Sing along with Angel to \"Glitter Glide\" and other Disney favorites!",
-  "num_followers": 1167264,
+  "num_followers": 1167310,
   "original_name": "Disney Sing-Alongs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHFddoeWKfRNuecrUN0xK6Rd8uXe",
+  "snapshot_id": "AAAAAJwcziAe4CRSywszgb8gUxRI6Pv7",
   "tracks": [
     {
       "added_at": "2026-02-06 14:00:23",
@@ -199,6 +199,30 @@
       "duration_ms": 249040,
       "name": "A Spoonful of Sugar - From \"Mary Poppins\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A"
+    },
+    {
+      "added_at": "2026-02-06 14:00:23",
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Olga Merediz",
+          "url": "https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "duration_ms": 257213,
+      "name": "The Family Madrigal",
+      "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
     },
     {
       "added_at": "2026-02-06 14:00:23",
@@ -687,30 +711,6 @@
       "duration_ms": 160946,
       "name": "Nobody Like U",
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
-    },
-    {
-      "added_at": "2026-02-06 14:00:23",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Beatriz",
-          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
-        },
-        {
-          "name": "Olga Merediz",
-          "url": "https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX"
-        },
-        {
-          "name": "Encanto - Cast",
-          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
-        }
-      ],
-      "duration_ms": 257213,
-      "name": "The Family Madrigal",
-      "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
     },
     {
       "added_at": "2026-02-06 14:00:23",
@@ -1607,26 +1607,6 @@
       "duration_ms": 213600,
       "name": "Hakuna Matata",
       "url": "https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN"
-    },
-    {
-      "added_at": "2026-02-06 14:00:23",
-      "album": {
-        "name": "Waiting On A Wish (From \"Disney's Snow White\")",
-        "url": "https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS"
-      },
-      "artists": [
-        {
-          "name": "Rachel Zegler",
-          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Waiting On A Wish - From \"Disney's Snow White\"",
-      "url": "https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx"
     },
     {
       "added_at": "2026-02-06 14:00:23",

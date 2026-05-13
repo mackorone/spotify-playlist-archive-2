@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,264 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,255 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 68 | [What's It Gonna Be \(feat\. Platnum\)](https://open.spotify.com/track/2xUjNGHjJOBcpTf7dYx4EY) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [Platnum](https://open.spotify.com/artist/42Yg24I2eo5UhSxGMTP6zZ) | [What's It Gonna Be \(feat\. Platnum\)](https://open.spotify.com/album/3UJRf8qlSmPT6JXnd2y6oX) | 3:27 |
 | 69 | [Gotta Get Thru This \- D'N'D Radio Edit](https://open.spotify.com/track/023lag1AgeOf7YChojecRu) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX), [D'N'D Productions](https://open.spotify.com/artist/7cp62T0Av3mTgy0imKzat7) | [Gotta Get Thru This](https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL) | 2:41 |
 | 70 | [Babycakes](https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP) | [3 Of A Kind](https://open.spotify.com/artist/0WG74hoaVTaNb3hx3yRqb1) | [Babycakes](https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW) | 2:34 |
-| 71 | [Tipsy \- Radio Mix](https://open.spotify.com/track/2lVDc57IMK6nypg2iuEWVR) | [J\-Kwon](https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw) | [Tipsy](https://open.spotify.com/album/5Woeg9DhPiMTP0MwKRqT0t) | 4:03 |
-| 72 | [If It's Lovin' That You Want](https://open.spotify.com/track/1Q29dre9FCspRSarHziizl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 3:28 |
+| 71 | [If It's Lovin' That You Want](https://open.spotify.com/track/1Q29dre9FCspRSarHziizl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 3:28 |
+| 72 | [Tipsy \- Radio Mix](https://open.spotify.com/track/2lVDc57IMK6nypg2iuEWVR) | [J\-Kwon](https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw) | [Tipsy](https://open.spotify.com/album/5Woeg9DhPiMTP0MwKRqT0t) | 4:03 |
 | 73 | [Beautiful Girls \- Radio Edit](https://open.spotify.com/track/4Tf94tAHtlQxjbeeyU3y7C) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Beautiful Girls](https://open.spotify.com/album/3xNkswNSrzwSAIb6qleRrA) | 3:45 |
 | 74 | [Teardrops \(Flava 7" Mix\)](https://open.spotify.com/track/49hFJr1GCLuf0d7zeyyjIJ) | [Lovestation](https://open.spotify.com/artist/3LRRdfXOYGIcwLviuwDIf1) | [Teardrops](https://open.spotify.com/album/6AJuYuamYUyOkn34HJ2kH6) | 3:46 |
 | 75 | [Sweet Like Chocolate \(Radio Edit\)](https://open.spotify.com/track/3IFVskDtdJTwAZ0I8HGvoO) | [Shanks & Bigfoot](https://open.spotify.com/artist/2HdJwHponT4dLmV57ry159) | [Sweet Like Chocolate](https://open.spotify.com/album/1PZubkPoodI7JEON9ljzOC) | 3:30 |

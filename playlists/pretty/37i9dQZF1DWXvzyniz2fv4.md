@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,762 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,752 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 27 | [replay](https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [replay](https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4) | 2:31 |
 | 28 | [Partido Alto](https://open.spotify.com/track/70yP3HNhXDC3PpcCTfPBPK) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Partido Alto](https://open.spotify.com/album/4tFgIJ3E2NcjlibDWdSqZn) | 3:26 |
 | 29 | [Sábado](https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Voos Internacionais, Vol\. 2](https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj) | 2:23 |
-| 30 | [A Festa](https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf) | [Chase](https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Garotas são Confusas \(Deluxe\)](https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7) | 2:19 |
-| 31 | [QUENTE](https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [QUENTE](https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE) | 2:03 |
+| 30 | [QUENTE](https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [QUENTE](https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE) | 2:03 |
+| 31 | [A Festa](https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf) | [Chase](https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Garotas são Confusas \(Deluxe\)](https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7) | 2:19 |
 | 32 | [OBRA PRIMA](https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv) | [MC Gustavinho](https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu) | [OBRA PRIMA](https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N) | 2:49 |
 | 33 | [Ravi](https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [DJ Gbeats](https://open.spotify.com/artist/6FP14bsH6aFtDwsiBOBc9B), [Bollivia](https://open.spotify.com/artist/3m6lOMpo95hGM9EEIvCs4z) | [Ravi](https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL) | 2:46 |
 | 34 | [Talismã](https://open.spotify.com/track/26DVRByfW09GuvoX7CO4Bu) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [Talismã](https://open.spotify.com/album/6w8KrZmc4Lvo8CHOxcWsMX) | 2:35 |

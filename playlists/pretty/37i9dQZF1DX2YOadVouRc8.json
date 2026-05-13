@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 47372,
+  "num_followers": 47392,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -55,26 +55,18 @@
     {
       "added_at": "2026-05-08 00:02:06",
       "album": {
-        "name": "One Condition",
-        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
       },
       "artists": [
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 234977,
-      "name": "One Condition",
-      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": "2026-05-08 00:02:06",
@@ -99,18 +91,26 @@
     {
       "added_at": "2026-05-08 00:02:06",
       "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+        "name": "One Condition",
+        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
+      "duration_ms": 234977,
+      "name": "One Condition",
+      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
     },
     {
       "added_at": "2026-05-08 00:02:06",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-08 00:02:06",
       "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "AMA",
-      "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
-    },
-    {
-      "added_at": "2026-05-08 00:02:06",
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 136755,
       "name": "10 Kilo",
       "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
+    },
+    {
+      "added_at": "2026-05-08 00:02:06",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 159994,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
     },
     {
       "added_at": "2026-05-08 00:02:06",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-05-08 00:02:06",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 159994,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
-    },
-    {
-      "added_at": "2026-05-08 00:02:06",
-      "album": {
         "name": "Broken Souls",
         "url": "https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 157000,
       "name": "Broken Souls",
       "url": "https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v"
+    },
+    {
+      "added_at": "2026-05-08 00:02:06",
+      "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
     },
     {
       "added_at": "2026-05-08 00:02:06",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-05-08 00:02:06",
       "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP"
+    },
+    {
+      "added_at": "2026-05-08 00:02:06",
+      "album": {
         "name": "Loseyi Professor",
         "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 202547,
       "name": "HIM (feat. Gunna)",
       "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
-    },
-    {
-      "added_at": "2026-05-08 00:02:06",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP"
     },
     {
       "added_at": "2026-05-08 00:02:06",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-05-08 00:02:06",
       "album": {
-        "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 181942,
-      "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
-    },
-    {
-      "added_at": "2026-05-08 00:02:06",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 144000,
       "name": "Compose",
       "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2026-05-08 00:02:06",
+      "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
     },
     {
       "added_at": "2026-05-08 00:02:06",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-05-08 00:02:06",
       "album": {
-        "name": "Sobobo",
-        "url": "https://open.spotify.com/album/0VauoW1IvT5UzwXdGjOs9k"
-      },
-      "artists": [
-        {
-          "name": "Ayjay bobo",
-          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
-        },
-        {
-          "name": "K-Zaka",
-          "url": "https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR"
-        }
-      ],
-      "duration_ms": 139441,
-      "name": "SoBoBo",
-      "url": "https://open.spotify.com/track/0aEoCfJ7sVrrdfgYBsa5gB"
-    },
-    {
-      "added_at": "2026-05-08 00:02:06",
-      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 180160,
       "name": "Look To You (feat. Llona)",
       "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
+    },
+    {
+      "added_at": "2026-05-08 00:02:06",
+      "album": {
+        "name": "Sobobo",
+        "url": "https://open.spotify.com/album/0VauoW1IvT5UzwXdGjOs9k"
+      },
+      "artists": [
+        {
+          "name": "Ayjay bobo",
+          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
+        },
+        {
+          "name": "K-Zaka",
+          "url": "https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR"
+        }
+      ],
+      "duration_ms": 139441,
+      "name": "SoBoBo",
+      "url": "https://open.spotify.com/track/0aEoCfJ7sVrrdfgYBsa5gB"
     },
     {
       "added_at": "2026-05-08 00:02:06",

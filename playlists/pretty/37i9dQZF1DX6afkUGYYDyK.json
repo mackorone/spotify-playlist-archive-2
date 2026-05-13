@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 72616,
+  "num_followers": 72630,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-12-12 22:02:41",
       "album": {
+        "name": "You Find a Way",
+        "url": "https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN"
+      },
+      "artists": [
+        {
+          "name": "Jenn Bostic",
+          "url": "https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap"
+        }
+      ],
+      "duration_ms": 295111,
+      "name": "Too Grateful",
+      "url": "https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK"
+    },
+    {
+      "added_at": "2025-12-12 22:02:41",
+      "album": {
         "name": "Thank You for What You've Done (feat. The Band Table)",
         "url": "https://open.spotify.com/album/0clx0dPMrLJKyF8O1vbEtq"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 285880,
       "name": "Thank You for What You've Done (feat. The Band Table)",
       "url": "https://open.spotify.com/track/6QQstj40hrBqzmz6yIOsoL"
-    },
-    {
-      "added_at": "2025-12-12 22:02:41",
-      "album": {
-        "name": "You Find a Way",
-        "url": "https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN"
-      },
-      "artists": [
-        {
-          "name": "Jenn Bostic",
-          "url": "https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap"
-        }
-      ],
-      "duration_ms": 295111,
-      "name": "Too Grateful",
-      "url": "https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK"
     },
     {
       "added_at": "2025-12-12 22:02:41",

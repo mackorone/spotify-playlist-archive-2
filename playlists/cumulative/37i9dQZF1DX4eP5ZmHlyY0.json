@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: BE:FIRST",
+  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: BOYNEXTDOOR",
   "name": "Boy in the Moon",
   "tracks": [
     {
@@ -6029,6 +6029,24 @@
     },
     {
       "album": {
+        "name": "HANAMARU",
+        "url": "https://open.spotify.com/album/6cJi17BAY5dou4xC8OD1pP"
+      },
+      "artists": [
+        {
+          "name": "VIBY",
+          "url": "https://open.spotify.com/artist/6yEmYNNxZJSWa52gCezahN"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "HANAMARU",
+      "url": "https://open.spotify.com/track/2ZWtv5EADTwWVWRMQpI4rE"
+    },
+    {
+      "album": {
         "name": "Level Up",
         "url": "https://open.spotify.com/album/6QrhDMZ1B8cmLFyMKaruYW"
       },
@@ -8734,7 +8752,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 196100,
       "name": "MAGIC MUSIC",
       "url": "https://open.spotify.com/track/5w7FwIJRfEhAp1eMqztIEM"
@@ -9148,7 +9166,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-13",
       "duration_ms": 188000,
       "name": "Mi*light",
       "url": "https://open.spotify.com/track/2jduzfTsNkTunQRuoH7bLo"
@@ -10930,6 +10948,24 @@
       "duration_ms": 191865,
       "name": "Play Back",
       "url": "https://open.spotify.com/track/35vMXuNLXjIlOWvpVpx7gh"
+    },
+    {
+      "album": {
+        "name": "PLAY BACK (\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30c3\u30c4\u300f\u4e3b\u984c\u6b4c)",
+        "url": "https://open.spotify.com/album/5HQBzhcl8zJ2JhyO4i3kJx"
+      },
+      "artists": [
+        {
+          "name": "YUTA",
+          "url": "https://open.spotify.com/artist/4WndMgZGitK4uQdKcmVHua"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186266,
+      "name": "PLAY BACK - \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30c3\u30c4\u300f\u4e3b\u984c\u6b4c",
+      "url": "https://open.spotify.com/track/5Bd6eE8y5XlO7inQj16QuR"
     },
     {
       "album": {
