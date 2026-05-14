@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. COSME TADEO en portada.",
-  "num_followers": 429826,
+  "num_followers": 429966,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Tenis M\u00e1gicos",
-        "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 192853,
-      "name": "Un loco solitario",
-      "url": "https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Antonio Aguilar Con Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 188395,
       "name": "Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Tenis M\u00e1gicos",
+        "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 192853,
+      "name": "Un loco solitario",
+      "url": "https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Enamorado De Ti",
-        "url": "https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR"
-      },
-      "artists": [
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 180604,
-      "name": "Isla Virgen",
-      "url": "https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Que Se Mueran los Feos",
         "url": "https://open.spotify.com/album/6RJAp7Ez4quRbgJOpVnsTH"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 186174,
       "name": "El o Yo",
       "url": "https://open.spotify.com/track/0jribWPdFZWic84UgasuXm"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Enamorado De Ti",
+        "url": "https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR"
+      },
+      "artists": [
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 180604,
+      "name": "Isla Virgen",
+      "url": "https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
-      },
-      "artists": [
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 227311,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Super Exitos",
         "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 163693,
       "name": "El Ranchero Chido",
       "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
+      },
+      "artists": [
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 227311,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1851,8 +1851,8 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD"
+        "name": "Despertando Una Leyenda",
+        "url": "https://open.spotify.com/album/43eKmwrZeVdMXaePAIHpj8"
       },
       "artists": [
         {
@@ -1860,9 +1860,9 @@
           "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 178607,
-      "name": "Peque\u00f1a Orgullosa",
-      "url": "https://open.spotify.com/track/50dy8CznSlDJnHaYba7xT4"
+      "duration_ms": 215829,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/0safZ6wr41CsyV6FFEFzpr"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2283,8 +2283,8 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Despertando Una Leyenda",
-        "url": "https://open.spotify.com/album/43eKmwrZeVdMXaePAIHpj8"
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD"
       },
       "artists": [
         {
@@ -2292,9 +2292,9 @@
           "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 215829,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/0safZ6wr41CsyV6FFEFzpr"
+      "duration_ms": 178607,
+      "name": "Peque\u00f1a Orgullosa",
+      "url": "https://open.spotify.com/track/50dy8CznSlDJnHaYba7xT4"
     },
     {
       "added_at": "2026-02-09 16:44:15",

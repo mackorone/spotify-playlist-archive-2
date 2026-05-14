@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,597 likes - 85 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,602 likes - 85 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 34 | [Nossa Oração](https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Nossa Oração](https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6) | 3:09 |
 | 35 | [Sonhar](https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T), [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw) | [Sonhar](https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK) | 2:18 |
 | 36 | [Até Sermos Um](https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41) | [Leo Schiappadini](https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr) | [Até Sermos Um](https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG) | 2:58 |
-| 37 | [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis Pinho](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 |
-| 38 | [É Mais Que Uma Honra](https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [É Mais Que Uma Honra](https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94) | 4:56 |
+| 37 | [É Mais Que Uma Honra](https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [É Mais Que Uma Honra](https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94) | 4:56 |
+| 38 | [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis Pinho](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 |
 | 39 | [Testemunho](https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Testemunho](https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ) | 2:19 |
 | 40 | [Tudo](https://open.spotify.com/track/5wbSVolmtQA6kodui95x40) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [SL.27.4](https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy) | 3:57 |
 | 41 | [Ousado Amor \(Releitura\)](https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Ousado Amor \(Releitura\)](https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug) | 3:44 |

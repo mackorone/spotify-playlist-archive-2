@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Carin León, Rels B, Silvana Estrada, Chuyin and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,441 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,491 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 14 | [GRIS](https://open.spotify.com/track/1Q9ifKELZUqYAE5LULgZsa) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [GRIS](https://open.spotify.com/album/0vBrh1jsMoziMb0V1hKhXs) | 3:00 |
 | 15 | [DILE A TU GATO \- REMIX](https://open.spotify.com/track/3Vme629xDbKud2UZi7Zav3) | [fedesttar](https://open.spotify.com/artist/4F72CuIcolrKN0s5FTxoTy), [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [DILE A TU GATO \- REMIX](https://open.spotify.com/album/6cehthswQrUMKVpnTc4bTg) | 3:59 |
 | 16 | [New Things](https://open.spotify.com/track/031ZcJo8TyET61X2gdghf5) | [Dariel Amant](https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo) | [El Amante](https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG) | 3:01 |
-| 17 | [y está bien](https://open.spotify.com/track/5Up1B6pOEYCWBMAYWdA6BI) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Ultra Sodade Especial Pt\. 2 \(En Vivo\)](https://open.spotify.com/album/13OiBlHbk6fvn2jvr996ji) | 3:11 |
+| 17 | [y está bien \- en vivo](https://open.spotify.com/track/5Up1B6pOEYCWBMAYWdA6BI) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Ultra Sodade Especial Pt\. 2 \(En Vivo\)](https://open.spotify.com/album/13OiBlHbk6fvn2jvr996ji) | 3:11 |
 | 18 | [FA\-TAL!](https://open.spotify.com/track/6nd4ow9awpeLLY1m7mlTVu) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [FA\-TAL!](https://open.spotify.com/album/0dqT5jHobeFyFokLG4VsFj) | 2:46 |
 | 19 | [Nueva Era](https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Belleza De Las Flores](https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE) | 3:17 |
 | 20 | [Baldosas Amarillas](https://open.spotify.com/track/7qEd0ZZUxcD0BhaAPrHZib) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Baldosas Amarillas](https://open.spotify.com/album/0VtrFuR6cadEBhZQ1zOQdz) | 3:12 |

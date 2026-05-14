@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Olamide",
-  "num_followers": 221379,
+  "num_followers": 221453,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-05-08 00:02:12",
       "album": {
+        "name": "fine ting (fine $hit)",
+        "url": "https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 195375,
+      "name": "fine ting (fine $hit)",
+      "url": "https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK"
+    },
+    {
+      "added_at": "2026-05-08 00:02:12",
+      "album": {
         "name": "One Condition",
         "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 234977,
       "name": "One Condition",
       "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
-    },
-    {
-      "added_at": "2026-05-08 00:02:12",
-      "album": {
-        "name": "fine ting (fine $hit)",
-        "url": "https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 195375,
-      "name": "fine ting (fine $hit)",
-      "url": "https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK"
     },
     {
       "added_at": "2026-05-08 00:02:12",
@@ -539,26 +539,6 @@
     {
       "added_at": "2026-05-08 00:02:12",
       "album": {
-        "name": "Jembe / 14DRoad",
-        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 138208,
-      "name": "Jembe",
-      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
-    },
-    {
-      "added_at": "2026-05-08 00:02:12",
-      "album": {
         "name": "Blue Disco",
         "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 178983,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0"
+    },
+    {
+      "added_at": "2026-05-08 00:02:12",
+      "album": {
+        "name": "Jembe / 14DRoad",
+        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 138208,
+      "name": "Jembe",
+      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
     },
     {
       "added_at": "2026-05-08 00:02:12",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-05-08 00:02:12",
       "album": {
-        "name": "Allonsy",
-        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
-      },
-      "artists": [
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        },
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 122711,
-      "name": "Allonsy",
-      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
-    },
-    {
-      "added_at": "2026-05-08 00:02:12",
-      "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 180386,
       "name": "Jam",
       "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
+    },
+    {
+      "added_at": "2026-05-08 00:02:12",
+      "album": {
+        "name": "Allonsy",
+        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "duration_ms": 122711,
+      "name": "Allonsy",
+      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
     },
     {
       "added_at": "2026-05-08 00:02:12",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-05-08 00:02:12",
       "album": {
-        "name": "WHY LOVE",
-        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "WHY LOVE",
-      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
-    },
-    {
-      "added_at": "2026-05-08 00:02:12",
-      "album": {
         "name": "Je m'appelle",
         "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2026-05-08 00:02:12",
       "album": {
+        "name": "WHY LOVE",
+        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "WHY LOVE",
+      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
+    },
+    {
+      "added_at": "2026-05-08 00:02:12",
+      "album": {
         "name": "Bout U",
         "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
       },
@@ -987,26 +987,6 @@
       "duration_ms": 163481,
       "name": "Bout U",
       "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
-    },
-    {
-      "added_at": "2026-05-08 00:02:12",
-      "album": {
-        "name": "Realize",
-        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
     },
     {
       "added_at": "2026-05-08 00:02:12",
@@ -1027,6 +1007,26 @@
       "duration_ms": 174253,
       "name": "Bad Girl (feat. Asake)",
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+    },
+    {
+      "added_at": "2026-05-08 00:02:12",
+      "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
     },
     {
       "added_at": "2026-05-08 00:02:12",
@@ -1167,6 +1167,30 @@
     {
       "added_at": "2026-05-08 00:02:12",
       "album": {
+        "name": "SHABA",
+        "url": "https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "duration_ms": 121338,
+      "name": "SHABA",
+      "url": "https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg"
+    },
+    {
+      "added_at": "2026-05-08 00:02:12",
+      "album": {
         "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
         "url": "https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7"
       },
@@ -1191,30 +1215,6 @@
       "duration_ms": 184682,
       "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
       "url": "https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov"
-    },
-    {
-      "added_at": "2026-05-08 00:02:12",
-      "album": {
-        "name": "SHABA",
-        "url": "https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
-        }
-      ],
-      "duration_ms": 121338,
-      "name": "SHABA",
-      "url": "https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg"
     },
     {
       "added_at": "2026-05-08 00:02:12",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2026-05-08 00:02:12",
       "album": {
-        "name": "Hey Jago",
-        "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
-      },
-      "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Rahman Jago",
-          "url": "https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS"
-        }
-      ],
-      "duration_ms": 125284,
-      "name": "Hey Jago",
-      "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
-    },
-    {
-      "added_at": "2026-05-08 00:02:12",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
       },
@@ -1527,6 +1503,30 @@
     {
       "added_at": "2026-05-08 00:02:12",
       "album": {
+        "name": "Hey Jago",
+        "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Rahman Jago",
+          "url": "https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS"
+        }
+      ],
+      "duration_ms": 125284,
+      "name": "Hey Jago",
+      "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
+    },
+    {
+      "added_at": "2026-05-08 00:02:12",
+      "album": {
         "name": "Cash Flow (feat. Wizkid)",
         "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
       },
@@ -1547,30 +1547,6 @@
     {
       "added_at": "2026-05-08 00:02:12",
       "album": {
-        "name": "Akonuche (Remix)",
-        "url": "https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s"
-      },
-      "artists": [
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 176530,
-      "name": "Akonuche - Remix",
-      "url": "https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm"
-    },
-    {
-      "added_at": "2026-05-08 00:02:12",
-      "album": {
         "name": "Escaladizzy",
         "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
       },
@@ -1587,6 +1563,22 @@
       "duration_ms": 164745,
       "name": "Escaladizzy",
       "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
+    },
+    {
+      "added_at": "2026-05-08 00:02:12",
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     }
   ],
   "unique_name": "Gbedu",

@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: SEEDA \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,509 songs - 5 day 6 hr 6 min
+2,511 songs - 5 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -959,6 +959,7 @@
 | [iPhoneNOOTO \(feat\. PEANUTSKUN\)](https://open.spotify.com/track/2FA63Lvs27v5uZLxpLGRla) | [YDIZZY](https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz), [PeanutsKun](https://open.spotify.com/artist/5GITFRQqu23xgb82VKRWUc) | [MASTERPIECE!!!](https://open.spotify.com/album/7k97n7bSuJesKScQtTDvbl) | 2:53 | 2025-06-20 | 2025-07-23 |
 | [IPPON](https://open.spotify.com/track/0RpSzkGJNGkmdrbrIgqG4y) | [Albert Connor](https://open.spotify.com/artist/6fTbznllQRT5HmxfZdiRlc), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [25 joyboi](https://open.spotify.com/album/5aNPMkDsxcVzRGgcdYxBCv) | 2:30 | 2024-07-16 | 2024-08-16 |
 | [iPX](https://open.spotify.com/track/1zXxvSZvkPdHuWCVzKuVPX) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Podium](https://open.spotify.com/album/6o77fZj73QcB51LBaIli1v) | 2:39 | 2025-08-26 | 2025-11-26 |
+| [IRL \(In Real Life\)](https://open.spotify.com/track/2i2fYwH6pNAhmm6mBUo6pj) | [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e) | [IRL（In Real Life）](https://open.spotify.com/album/39qsOremsOYbQXdQdjkJjJ) | 2:30 | 2026-05-14 |  |
 | [isekai](https://open.spotify.com/track/1AtbQhAfskE2WzUFK14rVs) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [DREAM HORIZON](https://open.spotify.com/album/5xQGl6jalMEKuQefCWiCR8) | 3:40 | 2024-04-24 | 2024-05-08 |
 | [Island Flow](https://open.spotify.com/track/0xVdwG46vYzsq9EfaFsaXo) | [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [Island Flow](https://open.spotify.com/album/3Qm9xaluHqqqmUvKXoNLiS) | 2:15 | 2024-08-28 | 2024-10-05 |
 | [ISM](https://open.spotify.com/track/0252QtynkU5VsnIoQKToOm) | [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [ISM](https://open.spotify.com/album/4IdKDqJI4O4PXUiQNnClDi) | 3:46 | 2024-07-02 | 2024-07-10 |
@@ -2449,6 +2450,7 @@
 | [書き綴るリリック \(feat\. Lil Chill\)](https://open.spotify.com/track/2axHE50sXYv98gUYueGjD3) | [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9), [Lil Chill](https://open.spotify.com/artist/3guAJUbWvGvGgz3vkJ241X) | [書き綴るリリック \(feat\. Lil Chill\)](https://open.spotify.com/album/2iv6amaaqnsOilmpRcUh6B) | 2:38 | 2025-05-08 | 2025-05-16 |
 | [最低だけど最高](https://open.spotify.com/track/2ufX2xxEysgDrPE5ANyhHy) | [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo) | [最低だけど最高](https://open.spotify.com/album/4EZrC1LZyiTb3DV3igu8Bl) | 1:43 | 2024-03-12 | 2024-03-27 |
 | [最後だとしても...](https://open.spotify.com/track/7gLBZMoFeOwWMak8UVPSym) | [句潤](https://open.spotify.com/artist/1uDNlSRJxFFJLWXr11s0Bz), [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [句が呼ぶ煙](https://open.spotify.com/album/7wXuPfXn4vqtOtI8OdsX2a) | 3:21 | 2024-02-06 | 2024-02-21 |
+| [最近](https://open.spotify.com/track/0zNNWfwFbEet1fE2p4ZtTc) | [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [HYG/最近](https://open.spotify.com/album/6vuuUApC9dMurqEFv0Q8NU) | 2:20 | 2026-05-14 |  |
 | [東京無宿](https://open.spotify.com/track/1jYypP5U3UPsDDNdOdDvrM) | [BLYY](https://open.spotify.com/artist/6yX4DVkXlVVzckdFcqer1p) | [東京無宿](https://open.spotify.com/album/4TyEPsSOhakTnVobdu9cb5) | 3:43 | 2024-01-23 | 2024-02-28 |
 | [東京逆走](https://open.spotify.com/track/66w0Y7OgItnOxr5H0dvkwa) | [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60), [Noah Cooper](https://open.spotify.com/artist/4xF4uKmgicrYuunxggf4Ik), [stb](https://open.spotify.com/artist/0rGik946QMPvmQ5neZrEjr), [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7) | [東京逆走](https://open.spotify.com/album/5nWTVCasUiOoiUThqYEGCO) | 2:48 | 2025-11-13 | 2025-12-03 |
 | [楽しいだけじゃ \(feat\. Worldwide Skippa\)](https://open.spotify.com/track/3bTF24ppSYQ8aohmy2CcRC) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs), [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Loco Dinner](https://open.spotify.com/album/0tKxvf5NryXC9LrNrC70qs) | 3:17 | 2025-09-30 | 2025-10-15 |

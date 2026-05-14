@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 39074,
+  "num_followers": 39075,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAC4Ptv44QCjXMEz+8IqNbZz",
+  "snapshot_id": "agJtgAAAAABzi2e2aljtB8ZvDJT0KCS2",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "The Whole Town's Laughing at Me",
-      "url": "https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 332866,
       "name": "Feel the Fire",
       "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "The Whole Town's Laughing at Me",
+      "url": "https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3"
     },
     {
       "added_at": null,
@@ -456,15 +456,15 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 264573,
-      "name": "The More I Get, the More I Want",
-      "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
+      "duration_ms": 238386,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "You And I",
-        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
+        "name": "Truly Blessed",
+        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 250333,
-      "name": "Don't Keep Wastin' My Time",
-      "url": "https://open.spotify.com/track/20ZbW7KvaWKCmRhbM8rTFl"
+      "duration_ms": 279013,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX"
     },
     {
       "added_at": null,
@@ -524,15 +524,15 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 238386,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
+      "duration_ms": 264573,
+      "name": "The More I Get, the More I Want",
+      "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Truly Blessed",
-        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 279013,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX"
+      "duration_ms": 250333,
+      "name": "Don't Keep Wastin' My Time",
+      "url": "https://open.spotify.com/track/20ZbW7KvaWKCmRhbM8rTFl"
     },
     {
       "added_at": null,
@@ -599,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6"
       },
       "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 289813,
-      "name": "You're My Choice Tonight (Choose Me)",
-      "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
+      "duration_ms": 283720,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w"
     },
     {
       "added_at": null,
@@ -631,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephanie",
-        "url": "https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6"
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
       },
       "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 283720,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w"
+      "duration_ms": 289813,
+      "name": "You're My Choice Tonight (Choose Me)",
+      "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Is It Still Good to Ya",
-      "url": "https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven Only Knows",
         "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 240946,
       "name": "I Want My Baby Back",
       "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Is It Still Good to Ya",
+      "url": "https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "All I Need Is You",
-      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teddy Pendergrass",
         "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 261866,
       "name": "And If I Had",
       "url": "https://open.spotify.com/track/1f2xKsMmIXza7hID4IeLY6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
     },
     {
       "added_at": null,

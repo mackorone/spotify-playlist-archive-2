@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 ### [lofi garden](https://open.spotify.com/playlist/37i9dQZF1DX4t95PAs1EpY)
 
-> beats + birds = &lt;3
+> beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,406 likes - 100 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,494 likes - 100 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

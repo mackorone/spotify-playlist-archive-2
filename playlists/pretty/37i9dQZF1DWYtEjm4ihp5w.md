@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: Stormy
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,273 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,380 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 21 | [MA VIDA](https://open.spotify.com/track/30clDmIaXuBpW242YnPIWr) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v), [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT) | [MA VIDA](https://open.spotify.com/album/23Vxk3PsuTx4JgYutJPCR9) | 3:21 |
 | 22 | [MOOD](https://open.spotify.com/track/3LR2AShmeh0dhIdjDIw0R6) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:59 |
 | 23 | [Action](https://open.spotify.com/track/4TY8DyDlVgN0Bl2AZO5afl) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Action](https://open.spotify.com/album/6YfQZWv94Zrt4EO7FkpsPM) | 3:48 |
-| 24 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 |
-| 25 | [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 |
-| 26 | [GOD DAYM](https://open.spotify.com/track/3Pd9OfLtlGKdXVgXHO6ldN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:28 |
-| 27 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
-| 28 | [Solo](https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Solo](https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm) | 2:46 |
-| 29 | [Lyke Dat](https://open.spotify.com/track/2NJjqqZQUoWo5vsXM6osYp) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lyke Dat](https://open.spotify.com/album/1Fx4UhGZo2w6CTliXvZg8F) | 2:14 |
-| 30 | [wonder why](https://open.spotify.com/track/15WRWgiuNlB0cVJk3WST1c) | [Veintiuno](https://open.spotify.com/artist/6DWkZYGQNrv0tr1BCN0qzF), [Caspr](https://open.spotify.com/artist/2jZhkzr1I3z5DYQoULIVm7) | [Fúria](https://open.spotify.com/album/1zQnmEwJFvw6N4OdfDoRTf) | 2:09 |
+| 24 | [FIGHT CLUB](https://open.spotify.com/track/57hUYwfxMmWgtJ6oOyogQA) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Acceptleo](https://open.spotify.com/artist/5SeNqmLhe3EIGBpOsxqOWT) | [FIGHT CLUB](https://open.spotify.com/album/0WZJKi8phNjpDOtDEkh8nd) | 2:26 |
+| 25 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 |
+| 26 | [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 |
+| 27 | [GOD DAYM](https://open.spotify.com/track/3Pd9OfLtlGKdXVgXHO6ldN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:28 |
+| 28 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
+| 29 | [Solo](https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Solo](https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm) | 2:46 |
+| 30 | [Lyke Dat](https://open.spotify.com/track/2NJjqqZQUoWo5vsXM6osYp) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lyke Dat](https://open.spotify.com/album/1Fx4UhGZo2w6CTliXvZg8F) | 2:14 |
 | 31 | [INSOMNIA HOTEL](https://open.spotify.com/track/6AdlRsXVF7FppB7d02xfFm) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [INSOMNIA HOTEL](https://open.spotify.com/album/3kT1lgMRNW7eAx2ObKdTRN) | 2:39 |
 | 32 | [bohème](https://open.spotify.com/track/2cUoF6XU7X7pXVYJ8bHaxX) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [bohème](https://open.spotify.com/album/6jsBeOOVVhPyGhph1KngmS) | 2:54 |
 | 33 | [\#31\#](https://open.spotify.com/track/7gwo8Ykbqf2g8Hx1AsgQdJ) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 3:02 |
@@ -49,14 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 39 | [T3EQDNA](https://open.spotify.com/track/5FXzuIVsWsm1etUoohqXNc) | [ELHAFIDY](https://open.spotify.com/artist/3GJvh5FBiMYYwvQW28SWng) | [SILENT BATTLES](https://open.spotify.com/album/4YYVqtKRTFNA5ORSC9tRmY) | 3:12 |
 | 40 | [DAZOU LYAM](https://open.spotify.com/track/5ibGXVIgn6Z82imF6z3OuV) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD](https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq) | 2:34 |
 | 41 | [KIYA](https://open.spotify.com/track/4F0yYIjWU3YFFcJHTRBxs3) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [KIYA](https://open.spotify.com/album/2ifKpv86aGp7T5k5fxUmPW) | 3:18 |
-| 42 | [Hello Kitty](https://open.spotify.com/track/6gyhZ6bMdy7FDTYCeqgwec) | [LMLTM](https://open.spotify.com/artist/0uKwNVVupedJeBbIuvXBG2), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Just Feel Me](https://open.spotify.com/album/1pGyDBBEYlMOlqeZy2axu0) | 3:01 |
-| 43 | [Jean](https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Jean](https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ) | 2:27 |
-| 44 | [DRAHEM](https://open.spotify.com/track/25h9K4A81FK9sCZqdAxxQK) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [DRAHEM](https://open.spotify.com/album/1m5LKzxwpOORztQjbAJe7r) | 2:41 |
-| 45 | [violet](https://open.spotify.com/track/2e8xfkiNnTxWeUcuM37nco) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [violet](https://open.spotify.com/album/598wiKlgE2ZgHMOhV9uMRe) | 2:16 |
-| 46 | [La Blonde w La Brune](https://open.spotify.com/track/5lSCjIKU24TavFykuaDkOt) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [MC3](https://open.spotify.com/album/4adJ7R9LtergjKVJJUYUmH) | 2:59 |
-| 47 | [MAKARIB](https://open.spotify.com/track/3ymdvTuxxXeePY6T1MOh9y) | [THE ONLY](https://open.spotify.com/artist/1K09FOInOZrzcIL6iLEcTk) | [MAKARIB](https://open.spotify.com/album/5i8NC0g4UYGrJLcyjXswQm) | 3:25 |
-| 48 | [VFC](https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [VFC](https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim) | 3:29 |
-| 49 | [TRACES](https://open.spotify.com/track/2m0HY8YO0SZ10OmBNA1seb) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [TRACES & DAYEKH](https://open.spotify.com/album/7jBvEk7T55jJu0wL983Oam) | 2:57 |
-| 50 | [KTER MN 10](https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [KTER MN 10](https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT) | 2:24 |
+| 42 | [Jean](https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Jean](https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ) | 2:27 |
+| 43 | [DRAHEM](https://open.spotify.com/track/25h9K4A81FK9sCZqdAxxQK) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [DRAHEM](https://open.spotify.com/album/1m5LKzxwpOORztQjbAJe7r) | 2:41 |
+| 44 | [violet](https://open.spotify.com/track/2e8xfkiNnTxWeUcuM37nco) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [violet](https://open.spotify.com/album/598wiKlgE2ZgHMOhV9uMRe) | 2:16 |
+| 45 | [La Blonde w La Brune](https://open.spotify.com/track/5lSCjIKU24TavFykuaDkOt) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [MC3](https://open.spotify.com/album/4adJ7R9LtergjKVJJUYUmH) | 2:59 |
+| 46 | [MAKARIB](https://open.spotify.com/track/3ymdvTuxxXeePY6T1MOh9y) | [THE ONLY](https://open.spotify.com/artist/1K09FOInOZrzcIL6iLEcTk) | [MAKARIB](https://open.spotify.com/album/5i8NC0g4UYGrJLcyjXswQm) | 3:25 |
+| 47 | [VFC](https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [VFC](https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim) | 3:29 |
+| 48 | [TRACES](https://open.spotify.com/track/2m0HY8YO0SZ10OmBNA1seb) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [TRACES & DAYEKH](https://open.spotify.com/album/7jBvEk7T55jJu0wL983Oam) | 2:57 |
+| 49 | [KTER MN 10](https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [KTER MN 10](https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT) | 2:24 |
 
-Snapshot ID: `AAAAADD/P1zy8dnLDAQrbaBXN6AX08pM`
+Snapshot ID: `AAAAAMnqNDhKd4VWxpOL4SkdrIKbNSDK`

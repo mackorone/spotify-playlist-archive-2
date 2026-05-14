@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280060,
+  "num_followers": 280047,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAABlmneMJB2JwfTSbNLHanmE",
+  "snapshot_id": "agJtgAAAAAA6FQdkZ5j4W7oib1O0Bjom",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "S\u00e3o Amores",
-      "url": "https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 173136,
       "name": "Disk Me",
       "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "S\u00e3o Amores",
+      "url": "https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 154941,
+      "name": "Seu Crime",
+      "url": "https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 275040,
       "name": "Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",
       "url": "https://open.spotify.com/track/3XbNseJrIK8LzoTh4eA0Xf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 154941,
-      "name": "Seu Crime",
-      "url": "https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i"
     },
     {
       "added_at": null,
@@ -683,34 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFTER",
-        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
-        },
-        {
-          "name": "Jup do Bairro",
-          "url": "https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf"
-        },
-        {
-          "name": "CyberKills",
-          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
-        }
-      ],
-      "duration_ms": 247037,
-      "name": "Descontrolada - Cyberkills Remix",
-      "url": "https://open.spotify.com/track/7oIW4mt7JZeqEUyZiKR6s3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
       },
@@ -723,22 +695,6 @@
       "duration_ms": 157508,
       "name": "Rajad\u00e3o",
       "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI"
     },
     {
       "added_at": null,
@@ -763,6 +719,50 @@
       "duration_ms": 146543,
       "name": "Bandida (feat. Mc Mayara)",
       "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFTER",
+        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        },
+        {
+          "name": "Jup do Bairro",
+          "url": "https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf"
+        },
+        {
+          "name": "CyberKills",
+          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+        }
+      ],
+      "duration_ms": 247037,
+      "name": "Descontrolada - Cyberkills Remix",
+      "url": "https://open.spotify.com/track/7oIW4mt7JZeqEUyZiKR6s3"
     },
     {
       "added_at": null,

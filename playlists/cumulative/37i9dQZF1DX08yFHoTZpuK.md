@@ -4,7 +4,7 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-85 songs - 6 hr 3 min
+86 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Free](https://open.spotify.com/track/7DKyhfk7PQdjRFWUA0eQYA) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4) | [Twofold](https://open.spotify.com/album/4mJ1nmkF2RanEbD3r62fSN) | 3:29 | 2025-10-24 |  |
 | [From The Darkside \(monoqlom Remix\)](https://open.spotify.com/track/1TJ41F5tIsgRylysr8rc6m) | [Coakira](https://open.spotify.com/artist/4npCpZlreNDaWqAyALlu4K), [monoqlom](https://open.spotify.com/artist/2Si3D69wfASRJMWq8BltJg) | [Darkside 2075](https://open.spotify.com/album/7jUrZd7N4vHlS1ujctfh0Z) | 2:45 | 2025-11-07 | 2025-12-12 |
 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 | 2025-10-24 |  |
-| [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 | 2025-10-24 |  |
+| [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 | 2025-10-24 | 2026-05-14 |
 | [go!](https://open.spotify.com/track/5t2y268snYiNava21XWxMZ) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 2:11 | 2025-10-24 |  |
 | [GORILLA](https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGURI ZOO](https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL) | 2:19 | 2026-01-23 |  |
 | [HI!GA!MI!](https://open.spotify.com/track/5yxDNvvXmkM2fkQSlLfxJR) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [F!C!O!](https://open.spotify.com/artist/2UvrlpMklmgamhimBlX9iw), [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD) | [HI!GA!MI!](https://open.spotify.com/album/7LCTafhxWY92qtbfPqBZE3) | 3:09 | 2026-01-23 | 2026-02-15 |
@@ -58,6 +58,7 @@
 | [okay, okay](https://open.spotify.com/track/2jU5rn89JNXT3U2sTN1qJ3) | [flip\-flops](https://open.spotify.com/artist/0kIWft47tbC7DorFdGEDWz) | [okay, okay](https://open.spotify.com/album/0zdM2hIDHV0NM57Rp6n3LI) | 2:59 | 2026-01-23 | 2026-02-08 |
 | [Omatcha](https://open.spotify.com/track/4I8KfeqnrXYeHNm7w1IaQ2) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:37 | 2025-10-24 |  |
 | [Omi \- blackglassG Remix](https://open.spotify.com/track/2xkVBSLP47iYY7cGhd5YDz) | [Sekitova](https://open.spotify.com/artist/1mRPxiVGzbksZ6gZ89sRCW), [blackglassG](https://open.spotify.com/artist/32527tDRJMOAvd68m97kgZ) | [Dance Giggling Dance vol.1](https://open.spotify.com/album/7EDlhYpmKXKRS963SJU2G1) | 6:17 | 2025-10-24 | 2025-11-08 |
+| [Open! \(Fellsius Remix\)](https://open.spotify.com/track/2iQ1h6gocUyJNhPUcjbLtn) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [nextdimensional](https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD), [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [Open! Remixes](https://open.spotify.com/album/5tTP1X8h3L9lLgiE9j4axg) | 3:44 | 2026-05-11 |  |
 | [Outro](https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sine Wave Party EP](https://open.spotify.com/album/03ZLi3ZFad1jYhw8eq35qm) | 4:24 | 2025-10-24 | 2026-03-26 |
 | [PARABOLA](https://open.spotify.com/track/0Xfu8sjIFjlqy5aU0basOP) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SECTOR RUSH](https://open.spotify.com/album/1NrYV1HcGsZ65clcxYjrK9) | 5:01 | 2025-11-07 | 2026-03-09 |
 | [Polynasia](https://open.spotify.com/track/3Ubzwa9vQ7PKGA7pn9A9nC) | [Takkyu Ishino](https://open.spotify.com/artist/1Y1eAeGo4bz5wP1CfRGn6c) | [BERLIN TRAX](https://open.spotify.com/album/3ktsz9CUSzxZBVUbLsaYx4) | 4:44 | 2025-10-24 |  |

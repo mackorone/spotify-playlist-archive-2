@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Trophy Wife",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: casi",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -2462,6 +2462,24 @@
       "duration_ms": 139042,
       "name": "Asking For It",
       "url": "https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu"
+    },
+    {
+      "album": {
+        "name": "asleep with the fishes",
+        "url": "https://open.spotify.com/album/6MWaakd1ZnYn1jqYG2OlmS"
+      },
+      "artists": [
+        {
+          "name": "cherry pick",
+          "url": "https://open.spotify.com/artist/5yCDU2cbUX69GwblH65Et5"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141899,
+      "name": "asleep with the fishes",
+      "url": "https://open.spotify.com/track/4D5xZUQlA0JcUXcfArU7E1"
     },
     {
       "album": {
@@ -20155,6 +20173,24 @@
     },
     {
       "album": {
+        "name": "INTRUSIVE THOUGHTS",
+        "url": "https://open.spotify.com/album/5he4LlmKrwNHngdJr3Fa0v"
+      },
+      "artists": [
+        {
+          "name": "casi",
+          "url": "https://open.spotify.com/artist/08KCycW58Ksyv5y5QaTyXH"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "INTRUSIVE THOUGHTS",
+      "url": "https://open.spotify.com/track/6Y5SbN02DMsFMRAhBu11I2"
+    },
+    {
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/4aAsqmT1922H5n2z3OYpo4"
       },
@@ -20768,10 +20804,28 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 182160,
       "name": "JUMPER",
       "url": "https://open.spotify.com/track/1FhHMqeJKNd20Gz0K1EimY"
+    },
+    {
+      "album": {
+        "name": "junior year",
+        "url": "https://open.spotify.com/album/4RpbI4QMeLaIdiI32zYyHw"
+      },
+      "artists": [
+        {
+          "name": "Slow Fiction",
+          "url": "https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "junior year",
+      "url": "https://open.spotify.com/track/2qLdKdodppZN5sLjHH6uHW"
     },
     {
       "album": {
@@ -20930,7 +20984,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 84881,
       "name": "Kay, Babe",
       "url": "https://open.spotify.com/track/67YXYKOHTCWZYvYqmKev0t"
@@ -23084,7 +23138,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 244571,
       "name": "Lovebird",
       "url": "https://open.spotify.com/track/6wER8KfUAILrQvv65xWuWl"
@@ -23451,6 +23505,24 @@
     },
     {
       "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/4ylvV803paK1WG2z5qv2Re"
+      },
+      "artists": [
+        {
+          "name": "Meadowglade",
+          "url": "https://open.spotify.com/artist/5IDaIxKr6Vcr8c14I9z0UG"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305102,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/08MS0wuk5YOigEejj66vBs"
+    },
+    {
+      "album": {
         "name": "Make You Mad",
         "url": "https://open.spotify.com/album/7tnYr62bQ7BJd67L8A69td"
       },
@@ -23696,7 +23768,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 268917,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/6620siaLboa5Gj9VBDb7n3"
@@ -24150,7 +24222,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 201082,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/7bQAyc8sLWZCRoQpKA37Ph"
@@ -24572,6 +24644,24 @@
       "duration_ms": 118875,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/1kpbUkXdbld68SQ0oW7ZsR"
+    },
+    {
+      "album": {
+        "name": "Monday",
+        "url": "https://open.spotify.com/album/4ddcYpOwuU2uvnF0nBicqc"
+      },
+      "artists": [
+        {
+          "name": "Jawdropped",
+          "url": "https://open.spotify.com/artist/6AxlwzQp9748SDpdoSjqQa"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205093,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/0UYqBPuwyIsP49vRIVzNlN"
     },
     {
       "album": {
@@ -27350,7 +27440,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 183013,
       "name": "Operator",
       "url": "https://open.spotify.com/track/4YI2hqjVj38GdGWxohsA7D"
@@ -34270,6 +34360,24 @@
     {
       "album": {
         "name": "Spiral",
+        "url": "https://open.spotify.com/album/3MHGBNMXy8FfQZMHUnqsze"
+      },
+      "artists": [
+        {
+          "name": "aaron's book club",
+          "url": "https://open.spotify.com/artist/6vzSrIg2hK1qTPUGrGCLqq"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240654,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/2U7v0lH247K8d57q1tWAHE"
+    },
+    {
+      "album": {
+        "name": "Spiral",
         "url": "https://open.spotify.com/album/3AwFtLV4QVt7LeUNIfAnuU"
       },
       "artists": [
@@ -39910,7 +40018,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 224714,
       "name": "Warm - Demo",
       "url": "https://open.spotify.com/track/4Ui9BHkPmGbR7lcRFbKTOY"
@@ -40022,6 +40130,24 @@
       "duration_ms": 190590,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/2nJfQVq2Psp09kWnKX8Kvt"
+    },
+    {
+      "album": {
+        "name": "Wasted Tonight",
+        "url": "https://open.spotify.com/album/1jNhZfZpj37L6rXBq3aZiq"
+      },
+      "artists": [
+        {
+          "name": "Slippers",
+          "url": "https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132232,
+      "name": "Wasted Tonight",
+      "url": "https://open.spotify.com/track/7JaXJWPO9nVTkscVcqINkk"
     },
     {
       "album": {

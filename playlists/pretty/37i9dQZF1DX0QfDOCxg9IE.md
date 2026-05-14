@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,685 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,683 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
 | 2 | [Anadromika](https://open.spotify.com/track/4SP5sNmfpJP5oV2LrqzE6A) | [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK), [Alexandra](https://open.spotify.com/artist/5chFd3WPxdTlKsUhEPmArx) | [Stin Akri Tou Kosmou](https://open.spotify.com/album/1TYv5ogFcaouNtk0nlPmrY) | 3:17 |
-| 3 | [To Vals Ton Oniron](https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg) | [Alkis Alkaios](https://open.spotify.com/artist/2Rg30ZalrVol05bZe7iBae), [Mariana Katsimicha](https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY), [Ellinikos 93.2](https://open.spotify.com/artist/5Rfc2HCfClBnHGTkNjVWkd), [Dimitris Bakoulis](https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz), [Dimitris Karras](https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK) | [To Soundtrack tou Ellinikou Gia ton Alki Alkaio](https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR) | 3:25 |
+| 3 | [To Vals Ton Oniron](https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg) | [Mariana Katsimicha](https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY), [Dimitris Bakoulis](https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz), [Dimitris Karras](https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK) | [To Soundtrack tou Ellinikou Gia ton Alki Alkaio](https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR) | 3:25 |
 | 4 | [Tha Edina Ta Panta](https://open.spotify.com/track/5tZeRqOJp0x6ffaXdodZVp) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [Tenacity](https://open.spotify.com/album/5KmtvSWGjjQ8Yu2TIGgFPW) | 4:28 |
 | 5 | [Take Me There](https://open.spotify.com/track/05zHAkeiaKLn4Vs8bPgrqv) | [DA TI](https://open.spotify.com/artist/0E1Yd4BPHXB4DfTaYb9Y5i) | [Take Me There](https://open.spotify.com/album/1tuNBnbHUdE8rlooVI4sVR) | 3:22 |
 | 6 | [BOT](https://open.spotify.com/track/2Ziqz9EdB0nQoQOnxHgGpJ) | [FANN](https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269), [Greco Beats](https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV) | [Fantastic Fann II](https://open.spotify.com/album/1rqwfXLTGj3x32gL5iuYiQ) | 2:51 |

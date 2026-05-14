@@ -1,13 +1,77 @@
 {
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Yudino]. Artwork: Isu Kim.\n",
-  "num_followers": 72744,
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [ischi]. Artwork: Isu Kim.\n",
+  "num_followers": 72755,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACWhgVFzChK8wQDbt1N4N6NcXYba",
+  "snapshot_id": "AAAAAEtjGj7mEUB2V4e0boZ/LvEp4abB",
   "tracks": [
+    {
+      "added_at": "2026-05-13 05:00:20",
+      "album": {
+        "name": "dahan-dahan",
+        "url": "https://open.spotify.com/album/5fJLsIUlS9ALsds3xIlrtd"
+      },
+      "artists": [
+        {
+          "name": "ischi",
+          "url": "https://open.spotify.com/artist/5cdH6V4FS28zQgu4nyvaja"
+        }
+      ],
+      "duration_ms": 206129,
+      "name": "dahan-dahan",
+      "url": "https://open.spotify.com/track/62im1CQT3L5BVUM65Apdvy"
+    },
+    {
+      "added_at": "2026-05-13 05:00:20",
+      "album": {
+        "name": "Ano",
+        "url": "https://open.spotify.com/album/1tS6IeQYqvHDZS2RSvP65I"
+      },
+      "artists": [
+        {
+          "name": "MARY CHEN",
+          "url": "https://open.spotify.com/artist/08BrTT9UoIbzvAAzaV7y1a"
+        }
+      ],
+      "duration_ms": 286308,
+      "name": "Ano",
+      "url": "https://open.spotify.com/track/6ive27zMCIHY2tFLa74fz2"
+    },
+    {
+      "added_at": "2026-05-13 05:00:20",
+      "album": {
+        "name": "uy miss u!",
+        "url": "https://open.spotify.com/album/19FCValCx82v8JqKxSaxGI"
+      },
+      "artists": [
+        {
+          "name": "Loenna",
+          "url": "https://open.spotify.com/artist/03ksnHGHCpJ8J5wodvsTFI"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "uy miss u!",
+      "url": "https://open.spotify.com/track/67xPDZRf4HwVB9kFt5ZkQ9"
+    },
+    {
+      "added_at": "2026-05-13 05:00:20",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/59pHzWgQohtTwXt2meNzaZ"
+      },
+      "artists": [
+        {
+          "name": "Petsanity",
+          "url": "https://open.spotify.com/artist/1OVaCQucAYwylVm6HxeqXm"
+        }
+      ],
+      "duration_ms": 205752,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21m41twE6QsT6LsTtBJGb2"
+    },
     {
       "added_at": "2026-05-06 17:00:14",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,678 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,675 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 41 | [Deus Está me Ensinando](https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 4:54 |
 | 42 | [Descanse o Seu Coração + Deus é Deus \(Ao Vivo\)](https://open.spotify.com/track/6e2AAioKth03BlAjIXiTJr) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Descanse o Seu Coração + Deus é Deus \(Ao Vivo\)](https://open.spotify.com/album/0iwwmZaDhcPFlBQ97Sx6jm) | 5:07 |
 | 43 | [Na Casa de Deus](https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:14 |
-| 44 | [Deus no Controle + Milagre \(Ao Vivo\)](https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00) | [Deus no Controle + Milagre \(Ao Vivo\)](https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1) | 5:01 |
-| 45 | [Aguenta Firme + Na Eternidade \(Ao Vivo\)](https://open.spotify.com/track/0vnuLFvkgtnEgll90njg5A) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Dani Ferber](https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH) | [Aguenta Firme + Na Eternidade \(Ao Vivo\)](https://open.spotify.com/album/5uZWtgelO4WRrmzUGLCgr6) | 5:48 |
-| 46 | [Transformada](https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Cassiane](https://open.spotify.com/artist/7x9ixMtTHLf7BZk6uuwISO) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:54 |
-| 47 | [O Milagre Sou Eu + Deus Está Me Ensinando \(Ao Vivo\)](https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Milagre Sou Eu + Deus Está Me Ensinando \(Ao Vivo\)](https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l) | 6:33 |
+| 44 | [Aguenta Firme + Na Eternidade \(Ao Vivo\)](https://open.spotify.com/track/0vnuLFvkgtnEgll90njg5A) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Dani Ferber](https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH) | [Aguenta Firme + Na Eternidade \(Ao Vivo\)](https://open.spotify.com/album/5uZWtgelO4WRrmzUGLCgr6) | 5:48 |
+| 45 | [Deus no Controle + Milagre \(Ao Vivo\)](https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00) | [Deus no Controle + Milagre \(Ao Vivo\)](https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1) | 5:01 |
+| 46 | [O Milagre Sou Eu + Deus Está Me Ensinando \(Ao Vivo\)](https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Milagre Sou Eu + Deus Está Me Ensinando \(Ao Vivo\)](https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l) | 6:33 |
+| 47 | [Transformada](https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Cassiane](https://open.spotify.com/artist/7x9ixMtTHLf7BZk6uuwISO) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:54 |
 | 48 | [Casa de Bênção + Lugar de Vida \(Ao Vivo\)](https://open.spotify.com/track/6lgIywQlJlj8iA6LbddbJx) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Casa de Bênção + Lugar de Vida \(Ao Vivo\)](https://open.spotify.com/album/0EQ6vU9CdBp2iNUycTSe55) | 5:35 |
 | 49 | [É Assim Que Eu Quero Te Adorar + Som de um Coração \(Ao Vivo\)](https://open.spotify.com/track/2ydWTetNwvbuXhEDG0yq3V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [É Assim Que Eu Quero Te Adorar \(Ao Vivo\)](https://open.spotify.com/album/61wOcR7NX5iu1OfYb6V5Rf) | 6:46 |
-| 50 | [Deus no Controle](https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:51 |
+| 50 | [Deus dos Vales, Deus dos Montes + Tira\-me do Vale \(Ao Vivo\)](https://open.spotify.com/track/6NKS2L2XXu6NV58fsmuKM3) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus dos Vales, Deus dos Montes \(Ao Vivo\)](https://open.spotify.com/album/1aYeIpqwkXbGEMBPauuf5b) | 4:16 |
 
-Snapshot ID: `agEcAAAAAAAFOm3g/mQcM2a++YaaysCb`
+Snapshot ID: `agJtgAAAAABQfoixrGG9qAP6PlEjjJOd`

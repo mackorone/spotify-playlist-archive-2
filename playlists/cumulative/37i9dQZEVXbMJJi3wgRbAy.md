@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,334 songs - 2 day 22 hr 48 min
+1,335 songs - 2 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -959,7 +959,7 @@
 | [QUE SED](https://open.spotify.com/track/4GLmfc26LRlW5otKs6TewR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [QUE SED](https://open.spotify.com/album/13Uyz9aJHEkfWPtt7b9lTG) | 2:11 | 2024-03-30 | 2024-05-17 |
 | [Que Tiene la Noche](https://open.spotify.com/track/6ClL99PvuCeBLTFTdnR1Hw) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Causalidades](https://open.spotify.com/album/6zhawgybFcgvkdqpbFjbRK) | 2:59 | 2021-12-26 | 2026-01-04 |
 | [Quedate](https://open.spotify.com/track/18a2MVpqCwgREUEDduvMTX) | [Maxi Alvarez](https://open.spotify.com/artist/2UnGWnrqDZPjWNVRWj5Mae), [ONE PLAY](https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe) | [Quedate](https://open.spotify.com/album/4CXFolOYSiYKQl8ga7KcCa) | 2:21 | 2025-06-30 | 2025-12-21 |
-| [Quedate](https://open.spotify.com/track/1Xua15a4cEbIRkEWkHBSxT) | [Maxi Alvarez](https://open.spotify.com/artist/2UnGWnrqDZPjWNVRWj5Mae), [ONE PLAY](https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe) | [\#Directamentedebb](https://open.spotify.com/album/1IHekLzXtIzpFT8N32vPzW) | 2:21 | 2025-12-20 |  |
+| [Quedate](https://open.spotify.com/track/1Xua15a4cEbIRkEWkHBSxT) | [Maxi Alvarez](https://open.spotify.com/artist/2UnGWnrqDZPjWNVRWj5Mae), [ONE PLAY](https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe) | [\#Directamentedebb](https://open.spotify.com/album/1IHekLzXtIzpFT8N32vPzW) | 2:21 | 2025-12-20 | 2026-05-14 |
 | [QUEMARÁS](https://open.spotify.com/track/37o3TuM0nRPMa9f9qpUKlo) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 4:23 | 2024-03-23 | 2024-03-26 |
 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 | 2024-03-22 | 2024-03-24 |
 | [Querida Yo](https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Querida Yo](https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7) | 1:55 | 2025-03-13 | 2025-03-17 |
@@ -1069,6 +1069,7 @@
 | [SIN SEÑAL](https://open.spotify.com/track/3pjvkWO9fqiRRBE1tDLu3S) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:05 | 2023-01-21 | 2023-03-11 |
 | [Sin Tu Amor](https://open.spotify.com/track/42b0KMmRgqmJz7kgYWfekW) | [La Mega Orquesta Del Don Equis](https://open.spotify.com/artist/5LdwbDYKGeNh0u8nvaYb4t) | [Sin Tu Amor](https://open.spotify.com/album/1tAel8DQVmWxLwXsg6tEhk) | 2:34 | 2025-02-18 | 2025-02-20 |
 | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 | 2024-01-01 | 2025-05-17 |
+| [Skokka](https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Skokka](https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX) | 2:40 | 2026-05-13 |  |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 | 2022-10-27 |
 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an) | 2:57 | 2021-05-03 | 2021-07-25 |
 | [So Long, London](https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 4:22 | 2024-04-20 | 2024-04-22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is CHiCO with HoneyWorks. The essential tracks, all in one playlist.",
-  "num_followers": 18386,
+  "num_followers": 18390,
   "original_name": "This Is CHiCO with HoneyWorks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAAKk461oBOP4OKXRpwPmC4h",
+  "snapshot_id": "agJtgAAAAADeOAzgzG4CospH/8mZlOCW",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30e9\u30d6\u30db\u30a4\u30c3\u30b9\u30eb Special edition",
-        "url": "https://open.spotify.com/album/69BC6aULa8qJQ7CrpIVcHZ"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 176559,
-      "name": "\u30e9\u30d6\u30db\u30a4\u30c3\u30b9\u30eb Alert\uff01",
-      "url": "https://open.spotify.com/track/5eSzaeDXNvFWvUZgl8vKyZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE FIGHT",
         "url": "https://open.spotify.com/album/0uZAUiU2010CN2rBWL4Y6X"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 190893,
       "name": "\u4eba\u751f\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
       "url": "https://open.spotify.com/track/49QaYX0XchfWTTldxGinEj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30e9\u30d6\u30db\u30a4\u30c3\u30b9\u30eb Special edition",
+        "url": "https://open.spotify.com/album/69BC6aULa8qJQ7CrpIVcHZ"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "duration_ms": 176559,
+      "name": "\u30e9\u30d6\u30db\u30a4\u30c3\u30b9\u30eb Alert\uff01",
+      "url": "https://open.spotify.com/track/5eSzaeDXNvFWvUZgl8vKyZ"
     },
     {
       "added_at": null,

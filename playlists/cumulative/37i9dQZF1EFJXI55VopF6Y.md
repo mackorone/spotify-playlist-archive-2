@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-68 songs - 3 hr 4 min
+69 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Something In My Eye](https://open.spotify.com/track/7Ct8rxhUnBUfSSWxb0X7em) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:44 | 2024-07-14 |  |
 | [Streets](https://open.spotify.com/track/0xmOfwQ4UxyNSt8g50yE3i) | [Sissy Ford](https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l) | [Streets](https://open.spotify.com/album/0hj6iS5EK2Nn4uOZh6psCV) | 2:51 | 2025-09-12 |  |
 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 | 2026-03-27 |  |
+| [T](https://open.spotify.com/track/299kqZHWyMLL2Ng0DQkJ5q) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [TRISTAN1](https://open.spotify.com/album/7txEo8xATuZOJys8TIWnL2) | 3:00 | 2026-05-13 |  |
 | [Tack vare dig](https://open.spotify.com/track/2EiimE1BrzD7MWqjrFBSvD) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 2:47 | 2025-08-25 |  |
 | [That Guy](https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [That Guy](https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z) | 2:34 | 2024-03-22 |  |
 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 | 2025-07-16 |  |

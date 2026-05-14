@@ -1,12 +1,12 @@
 {
   "description": "Altijd frisse hits! Cover: Trobi, KA & Yade Lauren",
-  "num_followers": 36729,
+  "num_followers": 36731,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH0KErSFxgfnNEQdWsFocMll5OgE",
+  "snapshot_id": "AAAAABBSWXEDGuZMOKqeyMz4pvuCfFbt",
   "tracks": [
     {
       "added_at": "2026-05-11 12:03:22",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-05-11 12:03:22",
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "added_at": "2026-05-11 12:03:22",
+      "album": {
         "name": "PINKY UP",
         "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 210404,
       "name": "Save My Love",
       "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
-    },
-    {
-      "added_at": "2026-05-11 12:03:22",
-      "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
       "added_at": "2026-05-11 12:03:22",

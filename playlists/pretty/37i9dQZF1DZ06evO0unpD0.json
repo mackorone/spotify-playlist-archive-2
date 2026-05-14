@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAAO1PxUMdzZLuz0cMM1X0nG",
+  "snapshot_id": "agJtgAAAAAByVI2KxvtLa6QSddh4gdGO",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 311666,
+      "name": "Tomorrow (Sadio)",
+      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djourou",
         "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 332361,
       "name": "Guelen",
       "url": "https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 311666,
-      "name": "Tomorrow (Sadio)",
-      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
     },
     {
       "added_at": null,

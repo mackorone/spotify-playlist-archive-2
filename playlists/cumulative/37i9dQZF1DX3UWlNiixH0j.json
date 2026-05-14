@@ -9491,6 +9491,24 @@
     },
     {
       "album": {
+        "name": "EMO EMO",
+        "url": "https://open.spotify.com/album/1sxsJF9uD9ubGGpCqEuGRn"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "EMO EMO",
+      "url": "https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1"
+    },
+    {
+      "album": {
         "name": "empty",
         "url": "https://open.spotify.com/album/6u4uP0VXVOBAC3Gr4l4NOX"
       },
@@ -37584,24 +37602,6 @@
       "duration_ms": 258526,
       "name": "TOY",
       "url": "https://open.spotify.com/track/2NcL3BcH9PwVJsYD1s5n9c"
-    },
-    {
-      "album": {
-        "name": "EMO EMO",
-        "url": "https://open.spotify.com/album/1sxsJF9uD9ubGGpCqEuGRn"
-      },
-      "artists": [
-        {
-          "name": "illiomote",
-          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
-        }
-      ],
-      "date_added": "2026-05-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1"
     },
     {
       "album": {

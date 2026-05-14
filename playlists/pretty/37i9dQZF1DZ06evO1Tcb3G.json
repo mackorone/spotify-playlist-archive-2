@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 522718,
+  "num_followers": 522747,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAACJ1nAwOusHa2cX36kSrSw8",
+  "snapshot_id": "agJtgAAAAACvvL+6puyFvxFi4gIc+ofM",
   "tracks": [
     {
       "added_at": null,
@@ -64,7 +64,7 @@
       "added_at": null,
       "album": {
         "name": "Delta",
-        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
       },
       "artists": [
         {
@@ -74,7 +74,7 @@
       ],
       "duration_ms": 274552,
       "name": "Woman",
-      "url": "https://open.spotify.com/track/47DKI4RxI8ZW0sBqDenMhO"
+      "url": "https://open.spotify.com/track/4W09yvUuimIswoREF29kwn"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 223685,
-      "name": "October Skies",
-      "url": "https://open.spotify.com/track/51y1G3rLwk6cBl0eUbLpeh"
+      "duration_ms": 248546,
+      "name": "Snake Eyes",
+      "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "Snake Eyes",
-      "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
       },
@@ -508,25 +492,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 276780,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5VemD3t5rwdj4zZlpiX8xh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/12ultei6RG7H4r06wJii5h"
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/51y1G3rLwk6cBl0eUbLpeh"
     },
     {
       "added_at": null,
@@ -547,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/12ultei6RG7H4r06wJii5h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 173400,
       "name": "Timshel",
       "url": "https://open.spotify.com/track/5OOGjZ2DGVyTrq2Ithcz41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 276780,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5VemD3t5rwdj4zZlpiX8xh"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 203700,
-      "name": "Rose Of Sharon",
-      "url": "https://open.spotify.com/track/39hB6lztAle6a204lJAYKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indomable",
         "url": "https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 225986,
       "name": "Learn Me Right",
       "url": "https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 203700,
+      "name": "Rose Of Sharon",
+      "url": "https://open.spotify.com/track/39hB6lztAle6a204lJAYKZ"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 265096,
-      "name": "Beloved",
-      "url": "https://open.spotify.com/track/3VlUqZCeXUssbRSb536N7C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Johannesburg",
         "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 267946,
       "name": "There Will Be Time",
       "url": "https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/3VlUqZCeXUssbRSb536N7C"
     },
     {
       "added_at": null,

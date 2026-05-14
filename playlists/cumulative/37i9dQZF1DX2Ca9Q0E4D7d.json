@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Attentive Beta 93 Hz - 123 Hz",
+        "url": "https://open.spotify.com/album/5cdlOuSzqEftUp9TvDtTVO"
+      },
+      "artists": [
+        {
+          "name": "Ookean",
+          "url": "https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166772,
+      "name": "Attentive Beta 93 Hz - 123 Hz",
+      "url": "https://open.spotify.com/track/6JrfL3jDbZmSyiFwwRzyIl"
+    },
+    {
+      "album": {
         "name": "Bells Of Change Delta B Sinus 108-1112hz",
         "url": "https://open.spotify.com/album/7raltftxJk9fINtP88U8KT"
       },
@@ -1165,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Carbon Drift Beta (130.2\u2013138.1)",
+        "url": "https://open.spotify.com/album/79gjcCChZhUcKKdDrboqft"
+      },
+      "artists": [
+        {
+          "name": "Alien Academy",
+          "url": "https://open.spotify.com/artist/37MJLRFMewr3LFXff6skVk"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138688,
+      "name": "Carbon Drift Beta (130.2\u2013138.1)",
+      "url": "https://open.spotify.com/track/58hUvU9muG08c7BMNZG6C8"
+    },
+    {
+      "album": {
         "name": "Changing Motion Beta (54hz-76hz)",
         "url": "https://open.spotify.com/album/0X5dUbmVeEt9454fyvRiQL"
       },
@@ -1432,6 +1468,24 @@
       "duration_ms": 160000,
       "name": "Falling In Reverse Beta (94-123hz)",
       "url": "https://open.spotify.com/track/3d6H12ch1MGJr5AiIHpQCb"
+    },
+    {
+      "album": {
+        "name": "Focus Beta (78Hz - 104Hz)",
+        "url": "https://open.spotify.com/album/1PLo9ie55daCZiGUCPFYQn"
+      },
+      "artists": [
+        {
+          "name": "Sonopad",
+          "url": "https://open.spotify.com/artist/6a3JGgQNJ6ugMYY9CgzltE"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136454,
+      "name": "Focus Beta (78Hz - 104Hz)",
+      "url": "https://open.spotify.com/track/2JvWiAjTiROv4lNmrBAlDM"
     },
     {
       "album": {

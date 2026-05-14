@@ -5331,6 +5331,36 @@
     },
     {
       "album": {
+        "name": "Haan Tu Hai (From \"Shera\")",
+        "url": "https://open.spotify.com/album/2NT6D8o5jQueJtZkvaBwSz"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Gaurav Dev",
+          "url": "https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9"
+        },
+        {
+          "name": "Kartik Dev",
+          "url": "https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz"
+        },
+        {
+          "name": "Dhanshree Dev",
+          "url": "https://open.spotify.com/artist/1NqVwX4BZeorQeRoaq5hTu"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256965,
+      "name": "Haan Tu Hai (From \"Shera\")",
+      "url": "https://open.spotify.com/track/0ACjJxG0MqTotRdMBaXUi0"
+    },
+    {
+      "album": {
         "name": "Haaniya",
         "url": "https://open.spotify.com/album/6y6urc9ONRjVs4xiW7Jm9b"
       },
@@ -7732,6 +7762,36 @@
       "duration_ms": 157692,
       "name": "Kaali Raatein (From \"Nikita Roy\")",
       "url": "https://open.spotify.com/track/68QlU0Kf0be1JQhzT4LdX0"
+    },
+    {
+      "album": {
+        "name": "Kaamil",
+        "url": "https://open.spotify.com/album/2TzFTRHjVU6enl9hw67Nqs"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        },
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255059,
+      "name": "Kaamil",
+      "url": "https://open.spotify.com/track/2lzQOaqyfyX7x32P9K899T"
     },
     {
       "album": {
@@ -10548,7 +10608,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 162459,
       "name": "Muskaan",
       "url": "https://open.spotify.com/track/1vgvwc1KECpPkuxE1WRGey"
@@ -13717,6 +13777,28 @@
     },
     {
       "album": {
+        "name": "Sajan Sajan",
+        "url": "https://open.spotify.com/album/0F48thkzLEljIHJ5Mu3rNh"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Raja Hasan",
+          "url": "https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206842,
+      "name": "Sajan Sajan",
+      "url": "https://open.spotify.com/track/34uyouEOf7xf5HZWIkAPwC"
+    },
+    {
+      "album": {
         "name": "Ikkis (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5BAmKBKJm2OVaLl4lveISP"
       },
@@ -14704,7 +14786,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 145902,
       "name": "Sun Re Piya",
       "url": "https://open.spotify.com/track/4F1OgFikCujerIVXgUhY5A"
@@ -16774,7 +16856,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 309629,
       "name": "Tumpe Hi Pyaar Aagaya (From \"Ginny Wedss Sunny 2\")",
       "url": "https://open.spotify.com/track/1pI8d3z9lvKyA24YURbVck"

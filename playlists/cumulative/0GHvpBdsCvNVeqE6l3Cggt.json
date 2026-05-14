@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "SuperNatural Man",
+        "url": "https://open.spotify.com/album/3HArl6pz8rXfdlpsqZGGaX"
+      },
+      "artists": [
+        {
+          "name": "Hope Noel",
+          "url": "https://open.spotify.com/artist/4K4odNjWzexJSElZI2hfKf"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229433,
+      "name": "SuperNatural Man",
+      "url": "https://open.spotify.com/track/4EyLW8sJKRY7kaUOwG6dOr"
+    },
+    {
+      "album": {
         "name": "Wheatus",
         "url": "https://open.spotify.com/album/2c2nyMqKUqDvFmCubBKhuW"
       },

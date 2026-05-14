@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 41867,
+  "num_followers": 41874,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAABCmlxuBa8m1hzePqQvwu+X",
+  "snapshot_id": "agJtgAAAAABmSgLfvRHlQsgNvhWfWN55",
   "tracks": [
     {
       "added_at": null,
@@ -495,30 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esa Parte de M\u00ed",
-        "url": "https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Esa Parte de M\u00ed",
-      "url": "https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 187666,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/3h5c3ZEwvruxM1tBemCggZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esa Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Esa Parte de M\u00ed",
+      "url": "https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP"
     },
     {
       "added_at": null,

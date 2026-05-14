@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4688,
+  "num_followers": 4690,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAA5uKYIhVh0oXzVtbrRjXu9",
+  "snapshot_id": "agJtgAAAAAAXOWmRCfS90D32IVo3IPw2",
   "tracks": [
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 101532,
-      "name": "It's ok",
-      "url": "https://open.spotify.com/track/2e1gwrmC5jY2z63mj8vXGx"
+      "duration_ms": 217371,
+      "name": "Primary Colors",
+      "url": "https://open.spotify.com/track/77xbIliiMGEoAOSFaREtnr"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 217371,
-      "name": "Primary Colors",
-      "url": "https://open.spotify.com/track/77xbIliiMGEoAOSFaREtnr"
+      "duration_ms": 101532,
+      "name": "It's ok",
+      "url": "https://open.spotify.com/track/2e1gwrmC5jY2z63mj8vXGx"
     },
     {
       "added_at": null,

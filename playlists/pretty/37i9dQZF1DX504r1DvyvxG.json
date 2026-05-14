@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2643561,
+  "num_followers": 2643517,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Solid Air",
-        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
-      },
-      "artists": [
-        {
-          "name": "John Martyn",
-          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "May You Never",
-      "url": "https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Dublin Blues",
         "url": "https://open.spotify.com/album/5IzhouI88qt3gZgJ7WjEgp"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 259120,
       "name": "Dublin Blues",
       "url": "https://open.spotify.com/track/4rXt1tYHZIavECuN32fk96"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Solid Air",
+        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
+      },
+      "artists": [
+        {
+          "name": "John Martyn",
+          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "May You Never",
+      "url": "https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1511,8 +1511,8 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Tea For The Tillerman (Remastered)",
-        "url": "https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ"
+        "name": "Teaser And The Firecat",
+        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
       },
       "artists": [
         {
@@ -1520,9 +1520,9 @@
           "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57"
+      "duration_ms": 200000,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1591,8 +1591,8 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Teaser And The Firecat",
-        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
+        "name": "Tea For The Tillerman (Remastered)",
+        "url": "https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ"
       },
       "artists": [
         {
@@ -1600,9 +1600,9 @@
           "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Morning Has Broken",
-      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
+      "duration_ms": 200173,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57"
     },
     {
       "added_at": "2026-01-26 17:08:09",

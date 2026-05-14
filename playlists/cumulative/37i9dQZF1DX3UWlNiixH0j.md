@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: aldo van eyck
 
-3,395 songs - 8 day 22 hr 20 min
+3,395 songs - 8 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Elevator Lover](https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender \(Deluxe Edition\)](https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx) | 2:38 | 2025-02-25 | 2025-07-09 |
 | [ELLE](https://open.spotify.com/track/59fIXwNIe2RxpQCK5XtOm1) | [LOLOET](https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq) | [ELLE](https://open.spotify.com/album/3pnjyM0TeLxuB0ylsISooh) | 4:15 | 2025-04-01 | 2025-04-09 |
 | [Embrace me](https://open.spotify.com/track/0sZt8n8U5NxSqWdfNdfEJf) | [NOT WONK](https://open.spotify.com/artist/12f2uQ7TswXKZRFvJuELAb) | [Embrace me](https://open.spotify.com/album/3M0EnMBj8j5wj9JLaJX9u3) | 2:59 | 2024-12-24 | 2025-01-24 |
+| [EMO EMO](https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [EMO EMO](https://open.spotify.com/album/1sxsJF9uD9ubGGpCqEuGRn) | 2:37 | 2026-05-12 |  |
 | [empty](https://open.spotify.com/track/5bnVByxBHuYynr7qO5V1cD) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [empty](https://open.spotify.com/album/6u4uP0VXVOBAC3Gr4l4NOX) | 3:41 | 2023-11-21 | 2023-12-20 |
 | [Empty](https://open.spotify.com/track/6T7qt08zaN5pNrQZC2f9FK) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:34 | 2024-08-06 | 2024-09-11 |
 | [empty](https://open.spotify.com/track/1dpFgVRJfhYUYG2mQsoTId) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [empty](https://open.spotify.com/album/6IBbBBBhD9q9fxOsocLsvp) | 3:09 | 2024-09-17 | 2024-09-25 |
@@ -2001,7 +2002,6 @@
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-02-04 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
 | [TOY](https://open.spotify.com/track/2NcL3BcH9PwVJsYD1s5n9c) | [カブトムシ](https://open.spotify.com/artist/3ceBUhYjqv2J3TbIBXdZSa) | [Panorama Pig](https://open.spotify.com/album/47QCclBzhV8FRhcsEfFRZ4) | 4:18 | 2026-03-24 | 2026-04-01 |
-| [Track 1](https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [EMO EMO](https://open.spotify.com/album/1sxsJF9uD9ubGGpCqEuGRn) | 0:00 | 2026-05-12 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |

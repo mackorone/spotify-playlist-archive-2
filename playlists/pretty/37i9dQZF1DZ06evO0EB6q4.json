@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 264906,
+  "num_followers": 264942,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAADjYvqj+/ezfB0sqlZK2h8n",
+  "snapshot_id": "agJtgAAAAADo66nIbQms7ziqGKedeW7A",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 135998,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dib\u00fajame",
         "url": "https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 236932,
       "name": "Dib\u00fajame",
       "url": "https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 135998,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 155198,
+      "name": "Parece un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 141269,
       "name": "S\u00f3lo Lo Haces T\u00fa",
       "url": "https://open.spotify.com/track/1kkzu6mq0HV9UjPB8Xo2lT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 155198,
-      "name": "Parece un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para terminar en nada",
-        "url": "https://open.spotify.com/album/6Sqnexw9tuOgEk8z0zT7UZ"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 165841,
-      "name": "Para terminar en nada",
-      "url": "https://open.spotify.com/track/3ZHF4Cvt5khSCrjOPOO7IM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mustang 65'",
         "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 206200,
       "name": "Prohibida",
       "url": "https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para terminar en nada",
+        "url": "https://open.spotify.com/album/6Sqnexw9tuOgEk8z0zT7UZ"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 165841,
+      "name": "Para terminar en nada",
+      "url": "https://open.spotify.com/track/3ZHF4Cvt5khSCrjOPOO7IM"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es M\u00eda",
-        "url": "https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188992,
-      "name": "No Es M\u00eda",
-      "url": "https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Tin y Que Tan",
         "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 149895,
       "name": "Si Usted Quiere",
       "url": "https://open.spotify.com/track/2DkcpqPaeY8cHZkdW6bX9O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Es M\u00eda",
+        "url": "https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188992,
+      "name": "No Es M\u00eda",
+      "url": "https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 145471,
+      "name": "Buen Viaje",
+      "url": "https://open.spotify.com/track/41GJeh48o98ThqCvxUgkoX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobre el Aire",
         "url": "https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 232721,
       "name": "Verte Cerquita",
       "url": "https://open.spotify.com/track/2Nuvc1lSGW3wRDhngRJ3S6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 145471,
-      "name": "Buen Viaje",
-      "url": "https://open.spotify.com/track/41GJeh48o98ThqCvxUgkoX"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aprend\u00ed",
-        "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183033,
-      "name": "Aprend\u00ed",
-      "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Tin y Que Tan",
         "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 144290,
       "name": "Te va a Doler",
       "url": "https://open.spotify.com/track/6m35uri0H0L9ZccW6PRchX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aprend\u00ed",
+        "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183033,
+      "name": "Aprend\u00ed",
+      "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
     },
     {
       "added_at": null,
@@ -927,30 +927,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
       "artists": [
         {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        },
-        {
-          "name": "GARABATTO",
-          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
-        },
-        {
-          "name": "PMP",
-          "url": "https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK"
         }
       ],
-      "duration_ms": 199757,
-      "name": "Peor Que La Polic\u00eda (feat. PMP)",
-      "url": "https://open.spotify.com/track/75ujpDovO206MUKRNHSRP6"
+      "duration_ms": 279014,
+      "name": "Hace Tanto Tiempo",
+      "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
     },
     {
       "added_at": null,
@@ -975,26 +971,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
       },
       "artists": [
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "GARABATTO",
+          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
+        },
+        {
+          "name": "PMP",
+          "url": "https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK"
         }
       ],
-      "duration_ms": 279014,
-      "name": "Hace Tanto Tiempo",
-      "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
+      "duration_ms": 199757,
+      "name": "Peor Que La Polic\u00eda (feat. PMP)",
+      "url": "https://open.spotify.com/track/75ujpDovO206MUKRNHSRP6"
     }
   ],
   "unique_name": "This Is Nanpa B\u00e1sico",

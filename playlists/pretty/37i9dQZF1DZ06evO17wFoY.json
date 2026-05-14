@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 29769,
+  "num_followers": 29772,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAABcsLcqR64rmiBGyWoVV+k8",
+  "snapshot_id": "agJtgAAAAAD+eHGDxZMjhYg88a9g9zs5",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 139306,
+      "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
+      "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Disney Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5ADhBk8zOQYwKhiPbGKSH1"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 254667,
       "name": "Reflection - From \"Mulan\" (Feat. Guo Gan)",
       "url": "https://open.spotify.com/track/6zKNTyScKmZLxsIhh8HcdW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 139306,
-      "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
-      "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
     },
     {
       "added_at": null,
@@ -195,22 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+        "name": "Voyager - Essential Max Richter",
+        "url": "https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 140040,
-      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
-      "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
+      "duration_ms": 151506,
+      "name": "The Departure",
+      "url": "https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l"
     },
     {
       "added_at": null,
@@ -235,22 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voyager - Essential Max Richter",
-        "url": "https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd"
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
       "artists": [
         {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 151506,
-      "name": "The Departure",
-      "url": "https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l"
+      "duration_ms": 140040,
+      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
+      "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
     },
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 335360,
-      "name": "Limu, limu, lima (Arr. Schindler for Piano)",
-      "url": "https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bach: Goldberg Variations (Extended Edt.)",
         "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 321066,
       "name": "Goldberg Variations, BWV 988: Aria",
       "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 335360,
+      "name": "Limu, limu, lima (Arr. Schindler for Piano)",
+      "url": "https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN"
     },
     {
       "added_at": null,
@@ -431,22 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
-        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
+        "name": "Saint-Sa\u00ebns: Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
+        "url": "https://open.spotify.com/album/0PuIYmzYUjpCtdavDdXdoY"
       },
       "artists": [
         {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 89280,
-      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
-      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
+      "duration_ms": 194666,
+      "name": "Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
+      "url": "https://open.spotify.com/track/0iM0od4FRl4FhDSSEIWjms"
     },
     {
       "added_at": null,
@@ -475,46 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns: Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
-        "url": "https://open.spotify.com/album/0PuIYmzYUjpCtdavDdXdoY"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
-      "url": "https://open.spotify.com/track/0iM0od4FRl4FhDSSEIWjms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Romance \"O pourquoi donc\" in E Minor, S. 169",
-      "url": "https://open.spotify.com/track/4wKGetA5crT9tZhjqTLTka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kung Fu Panda 3 (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a"
       },
@@ -539,6 +499,46 @@
       "duration_ms": 108706,
       "name": "Portrait of Mom",
       "url": "https://open.spotify.com/track/0D3J2SJrmHmRMeuaHieHq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Romance \"O pourquoi donc\" in E Minor, S. 169",
+      "url": "https://open.spotify.com/track/4wKGetA5crT9tZhjqTLTka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
+        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
+      },
+      "artists": [
+        {
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 89280,
+      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
+      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Delibes: Lakm\u00e9: Flower Duet (Arr. Naoumoff for Piano)",
+        "url": "https://open.spotify.com/album/64w9xv7aEMPYbcI59PHm8V"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Lakm\u00e9: Flower Duet (Arr. Naoumoff for Piano)",
+      "url": "https://open.spotify.com/track/4u0eCzsxpHtu7ESBe24cL9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kung Fu Panda 3 (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 120720,
       "name": "Oogway's Legacy",
       "url": "https://open.spotify.com/track/669yRYY5pluCp5dYOcDMDD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delibes: Lakm\u00e9: Flower Duet (Arr. Naoumoff for Piano)",
-        "url": "https://open.spotify.com/album/64w9xv7aEMPYbcI59PHm8V"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Delibes",
-          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 133960,
-      "name": "Lakm\u00e9: Flower Duet (Arr. Naoumoff for Piano)",
-      "url": "https://open.spotify.com/track/4u0eCzsxpHtu7ESBe24cL9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270 likes - 171 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 276 likes - 171 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 33 | [Little Bit](https://open.spotify.com/track/1CCtxXoJGt2EnTuVufRTxT) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Little Bit](https://open.spotify.com/album/4CKqbCxNCPt0hnGdvqDeex) | 2:43 |
 | 34 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 |
 | 35 | [The Hard Way](https://open.spotify.com/track/6jTKmVRVOLrlKrrziwkOal) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:42 |
-| 36 | [I Don’t \(with DVBBS\)](https://open.spotify.com/track/1J9ekSUHGCaWKBdmeEWPJZ) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [I Don’t \(with DVBBS\)](https://open.spotify.com/album/1HFjksWr1gBV4FyYwzrbM8) | 2:54 |
-| 37 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
+| 36 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
+| 37 | [I Don’t \(with DVBBS\)](https://open.spotify.com/track/1J9ekSUHGCaWKBdmeEWPJZ) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [I Don’t \(with DVBBS\)](https://open.spotify.com/album/1HFjksWr1gBV4FyYwzrbM8) | 2:54 |
 | 38 | [Dressed Up In White](https://open.spotify.com/track/4jTOmNZQc8qk3FG5GIjpgv) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 3:23 |
 | 39 | [Getaway Car](https://open.spotify.com/track/6xRG0mGtTLvJDFnytx1eoj) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:04 |
 | 40 | [Tattoos](https://open.spotify.com/track/4p1i3nnCvKtkMWWx7EuKQ7) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Tattoos](https://open.spotify.com/album/7bkPBBnOZeGCYZRLYMSUZF) | 2:45 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 45 | [Swoon](https://open.spotify.com/track/1IIu1UD1LacE6RwgqyG0sv) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/7612v2NCnEexfvOHwK0Ttr) | 3:19 |
 | 46 | [Worse Things Than Love](https://open.spotify.com/track/1Dqi65YqYbsSLAICxwqmvZ) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 3:19 |
 | 47 | [Are We There Yet](https://open.spotify.com/track/33uTIEzuFj4Kw4Az7LSbcJ) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Are We There Yet](https://open.spotify.com/album/7rqdHGGyOh6POmXlbCAhwn) | 3:30 |
-| 48 | [Who I Am](https://open.spotify.com/track/4z3EmveE8ibhBVKBlZvmjp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:22 |
-| 49 | [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 |
+| 48 | [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 |
+| 49 | [Who I Am](https://open.spotify.com/track/4z3EmveE8ibhBVKBlZvmjp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:22 |
 | 50 | [Semi\-Charmed](https://open.spotify.com/track/4vXp4PHotIOQBRWd3lggvT) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Semi\-Charmed](https://open.spotify.com/album/7C1571QooJI5hDOwWm7pRC) | 2:59 |
 | 51 | [One Hit Wonder](https://open.spotify.com/track/0XvJRHcaMO2rArL9MALyth) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Too Much](https://open.spotify.com/album/3BmIiIVp13T2mlqH39gos5) | 3:24 |
 | 52 | [In the Water](https://open.spotify.com/track/00ohHxK2jKrwOXl30hN3FV) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:20 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 104 | [Sideways](https://open.spotify.com/track/6k7cZRYaWybpcu4K7SDTP6) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 2:44 |
 | 105 | [Prosecco](https://open.spotify.com/track/21RpxKRagsCUsiqJe2zg9Z) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:25 |
 | 106 | [Crystal Ball](https://open.spotify.com/track/2if88MyNq14tVvQg49WwqP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 3:00 |
-| 107 | [Are You Down](https://open.spotify.com/track/3q4KWbIzey7qQwaEsjlZl6) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Are You Down](https://open.spotify.com/album/7avyGDYu07FYDN8dslIxeS) | 3:05 |
-| 108 | [Sounds Like Heaven](https://open.spotify.com/track/6oPW5eZePLKr2mzPNfHR7L) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:53 |
+| 107 | [Sounds Like Heaven](https://open.spotify.com/track/6oPW5eZePLKr2mzPNfHR7L) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:53 |
+| 108 | [Are You Down](https://open.spotify.com/track/3q4KWbIzey7qQwaEsjlZl6) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Are You Down](https://open.spotify.com/album/7avyGDYu07FYDN8dslIxeS) | 3:05 |
 | 109 | [Until the Sunrise](https://open.spotify.com/track/79sLEAkkvv4Ogc67PkhBWR) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 7:02 |
 | 110 | [Crazy](https://open.spotify.com/track/6YBMZXn64raboF2O3LcUh4) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:07 |
 | 111 | [To Dream](https://open.spotify.com/track/0vaXxVRPhjCo6MUnGsmHD2) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 2:13 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 122 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
 | 123 | [Last Night](https://open.spotify.com/track/3WfreEZXsEDUcI01Eaj9w9) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:53 |
 | 124 | [Over Love](https://open.spotify.com/track/5Uv9ENfh8jIh4lU2gkVCsr) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Jordi](https://open.spotify.com/album/0A3Wbzsq8IHa6K5BTfcoMr) | 2:35 |
-| 125 | [Shades of Grey](https://open.spotify.com/track/05cuqqHBcoP8L5tsRED2tR) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 5:10 |
-| 126 | [WIFI](https://open.spotify.com/track/6gYTsbzxbuqHAFopB5tCrQ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Digital Notes](https://open.spotify.com/album/6VnvZ5urI6jcvIJongGShJ) | 2:26 |
+| 125 | [WIFI](https://open.spotify.com/track/6gYTsbzxbuqHAFopB5tCrQ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Digital Notes](https://open.spotify.com/album/6VnvZ5urI6jcvIJongGShJ) | 2:26 |
+| 126 | [Shades of Grey](https://open.spotify.com/track/05cuqqHBcoP8L5tsRED2tR) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 5:10 |
 | 127 | [One Night](https://open.spotify.com/track/7fSJHZiYCc6Yzrk8NuiDIh) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [One Night EP](https://open.spotify.com/album/04xXTzwHFjgXj7KH26U1aQ) | 4:01 |
 | 128 | [Wallpaper](https://open.spotify.com/track/37WMcMd9RlzLsXlnY0SCeV) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [NONE of this has been about you](https://open.spotify.com/album/6IPFdWeE5ENZflPgu3fs6z) | 2:48 |
 | 129 | [All Night](https://open.spotify.com/track/4guqbN92jlDzNhKXTBleke) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [All Night](https://open.spotify.com/album/1NKKKfnanUQ1R9DVTancSr) | 3:32 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 170 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 171 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcRVEgAAAADtXMvtM6Evujk3fPSTl7hS`
+Snapshot ID: `AcRa0AAAAAB0PUdl0vn9HbU5Chdlve5I`

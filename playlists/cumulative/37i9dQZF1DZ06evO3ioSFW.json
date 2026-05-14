@@ -570,10 +570,32 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 150000,
       "name": "La Mala Era Yo",
       "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
+    },
+    {
+      "album": {
+        "name": "PUERTA ABIERTA",
+        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "La Mala Era Yo",
+      "url": "https://open.spotify.com/track/4SiU7ZbzTcu2GAfDmgwUVv"
     },
     {
       "album": {

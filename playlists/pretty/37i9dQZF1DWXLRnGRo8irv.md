@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: BABYMONSTER\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,179 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,183 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Psycho](https://open.spotify.com/track/09Kgz5rQuikCMwaB3eqevM) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Psycho \(From "Operation: True Love"\)](https://open.spotify.com/album/2nanNUoMsYRnX9U6jvdUkw) | 2:11 |
 | 50 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 |
 
-Snapshot ID: `AAAAAGPZOybZl7/z20yXUYmOPk4K8IX7`
+Snapshot ID: `AAAAAO3O8jkqbm/H2T+Xycea4OoymnlO`

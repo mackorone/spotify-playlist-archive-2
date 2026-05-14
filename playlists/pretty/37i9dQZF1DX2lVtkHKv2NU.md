@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,278 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,324 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 86 | [Quisiera Enamorarme](https://open.spotify.com/track/3ZhfWEFlqebiUEcc3YbR7D) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV), [Julia Amoroso](https://open.spotify.com/artist/6chzluS9BC5JE8m6DWSUzF) | [Quisiera Enamorarme](https://open.spotify.com/album/40t2ZbDA27Jqt3EhHMNwYk) | 3:06 |
 | 87 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |
 | 88 | [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 |
-| 89 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
-| 90 | [Musas en Mi](https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s) | 5:34 |
+| 89 | [Musas en Mi](https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s) | 5:34 |
+| 90 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
 | 91 | [BI](https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [BI](https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3) | 2:29 |
 | 92 | [Estacionamiento](https://open.spotify.com/track/7HiVmmqCgFVgJogrGZDcRt) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Estacionamiento](https://open.spotify.com/album/5OjFwBODo47bsRDFY2d96S) | 3:55 |
 | 93 | [BELLA](https://open.spotify.com/track/5aWBfICPZSTUSAHdyxRy9R) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [BELLA](https://open.spotify.com/album/6fexRvGSeG2sHlla8LIanp) | 2:52 |

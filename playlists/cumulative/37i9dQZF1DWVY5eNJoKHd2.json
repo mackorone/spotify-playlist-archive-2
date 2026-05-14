@@ -2467,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "EYES",
+        "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212080,
+      "name": "EYES",
+      "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
+    },
+    {
+      "album": {
         "name": "eyes don't lie",
         "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
       },
@@ -4814,7 +4832,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 141081,
       "name": "love you more than me",
       "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"

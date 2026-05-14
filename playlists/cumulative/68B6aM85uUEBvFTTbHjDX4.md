@@ -4,7 +4,7 @@
 
 > 
 
-168 songs - 13 hr 41 min
+169 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Broken Pieces \(feat\. Nihils\) \- Culture Shock Remix](https://open.spotify.com/track/0fgAk9XxXI7ayA9IXDGzFg) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx), [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [MOSAIK REMIXED](https://open.spotify.com/album/5eKnogujRkuxGtHhXUEqWe) | 4:13 | 2019-11-03 |  |
 | [Broken Whisper](https://open.spotify.com/track/56ocGLqeGQshHCoKZJ6X2o) | [Mehen](https://open.spotify.com/artist/2lul0GfhMBNfd61GNqGFBs) | [Exhale VA001](https://open.spotify.com/album/0po0rc9aEPhTZG6yTgmHgn) | 6:11 | 2021-04-18 |  |
 | [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 | 2023-08-23 |  |
+| [Chant Rush \- Dave Sinner Remix](https://open.spotify.com/track/2fvSehcoOX5pTSfeWpC5Gx) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT), [Dave Sinner](https://open.spotify.com/artist/6ZR2XILLJ6y4cP6ttuBaRC) | [Chant Rush](https://open.spotify.com/album/4JIwIyc5U91KsfsQ6EozmZ) | 7:07 | 2026-05-13 |  |
 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 | 2023-05-30 |  |
 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-09 |  |
 | [Chromosome \- Bolster Remix](https://open.spotify.com/track/1HNF81brlpH5og7NwUvGqK) | [Danny Fontana](https://open.spotify.com/artist/1kHUaFTAX3cs3kH4cXvqpm), [Bolster](https://open.spotify.com/artist/534DhQnkivsYnHW478ZhLb) | [Chromosome / Black 76](https://open.spotify.com/album/4XnzSUrIfV7DD05y7j9kY2) | 8:46 | 2022-04-12 |  |

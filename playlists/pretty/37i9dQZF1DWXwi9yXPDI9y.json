@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and relax to the Jazz played in the background at the bar.",
-  "num_followers": 195806,
+  "num_followers": 195874,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 126293,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 258106,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 126293,
-      "name": "Till There Was You",
-      "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "The Jazz Giants '56",
+        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 569880,
+      "name": "I Guess I'll Have To Change My Plan",
+      "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Jazz 'N' Samba",
         "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 204866,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "The Jazz Giants '56",
-        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 569880,
-      "name": "I Guess I'll Have To Change My Plan",
-      "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "Reunion With Chet Baker",
+        "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Trav'lin Light",
+      "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
         "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 258093,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "Reunion With Chet Baker",
-        "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Trav'lin Light",
-      "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
     },
     {
       "added_at": "2026-04-01 09:07:54",

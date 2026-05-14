@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,112 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,136 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Toda Hora](https://open.spotify.com/track/3mVbonUbVYB3ODMsNZRL5o) | [Apollo](https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1), [GRX](https://open.spotify.com/artist/5xrEmIAscZ0U22Hze6D82l) | [Amor & Ego](https://open.spotify.com/album/5eixCZVRZN0g8YQapSpr2N) | 3:16 |
 | 75 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
 
-Snapshot ID: `AAAAAMdAz7q34Y6FKDumOS4/VphRoz8r`
+Snapshot ID: `AAAAAPpitgzKS0Zmr8kw5NW98y3gURz9`

@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 23800,
+  "num_followers": 23807,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Stand Alone",
-        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
-      },
-      "artists": [
-        {
-          "name": "Ha Dong Qn",
-          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
-        }
-      ],
-      "duration_ms": 259213,
-      "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
-      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Like The Bible",
         "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 299426,
       "name": "\uccb4\ub150",
       "url": "https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Stand Alone",
+        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "duration_ms": 259213,
+      "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
+      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Exhibition",
-        "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
+        "name": "DJ Chully's Handsome Vol.1",
+        "url": "https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH"
       },
       "artists": [
         {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ"
+          "name": "So Chan-Whee",
+          "url": "https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI"
         }
       ],
-      "duration_ms": 313106,
-      "name": "Etude of Memory",
-      "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
+      "duration_ms": 205626,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "DJ Chully's Handsome Vol.1",
-        "url": "https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH"
+        "name": "Exhibition",
+        "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
       },
       "artists": [
         {
-          "name": "So Chan-Whee",
-          "url": "https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI"
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ"
         }
       ],
-      "duration_ms": 205626,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V"
+      "duration_ms": 313106,
+      "name": "Etude of Memory",
+      "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
     },
     {
       "added_at": "2024-08-05 16:59:31",

@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Clayton & Romário, Zé Neto & Cristiano
 
-388 songs - 18 hr 11 min
+389 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Poder de Mentir \- Ao Vivo](https://open.spotify.com/track/5qMyN3dzXKb5P1MiKyqupZ) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8), [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju) | [Poder de Mentir \(Ao Vivo\)](https://open.spotify.com/album/3MAVXfXLm0xCp3crn02FnY) | 2:47 | 2024-07-12 | 2025-06-21 |
 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/4U8jlVWLJ4DZ2MpvV81hIb) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo \(Ao Vivo\)](https://open.spotify.com/album/5cvRAkiIj3vlPZRXvRvHxk) | 2:42 | 2024-02-09 | 2024-04-19 |
 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/5ZkwwBa9DlwuUFbXwrLeXF) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7B0EpsE17BgPH8zVUjjpNx) | 2:42 | 2023-11-10 | 2024-09-20 |
+| [Ponto G](https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Ponto G](https://open.spotify.com/album/7g5uhYNHJ07ZHuXTX3bu3R) | 2:43 | 2026-05-13 |  |
 | [Pra Sempre](https://open.spotify.com/track/6i1gSXWqwps6kqtDWefV7e) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão 3 \- Vol\. 2](https://open.spotify.com/album/0TnCwnWqlHtB1jbE3QLqRy) | 3:26 | 2025-02-26 | 2025-05-03 |
 | [Pra Você Lembrar De Mim \- Ao Vivo](https://open.spotify.com/track/79nMK3bCPAzKd70WiHCv5S) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Raiz BH \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5hQtrOJAUKLV1VmdoVv455) | 2:49 | 2026-02-06 |  |
 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 | 2021-12-31 | 2022-09-24 |
@@ -326,7 +327,7 @@
 | [Se Ele Soubesse \- Ao Vivo Em Goiânia](https://open.spotify.com/track/2zDwJnP9n9yCUyfiLIwkDM) | [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Se Ele Soubesse \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/3IzxCfPuWv3r8fQ1IpDY5a) | 2:50 | 2023-02-15 | 2023-07-22 |
 | [Se Eu Beber Uma Lata \- Ao Vivo](https://open.spotify.com/track/4OOoK6nkSn6OSVWBdrEKB0) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Se Eu Beber Uma Lata \(Ao Vivo\)](https://open.spotify.com/album/1jUSw7tkrI7ntaeqEHdjIx) | 2:24 | 2024-05-03 | 2024-05-04 |
 | [Se Eu Te Perdoar \- Ao Vivo](https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Se Eu Te Perdoar \(Ao Vivo\)](https://open.spotify.com/album/6sC92xi1q2e4PwFQWtF5p5) | 2:44 | 2025-09-29 |  |
-| [Seco \- Ao Vivo](https://open.spotify.com/track/0Z8Qbs7lqEo7ULDLy69y6Z) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Ao Vivo Em Uberlândia](https://open.spotify.com/album/6QRuaVhphYKYRiydSRzQhX) | 2:58 | 2025-12-19 |  |
+| [Seco \- Ao Vivo](https://open.spotify.com/track/0Z8Qbs7lqEo7ULDLy69y6Z) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Ao Vivo Em Uberlândia](https://open.spotify.com/album/6QRuaVhphYKYRiydSRzQhX) | 2:58 | 2025-12-19 | 2026-05-14 |
 | [Sei Tocar Violão \- Ao Vivo](https://open.spotify.com/track/2KdyhL41F9solmRiyLQ3yl) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP3\)](https://open.spotify.com/album/6pSEJeeQ50tN0zfSx8sXrg) | 2:44 | 2024-10-04 | 2025-03-15 |
 | [Seja Ex \- Ao Vivo](https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 3:12 | 2025-07-04 | 2026-03-13 |
 | [Seu Brilho Sumiu \- Ao Vivo](https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Let's Bora, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1jd2UnD7KAYtlTxmfmn59t) | 2:48 | 2023-03-09 | 2023-12-11 |

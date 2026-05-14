@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 326220,
+  "num_followers": 326253,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAC9lidVztiCBH/hUJ8gN669",
+  "snapshot_id": "agJtgAAAAACSZl/X5asP98rFu5ogd9f9",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "FIELD TRIP",
+        "url": "https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 163155,
+      "name": "FIELD TRIP",
+      "url": "https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
@@ -447,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 124093,
-      "name": "Vamp Anthem",
-      "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die Lit",
         "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
       },
@@ -475,6 +487,22 @@
       "duration_ms": 142893,
       "name": "Foreign",
       "url": "https://open.spotify.com/track/500l6Cwe40hkPqS7Sf7ufY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 124093,
+      "name": "Vamp Anthem",
+      "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
     },
     {
       "added_at": null,

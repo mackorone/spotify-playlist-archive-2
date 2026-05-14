@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 
 > Les hits préférés des enfants \(et de leurs parents\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,773 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,819 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 | 31 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 32 | [La même](https://open.spotify.com/track/3sjqktglX8F6EWvjUmHe0y) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Ceinture noire](https://open.spotify.com/album/019J7AS3BBfPXy8rV3ZTJO) | 3:19 |
 | 33 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
-| 34 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 |
+| 34 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 |
 | 35 | [Turn The Lights Off \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 |
 | 36 | [Pom Pom Pom](https://open.spotify.com/track/6SPyKWcqwlXpUXGZUI8Atl) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ), [Sergio Alejandro](https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX), [Jango Jack](https://open.spotify.com/artist/1R1ZaDpOyunIdJ6oAssW8H) | [Pom Pom Pom](https://open.spotify.com/album/0xHa6kFqBfU2gVEDspJO4w) | 2:38 |
 | 37 | [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 |

@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 265106,
+  "num_followers": 265161,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-04-24 03:00:57",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 64017,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
-    },
-    {
-      "added_at": "2026-04-24 03:00:57",
-      "album": {
         "name": "Festival (En Vivo)",
         "url": "https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 628309,
       "name": "Me Enamore / A tus pies / Te falta sufrir - En Vivo",
       "url": "https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd"
+    },
+    {
+      "added_at": "2026-04-24 03:00:57",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 64017,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
     },
     {
       "added_at": "2026-04-24 03:00:57",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-24 03:00:57",
       "album": {
-        "name": "En Vivo 2019",
-        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 147113,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
-    },
-    {
-      "added_at": "2026-04-24 03:00:57",
-      "album": {
         "name": "Luna Park (En Vivo)",
         "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 198267,
       "name": "Pa' la Selecci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS"
+    },
+    {
+      "added_at": "2026-04-24 03:00:57",
+      "album": {
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 147113,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
     },
     {
       "added_at": "2026-04-24 03:00:57",
@@ -811,6 +811,30 @@
     {
       "added_at": "2026-04-24 03:00:57",
       "album": {
+        "name": "Rambla De Montevideo",
+        "url": "https://open.spotify.com/album/2FLqOZNLJdS9zT5L2iB41l"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        },
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "El Club de la Cumbia",
+          "url": "https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU"
+        }
+      ],
+      "duration_ms": 177845,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/2BV9cUhl5HVBpn6nUudnlT"
+    },
+    {
+      "added_at": "2026-04-24 03:00:57",
+      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 196200,
       "name": "Tu Falta de Querer - En Vivo",
       "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
-    },
-    {
-      "added_at": "2026-04-24 03:00:57",
-      "album": {
-        "name": "Rambla De Montevideo",
-        "url": "https://open.spotify.com/album/2FLqOZNLJdS9zT5L2iB41l"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Club",
-          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
-        },
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "El Club de la Cumbia",
-          "url": "https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU"
-        }
-      ],
-      "duration_ms": 177845,
-      "name": "Latidos",
-      "url": "https://open.spotify.com/track/2BV9cUhl5HVBpn6nUudnlT"
     },
     {
       "added_at": "2026-04-24 03:00:57",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-04-24 03:00:57",
       "album": {
-        "name": "Ya Te Olvide (En Vivo)",
-        "url": "https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes del Penal",
-          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
-        }
-      ],
-      "duration_ms": 260096,
-      "name": "Ya Te Olvide - En Vivo",
-      "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"
-    },
-    {
-      "added_at": "2026-04-24 03:00:57",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 312032,
       "name": "Hoy Te Vi / El Paredon - En Vivo",
       "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+    },
+    {
+      "added_at": "2026-04-24 03:00:57",
+      "album": {
+        "name": "Ya Te Olvide (En Vivo)",
+        "url": "https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes del Penal",
+          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
+        }
+      ],
+      "duration_ms": 260096,
+      "name": "Ya Te Olvide - En Vivo",
+      "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"
     },
     {
       "added_at": "2026-04-24 03:00:57",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-04-24 03:00:57",
       "album": {
-        "name": "Era Tranquila (En Vivo)",
-        "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 237098,
-      "name": "Era Tranquila - En Vivo",
-      "url": "https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd"
-    },
-    {
-      "added_at": "2026-04-24 03:00:57",
-      "album": {
         "name": "El Viejo De Arriba",
         "url": "https://open.spotify.com/album/0MCl48IHftGB5dAq8puKhL"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 231898,
       "name": "El Viejo De Arriba",
       "url": "https://open.spotify.com/track/1D7yEw7RHGGhGnKQOTUaLh"
+    },
+    {
+      "added_at": "2026-04-24 03:00:57",
+      "album": {
+        "name": "Era Tranquila (En Vivo)",
+        "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 237098,
+      "name": "Era Tranquila - En Vivo",
+      "url": "https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd"
     },
     {
       "added_at": "2026-04-24 03:00:57",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-04-24 03:00:57",
       "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 194931,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
-    },
-    {
-      "added_at": "2026-04-24 03:00:57",
-      "album": {
         "name": "En Vivo en el Teatro",
         "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 462272,
       "name": "Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor",
       "url": "https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc"
+    },
+    {
+      "added_at": "2026-04-24 03:00:57",
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 194931,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
     },
     {
       "added_at": "2026-04-24 03:00:57",

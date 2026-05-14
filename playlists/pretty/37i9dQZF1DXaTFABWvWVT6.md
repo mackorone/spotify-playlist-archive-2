@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,936 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,951 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 22 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 |
 | 23 | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ) | 3:18 |
 | 24 | [Out of My Mind](https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Out of My Mind EP](https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU) | 3:24 |
-| 25 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 |
-| 26 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:51 |
+| 25 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:51 |
+| 26 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 |
 | 27 | [neck](https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [neck](https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7) | 3:40 |
 | 28 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 |
 | 29 | [Verano En NY](https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Verano En NY](https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu) | 4:05 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 61 | [Atmosphere](https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV) | 3:02 |
 | 62 | [Prayer \- Edit](https://open.spotify.com/track/4Gd5Cxw7V4JCM9Uj6VpiwL) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Prayer \(Edit\)](https://open.spotify.com/album/4fW8eARlhtdJkC2b3IeolF) | 3:46 |
 | 63 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
-| 64 | [Everything](https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Everything](https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017) | 4:45 |
-| 65 | [Forever \(if u need it\)](https://open.spotify.com/track/0Khk6IL9qFhuRwjJh21oMY) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Forever \(if u need it\)](https://open.spotify.com/album/2ljpCWjcaTnL7JH6jwIEHS) | 3:25 |
-| 66 | [Are U Still Smiling?](https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR) | [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G) | [That's a Vibe](https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz) | 4:32 |
+| 64 | [Forever \(if u need it\)](https://open.spotify.com/track/0Khk6IL9qFhuRwjJh21oMY) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Forever \(if u need it\)](https://open.spotify.com/album/2ljpCWjcaTnL7JH6jwIEHS) | 3:25 |
+| 65 | [Everything](https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Everything](https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017) | 4:45 |
+| 66 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 | 67 | [Ecstasy \(Over & Over\)](https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Ecstasy \(Over & Over\)](https://open.spotify.com/album/4IMEWyvS2r1mpnTYD8j4Sb) | 3:36 |
-| 68 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
+| 68 | [Are U Still Smiling?](https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR) | [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G) | [That's a Vibe](https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz) | 4:32 |
 | 69 | [Up N Down](https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Up N Down](https://open.spotify.com/album/66lG6q9LY1TV9pjbmlcllX) | 2:47 |
 | 70 | [Hold On](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Hold On](https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd) | 2:59 |
 

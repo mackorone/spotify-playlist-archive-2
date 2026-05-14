@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Glen Wee. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: K1O. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -11448,7 +11448,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Jadi Manusia",
       "url": "https://open.spotify.com/track/1WPSTpBANcJrij80C79Bkz"
@@ -16648,6 +16648,24 @@
       "duration_ms": 141121,
       "name": "OVER",
       "url": "https://open.spotify.com/track/4NmZMyrKqf37ST8Retl1TW"
+    },
+    {
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/3kJcBMt6Ks4HDVo72rbanH"
+      },
+      "artists": [
+        {
+          "name": "DLKC",
+          "url": "https://open.spotify.com/artist/0xiN6caKYAR6AQ04DPL2qc"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142608,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/3tk1bjylspbmL1UJqqKp9h"
     },
     {
       "album": {
@@ -23736,7 +23754,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 150458,
       "name": "twenties",
       "url": "https://open.spotify.com/track/4fMF95jhCb0ncIBnjmTmxt"
@@ -26635,6 +26653,24 @@
     },
     {
       "album": {
+        "name": "\u024eour Museum",
+        "url": "https://open.spotify.com/album/34IC98B7TfwPUQxT2OIDfw"
+      },
+      "artists": [
+        {
+          "name": "Jilian Summers",
+          "url": "https://open.spotify.com/artist/0NxMTmmuciwlzWWdFoSmYd"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207355,
+      "name": "\u024eour Museum",
+      "url": "https://open.spotify.com/track/40agAr6fkH5tJ2ZDrGfJaF"
+    },
+    {
+      "album": {
         "name": "\ub0b4 \uc0ac\ub791\uc544 (Oh, My Love)",
         "url": "https://open.spotify.com/album/3QNFlrECM7YmdCwpt1vQx1"
       },
@@ -26816,6 +26852,24 @@
       "duration_ms": 226346,
       "name": "\u4f60\u6c92\u7d66\u540d\u5b57\u7684\u592a\u967d\u82b1",
       "url": "https://open.spotify.com/track/07eaaMkRf7eu5jX6YvoVYh"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u6ca1\u8d70",
+        "url": "https://open.spotify.com/album/4w54dWGCHMOatKj6gsWHlM"
+      },
+      "artists": [
+        {
+          "name": "Haze\u54c8\u6cfd",
+          "url": "https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229354,
+      "name": "\u4f60\u6ca1\u8d70",
+      "url": "https://open.spotify.com/track/3b7U4m0E23pkw5HNALbmbQ"
     },
     {
       "album": {

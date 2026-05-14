@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: YUVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,675 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,676 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 39 | [НАРЦИС](https://open.spotify.com/track/097kanymKfX8xcbVhFniZU) | [RONY](https://open.spotify.com/artist/09JKzKecRDfPSsryFx3tUA) | [НАРЦИС](https://open.spotify.com/album/2nhcUnUEgBjAQdU834A2QO) | 2:20 |
 | 40 | [Вертайсь росою](https://open.spotify.com/track/0a8foDM4EzComGyQ71wMeA) | [Нельсон](https://open.spotify.com/artist/3Moatau7W3LwqlIRyGr5Wg) | [Вертайсь росою](https://open.spotify.com/album/5whztwhD3YlvyGGvAlM0rb) | 3:27 |
 
-Snapshot ID: `AAAAAD8AU+1rVEoLE3o7NZ/09iS2JfIM`
+Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`

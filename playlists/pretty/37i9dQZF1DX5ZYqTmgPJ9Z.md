@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 
 > Grab a drink and let us help you see off the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,316 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,324 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 68 | [Look What You've Done](https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Look What You've Done](https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc) | 5:12 |
 | 69 | [Shade](https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Purple Cloud](https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl), [Jordan Tait](https://open.spotify.com/artist/45r14HjCcLzpQw2kB4Cfee), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Shade](https://open.spotify.com/album/7xkXsOZbSh9qFLRQJwNCkk) | 3:34 |
 | 70 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
-| 71 | [Love Theme For Leisure Trip](https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Love Theme For Leisure Trip](https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT) | 3:29 |
-| 72 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 |
+| 71 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 |
+| 72 | [Love Theme For Leisure Trip](https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Love Theme For Leisure Trip](https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT) | 3:29 |
 | 73 | [My Head Will Be Back Around Noon](https://open.spotify.com/track/3AloBUFJeFyp4qj4GCGboS) | [Amber Burgoyne](https://open.spotify.com/artist/6ywsm0W8iqUXa55S06iJq9) | [My Head Will Be Back Around Noon](https://open.spotify.com/album/3zguAlnxNRKABTqdnO8UzR) | 2:09 |
 | 74 | [Fall](https://open.spotify.com/track/2AHW2ayyGYmoiYpJuHPEyC) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [Fall](https://open.spotify.com/album/190nDHUMVR2vy6pqumS7kp) | 2:52 |
 | 75 | [A Good Life](https://open.spotify.com/track/5wQTS88wYf2vkD9yJtWHK1) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [A Good Life](https://open.spotify.com/album/5OZkDx6fnQLERetuYDl5vS) | 4:00 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 81 | [Perfect](https://open.spotify.com/track/6tjTExTprXoPTYH6I0pziB) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Perfect](https://open.spotify.com/album/5CS5G0nDen8GZ2u2AFQRzN) | 3:04 |
 | 82 | [faded nights](https://open.spotify.com/track/4EQBtJKfrG2HQq0wmtUp7f) | [elmss](https://open.spotify.com/artist/61uT1cKcVF6GSdsbU99LBY) | [Faded Nights](https://open.spotify.com/album/5EDNcIcS5DW3AwlITTrqQ3) | 2:32 |
 | 83 | [meanie](https://open.spotify.com/track/48Feq4hOZdIMhVkIGkzNQI) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl \(stripped\)](https://open.spotify.com/album/2tjb8brG7VnVrR3kW1QxYl) | 4:08 |
-| 84 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 |
-| 85 | [Alice From Dallas](https://open.spotify.com/track/1gZxZLQsyn8GIMBVB3AgNR) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:57 |
+| 84 | [Alice From Dallas](https://open.spotify.com/track/1gZxZLQsyn8GIMBVB3AgNR) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:57 |
+| 85 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 |
 | 86 | [Blume](https://open.spotify.com/track/3y1cSOZebGaS2IbEYLOiZ4) | [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Blume](https://open.spotify.com/album/7JmSCHwa1C3EpuODQlVl8Z) | 2:46 |
 | 87 | [Found You](https://open.spotify.com/track/7ym383h5MQfBNVLG92d5fh) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Found You](https://open.spotify.com/album/6GCdFbDYs475UfiHP4rnKX) | 3:20 |
-| 88 | [Inward](https://open.spotify.com/track/6Xt50HBqLpImH1NkwlxsHr) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Inward](https://open.spotify.com/album/7KImaY2ikHc9JvhvBrO1Yx) | 3:02 |
-| 89 | [Pigeon Park](https://open.spotify.com/track/0knziThQwlD4Q4qL4zmZTx) | [parthenope](https://open.spotify.com/artist/6GjXQmzl9dSNUpYpyFJKY0) | [Go Somewhere Alone](https://open.spotify.com/album/4yZseWXhqhU4n2G9kgnnwQ) | 2:40 |
+| 88 | [Pigeon Park](https://open.spotify.com/track/0knziThQwlD4Q4qL4zmZTx) | [parthenope](https://open.spotify.com/artist/6GjXQmzl9dSNUpYpyFJKY0) | [Go Somewhere Alone](https://open.spotify.com/album/4yZseWXhqhU4n2G9kgnnwQ) | 2:40 |
+| 89 | [Inward](https://open.spotify.com/track/6Xt50HBqLpImH1NkwlxsHr) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Inward](https://open.spotify.com/album/7KImaY2ikHc9JvhvBrO1Yx) | 3:02 |
 | 90 | [Sud Pour Toi](https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 4:46 |
 | 91 | [Deception](https://open.spotify.com/track/5sw2ThXRRmV7GzP2Lq87Ho) | [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [Deception](https://open.spotify.com/album/58LxxzRjLOZ86pSFZw2tz0) | 3:17 |
 | 92 | [YOUR TIME](https://open.spotify.com/track/5CL1TTzZgQOmoQYsqATA69) | [Willow Newman](https://open.spotify.com/artist/4fehG12QmJ1wBVh9fW9Y3O), [Hana](https://open.spotify.com/artist/4xSqqiE4WmenAA3PHgfdlS) | [YOUR TIME](https://open.spotify.com/album/7IjOcqKt8gwd8A2QzJIgIB) | 2:54 |

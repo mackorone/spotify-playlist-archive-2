@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udc5f",
-  "num_followers": 796717,
+  "num_followers": 796837,
   "original_name": "Indie Running",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
-        "name": "Virgin",
-        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 209286,
-      "name": "What Was That",
-      "url": "https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS"
-    },
-    {
-      "added_at": "2025-09-22 17:44:20",
-      "album": {
         "name": "Fitz and The Tantrums",
         "url": "https://open.spotify.com/album/7HBKKw5pJLNj6mdRLb1KG3"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 193253,
       "name": "HandClap",
       "url": "https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz"
+    },
+    {
+      "added_at": "2025-09-22 17:44:20",
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS"
     },
     {
       "added_at": "2025-09-22 17:44:20",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-09-22 17:44:20",
       "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 250447,
-      "name": "Temple",
-      "url": "https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC"
-    },
-    {
-      "added_at": "2025-09-22 17:44:20",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 247506,
       "name": "We Come Running",
       "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
+    },
+    {
+      "added_at": "2025-09-22 17:44:20",
+      "album": {
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 250447,
+      "name": "Temple",
+      "url": "https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC"
     },
     {
       "added_at": "2025-09-22 17:44:20",

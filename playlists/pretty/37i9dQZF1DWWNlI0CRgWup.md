@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Asfar Shamsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,816 likes - 72 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,811 likes - 72 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

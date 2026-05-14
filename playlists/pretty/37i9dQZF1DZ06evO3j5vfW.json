@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72455,
+  "num_followers": 72454,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAAitARRvMqAOawwUFpVa6ky",
+  "snapshot_id": "agJtgAAAAACVVn+35QdncDxNQYKWNmBl",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Word On The Street",
-        "url": "https://open.spotify.com/album/5z28qI3AWcvMNydkR2yl0Z"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Dr. Chaii",
-          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
-        }
-      ],
-      "duration_ms": 162727,
-      "name": "Word On The Street",
-      "url": "https://open.spotify.com/track/0GOnuCVhVzwqo1YXX7X63C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 214946,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Word On The Street",
+        "url": "https://open.spotify.com/album/5z28qI3AWcvMNydkR2yl0Z"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Dr. Chaii",
+          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
+        }
+      ],
+      "duration_ms": 162727,
+      "name": "Word On The Street",
+      "url": "https://open.spotify.com/track/0GOnuCVhVzwqo1YXX7X63C"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Barmuda",
-          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
-        }
-      ],
-      "duration_ms": 267812,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 162924,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "duration_ms": 267812,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
     },
     {
       "added_at": null,
@@ -999,6 +999,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Moment (Novell)",
+        "url": "https://open.spotify.com/album/3k70G2fNSOgsirdlXJB2ub"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 200791,
+      "name": "The Moment (Novell)",
+      "url": "https://open.spotify.com/track/5s2Ck1iBxZ1eP3WMT5Ie8r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 185850,
       "name": "Higher Off The Ground",
       "url": "https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moment (Novell)",
-        "url": "https://open.spotify.com/album/3k70G2fNSOgsirdlXJB2ub"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 200791,
-      "name": "The Moment (Novell)",
-      "url": "https://open.spotify.com/track/5s2Ck1iBxZ1eP3WMT5Ie8r"
     },
     {
       "added_at": null,

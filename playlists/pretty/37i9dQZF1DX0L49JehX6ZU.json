@@ -1,6 +1,6 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 195727,
+  "num_followers": 195728,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,18 @@
     {
       "added_at": "2026-05-01 05:32:51",
       "album": {
-        "name": "Rangi Saari",
-        "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
+        "name": "Tu hai kahan",
+        "url": "https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l"
       },
       "artists": [
         {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        },
-        {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Rangi Saari",
-      "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
+      "duration_ms": 263184,
+      "name": "Tu hai kahan",
+      "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"
     },
     {
       "added_at": "2026-05-01 05:32:51",
@@ -339,34 +335,22 @@
     {
       "added_at": "2026-05-01 05:32:51",
       "album": {
-        "name": "Tu hai kahan",
-        "url": "https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l"
+        "name": "Rangi Saari",
+        "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
       },
       "artists": [
         {
-          "name": "AUR",
-          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
-        }
-      ],
-      "duration_ms": 263184,
-      "name": "Tu hai kahan",
-      "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"
-    },
-    {
-      "added_at": "2026-05-01 05:32:51",
-      "album": {
-        "name": "Lamhey",
-        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
-      },
-      "artists": [
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
         {
-          "name": "Anubha Bajaj",
-          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
         }
       ],
-      "duration_ms": 148966,
-      "name": "Lamhey",
-      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
+      "duration_ms": 214000,
+      "name": "Rangi Saari",
+      "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
     },
     {
       "added_at": "2026-05-01 05:32:51",
@@ -391,6 +375,22 @@
       "duration_ms": 154455,
       "name": "Sadqay",
       "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
+    },
+    {
+      "added_at": "2026-05-01 05:32:51",
+      "album": {
+        "name": "Lamhey",
+        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "duration_ms": 148966,
+      "name": "Lamhey",
+      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
     },
     {
       "added_at": "2026-05-01 05:32:51",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-05-01 05:32:51",
       "album": {
-        "name": "Songs of Love",
-        "url": "https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Madhubala",
-      "url": "https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v"
-    },
-    {
-      "added_at": "2026-05-01 05:32:51",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/4aSylUJ8AnwjQ6BO9dtgGk"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 212571,
       "name": "Khoj (Passing By)",
       "url": "https://open.spotify.com/track/4QK1qv4mgsfdWmMzp1Z3fx"
+    },
+    {
+      "added_at": "2026-05-01 05:32:51",
+      "album": {
+        "name": "Songs of Love",
+        "url": "https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Madhubala",
+      "url": "https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v"
     },
     {
       "added_at": "2026-05-01 05:32:51",
@@ -895,18 +895,22 @@
     {
       "added_at": "2026-05-01 05:32:51",
       "album": {
-        "name": "Le Chal",
-        "url": "https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn"
+        "name": "ghosts, and goodbyes",
+        "url": "https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo"
       },
       "artists": [
         {
-          "name": "Himonshu Parikh",
-          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
         }
       ],
-      "duration_ms": 196602,
-      "name": "Le Chal",
-      "url": "https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M"
+      "duration_ms": 228705,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7yHoWylfxxYpOYkeWT0IqD"
     }
   ],
   "unique_name": "Indie Shower Tunes",

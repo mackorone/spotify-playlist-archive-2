@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Arde Bogotá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,643 likes - 105 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,657 likes - 105 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

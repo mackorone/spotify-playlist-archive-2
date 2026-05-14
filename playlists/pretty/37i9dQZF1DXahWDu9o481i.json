@@ -1,33 +1,13 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Momo Boyd",
-  "num_followers": 92641,
+  "num_followers": 92618,
   "original_name": "Editors' Picks: Best Songs of April",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH9pFVmNIUKsLQWdq+Mg5u8y5K+r",
+  "snapshot_id": "AAAAAIbdnWsE7mI5YwO2qgDPq4SiTXqL",
   "tracks": [
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Miss Michigan",
-        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
-      },
-      "artists": [
-        {
-          "name": "Momo Boyd",
-          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
-        },
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "Cold Hands",
-      "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
-    },
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
@@ -315,18 +295,18 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
+        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
       },
       "artists": [
         {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 135111,
-      "name": "EVERYTHING I'VE EVER WANTED",
-      "url": "https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN"
+      "duration_ms": 140461,
+      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -347,6 +327,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "EVERYTHING I'VE EVER WANTED",
+      "url": "https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "Sunday Again (with 2 Chainz)",
         "url": "https://open.spotify.com/album/1b3dLmOwWOyyqsUtT0NrBv"
       },
@@ -363,22 +359,6 @@
       "duration_ms": 220106,
       "name": "Sunday Again (with 2 Chainz)",
       "url": "https://open.spotify.com/track/0jqIclUdaqiwYEi4FLUBOc"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 140461,
-      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -415,22 +395,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "the van",
-        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 178001,
-      "name": "the van",
-      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "Nine Inch Noize",
         "url": "https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp"
       },
@@ -451,6 +415,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "babygirl",
         "url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL"
       },
@@ -463,26 +443,6 @@
       "duration_ms": 147491,
       "name": "babygirl",
       "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Lost, Found & Forgotten...",
-        "url": "https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        }
-      ],
-      "duration_ms": 247230,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -503,6 +463,26 @@
       "duration_ms": 194716,
       "name": "Say Please (Don't Leave Me Lonely) (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Lost, Found & Forgotten...",
+        "url": "https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "duration_ms": 247230,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -843,6 +823,26 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "Miss Michigan",
+        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "Cold Hands",
+      "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "Sick of Staying",
         "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
       },
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "SHAKEUP",
+        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "duration_ms": 213913,
+      "name": "SHAKEUP",
+      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "Humble'Em_PINK / Doin Too Much",
         "url": "https://open.spotify.com/album/0j9CJn69fdtymqVXfKo4EA"
       },
@@ -1079,38 +1095,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "SHAKEUP",
-        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
-      },
-      "artists": [
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 213913,
-      "name": "SHAKEUP",
-      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "tangerine!",
-        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "tangerine!",
-      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 81944,
       "name": "Romance",
       "url": "https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "tangerine!",
+        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "tangerine!",
+      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
     },
     {
       "added_at": "2026-05-01 04:00:10",

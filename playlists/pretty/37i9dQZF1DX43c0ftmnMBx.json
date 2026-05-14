@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 270139,
+  "num_followers": 270173,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Bachatas Para La Historia",
+        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
+      },
+      "artists": [
+        {
+          "name": "Marino Castellanos",
+          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
+        }
+      ],
+      "duration_ms": 210991,
+      "name": "Eso da Pa To",
+      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Bachatas Para La Historia",
-        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
-      },
-      "artists": [
-        {
-          "name": "Marino Castellanos",
-          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
-        }
-      ],
-      "duration_ms": 210991,
-      "name": "Eso da Pa To",
-      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 269490,
       "name": "Vagabundo, Borracho y Loco",
       "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Pa' Que Te Duela",
+        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
+      },
+      "artists": [
+        {
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+        }
+      ],
+      "duration_ms": 215874,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1575,22 +1591,6 @@
       "duration_ms": 243500,
       "name": "Bellas",
       "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Pa' Que Te Duela",
-        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
-      },
-      "artists": [
-        {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
-        }
-      ],
-      "duration_ms": 215874,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs"
     },
     {
       "added_at": "2024-08-23 04:59:00",

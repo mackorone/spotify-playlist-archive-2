@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,227 songs - 2 day 20 hr 16 min
+1,228 songs - 2 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Burbank Nights](https://open.spotify.com/track/6cOxE8TUiPe4iYi4kvDoJu) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Burbank Nights](https://open.spotify.com/album/1equ0DwRZaGqjzWi588Oum) | 4:15 | 2023-09-05 | 2024-01-11 |
 | [Burn It Down](https://open.spotify.com/track/0148LGbNSeHx6qSWdou7WP) | [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Nokae](https://open.spotify.com/artist/32tm4kFatfXJM1kWaoBu69) | [Burn It Down](https://open.spotify.com/album/4Jj4XNp5s5Y3vLPOr8C5os) | 3:43 | 2026-02-26 |  |
 | [Burning Inside](https://open.spotify.com/track/449kNr07oY9jZWkRwlZl5Z) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Burning Inside](https://open.spotify.com/album/5VMcsCWlKoqmhO9t9ZD8H3) | 3:38 | 2025-08-20 | 2025-11-14 |
+| [BURST](https://open.spotify.com/track/57V2MhFR1RSbVrAsH2w5wN) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [BURST](https://open.spotify.com/album/1VMOFZeTj6zosipVpjiCiT) | 2:17 | 2026-05-13 |  |
 | [BUSTED](https://open.spotify.com/track/49mT4saNKf5BskrD7Bwrw9) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR) | [BUSTED](https://open.spotify.com/album/0j1YfLra3m8CJCRvPhVcql) | 2:22 | 2025-06-23 | 2025-09-19 |
 | [By My Side](https://open.spotify.com/track/0OyH2wwpCKZRKkSdxqCAef) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3), [Janet Tung](https://open.spotify.com/artist/5GlnTa5AGHo9hhKuon69KB) | [By My Side](https://open.spotify.com/album/4HMiG31eRc9Tj8iNYOG1A0) | 3:39 | 2025-05-14 | 2025-08-16 |
 | [by myself](https://open.spotify.com/track/6GnEtewHDS2VS3GZj4lYgb) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [by myself](https://open.spotify.com/album/0PvhONM5R6IeP0dPf7ocBV) | 3:05 | 2025-02-25 | 2025-05-24 |

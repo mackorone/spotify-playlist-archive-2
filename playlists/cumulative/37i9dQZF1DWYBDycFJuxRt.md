@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Ayumu Imazu \*👉 <a href="https://spice.eplus.jp/articles/345797">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Ayumu Imazu \*👉 <a href="https://spice.eplus.jp/articles/346050">連動記事</a>をSPICEでチェック!
 
-14,652 songs - 38 day 20 hr 47 min
+14,653 songs - 38 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [2026/4/22 Kan Sanoのニューアルバムが到着！LANAの新曲、奇妙礼太郎のニューアルバムも！東京酒吐座（Tokyo Shoegazer）のニューアルバム、台湾のWendy Wanderと、JABBERLOOPによるコラボ曲もピックアップ！Lucky Kilimanjaroの熊木幸丸のインタビューも！](https://open.spotify.com/episode/5Mo986elFrtk6fad2hQfXW) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 28:59 | 2026-04-22 | 2026-04-29 |
 | [2026/4/29 Rol3ertが新曲をリリース！Mrs\. GREEN APPLEの大森元貴がソロ新曲をリリース！ Mall Boyz & Elle Teresaのコラボ曲、千葉雄喜 & BABYWOODROSEのコラボアルバム、菅原圭のニューアルバムもピックアップ！！](https://open.spotify.com/episode/0nUlcoiIiwk9h1bic7bn8O) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:13 | 2026-04-29 | 2026-05-06 |
 | [2026/4/8 Chevonがアルバムをリリース！！Kohjiyaのアルバムも！Original Loveと韓国のバンドCADEJOのコラボEP、崎山蒼志の新曲、Early NoiseアーティストLAUSBUBの新曲もピックアップ！！](https://open.spotify.com/episode/7m1EGrXPb572JYfJz9YemQ) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 20:31 | 2026-04-08 | 2026-04-15 |
+| [2026/5/13 Ayumu Imazuがニューアルバムをリリース！STUTS、butaji、アイナ・ジ・エンドへのインタビューも！浜野謙太×後藤真希のコラボ曲、Maverick Momの1stアルバム、MayaとRol3ertのコラボ曲もピックアップ！](https://open.spotify.com/episode/2Y4b8uaMMQZs6YtdpY8jmk) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 35:43 | 2026-05-13 |  |
 | [2026/5/6 宇多田ヒカルロングインタビュー配信！細野晴臣が参加した 矢野顕子の新曲やBE:FIRST、CORTISのニューリリースもピックアップ！](https://open.spotify.com/episode/0xuTXcwYHJToFwH5hSESBt) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 55:39 | 2026-05-06 | 2026-05-13 |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [204号室](https://open.spotify.com/track/57fxEddP12LNLD90A9l5qv) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [204号室](https://open.spotify.com/album/049K22Wcjpmo9sM4CreI7j) | 3:26 | 2026-04-14 | 2026-04-22 |
@@ -2500,6 +2501,7 @@
 | [Embrace me](https://open.spotify.com/track/0sZt8n8U5NxSqWdfNdfEJf) | [NOT WONK](https://open.spotify.com/artist/12f2uQ7TswXKZRFvJuELAb) | [Embrace me](https://open.spotify.com/album/3M0EnMBj8j5wj9JLaJX9u3) | 2:59 | 2024-12-25 | 2025-01-08 |
 | [emily](https://open.spotify.com/track/2MSGvIbzqNmtd8vUQJAwjQ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [emily](https://open.spotify.com/album/16BK4YkgtTcJrvVFxbV9wt) | 3:22 | 2025-09-30 | 2025-10-08 |
 | [Emma](https://open.spotify.com/track/3Ew2Z5BuGpha0CCT924Cf4) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [I Knöw What](https://open.spotify.com/album/21YO8t69RCVsu8V9ibA28k) | 3:16 | 2024-06-25 | 2024-07-03 |
+| [EMO EMO](https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [EMO EMO](https://open.spotify.com/album/1sxsJF9uD9ubGGpCqEuGRn) | 2:37 | 2026-05-12 |  |
 | [Emotional](https://open.spotify.com/track/4JM7jsWkatRB6gldrDwdfi) | [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [LINK](https://open.spotify.com/album/52rc3MKvBNZ4QeK2fkWCFA) | 3:02 | 2024-12-11 | 2024-12-18 |
 | [EMOtional](https://open.spotify.com/track/5U5WIKxix5wRdULOcZgRxc) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [EMOtional](https://open.spotify.com/album/1S2Slfas6C1iMSkASYbdMz) | 3:29 | 2026-04-21 | 2026-04-29 |
 | [EMPIRE CODE \- Produced by AK\-69](https://open.spotify.com/track/1xf2RztGlyuM2Sb02HgKjl) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [EMPIRE CODE / 適当にやっちゃって feat\. DOBERMAN INFINITY](https://open.spotify.com/album/6YR8hTwUYqbhatZMN1yT4B) | 3:47 | 2025-09-03 | 2025-09-10 |
@@ -8819,8 +8821,6 @@
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-06 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 | 2026-04-08 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 | 2026-03-11 |
-| [Track 1](https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [EMO EMO](https://open.spotify.com/album/1sxsJF9uD9ubGGpCqEuGRn) | 0:00 | 2026-05-12 |  |
-| [Track 1](https://open.spotify.com/track/2jkgvQaRty8kMsBJ9rRuWz) | [カラノア](https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m) | [ツギハギ](https://open.spotify.com/album/6YYOIl8Ap2B5LmXYZHAEfj) | 0:00 | 2026-05-12 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-05-29 |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-05-07 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |
@@ -10502,6 +10502,7 @@
 | [まるで天使さ](https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [まるで天使さ](https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV) | 3:55 | 2024-08-20 | 2024-08-28 |
 | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/track/34evbKY1tcjSoxZXFIX8wo) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/album/6YbQhkfJPRCWcoqQ7yphIX) | 4:29 | 2024-02-27 | 2024-03-06 |
 | [まれびと](https://open.spotify.com/track/0Hixq9hxVTMmLhFxZ1YGpu) | [めっちゃ美人](https://open.spotify.com/artist/3qFK1j4FfFGUiR7EeeLbuZ) | [美人ノシカク](https://open.spotify.com/album/4HKu5REXJWhM6X2wiF4pn6) | 4:57 | 2025-12-09 | 2025-12-17 |
+| [まわる](https://open.spotify.com/track/2jkgvQaRty8kMsBJ9rRuWz) | [カラノア](https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m) | [ツギハギ](https://open.spotify.com/album/6YYOIl8Ap2B5LmXYZHAEfj) | 3:51 | 2026-05-12 |  |
 | [まわるきもち](https://open.spotify.com/track/4VescnoVnbgR2VpGlCaGm0) | [玉井詩織](https://open.spotify.com/artist/7ELE35x6MVJjMCyo4WgS39) | [まわるきもち](https://open.spotify.com/album/21da2ZtFIpjqeBXCaeKYvt) | 4:38 | 2025-05-07 | 2025-05-14 |
 | [まわれ まわれ \(feat\. I'm\)](https://open.spotify.com/track/4QTGxEcuJYJGTWQwGm6FSS) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [I'm](https://open.spotify.com/artist/4wsCElmDWiDsjWWDGMElsD) | [まわれ まわれ \(feat\. I'm\)](https://open.spotify.com/album/0Bi0yW8wbOzuPqCrHn4SeM) | 4:53 | 2025-03-11 | 2025-03-19 |
 | [まーいいや](https://open.spotify.com/track/7dtY6CoVdmqXtiLwjL20xi) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [まーいいや](https://open.spotify.com/album/7anhdzDVk7v6z8VR6nV3cf) | 3:13 | 2026-05-05 | 2026-05-13 |

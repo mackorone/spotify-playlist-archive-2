@@ -1,12 +1,12 @@
 {
-  "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 457966,
+  "description": "The finest set of Telugu music from the past 10 years. \nCover : Sahithi Chaganti",
+  "num_followers": 458016,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKy7SqB9BfnlupR1Rnbm1g2NNdp0",
+  "snapshot_id": "AAAAANaOGJwdmnDx8v9UGOEB+OaoG48q",
   "tracks": [
     {
       "added_at": "2026-05-12 10:02:19",
@@ -1617,30 +1617,6 @@
       "url": "https://open.spotify.com/track/5ReOjb2X6TCkMfYoHuVW1b"
     },
     {
-      "added_at": "2025-12-16 12:04:49",
-      "album": {
-        "name": "Yuddham Sharanam",
-        "url": "https://open.spotify.com/album/5a7lgfkPC0F6WbM2zUkWUY"
-      },
-      "artists": [
-        {
-          "name": "Tracey Thorton",
-          "url": "https://open.spotify.com/artist/6yYRBz7pfFs2nOJdYYsph1"
-        },
-        {
-          "name": "Vivek Sagar",
-          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 170132,
-      "name": "Adedo Maayalley",
-      "url": "https://open.spotify.com/track/2wW6MB66dej6GyVBowYnUz"
-    },
-    {
       "added_at": "2026-04-17 11:03:44",
       "album": {
         "name": "Mana ShankaraVaraPrasad Garu - Pandagaki Vasthunnaru",
@@ -1667,6 +1643,30 @@
       "duration_ms": 227026,
       "name": "Meesaala Pilla",
       "url": "https://open.spotify.com/track/2hre8DwkEcnI3MV0cBuEUP"
+    },
+    {
+      "added_at": "2025-12-16 12:04:49",
+      "album": {
+        "name": "Yuddham Sharanam",
+        "url": "https://open.spotify.com/album/5a7lgfkPC0F6WbM2zUkWUY"
+      },
+      "artists": [
+        {
+          "name": "Tracey Thorton",
+          "url": "https://open.spotify.com/artist/6yYRBz7pfFs2nOJdYYsph1"
+        },
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 170132,
+      "name": "Adedo Maayalley",
+      "url": "https://open.spotify.com/track/2wW6MB66dej6GyVBowYnUz"
     },
     {
       "added_at": "2026-05-12 10:02:19",
@@ -1745,10 +1745,10 @@
       "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
+      "added_at": "2023-01-11 20:52:12",
       "album": {
-        "name": "Geetha Govindam",
-        "url": "https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X"
+        "name": "Hushaaru",
+        "url": "https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5"
       },
       "artists": [
         {
@@ -1756,9 +1756,9 @@
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         }
       ],
-      "duration_ms": 266715,
-      "name": "Inkem Inkem Inkem Kaavaale",
-      "url": "https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf"
+      "duration_ms": 173932,
+      "name": "Undiporaadhey",
+      "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1833,10 +1833,10 @@
       "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
     },
     {
-      "added_at": "2023-01-11 20:52:12",
+      "added_at": "2022-07-24 04:40:57",
       "album": {
-        "name": "Hushaaru",
-        "url": "https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5"
+        "name": "Geetha Govindam",
+        "url": "https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X"
       },
       "artists": [
         {
@@ -1844,9 +1844,9 @@
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         }
       ],
-      "duration_ms": 173932,
-      "name": "Undiporaadhey",
-      "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
+      "duration_ms": 266715,
+      "name": "Inkem Inkem Inkem Kaavaale",
+      "url": "https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Nenu Sailaja",
+        "url": "https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp"
+      },
+      "artists": [
+        {
+          "name": "Prudhvi Chandra",
+          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
+        }
+      ],
+      "duration_ms": 209961,
+      "name": "Crazy Feeling",
+      "url": "https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Fidaa",
         "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 324546,
       "name": "Vachinde",
       "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Nenu Sailaja",
-        "url": "https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp"
-      },
-      "artists": [
-        {
-          "name": "Prudhvi Chandra",
-          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
-        }
-      ],
-      "duration_ms": 209961,
-      "name": "Crazy Feeling",
-      "url": "https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ"
     },
     {
       "added_at": "2023-08-07 09:11:28",

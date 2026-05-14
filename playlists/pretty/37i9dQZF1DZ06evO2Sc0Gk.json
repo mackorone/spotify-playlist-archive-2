@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAACIpyza9yAtPfrS2bDqeD16",
+  "snapshot_id": "agJtgAAAAACjvYv8x+RFYk32M8v2UjiW",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 197972,
+      "name": "Leg Over",
+      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nobody: The Extended Playlist (Worldwide Remixes)",
         "url": "https://open.spotify.com/album/1EHqy12UQ5mRrVOOQlzxtY"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 155428,
       "name": "That Way",
       "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 197972,
-      "name": "Leg Over",
-      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
     },
     {
       "added_at": null,
@@ -896,13 +896,13 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
         }
       ],
-      "duration_ms": 168461,
-      "name": "Short Skirt",
-      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
+      "duration_ms": 242000,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
     },
     {
       "added_at": null,
@@ -984,13 +984,13 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Business",
-      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
+      "duration_ms": 168461,
+      "name": "Short Skirt",
+      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
     },
     {
       "added_at": null,

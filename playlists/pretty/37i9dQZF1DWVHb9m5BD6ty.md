@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 
 > The newest from UK & Ireland driving the current\. Cover: Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,835 likes - 69 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,837 likes - 69 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 68 | [Prada or Celine](https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [Prada or Celine](https://open.spotify.com/album/2sE10E4MWavzGEUsrHEOPd) | 2:20 |
 | 69 | [Thrillz](https://open.spotify.com/track/30giJEZ1daAcS0HHKLAucE) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Analyze Love \(Deluxe\)](https://open.spotify.com/album/4FC4vvL2cpW8BYkyb2xVw3) | 3:30 |
 
-Snapshot ID: `AAAAALbKmN0lghqbXT7x98uYlCbjRj3y`
+Snapshot ID: `AAAAALpn+efMls66to4vO1MDMW2W+ell`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari  Rizwan Fadilah, RnBoyz\*, Mahalini, Sheila on 7,  Ariel NOAH, Salma Salsabil, CORTIS dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,130 likes - 93 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,144 likes - 93 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

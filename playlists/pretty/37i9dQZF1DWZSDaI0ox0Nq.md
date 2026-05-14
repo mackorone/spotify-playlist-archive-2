@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,227 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,231 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 10 | [Los Mareados](https://open.spotify.com/track/6m63Jr9CRpaOlwhO7ZUe1n) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Tangos de Lengue](https://open.spotify.com/album/2rtuc3kn27unPR4F8B2nGH) | 3:08 |
 | 11 | [Arrabalera](https://open.spotify.com/track/3WZakNuKCtJJxh7dTPyT17) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Tita De Buenos Aires](https://open.spotify.com/album/1GrP6d9082GxRkiXx2gsBP) | 2:16 |
 | 12 | [Parece mentira](https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:37 |
-| 13 | [Tu Corazón](https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP) | [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln), [Donato Racciatti y Su Orquesta Típica](https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t) | [Tu Corazón](https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO) | 2:28 |
-| 14 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |
+| 13 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |
+| 14 | [Tu Corazón](https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP) | [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln), [Donato Racciatti y Su Orquesta Típica](https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t) | [Tu Corazón](https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO) | 2:28 |
 | 15 | [La Canción y el Poema \(Morir de Amor\)](https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Morir de Amor](https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo) | 3:17 |
 | 16 | [Tango Negro](https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE) | [Libertad Lamarque](https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ) | [Tesoros De Coleccion \- Libertad Lamarque](https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p) | 2:58 |
 | 17 | [Atenti pebeta](https://open.spotify.com/track/4aLT7Jg103QAoZI9K3cS5I) | [La Fulana Tango](https://open.spotify.com/artist/0A4dBvTbLRuAFzBmiOhepA) | [Atenti pebeta](https://open.spotify.com/album/4Dvuv4RNoWSiv0kUQcpoCp) | 2:50 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 49 | [India de Tango](https://open.spotify.com/track/6Gw79GdafladbPqbXPW2A9) | [Patricia Malanca](https://open.spotify.com/artist/7ivb9TxkVrd4D5ssh1EsXJ), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Rafael Varela](https://open.spotify.com/artist/4U5EaR8hJD8J5Ov5L78KKa) | [Plebeyas \(Ellas, Yo y Superellas\)](https://open.spotify.com/album/3PxWFYnFej0Uhb1DKCvkUI) | 2:12 |
 | 50 | [Malena](https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw) | [Liliana Dominguez](https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo) | [Mujeres del Tango](https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut) | 2:13 |
 | 51 | [Madrugada y Soledad](https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if) | [Marisa Vázquez](https://open.spotify.com/artist/3r4t0BUOYq2f098liUbtKR) | [Esa Mujer: Buenos Aires](https://open.spotify.com/album/7LCIu4GIUhomUsjUvgiGUF) | 2:35 |
-| 52 | [Che bandoneon](https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu) | [Susy Leiva](https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz) | [Susy Leiva \- Grandes Exitos \-](https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG) | 2:58 |
-| 53 | [Quejas de Bandoneón](https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ) | [Las Del Abasto](https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE) | [Mujeres del Tango](https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut) | 2:51 |
+| 52 | [Quejas de Bandoneón](https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ) | [Las Del Abasto](https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE) | [Mujeres del Tango](https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut) | 2:51 |
+| 53 | [Che bandoneon](https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu) | [Susy Leiva](https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz) | [Susy Leiva \- Grandes Exitos \-](https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG) | 2:58 |
 | 54 | [Mi Buenos Aires Querido](https://open.spotify.com/track/7I81caW5uhQUdQUDHLDMj1) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [La Grela Quinteto de Tango](https://open.spotify.com/artist/3P7aMfgfzuP6ltbwWDTj53) | [Mi Buenos Aires Querido](https://open.spotify.com/album/5ToOxGt228WpFbX6TOyY3n) | 3:43 |
 | 55 | [Sueño de Barrilete](https://open.spotify.com/track/2kJB9Hvpn3bqx2Mac8lMVP) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO), [Alejandro Drago](https://open.spotify.com/artist/2F3eT48CikD09vr9y5H1cM), [Federico Biraben](https://open.spotify.com/artist/7sS1IsanBa9WPvHCcjYkJU) | [Después](https://open.spotify.com/album/55Mgv7ouRbXJuZFXrO8csC) | 3:05 |
 

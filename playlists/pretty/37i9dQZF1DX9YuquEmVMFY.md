@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > amazarashi ASIA TOUR 2026 in SEOUL 04.18 @올림픽공원 올림픽홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,370 likes - 20 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,351 likes - 20 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

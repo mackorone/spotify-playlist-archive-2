@@ -21223,6 +21223,24 @@
     },
     {
       "album": {
+        "name": "IRL\uff08In Real Life\uff09",
+        "url": "https://open.spotify.com/album/39qsOremsOYbQXdQdjkJjJ"
+      },
+      "artists": [
+        {
+          "name": "Hiyadam",
+          "url": "https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150880,
+      "name": "IRL (In Real Life)",
+      "url": "https://open.spotify.com/track/2i2fYwH6pNAhmm6mBUo6pj"
+    },
+    {
+      "album": {
         "name": "DREAM HORIZON",
         "url": "https://open.spotify.com/album/5xQGl6jalMEKuQefCWiCR8"
       },
@@ -54084,6 +54102,24 @@
       "duration_ms": 201093,
       "name": "\u6700\u5f8c\u3060\u3068\u3057\u3066\u3082...",
       "url": "https://open.spotify.com/track/7gLBZMoFeOwWMak8UVPSym"
+    },
+    {
+      "album": {
+        "name": "HYG/\u6700\u8fd1",
+        "url": "https://open.spotify.com/album/6vuuUApC9dMurqEFv0Q8NU"
+      },
+      "artists": [
+        {
+          "name": "lj",
+          "url": "https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140642,
+      "name": "\u6700\u8fd1",
+      "url": "https://open.spotify.com/track/0zNNWfwFbEet1fE2p4ZtTc"
     },
     {
       "album": {

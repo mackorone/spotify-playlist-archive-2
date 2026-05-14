@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Luis Alfonso Partida El Yaki, Banda Corona del Rey",
-  "num_followers": 83461,
+  "num_followers": 83468,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -203,26 +203,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Qu\u00e9 Fuimos (En Vivo)",
-        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
-        }
-      ],
-      "duration_ms": 230034,
-      "name": "Qu\u00e9 Fuimos (En Vivo)",
-      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
       },
@@ -235,22 +215,6 @@
       "duration_ms": 205949,
       "name": "Inv\u00e9ntame - En Vivo",
       "url": "https://open.spotify.com/track/1HNCgUYyjpX4prbIlaT6iF"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -275,6 +239,42 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -291,6 +291,22 @@
       "duration_ms": 172056,
       "name": "Mi Terre CLN",
       "url": "https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 173890,
+      "name": "La Novena Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -315,22 +331,6 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 173890,
-      "name": "La Novena Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "Que Me Importa",
         "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 208541,
       "name": "Que Me Importa",
       "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Comando X - En Vivo",
-      "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 161480,
       "name": "Ctrl + Z (En Vivo)",
       "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Comando X - En Vivo",
+      "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Pisteando Con La Regida (Vol. 3)",
-        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 137506,
-      "name": "Aguanta Corazon",
-      "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
         "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 187500,
       "name": "Kenwood En Los Radios (En Vivo)",
       "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "Pisteando Con La Regida (Vol. 3)",
+        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 137506,
+      "name": "Aguanta Corazon",
+      "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "Despegando el Vuelo (En vivo)",
+        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 221675,
+      "name": "Que Me Falto - En vivo",
+      "url": "https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "Street Mob Live",
         "url": "https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl"
       },
@@ -1331,38 +1347,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Despegando el Vuelo (En vivo)",
-        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 221675,
-      "name": "Que Me Falto - En vivo",
-      "url": "https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "Recordando Ariel Camacho (Live)",
-        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "El Karma - Live",
-      "url": "https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Directo 93-13 (En Vivo/20 Aniversario/Vol.1)",
         "url": "https://open.spotify.com/album/0OoRd49fYSZCRieceLUBil"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 255133,
       "name": "Loco - En Vivo",
       "url": "https://open.spotify.com/track/30VgitVQwLfrGiwbVMXe3i"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "Recordando Ariel Camacho (Live)",
+        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "El Karma - Live",
+      "url": "https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "Fiesta Privada Desde El 602 (En Vivo)",
+        "url": "https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 202452,
+      "name": "Disfruto Lo Malo - En Vivo",
+      "url": "https://open.spotify.com/track/1geW1av0p8JpwONb9HVGPv"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "Street Mob Live",
         "url": "https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 259828,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/6tbPyJ4yVaSjZjHz2R99V6"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "Fiesta Privada Desde El 602 (En Vivo)",
-        "url": "https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 202452,
-      "name": "Disfruto Lo Malo - En Vivo",
-      "url": "https://open.spotify.com/track/1geW1av0p8JpwONb9HVGPv"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "En Vivo Desde El Rancho 2",
+        "url": "https://open.spotify.com/album/4aa77DHr5hsvxxX9jxUB35"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 237749,
+      "name": "Que Lloro - En Vivo",
+      "url": "https://open.spotify.com/track/3qvlIyDfh30tUYr7s76Umh"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "Street Mob Live",
         "url": "https://open.spotify.com/album/2p99lW0qcEdRe3xb8e3TX0"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 161026,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/0GAB7waNGP9kAAFlvhK5hS"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "En Vivo Desde El Rancho 2",
-        "url": "https://open.spotify.com/album/4aa77DHr5hsvxxX9jxUB35"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 237749,
-      "name": "Que Lloro - En Vivo",
-      "url": "https://open.spotify.com/track/3qvlIyDfh30tUYr7s76Umh"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1719,22 +1719,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Chapayeka (En Vivo)",
-        "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
+        "name": "El Corrido Del Piyi (LDLG)",
+        "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
         },
         {
-          "name": "Manuel El Indio Ortega",
-          "url": "https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj"
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
         }
       ],
-      "duration_ms": 213500,
-      "name": "Sin Fortuna (En Vivo)",
-      "url": "https://open.spotify.com/track/5gUGD4wY6mnqLJtMCArXJ0"
+      "duration_ms": 184874,
+      "name": "El Corrido Del Piyi (LDLG)",
+      "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1759,22 +1759,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "El Corrido Del Piyi (LDLG)",
-        "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
+        "name": "Chapayeka (En Vivo)",
+        "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
       },
       "artists": [
         {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         },
         {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+          "name": "Manuel El Indio Ortega",
+          "url": "https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj"
         }
       ],
-      "duration_ms": 184874,
-      "name": "El Corrido Del Piyi (LDLG)",
-      "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
+      "duration_ms": 213500,
+      "name": "Sin Fortuna (En Vivo)",
+      "url": "https://open.spotify.com/track/5gUGD4wY6mnqLJtMCArXJ0"
     },
     {
       "added_at": "2026-04-17 20:03:01",

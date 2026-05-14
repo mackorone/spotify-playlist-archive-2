@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 
 > The most scary soundscapes to soundtrack your Halloween..
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,764 likes - 134 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,759 likes - 134 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 | 122 | [Haunted Mansion House](https://open.spotify.com/track/1OJGhmgDV2zvFWQYZXVDKC) | [Conrad Askland](https://open.spotify.com/artist/079Kci46yofXrsvJUXw6jS) | [Haunted Mansion Sound Effects](https://open.spotify.com/album/61PWCNkw5o1Zg4BAk94HAg) | 5:16 |
 | 123 | [Werewolf 2 \- Sound FX](https://open.spotify.com/track/2dqI0uErdOuAtVt1MAuSqV) | [Hollywood Haunts](https://open.spotify.com/artist/52IoOPbkq4wUIXQkkweKIP), [Gary Gelfand](https://open.spotify.com/artist/16UCtrx9T69YNeatu8BnMy) | [The Horrorville Haunt: Paranormal House of Horrors! \(Haunted House Soundtracks\)](https://open.spotify.com/album/00CNe8KfmhTVNKOwwfEysq) | 2:39 |
 | 124 | [Bound and Trapped](https://open.spotify.com/track/6Nk9tBNyOu5wAvApcWScoG) | [Halloween Music](https://open.spotify.com/artist/4OfDxabDQVhfThUuSS19za), [Halloween Kids](https://open.spotify.com/artist/6MFuXk9n7iZreVFl6MUo3h), [Halloween Sound Effects](https://open.spotify.com/artist/0xdm6Qolge99Rs4OAdz0LB) | [Too Spooky for You](https://open.spotify.com/album/1tGYEjeWS3lwEQW0ISEQJA) | 4:10 |
-| 125 | [Haunted and Scary Halloween Sounds](https://open.spotify.com/track/4AzgUoGILdndmnpnD5K0BH) | [Lydia Wrenworth](https://open.spotify.com/artist/05EYqZRolxrIsRYJZqBlNZ), [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y) | [Haunted and Scary Halloween Sounds \(Best Halloween Party Collection 2018, Horror & Creepy Effects\)](https://open.spotify.com/album/7jbZkKuzu0zMsAJivgSREc) | 4:01 |
+| 125 | [Haunted and Scary Halloween Auras](https://open.spotify.com/track/4AzgUoGILdndmnpnD5K0BH) | [Lydia Wrenworth](https://open.spotify.com/artist/05EYqZRolxrIsRYJZqBlNZ), [Scarlett Wolfworth](https://open.spotify.com/artist/45JaqbumMMOSQpt5nSZKeu) | [Haunted and Scary Night](https://open.spotify.com/album/7jbZkKuzu0zMsAJivgSREc) | 4:01 |
 | 126 | [Thunder Zone!](https://open.spotify.com/track/6NRTyH9LjvZ9h8znd868Y8) | [Hollywood Haunts](https://open.spotify.com/artist/52IoOPbkq4wUIXQkkweKIP) | [BLACK CAT HALLOWEEN!\-Night of Horrors!](https://open.spotify.com/album/4XF5kObcZfOwuOLkWCrtJo) | 4:57 |
 | 127 | [Scary Wind](https://open.spotify.com/track/0FZ9cq6RgK9a3JOBh08IVB) | [Rama Chant](https://open.spotify.com/artist/6iWv8jS7g4Dp93mH5ZWkwK) | [Halloween Music Collection](https://open.spotify.com/album/2Vo2zsuFuREJH0ph8lWrvz) | 4:00 |
 | 128 | [Vampire Crypt](https://open.spotify.com/track/6pOxeT38xjK6BXyU9yhLCK) | [Halloween Sounds](https://open.spotify.com/artist/2ofJA6qpGDJQy87TGmshmo) | [Scary Sound Effects](https://open.spotify.com/album/3fj68yJUFeeEE5ezF2Rdw9) | 3:03 |

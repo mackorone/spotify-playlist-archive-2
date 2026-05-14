@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 83250,
       "name": "67 (Six Seven)",
       "url": "https://open.spotify.com/track/7wdSCi9346RbeHjFsB6TFX"
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 174857,
       "name": "All Good Things (Come To An End)",
       "url": "https://open.spotify.com/track/2BrXyws6nGMptYOUB3HmHx"
@@ -10068,7 +10068,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 160626,
       "name": "car crash",
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
@@ -12891,6 +12891,24 @@
     },
     {
       "album": {
+        "name": "Dancing on the ice",
+        "url": "https://open.spotify.com/album/4mSU2SqQ4Udfvu7NG5TzdD"
+      },
+      "artists": [
+        {
+          "name": "Essyla",
+          "url": "https://open.spotify.com/artist/28ZKsCZWBrB4T4oHtDpk81"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Dancing on the ice",
+      "url": "https://open.spotify.com/track/1u0WYHtNFrAyzgybCDK861"
+    },
+    {
+      "album": {
         "name": "Dancing Queen",
         "url": "https://open.spotify.com/album/0l16hAQv1dq0RWhR7ZhNms"
       },
@@ -14308,7 +14326,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 85161,
       "name": "discipline",
       "url": "https://open.spotify.com/track/6Bn4zknR1mHMQYVUj8Bysn"
@@ -16138,6 +16156,24 @@
       "duration_ms": 165993,
       "name": "EIN TEIL VON MIR",
       "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
+    },
+    {
+      "album": {
+        "name": "Eins, Zwei, Drei",
+        "url": "https://open.spotify.com/album/7yGx7Va1vpyhsLvdwRmKyT"
+      },
+      "artists": [
+        {
+          "name": "LOOK MUM NO COMPUTER",
+          "url": "https://open.spotify.com/artist/24KLOfQv2HrpsCerfN6bef"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190780,
+      "name": "Eins, Zwei, Drei",
+      "url": "https://open.spotify.com/track/26xlJAlQoCMbnAWd0sGCQf"
     },
     {
       "album": {
@@ -20106,6 +20142,24 @@
     {
       "album": {
         "name": "F\u00f8r Vi G\u00e5r Hjem",
+        "url": "https://open.spotify.com/album/6DIbkPf3IfXlhovI4F25Pb"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Torpegaard Lund",
+          "url": "https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "F\u00f8r Vi G\u00e5r Hjem",
+      "url": "https://open.spotify.com/track/2qG6vr8fMq2abvKu7qXVuQ"
+    },
+    {
+      "album": {
+        "name": "F\u00f8r Vi G\u00e5r Hjem",
         "url": "https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3"
       },
       "artists": [
@@ -20116,7 +20170,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 174374,
       "name": "F\u00f8r Vi G\u00e5r Hjem",
       "url": "https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf"
@@ -21410,7 +21464,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 232999,
       "name": "Glass Of Wine",
       "url": "https://open.spotify.com/track/2f0dql2WIBHx9R2vH4UbMP"
@@ -26618,6 +26672,24 @@
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "album": {
+        "name": "All Things In Due Time",
+        "url": "https://open.spotify.com/album/7EkONStdPgrDz2IZhli8M9"
+      },
+      "artists": [
+        {
+          "name": "Blaze Rock",
+          "url": "https://open.spotify.com/artist/3lDrvQu1nkd0aZKxLBV9Sp"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "I Walk Alone",
+      "url": "https://open.spotify.com/track/6mtdVRLf4MsxNXcstO5b8j"
     },
     {
       "album": {
@@ -38327,6 +38399,24 @@
     },
     {
       "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/2g3GooH2jkUzcQ2NmwuZFq"
+      },
+      "artists": [
+        {
+          "name": "Eva Marija",
+          "url": "https://open.spotify.com/artist/3Eg9xrKVUdbFpJGQauHvp4"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178893,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/4kYfZeuXXmCWLvhnPIjyr1"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
       },
@@ -42292,7 +42382,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 152727,
       "name": "panzerknacker.wav",
       "url": "https://open.spotify.com/track/1d6kBUugWLaVHWjyj4T7i5"
@@ -44086,6 +44176,24 @@
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br"
+    },
+    {
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/56oRkvjUSWqsjCoVLWjfqE"
+      },
+      "artists": [
+        {
+          "name": "ALICJA",
+          "url": "https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/4SbMcQYjfmirlObF27nXtf"
     },
     {
       "album": {
@@ -51236,6 +51344,24 @@
       "duration_ms": 206022,
       "name": "Steady",
       "url": "https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh"
+    },
+    {
+      "album": {
+        "name": "Where the Hurt Lives",
+        "url": "https://open.spotify.com/album/04CFDwkZtJvqjOiPmzX2Xt"
+      },
+      "artists": [
+        {
+          "name": "Benny Rivers",
+          "url": "https://open.spotify.com/artist/1UI0cS95WID10PRHi4lJlh"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269567,
+      "name": "Step by Step in Time",
+      "url": "https://open.spotify.com/track/4af3PAYs7mAsQbc2Gw5jRx"
     },
     {
       "album": {

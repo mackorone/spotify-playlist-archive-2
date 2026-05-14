@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Quiet Light",
-  "num_followers": 65117,
+  "num_followers": 65118,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
-        "name": "Jesus loves a primadonna",
-        "url": "https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 267453,
-      "name": "Buffalo 66",
-      "url": "https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd"
-    },
-    {
-      "added_at": "2026-05-04 14:33:16",
-      "album": {
         "name": "Fleeting",
         "url": "https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 171386,
       "name": "Truth Of Pursuit",
       "url": "https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ"
+    },
+    {
+      "added_at": "2026-05-04 14:33:16",
+      "album": {
+        "name": "Jesus loves a primadonna",
+        "url": "https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 267453,
+      "name": "Buffalo 66",
+      "url": "https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd"
     },
     {
       "added_at": "2026-05-04 14:33:16",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
-        "name": "Is It Fun Or Is It Over?",
-        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 160020,
-      "name": "Is It Fun Or Is It Over?",
-      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
-    },
-    {
-      "added_at": "2026-05-04 14:33:16",
-      "album": {
         "name": "Tattoos",
         "url": "https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 233961,
       "name": "listening",
       "url": "https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj"
+    },
+    {
+      "added_at": "2026-05-04 14:33:16",
+      "album": {
+        "name": "Is It Fun Or Is It Over?",
+        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 160020,
+      "name": "Is It Fun Or Is It Over?",
+      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
     },
     {
       "added_at": "2026-05-04 14:33:16",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
-        "name": "Una Vez Y Ya",
-        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
-      },
-      "artists": [
-        {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Una Vez Y Ya",
-      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
-    },
-    {
-      "added_at": "2026-05-04 14:33:16",
-      "album": {
         "name": "(enamorada)",
         "url": "https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 241704,
       "name": "(ENAMORADA)",
       "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
+    },
+    {
+      "added_at": "2026-05-04 14:33:16",
+      "album": {
+        "name": "Una Vez Y Ya",
+        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Una Vez Y Ya",
+      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
     },
     {
       "added_at": "2026-05-04 14:33:16",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
-        "name": "WYD",
-        "url": "https://open.spotify.com/album/3UQ4Eu0TwyHelMM8LR5smw"
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG"
       },
       "artists": [
         {
-          "name": "KARRAHBOOO",
-          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 156266,
-      "name": "WYD",
-      "url": "https://open.spotify.com/track/4VzsfQSUEwJ37RjyzAmQ5Y"
+      "duration_ms": 147253,
+      "name": "WEAPON",
+      "url": "https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX"
     }
   ],
   "unique_name": "EQUAL US",

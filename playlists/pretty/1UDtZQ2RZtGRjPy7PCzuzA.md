@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,274 songs - 3 day 0 hr 53 min
+[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,275 songs - 3 day 0 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1282,5 +1282,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1272 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 1273 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 |
 | 1274 | [Whip It Up](https://open.spotify.com/track/3QIxJ9Ef3voU8DdOKDQA4p) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3mF2k0Aa9czJf0WsX5fFUh) | 2:10 |
+| 1275 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 
-Snapshot ID: `AAAJQc1c6q8a0mqnP6y8nsyDX2r/Blky`
+Snapshot ID: `AAAJQnDSLqqqWRujh3powEFHWaA/NGCa`

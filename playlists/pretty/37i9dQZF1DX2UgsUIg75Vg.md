@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Teyana Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,367,984 likes - 250 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367,934 likes - 250 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

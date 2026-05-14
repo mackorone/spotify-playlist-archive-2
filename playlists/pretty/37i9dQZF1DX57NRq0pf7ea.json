@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Estos son los hits que acompa\u00f1an la fiesta!",
-  "num_followers": 491726,
+  "num_followers": 491722,
   "original_name": "De Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFu9mj37gSVH7JeuMuJ/FZWgRCrU",
+  "snapshot_id": "AAAAABhVz6SHkIC+Fam7JEdkfssjrHJM",
   "tracks": [
     {
       "added_at": "2026-05-08 04:59:22",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-05-08 04:59:22",
       "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2026-05-08 04:59:22",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 233160,
       "name": "Caramelo - Remix",
       "url": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV"
-    },
-    {
-      "added_at": "2026-05-08 04:59:22",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2026-05-08 04:59:22",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2026-05-08 04:59:22",
       "album": {
-        "name": "IMPOSIBLE",
-        "url": "https://open.spotify.com/album/0vUD23Ea1Dub5SnPFy4usW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 193788,
-      "name": "IMPOSIBLE",
-      "url": "https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6"
-    },
-    {
-      "added_at": "2026-05-08 04:59:22",
-      "album": {
         "name": "Hasta Abajo",
         "url": "https://open.spotify.com/album/1M9KqI7pdiXrWxB0XuwqcB"
       },
@@ -1879,6 +1859,26 @@
     {
       "added_at": "2026-05-08 04:59:22",
       "album": {
+        "name": "IMPOSIBLE",
+        "url": "https://open.spotify.com/album/0vUD23Ea1Dub5SnPFy4usW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 193788,
+      "name": "IMPOSIBLE",
+      "url": "https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6"
+    },
+    {
+      "added_at": "2026-05-08 04:59:22",
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -1891,26 +1891,6 @@
       "duration_ms": 221749,
       "name": "Millones",
       "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
-    },
-    {
-      "added_at": "2026-05-08 04:59:22",
-      "album": {
-        "name": "Apambichao",
-        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 202628,
-      "name": "No me mienta as\u00ed",
-      "url": "https://open.spotify.com/track/57bgB2CZLNoipJVhdSDQ5V"
     },
     {
       "added_at": "2026-05-08 04:59:22",
@@ -1951,6 +1931,26 @@
     {
       "added_at": "2026-05-08 04:59:22",
       "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 202628,
+      "name": "No me mienta as\u00ed",
+      "url": "https://open.spotify.com/track/57bgB2CZLNoipJVhdSDQ5V"
+    },
+    {
+      "added_at": "2026-05-08 04:59:22",
+      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -1971,22 +1971,6 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
-    },
-    {
-      "added_at": "2026-05-08 04:59:22",
-      "album": {
-        "name": "Sin Tanto Visaje",
-        "url": "https://open.spotify.com/album/01Xj3ZB8X0i8ZFL6vYZL7B"
-      },
-      "artists": [
-        {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
-        }
-      ],
-      "duration_ms": 128170,
-      "name": "Sin Tanto Visaje",
-      "url": "https://open.spotify.com/track/36IKCXv76JFmwH4Ud5ZZAP"
     },
     {
       "added_at": "2026-05-08 04:59:22",
@@ -2031,6 +2015,26 @@
       "duration_ms": 173547,
       "name": "Copa Vac\u00eda",
       "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
+    },
+    {
+      "added_at": "2026-05-08 04:59:22",
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
     }
   ],
   "unique_name": "De Fiesta",

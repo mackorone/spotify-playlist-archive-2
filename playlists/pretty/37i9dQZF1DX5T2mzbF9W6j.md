@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,772 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,769 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 56 | [jet lag](https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [jet lag](https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p) | 3:21 |
 | 57 | [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Niesamowita Trupa Pana Hiroszimy](https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE) | 3:31 |
 | 58 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
-| 59 | [Muzyka pop](https://open.spotify.com/track/5R0i3UmUiz7dQjzECeFPwt) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Muzyka pop](https://open.spotify.com/album/0xLwcioIso3I9TpCYinABA) | 4:13 |
-| 60 | [Miłość](https://open.spotify.com/track/2YnL8a427pWbqpD0MaDqN8) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Miłość](https://open.spotify.com/album/0MJEPm7El9dzvZ6pbgGojG) | 2:56 |
+| 59 | [Miłość](https://open.spotify.com/track/2YnL8a427pWbqpD0MaDqN8) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Miłość](https://open.spotify.com/album/0MJEPm7El9dzvZ6pbgGojG) | 2:56 |
+| 60 | [Muzyka pop](https://open.spotify.com/track/5R0i3UmUiz7dQjzECeFPwt) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Muzyka pop](https://open.spotify.com/album/0xLwcioIso3I9TpCYinABA) | 4:13 |
 
 Snapshot ID: `AAAAAC8plM/0wy92xudwUZaOegY3jfKX`

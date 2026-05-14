@@ -1,6 +1,6 @@
 {
   "description": "150%",
-  "num_followers": 1936849,
+  "num_followers": 1936647,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,18 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "Me Gustas Tu EP",
-        "url": "https://open.spotify.com/album/0HcjiEVNspzxKMJjev4PKZ"
+        "name": "WARNING (Sped Up)",
+        "url": "https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        },
-        {
-          "name": "spedup trends",
-          "url": "https://open.spotify.com/artist/0ZiZFps7oB1BU3kkpSa1S7"
+          "name": "MC ORSEN",
+          "url": "https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3"
         }
       ],
-      "duration_ms": 221185,
-      "name": "Me Gustas Tu - Sped Up Version",
-      "url": "https://open.spotify.com/track/1H0i9N9bFrYfNThZkjCaLe"
+      "duration_ms": 108671,
+      "name": "WARNING - Sped Up",
+      "url": "https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -383,18 +379,22 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "WARNING (Sped Up)",
-        "url": "https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3"
+        "name": "Me Gustas Tu EP",
+        "url": "https://open.spotify.com/album/0HcjiEVNspzxKMJjev4PKZ"
       },
       "artists": [
         {
-          "name": "MC ORSEN",
-          "url": "https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "spedup trends",
+          "url": "https://open.spotify.com/artist/0ZiZFps7oB1BU3kkpSa1S7"
         }
       ],
-      "duration_ms": 108671,
-      "name": "WARNING - Sped Up",
-      "url": "https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz"
+      "duration_ms": 221185,
+      "name": "Me Gustas Tu - Sped Up Version",
+      "url": "https://open.spotify.com/track/1H0i9N9bFrYfNThZkjCaLe"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1685,26 +1685,6 @@
       "url": "https://open.spotify.com/track/0aSz9VMu18LrwN8u8tYaXr"
     },
     {
-      "added_at": "2026-03-06 05:00:06",
-      "album": {
-        "name": "SPAGHETTI (Bon App\u00e9tit Remixes)",
-        "url": "https://open.spotify.com/album/0ElLaBBHmkoS0UL2nmM0YA"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        }
-      ],
-      "duration_ms": 123677,
-      "name": "SPAGHETTI (Sped Up ver.)",
-      "url": "https://open.spotify.com/track/50Xf5ETG7lTf4emGnoVwSj"
-    },
-    {
       "added_at": "2025-11-26 17:14:04",
       "album": {
         "name": "Memory Reboot",
@@ -1723,6 +1703,26 @@
       "duration_ms": 166174,
       "name": "Memory Reboot - Sped Up",
       "url": "https://open.spotify.com/track/0rSRw7Okw0PdZk7ASyggQV"
+    },
+    {
+      "added_at": "2026-03-06 05:00:06",
+      "album": {
+        "name": "SPAGHETTI (Bon App\u00e9tit Remixes)",
+        "url": "https://open.spotify.com/album/0ElLaBBHmkoS0UL2nmM0YA"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 123677,
+      "name": "SPAGHETTI (Sped Up ver.)",
+      "url": "https://open.spotify.com/track/50Xf5ETG7lTf4emGnoVwSj"
     },
     {
       "added_at": "2025-11-26 17:14:04",

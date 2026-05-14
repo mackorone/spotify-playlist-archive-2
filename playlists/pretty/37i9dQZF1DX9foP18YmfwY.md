@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,025 likes - 70 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,078 likes - 70 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 40 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
 | 41 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 |
 | 42 | [A Barca](https://open.spotify.com/track/0oFWDcolbMMBh9yPZU2F5j) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Um Peregrino](https://open.spotify.com/artist/46ZuGsckiA4Pwvm3QUyUiR) | [Gba Stage, Vol\. 35](https://open.spotify.com/album/5d9jZi1hvJzbkmHQKmJ80q) | 5:19 |
-| 43 | [Quero Nascer de Novo](https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Quero Nascer de Novo](https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO) | 6:10 |
+| 43 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 44 | [Levanta e Anda \- Ao Vivo](https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9) | [Ágape Amor Divino \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm) | 5:24 |
 | 45 | [Acima dos Telhados \- Acoustic](https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Reale](https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6) | [Acima dos Telhados \(Acoustic\)](https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x) | 6:35 |
 | 46 | [Só por Ti Jesus](https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA) | [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Minha História](https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c) | 3:56 |
 | 47 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
-| 48 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
+| 48 | [Quero Nascer de Novo](https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Quero Nascer de Novo](https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO) | 6:10 |
 | 49 | [Romanos 12](https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x) | [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Romanos 12](https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh) | 4:48 |
 | 50 | [Teu Amor Não Sabe](https://open.spotify.com/track/4CE9PRPrZF9wfB9qNwbYJz) | [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu), [Thiago Tomé](https://open.spotify.com/artist/3V3MytrEt2MOhIEaAe4EYP) | [Studio Canção Nova \| Acústico](https://open.spotify.com/album/1NnRJ4HNnZaUllXu2pVpEO) | 3:49 |
 | 51 | [Caminho no Deserto](https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Caminho no Deserto](https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr) | 6:45 |

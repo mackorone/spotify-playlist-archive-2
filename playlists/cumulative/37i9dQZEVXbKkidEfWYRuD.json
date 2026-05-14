@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -27342,7 +27342,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "\u0413\u0435\u043d\u0433\u0441\u0442\u0430",
       "url": "https://open.spotify.com/track/3zHlmzzkUVgL8ao2KKojAt"
@@ -27732,7 +27732,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 177000,
       "name": "\u0413\u0440\u0443\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr"
@@ -30988,7 +30988,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 161194,
       "name": "\u041a\u043e\u043b\u043e \u0442\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/0Ps99lC59dDFvKwZNH9UGB"
@@ -31684,6 +31684,24 @@
       "duration_ms": 169130,
       "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
       "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
+    },
+    {
+      "album": {
+        "name": "\u041b\u0410\u0411\u0423\u0414\u0410",
+        "url": "https://open.spotify.com/album/1crRIyWCvbsXKdTFkMDteo"
+      },
+      "artists": [
+        {
+          "name": "NORD DIVISION",
+          "url": "https://open.spotify.com/artist/1MQrUVl8fu6oQqAe3wQ1ap"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 796301,
+      "name": "\u041b\u0410\u0411\u0423\u0414\u0410",
+      "url": "https://open.spotify.com/track/6EyI07FJXdGQ4a0lXLg0L1"
     },
     {
       "album": {
@@ -33228,7 +33246,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 159567,
       "name": "\u041d\u0430 \u043f\u043e\u0440\u043e\u0437\u0456",
       "url": "https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl"
@@ -33590,7 +33608,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 174500,
       "name": "\u041d\u0435 \u043b\u044f\u043a\u0430\u0439",
       "url": "https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ"
@@ -42732,7 +42750,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 154030,
       "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
       "url": "https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye"

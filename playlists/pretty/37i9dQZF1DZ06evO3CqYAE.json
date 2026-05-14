@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14688,
+  "num_followers": 14693,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAADbBbYsSqW1swI00xi8+wXY",
+  "snapshot_id": "agJtgAAAAABUbsbwOFiB+9scfSFLIv1R",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 296147,
+      "name": "Amazing God",
+      "url": "https://open.spotify.com/track/5k5659U0Gb6p0w3koQaNJu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Taking Care",
         "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 222315,
       "name": "Taking Care - Remix",
       "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 296147,
-      "name": "Amazing God",
-      "url": "https://open.spotify.com/track/5k5659U0Gb6p0w3koQaNJu"
     },
     {
       "added_at": null,

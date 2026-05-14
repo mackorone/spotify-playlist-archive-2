@@ -4,7 +4,7 @@
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 13 min
+90 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Irremediable](https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:52 | 2023-03-10 |  |
 | [La Bienvenida](https://open.spotify.com/track/4IDOQV0hxzxN1R0yAVZi9W) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:22 | 2025-02-13 | 2025-03-20 |
 | [La Duda \(Primera fila\) \- En Vivo](https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:23 | 2023-03-10 |  |
-| [La Mala Era Yo](https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Mala Era Yo](https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV) | 2:30 | 2026-03-01 |  |
+| [La Mala Era Yo](https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Mala Era Yo](https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV) | 2:30 | 2026-03-01 | 2026-05-14 |
+| [La Mala Era Yo](https://open.spotify.com/track/4SiU7ZbzTcu2GAfDmgwUVv) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [PUERTA ABIERTA](https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P) | 2:30 | 2026-05-14 |  |
 | [Literal](https://open.spotify.com/track/1hxxlc6kIxW3l1dMYAh56X) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:08 | 2025-03-01 | 2025-03-08 |
 | [Literal](https://open.spotify.com/track/4M4tWXiF87o7z2y1OkHzQw) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Literal](https://open.spotify.com/album/4B9zs7Fm6Ae314vkEohzJR) | 3:08 | 2024-06-30 | 2025-02-22 |
 | [Llévame \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/40IAm3om8Ii0b4jpFkw99Q) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:31 | 2023-03-10 | 2023-09-16 |

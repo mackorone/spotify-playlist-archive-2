@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Loud
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,909 likes - 91 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,919 likes - 91 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Ben Rodrigues",
-  "num_followers": 6525,
+  "num_followers": 6536,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
+        "name": "Hold Me In The Dark",
+        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Hold Me In The Dark",
+      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
         "name": "Intentions (feat. Urban Chords)",
         "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 114056,
       "name": "rollerblade",
       "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
-        "name": "Hold Me In The Dark",
-        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Hold Me In The Dark",
-      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "PARADISE LOST",
-        "url": "https://open.spotify.com/album/57X2ytsj3pZbog809Pt7r9"
-      },
-      "artists": [
-        {
-          "name": "Chris Grey",
-          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
-        }
-      ],
-      "duration_ms": 196958,
-      "name": "MY EVERYTHING",
-      "url": "https://open.spotify.com/track/45SDkqqvrrJmTAC70jKcr8"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "Fuji Xtra",
         "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 149500,
       "name": "Life Of The Faaji",
       "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
+        "name": "PARADISE LOST",
+        "url": "https://open.spotify.com/album/57X2ytsj3pZbog809Pt7r9"
+      },
+      "artists": [
+        {
+          "name": "Chris Grey",
+          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
+        }
+      ],
+      "duration_ms": 196958,
+      "name": "MY EVERYTHING",
+      "url": "https://open.spotify.com/track/45SDkqqvrrJmTAC70jKcr8"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "Written",
-        "url": "https://open.spotify.com/album/6Tugfz5Byo1qKuQjdVOHhp"
-      },
-      "artists": [
-        {
-          "name": "GhostwriterMel",
-          "url": "https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD"
-        }
-      ],
-      "duration_ms": 193985,
-      "name": "Written",
-      "url": "https://open.spotify.com/track/1G8iJbYCHs5GmUqdCy0vh4"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "Give It To Me",
         "url": "https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
+        "name": "Written",
+        "url": "https://open.spotify.com/album/6Tugfz5Byo1qKuQjdVOHhp"
+      },
+      "artists": [
+        {
+          "name": "GhostwriterMel",
+          "url": "https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD"
+        }
+      ],
+      "duration_ms": 193985,
+      "name": "Written",
+      "url": "https://open.spotify.com/track/1G8iJbYCHs5GmUqdCy0vh4"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
         "name": "Same Old",
         "url": "https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 210197,
       "name": "Same Old",
       "url": "https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
+        "name": "Letting go",
+        "url": "https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Letting go",
+      "url": "https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "Letting go",
-        "url": "https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c"
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/1FjqFA9fMXRjm5le1dROMY"
       },
       "artists": [
         {
-          "name": "Stephen Willo",
-          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+          "name": "Tatum Tides",
+          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Letting go",
-      "url": "https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg"
+      "duration_ms": 188000,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/2pYeCSz1jCLtz2GDioZEfs"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -1299,22 +1315,6 @@
       "duration_ms": 185346,
       "name": "Don't Call Me Up",
       "url": "https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
-        "name": "Neverland",
-        "url": "https://open.spotify.com/album/1FjqFA9fMXRjm5le1dROMY"
-      },
-      "artists": [
-        {
-          "name": "Tatum Tides",
-          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Neverland",
-      "url": "https://open.spotify.com/track/2pYeCSz1jCLtz2GDioZEfs"
     },
     {
       "added_at": "2026-05-08 07:46:27",

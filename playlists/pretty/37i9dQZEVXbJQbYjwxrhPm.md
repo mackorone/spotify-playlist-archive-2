@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,658 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,662 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Балканска двойка](https://open.spotify.com/track/3kRvCzH2fulMLpmGZ9vks0) | [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI), [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Балканска двойка](https://open.spotify.com/album/3oXZTQE6OGfoZE1g9xdVGV) | 2:40 |
 | 50 | [Hasta La Vista Baby](https://open.spotify.com/track/6vcgh8YJbjJc2xpxVonAUC) | [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn), [Silver](https://open.spotify.com/artist/4XrGMiPcnaZsT4GknLHDGS) | [Hasta La Vista Baby](https://open.spotify.com/album/5mVIlq6ApSomd23LRuXoOn) | 3:22 |
 
-Snapshot ID: `MZacUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MZft0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

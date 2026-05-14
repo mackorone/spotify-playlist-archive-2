@@ -1,6 +1,6 @@
 {
   "description": "Sommer kann kommen \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1573385,
+  "num_followers": 1573307,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -699,8 +699,8 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Loosen Up",
-        "url": "https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ"
+        "name": "Forever (feat. Malou & Yuna)",
+        "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
       },
       "artists": [
         {
@@ -708,17 +708,21 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Dawty",
-          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Preston Harris",
-          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Loosen Up",
-      "url": "https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA"
+      "duration_ms": 140500,
+      "name": "Forever (feat. Malou & Yuna)",
+      "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -795,8 +799,8 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Forever (feat. Malou & Yuna)",
-        "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
+        "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ"
       },
       "artists": [
         {
@@ -804,21 +808,17 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Dawty",
+          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
         },
         {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Preston Harris",
+          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
         }
       ],
-      "duration_ms": 140500,
-      "name": "Forever (feat. Malou & Yuna)",
-      "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
+      "duration_ms": 180000,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA"
     },
     {
       "added_at": "2025-08-29 06:03:40",

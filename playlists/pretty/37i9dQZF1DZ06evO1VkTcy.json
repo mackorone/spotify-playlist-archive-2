@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22405,
+  "num_followers": 22401,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAACiwrpC5T/pS6bCQOUv7cb0",
+  "snapshot_id": "agJtgAAAAABxYE4+7hJDms7Qc5uR7yth",
   "tracks": [
     {
       "added_at": null,
@@ -379,34 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Pe\u00e7o Pra Ficar",
-        "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 235862,
-      "name": "Te Pe\u00e7o Pra Ficar",
-      "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Novo Ciclo",
         "url": "https://open.spotify.com/album/0WrfiSS6rdY7taX62Uv66e"
       },
@@ -435,6 +407,34 @@
       "duration_ms": 230107,
       "name": "Novo Ciclo",
       "url": "https://open.spotify.com/track/59ZPagDizQRjxBsDmCL0Pi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Pe\u00e7o Pra Ficar",
+        "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Te Pe\u00e7o Pra Ficar",
+      "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
     },
     {
       "added_at": null,
@@ -1071,26 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixa Ir",
-        "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caon",
-          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Deixa Ir",
-      "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oriente Ac\u00fastico",
         "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 289122,
       "name": "Na Areia",
       "url": "https://open.spotify.com/track/6MriBuIGeZzm2CKC0HuKQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deixa Ir",
+        "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caon",
+          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Deixa Ir",
+      "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
     },
     {
       "added_at": null,
@@ -1219,26 +1219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake",
-        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1263,6 +1243,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb"
+      },
+      "artists": [
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Rodrip",
+          "url": "https://open.spotify.com/artist/5Kc4Xr401mA18jC4Wenc3x"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 212926,
+      "name": "Seu",
+      "url": "https://open.spotify.com/track/5Tl7d7HlhRX0XsxdekoREO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele Me Falou",
         "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
       },
@@ -1279,26 +1307,6 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Convida ao Vivo",
-        "url": "https://open.spotify.com/album/1TU3f23Am000jp2EWmGSGS"
-      },
-      "artists": [
-        {
-          "name": "Ponto De Equil\u00edbrio",
-          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 327028,
-      "name": "Estar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/4kv1rgv2FbVcj0R0xnOISh"
     },
     {
       "added_at": null,
@@ -1335,30 +1343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb"
+        "name": "Convida ao Vivo",
+        "url": "https://open.spotify.com/album/1TU3f23Am000jp2EWmGSGS"
       },
       "artists": [
         {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Rodrip",
-          "url": "https://open.spotify.com/artist/5Kc4Xr401mA18jC4Wenc3x"
-        },
-        {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
         },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         }
       ],
-      "duration_ms": 212926,
-      "name": "Seu",
-      "url": "https://open.spotify.com/track/5Tl7d7HlhRX0XsxdekoREO"
+      "duration_ms": 327028,
+      "name": "Estar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/4kv1rgv2FbVcj0R0xnOISh"
     },
     {
       "added_at": null,

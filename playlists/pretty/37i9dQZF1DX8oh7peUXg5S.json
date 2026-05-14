@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 350259,
+  "num_followers": 350282,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "Los Mares De China",
-        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 186801,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "Qu\u00e9 bonito",
         "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 230000,
       "name": "Qu\u00e9 bonito",
       "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "Los Mares De China",
+        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 186801,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "Miguel Hernandez",
-        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Para la Libertad",
-      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "50 Palos",
         "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 185743,
       "name": "Humo",
       "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "Miguel Hernandez",
+        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "Para la Libertad",
+      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
     },
     {
       "added_at": "2026-05-07 22:02:24",

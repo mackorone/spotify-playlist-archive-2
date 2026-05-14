@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 122863,
+  "num_followers": 122884,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Monday Morning Faith (Acoustic)",
-        "url": "https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Chelsea Plank",
-          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
-        }
-      ],
-      "duration_ms": 338493,
-      "name": "Monday Morning Faith - Acoustic",
-      "url": "https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Blinded",
         "url": "https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 533500,
       "name": "Be Glad - Live",
       "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Monday Morning Faith (Acoustic)",
+        "url": "https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        }
+      ],
+      "duration_ms": 338493,
+      "name": "Monday Morning Faith - Acoustic",
+      "url": "https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "duration_ms": 139801,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 223695,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7ilYm200byu5tpaXE97NVR"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA LAZER",
-          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
-        }
-      ],
-      "duration_ms": 139801,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju"
     },
     {
       "added_at": "2026-04-17 07:08:56",

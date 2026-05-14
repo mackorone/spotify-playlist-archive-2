@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Bruna Lipiani e novos talentos do Brasil\. Dê play no futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,371 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,344 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 49 | [Toda esfera](https://open.spotify.com/track/1ZTrlN4pjVEMBoafchACc3) | [FOTO EM GRUPO](https://open.spotify.com/artist/13Yv9pKK4blQ7HbTDeNNIq) | [Toda esfera](https://open.spotify.com/album/4hAbx7wgmY0FeBeXEOdK7G) | 3:10 |
 | 50 | [Colchão](https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Colchão](https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ) | 3:08 |
 
-Snapshot ID: `AAAAAPbL6i0ewTPBrC0Z7jimRIgnAk+1`
+Snapshot ID: `AAAAAN5iUl8yyhwS5w6pZvpA0mUyjOef`

@@ -10457,6 +10457,28 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3OKiUj9tN6ci7yF7iyOewl"
+      },
+      "artists": [
+        {
+          "name": "Matty Ralph",
+          "url": "https://open.spotify.com/artist/37HNoMIyEavGIJnIPCA6Kv"
+        },
+        {
+          "name": "JOKESONYOU",
+          "url": "https://open.spotify.com/artist/2XqkFv7puGh2cP0azCZdoc"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152432,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1KpWOjSqJMdXaEVh2rMwQl"
+    },
+    {
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/12xzb1KS1xNGIoswTNCPDN"
       },
@@ -17412,7 +17434,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 212903,
       "name": "Origins",
       "url": "https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO"

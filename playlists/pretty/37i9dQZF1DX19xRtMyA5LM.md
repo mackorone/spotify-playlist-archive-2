@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Lijpe
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,387 likes - 70 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,357 likes - 70 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 25 | [Klaar zijn](https://open.spotify.com/track/310UJmsoMZDpWU8N423m4o) | [Momi](https://open.spotify.com/artist/2Vd0bXoPtbTy5T1T2aa5hY) | [Klaar zijn](https://open.spotify.com/album/1qaRRnKZgqBVLTXiMbsNZH) | 1:58 |
 | 26 | [Statistiek](https://open.spotify.com/track/3fvcLv7lGZDufuABlfhclr) | [Sam J'taime](https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh), [Kingsize](https://open.spotify.com/artist/1d6XcWMNZgvbgs123LlFgJ) | [Statistiek](https://open.spotify.com/album/0AMQRH4im5l2sK2hmd8zJ7) | 2:26 |
 | 27 | [Wagyu](https://open.spotify.com/track/0rVikiFqhfjczF3a9aATLf) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Wagyu](https://open.spotify.com/album/1MPKG1OXRsr3hjqsesGo77) | 2:48 |
-| 28 | [CHASEN](https://open.spotify.com/track/3Q8tei7pICbgs48Flr6FtB) | [BNT](https://open.spotify.com/artist/6xATWp0X67aEsjPM8GT7DR), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7) | [BNT Vol\. 2](https://open.spotify.com/album/6DpKMJc5eyCIDKXMazBsO5) | 2:31 |
+| 28 | [CHASEN](https://open.spotify.com/track/3Q8tei7pICbgs48Flr6FtB) | [BNT](https://open.spotify.com/artist/6xATWp0X67aEsjPM8GT7DR), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [Ginna](https://open.spotify.com/artist/4Kb23Vi9vTtWfvXkM1dEF3) | [BNT Vol\. 2](https://open.spotify.com/album/6DpKMJc5eyCIDKXMazBsO5) | 2:31 |
 | 29 | [Big Fish](https://open.spotify.com/track/6tzURsalrw2yun8CiboXk7) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Big Fish](https://open.spotify.com/album/6VwMNQoqvzk8LAqrCtjlzW) | 2:31 |
 | 30 | [Rennen op Nikes](https://open.spotify.com/track/5YbVM3iiKMkTEEjNceOz8I) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Rennen op Nikes](https://open.spotify.com/album/2VGz9VEVizwT9DkIoXRBf1) | 2:47 |
 | 31 | [MENTAL](https://open.spotify.com/track/28I7X1nETvtdyGXTiqD5DL) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [DE HOOP VAN G](https://open.spotify.com/album/3WKGqmaJVVTnrXuD6ZkTHI) | 2:43 |

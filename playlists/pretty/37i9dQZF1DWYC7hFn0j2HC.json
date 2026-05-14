@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Antonio Aguilar en portada.",
-  "num_followers": 1174455,
+  "num_followers": 1174458,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 137120,
-      "name": "En el \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
         "name": "Vida De Bohemio",
         "url": "https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 180133,
       "name": "En Tu Pelo",
       "url": "https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 137120,
+      "name": "En el \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -835,8 +835,8 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "Lastima Que Seas Ajena",
-        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
+        "name": "De Que Manera Te Olvido",
+        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 257266,
-      "name": "L\u00e1stima Que Seas Ajena",
-      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
+      "duration_ms": 144973,
+      "name": "No Me S\u00e9 Rajar",
+      "url": "https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -915,8 +915,8 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "De Que Manera Te Olvido",
-        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
+        "name": "Lastima Que Seas Ajena",
+        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 144973,
-      "name": "No Me S\u00e9 Rajar",
-      "url": "https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8"
+      "duration_ms": 257266,
+      "name": "L\u00e1stima Que Seas Ajena",
+      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
     },
     {
       "added_at": "2024-09-12 23:26:02",

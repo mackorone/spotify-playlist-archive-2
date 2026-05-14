@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Loathe",
-  "num_followers": 493044,
+  "num_followers": 493007,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Nerve",
-        "url": "https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE"
-      },
-      "artists": [
-        {
-          "name": "Orbit Culture",
-          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
-        }
-      ],
-      "duration_ms": 352500,
-      "name": "Nerve",
-      "url": "https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "I Got Heaven",
         "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 93920,
       "name": "Of Her",
       "url": "https://open.spotify.com/track/2415zlo33NvXzYSZEH61s5"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "Nerve",
+        "url": "https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Deceptacon",
-        "url": "https://open.spotify.com/album/7DpbAouDpH4cMwQxZ8zGrc"
+        "name": "PUT A HIT ON",
+        "url": "https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2"
       },
       "artists": [
         {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+          "name": "MUTTLEE",
+          "url": "https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L"
         }
       ],
-      "duration_ms": 193871,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5yUmpwhdcXHoedujODeAlG"
+      "duration_ms": 174807,
+      "name": "PUT A HIT ON",
+      "url": "https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK"
     }
   ],
   "unique_name": "The Pit",

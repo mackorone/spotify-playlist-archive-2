@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Viniloversus
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,541 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,484 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 22 | [Ella Usó Mi cabeza Como Un Revólver \- Spotify Singles](https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Spotify Singles](https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT) | 4:19 |
 | 23 | [Perro Callejero](https://open.spotify.com/track/04S0UAl019CON66pBU2C2G) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Perro Callejero](https://open.spotify.com/album/3GfTCaM2d1QtS3xLM3SMws) | 2:42 |
 | 24 | [primera clase](https://open.spotify.com/track/4cg2lesjwza3wlwxF7r8eI) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [primera clase](https://open.spotify.com/album/6SiEcSRLpI7eWaYCzRnZx1) | 3:01 |
-| 25 | [Sé Que Puedo Hacerlo](https://open.spotify.com/track/31Hdr8kHtE1qpSd0ytTXQ1) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Sé Que Puedo Hacerlo](https://open.spotify.com/album/3k9lkziELrjBbgpDAGlOqH) | 2:56 |
-| 26 | [Noviembre](https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Noviembre](https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN) | 3:51 |
+| 25 | [Noviembre](https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Noviembre](https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN) | 3:51 |
+| 26 | [Sé Que Puedo Hacerlo](https://open.spotify.com/track/31Hdr8kHtE1qpSd0ytTXQ1) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Sé Que Puedo Hacerlo](https://open.spotify.com/album/3k9lkziELrjBbgpDAGlOqH) | 2:56 |
 | 27 | [¿Qué vas a saber?](https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [¿Qué vas a saber?](https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l) | 4:11 |
-| 28 | [Ya No Te Vuelvo a Ver](https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Salida](https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23) | 4:16 |
-| 29 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
-| 30 | [33](https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [33](https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE) | 3:44 |
+| 28 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 29 | [33](https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [33](https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE) | 3:44 |
+| 30 | [Ya No Te Vuelvo a Ver](https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Salida](https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23) | 4:16 |
 | 31 | [Lo Que Hay Dentro de Mí](https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Lo Que Hay Dentro de Mí](https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX) | 3:10 |
 | 32 | [¿Qué Hora Es Allá?](https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 2:51 |
 | 33 | [Vidas Felices](https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Vidas Felices](https://open.spotify.com/album/4SUAXW008wgv6Rgk4kaet7) | 3:54 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 44 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 |
 | 45 | [Lo Siento](https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Lo Siento](https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ) | 3:33 |
 | 46 | [El Rock and Roll Está Matando Mi Rock and Roll](https://open.spotify.com/track/64ZOcVsJlDloqNgApIQrzt) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [0%](https://open.spotify.com/album/7mZ4SWBx5IMJLXqQ2Fdx6W) | 2:10 |
-| 47 | [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 |
+| 47 | [Mírame](https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Mírame](https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT) | 3:53 |
 | 48 | [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 |
-| 49 | [Mírame](https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Mírame](https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT) | 3:53 |
-| 50 | [Qué Rocker](https://open.spotify.com/track/4DJZiHbEvr3qoGJcDHLxLZ) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Qué Rocker](https://open.spotify.com/album/3cnwciLwmd7auNlyFCrRVq) | 3:00 |
+| 49 | [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 |
+| 50 | [El Puesto Es Mío](https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [El Puesto Es Mío](https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz) | 2:58 |
 
 Snapshot ID: `AAAAAP1ri/3wNeMt0VQbfe+252ENp1rs`

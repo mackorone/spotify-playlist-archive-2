@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 ### [Island Time](https://open.spotify.com/playlist/37i9dQZF1DX2HC3xQbIKZ8)
 
-> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: SIX60
+> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,171 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,195 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 52 | [Paradise 35](https://open.spotify.com/track/0ljIjlkoHRhuh3NtZFkq5q) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Classick J](https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq) | [Paradise 35](https://open.spotify.com/album/4dXtisZsrQGQ1HlihA9wVz) | 4:12 |
 | 53 | [You To Me Are Everything](https://open.spotify.com/track/005t9swXJ8E2DUm6T2iXeG) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [You To Me Are Everything](https://open.spotify.com/album/3aBc1NsKCAWV3HSLdzMoEy) | 3:53 |
 | 54 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
-| 55 | [What's Up](https://open.spotify.com/track/0hb5i5zsp4hPA0WMXu3Kf7) | [KUKI](https://open.spotify.com/artist/0Ys93xAGNkGBgPuPxYpv49), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [What's Up](https://open.spotify.com/album/4CS7k60oGImQ1J6tuUFQeg) | 4:38 |
-| 56 | [If Tomorrow Never Comes](https://open.spotify.com/track/1ixqQJZ8vsFWuSvAJwjNDK) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/5IO8kfqsccFaycfAMe16ZG) | 3:50 |
+| 55 | [If Tomorrow Never Comes](https://open.spotify.com/track/1ixqQJZ8vsFWuSvAJwjNDK) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/5IO8kfqsccFaycfAMe16ZG) | 3:50 |
+| 56 | [What's Up](https://open.spotify.com/track/0hb5i5zsp4hPA0WMXu3Kf7) | [KUKI](https://open.spotify.com/artist/0Ys93xAGNkGBgPuPxYpv49), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [What's Up](https://open.spotify.com/album/4CS7k60oGImQ1J6tuUFQeg) | 4:38 |
 | 57 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 |
 | 58 | [Roady](https://open.spotify.com/track/2qSQ3ecDCuhp3NiY6Jc8Mh) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 7:09 |
 | 59 | [Island King](https://open.spotify.com/track/6eDyCEs63asmKPLRIBL3wc) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [This Is X](https://open.spotify.com/album/1Ll3kmja01oIbbLKJkLv7t) | 3:49 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 67 | [Long White Cloud](https://open.spotify.com/track/5GoOe77gWuqjzp8ESNFdZ9) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Producers Chair Dancehall, Vol\. 1](https://open.spotify.com/album/3zIR1sUyNwgVOuNdjBHEow) | 3:29 |
 | 68 | [One Man Band](https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS) | [Sione Liti](https://open.spotify.com/artist/5c0jLNILQAaxBObwOUghei), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [One Man Band](https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV) | 3:14 |
 | 69 | [Kiss the Sky](https://open.spotify.com/track/0lzJGFS25DUEXxiAMyl3Xm) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Return to the Roots](https://open.spotify.com/album/5aPo5ap8k9H0v3MNSgcI02) | 5:16 |
-| 70 | [Be My Lady \(feat\. Pieter Tuhoro & Jah Maoli\)](https://open.spotify.com/track/2lmCr96Mhghs0KUVABx4RP) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Universal Love](https://open.spotify.com/album/1dJg7WGsTZrAbWo4vh5PFh) | 4:11 |
-| 71 | [Cutie Fasho](https://open.spotify.com/track/3PWJRzDnppOr70LF5zHbVt) | [Johnny Suite](https://open.spotify.com/artist/5CQBtjSVBWjq0y1jJrWGG9) | [Cutie Fasho](https://open.spotify.com/album/1lISBLsSGYa55AKoN5kzjk) | 3:43 |
+| 70 | [Cutie Fasho](https://open.spotify.com/track/3PWJRzDnppOr70LF5zHbVt) | [Johnny Suite](https://open.spotify.com/artist/5CQBtjSVBWjq0y1jJrWGG9) | [Cutie Fasho](https://open.spotify.com/album/1lISBLsSGYa55AKoN5kzjk) | 3:43 |
+| 71 | [Be My Lady \(feat\. Pieter Tuhoro & Jah Maoli\)](https://open.spotify.com/track/2lmCr96Mhghs0KUVABx4RP) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Universal Love](https://open.spotify.com/album/1dJg7WGsTZrAbWo4vh5PFh) | 4:11 |
 | 72 | [Power of Love \- Reggae](https://open.spotify.com/track/5FW9a89r3hjYtOCyuDMORD) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Power of Love \(Reggae\)](https://open.spotify.com/album/4Dmq6VCmupTaY7YOZhz089) | 3:15 |
 | 73 | [Do That To Me One More Time](https://open.spotify.com/track/0fDcWl8ApNhQlqVk7aQNg0) | [Junior Soqeta](https://open.spotify.com/artist/1bJTmjgUdH1inz5cCpsOUA) | [Do That To Me One More Time](https://open.spotify.com/album/7DCPgwiy3QybrkirypwX2c) | 4:30 |
 | 74 | [Milk & Honey](https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Milk & Honey](https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2) | 4:20 |
-| 75 | [One Night](https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [One Night](https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ) | 3:33 |
+| 75 | [Slowly](https://open.spotify.com/track/7oaq2kZQXREqCN7flvblov) | [Ismuki](https://open.spotify.com/artist/72C1ypMUqI4dVpwUf601RG), [Chris Young](https://open.spotify.com/artist/24nf3HFgkV1Qer9ZqIPfUB), [Stegga Bwoy](https://open.spotify.com/artist/7Izwcum9BvJfbkQR8CdUPs) | [Slowly](https://open.spotify.com/album/48cDtcnsnRFuhnc7XjSsoI) | 4:24 |
 
 Snapshot ID: `AAAAAD4lNy24JV5IHW9g/QBNJFLfxqht`

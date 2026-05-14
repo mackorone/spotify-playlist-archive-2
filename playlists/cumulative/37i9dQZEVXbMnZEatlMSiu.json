@@ -4425,6 +4425,24 @@
     },
     {
       "album": {
+        "name": "Heavy Serenade",
+        "url": "https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Different Girl",
+      "url": "https://open.spotify.com/track/5ltZIJcbNgbSY1IusGfCGJ"
+    },
+    {
+      "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN"
       },
@@ -7280,7 +7298,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 223000,
       "name": "Good Goodbye",
       "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
@@ -23922,7 +23940,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 197384,
       "name": "\u5de6\u8f49\u71c8 (1000 Times+1)",
       "url": "https://open.spotify.com/track/4UwZyC0wEV6XDEAr9kaQhi"
@@ -24766,7 +24784,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 187266,
       "name": "\u611b\u60c5\u7684\u5927\u58de\u86cb",
       "url": "https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4"
@@ -26238,7 +26256,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
@@ -27484,7 +27502,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 268400,
       "name": "\u73fe\u5728\u90a3\u908a\u662f\u5e7e\u9ede ?",
       "url": "https://open.spotify.com/track/4aNHEJyg0nNCVMENWGedvj"
@@ -29936,7 +29954,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 271493,
       "name": "\u958b\u59cb\u61c2\u4e86",
       "url": "https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF"
@@ -29972,7 +29990,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 278010,
       "name": "\u95a3\u611b\u59b3\u4e00\u64fa",
       "url": "https://open.spotify.com/track/4Zwn8WxD61diTwqv9hyTQA"

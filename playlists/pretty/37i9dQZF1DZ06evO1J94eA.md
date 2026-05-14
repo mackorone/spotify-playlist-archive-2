@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,341 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,357 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 24 | [Sly](https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 10:21 |
 | 25 | [Speak Like A Child](https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 7:50 |
 | 26 | ['Round Midnight](https://open.spotify.com/track/4wZqLKnxKcZXTLLwfh0lpp) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 5:36 |
-| 27 | [Don't give up](https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Imagine Project](https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA) | 7:28 |
+| 27 | [Oliloqui Valley \- Remastered](https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 8:30 |
 | 28 | [Vein Melter](https://open.spotify.com/track/6c0ziyel6ZMTQ37vKRooGZ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 9:09 |
-| 29 | [Oliloqui Valley \- Remastered](https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 8:30 |
+| 29 | [Don't give up](https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Imagine Project](https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA) | 7:28 |
 | 30 | [Sister Moon \(feat\. Sting\)](https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 6:54 |
 | 31 | [The Man I Love](https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 5:56 |
 | 32 | [The Eye Of The Hurricane \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 6:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 49 | [Stars in Your Eyes](https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Monster](https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e) | 7:04 |
 | 50 | [St\. Louis Blues](https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 5:49 |
 
-Snapshot ID: `agEcAAAAAAAB1oj6B/YiNMaupwPsKpSi`
+Snapshot ID: `agJtgAAAAABmmzDRmEYUPLpGpAU8mAYh`

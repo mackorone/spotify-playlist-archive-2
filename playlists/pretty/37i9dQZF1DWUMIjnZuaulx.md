@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Travis Green & Forward City
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,850 likes - 80 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,869 likes - 80 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

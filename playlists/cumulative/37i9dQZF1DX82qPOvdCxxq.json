@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Leslie Perez",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Darla Baltazar",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 165529,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/5sCAYbVqMzoo92kln5zfdq"
@@ -8773,6 +8773,24 @@
     },
     {
       "album": {
+        "name": "green",
+        "url": "https://open.spotify.com/album/7KqxY6kXilzCr1fOIwBGYl"
+      },
+      "artists": [
+        {
+          "name": "Praise Lubangu",
+          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239750,
+      "name": "human",
+      "url": "https://open.spotify.com/track/7IsRX80drqVO7TPdNHTUnI"
+    },
+    {
+      "album": {
         "name": "HUMAN",
         "url": "https://open.spotify.com/album/2ainyPB3afFyPvssNgv9yH"
       },
@@ -8896,7 +8914,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 240000,
       "name": "i can see ur progress from here",
       "url": "https://open.spotify.com/track/69uOKhqJ6y1kkayZILeJaa"
@@ -10545,6 +10563,24 @@
     },
     {
       "album": {
+        "name": "Kindly",
+        "url": "https://open.spotify.com/album/5aHX0CDs52RD8H8WgisBLq"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "Kindly",
+      "url": "https://open.spotify.com/track/4kpVJTFv3jixNVmeWecXJ9"
+    },
+    {
+      "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/5GaqWeRvThKfnD7hPUX2df"
       },
@@ -11062,6 +11098,24 @@
       "duration_ms": 262147,
       "name": "Like Gravity 2.0",
       "url": "https://open.spotify.com/track/2VIEzvDdyZlHYYjczilbBA"
+    },
+    {
+      "album": {
+        "name": "Like I Am Yours",
+        "url": "https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184712,
+      "name": "Like I Am Yours",
+      "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
     },
     {
       "album": {
@@ -11719,6 +11773,24 @@
     },
     {
       "album": {
+        "name": "Loves Me Well",
+        "url": "https://open.spotify.com/album/2AtYBz8ev43Nx0938A2ndP"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183789,
+      "name": "Loves Me Well",
+      "url": "https://open.spotify.com/track/6U9YHd5h5AxfhUxCLNxWW6"
+    },
+    {
+      "album": {
         "name": "lovesick",
         "url": "https://open.spotify.com/album/5LgQFrcG0TGLsgYjI1a3cP"
       },
@@ -11872,7 +11944,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 187722,
       "name": "Made it Through",
       "url": "https://open.spotify.com/track/3sAys0jX45bH4JJv017HV2"
@@ -13158,7 +13230,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 188800,
       "name": "New Me",
       "url": "https://open.spotify.com/track/6FNIph6EcdmpEHp33oiN0d"
@@ -13871,6 +13943,28 @@
     },
     {
       "album": {
+        "name": "Old & Grey",
+        "url": "https://open.spotify.com/album/1pDZ8YEQvFT6TLSB94S2tq"
+      },
+      "artists": [
+        {
+          "name": "Ethan Beer",
+          "url": "https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM"
+        },
+        {
+          "name": "Lily Hooten",
+          "url": "https://open.spotify.com/artist/5pgwHZ02bNDJPgPw6neVim"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199939,
+      "name": "Old & Grey",
+      "url": "https://open.spotify.com/track/7qdpP7QoPXSr8b2mWvGNMP"
+    },
+    {
+      "album": {
         "name": "old one is dead",
         "url": "https://open.spotify.com/album/1HS9C2YAPwY8a5nj0gi3ji"
       },
@@ -14283,6 +14377,28 @@
     },
     {
       "album": {
+        "name": "Para Siempre (Soft Version)",
+        "url": "https://open.spotify.com/album/4c3yBVv0lgVRdIqwp5KraN"
+      },
+      "artists": [
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        },
+        {
+          "name": "RITMO",
+          "url": "https://open.spotify.com/artist/3eA3kWMicWtqf9zJDCNYJa"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229376,
+      "name": "Para Siempre - Soft Version",
+      "url": "https://open.spotify.com/track/4lSTOOZY00j5vXFukUY2Xz"
+    },
+    {
+      "album": {
         "name": "Paradox",
         "url": "https://open.spotify.com/album/4Prk1kR5doz0RtzdHyhptB"
       },
@@ -14294,7 +14410,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 189733,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/1Og4ZSncc4wkmA5uBpr2Ov"
@@ -16558,7 +16674,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 115659,
       "name": "sharing Jesus with an ex",
       "url": "https://open.spotify.com/track/4UMyvWKB7ggyig9rixl6K3"
@@ -17328,6 +17444,24 @@
       "duration_ms": 142285,
       "name": "stainless",
       "url": "https://open.spotify.com/track/7BNctLbeIaF7fmMNbDfprc"
+    },
+    {
+      "album": {
+        "name": "Stand Firm",
+        "url": "https://open.spotify.com/album/5iE3iIU6dPaGsnW3afa3ri"
+      },
+      "artists": [
+        {
+          "name": "CallHimd.",
+          "url": "https://open.spotify.com/artist/16BHUS6UGILgxsBEUxqQJh"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "Stand Firm",
+      "url": "https://open.spotify.com/track/5RDpUuxLHALw7zJLLnWOEs"
     },
     {
       "album": {
@@ -18466,7 +18600,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 183978,
       "name": "That's Enough",
       "url": "https://open.spotify.com/track/5AAvli2zLxc0aGXLwNTU4o"
@@ -18712,6 +18846,24 @@
       "duration_ms": 209153,
       "name": "The One Who Came",
       "url": "https://open.spotify.com/track/6GMOuiphOkvdl1cRb4Pslf"
+    },
+    {
+      "album": {
+        "name": "The Covenant",
+        "url": "https://open.spotify.com/album/5foJBF1HH8OxMXyKiWD9TA"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239373,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/3vstsYzg3ob3WiJ89pK3Cd"
     },
     {
       "album": {
@@ -19122,6 +19274,24 @@
       "duration_ms": 184000,
       "name": "TIGHTROPE",
       "url": "https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD"
+    },
+    {
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/3LhAXUSZFq04JsilQy2DeK"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Adelle",
+          "url": "https://open.spotify.com/artist/0vcKygkWT9xuezIG3mSUTy"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/6XUJFuejnO8eUFGSIRnmzW"
     },
     {
       "album": {
@@ -20110,7 +20280,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 198894,
       "name": "Waiting For You (feat. Reggie Dartey)",
       "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
@@ -20990,7 +21160,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 194463,
       "name": "white flag",
       "url": "https://open.spotify.com/track/2bDFjLTu0IwSpczOzTRd2D"
@@ -21012,7 +21182,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 144300,
       "name": "WHO BIGGER",
       "url": "https://open.spotify.com/track/7vOanjJViklqgEMFmCWoWU"
@@ -21714,6 +21884,24 @@
       "duration_ms": 262434,
       "name": "Yo soy la Diferencia",
       "url": "https://open.spotify.com/track/584j3PqQtoQUlbuHh2A7RO"
+    },
+    {
+      "album": {
+        "name": "Yoke",
+        "url": "https://open.spotify.com/album/6yrD76pfFW1rcepiMYDybD"
+      },
+      "artists": [
+        {
+          "name": "Cody Towell",
+          "url": "https://open.spotify.com/artist/4zY7rbMHMO7gNlZh2Qk7Us"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Yoke",
+      "url": "https://open.spotify.com/track/4px6eaKU9on5n7VSJpemg9"
     },
     {
       "album": {

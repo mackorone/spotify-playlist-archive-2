@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 133015,
+  "num_followers": 133019,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -563,30 +563,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "VITOHRIA SOUNDS",
-          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        }
-      ],
-      "duration_ms": 195140,
-      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Alvo Mais Que a Neve",
         "url": "https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 217968,
       "name": "Alvo Mais Que a Neve",
       "url": "https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "VITOHRIA SOUNDS",
+          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        }
+      ],
+      "duration_ms": 195140,
+      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
+        "name": "Nisso Eu Vou Acreditar",
+        "url": "https://open.spotify.com/album/6deZ0rhWw0o879HXu8AvM9"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Luiz Alves Filho",
+          "url": "https://open.spotify.com/artist/2UNNSwddqIJzwHXI4EIHU2"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Nisso Eu Vou Acreditar",
+      "url": "https://open.spotify.com/track/1Elp54OTW5xTiVXqAPRDJe"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
         "name": "Se Tu Creres (Remix)",
         "url": "https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD"
       },
@@ -923,62 +943,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Nisso Eu Vou Acreditar",
-        "url": "https://open.spotify.com/album/6deZ0rhWw0o879HXu8AvM9"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Luiz Alves Filho",
-          "url": "https://open.spotify.com/artist/2UNNSwddqIJzwHXI4EIHU2"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Nisso Eu Vou Acreditar",
-      "url": "https://open.spotify.com/track/1Elp54OTW5xTiVXqAPRDJe"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Tempo Novo",
-        "url": "https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Alan Nunes",
-          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
-        },
-        {
-          "name": "Cristo Alegria",
-          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
-        }
-      ],
-      "duration_ms": 217147,
-      "name": "Tempo Novo",
-      "url": "https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Vamo Com Tudo",
         "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
       },
@@ -999,6 +963,42 @@
       "duration_ms": 179527,
       "name": "Vamo Com Tudo",
       "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Tempo Novo",
+        "url": "https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Alan Nunes",
+          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+        },
+        {
+          "name": "Cristo Alegria",
+          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
+        }
+      ],
+      "duration_ms": 217147,
+      "name": "Tempo Novo",
+      "url": "https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy"
     },
     {
       "added_at": "2026-05-08 03:01:30",

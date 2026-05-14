@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,813 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,817 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 64 | [Soroku Special](https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW) | [Kaakyire Kwame Appiah](https://open.spotify.com/artist/6Pmxco13PCCjhPCwxKeUic) | [Soroku](https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3) | 7:36 |
 | 65 | [Maye Aketekyewa](https://open.spotify.com/track/1fclG6mBJRxoPDiUCFFLSN) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Genesis](https://open.spotify.com/album/62w8iROmmZVMVNGOSDHj1V) | 5:40 |
 | 66 | [Osobro Kyee](https://open.spotify.com/track/5TP7GHvqG0XU9oMXrOZw20) | [Dr\. Paa Bobo](https://open.spotify.com/artist/1yofXmMXChlG0r3oNsqZx6) | [Osobro Kyee: The Greatest Mix of Dr\. Paa Bobo](https://open.spotify.com/album/4aPJjX5wc5UWe960uokVCw) | 7:37 |
-| 67 | [Rakia](https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:38 |
+| 67 | [Atweetan](https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:06 |
 | 68 | [Mehia Odo](https://open.spotify.com/track/58lehu4YVaqzAv0PpyOIZU) | [Kwaisey Pee](https://open.spotify.com/artist/5HaP6tiU20J23qlcZy9GyT) | [Nyanime](https://open.spotify.com/album/3aFHKbqe0i0bLKySTdLUjn) | 4:57 |
 | 69 | [Zamunyamunya Mu](https://open.spotify.com/track/4pMXc5qYuBOEIUWpAMUOdo) | [Adane Best](https://open.spotify.com/artist/0iHoxGhjygQ3WczfHVuYyn) | [Dompe](https://open.spotify.com/album/3IjgTD6lXJ2hSmHePnDYZ5) | 5:45 |
 | 70 | [Adeepena](https://open.spotify.com/track/1Gs56NZM42tJvXVs7hMWAl) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Highlife Classics](https://open.spotify.com/album/4OctCBdZwxmCRNxseEGRS8) | 6:20 |
 | 71 | [Tena M'enkyɛn](https://open.spotify.com/track/1Wg78lyQpAwXJD4HmsXTLm) | [Paapa Yankson](https://open.spotify.com/artist/3rZx8PZWeT89QmApdVqzS8), [Paulina Oduro](https://open.spotify.com/artist/5czMkb80eV52LDbBsBoUaG) | [Paapa Yankson Classics](https://open.spotify.com/album/5kpW5ly02ny70LsLWsU9l3) | 5:28 |
-| 72 | [Atweetan](https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:06 |
+| 72 | [Rakia](https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:38 |
 | 73 | [Krokro Me](https://open.spotify.com/track/6wnBL3qBxt0PagpBEsluUb) | [Kwaisey Pee](https://open.spotify.com/artist/5HaP6tiU20J23qlcZy9GyT) | [Krokro Me](https://open.spotify.com/album/6qF170KcaSLqamwReuuIh2) | 3:59 |
 | 74 | [Koforidua Flowers](https://open.spotify.com/track/2TnWgysg3OGR3CCf3jKKKC) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [The Return of Kofi B](https://open.spotify.com/album/5zNJB9e8rs4sQeCmQqz99n) | 4:50 |
 | 75 | [Odo Da Baabi](https://open.spotify.com/track/0SJ1NANtFCj6cNbyPXCOdZ) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/4lmhSuZqCz9VzA8vOfZdR3) | 5:17 |

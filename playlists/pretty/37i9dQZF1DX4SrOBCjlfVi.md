@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Trap Dickey, Key Glock, T.I\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,760 likes - 74 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,809 likes - 74 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

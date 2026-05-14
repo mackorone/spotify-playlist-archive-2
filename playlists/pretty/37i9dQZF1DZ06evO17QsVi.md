@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,664 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,717 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
 | 50 | [Soldier Like Me](https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:50 |
 
-Snapshot ID: `agEcAAAAAAB3+5l0BMugZbZxTlO0J9W0`
+Snapshot ID: `agJtgAAAAABCED6M6MCvaJcVdFElvCLz`

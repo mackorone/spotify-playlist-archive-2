@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 
 > The all\-timers from a rising singer\-songwriter from Japan, Fujii Kaze\. 藤井 風の代表曲をひとつのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,257 likes - 42 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,312 likes - 42 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 | 41 | [キリがないから](https://open.spotify.com/track/0puZUrjhNhWl98RdE7YfNM) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:37 |
 | 42 | [Kirari \- Daul Remix](https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [DAUL](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 4:05 |
 
-Snapshot ID: `AAAAANUXKuaLEZcKC0VCRXFXaF0yfKRQ`
+Snapshot ID: `AAAAAP6dmsZccV5OdlmUUsQ9uw3kjBVx`

@@ -1,12 +1,12 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Eva van Manen",
-  "num_followers": 11388,
+  "num_followers": 11390,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOmKwTR+iz7AQB+EaX2CnRw5D6Mt",
+  "snapshot_id": "AAAAABsiNsMpRF8EahXlGFvDW8gwUp1E",
   "tracks": [
     {
       "added_at": "2026-05-05 22:00:35",
@@ -340,7 +340,7 @@
       "added_at": "2026-05-05 22:00:35",
       "album": {
         "name": "IJSLAND 2",
-        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
+        "url": "https://open.spotify.com/album/1L95CMnIW9LHwQ8MKhkauD"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
         }
       ],
-      "duration_ms": 199371,
-      "name": "TIJDSGEEST",
-      "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
+      "duration_ms": 176103,
+      "name": "HEMEL & AARDE",
+      "url": "https://open.spotify.com/track/7G6la7Z1YkOCgR3oIRtEaN"
     },
     {
       "added_at": "2026-05-05 22:00:35",
@@ -432,7 +432,7 @@
       "added_at": "2026-05-05 22:00:35",
       "album": {
         "name": "IJSLAND 2",
-        "url": "https://open.spotify.com/album/1L95CMnIW9LHwQ8MKhkauD"
+        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
         }
       ],
-      "duration_ms": 176103,
-      "name": "HEMEL & AARDE",
-      "url": "https://open.spotify.com/track/7G6la7Z1YkOCgR3oIRtEaN"
+      "duration_ms": 199371,
+      "name": "TIJDSGEEST",
+      "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
     },
     {
       "added_at": "2026-05-05 22:00:35",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-05-05 22:00:35",
       "album": {
-        "name": "GEEN TITEL",
-        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
-      },
-      "artists": [
-        {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
-        }
-      ],
-      "duration_ms": 152413,
-      "name": "CONFLICT",
-      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
-    },
-    {
-      "added_at": "2026-05-05 22:00:35",
-      "album": {
         "name": "AH!",
         "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 153653,
       "name": "Behang",
       "url": "https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3"
+    },
+    {
+      "added_at": "2026-05-05 22:00:35",
+      "album": {
+        "name": "GEEN TITEL",
+        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        }
+      ],
+      "duration_ms": 152413,
+      "name": "CONFLICT",
+      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
     },
     {
       "added_at": "2026-05-05 22:00:35",
@@ -879,22 +879,22 @@
     {
       "added_at": "2026-05-05 22:00:35",
       "album": {
-        "name": "Niemandsland",
-        "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
+        "name": "Schaduw",
+        "url": "https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR"
       },
       "artists": [
         {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
         },
         {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
         }
       ],
-      "duration_ms": 165210,
-      "name": "Niemandsland",
-      "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
+      "duration_ms": 216887,
+      "name": "Schaduw",
+      "url": "https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl"
     }
   ],
   "unique_name": "indie.nl",

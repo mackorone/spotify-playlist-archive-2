@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203135,
+      "name": "Borrachos",
+      "url": "https://open.spotify.com/track/4Atb7JMjADktnKGOXzUmeF"
+    },
+    {
+      "album": {
         "name": "DESGENERADOS MIXTAPE",
         "url": "https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R"
       },
@@ -3309,6 +3327,28 @@
     },
     {
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "Danna",
+          "url": "https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131671,
+      "name": "Sugar Mami",
+      "url": "https://open.spotify.com/track/5sUoZwdTnrjxcBL2oSfb6z"
+    },
+    {
+      "album": {
         "name": "Sugar Mami",
         "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
       },
@@ -3328,28 +3368,6 @@
       "duration_ms": 131671,
       "name": "Sugar Mami",
       "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
-    },
-    {
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131671,
-      "name": "Sugar Mami",
-      "url": "https://open.spotify.com/track/5sUoZwdTnrjxcBL2oSfb6z"
     },
     {
       "album": {

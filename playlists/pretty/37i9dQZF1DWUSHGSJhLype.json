@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Jeninho, Kamisa 10",
-  "num_followers": 760116,
+  "num_followers": 760063,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,6 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
-        "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
-        "url": "https://open.spotify.com/album/3FjxQlpQrfjpwIcb410U50"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
-      "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
         "name": "SEQU\u00caNCIA FEITICEIRA",
         "url": "https://open.spotify.com/album/1PUmgnEGrn78cJ6g0O6jry"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 129692,
       "name": "SEQU\u00caNCIA FEITICEIRA",
       "url": "https://open.spotify.com/track/4Lwm0XFseZ09OBdmUJlcYp"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
+        "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
+        "url": "https://open.spotify.com/album/3FjxQlpQrfjpwIcb410U50"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
+      "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
     },
     {
       "added_at": "2026-05-01 03:01:05",
@@ -467,42 +467,6 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
-        "name": "MOLHO (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 147456,
-      "name": "Champanhe - Ao Vivo",
-      "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
         "name": "RomantiDog",
         "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
       },
@@ -527,6 +491,42 @@
       "duration_ms": 179039,
       "name": "Eu Vou na Sua Casa",
       "url": "https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 147456,
+      "name": "Champanhe - Ao Vivo",
+      "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2026-05-01 03:01:05",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
-        "name": "Eu T\u00f4 Querendo De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3FUf6QnemeXXl7vITVDqf5"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 135250,
-      "name": "Eu T\u00f4 Querendo De Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/0pkUneJOTi0uHF4Eqf3T6r"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
         "name": "5 Da Manh\u00e3 (Ao Vivo Em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 166413,
       "name": "Deixa Alagar - Ao Vivo",
       "url": "https://open.spotify.com/track/5pjMyFs9BW8jbrss4fbnU9"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
+        "name": "Eu T\u00f4 Querendo De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3FUf6QnemeXXl7vITVDqf5"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 135250,
+      "name": "Eu T\u00f4 Querendo De Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pkUneJOTi0uHF4Eqf3T6r"
     },
     {
       "added_at": "2026-05-01 03:01:05",

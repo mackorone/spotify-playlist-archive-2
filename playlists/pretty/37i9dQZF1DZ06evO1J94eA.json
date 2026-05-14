@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 42341,
+  "num_followers": 42357,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAAB1oj6B/YiNMaupwPsKpSi",
+  "snapshot_id": "agJtgAAAAABmmzDRmEYUPLpGpAU8mAYh",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Imagine Project",
-        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
       },
       "artists": [
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 448866,
-      "name": "Don't give up",
-      "url": "https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN"
+      "duration_ms": 510653,
+      "name": "Oliloqui Valley - Remastered",
+      "url": "https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B"
     },
     {
       "added_at": null,
@@ -487,18 +479,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+        "name": "The Imagine Project",
+        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
       },
       "artists": [
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 510653,
-      "name": "Oliloqui Valley - Remastered",
-      "url": "https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B"
+      "duration_ms": 448866,
+      "name": "Don't give up",
+      "url": "https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 787899,
+  "num_followers": 787962,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
-    },
-    {
-      "added_at": "2026-02-11 22:49:04",
-      "album": {
         "name": "Here's To The Good Times",
         "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 208960,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+    },
+    {
+      "added_at": "2026-02-11 22:49:04",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Martina",
-        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
       },
       "artists": [
         {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+          "name": "Mark Wills",
+          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
         }
       ],
-      "duration_ms": 243160,
-      "name": "This One's for the Girls",
-      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
+      "duration_ms": 200466,
+      "name": "19 Somethin'",
+      "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
+        "name": "Martina",
+        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
       },
       "artists": [
         {
-          "name": "Mark Wills",
-          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
         }
       ],
-      "duration_ms": 200466,
-      "name": "19 Somethin'",
-      "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
+      "duration_ms": 243160,
+      "name": "This One's for the Girls",
+      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
     },
     {
       "added_at": "2026-02-11 22:49:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Hollywood Undead
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,170 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,269 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 31 | [KNOCK OUT ANTHEM](https://open.spotify.com/track/5G6iZqhu6ef6U61qJBWLUN) | [CROWDKILL CARTEL](https://open.spotify.com/artist/7jWytXunzd88U2NY5nlSTz), [MOUTH BREAKER](https://open.spotify.com/artist/5dz8LGLQRsMoVR5UqGT61d), [KnuckleSandwich](https://open.spotify.com/artist/75VqwDv9W7ksPkPRoufm7O), [IN THE END TIMES](https://open.spotify.com/artist/3gBjfLu0nyCuFjBwtYaKx8) | [KNOCK OUT ANTHEM](https://open.spotify.com/album/6iX8MV5Jr59RLgvTEEzunX) | 2:53 |
 | 32 | [Black Rambo](https://open.spotify.com/track/0RR0DGJlcaQJyyg3JtnPwb) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Black Rambo](https://open.spotify.com/album/4wgfpknDxRvTAS1DQezVPT) | 2:45 |
 | 33 | [type shit](https://open.spotify.com/track/5fPLTzdQaKxwjPqeVohGIh) | [GRITMONGER](https://open.spotify.com/artist/67LJ4pQ9f28qmfPGSGvd1i), [Tumaggz](https://open.spotify.com/artist/56kfj4Dao75l6Dfjqxvobd), [Mobbs Radical](https://open.spotify.com/artist/5CMFdQq95rtIg41Vip9wLR), [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC) | [type shit](https://open.spotify.com/album/15onWjlqinUeBepPw3UMqe) | 3:02 |
-| 34 | [Desolation Hawk](https://open.spotify.com/track/2SnDDz8CRATEijmr5giLdP) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [CHAPTER 04 : RED FALCON SUPER BATTLE! NEO PARIS WAR!!](https://open.spotify.com/album/3rvuosVjs5t0CyCok0r7Y3) | 3:18 |
+| 34 | [Desolation Hawk](https://open.spotify.com/track/2SnDDz8CRATEijmr5giLdP) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Chapter 04 : Red Falcon Super Battle! Neo Paris War!!](https://open.spotify.com/album/3rvuosVjs5t0CyCok0r7Y3) | 3:18 |
 | 35 | [BAD DEC1SIONS](https://open.spotify.com/track/397VFdexXn7Yd5Sm3yOQwC) | [REDDSTAR](https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK), [Twiztid](https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7) | [DR1VE](https://open.spotify.com/album/07mLgsjnAmQbQZARv0sASa) | 3:32 |
 | 36 | [Would you be my therapy? \(feat\. Windwaker\) \- Redux](https://open.spotify.com/track/3p78XD0O2ihOpKcjjkF06O) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Would you be my therapy? \(feat\. Windwaker\) \[Redux\]](https://open.spotify.com/album/4c20dxhBHoHSqpFyeuvOgA) | 2:39 |
 | 37 | [Flashbang](https://open.spotify.com/track/340qTmybfEKjk78ReJWsdC) | [Darkmatter](https://open.spotify.com/artist/6eftKndDms3JdNUfvzo7Fu), [Xen0christ](https://open.spotify.com/artist/7ALiQOdEryp85dpRwrznHn) | [Flashbang](https://open.spotify.com/album/21vUVigzKqUuWZWva5mdo8) | 2:35 |

@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "86",
+        "url": "https://open.spotify.com/album/3g4bCLXT8iLIoZPiaINxul"
+      },
+      "artists": [
+        {
+          "name": "Tracey Nelson",
+          "url": "https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232277,
+      "name": "86",
+      "url": "https://open.spotify.com/track/2n2oNATPYI3rtGzLZs7mEw"
+    },
+    {
+      "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/68pSC05yKzQLLNDngR1uyI"
       },
@@ -4228,7 +4246,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 136773,
       "name": "Blubird",
       "url": "https://open.spotify.com/track/1zCMk3ySbq4JIeVzU2j1Os"
@@ -6692,7 +6710,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 210939,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4IF0zcoO0VNoyQTm1EKiLt"
@@ -8462,7 +8480,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 170125,
       "name": "Desert Horse",
       "url": "https://open.spotify.com/track/6WdyBn0hIDJa33KFMKuy0A"
@@ -14146,7 +14164,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 264000,
       "name": "Green Thing",
       "url": "https://open.spotify.com/track/3pMJ3RrBBILhy63Uds1BGd"
@@ -15795,6 +15813,24 @@
     },
     {
       "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/3lWYYXSLKRrbiqvOsRSeTH"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bishop",
+          "url": "https://open.spotify.com/artist/1SNT1xbb94VsMFDUMTRViq"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243834,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/0fX87MQuQEbN6yTsurdeJ8"
+    },
+    {
+      "album": {
         "name": "Horses Run",
         "url": "https://open.spotify.com/album/0e5JHJao5JWVlOzkK3M1NR"
       },
@@ -17064,6 +17100,24 @@
       "duration_ms": 175943,
       "name": "I'll Come Around",
       "url": "https://open.spotify.com/track/6VFQU2lCmdFQLPF5CAmUsm"
+    },
+    {
+      "album": {
+        "name": "I'm Alright Now",
+        "url": "https://open.spotify.com/album/6lM1YCAmwDDVtM8xZX9PTQ"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168642,
+      "name": "I'm Alright Now",
+      "url": "https://open.spotify.com/track/3LFcHLPdxn1PhAqCwRDZc1"
     },
     {
       "album": {
@@ -18855,6 +18909,24 @@
     },
     {
       "album": {
+        "name": "just checkin' in (demo)",
+        "url": "https://open.spotify.com/album/6XzKpEkWuEsEYZQV1x7zmj"
+      },
+      "artists": [
+        {
+          "name": "kelly bridges",
+          "url": "https://open.spotify.com/artist/00NqBlGQXqEDd3a4nAdIHq"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158529,
+      "name": "just checkin' in - demo",
+      "url": "https://open.spotify.com/track/4XDfsY7EB6B8DfO3UHf6si"
+    },
+    {
+      "album": {
         "name": "Just Like Me",
         "url": "https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui"
       },
@@ -20596,6 +20668,24 @@
       "duration_ms": 250000,
       "name": "Living in the City is so Beautiful",
       "url": "https://open.spotify.com/track/2zIvuPFKHOou4JJbOSFa94"
+    },
+    {
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/2S4MfD2Tro1uE4nK9SNnW6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196202,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/49AfNVQ0stMJEJQ4O4mmNe"
     },
     {
       "album": {
@@ -26752,7 +26842,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 406108,
       "name": "Prefab Moon",
       "url": "https://open.spotify.com/track/2ZUZV6pgiRokNtkuxCH7w6"
@@ -27008,7 +27098,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 189320,
       "name": "Prisoner of Love",
       "url": "https://open.spotify.com/track/51hGzgzAeI72yzyyG1jxlK"
@@ -27430,6 +27520,24 @@
       "duration_ms": 204170,
       "name": "Red Cedar",
       "url": "https://open.spotify.com/track/7dIqIfRnRz4HhgbylWPvf5"
+    },
+    {
+      "album": {
+        "name": "Red Dragonfly",
+        "url": "https://open.spotify.com/album/6QnR7oyhYeKenfmwdI1ai5"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Red Dragonfly",
+      "url": "https://open.spotify.com/track/2YpapyODyBEZU9W3AKnGZ3"
     },
     {
       "album": {
@@ -28222,7 +28330,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 207453,
       "name": "Rust & Wire",
       "url": "https://open.spotify.com/track/4bqN0ipnuiiGvJdhsSQWeM"
@@ -28316,6 +28424,24 @@
       "duration_ms": 171053,
       "name": "Saddle",
       "url": "https://open.spotify.com/track/6qtCLNxE5pkbVDoFP2yf4a"
+    },
+    {
+      "album": {
+        "name": "sadie",
+        "url": "https://open.spotify.com/album/7he6RCG89OQebnS87zTala"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "sadie",
+      "url": "https://open.spotify.com/track/4XP3xSOgMKHLC2IBVBRiCL"
     },
     {
       "album": {
@@ -29453,6 +29579,24 @@
     },
     {
       "album": {
+        "name": "Six String",
+        "url": "https://open.spotify.com/album/5v6BHPf3ikQi9d4kFih5PB"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191112,
+      "name": "Six String",
+      "url": "https://open.spotify.com/track/4NKSMuM0rG4FN6CwPjXHQM"
+    },
+    {
+      "album": {
         "name": "Sixth Sense",
         "url": "https://open.spotify.com/album/724ZN9exiISvZ2Przm24Wh"
       },
@@ -30252,6 +30396,24 @@
       "duration_ms": 250182,
       "name": "Somewhere Forever",
       "url": "https://open.spotify.com/track/0LEYYOcwGSTd38kRUB8iXO"
+    },
+    {
+      "album": {
+        "name": "Song for a...",
+        "url": "https://open.spotify.com/album/2AiqjmESpJkCJooLVW7Aio"
+      },
+      "artists": [
+        {
+          "name": "Lightning Bug",
+          "url": "https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Song for a...",
+      "url": "https://open.spotify.com/track/28Peuwft9Gj8AhHAI8z9qU"
     },
     {
       "album": {
@@ -31148,7 +31310,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 222968,
       "name": "Stuck (here)",
       "url": "https://open.spotify.com/track/67UGNAsxTDki453lkJUagJ"
@@ -33018,7 +33180,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 219493,
       "name": "The King of Soda",
       "url": "https://open.spotify.com/track/41ppoasp0Iu2aLVA9eReas"

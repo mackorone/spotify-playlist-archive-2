@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,376 songs - 9 day 17 hr 30 min
+4,377 songs - 9 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2794,6 +2794,7 @@
 | [OPEN AND CLOSE YOURSELF](https://open.spotify.com/track/2FxLjv7GfqP0csK1Xc5Br3) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:59 | 2026-02-01 |  |
 | [open and close yourself](https://open.spotify.com/track/0EPzsIT613djtYBh58XF1x) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [asideral space](https://open.spotify.com/album/1vTlhEwk2VCkRCVlAfZVir) | 3:59 | 2026-02-01 |  |
 | [Open Minds](https://open.spotify.com/track/7xEI0bimr29CJ1RNOs89t0) | [Blue Drip](https://open.spotify.com/artist/7GgaHnzEx7IFkJearygbKk) | [Blue Drip](https://open.spotify.com/album/3I3Nt2GllYCULJL44Qye5c) | 3:40 | 2025-11-13 |  |
+| [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 | 2026-05-13 |  |
 | [Open Road Dreams](https://open.spotify.com/track/41FfsQHrO1BjvXLMPBduso) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:19 | 2025-09-17 |  |
 | [Open Road Dreams \(another\)](https://open.spotify.com/track/1vzpRiB8wdxsI2UKbs76DQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:36 | 2025-09-17 |  |
 | [Open Road Stomp](https://open.spotify.com/track/7uqljQa68Hgj6ZXRVaEpZj) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:18 | 2025-12-10 |  |

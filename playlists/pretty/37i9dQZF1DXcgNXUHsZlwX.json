@@ -143,22 +143,6 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "Nameless",
-        "url": "https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 221824,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO"
-    },
-    {
-      "added_at": "2026-05-08 04:05:14",
-      "album": {
         "name": "99 Nights",
         "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 205391,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/69NxIgtkxX3gk9YO5N1p9e"
+    },
+    {
+      "added_at": "2026-05-08 04:05:14",
+      "album": {
+        "name": "Nameless",
+        "url": "https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 221824,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO"
     },
     {
       "added_at": "2026-05-08 04:05:14",
@@ -727,22 +727,18 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "Eldorado (Acoustique)",
-        "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
       "artists": [
         {
-          "name": "Fred Dionne",
-          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
-        },
-        {
-          "name": "Katrine Sansregret",
-          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
         }
       ],
-      "duration_ms": 197749,
-      "name": "Eldorado - Acoustique",
-      "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
+      "duration_ms": 215560,
+      "name": "L'\u00eele \u00e0 vingt-cinq sous",
+      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
     },
     {
       "added_at": "2026-05-08 04:05:14",
@@ -763,18 +759,22 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+        "name": "Eldorado (Acoustique)",
+        "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Fred Dionne",
+          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
+        },
+        {
+          "name": "Katrine Sansregret",
+          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
         }
       ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+      "duration_ms": 197749,
+      "name": "Eldorado - Acoustique",
+      "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
     },
     {
       "added_at": "2026-05-08 04:05:14",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
       "artists": [
         {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
         }
       ],
-      "duration_ms": 215560,
-      "name": "L'\u00eele \u00e0 vingt-cinq sous",
-      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2026-05-08 04:05:14",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
+        "name": "Quand vient le soir",
+        "url": "https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "duration_ms": 225998,
+      "name": "Quand vient le soir",
+      "url": "https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh"
+    },
+    {
+      "added_at": "2026-05-08 04:05:14",
+      "album": {
         "name": "Parmi les autres",
         "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "Quand vient le soir",
-        "url": "https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R"
-      },
-      "artists": [
-        {
-          "name": "Bye Parula",
-          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
-        }
-      ],
-      "duration_ms": 225998,
-      "name": "Quand vient le soir",
-      "url": "https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh"
-    },
-    {
-      "added_at": "2026-05-08 04:05:14",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+        "name": "I'll Stand in the Doorway",
+        "url": "https://open.spotify.com/album/3EXBttlObB3082z4k9w15d"
       },
       "artists": [
         {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+          "name": "Libby Ember",
+          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+      "duration_ms": 240000,
+      "name": "I'll Stand in the Doorway",
+      "url": "https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN"
     },
     {
       "added_at": "2026-05-08 04:05:14",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
       "artists": [
         {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
         }
       ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "added_at": "2026-05-08 04:05:14",
@@ -1151,6 +1151,22 @@
       "duration_ms": 178823,
       "name": "I Came Here to Leave You",
       "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
+    },
+    {
+      "added_at": "2026-05-08 04:05:14",
+      "album": {
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2026-05-08 04:05:14",
@@ -1191,26 +1207,6 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "Journal d'un Loup-Garou",
-        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        },
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Ariane",
-      "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
-    },
-    {
-      "added_at": "2026-05-08 04:05:14",
-      "album": {
         "name": "Disparition",
         "url": "https://open.spotify.com/album/6eieaysfbghuloWpmlBgp2"
       },
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "I'll Stand in the Doorway",
-        "url": "https://open.spotify.com/album/3EXBttlObB3082z4k9w15d"
+        "name": "Journal d'un Loup-Garou",
+        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
       },
       "artists": [
         {
-          "name": "Libby Ember",
-          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        },
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 240000,
-      "name": "I'll Stand in the Doorway",
-      "url": "https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN"
+      "duration_ms": 193733,
+      "name": "Ariane",
+      "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
     },
     {
       "added_at": "2026-05-08 04:05:14",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "Que ta lumi\u00e8re",
-        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 232319,
-      "name": "Que ta lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
-    },
-    {
-      "added_at": "2026-05-08 04:05:14",
-      "album": {
         "name": "Quel tourment !",
         "url": "https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
+        "name": "Underwater '26",
+        "url": "https://open.spotify.com/album/0RPgJzim1zPIGxPohVf80a"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Underwater '26",
+      "url": "https://open.spotify.com/track/7oyoTyR7vFjooRPZPNfEYm"
+    },
+    {
+      "added_at": "2026-05-08 04:05:14",
+      "album": {
         "name": "Le go\u00fbt des mangues",
         "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
       },
@@ -1331,6 +1331,38 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
+        "name": "The Scars We Share",
+        "url": "https://open.spotify.com/album/6tHnONORrBKToSOraiIFan"
+      },
+      "artists": [
+        {
+          "name": "Maldito",
+          "url": "https://open.spotify.com/artist/1IyP1te0ocO6XgeWL4PqdG"
+        }
+      ],
+      "duration_ms": 238481,
+      "name": "The Scars We Share",
+      "url": "https://open.spotify.com/track/1rI2SChKCCBD3poraYKw2Z"
+    },
+    {
+      "added_at": "2026-05-08 04:05:14",
+      "album": {
+        "name": "Que ta lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 232319,
+      "name": "Que ta lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+    },
+    {
+      "added_at": "2026-05-08 04:05:14",
+      "album": {
         "name": "Verger",
         "url": "https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe"
       },
@@ -1343,6 +1375,22 @@
       "duration_ms": 213599,
       "name": "Roi de verre",
       "url": "https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy"
+    },
+    {
+      "added_at": "2026-05-08 04:05:14",
+      "album": {
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 141509,
+      "name": "Go Get It",
+      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
     },
     {
       "added_at": "2026-05-08 04:05:14",
@@ -1379,22 +1427,6 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 141509,
-      "name": "Go Get It",
-      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
-    },
-    {
-      "added_at": "2026-05-08 04:05:14",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/0YxzumaPK6A7xM5mE5s9KA"
       },
@@ -1427,18 +1459,18 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "Underwater '26",
-        "url": "https://open.spotify.com/album/0RPgJzim1zPIGxPohVf80a"
+        "name": "R\u00eave am\u00e9ricain",
+        "url": "https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0"
       },
       "artists": [
         {
-          "name": "Hansom \u0112li",
-          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
         }
       ],
-      "duration_ms": 274160,
-      "name": "Underwater '26",
-      "url": "https://open.spotify.com/track/7oyoTyR7vFjooRPZPNfEYm"
+      "duration_ms": 217879,
+      "name": "R\u00eave am\u00e9ricain",
+      "url": "https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B"
     },
     {
       "added_at": "2026-05-08 04:05:14",
@@ -1511,54 +1543,6 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "R\u00eave am\u00e9ricain",
-        "url": "https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Personne",
-          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
-        }
-      ],
-      "duration_ms": 217879,
-      "name": "R\u00eave am\u00e9ricain",
-      "url": "https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B"
-    },
-    {
-      "added_at": "2026-05-08 04:05:14",
-      "album": {
-        "name": "The Scars We Share",
-        "url": "https://open.spotify.com/album/6tHnONORrBKToSOraiIFan"
-      },
-      "artists": [
-        {
-          "name": "Maldito",
-          "url": "https://open.spotify.com/artist/1IyP1te0ocO6XgeWL4PqdG"
-        }
-      ],
-      "duration_ms": 238481,
-      "name": "The Scars We Share",
-      "url": "https://open.spotify.com/track/1rI2SChKCCBD3poraYKw2Z"
-    },
-    {
-      "added_at": "2026-05-08 04:05:14",
-      "album": {
-        "name": "Saving Face",
-        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
-      },
-      "artists": [
-        {
-          "name": "Olivia Khoury",
-          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
-        }
-      ],
-      "duration_ms": 241870,
-      "name": "Saving Face",
-      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
-    },
-    {
-      "added_at": "2026-05-08 04:05:14",
-      "album": {
         "name": "Montr\u00e9al (Avec Louis-Jean Cormier)",
         "url": "https://open.spotify.com/album/5JscHrlWGficiFNu4ULZrM"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 240933,
       "name": "Montr\u00e9al - Avec Louis-Jean Cormier",
       "url": "https://open.spotify.com/track/6fR0LwJ6ZQaIk0RMBjtRjD"
+    },
+    {
+      "added_at": "2026-05-08 04:05:14",
+      "album": {
+        "name": "Saving Face",
+        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
+      },
+      "artists": [
+        {
+          "name": "Olivia Khoury",
+          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
+        }
+      ],
+      "duration_ms": 241870,
+      "name": "Saving Face",
+      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
     },
     {
       "added_at": "2026-05-08 04:05:14",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "Those Years When Everything Changed",
-        "url": "https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM"
-      },
-      "artists": [
-        {
-          "name": "D R M S",
-          "url": "https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Those Years When Everything Changed",
-      "url": "https://open.spotify.com/track/2zaWSK9c0VVy8pny45jnDI"
-    },
-    {
-      "added_at": "2026-05-08 04:05:14",
-      "album": {
         "name": "Swimmer",
         "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
       },
@@ -1659,22 +1643,34 @@
     {
       "added_at": "2026-05-08 04:05:14",
       "album": {
-        "name": "Bras solaires",
-        "url": "https://open.spotify.com/album/6YRzehbBP1Pv1DU2XpRz6o"
+        "name": "Those Years When Everything Changed",
+        "url": "https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM"
       },
       "artists": [
         {
-          "name": "H\u00e9ron",
-          "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
-        },
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+          "name": "D R M S",
+          "url": "https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH"
         }
       ],
-      "duration_ms": 223663,
-      "name": "Bras solaires",
-      "url": "https://open.spotify.com/track/6Wn4vLDWj71DD5l5ZjIH4p"
+      "duration_ms": 190373,
+      "name": "Those Years When Everything Changed",
+      "url": "https://open.spotify.com/track/2zaWSK9c0VVy8pny45jnDI"
+    },
+    {
+      "added_at": "2026-05-08 04:05:14",
+      "album": {
+        "name": "Treize chansons d\u00e9mod\u00e9es pour ceux qui ont le c\u0153ur ab\u00eem\u00e9",
+        "url": "https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "S'il te pla\u00eet, fais-moi danser",
+      "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
     },
     {
       "added_at": "2026-05-08 04:05:14",

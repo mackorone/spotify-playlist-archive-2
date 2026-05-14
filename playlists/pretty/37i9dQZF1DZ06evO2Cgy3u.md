@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cgy3u.md) - [plain]
 
 > This is The Raincoats\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 992 likes - 32 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 994 likes - 32 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cgy3u.md) - [plain]
 | 21 | [Black and White](https://open.spotify.com/track/77EIe4Q2YYU3JPhIMBcCDl) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 2:29 |
 | 22 | [Animal Rhapsody](https://open.spotify.com/track/4PuQC1KUxsIGf6bTnM0Td1) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:29 |
 | 23 | [Odyshape](https://open.spotify.com/track/2F6CwF1PFz3Ql8iDJ7XBVq) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 3:41 |
-| 24 | [Honey Mad Woman](https://open.spotify.com/track/5JSqmqWnQ0ZYpj6L6rWHm5) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:05 |
-| 25 | [Love a Loser](https://open.spotify.com/track/6xS2LcueQbLxdkCl7Bfyzp) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:30 |
+| 24 | [Love a Loser](https://open.spotify.com/track/6xS2LcueQbLxdkCl7Bfyzp) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:30 |
+| 25 | [Honey Mad Woman](https://open.spotify.com/track/5JSqmqWnQ0ZYpj6L6rWHm5) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:05 |
 | 26 | [Monk Chant](https://open.spotify.com/track/0Xr53lUQFZh39BVXm2USlN) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Drunken Maria / Monk Chant](https://open.spotify.com/album/1Gmeaf9vmm7coG12sCgkSy) | 2:04 |
 | 27 | [We Smile](https://open.spotify.com/track/6xiSUqGrrHHGt1EqHEN2QQ) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Extended Play](https://open.spotify.com/album/0EJrFovu6DatDZfwGbMFgG) | 3:17 |
-| 28 | [Oh Oh La La La](https://open.spotify.com/track/7gLgP6dxtCQcR50nfhFm0h) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:17 |
-| 29 | [Babydog](https://open.spotify.com/track/7xeeZ3Gpr2hF8Nq9fTEXy0) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:05 |
-| 30 | [The Body](https://open.spotify.com/track/5tJWjOgcvLFxTDGsOBQNEY) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:31 |
-| 31 | [57 Ways to End It All](https://open.spotify.com/track/4BbaVYdC0oR3z0erCzaK1u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:31 |
+| 28 | [Babydog](https://open.spotify.com/track/7xeeZ3Gpr2hF8Nq9fTEXy0) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:05 |
+| 29 | [Oh Oh La La La](https://open.spotify.com/track/7gLgP6dxtCQcR50nfhFm0h) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:17 |
+| 30 | [Truth is Hard](https://open.spotify.com/track/7zJHS8S6m7TPR6BJnnwGr6) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 2:57 |
+| 31 | [The Body](https://open.spotify.com/track/5tJWjOgcvLFxTDGsOBQNEY) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:31 |
 | 32 | [Puberty Song](https://open.spotify.com/track/0eGmlS2oDIMMXAHa0tEMCw) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 1:17 |
 
-Snapshot ID: `agEcAAAAAADGLrzXEaeCIlupRtrHidMV`
+Snapshot ID: `agJtgAAAAADbOWWL3qXYGkfGfhtDbs3A`

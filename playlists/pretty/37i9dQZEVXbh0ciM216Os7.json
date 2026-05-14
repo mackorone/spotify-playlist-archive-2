@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDEAR",
-        "url": "https://open.spotify.com/album/0AZOMZBxgdw9W53D0KG2XO"
-      },
-      "artists": [
-        {
-          "name": "Cooper Alan",
-          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
-        }
-      ],
-      "duration_ms": 121384,
-      "name": "IDEAR",
-      "url": "https://open.spotify.com/track/3d2LaKwruMSaImtP2pQdJK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jeffrey",
         "url": "https://open.spotify.com/album/44GiwcZJGAhySmvLTNp3oC"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 216499,
       "name": "Jeffrey",
       "url": "https://open.spotify.com/track/45zud8gGovBdxhMUwKlZ0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IDEAR",
+        "url": "https://open.spotify.com/album/0AZOMZBxgdw9W53D0KG2XO"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "duration_ms": 121384,
+      "name": "IDEAR",
+      "url": "https://open.spotify.com/track/3d2LaKwruMSaImtP2pQdJK"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blurry Creatures",
-        "url": "https://open.spotify.com/album/66iw9oiZ2Q6f7ZgGbjFa4U"
-      },
-      "artists": [
-        {
-          "name": "If These Trees Could Talk",
-          "url": "https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7"
-        }
-      ],
-      "duration_ms": 360613,
-      "name": "Blurry Creatures",
-      "url": "https://open.spotify.com/track/4efv0a4iPvex1Kx51KCkZf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
         "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
       },
@@ -131,22 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "love love FLAKK",
-        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+        "name": "Blurry Creatures",
+        "url": "https://open.spotify.com/album/66iw9oiZ2Q6f7ZgGbjFa4U"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "If These Trees Could Talk",
+          "url": "https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7"
         }
       ],
-      "duration_ms": 155039,
-      "name": "EL CIELO",
-      "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
+      "duration_ms": 360613,
+      "name": "Blurry Creatures",
+      "url": "https://open.spotify.com/track/4efv0a4iPvex1Kx51KCkZf"
     },
     {
       "added_at": null,
@@ -199,6 +179,26 @@
       "duration_ms": 239000,
       "name": "Fat Joe (with Demrick & Kail Problems)",
       "url": "https://open.spotify.com/track/59rfnata7uLr4h548K0vVf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 155039,
+      "name": "EL CIELO",
+      "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Memory Remains (Remastered)",
-        "url": "https://open.spotify.com/album/33675FUCqTas3vtbDUhIJh"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 254280,
-      "name": "Memory - \"The Memory Remains\" Take 18 / November 6th 1995",
-      "url": "https://open.spotify.com/track/7B2RA6YiyD9sv0m2CBFzR3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVERYTIME YOU TOUCH ME (LOVE SO HIGH)",
         "url": "https://open.spotify.com/album/3jXxz7NswFElE4ToknP8AE"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 216000,
       "name": "EVERYTIME YOU TOUCH ME (LOVE SO HIGH)",
       "url": "https://open.spotify.com/track/55IYCNhm9GCHztUASOzqzx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Memory Remains (Remastered)",
+        "url": "https://open.spotify.com/album/33675FUCqTas3vtbDUhIJh"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 254280,
+      "name": "Memory - \"The Memory Remains\" Take 18 / November 6th 1995",
+      "url": "https://open.spotify.com/track/7B2RA6YiyD9sv0m2CBFzR3"
     },
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smog (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5v9yUH4MkbT7Wovdz8Y54o"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        },
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Neapolitan Phantasy",
-      "url": "https://open.spotify.com/track/20xmXGsOL7nGsFyUxHszm2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Takoma With Love",
         "url": "https://open.spotify.com/album/71c0PWXhJIn5mj5hyiUhrz"
       },
@@ -539,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/1i3CrWoE4leIYcXYqVt8fk"
+        "name": "Smog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5v9yUH4MkbT7Wovdz8Y54o"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
         },
         {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 247867,
-      "name": "Racism Is a Killa (feat. Big Boi)",
-      "url": "https://open.spotify.com/track/00LWbZ6vxawXdu1CVv91lX"
+      "duration_ms": 234000,
+      "name": "Neapolitan Phantasy",
+      "url": "https://open.spotify.com/track/20xmXGsOL7nGsFyUxHszm2"
     },
     {
       "added_at": null,
@@ -575,6 +555,26 @@
       "duration_ms": 287516,
       "name": "A Kiss A Kill",
       "url": "https://open.spotify.com/track/2FoduzDx5BvoN9MMwA9CYO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/1i3CrWoE4leIYcXYqVt8fk"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "duration_ms": 247867,
+      "name": "Racism Is a Killa (feat. Big Boi)",
+      "url": "https://open.spotify.com/track/00LWbZ6vxawXdu1CVv91lX"
     },
     {
       "added_at": null,

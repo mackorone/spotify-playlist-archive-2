@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-328 songs - 15 hr 48 min
+329 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bounce That](https://open.spotify.com/track/74vDO1rgKvH91KQAQnGVfS) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Untrapped](https://open.spotify.com/album/25o1u6zcmIp31q6CPwOaTe) | 3:31 | 2024-06-11 |  |
 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 | 2024-06-11 |  |
 | [Brainstorm](https://open.spotify.com/track/1lANFRhSqsojJvmPNPyr1M) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:00 | 2024-06-11 |  |
+| [Brand New](https://open.spotify.com/track/796rpPylzca2T5oWtmkJll) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [Sick of Myself](https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j) | 2:31 | 2026-05-13 |  |
 | [Brick or Sum \(Tripstar, Yo Gotti feat\. Tay Keith\)](https://open.spotify.com/track/5d9hYby2SaUb92okASuIo3) | [Tripstar](https://open.spotify.com/artist/6CHFq8hiVCpHsNKsP2aMw2), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:07 | 2024-06-11 |  |
 | [Broke Boys](https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:45 | 2024-06-11 |  |
 | [Broke His Heart](https://open.spotify.com/track/01teRdn4aIEsPzVT1K6FAf) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:39 | 2024-09-25 |  |

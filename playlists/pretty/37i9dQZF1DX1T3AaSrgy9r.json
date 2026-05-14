@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 169288,
+  "num_followers": 169346,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Since I Left You",
-        "url": "https://open.spotify.com/album/3GBnNRYsxBfEeMSMmTpJ25"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        }
-      ],
-      "duration_ms": 288346,
-      "name": "Frontier Psychiatrist",
-      "url": "https://open.spotify.com/track/0E2UdlzNQP9I70MYumYlFo"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Dummy (Non UK Version)",
         "url": "https://open.spotify.com/album/3gxOtUSRzweDWBKlpj7cG6"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 305560,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/68oUQRwGJGExtkpaSvSbgb"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Since I Left You",
+        "url": "https://open.spotify.com/album/3GBnNRYsxBfEeMSMmTpJ25"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 288346,
+      "name": "Frontier Psychiatrist",
+      "url": "https://open.spotify.com/track/0E2UdlzNQP9I70MYumYlFo"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "On the Ropes",
+        "url": "https://open.spotify.com/album/33daQkvkB92gQPxu4O4ukC"
+      },
+      "artists": [
+        {
+          "name": "Mint Royale",
+          "url": "https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj"
+        }
+      ],
+      "duration_ms": 306909,
+      "name": "From Rusholme with Love",
+      "url": "https://open.spotify.com/track/4HWeiKfHdwn2hEgUQVfu2q"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "90 Discomania",
         "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
       },
@@ -1335,6 +1351,22 @@
       "duration_ms": 453880,
       "name": "Children",
       "url": "https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 117240,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1359,22 +1391,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 117240,
-      "name": "Organ Donor",
-      "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Post",
         "url": "https://open.spotify.com/album/51LMZCfC9erobzqcVNWYNE"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 236200,
       "name": "Army Of Me",
       "url": "https://open.spotify.com/track/2AS1h6NKoBzCoxlnmddOjI"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "On the Ropes",
-        "url": "https://open.spotify.com/album/33daQkvkB92gQPxu4O4ukC"
-      },
-      "artists": [
-        {
-          "name": "Mint Royale",
-          "url": "https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj"
-        }
-      ],
-      "duration_ms": 306909,
-      "name": "From Rusholme with Love",
-      "url": "https://open.spotify.com/track/4HWeiKfHdwn2hEgUQVfu2q"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Decksandrumsandrockandroll",
-        "url": "https://open.spotify.com/album/4Nt2YqpZ4Ls3isMeB6dF51"
+        "name": "Battleflag",
+        "url": "https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj"
       },
       "artists": [
         {
-          "name": "Propellerheads",
-          "url": "https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp"
+          "name": "Lo Fidelity Allstars",
+          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
         }
       ],
-      "duration_ms": 441760,
-      "name": "Take California",
-      "url": "https://open.spotify.com/track/6BepfRQPu3N9Ms3Y5pYsEM"
+      "duration_ms": 341000,
+      "name": "Battleflag",
+      "url": "https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Battleflag",
-        "url": "https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj"
+        "name": "Decksandrumsandrockandroll",
+        "url": "https://open.spotify.com/album/4Nt2YqpZ4Ls3isMeB6dF51"
       },
       "artists": [
         {
-          "name": "Lo Fidelity Allstars",
-          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
+          "name": "Propellerheads",
+          "url": "https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp"
         }
       ],
-      "duration_ms": 341000,
-      "name": "Battleflag",
-      "url": "https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7"
+      "duration_ms": 441760,
+      "name": "Take California",
+      "url": "https://open.spotify.com/track/6BepfRQPu3N9Ms3Y5pYsEM"
     },
     {
       "added_at": "2021-07-14 17:36:34",

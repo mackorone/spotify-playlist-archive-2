@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 828529,
+  "num_followers": 828598,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -295,18 +295,18 @@
     {
       "added_at": "2026-02-20 05:00:36",
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "Strait From The Heart",
+        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 246760,
-      "name": "Any Man Of Mine",
-      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+      "duration_ms": 173466,
+      "name": "Amarillo By Morning",
+      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
     },
     {
       "added_at": "2026-02-20 05:00:36",
@@ -359,18 +359,18 @@
     {
       "added_at": "2026-02-20 05:00:36",
       "album": {
-        "name": "Strait From The Heart",
-        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Amarillo By Morning",
-      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
     },
     {
       "added_at": "2026-02-20 05:00:36",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-02-20 05:00:36",
       "album": {
-        "name": "Don't Close Your Eyes",
-        "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
-      },
-      "artists": [
-        {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
-        }
-      ],
-      "duration_ms": 252626,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
-    },
-    {
-      "added_at": "2026-02-20 05:00:36",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 201600,
       "name": "Where The Green Grass Grows",
       "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+    },
+    {
+      "added_at": "2026-02-20 05:00:36",
+      "album": {
+        "name": "Don't Close Your Eyes",
+        "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "duration_ms": 252626,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
     },
     {
       "added_at": "2026-02-20 05:00:36",

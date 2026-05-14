@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Wiz Khalifa and Curren$y",
-  "num_followers": 1566424,
+  "num_followers": 1566346,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,18 @@
     {
       "added_at": "2026-05-08 04:04:05",
       "album": {
-        "name": "Spiral Staircases",
-        "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 209600,
-      "name": "Drive Alone",
-      "url": "https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS"
+      "duration_ms": 94587,
+      "name": "BULLFROG",
+      "url": "https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v"
     },
     {
       "added_at": "2026-05-08 04:04:05",
@@ -659,42 +651,26 @@
     {
       "added_at": "2026-05-08 04:04:05",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+        "name": "Spiral Staircases",
+        "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 94587,
-      "name": "BULLFROG",
-      "url": "https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v"
-    },
-    {
-      "added_at": "2026-05-08 04:04:05",
-      "album": {
-        "name": "Roofless Records For Drop Tops: Disc 2",
-        "url": "https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW"
-      },
-      "artists": [
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
         {
           "name": "Curren$y",
           "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
         },
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 166220,
-      "name": "The Coin Toss",
-      "url": "https://open.spotify.com/track/0vOSCwr3CqjRY4CMXOcNOT"
+      "duration_ms": 209600,
+      "name": "Drive Alone",
+      "url": "https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS"
     },
     {
       "added_at": "2026-05-08 04:04:05",
@@ -727,26 +703,42 @@
     {
       "added_at": "2026-05-08 04:04:05",
       "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+        "name": "Roofless Records For Drop Tops: Disc 2",
+        "url": "https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
         },
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
         }
       ],
-      "duration_ms": 222640,
-      "name": "Munyon Canyon",
-      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
+      "duration_ms": 166220,
+      "name": "The Coin Toss",
+      "url": "https://open.spotify.com/track/0vOSCwr3CqjRY4CMXOcNOT"
+    },
+    {
+      "added_at": "2026-05-08 04:04:05",
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 285805,
+      "name": "Friendly Hallucinations",
+      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
     },
     {
       "added_at": "2026-05-08 04:04:05",
@@ -775,18 +767,26 @@
     {
       "added_at": "2026-05-08 04:04:05",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 285805,
-      "name": "Friendly Hallucinations",
-      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
+      "duration_ms": 222640,
+      "name": "Munyon Canyon",
+      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
     },
     {
       "added_at": "2026-05-08 04:04:05",
@@ -835,26 +835,18 @@
     {
       "added_at": "2026-05-08 04:04:05",
       "album": {
-        "name": "Spiral Staircases",
-        "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 222853,
-      "name": "2.P.I.G.",
-      "url": "https://open.spotify.com/track/3sgv5VRl0IZpocRJcwc5CK"
+      "duration_ms": 204564,
+      "name": "Do You Have A Destination?",
+      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
     },
     {
       "added_at": "2026-05-08 04:04:05",
@@ -879,18 +871,26 @@
     {
       "added_at": "2026-05-08 04:04:05",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+        "name": "Spiral Staircases",
+        "url": "https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 204564,
-      "name": "Do You Have A Destination?",
-      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
+      "duration_ms": 222853,
+      "name": "2.P.I.G.",
+      "url": "https://open.spotify.com/track/3sgv5VRl0IZpocRJcwc5CK"
     },
     {
       "added_at": "2026-05-08 04:04:05",
@@ -983,6 +983,26 @@
     {
       "added_at": "2026-05-08 04:04:05",
       "album": {
+        "name": "God Does Like Ugly",
+        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 396806,
+      "name": "Of Blue (with Mereba)",
+      "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
+    },
+    {
+      "added_at": "2026-05-08 04:04:05",
+      "album": {
         "name": "Leadbelly (feat. MIKE)",
         "url": "https://open.spotify.com/album/3y6xpGcglPjbrpUZAMymiI"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 152349,
       "name": "Leadbelly - feat. MIKE",
       "url": "https://open.spotify.com/track/3VzXDNlINnvGTYWXtQlQr1"
-    },
-    {
-      "added_at": "2026-05-08 04:04:05",
-      "album": {
-        "name": "God Does Like Ugly",
-        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 396806,
-      "name": "Of Blue (with Mereba)",
-      "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
     },
     {
       "added_at": "2026-05-08 04:04:05",

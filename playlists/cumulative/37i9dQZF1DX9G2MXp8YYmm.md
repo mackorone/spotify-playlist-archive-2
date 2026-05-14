@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ece Mumay x Ragıb Narin
 
-583 songs - 1 day 5 hr 37 min
+584 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-06-27 | 2025-07-18 |
 | [Kendisi Çıktı Bu Yoldan](https://open.spotify.com/track/1Nt1tWcwS4NjjyHT29Osco) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [Cemre](https://open.spotify.com/artist/7DOyoizHnSQW6jMGndQ9pS) | [Kendisi Çıktı Bu Yoldan](https://open.spotify.com/album/5LLBJwrPLwWc2ro51AtFh1) | 2:30 | 2026-02-05 | 2026-02-28 |
 | [Kervan](https://open.spotify.com/track/4MsNwPBADIfVpQ9ZmXNc7B) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Kervan](https://open.spotify.com/album/0xdqDsFfcbRRCYFVgeDr6P) | 2:34 | 2025-01-16 | 2026-04-10 |
+| [Kesin Bilgi \- Harbi Ile Barbi](https://open.spotify.com/track/0dDuOoafXsBVJxZ6zhcSjr) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB), [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [RUH HASSASI](https://open.spotify.com/album/2s8crPj9fbE1ErzejEj1gE) | 3:32 | 2026-05-11 |  |
 | [Kim Derdi Ki](https://open.spotify.com/track/0eLRwnFU3tk2Tb0chKeCgC) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [Kim Derdi Ki](https://open.spotify.com/album/0F1LjE01DyzK56QHmNMERj) | 3:29 | 2026-01-15 | 2026-01-23 |
 | [Kimi Seviyorsun / Yanmışım Ben / Romeo \- Mashup 2026](https://open.spotify.com/track/6wW7aAHWeryP7BCRaApdLL) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd), [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Kimi Seviyorsun / Yanmışım Ben / Romeo \(Mashup 2026\)](https://open.spotify.com/album/0ZwTg5zMXKok2p3VbCAjsZ) | 3:03 | 2026-04-09 |  |
 | [KOCA ADAM](https://open.spotify.com/track/6OpuGG0tsOHaxkmoMEnrkq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [KOCA ADAM](https://open.spotify.com/album/7sYFdkwfB8jmyhgSKTXHUa) | 2:44 | 2024-12-19 | 2025-03-30 |
@@ -520,7 +521,7 @@
 | [Yaralı](https://open.spotify.com/track/5Hu6QdjiihFJQJ66xQW79c) | [Alişan](https://open.spotify.com/artist/321nPMiJ4ZY5ihxMz99R4J) | [Yaralı](https://open.spotify.com/album/5eBdMuFu4qmqSUWR96VDgT) | 4:02 | 2026-02-05 | 2026-04-03 |
 | [Yarem](https://open.spotify.com/track/2sBp2g6P6VCG19hzu56IOg) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Yarem](https://open.spotify.com/album/2cVkr3JnyqqACqhK4s0wm4) | 2:11 | 2024-08-22 | 2025-02-18 |
 | [Yarı Deli](https://open.spotify.com/track/4PUcdX1jTT7XB75zwCsXeN) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yarı Deli](https://open.spotify.com/album/5N48APJMjm14PAbNWGphDH) | 2:32 | 2024-07-11 | 2025-08-06 |
-| [Yas Tutarak](https://open.spotify.com/track/5knvXOMEn9wadb4GNaTFiF) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Yas Tutarak](https://open.spotify.com/album/7uPqReZ6mc48CYTDVyKAkn) | 2:50 | 2025-02-27 |  |
+| [Yas Tutarak](https://open.spotify.com/track/5knvXOMEn9wadb4GNaTFiF) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Yas Tutarak](https://open.spotify.com/album/7uPqReZ6mc48CYTDVyKAkn) | 2:50 | 2025-02-27 | 2026-05-14 |
 | [Yasemen](https://open.spotify.com/track/2SVoUZdzxuDuxBdHSO73KF) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Yasemen](https://open.spotify.com/album/10hs7zZCXHauEHe9mjzG0z) | 2:30 | 2024-10-03 | 2025-07-18 |
 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 | 2025-02-27 |  |
 | [Yat Kalk Dua Et](https://open.spotify.com/track/68fx1drvQDkcQvxHOwy7s7) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Yat Kalk Dua Et](https://open.spotify.com/album/2blu60oC8kIzEdsrGOxtrp) | 2:46 | 2024-06-27 | 2024-08-02 |

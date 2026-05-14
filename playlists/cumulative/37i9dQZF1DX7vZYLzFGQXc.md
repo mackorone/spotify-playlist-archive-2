@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: blueberryclub\) \(Meet the emerging talents of Korea!\)
 
-1,676 songs - 3 day 22 hr 3 min
+1,679 songs - 3 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1088,6 +1088,7 @@
 | [Plain](https://open.spotify.com/track/6qbOM4pmAkhH6CtzKErZZI) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [Plain](https://open.spotify.com/album/5rLjepB7ooj5Uq1YC7zL4f) | 2:39 | 2025-03-12 | 2025-06-17 |
 | [Plane](https://open.spotify.com/track/0zRjVoRMLEMgbJQ1gayqZK) | [lake tinn](https://open.spotify.com/artist/23bCMN0Dz2AFsOOK5GCQtT) | [Plane](https://open.spotify.com/album/2ZgQZLrLIBNxcuKULHqhX4) | 4:02 | 2023-03-31 | 2023-05-02 |
 | [plant](https://open.spotify.com/track/1WbgRgyOzEPbmRuq6TXsLL) | [hamzzi](https://open.spotify.com/artist/0iyQSn1NHU1W7neV9i7EZU) | [howdoifeel](https://open.spotify.com/album/2c4seOWuJ4jUxqp9eBB2QJ) | 2:40 | 2023-09-20 | 2024-03-22 |
+| [Planting time](https://open.spotify.com/track/3ogcgknvPI6P5lM7U54HHc) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 3:26 | 2026-05-13 |  |
 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 | 2023-10-30 | 2024-04-04 |
 | [plastic cup some little wine](https://open.spotify.com/track/2w2rMtqNy8T4tgs7WsAIx2) | [Ryo](https://open.spotify.com/artist/2fCHiUwNksuzS4y8TiFtN4) | [0.4 zip](https://open.spotify.com/album/7rcB4SR0GhKCxrmfHXsedg) | 2:39 | 2023-05-01 | 2023-07-06 |
 | [Playlist](https://open.spotify.com/track/04NgqZ5Wq2BDq4iMJlUyC5) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Playlist](https://open.spotify.com/album/2nuDgXGMLk7qQYwnuh6Jsu) | 2:46 | 2024-05-02 | 2024-09-03 |
@@ -1177,6 +1178,7 @@
 | [SAKURA](https://open.spotify.com/track/79fhDI559oHJZIlbBBaHJI) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [SAKURA](https://open.spotify.com/album/2mylbh0V9gJFFzGTsW1iwb) | 2:26 | 2022-04-20 | 2023-01-12 |
 | [Salad Days](https://open.spotify.com/track/74QAbcyw4wt5cN8QX22pMM) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Salad Days](https://open.spotify.com/album/3Di20DXIE3cTSUwRP0dqDF) | 2:01 | 2023-06-01 | 2024-01-03 |
 | [salt](https://open.spotify.com/track/7uPCZiAnILMxx8F402dmne) | [YOUNG IN](https://open.spotify.com/artist/4oul845EBgCRnFKfMTZLOl) | [salt](https://open.spotify.com/album/0fLVOF1PoCGnV5s6qNlU85) | 3:08 | 2023-01-30 | 2023-02-09 |
+| [Sanha Express](https://open.spotify.com/track/2RrPNyH9ncokySNU3wJnQ1) | [sanha](https://open.spotify.com/artist/3SSkfDFsKDXm5gwMK47uBR) | [SANHA EXPRESS](https://open.spotify.com/album/08zCoQcNilJ7QZfn42gGtJ) | 2:59 | 2026-05-13 |  |
 | [Sasha](https://open.spotify.com/track/0zWXjCqHDcbAusF4CvuDw8) | [James An](https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC) | [Dog's Desire](https://open.spotify.com/album/0ZRoTmOxkXQOZL4KshfU0N) | 2:57 | 2024-05-02 | 2024-09-03 |
 | [Saturday](https://open.spotify.com/track/1W8ErEYpQEdnGpLdA7BQ7e) | [Wondablo](https://open.spotify.com/artist/028nTVi9dNoJK9pnX5UjOG) | [Virgo](https://open.spotify.com/album/7gXzaFbFsHAzytTHQQlgbw) | 3:31 | 2022-09-29 | 2022-12-01 |
 | [Save your kids!!](https://open.spotify.com/track/3X49uSPwFy4dPUft9yBCgU) | [372](https://open.spotify.com/artist/5RmT3UQzQpSU1eNg99QatI) | [IT'S 7 TIME, NEED 2 SMOKE](https://open.spotify.com/album/2t2fHiT8j7RjMxMDMHkS2G) | 2:08 | 2023-01-30 | 2023-04-01 |
@@ -1403,6 +1405,7 @@
 | [TIE DYE](https://open.spotify.com/track/2GWUW5smk4RaqSG5VWhao7) | [JinE](https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od) | [TIE DYE](https://open.spotify.com/album/7EJfgf03rqzYKnqjEe4CE7) | 3:11 | 2023-07-27 | 2024-01-09 |
 | [Time](https://open.spotify.com/track/1X81ClUJ0nm3y9uPVYAa05) | [pigfrog](https://open.spotify.com/artist/37sRcX6lbXm3LbG8IHPTkB) | [Time](https://open.spotify.com/album/3bdk4EnH7zNiM2bTPEQbR4) | 3:17 | 2023-05-01 | 2023-07-06 |
 | [TIME MACHINE \(2100\)](https://open.spotify.com/track/0YdTWKY4AOJjoFRzvCv8w5) | [GIUK](https://open.spotify.com/artist/4kuX4KeHgnN8ifEGHHUd0x) | [Psycho Xybernetics : TURN OVER](https://open.spotify.com/album/6Aj2dwrucXX7G1021mfyOQ) | 3:17 | 2023-05-01 | 2023-07-06 |
+| [Time Stop Button \(feat\. Minjeong\)](https://open.spotify.com/track/5hZKcq4GLoSn33VkuJkgls) | [Raw Rabbit](https://open.spotify.com/artist/1qbZrnGjCA0tFdph91kuaQ), [Minjeong](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [Time Stop Button](https://open.spotify.com/album/41213rNKebJwXdJIQVr9T1) | 3:03 | 2026-05-13 |  |
 | [Timing](https://open.spotify.com/track/5hHHF4wzTc2K5PP6gpOTEr) | [Kim eun young](https://open.spotify.com/artist/49XEW1qNZPAeucXHu8zIeg) | [Timing](https://open.spotify.com/album/73VK4w06GJ37zySHOyTUoy) | 3:57 | 2023-06-01 | 2023-09-21 |
 | [Timing pool](https://open.spotify.com/track/2tq464dC5rz9z9LI2YAqo2) | [MOA](https://open.spotify.com/artist/4fCrr7xTKNEREwl8jRA3c2) | [Timing pool](https://open.spotify.com/album/7iDI0uHJAzTb4gujf6yT9w) | 3:37 | 2022-09-29 | 2023-02-01 |
 | [TIPSY](https://open.spotify.com/track/7BkIro1hHRs2pczrk0qKqs) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Luminous](https://open.spotify.com/album/3sgBQ8EZ1HZ9Ti11gjzvip) | 2:55 | 2022-04-20 | 2022-06-10 |

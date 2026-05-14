@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 676964,
+  "num_followers": 677215,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "La Rua Madureira",
+      "url": "https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
         "name": "Splendor in the Grass",
         "url": "https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 252653,
       "name": "O\u00f9 est ma t\u00eate?",
       "url": "https://open.spotify.com/track/30N6mzmZPQ0fUGW59krTc0"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "La Rua Madureira",
-      "url": "https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
-      },
-      "artists": [
-        {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
-        }
-      ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "I Could Be Happy",
         "url": "https://open.spotify.com/album/6yJVZEa8WVUBGVso0Uez2x"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 211973,
       "name": "La Pluie Et Le Beau Temps",
       "url": "https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+      },
+      "artists": [
+        {
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+        }
+      ],
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "J'ai Deux Amours",
-        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "De Temps en Temps",
-      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Lovely Difficult",
         "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 227026,
       "name": "Les mots d'amour",
       "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "J'ai Deux Amours",
+        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "De Temps en Temps",
+      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Le Paris De ... Montand",
-        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
+        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
       },
       "artists": [
         {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
         }
       ],
-      "duration_ms": 174773,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
+      "duration_ms": 193586,
+      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
-        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
+        "name": "Le Paris De ... Montand",
+        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
       },
       "artists": [
         {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
         }
       ],
-      "duration_ms": 193586,
-      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
-      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
+      "duration_ms": 174773,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Deux",
-        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
-      },
-      "artists": [
-        {
-          "name": "Enzo Enzo",
-          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Juste quelqu'un de bien",
-      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Get Out of Town (Deluxe)",
         "url": "https://open.spotify.com/album/5JMpQfDczhBHmpGXnuIwX4"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 316078,
       "name": "L\u2019\u00e9tang",
       "url": "https://open.spotify.com/track/2ilG1lCoG75pEuZX5wl7iU"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Deux",
+        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
+      },
+      "artists": [
+        {
+          "name": "Enzo Enzo",
+          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Juste quelqu'un de bien",
+      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Enzo Enzo",
-        "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
-      },
-      "artists": [
-        {
-          "name": "Enzo Enzo",
-          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Les yeux ouverts",
-      "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 203160,
       "name": "Un jour de diff\u00e9rence",
       "url": "https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Enzo Enzo",
+        "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
+      },
+      "artists": [
+        {
+          "name": "Enzo Enzo",
+          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Les yeux ouverts",
+      "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
     },
     {
       "added_at": "2026-02-13 08:51:02",

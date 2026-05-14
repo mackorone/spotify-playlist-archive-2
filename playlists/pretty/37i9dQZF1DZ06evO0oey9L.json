@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 100173,
+  "num_followers": 100178,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAAK6sRKTWMPmr/apbt0GZOp",
+  "snapshot_id": "agJtgAAAAABgOEvGpv71htqXFbO9Gh2f",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.1",
-        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 172879,
-      "name": "El Chuko",
-      "url": "https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fin De Semana",
         "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 180197,
       "name": "Fin De Semana",
       "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 172879,
+      "name": "El Chuko",
+      "url": "https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH"
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 145716,
-      "name": "Mi Buena Suerte",
-      "url": "https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu"
+      "duration_ms": 206861,
+      "name": "Vida De Locura",
+      "url": "https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 206861,
-      "name": "Vida De Locura",
-      "url": "https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH"
+      "duration_ms": 145716,
+      "name": "Mi Buena Suerte",
+      "url": "https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+        "name": "Los 3 De Siempre",
+        "url": "https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 184751,
-      "name": "Cuartitos De Libra",
-      "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
+      "duration_ms": 175777,
+      "name": "Los 3 De Siempre",
+      "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 3 De Siempre",
-        "url": "https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE"
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 175777,
-      "name": "Los 3 De Siempre",
-      "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
+      "duration_ms": 184751,
+      "name": "Cuartitos De Libra",
+      "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De La Escuelita Graduado",
-        "url": "https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 163918,
-      "name": "De La Escuelita Graduado",
-      "url": "https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni\u00f1as De Revista",
         "url": "https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De La Escuelita Graduado",
+        "url": "https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 163918,
+      "name": "De La Escuelita Graduado",
+      "url": "https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Guero",
         "url": "https://open.spotify.com/album/1KeF2YyOYQz9VSfrJtRXuq"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 124331,
       "name": "El Guero",
       "url": "https://open.spotify.com/track/56xZRR6LDp1KpIb28RdEwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas",
+        "url": "https://open.spotify.com/album/03H8sPu8hNwdAW7SiGZXGi"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 144903,
+      "name": "Musas",
+      "url": "https://open.spotify.com/track/6cqXMULD4XYoQQyEUmL49M"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
       "duration_ms": 148344,
       "name": "La Fiesta Ya Empezo",
       "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Musas",
-        "url": "https://open.spotify.com/album/03H8sPu8hNwdAW7SiGZXGi"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 144903,
-      "name": "Musas",
-      "url": "https://open.spotify.com/track/6cqXMULD4XYoQQyEUmL49M"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre De Rancho",
-        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 168881,
-      "name": "Sangre De Rancho",
-      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paris & Grecia",
         "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 165587,
       "name": "Paris & Grecia",
       "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sangre De Rancho",
+        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 168881,
+      "name": "Sangre De Rancho",
+      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
     },
     {
       "added_at": null,

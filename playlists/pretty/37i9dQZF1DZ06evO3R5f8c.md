@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,811 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,900 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 36 | [Ready For The World \- Original Mix](https://open.spotify.com/track/2C5nA4hmzjzWPp8QW82pdo) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH) | [Ready For The World](https://open.spotify.com/album/02PUNZUgLIbRwg2QVKEfAN) | 7:53 |
 | 37 | [We Are One \- Black Coffee Original Dub](https://open.spotify.com/track/0yRbdmtSZIAt29prSfst2U) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [We Are One](https://open.spotify.com/album/2lUBjtdiF93gxS7tlEbqAz) | 7:58 |
 | 38 | [Stuck In Your Love \(feat\. Azola\)](https://open.spotify.com/track/6REbbKoksIc127eDJxz8GC) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Azola](https://open.spotify.com/artist/7M9doTdfKCnqeW9whjgcuh) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 7:05 |
-| 39 | [My Dream](https://open.spotify.com/track/6fLoatWbAn6nn02VIVuU4r) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:40 |
-| 40 | [The Chameleon](https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Black Moses](https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 |
+| 39 | [The Chameleon](https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Black Moses](https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 |
+| 40 | [My Dream](https://open.spotify.com/track/6fLoatWbAn6nn02VIVuU4r) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:40 |
 | 41 | [Crazy \- Quentin Harris Remix](https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Crazy](https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH) | 7:46 |
 | 42 | [Extra Time On You \(feat\. Portia Monique\)](https://open.spotify.com/track/61ZwhDqqQCMoK29InoEdKD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Portia Monique](https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 7:22 |
 | 43 | [Izizwe](https://open.spotify.com/track/0TOScmuHq8iS1GblTVqQMq) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 7:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 49 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 |
 | 50 | [100 Zulu Warriors](https://open.spotify.com/track/5xYU4QIQqxhGaWgpwKLkri) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 |
 
-Snapshot ID: `agEcAAAAAACKp7O/sFNbH9uJlgeRLVm8`
+Snapshot ID: `agJtgAAAAAC71tJZrthPt7ROt6o+Bnz3`

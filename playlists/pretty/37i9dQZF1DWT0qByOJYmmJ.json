@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 629488,
+  "num_followers": 629465,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "C\u00d3MO RESPIRAR???",
-        "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 221075,
-      "name": "C\u00d3MO RESPIRAR???",
-      "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Qui\u00e9n Dice",
         "url": "https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 225196,
       "name": "Qui\u00e9n Dice",
       "url": "https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "C\u00d3MO RESPIRAR???",
+        "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 221075,
+      "name": "C\u00d3MO RESPIRAR???",
+      "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "c\u00f3mo acaba",
+        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "En Medio De Este Ruido (Deluxe)",
         "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 255773,
       "name": "Vengo Del Futuro - Remix",
       "url": "https://open.spotify.com/track/4fQkGF3euv3UIoOXEXsPZo"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "c\u00f3mo acaba",
-        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 235470,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Duerme En Paz",
         "url": "https://open.spotify.com/album/63RkToY6nto4dKQDxqgMrG"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 184760,
       "name": "Duerme En Paz",
       "url": "https://open.spotify.com/track/7cWBIjCBlHSC8q6OND9GUz"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 235470,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Es Verdad",
         "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
       },
@@ -995,6 +1011,26 @@
       "duration_ms": 161813,
       "name": "Es Verdad",
       "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Otros Colores",
+        "url": "https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 351813,
+      "name": "Otros Colores",
+      "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1027,42 +1063,6 @@
       "duration_ms": 179094,
       "name": "V\u00e1monos a Marte",
       "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Otros Colores",
-        "url": "https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 351813,
-      "name": "Otros Colores",
-      "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 251433,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov"
       },
@@ -1235,22 +1219,34 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Si Nos Dejan",
-        "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
+      "duration_ms": 251433,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Perd\u00ed",
+        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Perd\u00ed",
+      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Perd\u00ed",
-        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
+        "name": "Si Nos Dejan",
+        "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
       },
       "artists": [
         {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Perd\u00ed",
-      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
+      "duration_ms": 152000,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+        "name": "La Perra Soledad",
+        "url": "https://open.spotify.com/album/4KxzEIFakAHj2O5jClpLbX"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+      "duration_ms": 188228,
+      "name": "La Perra Soledad",
+      "url": "https://open.spotify.com/track/1s7y3gBwzBpucREn0Pgwxr"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1355,18 +1351,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "La Perra Soledad",
-        "url": "https://open.spotify.com/album/4KxzEIFakAHj2O5jClpLbX"
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 188228,
-      "name": "La Perra Soledad",
-      "url": "https://open.spotify.com/track/1s7y3gBwzBpucREn0Pgwxr"
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

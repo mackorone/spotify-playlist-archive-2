@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2800375,
+  "num_followers": 2800768,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAABuYxiT/+BIpgICU2KvNotl",
+  "snapshot_id": "agJtgAAAAADKdcKdmKxzr2x6i77tn4gW",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
       },
       "artists": [
         {
           "name": "Lana Del Rey",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 264066,
-      "name": "Lust For Life (with The Weeknd)",
-      "url": "https://open.spotify.com/track/0mt02gJ425Xjm7c3jYkOBn"
+      "duration_ms": 365760,
+      "name": "The Blackest Day",
+      "url": "https://open.spotify.com/track/45pI8224KKX9Gx5fiyvEAh"
     },
     {
       "added_at": null,
@@ -619,8 +615,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Lust For Life (with The Weeknd)",
+      "url": "https://open.spotify.com/track/0mt02gJ425Xjm7c3jYkOBn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
       },
       "artists": [
         {
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 365760,
-      "name": "The Blackest Day",
-      "url": "https://open.spotify.com/track/45pI8224KKX9Gx5fiyvEAh"
+      "duration_ms": 215673,
+      "name": "Tulsa Jesus Freak",
+      "url": "https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chemtrails Over The Country Club",
-        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 215673,
-      "name": "Tulsa Jesus Freak",
-      "url": "https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC"
     },
     {
       "added_at": null,

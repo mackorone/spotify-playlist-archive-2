@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,530 songs - 3 day 16 hr 40 min
+1,532 songs - 3 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,8 +181,8 @@
 | [Chill Kill](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:34 | 2023-11-15 | 2023-11-21 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-20 | 2024-07-22 |
 | [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 | 2024-07-21 | 2024-08-04 |
-| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-05 |  |
-| [CHOOM](https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k) | 2:58 | 2026-05-09 | 2026-05-11 |
+| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-05 | 2026-05-14 |
+| [CHOOM](https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k) | 2:58 | 2026-05-09 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6) | 2:46 | 2025-12-25 | 2025-12-28 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 | 2021-12-25 | 2021-12-27 |
 | [Ciao](https://open.spotify.com/track/5liLMCOcyXU45BY9LzyC6r) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Ciao](https://open.spotify.com/album/49E9WqCcwPoxlJ288eFG69) | 4:33 | 2021-06-20 | 2022-01-23 |
@@ -395,7 +395,8 @@
 | [Heartbreaker](https://open.spotify.com/track/3OE79FmEvvXym1uIBFIkBD) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Kingdom](https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4) | 3:19 | 2025-12-05 |  |
 | [Heartbreaker](https://open.spotify.com/track/4oIwqUDqcKyF8M5bmFY8Ax) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Heartbreaker](https://open.spotify.com/album/26Z5V2PyiNfG3nOmtpdNRT) | 3:19 | 2025-03-07 | 2025-12-06 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-24 | 2022-05-07 |
-| [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 | 2026-05-12 |  |
+| [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 | 2026-05-12 | 2026-05-14 |
+| [Heavy Serenade](https://open.spotify.com/track/1Sjs93mMgi9bX06FFU9Mcv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/6fA8V4uDvle3Tm6qUGlikz) | 3:00 | 2026-05-13 |  |
 | [Here With Me](https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/6VGoENqiseiYwmPUQW2oVl) | 4:02 | 2025-09-21 | 2025-09-27 |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2025-09-20 | 2025-09-26 |
 | [Hey Hey OK!](https://open.spotify.com/track/4pJWCkQnPeXfDyqouuBJ77) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Hey Hey OK!](https://open.spotify.com/album/3oLxZGJGt6R9K7GI1fuW6m) | 3:17 | 2024-07-18 | 2025-12-06 |
@@ -962,7 +963,8 @@
 | [Waiting For You \(with Gary Yang\)](https://open.spotify.com/track/3j2O0gUZaIT5SSpC9F4Emw) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [Greatest Works of Art](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:30 | 2022-07-16 | 2022-07-18 |
 | [WANTCHU](https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [WANTCHU](https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI) | 3:19 | 2025-08-09 | 2025-08-31 |
 | [Warrior](https://open.spotify.com/track/3jBI3hvc9Z0FUcdyj7spEm) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Warrior](https://open.spotify.com/album/2YvFttJM4ejmuoe7V8IuBz) | 4:07 | 2021-03-27 | 2021-08-28 |
-| [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL) | 2:54 | 2026-05-12 |  |
+| [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL) | 2:54 | 2026-05-12 | 2026-05-14 |
+| [WDA \(Whole Different Animal\) \[feat\. G\-DRAGON\]](https://open.spotify.com/track/4x0GAc6gDUttopqakXNezW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \[feat\. G\-DRAGON\]](https://open.spotify.com/album/6IttHfuu2t5ciZPApSX0Ex) | 2:54 | 2026-05-13 |  |
 | [We All Are](https://open.spotify.com/track/33NGVjht7ARoo8fhyYwrCE) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [We All Are](https://open.spotify.com/album/0pc250Ptyh2Esln0NlBz3y) | 4:18 | 2022-10-11 | 2022-12-13 |
 | [WE ARE](https://open.spotify.com/track/7CSW3iTdFPl3ITtljie7iW) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [WE ARE](https://open.spotify.com/album/3NojOcL4RvJ2viZf1LqqQm) | 4:15 | 2022-07-23 | 2022-08-17 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-03-09 | 2024-03-11 |

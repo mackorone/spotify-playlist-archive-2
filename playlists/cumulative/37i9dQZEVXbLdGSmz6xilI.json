@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 256905,
       "name": "24H",
       "url": "https://open.spotify.com/track/4UC3NBjtqbYcqPqRq1s57D"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 139000,
       "name": "A Little Dream Of Me",
       "url": "https://open.spotify.com/track/66v7AvDs5gZfmkJgFMMtHL"
@@ -4032,7 +4032,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 306477,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0fGJiHH6xSUJU1MAVjxq5m"
@@ -6040,7 +6040,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 218512,
       "name": "C\u00f3 Em",
       "url": "https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa"
@@ -7716,7 +7716,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 209672,
       "name": "D\u1ea1o B\u01b0\u1edbc HongKong 1999",
       "url": "https://open.spotify.com/track/11T61UpoNbbcewOMl1kcWN"
@@ -7734,7 +7734,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 209560,
       "name": "D\u1ea1o B\u01b0\u1edbc H\u00f4ng K\u00f4ng 1999\uff08\u6f2b\u6b65\u9999\u6e2f1999\uff09",
       "url": "https://open.spotify.com/track/6UFXhOu5m5qd3hiKoF9Xgl"
@@ -7770,7 +7770,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 284288,
       "name": "D\u1ea1o N\u00e0y",
       "url": "https://open.spotify.com/track/4MCP9l0QB9YN2LCkIy8mz4"
@@ -9846,7 +9846,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 223200,
       "name": "gi\u00e1 nh\u01b0",
       "url": "https://open.spotify.com/track/58ZlEBxBrzISXtmcOPo476"
@@ -16650,7 +16650,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 328240,
       "name": "m\u1ed9t \u0111\u1eddi",
       "url": "https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"
@@ -17416,7 +17416,7 @@
           "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
         },
         {
-          "name": "V\u0169 C\u00e1t T\u01b0\u1eddng",
+          "name": "VCT",
           "url": "https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A"
         },
         {
@@ -17438,7 +17438,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 316633,
       "name": "NG\u01af\u1edcI NH\u01af ANH X\u1ee8NG \u0110\u00c1NG C\u00d4 \u0110\u01a0N",
       "url": "https://open.spotify.com/track/5u5AsK8JLgkr154QHZjJqh"
@@ -25836,6 +25836,24 @@
     {
       "album": {
         "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
+        "url": "https://open.spotify.com/album/45yTg9HMBmoZVUoNK0nHzz"
+      },
+      "artists": [
+        {
+          "name": "Lil Zpoet",
+          "url": "https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300750,
+      "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
+      "url": "https://open.spotify.com/track/0pSTK0qekDyWdGvbDuuCfC"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
         "url": "https://open.spotify.com/album/3SaLl3FkaEF7KWJElvSL0N"
       },
       "artists": [
@@ -25864,7 +25882,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
@@ -27048,7 +27066,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -28086,7 +28104,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 211200,
       "name": "Wrong Times",
       "url": "https://open.spotify.com/track/6n2xOcqQrNOY0IfgATSwWs"
@@ -28604,7 +28622,7 @@
       },
       "artists": [
         {
-          "name": "Lou Hoang",
+          "name": "Lou Ho\u00e0ng",
           "url": "https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP"
         },
         {
@@ -28614,7 +28632,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 253524,
       "name": "Y\u00eau M\u1ed9t Ng\u01b0\u1eddi C\u00f3 L\u1ebd",
       "url": "https://open.spotify.com/track/2o4dDfLK6NVI7TjBm5VoMv"

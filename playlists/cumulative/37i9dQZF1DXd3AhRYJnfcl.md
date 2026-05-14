@@ -2,9 +2,9 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: عمرو دياب
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: شيرين
 
-439 songs - 1 day 1 hr 44 min
+440 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/track/2uq6KhwXlCogpNTmN1cq7x) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/album/0thPfaJUCA1Pe3UPNo7wOl) | 5:42 | 2024-05-07 | 2024-09-10 |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-04-13 |  |
 | [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 | 2025-04-10 | 2025-07-19 |
-| [الحضن شوك](https://open.spotify.com/track/0IQH121iAc4jJAhPUol4Yf) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الحضن شوك](https://open.spotify.com/album/26KryY32FLwZlGHNxmA7N7) | 3:45 | 2026-04-26 |  |
+| [الحضن شوك](https://open.spotify.com/track/0IQH121iAc4jJAhPUol4Yf) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الحضن شوك](https://open.spotify.com/album/26KryY32FLwZlGHNxmA7N7) | 3:45 | 2026-04-26 | 2026-05-14 |
 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 | 2023-06-26 | 2024-02-17 |
 | [الدنيا ملبشه](https://open.spotify.com/track/2fKk4N1SQTJdhOq4xjoHlo) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [الدنيا ملبشه](https://open.spotify.com/album/0X36KfkDjSv4DuGilNlQTd) | 3:05 | 2025-08-13 |  |
 | [الدهب](https://open.spotify.com/track/6Xw3zZd7uXObNVeDox4ZpT) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الدهب](https://open.spotify.com/album/6LCL6l60ELVYSucbUDwL0P) | 3:09 | 2024-02-16 | 2024-04-19 |
@@ -327,6 +327,7 @@
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-06 | 2023-02-14 |
 | [بيكلموني](https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 5:16 | 2024-04-30 | 2025-08-15 |
 | [تاني](https://open.spotify.com/track/3rV9uAALyaUifbNZQPpGen) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [بيستهبل "الوش الاول"](https://open.spotify.com/album/6R6Mt6nS9EOMUwbxi5FADY) | 2:38 | 2025-08-07 |  |
+| [تباعاً تباعاً](https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [تباعاً تباعاً](https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu) | 4:06 | 2026-05-13 |  |
 | [توأمي](https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [توأمي](https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu) | 3:34 | 2025-05-13 | 2025-08-23 |
 | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/2GbSrRs5VUoKTbnEiqoa4v) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/2om5xx9EYHCw8NPFIP9tnD) | 3:55 | 2024-06-21 | 2024-09-10 |
 | [تيجي نتصور](https://open.spotify.com/track/1nyylMku4Hlheim1suER3t) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 2:46 | 2025-07-18 | 2025-09-16 |

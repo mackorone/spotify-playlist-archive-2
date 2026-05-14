@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Sayf, Aira, MamboLosco e Niky Savage, Diss Gacha e molti altri.
 
-7,207 songs - 13 day 6 hr 22 min
+7,208 songs - 13 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3515,6 +3515,7 @@
 | [Leviatano](https://open.spotify.com/track/7v9yRBbhiICGJyjRUWFHdT) | [Brain](https://open.spotify.com/artist/3kUliBZD9sFj0YLIwKyVYp), [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri) | [Il signore delle mosche](https://open.spotify.com/album/60DL2keRXGlFz1Syk14VDL) | 2:32 | 2023-01-12 | 2023-01-20 |
 | [Levitating High 𓁹 \(con Papa V, Pitta, JOJO ABOT\)](https://open.spotify.com/track/0kbcf0agcQ1YYv0poPbGWd) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Jojo Abot](https://open.spotify.com/artist/7yR9zhQxEi9sc3vJxS2YG5) | [Levitating High 𓁹 \(con Papa V, Pitta, JOJO ABOT\)](https://open.spotify.com/album/5nEEhbdUfEjej1KVSTn7Tm) | 3:17 | 2026-04-09 | 2026-05-08 |
 | [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 | 2023-05-04 | 2023-06-02 |
+| [LEWANDOWSKI XI](https://open.spotify.com/track/4F1XlmUmFbvAj3Pw8MMrPT) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/1skLkLQdIPk8L4c16DbqkX) | 2:58 | 2026-05-13 |  |
 | [Lexotan](https://open.spotify.com/track/3etchmHfFgx8JVGhFKufMN) | [DRAMA](https://open.spotify.com/artist/4rcRJMIU5VqF47CfwlYjik), [Botox](https://open.spotify.com/artist/56qpU7kLF3C56Vo8zkiod2) | [Lexotan](https://open.spotify.com/album/4I7s7Ul9Lkj5y6mIaWEvGR) | 3:06 | 2024-02-15 | 2024-02-23 |
 | [Leão](https://open.spotify.com/track/242LN803biAe1tnQcdRf3t) | [Peet](https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [À demain](https://open.spotify.com/album/6ZsgRFJ41qP4MSXbm1vPta) | 2:35 | 2024-04-11 | 2024-04-19 |
 | [LIBERA FOLLIA.](https://open.spotify.com/track/53JcW0LS92vAl8Z65OBOkF) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [LIBERA FOLLIA.](https://open.spotify.com/album/75tSh21oVbDuc3Hq1hpZGQ) | 2:45 | 2023-07-06 | 2023-07-14 |

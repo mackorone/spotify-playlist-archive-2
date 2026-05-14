@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2026 playlist.
 
-116 songs - 5 hr 43 min
+118 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Dobrodošli](https://open.spotify.com/track/5UspyMgNKogZTVNc9Ptl9P) | [Nina Zizic](https://open.spotify.com/artist/6KfnLDNb1o14EBOX6HInHO) | [Dobrodošli](https://open.spotify.com/album/32mNiQZWRZPliemdjkO3tZ) | 3:00 | 2025-02-28 | 2025-04-23 |
 | [Dobrodošli \- Eurovision 2025](https://open.spotify.com/track/19Tty48pp2obWcLiRbEAVG) | [Nina Zizic](https://open.spotify.com/artist/6KfnLDNb1o14EBOX6HInHO) | [Dobrodošli \(Eurovision 2025\)](https://open.spotify.com/album/5HGhSZ9a4GkhIcZiIHb4M0) | 3:23 | 2025-04-22 | 2026-03-13 |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-05-11 | 2025-03-01 |
-| [Eclipse](https://open.spotify.com/track/2pJ0Ji9nkohwuKMuyNhiwo) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Eclipse](https://open.spotify.com/album/3AH33SDipOCuw9ATLx1CrX) | 3:00 | 2026-03-12 |  |
+| [Eclipse](https://open.spotify.com/track/268EdGlIxScwdC21kE89Nf) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Eclipse](https://open.spotify.com/album/6waF3p59pl6HY7fCnz6ril) | 3:00 | 2026-05-13 |  |
+| [Eclipse](https://open.spotify.com/track/2pJ0Ji9nkohwuKMuyNhiwo) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Eclipse](https://open.spotify.com/album/3AH33SDipOCuw9ATLx1CrX) | 3:00 | 2026-03-12 | 2026-05-14 |
 | [Eins, Zwei, Drei](https://open.spotify.com/track/26xlJAlQoCMbnAWd0sGCQf) | [LOOK MUM NO COMPUTER](https://open.spotify.com/artist/24KLOfQv2HrpsCerfN6bef) | [Eins, Zwei, Drei](https://open.spotify.com/album/7yGx7Va1vpyhsLvdwRmKyT) | 3:10 | 2026-03-12 |  |
 | [Esa Diva](https://open.spotify.com/track/6utHjfvlsCAj0V6Wg6mXqx) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva](https://open.spotify.com/album/1Z0LWWEpJAv0dA4VF6POTZ) | 2:58 | 2025-04-22 | 2026-03-13 |
 | [Esa Diva \- Benidorm Fest Edit](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva \(Benidorm Fest Edit\)](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 | 2025-02-28 | 2025-04-23 |
@@ -43,7 +44,8 @@
 | [Fire](https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP) | [Sarah Engels](https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P) | [Fire](https://open.spotify.com/album/71faxgxtIua8WZLM9v9U6v) | 2:57 | 2026-03-12 |  |
 | [Firefighter](https://open.spotify.com/track/5Ekw4o2ecrOCBF5rGB7KXs) | [Nutsa](https://open.spotify.com/artist/28BY95cMOgoVJrJK9YLS7Z) | [Firefighter](https://open.spotify.com/album/1uZCKKz6GFG8RXXQhRZ9vv) | 3:03 | 2024-05-11 | 2025-03-01 |
 | [Freedom \- Eurovision 2025 \- Georgia](https://open.spotify.com/track/5mjD2U1w6217p73LC9MEht) | [Mariam Shengelia](https://open.spotify.com/artist/57UpwmCYjUyIaKUWOO2gV3) | [Freedom \(Eurovision 2025 \- Georgia\)](https://open.spotify.com/album/1qDquxaoZDp77B9tr4WT2q) | 2:50 | 2025-03-17 | 2026-03-13 |
-| [Før Vi Går Hjem](https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3) | 2:54 | 2026-03-12 |  |
+| [Før Vi Går Hjem](https://open.spotify.com/track/2qG6vr8fMq2abvKu7qXVuQ) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/6DIbkPf3IfXlhovI4F25Pb) | 2:54 | 2026-05-13 |  |
+| [Før Vi Går Hjem](https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3) | 2:54 | 2026-03-12 | 2026-05-14 |
 | [GAJA \- Eurovision Edit](https://open.spotify.com/track/0wNpA89DLOyKlZZVJ7wCac) | [Justyna Steczkowska](https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP) | [GAJA \(Eurovision Edit\)](https://open.spotify.com/album/5c5XVlbDvejnJUm3eEdN2N) | 3:00 | 2025-02-28 | 2026-03-13 |
 | [Grito](https://open.spotify.com/track/2zhBeIoGEqISdQOu4HtQZc) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Festival da Canção 2024](https://open.spotify.com/album/4EQbuZ20BLzc1AenXH2dt5) | 2:56 | 2024-05-11 | 2025-03-01 |
 | [Hallucination](https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws) | [Sissal](https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP) | [Hallucination](https://open.spotify.com/album/4ErsLdiv1HwkVN0ueMtPRJ) | 3:03 | 2025-03-02 | 2026-03-13 |

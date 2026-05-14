@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,663 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,679 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 30 | [Chequen Los Datos](https://open.spotify.com/track/1a8oMeKTxUGKuYyQz2rT5u) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:06 |
 | 31 | [Pérdida De Tiempo](https://open.spotify.com/track/6h3vi3mEGJVoJBjtDY1mcp) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [El Mundo Es Tuyo \(Inspired by Clika The Movie\)](https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY) | 3:43 |
 | 32 | [De La Calle \(Remix\)](https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Line Up](https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU) | 2:37 |
-| 33 | [No Me Preocupo Tanto](https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Ultimos Son Los Primeros](https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4) | 2:33 |
-| 34 | [Crimes](https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:40 |
+| 33 | [Los Ultimos Son Los Primeros \(Remix\)](https://open.spotify.com/track/5vRcByVHzEc0Eejo4WzmLi) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [333](https://open.spotify.com/album/0kMlewzNPhiikgi0eL0ocz) | 3:27 |
+| 34 | [No Me Preocupo Tanto](https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Ultimos Son Los Primeros](https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4) | 2:33 |
 | 35 | [Quiero](https://open.spotify.com/track/1mREkl3xPnQESlXgfust3r) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [El Mundo Es Tuyo \(Inspired by Clika The Movie\)](https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY) | 3:52 |
-| 36 | [Ni Que Fuera](https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Ni Que Fuera](https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO) | 2:43 |
-| 37 | [Los Ultimos Son Los Primeros \(Remix\)](https://open.spotify.com/track/5vRcByVHzEc0Eejo4WzmLi) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [333](https://open.spotify.com/album/0kMlewzNPhiikgi0eL0ocz) | 3:27 |
+| 36 | [Crimes](https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:40 |
+| 37 | [Ni Que Fuera](https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Ni Que Fuera](https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO) | 2:43 |
 | 38 | [Yo, Billetes y Damas](https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Yo, Billetes y Damas \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG) | 3:29 |
 | 39 | [Intro](https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 2:12 |
 | 40 | [Francotirador](https://open.spotify.com/track/3ED6wBTpybjYfzl9ZHAS67) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 49 | [Heisenbern](https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:07 |
 | 50 | [Amor Tirano](https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0) | [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Amor Tirano \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/1OnAqmwh0crkBjOSAciiqN) | 3:06 |
 
-Snapshot ID: `agEcAAAAAAAnM+zM8KuGSaP2j8X1O3mV`
+Snapshot ID: `agJtgAAAAABcHHCDj76APPSvXGMgbzZj`

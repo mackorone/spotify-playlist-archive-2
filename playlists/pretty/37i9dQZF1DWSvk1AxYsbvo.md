@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 🐹김햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,158 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,165 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 25 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
 | 26 | [A Rain of Petals](https://open.spotify.com/track/0bjY1AC7Dg0dY08XwIqaTD) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [My Little New Diary, Pt\. 4](https://open.spotify.com/album/1QvSAkm9UyY4gcriXIQmN3) | 3:43 |
 | 27 | [To the other side of greed](https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:47 |
-| 28 | [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 |
-| 29 | [Lover](https://open.spotify.com/track/1x8y9zhORcFz1jOscolY9S) | [CHOI JUNG EUN](https://open.spotify.com/artist/57vWEo5CS7wC4oJjuCcgAr) | [Love, Take Two, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4ZBsA5UZmPkhsKVr6kBnm4) | 3:16 |
+| 28 | [Lover](https://open.spotify.com/track/1x8y9zhORcFz1jOscolY9S) | [CHOI JUNG EUN](https://open.spotify.com/artist/57vWEo5CS7wC4oJjuCcgAr) | [Love, Take Two, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4ZBsA5UZmPkhsKVr6kBnm4) | 3:16 |
+| 29 | [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 |
 | 30 | [Joy](https://open.spotify.com/track/4pzNQT5eROmrGNmdeIW5DI) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Made In Heart](https://open.spotify.com/album/5SFEorQR8TgWGYwLSg2nE2) | 2:40 |
 | 31 | [Dawnlight](https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Autumn](https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r) | 3:31 |
 | 32 | [Gleaning](https://open.spotify.com/track/0G5gCyheNKiXyfei3xhIBe) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [See You, Evergreen](https://open.spotify.com/album/1EdlJAIAYCgiGlpkawfazJ) | 4:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,079 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,169 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 60 | [You Ain’t Gotta Die \(To Be Dead To Me\)](https://open.spotify.com/track/2l71DB43YblEWw73yWzeTm) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/3j10vE1dzWGEyVj5lcQXX0) | 3:19 |
 | 61 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
 | 62 | [Let the Rain Come Down](https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:19 |
-| 63 | [Life Ain't Fair and the World Is Mean](https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [High Top Mountain](https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf) | 2:06 |
+| 63 | [25 & Wastin' Time](https://open.spotify.com/track/0tIRswIxHkAXTF0cx2Eodb) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Fried Chicken & Evil Women](https://open.spotify.com/album/1kdQ7i7iGL2yCMKV87m7ls) | 2:57 |
 | 64 | [Help Me Make It Through the Night](https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:27 |
-| 65 | [25 & Wastin' Time](https://open.spotify.com/track/0tIRswIxHkAXTF0cx2Eodb) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Fried Chicken & Evil Women](https://open.spotify.com/album/1kdQ7i7iGL2yCMKV87m7ls) | 2:57 |
+| 65 | [Life Ain't Fair and the World Is Mean](https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [High Top Mountain](https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf) | 2:06 |
 | 66 | [Whiskey in My Cup](https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Them Dirty Roses](https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj) | 4:00 |
 | 67 | [Straw in the Wind](https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 4:42 |
 | 68 | [I'm Not Lisa](https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [I'm Jessi Colter](https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa) | 3:23 |

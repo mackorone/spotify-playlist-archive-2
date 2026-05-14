@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
+    },
+    {
+      "album": {
         "name": "Girlhood Vol. 1",
         "url": "https://open.spotify.com/album/2rZM4MhAxLZkqyNGPSbhRc"
       },
@@ -1463,6 +1481,28 @@
     },
     {
       "album": {
+        "name": "Society's Face pt. II",
+        "url": "https://open.spotify.com/album/6sZvNzhJDj1g2QiaQhBhWe"
+      },
+      "artists": [
+        {
+          "name": "Steven Charlot",
+          "url": "https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV"
+        },
+        {
+          "name": "Eva Valery",
+          "url": "https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258742,
+      "name": "Dive (feat. Eva Valery)",
+      "url": "https://open.spotify.com/track/6Rm6wlcvUMmoewgqT6HtGp"
+    },
+    {
+      "album": {
         "name": "Do You Really",
         "url": "https://open.spotify.com/album/176nPDYntjkybucUj1VlJt"
       },
@@ -1532,7 +1572,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 180791,
       "name": "DOWN TO EARTH",
       "url": "https://open.spotify.com/track/0xzMgzRwyU2QKSHhkZFmhk"
@@ -2152,6 +2192,24 @@
       "duration_ms": 202285,
       "name": "for the both of us",
       "url": "https://open.spotify.com/track/1oLDkSgl8zCu4aW4eMmzYx"
+    },
+    {
+      "album": {
+        "name": "For The First Time",
+        "url": "https://open.spotify.com/album/0SbjvOZeeG71tHayf8eE70"
+      },
+      "artists": [
+        {
+          "name": "Taylor Williams",
+          "url": "https://open.spotify.com/artist/4ND8mF5vf3F615yQfWyQ1F"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179990,
+      "name": "For The First Time",
+      "url": "https://open.spotify.com/track/6N3bOSmxxiYzeQpxBWX9uu"
     },
     {
       "album": {
@@ -6210,6 +6268,24 @@
       "duration_ms": 248638,
       "name": "The Plant",
       "url": "https://open.spotify.com/track/2TEgeBERMNn3fD5QVyzojj"
+    },
+    {
+      "album": {
+        "name": "The Scene",
+        "url": "https://open.spotify.com/album/1rrJHFbKKiQS0hsCImT9Og"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207240,
+      "name": "The Scene",
+      "url": "https://open.spotify.com/track/5WbIiaNommbTNicqBzfHZZ"
     },
     {
       "album": {

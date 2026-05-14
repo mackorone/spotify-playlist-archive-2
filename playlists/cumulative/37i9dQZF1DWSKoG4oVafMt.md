@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,171 songs - 2 day 15 hr 7 min
+1,172 songs - 2 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -869,6 +869,7 @@
 | [Roll Deep](https://open.spotify.com/track/4jRoXx97M0sSZBfwMkBEDV) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Roll Deep](https://open.spotify.com/album/0cQDo3urPpbh6QAawatABo) | 3:02 | 2022-05-20 | 2022-07-06 |
 | [ROLL WITH ME](https://open.spotify.com/track/2OpVASAdLg3TP46OSKsYVH) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:17 | 2024-02-21 | 2024-06-01 |
 | [Rooh](https://open.spotify.com/track/2HuoVplD1lLM8WYUVDd3gE) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Rooh](https://open.spotify.com/album/5obWYzYO5TQJkIoWBx4OHG) | 3:28 | 2022-12-07 | 2023-01-28 |
+| [Rooh](https://open.spotify.com/track/10rhpdsxOLaPgtyvdlJSEl) | [Tej Gill](https://open.spotify.com/artist/2e6falDLi6bveZl8dHtaY8) | [Rooh](https://open.spotify.com/album/7w0HmqnKOF7Cjqr3WHYpBk) | 3:28 | 2026-05-13 |  |
 | [Rooh \(From "Kulche Chole"\)](https://open.spotify.com/track/4mXwwnEm15OIufI78v68sB) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI), [Jannat Zubair](https://open.spotify.com/artist/3WTqijS74B7kbeOvDmXLFb) | [Rooh \(From "Kulche Chole"\)](https://open.spotify.com/album/4vWfS0Bc2tLPeaCqyyXGWR) | 3:54 | 2022-08-31 | 2023-02-04 |
 | [Rovengi Rovengi](https://open.spotify.com/track/0svxi1An9r9uBjUfTIV8il) | [A Kay](https://open.spotify.com/artist/4ZPiabRclxJHc90C0eY8xh), [Jay Dee](https://open.spotify.com/artist/35sUjoeFA3eopTY3PXEjVA) | [Rovengi Rovengi](https://open.spotify.com/album/3HbN9XiYcfaGnkeJ7Bvhx8) | 3:19 | 2022-03-15 | 2022-04-06 |
 | [Roz Raat](https://open.spotify.com/track/2KW9XIQSHlxdezn24QiXLG) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Music Mg](https://open.spotify.com/artist/187TniBCUYUBlVTjmtsVi9) | [Roz Raat](https://open.spotify.com/album/0ozU1rhsuUWoAlizWD06Wn) | 3:35 | 2022-03-18 | 2022-04-06 |
@@ -966,7 +967,7 @@
 | [Starlight](https://open.spotify.com/track/582UWRGnIOVDggh2y8GAjc) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Starlight](https://open.spotify.com/album/6iQPuXW239eSe42INuWF8z) | 2:52 | 2022-01-17 | 2022-02-12 |
 | [Stella](https://open.spotify.com/track/4uVMeiBR4lPTfl7NM1QNAX) | [Kamal Dua](https://open.spotify.com/artist/2JcFAugRuL87wpOT1haKrD) | [Stella](https://open.spotify.com/album/5TsgrpZN6Shq52EkbbS39q) | 3:28 | 2022-01-22 | 2022-03-11 |
 | [Still](https://open.spotify.com/track/5WnE7JNO0HYILXMCl0OOO2) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Still](https://open.spotify.com/album/0JZE0Bs194zOX4iwYeiDkX) | 3:36 | 2023-06-23 | 2025-02-22 |
-| [Still in Love](https://open.spotify.com/track/7xMxDC51EwpHoOTrAfwhCR) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Future Archives](https://open.spotify.com/album/6bCH4bUqV4FEosxkkN6mAa) | 2:23 | 2026-04-30 |  |
+| [Still in Love](https://open.spotify.com/track/7xMxDC51EwpHoOTrAfwhCR) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Future Archives](https://open.spotify.com/album/6bCH4bUqV4FEosxkkN6mAa) | 2:23 | 2026-04-30 | 2026-05-14 |
 | [Storiyan](https://open.spotify.com/track/5AnYiIOxQVCweiykN7KqES) | [Sunny Mehra](https://open.spotify.com/artist/6jCryAgpEelVCGHCbxRoTS), [Robby Beats](https://open.spotify.com/artist/2BVRxobqe5PI7QCpK7CzH7) | [Storiyan](https://open.spotify.com/album/2AYyhkWWKryC0s06tvhzwR) | 3:18 | 2022-12-23 | 2023-02-02 |
 | [Straight Forward](https://open.spotify.com/track/12PQrHIHBYHz6CqDzRS6Ot) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Straight Forward](https://open.spotify.com/album/3O0QPqMcrOw7SalZBuBIjQ) | 3:15 | 2022-07-28 | 2022-09-23 |
 | [Straight Forward](https://open.spotify.com/track/2bpKRLiSsAW4jWBZ8pLKt8) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Straight Forward](https://open.spotify.com/album/2tzKmPJ72cXuUz6tcV9Tf5) | 3:15 | 2022-07-22 | 2022-07-29 |

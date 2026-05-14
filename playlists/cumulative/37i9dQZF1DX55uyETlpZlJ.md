@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasuki Vaibhav
 
-656 songs - 1 day 13 hr 17 min
+657 songs - 1 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Ah Sanjeyu](https://open.spotify.com/track/0FmAL5404C59bgZ0NReIjR) | [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Ah Sanjeyu](https://open.spotify.com/album/6uDXz3TYEYQ2oXTiyEJXQN) | 3:03 | 2024-06-06 | 2024-11-14 |
 | [Aigiri Nandini](https://open.spotify.com/track/4bJCeVoQH0g0IVtZT1Mw1D) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Aigiri Nandini](https://open.spotify.com/album/7LMtFuBWtKUZ9qJW6erzrs) | 1:30 | 2024-01-29 | 2024-02-17 |
 | [Aishu Nee Andada Giniya](https://open.spotify.com/track/6HcFoWvUiDoktTTDc1koDS) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst) | [Aishu Nee Andada Giniya](https://open.spotify.com/album/4FxHIygHzSHzwodmGJyxCM) | 6:04 | 2025-08-21 | 2026-01-15 |
-| [Akka Kelavva](https://open.spotify.com/track/7g6diPqcCkgtw0WguVC9Kk) | [Dhruti B Athreyas](https://open.spotify.com/artist/53mxvciPWWRhHIZnyvH7y8), [Bharat Jain](https://open.spotify.com/artist/2Axgtr4RXPBmnJW3vd6l0d) | [Akka Kelavva](https://open.spotify.com/album/6byuN647cy5ztLCMfWlqfZ) | 3:34 | 2025-11-11 |  |
+| [Akka Kelavva](https://open.spotify.com/track/7g6diPqcCkgtw0WguVC9Kk) | [Dhruti B Athreyas](https://open.spotify.com/artist/53mxvciPWWRhHIZnyvH7y8), [Bharat Jain](https://open.spotify.com/artist/2Axgtr4RXPBmnJW3vd6l0d) | [Akka Kelavva](https://open.spotify.com/album/6byuN647cy5ztLCMfWlqfZ) | 3:34 | 2025-11-11 | 2026-05-14 |
 | [ALAG HAI](https://open.spotify.com/track/3ptmb4toZVGAs73tbERceP) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [ALAG HAI](https://open.spotify.com/album/7A7jELEKRiRVMIQMZGlGyN) | 1:23 | 2023-09-20 | 2024-02-17 |
 | [ALAG HAI](https://open.spotify.com/track/5E11KdVG38ylpaI736pJ9I) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [ALAG HAI](https://open.spotify.com/album/5gqrIFh0OfRGTwNqrV52rz) | 1:23 | 2023-09-20 | 2024-01-07 |
 | [Alemaari](https://open.spotify.com/track/1vEAKvg8MTsLE1bXnIXAJu) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV), [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy) | [Alemaari](https://open.spotify.com/album/15vbphiLpF98dJshJkVfhQ) | 3:40 | 2025-04-21 | 2025-10-18 |
@@ -39,6 +39,7 @@
 | [Amma](https://open.spotify.com/track/1cknWsTf04j4n2FoGUV7DS) | [Pavana V Kashyap](https://open.spotify.com/artist/1KqqYAhcih9exiT1rEUQlQ), [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Amma](https://open.spotify.com/album/6LoIoj7lzUFF4lNld1TQWQ) | 2:06 | 2024-05-02 | 2024-11-07 |
 | [Amma \- Amma enda aa kshana](https://open.spotify.com/track/4fLupNE2qawIX7d146Wj9t) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i), [Giridhar Divan](https://open.spotify.com/artist/0fj18YwFnSMUQ7xlrOIWVz), [Bagur Markadeya](https://open.spotify.com/artist/5v2JYszdVFwmkDBX0iQOPL) | [Amma \(Amma enda aa kshana\)](https://open.spotify.com/album/4XY7NzBNYyhP9KcJViDWKo) | 4:07 | 2023-05-16 | 2023-06-08 |
 | [AMMA \- Kaanada Daiva](https://open.spotify.com/track/6arwgiW6iaxM21qKWoRq7R) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vishnu K N](https://open.spotify.com/artist/2xuE6nX0KkyCECdmfnqyZX) | [AMMA \(Kaanada Daiva\)](https://open.spotify.com/album/4yO2V101zBfVyWUDnLlW3w) | 3:24 | 2023-05-16 | 2023-06-17 |
+| [Amma \- Kannada](https://open.spotify.com/track/20lUzsYKSSrVLt6G5DbeZT) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Amma \- Kannada](https://open.spotify.com/album/22o9iHfhR8xHZ0qTzfc3tu) | 5:24 | 2026-05-14 |  |
 | [Amma \- The Kodava Song](https://open.spotify.com/track/0khDuovSKj6pD4QHqAUoZa) | [Pop\-J Prajeeth](https://open.spotify.com/artist/23tu7tlPGRa9m21gycHy3p), [Karan Kaverappa](https://open.spotify.com/artist/6RZUmMeOOq7bgEWC6nyps7) | [Amma \- The Kodava Song](https://open.spotify.com/album/6Ev8CV3skVwb6duG5nqg2b) | 3:27 | 2024-01-22 | 2024-02-17 |
 | [Amma Endu Karedare](https://open.spotify.com/track/26I3du1XsXyCRYUoXO9xGP) | [Smitha Dinakar](https://open.spotify.com/artist/2DM1Y8LnSGXi2qtm3bPAeo) | [Amma Endu Karedare](https://open.spotify.com/album/2LOCsni19lBhB0Ib7zzLot) | 3:58 | 2024-06-28 | 2024-12-04 |
 | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/track/4x6lFrNvEvsJyZL3UFnC8s) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/album/2XypahtBYalSRdrgPWK7Va) | 2:59 | 2023-05-11 | 2024-01-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26763,
+  "num_followers": 26760,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Hold Me In The Dark",
+        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Hold Me In The Dark",
+      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 205000,
       "name": "Palamaan",
       "url": "https://open.spotify.com/track/5oOeg8tJgIl4y2YFCj4tId"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Hold Me In The Dark",
-        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Hold Me In The Dark",
-      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Mansion Music",
-        "url": "https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Mannerheim",
-      "url": "https://open.spotify.com/track/1XroWO4bK8wj5mYgvc9Dvo"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 233434,
       "name": "+-0",
       "url": "https://open.spotify.com/track/1MWkXV0BeBUXYiqAKfPAdF"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Mansion Music",
+        "url": "https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Mannerheim",
+      "url": "https://open.spotify.com/track/1XroWO4bK8wj5mYgvc9Dvo"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "CEO (Rich Man)",
-        "url": "https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy"
-      },
-      "artists": [
-        {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
-        }
-      ],
-      "duration_ms": 149634,
-      "name": "CEO (Rich Man)",
-      "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 174453,
       "name": "Ik\u00e4v\u00e4, kyll\u00e4",
       "url": "https://open.spotify.com/track/0ODbSS6Tq4WqqazALjwksv"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "CEO (Rich Man)",
+        "url": "https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "duration_ms": 149634,
+      "name": "CEO (Rich Man)",
+      "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "More than enough...",
+        "url": "https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "More than enough...",
+      "url": "https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "No Haav No Love",
         "url": "https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "More than enough...",
-        "url": "https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP"
+        "name": "SHOTIT",
+        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
         }
       ],
-      "duration_ms": 212307,
-      "name": "More than enough...",
-      "url": "https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW"
+      "duration_ms": 154659,
+      "name": "SHOTIT",
+      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "SHOTIT",
-        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
-      },
-      "artists": [
-        {
-          "name": "OLGA",
-          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
-        }
-      ],
-      "duration_ms": 154659,
-      "name": "SHOTIT",
-      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "ALICE",
         "url": "https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 279488,
       "name": "ALICE",
       "url": "https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Kuudes aisti",
+        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Kuudes aisti",
+      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1087,22 +1103,6 @@
       "duration_ms": 225061,
       "name": "Syd\u00e4n (feat. Alina Burnet)",
       "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Kuudes aisti",
-        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Kuudes aisti",
-      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "1001 tapaa",
-        "url": "https://open.spotify.com/album/6An4sRgD5Iw430vBfvXjRU"
-      },
-      "artists": [
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "1001 tapaa",
-      "url": "https://open.spotify.com/track/3FEqxWTMRB4jka8qmknxOz"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Pokaali",
         "url": "https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 187520,
       "name": "Pokaali",
       "url": "https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "1001 tapaa",
+        "url": "https://open.spotify.com/album/6An4sRgD5Iw430vBfvXjRU"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "1001 tapaa",
+      "url": "https://open.spotify.com/track/3FEqxWTMRB4jka8qmknxOz"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "L\u00e4nsipuoli",
-        "url": "https://open.spotify.com/album/0RJultAynFlzZXE708nEPz"
-      },
-      "artists": [
-        {
-          "name": "Pyrythekid",
-          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "L\u00e4nsipuoli",
-      "url": "https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Olosuhteet",
         "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 188810,
       "name": "Olosuhteet",
       "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "L\u00e4nsipuoli",
+        "url": "https://open.spotify.com/album/0RJultAynFlzZXE708nEPz"
+      },
+      "artists": [
+        {
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "L\u00e4nsipuoli",
+      "url": "https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "I Wasn't Young, I Needed the Money",
+        "url": "https://open.spotify.com/album/5pS46ohbb8JBGY0FhqIkmi"
+      },
+      "artists": [
+        {
+          "name": "Sin Cos Tan",
+          "url": "https://open.spotify.com/artist/3maaZRO6VRwTf6oUik93ZJ"
+        }
+      ],
+      "duration_ms": 207136,
+      "name": "I Wasn't Young, I Needed the Money",
+      "url": "https://open.spotify.com/track/21CwcCRnNYHrSUNXvMwS9Y"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Chasing the Flame",
         "url": "https://open.spotify.com/album/13BCjXlmjCjOzvXQZDOywd"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 186921,
       "name": "Chasing the Flame",
       "url": "https://open.spotify.com/track/5lXA6WnXiAnSpMy0J8oV9m"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "I Wasn't Young, I Needed the Money",
-        "url": "https://open.spotify.com/album/5pS46ohbb8JBGY0FhqIkmi"
-      },
-      "artists": [
-        {
-          "name": "Sin Cos Tan",
-          "url": "https://open.spotify.com/artist/3maaZRO6VRwTf6oUik93ZJ"
-        }
-      ],
-      "duration_ms": 207136,
-      "name": "I Wasn't Young, I Needed the Money",
-      "url": "https://open.spotify.com/track/21CwcCRnNYHrSUNXvMwS9Y"
     }
   ],
   "unique_name": "Ensisoitossa",

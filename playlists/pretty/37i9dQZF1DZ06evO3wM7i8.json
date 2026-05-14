@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 36172,
+  "num_followers": 36181,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAABNMfFU6oAv2b5jfC5vPGBM",
+  "snapshot_id": "agJtgAAAAAA5GGaHzm6SUeMlaOV13X6j",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol5 / 1937",
-        "url": "https://open.spotify.com/album/4zXNqwdURbAjxf3lngaosQ"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 162733,
-      "name": "St. Louis Blues",
-      "url": "https://open.spotify.com/track/2EnHd4gc4u4Ks9hhuNuy5B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Star Sessions",
         "url": "https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3"
       },
@@ -195,8 +179,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol7 / 1937 - 1938",
-        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
+        "name": "Djangologie Vol5 / 1937",
+        "url": "https://open.spotify.com/album/4zXNqwdURbAjxf3lngaosQ"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/2EnHd4gc4u4Ks9hhuNuy5B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Django: Radio Recordings 1947",
+        "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
       "artists": [
         {
@@ -204,13 +204,29 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "Maurice Meunier",
+          "url": "https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru"
+        },
+        {
+          "name": "Eddie Bernard",
+          "url": "https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww"
+        },
+        {
+          "name": "Eug\u00e8ne V\u00e9es",
+          "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
+        },
+        {
+          "name": "Emmanuel Soudieux",
+          "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
+        },
+        {
+          "name": "Jacques Martinon",
+          "url": "https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Farewell Blues",
-      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
+      "duration_ms": 204781,
+      "name": "Nuages",
+      "url": "https://open.spotify.com/track/2bRjs9011aMUeerhcPvoHb"
     },
     {
       "added_at": null,
@@ -255,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Django: Radio Recordings 1947",
-        "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
+        "name": "Djangologie Vol7 / 1937 - 1938",
+        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
       },
       "artists": [
         {
@@ -264,29 +280,13 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "Maurice Meunier",
-          "url": "https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru"
-        },
-        {
-          "name": "Eddie Bernard",
-          "url": "https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww"
-        },
-        {
-          "name": "Eug\u00e8ne V\u00e9es",
-          "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
-        },
-        {
-          "name": "Emmanuel Soudieux",
-          "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
-        },
-        {
-          "name": "Jacques Martinon",
-          "url": "https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 204781,
-      "name": "Nuages",
-      "url": "https://open.spotify.com/track/2bRjs9011aMUeerhcPvoHb"
+      "duration_ms": 194400,
+      "name": "Farewell Blues",
+      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
     },
     {
       "added_at": null,
@@ -603,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangology (feat. St\u00e9phane Grappelli)",
-        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Menilmontant (feat. St\u00e9phane Grappelli) - Remastered 2002",
-      "url": "https://open.spotify.com/track/6ZiZFzYHPKeNO6i98ubnqa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -667,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Rex Stewart",
-          "url": "https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa"
-        }
-      ],
-      "duration_ms": 145973,
-      "name": "Montmartre",
-      "url": "https://open.spotify.com/track/0XX4H46p4ahalPWzLz1zrr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangology (feat. St\u00e9phane Grappelli)",
         "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
       },
@@ -704,9 +660,29 @@
           "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
         }
       ],
-      "duration_ms": 207960,
-      "name": "I Saw Stars (feat. St\u00e9phane Grappelli) - Remastered 2002",
-      "url": "https://open.spotify.com/track/7bK6vG5VbBtSbr831Fgsi5"
+      "duration_ms": 182800,
+      "name": "Menilmontant (feat. St\u00e9phane Grappelli) - Remastered 2002",
+      "url": "https://open.spotify.com/track/6ZiZFzYHPKeNO6i98ubnqa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Rex Stewart",
+          "url": "https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa"
+        }
+      ],
+      "duration_ms": 145973,
+      "name": "Montmartre",
+      "url": "https://open.spotify.com/track/0XX4H46p4ahalPWzLz1zrr"
     },
     {
       "added_at": null,
@@ -751,6 +727,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangology (feat. St\u00e9phane Grappelli)",
+        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "I Saw Stars (feat. St\u00e9phane Grappelli) - Remastered 2002",
+      "url": "https://open.spotify.com/track/7bK6vG5VbBtSbr831Fgsi5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Django Reinhardt",
         "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 182866,
       "name": "My Serenade",
       "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Out of Nowhere",
-      "url": "https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 187133,
       "name": "After You're Gone",
       "url": "https://open.spotify.com/track/0gGBsUh6KzomYrr4oQGlHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Out of Nowhere",
+      "url": "https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB"
     },
     {
       "added_at": null,

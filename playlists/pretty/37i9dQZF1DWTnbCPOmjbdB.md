@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Kasia Sienkiewicz
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,881 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,914 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 7 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
 | 8 | [Obejmuję noce](https://open.spotify.com/track/1X3saW7eGrSLRVbEIWwFsh) | [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Obejmuję noce](https://open.spotify.com/album/6uhc5vkbLJIr217Z9mxDXB) | 2:56 |
 | 9 | [Zabiorę Cię Tam](https://open.spotify.com/track/6LrArcAWVYhqtl68a7Wt1U) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Zabiorę Cię Tam](https://open.spotify.com/album/1G1oz4LW7AloRrSn2EQ90B) | 3:33 |
-| 10 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4), [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
+| 10 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
 | 11 | [Gdy będziesz sam](https://open.spotify.com/track/2D3KypXOFJWiZMz40ZwJCy) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Gdy będziesz sam](https://open.spotify.com/album/0nJhmSMbbrIbkVjGSyz31i) | 3:01 |
 | 12 | [LUBIĘ CIĘ JAK LATO](https://open.spotify.com/track/3YroZZ167DAVEk8YfzZgdg) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [LUBIĘ CIĘ JAK LATO](https://open.spotify.com/album/6RN3TzcM1iclrKEiD4qwsl) | 2:04 |
 | 13 | [Berlin](https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Berlin](https://open.spotify.com/album/5J13FhMrY4J7bgenI6ipXa) | 2:55 |

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Những 🎶  mới mẻ từ các nghệ sĩ có thể bạn chưa biết, được các biên tập Spotify chọn lựa bằng cả trái tim\. Ảnh bìa: Solmee\. Thiết kế: Isu Kim
+> Những 🎶  mới mẻ từ các nghệ sĩ có thể bạn chưa biết, được các biên tập Spotify chọn lựa bằng cả trái tim\. Ảnh bìa: NGUYEN TRAN\. Thiết kế: Isu Kim
 
-2,285 songs - 5 day 13 hr 54 min
+2,288 songs - 5 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,6 +716,7 @@
 | [Ghế Đá](https://open.spotify.com/track/0yrEflbPuffOZ2Jll8s8K0) | [NVM](https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [Han Concadien](https://open.spotify.com/artist/01CMTVsTjO0G1vYsR2NJ31) | [Ghế Đá](https://open.spotify.com/album/5q48SfNQiBiSlK24JIeuk8) | 3:24 | 2025-10-23 | 2025-11-28 |
 | [Gia Vị](https://open.spotify.com/track/1clZCPPjEVMa4lW8spOJ8M) | [Hoàng KayLee](https://open.spotify.com/artist/41TxXGX17thfgXvwCXZ9fq), [T\-Mix](https://open.spotify.com/artist/60wI2zeyHJpK9WDiGQbXEK) | [Gia Vị](https://open.spotify.com/album/0PVZXvnN3zmvBamV56ilKf) | 2:47 | 2022-04-03 | 2022-04-23 |
 | [Giai điệu buồn](https://open.spotify.com/track/5xDntB3EzxAc7CQrk3rVsy) | [OGGY](https://open.spotify.com/artist/7EZScJjSrhUSWrth8ZsdNt), [Mickey](https://open.spotify.com/artist/7DNXlRnRZj3Rq07ci63eCN) | [2 depression](https://open.spotify.com/album/4keUIEM8Phe3iNMg3K3dAP) | 3:37 | 2023-09-21 | 2023-10-12 |
+| [Giam cầm](https://open.spotify.com/track/3RJJOUcWbrKfSChLKNXUra) | [Awai](https://open.spotify.com/artist/0c2yZIhpaVnrU9mzULHGzA) | [Giam cầm](https://open.spotify.com/album/0iEHXBXhCyTD6VyxiakpJB) | 3:42 | 2026-05-13 |  |
 | [GIAYPHUT](https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ) | [GIAYPHUT](https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH) | 3:25 | 2022-07-28 | 2023-01-06 |
 | [GIAYPHUT](https://open.spotify.com/track/4fxb18lZap3bW72cRvTH5i) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ) | [GIAYPHUT](https://open.spotify.com/album/12Xpa5Vp0FbiKzx1EU7TCy) | 3:25 | 2022-03-10 | 2022-07-29 |
 | [Gieo Mãi Những Nụ Cười](https://open.spotify.com/track/1HiNTV81wgHA8KGQiPRGHb) | [Phạm Minh Thành](https://open.spotify.com/artist/1Lwn6T7n3PbLW0UjTLRL8S) | [Gieo Mãi Những Nụ Cười](https://open.spotify.com/album/0DcqjNyq8dZy0HQT8Xy1oZ) | 3:28 | 2024-10-10 | 2024-12-05 |
@@ -1004,6 +1005,7 @@
 | [Last Day](https://open.spotify.com/track/7oCXlDdMhMy2drj0ITDhTN) | [Kim Trung](https://open.spotify.com/artist/0ueeK1wrzLph6HbmTdOe5i) | [Last Day](https://open.spotify.com/album/5tLHMWPI88PDWn5HpQ86nV) | 3:29 | 2023-11-03 | 2023-11-30 |
 | [last day on earth](https://open.spotify.com/track/0jLQeN30gdbLXOp7mGwAnA) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [sinh](https://open.spotify.com/album/4tS2XfjFQjNYG8Z96y5lge) | 2:52 | 2023-06-15 | 2023-09-15 |
 | [Latte](https://open.spotify.com/track/0kTQwUgZAQ3vQOLs7kbPTm) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex), [SlowD](https://open.spotify.com/artist/0jlWAtl1UaA1lZ7Py10MGd) | [Latte](https://open.spotify.com/album/6xtzOG0CXzFei30ujpPgPo) | 2:40 | 2023-04-26 | 2023-05-18 |
+| [Lemon Flower](https://open.spotify.com/track/7BshuBWUbOVPcZxsPyIIyg) | [Nuwie](https://open.spotify.com/artist/3TYA4QzDYPiyR6BNirJnep), [Bảo Nghi](https://open.spotify.com/artist/2sVYd9tXtInjx7dfxP5MRj) | [Lemon Flower](https://open.spotify.com/album/2Fklk5FGAO53xFRgW17OMf) | 3:27 | 2026-05-13 |  |
 | [Let Me Be Myself](https://open.spotify.com/track/4YeByRKs3gZYA6QrcQJzVw) | [Mezzo Phạm](https://open.spotify.com/artist/2UVFZhF0MSAu1Iij4JTJ2c) | [Let Me Be Myself](https://open.spotify.com/album/1GCbcIAL0ETfVdatny9nzy) | 2:24 | 2024-11-28 | 2024-12-05 |
 | [Let Me Go](https://open.spotify.com/track/1vgDGTB8b0ZIvDadcAgsVu) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [Let Me Go](https://open.spotify.com/album/4vJOCN7mKkC1FkzRwE7iff) | 2:50 | 2024-10-24 | 2024-12-05 |
 | [LET ME IN](https://open.spotify.com/track/7qh58p3eBoccMmmOqSwmOW) | [OGGY](https://open.spotify.com/artist/7EZScJjSrhUSWrth8ZsdNt) | [LET ME IN](https://open.spotify.com/album/5Wcj7D0mMo5N2x6Uqxjlep) | 3:12 | 2024-08-29 | 2024-10-18 |
@@ -1483,6 +1485,7 @@
 | [PHÉP MÀU](https://open.spotify.com/track/2AaVhHq6uswCZiH9GrFYmC) | [PhuNguyen](https://open.spotify.com/artist/7CzpaYUiOGe02FaBBfqlFx), [Darki](https://open.spotify.com/artist/5Oe02XQcUF74wOofnIl9b2) | [PHÉP MÀU](https://open.spotify.com/album/6nhFOZwOTq8dPUvJ7gtuox) | 2:58 | 2023-07-26 | 2023-09-13 |
 | [Phía Cô Đơn \(feat\. Tweny\)](https://open.spotify.com/track/05stCwV47EfcaamRv6GkmD) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Tweny](https://open.spotify.com/artist/4vf3KI4FQmaxaXkl0frRaj) | [Phía Cô Đơn](https://open.spotify.com/album/7dEe7RXcPv5W0tCYAH3uFr) | 3:45 | 2022-08-18 | 2022-09-30 |
 | [Phía Sau Anh Luôn Có Em](https://open.spotify.com/track/0aYfRC5l3UceW3CYZb4ayo) | [Duyên Kendy](https://open.spotify.com/artist/4T9fywR99lLZCdKDZXkdwf), [NH4T](https://open.spotify.com/artist/63WrjImX9GPi1i1pqz2BKe) | [Phía Sau Anh Luôn Có Em](https://open.spotify.com/album/66WOyEtxeD0uBtoeNXGlX1) | 4:17 | 2023-06-08 | 2023-08-04 |
+| [Phím Đàn Đơn](https://open.spotify.com/track/2S6CRNB9RzOYApkzHAliS1) | [Tường Duy](https://open.spotify.com/artist/1j6QCJXxviV8ZDhOncFdUo) | [Ra Khỏi Phòng](https://open.spotify.com/album/5YidUAaAZBPimdulIP4kCG) | 2:46 | 2026-05-13 |  |
 | [Phóng Em Lên Cung Trăng](https://open.spotify.com/track/4l1s4vu0reIeeTu3iKMAJS) | [Cassano](https://open.spotify.com/artist/34xBbPMcvr4EInfpUB0NEo) | [TÌNH TỨ](https://open.spotify.com/album/5z80lWvwTYSnnNTMXn44vQ) | 3:04 | 2024-04-24 | 2024-06-28 |
 | [PHÓNG NHANH](https://open.spotify.com/track/1RwPG7HPEkjNi5viPollXC) | [Fang Cee](https://open.spotify.com/artist/2rNmKq6YTNX5W9IxX9NsTb), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [PHÓNG NHANH](https://open.spotify.com/album/28lgF7xP6Y0mLvsKVcCwf3) | 2:50 | 2024-10-17 | 2024-11-01 |
 | [Phù Hộ](https://open.spotify.com/track/1v4tzv62wP8tT00n6cYU9X) | [Doff](https://open.spotify.com/artist/7mVUyYrO7Ut7BJ0KkLQtg7), [NeckmFlame](https://open.spotify.com/artist/7tSLoFAPKZwDTo6SjHY44b), [SainDXD](https://open.spotify.com/artist/7fgNAYWIcSkPxLTa13y4VZ) | [Phù Hộ](https://open.spotify.com/album/7koq12LLFwQm8ZNLin8C4q) | 4:00 | 2025-04-09 | 2025-05-09 |

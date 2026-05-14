@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,202 likes - 145 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,258 likes - 145 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 104 | [How Do You Do It? \- Mono](https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [At Abbey Road](https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR) | 1:54 |
 | 105 | [Get Down with It](https://open.spotify.com/track/63VN1yQ8RcKMUVX4KMRsBy) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Get Down With It!: The OKeh Sessions](https://open.spotify.com/album/3XJdo12CbRAzzG58QbzKkk) | 3:14 |
 | 106 | [In the Midnight Hour](https://open.spotify.com/track/4Px3eyuChcQdX1GXytgxF2) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:37 |
-| 107 | [Everlasting Love](https://open.spotify.com/track/2Rp4qTPWa91ctCSq0pu3zv) | [Love Affair](https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux) | [Pure..\. '60s](https://open.spotify.com/album/3cceuam4ZfqSSC4uVchxvx) | 3:01 |
-| 108 | [Foot Tapper \- 2003 Remaster](https://open.spotify.com/track/26FHHkqUgQG9AChc0oq1Ol) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Summer Holiday](https://open.spotify.com/album/5NN3vEbytzA6UwaCszu13C) | 2:26 |
+| 107 | [Foot Tapper \- 2003 Remaster](https://open.spotify.com/track/26FHHkqUgQG9AChc0oq1Ol) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Summer Holiday](https://open.spotify.com/album/5NN3vEbytzA6UwaCszu13C) | 2:26 |
+| 108 | [Everlasting Love](https://open.spotify.com/track/2Rp4qTPWa91ctCSq0pu3zv) | [Love Affair](https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux) | [Pure..\. '60s](https://open.spotify.com/album/3cceuam4ZfqSSC4uVchxvx) | 3:01 |
 | 109 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 110 | [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 |
 | 111 | [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 |
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 141 | [Twist And Shout \- Remastered](https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn) | 2:35 |
 | 142 | [Can't Buy Me Love \- Remastered 2015](https://open.spotify.com/track/7pQAq14Z73YUFMtxCyt0bG) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:11 |
 | 143 | [All My Loving \- Remastered](https://open.spotify.com/track/7cPPyMrSAQY7A686Cn9eUP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn) | 2:07 |
-| 144 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/2Fk411Ix3qnMG8t8Qa74ZX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:20 |
-| 145 | [A Hard Day's Night \- Remastered](https://open.spotify.com/track/69d54YOS8TOQiUYjX57XeA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D) | 2:34 |
+| 144 | [A Hard Day's Night \- Remastered](https://open.spotify.com/track/69d54YOS8TOQiUYjX57XeA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D) | 2:34 |
+| 145 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/2Fk411Ix3qnMG8t8Qa74ZX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:20 |
 
 Snapshot ID: `AAAAAFu5dFSMHT1B9RJz0njMF8MD5lud`

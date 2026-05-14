@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Gia Margaret
 
-764 songs - 1 day 23 hr 34 min
+765 songs - 1 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Fresh Water in an Empty Vase](https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0) | [Natalie Schepman](https://open.spotify.com/artist/03h1gz3BbFHdP7p4AsREGG) | [Fresh Water in an Empty Vase](https://open.spotify.com/album/5O0hpbx3yWviQxJqylFZnA) | 2:59 | 2021-10-22 | 2022-07-25 |
 | [From Gold](https://open.spotify.com/track/4GjD33yTih7RqvGkH9C9wO) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [From Gold](https://open.spotify.com/album/46tU4DTzvaCi8BibeSKa0A) | 3:33 | 2022-04-13 | 2022-04-21 |
 | [From Gold](https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Woodgate, NY](https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs) | 3:34 | 2022-06-24 | 2024-01-06 |
+| [Gave You Up](https://open.spotify.com/track/2gng4BVSuskEfAo4nFiE2E) | [Carla dal Forno](https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6) | [Confession](https://open.spotify.com/album/4YoCbEExp7Zmo6wbcYaR6c) | 3:21 | 2026-05-01 |  |
 | [Gentle Love](https://open.spotify.com/track/5adzqxkfPcRr3lEmoZvxgN) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Gentle Love / Frog](https://open.spotify.com/album/3dbNuhLpCJ8LIRtcPtUOwK) | 1:31 | 2026-05-01 |  |
 | [Giant Palm](https://open.spotify.com/track/0iUorp8jbqv4YJRtD79ewf) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Giant Palm](https://open.spotify.com/album/0aenLd8evkQ9BQJbC9UlNd) | 4:36 | 2022-04-13 | 2022-07-29 |
 | [Giant Palm](https://open.spotify.com/track/41XytH4NEWIuuketVPDrLv) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Giant Palm](https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf) | 4:36 | 2022-06-24 | 2023-09-23 |
@@ -431,7 +432,7 @@
 | [Memorial](https://open.spotify.com/track/1sXdly4AscLh38opR7AkAN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Memorial](https://open.spotify.com/album/2442xkROtnAcVWFuWQgRTE) | 4:38 | 2021-10-22 | 2022-07-24 |
 | [Memory Palace](https://open.spotify.com/track/60wYARCUwuFlDHumkWOIv7) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Toil and Trouble](https://open.spotify.com/album/2XYClv25hWniJ6eUrejkEe) | 4:01 | 2023-06-30 | 2024-01-06 |
 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 | 2022-06-24 | 2022-11-13 |
-| [Michelangelo](https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9) | 3:29 | 2021-10-22 |  |
+| [Michelangelo](https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9) | 3:29 | 2021-10-22 | 2026-05-14 |
 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 | 2022-06-24 |  |
 | [Mirror](https://open.spotify.com/track/6sDtLg4f8iffw5YeIivEBl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Mirror](https://open.spotify.com/album/4brI5XyZZXGy0g67k3TX3Y) | 4:56 | 2025-02-07 | 2025-03-25 |
 | [Mirrors of Paradise](https://open.spotify.com/track/5u1hFiNBLQDWat8IRXuavN) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 4:11 | 2022-04-13 | 2022-04-21 |

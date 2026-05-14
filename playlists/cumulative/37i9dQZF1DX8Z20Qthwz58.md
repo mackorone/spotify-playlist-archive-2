@@ -4,11 +4,12 @@
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-135 songs - 7 hr 32 min
+137 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [chicken97](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 | 2023-02-08 |  |
+| [airplane : 143](https://open.spotify.com/track/24odAZQ1krmbVhG2tH4IXh) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 2:26 | 2026-05-13 |  |
 | [Airplane Mode](https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 03](https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg) | 2:51 | 2023-05-05 | 2025-05-20 |
 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 | 2023-02-24 |  |
 | [Alone with You](https://open.spotify.com/track/3mq0dLTh4wC8goZY3s6oLQ) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [haaAakkKKK!!!](https://open.spotify.com/album/44OzoIkxMtGrmnP978PTZY) | 2:47 | 2023-02-08 | 2024-08-11 |
@@ -97,6 +98,7 @@
 | [ntmc](https://open.spotify.com/track/0ATN8hZmrvnWEes18dsdJZ) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [ntmc](https://open.spotify.com/album/0fX3WUSEfcnVU3zXir9iLz) | 3:30 | 2024-07-23 |  |
 | [Overthinking](https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 6:10 | 2023-02-08 |  |
 | [Photograph](https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:59 | 2023-02-08 |  |
+| [Poem of Spring](https://open.spotify.com/track/6bvm2Ej8Q1P7a6TL5lLd4y) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Poem of Spring](https://open.spotify.com/album/7IDzVxjASo7fI7uAWpWvlE) | 3:06 | 2026-05-13 |  |
 | [Prologue](https://open.spotify.com/track/4stu4P8xHdm8ywpX1YpdFJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:14 | 2024-06-28 |  |
 | [Radio Echoes](https://open.spotify.com/track/3vMiGQdy6F68piq9lWTq45) | [Lunart](https://open.spotify.com/artist/43RCNUKlGB7Eez9apyCVN7) | [Radio Echoes](https://open.spotify.com/album/6IcRJUK7hLhKHvzplQObHw) | 2:20 | 2024-08-10 |  |
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 | 2024-03-28 |

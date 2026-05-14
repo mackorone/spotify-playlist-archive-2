@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 448893,
+  "num_followers": 448928,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Anderson Freire Ao Vivo",
+        "url": "https://open.spotify.com/album/6xuwIhCtxo8DjCuA3X9aaL"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire e Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/3yXOAfmEH8M4DJbkmRMhml"
+        }
+      ],
+      "duration_ms": 310311,
+      "name": "O Mapa do Tesouro",
+      "url": "https://open.spotify.com/track/4IoRFVUCHDfHnTi4AhsXfx"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Tuas \u00c1guas",
         "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 310200,
       "name": "Tuas \u00c1guas",
       "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Anderson Freire Ao Vivo",
-        "url": "https://open.spotify.com/album/6xuwIhCtxo8DjCuA3X9aaL"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire e Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/3yXOAfmEH8M4DJbkmRMhml"
-        }
-      ],
-      "duration_ms": 310311,
-      "name": "O Mapa do Tesouro",
-      "url": "https://open.spotify.com/track/4IoRFVUCHDfHnTi4AhsXfx"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -1104,8 +1104,8 @@
           "url": "https://open.spotify.com/artist/52yjuIfCOxTgugRDIxZvCw"
         },
         {
-          "name": "100 Preconceito",
-          "url": "https://open.spotify.com/artist/1GEAR8S0QfpMT2c2s9cf4Z"
+          "name": "Pagod\u00e1h",
+          "url": "https://open.spotify.com/artist/47a5fNlYub0UA5ZEbjA11c"
         }
       ],
       "duration_ms": 259890,
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Meu Mestre",
-        "url": "https://open.spotify.com/album/4RCLWOpMlP0424CDa4TK3Z"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3o L\u00e1zaro",
-          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "De Quem \u00c9? - studio",
-      "url": "https://open.spotify.com/track/35KS4m2ecXMwiyqk1sL55p"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
         "name": "Joelhos no Ch\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/4YujH3jWfy2bVI3XVcIuGn"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 368587,
       "name": "Joelhos no Ch\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4MHH8KdwgvZBm2MnpTS4px"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
+        "name": "Meu Mestre",
+        "url": "https://open.spotify.com/album/4RCLWOpMlP0424CDa4TK3Z"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3o L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "De Quem \u00c9? - studio",
+      "url": "https://open.spotify.com/track/35KS4m2ecXMwiyqk1sL55p"
     }
   ],
   "unique_name": "Louvando e Lou\u00e7a",

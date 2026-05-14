@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 727586,
+  "num_followers": 727561,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/5coBwIJ5Z8h2OlrimmdE1S"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/5pztwVl6brVgqYjYQ93us6"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "2 Much",
         "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5coBwIJ5Z8h2OlrimmdE1S"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/5pztwVl6brVgqYjYQ93us6"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 254176,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3VHF4e5x49Mcpom7zPE2A9"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "I Get The Sweetest Feeling",
         "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 178373,
       "name": "I Get The Sweetest Feeling",
       "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 254176,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3VHF4e5x49Mcpom7zPE2A9"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -1131,26 +1151,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
-      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Murder",
         "url": "https://open.spotify.com/album/6e6vJim2z4DY53x24S4j5w"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 175748,
       "name": "Murder",
       "url": "https://open.spotify.com/track/19OgWOJ9fckycODdY7L23X"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd"
-      },
-      "artists": [
-        {
-          "name": "JONES",
-          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
-        }
-      ],
-      "duration_ms": 191689,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1199,6 +1183,22 @@
       "duration_ms": 218566,
       "name": "ICU (with Justin Timberlake) - Remix",
       "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "duration_ms": 191689,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/0aQ68gBcrnVrsjXFIJzKLR"
+      },
+      "artists": [
+        {
+          "name": "Beverley Knight",
+          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Shoulda Woulda Coulda",
+      "url": "https://open.spotify.com/track/60klOfI3BgFCTWrnve4TAH"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "Find My Love",
         "url": "https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 221426,
       "name": "Find My Love",
       "url": "https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/0aQ68gBcrnVrsjXFIJzKLR"
-      },
-      "artists": [
-        {
-          "name": "Beverley Knight",
-          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Shoulda Woulda Coulda",
-      "url": "https://open.spotify.com/track/60klOfI3BgFCTWrnve4TAH"
     },
     {
       "added_at": "2026-04-16 23:00:42",

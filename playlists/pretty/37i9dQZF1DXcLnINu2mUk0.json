@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Guga",
-  "num_followers": 54445,
+  "num_followers": 54554,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
-        "name": "Eu Quero Um Preto",
-        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 233307,
-      "name": "Eu Quero Um Preto",
-      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
-    },
-    {
-      "added_at": "2026-05-07 23:00:55",
-      "album": {
         "name": "Afro Fado",
         "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 222427,
       "name": "Ultimamente",
       "url": "https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7"
+    },
+    {
+      "added_at": "2026-05-07 23:00:55",
+      "album": {
+        "name": "Eu Quero Um Preto",
+        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 233307,
+      "name": "Eu Quero Um Preto",
+      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
     },
     {
       "added_at": "2026-05-07 23:00:55",

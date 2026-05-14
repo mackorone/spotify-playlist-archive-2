@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Chhavi Sodhani, Nayantara Bhatkal",
+  "description": "The best new music by independent artists and labels in India. Cover - Abhin Joshi",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -10709,6 +10709,24 @@
     },
     {
       "album": {
+        "name": "Gire Gire",
+        "url": "https://open.spotify.com/album/2mA4SSmcf7EMkcgMcb0NlG"
+      },
+      "artists": [
+        {
+          "name": "Abhin Joshi",
+          "url": "https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239184,
+      "name": "Gire Gire",
+      "url": "https://open.spotify.com/track/1bKPgFahk1dVVYdck72zgs"
+    },
+    {
+      "album": {
         "name": "BUCK WILD",
         "url": "https://open.spotify.com/album/0VP7f9QYaLQsUVKY5MGVO5"
       },
@@ -12896,7 +12914,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 214863,
       "name": "I Don't Begin",
       "url": "https://open.spotify.com/track/7yAjHUNHSlituWG6T4re2a"
@@ -13218,6 +13236,24 @@
       "duration_ms": 185000,
       "name": "I'm Going Solo",
       "url": "https://open.spotify.com/track/5SnTao2Tuv9ezcxvdMoKDR"
+    },
+    {
+      "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/34F4oGQLAwchtuiU5mZD0i"
+      },
+      "artists": [
+        {
+          "name": "Shreya Karmakar",
+          "url": "https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199884,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/18cZRZyMpNqI6VQxodCXz9"
     },
     {
       "album": {
@@ -14154,6 +14190,28 @@
       "duration_ms": 276858,
       "name": "Jaadu",
       "url": "https://open.spotify.com/track/5rB6Wdhdutn2I5VO9nBYzI"
+    },
+    {
+      "album": {
+        "name": "Jaadu",
+        "url": "https://open.spotify.com/album/0fU1AmZ0eG7mYAouc4BU1M"
+      },
+      "artists": [
+        {
+          "name": "Sayan",
+          "url": "https://open.spotify.com/artist/5nrrnbBvjmao3RUBh8ceK2"
+        },
+        {
+          "name": "Risha",
+          "url": "https://open.spotify.com/artist/6sHNlOXxxsUfrXBJTX7WTo"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238060,
+      "name": "Jaadu",
+      "url": "https://open.spotify.com/track/1NBX56ecthn8ARL9rps0BC"
     },
     {
       "album": {
@@ -27038,7 +27096,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 158158,
       "name": "Raagon Sa Ghar",
       "url": "https://open.spotify.com/track/2DSB7Y4BAvKz5SuqgCfCCB"
@@ -34180,7 +34238,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 141818,
       "name": "TOO FAR",
       "url": "https://open.spotify.com/track/39V5lHze7fJj3Dba4dIevV"

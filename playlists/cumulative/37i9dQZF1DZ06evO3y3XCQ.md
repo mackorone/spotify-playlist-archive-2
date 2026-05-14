@@ -4,7 +4,7 @@
 
 > This is Thursday\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 3 min
+65 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [For The Workforce, Drowning](https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 3:16 | 2022-10-27 |  |
 | [Friends In The Armed Forces](https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:10 | 2022-10-27 | 2026-03-21 |
 | [Ian Curtis](https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 3:43 | 2022-10-27 |  |
+| [Into The Blinding Light](https://open.spotify.com/track/4PMxQszpkTQeOyEtfkg5Ow) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 3:45 | 2026-05-14 |  |
 | [Introduction](https://open.spotify.com/track/530YND7Asd4qwUgcXXVQ8b) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 1:58 | 2022-10-27 | 2026-04-10 |
 | [Jet Black New Year](https://open.spotify.com/track/0FYBAFCpiZyNxdat3MBc3t) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Five Stories Falling](https://open.spotify.com/album/4CRIaDaZQ2gkHYnX5Fzzdj) | 4:49 | 2022-10-27 |  |
 | [Ladies And Gentlemen: My Brother, The Failure](https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 4:12 | 2022-10-27 |  |
@@ -47,7 +48,7 @@
 | [Past and Future Ruins](https://open.spotify.com/track/6cIFzkdXRPiX9Li8aXBtym) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 4:15 | 2026-03-03 | 2026-04-08 |
 | [Porcelain](https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 4:36 | 2022-10-27 |  |
 | [Resuscitation of a Dead Man](https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:22 | 2022-10-27 | 2026-04-02 |
-| [Running From The Rain](https://open.spotify.com/track/4CRaYUB98nYPtL5P9TxMnD) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 4:00 | 2022-10-27 |  |
+| [Running From The Rain](https://open.spotify.com/track/4CRaYUB98nYPtL5P9TxMnD) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 4:00 | 2022-10-27 | 2026-05-14 |
 | [Signals Over The Air](https://open.spotify.com/track/5k8viPkN0jExLQTlKsakKZ) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:10 | 2022-10-27 |  |
 | [Sparks Against the Sun](https://open.spotify.com/track/3Z6YLC5MoKWjqepMsH7k6k) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 4:45 | 2022-10-27 |  |
 | [Standing On The Edge Of Summer](https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:42 | 2022-10-27 |  |
@@ -55,6 +56,7 @@
 | [Sugar In The Sacrament](https://open.spotify.com/track/0sWGnySFvSRZPr5Swr6nLx) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 5:10 | 2022-10-27 |  |
 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 | 2025-01-03 |  |
 | [Telegraph Avenue Kiss](https://open.spotify.com/track/1WoMpFgv2rLgEFzKJqIvwH) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 3:35 | 2023-06-03 | 2025-10-03 |
+| [The Dotted Line](https://open.spotify.com/track/1C8bzledppItaunnEK2kKU) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 4:15 | 2026-05-14 |  |
 | [The Lottery](https://open.spotify.com/track/38832SeThFAmmFWKaMv6xz) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX), [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Violent Waves](https://open.spotify.com/album/3qSgoDBBG1UsZU4xJqieBd) | 4:43 | 2025-10-17 |  |
 | [The Lottery](https://open.spotify.com/track/6T3YSsiLwPrq9yVSKvmQSX) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX), [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Violent Waves](https://open.spotify.com/album/5y5C2nONFCsDjw4mB6Azm2) | 4:43 | 2022-11-12 | 2025-10-17 |
 | [The Lovesong Writer](https://open.spotify.com/track/4P43WSRtAwXXEjGGPZoEVb) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 5:18 | 2022-10-27 |  |

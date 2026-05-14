@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,012 likes - 87 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,014 likes - 87 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 43 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
 | 44 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:42 |
 | 45 | [Hurricane](https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Hurricane](https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO) | 3:25 |
-| 46 | [Black Widow](https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [Black Widow](https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU) | 2:40 |
-| 47 | [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 |
+| 46 | [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 |
+| 47 | [Black Widow](https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [Black Widow](https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU) | 2:40 |
 | 48 | [Väntat](https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Väntat](https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q) | 3:02 |
 | 49 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 |
 | 50 | [Ekko](https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ekko](https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA) | 2:36 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 73 | [Okej att dö](https://open.spotify.com/track/1QXT6Yey0NngUJsmdZVm2g) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B) | 2:49 |
 | 74 | [Säg nåt](https://open.spotify.com/track/0hbUHe3JbfwuVQ3QsGOUNE) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Where Strippers Go To Die](https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf) | 3:06 |
 | 75 | [Prayer](https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb) | 5:25 |
-| 76 | [Level Up](https://open.spotify.com/track/3xFKbv5jsQpjL1LeXS3zr5) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI) | 3:21 |
-| 77 | [Faller så lätt](https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Faller så lätt](https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj) | 2:35 |
+| 76 | [Faller så lätt](https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Faller så lätt](https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj) | 2:35 |
+| 77 | [Level Up](https://open.spotify.com/track/3xFKbv5jsQpjL1LeXS3zr5) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI) | 3:21 |
 | 78 | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 |
 | 79 | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 |
 | 80 | [Love is for Losers](https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V) | [LOVIS](https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy) | [Love is for Losers](https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j) | 3:20 |

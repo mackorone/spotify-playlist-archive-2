@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Sick of Myself",
+        "url": "https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151292,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/796rpPylzca2T5oWtmkJll"
+    },
+    {
+      "album": {
         "name": "Gangsta Art",
         "url": "https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU"
       },

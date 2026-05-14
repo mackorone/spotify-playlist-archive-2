@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 411436,
+  "num_followers": 411453,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAB8mZ6/0uDK6DgwcJMnyiNN",
+  "snapshot_id": "agJtgAAAAAD4LZk5PpJsnThb92MhNeFv",
   "tracks": [
     {
       "added_at": null,
@@ -451,30 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WE STILL DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 254320,
-      "name": "All to Myself",
-      "url": "https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 226946,
       "name": "Everyday Hustle",
       "url": "https://open.spotify.com/track/3Vg7nPYlOrCkcV1abKbRQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 254320,
+      "name": "All to Myself",
+      "url": "https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Hummingbird (Metro Boomin & James Blake)",
-      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 205346,
       "name": "Young Metro",
       "url": "https://open.spotify.com/track/3OxL6MuctgZp1e0zxoAZhH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "Hummingbird (Metro Boomin & James Blake)",
+      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
     },
     {
       "added_at": null,
@@ -635,6 +635,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Savage Mode",
+        "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 258880,
+      "name": "X (feat. Future)",
+      "url": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -663,30 +687,6 @@
       "duration_ms": 195386,
       "name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
       "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Savage Mode",
-        "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 258880,
-      "name": "X (feat. Future)",
-      "url": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO"
     },
     {
       "added_at": null,
@@ -840,13 +840,21 @@
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         },
         {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 148640,
-      "name": "My Choppa Hate Niggas",
-      "url": "https://open.spotify.com/track/2D2w9943rsnJOGCrI4aMQp"
+      "duration_ms": 268933,
+      "name": "Ghostface Killers (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5u6vkDnOyaf8LsteDAj2ub"
     },
     {
       "added_at": null,
@@ -884,17 +892,17 @@
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 230240,
-      "name": "Borrowed Love (feat. Swae Lee & WizKid)",
-      "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
+      "duration_ms": 265480,
+      "name": "No Complaints (feat. Offset & Drake) (Bonus)",
+      "url": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
     },
     {
       "added_at": null,
@@ -928,21 +936,13 @@
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         },
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 268933,
-      "name": "Ghostface Killers (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5u6vkDnOyaf8LsteDAj2ub"
+      "duration_ms": 148640,
+      "name": "My Choppa Hate Niggas",
+      "url": "https://open.spotify.com/track/2D2w9943rsnJOGCrI4aMQp"
     },
     {
       "added_at": null,
@@ -980,17 +980,17 @@
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 265480,
-      "name": "No Complaints (feat. Offset & Drake) (Bonus)",
-      "url": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
+      "duration_ms": 230240,
+      "name": "Borrowed Love (feat. Swae Lee & WizKid)",
+      "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
     },
     {
       "added_at": null,

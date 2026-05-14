@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 
 > This is Micah Tyler\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,368 likes - 35 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,369 likes - 35 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 21 | [You Make Sense](https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:43 |
 | 22 | [My God Fights For Me \(feat\. Austin French & Nickie Conley\)](https://open.spotify.com/track/42bno1yjQDmijfQhTZheHv) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU), [Nickie Conley](https://open.spotify.com/artist/5oCYtRBPryG7fs2gq6aqo1) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:40 |
 | 23 | [Story I Tell](https://open.spotify.com/track/4a9UzMaCd1wji2qfb1y73V) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:41 |
-| 24 | [Come to Life](https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:22 |
+| 24 | [The Flood](https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:20 |
 | 25 | [Headed for the Mountain \(feat\. Phil King\)](https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 2:46 |
 | 26 | [By Name](https://open.spotify.com/track/1b3Ru6VZDT9Udpgqn1HIIB) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:24 |
 | 27 | [Come Thou Fount](https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [God Bless the Broken Road](https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu) | 2:12 |
-| 28 | [The Flood](https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:20 |
+| 28 | [Come to Life](https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:22 |
 | 29 | [What Are You Waiting For](https://open.spotify.com/track/6XdxpgFTSv93A0cyHVV19T) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:52 |
 | 30 | [Remember This](https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 4:19 |
 | 31 | [Feels Like Joy](https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Feels Like Joy](https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO) | 2:52 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 34 | [Wretch No More](https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 6:14 |
 | 35 | [It's Raining, It's Pouring](https://open.spotify.com/track/5xhWkwmAEnpucMLb6lULpR) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 4:06 |
 
-Snapshot ID: `agEcAAAAAADCfgZV3ZbB6hVTjrv7OBak`
+Snapshot ID: `agJtgAAAAACS+KCsmtPmHq5VW+Ila1id`

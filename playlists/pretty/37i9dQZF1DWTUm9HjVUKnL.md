@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,941 likes - 1,117 songs - 2 day 18 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,948 likes - 1,117 songs - 2 day 18 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1001,8 +1001,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 991 | [Snake Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1U2dV8zPema3dhF24NfIrO) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Spotify Singles](https://open.spotify.com/album/2HY1zxQvBup7go6hEWYl31) | 2:46 |
 | 992 | [Keep You in Mind \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Zu6dnRcGitkdFePJVN1aT) | [Guordan Banks](https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ) | [Spotify Singles](https://open.spotify.com/album/1IUpkbo5AN4rZqzyPppbg7) | 3:14 |
 | 993 | [Yesterday \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/55BnnFc5P6bpgsZtzPXahA) | [Guordan Banks](https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ) | [Spotify Singles](https://open.spotify.com/album/1IUpkbo5AN4rZqzyPppbg7) | 4:07 |
-| 994 | [The Garden \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/237AYJ77HK6Lf6DwQ6r7BJ) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 5:30 |
-| 995 | [In The Name Of Love \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 3:25 |
+| 994 | [The Garden \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/237AYJ77HK6Lf6DwQ6r7BJ) | [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 5:30 |
+| 995 | [In The Name Of Love \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi) | [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 3:25 |
 | 996 | [In Cold Blood \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/4rqBVkiHkv7RovTm5CFyyt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 3:22 |
 | 997 | [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 2:23 |
 | 998 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 |

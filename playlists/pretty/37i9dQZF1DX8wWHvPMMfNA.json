@@ -1,6 +1,6 @@
 {
   "description": "Soft instrumental jazz for working or studying.",
-  "num_followers": 312487,
+  "num_followers": 312505,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Stillness Speaks",
-        "url": "https://open.spotify.com/album/63Gw114JVR9NZdI7oY1YzG"
-      },
-      "artists": [
-        {
-          "name": "Derek Hines Trio",
-          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
-        }
-      ],
-      "duration_ms": 234727,
-      "name": "Stillness Speaks",
-      "url": "https://open.spotify.com/track/748OwqyAi40p9XLUU2IFji"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Soulful Serenade",
         "url": "https://open.spotify.com/album/3L9yVSvfZjMNBhnKp0L35S"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 230232,
       "name": "Soulful Serenade",
       "url": "https://open.spotify.com/track/01h2N3MrwVDnvKHJV1eHiA"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Stillness Speaks",
+        "url": "https://open.spotify.com/album/63Gw114JVR9NZdI7oY1YzG"
+      },
+      "artists": [
+        {
+          "name": "Derek Hines Trio",
+          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
+        }
+      ],
+      "duration_ms": 234727,
+      "name": "Stillness Speaks",
+      "url": "https://open.spotify.com/track/748OwqyAi40p9XLUU2IFji"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -251,18 +251,18 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "After Winter Comes Spring",
-        "url": "https://open.spotify.com/album/5Mn1kdE6pGip1PyhX1rufH"
+        "name": "Mirages",
+        "url": "https://open.spotify.com/album/3QvYaygfLxAfRfdzzE6FkA"
       },
       "artists": [
         {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
         }
       ],
-      "duration_ms": 211563,
-      "name": "After Winter Comes Spring",
-      "url": "https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1"
+      "duration_ms": 219638,
+      "name": "Mirages",
+      "url": "https://open.spotify.com/track/3iBhCBLdT84C12M43nWhHx"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Mirages",
-        "url": "https://open.spotify.com/album/3QvYaygfLxAfRfdzzE6FkA"
+        "name": "After Winter Comes Spring",
+        "url": "https://open.spotify.com/album/5Mn1kdE6pGip1PyhX1rufH"
       },
       "artists": [
         {
-          "name": "Isac Solo Trio",
-          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
         }
       ],
-      "duration_ms": 219638,
-      "name": "Mirages",
-      "url": "https://open.spotify.com/track/3iBhCBLdT84C12M43nWhHx"
+      "duration_ms": 211563,
+      "name": "After Winter Comes Spring",
+      "url": "https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Over Yonder",
-        "url": "https://open.spotify.com/album/70gfWIT3HDVyleOWxjPHlI"
-      },
-      "artists": [
-        {
-          "name": "Gus Anderson",
-          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
-        }
-      ],
-      "duration_ms": 234955,
-      "name": "Over Yonder",
-      "url": "https://open.spotify.com/track/2ZIVGuwmRIktopvfoNgfdM"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Bluesette",
         "url": "https://open.spotify.com/album/3WxNprVVDsnLaayEQI3PFX"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 205823,
       "name": "Bluesette",
       "url": "https://open.spotify.com/track/5sF4nEG1dZLBnODQWxGhUP"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Over Yonder",
+        "url": "https://open.spotify.com/album/70gfWIT3HDVyleOWxjPHlI"
+      },
+      "artists": [
+        {
+          "name": "Gus Anderson",
+          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
+        }
+      ],
+      "duration_ms": 234955,
+      "name": "Over Yonder",
+      "url": "https://open.spotify.com/track/2ZIVGuwmRIktopvfoNgfdM"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Worry and Gossip",
-        "url": "https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV"
-      },
-      "artists": [
-        {
-          "name": "Courtney Salas Group",
-          "url": "https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7"
-        }
-      ],
-      "duration_ms": 221392,
-      "name": "Worry and Gossip",
-      "url": "https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Joshua Redman",
         "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 290466,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Worry and Gossip",
+        "url": "https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV"
+      },
+      "artists": [
+        {
+          "name": "Courtney Salas Group",
+          "url": "https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7"
+        }
+      ],
+      "duration_ms": 221392,
+      "name": "Worry and Gossip",
+      "url": "https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Thank God It's Friday",
-        "url": "https://open.spotify.com/album/5dgTygeXR5TRuDYIzm5X0T"
-      },
-      "artists": [
-        {
-          "name": "Mike Coen",
-          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
-        }
-      ],
-      "duration_ms": 233319,
-      "name": "Thank God It's Friday",
-      "url": "https://open.spotify.com/track/42S2G34aFGrY68idLUPyHt"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Stars Above",
         "url": "https://open.spotify.com/album/0jbSSFBfcHSJl7UVaCk1S9"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 178484,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/2iMQAwqqjCEeLlnPppBOYW"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Thank God It's Friday",
+        "url": "https://open.spotify.com/album/5dgTygeXR5TRuDYIzm5X0T"
+      },
+      "artists": [
+        {
+          "name": "Mike Coen",
+          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
+        }
+      ],
+      "duration_ms": 233319,
+      "name": "Thank God It's Friday",
+      "url": "https://open.spotify.com/track/42S2G34aFGrY68idLUPyHt"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Urban Jazz Chronicles",
-        "url": "https://open.spotify.com/album/3t43Otx3MUbxa0u6WLEKp0"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5ns & Dotter",
-          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
-        }
-      ],
-      "duration_ms": 221431,
-      "name": "Urban Jazz Chronicles",
-      "url": "https://open.spotify.com/track/2GJaiss4EABlUcFad7jCgz"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Embraced by Night",
         "url": "https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 183544,
       "name": "Embraced by Night",
       "url": "https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Urban Jazz Chronicles",
+        "url": "https://open.spotify.com/album/3t43Otx3MUbxa0u6WLEKp0"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns & Dotter",
+          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
+        }
+      ],
+      "duration_ms": 221431,
+      "name": "Urban Jazz Chronicles",
+      "url": "https://open.spotify.com/track/2GJaiss4EABlUcFad7jCgz"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "A Chalet For Two",
-        "url": "https://open.spotify.com/album/4roSmRerpqynrfRzoGo4S3"
-      },
-      "artists": [
-        {
-          "name": "The Collective",
-          "url": "https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP"
-        }
-      ],
-      "duration_ms": 145578,
-      "name": "A Chalet For Two",
-      "url": "https://open.spotify.com/track/6WpAVvDGnPZ0CEO7yAIoBM"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Speak Low",
         "url": "https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 164726,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "A Chalet For Two",
+        "url": "https://open.spotify.com/album/4roSmRerpqynrfRzoGo4S3"
+      },
+      "artists": [
+        {
+          "name": "The Collective",
+          "url": "https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP"
+        }
+      ],
+      "duration_ms": 145578,
+      "name": "A Chalet For Two",
+      "url": "https://open.spotify.com/track/6WpAVvDGnPZ0CEO7yAIoBM"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "April Calling",
-        "url": "https://open.spotify.com/album/62YhZZOAgwAMrsXundbQRo"
-      },
-      "artists": [
-        {
-          "name": "Sand Quartet",
-          "url": "https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA"
-        }
-      ],
-      "duration_ms": 230547,
-      "name": "April Calling",
-      "url": "https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 234573,
       "name": "Long Ago And Far Away",
       "url": "https://open.spotify.com/track/47g4fOuXxI3ri3YSCMt532"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "April Calling",
+        "url": "https://open.spotify.com/album/62YhZZOAgwAMrsXundbQRo"
+      },
+      "artists": [
+        {
+          "name": "Sand Quartet",
+          "url": "https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA"
+        }
+      ],
+      "duration_ms": 230547,
+      "name": "April Calling",
+      "url": "https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Thursday Afternoon",
-        "url": "https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1"
-      },
-      "artists": [
-        {
-          "name": "CMC 3",
-          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
-        }
-      ],
-      "duration_ms": 198894,
-      "name": "Thursday Afternoon",
-      "url": "https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Love's Declaration",
         "url": "https://open.spotify.com/album/7vCrLBacRaLY8VLcL9hBml"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 217674,
       "name": "Love's Declaration",
       "url": "https://open.spotify.com/track/1Af92SAPa18SSvdcdjJ0xB"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Thursday Afternoon",
+        "url": "https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1"
+      },
+      "artists": [
+        {
+          "name": "CMC 3",
+          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+        }
+      ],
+      "duration_ms": 198894,
+      "name": "Thursday Afternoon",
+      "url": "https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Till There Was You",
-        "url": "https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL"
+        "name": "The Fool That Fell For You",
+        "url": "https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R"
       },
       "artists": [
         {
-          "name": "Mayfare Trio",
-          "url": "https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4"
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
         }
       ],
-      "duration_ms": 155091,
-      "name": "Till There Was You",
-      "url": "https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh"
+      "duration_ms": 270976,
+      "name": "The Fool That Fell For You",
+      "url": "https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "The Fool That Fell For You",
-        "url": "https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R"
+        "name": "Till There Was You",
+        "url": "https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL"
       },
       "artists": [
         {
-          "name": "Most Iverson",
-          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+          "name": "Mayfare Trio",
+          "url": "https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4"
         }
       ],
-      "duration_ms": 270976,
-      "name": "The Fool That Fell For You",
-      "url": "https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH"
+      "duration_ms": 155091,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "The Incredible Kai Winding Trombones",
-        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
-      },
-      "artists": [
-        {
-          "name": "Kai Winding",
-          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
-        }
-      ],
-      "duration_ms": 245013,
-      "name": "Lil Darlin'",
-      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Two Blocks Away",
         "url": "https://open.spotify.com/album/6TbsvECm8IeduEiVDQ6W2a"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 229000,
       "name": "Two Blocks Away",
       "url": "https://open.spotify.com/track/7dpeRPzopCJK29V4pueY8K"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "The Incredible Kai Winding Trombones",
+        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
+      },
+      "artists": [
+        {
+          "name": "Kai Winding",
+          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
+        }
+      ],
+      "duration_ms": 245013,
+      "name": "Lil Darlin'",
+      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
     },
     {
       "added_at": "2026-03-24 14:21:53",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2026-03-24 14:21:53",
       "album": {
-        "name": "Autumn Whispers",
-        "url": "https://open.spotify.com/album/1rGBSySIEwduFE3SanVwCQ"
-      },
-      "artists": [
-        {
-          "name": "Ivory Soul Trio",
-          "url": "https://open.spotify.com/artist/7vlqwJS24ZLOhYA0SDLoe7"
-        }
-      ],
-      "duration_ms": 228681,
-      "name": "Autumn Whispers",
-      "url": "https://open.spotify.com/track/0xHjKlaXNiA4BJGgPz15KX"
-    },
-    {
-      "added_at": "2026-03-24 14:21:53",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 357160,
       "name": "Blues In The Night - Short Version",
       "url": "https://open.spotify.com/track/4ZuUE6H5yONhrEw74aWcpU"
+    },
+    {
+      "added_at": "2026-03-24 14:21:53",
+      "album": {
+        "name": "Autumn Whispers",
+        "url": "https://open.spotify.com/album/1rGBSySIEwduFE3SanVwCQ"
+      },
+      "artists": [
+        {
+          "name": "Ivory Soul Trio",
+          "url": "https://open.spotify.com/artist/7vlqwJS24ZLOhYA0SDLoe7"
+        }
+      ],
+      "duration_ms": 228681,
+      "name": "Autumn Whispers",
+      "url": "https://open.spotify.com/track/0xHjKlaXNiA4BJGgPz15KX"
     },
     {
       "added_at": "2026-03-24 14:21:53",

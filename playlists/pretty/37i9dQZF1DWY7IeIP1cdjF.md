@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Quevedo, Jay Wheeler, Omar Courtz , Bad Gyal, Bad Bunny and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,333,462 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,332,124 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

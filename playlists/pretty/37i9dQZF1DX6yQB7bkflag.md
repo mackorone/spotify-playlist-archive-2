@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Salma Salsabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,563 likes - 99 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,561 likes - 99 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

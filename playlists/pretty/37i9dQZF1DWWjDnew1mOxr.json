@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: Modern Woman",
-  "num_followers": 130932,
+  "num_followers": 130943,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Spin The Block",
-        "url": "https://open.spotify.com/album/6lqtX8Ea7i76lIhPPoBPSl"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 173069,
-      "name": "Spin The Block",
-      "url": "https://open.spotify.com/track/1f3LYv9fIs3o9pS8V3dwUP"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Thorn",
         "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 248480,
       "name": "Thorn",
       "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Spin The Block",
+        "url": "https://open.spotify.com/album/6lqtX8Ea7i76lIhPPoBPSl"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 173069,
+      "name": "Spin The Block",
+      "url": "https://open.spotify.com/track/1f3LYv9fIs3o9pS8V3dwUP"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -687,38 +687,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Another Round",
-        "url": "https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D"
-      },
-      "artists": [
-        {
-          "name": "The Scratch",
-          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
-        }
-      ],
-      "duration_ms": 307527,
-      "name": "Another Round",
-      "url": "https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
-        "name": "Rushmere",
-        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "Rushmere",
-      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
       },
@@ -735,6 +703,22 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
+        "name": "Another Round",
+        "url": "https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "duration_ms": 307527,
+      "name": "Another Round",
+      "url": "https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
         "name": "Peace Song",
         "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 190784,
       "name": "Peace Song",
       "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Rushmere",
+        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Can\u2019t See",
-        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 146127,
-      "name": "Can't See",
-      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Dirty White Lies",
         "url": "https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 179093,
       "name": "Dirty White",
       "url": "https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Can\u2019t See",
+        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 146127,
+      "name": "Can't See",
+      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "marry me to dopamine",
-        "url": "https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7"
-      },
-      "artists": [
-        {
-          "name": "Kilu",
-          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
-        }
-      ],
-      "duration_ms": 213083,
-      "name": "marry me to dopamine",
-      "url": "https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "I Was Just A Boy",
         "url": "https://open.spotify.com/album/4ffSTZhbeStSzbPxq5OWLj"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 444196,
       "name": "I Was Just A Boy",
       "url": "https://open.spotify.com/track/49m1P83TOxTKJYeP5aBkZb"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "marry me to dopamine",
+        "url": "https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7"
+      },
+      "artists": [
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "duration_ms": 213083,
+      "name": "marry me to dopamine",
+      "url": "https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Pick-Up Full Of Pink Carnations",
-        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 229165,
-      "name": "Discount De Kooning (Last One Standing)",
-      "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Shivers",
         "url": "https://open.spotify.com/album/7mMWTrcGwJPbl4WdRjWLT7"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 264266,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/7ddTjbmyWUAX3aVttgePhO"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Pick-Up Full Of Pink Carnations",
+        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 229165,
+      "name": "Discount De Kooning (Last One Standing)",
+      "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Oh! The Ocean",
-        "url": "https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "I Love America And She Hates Me",
-      "url": "https://open.spotify.com/track/57YAiU79py7qXu05oW0cNI"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Gears",
         "url": "https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 155874,
       "name": "Gears",
       "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Oh! The Ocean",
+        "url": "https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "I Love America And She Hates Me",
+      "url": "https://open.spotify.com/track/57YAiU79py7qXu05oW0cNI"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Zombieland",
-        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 162932,
-      "name": "Zombieland",
-      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "From Nothing To A Little Bit More",
         "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 171280,
       "name": "Lucky Bean",
       "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1535,38 +1535,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "My Favourite Monster",
-        "url": "https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu"
-      },
-      "artists": [
-        {
-          "name": "Cliffords",
-          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "My Favourite Monster",
-      "url": "https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
-        "name": "caught up in delusion",
-        "url": "https://open.spotify.com/album/2yYssd2xtkEMIqJwdkuaq3"
-      },
-      "artists": [
-        {
-          "name": "Dylan Flynn and the Dead Poets",
-          "url": "https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka"
-        }
-      ],
-      "duration_ms": 239799,
-      "name": "behind those tears",
-      "url": "https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Can't Say No",
         "url": "https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN"
       },
@@ -1583,18 +1551,38 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Rewire",
-        "url": "https://open.spotify.com/album/2pp6yjayJD05QuhLbGqa1K"
+        "name": "My Favourite Monster",
+        "url": "https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu"
       },
       "artists": [
         {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
         }
       ],
-      "duration_ms": 176492,
-      "name": "Rewire",
-      "url": "https://open.spotify.com/track/7vqPs5RH1PC8Sfv6hg9Q0A"
+      "duration_ms": 238533,
+      "name": "My Favourite Monster",
+      "url": "https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        },
+        {
+          "name": "Fears",
+          "url": "https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT"
+        }
+      ],
+      "duration_ms": 231394,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1611,6 +1599,22 @@
       "duration_ms": 180133,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/2fgktVdVpJnMcsrCtkzGm0"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Rewire",
+        "url": "https://open.spotify.com/album/2pp6yjayJD05QuhLbGqa1K"
+      },
+      "artists": [
+        {
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+        }
+      ],
+      "duration_ms": 176492,
+      "name": "Rewire",
+      "url": "https://open.spotify.com/track/7vqPs5RH1PC8Sfv6hg9Q0A"
     }
   ],
   "unique_name": "Proper Belters",

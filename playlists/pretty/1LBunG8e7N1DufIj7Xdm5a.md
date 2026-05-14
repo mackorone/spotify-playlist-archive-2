@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,443 songs - 9 day 20 hr 55 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,444 songs - 9 day 20 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4451,5 +4451,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4441 | [Amor Carnal](https://open.spotify.com/track/5VVqYfF4DjuTp7Je0vCGYe) | [Royad](https://open.spotify.com/artist/4IlKoBCUtrGWnFgQf0wtyO) | [Amor Carnal](https://open.spotify.com/album/0wzXxsGWg3Y0gI5ibGpEB7) | 4:19 |
 | 4442 | [Heaven is Lying Down](https://open.spotify.com/track/02Io4cV8WNNfnf81UWciem) | [DOUG ROCKS](https://open.spotify.com/artist/2SYkdo95tZe0avloQNzGSV) | [Heaven is Lying Down](https://open.spotify.com/album/3tz842t9Z72OBYoG8f4d3k) | 3:24 |
 | 4443 | [Shakin'](https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Shakin'](https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ) | 3:05 |
+| 4444 | [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 |
 
-Snapshot ID: `AAAImuWsh09PsK0rKLDszEcmzitiNn76`
+Snapshot ID: `AAAIm/d/UH6T4o5jE7wz/aoVsa2/pVlR`

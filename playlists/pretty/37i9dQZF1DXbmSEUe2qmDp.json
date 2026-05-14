@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Cristinas",
-  "num_followers": 483986,
+  "num_followers": 483967,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,26 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
+        "name": "Porta De Balada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2AV2iuD8aoVlubd4uWkxBA"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Henrique",
+          "url": "https://open.spotify.com/artist/4aoYJ4BymBTeqLVwN7GHBb"
+        },
+        {
+          "name": "Luccas & Rodrigo",
+          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
+        }
+      ],
+      "duration_ms": 154808,
+      "name": "Porta De Balada - Ao Vivo",
+      "url": "https://open.spotify.com/track/61dXAAGdVJR0dJ2cTAihut"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
         "name": "Barzin, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 150666,
       "name": "Sofrimento Louco",
       "url": "https://open.spotify.com/track/6wknzfCeTkovFsYIdfMMVU"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
-        "name": "Porta De Balada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2AV2iuD8aoVlubd4uWkxBA"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Henrique",
-          "url": "https://open.spotify.com/artist/4aoYJ4BymBTeqLVwN7GHBb"
-        },
-        {
-          "name": "Luccas & Rodrigo",
-          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
-        }
-      ],
-      "duration_ms": 154808,
-      "name": "Porta De Balada - Ao Vivo",
-      "url": "https://open.spotify.com/track/61dXAAGdVJR0dJ2cTAihut"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -335,18 +335,22 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Cadeado No Dedo",
-        "url": "https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R"
+        "name": "Ayala & Julio Cesar (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/3gFNUpamog1CINhbBhcygz"
       },
       "artists": [
         {
-          "name": "Ruan e Davi",
-          "url": "https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID"
+          "name": "Ayala & Julio Cesar",
+          "url": "https://open.spotify.com/artist/71LzUs63QPYh0DpGVruDLh"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
         }
       ],
-      "duration_ms": 125970,
-      "name": "Cadeado No Dedo",
-      "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
+      "duration_ms": 191369,
+      "name": "Sofrendo no Escuro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0HmjUrTo98SR6DHGvXYGwS"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -367,22 +371,18 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Ayala & Julio Cesar (Ao Vivo Em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/3gFNUpamog1CINhbBhcygz"
+        "name": "Cadeado No Dedo",
+        "url": "https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R"
       },
       "artists": [
         {
-          "name": "Ayala & Julio Cesar",
-          "url": "https://open.spotify.com/artist/71LzUs63QPYh0DpGVruDLh"
-        },
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+          "name": "Ruan e Davi",
+          "url": "https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID"
         }
       ],
-      "duration_ms": 191369,
-      "name": "Sofrendo no Escuro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0HmjUrTo98SR6DHGvXYGwS"
+      "duration_ms": 125970,
+      "name": "Cadeado No Dedo",
+      "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
+        "name": "Mo\u00e7a Do Vestido Preto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2BMNdpnrpjfTkTLi7eGHG5"
+      },
+      "artists": [
+        {
+          "name": "S\u00e2mi Rico",
+          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
+        }
+      ],
+      "duration_ms": 155496,
+      "name": "Mo\u00e7a Do Vestido Preto - Ao Vivo",
+      "url": "https://open.spotify.com/track/22RkZFkkQ6ysBPTD2wigY7"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
         "name": "Resenha dos Gordinhos, Ep. 3",
         "url": "https://open.spotify.com/album/6K7hsNuNL6D9k3HCZZsuph"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 174339,
       "name": "Cumprindo Agenda",
       "url": "https://open.spotify.com/track/7nyaCSoLzDz6VDr3nKjxc7"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
-        "name": "Mo\u00e7a Do Vestido Preto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2BMNdpnrpjfTkTLi7eGHG5"
-      },
-      "artists": [
-        {
-          "name": "S\u00e2mi Rico",
-          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
-        }
-      ],
-      "duration_ms": 155496,
-      "name": "Mo\u00e7a Do Vestido Preto - Ao Vivo",
-      "url": "https://open.spotify.com/track/22RkZFkkQ6ysBPTD2wigY7"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Subi de N\u00edvel, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7tmZX2ihcmxpiX0QtaGe4m"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9zia Pinheiro",
-          "url": "https://open.spotify.com/artist/0GazbZ6lnb0x1HgOq0MVv8"
-        },
-        {
-          "name": "Mar\u00edlia Tavares",
-          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
-        }
-      ],
-      "duration_ms": 151645,
-      "name": "Repert\u00f3rio de Desculpas - Ao Vivo",
-      "url": "https://open.spotify.com/track/4A4XvbxF6xmqp2J8MYsh79"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "Desce \u00c1lcool",
         "url": "https://open.spotify.com/album/3rcKvg4eioRnsf2x8ltth5"
       },
@@ -519,26 +499,6 @@
       "duration_ms": 132291,
       "name": "Desce \u00c1lcool",
       "url": "https://open.spotify.com/track/3nTHxfQNhlmCsWoR7TPJ2M"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
-        "name": "Amiga Louca (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3f4NfTUas92xlPB1oEpc3B"
-      },
-      "artists": [
-        {
-          "name": "Gabi Suarez",
-          "url": "https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V"
-        },
-        {
-          "name": "Day e Lara",
-          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
-        }
-      ],
-      "duration_ms": 169951,
-      "name": "Amiga Louca - Ao Vivo",
-      "url": "https://open.spotify.com/track/3IXaaM2x9DAlwjipFQ0t5s"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -563,6 +523,46 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
+        "name": "Subi de N\u00edvel, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7tmZX2ihcmxpiX0QtaGe4m"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9zia Pinheiro",
+          "url": "https://open.spotify.com/artist/0GazbZ6lnb0x1HgOq0MVv8"
+        },
+        {
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
+        }
+      ],
+      "duration_ms": 151645,
+      "name": "Repert\u00f3rio de Desculpas - Ao Vivo",
+      "url": "https://open.spotify.com/track/4A4XvbxF6xmqp2J8MYsh79"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "Amiga Louca (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3f4NfTUas92xlPB1oEpc3B"
+      },
+      "artists": [
+        {
+          "name": "Gabi Suarez",
+          "url": "https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V"
+        },
+        {
+          "name": "Day e Lara",
+          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
+        }
+      ],
+      "duration_ms": 169951,
+      "name": "Amiga Louca - Ao Vivo",
+      "url": "https://open.spotify.com/track/3IXaaM2x9DAlwjipFQ0t5s"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
         "name": "Meu Astral",
         "url": "https://open.spotify.com/album/2j9q1BZPQELmyK4DCAaF3W"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Um Novo Horizonte, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1QrAebRIqS4gL3IL6qY4dl"
-      },
-      "artists": [
-        {
-          "name": "Bia Bosco",
-          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
-        }
-      ],
-      "duration_ms": 208924,
-      "name": "N\u00e3o Tem Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/46OvpQBI6USXfd3cBmRpt2"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "Preso ao Seu Beijo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Rb9S21Wmvkxi3lRtT9j3X"
       },
@@ -615,6 +599,42 @@
       "duration_ms": 162629,
       "name": "Preso ao Seu Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/3hPdbS6PAjFM9biBQajjxR"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "Um Novo Horizonte, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1QrAebRIqS4gL3IL6qY4dl"
+      },
+      "artists": [
+        {
+          "name": "Bia Bosco",
+          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
+        }
+      ],
+      "duration_ms": 208924,
+      "name": "N\u00e3o Tem Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/46OvpQBI6USXfd3cBmRpt2"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "Perdid\u00e3o",
+        "url": "https://open.spotify.com/album/4iHT5kTIal0HSj7D00u1nR"
+      },
+      "artists": [
+        {
+          "name": "Guilherme e Alessandro",
+          "url": "https://open.spotify.com/artist/6WiDwiopZPo2Fb5QgZiIC2"
+        },
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        }
+      ],
+      "duration_ms": 150396,
+      "name": "Perdid\u00e3o",
+      "url": "https://open.spotify.com/track/5SPXRFQaHlegG0Cqlitxax"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -711,26 +731,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Perdid\u00e3o",
-        "url": "https://open.spotify.com/album/4iHT5kTIal0HSj7D00u1nR"
-      },
-      "artists": [
-        {
-          "name": "Guilherme e Alessandro",
-          "url": "https://open.spotify.com/artist/6WiDwiopZPo2Fb5QgZiIC2"
-        },
-        {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
-        }
-      ],
-      "duration_ms": 150396,
-      "name": "Perdid\u00e3o",
-      "url": "https://open.spotify.com/track/5SPXRFQaHlegG0Cqlitxax"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "Sorriso De Desespero (Ao Vivo)",
         "url": "https://open.spotify.com/album/6rTOrVUEmXAGwiDTUJO9qC"
       },
@@ -747,6 +747,26 @@
       "duration_ms": 180223,
       "name": "Sorriso De Desespero - Ao Vivo",
       "url": "https://open.spotify.com/track/0j8E4O6qwcpIWIVy4Med76"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "Ningu\u00e9m Vira Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o4u9EcM17CHy5dWfiwkoh"
+      },
+      "artists": [
+        {
+          "name": "Yuri e Gustavo",
+          "url": "https://open.spotify.com/artist/2OvHw8HjdPtwbZ1naT886U"
+        },
+        {
+          "name": "Thiago & Graciano",
+          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+        }
+      ],
+      "duration_ms": 176758,
+      "name": "Ningu\u00e9m Vira Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5H6crkjg1qB0jM2fbx31Vy"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -819,22 +839,18 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Ningu\u00e9m Vira Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o4u9EcM17CHy5dWfiwkoh"
+        "name": "Primeira L\u00e1grima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
       },
       "artists": [
         {
-          "name": "Yuri e Gustavo",
-          "url": "https://open.spotify.com/artist/2OvHw8HjdPtwbZ1naT886U"
-        },
-        {
-          "name": "Thiago & Graciano",
-          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+          "name": "Arielly Dara",
+          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
         }
       ],
-      "duration_ms": 176758,
-      "name": "Ningu\u00e9m Vira Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/5H6crkjg1qB0jM2fbx31Vy"
+      "duration_ms": 163448,
+      "name": "Primeira L\u00e1grima - Ao Vivo",
+      "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -955,38 +971,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Primeira L\u00e1grima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
-      },
-      "artists": [
-        {
-          "name": "Arielly Dara",
-          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "Primeira L\u00e1grima - Ao Vivo",
-      "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
-        "name": "N\u00e3o Vai Seco",
-        "url": "https://open.spotify.com/album/5l8VXNYRrFfLz1hY0lg8xh"
-      },
-      "artists": [
-        {
-          "name": "Pedro Henrique e Jo\u00e3o Victor",
-          "url": "https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef"
-        }
-      ],
-      "duration_ms": 140228,
-      "name": "N\u00e3o Vai Seco",
-      "url": "https://open.spotify.com/track/4nm0sdoLEaASMA4rjpR66a"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "Mais 18",
         "url": "https://open.spotify.com/album/5LSNuS83GtsRNFOYTsmb6h"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 163605,
       "name": "Mais 18",
       "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "N\u00e3o Vai Seco",
+        "url": "https://open.spotify.com/album/5l8VXNYRrFfLz1hY0lg8xh"
+      },
+      "artists": [
+        {
+          "name": "Pedro Henrique e Jo\u00e3o Victor",
+          "url": "https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef"
+        }
+      ],
+      "duration_ms": 140228,
+      "name": "N\u00e3o Vai Seco",
+      "url": "https://open.spotify.com/track/4nm0sdoLEaASMA4rjpR66a"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Mulher Sabe, Mulher Sente",
-        "url": "https://open.spotify.com/album/7EoqzfGYwtNnSH26IODYR8"
-      },
-      "artists": [
-        {
-          "name": "Gabi Fernandes",
-          "url": "https://open.spotify.com/artist/6OSsybKSOi5qmfRle8Ehqt"
-        }
-      ],
-      "duration_ms": 166470,
-      "name": "Mulher Sabe, Mulher Sente",
-      "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "Tampa da Silverado",
         "url": "https://open.spotify.com/album/6KU7uc58KPi2VIXtjY0rxj"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 142558,
       "name": "Tampa da Silverado",
       "url": "https://open.spotify.com/track/3AmUBqYceSmsF7wfE3pkDa"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "Mulher Sabe, Mulher Sente",
+        "url": "https://open.spotify.com/album/7EoqzfGYwtNnSH26IODYR8"
+      },
+      "artists": [
+        {
+          "name": "Gabi Fernandes",
+          "url": "https://open.spotify.com/artist/6OSsybKSOi5qmfRle8Ehqt"
+        }
+      ],
+      "duration_ms": 166470,
+      "name": "Mulher Sabe, Mulher Sente",
+      "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "N\u00e3o \u00e9 por acaso",
-        "url": "https://open.spotify.com/album/5sIVd7DRDwkUax423EhiHT"
-      },
-      "artists": [
-        {
-          "name": "Augusto D\u00e1vila",
-          "url": "https://open.spotify.com/artist/6CdeVbV2irRNWkOSAA8BrF"
-        }
-      ],
-      "duration_ms": 172207,
-      "name": "Spoiler",
-      "url": "https://open.spotify.com/track/1pc4UkHBQMsHkDL62kNMZg"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "Voc\u00ea \u00e9 Voc\u00ea",
         "url": "https://open.spotify.com/album/3BIGSJIEc6qEJuXw2hzej0"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 171834,
       "name": "Voc\u00ea \u00e9 Voc\u00ea",
       "url": "https://open.spotify.com/track/0PCpcj9LfR988741kQXCAB"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "N\u00e3o \u00e9 por acaso",
+        "url": "https://open.spotify.com/album/5sIVd7DRDwkUax423EhiHT"
+      },
+      "artists": [
+        {
+          "name": "Augusto D\u00e1vila",
+          "url": "https://open.spotify.com/artist/6CdeVbV2irRNWkOSAA8BrF"
+        }
+      ],
+      "duration_ms": 172207,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/1pc4UkHBQMsHkDL62kNMZg"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Deus Aben\u00e7oe O Rol\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uco4T4OXg01iWM1FVoIt1"
-      },
-      "artists": [
-        {
-          "name": "Renato & Giovanelli",
-          "url": "https://open.spotify.com/artist/3KpOZIbkmvt1ukNny0asEg"
-        }
-      ],
-      "duration_ms": 193285,
-      "name": "Deus Aben\u00e7oe O Rol\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/7qDNkqs9Jnj2GoD6uVcT69"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "Os Mi\u00f3 Que T\u00e1 Tendo (Eu S\u00f3 Quero Um Cowboy)",
         "url": "https://open.spotify.com/album/5IdXGRFrWamNQIyrDWo4e9"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 125537,
       "name": "Os Mi\u00f3 Que T\u00e1 Tendo (Eu S\u00f3 Quero Um Cowboy)",
       "url": "https://open.spotify.com/track/5h4kVsNgCJj8QGbSlVDyq8"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "Deus Aben\u00e7oe O Rol\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uco4T4OXg01iWM1FVoIt1"
+      },
+      "artists": [
+        {
+          "name": "Renato & Giovanelli",
+          "url": "https://open.spotify.com/artist/3KpOZIbkmvt1ukNny0asEg"
+        }
+      ],
+      "duration_ms": 193285,
+      "name": "Deus Aben\u00e7oe O Rol\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7qDNkqs9Jnj2GoD6uVcT69"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3uQHjCY1j0Bbwkol3AxYw2"
-      },
-      "artists": [
-        {
-          "name": "Melissa e Milena",
-          "url": "https://open.spotify.com/artist/6uUfwRchop6ciRB2HxXDKw"
-        }
-      ],
-      "duration_ms": 206094,
-      "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WdOgGVJXlUXz6ZoUiQnrG"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "No Rancho, Vol. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/01bDZkfxolGLZ2kG18EHK6"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 162837,
       "name": "N\u00e3o Tenho Advogado - Ao Vivo",
       "url": "https://open.spotify.com/track/5UThpd6uiIEi9cJWmNpKe6"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uQHjCY1j0Bbwkol3AxYw2"
+      },
+      "artists": [
+        {
+          "name": "Melissa e Milena",
+          "url": "https://open.spotify.com/artist/6uUfwRchop6ciRB2HxXDKw"
+        }
+      ],
+      "duration_ms": 206094,
+      "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WdOgGVJXlUXz6ZoUiQnrG"
     },
     {
       "added_at": "2026-05-08 03:03:35",

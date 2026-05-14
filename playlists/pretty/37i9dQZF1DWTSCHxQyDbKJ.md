@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Necessities from LGBTQIA+ artists\. Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,312 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,321 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 44 | [It’s not my fault \(it’s yours\)](https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [It’s not my fault \(it’s yours\)](https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL) | 3:00 |
 | 45 | [The Beat](https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [GEA](https://open.spotify.com/artist/3OHl7zl5cliNK2ADa18ZxL) | [The Beat](https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i) | 3:26 |
 | 46 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
-| 47 | [breakdown.](https://open.spotify.com/track/7JoooKqsYju9N1isa5FjFw) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown\. \(Underworld Rework\)](https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4) | 2:43 |
-| 48 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 |
-| 49 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
-| 50 | [GERM](https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [GERM](https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm) | 5:06 |
+| 47 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 |
+| 48 | [breakdown.](https://open.spotify.com/track/7JoooKqsYju9N1isa5FjFw) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown\. \(Underworld Rework\)](https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4) | 2:43 |
+| 49 | [GERM](https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [GERM](https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm) | 5:06 |
+| 50 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
 | 51 | [Sunshine On Catford](https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Self Titled](https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o) | 3:10 |
 | 52 | [Cupid's Bow](https://open.spotify.com/track/2TGZSBugyuUOHFjsXYBKkD) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Cupid's Bow](https://open.spotify.com/album/1QsGUSZq8PgCkRlPswZSKZ) | 2:51 |
 | 53 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 81 | [Eden](https://open.spotify.com/track/3DHMdOGskwcdXSSymYJoOn) | [Lucyvivor](https://open.spotify.com/artist/1cEzgHSv07ZJvU2PtVa17g) | [Eden](https://open.spotify.com/album/6t0KIdBeZEvQrTtJoiCUCe) | 2:51 |
 | 82 | [The Worst](https://open.spotify.com/track/7uRuhSjbA0McvqXUAOQWYn) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Light It Up](https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn) | 2:58 |
 | 83 | [I Wanna Be Loved By You](https://open.spotify.com/track/18gnbzwrQjunR6kpaTJp6F) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [I Got Too Sad For My Friends](https://open.spotify.com/album/2PTF4EW8kJIeib3cQ87lJk) | 3:03 |
-| 84 | [C'MON](https://open.spotify.com/track/2aRM1BlAXZgMulkRBhj7py) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:10 |
-| 85 | [Everything Is Beautiful](https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Everything Is Beautiful](https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL) | 3:18 |
+| 84 | [Everything Is Beautiful](https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Everything Is Beautiful](https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL) | 3:18 |
+| 85 | [C'MON](https://open.spotify.com/track/2aRM1BlAXZgMulkRBhj7py) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:10 |
 | 86 | [An Angel](https://open.spotify.com/track/5XJ4yeRHNDMSwHLO47NTMP) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Tom Rasmussen](https://open.spotify.com/artist/1FWk2wt5rW1viTKVsPd4Gf) | [An Angel / Girl Reborn](https://open.spotify.com/album/3v61eqpd90ZMP5iJy7w75i) | 3:56 |
 | 87 | [Anyone I Want](https://open.spotify.com/track/1jf7Y78cYBAZKpmD25xJCm) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Anyone I Want](https://open.spotify.com/album/50IJkSXxiseaTrNUQkp0eM) | 2:41 |
 | 88 | [BETTER](https://open.spotify.com/track/68FZuay5wpGLYyIqcBanXa) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [BETTER](https://open.spotify.com/album/3gdyYWWdBC7gTW0fdghVfy) | 3:25 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 90 | [Thelma and Louise](https://open.spotify.com/track/1pJgVRFQliiPFhdnBSMKwG) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Thelma and Louise](https://open.spotify.com/album/2rsekvT7HPXOVQbLDFEtUt) | 3:12 |
 | 91 | [Isn't he pretty](https://open.spotify.com/track/2P3CDEQ033ZBdFFhRyB3Jj) | [Aidan Jones](https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK) | [Isn't he pretty](https://open.spotify.com/album/4qOvuUumGNpB3CYasKlXPF) | 2:55 |
 | 92 | [Let Me In](https://open.spotify.com/track/2UTcMOGxRez2fwpGIoPVhp) | [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Formula OneDa](https://open.spotify.com/album/40v1KTsfP8RwBS1dpfZqTy) | 3:39 |
-| 93 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/4JNOcgdDYesDZXCJgErW8N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/5hjzYMk2CESQYfZo4a7fGL) | 4:23 |
-| 94 | [Going To My Head](https://open.spotify.com/track/5VT6K1GoBmMLkySKljNcZx) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Cabin Fever](https://open.spotify.com/album/724Umpj2VEH5ZAACzQMEAc) | 4:04 |
-| 95 | [Cowboys!](https://open.spotify.com/track/3fa6yQ4cPzbGZ1iGdsLGps) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Cowboys!](https://open.spotify.com/album/4E0ESe1xWk3PxnIjKWuyBS) | 2:54 |
+| 93 | [Cowboys!](https://open.spotify.com/track/3fa6yQ4cPzbGZ1iGdsLGps) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Cowboys!](https://open.spotify.com/album/4E0ESe1xWk3PxnIjKWuyBS) | 2:54 |
+| 94 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/4JNOcgdDYesDZXCJgErW8N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/5hjzYMk2CESQYfZo4a7fGL) | 4:23 |
+| 95 | [Going To My Head](https://open.spotify.com/track/5VT6K1GoBmMLkySKljNcZx) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Cabin Fever](https://open.spotify.com/album/724Umpj2VEH5ZAACzQMEAc) | 4:04 |
 | 96 | [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 |
 | 97 | [heaven/jealous](https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [heaven/jealous](https://open.spotify.com/album/3A3Kt4qO9NQL6gYuizHZdr) | 2:56 |
-| 98 | [One More Time \(feat\. Popstar\)](https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [One More Time \(feat\. Popstar\)](https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW) | 3:20 |
-| 99 | [go!](https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [go!](https://open.spotify.com/album/1Jg6CxHmAxmkf4CE8b8x17) | 3:31 |
+| 98 | [go!](https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [go!](https://open.spotify.com/album/1Jg6CxHmAxmkf4CE8b8x17) | 3:31 |
+| 99 | [One More Time \(feat\. Popstar\)](https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [One More Time \(feat\. Popstar\)](https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW) | 3:20 |
 | 100 | [DONT MAKE THIS WEIRD](https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS) | [DONT MAKE THIS WEIRD](https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p) | [DONT MAKE THIS WEIRD](https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs) | 2:50 |
 
 Snapshot ID: `AAAAAL9wl4IsKmDejl3iBDEV8UFzoc5f`

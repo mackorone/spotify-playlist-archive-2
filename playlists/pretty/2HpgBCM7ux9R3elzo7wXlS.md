@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,133 songs - 2 day 21 hr 47 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,134 songs - 2 day 21 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1141,5 +1141,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1131 | [500 Miles](https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Peter, Paul and Mary](https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo) | 2:42 |
 | 1132 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 1133 | [Lulala! Lululala! \- English Version](https://open.spotify.com/track/0VXhJ6hcVJ40I63ilUloIV) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [Bao The Whale](https://open.spotify.com/artist/2TERX3Wyzpip8d9uw07qYZ) | [Lulala! Lululala!（Original Game Soundtrack）](https://open.spotify.com/album/5D5R2dEZB2vBZR0r2JfFLa) | 3:33 |
+| 1134 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 |
 
-Snapshot ID: `AAAIDbcOxDHJ9JzQllFvjHGSX24zMUsk`
+Snapshot ID: `AAAIDkZN1fi4mr3R2WrJ92ga+dPn+vZH`

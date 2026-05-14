@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jayrick en portada.",
-  "num_followers": 71904,
+  "num_followers": 71918,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
+        "name": "Lunita (J.Pool Remix)",
+        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
+      },
+      "artists": [
+        {
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+        },
+        {
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
+        }
+      ],
+      "duration_ms": 380878,
+      "name": "Lunita - J.Pool Remix",
+      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
         "name": "Como La Flor",
         "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
@@ -1035,38 +1055,26 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "Lunita (J.Pool Remix)",
-        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
+        "name": "Dancing On Dangerous",
+        "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
       "artists": [
         {
-          "name": "J.Pool",
-          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
-        }
-      ],
-      "duration_ms": 380878,
-      "name": "Lunita - J.Pool Remix",
-      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
-      },
-      "artists": [
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
         {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
+      "duration_ms": 123428,
+      "name": "Dancing On Dangerous",
+      "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1091,26 +1099,18 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "Dancing On Dangerous",
-        "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
       },
       "artists": [
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Dancing On Dangerous",
-      "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "CONTIGO",
-        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148005,
-      "name": "CONTIGO",
-      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
         "name": "Prende y Pasa",
         "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
       },
@@ -1211,22 +1195,18 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "B\u00e1ilalo",
-        "url": "https://open.spotify.com/album/36w0XaGcOAAh6FbO4ekujM"
+        "name": "CONTIGO",
+        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
       },
       "artists": [
         {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "KRACH",
-          "url": "https://open.spotify.com/artist/27EYLJLi1YWCUIkq74kl5G"
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
         }
       ],
-      "duration_ms": 137903,
-      "name": "B\u00e1ilalo",
-      "url": "https://open.spotify.com/track/03nYOCm9SqBZhXO5EMtl95"
+      "duration_ms": 148005,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1247,22 +1227,22 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "NO ESTABA MAL",
-        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
+        "name": "B\u00e1ilalo",
+        "url": "https://open.spotify.com/album/36w0XaGcOAAh6FbO4ekujM"
       },
       "artists": [
         {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
         },
         {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+          "name": "KRACH",
+          "url": "https://open.spotify.com/artist/27EYLJLi1YWCUIkq74kl5G"
         }
       ],
-      "duration_ms": 165245,
-      "name": "NO ESTABA MAL",
-      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+      "duration_ms": 137903,
+      "name": "B\u00e1ilalo",
+      "url": "https://open.spotify.com/track/03nYOCm9SqBZhXO5EMtl95"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1307,6 +1287,26 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
+        "name": "NO ESTABA MAL",
+        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "NO ESTABA MAL",
+      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 178100,
       "name": "El 100",
       "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1407,6 +1391,22 @@
       "duration_ms": 161378,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "Jugo de Diamantes",
-        "url": "https://open.spotify.com/album/0lt2MhZTJTSegzvSHfh7YM"
-      },
-      "artists": [
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jugo de Diamantes",
-      "url": "https://open.spotify.com/track/5fZVLUJBlfZUi4xMCjIv48"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
         "name": "Tranki",
         "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 256000,
       "name": "Tranki",
       "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
+        "name": "Jugo de Diamantes",
+        "url": "https://open.spotify.com/album/0lt2MhZTJTSegzvSHfh7YM"
+      },
+      "artists": [
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jugo de Diamantes",
+      "url": "https://open.spotify.com/track/5fZVLUJBlfZUi4xMCjIv48"
     },
     {
       "added_at": "2026-05-08 06:00:48",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2026-05-08 06:00:48",
       "album": {
-        "name": "TUCU",
-        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "TUCU",
-      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
-    },
-    {
-      "added_at": "2026-05-08 06:00:48",
-      "album": {
         "name": "DEO",
         "url": "https://open.spotify.com/album/2S6P4qEqJvsYrxCu6J5cW8"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 176255,
       "name": "DEO",
       "url": "https://open.spotify.com/track/5IWJfw0ve6WQaqLPisbl6k"
+    },
+    {
+      "added_at": "2026-05-08 06:00:48",
+      "album": {
+        "name": "TUCU",
+        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "TUCU",
+      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
     },
     {
       "added_at": "2026-05-08 06:00:48",

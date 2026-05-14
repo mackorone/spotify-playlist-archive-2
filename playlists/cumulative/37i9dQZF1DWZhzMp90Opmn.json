@@ -6057,6 +6057,24 @@
     },
     {
       "album": {
+        "name": "P!nk Deep Rest",
+        "url": "https://open.spotify.com/album/61rd29NwRcK4PYZdcPgiMu"
+      },
+      "artists": [
+        {
+          "name": "BinauralVille",
+          "url": "https://open.spotify.com/artist/1Cqzx8HaZK3qHBxb002KXi"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174495,
+      "name": "Pink Noise Curtain",
+      "url": "https://open.spotify.com/track/4kFi4Xd0FZ0wyPSKJyOWKs"
+    },
+    {
+      "album": {
         "name": "Pink Noise Dawn",
         "url": "https://open.spotify.com/album/4rPqjignGvrBSMxhcWuyvC"
       },
@@ -8088,7 +8106,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 217500,
       "name": "Pink Noise Stillness",
       "url": "https://open.spotify.com/track/2FZymQ0N1CGYP6MmV9hKeR"

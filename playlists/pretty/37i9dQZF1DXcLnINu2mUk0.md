@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Guga
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,445 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,554 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 33 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
 | 34 | [Ondas Do Mar](https://open.spotify.com/track/1qtVkgHcV2xFsi5kWoiCy8) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Ondas Do Mar](https://open.spotify.com/album/0duqET8wyzZEZSMNua9qVe) | 3:44 |
 | 35 | [Camisa 10 \(Primavera\)](https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX) | [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Camisa 10 \(Primavera\)](https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe) | 2:31 |
-| 36 | [Eu Quero Um Preto](https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Eu Quero Um Preto](https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4) | 3:53 |
-| 37 | [Ultimamente](https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 3:42 |
+| 36 | [Ultimamente](https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 3:42 |
+| 37 | [Eu Quero Um Preto](https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Eu Quero Um Preto](https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4) | 3:53 |
 | 38 | [I'm Sorry](https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [I'm Sorry](https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj) | 3:22 |
 | 39 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 |
 | 40 | [Before I Lose My Voice](https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Before I Lose My Voice](https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3) | 3:06 |

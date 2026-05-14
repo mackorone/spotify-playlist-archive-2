@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: dia
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,562 likes - 26 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,560 likes - 26 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 21 | [silly nature](https://open.spotify.com/track/39TQI4MMElmwhA0f07apQ8) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 2:27 |
 | 22 | [末日之戀](https://open.spotify.com/track/04IkgvVjxtp5YrWqNtNPUX) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [末日之戀](https://open.spotify.com/album/3tHQ6niOyfDc5rQ3hQVVUc) | 3:40 |
 | 23 | [RUDE BOYS](https://open.spotify.com/track/1JM9T6BscsTCG7MLvliLTw) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [METAMORFOSI](https://open.spotify.com/album/4Xxeo92mq7Nr9jlZyr0yza) | 2:21 |
-| 24 | [Misfire](https://open.spotify.com/track/3LB91BYKAZqcQG7Q2TGepV) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/0UmM7cmL7Mxy4ZUCDdD41e) | 3:41 |
-| 25 | [i told chatgpt about you](https://open.spotify.com/track/0bFhKx00u59mp57ICYhwCM) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [i told chatgpt about you](https://open.spotify.com/album/7jMn0C4Thymtq0OKKA5qlZ) | 3:14 |
+| 24 | [i told chatgpt about you](https://open.spotify.com/track/0bFhKx00u59mp57ICYhwCM) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [i told chatgpt about you](https://open.spotify.com/album/7jMn0C4Thymtq0OKKA5qlZ) | 3:14 |
+| 25 | [Misfire](https://open.spotify.com/track/3LB91BYKAZqcQG7Q2TGepV) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/0UmM7cmL7Mxy4ZUCDdD41e) | 3:41 |
 | 26 | [Kiss u goodnight](https://open.spotify.com/track/4Vz6slkVySutvsUxegFupk) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [Kiss u goodnight](https://open.spotify.com/album/0no5KOn0MFnit0HXQr8M9S) | 3:14 |
 
 Snapshot ID: `AAAAAHC0d+po3FRCzIrTCVoTeAt+yPAf`

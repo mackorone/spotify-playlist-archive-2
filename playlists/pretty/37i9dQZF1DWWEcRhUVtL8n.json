@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: MUNA",
-  "num_followers": 1670365,
+  "num_followers": 1670278,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Delete Ya",
-        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Fleeting",
         "url": "https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 171386,
       "name": "Truth Of Pursuit",
       "url": "https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2026-04-03 04:02:32",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
     },
     {
-      "added_at": "2026-04-10 04:50:19",
-      "album": {
-        "name": "kiss goodbye / brb",
-        "url": "https://open.spotify.com/album/45omOM9b7ujbjudttnasFa"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 163736,
-      "name": "kiss goodbye",
-      "url": "https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF"
-    },
-    {
       "added_at": "2026-05-01 04:03:56",
       "album": {
         "name": "Crutch",
@@ -789,20 +773,20 @@
       "url": "https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU"
     },
     {
-      "added_at": "2026-04-17 04:01:30",
+      "added_at": "2026-04-10 04:50:19",
       "album": {
-        "name": "Wannabeher",
-        "url": "https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9"
+        "name": "kiss goodbye / brb",
+        "url": "https://open.spotify.com/album/45omOM9b7ujbjudttnasFa"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
         }
       ],
-      "duration_ms": 154853,
-      "name": "Wannabeher",
-      "url": "https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G"
+      "duration_ms": 163736,
+      "name": "kiss goodbye",
+      "url": "https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -819,6 +803,22 @@
       "duration_ms": 206652,
       "name": "Vampire Bat",
       "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
+    },
+    {
+      "added_at": "2026-04-17 04:01:30",
+      "album": {
+        "name": "Wannabeher",
+        "url": "https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 154853,
+      "name": "Wannabeher",
+      "url": "https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -919,30 +919,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "I Did This To Myself",
-        "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "I Did This To Myself",
-      "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "The Clearing",
         "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
       },
@@ -971,6 +947,30 @@
       "duration_ms": 197655,
       "name": "21st Century Cool Girl",
       "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "I Did This To Myself",
+        "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "I Did This To Myself",
+      "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1261,6 +1261,22 @@
       "url": "https://open.spotify.com/track/771ruvsgyt1P1AO4raBel0"
     },
     {
+      "added_at": "2026-04-24 04:01:26",
+      "album": {
+        "name": "Sick of Staying",
+        "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 206470,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
+    },
+    {
       "added_at": "2026-04-10 04:50:19",
       "album": {
         "name": "Love Hate (feat. Thomas Day)",
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2026-04-24 04:01:26",
       "album": {
-        "name": "Sick of Staying",
-        "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
+        "name": "RODEO CLOWN",
+        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
       },
       "artists": [
         {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
         }
       ],
-      "duration_ms": 206470,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
+      "duration_ms": 153764,
+      "name": "RODEO CLOWN",
+      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
     },
     {
       "added_at": "2026-04-03 04:02:32",
@@ -1313,6 +1329,22 @@
       "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
+      "added_at": "2026-04-24 04:01:26",
+      "album": {
+        "name": "One Foot Out",
+        "url": "https://open.spotify.com/album/0NgM5o4m1b4yYy79DBKrOI"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "One Foot Out",
+      "url": "https://open.spotify.com/track/16muzdLNvN4Wi5nIvcRDdx"
+    },
+    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "Under The Streetlights",
@@ -1329,6 +1361,22 @@
       "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
     },
     {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "terrible4u",
+        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        }
+      ],
+      "duration_ms": 198092,
+      "name": "terrible4u",
+      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+    },
+    {
       "added_at": "2026-03-27 05:14:04",
       "album": {
         "name": "Icarus",
@@ -1343,38 +1391,6 @@
       "duration_ms": 265278,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN"
-    },
-    {
-      "added_at": "2026-04-24 04:01:26",
-      "album": {
-        "name": "RODEO CLOWN",
-        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
-      },
-      "artists": [
-        {
-          "name": "Obed Padilla",
-          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
-        }
-      ],
-      "duration_ms": 153764,
-      "name": "RODEO CLOWN",
-      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
-    },
-    {
-      "added_at": "2026-04-24 04:01:26",
-      "album": {
-        "name": "One Foot Out",
-        "url": "https://open.spotify.com/album/0NgM5o4m1b4yYy79DBKrOI"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "One Foot Out",
-      "url": "https://open.spotify.com/track/16muzdLNvN4Wi5nIvcRDdx"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "terrible4u",
-        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
-      },
-      "artists": [
-        {
-          "name": "Luke Chiang",
-          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
-        }
-      ],
-      "duration_ms": 198092,
-      "name": "terrible4u",
-      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Memory Be a Blade",
         "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
       },
@@ -1439,38 +1439,6 @@
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Aint It Such A Bitch",
-        "url": "https://open.spotify.com/album/4HRHCb1ApGerwsb0kUcK9p"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 206874,
-      "name": "Aint It Such A Bitch",
-      "url": "https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Days Of Us",
-        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
     },
     {
       "added_at": "2026-04-10 04:50:19",
@@ -1507,18 +1475,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Stupid Bitches",
-        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
+        "name": "Aint It Such A Bitch",
+        "url": "https://open.spotify.com/album/4HRHCb1ApGerwsb0kUcK9p"
       },
       "artists": [
         {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
         }
       ],
-      "duration_ms": 211893,
-      "name": "Stupid Bitches",
-      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
+      "duration_ms": 206874,
+      "name": "Aint It Such A Bitch",
+      "url": "https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk"
     },
     {
       "added_at": "2026-05-01 04:03:56",
@@ -1535,6 +1503,38 @@
       "duration_ms": 172586,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Stupid Bitches",
+        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Stupid Bitches",
+      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Days Of Us",
+        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1621,20 +1621,20 @@
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
     },
     {
-      "added_at": "2026-03-27 05:14:04",
+      "added_at": "2026-05-01 04:03:56",
       "album": {
-        "name": "Kiss&Tell",
-        "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
+        "name": "I'm Perfect",
+        "url": "https://open.spotify.com/album/60Hvs9ZxGolkuc4sPafLY1"
       },
       "artists": [
         {
-          "name": "GUINEVERE",
-          "url": "https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood"
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
         }
       ],
-      "duration_ms": 225477,
-      "name": "Kiss&Tell",
-      "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
+      "duration_ms": 156854,
+      "name": "I'm Perfect",
+      "url": "https://open.spotify.com/track/0AhwAd4wVcIBOAlsS6PhVn"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1653,36 +1653,20 @@
       "url": "https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m"
     },
     {
-      "added_at": "2026-03-20 04:00:48",
+      "added_at": "2026-03-27 05:14:04",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+        "name": "Kiss&Tell",
+        "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "GUINEVERE",
+          "url": "https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood"
         }
       ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-04-24 04:01:26",
-      "album": {
-        "name": "Don't Kill the Vibe",
-        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
-      },
-      "artists": [
-        {
-          "name": "Jordan Joy",
-          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
-        }
-      ],
-      "duration_ms": 262459,
-      "name": "Don't Kill the Vibe",
-      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
+      "duration_ms": 225477,
+      "name": "Kiss&Tell",
+      "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1699,6 +1683,22 @@
       "duration_ms": 147106,
       "name": "Texas Baby",
       "url": "https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr"
+    },
+    {
+      "added_at": "2026-04-24 04:01:26",
+      "album": {
+        "name": "Don't Kill the Vibe",
+        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
+      },
+      "artists": [
+        {
+          "name": "Jordan Joy",
+          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
+        }
+      ],
+      "duration_ms": 262459,
+      "name": "Don't Kill the Vibe",
+      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
     }
   ],
   "unique_name": "Indie Pop",

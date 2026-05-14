@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55661,
+  "num_followers": 55658,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAABDL8TcsVhIOxtaVvHTlprY",
+  "snapshot_id": "agJtgAAAAACui6BZKAIntDgqn2qeYP04",
   "tracks": [
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 256321,
-      "name": "Black Rainbow (Live)",
-      "url": "https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf"
+      "duration_ms": 237911,
+      "name": "Marrow (Live)",
+      "url": "https://open.spotify.com/track/53x8ls1sxWC6RcCplsFgu5"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 237911,
-      "name": "Marrow (Live)",
-      "url": "https://open.spotify.com/track/53x8ls1sxWC6RcCplsFgu5"
+      "duration_ms": 256321,
+      "name": "Black Rainbow (Live)",
+      "url": "https://open.spotify.com/track/5HqFOpyH9vzfWr60qVD7pf"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus Saves, I Spend",
+        "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hyperspace (2020)",
         "url": "https://open.spotify.com/album/6Aqtcnv4SwSnXaZj987OQ0"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Saves, I Spend",
-        "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strange Mercy",
         "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
@@ -855,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
       "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 185320,
-      "name": "I Am an Ape",
-      "url": "https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV"
+      "duration_ms": 201760,
+      "name": "Regret",
+      "url": "https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe"
     }
   ],
   "unique_name": "This Is St. Vincent",

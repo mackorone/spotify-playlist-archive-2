@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- Dhurandhar:  The Revenge
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,149,649 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,150,209 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Jo Ishq Hua](https://open.spotify.com/track/7Ap5aHmy2K57COwJqHYYEb) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Jo Ishq Hua](https://open.spotify.com/album/4iiAoHEukZQFJPyH14laGO) | 4:32 |
 | 50 | [The Last Letter](https://open.spotify.com/track/0TsyaaM73GAKIxv38yzHV4) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Mazaak](https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz) | [The Last Letter](https://open.spotify.com/album/713AvxcNnVOUQnp4LRcc5G) | 2:49 |
 
-Snapshot ID: `AAAAANyuSkXU1dU2SqYcgbx4WsjMzgIU`
+Snapshot ID: `AAAAABHS1kMuPWWMegmU0qN/ndrY/2Tk`

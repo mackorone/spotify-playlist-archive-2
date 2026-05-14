@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,840 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,849 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 39 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
 | 40 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |
 | 41 | [Eu Quero Tchu Eu Quero Tcha](https://open.spotify.com/track/3xrYgdz1QEj2q3f5T1OGxb) | [João Lucas & Marcelo](https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG) | [Eu Quero Tchu Eu Quero Tcha \- Single](https://open.spotify.com/album/5YoSOrOY8x9bWnLheZ07vt) | 2:39 |
-| 42 | [Beijinho no Ombro](https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI) | [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [Beijinho no Ombro](https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE) | 2:44 |
-| 43 | [País do Futebol](https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD) | [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [País do Futebol](https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009) | 2:29 |
+| 42 | [País do Futebol](https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD) | [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [País do Futebol](https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009) | 2:29 |
+| 43 | [Beijinho no Ombro](https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI) | [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [Beijinho no Ombro](https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE) | 2:44 |
 | 44 | [Amiga Parceira](https://open.spotify.com/track/26Vmg97Pv0MaxIdKsBrXTq) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Amiga Parceira](https://open.spotify.com/album/5VmlupfS69IXynlBcA6IAa) | 3:17 |
 | 45 | [Ao Vivo E A Cores](https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ao Vivo E A Cores](https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo) | 3:00 |
 | 46 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 56 | [Ta Tum Tum](https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Ta Tum Tum](https://open.spotify.com/album/7ebtmJ8DgEa0AranPQOcBI) | 2:44 |
 | 57 | [Cheguei](https://open.spotify.com/track/6cbZb9mVAc5s8HtwklLoI0) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:54 |
 | 58 | [Louquinha](https://open.spotify.com/track/3nXdCzDouMQKfAiiHffYxL) | [João Lucas & Marcelo](https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag) | [Louquinha](https://open.spotify.com/album/36VTJk6RkDOJnMnmMH4KuQ) | 3:30 |
-| 59 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
-| 60 | [No Llores Más](https://open.spotify.com/track/0C3hl4giyPEnDQf2IlWpk2) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Llores Más](https://open.spotify.com/album/5yBVHG6wgeyZjRxYQPRQs8) | 2:49 |
+| 59 | [No Llores Más](https://open.spotify.com/track/0C3hl4giyPEnDQf2IlWpk2) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Llores Más](https://open.spotify.com/album/5yBVHG6wgeyZjRxYQPRQs8) | 2:49 |
+| 60 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
 
 Snapshot ID: `AAAAALMIgtiC7/CIRaoLp7VmwBYIY9CL`

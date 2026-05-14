@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "TRISTAN1",
+        "url": "https://open.spotify.com/album/7txEo8xATuZOJys8TIWnL2"
+      },
+      "artists": [
+        {
+          "name": "Tristan",
+          "url": "https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180060,
+      "name": "T",
+      "url": "https://open.spotify.com/track/299kqZHWyMLL2Ng0DQkJ5q"
+    },
+    {
+      "album": {
         "name": "Strawberry Blonde",
         "url": "https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk"
       },

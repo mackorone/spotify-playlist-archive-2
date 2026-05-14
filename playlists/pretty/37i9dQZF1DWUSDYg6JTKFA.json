@@ -1,6 +1,6 @@
 {
   "description": "Lift your spirit and anchor your faith in these songs of hopefulness.",
-  "num_followers": 213264,
+  "num_followers": 213274,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-03-23 15:58:34",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 333053,
-      "name": "I Am Not Alone - Live",
-      "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
-    },
-    {
-      "added_at": "2026-03-23 15:58:34",
-      "album": {
         "name": "Another One (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2026-03-23 15:58:34",
       "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        }
+      ],
+      "duration_ms": 333053,
+      "name": "I Am Not Alone - Live",
+      "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
+    },
+    {
+      "added_at": "2026-03-23 15:58:34",
+      "album": {
         "name": "Jesus Changed My Life",
         "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
       },
@@ -251,38 +251,6 @@
       "duration_ms": 235651,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq"
-    },
-    {
-      "added_at": "2026-03-23 15:58:34",
-      "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "He Knows",
-      "url": "https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw"
-    },
-    {
-      "added_at": "2026-03-23 15:58:34",
-      "album": {
-        "name": "Jamie MacDonald",
-        "url": "https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp"
-      },
-      "artists": [
-        {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
-        }
-      ],
-      "duration_ms": 189593,
-      "name": "Won't Let Go",
-      "url": "https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4"
     },
     {
       "added_at": "2026-03-23 15:58:34",
@@ -307,18 +275,34 @@
     {
       "added_at": "2026-03-23 15:58:34",
       "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
+        "name": "Jamie MacDonald",
+        "url": "https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp"
       },
       "artists": [
         {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
         }
       ],
-      "duration_ms": 175453,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv"
+      "duration_ms": 189593,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4"
+    },
+    {
+      "added_at": "2026-03-23 15:58:34",
+      "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "He Knows",
+      "url": "https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw"
     },
     {
       "added_at": "2026-03-23 15:58:34",
@@ -335,6 +319,22 @@
       "duration_ms": 262540,
       "name": "You've Already Won - Radio Version",
       "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
+    },
+    {
+      "added_at": "2026-03-23 15:58:34",
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv"
     },
     {
       "added_at": "2026-03-23 15:58:34",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-03-23 15:58:34",
       "album": {
+        "name": "high water",
+        "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 168975,
+      "name": "high water",
+      "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
+    },
+    {
+      "added_at": "2026-03-23 15:58:34",
+      "album": {
         "name": "Gravitas",
         "url": "https://open.spotify.com/album/7JA2YnBXzhTeGnTQ2JVhNd"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 246551,
       "name": "A Time",
       "url": "https://open.spotify.com/track/0GiVtGPVYAS0zU5IfnfY9Z"
-    },
-    {
-      "added_at": "2026-03-23 15:58:34",
-      "album": {
-        "name": "high water",
-        "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 168975,
-      "name": "high water",
-      "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
     },
     {
       "added_at": "2026-03-23 15:58:34",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-03-23 15:58:34",
       "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 338900,
-      "name": "Good Things - (Live) [Acoustic]",
-      "url": "https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R"
-    },
-    {
-      "added_at": "2026-03-23 15:58:34",
-      "album": {
         "name": "One Heart at a Time",
         "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 262520,
       "name": "One Heart at a Time",
       "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
+    },
+    {
+      "added_at": "2026-03-23 15:58:34",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 338900,
+      "name": "Good Things - (Live) [Acoustic]",
+      "url": "https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R"
     },
     {
       "added_at": "2026-03-23 15:58:34",

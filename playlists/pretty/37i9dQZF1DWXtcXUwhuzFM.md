@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Turisti ja Elastinen, Averagekidluke ja Vesta, Gettomasa..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,839 likes - 106 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,835 likes - 106 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 44 | [Killingintie](https://open.spotify.com/track/3AsHSFFy6Mz4qBgAjcIuZD) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Killingintie](https://open.spotify.com/album/1uToqeFHa6Ro9pZUp1d5XF) | 3:51 |
 | 45 | [Ashin' the Blunt \(with Young Thug\)](https://open.spotify.com/track/5adWDt4mPuryG0IoC1ZKu1) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Ashin' the Blunt \(with Young Thug\)](https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL) | 3:48 |
 | 46 | [Bed of Roses \(with Wale\)](https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bed of Roses \(with Wale\)](https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3) | 3:05 |
-| 47 | [WESH \(feat\. james, AP, Yadi\)](https://open.spotify.com/track/7abyPhl6crcWm4IuhR2dHe) | [Saketti](https://open.spotify.com/artist/26u8dQfojnA2V2ZzFwGv6O), [james](https://open.spotify.com/artist/0DQd9NMeBJPMcOrOdgqQqp), [AP](https://open.spotify.com/artist/2yD76AJmgen6Msbv3VJpAr), [Yadi](https://open.spotify.com/artist/7EWUUMv1Vz4Mb7gWnue2MW) | [WESH \(feat\. james, AP, Yadi\)](https://open.spotify.com/album/04aTa28crMjOzD1hVVMm5K) | 2:53 |
+| 47 | [WESH \(feat\. james, AP, Yadi\)](https://open.spotify.com/track/7abyPhl6crcWm4IuhR2dHe) | [Saketti](https://open.spotify.com/artist/26u8dQfojnA2V2ZzFwGv6O), [james](https://open.spotify.com/artist/0DQd9NMeBJPMcOrOdgqQqp), [AP](https://open.spotify.com/artist/6VmPvkwvAoPJOakeYmXJRi), [Yadi](https://open.spotify.com/artist/7EWUUMv1Vz4Mb7gWnue2MW) | [WESH \(feat\. james, AP, Yadi\)](https://open.spotify.com/album/04aTa28crMjOzD1hVVMm5K) | 2:53 |
 | 48 | [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 |
 | 49 | [Therapy at the Club](https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Therapy at the Club](https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP) | 2:47 |
 | 50 | [Rerun](https://open.spotify.com/track/2L5SUfK0IjxTInv1QOaw7a) | [Beyond Awareness](https://open.spotify.com/artist/4QLBCc2W2uxqr6ZbBMjMBs), [Pontus Hjelm](https://open.spotify.com/artist/66lznisJ53oc1YKu6C1zSV) | [Reflections](https://open.spotify.com/album/7didlh1tx570VjOqGI08WI) | 3:43 |

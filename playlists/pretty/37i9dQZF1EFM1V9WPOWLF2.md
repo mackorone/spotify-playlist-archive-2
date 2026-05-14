@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 18 | [Hasta Cuando](https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:09 |
 | 19 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
 | 20 | [¡aquí yo mando!](https://open.spotify.com/track/05ufCucv6Z1oLMWeS8XapR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:21 |
-| 21 | [Religiosa](https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:40 |
-| 22 | [PLN](https://open.spotify.com/track/3T3kxmb4QWwrnzoa3eOakp) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:45 |
+| 21 | [PLN](https://open.spotify.com/track/3T3kxmb4QWwrnzoa3eOakp) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:45 |
+| 22 | [Religiosa](https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:40 |
 | 23 | [1TRAGO](https://open.spotify.com/track/5t4YUyO8Y45tKUiiKJbB2l) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:20 |
 | 24 | [Dámelo To’ \(feat\. Myke Towers\)](https://open.spotify.com/track/36CiGk9oRdwTnBDMgKEfjl) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:04 |
 | 25 | [La Fuerte](https://open.spotify.com/track/09mHLXMh3rmruStxevfh3U) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 99 | [Terrifying](https://open.spotify.com/track/2ANynrvIPu167ZHz2DJ3xk) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Terrifying](https://open.spotify.com/album/732sY0DgQ57NUeH5wNSDL4) | 3:24 |
 | 100 | [Its Weird](https://open.spotify.com/track/4S9pwJF1RwFY9rjuyVlTOB) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Its Weird](https://open.spotify.com/album/4XqWvGatggpkv5iGNmgp0T) | 2:59 |
 
-Snapshot ID: `AcRVHAAAAADUgvxJDtzlHwB10xxizrSV`
+Snapshot ID: `AcRa0AAAAABzoP+Kc3rMs64kyIYNLjj3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,248 likes - 350 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,250 likes - 350 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 58 | [2HONEST feat\. SAINt JHN](https://open.spotify.com/track/0iHGKZiXJ5Mqq14MJ9mjxg) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [V TAPE](https://open.spotify.com/album/73nAZ5xJR0DDzUXKUZNusz) | 3:57 |
 | 59 | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/album/6lSjMJHMD4vgXZ7pm8gwoB) | 5:12 |
 | 60 | [No Good](https://open.spotify.com/track/0ww4cvNmxkFd04X1qtFWhA) | [Samira Finley](https://open.spotify.com/artist/6tU2k4kzOc2rAbXjphvbUv) | [No Good](https://open.spotify.com/album/0Rakb4FFhKuAQUXwe7t9pD) | 4:10 |
-| 61 | [Need Me](https://open.spotify.com/track/7LVXsbi4y6TaXEUyDsqhFN) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1), [Jr](https://open.spotify.com/artist/3Hlf2lRqdg8AoCMgyWF9vH) | [Afro Island](https://open.spotify.com/album/5KkDCCJjoJmOoaj6cJ68OR) | 2:13 |
+| 61 | [Need Me](https://open.spotify.com/track/7LVXsbi4y6TaXEUyDsqhFN) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1), [STERLiiNG](https://open.spotify.com/artist/3Hlf2lRqdg8AoCMgyWF9vH) | [Afro Island](https://open.spotify.com/album/5KkDCCJjoJmOoaj6cJ68OR) | 2:13 |
 | 62 | [My Winter \(feat\. Robert Glasper\)](https://open.spotify.com/track/5fHxa5Hlek46LgBFN344w1) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Laurin Talese](https://open.spotify.com/artist/2iirSBE12frjhW8JKtJQhN), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 5:01 |
 | 63 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
 | 64 | [Caliente](https://open.spotify.com/track/3QPyUKKNmAdVyUzsZVseou) | [Ari LaShell](https://open.spotify.com/artist/1GRmwdUNtEsI4zfyvU4Z8e) | [Caliente](https://open.spotify.com/album/1RN1uKGfaJ2krEHiOTaqI0) | 2:51 |

@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 87900,
+  "num_followers": 87896,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -228,8 +228,8 @@
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         }
       ],
       "duration_ms": 409986,
@@ -328,8 +328,8 @@
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         },
         {
           "name": "Cody Carnes",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 309093,
       "name": "Behold The Lamb - Live",
       "url": "https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Be One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "King Of The World",
-      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -919,18 +919,38 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+        "name": "From The Inside Out",
+        "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
       },
       "artists": [
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 294813,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
+      "duration_ms": 256970,
+      "name": "Lead Me To The Cross",
+      "url": "https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Love Revolution",
+        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 361413,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -955,38 +975,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Love Revolution",
-        "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
       "artists": [
         {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 361413,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "From The Inside Out",
-        "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 256970,
-      "name": "Lead Me To The Cross",
-      "url": "https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f"
+      "duration_ms": 294813,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1423,18 +1423,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Christ to Every Nation",
-        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
+        "name": "Love Has A Name (Studio Version)",
+        "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
       },
       "artists": [
         {
-          "name": "Stillcreek",
-          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 251408,
-      "name": "Christ to Every Nation",
-      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
+      "duration_ms": 263878,
+      "name": "Love Has A Name - Studio Version",
+      "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1455,22 +1459,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Love Has A Name (Studio Version)",
-        "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
+        "name": "Christ to Every Nation",
+        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Stillcreek",
+          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
         }
       ],
-      "duration_ms": 263878,
-      "name": "Love Has A Name - Studio Version",
-      "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
+      "duration_ms": 251408,
+      "name": "Christ to Every Nation",
+      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "JESUS",
-        "url": "https://open.spotify.com/album/03UHVZU8WsMFroHVWm6hJc"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 200120,
-      "name": "JESUS",
-      "url": "https://open.spotify.com/track/7ezBWjqG5tdtvyXcg3toYf"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
         "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 249000,
       "name": "The Passover Song (feat. Sean Carter)",
       "url": "https://open.spotify.com/track/4IM3k6CREQ4buhuklvqpa8"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "JESUS",
+        "url": "https://open.spotify.com/album/03UHVZU8WsMFroHVWm6hJc"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "JESUS",
+      "url": "https://open.spotify.com/track/7ezBWjqG5tdtvyXcg3toYf"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/0F7SPP7Wt7C9NP80JPDPdj"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/7reASFw2ZMgqahFJc6CMgl"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "What You Could Do With Me",
         "url": "https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 231550,
       "name": "What You Could Do With Me",
       "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/0F7SPP7Wt7C9NP80JPDPdj"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/7reASFw2ZMgqahFJc6CMgl"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Jesus Is My Healer (Live)",
-        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Jessie Harris",
-          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
-        }
-      ],
-      "duration_ms": 380865,
-      "name": "Jesus Is My Healer - Live",
-      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Fidelity",
         "url": "https://open.spotify.com/album/4VEedDAjIFSLYbSNLNHcfX"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 205479,
       "name": "Resurrect (John 20)",
       "url": "https://open.spotify.com/track/7kMLw2enk84NNp001TSfTw"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Jesus Is My Healer (Live)",
+        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "duration_ms": 380865,
+      "name": "Jesus Is My Healer - Live",
+      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2159,22 +2159,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "SPACE",
-        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
+        "name": "Let It Echo (Live)",
+        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
       "artists": [
         {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
         },
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "Derek Johnson",
+          "url": "https://open.spotify.com/artist/3967KnQedbgX8KdNTXhm7y"
         }
       ],
-      "duration_ms": 298640,
-      "name": "Bless The One - Live",
-      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
+      "duration_ms": 328173,
+      "name": "Power In The Cross - Live",
+      "url": "https://open.spotify.com/track/3blTwlIOG5KrXP7UnxFTzT"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2195,22 +2195,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Let It Echo (Live)",
-        "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
+        "name": "SPACE",
+        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         },
         {
-          "name": "Derek Johnson",
-          "url": "https://open.spotify.com/artist/3967KnQedbgX8KdNTXhm7y"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 328173,
-      "name": "Power In The Cross - Live",
-      "url": "https://open.spotify.com/track/3blTwlIOG5KrXP7UnxFTzT"
+      "duration_ms": 298640,
+      "name": "Bless The One - Live",
+      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Still My Little Boy",
-        "url": "https://open.spotify.com/album/0s00dylb9jlVwZOct1rief"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 272007,
-      "name": "Still My Little Boy",
-      "url": "https://open.spotify.com/track/7pH0SM8tsclIBgRX7Al1zm"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "The Lamb Slain (Live)",
         "url": "https://open.spotify.com/album/4hCC720mFetw7yfbwIjGEn"
       },
@@ -2355,6 +2339,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Still My Little Boy",
+        "url": "https://open.spotify.com/album/0s00dylb9jlVwZOct1rief"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 272007,
+      "name": "Still My Little Boy",
+      "url": "https://open.spotify.com/track/7pH0SM8tsclIBgRX7Al1zm"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "The Crucifixion of Jesus",
         "url": "https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq"
       },
@@ -2367,26 +2367,6 @@
       "duration_ms": 261573,
       "name": "Stay With Me Here",
       "url": "https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Rose Again (3 Days)",
-        "url": "https://open.spotify.com/album/5chaSPc8W53pnDFt6t0HKp"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "De'Aris",
-          "url": "https://open.spotify.com/artist/4TyB7OBEDgGW7tIG6jgYAz"
-        }
-      ],
-      "duration_ms": 162608,
-      "name": "Rose Again (3 Days)",
-      "url": "https://open.spotify.com/track/2zv4PW9Rs1NdcZ4cEkmUmF"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2411,6 +2391,26 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Rose Again (3 Days)",
+        "url": "https://open.spotify.com/album/5chaSPc8W53pnDFt6t0HKp"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "De'Aris",
+          "url": "https://open.spotify.com/artist/4TyB7OBEDgGW7tIG6jgYAz"
+        }
+      ],
+      "duration_ms": 162608,
+      "name": "Rose Again (3 Days)",
+      "url": "https://open.spotify.com/track/2zv4PW9Rs1NdcZ4cEkmUmF"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Glory & Wonder",
         "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
       },
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/3nJxen033HMnvySxcnSiJh"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 333199,
-      "name": "Worthy Is The Lamb - Easter Version",
-      "url": "https://open.spotify.com/track/16Ctqq2ZkzjE2f7HbLSJMt"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "RESURRECTION HERE",
         "url": "https://open.spotify.com/album/4QfZ0A7R1ciDP8ZucNZYfb"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 256892,
       "name": "RESURRECTION HERE",
       "url": "https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/3nJxen033HMnvySxcnSiJh"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 333199,
+      "name": "Worthy Is The Lamb - Easter Version",
+      "url": "https://open.spotify.com/track/16Ctqq2ZkzjE2f7HbLSJMt"
     },
     {
       "added_at": "2026-04-04 06:04:53",

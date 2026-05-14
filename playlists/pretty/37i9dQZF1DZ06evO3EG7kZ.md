@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,650 likes - 26 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,651 likes - 26 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 | 25 | [Seesaw](https://open.spotify.com/track/4PqKOgIkMnvAJmlGZJWwdB) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 2:09 |
 | 26 | [Rug Island, Pt\. 2](https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 1:16 |
 
-Snapshot ID: `agEcAAAAAADc1zZpSb6I1Ac9DyzZn1LO`
+Snapshot ID: `agJtgAAAAAC6FamnUwbob2WqD3fhKKkZ`

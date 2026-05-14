@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 72 | [Don't Know Myself](https://open.spotify.com/track/55rRGt3xJzmYMYbQMQ4Roo) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Country With Heart \(Part One\)](https://open.spotify.com/album/5JMJALe7t4VoWpnXL4FdUY) | 2:57 |
 | 73 | [God and a Good Man](https://open.spotify.com/track/5FdyZx9yvHUWLeCjy7zgXc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Golden Child](https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct) | 4:56 |
 | 74 | [More Of You](https://open.spotify.com/track/06kYozo6Am3njAuYXy7XJw) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [More Of You](https://open.spotify.com/album/6BPN1ae8Yj3YBjA4smeT6p) | 3:33 |
-| 75 | [Slip on Back](https://open.spotify.com/track/5YHCNCgU0qXXf33yKlkBM9) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Jaden Hamilton](https://open.spotify.com/album/0wGXb4LwelW4nLNeJ5jWm3) | 2:53 |
-| 76 | [Easy for You to Say](https://open.spotify.com/track/6l6AwR3Vp9tGt97OE1bdPs) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3cZg2kg86yLwTyMoBv5bBC) | 3:19 |
+| 75 | [Easy for You to Say](https://open.spotify.com/track/6l6AwR3Vp9tGt97OE1bdPs) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3cZg2kg86yLwTyMoBv5bBC) | 3:19 |
+| 76 | [Slip on Back](https://open.spotify.com/track/5YHCNCgU0qXXf33yKlkBM9) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Jaden Hamilton](https://open.spotify.com/album/0wGXb4LwelW4nLNeJ5jWm3) | 2:53 |
 | 77 | [Anymore](https://open.spotify.com/track/7bRCQGyX5rjV8M6qDU0th1) | [Remy Garrison](https://open.spotify.com/artist/3sgAiri5AHS9UmXrfiUQjV) | [Anymore](https://open.spotify.com/album/3mkGhTANP45x6mzKKKw5DZ) | 2:59 |
 | 78 | [Maybe Not](https://open.spotify.com/track/1PkMxo1SQtehhsM3GuYd4g) | [Temecula Road](https://open.spotify.com/artist/6NBjdxIPyMnOSmkkwd5UZT) | [Maybe Not](https://open.spotify.com/album/4djCJK2VULqp1Okwc6Sx51) | 2:57 |
 | 79 | [Broken Hearts Break](https://open.spotify.com/track/4Zxz5nRPkPDzTfau5WG3g6) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Broken Hearts](https://open.spotify.com/album/3nhHTXUL4eEFE6LRD8Fo0n) | 3:33 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 89 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
 | 90 | [Girls Like Me](https://open.spotify.com/track/7nGnnHtErve02tHBqMeli5) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/16Oll25MEMHBenyxFSWANh) | 2:51 |
 | 91 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
-| 92 | [Hell of a Hometown](https://open.spotify.com/track/62GUW1nFv6ekfNyprziCvo) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Hell of a Hometown](https://open.spotify.com/album/0JjAkZAQcXjrSPBrLXrJ9c) | 3:03 |
-| 93 | [Show Up](https://open.spotify.com/track/1ENpEBh3B1Sf7sQrhlj58C) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Show Up](https://open.spotify.com/album/0QnOXwlpdBKPJE5zZXMXri) | 3:02 |
+| 92 | [Show Up](https://open.spotify.com/track/1ENpEBh3B1Sf7sQrhlj58C) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Show Up](https://open.spotify.com/album/0QnOXwlpdBKPJE5zZXMXri) | 3:02 |
+| 93 | [Hell of a Hometown](https://open.spotify.com/track/62GUW1nFv6ekfNyprziCvo) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Hell of a Hometown](https://open.spotify.com/album/0JjAkZAQcXjrSPBrLXrJ9c) | 3:03 |
 | 94 | [Same Kind of Crazy](https://open.spotify.com/track/0kBSNUDkV3UjlO7Y1kZ1xQ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [36/86 EP](https://open.spotify.com/album/0cfbDWwjQ3FORWD1RhwDEW) | 2:31 |
 | 95 | [Rosalee](https://open.spotify.com/track/1dlddvHp5NcSIQB8XMaMDf) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:53 |
 | 96 | [What's Mine Is Yours](https://open.spotify.com/track/1PuU0rcStbl1TkCwSaCYmq) | [Ryan and Rory](https://open.spotify.com/artist/2GhFq4SQPUb3GaBp1ec9pC) | [What's Mine Is Yours](https://open.spotify.com/album/4CGkjLqKhv1Xg47kgyTf22) | 2:21 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 128 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 129 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcRVHAAAAABSwPwqmVBWV6B6ulQMx4Na`
+Snapshot ID: `AcRavAAAAAA9E/FD9rVbFqVeTK0TY+Ab`

@@ -1,13 +1,29 @@
 {
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0634\u064a\u0631\u064a\u0646",
-  "num_followers": 159601,
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u062d\u0645\u062f \u0643\u064a\u0644\u0627\u0646\u064a",
+  "num_followers": 159631,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIU7Tt8SRqCrgvyMGpCU5s3mr0SS",
+  "snapshot_id": "AAAAABO6qIngNhxy5aJW1gGsFS6R/a+h",
   "tracks": [
+    {
+      "added_at": "2026-05-13 11:01:52",
+      "album": {
+        "name": "\u064a\u0641\u0643 \u0627\u0644\u0646\u062d\u0633",
+        "url": "https://open.spotify.com/album/54qN0XMpu5UnwfXU2yt0z9"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Kelany",
+          "url": "https://open.spotify.com/artist/1p29Qrd6zwOEUaxSR8lk4y"
+        }
+      ],
+      "duration_ms": 149436,
+      "name": "\u064a\u0641\u0643 \u0627\u0644\u0646\u062d\u0633",
+      "url": "https://open.spotify.com/track/3JDLUdVOBRjQ0XhUQrgauu"
+    },
     {
       "added_at": "2026-05-11 10:06:12",
       "album": {
@@ -65,6 +81,38 @@
       "url": "https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU"
     },
     {
+      "added_at": "2026-05-13 11:01:52",
+      "album": {
+        "name": "Alo!? / \u0627\u0644\u0648!\u061f",
+        "url": "https://open.spotify.com/album/1QuLKi7Jeif75zaLFTnsWw"
+      },
+      "artists": [
+        {
+          "name": "nour",
+          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Alo!? / \u0627\u0644\u0648!\u061f",
+      "url": "https://open.spotify.com/track/1WJw5YRGtou6R9XZCko4PQ"
+    },
+    {
+      "added_at": "2026-05-13 11:01:52",
+      "album": {
+        "name": "Negry W Bas",
+        "url": "https://open.spotify.com/album/36r6o8Ylf9V9WMNHI823td"
+      },
+      "artists": [
+        {
+          "name": "DB Gad",
+          "url": "https://open.spotify.com/artist/6G5gPrPosWPaVpR3R1sNWB"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Negry W Bas",
+      "url": "https://open.spotify.com/track/0byqcsmo00Ds8Nr3kzQmXZ"
+    },
+    {
       "added_at": "2026-05-06 07:55:32",
       "album": {
         "name": "\u0627\u0644\u062d\u0636\u0646 \u0634\u0648\u0643",
@@ -95,6 +143,38 @@
       "duration_ms": 171140,
       "name": "Lessa Keter",
       "url": "https://open.spotify.com/track/0TQz1EPJL2XR6QOgwIOZKN"
+    },
+    {
+      "added_at": "2026-05-13 11:01:52",
+      "album": {
+        "name": "Ayez Adfa El Egar",
+        "url": "https://open.spotify.com/album/7LVoXvhgLOW6dTaxjRezhA"
+      },
+      "artists": [
+        {
+          "name": "Shobra El General",
+          "url": "https://open.spotify.com/artist/3Ed6A8OJkO5nQqFJfhDHRN"
+        }
+      ],
+      "duration_ms": 126545,
+      "name": "Ayez Adfa El Egar",
+      "url": "https://open.spotify.com/track/2JqtVEf2aCQPrydpNpLPrC"
+    },
+    {
+      "added_at": "2026-05-06 07:55:32",
+      "album": {
+        "name": "\u0627\u062d\u0644\u064a \u0642\u0631\u0627\u0631",
+        "url": "https://open.spotify.com/album/61Ahm3ihljIMN2MojfuJON"
+      },
+      "artists": [
+        {
+          "name": "Amr Gaber",
+          "url": "https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "\u0627\u062d\u0644\u064a \u0642\u0631\u0627\u0631",
+      "url": "https://open.spotify.com/track/4ugxlKTD5lRMYNyip1QlLo"
     },
     {
       "added_at": "2026-05-06 07:55:32",
@@ -147,6 +227,22 @@
     {
       "added_at": "2026-05-06 07:55:32",
       "album": {
+        "name": "Kolo Bey2aldek",
+        "url": "https://open.spotify.com/album/3AImj3dKw6oQ7zQGeDXSSI"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Bahaa",
+          "url": "https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx"
+        }
+      ],
+      "duration_ms": 152941,
+      "name": "Kolo Bey2aldek",
+      "url": "https://open.spotify.com/track/7rtCasLpJ0ClR173OzVyjH"
+    },
+    {
+      "added_at": "2026-05-06 07:55:32",
+      "album": {
         "name": "\u0627\u0644\u0644\u064a \u0627\u062a\u0645\u0646\u064a\u062a\u0647",
         "url": "https://open.spotify.com/album/5KyomjTq156A5pYgmE82z2"
       },
@@ -175,22 +271,6 @@
       "duration_ms": 253098,
       "name": "(\u064a\u0627 \u062d\u0628\u064a\u0628\u062a\u064a ) \u0642\u0644\u0628\u064a \u0645\u062d\u0627\u0631\u0628 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 | \u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646",
       "url": "https://open.spotify.com/track/7jZWRnAEAS4hioUh7mlbbH"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
-        "name": "\u0627\u0644\u0648\u0627\u062f \u062f\u0647 \u0645\u062e\u062a\u0644\u0641",
-        "url": "https://open.spotify.com/album/0Szwhb1RF5bSAJSKfrBAss"
-      },
-      "artists": [
-        {
-          "name": "\u0645\u064a\u0645\u0632",
-          "url": "https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K"
-        }
-      ],
-      "duration_ms": 111360,
-      "name": "\u0627\u0644\u0648\u0627\u062f \u062f\u0647 \u0645\u062e\u062a\u0644\u0641",
-      "url": "https://open.spotify.com/track/0ptHkHGDXmQFtfPka46viM"
     },
     {
       "added_at": "2026-05-06 07:55:32",
@@ -301,6 +381,22 @@
       "url": "https://open.spotify.com/track/6R3LNZad04Zq6YjTC2vNQX"
     },
     {
+      "added_at": "2026-05-13 11:01:52",
+      "album": {
+        "name": "Wallahy",
+        "url": "https://open.spotify.com/album/60FDCf1BQOrox7p8dmQrfO"
+      },
+      "artists": [
+        {
+          "name": "Nagwan",
+          "url": "https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Wallahy",
+      "url": "https://open.spotify.com/track/3QyBr9UtjhQIHeSdGv2IXc"
+    },
+    {
       "added_at": "2026-05-06 07:55:32",
       "album": {
         "name": "Narein Live Sessions (Jazz Edition)",
@@ -315,6 +411,38 @@
       "duration_ms": 203562,
       "name": "Shedeeny - Jazz Edition, Live",
       "url": "https://open.spotify.com/track/3a81uIwuTosjFIio2vXL5E"
+    },
+    {
+      "added_at": "2026-05-13 11:01:52",
+      "album": {
+        "name": "TAB EH?",
+        "url": "https://open.spotify.com/album/7tM1CUtPCfLeGFaT07aJn8"
+      },
+      "artists": [
+        {
+          "name": "Remenkimi",
+          "url": "https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw"
+        }
+      ],
+      "duration_ms": 144863,
+      "name": "TAB EH?",
+      "url": "https://open.spotify.com/track/07VNX7kQuXuhXM4BDc8Mwf"
+    },
+    {
+      "added_at": "2026-05-13 11:01:52",
+      "album": {
+        "name": "\u0639\u0627\u062c\u0628\u0643 \u063a\u064a\u0627\u0628\u0643\u061f",
+        "url": "https://open.spotify.com/album/6iUq5dGcP1l4WeAwMhXm9C"
+      },
+      "artists": [
+        {
+          "name": "Hoda Sherbeeny",
+          "url": "https://open.spotify.com/artist/0S84hEKWOdtU6eFgFP77uh"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "\u0639\u0627\u062c\u0628\u0643 \u063a\u064a\u0627\u0628\u0643\u061f",
+      "url": "https://open.spotify.com/track/2b6qcbALcYfBeOz67AqIuf"
     },
     {
       "added_at": "2026-05-06 07:55:32",
@@ -363,6 +491,22 @@
       "duration_ms": 236463,
       "name": "\u062c\u0631\u062d \u0627\u062a\u0646\u064a\u0646 \u062a\u0644\u0627\u062a\u0647",
       "url": "https://open.spotify.com/track/7xrVMGgSv7Cy5yelH6fIJZ"
+    },
+    {
+      "added_at": "2026-05-06 07:55:32",
+      "album": {
+        "name": "\u0628\u062a\u0627\u0639\u062a\u064a \u0627\u0646\u0627",
+        "url": "https://open.spotify.com/album/7aTXtnOPYoKLzzlZkXAf32"
+      },
+      "artists": [
+        {
+          "name": "Amr Gaber",
+          "url": "https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo"
+        }
+      ],
+      "duration_ms": 152018,
+      "name": "\u0628\u062a\u0627\u0639\u062a\u064a \u0627\u0646\u0627",
+      "url": "https://open.spotify.com/track/606o1ZXOEBscuG5vQAUeY5"
     },
     {
       "added_at": "2026-05-06 07:55:32",
@@ -419,22 +563,6 @@
     {
       "added_at": "2026-05-06 07:55:32",
       "album": {
-        "name": "Ghariba",
-        "url": "https://open.spotify.com/album/1GXe5eSELuzmXEYJXFUfNb"
-      },
-      "artists": [
-        {
-          "name": "DB Gad",
-          "url": "https://open.spotify.com/artist/6G5gPrPosWPaVpR3R1sNWB"
-        }
-      ],
-      "duration_ms": 202165,
-      "name": "Ghariba",
-      "url": "https://open.spotify.com/track/7q2PxwVMDSfcTk76TQNpKC"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
         "name": "\u0645\u0635\u0639\u0628\u0634 \u0639\u0644\u064a\u0643",
         "url": "https://open.spotify.com/album/0Y0ZO3n8nQwSUErDrwgLAV"
       },
@@ -483,26 +611,6 @@
     {
       "added_at": "2026-05-06 07:55:32",
       "album": {
-        "name": "Yemken \u064a\u0645\u0643\u0646",
-        "url": "https://open.spotify.com/album/6dtJIMJq8qepSwHHJEffWw"
-      },
-      "artists": [
-        {
-          "name": "Dirty Backseat",
-          "url": "https://open.spotify.com/artist/1Hk62j2Aypk6ykn1lgLPhf"
-        },
-        {
-          "name": "Pink Seasalt",
-          "url": "https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D"
-        }
-      ],
-      "duration_ms": 259498,
-      "name": "Yemken \u064a\u0645\u0643\u0646",
-      "url": "https://open.spotify.com/track/0b4voU1mmHNiGSkCRcoN8Z"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
         "name": "Mahragan El Qahera El Dawly",
         "url": "https://open.spotify.com/album/6UxCN5Ic5AKjQgwuZCo9Qd"
       },
@@ -531,22 +639,6 @@
       "duration_ms": 160000,
       "name": "\u0644\u0645 \u064a\u0646\u062c\u062d \u0623\u062d\u062f \u0625\u0644\u0627 \u0623\u0646\u0627 (\u0645\u0646 \u0641\u064a\u0644\u0645 \u0628\u0631\u0634\u0627\u0645\u0629)",
       "url": "https://open.spotify.com/track/7ogDvUMbOXazxNvPbQijlE"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
-        "name": "Kolo Bey2aldek",
-        "url": "https://open.spotify.com/album/3AImj3dKw6oQ7zQGeDXSSI"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Bahaa",
-          "url": "https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "Kolo Bey2aldek",
-      "url": "https://open.spotify.com/track/7rtCasLpJ0ClR173OzVyjH"
     },
     {
       "added_at": "2026-05-06 07:55:32",
@@ -583,22 +675,6 @@
       "duration_ms": 167213,
       "name": "\u0627\u0644\u062f\u0644\u0639 \u0648\u0627\u0644\u0627\u0646\u0628\u0633\u0627\u0637",
       "url": "https://open.spotify.com/track/6oRPhqLz04EvOEutc6Byms"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
-        "name": "\u0627\u062d\u0644\u064a \u0642\u0631\u0627\u0631",
-        "url": "https://open.spotify.com/album/61Ahm3ihljIMN2MojfuJON"
-      },
-      "artists": [
-        {
-          "name": "Amr Gaber",
-          "url": "https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "\u0627\u062d\u0644\u064a \u0642\u0631\u0627\u0631",
-      "url": "https://open.spotify.com/track/4ugxlKTD5lRMYNyip1QlLo"
     },
     {
       "added_at": "2026-05-06 07:55:32",
@@ -647,38 +723,6 @@
       "duration_ms": 201271,
       "name": "\u0639\u064a\u0646 \u0633\u062d\u0631\u064a\u0629",
       "url": "https://open.spotify.com/track/0pTxrkqqHSVCsuHS9NhaH5"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
-        "name": "El 3ks",
-        "url": "https://open.spotify.com/album/7AfAzjjLeyR9UmbZHI4peJ"
-      },
-      "artists": [
-        {
-          "name": "Shadi Oskar",
-          "url": "https://open.spotify.com/artist/4o7krFiVVz5QONfNTS28wX"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "El 3ks",
-      "url": "https://open.spotify.com/track/65R0EmcHSnr2dCLdEaol9C"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
-        "name": "\u0631\u0627\u062c\u0639 \u0639\u0634\u0645\u0627\u0646",
-        "url": "https://open.spotify.com/album/45TDC6NgHFPRYy7LgYJdjN"
-      },
-      "artists": [
-        {
-          "name": "Nedaa Shrara",
-          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
-        }
-      ],
-      "duration_ms": 230117,
-      "name": "\u0631\u0627\u062c\u0639 \u0639\u0634\u0645\u0627\u0646",
-      "url": "https://open.spotify.com/track/2XyWSProqoCifG1uuqK4h5"
     },
     {
       "added_at": "2026-05-06 07:55:32",
@@ -831,38 +875,6 @@
     {
       "added_at": "2026-05-06 07:55:32",
       "album": {
-        "name": "Syrr",
-        "url": "https://open.spotify.com/album/1Gp08QGitGOM6w72NjBKPb"
-      },
-      "artists": [
-        {
-          "name": "Maryam Saleh",
-          "url": "https://open.spotify.com/artist/3M3dqhDqNK2DsZPIbopgUA"
-        }
-      ],
-      "duration_ms": 258671,
-      "name": "Alb",
-      "url": "https://open.spotify.com/track/1Z3ikGTFaKxHOjIcDx0hlE"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
-        "name": "EL BA7R EL A3ZAM",
-        "url": "https://open.spotify.com/album/2apOaSX0WSlo1k6HP9rOsv"
-      },
-      "artists": [
-        {
-          "name": "DAL!A",
-          "url": "https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7"
-        }
-      ],
-      "duration_ms": 180168,
-      "name": "NDOOR",
-      "url": "https://open.spotify.com/track/3fnUy8PxiIXubLQBS3aFei"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
         "name": "\u0644\u064a\u0647 \u0633\u0627\u0643\u062a",
         "url": "https://open.spotify.com/album/2Dhhr4Ru2KvnCoT37aaZYx"
       },
@@ -1011,22 +1023,6 @@
       "duration_ms": 216000,
       "name": "Kalam Forsan (feat. Mohamed Mounir)",
       "url": "https://open.spotify.com/track/5Jx6LbHo5VhJSsqRvQUIDH"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
-        "name": "\u0628\u062a\u0627\u0639\u062a\u064a \u0627\u0646\u0627",
-        "url": "https://open.spotify.com/album/7aTXtnOPYoKLzzlZkXAf32"
-      },
-      "artists": [
-        {
-          "name": "Amr Gaber",
-          "url": "https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo"
-        }
-      ],
-      "duration_ms": 152018,
-      "name": "\u0628\u062a\u0627\u0639\u062a\u064a \u0627\u0646\u0627",
-      "url": "https://open.spotify.com/track/606o1ZXOEBscuG5vQAUeY5"
     }
   ],
   "unique_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",

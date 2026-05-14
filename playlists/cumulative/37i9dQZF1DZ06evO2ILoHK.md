@@ -4,7 +4,7 @@
 
 > This is Basement\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 27 min
+52 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Bad Apple](https://open.spotify.com/track/0k17MALHbaR6i6879Wasql) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 2:57 | 2022-09-16 |  |
 | [Be Here Now](https://open.spotify.com/track/0uYPcHgqGXG5jXFHoSaIJM) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:29 | 2022-09-16 |  |
 | [Breathe \- alt version](https://open.spotify.com/track/3b0edfzz29UqcQb9S5FhP9) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Breathe \(alt version\)](https://open.spotify.com/album/3SLx9AyAbtj8gFPlzLSlBI) | 3:12 | 2022-10-01 | 2022-12-20 |
-| [Broken By Design](https://open.spotify.com/track/7gTds4MeC6opy5Y30x67kt) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED / Broken By Design](https://open.spotify.com/album/4caafgxMxHkEo80ypjLfuc) | 3:12 | 2026-03-05 |  |
+| [Broken By Design](https://open.spotify.com/track/0nW3s3rXOwR21EcR6FWVnm) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 3:12 | 2026-05-14 |  |
+| [Broken By Design](https://open.spotify.com/track/7gTds4MeC6opy5Y30x67kt) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED / Broken By Design](https://open.spotify.com/album/4caafgxMxHkEo80ypjLfuc) | 3:12 | 2026-03-05 | 2026-05-14 |
 | [Brother's Keeper](https://open.spotify.com/track/481wkzrQ20aCvtlvhtLLcb) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:59 | 2022-09-16 |  |
 | [Canada Square](https://open.spotify.com/track/3kxwJBSk2hvzMtYnek6aFW) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 4:08 | 2022-09-16 |  |
 | [Changing Lanes](https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 1:24 | 2022-09-16 | 2026-02-11 |
@@ -36,7 +37,7 @@
 | [Head Alight](https://open.spotify.com/track/7rZ9v828KtoWTNjHpMwLBb) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Head Alight](https://open.spotify.com/album/1LaBF87xj1NLlsxVDh7vY7) | 3:26 | 2026-04-24 |  |
 | [Intro](https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 0:37 | 2022-09-16 |  |
 | [Jet](https://open.spotify.com/track/2R540M3XFd7fNVEW7YHDrC) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Further Sky](https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX) | 3:23 | 2022-09-16 | 2026-05-10 |
-| [Longshot](https://open.spotify.com/track/2tKm42FLhU69kTETonglkx) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 2:46 | 2026-05-10 |  |
+| [Longshot](https://open.spotify.com/track/2tKm42FLhU69kTETonglkx) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 2:46 | 2026-05-10 | 2026-05-14 |
 | [Lose Your Grip](https://open.spotify.com/track/0sVMqm2HF8yGpFeCleFcHl) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:45 | 2024-05-12 | 2024-10-01 |
 | [Meet Me In St\. Louis](https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:10 | 2022-09-16 |  |
 | [Oversized](https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:37 | 2022-09-16 |  |

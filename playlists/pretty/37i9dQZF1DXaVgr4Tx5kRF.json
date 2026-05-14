@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 666106,
+  "num_followers": 666110,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
+        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289146,
+      "name": "Cigarettes & Alcohol - Remastered",
+      "url": "https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Give Out But Don't Give Up",
         "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 215986,
       "name": "Rocks",
       "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
-        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289146,
-      "name": "Cigarettes & Alcohol - Remastered",
-      "url": "https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "duration_ms": 245946,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Let It Ride",
         "url": "https://open.spotify.com/album/7wTnoelmadLnvEXH8Je1nA"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 271106,
       "name": "Wide Open Space",
       "url": "https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 245946,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01"
     }
   ],
   "unique_name": "Britpop, Etc.",

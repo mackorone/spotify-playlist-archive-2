@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1265635,
+  "num_followers": 1265770,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAA21UBZS7SC7Nro3Y6QAx/w",
+  "snapshot_id": "agJtgAAAAABG4GgVdgyUjD5itgaXr69f",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 184543,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Of Ash EP",
         "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 266312,
       "name": "Yours Eternally (feat. Ed Sheeran & Taras Topolia)",
       "url": "https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 184543,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "Song Of The Future",
-      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattle And Hum",
         "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 179360,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "Song Of The Future",
+      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
     },
     {
       "added_at": null,
@@ -716,41 +716,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 349213,
-      "name": "So Cruel",
-      "url": "https://open.spotify.com/track/3TPFVnDjojd7fsvLAizX0H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs Of Innocence (Deluxe)",
-        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 226763,
-      "name": "Song For Someone",
-      "url": "https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 263175,
-      "name": "American Obituary",
-      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
+      "duration_ms": 221373,
+      "name": "Even Better Than The Real Thing",
+      "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
     },
     {
       "added_at": null,
@@ -771,6 +739,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 263175,
+      "name": "American Obituary",
+      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs Of Innocence (Deluxe)",
+        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 226763,
+      "name": "Song For Someone",
+      "url": "https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 221373,
-      "name": "Even Better Than The Real Thing",
-      "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
+      "duration_ms": 349213,
+      "name": "So Cruel",
+      "url": "https://open.spotify.com/track/3TPFVnDjojd7fsvLAizX0H"
     },
     {
       "added_at": null,

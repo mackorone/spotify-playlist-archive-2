@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 368812,
+  "num_followers": 368810,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAABmOeuW9VDFFJIkzrM0bYqw",
+  "snapshot_id": "agJtgAAAAAC4O1Y5hZJ20lMrDI36Rli9",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 176413,
+      "name": "New",
+      "url": "https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hear (Live)",
         "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 308920,
       "name": "Close - Live",
       "url": "https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 176413,
-      "name": "New",
-      "url": "https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 234478,
+      "name": "Kaleidoscope Jesus",
+      "url": "https://open.spotify.com/track/0djgZ44VjoYzAk67eMLBLk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Departures",
         "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 243533,
       "name": "A Place Called Earth",
       "url": "https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 234478,
-      "name": "Kaleidoscope Jesus",
-      "url": "https://open.spotify.com/track/0djgZ44VjoYzAk67eMLBLk"
     },
     {
       "added_at": null,

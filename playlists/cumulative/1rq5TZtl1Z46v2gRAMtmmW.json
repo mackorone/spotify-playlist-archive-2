@@ -4343,6 +4343,24 @@
     },
     {
       "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195188,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR"
+    },
+    {
+      "album": {
         "name": "Himmel / Swarm",
         "url": "https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd"
       },

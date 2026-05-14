@@ -1,6 +1,6 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 222071,
+  "num_followers": 222100,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-04-29 06:04:43",
       "album": {
+        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
+      },
+      "artists": [
+        {
+          "name": "Soukayna Jamali",
+          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
+        }
+      ],
+      "duration_ms": 206044,
+      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
+    },
+    {
+      "added_at": "2026-04-29 06:04:43",
+      "album": {
         "name": "Ufuq",
         "url": "https://open.spotify.com/album/6WNJG1Woj2Cf3mrxZgovad"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 292881,
       "name": "Ayoha Al Qalb | \u0623\u064a\u0647\u0627 \u0627\u0644\u0642\u0644\u0628",
       "url": "https://open.spotify.com/track/4fe2OdlcIcpZ74m8WIS7kj"
-    },
-    {
-      "added_at": "2026-04-29 06:04:43",
-      "album": {
-        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
-      },
-      "artists": [
-        {
-          "name": "Soukayna Jamali",
-          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
-        }
-      ],
-      "duration_ms": 206044,
-      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
     },
     {
       "added_at": "2026-04-29 06:04:43",

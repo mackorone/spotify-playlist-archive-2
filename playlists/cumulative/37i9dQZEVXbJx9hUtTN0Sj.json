@@ -5299,6 +5299,24 @@
     },
     {
       "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
+    {
+      "album": {
         "name": "De Band, De Zanger En Het Meisje (Expanded Edition)",
         "url": "https://open.spotify.com/album/2SWLNHlGDyy9ry5nbrw7EM"
       },
@@ -8962,7 +8980,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 160626,
       "name": "car crash",
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
@@ -12710,7 +12728,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Dancing on the ice",
       "url": "https://open.spotify.com/track/1u0WYHtNFrAyzgybCDK861"
@@ -14868,7 +14886,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
@@ -23114,7 +23132,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 191687,
       "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
@@ -29478,6 +29496,28 @@
       "duration_ms": 211040,
       "name": "Liefde Gegeven - uit Liefde Voor Muziek",
       "url": "https://open.spotify.com/track/6usQjtiAPQ0bxDJfCemFVg"
+    },
+    {
+      "album": {
+        "name": "Liekinheitin",
+        "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
+      },
+      "artists": [
+        {
+          "name": "Linda Lampenius",
+          "url": "https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T"
+        },
+        {
+          "name": "Pete Parkkonen",
+          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180479,
+      "name": "Liekinheitin",
+      "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
     },
     {
       "album": {
@@ -36205,6 +36245,24 @@
     },
     {
       "album": {
+        "name": "My System (Acoustic)",
+        "url": "https://open.spotify.com/album/4SJkfGs1KQDsfFGbN7LAfZ"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "My System",
+      "url": "https://open.spotify.com/track/74s87wGi4ZIqgoBPg7fzyj"
+    },
+    {
+      "album": {
         "name": "Na Za D\u00e9sol\u00e9",
         "url": "https://open.spotify.com/album/1rLDCAOf1YrN1viEJTelte"
       },
@@ -36270,7 +36328,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 144406,
       "name": "Nala (Bring Me Home)",
       "url": "https://open.spotify.com/track/2HpOwVx31rNUQFT8CexxOB"
@@ -39696,6 +39754,24 @@
       "duration_ms": 225733,
       "name": "Panama",
       "url": "https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m"
+    },
+    {
+      "album": {
+        "name": "Pangor",
+        "url": "https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121704,
+      "name": "Pangor",
+      "url": "https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP"
     },
     {
       "album": {
@@ -45158,7 +45234,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 122818,
       "name": "Sensa",
       "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"

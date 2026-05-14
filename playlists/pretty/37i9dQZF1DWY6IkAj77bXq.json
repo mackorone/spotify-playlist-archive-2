@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 85488,
+  "num_followers": 85512,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
-        "name": "Shining Ridge",
-        "url": "https://open.spotify.com/album/0tWucW3Z5i6yDDWYeiz4tK"
-      },
-      "artists": [
-        {
-          "name": "Yeur",
-          "url": "https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK"
-        }
-      ],
-      "duration_ms": 150882,
-      "name": "Shining Ridge",
-      "url": "https://open.spotify.com/track/4hEcCpmatnGCDpo1DzZtk6"
-    },
-    {
-      "added_at": "2026-02-11 17:20:36",
-      "album": {
         "name": "Evening Veil",
         "url": "https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 136000,
       "name": "Evening Veil",
       "url": "https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5"
+    },
+    {
+      "added_at": "2026-02-11 17:20:36",
+      "album": {
+        "name": "Shining Ridge",
+        "url": "https://open.spotify.com/album/0tWucW3Z5i6yDDWYeiz4tK"
+      },
+      "artists": [
+        {
+          "name": "Yeur",
+          "url": "https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK"
+        }
+      ],
+      "duration_ms": 150882,
+      "name": "Shining Ridge",
+      "url": "https://open.spotify.com/track/4hEcCpmatnGCDpo1DzZtk6"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
-        "name": "Transform",
-        "url": "https://open.spotify.com/album/2fv3MlIygs4mGaBqfp0PAM"
-      },
-      "artists": [
-        {
-          "name": "Ceny Noes",
-          "url": "https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS"
-        }
-      ],
-      "duration_ms": 162627,
-      "name": "Transform",
-      "url": "https://open.spotify.com/track/6LGdqj1nnjVA3gegINxdLb"
-    },
-    {
-      "added_at": "2026-02-11 17:20:36",
-      "album": {
         "name": "Ishi",
         "url": "https://open.spotify.com/album/2XJfGbF75RMIQv39UnlwAH"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 134000,
       "name": "Ishi",
       "url": "https://open.spotify.com/track/1jO1y3fvH7ggpK7tFdr7BB"
+    },
+    {
+      "added_at": "2026-02-11 17:20:36",
+      "album": {
+        "name": "Transform",
+        "url": "https://open.spotify.com/album/2fv3MlIygs4mGaBqfp0PAM"
+      },
+      "artists": [
+        {
+          "name": "Ceny Noes",
+          "url": "https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS"
+        }
+      ],
+      "duration_ms": 162627,
+      "name": "Transform",
+      "url": "https://open.spotify.com/track/6LGdqj1nnjVA3gegINxdLb"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
-        "name": "Afloat",
-        "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
+        "name": "Prudence",
+        "url": "https://open.spotify.com/album/5KzOJ4MEF2yLyNUWKrdIpi"
       },
       "artists": [
         {
-          "name": "Pristeen",
-          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
         }
       ],
-      "duration_ms": 139600,
-      "name": "Afloat",
-      "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
+      "duration_ms": 162000,
+      "name": "Prudence",
+      "url": "https://open.spotify.com/track/11vNvIPRoBMJ70Ypz6IZet"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
-        "name": "Prudence",
-        "url": "https://open.spotify.com/album/5KzOJ4MEF2yLyNUWKrdIpi"
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
       },
       "artists": [
         {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+          "name": "Pristeen",
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Prudence",
-      "url": "https://open.spotify.com/track/11vNvIPRoBMJ70Ypz6IZet"
+      "duration_ms": 139600,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
-        "name": "Ions",
-        "url": "https://open.spotify.com/album/23oFz7t9EwLjONf7Da4wxX"
-      },
-      "artists": [
-        {
-          "name": "Dhyana",
-          "url": "https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX"
-        }
-      ],
-      "duration_ms": 157068,
-      "name": "Ions",
-      "url": "https://open.spotify.com/track/6M9leAc2lHQaUmiSrPIPxe"
-    },
-    {
-      "added_at": "2026-02-11 17:20:36",
-      "album": {
         "name": "Indigo Evening",
         "url": "https://open.spotify.com/album/3WNzH65tlcPGZsrDK9XyZ5"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 184000,
       "name": "Indigo Evening",
       "url": "https://open.spotify.com/track/6gBPXoHpg9B8fxMJfg4K2S"
+    },
+    {
+      "added_at": "2026-02-11 17:20:36",
+      "album": {
+        "name": "Ions",
+        "url": "https://open.spotify.com/album/23oFz7t9EwLjONf7Da4wxX"
+      },
+      "artists": [
+        {
+          "name": "Dhyana",
+          "url": "https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX"
+        }
+      ],
+      "duration_ms": 157068,
+      "name": "Ions",
+      "url": "https://open.spotify.com/track/6M9leAc2lHQaUmiSrPIPxe"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
-        "name": "Earth Chant",
-        "url": "https://open.spotify.com/album/6btQx5ijYLC9eEy5lyvORV"
-      },
-      "artists": [
-        {
-          "name": "Dave Orvian",
-          "url": "https://open.spotify.com/artist/3TGqcTNmaItoQVA20w2Rj5"
-        }
-      ],
-      "duration_ms": 129637,
-      "name": "Earth Chant",
-      "url": "https://open.spotify.com/track/1A87ykk04sq2aAJSLQ6I2U"
-    },
-    {
-      "added_at": "2026-02-11 17:20:36",
-      "album": {
         "name": "Dreams of Another",
         "url": "https://open.spotify.com/album/27GczgpVr1V4JtHWfNtbaS"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 160501,
       "name": "tribeca",
       "url": "https://open.spotify.com/track/0Cax0UsNfZkWVEPImLDA5H"
+    },
+    {
+      "added_at": "2026-02-11 17:20:36",
+      "album": {
+        "name": "Earth Chant",
+        "url": "https://open.spotify.com/album/6btQx5ijYLC9eEy5lyvORV"
+      },
+      "artists": [
+        {
+          "name": "Dave Orvian",
+          "url": "https://open.spotify.com/artist/3TGqcTNmaItoQVA20w2Rj5"
+        }
+      ],
+      "duration_ms": 129637,
+      "name": "Earth Chant",
+      "url": "https://open.spotify.com/track/1A87ykk04sq2aAJSLQ6I2U"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
-        "name": "Airy",
-        "url": "https://open.spotify.com/album/7oOm16JDjnyES3PD4tiEUa"
-      },
-      "artists": [
-        {
-          "name": "Marc Westfield",
-          "url": "https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Airy",
-      "url": "https://open.spotify.com/track/7kpBv3fPwlJ5OtslNj4vgV"
-    },
-    {
-      "added_at": "2026-02-11 17:20:36",
-      "album": {
         "name": "Sleeping Moons",
         "url": "https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 191484,
       "name": "Sleeping Moons",
       "url": "https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz"
+    },
+    {
+      "added_at": "2026-02-11 17:20:36",
+      "album": {
+        "name": "Airy",
+        "url": "https://open.spotify.com/album/7oOm16JDjnyES3PD4tiEUa"
+      },
+      "artists": [
+        {
+          "name": "Marc Westfield",
+          "url": "https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Airy",
+      "url": "https://open.spotify.com/track/7kpBv3fPwlJ5OtslNj4vgV"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR"
-      },
-      "artists": [
-        {
-          "name": "Georgia Vesper",
-          "url": "https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99"
-        }
-      ],
-      "duration_ms": 144043,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y"
-    },
-    {
-      "added_at": "2026-02-11 17:20:36",
-      "album": {
         "name": "Soft Glow (432Hz)",
         "url": "https://open.spotify.com/album/3AQhmItCysLebW9yMCxgz0"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 178000,
       "name": "Soft Glow (432Hz)",
       "url": "https://open.spotify.com/track/1N3zuxOnvLbCDfDvrsv3ST"
+    },
+    {
+      "added_at": "2026-02-11 17:20:36",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR"
+      },
+      "artists": [
+        {
+          "name": "Georgia Vesper",
+          "url": "https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99"
+        }
+      ],
+      "duration_ms": 144043,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
-        "name": "Gust Of Emotion",
-        "url": "https://open.spotify.com/album/6UrVKlP9qNjMrqW9QyZnOq"
+        "name": "Everlasting Lights",
+        "url": "https://open.spotify.com/album/3rxpTB5ABi00AJal0SE7WO"
       },
       "artists": [
         {
-          "name": "Dream State",
-          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+          "name": "Priy",
+          "url": "https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer"
         }
       ],
-      "duration_ms": 158571,
-      "name": "Gust Of Emotion",
-      "url": "https://open.spotify.com/track/6vhHsyviK0TFsoLl9Y2JJn"
+      "duration_ms": 199124,
+      "name": "Everlasting Lights",
+      "url": "https://open.spotify.com/track/7MTvwNVOEkpfDBQAu23vFG"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -1495,6 +1495,22 @@
       "duration_ms": 223010,
       "name": "Djupet",
       "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
+    },
+    {
+      "added_at": "2026-02-11 17:20:36",
+      "album": {
+        "name": "Gust Of Emotion",
+        "url": "https://open.spotify.com/album/6UrVKlP9qNjMrqW9QyZnOq"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Gust Of Emotion",
+      "url": "https://open.spotify.com/track/6vhHsyviK0TFsoLl9Y2JJn"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -1543,22 +1559,6 @@
       "duration_ms": 188571,
       "name": "Close Together",
       "url": "https://open.spotify.com/track/4tpUdHveADtY3Zg6F7u38H"
-    },
-    {
-      "added_at": "2026-02-11 17:20:36",
-      "album": {
-        "name": "Everlasting Lights",
-        "url": "https://open.spotify.com/album/3rxpTB5ABi00AJal0SE7WO"
-      },
-      "artists": [
-        {
-          "name": "Priy",
-          "url": "https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer"
-        }
-      ],
-      "duration_ms": 199124,
-      "name": "Everlasting Lights",
-      "url": "https://open.spotify.com/track/7MTvwNVOEkpfDBQAu23vFG"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -1627,6 +1627,38 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
+        "name": "Mystic Reverberations",
+        "url": "https://open.spotify.com/album/1TmnmvyZ3tZJnRK1mMc2Wd"
+      },
+      "artists": [
+        {
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Mystic Reverberations",
+      "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
+    },
+    {
+      "added_at": "2026-02-11 17:20:36",
+      "album": {
+        "name": "Rymdresa",
+        "url": "https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad"
+      },
+      "artists": [
+        {
+          "name": "Juni Ros",
+          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
+        }
+      ],
+      "duration_ms": 154090,
+      "name": "Rymdresa",
+      "url": "https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM"
+    },
+    {
+      "added_at": "2026-02-11 17:20:36",
+      "album": {
         "name": "From Above",
         "url": "https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ"
       },
@@ -1659,38 +1691,6 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
-        "name": "Rymdresa",
-        "url": "https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad"
-      },
-      "artists": [
-        {
-          "name": "Juni Ros",
-          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
-        }
-      ],
-      "duration_ms": 154090,
-      "name": "Rymdresa",
-      "url": "https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM"
-    },
-    {
-      "added_at": "2026-02-11 17:20:36",
-      "album": {
-        "name": "Mystic Reverberations",
-        "url": "https://open.spotify.com/album/1TmnmvyZ3tZJnRK1mMc2Wd"
-      },
-      "artists": [
-        {
-          "name": "Spatia Sonica",
-          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Mystic Reverberations",
-      "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
-    },
-    {
-      "added_at": "2026-02-11 17:20:36",
-      "album": {
         "name": "Dawn to Dusk",
         "url": "https://open.spotify.com/album/3HkRRJGI9kFye6UZm7N3Ll"
       },
@@ -1703,6 +1703,22 @@
       "duration_ms": 176727,
       "name": "Dawn to Dusk",
       "url": "https://open.spotify.com/track/277J9t6hZSZfZ5nl0ZQdVZ"
+    },
+    {
+      "added_at": "2026-02-11 17:20:36",
+      "album": {
+        "name": "Mare Silentis",
+        "url": "https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR"
+      },
+      "artists": [
+        {
+          "name": "Cassio Bera",
+          "url": "https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Mare Silentis",
+      "url": "https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -1767,22 +1783,6 @@
       "duration_ms": 198000,
       "name": "Light From Within",
       "url": "https://open.spotify.com/track/2U9GA6WsVGUf1i3bnZVLE7"
-    },
-    {
-      "added_at": "2026-02-11 17:20:36",
-      "album": {
-        "name": "Mare Silentis",
-        "url": "https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR"
-      },
-      "artists": [
-        {
-          "name": "Cassio Bera",
-          "url": "https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "Mare Silentis",
-      "url": "https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC"
     },
     {
       "added_at": "2026-02-11 17:20:36",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-02-11 17:20:36",
       "album": {
-        "name": "Wondrous",
-        "url": "https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ"
-      },
-      "artists": [
-        {
-          "name": "Theodore Brim",
-          "url": "https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o"
-        }
-      ],
-      "duration_ms": 140029,
-      "name": "Midnight Thoughts",
-      "url": "https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu"
-    },
-    {
-      "added_at": "2026-02-11 17:20:36",
-      "album": {
         "name": "A Mind At Peace",
         "url": "https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 157800,
       "name": "Seneca Rise",
       "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
+    },
+    {
+      "added_at": "2026-02-11 17:20:36",
+      "album": {
+        "name": "Wondrous",
+        "url": "https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ"
+      },
+      "artists": [
+        {
+          "name": "Theodore Brim",
+          "url": "https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o"
+        }
+      ],
+      "duration_ms": 140029,
+      "name": "Midnight Thoughts",
+      "url": "https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

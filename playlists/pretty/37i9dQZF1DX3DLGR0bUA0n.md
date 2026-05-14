@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Arkangel Musical de Tierra Caliente en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,982 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,027 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 60 | [Que Viva Tierra Caliente](https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:26 |
 | 61 | [Coyuca De Catalan \(Zapateado\)](https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches En Vivo 2013](https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix) | 4:36 |
 | 62 | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t) | [Banda los Costeños de Zirándaro Guerrero](https://open.spotify.com/artist/0cVRVkZyKQmKRcYLgiKphe), [Los Monarcas De Tierra Caliente](https://open.spotify.com/artist/6sIEMWaLmoLFkhc1O2bjBo) | [La Luz de Tus Ojos / Cuestión Olvidada](https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK) | 3:03 |
-| 63 | [Mujer, Mujer](https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:21 |
+| 63 | [Se Termino Lo Nuestro](https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Somos Mas Americanos](https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT) | 3:30 |
 | 64 | [El Potosino y El Cocho](https://open.spotify.com/track/627QWPTPkNwbOwso8RnBem) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [El Potosino y El Cocho](https://open.spotify.com/album/6Fmej7TWDGwwtQG3fFHYg5) | 3:20 |
 | 65 | [El Camionero](https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc) | [Los Kapsi](https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna) | [Camionero](https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP) | 3:49 |
 | 66 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |
 | 67 | [Con Cartitas y Palabras](https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR) | [Gabino y su Banda Chica](https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd) | [Con Cartitas y Palabras](https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM) | 2:25 |
-| 68 | [Se Termino Lo Nuestro](https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Somos Mas Americanos](https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT) | 3:30 |
+| 68 | [Mujer, Mujer](https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:21 |
 | 69 | [El Albanil](https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Rolonononas Pa la Raza](https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy) | 2:57 |
 | 70 | [El Rey Pobre](https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU) | [De California Te Escribo](https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX) | 3:32 |
 | 71 | [Conchita Del Mar](https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches Vip 2015](https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF) | 3:08 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 86 | [Te Ves Fatal](https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Te Ves Fatal](https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH) | 3:40 |
 | 87 | [No Compro Amores](https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [Tercia de Reyes](https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd) | 2:28 |
 | 88 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [Cuando Los Hombres Lloran](https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo) | 2:36 |
-| 89 | [Mi Presencia Cuenta](https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Mi Presencia Cuenta](https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL) | 2:28 |
-| 90 | [Si Tengo A Mi Madre](https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 3:33 |
+| 89 | [Si Tengo A Mi Madre](https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 3:33 |
+| 90 | [Mi Presencia Cuenta](https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Mi Presencia Cuenta](https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL) | 2:28 |
 | 91 | [Lo Descubri En Tus Brazos](https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7) | [La Marka](https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj) | [Se Equivoco Tu Corazon](https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb) | 2:29 |
 | 92 | [2 Cruces](https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb) | [Joaquin el Guache](https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677) | [2 Cruces](https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL) | 3:07 |
 | 93 | [Inolvidables](https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Inolvidable](https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M) | 3:22 |

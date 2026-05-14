@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Lykke Li
 
-2,846 songs - 6 day 19 hr 48 min
+2,848 songs - 6 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Berlin](https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Berlin](https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW) | 2:43 | 2024-07-04 | 2024-08-02 |
 | [Berlin](https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Berlin](https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU) | 3:23 | 2026-02-26 | 2026-03-06 |
 | [Berlin Berlin Berlin](https://open.spotify.com/track/6fmKtPbdVZUhumnzjQVdrx) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [7'' Bootleg Serie no.01](https://open.spotify.com/album/0sAyDpIWBgrVW680lcnwO3) | 2:12 | 2025-04-10 | 2025-05-09 |
+| [Berlin Felt Like France](https://open.spotify.com/track/6VHfL89DYvf2u6nXfQVle4) | [Seasoul](https://open.spotify.com/artist/3Nqa6f1nJMRQYDd0JQdgh3) | [Berlin Felt Like France](https://open.spotify.com/album/72j6JG5W7Izgr6zfbKCfFX) | 4:12 | 2026-05-07 |  |
 | [Berlin TV Tower](https://open.spotify.com/track/3DeVp7bfY7ua7eY95xgREC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Another Picture](https://open.spotify.com/album/2UizRzM5APPgxDAZN6LzXp) | 3:16 | 2025-11-13 | 2025-11-28 |
 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 | 2025-02-13 | 2025-03-07 |
 | [Best Part](https://open.spotify.com/track/1i4iFjsm5oLJedBJXDpdWS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Best Part](https://open.spotify.com/album/59laY8ALYUux2uZZa6ce9i) | 3:53 | 2024-12-05 | 2025-01-17 |
@@ -386,6 +387,7 @@
 | [Buses Replace Trains](https://open.spotify.com/track/6zxK1aQo9e61wi9UJWJfrv) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Buses Replace Trains](https://open.spotify.com/album/0jJ8k0Nmv0IwL5EzK9EWJT) | 3:42 | 2025-04-17 | 2025-05-10 |
 | [BusyBusyBusy](https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW) | [¡BangBang Watergun!](https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ) | [Nostalgia / Again It's On](https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG) | 3:51 | 2025-02-20 | 2025-03-07 |
 | [But Then The Night](https://open.spotify.com/track/105U0cTOYihNh1S4zHPjgK) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [But Then The Night](https://open.spotify.com/album/0NEoxBk7TlWuvz3QMStFZH) | 1:34 | 2024-07-11 | 2024-08-09 |
+| [But, Nvm](https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [But, Nvm](https://open.spotify.com/album/2YZZlQUGlQgf2xIiimUGlN) | 3:07 | 2026-05-07 |  |
 | [Butterfly](https://open.spotify.com/track/0BUXcwQFldJNJHNGoPT2Ng) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:09 | 2024-11-07 | 2024-11-29 |
 | [By My Side](https://open.spotify.com/track/5DCSl2flxRehACINNyD9EX) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million and Three Love Songs](https://open.spotify.com/album/4PBBVn6QWMJWsI2M2iAioi) | 2:35 | 2025-04-03 | 2025-04-25 |
 | [Bye Bye Berlin](https://open.spotify.com/track/1aSsUvuIMUoQMqfQogGrA5) | [Tocotronic](https://open.spotify.com/artist/4WOaecAM3RMMmrbZzNx0vu) | [Golden Years](https://open.spotify.com/album/2HnJatYVuGeetGOiwm8iX1) | 2:45 | 2025-02-13 | 2025-03-07 |

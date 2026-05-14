@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:0n6yaHp7ZDCuHJlNtN0q3G">BABIE LATO</a>, Natalia Grosiak, BELA, Kathia
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,421 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,417 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4), [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
+| 1 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
 | 2 | [PRICE TAG](https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PRICE TAG](https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui) | 3:10 |
 | 3 | [Czuję](https://open.spotify.com/track/6S2pCnB98SN5pG8WOWFCVx) | [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M) | [Czuję](https://open.spotify.com/album/47zQOrpnpHRXigtzKd3yE4) | 3:25 |
 | 4 | [Ile Snów Nam Zostało](https://open.spotify.com/track/3rM8CChiE84weTWTD96Ugs) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Ile Snów Nam Zostało](https://open.spotify.com/album/3xgq3KkzU3a803UBvOnU7w) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [hymn](https://open.spotify.com/track/11EzLmiKlksyzCIR5oLAm5) | [Oliwia Socha](https://open.spotify.com/artist/3oUtnlrd7dEpApRcIJVjRe) | [Pomiędzy](https://open.spotify.com/album/2GD7Z4ry5r6DoltHqdBZ3D) | 3:02 |
 | 50 | [Last Day](https://open.spotify.com/track/3ARHqYnxDEEmMRYX4hbFjb) | [MIN t](https://open.spotify.com/artist/3XWDa6sNlKADEYRI1mDvWs) | [Last Day](https://open.spotify.com/album/5prONrVBHr8NxAdZmZxOr8) | 3:31 |
 
-Snapshot ID: `AAAAAM0y7v2Fs7FeTyMEznXCzDu6XfQP`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

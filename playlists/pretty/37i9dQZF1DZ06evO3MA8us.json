@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35521,
+  "num_followers": 35520,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAADH71oj6xRw+PTWuMbuPcKn",
+  "snapshot_id": "agJtgAAAAABd6FgAwKfaSGfqocQNpzfD",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow You Anywhere (Live)",
-        "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Behold The Lamb - Live",
-      "url": "https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 303653,
       "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live",
       "url": "https://open.spotify.com/track/0KigSoVvXDoiuCr1NcEU1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow You Anywhere (Live)",
+        "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Behold The Lamb - Live",
+      "url": "https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Our Love Is Loud (Live)",
-        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 291626,
-      "name": "Here I Am To Worship - Live",
-      "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Even So Come (Live)",
         "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 242840,
       "name": "Shout Hosanna - Live",
       "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Our Love Is Loud (Live)",
+        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 291626,
+      "name": "Here I Am To Worship - Live",
+      "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: The Essential Collection (Live)",
-        "url": "https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "How Great Is Our God - Live",
-      "url": "https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bless God",
         "url": "https://open.spotify.com/album/074Y58Kfks4iXnPCGWlo0O"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 314535,
       "name": "Bless God - Live From Passion 2024",
       "url": "https://open.spotify.com/track/55891kIDHcEGReUrpD461w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: The Essential Collection (Live)",
+        "url": "https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "How Great Is Our God - Live",
+      "url": "https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx"
     },
     {
       "added_at": null,

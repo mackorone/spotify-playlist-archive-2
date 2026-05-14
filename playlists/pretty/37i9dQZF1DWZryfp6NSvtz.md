@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,493 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,504 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 31 | [Under Your Eyelid](https://open.spotify.com/track/7H9QQ7rBSTEpJ7zoXwKb6E) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Please Stop Laughing](https://open.spotify.com/album/77aIM7XrwLNM2JykZc1UD1) | 3:41 |
 | 32 | [New Love](https://open.spotify.com/track/6hsHSPspOQ6XqoVkcllD2X) | [ultrasaturated](https://open.spotify.com/artist/5jzmHcHM6la5EEnffjdOrC) | [New Love](https://open.spotify.com/album/7IV6vTYEjC1ScBNJa06Xo2) | 2:49 |
 | 33 | [confessions part iii](https://open.spotify.com/track/2y4LQN6xlAMXOJibSrnPlS) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [confessions part iii](https://open.spotify.com/album/5lh2ASzeSuQwkzxV5PHUME) | 2:01 |
-| 34 | [Otherside of Town](https://open.spotify.com/track/0x6uXHRKMHjvaByp8BUWnj) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Otherside of Town](https://open.spotify.com/album/65PviIp6U5qtZd7Go0mN5v) | 2:51 |
+| 34 | [Other Side of Town](https://open.spotify.com/track/0x6uXHRKMHjvaByp8BUWnj) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Otherside of Town](https://open.spotify.com/album/65PviIp6U5qtZd7Go0mN5v) | 2:51 |
 | 35 | [Haveluck Country](https://open.spotify.com/track/71IaDBix6TTuOWnnTVk9Eu) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Haveluck Country](https://open.spotify.com/album/7LyPXWmWi6lfuT862UHQFb) | 4:50 |
 | 36 | [Opportunity Arising](https://open.spotify.com/track/4XQmgpVjo7mgZu68ACPQoJ) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Measly Means](https://open.spotify.com/album/0X6XnhqszaIiNdhAWg1QHJ) | 3:41 |
 | 37 | [I Know You’re The Moon](https://open.spotify.com/track/0A5NxbzzhobzSSyc0Ki6ci) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [I Know You’re The Moon](https://open.spotify.com/album/6fBlt8MRglY79C0k5IjVlb) | 3:23 |

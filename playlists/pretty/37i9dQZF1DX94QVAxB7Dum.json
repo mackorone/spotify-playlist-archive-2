@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 822776,
+  "num_followers": 822873,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Motown: The Complete No. 1's",
+        "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
+      },
+      "artists": [
+        {
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Smiling Faces Sometimes",
+      "url": "https://open.spotify.com/track/1ajJsHKxOwsGYpoFGXe1QL"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "The Best Of Bill Withers: Lean On Me",
         "url": "https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 159306,
       "name": "Dancing In The Street",
       "url": "https://open.spotify.com/track/6iJLTnTP6JlqdfVtE3bywO"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Motown: The Complete No. 1's",
-        "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
-      },
-      "artists": [
-        {
-          "name": "The Undisputed Truth",
-          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Smiling Faces Sometimes",
-      "url": "https://open.spotify.com/track/1ajJsHKxOwsGYpoFGXe1QL"
     },
     {
       "added_at": "2024-07-02 22:47:47",

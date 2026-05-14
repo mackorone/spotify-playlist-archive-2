@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,301 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,391 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 16 | [Con Aroma A Alcohol \- Version Banda](https://open.spotify.com/track/2xhzEoGcFBLtJT2wH9CKE5) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 2:51 |
 | 17 | [Conmigo Ya No Cuentas](https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:43 |
 | 18 | [Gente del General](https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 2:45 |
-| 19 | [Fuiste Mi Todo](https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ) | [Jesús Uriarte](https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Fuiste Mi Todo](https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx) | 2:32 |
-| 20 | [Otro Perdedor](https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 4:10 |
+| 19 | [Otro Perdedor](https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 4:10 |
+| 20 | [Fuiste Mi Todo](https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ) | [Jesús Uriarte](https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Fuiste Mi Todo](https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx) | 2:32 |
 | 21 | [Tres Veladoras](https://open.spotify.com/track/33LditL7EZ5vKznmF9aQQo) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Tres Veladoras](https://open.spotify.com/album/3OC7oVqxubQ4qODYQpUk9o) | 3:28 |
 | 22 | [El de la Gorra 27](https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:20 |
 | 23 | [Ella Salió a Bailar](https://open.spotify.com/track/4v0onUOF5JnWFEqQ3qlCSV) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [Cuando Nino \(feat\. Lenin Ramirez \- Banda](https://open.spotify.com/track/2HbTiBBBEMaQHTGWkniY5h) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Jalando la Banda y el Tololoche](https://open.spotify.com/album/4LMSBwGqafnGVhYaX73lCF) | 3:20 |
 | 50 | [Belicotas](https://open.spotify.com/track/0jILXu7DxbxTy1HqlbEyuA) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Flako](https://open.spotify.com/artist/1eQ6mMfISnp987IhbwUlEh), [El Ca$h](https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5), [Mc Window](https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU), [Atirus](https://open.spotify.com/artist/4EjE4OihiFgdLd8QvgEcKA) | [Belicotas](https://open.spotify.com/album/6A8vjQalHzuquuXeRVOkUu) | 3:30 |
 
-Snapshot ID: `agEcAAAAAACw17J6mC95HOR27jNgkATV`
+Snapshot ID: `agJtgAAAAADj9W1vXuBSG0D1FOMdJBZp`

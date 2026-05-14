@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 66049,
+  "num_followers": 66058,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAADiaw1BtRvqI77rXRxovtMV",
+  "snapshot_id": "agJtgAAAAACg/798QSDMLINESOIzq6HT",
   "tracks": [
     {
       "added_at": null,
@@ -299,38 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Vidas Paralelas",
-      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 214527,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -351,6 +319,38 @@
       "duration_ms": 319026,
       "name": "TQM",
       "url": "https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 214527,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Vidas Paralelas",
+      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amarte Duele (Versiones de Ximena)",
+        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 224121,
+      "name": "Las Huellas - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/6Y6oC4hmqAHB7KDkOlSDT1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corazonada",
         "url": "https://open.spotify.com/album/6M2WxySETQXSq6K5QRXqyx"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 237346,
       "name": "Corazonada",
       "url": "https://open.spotify.com/track/50djfaTziNAD9lzW394lyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amarte Duele (Versiones de Ximena)",
-        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 224121,
-      "name": "Las Huellas - Versi\u00f3n de Ximena",
-      "url": "https://open.spotify.com/track/6Y6oC4hmqAHB7KDkOlSDT1"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amarte Duele (Versiones de Ximena)",
+        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 193407,
+      "name": "Ma\u00f1ana No Es Hoy - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/5LPYvfHyqgFB5ZPNayhtUB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
         "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 247733,
       "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
       "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amarte Duele (Versiones de Ximena)",
-        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 193407,
-      "name": "Ma\u00f1ana No Es Hoy - Versi\u00f3n de Ximena",
-      "url": "https://open.spotify.com/track/5LPYvfHyqgFB5ZPNayhtUB"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217168,
+      "name": "Las Cosas Simples",
+      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N.I.T.",
         "url": "https://open.spotify.com/album/5WSfrhTQlfko7kG6fHkAEE"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 209220,
       "name": "N.I.T.",
       "url": "https://open.spotify.com/track/1PE7FaEownPL5NTipf0PYC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 217168,
-      "name": "Las Cosas Simples",
-      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/6cNhorO2Vmcbt2zyXosHYZ"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/1J7DXtecVHR34Rc4Zkv71d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mediocre [Edici\u00f3n Especial]",
         "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 208803,
       "name": "Lo Que Se Va",
       "url": "https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adentro",
-        "url": "https://open.spotify.com/album/6cNhorO2Vmcbt2zyXosHYZ"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 236255,
-      "name": "Nada Para Ti",
-      "url": "https://open.spotify.com/track/1J7DXtecVHR34Rc4Zkv71d"
     },
     {
       "added_at": null,

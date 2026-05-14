@@ -1,6 +1,6 @@
 {
   "description": "Where nature and white noise meet.",
-  "num_followers": 908155,
+  "num_followers": 908140,
   "original_name": "Nature Noise",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Reclining Rain",
-        "url": "https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv"
-      },
-      "artists": [
-        {
-          "name": "Rain Rec.",
-          "url": "https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Reclining Rain",
-      "url": "https://open.spotify.com/track/5VKBWMXSxr01PjR6y3BrHg"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Flying South (Nature)",
         "url": "https://open.spotify.com/album/1vhivmFoFcs1WRHLwWA70R"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 180000,
       "name": "Flying South (Nature)",
       "url": "https://open.spotify.com/track/5j49xdRfVVXfrH0oi6UkKv"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Reclining Rain",
+        "url": "https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv"
+      },
+      "artists": [
+        {
+          "name": "Rain Rec.",
+          "url": "https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Reclining Rain",
+      "url": "https://open.spotify.com/track/5VKBWMXSxr01PjR6y3BrHg"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Soothing Green Noise",
-        "url": "https://open.spotify.com/album/4U0vt6QJHQrvrh4IRxO2pg"
-      },
-      "artists": [
-        {
-          "name": "Baltic Nature Sounds",
-          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
-        }
-      ],
-      "duration_ms": 136550,
-      "name": "Rainy Night - Sweet Spot Green Noise",
-      "url": "https://open.spotify.com/track/4K1TQrctzubFO1My5EiyMh"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Rain Forest Green Chill",
         "url": "https://open.spotify.com/album/1YlEIiFxpWl7TkeRI23pr1"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 195428,
       "name": "Hypnotic Green Noise",
       "url": "https://open.spotify.com/track/67abugPaIu3AZTbnyE8VsU"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/4U0vt6QJHQrvrh4IRxO2pg"
+      },
+      "artists": [
+        {
+          "name": "Baltic Nature Sounds",
+          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
+        }
+      ],
+      "duration_ms": 136550,
+      "name": "Rainy Night - Sweet Spot Green Noise",
+      "url": "https://open.spotify.com/track/4K1TQrctzubFO1My5EiyMh"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
+        "name": "Songbirds at Dawn",
+        "url": "https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq"
+      },
+      "artists": [
+        {
+          "name": "Brontology",
+          "url": "https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp"
+        }
+      ],
+      "duration_ms": 169242,
+      "name": "Songbirds at Dawn",
+      "url": "https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
         "name": "Schlaf Regen",
         "url": "https://open.spotify.com/album/356Qsx0ZLOttkeBGEGwKQy"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 122803,
       "name": "The Rustle of Leaves: Green Noise for Mindful Relaxation",
       "url": "https://open.spotify.com/track/4wkMK1KHdLti7NoB5E7ric"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
-        "name": "Songbirds at Dawn",
-        "url": "https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq"
-      },
-      "artists": [
-        {
-          "name": "Brontology",
-          "url": "https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp"
-        }
-      ],
-      "duration_ms": 169242,
-      "name": "Songbirds at Dawn",
-      "url": "https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Stereo Waves",
-        "url": "https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ"
-      },
-      "artists": [
-        {
-          "name": "4D Nature Recordings",
-          "url": "https://open.spotify.com/artist/6EAXjip845wircvDzEImru"
-        }
-      ],
-      "duration_ms": 173422,
-      "name": "The Oceanic Beach Sound",
-      "url": "https://open.spotify.com/track/5mvw769FihTs6dokvzhosR"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Precipitation",
         "url": "https://open.spotify.com/album/5abBHqAyDaxxkt7j4LWBJI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 216000,
       "name": "Precipitation",
       "url": "https://open.spotify.com/track/7jSpVGnPc3j3KS0W2KKnCJ"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Stereo Waves",
+        "url": "https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ"
+      },
+      "artists": [
+        {
+          "name": "4D Nature Recordings",
+          "url": "https://open.spotify.com/artist/6EAXjip845wircvDzEImru"
+        }
+      ],
+      "duration_ms": 173422,
+      "name": "The Oceanic Beach Sound",
+      "url": "https://open.spotify.com/track/5mvw769FihTs6dokvzhosR"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/2tH6218I88edYNdalBDlmn"
-      },
-      "artists": [
-        {
-          "name": "Dreams of Dreams",
-          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
-        }
-      ],
-      "duration_ms": 181406,
-      "name": "River Rain",
-      "url": "https://open.spotify.com/track/4gkJWcgc9QCFursmUBOirO"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Rain Clappering Outside",
         "url": "https://open.spotify.com/album/2z9Oof7rdfBWFVGspxY4ha"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Rain Retreat",
-        "url": "https://open.spotify.com/album/5nZQJ6ZrHDQpur9sl6Xpkl"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/2tH6218I88edYNdalBDlmn"
       },
       "artists": [
         {
-          "name": "Noise and Nature",
-          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+          "name": "Dreams of Dreams",
+          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Trees in Rain",
-      "url": "https://open.spotify.com/track/75XCz0pkNglzxQ6Mva8IZe"
+      "duration_ms": 181406,
+      "name": "River Rain",
+      "url": "https://open.spotify.com/track/4gkJWcgc9QCFursmUBOirO"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1191,6 +1175,22 @@
       "duration_ms": 181000,
       "name": "Lurok (Rain)",
       "url": "https://open.spotify.com/track/208tRWGdIAIXY2OiPgKqdl"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Rain Retreat",
+        "url": "https://open.spotify.com/album/5nZQJ6ZrHDQpur9sl6Xpkl"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Trees in Rain",
+      "url": "https://open.spotify.com/track/75XCz0pkNglzxQ6Mva8IZe"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Night Green Noise",
-        "url": "https://open.spotify.com/album/63jQGHKOhiciM8fXusNjJk"
-      },
-      "artists": [
-        {
-          "name": "Sleep Noise Island",
-          "url": "https://open.spotify.com/artist/5KapraTn7QQYg8alz8Pl1Z"
-        }
-      ],
-      "duration_ms": 132260,
-      "name": "Current Green Noise",
-      "url": "https://open.spotify.com/track/72JjmSeDk6lnjtuOAREB8T"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Stereo Waves",
         "url": "https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 154284,
       "name": "Stereo Waves",
       "url": "https://open.spotify.com/track/29DeShLV9kzW2RXeTpo8bX"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Night Green Noise",
+        "url": "https://open.spotify.com/album/63jQGHKOhiciM8fXusNjJk"
+      },
+      "artists": [
+        {
+          "name": "Sleep Noise Island",
+          "url": "https://open.spotify.com/artist/5KapraTn7QQYg8alz8Pl1Z"
+        }
+      ],
+      "duration_ms": 132260,
+      "name": "Current Green Noise",
+      "url": "https://open.spotify.com/track/72JjmSeDk6lnjtuOAREB8T"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Rain Day",
-        "url": "https://open.spotify.com/album/7H7Mh2c47UIakZJlkwEYAs"
-      },
-      "artists": [
-        {
-          "name": "Sowetness",
-          "url": "https://open.spotify.com/artist/1uUGT13CFTQGhbHAyLAs5R"
-        }
-      ],
-      "duration_ms": 153065,
-      "name": "Cool Rain",
-      "url": "https://open.spotify.com/track/4TZGYNmbDz2zjYpdOA0yQX"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Blooming Rain",
         "url": "https://open.spotify.com/album/4qJDj1Mapk2toRUsB7TT1O"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 135233,
       "name": "Rain Falling On A Field",
       "url": "https://open.spotify.com/track/7Ilr4n8plnhRaLS4qRswxh"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Rain Day",
+        "url": "https://open.spotify.com/album/7H7Mh2c47UIakZJlkwEYAs"
+      },
+      "artists": [
+        {
+          "name": "Sowetness",
+          "url": "https://open.spotify.com/artist/1uUGT13CFTQGhbHAyLAs5R"
+        }
+      ],
+      "duration_ms": 153065,
+      "name": "Cool Rain",
+      "url": "https://open.spotify.com/track/4TZGYNmbDz2zjYpdOA0yQX"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Ocean HD Vol. 2",
-        "url": "https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU"
-      },
-      "artists": [
-        {
-          "name": "Worldwide Nature Studios",
-          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Morning By The Ocean",
-      "url": "https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Sleep Rain",
         "url": "https://open.spotify.com/album/3oRN8iIXisYNaL5p9qbgaV"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 218500,
       "name": "Fall Asleep In The Rainforest",
       "url": "https://open.spotify.com/track/6laELth2IuDYyBx5hm4epM"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Ocean HD Vol. 2",
+        "url": "https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Morning By The Ocean",
+      "url": "https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju"
     },
     {
       "added_at": "2026-04-02 10:07:29",

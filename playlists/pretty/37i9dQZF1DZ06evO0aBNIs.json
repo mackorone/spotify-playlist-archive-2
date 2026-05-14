@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 756455,
+  "num_followers": 756496,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAAxzNkX90FnxPVWW8ZoVcG+",
+  "snapshot_id": "agJtgAAAAABWSlRowjX0DF/Dj859Z4E4",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Things I'll Never Say",
+      "url": "https://open.spotify.com/track/3nH2w4Q9yths31lC9C26fT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Things I'll Never Say",
-      "url": "https://open.spotify.com/track/3nH2w4Q9yths31lC9C26fT"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California Gold",
-        "url": "https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 210026,
-      "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
-      "url": "https://open.spotify.com/track/7CLZA5K0fklYClw6NUqxhM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avril Lavigne (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 267973,
       "name": "Let Me Go (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/2o0V0AATmWmCmMOAFWDuEV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California Gold",
+        "url": "https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/7CLZA5K0fklYClw6NUqxhM"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 234138,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avril Lavigne (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 174906,
       "name": "Bad Girl (feat. Marilyn Manson)",
       "url": "https://open.spotify.com/track/1HiV8vDg7l9eKp6abjvA7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Go (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 234138,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Frenna, Zoë Livay, Froukje, Lijpe, Calvin Harris, Lykke Li en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,852 likes - 98 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,845 likes - 98 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

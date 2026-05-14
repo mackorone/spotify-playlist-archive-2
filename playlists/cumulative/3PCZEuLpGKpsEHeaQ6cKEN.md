@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Armin van Buuren &amp; Olive Anguz
 
-1,801 songs - 3 day 23 hr 26 min
+1,802 songs - 3 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Disco Muziq](https://open.spotify.com/track/1nYGRTID1WCQEnafkP0cnT) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Disco Muziq](https://open.spotify.com/album/0GOQ0ru9f0WIuueYRKCB4c) | 2:48 | 2025-11-21 |  |
 | [Discohopping \- Anna Tur Remix](https://open.spotify.com/track/1W0cld7fMBFPttUhZy10NM) | [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe), [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH) | [Armada Music \- 20 Years \(Remixed\)](https://open.spotify.com/album/4OD3z2wuOlBanqCItlGtsb) | 2:41 | 2023-12-07 | 2024-06-08 |
 | [Discohopping \- Anna Tur Remix](https://open.spotify.com/track/6d6eKUWERn9U2G3NQDPrCt) | [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe), [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH) | [Discohopping \(Anna Tur Remix\)](https://open.spotify.com/album/56oV0JSJ4UJJ4nUToj1bwn) | 2:41 | 2023-09-21 | 2023-12-14 |
+| [Discopolis 2.0 \- 2015 Rework](https://open.spotify.com/track/5wroYfXQb6ytyIWRC0lUoT) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Kris Menace](https://open.spotify.com/artist/5P5i4EeZfrKrcRGHRTqJr0) | [Discopolis 2.0](https://open.spotify.com/album/4OmT94GgE8Y6TA6514jbf8) | 4:28 | 2026-05-13 |  |
 | [DISTO](https://open.spotify.com/track/7lm155uMc4owtsZN11r2Vu) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [DISTO](https://open.spotify.com/album/0mCxfRiYb3FcBUI1d2ml0b) | 2:59 | 2024-12-12 | 2026-02-13 |
 | [Dive](https://open.spotify.com/track/67OCwctI95C8WU6ejoLbt8) | [Benwal](https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl) | [Dive](https://open.spotify.com/album/2An7MFk09i75gWJ1ctzQ8N) | 3:29 | 2025-04-18 | 2025-05-16 |
 | [Divine](https://open.spotify.com/track/3HFQRcE25gUw5jiGrJPsRc) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Divine](https://open.spotify.com/album/5XPhK0D2fEjX3oK3GPgalf) | 2:17 | 2024-11-08 | 2025-04-11 |

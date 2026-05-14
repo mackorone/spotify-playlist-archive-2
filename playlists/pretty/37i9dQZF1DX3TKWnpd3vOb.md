@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Tres
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,480 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,457 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 71 | [Corazón Negro](https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Corazón Negro](https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI) | 4:02 |
 | 72 | [Ícaro](https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Ícaro](https://open.spotify.com/album/0PNzBHZUXpSsehZx7kzYii) | 4:37 |
 | 73 | [Viernes](https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q) | [Camiseta 22](https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Viernes](https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1) | 4:08 |
-| 74 | [Tu primero y luego yo](https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Tu primero y luego yo](https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY) | 2:26 |
+| 74 | [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 |
 | 75 | [Si Se Me Apaga El Sol](https://open.spotify.com/track/7uXcUeqM5UJk6Dgmd8lild) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Si Se Me Apaga El Sol](https://open.spotify.com/album/0Xj5Xf6g1LixZRNkn3hsYS) | 3:46 |
 | 76 | [Eternos](https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Eternos](https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C) | 3:25 |
 | 77 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
 | 78 | [Como es que no gozas](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Como es que no gozas](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 |
-| 79 | [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 |
+| 79 | [Tu primero y luego yo](https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Tu primero y luego yo](https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY) | 2:26 |
 | 80 | [Fresco y Desubicado](https://open.spotify.com/track/1KOt3ftZDzUOzu1q9aNrfR) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Fresco y Desubicado](https://open.spotify.com/album/00fGnqtt8JkQ8gVfS1LGmt) | 3:38 |
 | 81 | [Hacia Ti](https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Hacia Ti](https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2) | 3:45 |
 | 82 | [Resiste Más Que Yo](https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv) | 5:59 |

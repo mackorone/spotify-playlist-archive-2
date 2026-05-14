@@ -189,6 +189,28 @@
     },
     {
       "album": {
+        "name": "idea of love - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/37Cp4Hk4xLqVmUHQRLu1es"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154314,
+      "name": "idea of love - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3XMriAsMxhNuT7ygP11JpJ"
+    },
+    {
+      "album": {
         "name": "lord i've tried",
         "url": "https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa"
       },

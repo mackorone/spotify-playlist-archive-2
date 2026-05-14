@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 230430,
+  "num_followers": 230445,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAABfEiEWTHiN9APw3GISA69X",
+  "snapshot_id": "agJtgAAAAABDMngpCiHYINGb1Lgjkrk3",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,34 @@
       "duration_ms": 200097,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FIELD TRIP",
+        "url": "https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 163155,
+      "name": "FIELD TRIP",
+      "url": "https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY"
     },
     {
       "added_at": null,
@@ -875,6 +903,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 164038,
+      "name": "MoshPit (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
       },
@@ -907,46 +955,6 @@
       "duration_ms": 62789,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 164038,
-      "name": "MoshPit (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LYFESTYLE",
-        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "B\u00cb QUIET (FEAT. KODAK BLACK)",
-      "url": "https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN"
     }
   ],
   "unique_name": "This Is Kodak Black",

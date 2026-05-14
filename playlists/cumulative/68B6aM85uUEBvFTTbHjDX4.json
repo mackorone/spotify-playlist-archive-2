@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "Chant Rush",
+        "url": "https://open.spotify.com/album/4JIwIyc5U91KsfsQ6EozmZ"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        },
+        {
+          "name": "Dave Sinner",
+          "url": "https://open.spotify.com/artist/6ZR2XILLJ6y4cP6ttuBaRC"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427500,
+      "name": "Chant Rush - Dave Sinner Remix",
+      "url": "https://open.spotify.com/track/2fvSehcoOX5pTSfeWpC5Gx"
+    },
+    {
+      "album": {
         "name": "Choir Of Spirits",
         "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
       },

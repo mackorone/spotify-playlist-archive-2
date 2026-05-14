@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de mayo 2026. Cover: Alvaro Diaz & LATIN MAFIA",
-  "num_followers": 1557628,
+  "num_followers": 1557547,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-05-08 04:02:02",
       "album": {
+        "name": "AFTERAFTER",
+        "url": "https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 162415,
+      "name": "EA EA EA",
+      "url": "https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak"
+    },
+    {
+      "added_at": "2026-05-08 04:02:02",
+      "album": {
         "name": "ETERNO",
         "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2026-05-08 04:02:02",
       "album": {
-        "name": "AFTERAFTER",
-        "url": "https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ"
+        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
       },
       "artists": [
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 162415,
-      "name": "EA EA EA",
-      "url": "https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak"
+      "duration_ms": 140461,
+      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "added_at": "2026-05-08 04:02:02",
@@ -407,22 +423,6 @@
       "duration_ms": 194839,
       "name": "Dando Vueltas",
       "url": "https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts"
-    },
-    {
-      "added_at": "2026-05-08 04:02:02",
-      "album": {
-        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 140461,
-      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "added_at": "2026-05-08 04:02:02",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-05-08 04:02:02",
       "album": {
-        "name": "Una Vez Y Ya",
-        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
+        "name": "(enamorada)",
+        "url": "https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7"
       },
       "artists": [
         {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
         }
       ],
-      "duration_ms": 154506,
-      "name": "Una Vez Y Ya",
-      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
+      "duration_ms": 241704,
+      "name": "(ENAMORADA)",
+      "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
     },
     {
       "added_at": "2026-05-08 04:02:02",
@@ -703,18 +703,18 @@
     {
       "added_at": "2026-05-08 04:02:02",
       "album": {
-        "name": "(enamorada)",
-        "url": "https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7"
+        "name": "Una Vez Y Ya",
+        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
       },
       "artists": [
         {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
         }
       ],
-      "duration_ms": 241704,
-      "name": "(ENAMORADA)",
-      "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
+      "duration_ms": 154506,
+      "name": "Una Vez Y Ya",
+      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
     },
     {
       "added_at": "2026-05-08 04:02:02",

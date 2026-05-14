@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,491 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,507 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 | 88 | [Heal from Within](https://open.spotify.com/track/6S9x2GzYBktcfxNrYGmi3q) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Healing Sequences](https://open.spotify.com/album/0EhG6dsoA88n2TkpSPKdRn) | 3:13 |
 | 89 | [Inharmonic](https://open.spotify.com/track/4dBF8Rb7rTZP08ndwnNZ4p) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:21 |
 | 90 | [Bhitra Brahmānḍa](https://open.spotify.com/track/684MounrqJbJj8Jt6v45pw) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Bhitra Brahmānḍa](https://open.spotify.com/album/4q6uiupnlW71rc4libnFam) | 3:20 |
-| 91 | [Mindfulness Meditation \- Tibetan Singing Bowls](https://open.spotify.com/track/7maCqes6kqxAW0rTLPVUNb) | [Maryada Ram](https://open.spotify.com/artist/2wsyWIrkvoYffyohy88ZLI) | [Tibetan Singing Bowls](https://open.spotify.com/album/5wbWaC1npbTtwimCI44vwR) | 5:00 |
+| 91 | [Mindfulness Inner Silence](https://open.spotify.com/track/7maCqes6kqxAW0rTLPVUNb) | [Elise Dawndale](https://open.spotify.com/artist/4er85PmpPaiTLtUllS2Uax) | [Tibetan Singing Bowls](https://open.spotify.com/album/5wbWaC1npbTtwimCI44vwR) | 5:00 |
 | 92 | [Spiritual State](https://open.spotify.com/track/3z1jVtq9UwidRXUh196MYY) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Mind Healing Tibetan Bowls](https://open.spotify.com/album/3YeuOBc7dpLkpqC9Vi7CQ5) | 2:55 |
 | 93 | [Tibetan Bowl Escape](https://open.spotify.com/track/2aHikc0squ4xiHaYEVR5N2) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 2:30 |
 | 94 | [3rd Jhana \- Equanimity](https://open.spotify.com/track/13Q2mB6MXVlsSFFDjtwCxT) | [Phil Thornton](https://open.spotify.com/artist/3R5NLRDm59J9sB9Q7Ec5Eo) | [Pure Tibetan Bowls](https://open.spotify.com/album/1mcbcxox0vOHK5bjCaa9xp) | 8:47 |

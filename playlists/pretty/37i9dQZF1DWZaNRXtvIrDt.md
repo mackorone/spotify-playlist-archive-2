@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Human Movement
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,790 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,789 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 25 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 |
 | 26 | [C'est Toi](https://open.spotify.com/track/2Sr4AtddCOnpPcyJR1pKEW) | [LNRT](https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC) | [C'est Toi](https://open.spotify.com/album/4q8j2pBnzDSR1wuKUPaqoF) | 3:10 |
 | 27 | [78 To Stanley Bay](https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [816 To Nunhead](https://open.spotify.com/album/1OKJNHif5s5NzcScX4ac44) | 5:07 |
-| 28 | [Brazilian Sky](https://open.spotify.com/track/5KF3ijg71YSKszvHuHdfZA) | [Demm Deep](https://open.spotify.com/artist/1MzQYOcw4DMB9ISBhZTa7g), [Junes UB](https://open.spotify.com/artist/32nH6vaVKn3iDyEYdlcBi5) | [Tracks of the Blue Sky](https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83) | 3:19 |
-| 29 | [Two Months Off](https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Hundred Days Off](https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg) | 9:08 |
+| 28 | [Two Months Off](https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Hundred Days Off](https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg) | 9:08 |
+| 29 | [Brazilian Sky](https://open.spotify.com/track/5KF3ijg71YSKszvHuHdfZA) | [Demm Deep](https://open.spotify.com/artist/1MzQYOcw4DMB9ISBhZTa7g), [Junes UB](https://open.spotify.com/artist/32nH6vaVKn3iDyEYdlcBi5) | [Tracks of the Blue Sky](https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83) | 3:19 |
 | 30 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 31 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like \(feat\. yunè pinku\)](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
 | 32 | [Groovy Thang](https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP) | [DTAILR](https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e) | [Groovy Thang](https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC) | 2:47 |

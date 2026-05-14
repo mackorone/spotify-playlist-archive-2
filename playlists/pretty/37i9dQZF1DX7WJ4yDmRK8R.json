@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Sublime on cover ",
-  "num_followers": 410857,
+  "num_followers": 410874,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-03-27 06:00:10",
       "album": {
-        "name": "No Piensa En Ti (Sonando Desde El Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/6RlTdExC3Yd0wIxL8MTpBw"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 217978,
-      "name": "No Piensa En Ti - Sonando Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/5ZY4KPgjOVBMAzZXdUIGyH"
-    },
-    {
-      "added_at": "2026-03-27 06:00:10",
-      "album": {
         "name": "God Bless Satan",
         "url": "https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 195527,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
+    },
+    {
+      "added_at": "2026-03-27 06:00:10",
+      "album": {
+        "name": "No Piensa En Ti (Sonando Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/6RlTdExC3Yd0wIxL8MTpBw"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 217978,
+      "name": "No Piensa En Ti - Sonando Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/5ZY4KPgjOVBMAzZXdUIGyH"
     },
     {
       "added_at": "2026-03-27 06:00:10",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-03-27 06:00:10",
       "album": {
-        "name": "Self Care",
-        "url": "https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X"
-      },
-      "artists": [
-        {
-          "name": "We Are The Union",
-          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
-        }
-      ],
-      "duration_ms": 148938,
-      "name": "A Better Home",
-      "url": "https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s"
-    },
-    {
-      "added_at": "2026-03-27 06:00:10",
-      "album": {
         "name": "Nice Things",
         "url": "https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 141057,
       "name": "The Sweat",
       "url": "https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E"
+    },
+    {
+      "added_at": "2026-03-27 06:00:10",
+      "album": {
+        "name": "Self Care",
+        "url": "https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X"
+      },
+      "artists": [
+        {
+          "name": "We Are The Union",
+          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
+        }
+      ],
+      "duration_ms": 148938,
+      "name": "A Better Home",
+      "url": "https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s"
     },
     {
       "added_at": "2026-03-27 06:00:10",

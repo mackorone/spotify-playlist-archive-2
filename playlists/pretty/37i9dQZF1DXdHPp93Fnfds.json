@@ -1,6 +1,6 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 136657,
+  "num_followers": 136653,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "poco a poquito",
-        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "poco a poquito",
-      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Canciones Tristes",
         "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 186266,
       "name": "Canciones Tristes",
       "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "With Or Without You",
-        "url": "https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn"
-      },
-      "artists": [
-        {
-          "name": "Pacifica",
-          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
-        }
-      ],
-      "duration_ms": 154337,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Labio Inferior",
         "url": "https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 171889,
       "name": "Labio Inferior",
       "url": "https://open.spotify.com/track/62jyvcXfpiZLHWMi0p8VJL"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "With Or Without You",
+        "url": "https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn"
+      },
+      "artists": [
+        {
+          "name": "Pacifica",
+          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+        }
+      ],
+      "duration_ms": 154337,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Todo Va A Cambiar",
         "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 147386,
       "name": "Todo Va A Cambiar",
       "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "ME FUI DE LA FIESTA",
-        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 158934,
-      "name": "ME FUI DE LA FIESTA",
-      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1167,6 +1167,38 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Otro Plan",
+        "url": "https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "duration_ms": 182462,
+      "name": "Otro Plan",
+      "url": "https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Sue\u00f1o Raro",
+        "url": "https://open.spotify.com/album/1nHuKJvctkgkY63mVDeqJT"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 217706,
+      "name": "Sue\u00f1o Raro",
+      "url": "https://open.spotify.com/track/6EWybNX5bRPGsdWUDqOHbo"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Tu Vereda",
         "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
       },
@@ -1187,22 +1219,6 @@
       "duration_ms": 147198,
       "name": "Tu Vereda",
       "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Sue\u00f1o Raro",
-        "url": "https://open.spotify.com/album/1nHuKJvctkgkY63mVDeqJT"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 217706,
-      "name": "Sue\u00f1o Raro",
-      "url": "https://open.spotify.com/track/6EWybNX5bRPGsdWUDqOHbo"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1255,22 +1271,6 @@
       "duration_ms": 153320,
       "name": "Y vos dec\u00eds que me gust\u00e1s",
       "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Otro Plan",
-        "url": "https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        }
-      ],
-      "duration_ms": 182462,
-      "name": "Otro Plan",
-      "url": "https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc"
     },
     {
       "added_at": "2025-07-17 22:42:38",

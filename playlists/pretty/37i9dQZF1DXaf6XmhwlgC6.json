@@ -1,45 +1,13 @@
 {
   "description": "Music from the ether to focus and study to.",
-  "num_followers": 371365,
+  "num_followers": 371378,
   "original_name": "Atmospheric Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGsqwvVbyTeDX3cTAh3KN6AI5r57",
+  "snapshot_id": "AAAAAMehggcZJLGrMWmXLfI7d8Olk0Ey",
   "tracks": [
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "Kindred Cloud",
-        "url": "https://open.spotify.com/album/3qP4suZZ6QmTxORczXe2e9"
-      },
-      "artists": [
-        {
-          "name": "\u00c1luinn",
-          "url": "https://open.spotify.com/artist/50yugGZM2qgXcIO7gHBYvF"
-        }
-      ],
-      "duration_ms": 202905,
-      "name": "Kindred Cloud",
-      "url": "https://open.spotify.com/track/5OyPm6eLU5uINXjDGGpwAV"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "Easy Living",
-        "url": "https://open.spotify.com/album/0vlaaxzxRCr9dWLAnRNv9J"
-      },
-      "artists": [
-        {
-          "name": "Nelson Robert",
-          "url": "https://open.spotify.com/artist/1nITSgFXHcsi7Im2tAANUp"
-        }
-      ],
-      "duration_ms": 135290,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/56ziZBtbpDajlj96pxEWsF"
-    },
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
@@ -139,22 +107,6 @@
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
-        "name": "Uncharted",
-        "url": "https://open.spotify.com/album/0k5XienBmqAbdFoyCMpv6h"
-      },
-      "artists": [
-        {
-          "name": "Crystalline Solid",
-          "url": "https://open.spotify.com/artist/3M1w0nORxWILSoIwZLCOYu"
-        }
-      ],
-      "duration_ms": 137338,
-      "name": "Uncharted",
-      "url": "https://open.spotify.com/track/7gX53mqzyBrjFt1Ja5LYur"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
         "name": "Although",
         "url": "https://open.spotify.com/album/6672mRLwr7IfxOoIersCKU"
       },
@@ -187,38 +139,6 @@
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/5Iy31GrLevTAdBzULDvi3c"
-      },
-      "artists": [
-        {
-          "name": "Wilfred Fredig",
-          "url": "https://open.spotify.com/artist/4hTrnME7WOKqbnIfRiu01m"
-        }
-      ],
-      "duration_ms": 150417,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/4SdfvnH0muFlUQpBtwQ3WM"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "Nebula in Bloom",
-        "url": "https://open.spotify.com/album/520viCaxI1KAh0Tn1Lgr0f"
-      },
-      "artists": [
-        {
-          "name": "Sleeping Atlas",
-          "url": "https://open.spotify.com/artist/7663VFCMOXEmo8oKCNZFZ4"
-        }
-      ],
-      "duration_ms": 123698,
-      "name": "Nebula in Bloom",
-      "url": "https://open.spotify.com/track/1ujFw7NVM3AZz9OQ59QVzz"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
         "name": "Verdant Haze",
         "url": "https://open.spotify.com/album/0iwPvlJzGTftmezfEm6kZ5"
       },
@@ -231,22 +151,6 @@
       "duration_ms": 138447,
       "name": "Verdant Haze",
       "url": "https://open.spotify.com/track/1vjzZNyFnYUGigKnwh4g5G"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "To cherish",
-        "url": "https://open.spotify.com/album/5FolwJeRW7WWvEv8aYPqIO"
-      },
-      "artists": [
-        {
-          "name": "Cherries & Daydreams",
-          "url": "https://open.spotify.com/artist/0ONdCbjGiaB27gxgkVIXOA"
-        }
-      ],
-      "duration_ms": 155186,
-      "name": "To cherish",
-      "url": "https://open.spotify.com/track/2sDLddDUikRmarSrWxXo4s"
     },
     {
       "added_at": "2026-04-22 13:57:28",
@@ -1131,22 +1035,6 @@
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
-        "name": "Days Before",
-        "url": "https://open.spotify.com/album/4jhmiYkdkMErBkGbXoVlpJ"
-      },
-      "artists": [
-        {
-          "name": "Dear Amore",
-          "url": "https://open.spotify.com/artist/3Vr54uV3Ygsd1rlmNZAhd8"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Days Before",
-      "url": "https://open.spotify.com/track/0W0xwBZGQyQmwPOQYwiCzZ"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
         "name": "Above All",
         "url": "https://open.spotify.com/album/6lAyzC70Eq9ycDXOJFx7O6"
       },
@@ -1323,22 +1211,6 @@
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
-        "name": "Clean Slate",
-        "url": "https://open.spotify.com/album/7kSDFu4VWH9euEwHBmgV5P"
-      },
-      "artists": [
-        {
-          "name": "Isaak Young",
-          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
-        }
-      ],
-      "duration_ms": 158809,
-      "name": "Clean Slate",
-      "url": "https://open.spotify.com/track/7CqVGMtoQBCWqrLiad6tqJ"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
         "name": "Outdoors",
         "url": "https://open.spotify.com/album/0C53oSDfBf1TAOH89CuEWN"
       },
@@ -1367,38 +1239,6 @@
       "duration_ms": 120197,
       "name": "Changing Seas",
       "url": "https://open.spotify.com/track/535oulHWFKwAQv1L3OdLM3"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "Evenings",
-        "url": "https://open.spotify.com/album/5PcOqCxbYPfJ4wuG2KiWhD"
-      },
-      "artists": [
-        {
-          "name": "Apollo Vision",
-          "url": "https://open.spotify.com/artist/0S54IVxCmJNc6FN8wLIC5v"
-        }
-      ],
-      "duration_ms": 155037,
-      "name": "Evenings",
-      "url": "https://open.spotify.com/track/0cVKjIOrrpOOySAy9pjMU8"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "Radiate",
-        "url": "https://open.spotify.com/album/4nlfbxjsI90MmMWNBIIKx7"
-      },
-      "artists": [
-        {
-          "name": "Wilfred Fredig",
-          "url": "https://open.spotify.com/artist/4hTrnME7WOKqbnIfRiu01m"
-        }
-      ],
-      "duration_ms": 148448,
-      "name": "Radiate",
-      "url": "https://open.spotify.com/track/5I5efu9ZXWiNBcdOUTPbo8"
     },
     {
       "added_at": "2026-04-22 13:57:28",
@@ -1579,22 +1419,6 @@
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
-        "name": "Generations",
-        "url": "https://open.spotify.com/album/2fEom3b2ckYWqdnNfhJnIe"
-      },
-      "artists": [
-        {
-          "name": "Tranquil Oasis",
-          "url": "https://open.spotify.com/artist/31pLNmCY9ScYFahS0Qa448"
-        }
-      ],
-      "duration_ms": 122350,
-      "name": "Generations",
-      "url": "https://open.spotify.com/track/2Q1DBeLBiPfTOEpDmKhkjP"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
         "name": "Time Tells",
         "url": "https://open.spotify.com/album/7L6mshgR4QDNYHW29T7NSE"
       },
@@ -1643,38 +1467,6 @@
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
-        "name": "Overnight",
-        "url": "https://open.spotify.com/album/1zpBq1Mlz7eUVPHAwxdlL2"
-      },
-      "artists": [
-        {
-          "name": "Aksel Rune",
-          "url": "https://open.spotify.com/artist/0aHXh9twlvt1B0nI5vpEzA"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Overnight",
-      "url": "https://open.spotify.com/track/4fFWgiplAvOOfHJ5rrvW7x"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "Out of this World",
-        "url": "https://open.spotify.com/album/46IN6kCCMP1ix8gIdmOSQF"
-      },
-      "artists": [
-        {
-          "name": "Yume",
-          "url": "https://open.spotify.com/artist/4BgMskNNvTm3R0amoQs2eD"
-        }
-      ],
-      "duration_ms": 168014,
-      "name": "Out of this World",
-      "url": "https://open.spotify.com/track/4PmX7b7S3EiMVpXKyxyAvs"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
         "name": "Thread of Thought",
         "url": "https://open.spotify.com/album/3cOAa1rsFooRL6T8W5GTt4"
       },
@@ -1703,38 +1495,6 @@
       "duration_ms": 130000,
       "name": "Hearsay",
       "url": "https://open.spotify.com/track/1LUJBuZEJMt7Rz6JmIvyjh"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "Path Lit",
-        "url": "https://open.spotify.com/album/0yZrB7JbQMGwkVKObFGjQY"
-      },
-      "artists": [
-        {
-          "name": "Kazuma Okabayashi",
-          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "Path Lit",
-      "url": "https://open.spotify.com/track/5Koc9TQ8BgOxoBgq9FXNav"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/4th0vidpmHamD8YJC00OS5"
-      },
-      "artists": [
-        {
-          "name": "Nelson Robert",
-          "url": "https://open.spotify.com/artist/1nITSgFXHcsi7Im2tAANUp"
-        }
-      ],
-      "duration_ms": 163213,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/7D8WGzkhfhFq1k0TFfXGCS"
     },
     {
       "added_at": "2026-04-22 13:57:28",
@@ -1819,18 +1579,34 @@
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
-        "name": "Equivalence",
-        "url": "https://open.spotify.com/album/6nBBbzZ0cCk2e9fqJeUCu4"
+        "name": "Uncharted",
+        "url": "https://open.spotify.com/album/0k5XienBmqAbdFoyCMpv6h"
       },
       "artists": [
         {
-          "name": "All the World",
-          "url": "https://open.spotify.com/artist/35PSTSmNbbdeF2CQi8HRVG"
+          "name": "Crystalline Solid",
+          "url": "https://open.spotify.com/artist/3M1w0nORxWILSoIwZLCOYu"
         }
       ],
-      "duration_ms": 144374,
-      "name": "Equivalence",
-      "url": "https://open.spotify.com/track/2tDjsli7vCql7vIzu5Gq3W"
+      "duration_ms": 137338,
+      "name": "Uncharted",
+      "url": "https://open.spotify.com/track/7gX53mqzyBrjFt1Ja5LYur"
+    },
+    {
+      "added_at": "2026-04-22 13:57:28",
+      "album": {
+        "name": "Nebula in Bloom",
+        "url": "https://open.spotify.com/album/520viCaxI1KAh0Tn1Lgr0f"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Atlas",
+          "url": "https://open.spotify.com/artist/7663VFCMOXEmo8oKCNZFZ4"
+        }
+      ],
+      "duration_ms": 123698,
+      "name": "Nebula in Bloom",
+      "url": "https://open.spotify.com/track/1ujFw7NVM3AZz9OQ59QVzz"
     },
     {
       "added_at": "2026-04-22 13:57:28",
@@ -2123,38 +1899,6 @@
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
-        "name": "BLOC",
-        "url": "https://open.spotify.com/album/15UNKsJVTry2XfS08wEvKl"
-      },
-      "artists": [
-        {
-          "name": "Fauxwale",
-          "url": "https://open.spotify.com/artist/4XBbDzk88f8EnPyfNg4i2E"
-        }
-      ],
-      "duration_ms": 140629,
-      "name": "BLOC",
-      "url": "https://open.spotify.com/track/5JyS77ZWMMabXAlXaFzEJy"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "Display",
-        "url": "https://open.spotify.com/album/3vhOnEjTegpjgr3Yx3N8tS"
-      },
-      "artists": [
-        {
-          "name": "Theo Ember",
-          "url": "https://open.spotify.com/artist/5D2aedk5p3rkUVfU4c72uR"
-        }
-      ],
-      "duration_ms": 129524,
-      "name": "Display",
-      "url": "https://open.spotify.com/track/2zQQDwkqV1PdM7nBtMMpC7"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
         "name": "Shimmering",
         "url": "https://open.spotify.com/album/4RHIFN6tT4NDZz3ledsDoS"
       },
@@ -2411,22 +2155,6 @@
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
-        "name": "Maple",
-        "url": "https://open.spotify.com/album/1481D6h5zJQ7ux8PFxXRU0"
-      },
-      "artists": [
-        {
-          "name": "Atlas",
-          "url": "https://open.spotify.com/artist/4cIXcF5axlL9r4CTRCtszo"
-        }
-      ],
-      "duration_ms": 133468,
-      "name": "Maple",
-      "url": "https://open.spotify.com/track/0mGEDLhRDoV0i680TrkPlR"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
         "name": "Interiore",
         "url": "https://open.spotify.com/album/21swnkEc6xhWz2lqZwfTpG"
       },
@@ -2503,22 +2231,6 @@
       "duration_ms": 209507,
       "name": "A Message for the Northern Wind",
       "url": "https://open.spotify.com/track/4olcryEXJibgETIEbDxr26"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "Beyond Reflection",
-        "url": "https://open.spotify.com/album/70qPmwrngFg6irCAbQU9UF"
-      },
-      "artists": [
-        {
-          "name": "Eden",
-          "url": "https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD"
-        }
-      ],
-      "duration_ms": 138150,
-      "name": "Beyond Reflection",
-      "url": "https://open.spotify.com/track/1xZAA3T8PD0UJbcTXQNazW"
     },
     {
       "added_at": "2026-04-22 13:57:28",
@@ -2843,22 +2555,6 @@
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
-        "name": "Relevance",
-        "url": "https://open.spotify.com/album/4nYgS0KJaPrHiLGyTxyZm6"
-      },
-      "artists": [
-        {
-          "name": "Noah Moon",
-          "url": "https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8"
-        }
-      ],
-      "duration_ms": 144214,
-      "name": "Relevance",
-      "url": "https://open.spotify.com/track/2udLAfjjsxMgsfcxjZag4g"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/0lKdWwszYHyXO4a2FlMx72"
       },
@@ -2891,22 +2587,6 @@
     {
       "added_at": "2026-04-22 13:57:28",
       "album": {
-        "name": "On And On",
-        "url": "https://open.spotify.com/album/2bP8fTfidJsLwI1LrL9VlF"
-      },
-      "artists": [
-        {
-          "name": "\u00c1luinn",
-          "url": "https://open.spotify.com/artist/50yugGZM2qgXcIO7gHBYvF"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/6V4BH8nY1No3eKd1Y2FAkN"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
         "name": "Lumen Nest",
         "url": "https://open.spotify.com/album/0Vq1jQ78KUqxdaTpGXHi6T"
       },
@@ -2935,22 +2615,6 @@
       "duration_ms": 125000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/4736CIo9K9VncO7tf4wAaJ"
-    },
-    {
-      "added_at": "2026-04-22 13:57:28",
-      "album": {
-        "name": "Collections",
-        "url": "https://open.spotify.com/album/3B7I39Jmjwqrs8B6Ic6wyT"
-      },
-      "artists": [
-        {
-          "name": "Deep Club",
-          "url": "https://open.spotify.com/artist/0oVZk6gliDbT4nxhOA3tuJ"
-        }
-      ],
-      "duration_ms": 115555,
-      "name": "Collections",
-      "url": "https://open.spotify.com/track/2oNT1IVjBFaGT6LXMgwjCZ"
     },
     {
       "added_at": "2026-04-22 13:57:28",

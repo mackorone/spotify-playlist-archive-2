@@ -1,6 +1,6 @@
 {
   "description": "These are the talented women of Latin music. Cover: KAROL G",
-  "num_followers": 117960,
+  "num_followers": 118042,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-04-13 13:45:23",
       "album": {
-        "name": "Latinaje",
-        "url": "https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 231016,
-      "name": "Con Otra",
-      "url": "https://open.spotify.com/track/2F6PBqz7aPA7K309aFKMHt"
-    },
-    {
-      "added_at": "2026-04-13 13:45:23",
-      "album": {
         "name": "Como Tu Mujer",
         "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 262706,
       "name": "Como Tu Mujer",
       "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
+    },
+    {
+      "added_at": "2026-04-13 13:45:23",
+      "album": {
+        "name": "Latinaje",
+        "url": "https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 231016,
+      "name": "Con Otra",
+      "url": "https://open.spotify.com/track/2F6PBqz7aPA7K309aFKMHt"
     },
     {
       "added_at": "2026-04-13 13:45:23",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-04-13 13:45:23",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
-    },
-    {
-      "added_at": "2026-04-13 13:45:23",
-      "album": {
         "name": "Quiero +",
         "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 128487,
       "name": "Quiero +",
       "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+    },
+    {
+      "added_at": "2026-04-13 13:45:23",
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
     },
     {
       "added_at": "2026-04-13 13:45:23",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-04-13 13:45:23",
       "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 191368,
+      "name": "SEGUNDO INTENTO",
+      "url": "https://open.spotify.com/track/473FchgGiaKD5CsL7SOhJJ"
+    },
+    {
+      "added_at": "2026-04-13 13:45:23",
+      "album": {
         "name": "La Mala Era Yo",
         "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
       },
@@ -830,27 +846,15 @@
         {
           "name": "Miami Sound Machine",
           "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
         }
       ],
       "duration_ms": 255760,
       "name": "Conga",
       "url": "https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0"
-    },
-    {
-      "added_at": "2026-04-13 13:45:23",
-      "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 191368,
-      "name": "SEGUNDO INTENTO",
-      "url": "https://open.spotify.com/track/473FchgGiaKD5CsL7SOhJJ"
     },
     {
       "added_at": "2026-04-13 13:45:23",
@@ -1483,22 +1487,6 @@
     {
       "added_at": "2026-04-13 13:45:23",
       "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "ATARI",
-      "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
-    },
-    {
-      "added_at": "2026-04-13 13:45:23",
-      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -1511,6 +1499,22 @@
       "duration_ms": 191863,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "added_at": "2026-04-13 13:45:23",
+      "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
     },
     {
       "added_at": "2026-04-13 13:45:23",
@@ -1563,22 +1567,6 @@
     {
       "added_at": "2026-04-13 13:45:23",
       "album": {
-        "name": "1TRAGO",
-        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "1TRAGO",
-      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
-    },
-    {
-      "added_at": "2026-04-13 13:45:23",
-      "album": {
         "name": "Quien Como T\u00fa",
         "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
       },
@@ -1591,6 +1579,22 @@
       "duration_ms": 211000,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
+    },
+    {
+      "added_at": "2026-04-13 13:45:23",
+      "album": {
+        "name": "1TRAGO",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "1TRAGO",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
       "added_at": "2026-04-13 13:45:23",
@@ -1683,22 +1687,6 @@
     {
       "added_at": "2026-04-13 13:45:23",
       "album": {
-        "name": "O\u00eddos Sordos",
-        "url": "https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 214831,
-      "name": "O\u00eddos Sordos",
-      "url": "https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C"
-    },
-    {
-      "added_at": "2026-04-13 13:45:23",
-      "album": {
         "name": "Mar Adentro",
         "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
@@ -1715,18 +1703,34 @@
     {
       "added_at": "2026-04-13 13:45:23",
       "album": {
-        "name": "Suiza",
-        "url": "https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA"
+        "name": "O\u00eddos Sordos",
+        "url": "https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 140342,
-      "name": "Suiza",
-      "url": "https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju"
+      "duration_ms": 214831,
+      "name": "O\u00eddos Sordos",
+      "url": "https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C"
+    },
+    {
+      "added_at": "2026-04-13 13:45:23",
+      "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "PORQUE SOY ABEJA REINA",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     }
   ],
   "unique_name": "Women of Latin",

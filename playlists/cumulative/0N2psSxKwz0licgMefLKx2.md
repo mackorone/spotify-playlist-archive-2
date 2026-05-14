@@ -2,9 +2,9 @@
 
 ### [2026 COUNTRY BANGERS 🤠🔥](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kacey Musgraves
+> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Shania Twain
 
-432 songs - 23 hr 33 min
+433 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 | 2023-12-15 | 2024-10-19 |
 | [Dirt Cheap](https://open.spotify.com/track/0tEugNCWzzwp1VeqzpKLsB) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Dirt Cheap](https://open.spotify.com/album/3gIIKzH3rsmUgiwzoQFhpP) | 2:48 | 2023-11-03 | 2024-03-09 |
 | [Dirt Roads And Jesus](https://open.spotify.com/track/0rAsn40XCigrz7XZNxV2pr) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 3:10 | 2023-11-03 | 2024-03-09 |
+| [Dirty Rosie](https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Dirty Rosie](https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb) | 2:46 | 2026-05-13 |  |
 | [Don't Take The Girl](https://open.spotify.com/track/1MgF4Za06e1KQxzCYqGChf) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 4:20 | 2023-11-03 | 2024-03-02 |
 | [Don't We](https://open.spotify.com/track/45UDzIWgqj5hgQKXLlfdp7) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF) | 3:11 | 2026-05-03 |  |
 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 | 2024-09-10 |  |
@@ -135,7 +136,7 @@
 | [Gatlinburg](https://open.spotify.com/track/1tTU4d2Ke6JaGMZcrIjeBs) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:46 | 2024-06-21 | 2024-08-25 |
 | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 | 2024-12-06 | 2025-04-12 |
 | [Get The Hell Out Of This Town](https://open.spotify.com/track/3wk3qPlDWa8gYNEtqPeosg) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Get The Hell Out Of This Town](https://open.spotify.com/album/5niesz0tsaHb9YIaJs6Lv3) | 3:01 | 2025-01-31 | 2025-03-01 |
-| [Gettin' Gone \(feat\. Snoop Dogg\)](https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Gettin' Gone](https://open.spotify.com/album/0TRpphCGSFTnRlByhoQ40h) | 3:43 | 2025-04-11 |  |
+| [Gettin' Gone \(feat\. Snoop Dogg\)](https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Gettin' Gone](https://open.spotify.com/album/0TRpphCGSFTnRlByhoQ40h) | 3:43 | 2025-04-11 | 2026-05-14 |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-11-03 | 2024-01-27 |
 | [Gin & Juice \- HARDY’s Version](https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Gin & Juice \(HARDY’s Version\)](https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9) | 4:00 | 2024-04-19 | 2024-08-17 |
 | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/track/0R0YOsO3yxQuWkVPwz1Wd8) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW), [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [girls at the bar \(ft\. Alli Walker\)](https://open.spotify.com/album/0stqXK145N4g9pdxrOiUyx) | 3:33 | 2024-01-26 | 2024-06-02 |

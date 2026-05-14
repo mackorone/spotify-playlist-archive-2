@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🕊️ featuring nimino
 
-1,405 songs - 3 day 4 hr 13 min
+1,406 songs - 3 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,7 @@
 | [Freedom](https://open.spotify.com/track/6x5OvGcJW0wE8tm3zFxPH8) | [Synergy](https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Freedom](https://open.spotify.com/album/6gOc6YOCvp0WyoGXbCDXa2) | 4:13 | 2023-07-21 | 2023-12-14 |
 | [frenemy \- clear eyes Remix](https://open.spotify.com/track/2duNaM5UOAFbkSYhHKcTjx) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE), [clear eyes](https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr) | [frenemy \(with friends\)](https://open.spotify.com/album/1EzVzKIej6xbASVOvFsQFW) | 2:25 | 2023-06-23 | 2023-07-08 |
 | [frog](https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5) | [monica.com](https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe) | [turbine / frog](https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz) | 2:34 | 2026-05-08 |  |
-| [From Now](https://open.spotify.com/track/0DM3lSIBNK4ydX6jId7XbC) | [Ale Rossi](https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [From Now](https://open.spotify.com/album/7yp2yyMXwUVCl2933mHBRp) | 2:52 | 2026-01-23 |  |
+| [From Now](https://open.spotify.com/track/0DM3lSIBNK4ydX6jId7XbC) | [Ale Rossi](https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [From Now](https://open.spotify.com/album/7yp2yyMXwUVCl2933mHBRp) | 2:52 | 2026-01-23 | 2026-05-14 |
 | [From the Start](https://open.spotify.com/track/1KumJF2emyC3nHFAFPtiAS) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF) | [From the Start](https://open.spotify.com/album/3dkTtMkCWRhYSTHJr0nnug) | 3:19 | 2022-03-11 | 2022-07-29 |
 | [Frontier](https://open.spotify.com/track/6yLEplXAX0k1mbqVAeNt9Z) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O), [B\-Dos](https://open.spotify.com/artist/78XmtRqWV7RVWeYacvLJVx) | [Last Chance At Life](https://open.spotify.com/album/7zLl6HZSKOUCqvVMVwvVwb) | 3:07 | 2021-08-06 | 2022-07-28 |
 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 | 2025-05-15 | 2025-12-08 |
@@ -814,6 +814,7 @@
 | [Myriad \(feat\. Bijou Violet\)](https://open.spotify.com/track/1VikfA9k0xSYV770D44jAF) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Bijou Violet](https://open.spotify.com/artist/3UAijGs9SE1Da98rc7IcwV) | [Dawn](https://open.spotify.com/album/6Vw0bjmeyU6gG2k5Oa8wd1) | 3:23 | 2022-02-25 | 2022-07-29 |
 | [Narrow](https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Narrow](https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R) | 3:36 | 2022-01-26 | 2023-03-22 |
 | [need that](https://open.spotify.com/track/1ZGpwuim0mPENX0yg1Q4cp) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [need that](https://open.spotify.com/album/5ZA3XQIaIDVuE9SzAhqE1R) | 2:45 | 2023-11-09 | 2023-11-18 |
+| [NEED U](https://open.spotify.com/track/3X8N82pF8LlB0mMuwn4so8) | [TACHIAN](https://open.spotify.com/artist/5nmUsvbk7aA1zb0gxD9nG4) | [NEED U](https://open.spotify.com/album/3ypwm1CP5knsBg0c4xnFjS) | 3:19 | 2026-05-14 |  |
 | [Need U \(feat\. Madishu\)](https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [Need U \(feat\. Madishu\)](https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty) | 3:26 | 2023-03-03 | 2023-09-16 |
 | [need2know](https://open.spotify.com/track/64OfsokBDQLKONzokhUh1h) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [need2know](https://open.spotify.com/album/62woKz3YaWjZi1nTVc2cRu) | 3:48 | 2025-10-10 | 2025-11-22 |
 | [Needle On The Record \- 4am Mix](https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record \(4am Mix\)](https://open.spotify.com/album/6Vwh7m7Dc6c2ouZgjBLqZW) | 2:58 | 2024-01-26 | 2024-02-24 |

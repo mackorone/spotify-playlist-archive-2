@@ -1,13 +1,29 @@
 {
-  "description": "The biggest Country hits of the year! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kacey Musgraves",
-  "num_followers": 11202,
+  "description": "The biggest Country hits of the year! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Shania Twain",
+  "num_followers": 11201,
   "original_name": "2026 COUNTRY BANGERS \ud83e\udd20\ud83d\udd25",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAmzI8TlJy/6jzhOUnr/DFnPcDarEZ+",
+  "snapshot_id": "AAAm0DVA1LnstHJDzP962YSZ61k3UIJi",
   "tracks": [
+    {
+      "added_at": "2026-05-13 19:03:55",
+      "album": {
+        "name": "Dirty Rosie",
+        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 166792,
+      "name": "Dirty Rosie",
+      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
+    },
     {
       "added_at": "2026-05-03 23:12:45",
       "album": {
@@ -1331,26 +1347,6 @@
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
-    },
-    {
-      "added_at": "2026-05-03 23:12:45",
-      "album": {
-        "name": "Gettin' Gone",
-        "url": "https://open.spotify.com/album/0TRpphCGSFTnRlByhoQ40h"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Gettin' Gone (feat. Snoop Dogg)",
-      "url": "https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE"
     },
     {
       "added_at": "2026-05-03 23:12:45",

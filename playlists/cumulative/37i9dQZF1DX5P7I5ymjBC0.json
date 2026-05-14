@@ -2465,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Naqsh E Qadam",
+        "url": "https://open.spotify.com/album/4ueWGQlq2eXmND618kCy50"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295590,
+      "name": "Naqsh E Qadam",
+      "url": "https://open.spotify.com/track/4Y92mI2Ad2aNMFxX0Qa96Z"
+    },
+    {
+      "album": {
         "name": "Songs Of The River - Ganga",
         "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
       },
@@ -4172,7 +4190,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 214640,
       "name": "We Are One (Raghupati Raghava)",
       "url": "https://open.spotify.com/track/0fE8GmOwbZXl6s6jH0W2TA"

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,209 songs - 5 day 10 hr 40 min
+2,210 songs - 5 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2108,6 +2108,7 @@
 | [What's Mines is Yours](https://open.spotify.com/track/0aFv3K0FqSpNi3D4ZatouM) | [2wIIn Kingz](https://open.spotify.com/artist/5tLea1GcVfYLYs0Ek6gTQm), [DaveOsBeatz](https://open.spotify.com/artist/3uo58q7ISjU2TlleC3rNqW) | [What's Mines is Yours](https://open.spotify.com/album/1PEusWoInGoHlZqbooA2po) | 3:06 | 2025-10-07 |  |
 | [When I was young](https://open.spotify.com/track/35riJwN8NFwOjB8Uagy0mr) | [Alex Boot](https://open.spotify.com/artist/70vnFprt4or1lsUpy7I2AL) | [When I was young](https://open.spotify.com/album/5fYmjIJRbJLUNmwlOZZjev) | 3:40 | 2025-11-14 |  |
 | [When The Silence Breaks](https://open.spotify.com/track/6ye1n2cRLhITHu5oI49aon) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [When The Silence Breaks](https://open.spotify.com/album/7z8pnATQNsRzemYcrpoWbD) | 3:38 | 2025-06-21 |  |
+| [When The Tornado Comes](https://open.spotify.com/track/7394SpkcD7WUtx3OWis2YV) | [Adam Aronson](https://open.spotify.com/artist/5lrLb0jXN8RE9HMFLtnN9X) | [When The Tornado Comes](https://open.spotify.com/album/7ncobca1PIxSqABQGQEP4Z) | 3:10 | 2026-05-13 |  |
 | [Where Do I Start](https://open.spotify.com/track/5tlgrgkB96Smw5Ql8kw2jR) | [Rocky Neal](https://open.spotify.com/artist/0MP58FIbi8HPoGK6POckl6) | [Where Do I Start](https://open.spotify.com/album/6IX0njrofQ1mhfVT6ZnRdt) | 1:50 | 2025-10-07 |  |
 | [Where Is the Light](https://open.spotify.com/track/2SgVaHn2fQeU0ZgowXnFOI) | [Creation Rockers](https://open.spotify.com/artist/16KpRRvWm3CeTm5myGSQbw) | [Let's Make Waves](https://open.spotify.com/album/78qlBiCnNPt9mZrvNTtJBT) | 3:24 | 2024-05-01 |  |
 | [Where Is the Love](https://open.spotify.com/track/0dkn8wqB6SH0m8vE5ldOXQ) | [Shaky Norman](https://open.spotify.com/artist/0RiPLgdovCJSQFKpBPz6QF), [Clement Roots](https://open.spotify.com/artist/0QPuRiQEXdhemNxYBSfGhg) | [Where Is the Love](https://open.spotify.com/album/6kDSUFCwsMhHW8OPdX7DPg) | 5:51 | 2024-03-23 |  |

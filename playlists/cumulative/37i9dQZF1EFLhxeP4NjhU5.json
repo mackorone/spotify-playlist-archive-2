@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170713,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
+    },
+    {
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/4e3sDmUtcERCPW565nBhwt"
       },
@@ -1062,6 +1080,24 @@
       "duration_ms": 233400,
       "name": "Coraz\u00f3n De Metal",
       "url": "https://open.spotify.com/track/0jpOYcaDlWUD1c4IlI2DJX"
+    },
+    {
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141862,
+      "name": "COSMETICOS",
+      "url": "https://open.spotify.com/track/139mO3ryLnLwrO5hQMgWqM"
     },
     {
       "album": {
@@ -3118,10 +3154,44 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
+    },
+    {
+      "album": {
+        "name": "No Te Quieren Conmigo (Remix) (Gaby Music, Anuel AA, Luar LA L)",
+        "url": "https://open.spotify.com/album/1x93pMZOGUQpYudoU2h40Z"
+      },
+      "artists": [
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328226,
+      "name": "No Te Quieren Conmigo - Remix",
+      "url": "https://open.spotify.com/track/3XhOu0IolGPGcz6VbxEQSk"
     },
     {
       "album": {
@@ -3556,7 +3626,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 217493,
       "name": "Prende en Fuego",
       "url": "https://open.spotify.com/track/7jHjBBlh1bvBsiAPdCliaS"

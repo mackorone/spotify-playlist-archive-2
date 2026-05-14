@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 92158,
+  "num_followers": 92195,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAADddI6ofeqiAkK6gfJNOdWn",
+  "snapshot_id": "agJtgAAAAACe0QlWxcAStdxKnIG994it",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 198211,
+      "name": "+ Perra + Bitch",
+      "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resistir\u00e9",
         "url": "https://open.spotify.com/album/5xl9aTPziZye5Jy5fGsyPh"
       },
@@ -231,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 198211,
-      "name": "+ Perra + Bitch",
-      "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mentiras: La Serie (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "\u00c1ngel - Once in Your Lifetime",
+      "url": "https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Detector De Metal",
         "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 250866,
       "name": "Muriendo Lento (feat. Belinda)",
       "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "\u00c1ngel - Once in Your Lifetime",
-      "url": "https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G"
     },
     {
       "added_at": null,
@@ -391,26 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The King Is Back",
-        "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
       },
       "artists": [
         {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
         }
       ],
-      "duration_ms": 185480,
-      "name": "Si No Te Quisiera",
-      "url": "https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz"
+      "duration_ms": 204414,
+      "name": "La Ni\u00f1a de la Escuela",
+      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
       "added_at": null,
@@ -447,26 +447,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+        "name": "The King Is Back",
+        "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
         }
       ],
-      "duration_ms": 204414,
-      "name": "La Ni\u00f1a de la Escuela",
-      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
+      "duration_ms": 185480,
+      "name": "Si No Te Quisiera",
+      "url": "https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz"
     },
     {
       "added_at": null,
@@ -999,22 +999,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Encantar\u00eda",
-        "url": "https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw"
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
       },
       "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 177321,
-      "name": "Me Encantar\u00eda",
-      "url": "https://open.spotify.com/track/1APLK79zZo67ny370NLO4F"
+      "duration_ms": 206226,
+      "name": "Sal De Mi Piel",
+      "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
     },
     {
       "added_at": null,
@@ -1035,18 +1031,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+        "name": "Me Encantar\u00eda",
+        "url": "https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw"
       },
       "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 206226,
-      "name": "Sal De Mi Piel",
-      "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
+      "duration_ms": 177321,
+      "name": "Me Encantar\u00eda",
+      "url": "https://open.spotify.com/track/1APLK79zZo67ny370NLO4F"
     },
     {
       "added_at": null,

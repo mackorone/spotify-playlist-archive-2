@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,593 likes - 995 songs - 2 day 14 hr 43 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,593 likes - 1,001 songs - 2 day 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1003,5 +1003,11 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 993 | [Balorda nostalgia](https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Balorda nostalgia](https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV) | 3:15 |
 | 994 | [Höhlämänschemeidli](https://open.spotify.com/track/24FolRg7c6nItqSy4jWflO) | [Sir Donkey's Revenge](https://open.spotify.com/artist/4nm1bk6VxOcLoTnXurtnF7) | [Beyswind](https://open.spotify.com/album/1T6HXNWxc0tAHBT1OFICDV) | 4:37 |
 | 995 | [Orchestra of Mismanagement](https://open.spotify.com/track/3HDuhlbwyu1nB6h1sxsBLY) | [Pair O'Dee's](https://open.spotify.com/artist/4R6q4HRD8s62hfWECwPKLG) | [Orchestra of Mismanagement](https://open.spotify.com/album/28etgfNaOSyqKsIpuY41gl) | 3:49 |
+| 996 | [I Believe In A Thing Called Love](https://open.spotify.com/track/4MIfPxadLGN52O6PZmGWsg) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [I Believe In A Thing Called Love](https://open.spotify.com/album/0J2tyt22Agtt6i4IgZnkTC) | 3:25 |
+| 997 | [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 |
+| 998 | [Noche y piramide](https://open.spotify.com/track/6Hhq8JD7amxvPnUYuDEnCD) | [Optional Ganesh](https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5) | [Popurrí](https://open.spotify.com/album/46ma0E1qBPHpJeiRHelay1) | 3:44 |
+| 999 | [Rip The Flesh \(Of Your Bones\)](https://open.spotify.com/track/5sFtTVVYE7AqkoCA9w0bDu) | [S.H.O.U.T](https://open.spotify.com/artist/5Gn7doGZ1cPCZuIuzVU6RD) | [Rip The Flesh \(Of Your Bones\)](https://open.spotify.com/album/5oVbmZthg9Yh1nfSis7Tf3) | 4:00 |
+| 1000 | [Antonia](https://open.spotify.com/track/573f55AEzc0NcoRcHXlT41) | [Garage 21](https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j) | [Y ahora que vas a hacer?](https://open.spotify.com/album/1oZRBpopkLT3feW9afDHnn) | 3:02 |
+| 1001 | [Noir](https://open.spotify.com/track/3Z8OSx0kJcitYmfFqNszDy) | [LehtMoJoe](https://open.spotify.com/artist/5lgsUNLe65iEVXFzvreh0J) | [Noir](https://open.spotify.com/album/0ZW75tnVFB8wWRvzOSqdM4) | 3:08 |
 
-Snapshot ID: `AAAEBsCw/fS9C/uLT+xE8msGOV4GJjsF`
+Snapshot ID: `AAAEDbryKzf2I3DYHQDpSDuamDE2gzCu`

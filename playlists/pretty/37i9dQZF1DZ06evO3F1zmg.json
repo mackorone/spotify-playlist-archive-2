@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42655,
+  "num_followers": 42654,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAD8HgWI+MayBR3RGwz2QK82",
+  "snapshot_id": "agJtgAAAAAA0fM0Mkvv3WG70FdbxbBrD",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE SINGLE LIFE",
+        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 134760,
+      "name": "BO$$ CHICK",
+      "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty Summer Playlist: Season 1",
         "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
       },
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE SINGLE LIFE",
-        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
+        "name": "Is It The Way",
+        "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 134760,
-      "name": "BO$$ CHICK",
-      "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
+      "duration_ms": 152973,
+      "name": "Is It The Way",
+      "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
       "duration_ms": 191254,
       "name": "You Come First (feat. Saweetie)",
       "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Is It The Way",
-        "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Is It The Way",
-      "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "QUAVO HUNCHO",
+        "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "GIVE IT TO EM (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Immaculate",
         "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 154400,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "QUAVO HUNCHO",
-        "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "GIVE IT TO EM (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Yudino\]\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[ischi\]\. Artwork: Isu Kim.
 
-4,073 songs - 9 day 21 hr 56 min
+4,077 songs - 9 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [annie](https://open.spotify.com/track/1HXhL2oSYMlVWQaQoQH9AD) | [Namcai](https://open.spotify.com/artist/3AMGlo1n6WwOV1SdGGXuZW) | [annie](https://open.spotify.com/album/5H70tYjUP2ZJiGfXrPNS2G) | 2:25 | 2023-02-23 | 2023-03-03 |
 | [Annoying](https://open.spotify.com/track/431aCr9EMJcc19nyiGbsL1) | [SYLAS](https://open.spotify.com/artist/320QZ0LekNDyBEB6Fv2ftc) | [Annoying](https://open.spotify.com/album/6kPn3PbInXFoYAzKGEurSz) | 4:00 | 2023-05-18 | 2023-06-09 |
 | [ANO](https://open.spotify.com/track/1rrF5t2HbS3OBmGwCIW5Ez) | [emogen](https://open.spotify.com/artist/4FqwPuXjiSO8LPdikFoC7f) | [ANO](https://open.spotify.com/album/2JcgS4tbRnw3ng8CTHEYbD) | 4:15 | 2022-06-16 | 2022-07-22 |
+| [Ano](https://open.spotify.com/track/6ive27zMCIHY2tFLa74fz2) | [MARY CHEN](https://open.spotify.com/artist/08BrTT9UoIbzvAAzaV7y1a) | [Ano](https://open.spotify.com/album/1tS6IeQYqvHDZS2RSvP65I) | 4:46 | 2026-05-13 |  |
 | [Ano Ba](https://open.spotify.com/track/3WmXCvmZclxpzPwpl8HkRS) | [Yukimane](https://open.spotify.com/artist/090uke8fIXHgejIKAxh21p) | [Ano Ba](https://open.spotify.com/album/1ijVFQQtuvywPgiQf5RjKD) | 3:13 | 2026-01-22 | 2026-03-13 |
 | [Ano Ba Talaga](https://open.spotify.com/track/1pJUjRMS1mFhv4jZPKaIdO) | [Gloryen](https://open.spotify.com/artist/1ADf5He5TcWVOU2NLIuBbU) | [Ano Ba Talaga](https://open.spotify.com/album/73AGuism5UCHHExZlpUHeB) | 2:22 | 2025-09-18 | 2025-12-04 |
 | [Ano Ba Talaga](https://open.spotify.com/track/2HEemBB75MEuLqBdr5Dfwq) | [Lorenz](https://open.spotify.com/artist/0fZcZCndBWE3BfnL6ivACA) | [Ano Ba Talaga](https://open.spotify.com/album/4f1ARYbxxP5IQPWfUMGMNz) | 3:11 | 2023-09-07 | 2023-09-29 |
@@ -755,6 +756,7 @@
 | [Dagat](https://open.spotify.com/track/3X8sudUxV1AJjy4FJLEEPd) | [Dominsuu](https://open.spotify.com/artist/2u913cPvHStJrhCDTLckhU) | [Dagat](https://open.spotify.com/album/2VQsNmeT8yr5mN56jJKz6y) | 3:17 | 2023-04-06 | 2023-04-21 |
 | [Dagat](https://open.spotify.com/track/5cr6wvnC69wJ0WeQ1AcNXa) | [Escala](https://open.spotify.com/artist/1pTphIoYLBsxWONo4CI6vP) | [Dagat](https://open.spotify.com/album/0Wo95qln2IcFLYxT1F2IVS) | 3:33 | 2024-05-02 | 2024-06-14 |
 | [Dahan Dahan](https://open.spotify.com/track/2adpztO2LPvfxEn5tBXBBT) | [Ralf Aserit](https://open.spotify.com/artist/0X8M1Mu15uBhrd0HtN2aTg) | [Dahan Dahan](https://open.spotify.com/album/1QzPaPlW0CxxO2caMhoZaD) | 3:22 | 2025-10-30 | 2025-12-04 |
+| [dahan\-dahan](https://open.spotify.com/track/62im1CQT3L5BVUM65Apdvy) | [ischi](https://open.spotify.com/artist/5cdH6V4FS28zQgu4nyvaja) | [dahan\-dahan](https://open.spotify.com/album/5fJLsIUlS9ALsds3xIlrtd) | 3:26 | 2026-05-13 |  |
 | [Dahan\-Dahan](https://open.spotify.com/track/23kuK1s2T66a6HtCGPve7z) | [James Lagadia](https://open.spotify.com/artist/26bAEtHq9w315UUfDfsK0H) | [Dahan\-Dahan](https://open.spotify.com/album/54OANaUxHWDsDQZvO8d7m7) | 4:06 | 2026-03-12 | 2026-05-07 |
 | [Dahan\-Dahan](https://open.spotify.com/track/1qw0Gi0c5UKqVRjNj3121i) | [Mizael](https://open.spotify.com/artist/2QkiE8Wi27b66Q36nXVvrl) | [Dahan\-Dahan](https://open.spotify.com/album/0XDqey9KHBKrnrP5ziVXPh) | 3:51 | 2023-01-26 | 2023-02-10 |
 | [Dahan\-Dahan](https://open.spotify.com/track/3o2VURIHXcdzFgdG3Reuys) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Dahan\-Dahan](https://open.spotify.com/album/7oHQ07TuLMOunU5RUoiEP3) | 3:50 | 2023-06-08 | 2024-01-12 |
@@ -3378,6 +3380,7 @@
 | [songs from the 90s](https://open.spotify.com/track/76BWqacDCHcgH7t9EHQYUe) | [John Winters](https://open.spotify.com/artist/4AGLG8UZxXDomdJtosf0am) | [songs from the 90s](https://open.spotify.com/album/6gO0bGksxsRTR2ST7RA29y) | 2:21 | 2023-07-06 | 2023-07-21 |
 | [Soredemo \- Kahit Na](https://open.spotify.com/track/3o4MzauCVr2hLl63lnVMnU) | [SKYGARDEN](https://open.spotify.com/artist/6bd1xlTpnocDeNG9QHJTbe), [Jillian Ward](https://open.spotify.com/artist/26dzCeIvzEBis2thw0Nncq) | [Soredemo \(Kahit Na\)](https://open.spotify.com/album/43ogSjllDBSQftSBYhCSpG) | 5:29 | 2024-09-19 | 2024-10-11 |
 | [Sorrow \( I just wanna hold on \)](https://open.spotify.com/track/10JXn1ZWLHpDPlAdW8OcoA) | [LATESNACK](https://open.spotify.com/artist/48LFwy3xEEUhlwv6rcomRe) | [Sorrow \( I just wanna hold on \)](https://open.spotify.com/album/0D1sA5MRFNmbZpwnAiEHoK) | 2:36 | 2023-05-18 | 2023-06-02 |
+| [Sorry](https://open.spotify.com/track/21m41twE6QsT6LsTtBJGb2) | [Petsanity](https://open.spotify.com/artist/1OVaCQucAYwylVm6HxeqXm) | [Sorry](https://open.spotify.com/album/59pHzWgQohtTwXt2meNzaZ) | 3:25 | 2026-05-13 |  |
 | [SOS](https://open.spotify.com/track/7oysfQr4Y8x0kJAwynRVPf) | [Vince Noriega](https://open.spotify.com/artist/1dUYa3FKkH6WMCTSJJnl57) | [SOS](https://open.spotify.com/album/3T9FeJKBGDOAFz68O9qEzz) | 2:41 | 2025-10-31 | 2025-12-04 |
 | [Sosa](https://open.spotify.com/track/4G68WvEP9mSXvcAOOsJPYf) | [BORGYNISM](https://open.spotify.com/artist/2XVtrErxJnfwIJRRKlxjxw), [YOUNG LORD WAVY](https://open.spotify.com/artist/7p05MFiCtMBrfmjxuDH22h), [DJ DXXXRKTRXXXP](https://open.spotify.com/artist/1LBGgNjyJBIUPuz81ozzq4) | [Sosa](https://open.spotify.com/album/26RNiK562szrMbDagdVx6W) | 2:13 | 2025-09-04 | 2025-11-21 |
 | [Soul](https://open.spotify.com/track/3jaQDPoc0XRiYho0h3qzg5) | [Seconds After Sunset](https://open.spotify.com/artist/6zO4hMiJBJloY1Bbh9Ha2f) | [Soul](https://open.spotify.com/album/07p8RHOmhldaVDrvIUEP2J) | 4:11 | 2023-02-23 | 2024-01-12 |
@@ -3820,6 +3823,7 @@
 | [Uuwian](https://open.spotify.com/track/7oaVM3t9pA6zOhPz5maU1e) | [Joshua Feliciano](https://open.spotify.com/artist/7KX5v2c2WjRTjHce9xLQSL) | [Uuwian](https://open.spotify.com/album/6aTP6pgyReGkCzedu8cX3m) | 3:49 | 2023-03-30 | 2023-04-21 |
 | [UWI SAYO](https://open.spotify.com/track/4ITsML49j538to9Wmo7TF5) | [Marco BMG](https://open.spotify.com/artist/46wFQ13fQTY41FSRJS2m1u) | [4 MY NIGHTVIBERZ](https://open.spotify.com/album/70XJEgCi60DPHOw1PrKrxr) | 4:37 | 2023-04-13 | 2023-04-28 |
 | [UWU](https://open.spotify.com/track/2Zib8gVapc6UJWCksjN4MZ) | [Sultanlobo](https://open.spotify.com/artist/7yq2o3KcUiUEz49NND7t3b) | [UWU](https://open.spotify.com/album/7oQVuv0VJi1WUjRvsBuT6m) | 2:30 | 2023-09-07 | 2023-09-29 |
+| [uy miss u!](https://open.spotify.com/track/67xPDZRf4HwVB9kFt5ZkQ9) | [Loenna](https://open.spotify.com/artist/03ksnHGHCpJ8J5wodvsTFI) | [uy miss u!](https://open.spotify.com/album/19FCValCx82v8JqKxSaxGI) | 3:58 | 2026-05-13 |  |
 | [Vacation](https://open.spotify.com/track/6HNlO0TTvhlHYF2AYjezB1) | [Seedy and the Years](https://open.spotify.com/artist/5LYwhbctqV0n2qSpWvQdrh) | [Vacation](https://open.spotify.com/album/224hiIzuk4Ay1nCXAxKC1g) | 3:08 | 2024-05-02 | 2024-06-07 |
 | [Valentina](https://open.spotify.com/track/0EWtyIvQMURWPOXEu3fGNE) | [Aviators](https://open.spotify.com/artist/2vmvpWETFkoV9Xy5hqIhjE) | [Valentina](https://open.spotify.com/album/4EUwP3FQZHOIPvgJJJlNnB) | 3:48 | 2025-02-14 | 2025-03-28 |
 | [Vanilla Bean](https://open.spotify.com/track/0kyvcMCfsaNAAQApD4qN6B) | [Peyton](https://open.spotify.com/artist/6XrRDZ1bxk8neCrBcJq87Q) | [Vanilla Bean](https://open.spotify.com/album/3WDpNCHGH6lDfntfLVvXk3) | 2:28 | 2024-03-21 | 2024-05-10 |

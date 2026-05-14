@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 547 songs - 1 day 9 hr 2 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 555 songs - 1 day 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -555,5 +555,13 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 545 | [Girl](https://open.spotify.com/track/1hVXKdgZSoZJrvCoJL3OeW) | [Clixé](https://open.spotify.com/artist/7afbJErY3XznRo0LOv1CIx) | [Girl](https://open.spotify.com/album/1zwTPOKt5DEom2E35RnOQK) | 2:01 |
 | 546 | [Got What You Wanted](https://open.spotify.com/track/3ror7WRrkgwHorcSy4n8v9) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Got What You Wanted](https://open.spotify.com/album/4EpAS3weiZ4RsVk4zqWC5b) | 2:42 |
 | 547 | [Bleeding out](https://open.spotify.com/track/2HqhuCXfwrdPo7AobkzsJx) | [Faiyaz and the Wasted Chances](https://open.spotify.com/artist/2q0ffFKV6xgukfE7HN3jMW) | [Bleeding out](https://open.spotify.com/album/23LMkImDL43YosQAjRPH5W) | 1:30 |
+| 548 | [The Walls Came Down](https://open.spotify.com/track/5ojcZeg9zb8SkOenNJ7dwn) | [The Call](https://open.spotify.com/artist/2bSugToVO8DavocRulW3Yj), [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [The Walls Came Down](https://open.spotify.com/album/10k9jaFnO75BbNh2eJll5p) | 3:53 |
+| 549 | [Public Memory \#1](https://open.spotify.com/track/3mkjcKOsD7hzLMmTiyKbyK) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Public Memory \#1](https://open.spotify.com/album/7I88oAjzXkX8DqRl23Dq4l) | 3:31 |
+| 550 | [Teresa](https://open.spotify.com/track/5sPIvKwhJXjk3lWhEGNmHK) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 4:11 |
+| 551 | [My Hell](https://open.spotify.com/track/4H7pjUWXLJY3zOKbRmrhyO) | [Deully](https://open.spotify.com/artist/1tttcmDgOPmadXhAVQZLyr) | [My Hell](https://open.spotify.com/album/7kNxkuh95c5fh2GIqHCc3T) | 4:45 |
+| 552 | [Sins](https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Sins](https://open.spotify.com/album/7upoZURMk4ZcAlulV9Rluu) | 3:28 |
+| 553 | [Away From Here](https://open.spotify.com/track/6PAGBFXRn4Z0pYaAvCzJS6) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Away From Here](https://open.spotify.com/album/6C3Ap9K3wNwKEN61htDJGo) | 2:56 |
+| 554 | [Apple Rose](https://open.spotify.com/track/6XBVq6IszaoiaCSyn0Xu3T) | [Still Crash](https://open.spotify.com/artist/4nxuNWss1Y7gLSIn4I2mNu) | [Apple Rose](https://open.spotify.com/album/2nmHojdDokW6yJmmthKqya) | 4:29 |
+| 555 | [Till i die](https://open.spotify.com/track/6r88GA7ct5UQQNAw7Cpu1X) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [Till i die](https://open.spotify.com/album/2VLenjFE6X34XheGOSKfHo) | 2:16 |
 
-Snapshot ID: `AAACuNK15mMw7tJ9aBNi6ltGJE2UY9eC`
+Snapshot ID: `AAACwGM1K06g2RXUXkkXadzR4OvuKxMJ`

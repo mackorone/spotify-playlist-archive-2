@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Martyna Baranowska",
-  "num_followers": 25774,
+  "num_followers": 25771,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
+        "name": "What's the Point!",
+        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 163754,
+      "name": "What's the Point!",
+      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
         "name": "Sensitive to the room",
         "url": "https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 172852,
       "name": "Cztery pory roku",
       "url": "https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
-        "name": "What's the Point!",
-        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 163754,
-      "name": "What's the Point!",
-      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Dom",
-        "url": "https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr"
-      },
-      "artists": [
-        {
-          "name": "Krystian Embradora",
-          "url": "https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z"
-        }
-      ],
-      "duration_ms": 154368,
-      "name": "Dom",
-      "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "Odkochaj",
         "url": "https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 163200,
       "name": "Odkochaj",
       "url": "https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "Dom",
+        "url": "https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr"
+      },
+      "artists": [
+        {
+          "name": "Krystian Embradora",
+          "url": "https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z"
+        }
+      ],
+      "duration_ms": 154368,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -471,6 +471,22 @@
       "duration_ms": 164949,
       "name": "Si\u00f3dma Sosna",
       "url": "https://open.spotify.com/track/4bLfMCa2nYQnWOeMcqLiY9"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "ASFALT",
+        "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "duration_ms": 153280,
+      "name": "ASFALT",
+      "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -503,22 +519,6 @@
       "duration_ms": 157607,
       "name": "Szeroko\u015bci!",
       "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
-        "name": "ASFALT",
-        "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
-      },
-      "artists": [
-        {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
-        }
-      ],
-      "duration_ms": 153280,
-      "name": "ASFALT",
-      "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Egipt",
-        "url": "https://open.spotify.com/album/7omIQ3EMXxvYjlJUjcEQA6"
-      },
-      "artists": [
-        {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
-        }
-      ],
-      "duration_ms": 159790,
-      "name": "Egipt",
-      "url": "https://open.spotify.com/track/0wl9FVdAtGE5lgRLVZUpjd"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "cisza nocna",
         "url": "https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 182518,
       "name": "cisza nocna",
       "url": "https://open.spotify.com/track/6c6lldByHVVBfqha25sOor"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "Egipt",
+        "url": "https://open.spotify.com/album/7omIQ3EMXxvYjlJUjcEQA6"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "duration_ms": 159790,
+      "name": "Egipt",
+      "url": "https://open.spotify.com/track/0wl9FVdAtGE5lgRLVZUpjd"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -739,18 +739,18 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx"
+        "name": "STILL PRETTY WHEN I CRY",
+        "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
       },
       "artists": [
         {
-          "name": "ALICJA",
-          "url": "https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM"
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd"
+      "duration_ms": 159473,
+      "name": "STILL PRETTY WHEN I CRY",
+      "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "STILL PRETTY WHEN I CRY",
-        "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx"
       },
       "artists": [
         {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+          "name": "ALICJA",
+          "url": "https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM"
         }
       ],
-      "duration_ms": 159473,
-      "name": "STILL PRETTY WHEN I CRY",
-      "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
+      "duration_ms": 180480,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
+        "name": "PORTO",
+        "url": "https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn"
+      },
+      "artists": [
+        {
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+        }
+      ],
+      "duration_ms": 149011,
+      "name": "PORTO",
+      "url": "https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/3sPNRi6Ay5pXxTfAUEzQJC"
       },
@@ -1071,34 +1087,18 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "PORTO",
-        "url": "https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn"
+        "name": "Explozja",
+        "url": "https://open.spotify.com/album/54QrKE2qeUoQEpqZVRPzKv"
       },
       "artists": [
         {
-          "name": "Kuba Szmajkowsky",
-          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
         }
       ],
-      "duration_ms": 149011,
-      "name": "PORTO",
-      "url": "https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
-        "name": "\u017bURAWIE",
-        "url": "https://open.spotify.com/album/5HjIBIK0vlq42Yzc4Mzm3t"
-      },
-      "artists": [
-        {
-          "name": "Barnim",
-          "url": "https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "\u017bURAWIE",
-      "url": "https://open.spotify.com/track/1nT0822I7pQ2qISF80IWjo"
+      "duration_ms": 177777,
+      "name": "Explozja",
+      "url": "https://open.spotify.com/track/19jrg0zOmmSJcLUARHqF6x"
     }
   ],
   "unique_name": "up next",

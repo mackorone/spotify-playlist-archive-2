@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 11 hr 33 min
+212 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Arya](https://open.spotify.com/track/0BPLYT25SArsp2bswOHKjo) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/5DaFJffWkaDaDQbKJ1Zydi) | 2:42 | 2025-10-03 |  |
 | [BABIECA!](https://open.spotify.com/track/45VlOHY7pEd6IC3plYeKZ3) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:46 | 2025-12-17 |  |
 | [BAD HONEY](https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:36 | 2025-10-03 |  |
+| [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/0K02o2ZV5UCJbbCw67FtaY) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2026-05-13 |  |
 | [Bad News](https://open.spotify.com/track/2KsapxudOhJ8IFB5PcETp7) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 2:58 | 2025-10-03 |  |
 | [Be Careful With Me](https://open.spotify.com/track/4JOsabaJ1et99Ulb1E9GIE) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn) | 3:16 | 2025-10-03 |  |
 | [be mine this christmas](https://open.spotify.com/track/2TYcxKCale4adLTwDRKkmV) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:23 | 2025-10-03 |  |

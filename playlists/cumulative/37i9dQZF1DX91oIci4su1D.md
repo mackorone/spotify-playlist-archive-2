@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,274 songs - 3 day 4 hr 12 min
+1,275 songs - 3 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,6 +498,7 @@
 | [Heart Of Stone](https://open.spotify.com/track/7qt3LDpwGFYtkZyefJlwG6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Heart Of Stone](https://open.spotify.com/album/1n6TLLi7XO8LJ7hbRk7dDj) | 3:28 | 2024-09-06 | 2025-05-03 |
 | [Heart On The Line](https://open.spotify.com/track/4I0OrfavQmANTFNUKvjbZS) | [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf), [talkofthetown](https://open.spotify.com/artist/7yVhJ72pRD1ccDcIYyK02C) | [Heart On The Line](https://open.spotify.com/album/3ZvI4JBS12Mc6sfiyqvAj5) | 3:52 | 2025-08-15 | 2025-10-06 |
 | [Hearts Will Burn](https://open.spotify.com/track/66DY7zgkddhgjZ0LYGRrJu) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Hearts Will Burn](https://open.spotify.com/album/5MWISTULGZ0CxLZywvufNb) | 2:21 | 2022-02-18 | 2023-02-25 |
+| [Heaven](https://open.spotify.com/track/1KpWOjSqJMdXaEVh2rMwQl) | [Matty Ralph](https://open.spotify.com/artist/37HNoMIyEavGIJnIPCA6Kv), [JOKESONYOU](https://open.spotify.com/artist/2XqkFv7puGh2cP0azCZdoc) | [Heaven](https://open.spotify.com/album/3OKiUj9tN6ci7yF7iyOewl) | 2:32 | 2026-05-08 |  |
 | [Heavy](https://open.spotify.com/track/4W6PWngm3jVhWrnioWGAfk) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Heavy](https://open.spotify.com/album/12xzb1KS1xNGIoswTNCPDN) | 3:35 | 2023-03-31 | 2023-08-19 |
 | [Her Melodie \- Edit](https://open.spotify.com/track/0QtkgwXj1KZC3FZlsDgILh) | [Marc Van Linden](https://open.spotify.com/artist/2bnp0PzMRKZX5ZuPcgL0P9), [D\-Gor](https://open.spotify.com/artist/4QU6P9mdmVoPN9rP45llR1) | [Her Melodie](https://open.spotify.com/album/5N3CTxuoFlVowVzS7dlahO) | 3:19 | 2023-12-15 | 2025-05-17 |
 | [Here 4 U](https://open.spotify.com/track/5CW6pxSxI4DLSf6VgtluVA) | [Freak E Beatz](https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C) | [Here 4 U](https://open.spotify.com/album/744oSbNoEOUtFj6EijKxrC) | 3:41 | 2023-04-07 | 2023-06-03 |
@@ -818,7 +819,7 @@
 | [Orbit 37](https://open.spotify.com/track/40fFjxtsBoIdTEL71kbp39) | [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Orbit 37](https://open.spotify.com/album/1F6PBJ4VSUq4KqoQVjPppM) | 2:54 | 2022-05-27 | 2023-05-20 |
 | [Orbital](https://open.spotify.com/track/293aty9q7lfkX34uMS9m1J) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Orbital](https://open.spotify.com/album/2yLAOO3R8McWCjTDJYF12F) | 3:29 | 2024-07-12 | 2025-05-17 |
 | [Orbital](https://open.spotify.com/track/1YP0dnGSrwpvMF18ONgO4C) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Alessandra Roncone](https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p) | [Orbital](https://open.spotify.com/album/1y8lbuql4l668IMedS8EkX) | 5:16 | 2025-05-16 | 2026-02-10 |
-| [Origins](https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Origins / ARP](https://open.spotify.com/album/3OoQvRYpRLTCETcNGbydvw) | 3:32 | 2025-10-03 |  |
+| [Origins](https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Origins / ARP](https://open.spotify.com/album/3OoQvRYpRLTCETcNGbydvw) | 3:32 | 2025-10-03 | 2026-05-14 |
 | [Orion](https://open.spotify.com/track/4jUfgt75bm6jogy5iMLVEZ) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla), [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss) | [Orion](https://open.spotify.com/album/0bzJlohenSutVgiW39yXI1) | 3:15 | 2024-07-26 | 2024-10-26 |
 | [Orkaan](https://open.spotify.com/track/0VFjEgr9njZFDUqOYvW4lT) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Orkaan](https://open.spotify.com/album/66lxk1HRuQvpRsplqxZaOT) | 3:15 | 2023-05-19 | 2023-06-10 |
 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 | 2022-06-10 | 2022-07-16 |

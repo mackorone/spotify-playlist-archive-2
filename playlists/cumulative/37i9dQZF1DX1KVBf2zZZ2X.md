@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-350 songs - 16 hr 19 min
+351 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Forest Flow](https://open.spotify.com/track/1K7ZRpYQ6z4k3EVagWKQAg) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Forest Flow](https://open.spotify.com/album/1Q2BB7Sp2Fmlx7Vb0uWOfu) | 2:49 | 2025-06-11 |  |
 | [Forest Harmonies](https://open.spotify.com/track/5EGbkycj0Lblt69clO8vTM) | [Reitius Rex](https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd) | [Forest Harmonies](https://open.spotify.com/album/6obYCVTwZFsqvyxtNUqSy0) | 3:10 | 2025-06-11 |  |
 | [Forest Meditation](https://open.spotify.com/track/1k9IdKVscuUnbY1NDYdGId) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Forest Meditation](https://open.spotify.com/album/6QglUf9LlWfLggtxTEaiG0) | 2:57 | 2024-03-05 | 2025-06-12 |
+| [Forest Morning](https://open.spotify.com/track/15fQ0VWN2bXSJFUWgSyeUz) | [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:25 | 2026-04-17 |  |
 | [Forest Of The Mind](https://open.spotify.com/track/36o3ElEod9MG2laE3avJnu) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Forest Of The Mind](https://open.spotify.com/album/0jBlrZ2KNQ4MwJvEw46Tqy) | 3:54 | 2025-01-15 |  |
 | [Forest Pond](https://open.spotify.com/track/3yGEOh62paIxJCQHdzKM57) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Pond](https://open.spotify.com/album/1cZL0pIvI6Pbzg6cmbwCf6) | 2:56 | 2024-07-18 | 2026-04-01 |
 | [Forest Retreat](https://open.spotify.com/track/4hgmQr8jUSbcnuRVICCu5R) | [Rika Linn](https://open.spotify.com/artist/3fqx8RiPwj5t3AiBvNcbib) | [Forest Retreat](https://open.spotify.com/album/5455rZrk03dQkAsjToAgwY) | 3:40 | 2026-01-21 |  |
@@ -243,7 +244,7 @@
 | [Portobelloh](https://open.spotify.com/track/2SE0r08kOZJiIB2DwtDZX1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Portobelloh](https://open.spotify.com/album/6sQqMQqYtyXGBT7mJHW2M3) | 2:56 | 2025-09-24 |  |
 | [Preserve](https://open.spotify.com/track/6YhbiFMbQqR6gIxVAVmgVc) | [Rothko Field](https://open.spotify.com/artist/6nj5OIlIUCySoVkxI0Hkdi) | [Preserve](https://open.spotify.com/album/1hk3b0vL3gkBybeUvY8Sm0) | 3:46 | 2026-03-20 | 2026-03-23 |
 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 | 2023-03-03 | 2025-05-08 |
-| [Quiet Soul](https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Quiet Soul](https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz) | 3:18 | 2023-07-28 |  |
+| [Quiet Soul](https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Quiet Soul](https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz) | 3:18 | 2023-07-28 | 2026-05-14 |
 | [Raindrop Manor](https://open.spotify.com/track/3xFNORPASQf8H8UyDFUMWC) | [Tuiren](https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G) | [Raindrop Manor](https://open.spotify.com/album/4xARhHojltdgbg3F0Eb2zO) | 2:37 | 2025-12-03 |  |
 | [Rainy Day Alone](https://open.spotify.com/track/7sLGSLFtNwNKCCiv2QlvTc) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:15 | 2023-03-03 | 2024-03-02 |
 | [Rakapar](https://open.spotify.com/track/3gHOHwVZudqg5q3GEszdHL) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Rakapar](https://open.spotify.com/album/1cPajSjSWgSSApGAzREwb5) | 3:15 | 2024-11-22 | 2026-03-21 |

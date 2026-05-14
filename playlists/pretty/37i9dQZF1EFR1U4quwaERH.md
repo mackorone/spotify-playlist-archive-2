@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 184 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 39 | [Good Times \(feat\. Buddy Guy\)](https://open.spotify.com/track/5V2s4Y1IUdJSzvTUbR3K49) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Dancing Shadows](https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI) | 3:11 |
 | 40 | [That Ain't Gonna Work](https://open.spotify.com/track/5GMBBeXAaPginxJD3Xr6sV) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [That Ain't Gonna Work](https://open.spotify.com/album/3eMtCjoy2mC30MRLrwbMMg) | 3:08 |
 | 41 | [White Man](https://open.spotify.com/track/1GHANu5pFYD8jqFkKEZXW5) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 3:13 |
-| 42 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
-| 43 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 |
+| 42 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 |
+| 43 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
 | 44 | [Follows](https://open.spotify.com/track/2MGwAvO56lblxFlggZVd9x) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Grace](https://open.spotify.com/artist/4iLp5b76SpDZGgOjkH2eBB) | [Before We Go](https://open.spotify.com/album/41ZB4TvqplWsBpk4h3hf94) | 4:00 |
 | 45 | [Impala](https://open.spotify.com/track/1hSd9wVOZKN9bkctsRMSJM) | [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [APPETITE FOR DISASTER](https://open.spotify.com/album/2xKVOKhRSFgKTrwhTPGoZe) | 3:07 |
 | 46 | [Special](https://open.spotify.com/track/7fbTqRCqyNVguCbUDGUGzG) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL), [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [Special](https://open.spotify.com/album/1svkjtosqPMrU78xbCf0MM) | 3:38 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 89 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 90 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcRVHAAAAABQ4T3QcMM53DcfX3OrAPe5`
+Snapshot ID: `AcRavAAAAAD5SoCjWcMufuV/bdTa5gZH`

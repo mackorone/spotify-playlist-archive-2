@@ -4,7 +4,7 @@
 
 > 스포티파이 뮤직 에디터가 선정한 5월의 노래를 만나보세요.
 
-185 songs - 9 hr 57 min
+190 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,9 @@
 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 | 2026-02-04 | 2026-03-04 |
 | [54321 \(Feat\. HAEWON of NMIXX\)](https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAEWON](https://open.spotify.com/artist/4suGbXz0FM8bO6YeC0E9no) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 3:05 | 2025-12-04 | 2026-02-05 |
 | [6IXER PARTY \(FEAT\. SNOOP DOGG\)](https://open.spotify.com/track/0bWbDcx2GyvCFjCOW9XvlH) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr), [Yung Hood](https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 3:08 | 2026-03-24 | 2026-04-30 |
+| [A Funny But Sad Day](https://open.spotify.com/track/4DI4p7CW9yNyC6ekp4sdV0) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [god Single Album](https://open.spotify.com/album/7GsiVtLp9LlLOfZyl5mxip) | 4:08 | 2026-05-13 |  |
 | [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 | 2026-03-03 | 2026-04-30 |
+| [AGAIN](https://open.spotify.com/track/5Pae3aqRSRBjDPpVWurbST) | [dopameen](https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T), [Swimming Teddys](https://open.spotify.com/artist/6kTqvXVMr7SCmBiqkJUeeY) | [AGAIN](https://open.spotify.com/album/0Gvp4TjOo9fxMwLbYWKJpi) | 3:32 | 2026-05-13 |  |
 | [airplane : 143](https://open.spotify.com/track/24odAZQ1krmbVhG2tH4IXh) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 2:26 | 2026-03-24 | 2026-04-30 |
 | [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 | 2026-02-04 | 2026-03-04 |
 | [Alive](https://open.spotify.com/track/1L32a1LajlD4fHiH3DBNmp) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [1kromelee](https://open.spotify.com/artist/3oCXV6a3Fgr0Tu6Nxex8zh), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8) | [ALBATROSS](https://open.spotify.com/album/60is5WFC317kNquQ5ZmpU6) | 2:50 | 2026-02-25 | 2026-03-04 |
@@ -43,6 +45,7 @@
 | [Casanova](https://open.spotify.com/track/2VHn8lbvu0vjBn5mIugXoD) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [Casanova](https://open.spotify.com/album/3nsTpFqwW2gsCcYtajKt23) | 2:44 | 2025-12-04 | 2026-02-05 |
 | [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-04-25 |  |
 | [Certii \(Feat\. Kid Milli\)](https://open.spotify.com/track/1Fch2cl3GOwaF9QZ8LYsML) | [OKASHII](https://open.spotify.com/artist/6Vs5u8gSzXsS1LPZhmXoiB), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [ANTIVANDALISM](https://open.spotify.com/album/6Gl71fSOynd8zk8vfgMj6h) | 2:44 | 2026-02-04 | 2026-03-04 |
+| [Chakzilla](https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH) | 3:27 | 2026-05-13 |  |
 | [Champion](https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 2:52 | 2026-03-03 | 2026-04-30 |
 | [Cinnamon Shake](https://open.spotify.com/track/1Y6uJQVtPFSIZ9KQM6ENLk) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [EUPHORIA](https://open.spotify.com/album/5nefAD1EsXbLksNfBJorPV) | 2:55 | 2026-02-04 | 2026-03-04 |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 | 2026-05-06 |  |
@@ -66,6 +69,8 @@
 | [Endangered Love](https://open.spotify.com/track/06o2o3TpyR8eGU2ANK21Lp) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [EROS](https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8) | 3:40 | 2025-12-04 | 2026-02-05 |
 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 | 2025-12-04 | 2026-02-05 |
 | [ENERGY](https://open.spotify.com/track/3K6yAlZxPch65Xz69S2C8N) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:00 | 2026-04-21 | 2026-04-30 |
+| [Family \(Feat\. THAMA\)](https://open.spotify.com/track/36PJlu7LbBOfbN3nIVsQPE) | [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Family](https://open.spotify.com/album/3HTihlNuWSPglGitQ7dQ3H) | 4:13 | 2026-05-13 |  |
+| [Family Portrait \(2020\)](https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Family Portrait \(2020\)](https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu) | 6:43 | 2026-05-13 |  |
 | [FAMOUS](https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 3:00 | 2025-12-04 | 2026-02-05 |
 | [Feel it Coming](https://open.spotify.com/track/0NOiX0RMUleJ3TBvR6LluM) | [xeom boi](https://open.spotify.com/artist/5DEvwmOXx50p6LUUg32t8M) | [Day 5](https://open.spotify.com/album/1vI56rynJdQnHYiRMmatfP) | 2:39 | 2026-02-04 | 2026-03-04 |
 | [Find You](https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Find You](https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz) | 2:55 | 2026-04-25 |  |

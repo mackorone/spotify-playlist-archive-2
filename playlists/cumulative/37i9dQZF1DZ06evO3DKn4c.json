@@ -366,6 +366,44 @@
     {
       "album": {
         "name": "300",
+        "url": "https://open.spotify.com/album/3YH7cVQKsWvxM5Aa6HirtJ"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Marechal",
+          "url": "https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420674,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/3qMZllzbXn78eELMyhAdDv"
+    },
+    {
+      "album": {
+        "name": "300",
         "url": "https://open.spotify.com/album/49aodr19IxR7j392H2CIJm"
       },
       "artists": [

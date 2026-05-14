@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 
 > Shaken, not stirred..\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,947 likes - 29 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,939 likes - 29 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 4 | [Skyfall](https://open.spotify.com/track/3mr584ZFSkZrWja9kJAzlb) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/7eZO3WCzvtYIbXI0ZkefzS) | 4:46 |
 | 5 | [Live And Let Die \- Main Title](https://open.spotify.com/track/2cHbN7OosXb4pA20G9Jcyg) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [All The Best \(UK Version\)](https://open.spotify.com/album/0jXLd4eGxSh8TIGEdRbdH4) | 3:11 |
 | 6 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 |
-| 7 | [We Have All The Time In The World \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 3:15 |
+| 7 | [We Have All The Time In The World \- Remastered 2003](https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [On Her Majesty's Secret Service \(Original Motion Picture Soundtrack / Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 3:15 |
 | 8 | [Writing's On The Wall \- From "Spectre" Soundtrack](https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT) | 4:38 |
 | 9 | [Nobody Does It Better](https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [The Spy Who Loved Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ) | 3:32 |
 | 10 | [Goldeneye](https://open.spotify.com/track/528QhCT2v3HgD71RmrSUNW) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Goldeneye](https://open.spotify.com/album/4aBVXvgB75LzBQTbKiauQN) | 4:48 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 25 | [Mr Kiss Kiss Bang Bang \- 1992 Remaster](https://open.spotify.com/track/7uYZJ6actSUcazhKjjyZsK) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:28 |
 | 26 | [Licence To Kill](https://open.spotify.com/track/1Uncju2gBQddr8FLkKLSIG) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [Licence To Kill \(Soundtrack\)](https://open.spotify.com/album/1FJqm33kcszjvHXriTfKjx) | 5:14 |
 | 27 | [Tomorrow Never Dies](https://open.spotify.com/track/3peBSjcjaouspgb68WK2sk) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tomorrow Never Dies](https://open.spotify.com/album/2UGZoHiNl2bDZyHIbaQ9Vo) | 4:51 |
-| 28 | [On Her Majesty's Secret Service \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
+| 28 | [On Her Majesty's Secret Service \- Remastered 2003](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \(Original Motion Picture Soundtrack / Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
 | 29 | [Moonraker](https://open.spotify.com/track/3fmYId4SqzuLFQkCXPRWjg) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [James Bond 007 13 Original Themes](https://open.spotify.com/album/1BIkw8IbCvCsZ942czLa4K) | 3:10 |
 
 Snapshot ID: `AAAAAAO44k1TmkGQrHUdumR1DxTvZIAc`

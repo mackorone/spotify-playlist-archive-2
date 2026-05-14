@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437645,
+  "num_followers": 437630,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "Today Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
+      },
+      "artists": [
+        {
+          "name": "Hunters of the Alps",
+          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Ag\u00fcita de Coco",
         "url": "https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 153208,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "Today Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
-      },
-      "artists": [
-        {
-          "name": "Hunters of the Alps",
-          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1667,22 +1667,18 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Grietas",
-        "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
+        "name": "A Toda Cuba Le Gusta",
+        "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
       },
       "artists": [
         {
-          "name": "Newen Afrobeat",
-          "url": "https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+          "name": "Afro-Cuban All Stars",
+          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
         }
       ],
-      "duration_ms": 313750,
-      "name": "Grietas",
-      "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
+      "duration_ms": 396440,
+      "name": "Amor verdadero",
+      "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1703,18 +1699,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "A Toda Cuba Le Gusta",
-        "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
+        "name": "Grietas",
+        "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
       },
       "artists": [
         {
-          "name": "Afro-Cuban All Stars",
-          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
+          "name": "Newen Afrobeat",
+          "url": "https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
         }
       ],
-      "duration_ms": 396440,
-      "name": "Amor verdadero",
-      "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
+      "duration_ms": 313750,
+      "name": "Grietas",
+      "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
     },
     {
       "added_at": "2026-02-19 18:04:12",

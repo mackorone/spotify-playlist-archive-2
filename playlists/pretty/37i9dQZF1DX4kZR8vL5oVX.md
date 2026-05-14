@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Zaho \(du titre \#1 au \#19\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,681 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,675 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 20 | [Baggy Jeans](https://open.spotify.com/track/3kkwjDRPPYIZ54FF0ceeco) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Reverie](https://open.spotify.com/album/5newvs2aGEj6sYvNIECgiZ) | 2:51 |
 | 21 | [Seule](https://open.spotify.com/track/1J5H2xHZRSqoheMgsDpQfA) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Seule](https://open.spotify.com/album/5VPSWiJsTpDpQyMCXqaZua) | 3:28 |
 | 22 | [Rien à fêter](https://open.spotify.com/track/2SraRNXafpI7MzEDSssAs3) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Rien à fêter](https://open.spotify.com/album/6Is9iEcP8QVpihebTOLh7i) | 2:55 |
-| 23 | [LES MECS](https://open.spotify.com/track/4CHiE1P5mIRp6epCzxciZ1) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [LES MECS](https://open.spotify.com/album/4FuZW3Vg8DkhS08W0lqw5f) | 2:14 |
+| 23 | [Les mecs](https://open.spotify.com/track/4CHiE1P5mIRp6epCzxciZ1) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Les mecs](https://open.spotify.com/album/4FuZW3Vg8DkhS08W0lqw5f) | 2:14 |
 | 24 | [GT](https://open.spotify.com/track/6QrJfDLVv1FwcdS4bIfcns) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Unmade](https://open.spotify.com/album/5iS20v4owMyFzmBx2T05AQ) | 2:30 |
 | 25 | [LE MAL DE TOI part.2 \(feat\. Emma'a\)](https://open.spotify.com/track/6B88bGOamrRFDhtODfbQGz) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [LE MAL DE TOI part.2 \(feat\. Emma'a\)](https://open.spotify.com/album/1L0sB5mJrI7qeArQwRCd7c) | 3:27 |
 | 26 | [Les enfants difficiles](https://open.spotify.com/track/4NBKnMRRoR84w1rVUzLG1u) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Les enfants difficiles](https://open.spotify.com/album/1JEO9RDMrBnYigJNYT3LIU) | 2:54 |

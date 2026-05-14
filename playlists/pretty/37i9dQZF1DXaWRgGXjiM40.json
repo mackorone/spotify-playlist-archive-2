@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 952354,
+  "num_followers": 952328,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
-        "name": "Energia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0CPz0EKECvXACXt3IdYN4Y"
-      },
-      "artists": [
-        {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
-        }
-      ],
-      "duration_ms": 165376,
-      "name": "Pega Esse Carro - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HY7YlBwdZMTh69E1gkYm3"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 174920,
       "name": "Medo Bobo - Ao Vivo",
       "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
+        "name": "Energia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CPz0EKECvXACXt3IdYN4Y"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        }
+      ],
+      "duration_ms": 165376,
+      "name": "Pega Esse Carro - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HY7YlBwdZMTh69E1gkYm3"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -251,18 +251,22 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
-        "name": "Resenha Piri (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0gm3AjkQZ8q0Cy7z1rjWNs"
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
       "artists": [
         {
-          "name": "Cleber & Cauan",
-          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
         }
       ],
-      "duration_ms": 165621,
-      "name": "At\u00e9 Ficar Velhin - Ao Vivo",
-      "url": "https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT"
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -283,6 +287,22 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
+        "name": "Resenha Piri (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0gm3AjkQZ8q0Cy7z1rjWNs"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Cauan",
+          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+        }
+      ],
+      "duration_ms": 165621,
+      "name": "At\u00e9 Ficar Velhin - Ao Vivo",
+      "url": "https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
         "name": "Ana Castela - Spotify Sessions",
         "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 224223,
       "name": "Neon - Spotify Sessions",
       "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
-        "name": "Len\u00e7ol Dobrado",
-        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
-        },
-        {
-          "name": "Analaga",
-          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "Len\u00e7ol Dobrado",
-      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
-        "name": "Victor & Leo Ao Vivo Em Uberl\u00e2ndia",
-        "url": "https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC"
+        "name": "Com ou Sem Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
       },
       "artists": [
         {
-          "name": "Victor & Leo",
-          "url": "https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         }
       ],
-      "duration_ms": 206066,
-      "name": "Amigo Apaixonado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7KsPoQeQrwJUo9UdLrtpeR"
+      "duration_ms": 201856,
+      "name": "Com ou Sem Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
     }
   ],
   "unique_name": "Paix\u00e3o Bandida",

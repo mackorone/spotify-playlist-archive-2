@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Kush & Orange Juice (15th Anniversary)",
+        "url": "https://open.spotify.com/album/7b0dTwAi3NXFg74CW1SFdk"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210964,
+      "name": "Champagne (Bonus Track)",
+      "url": "https://open.spotify.com/track/0xxiYj1vNGBy5dSTmVh9W0"
+    },
+    {
+      "album": {
         "name": "Pink Friday ... Roman Reloaded",
         "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
       },

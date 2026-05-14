@@ -1,6 +1,6 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 118348,
+  "num_followers": 118354,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "American Pie",
         "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 516893,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
       "artists": [
         {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Labour Of Love II",
-        "url": "https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Kingston Town",
-      "url": "https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Daryl Hall & John Oates (The Silver Album)",
         "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 185293,
       "name": "Sara Smile",
       "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Labour Of Love II",
+        "url": "https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Kingston Town",
+      "url": "https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233552,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 189432,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233552,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Zenyatta Mondatta (Remastered 2003)",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 242666,
-      "name": "Don't Stand So Close To Me",
-      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 257373,
       "name": "Breakfast At Tiffany's",
       "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Don't Stand So Close To Me",
+      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "I Guess That's Why They Call It The Blues",
-      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Fire And Water",
         "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 330643,
       "name": "All Right Now",
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "I Guess That's Why They Call It The Blues",
+      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
       },
@@ -2119,6 +2103,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Ladies of the Canyon",
         "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
       },
@@ -2131,22 +2131,6 @@
       "duration_ms": 134800,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Someday We'll All Be Free",
-        "url": "https://open.spotify.com/album/6kWqwXiHxRwvLKFScZbbdS"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/4ZMofBIe1948b23GZJriAd"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2179,6 +2163,22 @@
       "duration_ms": 180253,
       "name": "Girl, You'll Be A Woman Soon",
       "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Someday We'll All Be Free",
+        "url": "https://open.spotify.com/album/6kWqwXiHxRwvLKFScZbbdS"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/4ZMofBIe1948b23GZJriAd"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
-      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "In the Midnight Hour",
         "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
+      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3059,6 +3059,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Wanted on Voyage",
+        "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/7GJClzimvMSghjcrKxuf1M"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
       },
@@ -3079,22 +3095,6 @@
       "duration_ms": 340293,
       "name": "The Healer",
       "url": "https://open.spotify.com/track/3h7tr47MIwSz0i53YzliBg"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Wanted on Voyage",
-        "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "Budapest",
-      "url": "https://open.spotify.com/track/7GJClzimvMSghjcrKxuf1M"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3179,22 +3179,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 238920,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/1hEh8Hc9lBAFWUghHBsCel"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
       },
@@ -3207,6 +3191,22 @@
       "duration_ms": 263000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 238920,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/1hEh8Hc9lBAFWUghHBsCel"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3259,22 +3259,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Lost on You",
-        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 268105,
-      "name": "Lost on You",
-      "url": "https://open.spotify.com/track/3SqvR3HYLlCTYzbDXJ52OC"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Tango In The Night",
         "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
       },
@@ -3287,6 +3271,22 @@
       "duration_ms": 222733,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 268105,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/3SqvR3HYLlCTYzbDXJ52OC"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3351,6 +3351,22 @@
       "duration_ms": 257480,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/5jafMI8FLibnjkYTZ33m0c"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Teaser And The Firecat",
+        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3423,22 +3439,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Teaser And The Firecat",
-        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Morning Has Broken",
-      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Woodland - EP",
         "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
@@ -3487,6 +3487,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Playlist: 90s Pop",
+        "url": "https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/62R1MRux3R0v2cngA2xdJn"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Silk Degrees",
         "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
@@ -3531,22 +3547,6 @@
       "duration_ms": 178266,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/5qxFudz7A6PGptviHsz4Yd"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Playlist: 90s Pop",
-        "url": "https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/62R1MRux3R0v2cngA2xdJn"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3655,22 +3655,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Ice On Fire (Remastered With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 343240,
-      "name": "Nikita",
-      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Time of the Season",
         "url": "https://open.spotify.com/album/3xhlrGx740Jp150YJMD40I"
       },
@@ -3687,18 +3671,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Fickle Heart (Plus Two Bonus Cuts)",
-        "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
+        "name": "Ice On Fire (Remastered With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
       },
       "artists": [
         {
-          "name": "Sniff 'n' The Tears",
-          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 240746,
-      "name": "Driver's Seat",
-      "url": "https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX"
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3735,6 +3719,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Fickle Heart (Plus Two Bonus Cuts)",
+        "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
+      },
+      "artists": [
+        {
+          "name": "Sniff 'n' The Tears",
+          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
+        }
+      ],
+      "duration_ms": 240746,
+      "name": "Driver's Seat",
+      "url": "https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "MTV Unplugged In New York",
         "url": "https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682"
       },
@@ -3747,22 +3747,6 @@
       "duration_ms": 217199,
       "name": "About A Girl",
       "url": "https://open.spotify.com/track/2a8pQLSuhloP8ywoy5Or5i"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/54sqbAXxR1jFfyXb1WvrHK"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 288666,
-      "name": "Miss You - Remastered",
-      "url": "https://open.spotify.com/track/5LcD4BvRlJOn8inQGT2RUY"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3783,6 +3767,22 @@
       "duration_ms": 231426,
       "name": "This Is Not America - 2002 Remaster",
       "url": "https://open.spotify.com/track/3Tc5BaETZ8E6p1xlSNotzt"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/54sqbAXxR1jFfyXb1WvrHK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "Miss You - Remastered",
+      "url": "https://open.spotify.com/track/5LcD4BvRlJOn8inQGT2RUY"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3831,6 +3831,22 @@
       "duration_ms": 233866,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/4MIB4aXVS0M0KNVcbQlyOP"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Right As Rain",
+      "url": "https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3975,22 +3991,6 @@
       "duration_ms": 230493,
       "name": "Plage",
       "url": "https://open.spotify.com/track/71GqP05AEkzTSSKbNx6HAR"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Right As Rain",
-      "url": "https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu"
     },
     {
       "added_at": "2024-11-13 17:10:11",

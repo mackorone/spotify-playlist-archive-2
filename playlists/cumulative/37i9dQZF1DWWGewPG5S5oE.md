@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 挾間美帆
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: BIGYUKI
 
-514 songs - 1 day 17 hr 53 min
+516 songs - 1 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Borsalino](https://open.spotify.com/track/7jDMXduqVG5RPqiYVduwJr) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Borsalino](https://open.spotify.com/album/7hPxldYIIggDIeWfp9ZKME) | 4:11 | 2023-10-31 | 2023-12-13 |
 | [Bright tone](https://open.spotify.com/track/4Vd9YScZr7WWVLzhBz35oI) | [Akane](https://open.spotify.com/artist/7ra3xBXluo7nL5d89nnbF4) | [Cheer Up](https://open.spotify.com/album/3HkAhdGGiBk2PuCG6JzfyL) | 3:34 | 2024-06-04 | 2024-07-10 |
 | [Brown And Black](https://open.spotify.com/track/05Qh40y3LeS94KQ5qfky65) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Brown And Black](https://open.spotify.com/album/6iKM2co4OHPkuvzJVEjTjT) | 8:29 | 2024-04-23 | 2024-05-09 |
+| [Buchi \- feat.別所和洋](https://open.spotify.com/track/2ZyDtFxe3qAnyQzu14dGFa) | [大山渉](https://open.spotify.com/artist/6kXkLYLppYzk6ufjUWTao9), [別所和洋](https://open.spotify.com/artist/6e3Tonxpt5Foe3b3PhQvjo) | [Buchi \(feat.別所和洋\)](https://open.spotify.com/album/5L3fJdGwv2XVXsz31QndKG) | 7:18 | 2026-05-13 |  |
 | [Buono Time](https://open.spotify.com/track/6va0ySoD5EsZvgzYPhJoJY) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Buono Time](https://open.spotify.com/album/4FFxBWODJImYbkEV7qtV4E) | 2:56 | 2025-02-04 | 2025-04-02 |
 | [BUTTERFLY \(LIVE\)](https://open.spotify.com/track/6ND3US4IXyqUN1v9UQEpl0) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [HOPE FOR TOMORROW \(LIVE\)](https://open.spotify.com/album/5XFMFFK0I0MArDSHcfFiM5) | 6:53 | 2025-11-05 | 2025-11-23 |
 | [CALL ME](https://open.spotify.com/track/5WiUDi45DPJNgfsF8LBFV5) | [才恵加\(saeka\)](https://open.spotify.com/artist/701fnjrVk4bW0uDZXSVhdF) | [NEW CITY](https://open.spotify.com/album/3i8z39blp9XUU0ijk8PGC9) | 3:56 | 2024-07-23 | 2024-09-18 |
@@ -187,6 +188,7 @@
 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 | 2022-09-06 | 2022-10-02 |
 | [ILa](https://open.spotify.com/track/5A3fkdwjAYasROx3YE9RMo) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [ILa](https://open.spotify.com/album/7d3Ac0gUjLFBlZjz4BBKSX) | 3:11 | 2023-10-17 | 2023-11-22 |
 | [ILa](https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ILa](https://open.spotify.com/album/1fgM8l7SrpH7f9qG6iK6kk) | 3:11 | 2023-10-17 | 2023-10-19 |
+| [In a Spiral](https://open.spotify.com/track/1NVuW1w0mkVJQF5nFGo1PR) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [John Connor](https://open.spotify.com/album/2ctx9aWCjIlAWojJSIcVKA) | 5:39 | 2026-05-13 |  |
 | [In Black](https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [In Black](https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq) | 3:31 | 2025-08-19 |  |
 | [Into the Infinite Jazz \- 2024 Ver.](https://open.spotify.com/track/5kAjCMN7mNsksZo9454loW) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NOW](https://open.spotify.com/album/5yyPyZIv4Y959ffZrFfb6R) | 2:32 | 2024-09-17 | 2024-11-17 |
 | [Ishonsho Abe](https://open.spotify.com/track/7tPh9tj8JNZITMuEN8iDOK) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Ishonsho Abe](https://open.spotify.com/album/62Io1sWPF4COlD4jBApYk5) | 5:48 | 2022-09-06 | 2023-01-25 |
@@ -224,7 +226,7 @@
 | [Magnolia](https://open.spotify.com/track/1gwpEPHINRL2ctjAfZqTtm) | [村越葵](https://open.spotify.com/artist/2zJzXHBaFDFDBXFvExeVWN) | [Magnolia](https://open.spotify.com/album/5as5dlYqkkXVVIWAwy1jkH) | 5:13 | 2025-07-15 | 2025-08-06 |
 | [Maintenance](https://open.spotify.com/track/7zFQs84UC969WEkBeAz3kF) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Maintenance](https://open.spotify.com/album/6d1HQQNWz4hLYuGQh8u1V6) | 4:08 | 2026-03-17 | 2026-04-18 |
 | [Mangalitza](https://open.spotify.com/track/7DWtk6QvKl0k9Bk0jvnEyl) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Mangalitza](https://open.spotify.com/album/6xN1h5RJ2NHtpETgnlGRul) | 3:03 | 2025-09-30 | 2025-11-18 |
-| [Manual](https://open.spotify.com/track/2Cj2tCgsjrdgOutPTgCtpS) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [Manual](https://open.spotify.com/album/0iux1rDoXgQVvhS84Dam4r) | 3:59 | 2026-03-31 |  |
+| [Manual](https://open.spotify.com/track/2Cj2tCgsjrdgOutPTgCtpS) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [Manual](https://open.spotify.com/album/0iux1rDoXgQVvhS84Dam4r) | 3:59 | 2026-03-31 | 2026-05-14 |
 | [MASKS](https://open.spotify.com/track/0BbwksR9DdhuG1DbEbtiaA) | [Banksia Trio](https://open.spotify.com/artist/3xEsdwaU685TDQp5p02Q4L), [須川崇志バンクシアトリオ](https://open.spotify.com/artist/1FKyKFEwsa7NXshFJKKkc9), [須川 崇志](https://open.spotify.com/artist/7257spgBvb4Lfl74wregRN), [林正樹](https://open.spotify.com/artist/406asAfsZHb4zHPlw2wYq7), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [MASKS](https://open.spotify.com/album/28UHrz5XOC5YDE7VXq6ggu) | 5:16 | 2023-08-22 | 2023-09-13 |
 | [MASQUERADE!](https://open.spotify.com/track/7COeUxxiLP2GqTIzOvCZhK) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [MASQUERADE!](https://open.spotify.com/album/4Z7AfRdyvxpPPH837iTaXS) | 3:48 | 2022-09-06 | 2022-10-05 |
 | [Master Blaster \(Jammin'\)](https://open.spotify.com/track/79o3fOmpXxhcxMa7mikdhW) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Life / Master Blaster \(Jammin'\)](https://open.spotify.com/album/3KJOzHhk0troKxezPhNDuf) | 4:36 | 2024-08-06 | 2024-09-18 |
@@ -344,7 +346,7 @@
 | [Some Other Time](https://open.spotify.com/track/2s8Eg9LjyhozDr2S35OKf2) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Some Other Time](https://open.spotify.com/album/6m40BVddWchwMRAUkm2lYx) | 6:29 | 2022-12-20 | 2023-04-19 |
 | [Someday My Prince Will Come \- Live at 100Ban Hall, Kobe, 2022](https://open.spotify.com/track/6H1gpUbzY2NGPpWdADWXn4) | [Hiro Kimura](https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI), [Kazuhiko Takeda](https://open.spotify.com/artist/4dz95tAaThmn1OI31rMkhU), [Miki Hirose](https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx), [Naoko Tanaka](https://open.spotify.com/artist/2CfxaAgevavjDFRRghjSVt), [Yuji Ito](https://open.spotify.com/artist/7nwmT6Ckut3gaKlyfL45NF) | [Someday My Prince Will Come \(Live at 100Ban Hall, Kobe, 2022\)](https://open.spotify.com/album/4kT6XpWuPM5q7lnevRGMNY) | 6:36 | 2023-03-07 | 2023-04-05 |
 | [Sonicwonderland](https://open.spotify.com/track/7gc3pcQOvzAgpNtY5y6SbB) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/7IWueag5hUcfCqB6AS6Ky2) | 8:15 | 2023-08-25 | 2023-09-24 |
-| [Soul Funkafied feat\. Yoshiaki Muto](https://open.spotify.com/track/2rFbfBplp0vd2hIFQWVrjY) | [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [34/45](https://open.spotify.com/album/06lupQqsX3gZuaiECZAMge) | 4:03 | 2026-01-13 |  |
+| [Soul Funkafied feat\. Yoshiaki Muto](https://open.spotify.com/track/2rFbfBplp0vd2hIFQWVrjY) | [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [34/45](https://open.spotify.com/album/06lupQqsX3gZuaiECZAMge) | 4:03 | 2026-01-13 | 2026-05-14 |
 | [Spain](https://open.spotify.com/track/2MAcJ1Z0ShlQPDXPWsZwwc) | [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO), [木村仁星](https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8) | [Spain](https://open.spotify.com/album/3LOZ21HBgvxGVdytLCdkoE) | 5:11 | 2022-10-04 | 2022-11-16 |
 | [Spark](https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Spark](https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj) | 2:45 | 2025-06-24 | 2025-11-05 |
 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 | 2022-09-06 | 2024-12-18 |

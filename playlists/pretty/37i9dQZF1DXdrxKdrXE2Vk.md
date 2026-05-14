@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Benjamin Williams Hastings,  Aodhán King, and Cody Carnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,949 likes - 80 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,948 likes - 80 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 34 | [Worthy](https://open.spotify.com/track/3HnlDT6ymq3eYX1aRPcUTB) | [ReFRESH Worship](https://open.spotify.com/artist/5LVfUFtAdRpEe3zTzZnQLp), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Nicole Binion](https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e) | [Worthy \(Single\)](https://open.spotify.com/album/4Xmx7uvGaQYb0K36ZnnHAv) | 8:36 |
 | 35 | [Come Into The Light/Touch The Sky \- Live](https://open.spotify.com/track/6fiCQ6J5220cCdTVl9Ioft) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Come Into The Light \(Live\)](https://open.spotify.com/album/68c3QXsNVkO3HIJEbxt2Pv) | 7:16 |
 | 36 | [Alabaster Jar \- Live](https://open.spotify.com/track/6CKLTrkkWN5Qd4zYS9vjZ7) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Build An Altar \(Live\)](https://open.spotify.com/album/0vX9hjLUGsl2ujFycJTYyn) | 4:38 |
-| 37 | [The Blessing \- Live From Europe](https://open.spotify.com/track/5IhJcSvpwhWCimFQgLzUpM) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Live From Europe](https://open.spotify.com/album/5htXe6Yr7XvTglqWJs2JBB) | 8:09 |
+| 37 | [The Blessing \- Live From Europe](https://open.spotify.com/track/5IhJcSvpwhWCimFQgLzUpM) | [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Live From Europe](https://open.spotify.com/album/5htXe6Yr7XvTglqWJs2JBB) | 8:09 |
 | 38 | [King of Kings \(Spontaneous\) \- Live](https://open.spotify.com/track/16olaIjmJHTlXBbihdtXl5) | [Dwell Church Worship](https://open.spotify.com/artist/3LXVX1w2XzpruSHLM6vuDJ), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Live from Dwell Church](https://open.spotify.com/album/6mnaBXBAdgAcmivnP3jwOO) | 7:55 |
 | 39 | [You Stay The Same \- Live](https://open.spotify.com/track/1GVNMNVD6iShdSkhXdNy01) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Hailey Hampton](https://open.spotify.com/artist/1es11bh34XVASYtJEa6be3) | [You Stay The Same \(Live\)](https://open.spotify.com/album/7rzqEeJH3LEF5g8Gt3TfhK) | 5:33 |
 | 40 | [Easy \- Live](https://open.spotify.com/track/7acMffPaR4bIcN9TAF2GLU) | [Far Flung Worship](https://open.spotify.com/artist/1jHG9HcV6v5nYLXq7g4f8g), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Jeremy Caruthers](https://open.spotify.com/artist/60hYBlKQiT5EhJQarvndz5) | [Easy \(Live\)](https://open.spotify.com/album/50PGB16CDiOQzPWg0gG6a9) | 9:07 |

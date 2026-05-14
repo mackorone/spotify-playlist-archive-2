@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,100 likes - 169 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,102 likes - 169 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 52 | [LOVEHAPPY](https://open.spotify.com/track/7szhY56rkD20Ai9AxJaicE) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 3:49 |
 | 53 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 |
 | 54 | [Open \(Passionate\)](https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:05 |
-| 55 | [Drive You Home](https://open.spotify.com/track/72ZVVjZL6PXfUziM0ewm85) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Drive You Home](https://open.spotify.com/album/12P4sC6Bdg8JF8W4gjiwQF) | 3:36 |
-| 56 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 |
+| 55 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 |
+| 56 | [Drive You Home](https://open.spotify.com/track/72ZVVjZL6PXfUziM0ewm85) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Drive You Home](https://open.spotify.com/album/12P4sC6Bdg8JF8W4gjiwQF) | 3:36 |
 | 57 | [Early 2K \(feat\. Tank\)](https://open.spotify.com/track/5ukTyGI2xoGVVvsjlTACEL) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:46 |
 | 58 | [Tweakin](https://open.spotify.com/track/4MAHqzuljxMPl1ibUrC57Y) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [Mixed Emotions](https://open.spotify.com/album/2iSs4IZZHQ5lrFIbUqC1NX) | 3:19 |
 | 59 | [$$$ \(feat\. Normani\)](https://open.spotify.com/track/1qmTyz4l8mLlxGqGP2YjCF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 3:01 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 104 | [Not One Of Them](https://open.spotify.com/track/3yn1NU2GCUkdQ9d3KLvPay) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:08 |
 | 105 | [69](https://open.spotify.com/track/1zSwtlAzKKGbbpEr4LHtEv) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:41 |
 | 106 | [Ready Or Not \(with Busta Rhymes\)](https://open.spotify.com/track/13xxAy6jr030o2cCMv5MTX) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 2:37 |
-| 107 | [Keep It Going](https://open.spotify.com/track/59O4w7NZgVqowQkcG8gs1i) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:53 |
-| 108 | [SUPAFLEE \(feat\. Bri Steves\)](https://open.spotify.com/track/0kiZJjKkVoGJxjG3lHogTr) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Lonely At The Top](https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i) | 3:12 |
+| 107 | [SUPAFLEE \(feat\. Bri Steves\)](https://open.spotify.com/track/0kiZJjKkVoGJxjG3lHogTr) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Lonely At The Top](https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i) | 3:12 |
+| 108 | [Keep It Going](https://open.spotify.com/track/59O4w7NZgVqowQkcG8gs1i) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:53 |
 | 109 | [LMK](https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 |
 | 110 | [Time Will Tell](https://open.spotify.com/track/30iYVELFKzXdKReWpZXgcn) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:48 |
 | 111 | [Options](https://open.spotify.com/track/0ixRUk4zdEQ79TWoN4AEnz) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Options / Lie Like That](https://open.spotify.com/album/63NANMK2G7YvJ7NoDx9Khb) | 2:55 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 168 | [Wild Wild](https://open.spotify.com/track/4amxzY7kxQga4kZadCSWLY) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:02 |
 | 169 | [Can't Be Friends](https://open.spotify.com/track/6TwTDw7wzxk4PJeKd4pYOR) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 2:30 |
 
-Snapshot ID: `AcRVHAAAAABgZuHJYwQridkNTY8M3b23`
+Snapshot ID: `AcRavAAAAAAXwmbgrXwMIolKcMk7/lY4`

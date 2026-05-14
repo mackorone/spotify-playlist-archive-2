@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Blaqbonez
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,656 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,668 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 35 | [US](https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [US](https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X) | 2:19 |
 | 36 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
 | 37 | [Shut Up](https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Shut Up](https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j) | 3:12 |
-| 38 | [Mi Amor](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 2:00 |
-| 39 | [Diamonds](https://open.spotify.com/track/4me9zDEParfetwhlguxvHp) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Diamonds](https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G) | 3:12 |
+| 38 | [Diamonds](https://open.spotify.com/track/4me9zDEParfetwhlguxvHp) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Diamonds](https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G) | 3:12 |
+| 39 | [Mi Amor](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 2:00 |
 | 40 | [Big Smile \(Pose For Me\) \[feat\. ODUMODUBLVCK\]](https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 3:01 |
 | 41 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
 | 42 | [Everlasting Taker](https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Everlasting Taker](https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6) | 1:58 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 53 | [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 |
 | 54 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 |
 | 55 | [Out the Mud](https://open.spotify.com/track/0vFqhxaJg7WrNmMoHHxAAK) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Out the Mud](https://open.spotify.com/album/6Gj0e4m1LwALsd3iI8vI1q) | 2:26 |
-| 56 | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD) | 2:28 |
-| 57 | [Orishirishi](https://open.spotify.com/track/17OusDSt07Pg76wxPbE25r) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Pick 2](https://open.spotify.com/album/4KkP6qfBV2UbZWXYtORZp7) | 3:19 |
+| 56 | [Orishirishi](https://open.spotify.com/track/17OusDSt07Pg76wxPbE25r) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Pick 2](https://open.spotify.com/album/4KkP6qfBV2UbZWXYtORZp7) | 3:19 |
+| 57 | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD) | 2:28 |
 | 58 | [BRAG](https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [BRAG](https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR) | 2:29 |
 | 59 | [Rebel Music](https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Rebel Music](https://open.spotify.com/album/2Cp4EexmXeDgaxOe2ldAZT) | 2:41 |
 | 60 | [ESCAPE PLAN](https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [ESCAPE PLAN](https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT) | 2:28 |

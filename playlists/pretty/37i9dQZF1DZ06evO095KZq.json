@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 448652,
+  "num_followers": 448671,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAAtAroxSubRX8ACtkej+MD3",
+  "snapshot_id": "agJtgAAAAADPm56jkzUICSeSGowKCzAA",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Equipo Armado",
+        "url": "https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 151903,
+      "name": "Mi 45",
+      "url": "https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hay pa' Toro",
         "url": "https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 153086,
       "name": "Mis Ra\u00edces",
       "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Equipo Armado",
-        "url": "https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 151903,
-      "name": "Mi 45",
-      "url": "https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 167338,
+      "name": "El Mes de Mayo",
+      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Zool\u00f3gico (En Vivo)",
         "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 219453,
       "name": "El Zool\u00f3gico - En Vivo",
       "url": "https://open.spotify.com/track/4wykN4k8kWJeI37FjcjzeB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 167338,
-      "name": "El Mes de Mayo",
-      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
     },
     {
       "added_at": null,

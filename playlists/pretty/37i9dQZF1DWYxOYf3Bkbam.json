@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 64955,
+  "num_followers": 64970,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
-        "name": "Sobredosis De Chamame",
-        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "La Fiesta Del Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
-    },
-    {
-      "added_at": "2026-04-17 18:48:35",
-      "album": {
         "name": "Nuestras Mejores 30 Canciones",
         "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 146600,
       "name": "Mi \u00daltima Flor",
       "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
+    },
+    {
+      "added_at": "2026-04-17 18:48:35",
+      "album": {
+        "name": "Sobredosis De Chamame",
+        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "La Fiesta Del Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
-        "name": "Los 55 Anos del Cuarteto Santa Ana",
-        "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
-      },
-      "artists": [
-        {
-          "name": "Carlos Talavera con el Cuarteto Santa Ana",
-          "url": "https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I"
-        },
-        {
-          "name": "Ernesto Montiel",
-          "url": "https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd"
-        }
-      ],
-      "duration_ms": 146320,
-      "name": "Neique Chamigo",
-      "url": "https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2"
-    },
-    {
-      "added_at": "2026-04-17 18:48:35",
-      "album": {
         "name": "Refugio de So\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 202025,
       "name": "Refugio de So\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
+    },
+    {
+      "added_at": "2026-04-17 18:48:35",
+      "album": {
+        "name": "Los 55 Anos del Cuarteto Santa Ana",
+        "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
+      },
+      "artists": [
+        {
+          "name": "Carlos Talavera con el Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I"
+        },
+        {
+          "name": "Ernesto Montiel",
+          "url": "https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd"
+        }
+      ],
+      "duration_ms": 146320,
+      "name": "Neique Chamigo",
+      "url": "https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Virgencita de Itat\u00ed",
+      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
+    },
+    {
+      "added_at": "2026-04-17 18:48:35",
+      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
+        "name": "Con Estilo Mbaret\u00e9",
+        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
       },
       "artists": [
         {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+          "name": "Los Criollitos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
         }
       ],
-      "duration_ms": 155666,
-      "name": "Virgencita de Itat\u00ed",
-      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
+      "duration_ms": 474053,
+      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
+      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -779,22 +795,6 @@
       "duration_ms": 199346,
       "name": "Lluvia Correntina",
       "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
-    },
-    {
-      "added_at": "2026-04-17 18:48:35",
-      "album": {
-        "name": "Con Estilo Mbaret\u00e9",
-        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
-      },
-      "artists": [
-        {
-          "name": "Los Criollitos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
-        }
-      ],
-      "duration_ms": 474053,
-      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
-      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
-          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Al Gaucho Gil",
-      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
-    },
-    {
-      "added_at": "2026-04-17 18:48:35",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 170893,
       "name": "A villa Guillermina",
       "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
+    },
+    {
+      "added_at": "2026-04-17 18:48:35",
+      "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
+          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Al Gaucho Gil",
+      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
-        "name": "Oraci\u00f3n del Remanso",
-        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
+        "name": "Por Siempre Chamam\u00e9",
+        "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
       },
       "artists": [
         {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
         }
       ],
-      "duration_ms": 311531,
-      "name": "Oraci\u00f3n del Remanso",
-      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
+      "duration_ms": 145840,
+      "name": "Por Siempre Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
-        "name": "Por Siempre Chamam\u00e9",
-        "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
+        "name": "Oraci\u00f3n del Remanso",
+        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
       },
       "artists": [
         {
-          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
         }
       ],
-      "duration_ms": 145840,
-      "name": "Por Siempre Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN"
+      "duration_ms": 311531,
+      "name": "Oraci\u00f3n del Remanso",
+      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
     },
     {
       "added_at": "2026-04-17 18:48:35",

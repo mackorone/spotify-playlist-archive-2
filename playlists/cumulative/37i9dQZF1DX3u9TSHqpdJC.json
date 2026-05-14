@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Akeira Jade. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: GRESLEY. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -13393,6 +13393,24 @@
     },
     {
       "album": {
+        "name": "Chloe Showed Me",
+        "url": "https://open.spotify.com/album/1iN809Rv6ca7WOfJvuAmlr"
+      },
+      "artists": [
+        {
+          "name": "Sofia D'Angelo",
+          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150797,
+      "name": "Chloe Showed Me",
+      "url": "https://open.spotify.com/track/5XQTbbeLLN5WYvye53LApg"
+    },
+    {
+      "album": {
         "name": "Chocolate",
         "url": "https://open.spotify.com/album/0RNal1yJeaL6AV4Iz9lS91"
       },
@@ -13606,7 +13624,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 213137,
       "name": "Clairvoyant",
       "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
@@ -41892,6 +41910,24 @@
       "duration_ms": 219499,
       "name": "Liar",
       "url": "https://open.spotify.com/track/45XpGaMRJuPJ3LACv1jIOP"
+    },
+    {
+      "album": {
+        "name": "Liar Liar",
+        "url": "https://open.spotify.com/album/0W7U9wdIcFsDVIJmExlPLX"
+      },
+      "artists": [
+        {
+          "name": "dearest",
+          "url": "https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195782,
+      "name": "Liar Liar",
+      "url": "https://open.spotify.com/track/43nlIi8s0GhjIc47lQ7lr5"
     },
     {
       "album": {
@@ -73062,7 +73098,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 195000,
       "name": "TIME",
       "url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk"

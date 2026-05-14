@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Brand\u00e3o85",
-  "num_followers": 148839,
+  "num_followers": 148856,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-05-11 14:35:59",
       "album": {
-        "name": "FATALFATALFATAL",
-        "url": "https://open.spotify.com/album/6mVG3MQDjFsJwSsZDxfXfm"
-      },
-      "artists": [
-        {
-          "name": "FAB GODAMN",
-          "url": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
-        },
-        {
-          "name": "C4rlinhxs",
-          "url": "https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp"
-        }
-      ],
-      "duration_ms": 100769,
-      "name": "COMME DES GAR\u00c7ONS",
-      "url": "https://open.spotify.com/track/4yC4sRDhK1uXLW9B14jyQl"
-    },
-    {
-      "added_at": "2026-05-11 14:35:59",
-      "album": {
         "name": "SP",
         "url": "https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 155624,
       "name": "SP",
       "url": "https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf"
+    },
+    {
+      "added_at": "2026-05-11 14:35:59",
+      "album": {
+        "name": "FATALFATALFATAL",
+        "url": "https://open.spotify.com/album/6mVG3MQDjFsJwSsZDxfXfm"
+      },
+      "artists": [
+        {
+          "name": "FAB GODAMN",
+          "url": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
+        },
+        {
+          "name": "C4rlinhxs",
+          "url": "https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp"
+        }
+      ],
+      "duration_ms": 100769,
+      "name": "COMME DES GAR\u00c7ONS",
+      "url": "https://open.spotify.com/track/4yC4sRDhK1uXLW9B14jyQl"
     },
     {
       "added_at": "2026-05-11 14:35:59",

@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-205 songs - 14 hr 34 min
+206 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 | 2025-08-23 | 2025-10-26 |
 | [AMAKABOGERA](https://open.spotify.com/track/0s3blMulBSWhJoA6Cezb6Z) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI) | [AMAKABOGERA](https://open.spotify.com/album/1Eh38bZzUklsa4jPf0vDex) | 3:05 | 2022-06-13 | 2023-01-04 |
 | [Ang Huling El Bimbo](https://open.spotify.com/track/21LMl54FIe7J5oOoZzgeiQ) | [Eraserheads](https://open.spotify.com/artist/7374lH6kwx9uQATYQ9H3Cp) | [Anthology](https://open.spotify.com/album/2DIpgoeZAbwk3wF1qSDj8v) | 7:30 | 2022-04-19 | 2023-01-19 |
-| [Ang Pag\-Ibig Kong Ito](https://open.spotify.com/track/2M4fBSlTOSsMjkSON97mZR) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Ang Pag\-Ibig Kong Ito](https://open.spotify.com/album/6C1RCcjUmBB9NSkGzgip9V) | 3:45 | 2026-05-06 |  |
+| [Ang Pag\-Ibig Kong Ito](https://open.spotify.com/track/2M4fBSlTOSsMjkSON97mZR) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Ang Pag\-Ibig Kong Ito](https://open.spotify.com/album/6C1RCcjUmBB9NSkGzgip9V) | 3:45 | 2026-05-06 | 2026-05-14 |
 | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n) | 5:04 | 2023-01-04 | 2026-04-30 |
+| [Ano Ba Talaga Tayo?](https://open.spotify.com/track/2KpCEmtEabbAHx2TyXE6NX) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [TAWID](https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot) | 4:12 | 2026-05-13 |  |
 | [Araw Gabi](https://open.spotify.com/track/2G12Q4GtBYw2TG82Luhwmk) | [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [R3.0](https://open.spotify.com/album/4RqIksPrQgCdG83VtcUoYx) | 4:41 | 2026-01-26 | 2026-03-19 |
 | [Araw\-Araw Love](https://open.spotify.com/track/1x7DysraeqSgVgj95hHc3U) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Araw\-Araw Love](https://open.spotify.com/album/4h5wKpTXHfEeYYZIIVOC8g) | 3:31 | 2023-04-03 | 2023-08-02 |
 | [Asan Ka Na Ba](https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Asan Ka Na Ba](https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE) | 4:01 | 2023-03-09 | 2023-12-12 |
@@ -105,7 +106,7 @@
 | [Ligaya](https://open.spotify.com/track/6SHSvo6OGgpneKfsxFGhhk) | [Eraserheads](https://open.spotify.com/artist/7374lH6kwx9uQATYQ9H3Cp) | [Anthology](https://open.spotify.com/album/2DIpgoeZAbwk3wF1qSDj8v) | 4:31 | 2022-06-13 | 2022-06-21 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-04-19 | 2022-06-14 |
 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2024-04-17 | 2025-07-31 |
-| [Luna](https://open.spotify.com/track/2HlJwsf2ItbQoUd6QlIcxY) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [Sol](https://open.spotify.com/artist/5X0TyKrix2K8jKMDNAxGUT) | [Luna](https://open.spotify.com/album/1fX5TB9TKXAmD2iCvU3yl0) | 4:01 | 2026-05-06 |  |
+| [Luna](https://open.spotify.com/track/2HlJwsf2ItbQoUd6QlIcxY) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [Sol](https://open.spotify.com/artist/5X0TyKrix2K8jKMDNAxGUT) | [Luna](https://open.spotify.com/album/1fX5TB9TKXAmD2iCvU3yl0) | 4:01 | 2026-05-06 | 2026-05-14 |
 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 | 2022-04-19 |  |
 | [Magkabilang Mundo](https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 3:56 | 2022-04-19 |  |
 | [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 | 2024-03-06 |  |
@@ -130,7 +131,7 @@
 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2025-07-23 | 2025-10-11 |
 | [Nandito Ako](https://open.spotify.com/track/4hu0C0is1mnAhSdOCgn8Ms) | [Ogie Alcasid](https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN) | [Ogie Alcasid](https://open.spotify.com/album/6ir6gGTgtccvdRg0gEDCHb) | 4:09 | 2025-09-11 | 2025-10-04 |
 | [Nang Dumating Ka](https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Nang Dumating Ka](https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9) | 6:19 | 2022-05-11 | 2023-01-28 |
-| [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 | 2022-06-13 | 2025-08-08 |
+| [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 | 2022-06-13 |  |
 | [Ngiti](https://open.spotify.com/track/1YY6iA00Q58TvDEh6rYaWf) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Songs of Love](https://open.spotify.com/album/386MjtGdyMGEqjldwGVfFd) | 3:30 | 2022-04-19 | 2022-07-29 |
 | [Nicotine](https://open.spotify.com/track/1kGJlesBPme1OI4gdjivqv) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Weed&Melodies](https://open.spotify.com/album/7ynRrAp1PEZ2OWmWnJ6aXY) | 2:00 | 2025-09-17 | 2025-12-03 |
 | [Nobela](https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC) | [Join The Club](https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT) | [Nobela](https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV) | 4:51 | 2022-04-19 |  |

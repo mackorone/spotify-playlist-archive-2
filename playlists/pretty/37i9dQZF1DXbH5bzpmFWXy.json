@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Lucky Brown y El Bogueto en portada.",
-  "num_followers": 308070,
+  "num_followers": 308055,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "Maniaque",
-        "url": "https://open.spotify.com/album/1bTWfPzmSsyWfgDyqQQ2ju"
-      },
-      "artists": [
-        {
-          "name": "Moreno X4",
-          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
-        },
-        {
-          "name": "Little Homie",
-          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
-        }
-      ],
-      "duration_ms": 155970,
-      "name": "Maniaque",
-      "url": "https://open.spotify.com/track/0zWhZGXOh5EZyAbXeWdTbL"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
         "name": "OKRA",
         "url": "https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 215132,
       "name": "Es Mi Gusto",
       "url": "https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "Maniaque",
+        "url": "https://open.spotify.com/album/1bTWfPzmSsyWfgDyqQQ2ju"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        },
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        }
+      ],
+      "duration_ms": 155970,
+      "name": "Maniaque",
+      "url": "https://open.spotify.com/track/0zWhZGXOh5EZyAbXeWdTbL"
     },
     {
       "added_at": "2026-04-10 06:00:46",

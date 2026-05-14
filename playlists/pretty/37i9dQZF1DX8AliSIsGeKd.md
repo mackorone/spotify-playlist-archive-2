@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: CINTHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,806 likes - 90 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,822 likes - 90 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 78 | [I Wish I Had Met You Earlier \- Radio\-Edit](https://open.spotify.com/track/3OW1EDGYIQD4kDbS56UJOE) | [Juliane Wolf](https://open.spotify.com/artist/6ZW2TzV8Dke8s7I7CYCvhP) | [I Wish I Had Met You Earlier](https://open.spotify.com/album/5dCyiZHWandHEyktwPt0tv) | 4:04 |
 | 79 | [I Am The Ocean](https://open.spotify.com/track/6tmg7oDeYogZNIGkBQc4Qp) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [I Am The Ocean](https://open.spotify.com/album/3egg9wdPvEiEyNeCUQXgjs) | 4:31 |
 | 80 | [Dimensions](https://open.spotify.com/track/7L5wjzd0ViRX8YjmmC5TTG) | [Rad.Lez](https://open.spotify.com/artist/1g055PKra2qBHhfP62Dwjk) | [Dimensions](https://open.spotify.com/album/1XTHXZ12Gp6CEmnnmgvDAJ) | 6:04 |
-| 81 | [Intermezzo](https://open.spotify.com/track/3QHgXz4CMg9aFW041ij9Oc) | [D\-Formation](https://open.spotify.com/artist/5wt6ykFuNy0WtBpYVaG7OY), [Alex Medina](https://open.spotify.com/artist/110rQdN8A00wYaqmUWi0q2), [YES TO ALL](https://open.spotify.com/artist/40lMWHuG3a2SlrdeAYEhOf) | [Opus](https://open.spotify.com/album/4y0CM5jQNic5EmF1BPbF31) | 3:24 |
-| 82 | [On Display](https://open.spotify.com/track/7Hnw2OSKBahLItogMXSeMZ) | [Differ](https://open.spotify.com/artist/0ivmXXhkqLJtg0LZxRCEO7), [NURAN](https://open.spotify.com/artist/0GwaDQL8h37L435sHBrKXZ) | [On Display](https://open.spotify.com/album/1dFPbKxgBfrxHckmUZRQpw) | 3:11 |
+| 81 | [Intermezzo](https://open.spotify.com/track/3QHgXz4CMg9aFW041ij9Oc) | [D\-Formation](https://open.spotify.com/artist/5wt6ykFuNy0WtBpYVaG7OY), [Alex Medina](https://open.spotify.com/artist/110rQdN8A00wYaqmUWi0q2), [YES TO ALL.](https://open.spotify.com/artist/40lMWHuG3a2SlrdeAYEhOf) | [Opus](https://open.spotify.com/album/4y0CM5jQNic5EmF1BPbF31) | 3:24 |
+| 82 | [On Display](https://open.spotify.com/track/7Hnw2OSKBahLItogMXSeMZ) | [Differ](https://open.spotify.com/artist/0ivmXXhkqLJtg0LZxRCEO7), [Nuran](https://open.spotify.com/artist/5oYcT2rO56Rff3AExXCzYC) | [On Display](https://open.spotify.com/album/1dFPbKxgBfrxHckmUZRQpw) | 3:11 |
 | 83 | [MASCHINE GIRL](https://open.spotify.com/track/3BBFvnAMVjaSuO0zEe2fv0) | [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4) | [Zera](https://open.spotify.com/album/1vBQqoI6ewbKgmQLYZp7B0) | 5:27 |
 | 84 | [hallelujah](https://open.spotify.com/track/0PE7lvCrReR38rBCmZFCXg) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR) | [hallelujah](https://open.spotify.com/album/3QzGExbP1tLOq0YFN19Ajt) | 2:26 |
 | 85 | [Can't Wait No More](https://open.spotify.com/track/5jdGYRQ13bOgkUU7lJRHhb) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Can't Wait No More](https://open.spotify.com/album/5iIHOHgxwfXODtdNBGcaeD) | 3:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZPY8b2vRlv.md) - [plain]
 
 > Jam out with the whole family to music from Netflix Dr\. Seuss Tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,961 likes - 36 songs - 54 min 9 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,006 likes - 36 songs - 54 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZPY8b2vRlv.md) - [plain]
 | 35 | [Who Wants Ice Cream](https://open.spotify.com/track/027QL2kORIrnGpmDS8O8yV) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Dr\. Seuss's Red Fish, Blue Fish \(Songs from the World of the Netflix Series\)](https://open.spotify.com/album/2ooexw11NRx4AyhDsGb6qr) | 2:40 |
 | 36 | [The Dino Stomp](https://open.spotify.com/track/6bZnX6X5hTlz2oa4bp6Q5k) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Dr\. Seuss's Red Fish, Blue Fish \(Songs from the World of the Netflix Series\)](https://open.spotify.com/album/2ooexw11NRx4AyhDsGb6qr) | 1:45 |
 
-Snapshot ID: `AAAAAHXAH3uB6yfQviAiSZm144HfjBkp`
+Snapshot ID: `AAAAAKLN/3YbBYGZCF6wWxE8v/rLb5di`

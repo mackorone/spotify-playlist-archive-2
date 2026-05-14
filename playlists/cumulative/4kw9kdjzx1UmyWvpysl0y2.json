@@ -3553,6 +3553,28 @@
     },
     {
       "album": {
+        "name": "BURST",
+        "url": "https://open.spotify.com/album/1VMOFZeTj6zosipVpjiCiT"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "PROP",
+          "url": "https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137960,
+      "name": "BURST",
+      "url": "https://open.spotify.com/track/57V2MhFR1RSbVrAsH2w5wN"
+    },
+    {
+      "album": {
         "name": "BUSTED",
         "url": "https://open.spotify.com/album/0j1YfLra3m8CJCRvPhVcql"
       },

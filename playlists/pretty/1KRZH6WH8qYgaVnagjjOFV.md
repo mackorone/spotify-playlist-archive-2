@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>  cinco de mayo , soaking worship , jelly roll worship
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 374,149 likes - 143 songs - 9 hr 15 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 374,153 likes - 143 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 87 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:22 |
 | 88 | [No Survivors](https://open.spotify.com/track/4rjFbBwvAOkBWFqGPcqmJF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [No Survivors](https://open.spotify.com/album/40HxW3w0otYnlVSd6tiJU9) | 2:20 |
 | 89 | [The 99](https://open.spotify.com/track/7pFwbwpCAvkDsuXxI604Td) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [I LOVE JESUS](https://open.spotify.com/album/3spuKcoEfckg0uxMR9LoUe) | 3:21 |
-| 90 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 |
+| 90 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 |
 | 91 | [God Did It \(with Jamie MacDonald\)](https://open.spotify.com/track/2nMbu51k9Q5O3NieTYO4z9) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [God Did It](https://open.spotify.com/album/4hR7Z0kv70acg2wmKBXj2u) | 3:21 |
 | 92 | [Rest In The Father](https://open.spotify.com/track/5IDjOtUQ2UAjyoJ3vN7xbh) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Divided Frame Of Mind](https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy) | 3:16 |
 | 93 | [JERICHO WALLS](https://open.spotify.com/track/2lboNYBNF71Ju153GaMrez) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [JERICHO WALLS](https://open.spotify.com/album/3Tco6lGqiHmttFOd9z5pkb) | 3:05 |

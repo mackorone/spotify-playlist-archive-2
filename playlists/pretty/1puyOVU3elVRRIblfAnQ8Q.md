@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 ### [Zeds Dead's Deadbeats](https://open.spotify.com/playlist/1puyOVU3elVRRIblfAnQ8Q)
 
-> JOURNEY OF A LIFETIME \-\- TOUR ONSALE NOW \-\- ZEDSDEAD.NET
+> Celebrating 10 Years of Deadbeats\. <a href="https://shop.deadbeats.com">Shop the collection now</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,609 likes - 21 songs - 1 hr 11 min
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,610 likes - 21 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 | 20 | [Lightsplinter](https://open.spotify.com/track/6voYRDM3MGPat0kXsIscD3) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Lightsplinter](https://open.spotify.com/album/30tr7cMl8XO2p4yoZAqFfy) | 3:13 |
 | 21 | [Runaway](https://open.spotify.com/track/4P5CWKmgT5kYZ3GRSm7Cb4) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Runaway](https://open.spotify.com/album/46ll2ZERjJ5Jl40uLauUsk) | 2:49 |
 
-Snapshot ID: `AAAXkWqQsuysbzaxvU3UvqM1xJPI8I9+`
+Snapshot ID: `AAAXknzHbenUOlBg1LzbZilz8nEaq+cx`

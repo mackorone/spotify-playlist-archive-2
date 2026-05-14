@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Yudino]. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [ischi]. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -5128,6 +5128,24 @@
       "duration_ms": 255745,
       "name": "ANO",
       "url": "https://open.spotify.com/track/1rrF5t2HbS3OBmGwCIW5Ez"
+    },
+    {
+      "album": {
+        "name": "Ano",
+        "url": "https://open.spotify.com/album/1tS6IeQYqvHDZS2RSvP65I"
+      },
+      "artists": [
+        {
+          "name": "MARY CHEN",
+          "url": "https://open.spotify.com/artist/08BrTT9UoIbzvAAzaV7y1a"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286308,
+      "name": "Ano",
+      "url": "https://open.spotify.com/track/6ive27zMCIHY2tFLa74fz2"
     },
     {
       "album": {
@@ -14456,6 +14474,24 @@
       "duration_ms": 202314,
       "name": "Dahan Dahan",
       "url": "https://open.spotify.com/track/2adpztO2LPvfxEn5tBXBBT"
+    },
+    {
+      "album": {
+        "name": "dahan-dahan",
+        "url": "https://open.spotify.com/album/5fJLsIUlS9ALsds3xIlrtd"
+      },
+      "artists": [
+        {
+          "name": "ischi",
+          "url": "https://open.spotify.com/artist/5cdH6V4FS28zQgu4nyvaja"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206129,
+      "name": "dahan-dahan",
+      "url": "https://open.spotify.com/track/62im1CQT3L5BVUM65Apdvy"
     },
     {
       "album": {
@@ -64501,6 +64537,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/59pHzWgQohtTwXt2meNzaZ"
+      },
+      "artists": [
+        {
+          "name": "Petsanity",
+          "url": "https://open.spotify.com/artist/1OVaCQucAYwylVm6HxeqXm"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205752,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21m41twE6QsT6LsTtBJGb2"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/3T9FeJKBGDOAFz68O9qEzz"
       },
@@ -72962,6 +73016,24 @@
       "duration_ms": 150777,
       "name": "UWU",
       "url": "https://open.spotify.com/track/2Zib8gVapc6UJWCksjN4MZ"
+    },
+    {
+      "album": {
+        "name": "uy miss u!",
+        "url": "https://open.spotify.com/album/19FCValCx82v8JqKxSaxGI"
+      },
+      "artists": [
+        {
+          "name": "Loenna",
+          "url": "https://open.spotify.com/artist/03ksnHGHCpJ8J5wodvsTFI"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "uy miss u!",
+      "url": "https://open.spotify.com/track/67xPDZRf4HwVB9kFt5ZkQ9"
     },
     {
       "album": {

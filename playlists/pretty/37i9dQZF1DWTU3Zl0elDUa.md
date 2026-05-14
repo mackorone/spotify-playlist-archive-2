@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Crystal Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,125 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,421 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Was That All It Was \- Def Mix Edit 2](https://open.spotify.com/track/0dPA0IEjHKMKDlHTS4tY9g) | [Kym Mazelle](https://open.spotify.com/artist/7CgweQAq49HmeMQaxzyuXC) | [Brilliant!!](https://open.spotify.com/album/16GqsaJujQk5DxtPVh8NWh) | 5:39 |
 | 60 | [Trouble](https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs) | [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ) | [The World is Full of Trouble](https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn) | 7:26 |
 
-Snapshot ID: `AAAAAHkxnL41D5UY7ALyoMbn7ynseNX8`
+Snapshot ID: `AAAAAC2MdVfxbTnj3oAvWo3HiL0ZIFZI`

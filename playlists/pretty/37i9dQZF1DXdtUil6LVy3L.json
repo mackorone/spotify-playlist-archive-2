@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 39088,
+  "num_followers": 39087,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
-      },
-      "artists": [
-        {
-          "name": "Dan Evans-Parker",
-          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
-        }
-      ],
-      "duration_ms": 122414,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/103crj7lihLZ9eBeWQxUUT"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 211525,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/25VBSxpZDaYFif7pYVpUdO"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "duration_ms": 122414,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
+        "name": "O Tannenbaum",
+        "url": "https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN"
+      },
+      "artists": [
+        {
+          "name": "A Little Time",
+          "url": "https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR"
+        }
+      ],
+      "duration_ms": 123173,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/09K85uBFteuPunRZw3z0HQ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 200516,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/2rNZgCXOKKQQh70tYCtPkS"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
-        "name": "We Three Kings",
-        "url": "https://open.spotify.com/album/1Q2yEQkTcFH0O7wp5tA1bH"
-      },
-      "artists": [
-        {
-          "name": "Augustus Step",
-          "url": "https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M"
-        }
-      ],
-      "duration_ms": 179183,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/220q8pjM8CL42cIGT1jSBj"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
+        "name": "We Three Kings",
+        "url": "https://open.spotify.com/album/1Q2yEQkTcFH0O7wp5tA1bH"
+      },
+      "artists": [
+        {
+          "name": "Augustus Step",
+          "url": "https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M"
+        }
+      ],
+      "duration_ms": 179183,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/220q8pjM8CL42cIGT1jSBj"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
         "name": "Angels We Have Heard on High",
         "url": "https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 160500,
       "name": "Angels We Have Heard on High",
       "url": "https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
-        "name": "O Tannenbaum",
-        "url": "https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN"
-      },
-      "artists": [
-        {
-          "name": "A Little Time",
-          "url": "https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR"
-        }
-      ],
-      "duration_ms": 123173,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7"
     },
     {
       "added_at": "2025-12-19 14:32:05",

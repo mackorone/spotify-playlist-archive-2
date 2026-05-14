@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Black Mariah",
+        "url": "https://open.spotify.com/album/3m00qDdaAMsv3B1W6EIhBh"
+      },
+      "artists": [
+        {
+          "name": "Fruition",
+          "url": "https://open.spotify.com/artist/3iUbju4Cu6cPX5llxZWMqA"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/4KvXKfrldA8J7d3mIFBXp5"
+    },
+    {
+      "album": {
         "name": "Alternative Ulster",
         "url": "https://open.spotify.com/album/4wZLd7iVyTOsJtoe491Spj"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 204378,
       "name": "Altrove",
       "url": "https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4"
@@ -686,7 +704,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 164038,
       "name": "Can I See U Again?",
       "url": "https://open.spotify.com/track/0ZfTda2rDafMvWBLghgoEW"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 333557,
       "name": "dealihea",
       "url": "https://open.spotify.com/track/4OIkCRqHqvEjR6CrWifwOZ"
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 189753,
       "name": "Dollface",
       "url": "https://open.spotify.com/track/2gJlmzqblAarjB9FPa3WaD"
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 133520,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ"
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 222155,
       "name": "Down and Out",
       "url": "https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e"
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 196000,
       "name": "Enough",
       "url": "https://open.spotify.com/track/5vm4R22GJJVbZU1rsq2UXE"
@@ -2770,7 +2788,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 101033,
       "name": "I stood for u (Girlfriends)",
       "url": "https://open.spotify.com/track/1jH06cHxmyraxNtV9HFoTo"
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 101250,
       "name": "I.if only i could get next to you",
       "url": "https://open.spotify.com/track/3pJmDvcs4mQycH2R5RGhnZ"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 168500,
       "name": "Ich werd nicht weniger",
       "url": "https://open.spotify.com/track/0fcuM80u8rmO19kZzWMbyU"
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 220200,
       "name": "If I Go Missin\u2019",
       "url": "https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk"
@@ -3416,7 +3434,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 160810,
       "name": "Liminal",
       "url": "https://open.spotify.com/track/1vHbFf4vScIbvOqdlUTmIU"
@@ -4018,7 +4036,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 211626,
       "name": "Next In Line",
       "url": "https://open.spotify.com/track/7G4XN3ChekRS6KOxOIF68G"
@@ -4717,6 +4735,24 @@
     },
     {
       "album": {
+        "name": "Seconds Of Neon",
+        "url": "https://open.spotify.com/album/0hxfW38i7HETPx1KNu9qtC"
+      },
+      "artists": [
+        {
+          "name": "WETLOOK",
+          "url": "https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211250,
+      "name": "Seconds Of Neon",
+      "url": "https://open.spotify.com/track/7y8IcDNbf1RJtD1QDjscuu"
+    },
+    {
+      "album": {
         "name": "See the Sun",
         "url": "https://open.spotify.com/album/6JxAl2HIHiULrLQsFXT2Ms"
       },
@@ -5316,7 +5352,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 188403,
       "name": "Take It",
       "url": "https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6"
@@ -5662,7 +5698,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 415380,
       "name": "This Is How We Say Goodbye",
       "url": "https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU"
@@ -6650,7 +6686,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 195320,
       "name": "You're So Uninviting",
       "url": "https://open.spotify.com/track/1U6hp7lzgST4lzxRIR1VvW"
@@ -6668,7 +6704,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 180614,
       "name": "Your Flow",
       "url": "https://open.spotify.com/track/7w3PDDIQ9mO58DnRpbwRFJ"

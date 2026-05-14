@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 855984,
+  "num_followers": 856066,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAA0Xwc5bLfNug0MMiw8ISs9",
+  "snapshot_id": "agJtgAAAAAC38ugGKT49FnGZLgRJNRXA",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Mundos",
-        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viento A Favor",
         "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 250226,
       "name": "Te Voy a Perder",
       "url": "https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Estuve",
+      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piel De Ni\u00f1a",
+        "url": "https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 125200,
+      "name": "Cascos Ligeros",
+      "url": "https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piel De Ni\u00f1a",
-        "url": "https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 125200,
-      "name": "Cascos Ligeros",
-      "url": "https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Mundos - Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Ma\u00f1ana Es Para Siempre",
-      "url": "https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Seas Muy Feliz",
         "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 205400,
       "name": "La Mitad Que Me Faltaba",
       "url": "https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Ma\u00f1ana Es Para Siempre",
+      "url": "https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A"
     },
     {
       "added_at": null,
@@ -803,6 +803,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cada Vez Me Gusta M\u00e1s",
+        "url": "https://open.spotify.com/album/5TJY54fjTgOepbCBWdjFJj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 204814,
+      "name": "Cada Vez Me Gusta M\u00e1s",
+      "url": "https://open.spotify.com/track/2GItC45oeKDIr66PLrhUhb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1800 Noches",
         "url": "https://open.spotify.com/album/0kwzWsmJGDlHG0Vv0vf9rG"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 204240,
       "name": "Te Quiero, Te Quiero",
       "url": "https://open.spotify.com/track/2Gxl1JA1dAUtiIHBnulxrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cada Vez Me Gusta M\u00e1s",
-        "url": "https://open.spotify.com/album/5TJY54fjTgOepbCBWdjFJj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 204814,
-      "name": "Cada Vez Me Gusta M\u00e1s",
-      "url": "https://open.spotify.com/track/2GItC45oeKDIr66PLrhUhb"
     },
     {
       "added_at": null,

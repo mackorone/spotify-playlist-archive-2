@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Artur Rojek
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,713 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,756 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gruby, mały](https://open.spotify.com/track/2WaOaEIZr4oh0ln0L97VjQ) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Gruby, mały](https://open.spotify.com/album/1UXja0VTnnSZ08viavGIp7) | 4:01 |
 | 2 | [Bieg](https://open.spotify.com/track/7cwPrxZzaGIERfZyvOHFgC) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Bieg](https://open.spotify.com/album/010X5xCNCkmielvqtPvrLu) | 3:25 |
 | 3 | [Anioły \(Pojedynek\)](https://open.spotify.com/track/2FPk6E4BfCsdJ4esqT6bVv) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Julia Pietrucha](https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg) | [Anioły \(Pojedynek\)](https://open.spotify.com/album/6Y1mNv6Zlfkh8U7H2jabST) | 4:42 |
-| 4 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4), [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
+| 4 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
 | 5 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
 | 6 | [Pod palmą](https://open.spotify.com/track/6vVyS9N3OMgLkD9vyXAeZX) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Pod palmą](https://open.spotify.com/album/6a1uTLnv1MLnjdm43RzVGI) | 4:21 |
 | 7 | [BEZ OBAW](https://open.spotify.com/track/7iIaD7kw9gsILDIEMb6hNy) | [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I), [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [BEZ OBAW](https://open.spotify.com/album/19t8EPdrmeyFcyfsdy8O9G) | 2:43 |

@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 174866,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
@@ -6994,7 +6994,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -12080,7 +12080,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 180133,
       "name": "Canto A La Madre - Tema Remasterizado",
       "url": "https://open.spotify.com/track/7hQvMZbTFwk81J1xyIGGXB"
@@ -12098,7 +12098,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 180533,
       "name": "Canto A La Madre - Tema Remasterizado",
       "url": "https://open.spotify.com/track/0ON1eJLbEYcRAP6ofjUw0r"
@@ -28646,7 +28646,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -28664,7 +28664,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -32790,7 +32790,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 237760,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
@@ -35784,7 +35784,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 180163,
       "name": "La Cita Fresita - En Vivo",
       "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
@@ -43725,6 +43725,32 @@
     },
     {
       "album": {
+        "name": "Mendigo",
+        "url": "https://open.spotify.com/album/0mEdeBzsK1t6C3rffPtHRp"
+      },
+      "artists": [
+        {
+          "name": "yoilya",
+          "url": "https://open.spotify.com/artist/0JO6iSEawFTeWSPEkjMA5X"
+        },
+        {
+          "name": "22xlstl",
+          "url": "https://open.spotify.com/artist/4OM1oMd7QgznACLRI70AAx"
+        },
+        {
+          "name": "hark",
+          "url": "https://open.spotify.com/artist/6nf4C1Vqbh3A7Htm50rCfg"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203232,
+      "name": "Mendigo",
+      "url": "https://open.spotify.com/track/3nkrE4V5iXQgsRohn0J2DO"
+    },
+    {
+      "album": {
         "name": "Menthol",
         "url": "https://open.spotify.com/album/4J0cGevPAxdyPGSYrcSt09"
       },
@@ -50154,7 +50180,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 204321,
       "name": "Noche Perfecta",
       "url": "https://open.spotify.com/track/3DEPnIQZWIcpRUwH5O0J6O"
@@ -55954,7 +55980,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 177662,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/7HzLGyZkbUtatOACuwO75x"
@@ -64610,10 +64636,28 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 191879,
       "name": "Sin Aviso",
       "url": "https://open.spotify.com/track/5gyN4TuLCoC6NMmOSITONE"
+    },
+    {
+      "album": {
+        "name": "Sin Aviso",
+        "url": "https://open.spotify.com/album/0K7atd0Xlkz78z0iGjjGsZ"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcero Banks",
+          "url": "https://open.spotify.com/artist/18v14AqUUBNlYU6gvfpx9x"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191880,
+      "name": "Sin Aviso",
+      "url": "https://open.spotify.com/track/5Ex1PeshQCjESMfgdDjpc1"
     },
     {
       "album": {
@@ -69190,7 +69234,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 124032,
       "name": "Te Queda Bonito",
       "url": "https://open.spotify.com/track/1z6rqCTdKSwBVxKny3zA95"
@@ -69208,7 +69252,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 124051,
       "name": "Te Queda Bonito",
       "url": "https://open.spotify.com/track/0L2J3fAkbDlj4udJqjBqVV"
@@ -73200,7 +73244,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 191752,
       "name": "TUKI TUKI",
       "url": "https://open.spotify.com/track/0bn8tRZZtmn6Zdq82T1mOf"

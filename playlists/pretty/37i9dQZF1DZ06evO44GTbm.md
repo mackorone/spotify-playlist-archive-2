@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 
 > This is Elori Saxl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 26 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 26 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 | 21 | [Raindrops](https://open.spotify.com/track/3EErgq0XAaJNoUPU3Xd4Dr) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 4:35 |
 | 22 | [Memory of Blue](https://open.spotify.com/track/1NXcoT10xZSw1fjqKfY9qt) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 11:38 |
 | 23 | [Surfaces](https://open.spotify.com/track/3AOGToArEclNahkwA3k21d) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 5:46 |
-| 24 | [Shorter Lifespan](https://open.spotify.com/track/0oDB8Ze5Bm1frei1awKXtZ) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 1:55 |
+| 24 | [Concrete River](https://open.spotify.com/track/0kWyDMdwYXMiN0ROB46xl7) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 1:54 |
 | 25 | [Drifts II](https://open.spotify.com/track/143Uu2ssw2p9to2BNXcdjV) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 5:28 |
-| 26 | [Concrete River](https://open.spotify.com/track/0kWyDMdwYXMiN0ROB46xl7) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 1:54 |
+| 26 | [Shorter Lifespan](https://open.spotify.com/track/0oDB8Ze5Bm1frei1awKXtZ) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 1:55 |
 
-Snapshot ID: `agEcAAAAAAC0k1hZMAqpfHHFh49hyggG`
+Snapshot ID: `agJtgAAAAAD+O/4jFS0udzUPLNQELCin`

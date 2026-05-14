@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 378754,
+  "num_followers": 378779,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAADLkkldqik1VRGjQkmBpV9X",
+  "snapshot_id": "agJtgAAAAABvrjChOqmlhsL62v0xwrRE",
   "tracks": [
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Vetements",
-      "url": "https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 173524,
       "name": "La Canci\u00f3n Feliz Del Disco",
       "url": "https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Vetements",
+      "url": "https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "El Reggaet\u00f3n del Disco",
-      "url": "https://open.spotify.com/track/15F8m8VShRlBXmSbwZBUTt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -951,6 +931,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 203750,
+      "name": "El Reggaet\u00f3n del Disco",
+      "url": "https://open.spotify.com/track/15F8m8VShRlBXmSbwZBUTt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chosen Few New Generation II - Recharged",
         "url": "https://open.spotify.com/album/382jindm6my1i05NJfXQLr"
       },
@@ -979,18 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+        "name": "1%",
+        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
       },
       "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 90352,
-      "name": "Invencible",
-      "url": "https://open.spotify.com/track/4Vc16xSZRb0t7V8A22akHH"
+      "duration_ms": 224845,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
     },
     {
       "added_at": null,
@@ -1015,22 +1019,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "1%",
-        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
       },
       "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 224845,
-      "name": "1%",
-      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
+      "duration_ms": 90352,
+      "name": "Invencible",
+      "url": "https://open.spotify.com/track/4Vc16xSZRb0t7V8A22akHH"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

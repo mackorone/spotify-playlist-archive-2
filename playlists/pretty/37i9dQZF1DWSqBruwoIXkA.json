@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with Mulaa Joans",
-  "num_followers": 2394146,
+  "num_followers": 2394133,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 246606,
-      "name": "stay a little longer",
-      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "It'll Be Okay",
@@ -999,6 +983,22 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 246606,
+      "name": "stay a little longer",
+      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
     },
     {
-      "added_at": "2026-02-13 05:00:48",
-      "album": {
-        "name": "DON\u2019T YOU SEE ME TRYING?",
-        "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
-      },
-      "artists": [
-        {
-          "name": "Erin LeCount",
-          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
-        }
-      ],
-      "duration_ms": 213887,
-      "name": "DON\u2019T YOU SEE ME TRYING?",
-      "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "i wish you cheated",
@@ -1509,20 +1493,20 @@
       "url": "https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP"
     },
     {
-      "added_at": "2026-02-20 05:13:45",
+      "added_at": "2026-02-13 05:00:48",
       "album": {
-        "name": "No More Heart To Break",
-        "url": "https://open.spotify.com/album/1IqQ989Pv2zO8K33HRXknk"
+        "name": "DON\u2019T YOU SEE ME TRYING?",
+        "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
       },
       "artists": [
         {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
         }
       ],
-      "duration_ms": 217917,
-      "name": "No More Heart To Break",
-      "url": "https://open.spotify.com/track/2Aw6y57VpYel8CmRWtODTn"
+      "duration_ms": 213887,
+      "name": "DON\u2019T YOU SEE ME TRYING?",
+      "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1555,6 +1539,22 @@
       "duration_ms": 243907,
       "name": "Astronomy",
       "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
+    },
+    {
+      "added_at": "2026-02-20 05:13:45",
+      "album": {
+        "name": "No More Heart To Break",
+        "url": "https://open.spotify.com/album/1IqQ989Pv2zO8K33HRXknk"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 217917,
+      "name": "No More Heart To Break",
+      "url": "https://open.spotify.com/track/2Aw6y57VpYel8CmRWtODTn"
     },
     {
       "added_at": "2025-08-08 04:00:48",
@@ -1593,38 +1593,6 @@
       "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
     },
     {
-      "added_at": "2026-01-23 05:58:48",
-      "album": {
-        "name": "Love To Hate Me",
-        "url": "https://open.spotify.com/album/0ZTzjWMvCojnPErhSvcR22"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Love To Hate Me",
-      "url": "https://open.spotify.com/track/24hGRuiXla6Kqu0uuBZZXC"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 169990,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
-    },
-    {
       "added_at": "2025-08-01 04:00:33",
       "album": {
         "name": "Parking Lot",
@@ -1655,6 +1623,38 @@
       "duration_ms": 179534,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
+    },
+    {
+      "added_at": "2026-01-23 05:58:48",
+      "album": {
+        "name": "Love To Hate Me",
+        "url": "https://open.spotify.com/album/0ZTzjWMvCojnPErhSvcR22"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Love To Hate Me",
+      "url": "https://open.spotify.com/track/24hGRuiXla6Kqu0uuBZZXC"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 169990,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1689,22 +1689,6 @@
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
     },
     {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "A PERFECT WORLD",
-        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "A PERFECT WORLD",
-      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
-    },
-    {
       "added_at": "2025-10-10 04:00:28",
       "album": {
         "name": "You You You / Audrey Hepburn",
@@ -1735,6 +1719,22 @@
       "duration_ms": 169320,
       "name": "The Knife In My Back",
       "url": "https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "A PERFECT WORLD",
+        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "A PERFECT WORLD",
+      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
     },
     {
       "added_at": "2025-01-31 05:00:34",
@@ -1771,7 +1771,7 @@
     {
       "added_at": "2025-07-11 04:00:20",
       "album": {
-        "name": "Rest Of Me",
+        "name": "Rest of Me",
         "url": "https://open.spotify.com/album/6n8vxGMToOmgBWYdp0oADs"
       },
       "artists": [
@@ -1781,7 +1781,7 @@
         }
       ],
       "duration_ms": 216944,
-      "name": "Rest Of Me",
+      "name": "Rest of Me",
       "url": "https://open.spotify.com/track/7ifLkceJW9y0uBmlJDcJqF"
     },
     {
@@ -2057,22 +2057,6 @@
       "url": "https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf"
     },
     {
-      "added_at": "2025-10-24 04:20:02",
-      "album": {
-        "name": "The Pines",
-        "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Restless Eyes",
-      "url": "https://open.spotify.com/track/6xDeYK7kBYz5pk7HaNcf1H"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Narcissist",
@@ -2087,6 +2071,22 @@
       "duration_ms": 172878,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
+    },
+    {
+      "added_at": "2025-10-24 04:20:02",
+      "album": {
+        "name": "The Pines",
+        "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Restless Eyes",
+      "url": "https://open.spotify.com/track/6xDeYK7kBYz5pk7HaNcf1H"
     },
     {
       "added_at": "2025-11-07 05:00:51",
@@ -2141,22 +2141,6 @@
       "url": "https://open.spotify.com/track/7uKXumzluES9YdRyYB4Ur7"
     },
     {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
-        "name": "Please Don't Hate Me",
-        "url": "https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn"
-      },
-      "artists": [
-        {
-          "name": "Aaron Rowe",
-          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
-        }
-      ],
-      "duration_ms": 201063,
-      "name": "Please Don't Hate Me",
-      "url": "https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Spotify Singles",
@@ -2171,6 +2155,22 @@
       "duration_ms": 190652,
       "name": "Heather - Spotify Singles",
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+    },
+    {
+      "added_at": "2026-01-16 05:00:45",
+      "album": {
+        "name": "Please Don't Hate Me",
+        "url": "https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "duration_ms": 201063,
+      "name": "Please Don't Hate Me",
+      "url": "https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2205,22 +2205,6 @@
       "url": "https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn"
     },
     {
-      "added_at": "2026-02-06 04:58:34",
-      "album": {
-        "name": "The Rain Isn't Over",
-        "url": "https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 182348,
-      "name": "The Rain Isn't Over",
-      "url": "https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0"
-    },
-    {
       "added_at": "2026-01-09 05:00:49",
       "album": {
         "name": "Tell Me It's Over",
@@ -2235,6 +2219,22 @@
       "duration_ms": 176133,
       "name": "Tell Me It's Over",
       "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
+    },
+    {
+      "added_at": "2026-02-06 04:58:34",
+      "album": {
+        "name": "The Rain Isn't Over",
+        "url": "https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 182348,
+      "name": "The Rain Isn't Over",
+      "url": "https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0"
     },
     {
       "added_at": "2026-01-09 05:00:49",

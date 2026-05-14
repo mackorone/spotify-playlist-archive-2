@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Tiakola, Jul, Charli xcx et Calvin Harris x Jazzy au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,412 likes - 92 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,370 likes - 92 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

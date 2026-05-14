@@ -123405,6 +123405,24 @@
     },
     {
       "album": {
+        "name": "Otherside of Town",
+        "url": "https://open.spotify.com/album/65PviIp6U5qtZd7Go0mN5v"
+      },
+      "artists": [
+        {
+          "name": "Telescreens",
+          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171713,
+      "name": "Other Side of Town",
+      "url": "https://open.spotify.com/track/0x6uXHRKMHjvaByp8BUWnj"
+    },
+    {
+      "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/3jQM8I4XJIFIvQPxBX1gHy"
       },
@@ -123474,24 +123492,6 @@
       "duration_ms": 222078,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/5ZGrAvSbS9qOEphpjwn3Aj"
-    },
-    {
-      "album": {
-        "name": "Otherside of Town",
-        "url": "https://open.spotify.com/album/65PviIp6U5qtZd7Go0mN5v"
-      },
-      "artists": [
-        {
-          "name": "Telescreens",
-          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
-        }
-      ],
-      "date_added": "2026-05-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171713,
-      "name": "Otherside of Town",
-      "url": "https://open.spotify.com/track/0x6uXHRKMHjvaByp8BUWnj"
     },
     {
       "album": {

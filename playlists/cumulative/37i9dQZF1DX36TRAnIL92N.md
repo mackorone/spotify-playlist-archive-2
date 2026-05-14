@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-309 songs - 1 day 1 hr 13 min
+310 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Portal](https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G) | 6:24 | 2022-07-11 | 2022-10-29 |
 | [Portal](https://open.spotify.com/track/3mwpXrMLka70VsDLn1hunw) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/5n4aScv2NiUPaLnNGeZrWt) | 6:24 | 2022-07-05 | 2022-07-29 |
 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-16 |  |
-| [Problema](https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Problema](https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF) | 3:01 | 2026-04-03 |  |
+| [Problema](https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Problema](https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF) | 3:01 | 2026-04-03 | 2026-05-14 |
+| [Prometheus](https://open.spotify.com/track/1dznoQSE5C6FWSuQR3ULw6) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Prometheus](https://open.spotify.com/album/5exMhB5Came3qQnVQNTly0) | 4:09 | 2026-05-08 |  |
 | [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 | 2024-08-16 | 2025-11-21 |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-04-13 |  |
 | [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-04-07 | 2023-04-14 |

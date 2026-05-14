@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: NO TIME FOR SILENCE
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,453 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,452 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

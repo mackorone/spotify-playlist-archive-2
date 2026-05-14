@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166629,
+  "num_followers": 166618,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 246946,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 246946,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "PAPOTA",
-        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        }
-      ],
-      "duration_ms": 170038,
-      "name": "EL D\u00cdA DEL AMIGO",
-      "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "I Know A Name",
         "url": "https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 429454,
       "name": "I Know A Name",
       "url": "https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "PAPOTA",
+        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "duration_ms": 170038,
+      "name": "EL D\u00cdA DEL AMIGO",
+      "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Sinners (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
-      },
-      "artists": [
-        {
-          "name": "Miles Caton",
-          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
-        },
-        {
-          "name": "Sinners Movie",
-          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
-        }
-      ],
-      "duration_ms": 314906,
-      "name": "I Lied to You",
-      "url": "https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -1087,18 +1067,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "TGIF",
-        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
+        "name": "Sinners (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Miles Caton",
+          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
         }
       ],
-      "duration_ms": 164571,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
+      "duration_ms": 314906,
+      "name": "I Lied to You",
+      "url": "https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1115,6 +1099,22 @@
       "duration_ms": 188386,
       "name": "Rio",
       "url": "https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Cowboys And Dreamers",
         "url": "https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 189746,
       "name": "Honky Tonk Hall Of Fame",
       "url": "https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 199209,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi"
     },
     {
       "added_at": "2025-11-12 17:50:29",

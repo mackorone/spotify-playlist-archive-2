@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 15079,
+  "num_followers": 15116,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAA2Ud71xCkKyec1ZhY0a21p",
+  "snapshot_id": "agJtgAAAAADz+eICF1RFXrEWTlDK8pM/",
   "tracks": [
     {
       "added_at": null,
@@ -1079,6 +1079,38 @@
       "duration_ms": 153586,
       "name": "Aju",
       "url": "https://open.spotify.com/track/5OKRfZjxg0rfrx8ZQxw8X0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Su Madre Mandrake",
+          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
+        }
+      ],
+      "duration_ms": 246965,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
     }
   ],
   "unique_name": "This Is AJULLIACOSTA",

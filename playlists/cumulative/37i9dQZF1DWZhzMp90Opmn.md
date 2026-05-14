@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-649 songs - 1 day 9 hr 23 min
+650 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Pink Noise Continuum](https://open.spotify.com/track/40FPKwy3G8Ilvjvgx7DDcW) | [Pointillism](https://open.spotify.com/artist/6JirfCD0iO9srNDD1PEuyZ) | [Pink Noise Continuum](https://open.spotify.com/album/4YarB4Dxw1kTmRpcD7tvCs) | 2:47 | 2026-03-31 |  |
 | [Pink Noise Cotton](https://open.spotify.com/track/2RGCXxyC7t51YEB5ppQtdL) | [Aequencies](https://open.spotify.com/artist/6vlpT66mbWkGiI3qy2dCdu) | [Pink Noise Cotton](https://open.spotify.com/album/1nJpwGmBljByaxCQfJniH5) | 2:36 | 2026-03-31 |  |
 | [Pink Noise Cruis](https://open.spotify.com/track/0AxtASF36CJKljxhNUABqb) | [Pink Drift](https://open.spotify.com/artist/1sstuT7ZXtGHzymk3hra0a) | [Pink Noise Soundscapes](https://open.spotify.com/album/1ISr3lk2WEvEFpAACxtfvX) | 2:47 | 2023-03-16 | 2023-10-28 |
+| [Pink Noise Curtain](https://open.spotify.com/track/4kFi4Xd0FZ0wyPSKJyOWKs) | [BinauralVille](https://open.spotify.com/artist/1Cqzx8HaZK3qHBxb002KXi) | [P!nk Deep Rest](https://open.spotify.com/album/61rd29NwRcK4PYZdcPgiMu) | 2:54 | 2026-03-31 |  |
 | [Pink Noise Dawn](https://open.spotify.com/track/1dOorFr5OeiReTa9JHEL3S) | [Sleeping Peace](https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw) | [Pink Noise Dawn](https://open.spotify.com/album/4rPqjignGvrBSMxhcWuyvC) | 2:56 | 2023-10-27 | 2025-12-10 |
 | [Pink Noise Deep REM](https://open.spotify.com/track/7pgtTEMmeUJStDK3nHEi6g) | [Mindful Collage](https://open.spotify.com/artist/2wSWfeN8qUOfZnkYI4Rd2M) | [Pink Noise Deep REM](https://open.spotify.com/album/44qAvEGTlnHFIm0NXrbmlY) | 2:56 | 2023-10-27 | 2026-04-01 |
 | [Pink Noise Deep Rest](https://open.spotify.com/track/2MrJu3brPveIi0CwE5IDpG) | [Noise Retreat](https://open.spotify.com/artist/2xhxnZx1l0Zvu7eEpt1OYM) | [Pink Noise Deep Rest](https://open.spotify.com/album/4y7hXU8QO47hGmaGOcwmRW) | 2:09 | 2026-03-31 |  |
@@ -456,7 +457,7 @@
 | [Pink Noise Snooze](https://open.spotify.com/track/50hS0dWV7RBfxwbF4kJARb) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Pink Sleep Noise](https://open.spotify.com/album/1xcAIZNUlN7xvUnb5v4cht) | 1:59 | 2022-12-16 | 2023-03-18 |
 | [Pink Noise SnooZzze](https://open.spotify.com/track/0vytFOaDmk795776J0i9u4) | [The White Noise Travelers](https://open.spotify.com/artist/5UwPTMbhjImSJov9c1wraJ) | [Ocean of Pink Noise](https://open.spotify.com/album/5rfYGwdLn6AoCbaTfopcu5) | 3:42 | 2022-06-27 |  |
 | [Pink Noise Spa Retreat](https://open.spotify.com/track/1jav8RmR0oLrDMPMrxqOMh) | [Pink Drift](https://open.spotify.com/artist/1sstuT7ZXtGHzymk3hra0a) | [Pink Noise Soundscapes](https://open.spotify.com/album/1ISr3lk2WEvEFpAACxtfvX) | 2:57 | 2023-03-16 | 2023-10-28 |
-| [Pink Noise Stillness](https://open.spotify.com/track/2FZymQ0N1CGYP6MmV9hKeR) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Alleviating Pink Noise](https://open.spotify.com/album/3V2jBGwQ8DybXnVs1CYkjo) | 3:37 | 2023-10-27 |  |
+| [Pink Noise Stillness](https://open.spotify.com/track/2FZymQ0N1CGYP6MmV9hKeR) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Alleviating Pink Noise](https://open.spotify.com/album/3V2jBGwQ8DybXnVs1CYkjo) | 3:37 | 2023-10-27 | 2026-05-14 |
 | [Pink Noise Study Aid](https://open.spotify.com/track/5CbfEjADw73jKeoydsNAC3) | [Titan Pulse](https://open.spotify.com/artist/2LxEiPDLSX3rxS0VYnqaIY) | [Pink Noise Study Aid](https://open.spotify.com/album/4OTExMPxAnBv9Le1bBR1mV) | 2:36 | 2023-10-27 |  |
 | [Pink Noise Surface](https://open.spotify.com/track/5BqSD5aMR0XSsq1S7XwHJX) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Aquatic Pink](https://open.spotify.com/album/0Ni35XQebeVChfj3ctOZXj) | 2:46 | 2023-03-16 |  |
 | [Pink Noise Syllabus](https://open.spotify.com/track/6kYaRxSqEUgKNU59jn7QCq) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Pink Noise Syllabus](https://open.spotify.com/album/4SoJXWo7ZP6h4WR88kQe6V) | 4:23 | 2025-12-09 | 2026-05-05 |

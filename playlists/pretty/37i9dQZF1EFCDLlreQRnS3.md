@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 101 | [Take What You Want](https://open.spotify.com/track/2kmfbNQKqmiWDUEf1oPeBi) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Babet](https://open.spotify.com/artist/6HFzq45VLbD7rHb67YQwZz) | [Take What You Want](https://open.spotify.com/album/5LvJLeuk1vxEh3AxlulLm8) | 2:57 |
 | 102 | [Heaven Won't Cry](https://open.spotify.com/track/2yo6Ss3Ach5WN8AxgGf35L) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 4:21 |
 | 103 | [Bring on the Rain](https://open.spotify.com/track/6MfzUY9AQHe3PBSnB1Xg0O) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Bring on the Rain](https://open.spotify.com/album/7rIeLvwWsNfIUzwWPO1wlX) | 3:12 |
-| 104 | [Wasteland](https://open.spotify.com/track/4SqEUovs3DtWvOBdvkPudU) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 2:53 |
-| 105 | [So Bad](https://open.spotify.com/track/59uj1ZeGNnj1GaeEthJZVj) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [So Bad](https://open.spotify.com/album/2h5vAOf9Z6R1NpyLgTqemo) | 3:05 |
+| 104 | [So Bad](https://open.spotify.com/track/59uj1ZeGNnj1GaeEthJZVj) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [So Bad](https://open.spotify.com/album/2h5vAOf9Z6R1NpyLgTqemo) | 3:05 |
+| 105 | [Wasteland](https://open.spotify.com/track/4SqEUovs3DtWvOBdvkPudU) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 2:53 |
 | 106 | [Insomnia](https://open.spotify.com/track/0EN4byNEi2vJ0VKyn9pXRS) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:04 |
 | 107 | [You Can Cry](https://open.spotify.com/track/0fHdkxqOPO0N7GRPhSpWoQ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:05 |
 | 108 | [What I Wanted](https://open.spotify.com/track/5iqAtskcRzCVWBefPulu1d) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [What I Wanted](https://open.spotify.com/album/0mQItA2D37eMe3ovkqEnKP) | 2:32 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 137 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 138 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AcRVHAAAAAD9pN0wZfQRO7HHpwNLw93k`
+Snapshot ID: `AcRavAAAAACSP5J4diyfwT5jVnxX690F`

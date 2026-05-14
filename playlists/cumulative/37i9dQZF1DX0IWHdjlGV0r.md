@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Tony Boy
 
-270 songs - 13 hr 39 min
+271 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Barcellona](https://open.spotify.com/track/51zuoAf9f1DNTVmBJHVErg) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:56 | 2022-05-03 | 2023-02-02 |
 | [Beatrice \(feat\. Annalisa\)](https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 3:03 | 2024-05-23 |  |
 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 | 2022-05-03 |  |
-| [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-27 |  |
+| [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-27 | 2026-05-14 |
 | [Bene ormai](https://open.spotify.com/track/4Vq5sGWPEemZvBWP7CRjj2) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [TRAUMA](https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9) | 3:10 | 2026-01-02 | 2026-03-26 |
 | [BLUE CHEESE \(feat\. Lazza\)](https://open.spotify.com/track/40NmOAMiiuqFSKJnUxHovo) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 3:11 | 2023-02-01 | 2023-03-22 |
 | [BLUE CHEESE \(feat\. Lazza\)](https://open.spotify.com/track/4OAExi3KMGS19m7p0FxOoz) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:11 | 2022-11-03 | 2024-06-01 |
@@ -115,6 +115,7 @@
 | [Habibi](https://open.spotify.com/track/4RqqST6XJU7zJJkXKlP81d) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Habibi](https://open.spotify.com/album/1KDX75fwsL4wpLAjzqCpHH) | 3:06 | 2025-11-06 | 2025-11-21 |
 | [Habibi](https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Album](https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B) | 3:04 | 2022-05-03 | 2024-01-12 |
 | [HEETS \(feat\. Geolier\)](https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [CON I MIEI OCCHI](https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR) | 2:57 | 2024-10-24 | 2025-12-16 |
+| [HENTAI](https://open.spotify.com/track/78flthd91SpUADZy5PwNRS) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [HENTAI](https://open.spotify.com/album/42ShFYmtP5FERkIYZOrMPq) | 2:43 | 2026-05-07 |  |
 | [HONEY \(feat\. Lazza & Capo Plaza\)](https://open.spotify.com/track/2HIv4bKTCULRZ2eZIkVB3N) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:44 | 2024-03-15 | 2025-11-28 |
 | [I LOVE IT \(feat\. Artie 5ive\)](https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 3:11 | 2024-07-03 | 2025-03-19 |
 | [I Miss U \(feat\. Tony Boy\)](https://open.spotify.com/track/52vA7mR6kKFJTaMzRUKMmk) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 3:03 | 2024-05-02 | 2025-11-21 |

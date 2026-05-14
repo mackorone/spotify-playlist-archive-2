@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CxGuIDY1G8.md) - [plain]
 
 > sugar and spice but for the eyes\. MVs only available for Spotify premium subscribers\. Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,068 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,079 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CxGuIDY1G8.md) - [plain]
 | 99 | [แอบรักไม่ทำให้ใครตาย \(NO WORRIES\)](https://open.spotify.com/track/3ZRW3kl0CjS7QCAVp0AqvJ) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [แอบรักไม่ทำให้ใครตาย \(NO WORRIES\)](https://open.spotify.com/album/31xbMMexNCCfK9rXP57D9d) | 4:02 |
 | 100 | [MIRROR MIRROR](https://open.spotify.com/track/6r8ONjq1fLjb6KwFcfveiJ) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [MIRROR MIRROR](https://open.spotify.com/album/6KKp4hWy3bF4v1chSkh4to) | 3:40 |
 
-Snapshot ID: `AAAAANAtgaKJJ9CFQggnjxayBHrKIXSI`
+Snapshot ID: `AAAAABv7Z3rBKhcec/NZPnsi8RrUI8iM`

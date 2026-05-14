@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-445 songs - 22 hr 23 min
+446 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,8 +181,9 @@
 | [I'll Love You For A While](https://open.spotify.com/track/4LNzBFytMkQ4nxE2Yhxv2A) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Ooooooweeee! \(Expanded Edition\)](https://open.spotify.com/album/1HxE0CdLFyhAAb7ysXtHjM) | 2:06 | 2023-12-30 |  |
 | [I'm Going Back \(Full Vocal Version\) \[In the Style of Dusty Springfield\]](https://open.spotify.com/track/1n6DA9ijTkEsmXDCJyxs4X) | [Goldsound Karaoke](https://open.spotify.com/artist/4A4BDuc54Pgl2n3ZRVMD5n) | [In the Style of Dusty Springfield](https://open.spotify.com/album/6EgnrXP2X45apwa0jYMqFC) | 3:33 | 2023-12-30 | 2026-02-20 |
 | [I'm Going Back \(Originally Performed By Dusty Springfield\) \[Full Vocal Version\]](https://open.spotify.com/track/5dqkS6DbTIfumBgvasHf1B) | [Paris Music](https://open.spotify.com/artist/7iFUYe1KDzmMGlvCSbL6nw) | [Karaoke Hits Dusty Springfield](https://open.spotify.com/album/5G6xAm1PC2UvlhIyH1K7dr) | 3:33 | 2026-02-19 |  |
-| [I'm into Something Good](https://open.spotify.com/track/4Vng7f02Hz7XvPFsC1qFjl) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [A's, B's & EP's](https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9) | 2:33 | 2026-01-29 |  |
+| [I'm into Something Good](https://open.spotify.com/track/4Vng7f02Hz7XvPFsC1qFjl) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [A's, B's & EP's](https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9) | 2:33 | 2026-01-29 | 2026-05-14 |
 | [I'm Into Something Good](https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Herman's Hermits Retrospective](https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW) | 2:33 | 2023-12-30 | 2026-01-30 |
+| [I'm Into Something Good \- Mono](https://open.spotify.com/track/4E1EDEtw2B6zjqMbkYhZoR) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Introducing Herman's Hermits \(Mono\)](https://open.spotify.com/album/2KmrA2hT9cwplRr8H8yC9o) | 2:36 | 2026-05-13 |  |
 | [I've Got Bonnie](https://open.spotify.com/track/0jO0rZ9Ipez7mXTFdogWU8) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [Little Girl](https://open.spotify.com/album/4m5ydiQ0up1aMwL14P2kCf) | 2:27 | 2026-01-17 | 2026-03-09 |
 | [I've Got Bonnie](https://open.spotify.com/track/2hM0XV24liNkxUrErtomeq) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [The Myth of Bobby Rydell](https://open.spotify.com/album/0azUMrm8TBLDAZCFaRINEB) | 2:27 | 2024-11-17 | 2024-12-12 |
 | [I've Got Bonnie](https://open.spotify.com/track/3AmqQEXvDpn80hlXUXlndT) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [We Got Love](https://open.spotify.com/album/4CjnfHZWZxGfzDj9RlDEiE) | 2:27 | 2024-12-19 | 2025-12-18 |

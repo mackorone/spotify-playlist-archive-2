@@ -2,7 +2,7 @@
 
 ### [Island Time](https://open.spotify.com/playlist/37i9dQZF1DX2HC3xQbIKZ8)
 
-> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: SIX60
+> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
 
 269 songs - 16 hr 31 min
 
@@ -174,7 +174,7 @@
 | [On My Way](https://open.spotify.com/track/6SxVjWpYrs3ONAiT2zEN38) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [On My Way](https://open.spotify.com/album/0uSQfBqp7FRrJ3AyuAMv6K) | 3:22 | 2023-11-28 | 2025-09-10 |
 | [One Love](https://open.spotify.com/track/0aPNwV1eWsyjpccU7eJ4j4) | [Bradamon Band](https://open.spotify.com/artist/3SGQLqF1vIQNVRmY54FNmr), [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2), [Chante](https://open.spotify.com/artist/5bEBymJXMgx3PBk2XCJlON) | [One Love](https://open.spotify.com/album/3Itcy97dg2cWNhMVHbXKgL) | 3:58 | 2024-10-04 | 2025-09-10 |
 | [One Man Band](https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS) | [Sione Liti](https://open.spotify.com/artist/5c0jLNILQAaxBObwOUghei), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [One Man Band](https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV) | 3:14 | 2025-05-22 |  |
-| [One Night](https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [One Night](https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ) | 3:33 | 2023-11-28 |  |
+| [One Night](https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [One Night](https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ) | 3:33 | 2023-11-28 | 2026-05-14 |
 | [One Night Dance](https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [One Night Dance](https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP) | 3:14 | 2025-09-09 |  |
 | [One Way](https://open.spotify.com/track/3NEXN45dcu8xBrjRvSgKon) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [One Way](https://open.spotify.com/album/424aV8BFksWTncxaEKmGD5) | 3:08 | 2025-07-24 | 2025-12-03 |
 | [Otherside](https://open.spotify.com/track/55vUueIJ1D5zgMqQzAUxjw) | [Valley Kids](https://open.spotify.com/artist/2ICjmWYEED30C1Wc7Et53T) | [Otherside](https://open.spotify.com/album/7c3HBSx949vQO3jnFQgbCf) | 3:44 | 2023-11-28 | 2025-09-10 |
@@ -220,7 +220,7 @@
 | [SLOW DOWN](https://open.spotify.com/track/5nL0ef2YGMhGgG97LGkTj6) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [SLOW DOWN](https://open.spotify.com/album/16BvudaA1gjBFeVl7HxYvp) | 4:14 | 2024-01-17 | 2025-09-10 |
 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 | 2025-05-08 |  |
 | [Slow Up](https://open.spotify.com/track/6INwzydOIayqZGXtr732YW) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Slow Up](https://open.spotify.com/album/3nPzDSC3Jx9gmLblpzZtrx) | 3:39 | 2023-11-28 | 2025-09-10 |
-| [Slowly](https://open.spotify.com/track/7oaq2kZQXREqCN7flvblov) | [Ismuki](https://open.spotify.com/artist/72C1ypMUqI4dVpwUf601RG), [Chris Young](https://open.spotify.com/artist/24nf3HFgkV1Qer9ZqIPfUB), [Stegga Bwoy](https://open.spotify.com/artist/7Izwcum9BvJfbkQR8CdUPs) | [Slowly](https://open.spotify.com/album/48cDtcnsnRFuhnc7XjSsoI) | 4:24 | 2025-09-09 | 2026-05-11 |
+| [Slowly](https://open.spotify.com/track/7oaq2kZQXREqCN7flvblov) | [Ismuki](https://open.spotify.com/artist/72C1ypMUqI4dVpwUf601RG), [Chris Young](https://open.spotify.com/artist/24nf3HFgkV1Qer9ZqIPfUB), [Stegga Bwoy](https://open.spotify.com/artist/7Izwcum9BvJfbkQR8CdUPs) | [Slowly](https://open.spotify.com/album/48cDtcnsnRFuhnc7XjSsoI) | 4:24 | 2025-09-09 |  |
 | [So True](https://open.spotify.com/track/5gAHSJPdHqz2MHc5WsfXnD) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [On the Sun](https://open.spotify.com/album/6bB9QEMR57Ce6HBAADpvQv) | 3:54 | 2025-09-09 |  |
 | [So True / Koia Ko Koe](https://open.spotify.com/track/7wBWcOC52UDk3OEejLKHAJ) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [So True / Koia Ko Koe](https://open.spotify.com/album/6NoNRr7Wh8J7WBEdRdhclH) | 3:52 | 2023-11-28 | 2025-09-10 |
 | [Souljah Feeling](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 | 2025-09-09 |  |

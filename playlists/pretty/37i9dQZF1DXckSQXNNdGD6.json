@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Martin.",
-  "num_followers": 21871,
+  "num_followers": 21873,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJWsFKkfNnh5H+KttEA+bTo3S5aJ",
+  "snapshot_id": "AAAAAF+dEiC4yeuBlkxTjsCa4BZaaqs+",
   "tracks": [
     {
       "added_at": "2026-05-06 09:33:36",
@@ -347,22 +347,18 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "dama en apuros remix metrika",
-        "url": "https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ"
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn"
       },
       "artists": [
         {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        },
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
         }
       ],
-      "duration_ms": 147640,
-      "name": "dama en apuros remix metrika",
-      "url": "https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO"
+      "duration_ms": 156000,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP"
     },
     {
       "added_at": "2026-05-06 09:33:36",
@@ -451,18 +447,22 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "Primavera",
-        "url": "https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn"
+        "name": "dama en apuros remix metrika",
+        "url": "https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ"
       },
       "artists": [
         {
-          "name": "Joanna Crass",
-          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        },
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP"
+      "duration_ms": 147640,
+      "name": "dama en apuros remix metrika",
+      "url": "https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO"
     },
     {
       "added_at": "2026-05-06 09:33:36",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "Pichersita",
-        "url": "https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 138932,
-      "name": "Pichersita",
-      "url": "https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG"
-    },
-    {
-      "added_at": "2026-05-06 09:33:36",
-      "album": {
         "name": "Mocatriz",
         "url": "https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 237228,
       "name": "Mocatriz",
       "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
+    },
+    {
+      "added_at": "2026-05-06 09:33:36",
+      "album": {
+        "name": "Pichersita",
+        "url": "https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 138932,
+      "name": "Pichersita",
+      "url": "https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG"
     },
     {
       "added_at": "2026-05-06 09:33:36",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "Hoy ya no",
-        "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 160064,
-      "name": "Hoy ya no",
-      "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
-    },
-    {
-      "added_at": "2026-05-06 09:33:36",
-      "album": {
         "name": "CULPA NUESTRA",
         "url": "https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 142000,
       "name": "CULPA NUESTRA",
       "url": "https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y"
+    },
+    {
+      "added_at": "2026-05-06 09:33:36",
+      "album": {
+        "name": "Hoy ya no",
+        "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 160064,
+      "name": "Hoy ya no",
+      "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
     },
     {
       "added_at": "2026-05-06 09:33:36",

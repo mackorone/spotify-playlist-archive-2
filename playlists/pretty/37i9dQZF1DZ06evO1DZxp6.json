@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 243113,
+  "num_followers": 243140,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAACoRO4s0qV/dFrYUkIqsqm4",
+  "snapshot_id": "agJtgAAAAABweR9OGB/VPEO4UWVsCcQM",
   "tracks": [
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tiempos Dorados",
+        "url": "https://open.spotify.com/album/26TiKiZVkAWxVLwZaARdKA"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193015,
+      "name": "Tiempos Dorados",
+      "url": "https://open.spotify.com/track/5URAVqeziec6KkHDqxZOBv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 M\u00e1s Da",
         "url": "https://open.spotify.com/album/0oqyR0ZtlHxmT4ddR16DDx"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 167949,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/0cCLgsNsyP4xu8RKRX8Qac"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiempos Dorados",
-        "url": "https://open.spotify.com/album/26TiKiZVkAWxVLwZaARdKA"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193015,
-      "name": "Tiempos Dorados",
-      "url": "https://open.spotify.com/track/5URAVqeziec6KkHDqxZOBv"
     },
     {
       "added_at": null,

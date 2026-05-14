@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec César
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,491 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,492 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 47 | [Dopamine](https://open.spotify.com/track/6gdygzZgltsF4FDEidLEM4) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Dopamine](https://open.spotify.com/album/1RL7YvvMwqUDqw0UNTZ37H) | 2:40 |
 | 48 | [CE CORPS.](https://open.spotify.com/track/4TfnAVZagMNnZPzN0U2W2S) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [CE CORPS.](https://open.spotify.com/album/1Adv2BFSlwpApDFHVZyBAo) | 2:48 |
 | 49 | [Sens dessus dessous](https://open.spotify.com/track/1eys5uEsHHVbrlIFGWVD0s) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Sens dessus dessous](https://open.spotify.com/album/5e1MaVHLp37jBhIv7Zn6A6) | 2:31 |
-| 50 | [LES MECS](https://open.spotify.com/track/4CHiE1P5mIRp6epCzxciZ1) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [LES MECS](https://open.spotify.com/album/4FuZW3Vg8DkhS08W0lqw5f) | 2:14 |
+| 50 | [Les mecs](https://open.spotify.com/track/4CHiE1P5mIRp6epCzxciZ1) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Les mecs](https://open.spotify.com/album/4FuZW3Vg8DkhS08W0lqw5f) | 2:14 |
 
 Snapshot ID: `AAAAANr/CWlOAq4x2dordY4T0itYhKF4`

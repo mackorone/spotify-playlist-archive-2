@@ -4,7 +4,7 @@
 
 > All of it
 
-1,155 songs - 2 day 22 hr 56 min
+1,156 songs - 2 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -723,6 +723,7 @@
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2025-06-02 |  |
 | [One Of A Group](https://open.spotify.com/track/1HXX8icuH1us7140zVSW0w) | [Cressida](https://open.spotify.com/artist/3Mv2LWIIrvxUKyqnXX1CSD) | [Cressida](https://open.spotify.com/album/3jM6YtRZ6Ri50V54Op2FMp) | 3:34 | 2026-02-21 |  |
 | [One Rainy Wish](https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:41 | 2025-09-01 |  |
+| [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2026-05-13 |  |
 | [Opening Out](https://open.spotify.com/track/39AAohgvtgo3xJlypPoLho) | [Renaissance](https://open.spotify.com/artist/4MERAVAHX04B50JOnasmWf) | [A Song for All Seasons](https://open.spotify.com/album/7Lrn2mUxwj6X7NFUNmuaQl) | 4:15 | 2025-12-29 |  |
 | [Operator \(That's Not the Way It Feels\)](https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 3:49 | 2025-11-28 |  |
 | [Orange Colored Sky \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 | 2025-06-02 |  |

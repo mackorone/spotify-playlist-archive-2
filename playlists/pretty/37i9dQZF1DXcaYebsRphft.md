@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2026 RIIZE CONCERT TOUR \[RIIZING LOUD\] Special Edition in TOKYO DOME』のメンバーボイス入りセットリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,866 likes - 33 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,861 likes - 33 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1235785,
+  "num_followers": 1235839,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "New Jersey",
-        "url": "https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 346586,
-      "name": "I'll Be There For You",
-      "url": "https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Flesh & Blood",
         "url": "https://open.spotify.com/album/7alngtync76VqYWSKxcBhB"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 287533,
       "name": "Life Goes On - 2003 Remaster",
       "url": "https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "New Jersey",
+        "url": "https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 346586,
+      "name": "I'll Be There For You",
+      "url": "https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh"
     },
     {
       "added_at": "2024-06-26 02:22:53",

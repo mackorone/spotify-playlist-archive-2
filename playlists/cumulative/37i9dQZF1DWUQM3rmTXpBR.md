@@ -2,9 +2,9 @@
 
 ### [Arab Indie](https://open.spotify.com/playlist/37i9dQZF1DWUQM3rmTXpBR)
 
-> Alternative Arabic songs\. Cover: Seera
+> Alternative Arabic songs\. Cover: Faraj Suleiman
 
-252 songs - 15 hr 22 min
+253 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Malak](https://open.spotify.com/track/2ukSDZCN9VCyASZm9yYE6O) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Malak](https://open.spotify.com/album/3wvZjwrCmcqrZriZwILjFf) | 3:22 | 2021-12-23 | 2022-01-07 |
 | [Malek Ya Denia](https://open.spotify.com/track/4zZAu2TTFlUhxL7TpHx0J5) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Malek Ya Denia](https://open.spotify.com/album/5VDBuXrHcccQCA2ykvm8Sa) | 3:18 | 2024-09-27 | 2025-10-07 |
 | [Manakir](https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Manakir](https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY) | 3:04 | 2025-10-06 |  |
-| [Manhoos \- منحوس](https://open.spotify.com/track/5lYSkHKGVBzPNRyVtLpORG) | [Maii Waleed](https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [Manhoos \- منحوس](https://open.spotify.com/album/4omvlnsti7eubDc65kTKmz) | 3:08 | 2026-02-27 |  |
+| [Manhoos \- منحوس](https://open.spotify.com/track/5lYSkHKGVBzPNRyVtLpORG) | [Maii Waleed](https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks), [Maii and Zeid](https://open.spotify.com/artist/1kqQvcNxWvkzK55bwDvHGP) | [Manhoos \- منحوس](https://open.spotify.com/album/4omvlnsti7eubDc65kTKmz) | 3:08 | 2026-02-27 |  |
 | [Mashaweer](https://open.spotify.com/track/2QTeejzGvR4cFYjAhEHo5I) | [Salma Murad](https://open.spotify.com/artist/0qU4iEmMq8DEejUGTwWUdY), [Idreesi](https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye) | [Mashaweer](https://open.spotify.com/album/4eyPK4hbnxv6UNUmW8n4vo) | 3:00 | 2025-10-06 |  |
 | [Mashi Mashi](https://open.spotify.com/track/0aoXvkBPPz2i7wpQaH0wYC) | [Kokym](https://open.spotify.com/artist/3MgpENFiSr4tPARLzifIZ3) | [Mashi Mashi](https://open.spotify.com/album/2WDJFaWQTZD6rg2tFFJFij) | 2:45 | 2024-09-12 | 2025-10-07 |
 | [Mazar](https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Mazar](https://open.spotify.com/album/5zVetj7wtk6lVU0KcZhuXn) | 3:33 | 2022-03-10 | 2023-04-24 |
@@ -191,7 +191,7 @@
 | [thank you, goodnight](https://open.spotify.com/track/20RGgoxcZDyV7A3QftVmC1) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:22 | 2024-12-31 | 2025-10-07 |
 | [Tlef El Dunya](https://open.spotify.com/track/5UsAauoW1rI6pnj8mZq0t4) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Tlef El Dunya](https://open.spotify.com/album/0C1LBH6DeENAXuFFAjiLfQ) | 2:56 | 2023-04-23 | 2023-05-31 |
 | [Tokaa We Tkoom](https://open.spotify.com/track/42cgSqcYqyRxG3VCd3ubTC) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Tokaa We Tkoom](https://open.spotify.com/album/7APkDKEvXGWOWtr76tBOJM) | 4:38 | 2025-10-06 |  |
-| [Vows سبع صنايع](https://open.spotify.com/track/55HFixAeL5V8kJAJaFAYdA) | [Yasmine Hamdan](https://open.spotify.com/artist/5VElAWe58JiEzEl4vtjw7J) | [I remember I forget بنسى وبتذكر](https://open.spotify.com/album/4VQ7IUWQUahZ30myCkP5KF) | 3:57 | 2025-10-07 |  |
+| [Vows سبع صنايع](https://open.spotify.com/track/55HFixAeL5V8kJAJaFAYdA) | [Yasmine Hamdan](https://open.spotify.com/artist/5VElAWe58JiEzEl4vtjw7J) | [I remember I forget بنسى وبتذكر](https://open.spotify.com/album/4VQ7IUWQUahZ30myCkP5KF) | 3:57 | 2025-10-07 | 2026-05-14 |
 | [W El 7al Eh](https://open.spotify.com/track/5uz5RuH7joyHiwk17HXlOj) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/5QozLcTAMMizJNSl8G3iqA) | 2:59 | 2023-09-19 | 2023-11-25 |
 | [W El 7al Eh](https://open.spotify.com/track/6HeKAyGEX0EW0AvGTw1xgn) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/620iOLdLBpcOwoNxGIoe4f) | 2:59 | 2023-09-19 | 2024-04-19 |
 | [W El 7al Eh](https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs) | 2:59 | 2023-04-23 | 2025-10-07 |
@@ -256,6 +256,7 @@
 | [لحالها](https://open.spotify.com/track/64NJb1lr4J9IXDUNl63nxo) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [لحالها](https://open.spotify.com/album/2War9jZBTVTUv12nB0YkUz) | 2:53 | 2021-12-23 | 2022-04-16 |
 | [لو](https://open.spotify.com/track/3zmnkk8mrFEr7gUcPDd5t7) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [لو](https://open.spotify.com/album/5DKgNNMIerP7WFn4H10RMw) | 3:36 | 2023-01-19 | 2023-04-01 |
 | [مسجون](https://open.spotify.com/track/6Dvp1Hb7gWBIYzceRxAZxF) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [مسجون](https://open.spotify.com/album/7nlkfrEg5PODWj2j571JMk) | 2:59 | 2023-06-08 | 2023-08-24 |
+| [مش ضروري](https://open.spotify.com/track/0M6bFX1RMcME7YetefUiWw) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [مش ضروري](https://open.spotify.com/album/4aEPIr5u5mXIRuKZWofxCs) | 2:37 | 2026-05-13 |  |
 | [مشاويري ع حيفا](https://open.spotify.com/track/7MS1vpwWPjJXzAFAJDrADA) | [Kokym](https://open.spotify.com/artist/3MgpENFiSr4tPARLzifIZ3) | [مشاويري ع حيفا](https://open.spotify.com/album/4lXMbG3WTekYAxCAuG466x) | 1:38 | 2023-06-29 | 2023-08-24 |
 | [موعد غرامي](https://open.spotify.com/track/4ur2rLrZ5LrDs1uwZquELg) | [Arabian Alien](https://open.spotify.com/artist/7e4SJNZgXlJ97usUQGoT59) | [موعد غرامي](https://open.spotify.com/album/2qQwnO8TXmVbu6Hkj24NS4) | 4:27 | 2023-05-17 | 2025-10-07 |
 | [وسط الدوامة](https://open.spotify.com/track/5xHyfIDDVOMdhtOUBZ1SmA) | [404 Band](https://open.spotify.com/artist/0HpnFPEgkKeLBiQBzlxVOX) | [وسط الدوامة](https://open.spotify.com/album/6m42mTl7UmDxA7OqhWmO3i) | 5:24 | 2023-04-23 | 2025-10-07 |

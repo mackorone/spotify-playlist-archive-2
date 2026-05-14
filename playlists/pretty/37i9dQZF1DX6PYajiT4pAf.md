@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Rels B, J Balvin, Charli xcx, Abraham Mateo, Melendi y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,953 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,945 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

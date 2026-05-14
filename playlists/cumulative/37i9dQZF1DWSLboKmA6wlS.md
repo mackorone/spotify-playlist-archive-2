@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: WINNING\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: 4our Wheel Dream\. Artwork: Isu Kim
 
-2,626 songs - 6 day 20 hr 40 min
+2,631 songs - 6 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [1+1 = เรา](https://open.spotify.com/track/1WVqZ30UFs4eE3oHkzqmbE) | [N.ORI](https://open.spotify.com/artist/1nXagGdWqZ33v6gMabB8u3) | [1+1 = เรา](https://open.spotify.com/album/6CXks8njtgiL8CMCShCF5Y) | 3:43 | 2025-01-09 | 2025-01-17 |
 | [1\-100](https://open.spotify.com/track/5eRcfDmm3jv9nwY0nd38Gp) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [1\-100](https://open.spotify.com/album/3zy83MQ8tVSPNVgaO9WCZ8) | 3:10 | 2023-05-19 | 2023-06-24 |
 | [100 \(Space Time\)](https://open.spotify.com/track/3ltVNDnlv5VoZXRQAF2Q0M) | [FrenchW](https://open.spotify.com/artist/3cLtaVrRrrXiQ4P24I9y8S) | [100 \(Space Time\)](https://open.spotify.com/album/6MzMdw73n0Jt5BoytZffBE) | 3:32 | 2025-02-20 | 2025-04-04 |
+| [120dB](https://open.spotify.com/track/1n68R82Lj2OaZSxf5vK9EX) | [Gee Pussadee](https://open.spotify.com/artist/5dZsLOLTJgo4oecyWvMkUd) | [120dB](https://open.spotify.com/album/2ufZPSC5IAMwUdIGkLrRCF) | 4:38 | 2026-05-13 |  |
 | [124 BPM](https://open.spotify.com/track/0hAoGiAaZQVl3UzemYRadq) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ) | [124 BPM](https://open.spotify.com/album/0YgfHQN287ghLyYbN2SXjt) | 2:42 | 2025-01-24 | 2025-02-28 |
 | [13 กุมภา](https://open.spotify.com/track/0rAc1da8DCLpYjmgZrDyS1) | [PAPERCUP](https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk) | [13 กุมภา](https://open.spotify.com/album/5b1pN5y0kJ1rqXyLV4m0a2) | 3:14 | 2024-02-16 | 2024-02-24 |
 | [15 นาทีสุดท้าย](https://open.spotify.com/track/6TGPpMSirfQJoKF4XFs6W2) | [Atompakon](https://open.spotify.com/artist/3CV9C2AzNMYAvG1pHoXHuO) | [15 นาทีสุดท้าย](https://open.spotify.com/album/6hItOoSjhUyg4Qa9c63VTN) | 3:36 | 2024-03-29 | 2024-04-27 |
@@ -611,6 +612,7 @@
 | [กุมมือ \(Good Mornin'\)](https://open.spotify.com/track/2NVmAY0LP39gAhoPzT5JYb) | [ซัน ชีวานนท์](https://open.spotify.com/artist/2ejyohFUZRCAjHErgKESEv) | [กุมมือ \(Good Mornin'\)](https://open.spotify.com/album/2VWj9QVEET4VK8oIOsN1p0) | 3:36 | 2023-03-03 | 2023-03-11 |
 | [กุหลาบ แมสเสจ ของขวัญ](https://open.spotify.com/track/35HeDjK989h1I0WAMg5ydt) | [NITA](https://open.spotify.com/artist/1Ljn5m4AWhAQinH43fNrXW) | [กุหลาบ แมสเสจ ของขวัญ](https://open.spotify.com/album/6kxlCeJLyJZ7wc6EDIFdeo) | 1:00 | 2025-02-14 | 2025-02-28 |
 | [ก็พอ](https://open.spotify.com/track/2Mvc40jG0xFu4UeXZn4mBH) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [ก็พอ](https://open.spotify.com/album/7g2qsT0aiBFininXgePcfE) | 3:27 | 2025-01-09 | 2025-01-17 |
+| [ก็มาดิ \(Come Through\)](https://open.spotify.com/track/3R1ljs19rvNmKS60diqclP) | [Mafiaaaa](https://open.spotify.com/artist/64kNAzLq0sTxb05zo4bKbo) | [ก็มาดิ \(Come Through\)](https://open.spotify.com/album/4qK7w7wQVi3C387nn3ooGJ) | 3:13 | 2026-05-13 |  |
 | [ก็เธอคือ](https://open.spotify.com/track/4jvouiVpQBGCqiC1Dskb3g) | [3919](https://open.spotify.com/artist/5r6joqRCSqvakrjfr0hMgd) | [ก็เธอคือ](https://open.spotify.com/album/0ChgEhbYtiNjh20d5AoZuH) | 3:01 | 2023-09-22 | 2023-09-30 |
 | [ก็เธอไม่ยอมตอบแชทอะ](https://open.spotify.com/track/2YXtEaFDazXSf7ZAO84YGa) | [KRAEDOSS](https://open.spotify.com/artist/2uWrzqcZOBmLe5eVdKdKOo) | [ก็เธอไม่ยอมตอบแชทอะ](https://open.spotify.com/album/6T16eE9UW9Zdsqk3vzea0i) | 3:33 | 2024-03-08 | 2024-04-19 |
 | [ก็เป็นเธอที่ใจเพ้อฝัน](https://open.spotify.com/track/5J5jsdNy0dboPvS2q5239X) | [3919](https://open.spotify.com/artist/5r6joqRCSqvakrjfr0hMgd) | [ก็เป็นเธอที่ใจเพ้อฝัน](https://open.spotify.com/album/24jG1ujrIyiBQGBfUQCTba) | 4:04 | 2023-05-12 | 2023-06-10 |
@@ -1178,6 +1180,7 @@
 | [ทำไมต้องเป็นฉัน](https://open.spotify.com/track/5uuhb6fp0s2BzSihkhn9om) | [LOST CHIPS](https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9) | [Its happened in 22](https://open.spotify.com/album/7fzz9bgqGdudLgOuj8n8Qn) | 4:21 | 2024-09-06 | 2024-10-19 |
 | [ทำไมทำไม \(Why are you so cute?\)](https://open.spotify.com/track/7ENimcb9CCFsyqH6Uwb7fz) | [Harupiii](https://open.spotify.com/artist/3BJlhx1miXX77PwUlNKUZS) | [ทำไมทำไม \(Why are you so cute?\)](https://open.spotify.com/album/4SLzKv9mGO8nviW3fF8siU) | 3:10 | 2024-12-13 | 2025-01-10 |
 | [ทำไมหลังเที่ยงคืนถึงเป็นเวลาของการคิดถึงใครบางคน \(Insomnia\)](https://open.spotify.com/track/1y2WBg8PZkcbUrrdL14fnj) | [All or Nothing](https://open.spotify.com/artist/0wowejwEtbprvAL7ntdW06) | [ทำไมหลังเที่ยงคืนถึงเป็นเวลาของการคิดถึงใครบางคน \(Insomnia\)](https://open.spotify.com/album/795UuWfsXSUgIfB3b7ThZ4) | 3:23 | 2023-07-28 | 2023-09-23 |
+| [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/track/5SwpNT2w3PTZOchtl24KSY) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/album/6pmGrIro8rfDeTm5GlkMkp) | 4:10 | 2026-05-13 |  |
 | [ทิ้งตัว](https://open.spotify.com/track/6ZkJ68OWKIFKTv7QkVLIuP) | [ChaRaMaNa](https://open.spotify.com/artist/1afaA6Qx8IEJTMSHJBxSgZ) | [ทิ้งตัว](https://open.spotify.com/album/0Oig4QdDSYboYkBUb86S3l) | 3:31 | 2025-03-06 | 2025-04-04 |
 | [ทิ้งยังไง](https://open.spotify.com/track/49j5l268BVprUrfOWhHXWy) | [ALAVY](https://open.spotify.com/artist/6oDlG8qhteB3OglDvlSiFQ) | [ทิ้งยังไง](https://open.spotify.com/album/48ZoGMNX0sxjzT6q9pzAgX) | 3:56 | 2023-09-15 | 2024-01-27 |
 | [ทิ้งร่มแล้ววิ่งหลบฝนด้วยกัน](https://open.spotify.com/track/3lC4P6I7rFPSO2TlpNMDqA) | [GhostsCanBeFriends](https://open.spotify.com/artist/1lCAErDU7DXTLPaL07mxTM) | [ทิ้งร่มแล้ววิ่งหลบฝนด้วยกัน](https://open.spotify.com/album/4T5YtwUKBIk07epb1f4LDj) | 3:27 | 2025-07-10 | 2025-07-22 |
@@ -1431,6 +1434,7 @@
 | [ฟ้าสีคราม \(Sky\)](https://open.spotify.com/track/7sqQunUbOkBg9HBgTN7gED) | [Lost n' Found](https://open.spotify.com/artist/4kXUHEpEKAXggez5j2UzPt) | [ฟ้าสีคราม \(Sky\)](https://open.spotify.com/album/62aTIAla1xssPvHrqizE84) | 4:21 | 2023-03-24 | 2023-06-17 |
 | [ฟ้าอาจเปลี่ยนสี ใจดวงนี้ไม่อาจเปลี่ยนตาม](https://open.spotify.com/track/3H2nJ1tOpvT8moHcFsSmJY) | [BONDLOON](https://open.spotify.com/artist/1gG4FMdWjvi8w4IScttK26) | [ฟ้าอาจเปลี่ยนสี ใจดวงนี้ไม่อาจเปลี่ยนตาม](https://open.spotify.com/album/73hJgVcBAfQYuPfzSW4dsM) | 4:35 | 2023-08-11 | 2023-09-16 |
 | [ฟ้าใส \(Jennida\)](https://open.spotify.com/track/2pQTjsZP8mqLCAurVq63Gy) | [LINDAA](https://open.spotify.com/artist/3RayrLRFoZOhBVRZrX15cf) | [ฟ้าใส \(Jennida\)](https://open.spotify.com/album/4ujeZo8LeoPv0drboVK3nA) | 5:10 | 2023-01-27 | 2023-03-18 |
+| [ภพกันใหม่ \(Eternal\)](https://open.spotify.com/track/05S0Fn7VPtEm6NER3fSmCh) | [SWANOVFIELD](https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc) | [ภพกันใหม่ \(Eternal\)](https://open.spotify.com/album/7LJdxPsa2XNNbKcVGlpRiN) | 4:18 | 2026-05-13 |  |
 | [ภาพจำ..ที่เธอไม่จำ \(Memories\)](https://open.spotify.com/track/7aQcEeOhUdPXnPRXxtMWFT) | [Marisa Proud](https://open.spotify.com/artist/5Ad1QUjAoDcNv4pmuHViMz) | [Vanilla](https://open.spotify.com/album/5Q9pi3cPUftlxeD0XACuFq) | 3:44 | 2024-08-16 | 2024-09-14 |
 | [ภาพจำของวันใหม่](https://open.spotify.com/track/3Ub9B3UkOaYzTZEdBRQ5FH) | [Mr\. Heed](https://open.spotify.com/artist/6ZxDB4x7bDuLPPXkYRuv1t) | [ภาพจำของวันใหม่](https://open.spotify.com/album/0FIScffEcx84yR9OU10sXc) | 4:33 | 2023-11-08 | 2024-01-13 |
 | [ภาพดวงดาวในอดีต \(Sulk\)](https://open.spotify.com/track/6ZaBKcEbGn1L9th4E9s1O3) | [The Proper Clan](https://open.spotify.com/artist/1L0A6nMk4GESOVW5XXR6zY) | [ภาพดวงดาวในอดีต \(Sulk\)](https://open.spotify.com/album/7Ceeqmr7sPofQZhBSB52cH) | 3:59 | 2024-08-30 | 2024-09-21 |
@@ -1508,6 +1512,7 @@
 | [ยังไม่สายเกินไป](https://open.spotify.com/track/0XPnxx9JgE57fcwQm5dbO7) | [Wakinn](https://open.spotify.com/artist/2k5cjE5SOCNhMd1tOUMewh) | [ยังไม่สายเกินไป](https://open.spotify.com/album/0AcnOFOf5TzVEIByKanoaz) | 3:12 | 2022-11-18 | 2022-12-02 |
 | [ยังไม่เชอร์](https://open.spotify.com/track/2A1vkpCx9V7LyWIZ2SaeHf) | [CHANGHER PINK](https://open.spotify.com/artist/1PnOU3lBu1cuMhRpp0io5W) | [ยังไม่เชอร์](https://open.spotify.com/album/7o2sParLMIAeEyU6t9Bfv7) | 2:47 | 2024-07-01 | 2024-07-13 |
 | [ยังไม่เป็นไร](https://open.spotify.com/track/4PtkPzieuXY0Agl0TvotdU) | [Ball Pharanwat](https://open.spotify.com/artist/4Yx9Q2qWC6p3ULryGrKN5p), [Aum GoodSep](https://open.spotify.com/artist/6lUgzDqasAtgEDwnZ1wEpS) | [ยังไม่เป็นไร](https://open.spotify.com/album/5zobKvRvihVncHMfbP39go) | 2:54 | 2025-11-07 | 2025-11-22 |
+| [ยาดี \(My Pills\)](https://open.spotify.com/track/3UgRR2cYc7pQRGh6GVqwSP) | [Afterwork](https://open.spotify.com/artist/1YmLUN8Hl16Sblar6cnNE5) | [ยาดี \(My Pills\)](https://open.spotify.com/album/39LrxUuBRj9SIU5pzP9uJu) | 4:26 | 2026-05-13 |  |
 | [ยามราตรี](https://open.spotify.com/track/4WvExjXzrmXTMxktp6F5kU) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ยามราตรี](https://open.spotify.com/album/1C0BNBXAhTkmxxer5fRARN) | 3:31 | 2024-07-19 | 2024-08-24 |
 | [ยามวิกาล](https://open.spotify.com/track/45IU7fMOqqtQOBzRqYiq9e) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ยามวิกาล](https://open.spotify.com/album/1Mj8Ys9nyHdT6MbO39RbNE) | 3:32 | 2025-11-07 | 2025-12-05 |
 | [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/track/76f0EYKaPbHHshFPmDcGSN) | [Almondeptt](https://open.spotify.com/artist/77p8feYnlVx5htNAWQxXi9) | [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/album/7pSxZAv4NE47r4mvfsXaEq) | 2:50 | 2025-03-06 | 2025-04-11 |

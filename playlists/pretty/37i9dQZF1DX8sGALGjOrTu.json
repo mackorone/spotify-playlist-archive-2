@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 533946,
+  "num_followers": 533989,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "What To Do When You Are Dead",
-        "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
-      },
-      "artists": [
-        {
-          "name": "Armor For Sleep",
-          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "Remember To Feel Real",
-      "url": "https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "The Big Dirty",
         "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 204720,
       "name": "We'rewolf",
       "url": "https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "What To Do When You Are Dead",
+        "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
+      },
+      "artists": [
+        {
+          "name": "Armor For Sleep",
+          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "Remember To Feel Real",
+      "url": "https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Trainwreck",
-        "url": "https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P"
-      },
-      "artists": [
-        {
-          "name": "Boys Night Out",
-          "url": "https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ"
-        }
-      ],
-      "duration_ms": 240186,
-      "name": "Medicating",
-      "url": "https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Casually Dressed And Deep In Conversation",
         "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 317746,
       "name": "Escape Artists Never Die",
       "url": "https://open.spotify.com/track/34RIandjffS6fEMitjZnvF"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Trainwreck",
+        "url": "https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P"
+      },
+      "artists": [
+        {
+          "name": "Boys Night Out",
+          "url": "https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ"
+        }
+      ],
+      "duration_ms": 240186,
+      "name": "Medicating",
+      "url": "https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw"
     },
     {
       "added_at": "2025-11-24 12:49:27",

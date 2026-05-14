@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 122484,
+  "num_followers": 122505,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Emotionalism (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 320520,
-      "name": "The Ballad of Love and Hate",
-      "url": "https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "The Stand Ins",
         "url": "https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 331800,
       "name": "Lost Coastlines",
       "url": "https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Emotionalism (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 320520,
+      "name": "The Ballad of Love and Hate",
+      "url": "https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Peaceful, The World Lays Me Down",
         "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 214920,
       "name": "5 Years Time",
       "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Ongiara",
-        "url": "https://open.spotify.com/album/6Rd4szZJfF4rITSFjDVRxa"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Your Rocky Spine",
-      "url": "https://open.spotify.com/track/2kARZH1SSseRigNMbgtDzB"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "All Hail West Texas (Remastered)",
         "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
       },
@@ -1603,18 +1587,34 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "A Ghost Is Born (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
+        "name": "Ongiara",
+        "url": "https://open.spotify.com/album/6Rd4szZJfF4rITSFjDVRxa"
       },
       "artists": [
         {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
         }
       ],
-      "duration_ms": 363000,
-      "name": "Handshake Drugs",
-      "url": "https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd"
+      "duration_ms": 216453,
+      "name": "Your Rocky Spine",
+      "url": "https://open.spotify.com/track/2kARZH1SSseRigNMbgtDzB"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Advisory Committee",
+        "url": "https://open.spotify.com/album/4PFZFBAC72pNx0PuJaBNui"
+      },
+      "artists": [
+        {
+          "name": "Mirah",
+          "url": "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "Special Death",
+      "url": "https://open.spotify.com/track/1Y7SunUEcwxyev6VtXRnZd"
     }
   ],
   "unique_name": "00s Indie Folk",

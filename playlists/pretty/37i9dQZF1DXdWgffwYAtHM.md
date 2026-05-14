@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 10 | [INSPIRAÇÃO OU CÓPIA? ft Michi e Pixel 🤔 – DON \#130](https://open.spotify.com/episode/5xrBHDlHxDbz5lxo1oGOQe) | [Don Podcast](https://open.spotify.com/show/0ilOR20NgwNiwJXM9Uwd4p) | [Don Podcast](https://open.spotify.com/album/0ilOR20NgwNiwJXM9Uwd4p) | 2:12:29 |
 | 11 | [lições pra quem sempre se virou sozinha](https://open.spotify.com/episode/13hZSQPYJLVlqEMAqsEFK4) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 19:57 |
 
-Snapshot ID: `AAAAAG5q5uc+D0nQyi45cSzU1GCWp8uo`
+Snapshot ID: `AAAAAKYo8mS9j0jmiarfkPTvRvo68f5Q`

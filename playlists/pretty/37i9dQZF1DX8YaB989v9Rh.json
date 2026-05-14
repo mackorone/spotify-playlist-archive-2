@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 31627,
+  "num_followers": 31644,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 338946,
+      "name": "You Rock My World",
+      "url": "https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 223506,
       "name": "All Falls Down",
       "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 338946,
-      "name": "You Rock My World",
-      "url": "https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76"
     },
     {
       "added_at": "2022-10-01 16:13:28",

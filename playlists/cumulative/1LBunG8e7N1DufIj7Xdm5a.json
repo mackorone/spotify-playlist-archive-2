@@ -51077,6 +51077,24 @@
     },
     {
       "album": {
+        "name": "Open Range_Master",
+        "url": "https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0443\u043b\u044c\u0436\u0435\u043d\u043a\u043e \u0415\u0432\u0433\u0435\u043d\u0438\u0439",
+          "url": "https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131464,
+      "name": "Open Range_Master",
+      "url": "https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou"
+    },
+    {
+      "album": {
         "name": "Music for travel ideal for driving bonne voyage",
         "url": "https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x"
       },

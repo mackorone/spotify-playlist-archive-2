@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,096 likes - 50 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,102 likes - 50 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 34 | [Champion \(Live\)](https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 8:46 |
 | 35 | [You're Worthy of My Praise/As The Deer \- Live](https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 2:26 |
 | 36 | [You're Gonna Be Ok](https://open.spotify.com/track/66JDQEKj1rdeAz1D080mJw) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 4:20 |
-| 37 | [The Blessing](https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 6:52 |
+| 37 | [Reckless Love](https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:39 |
 | 38 | [Luminosity](https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG) | 4:08 |
 | 39 | [My King Forever \(Live\)](https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:15 |
 | 40 | [You Make Me Brave \(Live\)](https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm) | 6:06 |
-| 41 | [Reckless Love](https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:39 |
-| 42 | [One Thing Remains](https://open.spotify.com/track/1vH145HxXVObf4vzXaWuEG) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 5:00 |
-| 43 | [Rescue](https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 5:19 |
+| 41 | [The Blessing](https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 6:52 |
+| 42 | [Rescue](https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 5:19 |
+| 43 | [One Thing Remains](https://open.spotify.com/track/1vH145HxXVObf4vzXaWuEG) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 5:00 |
 | 44 | [Holy Hands \- Live](https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp) | [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Holy Hands \(Live\)](https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P) | 7:14 |
 | 45 | [Dancing on the Waves](https://open.spotify.com/track/7D2dX1omKWoLatKZyYMhCV) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 6:14 |
 | 46 | [This Is a Move](https://open.spotify.com/track/3y3NMcB0IuMKrLbqwFKU8N) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H) | 4:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:01 |
 | 50 | [Elohim \- Live](https://open.spotify.com/track/15VivzmIja8IDxDE7zxRwC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Noah Paul Harrison](https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4) | [Elohim \(Live\)](https://open.spotify.com/album/494zDW6D8pA2QUi4CTcQdR) | 7:26 |
 
-Snapshot ID: `agEcAAAAAABAAzEe1rS5Bmb6IehqiGkS`
+Snapshot ID: `agJtgAAAAACcXzYlRUAPmHEVBdbDzHs3`

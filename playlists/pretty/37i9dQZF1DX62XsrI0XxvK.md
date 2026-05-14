@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Andien
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,215 likes - 98 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,218 likes - 98 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

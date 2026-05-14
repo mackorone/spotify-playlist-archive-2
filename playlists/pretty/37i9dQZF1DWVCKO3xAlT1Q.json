@@ -1,15 +1,15 @@
 {
   "description": "The official Eurovision Song Contest 2026 playlist.\n",
-  "num_followers": 1231350,
+  "num_followers": 1234475,
   "original_name": "Eurovision 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPd69vBpBQugn99s2/d1+o+1e6Hj",
+  "snapshot_id": "AAAAABYCVnRjohjPjIqdBONBwT5I/C6C",
   "tracks": [
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Liekinheitin",
         "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
@@ -29,10 +29,10 @@
       "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "F\u00f8r Vi G\u00e5r Hjem",
-        "url": "https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3"
+        "url": "https://open.spotify.com/album/6DIbkPf3IfXlhovI4F25Pb"
       },
       "artists": [
         {
@@ -42,10 +42,10 @@
       ],
       "duration_ms": 174374,
       "name": "F\u00f8r Vi G\u00e5r Hjem",
-      "url": "https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf"
+      "url": "https://open.spotify.com/track/2qG6vr8fMq2abvKu7qXVuQ"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Bangaranga",
         "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "My System",
         "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
@@ -77,23 +77,7 @@
       "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
-      "album": {
-        "name": "JALLA",
-        "url": "https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx"
-      },
-      "artists": [
-        {
-          "name": "Antigoni",
-          "url": "https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "JALLA",
-      "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
-    },
-    {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/71faxgxtIua8WZLM9v9U6v"
@@ -109,39 +93,23 @@
       "url": "https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
-        "name": "Choke Me",
-        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
+        "name": "JALLA",
+        "url": "https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx"
       },
       "artists": [
         {
-          "name": "Alexandra C\u0103pit\u0103nescu",
-          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+          "name": "Antigoni",
+          "url": "https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW"
         }
       ],
-      "duration_ms": 180725,
-      "name": "Choke Me",
-      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
+      "duration_ms": 179999,
+      "name": "JALLA",
+      "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
-      "album": {
-        "name": "Per sempre s\u00ec",
-        "url": "https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu"
-      },
-      "artists": [
-        {
-          "name": "Sal Da Vinci",
-          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
-        }
-      ],
-      "duration_ms": 175121,
-      "name": "Per sempre s\u00ec",
-      "url": "https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt"
-    },
-    {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Viva, Moldova!",
         "url": "https://open.spotify.com/album/1KIl7BKdv5nwZhN2Iz6Y5M"
@@ -157,7 +125,39 @@
       "url": "https://open.spotify.com/track/1aco3k5pWdUjruX6vKgovf"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
+      "album": {
+        "name": "Choke Me",
+        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
+      },
+      "artists": [
+        {
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+        }
+      ],
+      "duration_ms": 180725,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
+    },
+    {
+      "added_at": "2026-05-13 15:11:53",
+      "album": {
+        "name": "Per sempre s\u00ec",
+        "url": "https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        }
+      ],
+      "duration_ms": 175121,
+      "name": "Per sempre s\u00ec",
+      "url": "https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt"
+    },
+    {
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Ferto",
         "url": "https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Ya Ya Ya",
         "url": "https://open.spotify.com/album/4VB38tgYeoX90oKnxmjw0M"
@@ -189,7 +189,23 @@
       "url": "https://open.spotify.com/track/0BDJRKqx8Qj6EmM5o9P5Vr"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6waF3p59pl6HY7fCnz6ril"
+      },
+      "artists": [
+        {
+          "name": "Delta Goodrem",
+          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+        }
+      ],
+      "duration_ms": 180686,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/268EdGlIxScwdC21kE89Nf"
+    },
+    {
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Alice (ESC Version)",
         "url": "https://open.spotify.com/album/6RFjn0g23U5nvRXE6gDQiS"
@@ -205,23 +221,7 @@
       "url": "https://open.spotify.com/track/4n1hRQ4uhTLhc1XaJFFofK"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3AH33SDipOCuw9ATLx1CrX"
-      },
-      "artists": [
-        {
-          "name": "Delta Goodrem",
-          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
-        }
-      ],
-      "duration_ms": 180686,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/2pJ0Ji9nkohwuKMuyNhiwo"
-    },
-    {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "REGARDE !",
         "url": "https://open.spotify.com/album/7jXYj6lBYtSnQtP9wh5I8V"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/6cjjQg0SAlX7ahvYWuRPXz"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Michelle",
         "url": "https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/22g4vKHFze17AV7vnequhG"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "TANZSCHEIN",
         "url": "https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Andromeda",
         "url": "https://open.spotify.com/album/2hmiXUccJdvAb5YWklu4yo"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/3bTsAnErZrtBoUfORcTDTo"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Dancing on the ice",
         "url": "https://open.spotify.com/album/4mSU2SqQ4Udfvu7NG5TzdD"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/1u0WYHtNFrAyzgybCDK861"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/2g3GooH2jkUzcQ2NmwuZFq"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/4kYfZeuXXmCWLvhnPIjyr1"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "N\u00e2n",
         "url": "https://open.spotify.com/album/1VB86eKOCokBdOVcU1oxzo"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/40vsOMljwhHCibpToRULGo"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/4WrXzOulZzFDhB84ogTcKQ"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/6xMZVKtQ76THTiJBntzmwz"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "CROSSROADS",
         "url": "https://open.spotify.com/album/0ynt6Fz8qqlGIdUFVhPoqL"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/3X6cfvG2xgtx47V03hKxjG"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Eins, Zwei, Drei",
         "url": "https://open.spotify.com/album/7yGx7Va1vpyhsLvdwRmKyT"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/26xlJAlQoCMbnAWd0sGCQf"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Paloma Rumba",
         "url": "https://open.spotify.com/album/2o3POyKD38wE14kzOGKAAl"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/4GdU371yp4pDPleTAXoq4g"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Kraj mene",
         "url": "https://open.spotify.com/album/5jZzL46mXq6XDHbsTwO29o"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/3cnVAUGWZcXNqojO8PfYOu"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "S\u00f3lo Quiero M\u00e1s",
         "url": "https://open.spotify.com/album/2aW3Fg913oEVifMta2Jvpg"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/1av4wp2KoCwn9P151n45WV"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Ridnym (Eurovision Version)",
         "url": "https://open.spotify.com/album/1Re3YIG29ZrGx6CjMdwAAn"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/44DemLB8ChS8AaN9haWsgU"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "\u0112n\u0101",
         "url": "https://open.spotify.com/album/5B0vWqpxIriwZSTdE5Wv4K"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/5jrN6fnBH38Bh0IQJnjiUJ"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Just Go",
         "url": "https://open.spotify.com/album/0YB99qjvEW1EUvGbN73Urc"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3MdXycj2PnW7KBiYSzLVxD"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/5L5QsjQu2WZ2wnLYmRd7b4"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/7vsJ0bqsjhVnZxV2W2wRiD"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Too Epic To Be True / Are You Ready To Go",
         "url": "https://open.spotify.com/album/1pDXZMQjepON39iflEYWgK"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/3Js1kS52KXZsmRU6qFLH60"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Festival da Can\u00e7\u00e3o 2026",
         "url": "https://open.spotify.com/album/3QFJNJbQvlVJ3sPMB1TWrH"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/03Oz6PWplRogAQJgnFuoJ7"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "On Replay",
         "url": "https://open.spotify.com/album/54ZVX0mfzANelSskiymnD7"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/4ybdkbEdZ2JwXFbNaRbBIY"
     },
     {
-      "added_at": "2026-05-12 21:51:38",
+      "added_at": "2026-05-13 15:11:53",
       "album": {
         "name": "Nova Zora (Eurovision 2026)",
         "url": "https://open.spotify.com/album/1lrGkecHhO8pzAGhd8gDGW"

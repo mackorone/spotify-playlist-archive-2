@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,312 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,370 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 36 | [GORILLA](https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGURI ZOO](https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL) | 2:19 |
 | 37 | [Keep us in the loop](https://open.spotify.com/track/6O5GLEknWy44xP432YP2Ex) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Keep us in the loop](https://open.spotify.com/album/4iphPY2yjE09hS7vDryfmU) | 3:15 |
 | 38 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 |
-| 39 | [Clockwork Dub](https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Lost City Archives, Vol\. 4](https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a) | 4:54 |
-| 40 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
+| 39 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
+| 40 | [Clockwork Dub](https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Lost City Archives, Vol\. 4](https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a) | 4:54 |
 | 41 | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt) | [TYT](https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO) | 3:58 |
 | 42 | [DOSHABURI \(feat\. JUMADIBA\) \- PAS TASTA Remix](https://open.spotify.com/track/60iwtXuUHtepUcIHXiSrfv) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI \(feat\. JUMADIBA\) \[PAS TASTA Remix\]](https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR) | 2:58 |
 | 43 | [DANCING OTAKU](https://open.spotify.com/track/3LRZLbIOlSqMDfOeKqTPeh) | [DONGROSSO](https://open.spotify.com/artist/7nRjb0R3RLVlbwHq3f5gTA) | [DANCING OTAKU](https://open.spotify.com/album/1XuDO93J7EGw4bf0kwFdya) | 2:59 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 47 | [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 |
 | 48 | [PYFPDD](https://open.spotify.com/track/6sJbKZbCcDvF4udMdtf9uE) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [PYFPDD](https://open.spotify.com/album/7CikTOp0SBBM2x2AWdBEhw) | 3:41 |
 | 49 | [Nulife](https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [Nulife](https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3) | 3:56 |
-| 50 | [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 |
+| 50 | [Open! \(Fellsius Remix\)](https://open.spotify.com/track/2iQ1h6gocUyJNhPUcjbLtn) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [nextdimensional](https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD), [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [Open! Remixes](https://open.spotify.com/album/5tTP1X8h3L9lLgiE9j4axg) | 3:44 |
 
 Snapshot ID: `AAAAAA6wJkgBwXuke6JlxApK1INkvHx5`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Perreo del bueno! twerk that \ud83c\udf51 Cover: Alvaro Diaz",
-  "num_followers": 1355368,
+  "num_followers": 1355315,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-05-02 19:48:30",
       "album": {
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+    },
+    {
+      "added_at": "2026-05-02 19:48:30",
+      "album": {
         "name": "VITAMINA",
         "url": "https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 208743,
       "name": "VITAMINA",
       "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"
-    },
-    {
-      "added_at": "2026-05-02 19:48:30",
-      "album": {
-        "name": "Te Quer\u00eda Ver",
-        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Te Quer\u00eda Ver",
-      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
       "added_at": "2026-05-02 19:48:30",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-05-02 19:48:30",
       "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 174229,
+      "name": "LA FALDA",
+      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+    },
+    {
+      "added_at": "2026-05-02 19:48:30",
+      "album": {
         "name": "LA OBSESION, VOL. 1",
         "url": "https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 131707,
       "name": "Chichabeba",
       "url": "https://open.spotify.com/track/5ntlWZx00S7XlXW7cuUk3g"
-    },
-    {
-      "added_at": "2026-05-02 19:48:30",
-      "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 174229,
-      "name": "LA FALDA",
-      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
       "added_at": "2026-05-02 19:48:30",
@@ -1279,26 +1279,22 @@
     {
       "added_at": "2026-05-02 19:48:30",
       "album": {
-        "name": "Cosmo",
-        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
+        "name": "66 am",
+        "url": "https://open.spotify.com/album/295kpcatqizxstrU8Dx2RX"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
         }
       ],
-      "duration_ms": 206103,
-      "name": "Pa Ti Estoy",
-      "url": "https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw"
+      "duration_ms": 240000,
+      "name": "66 am",
+      "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
     },
     {
       "added_at": "2026-05-02 19:48:30",
@@ -1327,22 +1323,26 @@
     {
       "added_at": "2026-05-02 19:48:30",
       "album": {
-        "name": "66 am",
-        "url": "https://open.spotify.com/album/295kpcatqizxstrU8Dx2RX"
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
       },
       "artists": [
         {
-          "name": "Miranda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
         }
       ],
-      "duration_ms": 240000,
-      "name": "66 am",
-      "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
+      "duration_ms": 206103,
+      "name": "Pa Ti Estoy",
+      "url": "https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw"
     },
     {
       "added_at": "2026-05-02 19:48:30",
@@ -1379,30 +1379,6 @@
       "duration_ms": 184462,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
-    },
-    {
-      "added_at": "2026-05-02 19:48:30",
-      "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Caramelo - Remix",
-      "url": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV"
     },
     {
       "added_at": "2026-05-02 19:48:30",
@@ -1451,26 +1427,26 @@
     {
       "added_at": "2026-05-02 19:48:30",
       "album": {
-        "name": "SEXOLANDIA",
-        "url": "https://open.spotify.com/album/34q8BcQiDWmbD2MFFy4nPy"
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 197830,
-      "name": "BEIBY - Remix",
-      "url": "https://open.spotify.com/track/0HjV1R5MaVfJ5q1N1LzaHG"
+      "duration_ms": 233160,
+      "name": "Caramelo - Remix",
+      "url": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV"
     },
     {
       "added_at": "2026-05-02 19:48:30",
@@ -1491,6 +1467,30 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "added_at": "2026-05-02 19:48:30",
+      "album": {
+        "name": "SEXOLANDIA",
+        "url": "https://open.spotify.com/album/34q8BcQiDWmbD2MFFy4nPy"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 197830,
+      "name": "BEIBY - Remix",
+      "url": "https://open.spotify.com/track/0HjV1R5MaVfJ5q1N1LzaHG"
     },
     {
       "added_at": "2026-05-02 19:48:30",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2026-05-02 19:48:30",
       "album": {
-        "name": "Choque",
-        "url": "https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 199456,
-      "name": "Choque",
-      "url": "https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt"
-    },
-    {
-      "added_at": "2026-05-02 19:48:30",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 305962,
       "name": "Que Mas Pues - Remix",
       "url": "https://open.spotify.com/track/7fODjB7BrQTGqh0hogW6XD"
+    },
+    {
+      "added_at": "2026-05-02 19:48:30",
+      "album": {
+        "name": "Choque",
+        "url": "https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 199456,
+      "name": "Choque",
+      "url": "https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt"
     },
     {
       "added_at": "2026-05-02 19:48:30",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-05-02 19:48:30",
       "album": {
-        "name": "LATINA FOREVA",
-        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "LATINA FOREVA",
-      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
-    },
-    {
-      "added_at": "2026-05-02 19:48:30",
-      "album": {
         "name": "Otro Trago (Remix)",
         "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
       },
@@ -1731,6 +1715,22 @@
     {
       "added_at": "2026-05-02 19:48:30",
       "album": {
+        "name": "LATINA FOREVA",
+        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 159452,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
+    },
+    {
+      "added_at": "2026-05-02 19:48:30",
+      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -1743,6 +1743,26 @@
       "duration_ms": 214013,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
+    },
+    {
+      "added_at": "2026-05-02 19:48:30",
+      "album": {
+        "name": "YTSQS",
+        "url": "https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "CHICA ATRACTIVA",
+      "url": "https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1"
     },
     {
       "added_at": "2026-05-02 19:48:30",
@@ -1767,22 +1787,22 @@
     {
       "added_at": "2026-05-02 19:48:30",
       "album": {
-        "name": "YTSQS",
-        "url": "https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1"
+        "name": "CLASSY 101",
+        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Lewis Somes",
-          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 165600,
-      "name": "CHICA ATRACTIVA",
-      "url": "https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1"
+      "duration_ms": 195986,
+      "name": "CLASSY 101",
+      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
       "added_at": "2026-05-02 19:48:30",
@@ -1815,26 +1835,6 @@
       "duration_ms": 235200,
       "name": "OA",
       "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
-    },
-    {
-      "added_at": "2026-05-02 19:48:30",
-      "album": {
-        "name": "CLASSY 101",
-        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "CLASSY 101",
-      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
       "added_at": "2026-05-02 19:48:30",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2026-05-02 19:48:30",
       "album": {
-        "name": "ESTE",
-        "url": "https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 162058,
-      "name": "ESTE",
-      "url": "https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l"
-    },
-    {
-      "added_at": "2026-05-02 19:48:30",
-      "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
+    },
+    {
+      "added_at": "2026-05-02 19:48:30",
+      "album": {
+        "name": "ESTE",
+        "url": "https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 162058,
+      "name": "ESTE",
+      "url": "https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l"
     },
     {
       "added_at": "2026-05-02 19:48:30",

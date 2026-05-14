@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Au clair de la dune",
+        "url": "https://open.spotify.com/album/6VZlASTXypeYvkj1JcTcqI"
+      },
+      "artists": [
+        {
+          "name": "Hub30",
+          "url": "https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Au clair de la dune",
+      "url": "https://open.spotify.com/track/362JrOM6zGyzkMv5Fm7eBn"
+    },
+    {
+      "album": {
         "name": "AU DEDANS",
         "url": "https://open.spotify.com/album/7HMlhLIqhZ4M5YEXjJZZjV"
       },
@@ -628,6 +646,24 @@
       "duration_ms": 226822,
       "name": "Cansei de Sofrer - Dance",
       "url": "https://open.spotify.com/track/3yvnkkzrcOyQXiA70WEx8l"
+    },
+    {
+      "album": {
+        "name": "CASH",
+        "url": "https://open.spotify.com/album/62dr1xx8kCvC6y1wif90ui"
+      },
+      "artists": [
+        {
+          "name": "Bello",
+          "url": "https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95267,
+      "name": "CASH",
+      "url": "https://open.spotify.com/track/57DFVtIFBayTIVQa81v2Xq"
     },
     {
       "album": {
@@ -2702,6 +2738,24 @@
       "duration_ms": 193311,
       "name": "Minha Cama",
       "url": "https://open.spotify.com/track/4vAlnm8Pku2vZouDMMumaY"
+    },
+    {
+      "album": {
+        "name": "Mohnspark GT L\u00e8gendes",
+        "url": "https://open.spotify.com/album/0ThCU2o759233P6acNaXZx"
+      },
+      "artists": [
+        {
+          "name": "KNRR33",
+          "url": "https://open.spotify.com/artist/6fJ05FXmbwu3A2FdzGP1iM"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184840,
+      "name": "Mohnspark GT L\u00e8gendes",
+      "url": "https://open.spotify.com/track/3glzeqMjuKzXkHLquQgqqW"
     },
     {
       "album": {

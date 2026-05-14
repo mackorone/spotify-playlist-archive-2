@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 71244,
+  "num_followers": 71246,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "RONGO",
-        "url": "https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I"
-      },
-      "artists": [
-        {
-          "name": "Moncho",
-          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
-        },
-        {
-          "name": "Lance-a-Lot",
-          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Vassaste kniven i l\u00e5dan",
-      "url": "https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Fr\u00e5n och med Du",
         "url": "https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 260000,
       "name": "Fr\u00e5n och med Du",
       "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "RONGO",
+        "url": "https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I"
+      },
+      "artists": [
+        {
+          "name": "Moncho",
+          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
+        },
+        {
+          "name": "Lance-a-Lot",
+          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Vassaste kniven i l\u00e5dan",
+      "url": "https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "S\u00e5 nice",
-        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
-      },
-      "artists": [
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "S\u00e5 nice",
-      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Pirret",
         "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 260079,
       "name": "Pirret",
       "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "S\u00e5 nice",
+        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "S\u00e5 nice",
+      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
-        "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
-      },
-      "artists": [
-        {
-          "name": "Promoe",
-          "url": "https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU"
-        }
-      ],
-      "duration_ms": 206853,
-      "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
-      "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Baluns",
         "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 155294,
       "name": "Baluns",
       "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
+        "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
+      },
+      "artists": [
+        {
+          "name": "Promoe",
+          "url": "https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU"
+        }
+      ],
+      "duration_ms": 206853,
+      "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
+      "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Sanna Mina Ord",
-        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
-      },
-      "artists": [
-        {
-          "name": "Kikko",
-          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
-        },
-        {
-          "name": "Don Paco",
-          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
-        }
-      ],
-      "duration_ms": 249423,
-      "name": "Sanna Mina Ord",
-      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "V\u00e5r Dans",
         "url": "https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 181115,
       "name": "V\u00e5r Dans",
       "url": "https://open.spotify.com/track/0akrglttILrVEe2ncifHsH"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Sanna Mina Ord",
+        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
+      },
+      "artists": [
+        {
+          "name": "Kikko",
+          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
+        },
+        {
+          "name": "Don Paco",
+          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
+        }
+      ],
+      "duration_ms": 249423,
+      "name": "Sanna Mina Ord",
+      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Fet Krokodil",
-        "url": "https://open.spotify.com/album/5at64z4ZwtkZGSX98y1WtB"
-      },
-      "artists": [
-        {
-          "name": "P-Danjelsa",
-          "url": "https://open.spotify.com/artist/1aRGrIf66qGIeHgLJJm3mk"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "Fet Krokodil",
-      "url": "https://open.spotify.com/track/5ee0DD0aIFVdLAmiQPPwtM"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "S\u00e4g Till Mig",
         "url": "https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 260000,
       "name": "S\u00e4g Till Mig",
       "url": "https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Fet Krokodil",
+        "url": "https://open.spotify.com/album/5at64z4ZwtkZGSX98y1WtB"
+      },
+      "artists": [
+        {
+          "name": "P-Danjelsa",
+          "url": "https://open.spotify.com/artist/1aRGrIf66qGIeHgLJJm3mk"
+        }
+      ],
+      "duration_ms": 194563,
+      "name": "Fet Krokodil",
+      "url": "https://open.spotify.com/track/5ee0DD0aIFVdLAmiQPPwtM"
     },
     {
       "added_at": "2024-06-24 11:19:01",

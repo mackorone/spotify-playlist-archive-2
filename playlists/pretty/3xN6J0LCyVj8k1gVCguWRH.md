@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,987 likes - 201 songs - 11 hr 48 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,987 likes - 199 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,10 +204,8 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 194 | [License to Love](https://open.spotify.com/track/7BffJX44LnCgF7a3i17vqR) | [Samuel K Golden](https://open.spotify.com/artist/5HFhflvEA3fWZPBvUF0GGE) | [Therapy For The Heart](https://open.spotify.com/album/5kXU7X3woNv7slG7IkkLn0) | 2:08 |
 | 195 | [Reloj ingrato](https://open.spotify.com/track/1KRf748aWoBHXgSUmO4iY4) | [CODA](https://open.spotify.com/artist/0Y1I5wrU1Sokujgw7d8sIn) | [Reloj ingrato](https://open.spotify.com/album/5YrOQdazVCz6VoqnkRIdd9) | 2:41 |
 | 196 | [Koh Samui \- Alternative](https://open.spotify.com/track/50maIp5jBDfUPzz5f7pbwf) | [THETONYPORTELLI](https://open.spotify.com/artist/5baZz13dTSFBFHmNBN220h), [DJ444LONDON](https://open.spotify.com/artist/0KX6tlCjzfWj6fgOh4IEtu) | [Koh Samui \(444 LIBERTY FREQUENCIES\)](https://open.spotify.com/album/5eASa8mfZp4GJAxApa8bXq) | 2:37 |
-| 197 | [SOLILOQUY](https://open.spotify.com/track/4oRJhSxFWhlH7mhWj0r1cE) | [MERCYN](https://open.spotify.com/artist/6Gq7ay7vlHCNQ5vWdIiOTJ) | [SOLILOQUY](https://open.spotify.com/album/69PpA61eCPg8d18N8y1fL8) | 3:05 |
-| 198 | [8AM \- DARK PULSE REMIX](https://open.spotify.com/track/7CEPXdsY4EJEqHHsVG9TJi) | [Orion Franklin](https://open.spotify.com/artist/3rhhLQRRigNmZwuiVhSSKE), [VIXIO](https://open.spotify.com/artist/6CuMumwzSNmMnw4cfJUQN2), [OLION](https://open.spotify.com/artist/3jPWvDwkmqJXMTKi0gq5oT) | [8AM](https://open.spotify.com/album/2EBBFu3FA73mDakLZULWYv) | 6:06 |
-| 199 | [heathrow](https://open.spotify.com/track/7xdOfyLOPbfyNWH6AsznbQ) | [Zolie](https://open.spotify.com/artist/4pcletN1p2Xcxi8g5YHHgT) | [heathrow](https://open.spotify.com/album/10S8O6pDsfhxcw0pwKcxNK) | 3:01 |
-| 200 | [Error Intencional](https://open.spotify.com/track/5mNbapq5Pn9RD8T01fIQzq) | [Nico Ruiz](https://open.spotify.com/artist/0PoNc2Vn4Ag4NOySSD666z) | [Error Intencional](https://open.spotify.com/album/4POLe1JPGzrPHQCWydvH4z) | 2:58 |
-| 201 | [Every Side](https://open.spotify.com/track/50N9MCKB3rXxv13WhmXU8n) | [Deep Parliament](https://open.spotify.com/artist/7sLc4gfHJ0DP8qFb0DHfrc) | [Deep Parliament](https://open.spotify.com/album/5zI8zbNAoxyPxN9NK0BWap) | 4:00 |
+| 197 | [8AM \- DARK PULSE REMIX](https://open.spotify.com/track/7CEPXdsY4EJEqHHsVG9TJi) | [Orion Franklin](https://open.spotify.com/artist/3rhhLQRRigNmZwuiVhSSKE), [VIXIO](https://open.spotify.com/artist/6CuMumwzSNmMnw4cfJUQN2), [OLION](https://open.spotify.com/artist/3jPWvDwkmqJXMTKi0gq5oT) | [8AM](https://open.spotify.com/album/2EBBFu3FA73mDakLZULWYv) | 6:06 |
+| 198 | [heathrow](https://open.spotify.com/track/7xdOfyLOPbfyNWH6AsznbQ) | [Zolie](https://open.spotify.com/artist/4pcletN1p2Xcxi8g5YHHgT) | [heathrow](https://open.spotify.com/album/10S8O6pDsfhxcw0pwKcxNK) | 3:01 |
+| 199 | [Error Intencional](https://open.spotify.com/track/5mNbapq5Pn9RD8T01fIQzq) | [Nico Ruiz](https://open.spotify.com/artist/0PoNc2Vn4Ag4NOySSD666z) | [Error Intencional](https://open.spotify.com/album/4POLe1JPGzrPHQCWydvH4z) | 2:58 |
 
-Snapshot ID: `AAA6kd4paVdA/kuWLjHcVuR4KOsjX0xL`
+Snapshot ID: `AAA6laztD/66HI5pb3csSGbIoafYm4Mp`

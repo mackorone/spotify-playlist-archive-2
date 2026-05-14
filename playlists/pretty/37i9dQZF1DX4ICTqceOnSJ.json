@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 407904,
+  "num_followers": 407807,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Canciones Sin Ropa",
-        "url": "https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj"
-      },
-      "artists": [
-        {
-          "name": "Pedrina y Rio",
-          "url": "https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 213487,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/5crUoUnVrtjHaHHhDQuf8z"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Vueltas",
         "url": "https://open.spotify.com/album/6CCshZPonPq3626zN28AT4"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 209577,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/4q3INV20vNx0BQYNTDLGEb"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Canciones Sin Ropa",
+        "url": "https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj"
+      },
+      "artists": [
+        {
+          "name": "Pedrina y Rio",
+          "url": "https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "duration_ms": 213487,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/5crUoUnVrtjHaHHhDQuf8z"
     }
   ],
   "unique_name": "Lo Mejor del Indie Latino  ",

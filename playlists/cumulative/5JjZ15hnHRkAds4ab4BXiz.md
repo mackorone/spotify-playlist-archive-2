@@ -4,7 +4,7 @@
 
 > 
 
-849 songs - 2 day 5 hr 3 min
+850 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 | 2025-12-13 |  |
 | [Fake Smiles and Nervous Laughter](https://open.spotify.com/track/4LurEgiRgAnFiLAClIQZcF) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:26 | 2024-06-06 | 2026-01-15 |
 | [Falling Apart](https://open.spotify.com/track/4G5TVyb0lp9rzmoXHWTO8a) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/7K4MJf0pCkZGoxGvYJebWD) | 4:05 | 2026-03-12 |  |
+| [Falling out of Love](https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Falling out of Love](https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ) | 6:21 | 2026-05-14 |  |
 | [Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 4:38 | 2023-11-14 |  |
 | [Fast Animals](https://open.spotify.com/track/4zVBpwpegumZ9inLiyBar1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Fast Animals](https://open.spotify.com/album/6sKy9KhjloDKHcoyfY8UgZ) | 3:44 | 2024-05-12 |  |
 | [Fate of the Stars](https://open.spotify.com/track/23N1UHBXSTew1zz6cRCYvF) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 6:50 | 2024-05-26 |  |

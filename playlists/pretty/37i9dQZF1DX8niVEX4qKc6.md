@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Camila Buch
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,349 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,353 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 47 | [Lara](https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 3:18 |
 | 48 | [Pasos Al Costado](https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turf](https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV) | 4:31 |
 | 49 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 |
-| 50 | [Me vas a extrañar](https://open.spotify.com/track/5Vg92lyz9J2XqXNBYq1KwN) | [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Me vas a extrañar](https://open.spotify.com/album/6rCA7EhJjtcB62HO6Ce9RP) | 2:42 |
-| 51 | [11 y 6](https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 3:57 |
+| 50 | [11 y 6](https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 3:57 |
+| 51 | [Me vas a extrañar](https://open.spotify.com/track/5Vg92lyz9J2XqXNBYq1KwN) | [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Me vas a extrañar](https://open.spotify.com/album/6rCA7EhJjtcB62HO6Ce9RP) | 2:42 |
 | 52 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 |
 | 53 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 |
 | 54 | [De Musica Ligera](https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT) | [Sámdalo](https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7) | [De Musica Ligera](https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK) | 2:54 |
@@ -75,16 +75,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 65 | [AWCH \- Acústico](https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH \(Acústico\)](https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf) | 3:16 |
 | 66 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 |
 | 67 | [Vasos Vacíos](https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tributo A Los Fabulosos Cadillacs](https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76) | 5:21 |
-| 68 | [Una Canción Diferente](https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Celesteacustica](https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe) | 3:53 |
-| 69 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
+| 68 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
+| 69 | [Una Canción Diferente](https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Celesteacustica](https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe) | 3:53 |
 | 70 | [Acuarela](https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Primavera](https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP) | 4:02 |
 | 71 | [Superpoder](https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Superpoder](https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2) | 2:24 |
 | 72 | [Eres](https://open.spotify.com/track/5dOxmkHjQ0xJIyRzEJsn6e) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Eres](https://open.spotify.com/album/0KiWWTMscBa4ypgrTc8QVQ) | 3:06 |
 | 73 | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5) | 4:33 |
 | 74 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 |
 | 75 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
-| 76 | [Lo Que Perdí](https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Lo Que Perdí](https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6) | 3:43 |
-| 77 | [Alfonsina y El Mar \- En Vivo](https://open.spotify.com/track/2EoqsWW9VQ7LVMizaY5ZGG) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Corazón Acústico Vol\. I \- En Vivo desde Studio A B48 \(Barcelona\)](https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w) | 4:54 |
+| 76 | [Alfonsina y El Mar \- En Vivo](https://open.spotify.com/track/2EoqsWW9VQ7LVMizaY5ZGG) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Corazón Acústico Vol\. I \- En Vivo desde Studio A B48 \(Barcelona\)](https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w) | 4:54 |
+| 77 | [Lo Que Perdí](https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Lo Que Perdí](https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6) | 3:43 |
 | 78 | [Seminare](https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [Seminare](https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI) | 3:24 |
 | 79 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
 | 80 | [Mil Mensajes](https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Mil Mensajes](https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo) | 3:22 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 97 | [Hermoza From Heaven](https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Ninja Mental \- Unplugged MTV](https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c) | 4:37 |
 | 98 | [TEMPORAL](https://open.spotify.com/track/5XaMCvmXPXJ8BbTfH3ZkZj) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [TEMPORAL, LP.](https://open.spotify.com/album/6ITfMwpGDKVTzl16mMXvYN) | 3:45 |
 | 99 | [Mandolín \- Live](https://open.spotify.com/track/4URBvGjdh2WpLKNx4mr1SJ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Pardelion Music](https://open.spotify.com/artist/6jEflkhA5Lckl3nhvKUiar) | [Loli Molina Live on Pardelion Music](https://open.spotify.com/album/0kd7ojE2zKmEJeh2q97EyJ) | 5:04 |
-| 100 | [Baguala Desesperada](https://open.spotify.com/track/1hoFtJoD2tQh6V6G1Dj3is) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Baguala Desesperada](https://open.spotify.com/album/1SIlKhoqSbWQTVHh0373m3) | 3:27 |
+| 100 | [Como Te Voy A Olvidar](https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Como Te Voy A Olvidar](https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq) | 3:06 |
 
 Snapshot ID: `AAAAAK46GdxKM7c88F1iZnqju8jpm4dT`

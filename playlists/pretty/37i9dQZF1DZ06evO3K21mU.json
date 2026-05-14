@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 942220,
+  "num_followers": 942265,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAACpOHVwKBoZFW1uEBMbI7dA",
+  "snapshot_id": "agJtgAAAAABPjo/NyTPflCMKKsrFz/rv",
   "tracks": [
     {
       "added_at": null,
@@ -851,22 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "R3SET",
-        "url": "https://open.spotify.com/album/1rhnav9zlFHm5zbyVIy2jR"
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
       "artists": [
         {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 192019,
-      "name": "OFG!",
-      "url": "https://open.spotify.com/track/3FDHnylmGbOBmbIrwnWI88"
+      "duration_ms": 252053,
+      "name": "Sparks Will Fly (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
     },
     {
       "added_at": null,
@@ -895,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+        "name": "R3SET",
+        "url": "https://open.spotify.com/album/1rhnav9zlFHm5zbyVIy2jR"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         },
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 252053,
-      "name": "Sparks Will Fly (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
+      "duration_ms": 192019,
+      "name": "OFG!",
+      "url": "https://open.spotify.com/track/3FDHnylmGbOBmbIrwnWI88"
     },
     {
       "added_at": null,

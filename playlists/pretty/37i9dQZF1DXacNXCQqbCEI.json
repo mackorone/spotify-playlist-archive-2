@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 343027,
+  "num_followers": 343021,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "El Corredor Del Jaguar",
+        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Frio Severo",
+      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Remixeado a Lo Bien",
         "url": "https://open.spotify.com/album/5Z7B0vlfjT6ddaoPajl36c"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 334000,
       "name": "A Lo Bien - CERO39 rmx",
       "url": "https://open.spotify.com/track/1s1JGQTxw1amjcucQTzX9a"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "El Corredor Del Jaguar",
-        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Frio Severo",
-      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -999,6 +999,38 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "La A\u00f1oranza",
+        "url": "https://open.spotify.com/album/49DEsTEzSegrybm3Npzedj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Haaksman",
+          "url": "https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
+        {
+          "name": "Coco Maria",
+          "url": "https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge"
+        },
+        {
+          "name": "Ori Kaplan",
+          "url": "https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu"
+        },
+        {
+          "name": "Will Love",
+          "url": "https://open.spotify.com/artist/5TpDq3GBovae0G1IkXqLqu"
+        }
+      ],
+      "duration_ms": 223207,
+      "name": "La A\u00f1oranza - Original Version",
+      "url": "https://open.spotify.com/track/1BPGUDaMurblePgyZddR1G"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Baquin\u00e9",
         "url": "https://open.spotify.com/album/3tEpnzOPwroGkPUIdAHoUG"
       },
@@ -1031,38 +1063,6 @@
       "duration_ms": 186818,
       "name": "Amanecer\u00e1 - Bial Hclap Remix",
       "url": "https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "La A\u00f1oranza",
-        "url": "https://open.spotify.com/album/49DEsTEzSegrybm3Npzedj"
-      },
-      "artists": [
-        {
-          "name": "Daniel Haaksman",
-          "url": "https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r"
-        },
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        },
-        {
-          "name": "Coco Maria",
-          "url": "https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge"
-        },
-        {
-          "name": "Ori Kaplan",
-          "url": "https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu"
-        },
-        {
-          "name": "Will Love",
-          "url": "https://open.spotify.com/artist/5TpDq3GBovae0G1IkXqLqu"
-        }
-      ],
-      "duration_ms": 223207,
-      "name": "La A\u00f1oranza - Original Version",
-      "url": "https://open.spotify.com/track/1BPGUDaMurblePgyZddR1G"
     },
     {
       "added_at": "2024-07-12 22:50:04",

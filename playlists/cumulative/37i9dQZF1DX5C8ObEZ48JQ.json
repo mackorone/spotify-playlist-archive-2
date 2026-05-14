@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH?si=8Tf9hIrBSW-FrG6f9oxfYA\">Hoodboyz</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP?si=s1Y1Q3UpTmCGpZ4_FEcWWA\">EKENE</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -1532,6 +1532,24 @@
       "duration_ms": 171000,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/3D9bfMv1mFaYZngz2kFmOn"
+    },
+    {
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/0iQNsB8GQ7b96Za3lvqZsU"
+      },
+      "artists": [
+        {
+          "name": "SEHB",
+          "url": "https://open.spotify.com/artist/2N8j4lbdTWm0mcvq7qk4Xp"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208014,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/3dItjGInuTViNOUEDZSdmu"
     },
     {
       "album": {
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 184054,
       "name": "BMB (Be My Baby)",
       "url": "https://open.spotify.com/track/53UX7O9CVsStlmDJ6JxPoW"
@@ -4280,6 +4298,24 @@
       "duration_ms": 169411,
       "name": "Champagne Boi",
       "url": "https://open.spotify.com/track/0cFx3LQOHY5dDIxGAFBdBq"
+    },
+    {
+      "album": {
+        "name": "ITEM VII",
+        "url": "https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD"
+      },
+      "artists": [
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM"
     },
     {
       "album": {
@@ -7764,7 +7800,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 197980,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/6Ap3JyyZxrTOTeTncbWeNs"
@@ -8564,7 +8600,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 177142,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/377eS1e6iGiDVqOXQbYVXN"
@@ -9090,7 +9126,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 124615,
       "name": "G.T.L.G",
       "url": "https://open.spotify.com/track/6ljgPciXK2fjP75JCfC9is"
@@ -13597,6 +13633,28 @@
     },
     {
       "album": {
+        "name": "Take Two: Grey",
+        "url": "https://open.spotify.com/album/51PKSPJAK8O2X853o2t9nP"
+      },
+      "artists": [
+        {
+          "name": "Joy Njokey",
+          "url": "https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF"
+        },
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Let Me Be",
+      "url": "https://open.spotify.com/track/2osGCDZFpwhoBEvOaEwL9I"
+    },
+    {
+      "album": {
         "name": "MOONFLOWER",
         "url": "https://open.spotify.com/album/6CawYzSZtNzU5MvmuzbQnR"
       },
@@ -14885,6 +14943,24 @@
     },
     {
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/11JgVD3EIl2yZ9CX9X7zMc"
+      },
+      "artists": [
+        {
+          "name": "EKENE",
+          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149865,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7EpPewP2fk80hvZRH2kqrj"
+    },
+    {
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/1qmty3wUm6sjsdFuXZk4fI"
       },
@@ -15768,6 +15844,24 @@
       "duration_ms": 127802,
       "name": "Me Vs Me - Bonus Track",
       "url": "https://open.spotify.com/track/61h3PVWQCiXloq6qnu7NvQ"
+    },
+    {
+      "album": {
+        "name": "Mediocre Man",
+        "url": "https://open.spotify.com/album/5IpW6tVPJe4bVGn2dKnRLn"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185835,
+      "name": "Mediocre Man",
+      "url": "https://open.spotify.com/track/1hUQcaN5z13FvtnNhhPsoy"
     },
     {
       "album": {
@@ -17634,7 +17728,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 167000,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/6x7spq4Ae99sTawEEYyUvv"
@@ -22397,6 +22491,24 @@
     },
     {
       "album": {
+        "name": "SHAKE'A",
+        "url": "https://open.spotify.com/album/36eZ0yL8lksOYqPnJ66fpF"
+      },
+      "artists": [
+        {
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140898,
+      "name": "SHAKE'A",
+      "url": "https://open.spotify.com/track/4n59HhKzaFoU3OBfTGyZe9"
+    },
+    {
+      "album": {
         "name": "Shako Siwon",
         "url": "https://open.spotify.com/album/6lkQHG2MCY9KmUYZWBw7bI"
       },
@@ -22944,7 +23056,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 180000,
       "name": "Sneaky Link",
       "url": "https://open.spotify.com/track/3YDt11AUb5rwwbrLcygGag"
@@ -23434,7 +23546,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 170031,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/31YsaUKopejb1gATzVxH5R"
@@ -28540,6 +28652,24 @@
       "duration_ms": 180062,
       "name": "You Need To",
       "url": "https://open.spotify.com/track/5yC1nqnRKZMrP8TsZd25zB"
+    },
+    {
+      "album": {
+        "name": "You Want Me",
+        "url": "https://open.spotify.com/album/6DzCw29EiZh5vbzfJwo7L7"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Lee",
+          "url": "https://open.spotify.com/artist/5Mm5UKAlvabjuuw6i4oz98"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "You Want Me",
+      "url": "https://open.spotify.com/track/4uWaSDMiSisZW5cf7mCNdF"
     },
     {
       "album": {

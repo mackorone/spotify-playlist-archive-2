@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Ultraligera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,060 likes - 120 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,061 likes - 120 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 104 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 |
 | 105 | [En algún lugar \(feat\. Santi Balmes & Víctor Cabezuelo\)](https://open.spotify.com/track/2nL8UGrQoCfbZTtWfmmoqe) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO), [Víctor Cabezuelo](https://open.spotify.com/artist/2Ba0v7AY4kqOmlHSCdEm2M) | [En algún lugar \(feat\. Santi Balmes & Víctor Cabezuelo\)](https://open.spotify.com/album/5rUQe1NWnm6Aw1TcUfoJQY) | 3:58 |
 | 106 | [Rey del Glam](https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:59 |
-| 107 | [Canciones chulas](https://open.spotify.com/track/4NQQ79oNnFcqm0UNG4sf1U) | [Los Enemigos](https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr) | [Canciones chulas](https://open.spotify.com/album/0j6TQGdzr2Lq71cFpbGUxW) | 3:43 |
-| 108 | [Pacto Entre Caballeros](https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:56 |
+| 107 | [Pacto Entre Caballeros](https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:56 |
+| 108 | [Canciones chulas](https://open.spotify.com/track/4NQQ79oNnFcqm0UNG4sf1U) | [Los Enemigos](https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr) | [Canciones chulas](https://open.spotify.com/album/0j6TQGdzr2Lq71cFpbGUxW) | 3:43 |
 | 109 | [Pongamos Que Hablo de Madrid](https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [12 Botellines y 5 Tercios](https://open.spotify.com/album/06giFWDWB3yEX9eDtciSyd) | 2:53 |
 | 110 | [King´s Road](https://open.spotify.com/track/3dq5tt3jW2wytXEhWiryHx) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [LA 03010](https://open.spotify.com/album/6TSIpW2B1o6CJIaG3CJd8U) | 5:12 |
 | 111 | [Agradecido](https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Un Palo Al Agua \(20 Grandes Canciones\)](https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq) | 4:33 |

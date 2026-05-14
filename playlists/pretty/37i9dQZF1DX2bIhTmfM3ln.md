@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > love is in the air...breathe in
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,544 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,574 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,17 +73,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 63 | [Holy Romance](https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Holy Romance](https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v) | 2:35 |
 | 64 | [A1 \(feat\. Kizz Daniel\)](https://open.spotify.com/track/3kBjs166DWzq9vvxKgRtlw) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [A1 \(feat\. Kizz Daniel\)](https://open.spotify.com/album/5Z5Uwng7e3a0sdvzX4oMdB) | 2:11 |
 | 65 | [Blame On Me](https://open.spotify.com/track/03FQZWe6qCPqeHPIExAIjr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Blame On Me](https://open.spotify.com/album/4SMLSrqBkE01ysiHQ3kV6z) | 2:35 |
-| 66 | [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 |
-| 67 | [Over The Moon](https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Over The Moon](https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD) | 2:45 |
+| 66 | [Over The Moon](https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Over The Moon](https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD) | 2:45 |
+| 67 | [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 |
 | 68 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 |
 | 69 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |
-| 70 | [Phony](https://open.spotify.com/track/7nrJHvsmJqtN6Ue41GJX88) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Phony](https://open.spotify.com/album/5rYGaTEsuw5HzbvhgguHLx) | 2:30 |
-| 71 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
+| 70 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
+| 71 | [Phony](https://open.spotify.com/track/7nrJHvsmJqtN6Ue41GJX88) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Phony](https://open.spotify.com/album/5rYGaTEsuw5HzbvhgguHLx) | 2:30 |
 | 72 | [Sorry I'm Busy](https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Sorry I'm Busy](https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w) | 2:22 |
 | 73 | [Last Forever](https://open.spotify.com/track/1sX6eJVTDmuLxcHfVTYfCA) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Last Forever](https://open.spotify.com/album/6XUgrldDupyhi4bmDKScIP) | 3:54 |
-| 74 | [numero](https://open.spotify.com/track/06CMmOHVZXX6zJoZBZcBE6) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [numero](https://open.spotify.com/album/6VbnEZlNrGnRD3Jml0UyPV) | 2:27 |
-| 75 | [First Sight](https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [First Sight](https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg) | 3:06 |
-| 76 | [Deliver](https://open.spotify.com/track/1a0PF4ucYpsV5gJQuE4CU9) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [Deliver](https://open.spotify.com/album/2vUhdSN8zSArXPKY6hdHdk) | 2:25 |
+| 74 | [Deliver](https://open.spotify.com/track/1a0PF4ucYpsV5gJQuE4CU9) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [Deliver](https://open.spotify.com/album/2vUhdSN8zSArXPKY6hdHdk) | 2:25 |
+| 75 | [numero](https://open.spotify.com/track/06CMmOHVZXX6zJoZBZcBE6) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [numero](https://open.spotify.com/album/6VbnEZlNrGnRD3Jml0UyPV) | 2:27 |
+| 76 | [First Sight](https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [First Sight](https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg) | 3:06 |
 | 77 | [Pressure II](https://open.spotify.com/track/1lu5gxuLEmX27Jivnzy2Vc) | [WLR](https://open.spotify.com/artist/5OUSeRjRJmhGoeZ3iYYKfT), [MYRON](https://open.spotify.com/artist/4zkMLMoQabRa9pPEfaTG2W), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Pressure II](https://open.spotify.com/album/0UGn6SKerPlUVGfBcvr0rH) | 3:18 |
 | 78 | [HOLD ON](https://open.spotify.com/track/4ByAk3ydpO7kEwX7EPxAlW) | [RIIDM](https://open.spotify.com/artist/5ST4m0xRCZbu1rjZZPNwGP) | [HOLD ON](https://open.spotify.com/album/1tHPVrzlzLHIOkB6MpwSfl) | 2:20 |
 | 79 | [Larger Than Life \(feat\. Stonebwoy\)](https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DID I LIE](https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm) | 2:21 |

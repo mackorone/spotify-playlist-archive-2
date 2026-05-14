@@ -4,7 +4,7 @@
 
 > Buffalo Traffic Jam on the cover <3
 
-803 songs - 2 day 0 hr 31 min
+805 songs - 2 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,6 +561,7 @@
 | [reason to forgive](https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 2:44 | 2024-09-06 | 2025-03-13 |
 | [Remember?](https://open.spotify.com/track/12CAHsiYTmng0EYfukr8lB) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Swimming Towards The Sand](https://open.spotify.com/album/6U8XJUnZOHN2F2SDp678k0) | 4:20 | 2025-10-17 | 2026-02-28 |
 | [resentme2](https://open.spotify.com/track/6ubGK2bazBd5iOCvRAmudE) | [Brett Seper](https://open.spotify.com/artist/0ha3FIe7oUSx86k9krBSKE) | [toxic ties & troubled minds](https://open.spotify.com/album/5x6eyMAnZ3fUu26mgqE9kP) | 2:48 | 2023-10-06 | 2024-05-18 |
+| [Rewarding Melody](https://open.spotify.com/track/7mf2ubTq7o3O9U9ql3CNPv) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Rewarding Melody](https://open.spotify.com/album/2z944o5q3z29mQaIwd58OG) | 2:32 | 2026-05-13 |  |
 | [Right In Front Of Me](https://open.spotify.com/track/3rJXRshWRO9pITVPuQCroz) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Right In Front Of Me](https://open.spotify.com/album/1YMx0etA4qtlVLXSkQvJvg) | 2:45 | 2026-04-10 |  |
 | [righttttraaack](https://open.spotify.com/track/7p9QPnwr6INKhwFhZwuooX) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse \(Anniversary Edition\)](https://open.spotify.com/album/5yLkXPDu9HKrJBKz0yFFSI) | 3:43 | 2026-03-06 |  |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-01 | 2024-08-21 |
@@ -578,6 +579,7 @@
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-20 | 2025-05-10 |
 | [S'mores](https://open.spotify.com/track/4rhno1gIW5Is6gnCUj69tR) | [Isaac Stalling](https://open.spotify.com/artist/3qfuw2kKPpDgkwvD0AJPsZ) | [S'mores](https://open.spotify.com/album/4Fm5WcOWVEsjazq2cioq9n) | 2:34 | 2026-04-03 |  |
 | [Sabino](https://open.spotify.com/track/7tAwTZKnOEihan9q6rhuzR) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sabino](https://open.spotify.com/album/6GIofJVOnkodSIjAofbYbe) | 3:33 | 2025-06-27 | 2025-12-13 |
+| [sadie](https://open.spotify.com/track/4XP3xSOgMKHLC2IBVBRiCL) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [sadie](https://open.spotify.com/album/7he6RCG89OQebnS87zTala) | 2:45 | 2026-05-13 |  |
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-01-19 | 2024-04-06 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-07-26 | 2025-05-10 |
 | [Sailor Song \(First Draft 4.29.24\)](https://open.spotify.com/track/1gJLJgKRWjtaFMxwdeyfVc) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life \(Extended\)](https://open.spotify.com/album/4fULdU3VoqC0M1IHhVTAQ4) | 3:42 | 2025-07-25 | 2026-01-24 |

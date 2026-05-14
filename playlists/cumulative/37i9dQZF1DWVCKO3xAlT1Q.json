@@ -442,6 +442,24 @@
     {
       "album": {
         "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6waF3p59pl6HY7fCnz6ril"
+      },
+      "artists": [
+        {
+          "name": "Delta Goodrem",
+          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180686,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/268EdGlIxScwdC21kE89Nf"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
         "url": "https://open.spotify.com/album/3AH33SDipOCuw9ATLx1CrX"
       },
       "artists": [
@@ -452,7 +470,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 180686,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2pJ0Ji9nkohwuKMuyNhiwo"
@@ -640,6 +658,24 @@
     {
       "album": {
         "name": "F\u00f8r Vi G\u00e5r Hjem",
+        "url": "https://open.spotify.com/album/6DIbkPf3IfXlhovI4F25Pb"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Torpegaard Lund",
+          "url": "https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "F\u00f8r Vi G\u00e5r Hjem",
+      "url": "https://open.spotify.com/track/2qG6vr8fMq2abvKu7qXVuQ"
+    },
+    {
+      "album": {
+        "name": "F\u00f8r Vi G\u00e5r Hjem",
         "url": "https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3"
       },
       "artists": [
@@ -650,7 +686,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 174374,
       "name": "F\u00f8r Vi G\u00e5r Hjem",
       "url": "https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf"

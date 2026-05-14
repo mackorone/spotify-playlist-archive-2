@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Loathe
 
-736 songs - 1 day 20 hr 12 min
+737 songs - 1 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [DEADZONE](https://open.spotify.com/track/6SvhGaXpd2pkUaAGyMJ3Uw) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [DEADZONE](https://open.spotify.com/album/2VE9zs72iNOeoXZHyAMRF7) | 2:50 | 2023-08-24 | 2025-09-12 |
 | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 | 2024-03-22 | 2025-09-12 |
 | [Deceit](https://open.spotify.com/track/0aPZh3gchispRuhoumXeW2) | [Seethe](https://open.spotify.com/artist/2PXdR2HPM6wcHEElxeGSka) | [Deceit](https://open.spotify.com/album/5PyKnxZedDeKOhwn6l6YLR) | 2:44 | 2025-08-11 | 2025-09-12 |
-| [Deceptacon](https://open.spotify.com/track/5yUmpwhdcXHoedujODeAlG) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Deceptacon](https://open.spotify.com/album/7DpbAouDpH4cMwQxZ8zGrc) | 3:13 | 2026-04-30 |  |
+| [Deceptacon](https://open.spotify.com/track/5yUmpwhdcXHoedujODeAlG) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Deceptacon](https://open.spotify.com/album/7DpbAouDpH4cMwQxZ8zGrc) | 3:13 | 2026-04-30 | 2026-05-14 |
 | [DEGRADATION](https://open.spotify.com/track/7ldazH7Gj6i47iNayZ8zGw) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [DEGRADATION](https://open.spotify.com/album/0snTEryRTQI073OlBkM5yn) | 3:49 | 2025-09-01 | 2025-09-27 |
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-11 | 2025-10-24 |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-10 | 2023-10-06 |
@@ -507,6 +507,7 @@
 | [Punk's Dead](https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/26CBoch8r0WmpjOYQedOnM) | 3:12 | 2023-08-24 | 2025-09-12 |
 | [Punks And Demons](https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Punks And Demons](https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP) | 2:37 | 2025-10-10 | 2026-04-04 |
 | [Puppet Parade](https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Puppet Parade](https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq) | 4:40 | 2026-01-23 |  |
+| [PUT A HIT ON](https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK) | [MUTTLEE](https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L) | [PUT A HIT ON](https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2) | 2:54 | 2026-04-30 |  |
 | [Pynch](https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Pynch](https://open.spotify.com/album/0x4t7PC63dP513jBiZFIHU) | 2:42 | 2026-03-13 |  |
 | [QUIT!!](https://open.spotify.com/track/6GIXiA6ERSW78r9Vz0ps5n) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [QUIT!!](https://open.spotify.com/album/2bnrdd634hDSjoqbOSmNqm) | 2:46 | 2024-01-12 | 2024-04-20 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 | 2025-09-12 |

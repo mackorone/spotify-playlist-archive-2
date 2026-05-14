@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Dystopian X Vision, photophor, MIK's Reaction and more",
+  "description": "With photophor, Dystopian X Vision, MIK's Reaction and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -508,7 +508,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 426000,
       "name": "Awakening The Spirit",
       "url": "https://open.spotify.com/track/1KSWFpQGDCXYzLCTjlnt8e"
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 234333,
       "name": "Dusting My Coat",
       "url": "https://open.spotify.com/track/4rTYJRitHCv8zoxPN7V1Gn"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 280625,
       "name": "Ekko",
       "url": "https://open.spotify.com/track/31mgiH8koyfFT4hl0tpNMf"
@@ -3539,6 +3539,24 @@
     },
     {
       "album": {
+        "name": "F\u00f6rnedringen",
+        "url": "https://open.spotify.com/album/5Zy4wJIQBwmuMK1ND4gDbu"
+      },
+      "artists": [
+        {
+          "name": "D\u00f6dens Clowner",
+          "url": "https://open.spotify.com/artist/2Q744E0tAVhSxdZeeop9S2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138070,
+      "name": "F\u00f6rnedringen",
+      "url": "https://open.spotify.com/track/4x9QBTz7ub8ts2qB7BBtgx"
+    },
+    {
+      "album": {
         "name": "S!GEB\u25b2CK Redux",
         "url": "https://open.spotify.com/album/2P2X046l2OslnGwILFNiGs"
       },
@@ -3604,7 +3622,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -3706,6 +3724,24 @@
       "duration_ms": 198364,
       "name": "Goodbye Horses",
       "url": "https://open.spotify.com/track/1UX6WV1lpNYEj5V5YGPco8"
+    },
+    {
+      "album": {
+        "name": "Goodnight Goodnight the true norths light",
+        "url": "https://open.spotify.com/album/38BE6iizz4tq30lSicY48T"
+      },
+      "artists": [
+        {
+          "name": "Paul Dutil",
+          "url": "https://open.spotify.com/artist/6U5hMGOPN5iRvcI3RtwejV"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216328,
+      "name": "Goodnight Goodnight the true norths light",
+      "url": "https://open.spotify.com/track/6YAGcoPhhTYDceywYdSAxp"
     },
     {
       "album": {
@@ -4221,6 +4257,24 @@
     },
     {
       "album": {
+        "name": "Modern Vintage Wave",
+        "url": "https://open.spotify.com/album/0s0TDAVVCKSYdVsFYvKv1A"
+      },
+      "artists": [
+        {
+          "name": "Frigidaire Tango",
+          "url": "https://open.spotify.com/artist/5TVE5Fiwqufq5eKkuuBerU"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203384,
+      "name": "I creatori",
+      "url": "https://open.spotify.com/track/5C0kgAksOYdl0s7REhD0Ri"
+    },
+    {
+      "album": {
         "name": "Fortune's Always Hiding",
         "url": "https://open.spotify.com/album/5plmFsfRM7mNNRwMrerPnp"
       },
@@ -4520,7 +4574,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 248165,
       "name": "Intention",
       "url": "https://open.spotify.com/track/3q1xGTBDoR35bV7kfHRi9e"
@@ -4668,7 +4722,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -4686,7 +4740,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 265987,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
@@ -4762,7 +4816,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -4842,6 +4896,24 @@
       "duration_ms": 290094,
       "name": "Killerdemons",
       "url": "https://open.spotify.com/track/6rIl5Tlg91TRVcAOUdXiGJ"
+    },
+    {
+      "album": {
+        "name": "Klokkene ringer for kvelden",
+        "url": "https://open.spotify.com/album/10aJyfp2xODV4GKt6Ef0rB"
+      },
+      "artists": [
+        {
+          "name": "Autoimmune",
+          "url": "https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214001,
+      "name": "Klokkene ringer for kvelden",
+      "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
     },
     {
       "album": {
@@ -5134,7 +5206,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -5994,7 +6066,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 221867,
       "name": "Mona Lisa Smile",
       "url": "https://open.spotify.com/track/3Z9zw1N9xvhZ9y3r9ch7bi"
@@ -6412,7 +6484,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -7274,7 +7346,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -7448,7 +7520,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 206480,
       "name": "Port St. Johns",
       "url": "https://open.spotify.com/track/7Cq2QF8TF058u8LKrKCCq2"
@@ -8242,7 +8314,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 341659,
       "name": "She's a Killer",
       "url": "https://open.spotify.com/track/3HRQ6CkJzKk2pdiTy5FUQS"
@@ -8350,7 +8422,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 390967,
       "name": "Skyward Bound",
       "url": "https://open.spotify.com/track/5fcBPscU64w3Q0wb6nTfZJ"
@@ -9060,7 +9132,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 230823,
       "name": "Symphony In Minor",
       "url": "https://open.spotify.com/track/4HLGfdfrRgB4YntkFv4Cw0"
@@ -9633,6 +9705,24 @@
     },
     {
       "album": {
+        "name": "GT the EP",
+        "url": "https://open.spotify.com/album/1Akb0gurKeG5mwgUFrXuYE"
+      },
+      "artists": [
+        {
+          "name": "Pinned Comment",
+          "url": "https://open.spotify.com/artist/7qGO6E5AG3eiCwdeop9VpV"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "The magic juice",
+      "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
+    },
+    {
+      "album": {
         "name": "The Nameless",
         "url": "https://open.spotify.com/album/6FwQef8K8kVlIMsFVfHxjP"
       },
@@ -9894,7 +9984,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 239999,
       "name": "The Watch",
       "url": "https://open.spotify.com/track/6BRoDKsvlWjjPxS4cJ7ESG"
@@ -9992,7 +10082,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -10972,7 +11062,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 218000,
       "name": "W moim domu",
       "url": "https://open.spotify.com/track/6qhiwl4ATbo4ZF9HYLU6X4"
@@ -11170,7 +11260,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 249640,
       "name": "Werewolf",
       "url": "https://open.spotify.com/track/7HhUyysH2pxR1vMJeSrIgE"

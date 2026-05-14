@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 640 likes - 245 songs - 13 hr 9 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 640 likes - 248 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,5 +253,8 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 243 | [Trébucher](https://open.spotify.com/track/4roChB3Zs2dosxi70iLPSn) | [Manutea](https://open.spotify.com/artist/1GSVBffbibC6Av1lhEPlHg) | [Trébucher](https://open.spotify.com/album/7lh0sYQ40uPuJjR9ug9gwm) | 3:03 |
 | 244 | [T WALCOTT](https://open.spotify.com/track/1n2Kh5u72sr89cs2eSQBgw) | [Muermo](https://open.spotify.com/artist/1CYMpVs1QBgDrOFkC8AFzO) | [T WALCOTT](https://open.spotify.com/album/260r4B3VThjQeOQPzV2UER) | 2:43 |
 | 245 | [Sans laisser d’adresse](https://open.spotify.com/track/6gPsBNNPs9Sx9BvGbJApmw) | [Svend48](https://open.spotify.com/artist/5u4b2A5VnjVTMzNxs5QhCc) | [Sans laisser d’adresse](https://open.spotify.com/album/7piSg0rmkQoMRYSz7yX9gV) | 3:22 |
+| 246 | [Au clair de la dune](https://open.spotify.com/track/362JrOM6zGyzkMv5Fm7eBn) | [Hub30](https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0) | [Au clair de la dune](https://open.spotify.com/album/6VZlASTXypeYvkj1JcTcqI) | 3:20 |
+| 247 | [CASH](https://open.spotify.com/track/57DFVtIFBayTIVQa81v2Xq) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [CASH](https://open.spotify.com/album/62dr1xx8kCvC6y1wif90ui) | 1:35 |
+| 248 | [Mohnspark GT Lègendes](https://open.spotify.com/track/3glzeqMjuKzXkHLquQgqqW) | [KNRR33](https://open.spotify.com/artist/6fJ05FXmbwu3A2FdzGP1iM) | [Mohnspark GT Lègendes](https://open.spotify.com/album/0ThCU2o759233P6acNaXZx) | 3:04 |
 
-Snapshot ID: `AAABHsBiLmEEWfsCO6kEzfrkeTs/Uhz1`
+Snapshot ID: `AAABIVHQ9h+0P4BUpAcNts1eAVKomj6I`

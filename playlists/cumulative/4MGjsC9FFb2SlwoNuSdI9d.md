@@ -4,7 +4,7 @@
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-279 songs - 15 hr 10 min
+280 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-09 | 2025-07-08 |
 | [Manchild](https://open.spotify.com/track/699n0PWczOUvXqKSrLplCv) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/4Py8hTvoKbdcFH3mQ2wXPo) | 3:33 | 2025-07-07 |  |
 | [Maniac](https://open.spotify.com/track/61SPkGGIpSq6b7en0A6Bim) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV) | [Maniac](https://open.spotify.com/album/6S2bemTohQ0Wbvkn8FUgNu) | 2:42 | 2023-11-28 | 2025-02-15 |
+| [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 | 2026-05-13 |  |
 | [Medicine](https://open.spotify.com/track/28xPS2Els3jTO6pdgp2znH) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Medicine](https://open.spotify.com/album/39D1A6YzvcAGdELvfnh9YG) | 2:42 | 2023-11-28 | 2025-02-15 |
 | [Meet Me Halfway](https://open.spotify.com/track/6wOYnPq1hPihRepcDClPUw) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:44 | 2024-09-09 | 2024-11-09 |
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-11-28 | 2025-10-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,372 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,381 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 16 | [Broken Angel \(This is Lonely Club\)](https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Quantum Beats](https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu) | 2:51 |
 | 17 | [All Falls Down \(feat\. Juliander\)](https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:18 |
 | 18 | [Lifeline](https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 3:22 |
-| 19 | [Broken Strings](https://open.spotify.com/track/7HoWt1XVdWPcdZi2oVi9OQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Isabella Melkman](https://open.spotify.com/artist/6LUMKP6qSEprH1SlOvV8dx), [Katherine O'Ryan](https://open.spotify.com/artist/00moSdFEmIK0ngjw332EyW) | [Broken Strings](https://open.spotify.com/album/5F9xaz8GYu2lIIrDRX7nUx) | 2:27 |
-| 20 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
+| 19 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
+| 20 | [Broken Strings](https://open.spotify.com/track/7HoWt1XVdWPcdZi2oVi9OQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Isabella Melkman](https://open.spotify.com/artist/6LUMKP6qSEprH1SlOvV8dx), [Katherine O'Ryan](https://open.spotify.com/artist/00moSdFEmIK0ngjw332EyW) | [Broken Strings](https://open.spotify.com/album/5F9xaz8GYu2lIIrDRX7nUx) | 2:27 |
 | 21 | [Lost Control](https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:42 |
 | 22 | [Heartbreak Melody](https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Heartbreak Melody](https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4) | 3:11 |
 | 23 | [Getaway](https://open.spotify.com/track/4JUonhFVjyHzWpUQFIaKZs) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Force](https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Origins](https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT) | 4:00 |
 | 50 | [Brave Enough to Be Unknown](https://open.spotify.com/track/3Z5mBCsWNAKwi3uyosqnd2) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS) | 3:39 |
 
-Snapshot ID: `agEcAAAAAAAYapXizymTgZM5L66eFNkZ`
+Snapshot ID: `agJtgAAAAAD1PYi4j2jZi6vxAV/1tGAg`

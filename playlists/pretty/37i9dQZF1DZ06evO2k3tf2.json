@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1440024,
+  "num_followers": 1440192,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAD9xXtURbDR/PxYbSxBmqPK",
+  "snapshot_id": "agJtgAAAAACHCTPhGljlDlgPVIGRgTwx",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 225040,
-      "name": "Nico and the Niners",
-      "url": "https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt"
+      "duration_ms": 238560,
+      "name": "Jumpsuit",
+      "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Jumpsuit",
-      "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
+      "duration_ms": 225040,
+      "name": "Nico and the Niners",
+      "url": "https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Genesis Owusu",
-  "num_followers": 137761,
+  "num_followers": 137760,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
+        "name": "last night you said you missed me",
+        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "queen of the season",
+      "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
         "name": "My Loving",
         "url": "https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 170213,
       "name": "My Loving",
       "url": "https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
-        "name": "last night you said you missed me",
-        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "queen of the season",
-      "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
-        "name": "doing my best",
-        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "doing my best",
-      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
         "name": "Evian",
         "url": "https://open.spotify.com/album/68WNy1c7yNaKv0vDK3FVjP"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 302322,
       "name": "Evian",
       "url": "https://open.spotify.com/track/0VPMvHXO7K1Ukj0DAmtvPs"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
+        "name": "doing my best",
+        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "doing my best",
+      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
+        "name": "Tragic Magic",
+        "url": "https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 271087,
+      "name": "Maker",
+      "url": "https://open.spotify.com/track/2OX9uITulRbPtILYQ2totl"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
         "name": "Honora",
         "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 262653,
       "name": "Wichita Lineman (feat. Nick Cave)",
       "url": "https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
-        "name": "Tragic Magic",
-        "url": "https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 271087,
-      "name": "Maker",
-      "url": "https://open.spotify.com/track/2OX9uITulRbPtILYQ2totl"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
-        "name": "Chase Your Tail",
-        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 193915,
-      "name": "Chase Your Tail",
-      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
         "name": "Thrills",
         "url": "https://open.spotify.com/album/2NaHPoiajNRF1peImCGK9E"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 186184,
       "name": "Thrills",
       "url": "https://open.spotify.com/track/3Cq4tuFqivRPL9OWlr8OHP"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
+        "name": "Chase Your Tail",
+        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 193915,
+      "name": "Chase Your Tail",
+      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
+        "name": "Heatin Park",
+        "url": "https://open.spotify.com/album/7KIvth3SEJwJMnBIyJ6XKT"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 191821,
+      "name": "Heatin Park",
+      "url": "https://open.spotify.com/track/3DFp8aDFLHhw5ybu4EZ6rE"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
       },
@@ -955,26 +971,6 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
-        "name": "LEZ GO!",
-        "url": "https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        },
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 164566,
-      "name": "LEZ GO!",
-      "url": "https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
         "name": "The Right",
         "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
       },
@@ -991,6 +987,26 @@
       "duration_ms": 234753,
       "name": "The Right",
       "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
+        "name": "LEZ GO!",
+        "url": "https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        },
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 164566,
+      "name": "LEZ GO!",
+      "url": "https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -1023,22 +1039,6 @@
       "duration_ms": 245892,
       "name": "summer in december",
       "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
-        "name": "Heatin Park",
-        "url": "https://open.spotify.com/album/7KIvth3SEJwJMnBIyJ6XKT"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 191821,
-      "name": "Heatin Park",
-      "url": "https://open.spotify.com/track/3DFp8aDFLHhw5ybu4EZ6rE"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
-        "name": "House Of Cards",
-        "url": "https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 206788,
-      "name": "House Of Cards",
-      "url": "https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
       },
@@ -1179,22 +1163,6 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 303130,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
         "name": "MOLLY",
         "url": "https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6"
       },
@@ -1207,6 +1175,38 @@
       "duration_ms": 272507,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
+        "name": "House Of Cards",
+        "url": "https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 206788,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 303130,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
-        "name": "My Baby's Place",
-        "url": "https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 235006,
-      "name": "My Baby's Place",
-      "url": "https://open.spotify.com/track/5noMqCfgrkV3zOcCvpC6We"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
+        "name": "My Baby's Place",
+        "url": "https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 235006,
+      "name": "My Baby's Place",
+      "url": "https://open.spotify.com/track/5noMqCfgrkV3zOcCvpC6We"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/2RkuogMfmVrJgweGc80pd4"
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
       },
       "artists": [
         {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/3twNlcDcyTluh5UahXP8AB"
+      "duration_ms": 290802,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 290802,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
         "name": "What Makes a Girl a Girl",
         "url": "https://open.spotify.com/album/4QqoZQ9YV7TOTrkohQQ5pQ"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/0dkYcY21sT5qZ1cHkD8Llw"
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/2RkuogMfmVrJgweGc80pd4"
       },
       "artists": [
         {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
         }
       ],
-      "duration_ms": 228100,
-      "name": "Hold It For Her",
-      "url": "https://open.spotify.com/track/3x8ROvzmBSnxj6t1LELGwf"
+      "duration_ms": 220000,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/3twNlcDcyTluh5UahXP8AB"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -1431,6 +1415,22 @@
       "duration_ms": 204507,
       "name": "Some Kinda Heaven",
       "url": "https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/0dkYcY21sT5qZ1cHkD8Llw"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 228100,
+      "name": "Hold It For Her",
+      "url": "https://open.spotify.com/track/3x8ROvzmBSnxj6t1LELGwf"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
+        "name": "These Arms",
+        "url": "https://open.spotify.com/album/0wlMUld5GFdP9oLIMMd5om"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "These Arms",
+      "url": "https://open.spotify.com/track/1xcBiYE5Jt8fynhe9ehVKt"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
         "name": "Tell Me How It Feels",
         "url": "https://open.spotify.com/album/20WT44ywZwSmZsYSk4OW7l"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 203520,
       "name": "Tell Me How It Feels",
       "url": "https://open.spotify.com/track/7heLi5l4FqgKvOG3IN8jFm"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
-        "name": "GO",
-        "url": "https://open.spotify.com/album/6H1P4U7vkFCorLUxgoOAlt"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/1KAV8Xo95JU3eNwmvW2imc"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -1563,6 +1563,22 @@
       "duration_ms": 182264,
       "name": "Letting You Go",
       "url": "https://open.spotify.com/track/4rzRrwNt2FlrFT1KqWxjAR"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/6H1P4U7vkFCorLUxgoOAlt"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/1KAV8Xo95JU3eNwmvW2imc"
     },
     {
       "added_at": "2026-05-07 14:01:29",
@@ -1615,6 +1631,22 @@
     {
       "added_at": "2026-05-07 14:01:29",
       "album": {
+        "name": "EVERYONE'S A STAR!",
+        "url": "https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 195229,
+      "name": "Everyone\u2019s A Star!",
+      "url": "https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f"
+    },
+    {
+      "added_at": "2026-05-07 14:01:29",
+      "album": {
         "name": "Peaky Blinders - The Immortal Man (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X"
       },
@@ -1643,38 +1675,6 @@
       "duration_ms": 135751,
       "name": "Nobody's Son",
       "url": "https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
-        "name": "EVERYONE'S A STAR!",
-        "url": "https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 195229,
-      "name": "Everyone\u2019s A Star!",
-      "url": "https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f"
-    },
-    {
-      "added_at": "2026-05-07 14:01:29",
-      "album": {
-        "name": "These Arms",
-        "url": "https://open.spotify.com/album/0wlMUld5GFdP9oLIMMd5om"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "These Arms",
-      "url": "https://open.spotify.com/track/1xcBiYE5Jt8fynhe9ehVKt"
     },
     {
       "added_at": "2026-05-07 14:01:29",

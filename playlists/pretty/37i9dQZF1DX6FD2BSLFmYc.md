@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,117 likes - 120 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,138 likes - 120 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 53 | [Komal](https://open.spotify.com/track/0hIIdNfezCtKDLoIT3ilx2) | [Shikha Chadha](https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc) | [Komal](https://open.spotify.com/album/5mRadTZXGFtLaNioT37aom) | 3:01 |
 | 54 | [Lee Mah Bounce](https://open.spotify.com/track/3zFtkXK3AAUk6CpbmbBXyK) | [Lek\-Singh](https://open.spotify.com/artist/2xjXGjIknfLJXWsZ11MfvI) | [Lee Mah Bounce](https://open.spotify.com/album/6fkqGUSabCMvUSOsoJ6vl5) | 2:41 |
 | 55 | [Golden Eagle](https://open.spotify.com/track/2u5OwJ67fLCp4w54EoOJJZ) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Golden Eagle](https://open.spotify.com/album/0P1vuAjz1CnXkkUm3XnQDG) | 2:48 |
-| 56 | [Spiritual Power](https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv) | [Leona Hollin](https://open.spotify.com/artist/7EEniQMVIxPUW91MhAHi6J) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 |
+| 56 | [Spiritual Power](https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv) | [Leona Hollin](https://open.spotify.com/artist/7EEniQMVIxPUW91MhAHi6J) | [Harmony Gentling Plants](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 |
 | 57 | [1/2 Singing Bowl \(Ascension\) \- Excerpt](https://open.spotify.com/track/4C4Cni4yKvGFthrJ3VRjfM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Meditations](https://open.spotify.com/album/79EfVLabvmR4nUhpr2rF8s) | 4:30 |
 | 58 | [Forward Motion](https://open.spotify.com/track/51Lhz3LjEXC2szs75ERnoF) | [Beni Abner](https://open.spotify.com/artist/3YzQl92li9bGFtE4yBRT4N) | [Forward Motion](https://open.spotify.com/album/0Ing5LHJOZa4ZqUhugy0Fq) | 7:41 |
 | 59 | [Equilibrio 432Hz](https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF) | [Invocaciones](https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ) | [Equilibrio 432Hz](https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF) | 2:30 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 92 | [Midnight Marigold](https://open.spotify.com/track/40iRfqbLQVC1mNBth7BNu1) | [Plasma Radio](https://open.spotify.com/artist/4OODiWwXTyAfi1emkANcI6) | [Midnight Marigold](https://open.spotify.com/album/6gzGNYgwHQY8H43wLFkTqD) | 3:48 |
 | 93 | [Indian Sun](https://open.spotify.com/track/1lB8R6zPxWaKjDAKRCi1Ov) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Indian Sun](https://open.spotify.com/album/7kSQemHvzLL46C6Vwvplzm) | 3:02 |
 | 94 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/6AdGVwkv68xlsPwV2KvEF8) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 |
-| 95 | [Tranquil Meditation](https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv) | [Leona Hollin](https://open.spotify.com/artist/7EEniQMVIxPUW91MhAHi6J) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:26 |
+| 95 | [Tranquil Introspection](https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv) | [Leona Hollin](https://open.spotify.com/artist/7EEniQMVIxPUW91MhAHi6J) | [Harmony Gentling Plants](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:26 |
 | 96 | [A Careful Distance](https://open.spotify.com/track/24b8lmDtpjBsM6IDinj82G) | [Theo Travis](https://open.spotify.com/artist/4wnrnvlmW7Mn2H7vRW1Xli), [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl) | [Discretion](https://open.spotify.com/album/3cZqOheFXCDYXY9zBDLU8V) | 8:01 |
 | 97 | [Vollmond Im Herbst](https://open.spotify.com/track/5MCnFtr9vx94kq0bxuK00r) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 5:42 |
 | 98 | [432 Hz Metamorphosis](https://open.spotify.com/track/7cm4cQ4uiLl2RkRN5nVg3Z) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [432 Hz Metamorphosis](https://open.spotify.com/album/1NPccFmLGP3xiELGD49e2E) | 2:25 |

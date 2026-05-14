@@ -4,7 +4,7 @@
 
 > This is Siouxsie and the Banshees\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 31 min
+53 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Cascade](https://open.spotify.com/track/5OlUDa8cRbDqw9f5A0OKRA) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [A Kiss In The Dreamhouse](https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1) | 4:25 | 2026-03-07 |  |
 | [Christine](https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 2:59 | 2026-03-07 |  |
 | [Cities In Dust](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:51 | 2026-03-07 |  |
+| [Cry](https://open.spotify.com/track/1TqhjCb7q3PwLRfiWC2W5i) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Superstition \(Expanded Edition\)](https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP) | 3:32 | 2026-05-14 |  |
 | [Dazzle](https://open.spotify.com/track/7bnCNRtPeex7J5vU7gWJ7t) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 5:31 | 2026-03-07 |  |
 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 | 2026-03-07 |  |
 | [Dizzy](https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:10 | 2026-03-07 |  |
@@ -52,7 +53,7 @@
 | [Stargazer](https://open.spotify.com/track/0JoshvvOkRzlbbrrveImUE) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Rapture \(Remastered / Expanded\)](https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ) | 3:17 | 2026-03-07 |  |
 | [Sweetest Chill](https://open.spotify.com/track/6TfbfKfIZhNY28UBrdP1mf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 4:07 | 2026-03-07 |  |
 | [Swimming Horses](https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 4:04 | 2026-03-07 |  |
-| [Tearing Apart](https://open.spotify.com/track/5An31c59INXWcKImST7vgX) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Rapture \(Remastered / Expanded\)](https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ) | 3:22 | 2026-05-13 |  |
+| [Tearing Apart](https://open.spotify.com/track/5An31c59INXWcKImST7vgX) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Rapture \(Remastered / Expanded\)](https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ) | 3:22 | 2026-05-13 | 2026-05-14 |
 | [The Killing Jar](https://open.spotify.com/track/1j0UWLVjMbBEQdqfI1CSQf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 4:05 | 2026-03-07 |  |
 | [The Last Beat Of My Heart](https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 4:30 | 2026-03-07 |  |
 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 | 2026-03-07 |  |

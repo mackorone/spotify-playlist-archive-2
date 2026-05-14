@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Andersen
 
-1,525 songs - 2 day 22 hr 14 min
+1,526 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [C\-30](https://open.spotify.com/track/7jedeUoyPZOPlP3HY9Hj2e) | [Cz Tiger](https://open.spotify.com/artist/2NddVWWEA3PMqhHXjgvBH1) | [C\-30](https://open.spotify.com/album/0CLD5k2PFbblrdW1M4lpeV) | 2:34 | 2025-04-30 | 2025-08-27 |
 | [CaliGula](https://open.spotify.com/track/1wEftlZ7eYxXCs3KIOOeeZ) | [Meguri Sasaki](https://open.spotify.com/artist/0ENlamuucoK5Fk9eDmUQy3) | [CaliGula](https://open.spotify.com/album/6B9roBrfWzyN8StjQt4xcQ) | 2:44 | 2025-09-30 | 2026-03-04 |
 | [Can't nobody](https://open.spotify.com/track/61CoYCcBFtkLrg6U45vLPQ) | [K!\-Ki](https://open.spotify.com/artist/1nTqyCFJfhtuYzYk7rXRWc), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [Can't nobody](https://open.spotify.com/album/2K8ajxQJrxoOQTK3pCvaNs) | 2:30 | 2025-06-03 | 2025-07-23 |
+| [Can't Stay Away](https://open.spotify.com/track/1kepZm06A4CPV6cOBLQBq7) | [URBANHOOD](https://open.spotify.com/artist/6xN0cz2lbYuGzc8bNtKqYG) | [Urban Tape: From The Quiet Side](https://open.spotify.com/album/7yFyd6iRQNKa7NwUUfcAWT) | 2:14 | 2026-05-12 |  |
 | [Car Chase](https://open.spotify.com/track/2dty2A6qDkyQqX749JAAfq) | [Wyatt](https://open.spotify.com/artist/026Rf67pepoNKHMu715bik) | [Car Chase](https://open.spotify.com/album/4uXD57d0qXKSOQRTRTTPii) | 3:05 | 2024-05-28 | 2024-07-10 |
 | [Car Crash](https://open.spotify.com/track/12MiHyCK7QZOce10gxnn06) | [KUROJI](https://open.spotify.com/artist/5w6ay1VQsRfo8guXEyqlKK) | [YODARE](https://open.spotify.com/album/20jZzW3lVnsExmtA6ebT74) | 2:47 | 2026-03-03 | 2026-04-22 |
 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 | 2023-12-22 | 2024-03-20 |

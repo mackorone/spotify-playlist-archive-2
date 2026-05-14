@@ -654,7 +654,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 177000,
       "name": "Blushing",
       "url": "https://open.spotify.com/track/0fru9mz5ftHcI6khFRbNAI"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 134745,
       "name": "Everyone Knows But.. You",
       "url": "https://open.spotify.com/track/6Ja3JoWj0UZdwZc5Oy8A2J"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 163818,
       "name": "Go for Love",
       "url": "https://open.spotify.com/track/5pC9c5HlVuifY319wqBMzb"
@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Message (with Gist)",
       "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
@@ -5629,6 +5629,28 @@
     },
     {
       "album": {
+        "name": "The spring you never knew (with Yoojongkwon)",
+        "url": "https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS"
+      },
+      "artists": [
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Yoo Jongkwon",
+          "url": "https://open.spotify.com/artist/4V8HlSuob367QsmOg11mfj"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213510,
+      "name": "The spring you never knew (with Yoojongkwon)",
+      "url": "https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk"
+    },
+    {
+      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/7hX2fO4JjrObIF3u33pKM6"
       },
@@ -6234,7 +6256,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 224900,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/4VBi9Nr4t4pYuF44wOCejS"

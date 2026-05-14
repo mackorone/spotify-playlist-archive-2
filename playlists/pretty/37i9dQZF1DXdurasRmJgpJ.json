@@ -1,6 +1,6 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 379379,
+  "num_followers": 379466,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
-        "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
-      "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
-    },
-    {
-      "added_at": "2026-05-01 04:42:14",
-      "album": {
         "name": "\u98a8\u3068\u753a",
         "url": "https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 218680,
       "name": "\u98a8\u3068\u753a",
       "url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8"
+    },
+    {
+      "added_at": "2026-05-01 04:42:14",
+      "album": {
+        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
+        "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
+      "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
+        "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
+        "url": "https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb"
+      },
+      "artists": [
+        {
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
+      "url": "https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs"
+    },
+    {
+      "added_at": "2026-05-01 04:42:14",
+      "album": {
         "name": "\u30ab\u30ea\u30b9\u30de\u30c3\u30af\u30b9 (CHARISMAX)",
         "url": "https://open.spotify.com/album/5VWD7lx3jH6XKPfPeeLhyv"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 177433,
       "name": "\u30ab\u30ea\u30b9\u30de\u30c3\u30af\u30b9 - CHARISMAX",
       "url": "https://open.spotify.com/track/76OElzXqlyLCdlSypwSKBy"
-    },
-    {
-      "added_at": "2026-05-01 04:42:14",
-      "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 229328,
-      "name": "\u8e0a\u308a\u5b50",
-      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
-        "url": "https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb"
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
       "artists": [
         {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 213066,
-      "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
-      "url": "https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs"
+      "duration_ms": 229328,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk"
+        "name": "\u4e00\u9014",
+        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
       },
       "artists": [
         {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 190080,
-      "name": "Tiger",
-      "url": "https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM"
+      "duration_ms": 190606,
+      "name": "\u4e00\u9014",
+      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "\u4e00\u9014",
-        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 190606,
-      "name": "\u4e00\u9014",
-      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
-    },
-    {
-      "added_at": "2026-05-01 04:42:14",
-      "album": {
         "name": "\u6674\u308b",
         "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 270705,
       "name": "\u6674\u308b",
       "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
+    },
+    {
+      "added_at": "2026-05-01 04:42:14",
+      "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
-        "url": "https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 178380,
-      "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
-      "url": "https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC"
-    },
-    {
-      "added_at": "2026-05-01 04:42:14",
-      "album": {
         "name": "SHOOTING STAR",
         "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 208065,
       "name": "LEFT RIGHT",
       "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
+    },
+    {
+      "added_at": "2026-05-01 04:42:14",
+      "album": {
+        "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 178380,
+      "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
+        "name": "\u706b\u7a2e",
+        "url": "https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 324633,
-      "name": "115\u4e07\u30ad\u30ed\u306e\u30d5\u30a3\u30eb\u30e0",
-      "url": "https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7"
+      "duration_ms": 204833,
+      "name": "\u706b\u7a2e",
+      "url": "https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
+        "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
-      "duration_ms": 229333,
-      "name": "\u30ac\u30fc\u30c7\u30f3",
-      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
+      "duration_ms": 324633,
+      "name": "115\u4e07\u30ad\u30ed\u306e\u30d5\u30a3\u30eb\u30e0",
+      "url": "https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -1075,34 +1075,18 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "\u706b\u7a2e",
-        "url": "https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5"
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
       },
       "artists": [
         {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 204833,
-      "name": "\u706b\u7a2e",
-      "url": "https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX"
-    },
-    {
-      "added_at": "2026-05-01 04:42:14",
-      "album": {
-        "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/4wXR68a3kHWi9uusIZDRZ0"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 288716,
-      "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
-      "url": "https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk"
+      "duration_ms": 229333,
+      "name": "\u30ac\u30fc\u30c7\u30f3",
+      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -1119,6 +1103,22 @@
       "duration_ms": 164782,
       "name": "ROSE",
       "url": "https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0"
+    },
+    {
+      "added_at": "2026-05-01 04:42:14",
+      "album": {
+        "name": "Almond Chocolate",
+        "url": "https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Almond Chocolate",
+      "url": "https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "Almond Chocolate",
-        "url": "https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO"
+        "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/4wXR68a3kHWi9uusIZDRZ0"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
-      "duration_ms": 201760,
-      "name": "Almond Chocolate",
-      "url": "https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P"
+      "duration_ms": 288716,
+      "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "\u3044\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/1yeqQOJy7S39BNOI0kK9DI"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        }
-      ],
-      "duration_ms": 226313,
-      "name": "\u3044\u3089\u306a\u3044",
-      "url": "https://open.spotify.com/track/7lT3oj3gxE6AJb87ZK8up7"
-    },
-    {
-      "added_at": "2026-05-01 04:42:14",
-      "album": {
         "name": "SHOOTING STAR",
         "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "\u6b63\u89e3",
-        "url": "https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X"
+        "name": "\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/1yeqQOJy7S39BNOI0kK9DI"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
         }
       ],
-      "duration_ms": 358666,
-      "name": "\u6b63\u89e3",
-      "url": "https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF"
+      "duration_ms": 226313,
+      "name": "\u3044\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/7lT3oj3gxE6AJb87ZK8up7"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -1299,6 +1283,22 @@
       "duration_ms": 235777,
       "name": "\u30eb\u30df\u30ca\u30b9 - Luminous",
       "url": "https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"
+    },
+    {
+      "added_at": "2026-05-01 04:42:14",
+      "album": {
+        "name": "\u6b63\u89e3",
+        "url": "https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "\u6b63\u89e3",
+      "url": "https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF"
     },
     {
       "added_at": "2026-05-01 04:42:14",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-05-01 04:42:14",
       "album": {
-        "name": "\u4e8c\u4eba\u79f0",
-        "url": "https://open.spotify.com/album/0eYZtVRBgZDpEibSKVri8P"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 252115,
-      "name": "\u5343\u9ce5",
-      "url": "https://open.spotify.com/track/61uep4aDBpNnnFGfm6yzUF"
-    },
-    {
-      "added_at": "2026-05-01 04:42:14",
-      "album": {
         "name": "THE CORE - \u6838",
         "url": "https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 170625,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi"
+    },
+    {
+      "added_at": "2026-05-01 04:42:14",
+      "album": {
+        "name": "\u4e8c\u4eba\u79f0",
+        "url": "https://open.spotify.com/album/0eYZtVRBgZDpEibSKVri8P"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 252115,
+      "name": "\u5343\u9ce5",
+      "url": "https://open.spotify.com/track/61uep4aDBpNnnFGfm6yzUF"
     },
     {
       "added_at": "2026-05-01 04:42:14",

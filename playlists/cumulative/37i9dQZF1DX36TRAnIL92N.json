@@ -4030,10 +4030,32 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 181714,
       "name": "Problema",
       "url": "https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz"
+    },
+    {
+      "album": {
+        "name": "Prometheus",
+        "url": "https://open.spotify.com/album/5exMhB5Came3qQnVQNTly0"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249999,
+      "name": "Prometheus",
+      "url": "https://open.spotify.com/track/1dznoQSE5C6FWSuQR3ULw6"
     },
     {
       "album": {

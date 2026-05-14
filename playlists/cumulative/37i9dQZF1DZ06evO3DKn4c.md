@@ -4,7 +4,7 @@
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 58 min
+67 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [CONTEXTO \- Ao Vivo](https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 4:05 | 2024-11-09 |  |
 | [DEISDAZSEIS \- Ao Vivo](https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 0:53 | 2024-11-09 |  |
 | [Falando do Meu Bem](https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:04 | 2023-09-18 |  |
+| [Feeling](https://open.spotify.com/track/3qMZllzbXn78eELMyhAdDv) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Menestrel](https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marechal](https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [300](https://open.spotify.com/album/3YH7cVQKsWvxM5Aa6HirtJ) | 7:00 | 2026-05-14 |  |
 | [Feeling](https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Menestrel](https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marechal](https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [300](https://open.spotify.com/album/49aodr19IxR7j392H2CIJm) | 7:00 | 2023-09-18 | 2025-10-13 |
 | [Fica Até Umas Hora](https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Fica Até Umas Hora](https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot) | 3:48 | 2025-11-27 |  |
 | [Fica Até Umas Hora](https://open.spotify.com/track/7xga0gWCTSUpU7Uz5pldQS) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Fica Até Umas Hora](https://open.spotify.com/album/76mwd2KXWLCHumse2wW7Eq) | 3:48 | 2023-09-18 | 2025-11-27 |

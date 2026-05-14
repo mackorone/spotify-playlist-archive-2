@@ -4,7 +4,7 @@
 
 > Sfera in cover della playlist urban più grande d'Italia 🔥
 
-1,055 songs - 2 day 3 hr 9 min
+1,056 songs - 2 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg) | 2:19 | 2023-09-07 | 2024-03-01 |
 | [Levitating High 𓁹 \(con Papa V, Pitta, JOJO ABOT\)](https://open.spotify.com/track/0kbcf0agcQ1YYv0poPbGWd) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Jojo Abot](https://open.spotify.com/artist/7yR9zhQxEi9sc3vJxS2YG5) | [Levitating High 𓁹 \(con Papa V, Pitta, JOJO ABOT\)](https://open.spotify.com/album/5nEEhbdUfEjej1KVSTn7Tm) | 3:17 | 2026-04-09 | 2026-05-08 |
 | [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 | 2023-05-04 | 2023-05-12 |
+| [LEWANDOWSKI XI](https://open.spotify.com/track/4F1XlmUmFbvAj3Pw8MMrPT) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/1skLkLQdIPk8L4c16DbqkX) | 2:58 | 2026-05-13 |  |
 | [LIFE IS LIFE \(feat\. Nerissima Serpe & Papa V\)](https://open.spotify.com/track/0XvfITMZy29MKaVWjpeg9X) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 3:04 | 2025-07-21 | 2025-10-24 |
 | [LikethisLikethat](https://open.spotify.com/track/3HZmRXf14kseu6k7awTcPe) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [NON GUARDARE GIÙ](https://open.spotify.com/album/4TFMkUQJGM1a2ZuarJKs4U) | 3:52 | 2025-05-08 | 2025-06-13 |
 | [Lilith](https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:44 | 2024-03-05 | 2024-07-12 |
@@ -992,7 +993,7 @@
 | [TutteLeVolte](https://open.spotify.com/track/2tbivxZFgeoq1ZAGmcITfX) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6) | [Crash Out](https://open.spotify.com/album/2OSYIvhAF22cJtRFSLEr6g) | 2:49 | 2026-03-19 | 2026-04-10 |
 | [Tutti i giorni](https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:18 | 2025-01-16 | 2025-04-21 |
 | [TUTTO FUORI CONTROLLO ൵ \(con Franco 126, Kid Yugi, Izi\)](https://open.spotify.com/track/7EpeEp1AB5Qs4Y8LXvn5xG) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:20 | 2024-04-04 | 2024-06-07 |
-| [TXT](https://open.spotify.com/track/7GHXHYge4hcLsUGwxHwygw) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [TXT](https://open.spotify.com/album/4F4CP1xAwlDthC4bMd8TUP) | 3:21 | 2026-04-30 |  |
+| [TXT](https://open.spotify.com/track/7GHXHYge4hcLsUGwxHwygw) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [TXT](https://open.spotify.com/album/4F4CP1xAwlDthC4bMd8TUP) | 3:21 | 2026-04-30 | 2026-05-14 |
 | [Téléphone](https://open.spotify.com/track/76YfUp0DTnERvtZokyU6jm) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Téléphone](https://open.spotify.com/album/7Ma1ztWIbhK1vX1Fu24WEt) | 3:32 | 2022-07-26 | 2022-12-02 |
 | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG) | 3:00 | 2022-06-30 | 2023-04-21 |
 | [UFFA \(feat\. Silent Bob\)](https://open.spotify.com/track/6pL8SPXS9WcSPVqnSXwVVC) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [È LA \(LOVE\)](https://open.spotify.com/album/3iG8beByY8fvwVYmeikUpI) | 3:35 | 2024-05-23 | 2024-07-12 |

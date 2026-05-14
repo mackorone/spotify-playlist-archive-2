@@ -11957,6 +11957,24 @@
     },
     {
       "album": {
+        "name": "PER SOLDI E PER AMORE",
+        "url": "https://open.spotify.com/album/1skLkLQdIPk8L4c16DbqkX"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178892,
+      "name": "LEWANDOWSKI XI",
+      "url": "https://open.spotify.com/track/4F1XlmUmFbvAj3Pw8MMrPT"
+    },
+    {
+      "album": {
         "name": "BIG 5",
         "url": "https://open.spotify.com/album/4Are0mNScwygiibFFK39db"
       },
@@ -22216,7 +22234,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 201804,
       "name": "TXT",
       "url": "https://open.spotify.com/track/7GHXHYge4hcLsUGwxHwygw"

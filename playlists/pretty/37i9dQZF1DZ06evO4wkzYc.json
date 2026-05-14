@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 193142,
+  "num_followers": 193175,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAABaY3HibACcToN1h0OWSSU0",
+  "snapshot_id": "agJtgAAAAADvCyLO8uJz7vfn+Fojv64W",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Nini",
-        "url": "https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0"
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR"
       },
       "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        },
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 271346,
-      "name": "El Nini",
-      "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
+      "duration_ms": 214840,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/0wnSZFhtJPNPXUDCDcgwVb"
     },
     {
       "added_at": null,
@@ -303,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR"
+        "name": "El Nini",
+        "url": "https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0"
       },
       "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        },
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 214840,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/0wnSZFhtJPNPXUDCDcgwVb"
+      "duration_ms": 271346,
+      "name": "El Nini",
+      "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zutano",
+        "url": "https://open.spotify.com/album/7JeL0u9W8PscUQKS4V0vtj"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/1WBa4tWL35yvqCO42c2C1J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Amor Por Ti (En Vivo)",
         "url": "https://open.spotify.com/album/1948hF6tu8CHLjz7RbTA0H"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 245098,
       "name": "El Chavo - En Vivo",
       "url": "https://open.spotify.com/track/4Wr7lrIjNOUeOtmPLZK4uz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zutano",
-        "url": "https://open.spotify.com/album/7JeL0u9W8PscUQKS4V0vtj"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/1WBa4tWL35yvqCO42c2C1J"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuentes De Ortiz",
-        "url": "https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS"
+        "name": "S\u00f3lo T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/4FxPlZ5Sj1gz2hZnDQxAqq"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 232216,
-      "name": "Fuentes De Ortiz",
-      "url": "https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1"
+      "duration_ms": 188035,
+      "name": "S\u00f3lo T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/11TIPsRs6xpSAqlYkttZq1"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/4FxPlZ5Sj1gz2hZnDQxAqq"
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR"
       },
       "artists": [
         {
@@ -508,9 +508,25 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 188035,
-      "name": "S\u00f3lo T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/11TIPsRs6xpSAqlYkttZq1"
+      "duration_ms": 285093,
+      "name": "Todo Cambio",
+      "url": "https://open.spotify.com/track/2rj48vMh429g2zDvTOtXbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuentes De Ortiz",
+        "url": "https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 232216,
+      "name": "Fuentes De Ortiz",
+      "url": "https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
       "duration_ms": 259531,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Todo Cambio",
-      "url": "https://open.spotify.com/track/2rj48vMh429g2zDvTOtXbQ"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pocho (En Vivo)",
-        "url": "https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 168288,
-      "name": "El Pocho - En Vivo",
-      "url": "https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoy Ya Me Voy",
         "url": "https://open.spotify.com/album/0llMwofoz2YhJP9H4hORhh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 260063,
       "name": "Hoy Ya Me Voy",
       "url": "https://open.spotify.com/track/4o5jGJPVE7bDeidcEM1qYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pocho (En Vivo)",
+        "url": "https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 168288,
+      "name": "El Pocho - En Vivo",
+      "url": "https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz"
     },
     {
       "added_at": null,

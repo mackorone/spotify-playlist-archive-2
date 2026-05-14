@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,973 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,992 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 13 | [Spotlight](https://open.spotify.com/track/5D9GKjpvU4xbw4Y2sreLXB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 3:06 |
 | 14 | [If That Ain't Country \(I'll Kiss Your Sss\)](https://open.spotify.com/track/39rA3myJ7a5I6HuDoL1IpX) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [The Ride](https://open.spotify.com/album/1D2Tyth49AQiDb7SpWivEn) | 5:02 |
 | 15 | [Time Off For Bad Behavior](https://open.spotify.com/track/6teK395xJoARA0vVYXEfH5) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV) | 2:38 |
-| 16 | [I'm Gonna Hurt Her On the Radio](https://open.spotify.com/track/4QnQ1INIWEeDgz140kPqz1) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 2:38 |
-| 17 | [Whiskey & Women](https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 2:34 |
+| 16 | [Whiskey & Women](https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 2:34 |
+| 17 | [I'm Gonna Hurt Her On the Radio](https://open.spotify.com/track/4QnQ1INIWEeDgz140kPqz1) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 2:38 |
 | 18 | [Son of the South](https://open.spotify.com/track/3T1wesBkJDrO3atfJJg0gk) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Son of the South](https://open.spotify.com/album/3PcXCSl8cdoDLspkdG0oKm) | 3:52 |
 | 19 | [Don't Cry Darlin' \(Recitation by George Jones\)](https://open.spotify.com/track/5sTNElZHQWHWkz3WuIX3XA) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Darlin', Darlin'](https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B) | 2:48 |
 | 20 | [Dakota the Dancing Bear, Pt\. II](https://open.spotify.com/track/6YMUxXTDmU5ROJVGdZVxt0) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 49 | [It's Great to Be Single Again](https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Just Divorced](https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ) | 2:19 |
 | 50 | [Whiskey, Whiskey \(Take My Mind\)](https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [D.A.C.](https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1) | 2:30 |
 
-Snapshot ID: `agEcAAAAAAAVUlQPjs4Anqhu7Jo6ZAZw`
+Snapshot ID: `agJtgAAAAABsDqgPAS/Z/dPrfXaljFpw`

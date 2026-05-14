@@ -2,7 +2,7 @@
 
 ### [Zeds Dead's Deadbeats](https://open.spotify.com/playlist/1puyOVU3elVRRIblfAnQ8Q)
 
-> JOURNEY OF A LIFETIME \-\- TOUR ONSALE NOW \-\- ZEDSDEAD.NET
+> Celebrating 10 Years of Deadbeats\. <a href="https://shop.deadbeats.com">Shop the collection now</a>
 
 265 songs - 15 hr 16 min
 

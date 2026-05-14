@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2026 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,350 likes - 35 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,475 likes - 35 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Liekinheitin](https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL) | [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T), [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn) | [Liekinheitin](https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL) | 3:00 |
-| 2 | [Før Vi Går Hjem](https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3) | 2:54 |
+| 2 | [Før Vi Går Hjem](https://open.spotify.com/track/2qG6vr8fMq2abvKu7qXVuQ) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/6DIbkPf3IfXlhovI4F25Pb) | 2:54 |
 | 3 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
 | 4 | [My System](https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [My System](https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0) | 3:02 |
-| 5 | [JALLA](https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [JALLA](https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx) | 2:59 |
-| 6 | [Fire](https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP) | [Sarah Engels](https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P) | [Fire](https://open.spotify.com/album/71faxgxtIua8WZLM9v9U6v) | 2:57 |
-| 7 | [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 3:00 |
-| 8 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 |
-| 9 | [Viva, Moldova!](https://open.spotify.com/track/1aco3k5pWdUjruX6vKgovf) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Viva, Moldova!](https://open.spotify.com/album/1KIl7BKdv5nwZhN2Iz6Y5M) | 2:54 |
+| 5 | [Fire](https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP) | [Sarah Engels](https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P) | [Fire](https://open.spotify.com/album/71faxgxtIua8WZLM9v9U6v) | 2:57 |
+| 6 | [JALLA](https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [JALLA](https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx) | 2:59 |
+| 7 | [Viva, Moldova!](https://open.spotify.com/track/1aco3k5pWdUjruX6vKgovf) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Viva, Moldova!](https://open.spotify.com/album/1KIl7BKdv5nwZhN2Iz6Y5M) | 2:54 |
+| 8 | [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 3:00 |
+| 9 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 |
 | 10 | [Ferto](https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [Ferto](https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV) | 3:00 |
 | 11 | [Ya Ya Ya](https://open.spotify.com/track/0BDJRKqx8Qj6EmM5o9P5Vr) | [JONAS LOVV](https://open.spotify.com/artist/2MxmOoUgB4Z9k7x4V5IMy7) | [Ya Ya Ya](https://open.spotify.com/album/4VB38tgYeoX90oKnxmjw0M) | 2:49 |
-| 12 | [Alice \- ESC Version](https://open.spotify.com/track/4n1hRQ4uhTLhc1XaJFFofK) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Alice \(ESC Version\)](https://open.spotify.com/album/6RFjn0g23U5nvRXE6gDQiS) | 3:00 |
-| 13 | [Eclipse](https://open.spotify.com/track/2pJ0Ji9nkohwuKMuyNhiwo) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Eclipse](https://open.spotify.com/album/3AH33SDipOCuw9ATLx1CrX) | 3:00 |
+| 12 | [Eclipse](https://open.spotify.com/track/268EdGlIxScwdC21kE89Nf) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Eclipse](https://open.spotify.com/album/6waF3p59pl6HY7fCnz6ril) | 3:00 |
+| 13 | [Alice \- ESC Version](https://open.spotify.com/track/4n1hRQ4uhTLhc1XaJFFofK) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Alice \(ESC Version\)](https://open.spotify.com/album/6RFjn0g23U5nvRXE6gDQiS) | 3:00 |
 | 14 | [REGARDE !](https://open.spotify.com/track/6cjjQg0SAlX7ahvYWuRPXz) | [Monroe](https://open.spotify.com/artist/2ApuahwVylm6Ro4IPSsbj7) | [REGARDE !](https://open.spotify.com/album/7jXYj6lBYtSnQtP9wh5I8V) | 2:57 |
 | 15 | [Michelle](https://open.spotify.com/track/22g4vKHFze17AV7vnequhG) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Michelle](https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3) | 3:00 |
 | 16 | [TANZSCHEIN](https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q) | [COSMÓ](https://open.spotify.com/artist/5nbBY85e9IUeoz6vr9EdQM) | [TANZSCHEIN](https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix) | 2:42 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 34 | [On Replay](https://open.spotify.com/track/4ybdkbEdZ2JwXFbNaRbBIY) | [Bzikebi](https://open.spotify.com/artist/5BOldA1K6XRW9bSIT1oOcN) | [On Replay](https://open.spotify.com/album/54ZVX0mfzANelSskiymnD7) | 3:07 |
 | 35 | [Nova Zora \(Eurovision 2026\)](https://open.spotify.com/track/3PGOiXT00ISVuUgr14m079) | [Tamara Živković](https://open.spotify.com/artist/3rhiMxv0cqPttBuoxtKiFw) | [Nova Zora \(Eurovision 2026\)](https://open.spotify.com/album/1lrGkecHhO8pzAGhd8gDGW) | 2:51 |
 
-Snapshot ID: `AAAAAPd69vBpBQugn99s2/d1+o+1e6Hj`
+Snapshot ID: `AAAAABYCVnRjohjPjIqdBONBwT5I/C6C`

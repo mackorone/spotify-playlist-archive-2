@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 692214,
+  "num_followers": 692243,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAADov6rTrglKmTVafM1czVJ/",
+  "snapshot_id": "agJtgAAAAADIaJzwT2IzWFSfqOVTTQyT",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Waiting for the Sun",
-      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Riders On The Storm (Fredwreck Remix)",
         "url": "https://open.spotify.com/album/4Amv0hrD1UuVHSnexg1iqP"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 382240,
       "name": "Riders On The Storm - Fredwreck Remix",
       "url": "https://open.spotify.com/track/0RcYEWXtbu4ehdv1tiBOi0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Waiting for the Sun",
+      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 186560,
-      "name": "Strange Days",
-      "url": "https://open.spotify.com/track/4WFVX3E568hdAixIj3U222"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 264960,
       "name": "Five to One",
       "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Strange Days",
+      "url": "https://open.spotify.com/track/4WFVX3E568hdAixIj3U222"
     },
     {
       "added_at": null,

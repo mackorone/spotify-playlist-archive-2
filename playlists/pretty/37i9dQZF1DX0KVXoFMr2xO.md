@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 
 > A creepy collection of scary sounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 160 likes - 127 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 127 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 | 31 | [Witch's Tomb](https://open.spotify.com/track/103f2lTeiqKGDp7gMyy6eW) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Witch's Tomb](https://open.spotify.com/album/04OLKEyBdS0J3MbwFYBUap) | 3:40 |
 | 32 | [Living Dolls](https://open.spotify.com/track/6rYscM0Bn6bFRcRbcVuZr9) | [Nox Arcana](https://open.spotify.com/artist/2vmxXfIAWKLWbN1yGgHdou) | [Carnival of Lost Souls](https://open.spotify.com/album/6KjzifJVFySPX2mePDuc8z) | 2:52 |
 | 33 | [Ghouls](https://open.spotify.com/track/1ihFlBccQg6zp0nCmBTGS1) | [Pragius](https://open.spotify.com/artist/2LliWMVzJrsQmsRfEn8NVJ) | [Creepy Ambience](https://open.spotify.com/album/32LgDWdMoovNxQDvj5z1Ln) | 3:16 |
-| 34 | [Haunted and Scary Halloween Sounds](https://open.spotify.com/track/4AzgUoGILdndmnpnD5K0BH) | [Lydia Wrenworth](https://open.spotify.com/artist/05EYqZRolxrIsRYJZqBlNZ), [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y) | [Haunted and Scary Halloween Sounds \(Best Halloween Party Collection 2018, Horror & Creepy Effects\)](https://open.spotify.com/album/7jbZkKuzu0zMsAJivgSREc) | 4:01 |
+| 34 | [Haunted and Scary Halloween Auras](https://open.spotify.com/track/4AzgUoGILdndmnpnD5K0BH) | [Lydia Wrenworth](https://open.spotify.com/artist/05EYqZRolxrIsRYJZqBlNZ), [Scarlett Wolfworth](https://open.spotify.com/artist/45JaqbumMMOSQpt5nSZKeu) | [Haunted and Scary Night](https://open.spotify.com/album/7jbZkKuzu0zMsAJivgSREc) | 4:01 |
 | 35 | [Witches Brew](https://open.spotify.com/track/4co5EDLIE4ZZNYfzqmgITI) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Ambience](https://open.spotify.com/album/17rnMzoPcedRwZvV5KIRBC) | 4:40 |
 | 36 | [Choir Of Horror](https://open.spotify.com/track/1321qDjLmtpW0s196uiwns) | [Fuego Ambiental](https://open.spotify.com/artist/5mALv90wqGtMQgJ9dUcEOk) | [Choir Of Horror](https://open.spotify.com/album/2wll1vgnvNjIY7DlCXfHrU) | 3:00 |
 | 37 | [Abandoned Asylum Terrors](https://open.spotify.com/track/054msJtOkAhIhtiS2iab34) | [Haunted Heights](https://open.spotify.com/artist/43YNwiGvh2wHRrKK8m3trR) | [Scary Halloween Sounds](https://open.spotify.com/album/5i1xFxHwnH40tevnEFQa8C) | 3:16 |

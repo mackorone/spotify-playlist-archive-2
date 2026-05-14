@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 
 > Baba God, run am 🙏\. <br/>Cover:  Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,362 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,528 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 42 | [Omo](https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Omo](https://open.spotify.com/album/0Q4bqBS5jE3GpU0bOmnen6) | 2:36 |
 | 43 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
 | 44 | [Thankful](https://open.spotify.com/track/4hm34en9vhwHwHsOTHrHzM) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Promise Land](https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV) | 4:12 |
-| 45 | [1000 Thoughts](https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:26 |
-| 46 | [Sorry](https://open.spotify.com/track/3a9mvqQDZxhahR05qaBlmJ) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Light](https://open.spotify.com/album/6iHR6cIn5tlLFVIGOB3pH2) | 2:24 |
+| 45 | [Sorry](https://open.spotify.com/track/3a9mvqQDZxhahR05qaBlmJ) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Light](https://open.spotify.com/album/6iHR6cIn5tlLFVIGOB3pH2) | 2:24 |
+| 46 | [1000 Thoughts](https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:26 |
 | 47 | [Id.Me](https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Id.Me](https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt) | 2:49 |
 | 48 | [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 |
 | 49 | [God is working](https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [God is working](https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT) | 2:14 |
-| 50 | [iseoluwa](https://open.spotify.com/track/36GYWNzc0MwGSSmXZLP6bX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:18 |
-| 51 | [Peace](https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Peace](https://open.spotify.com/album/1GGfruBunSIXTQgArMbzX9) | 3:26 |
+| 50 | [Peace](https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Peace](https://open.spotify.com/album/1GGfruBunSIXTQgArMbzX9) | 3:26 |
+| 51 | [iseoluwa](https://open.spotify.com/track/36GYWNzc0MwGSSmXZLP6bX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:18 |
 | 52 | [Imagine](https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Intergalactic Dreams](https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S) | 2:04 |
 | 53 | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1) | [SHON](https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo) | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA) | 2:10 |
 | 54 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
@@ -70,15 +70,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 60 | [JUNGLE](https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [JUNGLE](https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4) | 2:40 |
 | 61 | [Adura](https://open.spotify.com/track/1oK5IICHx1MLPdmvpA1V2j) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Adura](https://open.spotify.com/album/0Q4hbbDXyxsSQz5wWUNMe1) | 3:11 |
 | 62 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
-| 63 | [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 |
-| 64 | [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 |
+| 63 | [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 |
+| 64 | [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 |
 | 65 | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 |
 | 66 | [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 |
 | 67 | [Better Days](https://open.spotify.com/track/1KRjAOPqmQtP6fwTKxH0zR) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Better Days](https://open.spotify.com/album/0VOSbhA13PMQSo4MuLXSDn) | 2:32 |
 | 68 | [FAMILY](https://open.spotify.com/track/65aQ76660Dd6rn40UwQVgM) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [KURIMA](https://open.spotify.com/album/5maRefSgf0qSSkTMB4lmTR) | 2:33 |
 | 69 | [Casablanca](https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Casablanca](https://open.spotify.com/album/1PrAQba9MMtVlUGtjxnf1b) | 2:43 |
-| 70 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
-| 71 | [SPIRIT](https://open.spotify.com/track/0zQFZFR4vONHRgXs6Dqp2P) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [SPIRIT](https://open.spotify.com/album/626iZIxk6Pmb2DlnRo4FQY) | 3:31 |
+| 70 | [SPIRIT](https://open.spotify.com/track/0zQFZFR4vONHRgXs6Dqp2P) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [SPIRIT](https://open.spotify.com/album/626iZIxk6Pmb2DlnRo4FQY) | 3:31 |
+| 71 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
 | 72 | [Upgrade](https://open.spotify.com/track/4B8slHZUcFHu8ikY7EIvDt) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension](https://open.spotify.com/album/2tHeMvMbLAJnUWanq02jUV) | 2:59 |
 | 73 | [eko](https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [eko](https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N) | 2:54 |
 | 74 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 77 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 |
 | 78 | [Sho Mo Mi](https://open.spotify.com/track/2jQuziL4jIUO8YhcRfTpZr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension](https://open.spotify.com/album/7vl3pmA09x8tV7OUYCcTZ1) | 2:34 |
 | 79 | [365 Days](https://open.spotify.com/track/1fFixJPR0ZXgpm1b8DeL7g) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Timileyin](https://open.spotify.com/album/5gaDu1D7WaAQeZcb5Nqvvx) | 2:56 |
-| 80 | [Karma](https://open.spotify.com/track/4kdLYxqvPduwC5oAdXhMLh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:34 |
+| 80 | [High Spirit](https://open.spotify.com/track/0a9d4i1ofGnyW1BLCdLl7m) | [Dopestiks](https://open.spotify.com/artist/1f3wHhb84x7tkNHUq7fIxL) | [High Spirit](https://open.spotify.com/album/6edSCrtfTQ8dgZb87yq2GQ) | 2:29 |
 
 Snapshot ID: `AAAAAB82aRmb2KQ/F+m7eYgSFfHfsSP8`

@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,083 songs - 2 day 8 hr 34 min
+1,084 songs - 2 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 | 2025-09-25 | 2026-01-15 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 | 2025-01-25 |
 | [Gosh I Luv It !!!](https://open.spotify.com/track/3I7uEyg1QhIdl6msbxpieX) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Gosh I Luv It !!!](https://open.spotify.com/album/2KbKLg1yhMvFq0LdrjdPdH) | 3:23 | 2026-03-05 | 2026-03-13 |
+| [GPS](https://open.spotify.com/track/2jlHjepQ8HqqjhDTWCiGYe) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:49 | 2026-05-13 |  |
 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 | 2025-01-10 | 2025-02-21 |
 | [Great Pretender](https://open.spotify.com/track/1pNEdS8LS4TKZgTSvfvl5C) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:51 | 2025-08-21 | 2025-10-17 |
 | [Ground](https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ground](https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw) | 3:02 | 2024-07-25 | 2024-09-30 |
@@ -427,7 +428,7 @@
 | [HERE WE GO! \- from the Netflix film "Beverly Hills Cop: Axel F"](https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HERE WE GO! \(from the Netflix film "Beverly Hills Cop: Axel F"\)](https://open.spotify.com/album/0g097m0P0zZhYnImicon1n) | 3:12 | 2024-07-25 | 2024-09-27 |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-07-01 | 2024-09-07 |
 | [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 | 2024-07-01 | 2024-08-17 |
-| [Heroin eller hvad \(feat\. Tobias Rahim\)](https://open.spotify.com/track/0tVnHL7caHro4WYqFIi0co) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Heroin eller hvad \(feat\. Tobias Rahim\)](https://open.spotify.com/album/2IYaImluRx2km6CilDQNL8) | 3:17 | 2026-05-07 |  |
+| [Heroin eller hvad \(feat\. Tobias Rahim\)](https://open.spotify.com/track/0tVnHL7caHro4WYqFIi0co) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Heroin eller hvad \(feat\. Tobias Rahim\)](https://open.spotify.com/album/2IYaImluRx2km6CilDQNL8) | 3:17 | 2026-05-07 | 2026-05-14 |
 | [HEY BOUNCER!](https://open.spotify.com/track/41HlTcsGxkcfUmjGD55MNw) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [HEY BOUNCER!](https://open.spotify.com/album/27I77pnmANAUNOxpXuGdCF) | 2:34 | 2025-01-17 | 2025-01-25 |
 | [Hey Hello](https://open.spotify.com/track/77hIkkruDPGPQzbpr4c3wm) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL), [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Hey Hello](https://open.spotify.com/album/3LNfDuAu8Hhf6J43lvgvba) | 3:23 | 2024-09-26 | 2024-11-10 |
 | [Hi, Everyone Leave Please](https://open.spotify.com/track/0Ck0qxEp2sPUSPBlHBXW5L) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Hi, Everyone Leave Please](https://open.spotify.com/album/3FfMPxFVDUfAbKE7UFwhte) | 2:55 | 2025-07-17 | 2025-08-01 |

@@ -3203,6 +3203,28 @@
     },
     {
       "album": {
+        "name": "Arp Angels",
+        "url": "https://open.spotify.com/album/7ERxaYlFTnLGN5r5gxSzrJ"
+      },
+      "artists": [
+        {
+          "name": "Discovery Zone",
+          "url": "https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt"
+        },
+        {
+          "name": "World Brain",
+          "url": "https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362366,
+      "name": "Arp Angels",
+      "url": "https://open.spotify.com/track/0yHU14vhz98spCJzaKHdK7"
+    },
+    {
+      "album": {
         "name": "PISO (Originals)",
         "url": "https://open.spotify.com/album/5PaZ8Jb2MMDASvUflctOsV"
       },
@@ -15260,7 +15282,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 291153,
       "name": "Harm",
       "url": "https://open.spotify.com/track/4LmpsbxxFWEyQ3JWMUpCRB"
@@ -15772,6 +15794,24 @@
       "duration_ms": 230264,
       "name": "Hoia Baciu",
       "url": "https://open.spotify.com/track/1DntDGq1JGQyRNbNKd4iCj"
+    },
+    {
+      "album": {
+        "name": "HOLD ME (SLOWLY)",
+        "url": "https://open.spotify.com/album/7m1REx16trI5MSc9uNLrja"
+      },
+      "artists": [
+        {
+          "name": "KatzPascale",
+          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251500,
+      "name": "HOLD ME (SLOWLY)",
+      "url": "https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m"
     },
     {
       "album": {
@@ -18258,7 +18298,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 502000,
       "name": "Intersecting Planes II",
       "url": "https://open.spotify.com/track/0Qv4TU6l9PdPVjAGB04wDz"
@@ -25018,7 +25058,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 192000,
       "name": "nothing's ever enough",
       "url": "https://open.spotify.com/track/3xuhhCYvXbh6Wy1odwzk16"
@@ -35206,7 +35246,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 832220,
       "name": "The Pavilion Of Dreams",
       "url": "https://open.spotify.com/track/6kih4ZPZSHjUaPOs4XqGET"
@@ -35969,6 +36009,28 @@
     },
     {
       "album": {
+        "name": "Things Can't Stop",
+        "url": "https://open.spotify.com/album/0xYwOBKyka7ztChxN42xaw"
+      },
+      "artists": [
+        {
+          "name": "Max Winter",
+          "url": "https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A"
+        },
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227523,
+      "name": "Things Can't Stop",
+      "url": "https://open.spotify.com/track/45oJiFabnI3aEfoJKODD8Z"
+    },
+    {
+      "album": {
         "name": "Thinking about you",
         "url": "https://open.spotify.com/album/72gqbn4daD7B6rCmT3U6mG"
       },
@@ -36592,7 +36654,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 140364,
       "name": "Torpid",
       "url": "https://open.spotify.com/track/34cxDTrRVCc0Lrf0EKMYsK"
@@ -40425,6 +40487,24 @@
     },
     {
       "album": {
+        "name": "The Folkhouse",
+        "url": "https://open.spotify.com/album/5a579gBBhmqGsspzYvWWgz"
+      },
+      "artists": [
+        {
+          "name": "Lecx Stacy",
+          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "With You, I'd be Closer to God",
+      "url": "https://open.spotify.com/track/7BeFFrnf4YaVRTAgdJ6Dda"
+    },
+    {
+      "album": {
         "name": "Amplified Guitar",
         "url": "https://open.spotify.com/album/4RQbG9CSfvFr4AC3IgJqLE"
       },
@@ -40566,6 +40646,24 @@
       "duration_ms": 138178,
       "name": "Words From The Underground",
       "url": "https://open.spotify.com/track/7f8730MutBPbNRxzElLWgM"
+    },
+    {
+      "album": {
+        "name": "worm101",
+        "url": "https://open.spotify.com/album/63sWYycEcVWKpttgubJQj3"
+      },
+      "artists": [
+        {
+          "name": "LIPWORMS",
+          "url": "https://open.spotify.com/artist/2CfogfiF2FdVUuAWbS8hKP"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349229,
+      "name": "worm101",
+      "url": "https://open.spotify.com/track/5CIOpys2S1eyWhJTXpfrr0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > hyper\_sleaze.electro\-glitch.wiredheadphones.v2008.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.ear
 
-1,338 songs - 2 day 7 hr 3 min
+1,339 songs - 2 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -720,6 +720,7 @@
 | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/track/07ShpyCaAqfCseA3fWFFMY) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/album/1ucf98ip08W4dY41QZrXeq) | 3:02 | 2021-12-17 | 2022-03-13 |
 | [life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 3:23 | 2023-04-28 | 2023-08-26 |
 | [Life So Crazy](https://open.spotify.com/track/1iKx45Uo9uQc6Kc6NY37Nt) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Life So Crazy](https://open.spotify.com/album/2kquRyWJgXH7894vcWgM3O) | 1:48 | 2024-07-31 | 2026-02-08 |
+| [lifeless](https://open.spotify.com/track/6GpSVnPgoafNR9akQOko4B) | [Casual Affairs](https://open.spotify.com/artist/5EESQeFhNh3C79v3mLKe2W) | [when i wake up](https://open.spotify.com/album/3XRjV9L7WEGLfX26WY1ZE9) | 2:20 | 2026-05-13 |  |
 | [Lifestyle](https://open.spotify.com/track/20v5X5P8guUGTQQ1EAWys4) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:17 | 2023-01-11 | 2023-02-16 |
 | [Lift Yourself](https://open.spotify.com/track/3uYDO9dPLTVrgfwg7EYXSf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Lift Yourself](https://open.spotify.com/album/2hTxwsnzU7h15XcAUWSME8) | 2:27 | 2022-08-29 | 2022-10-22 |
 | [light \(with 9lives & midwxst\)](https://open.spotify.com/track/5QlWINPD2625OdZ3wS26KR) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [light \(with 9lives & midwxst\)](https://open.spotify.com/album/7HJ83Qe1wRgbqHJsSo3sK3) | 2:17 | 2023-12-15 | 2024-03-23 |
@@ -1040,7 +1041,7 @@
 | [Sad & Alone](https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sad & Alone](https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q) | 2:45 | 2023-06-09 | 2023-10-07 |
 | [sassup witcha](https://open.spotify.com/track/0u2nsmVqQmoQNxfBT1kVH0) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [sassup witcha](https://open.spotify.com/album/2T1zQxFBQcWX8kQKCkql3o) | 1:21 | 2024-08-09 | 2026-02-08 |
 | [say it back](https://open.spotify.com/track/2NonWGENYipnBNYvBd8fbY) | [damon r.](https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD) | [say it back](https://open.spotify.com/album/6iRYSsG3cl0CtaHMLWBAdU) | 3:40 | 2026-02-20 | 2026-03-21 |
-| [Scarborough Fair](https://open.spotify.com/track/6Mx3LGccpO9GWEXWNtv69Y) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Scarborough Fair](https://open.spotify.com/album/0CkbacQerYhCqVpST1eJcy) | 2:13 | 2026-04-17 |  |
+| [Scarborough Fair](https://open.spotify.com/track/6Mx3LGccpO9GWEXWNtv69Y) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Scarborough Fair](https://open.spotify.com/album/0CkbacQerYhCqVpST1eJcy) | 2:13 | 2026-04-17 | 2026-05-14 |
 | [SCARING THE HOES](https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:22 | 2023-03-24 | 2023-03-30 |
 | [ScatPacc \(feat\. NLE Choppa\)](https://open.spotify.com/track/2WSoVPCIzIQkgMT4SD9LzE) | [Baby Hot](https://open.spotify.com/artist/4mKGgMDSLv2POrC1CJ84xc), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [ScatPacc \(feat\. NLE Choppa\)](https://open.spotify.com/album/4LJxpok0JXlEKtF1hYcXhL) | 3:25 | 2022-04-14 | 2022-05-25 |
 | [see u there](https://open.spotify.com/track/0MqYDyMfzBj0YFWTLHVhag) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [see u there](https://open.spotify.com/album/0RJNi6SNswNuVRClimJ73W) | 1:45 | 2022-07-29 | 2022-09-01 |

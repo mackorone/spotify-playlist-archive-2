@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Brandão85
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,839 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,856 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 35 | [MODA 2](https://open.spotify.com/track/66zJjDbdSX8EGyDLtKcCZw) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [MODA 2](https://open.spotify.com/album/0ABSk1qJrZkcUXcusEEDwK) | 1:36 |
 | 36 | [Setor Norte](https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:37 |
 | 37 | [Alta Massa \(ATM\)](https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Alta Massa \(ATM\)](https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE) | 2:17 |
-| 38 | [COMME DES GARÇONS](https://open.spotify.com/track/4yC4sRDhK1uXLW9B14jyQl) | [FAB GODAMN](https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp) | [FATALFATALFATAL](https://open.spotify.com/album/6mVG3MQDjFsJwSsZDxfXfm) | 1:40 |
-| 39 | [SP](https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [SP](https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX) | 2:35 |
+| 38 | [SP](https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [SP](https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX) | 2:35 |
+| 39 | [COMME DES GARÇONS](https://open.spotify.com/track/4yC4sRDhK1uXLW9B14jyQl) | [FAB GODAMN](https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp) | [FATALFATALFATAL](https://open.spotify.com/album/6mVG3MQDjFsJwSsZDxfXfm) | 1:40 |
 | 40 | [GET RICH](https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Mvt](https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO) | [GET RICH](https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm) | 2:19 |
 | 41 | [ADO aADO](https://open.spotify.com/track/1jaLswTSnOmawTzDH8SeBq) | [okie](https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ), [Arthurzinho](https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP) | [Super Negro Vol.1](https://open.spotify.com/album/59Z3pymUOfVG6vhNifn84p) | 2:36 |
 | 42 | [IMPÉRIO](https://open.spotify.com/track/5DC5J4ki3mJHGjbaegsD3L) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [IMPÉRIO](https://open.spotify.com/album/4HQ1aKcnPhlsHawRiBBs7S) | 2:30 |

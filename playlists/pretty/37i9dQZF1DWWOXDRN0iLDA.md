@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 
 > soft ambient + bird song for spring study sessions 🦜🌿 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 844 likes - 77 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 884 likes - 77 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

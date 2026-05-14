@@ -5671,6 +5671,28 @@
     },
     {
       "album": {
+        "name": "Ponto G",
+        "url": "https://open.spotify.com/album/7g5uhYNHJ07ZHuXTX3bu3R"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163674,
+      "name": "Ponto G",
+      "url": "https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj"
+    },
+    {
+      "album": {
         "name": "AgroPlay Ver\u00e3o 3 - Vol. 2",
         "url": "https://open.spotify.com/album/0TnCwnWqlHtB1jbE3QLqRy"
       },
@@ -6380,7 +6402,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 178166,
       "name": "Seco - Ao Vivo",
       "url": "https://open.spotify.com/track/0Z8Qbs7lqEo7ULDLy69y6Z"

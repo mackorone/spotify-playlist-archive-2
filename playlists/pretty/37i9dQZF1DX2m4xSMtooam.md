@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,155 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,326 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 16 | [A heart in amber](https://open.spotify.com/track/1TyArzdihmZB650pUI7fxV) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [A heart in amber](https://open.spotify.com/album/4LRDAV59yKImvrvSaUQcWf) | 3:49 |
 | 17 | [Call on me softly](https://open.spotify.com/track/34yyBDFvc815CHpHINtpMg) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Call on me softly](https://open.spotify.com/album/6yswi7kz4lWCyIevxBgF9J) | 3:27 |
 | 18 | [Fotografia](https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Meets Gustav Lundgren](https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt) | 3:50 |
-| 19 | [All I Really Want Is Love](https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6), [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Chambre avec vue](https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB) | 4:08 |
-| 20 | [So Nice](https://open.spotify.com/track/1L0DDeREckUNqcKyveuyH0) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 3:50 |
+| 19 | [So Nice](https://open.spotify.com/track/1L0DDeREckUNqcKyveuyH0) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 3:50 |
+| 20 | [All I Really Want Is Love](https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6), [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Chambre avec vue](https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB) | 4:08 |
 | 21 | [O Barquinho](https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [From Paris To Rio](https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk) | 4:29 |
 | 22 | [O Que Sera?](https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Rio](https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI) | 5:24 |
 | 23 | [Cosme Velho](https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Cosme Velho](https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0) | 2:53 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 52 | [Florianópolis](https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [Florianópolis](https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB) | 3:10 |
 | 53 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/2ldWv3o9DglHPd8Ye4HjaL) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI) | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/album/4zKckB1AAPKpxH4OzzK3uA) | 2:44 |
 | 54 | [Boomerang](https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Boomerang](https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb) | 3:27 |
-| 55 | [Nature Boy](https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8) | [Lighthouse Lounge Band](https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc) | [Nature Boy](https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR) | 4:23 |
-| 56 | [Verano](https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Verano](https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX) | 2:52 |
+| 55 | [Verano](https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Verano](https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX) | 2:52 |
+| 56 | [Nature Boy](https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8) | [Lighthouse Lounge Band](https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc) | [Nature Boy](https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR) | 4:23 |
 | 57 | [A High Romance](https://open.spotify.com/track/3vmReLMuSqDLBLtMQqIVSh) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [A High Romance](https://open.spotify.com/album/68u4avv9rtgtmSXFCjpQOp) | 3:15 |
 | 58 | [Fim do verão](https://open.spotify.com/track/31wVCqF1fJTpgLPraYmQPg) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Fim do verão](https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN) | 3:50 |
 | 59 | [Praia de Ipanema](https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Praia de Ipanema](https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1) | 4:01 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 83 | [The Milky Way](https://open.spotify.com/track/5VCbcyUzLIBvQqJPR1dTNs) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [The Milky Way](https://open.spotify.com/album/4eASKrdPU29nUHbgzLsphQ) | 3:31 |
 | 84 | [Teleco\-Teco](https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa) | [Paula Morelenbaum](https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN) | [Telecoteco](https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb) | 3:38 |
 | 85 | [O Pato](https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA) | [Nate Najar](https://open.spotify.com/artist/1Ccc6niyzAjhDEjV3cbKpd), [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [O Pato](https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q) | 3:13 |
-| 86 | [You Fascinate Me So](https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [You Fascinate Me So](https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW) | 3:59 |
-| 87 | [Isto Aqui O Que É \(Silver Sandal\)](https://open.spotify.com/track/1bNi8WeHJM2qk4PolPHTVV) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Light My Fire](https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG) | 4:00 |
+| 86 | [Isto Aqui O Que É \(Silver Sandal\)](https://open.spotify.com/track/1bNi8WeHJM2qk4PolPHTVV) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Light My Fire](https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG) | 4:00 |
+| 87 | [You Fascinate Me So](https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [You Fascinate Me So](https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW) | 3:59 |
 | 88 | [Caminhos Cruzados](https://open.spotify.com/track/1u4Xal8izsdfmuNpmUTNo1) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:58 |
 | 89 | [Lonely Desires](https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Lonely Desires](https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1) | 2:41 |
 | 90 | [I Should Have Known Better](https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:25 |

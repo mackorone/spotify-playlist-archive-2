@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Diljit Dosanjh",
-  "num_followers": 248686,
+  "num_followers": 248699,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-05-07 07:38:44",
       "album": {
+        "name": "Leeran",
+        "url": "https://open.spotify.com/album/3NMsrH8WfExCju9HqkIsOE"
+      },
+      "artists": [
+        {
+          "name": "Balkar Ankhila",
+          "url": "https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be"
+        },
+        {
+          "name": "Manjinder Gulshan",
+          "url": "https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw"
+        }
+      ],
+      "duration_ms": 141923,
+      "name": "Leeran",
+      "url": "https://open.spotify.com/track/14K9uoBKLESF07UYpLPiSN"
+    },
+    {
+      "added_at": "2026-05-07 07:38:44",
+      "album": {
         "name": "32 Dand",
         "url": "https://open.spotify.com/album/167zp2W8XeoyZZg6z8EOkg"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 163887,
       "name": "32 Dand",
       "url": "https://open.spotify.com/track/1fbswZJRi9UJq35TJmtJ7c"
-    },
-    {
-      "added_at": "2026-05-07 07:38:44",
-      "album": {
-        "name": "Leeran",
-        "url": "https://open.spotify.com/album/3NMsrH8WfExCju9HqkIsOE"
-      },
-      "artists": [
-        {
-          "name": "Balkar Ankhila",
-          "url": "https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be"
-        },
-        {
-          "name": "Manjinder Gulshan",
-          "url": "https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw"
-        }
-      ],
-      "duration_ms": 141923,
-      "name": "Leeran",
-      "url": "https://open.spotify.com/track/14K9uoBKLESF07UYpLPiSN"
     },
     {
       "added_at": "2026-05-07 07:38:44",
@@ -1251,6 +1251,30 @@
     {
       "added_at": "2026-05-07 07:38:44",
       "album": {
+        "name": "Truckan Wale",
+        "url": "https://open.spotify.com/album/0ZGgq6ThhhhbJhSVaL3kUx"
+      },
+      "artists": [
+        {
+          "name": "R Nait",
+          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        },
+        {
+          "name": "Qaistrax",
+          "url": "https://open.spotify.com/artist/1V0BZ28beCXcK8kxt1A5fj"
+        }
+      ],
+      "duration_ms": 258984,
+      "name": "Truckan Wale",
+      "url": "https://open.spotify.com/track/7LtdzqwjhlIRBiI7FjBYmL"
+    },
+    {
+      "added_at": "2026-05-07 07:38:44",
+      "album": {
         "name": "Yaar Bawara (From \"Raunak\")",
         "url": "https://open.spotify.com/album/4UqfZntJTYM62fr06ZXwe7"
       },
@@ -1299,30 +1323,6 @@
     {
       "added_at": "2026-05-07 07:38:44",
       "album": {
-        "name": "Truckan Wale",
-        "url": "https://open.spotify.com/album/0ZGgq6ThhhhbJhSVaL3kUx"
-      },
-      "artists": [
-        {
-          "name": "R Nait",
-          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
-        },
-        {
-          "name": "Jasmeen Akhtar",
-          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
-        },
-        {
-          "name": "Qaistrax",
-          "url": "https://open.spotify.com/artist/1V0BZ28beCXcK8kxt1A5fj"
-        }
-      ],
-      "duration_ms": 258984,
-      "name": "Truckan Wale",
-      "url": "https://open.spotify.com/track/7LtdzqwjhlIRBiI7FjBYmL"
-    },
-    {
-      "added_at": "2026-05-07 07:38:44",
-      "album": {
         "name": "Back to Roots",
         "url": "https://open.spotify.com/album/0QyDEaqYnehKA956tyQmm9"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 195348,
       "name": "Jatt Nazaare Lenda",
       "url": "https://open.spotify.com/track/65kOgRJjUVaVmA4wzqcFQ7"
-    },
-    {
-      "added_at": "2026-05-07 07:38:44",
-      "album": {
-        "name": "Lala Lala",
-        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
-      },
-      "artists": [
-        {
-          "name": "SABBA",
-          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
-        }
-      ],
-      "duration_ms": 156103,
-      "name": "Lala Lala",
-      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
     },
     {
       "added_at": "2026-05-07 07:38:44",
@@ -1379,6 +1363,22 @@
       "duration_ms": 155121,
       "name": "Graph",
       "url": "https://open.spotify.com/track/6GcHqqvdC7W9j46h78hAgg"
+    },
+    {
+      "added_at": "2026-05-07 07:38:44",
+      "album": {
+        "name": "Lala Lala",
+        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
+      },
+      "artists": [
+        {
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
+        }
+      ],
+      "duration_ms": 156103,
+      "name": "Lala Lala",
+      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
     },
     {
       "added_at": "2026-05-07 07:38:44",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-05-07 07:38:44",
       "album": {
-        "name": "Taseer",
-        "url": "https://open.spotify.com/album/0JIuAPqkhqfYn3GFeQ5KMu"
-      },
-      "artists": [
-        {
-          "name": "Jass Bajwa",
-          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "Taseer",
-      "url": "https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu"
-    },
-    {
-      "added_at": "2026-05-07 07:38:44",
-      "album": {
         "name": "Athra Ghora",
         "url": "https://open.spotify.com/album/2sITT5wvRSrb0qcl1jAccT"
       },
@@ -1731,6 +1715,42 @@
       "duration_ms": 157241,
       "name": "Athra Ghora",
       "url": "https://open.spotify.com/track/0oEHDBB5BYIQeK5kfMP058"
+    },
+    {
+      "added_at": "2026-05-07 07:38:44",
+      "album": {
+        "name": "Taseer",
+        "url": "https://open.spotify.com/album/0JIuAPqkhqfYn3GFeQ5KMu"
+      },
+      "artists": [
+        {
+          "name": "Jass Bajwa",
+          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Taseer",
+      "url": "https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu"
+    },
+    {
+      "added_at": "2026-05-07 07:38:44",
+      "album": {
+        "name": "Mada V Nai",
+        "url": "https://open.spotify.com/album/4PNK0EtoPgbaGKEkKV9n6z"
+      },
+      "artists": [
+        {
+          "name": "Korala Maan",
+          "url": "https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 227159,
+      "name": "Mada V Nai",
+      "url": "https://open.spotify.com/track/4UE4ytRMvq2GOPbcWJLh6u"
     },
     {
       "added_at": "2026-05-07 07:38:44",
@@ -1759,26 +1779,6 @@
       "duration_ms": 152093,
       "name": "Khauf",
       "url": "https://open.spotify.com/track/1siJv8irHMPacI36HR4TIG"
-    },
-    {
-      "added_at": "2026-05-07 07:38:44",
-      "album": {
-        "name": "Mada V Nai",
-        "url": "https://open.spotify.com/album/4PNK0EtoPgbaGKEkKV9n6z"
-      },
-      "artists": [
-        {
-          "name": "Korala Maan",
-          "url": "https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 227159,
-      "name": "Mada V Nai",
-      "url": "https://open.spotify.com/track/4UE4ytRMvq2GOPbcWJLh6u"
     },
     {
       "added_at": "2026-05-07 07:38:44",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2026-05-07 07:38:44",
       "album": {
+        "name": "Palazzo 2",
+        "url": "https://open.spotify.com/album/3vaZ1jNpAm9BH0zt51RPlh"
+      },
+      "artists": [
+        {
+          "name": "Kulwinder Billa",
+          "url": "https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV"
+        },
+        {
+          "name": "Shivjot",
+          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
+        }
+      ],
+      "duration_ms": 209609,
+      "name": "Palazzo 2",
+      "url": "https://open.spotify.com/track/2S5lPQjlOPxnkUSRLTYNdn"
+    },
+    {
+      "added_at": "2026-05-07 07:38:44",
+      "album": {
         "name": "Bhangra Challenge",
         "url": "https://open.spotify.com/album/4oHr0BZjQ5L1UdJoPekIPd"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 170000,
       "name": "Bhangra Challenge",
       "url": "https://open.spotify.com/track/02DPibwhdEZ6JSsGjX0zPr"
-    },
-    {
-      "added_at": "2026-05-07 07:38:44",
-      "album": {
-        "name": "Palazzo 2",
-        "url": "https://open.spotify.com/album/3vaZ1jNpAm9BH0zt51RPlh"
-      },
-      "artists": [
-        {
-          "name": "Kulwinder Billa",
-          "url": "https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV"
-        },
-        {
-          "name": "Shivjot",
-          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
-        }
-      ],
-      "duration_ms": 209609,
-      "name": "Palazzo 2",
-      "url": "https://open.spotify.com/track/2S5lPQjlOPxnkUSRLTYNdn"
     },
     {
       "added_at": "2026-05-07 07:38:44",
@@ -2111,26 +2111,6 @@
     {
       "added_at": "2026-05-07 07:38:44",
       "album": {
-        "name": "Anarkali Suit",
-        "url": "https://open.spotify.com/album/54vSgcx7Kvfojc4i4tWZL3"
-      },
-      "artists": [
-        {
-          "name": "Preett Pandhaer",
-          "url": "https://open.spotify.com/artist/4HGrv7aSaRPjhm6oIJpNns"
-        },
-        {
-          "name": "Mad Mix",
-          "url": "https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv"
-        }
-      ],
-      "duration_ms": 153433,
-      "name": "Anarkali Suit",
-      "url": "https://open.spotify.com/track/7BCRmvjz3EcII1ljZnntik"
-    },
-    {
-      "added_at": "2026-05-07 07:38:44",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu"
       },
@@ -2147,6 +2127,26 @@
       "duration_ms": 177500,
       "name": "18 Lakh Da",
       "url": "https://open.spotify.com/track/7I8qYaQwnpSUqP4JQVLlpf"
+    },
+    {
+      "added_at": "2026-05-07 07:38:44",
+      "album": {
+        "name": "Poonian",
+        "url": "https://open.spotify.com/album/7LwD8POLU1k6LyvBe6VGZM"
+      },
+      "artists": [
+        {
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Poonian",
+      "url": "https://open.spotify.com/track/7HOB9THwRvVSozGYuycMSR"
     }
   ],
   "unique_name": "Bhangra Bangers",

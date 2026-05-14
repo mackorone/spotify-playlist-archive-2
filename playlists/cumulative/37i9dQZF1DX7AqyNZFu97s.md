@@ -4,7 +4,7 @@
 
 > The best new music from independent artists in the UK and Ireland\. Cover: plusamari
 
-3,588 songs - 7 day 21 hr 15 min
+3,589 songs - 7 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1353,6 +1353,7 @@
 | [He Thinks That I'm Nice](https://open.spotify.com/track/0gRtJjckMV5OMH49CYBF6z) | [Naomi Munn](https://open.spotify.com/artist/6PhYCEcCArdZ6ErqURnwiC) | [He Thinks That I'm Nice](https://open.spotify.com/album/1ke6yIcwTAv3JbdmGhuVA0) | 3:17 | 2022-10-06 | 2022-10-29 |
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-17 | 2025-01-08 |
 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 | 2024-10-15 | 2024-11-20 |
+| [HEAD IN THE CLOUDS](https://open.spotify.com/track/4s4fymRewq40MD6v4CQLSh) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [HEAD IN THE CLOUDS](https://open.spotify.com/album/2sOvbfuUlnzmPz5FmwWxz5) | 3:40 | 2026-05-12 |  |
 | [Head Straight](https://open.spotify.com/track/3TXk3Y1EBnZ6SIMFraTfHV) | [Oktae](https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD) | [Head Straight](https://open.spotify.com/album/60MZDr1SPWlUcTpxxBZ4sc) | 2:25 | 2025-04-22 | 2026-01-28 |
 | [Headache](https://open.spotify.com/track/7BHsLr7BwL042zLrqf4ypp) | [Lila Holler](https://open.spotify.com/artist/5zQQbAJKIj7byYLnHBqJJO) | [Headache](https://open.spotify.com/album/4d8EmD2g5hqZT7rUc16XC0) | 3:12 | 2024-05-14 | 2024-06-05 |
 | [Headache](https://open.spotify.com/track/0Xy0hDkSSDaChUt7PHnXY5) | [Retropxssy](https://open.spotify.com/artist/6tWhhrZoYdVYYik1YsSwdI) | [I Haven't Told Anybody](https://open.spotify.com/album/5QFmoHKGIQR3yyIRKvOTQs) | 2:07 | 2025-10-15 | 2025-11-26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1437774,
+  "num_followers": 1437812,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAACK+SxHSmfFotW0NzQ7t416",
+  "snapshot_id": "agJtgAAAAACuI4oOM6tCUhn+E5m6WVka",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Bird Set Free",
-      "url": "https://open.spotify.com/track/44p0C72gL2FbjWbzkUFfTf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 187026,
       "name": "Thunderclouds (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Bird Set Free",
+      "url": "https://open.spotify.com/track/44p0C72gL2FbjWbzkUFfTf"
     },
     {
       "added_at": null,

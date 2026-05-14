@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,529 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,535 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 17 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 |
 | 18 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 |
 | 19 | [Sea Of Tranquility](https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Sea Of Tranquility](https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3) | 2:55 |
-| 20 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
-| 21 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
+| 20 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
+| 21 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
 | 22 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
 | 23 | [You'll Be In My Heart](https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [You'll Be In My Heart](https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU) | 4:32 |
 | 24 | [Sentiment](https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9) | [Sufi Sheman](https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok) | [Sentiment](https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w) | 2:10 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 56 | [Eternal Thoughts](https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1) | [Orbit Release](https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG) | [Eternal Thoughts](https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP) | 4:01 |
 | 57 | [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 |
 | 58 | [Violin Lullaby](https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 2:26 |
-| 59 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 |
-| 60 | [REM Phase](https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8) | [Jardim Zen](https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu) | [Deep Mental Stillness 50](https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2) | 4:09 |
-| 61 | [Quiet Nights](https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 3:06 |
-| 62 | [After The Silence](https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [After The Silence](https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o) | 2:23 |
-| 63 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 |
+| 59 | [Quiet Nights](https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 3:06 |
+| 60 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 |
+| 61 | [REM Phase](https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8) | [Jardim Zen](https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu) | [Deep Mental Stillness 50](https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2) | 4:09 |
+| 62 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 |
+| 63 | [After The Silence](https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [After The Silence](https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o) | 2:23 |
 | 64 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 |
 | 65 | [Don't Go Where I Can't Find You](https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Winter Garden](https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH) | 4:53 |
 | 66 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 80 | [梦蝶 \- Dream to be a butterfly](https://open.spotify.com/track/2hkPUEsERVGoI4DxfZjUj5) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [梦蝶 \- Dream to be a butterfly](https://open.spotify.com/album/4j2aVL8FxwYDS92E0yyUbg) | 2:40 |
 | 81 | [Storybook](https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Storybook](https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI) | 2:21 |
 | 82 | [The Ones Left Behind](https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [The Ones Left Behind](https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh) | 2:28 |
-| 83 | [Stelliferous](https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Stelliferous](https://open.spotify.com/album/1gQFGbrdBfYpcg2MMsZbnE) | 3:27 |
-| 84 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
+| 83 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
+| 84 | [Stelliferous](https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Stelliferous](https://open.spotify.com/album/1gQFGbrdBfYpcg2MMsZbnE) | 3:27 |
 | 85 | [Sleep Well](https://open.spotify.com/track/6EltS9kyjdvCeIOZuNx7S0) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 3:59 |
 | 86 | [Wind](https://open.spotify.com/track/1xTxbktonB8OnloUIfvogm) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 4:26 |
 | 87 | [Tenderly](https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 2:40 |

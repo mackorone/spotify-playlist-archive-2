@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50773,
+  "num_followers": 50778,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAA9EclCkI2N42CN/zOJ5+fc",
+  "snapshot_id": "agJtgAAAAAD/pYaBH1bpG3pjpvL64Xxn",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 206905,
+      "name": "Te Romper\u00e9 El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1NWeEHAlOpndG5ms0NIdno"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Vida Del Dorian",
         "url": "https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 224413,
       "name": "La Vida Del Dorian",
       "url": "https://open.spotify.com/track/0Ym47PchDzF9BpPZX5D7d8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 206905,
-      "name": "Te Romper\u00e9 El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1NWeEHAlOpndG5ms0NIdno"
     },
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
       "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        },
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 216503,
-      "name": "Si Alg\u00fan D\u00eda Te Encuentro",
-      "url": "https://open.spotify.com/track/3cXE7s1awKcJiNHp2UokBu"
+      "duration_ms": 208443,
+      "name": "Como los Vaqueros",
+      "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
     },
     {
       "added_at": null,
@@ -791,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
       "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        },
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 208443,
-      "name": "Como los Vaqueros",
-      "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
+      "duration_ms": 216503,
+      "name": "Si Alg\u00fan D\u00eda Te Encuentro",
+      "url": "https://open.spotify.com/track/3cXE7s1awKcJiNHp2UokBu"
     },
     {
       "added_at": null,

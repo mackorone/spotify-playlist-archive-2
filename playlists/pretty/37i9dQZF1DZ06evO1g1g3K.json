@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7139,
+  "num_followers": 7150,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAABKCyYq3FrKAmcFpGoUqCFA",
+  "snapshot_id": "agJtgAAAAAAL1MFNuf73NTy1VoBYM+kl",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AM I OKAY?!",
+        "url": "https://open.spotify.com/album/4Tku8dpR2O31BsilYVBw91"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 217662,
+      "name": "AM I OKAY?!",
+      "url": "https://open.spotify.com/track/7acblFUsVC2haLFRkHqlQZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shea Butter Baby",
         "url": "https://open.spotify.com/album/4H4zgSw27aH4HkJxLzZdCv"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 196652,
       "name": "Facetime (with Durand Bernarr) - Remix",
       "url": "https://open.spotify.com/track/36lhJvCzm7QxAHUCILGl0T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AM I OKAY?!",
-        "url": "https://open.spotify.com/album/4Tku8dpR2O31BsilYVBw91"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 217662,
-      "name": "AM I OKAY?!",
-      "url": "https://open.spotify.com/track/7acblFUsVC2haLFRkHqlQZ"
     },
     {
       "added_at": null,
@@ -211,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unblocked",
-        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
+        "name": "Lotus Glow (Deluxe)",
+        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
       },
       "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 315072,
-      "name": "Sam\u2019s Vibe",
-      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
+      "duration_ms": 189813,
+      "name": "Le D\u00e9part - Feat. Durand Bernarr",
+      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
     },
     {
       "added_at": null,
@@ -247,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus Glow (Deluxe)",
-        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
+        "name": "Unblocked",
+        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
       },
       "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 189813,
-      "name": "Le D\u00e9part - Feat. Durand Bernarr",
-      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
+      "duration_ms": 315072,
+      "name": "Sam\u2019s Vibe",
+      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
     },
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Ride",
-        "url": "https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 242875,
-      "name": "Wild Ride",
-      "url": "https://open.spotify.com/track/41X89JT5axSqQYozs2op40"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 279999,
       "name": "Flounce",
       "url": "https://open.spotify.com/track/2mgiMZ9BFMI8YgGHtIlgmT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Ride",
+        "url": "https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 242875,
+      "name": "Wild Ride",
+      "url": "https://open.spotify.com/track/41X89JT5axSqQYozs2op40"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 353242,
-      "name": "Leveled",
-      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 270686,
       "name": "Reaching",
       "url": "https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 353242,
+      "name": "Leveled",
+      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/4x54v9wLiL2mHmKVcyPIcH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Terrell One Million Show",
         "url": "https://open.spotify.com/album/3cAgKKxhswmZu3t8OC8Hr1"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 291620,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/2whrzPDuhdUfLYaE8xENIN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/4x54v9wLiL2mHmKVcyPIcH"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "Rollin\u2019",
-      "url": "https://open.spotify.com/track/7IXRl11ljin6axzMbllSFo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 369998,
       "name": "GENEROUS",
       "url": "https://open.spotify.com/track/15iKg3vhtQNgIMtv6IzylW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 218571,
+      "name": "Rollin\u2019",
+      "url": "https://open.spotify.com/track/7IXRl11ljin6axzMbllSFo"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -695,42 +711,6 @@
       "duration_ms": 213000,
       "name": "Relocate",
       "url": "https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Metta",
-          "url": "https://open.spotify.com/artist/1pwUbfPf4VBYuwAdA4xmix"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "Lil Bit (feat. METTA)",
-      "url": "https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4"
     }
   ],
   "unique_name": "This Is Durand Bernarr",

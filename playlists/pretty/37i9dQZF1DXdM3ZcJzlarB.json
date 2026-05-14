@@ -1,15 +1,31 @@
 {
-  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Mariano Mellino",
-  "num_followers": 32100,
+  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Jay de Lys",
+  "num_followers": 32104,
   "original_name": "(AR)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGFfWbpf+Tx/aL2JOn3X/pQKa48d",
+  "snapshot_id": "AAAAAPLl+j1uheZ++fFmFi5KRauZM9ku",
   "tracks": [
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
+      "album": {
+        "name": "Come Inside",
+        "url": "https://open.spotify.com/album/1ZGKFD6SpEcceKh66Hw22t"
+      },
+      "artists": [
+        {
+          "name": "Jay de Lys",
+          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Come Inside",
+      "url": "https://open.spotify.com/track/3VO7bx0bxXJ8K5Rx4QVJQO"
+    },
+    {
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Black Angel",
         "url": "https://open.spotify.com/album/26GRxOipn8STZRLDUxbEG9"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/3zD7Ae4euGM0lKczQu9fFB"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Ricota",
         "url": "https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "The Insanity of Infinity",
         "url": "https://open.spotify.com/album/3C6C6bs2PBcdurxWS57ewv"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/2iIpsPRoHMGGjzY4ydEzwz"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Extended",
         "url": "https://open.spotify.com/album/3OTvOgJZuv3PpmuqZtR4qi"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/5NgHEzcXmGnvalSA9SYzz6"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Bring the Bit Back",
         "url": "https://open.spotify.com/album/7hpuDv2j70KvmpZExYDmF0"
@@ -101,23 +117,7 @@
       "url": "https://open.spotify.com/track/4OlR8t8CzGEWOCgJwjPSCt"
     },
     {
-      "added_at": "2026-04-24 14:14:30",
-      "album": {
-        "name": "Come Inside",
-        "url": "https://open.spotify.com/album/1ZGKFD6SpEcceKh66Hw22t"
-      },
-      "artists": [
-        {
-          "name": "Jay de Lys",
-          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Come Inside",
-      "url": "https://open.spotify.com/track/3VO7bx0bxXJ8K5Rx4QVJQO"
-    },
-    {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "A La Deriva",
         "url": "https://open.spotify.com/album/7LwjG3xraK6w8krZpXfCun"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5mRuTcc2NFb0dxokBDNKJ5"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "On My Mind (Traumhouse Remix)",
         "url": "https://open.spotify.com/album/4rHeJpHfU5WPNFUwoHDEik"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/3o9ffi07hangvR4jXV0aoY"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "The Voice in My Head",
         "url": "https://open.spotify.com/album/2874NKl3OipI03y1QmO4yt"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/6ZquS1XBnHzu7eJxeoV5BY"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Circular",
         "url": "https://open.spotify.com/album/0sneAQVgbeyI1XIRWrUrMN"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/69NLNjIbA3aNf1vOV0PLWT"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Poison EP",
         "url": "https://open.spotify.com/album/5SijqkYbzz8HmoHYrGtYc9"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/1dfz0xf5FoW9NMbJ3AHA65"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "HEY!",
         "url": "https://open.spotify.com/album/74rDLCP0IyFhrPkZFGjA6n"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/2cRNX2gFO9QhrcbhYMyoGZ"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Something Right (Ezequiel Arias Remix)",
         "url": "https://open.spotify.com/album/7jIaFcVE1D6er8DA47vTZf"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/3mcm09CiO5HyGfv6lOEArW"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Discovery's",
         "url": "https://open.spotify.com/album/6RsVfBtSVkTKyqqtW27Tj2"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/4DvTSZCc4aGhSLAk5y4AKb"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/7a5Sya3CN0YZ91OmMAmG6D"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/50A9yRYFsOcjm2IrEw1EY7"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Elevator",
         "url": "https://open.spotify.com/album/46mVoYZJz2b6DoQtTRyb5K"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/3zW2p2IIK885aOrjfDJEXv"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Auch",
         "url": "https://open.spotify.com/album/6eeLPlVw9wMj6vS5OoR98P"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/2ZoyaD9MIlhZU6fijYxUjz"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Parte del Juego",
         "url": "https://open.spotify.com/album/20bcF31eRk7fPmSm5JgHXH"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/4OYTJSWLgq7okalwAKbEEr"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Loaded Clipz",
         "url": "https://open.spotify.com/album/2Ymgeh9CkTcrhfYiv0de74"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/5xEk58vFuuHuOeFIjAFbd5"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Everlong / Lies",
         "url": "https://open.spotify.com/album/34Drpugegb65VUOcNCjvFj"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/7ybOmTVLV4I6ZwzyabBjZq"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "lo que pase (feat. Trueno) [Muter Remix]",
         "url": "https://open.spotify.com/album/4EfCkFlGiBW45WezCqIuA6"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/7585ieV3yv12vwh5Qn1G9V"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Trama EP (THE REMIXES)",
         "url": "https://open.spotify.com/album/7cWjiUDF1ELTigFjBcMoJX"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/66rwtF0BTlbh1qQjbmlP0Q"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "01. EPIDERMIS",
         "url": "https://open.spotify.com/album/6zSlCWl8UhIHpJVtxUoLip"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/334HYl5dDYcqBferXw4wlA"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Ceibora Igniflora",
         "url": "https://open.spotify.com/album/4uAUjyubenGKFMd1ezfC4H"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/4AVtGocGEvcMuY0fAX4ePD"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Peces Raros - Spotify Sessions",
         "url": "https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/3CV9QpKGJJxtimW0jDOODi"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Paradiso",
         "url": "https://open.spotify.com/album/6bFHz7BXHgLrX0fHR0d5eM"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/1PSAEH5HKR35xGAy0dV6KF"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Quiero irme con vos (rework)",
         "url": "https://open.spotify.com/album/1ncGeBbZiKPYyhyGuT3pGh"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/7hfUSBbZ4GTXrbUWGGTA1c"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/2ifjAn59ZY2PN6ldZH4JFR"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/5NuUpZEwvaezusTcocyCZi"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "A La Deriva",
         "url": "https://open.spotify.com/album/7LwjG3xraK6w8krZpXfCun"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/1u2brgkqe0buzy8dXJjJcx"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Bars Attacks",
         "url": "https://open.spotify.com/album/7wl5P8XUr2YT90ggnzshiX"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/3VOSdXmn0X57ajzbQceMxr"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Thousand Miles (Hernan Cattaneo & Kevin Di Serna Remix)",
         "url": "https://open.spotify.com/album/4psJIHvBkE0rZL0iZVnspR"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/2xc2ThngGh590Q3aYiy87H"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "My Own Game (Oliver Koletzki Remix)",
         "url": "https://open.spotify.com/album/1Zz6UTHiaAYMTzORIb7VuT"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/1lfRXV7oyRHSGBiTPLvC3y"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "1212",
         "url": "https://open.spotify.com/album/2OvJVyYxYiG0LrhuoOqfMR"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/0bD0qaS4yV4VpBBmK3nm1U"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Lick It",
         "url": "https://open.spotify.com/album/1uvpOdGh9Z8r13mDhAUfx6"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/0mWebM26qFivYA24xX6olo"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Soul Of The Dancefloor",
         "url": "https://open.spotify.com/album/2j1AMCdefkiEw5ndH7UKcx"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/6LnOJX5jwxuVbzpMRxWqX0"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Abyssal / Spellbound / Silessa",
         "url": "https://open.spotify.com/album/0j0A9CmK563dwd7WrL10kf"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/0U6S5b94d8ZSgTct8N14pL"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Love is Coming Back (BRVNOV Remix)",
         "url": "https://open.spotify.com/album/3QLRHM1A5qVKeTfyJDgFOp"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/49WjGZXppw5ejKUXFSg0Xo"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Let's Talk",
         "url": "https://open.spotify.com/album/0uQPkMEkucJfEkCotw5IVP"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/2urMoiu8biLlRt4J3lrvHW"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Face the Sun",
         "url": "https://open.spotify.com/album/6S0u9RRu1rzslCNQjkWvMN"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/1aY8annkvFrPcJd5ynOU2u"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Back To The Old School",
         "url": "https://open.spotify.com/album/3vUnrVdQYByao4bTIvg1hK"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/0lOGclvTM8Eo2EcEu3GdbX"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Telephones",
         "url": "https://open.spotify.com/album/6KRSfJZbv0LnW9rogYUwPi"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/6esrF84UobEAL9QSJRsO8Z"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Fight!",
         "url": "https://open.spotify.com/album/1CQL2YwVVgSVfbygDwQF1l"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/4MxKjxzr8Lot2hqdsOETs5"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "One Two Three Four",
         "url": "https://open.spotify.com/album/4wjXfnuHVoBx3pdFr5B4d5"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/6EzMEiXcLAQPPYXUiYTWiH"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "You Can Run",
         "url": "https://open.spotify.com/album/3B7Tu6ezieVXBT6rLu7eqM"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/4euuFBUJsRlftQnTXHoG8M"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Us Forever",
         "url": "https://open.spotify.com/album/3msyNGBzQzOBqKPXS3DCCG"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/2Pdjj0oK5nK8DaUoDZsCad"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Quilaquina",
         "url": "https://open.spotify.com/album/1rEZAzJZyhbrbjFGjY3jZD"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/2SABgcKY6WhWLdLdZOjRbt"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6kifzL9II6zVZcKvfkSxsA"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/1LvIhFKDDezuHsfLpJSPST"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "TREGUA",
         "url": "https://open.spotify.com/album/524yA9fiXxSeDBMfqgpP23"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/1AEIj3ICbYjS1vGSYz2tOm"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Acid Rain",
         "url": "https://open.spotify.com/album/5ozI69yBdbUpdxmyR8y9CT"
@@ -961,7 +961,7 @@
       "url": "https://open.spotify.com/track/5EM8jyVuk8uCyBvS0X4elR"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Subliminal Verses",
         "url": "https://open.spotify.com/album/4uEA136nqalZPhcWkVgxOY"
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/5zvjECHXCAkIuVbpfde1PE"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "DA-DA-DA",
         "url": "https://open.spotify.com/album/5AB4LTkczL8WjkYk6yJVp2"
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/7AMD0CKKfFnLAHiJjHF43W"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Future Avenue Mixed 010 | Bynomic (DJ Mix)",
         "url": "https://open.spotify.com/album/025h14dWpN2Il5vN5yDgyp"
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3gdIFM81duMu1KinhiV3zj"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Grain",
         "url": "https://open.spotify.com/album/6MNr4zSzPCTYhKmUOuE7v7"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/3dkUg7ZUEpf26EE5GQbBDe"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Burda (MAMI Remix)",
         "url": "https://open.spotify.com/album/5zjfgBOI54kEKbvHNmwWPS"
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/1B6loqDKnrCPuM0kBxmlQc"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Tranzas Del Swing Vol.2",
         "url": "https://open.spotify.com/album/6as1rvZnLlajz5Wr4Q68Zs"
@@ -1093,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4ukKTac13xGAB27uHnOBT9"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Don't Say",
         "url": "https://open.spotify.com/album/6RzYVGcgoGb5fZmB2A40Dd"
@@ -1113,7 +1113,7 @@
       "url": "https://open.spotify.com/track/4dDwzooJin3uzoqYsmSEny"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "It's a Fact",
         "url": "https://open.spotify.com/album/7LyViX8VskJdtrLUX4gGkP"
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/3aJSp4vpoifHifMOtDDclb"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Vesper",
         "url": "https://open.spotify.com/album/0bXLbgN5wSXw4zxjOiLpEm"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/5QwSKYtSlEJYTkmQGconNk"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Hit Me",
         "url": "https://open.spotify.com/album/3OA4trUNkErSGCuQ9XdRyS"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/3LcWadS1j2rfrcOVcS6vjc"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Human or Monkeys",
         "url": "https://open.spotify.com/album/0khynoy6wlTjmvu8YFjpzo"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2frjkLrX8eWM6RF2vVvzI4"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Sailor",
         "url": "https://open.spotify.com/album/07Ri4UW3J9sT7WmK49xe8Y"
@@ -1197,7 +1197,7 @@
       "url": "https://open.spotify.com/track/0bHei4dP9QDEG2ccGtHPyQ"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Acantilados",
         "url": "https://open.spotify.com/album/7gEjV278J9Ty5OzzFrgZiE"
@@ -1213,7 +1213,7 @@
       "url": "https://open.spotify.com/track/0LMmJ14i9xTdsbXDTe32fA"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Lost at 9pm",
         "url": "https://open.spotify.com/album/5gqWklcCpjfqWzc9w4rJUf"
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/3rxfxCbXfNWIn2rwFxPdn8"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Fluctuating Consciousness",
         "url": "https://open.spotify.com/album/3wl8lHdP1NQSoUCZTYvxuM"
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/1QU34oSGR7fkUk8zVTL5Pm"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "L'Amour Toujours (incl. Hernan Cattaneo & Kevin Di Serna Remix)",
         "url": "https://open.spotify.com/album/2mUz0B9eh6ReZ1duL3LfKI"
@@ -1269,7 +1269,7 @@
       "url": "https://open.spotify.com/track/3wiiAMhegqHLBcxGL9Utct"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Todas las formas posibles de guaracha",
         "url": "https://open.spotify.com/album/0AWLDWejt99pQjQ8ovAbQJ"
@@ -1285,7 +1285,7 @@
       "url": "https://open.spotify.com/track/25KyxdqLO8MD1T7A118ZeJ"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "You Understand (Incl. Caitto Remix)",
         "url": "https://open.spotify.com/album/78SyF5KwmirXCa4uIrh8Kx"
@@ -1305,7 +1305,7 @@
       "url": "https://open.spotify.com/track/0UFEplaINFrZZNYpFCdHwO"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Daimoku",
         "url": "https://open.spotify.com/album/4ONwleYCVtCphaYr9hv0gC"
@@ -1325,7 +1325,7 @@
       "url": "https://open.spotify.com/track/67nPbNyYzC57WbGyMxJOSo"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Pinto",
         "url": "https://open.spotify.com/album/6f3AnOqx9larx53QPSArrP"
@@ -1349,7 +1349,7 @@
       "url": "https://open.spotify.com/track/1dreniBF17P2HIn9cdQKSf"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Hypernova (Bob Tosh Remix)",
         "url": "https://open.spotify.com/album/7Apkq3rxfS9uAJWFtX8uEt"
@@ -1369,7 +1369,7 @@
       "url": "https://open.spotify.com/track/5PFhqLagwHERJqszA2MonM"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Bitters & Bread (Agustin Giri Remix)",
         "url": "https://open.spotify.com/album/495LrYqhTXVoZ9IT9gBDEp"
@@ -1393,7 +1393,7 @@
       "url": "https://open.spotify.com/track/5HK9Tcv2G4Fa37O7b55YaF"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Right Place, Right Time",
         "url": "https://open.spotify.com/album/0twzm14CGnFeRwn1tJpPvS"
@@ -1413,7 +1413,7 @@
       "url": "https://open.spotify.com/track/4MmRVFNwsCYmIqYo0TImAj"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Dealer Heat EP",
         "url": "https://open.spotify.com/album/7jW2GyN5B3rY7wUojqhV8y"
@@ -1429,7 +1429,7 @@
       "url": "https://open.spotify.com/track/075ZROSQo3HjlO1lvXtpTP"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "New Opportunity",
         "url": "https://open.spotify.com/album/7gDd4lGvy8TjfbS0AjJp2S"
@@ -1445,7 +1445,7 @@
       "url": "https://open.spotify.com/track/66y15ETMtB3mzKo78fGJIW"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Impetus",
         "url": "https://open.spotify.com/album/33HW8bU05fylO4Dgea6LQj"
@@ -1461,7 +1461,7 @@
       "url": "https://open.spotify.com/track/4MCv2tKMjZ9umshBDKVnPz"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Manada",
         "url": "https://open.spotify.com/album/7KNYpYrWUDEH7KGzveOOYi"
@@ -1481,7 +1481,7 @@
       "url": "https://open.spotify.com/track/7cPTErYBnaeCq4BRMOCoqB"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Glasgow / Riot",
         "url": "https://open.spotify.com/album/1cG4JY9DCL4WVreg68EWjr"
@@ -1497,7 +1497,7 @@
       "url": "https://open.spotify.com/track/50RIEOe4hgWNmtxiHCi7Z7"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/5TzC2DFxBkbEpHwRh6hFkQ"
@@ -1513,7 +1513,7 @@
       "url": "https://open.spotify.com/track/1jtyBiXBUv4ynh0XInlzZE"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Ticket To Ride",
         "url": "https://open.spotify.com/album/4HIlXQlxMO5CUVJkRtgvln"
@@ -1529,7 +1529,7 @@
       "url": "https://open.spotify.com/track/52Iuf0tX0H45WejQHwC6HN"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/12mgeUhTHMNaWcMxNG5xnP"
@@ -1549,7 +1549,7 @@
       "url": "https://open.spotify.com/track/0VPJnjF2TEshtyEwNxBcAA"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Fascination EP",
         "url": "https://open.spotify.com/album/7x1AGYyRgvhrGrvdHV1u23"
@@ -1569,7 +1569,7 @@
       "url": "https://open.spotify.com/track/1EE28gV7VbtkaPxlxnsqbV"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5uE8AE1vl0XmAfbRBJscR7"
@@ -1585,7 +1585,7 @@
       "url": "https://open.spotify.com/track/30dpkvmIMPp2lYhNo26nKq"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/7baeJAKLQjBvkf39u3teM7"
@@ -1605,7 +1605,7 @@
       "url": "https://open.spotify.com/track/22ipHLoSfcQF0nRrFV9Mu4"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Knitting",
         "url": "https://open.spotify.com/album/0T7ePeVsNlQfbuMzVD75Hs"
@@ -1621,7 +1621,7 @@
       "url": "https://open.spotify.com/track/4igeY6Vcaf8NZEI6fRpkju"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Canta la tierra",
         "url": "https://open.spotify.com/album/0NDd6Ig3J5h349Q0hzX42w"
@@ -1645,7 +1645,7 @@
       "url": "https://open.spotify.com/track/0orz2vJbu155qQWw3U2WXe"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "I WIll Do It Again (Coeus Remix)",
         "url": "https://open.spotify.com/album/6rMT6sA2ujnipxwRuVVn44"
@@ -1669,7 +1669,7 @@
       "url": "https://open.spotify.com/track/4ZsBHrjrCA2WEUV0VhShtG"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Hundred Secrets EP",
         "url": "https://open.spotify.com/album/0hZVQP1JYf66JOkQABLTy2"
@@ -1689,7 +1689,7 @@
       "url": "https://open.spotify.com/track/2qiCqr7UJTqWGiLh1Mkv3k"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Solar Reign | Virtual Escape",
         "url": "https://open.spotify.com/album/68StK8Ps3HWU73Do3XwhFe"
@@ -1705,31 +1705,7 @@
       "url": "https://open.spotify.com/track/4lyhpmlKNpMfJrvTadObcV"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
-      "album": {
-        "name": "Lifeline (Hernan Cattaneo & Simply City Remix)",
-        "url": "https://open.spotify.com/album/15kMi4Cc8dQKziRsc6HsgJ"
-      },
-      "artists": [
-        {
-          "name": "J Lauda",
-          "url": "https://open.spotify.com/artist/5lKQ05oFwm17Qlsctpr1BL"
-        },
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        },
-        {
-          "name": "Simply City",
-          "url": "https://open.spotify.com/artist/3MdR0nAA5pQ7DJ72YapcRj"
-        }
-      ],
-      "duration_ms": 238064,
-      "name": "Lifeline - Hernan Cattaneo & Simply City Remix",
-      "url": "https://open.spotify.com/track/5qjcU88QJddF5igdZneGIB"
-    },
-    {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "ReAnimation EP",
         "url": "https://open.spotify.com/album/7s33cENsj5k8o0VHzID87K"
@@ -1745,7 +1721,7 @@
       "url": "https://open.spotify.com/track/43ofk81krK92e5sM12mfPC"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Shadows of Consciousness / White Room",
         "url": "https://open.spotify.com/album/0DimlZahIrvQ9AdKn51nkc"
@@ -1765,7 +1741,7 @@
       "url": "https://open.spotify.com/track/0cxjbvdlo5pNWJWgfOzZir"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Trabalho",
         "url": "https://open.spotify.com/album/6jNIo3VMqDBcLovK8Yk85r"
@@ -1785,7 +1761,7 @@
       "url": "https://open.spotify.com/track/4k9od1orgSdqKzHr3W8YzT"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Haciendo Saturar Remixes",
         "url": "https://open.spotify.com/album/3a3ohZXXEyvWJhfRyA7fff"
@@ -1805,7 +1781,7 @@
       "url": "https://open.spotify.com/track/79WOaiXVf1Bs6tm9VKLe1U"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/1BxxvKyVX85z5HB50C5mh7"
@@ -1821,7 +1797,7 @@
       "url": "https://open.spotify.com/track/6K906xiuKqP7SUug3yorZg"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Rising Dawn",
         "url": "https://open.spotify.com/album/28oBFfFi3NP7NF1UAthhZu"
@@ -1837,7 +1813,7 @@
       "url": "https://open.spotify.com/track/0tn0gK7b5Dua8lfS6ZmgjW"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "What I Do (Acrobatik Remix)",
         "url": "https://open.spotify.com/album/6FmfxhyE8a7xjrK28qEDPq"
@@ -1861,7 +1837,7 @@
       "url": "https://open.spotify.com/track/7tpcW6OE8VI7eryrRhziPG"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Been Here Before",
         "url": "https://open.spotify.com/album/6K7h5Fl6Jtu3kAicTlH6lO"
@@ -1877,7 +1853,7 @@
       "url": "https://open.spotify.com/track/50dt4blYipSqcesDYgn4Kq"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Noche Galactica, Vol. 11 (DJ Mix)",
         "url": "https://open.spotify.com/album/6higzHaZhDAVNtZSLKVDfD"
@@ -1901,7 +1877,7 @@
       "url": "https://open.spotify.com/track/4ah25aaGmCtfPI2Q4qP34X"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Itaewon",
         "url": "https://open.spotify.com/album/6dfyyA3nH77j2MiFIsnV4R"
@@ -1917,7 +1893,7 @@
       "url": "https://open.spotify.com/track/07zE3OGZPveHE8AHA1grlC"
     },
     {
-      "added_at": "2026-04-24 03:01:03",
+      "added_at": "2026-05-13 17:37:33",
       "album": {
         "name": "Campe\u00f3n",
         "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"

@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 78788,
+  "num_followers": 78783,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -244,8 +244,8 @@
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         }
       ],
       "duration_ms": 409986,
@@ -692,8 +692,8 @@
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         }
       ],
       "duration_ms": 333053,
@@ -827,18 +827,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+        "name": "From The Inside Out",
+        "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
       },
       "artists": [
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 294813,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
+      "duration_ms": 256970,
+      "name": "Lead Me To The Cross",
+      "url": "https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -859,22 +863,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "From The Inside Out",
-        "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 256970,
-      "name": "Lead Me To The Cross",
-      "url": "https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f"
+      "duration_ms": 294813,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Land Of The Living (Live)",
-        "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Elyssa Figueroa",
-          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
-        }
-      ],
-      "duration_ms": 421775,
-      "name": "Oh The Cross - Live",
-      "url": "https://open.spotify.com/track/4cRltwg0L1MX78Nu8YTHDG"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Look To The Lamb",
         "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 414391,
       "name": "Look To The Lamb",
       "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Land Of The Living (Live)",
+        "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+        }
+      ],
+      "duration_ms": 421775,
+      "name": "Oh The Cross - Live",
+      "url": "https://open.spotify.com/track/4cRltwg0L1MX78Nu8YTHDG"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Christ to Every Nation",
-        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
-      },
-      "artists": [
-        {
-          "name": "Stillcreek",
-          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
-        }
-      ],
-      "duration_ms": 251408,
-      "name": "Christ to Every Nation",
-      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Good For Nothing",
         "url": "https://open.spotify.com/album/1zRobWXPx0e1cDbHihNfGR"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 208226,
       "name": "Good For Nothing",
       "url": "https://open.spotify.com/track/3VgboIL9HZRZN9umNXAV7r"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 350386,
+      "name": "Come Holy Spirit - Live",
+      "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+        "name": "Christ to Every Nation",
+        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
       },
       "artists": [
         {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+          "name": "Stillcreek",
+          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
         }
       ],
-      "duration_ms": 350386,
-      "name": "Come Holy Spirit - Live",
-      "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
+      "duration_ms": 251408,
+      "name": "Christ to Every Nation",
+      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1339,22 +1339,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Jesus Song (Live)",
-        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
+        "name": "Faithful Now",
+        "url": "https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF"
       },
       "artists": [
         {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        },
-        {
-          "name": "Taylor Gall",
-          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
         }
       ],
-      "duration_ms": 380713,
-      "name": "Jesus Song - Live",
-      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
+      "duration_ms": 232560,
+      "name": "Faithful Now",
+      "url": "https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1379,18 +1375,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Faithful Now",
-        "url": "https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF"
+        "name": "Jesus Song (Live)",
+        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
       },
       "artists": [
         {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        },
+        {
+          "name": "Taylor Gall",
+          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
         }
       ],
-      "duration_ms": 232560,
-      "name": "Faithful Now",
-      "url": "https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6"
+      "duration_ms": 380713,
+      "name": "Jesus Song - Live",
+      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 383293,
+      "name": "Exalted Over All - Live",
+      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Hill Of Grace",
         "url": "https://open.spotify.com/album/7EM6wAlDRK10dRvjVuGPq4"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 427389,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 383293,
-      "name": "Exalted Over All - Live",
-      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 343813,
+      "name": "This We Know - Live",
+      "url": "https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Lamb of God (Live)",
         "url": "https://open.spotify.com/album/42ln43ESFW1uyjF2W3BxuS"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 284760,
       "name": "Savior Of The World - Single Version",
       "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 343813,
-      "name": "This We Know - Live",
-      "url": "https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Wonder Working Power",
-        "url": "https://open.spotify.com/album/4Q8OiIfEB7drI9glY9C37g"
-      },
-      "artists": [
-        {
-          "name": "Southeast Worship",
-          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
-        },
-        {
-          "name": "Taylor Barton",
-          "url": "https://open.spotify.com/artist/2uajyTFCN2VcWMe2L1EUVv"
-        }
-      ],
-      "duration_ms": 226740,
-      "name": "Wonder Working Power",
-      "url": "https://open.spotify.com/track/5BLk4TeZObZerBo3GZKQ09"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Yes He Lives",
         "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
       },
@@ -1651,18 +1631,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Rolled Away (Sunday Edit)",
-        "url": "https://open.spotify.com/album/24zeioYNhFWy9v2WSryXZe"
+        "name": "Wonder Working Power",
+        "url": "https://open.spotify.com/album/4Q8OiIfEB7drI9glY9C37g"
       },
       "artists": [
         {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+          "name": "Southeast Worship",
+          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
+        },
+        {
+          "name": "Taylor Barton",
+          "url": "https://open.spotify.com/artist/2uajyTFCN2VcWMe2L1EUVv"
         }
       ],
-      "duration_ms": 295157,
-      "name": "Rolled Away - Sunday Edit",
-      "url": "https://open.spotify.com/track/09o5CpYZUfXe94FHsRVfDJ"
+      "duration_ms": 226740,
+      "name": "Wonder Working Power",
+      "url": "https://open.spotify.com/track/5BLk4TeZObZerBo3GZKQ09"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1683,6 +1667,22 @@
       "duration_ms": 286481,
       "name": "Nothing But the Blood",
       "url": "https://open.spotify.com/track/0lY7aTxHRprImCO03ueK5d"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Rolled Away (Sunday Edit)",
+        "url": "https://open.spotify.com/album/24zeioYNhFWy9v2WSryXZe"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 295157,
+      "name": "Rolled Away - Sunday Edit",
+      "url": "https://open.spotify.com/track/09o5CpYZUfXe94FHsRVfDJ"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/7tPxeU9EAOLcMGKRQFHEMe"
+      },
+      "artists": [
+        {
+          "name": "Ryan Horton",
+          "url": "https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa"
+        }
+      ],
+      "duration_ms": 459500,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/3JhcteIYMvEeCrAsQkEn1L"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 298640,
       "name": "Bless The One - Live",
       "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/7tPxeU9EAOLcMGKRQFHEMe"
-      },
-      "artists": [
-        {
-          "name": "Ryan Horton",
-          "url": "https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa"
-        }
-      ],
-      "duration_ms": 459500,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/3JhcteIYMvEeCrAsQkEn1L"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "This Is Jesus",
-        "url": "https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks"
-      },
-      "artists": [
-        {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
-        }
-      ],
-      "duration_ms": 317415,
-      "name": "Calvary's Cross",
-      "url": "https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/2YhG64spQTzW1fh4viu37j"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 399622,
       "name": "Name Above The Grave",
       "url": "https://open.spotify.com/track/4HfdA1C25uACbHoHTNBB7M"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "This Is Jesus",
+        "url": "https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks"
+      },
+      "artists": [
+        {
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+        }
+      ],
+      "duration_ms": 317415,
+      "name": "Calvary's Cross",
+      "url": "https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
-      },
-      "artists": [
-        {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
-        }
-      ],
-      "duration_ms": 273439,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Faith And Wonder (Live)",
         "url": "https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 359374,
       "name": "Who Could (Live)",
       "url": "https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
+      },
+      "artists": [
+        {
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+        }
+      ],
+      "duration_ms": 273439,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Kingdom Come (Live)",
-        "url": "https://open.spotify.com/album/4i91anP2DihutCCgI2lyhv"
-      },
-      "artists": [
-        {
-          "name": "Life Church Music",
-          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
-        }
-      ],
-      "duration_ms": 216962,
-      "name": "Kingdom Come (Live)",
-      "url": "https://open.spotify.com/track/0pyV6VNIlFlJ4EEZhwUG2X"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Zion (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Kingdom Come (Live)",
+        "url": "https://open.spotify.com/album/4i91anP2DihutCCgI2lyhv"
+      },
+      "artists": [
+        {
+          "name": "Life Church Music",
+          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
+        }
+      ],
+      "duration_ms": 216962,
+      "name": "Kingdom Come (Live)",
+      "url": "https://open.spotify.com/track/0pyV6VNIlFlJ4EEZhwUG2X"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "The Beautiful Cross (Live)",
-        "url": "https://open.spotify.com/album/44AnurrnwQuZhFKioMoURi"
-      },
-      "artists": [
-        {
-          "name": "Mark & Sarah Tillman",
-          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
-        },
-        {
-          "name": "Jake MacAdam",
-          "url": "https://open.spotify.com/artist/2P70gIAc2Zw5kXIMtbPoaH"
-        }
-      ],
-      "duration_ms": 287248,
-      "name": "The Beautiful Cross - Live",
-      "url": "https://open.spotify.com/track/5UDb27b5CSfRfkehK2KIND"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
@@ -2175,6 +2155,26 @@
       "duration_ms": 411000,
       "name": "So Will I (100 Billion X)",
       "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "The Beautiful Cross (Live)",
+        "url": "https://open.spotify.com/album/44AnurrnwQuZhFKioMoURi"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        },
+        {
+          "name": "Jake MacAdam",
+          "url": "https://open.spotify.com/artist/2P70gIAc2Zw5kXIMtbPoaH"
+        }
+      ],
+      "duration_ms": 287248,
+      "name": "The Beautiful Cross - Live",
+      "url": "https://open.spotify.com/track/5UDb27b5CSfRfkehK2KIND"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2211,22 +2211,6 @@
       "duration_ms": 333386,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "With/In",
-        "url": "https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Our God Is Alive",
-      "url": "https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2275,6 +2259,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "With/In",
+        "url": "https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Our God Is Alive",
+      "url": "https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -2295,38 +2295,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Behold Him",
-        "url": "https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy"
+        "name": "Land of the Living (Live)",
+        "url": "https://open.spotify.com/album/4CVXOAkmstbNySWmp5LXIx"
       },
       "artists": [
         {
-          "name": "Paul Baloche",
-          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
         }
       ],
-      "duration_ms": 281413,
-      "name": "Behold Him",
-      "url": "https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Hope Is Awake",
-        "url": "https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 318473,
-      "name": "Hope Is Awake",
-      "url": "https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb"
+      "duration_ms": 325701,
+      "name": "Rest on Us - Live",
+      "url": "https://open.spotify.com/track/5hbyxp9uM2iLSUTi5swnV3"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2375,6 +2355,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Hope Is Awake",
+        "url": "https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 318473,
+      "name": "Hope Is Awake",
+      "url": "https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -2395,6 +2391,26 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Behold Him",
+        "url": "https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy"
+      },
+      "artists": [
+        {
+          "name": "Paul Baloche",
+          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 281413,
+      "name": "Behold Him",
+      "url": "https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Death Was Arrested",
         "url": "https://open.spotify.com/album/6S0HZLGlyWy8mB8nhkKVn4"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 293331,
       "name": "Death Was Arrested",
       "url": "https://open.spotify.com/track/2HFi7awvXr2IPFX1j2D9IA"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Land of the Living (Live)",
-        "url": "https://open.spotify.com/album/4CVXOAkmstbNySWmp5LXIx"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        }
-      ],
-      "duration_ms": 325701,
-      "name": "Rest on Us - Live",
-      "url": "https://open.spotify.com/track/5hbyxp9uM2iLSUTi5swnV3"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/52PYPu1gsuo3r27WDWTnb2"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 293720,
-      "name": "Messiah / You're Beautiful",
-      "url": "https://open.spotify.com/track/0W5TB5VNs0J16suh3r67P1"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "To the One",
         "url": "https://open.spotify.com/album/4OhRAM6ypyVkxEqO7wy4xt"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 448808,
       "name": "To the One (Live)",
       "url": "https://open.spotify.com/track/7aJeq9pEDHSxOA1xcRlT9u"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/52PYPu1gsuo3r27WDWTnb2"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 293720,
+      "name": "Messiah / You're Beautiful",
+      "url": "https://open.spotify.com/track/0W5TB5VNs0J16suh3r67P1"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2539,18 +2539,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Way Maker (Live)",
-        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
         }
       ],
-      "duration_ms": 500500,
-      "name": "Waymaker (Live)",
-      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
+      "duration_ms": 202624,
+      "name": "Better Word - Single Version",
+      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2571,6 +2571,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Way Maker (Live)",
+        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 500500,
+      "name": "Waymaker (Live)",
+      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Million Lifetimes",
         "url": "https://open.spotify.com/album/6c0wkMQRpJeXiDgv74lklV"
       },
@@ -2583,22 +2599,6 @@
       "duration_ms": 288986,
       "name": "Hope Has a Name",
       "url": "https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "Better Word - Single Version",
-      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
     },
     {
       "added_at": "2026-04-04 06:11:10",

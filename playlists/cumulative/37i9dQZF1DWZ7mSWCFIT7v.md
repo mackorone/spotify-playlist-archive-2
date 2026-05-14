@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-594 songs - 1 day 23 hr 31 min
+595 songs - 1 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Aqua Beast](https://open.spotify.com/track/52SFP6FbRYlIdEEVeHho6m) | [Ilya Gurin\-Babayeu](https://open.spotify.com/artist/6dx0SIZSjYH5sbqTQ1fItS) | [GAME\-O](https://open.spotify.com/album/2qCok0WxYFPabb3rK8JqTt) | 5:12 | 2025-07-30 | 2025-10-25 |
 | [Archaeans](https://open.spotify.com/track/1kHbjqdVYRQZHwI1abKgEj) | [Domingæ](https://open.spotify.com/artist/43UALB725slLtqdyze6RZp) | [Archaeans](https://open.spotify.com/album/0bUfKOHhJQGTEn59ZatDFy) | 4:22 | 2021-10-06 | 2025-07-17 |
 | [Archipelago](https://open.spotify.com/track/1BR8BSWk384I8bubLo54Yf) | [Los Pulpitos](https://open.spotify.com/artist/7ABaeJZHvaqUVZpvI0ohgO) | [Archipelago](https://open.spotify.com/album/2GN2JNhReSLx4RmSTUAPQN) | 4:12 | 2025-06-20 | 2025-10-11 |
+| [Arp Angels](https://open.spotify.com/track/0yHU14vhz98spCJzaKHdK7) | [Discovery Zone](https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt), [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Arp Angels](https://open.spotify.com/album/7ERxaYlFTnLGN5r5gxSzrJ) | 6:02 | 2026-05-13 |  |
 | [Arpeggi](https://open.spotify.com/track/5c30Lqd4zY3dpMK2usb9yU) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7) | 4:45 | 2021-10-06 | 2025-07-31 |
 | [Arpeggi](https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 4:45 | 2021-10-06 | 2024-04-19 |
 | [Arrival](https://open.spotify.com/track/2viTyPYxXYaPDF2ktsI5QN) | [Lodzy](https://open.spotify.com/artist/210SAMFdPHWUdxUdrtLMnt) | [Arrival](https://open.spotify.com/album/5JOfkQJiThzaywp0yMH1bU) | 4:26 | 2025-06-06 | 2025-10-11 |
@@ -450,7 +451,7 @@
 | [Situation](https://open.spotify.com/track/27tZEHD9GHnZpH6h7vXB1F) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [In Situ](https://open.spotify.com/album/2n6gIMQKyacV5zPrhE9XCm) | 4:29 | 2021-10-06 | 2025-06-07 |
 | [Skyline 4](https://open.spotify.com/track/0NPc0aoXeit86d258AxRqw) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [GULP](https://open.spotify.com/album/1kBPEN3NIVwjdmIjjNk9vB) | 4:51 | 2025-07-09 | 2026-05-09 |
 | [Slice of Life](https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn) | [usr/friendly](https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE), [Oketo](https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg) | [This Is An Advertisement](https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9) | 3:19 | 2022-01-12 | 2025-07-17 |
-| [slk](https://open.spotify.com/track/3iHzaYi63LNmpCIyYwelKq) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [slk](https://open.spotify.com/album/7mX1PuRdAWQ8y8Cql8II7a) | 5:00 | 2025-11-03 |  |
+| [slk](https://open.spotify.com/track/3iHzaYi63LNmpCIyYwelKq) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [slk](https://open.spotify.com/album/7mX1PuRdAWQ8y8Cql8II7a) | 5:00 | 2025-11-03 | 2026-05-14 |
 | [Slow Worm](https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Slow Worm](https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC) | 2:32 | 2024-07-02 | 2025-06-07 |
 | [So](https://open.spotify.com/track/3Meh830NxXhLpEFD9GMnDR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [So](https://open.spotify.com/album/3BFw4nu743hg3NE3BkuJ1n) | 3:09 | 2026-04-24 |  |
 | [Soft Gaiden](https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh) | [Brin](https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp) | [Homescreen Glow](https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr) | 5:26 | 2021-10-06 | 2024-04-19 |

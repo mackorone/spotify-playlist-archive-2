@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Winona Fighter
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,988 likes - 125 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,977 likes - 125 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 37 | [Dance In The USA](https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Dance In The USA](https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg) | 2:59 |
 | 38 | [Underrated](https://open.spotify.com/track/6d1Zurp6nbAdUztdtu3XEF) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Underrated](https://open.spotify.com/album/1sI5zExyPAZDiL4GYrKeGC) | 3:29 |
 | 39 | [Opportunity Arising](https://open.spotify.com/track/4XQmgpVjo7mgZu68ACPQoJ) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Measly Means](https://open.spotify.com/album/0X6XnhqszaIiNdhAWg1QHJ) | 3:41 |
-| 40 | [Otherside of Town](https://open.spotify.com/track/0x6uXHRKMHjvaByp8BUWnj) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Otherside of Town](https://open.spotify.com/album/65PviIp6U5qtZd7Go0mN5v) | 2:51 |
+| 40 | [Other Side of Town](https://open.spotify.com/track/0x6uXHRKMHjvaByp8BUWnj) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Otherside of Town](https://open.spotify.com/album/65PviIp6U5qtZd7Go0mN5v) | 2:51 |
 | 41 | [Screwdark](https://open.spotify.com/track/6jDEJCBicEVTQGK0N91iuU) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [Screwdark](https://open.spotify.com/album/42P3ZVoYKElog78pE5qFFS) | 2:39 |
 | 42 | [Barely Here](https://open.spotify.com/track/31JIr6kHiX8KOJB3M0XeLF) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Barely Here](https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U) | 2:44 |
 | 43 | [Lay With Me](https://open.spotify.com/track/0iIl6Cl9FzwXTEK9LDyyMH) | [Forest](https://open.spotify.com/artist/4yhFkgZya8FbiBkJU7t5j6) | [Lay With Me](https://open.spotify.com/album/2dILXWBmcrOoCk9uDaUqwI) | 2:47 |

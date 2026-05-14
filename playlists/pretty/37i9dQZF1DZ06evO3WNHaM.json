@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 494552,
+  "num_followers": 494718,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAADkOXsTLRAahVJfjYMzcqnd",
+  "snapshot_id": "agJtgAAAAADyy+kVsdKvRjmrLKg1Z4my",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 368666,
-      "name": "Passenger",
-      "url": "https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 211733,
       "name": "Around the Fur",
       "url": "https://open.spotify.com/track/3Fwe3XoPOiyWUPYdBKMTqV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 368666,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 170941,
-      "name": "my mind is a mountain",
-      "url": "https://open.spotify.com/track/0DMU0QiSypeYxL6BYdxjcy"
+      "duration_ms": 164986,
+      "name": "Swerve City",
+      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 164986,
-      "name": "Swerve City",
-      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
+      "duration_ms": 170941,
+      "name": "my mind is a mountain",
+      "url": "https://open.spotify.com/track/0DMU0QiSypeYxL6BYdxjcy"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 248893,
-      "name": "Leathers",
-      "url": "https://open.spotify.com/track/0RLhtEt50QUwKXNwKI4dSJ"
+      "duration_ms": 278106,
+      "name": "Romantic Dreams",
+      "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 278106,
-      "name": "Romantic Dreams",
-      "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ"
+      "duration_ms": 248893,
+      "name": "Leathers",
+      "url": "https://open.spotify.com/track/0RLhtEt50QUwKXNwKI4dSJ"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The best new music by independent artists and labels, featuring Grupo Ajedrez",
+  "description": "The best new music by independent artists and labels, featuring Vanita Leo",
   "name": "Fresh Finds M\u00fasica Mexicana ",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 178022,
       "name": "24/7",
       "url": "https://open.spotify.com/track/3Tsf8uT2BbrUcU3xD0IpLy"
@@ -291,6 +291,46 @@
     },
     {
       "album": {
+        "name": "70 Calaveras",
+        "url": "https://open.spotify.com/album/6os2eNRrFvGbjrrTrznRLE"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171101,
+      "name": "70 Calaveras",
+      "url": "https://open.spotify.com/track/485cqkO6xukRmot0SBlvSb"
+    },
+    {
+      "album": {
+        "name": "700 Millas",
+        "url": "https://open.spotify.com/album/52LQkTRtW7v0MWPMmg1ajG"
+      },
+      "artists": [
+        {
+          "name": "Operativo JT",
+          "url": "https://open.spotify.com/artist/0pwnl4csnCqMvA3LoMbN8B"
+        },
+        {
+          "name": "Ilusi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NqbvouIKHznONQAYK2Zvo"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166968,
+      "name": "700 Millas",
+      "url": "https://open.spotify.com/track/3NmwlGfd8TSmfb52jhbhwY"
+    },
+    {
+      "album": {
         "name": "77",
         "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
       },
@@ -324,7 +364,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 177313,
       "name": "772 Love, Pt. 2",
       "url": "https://open.spotify.com/track/2lt75pwepsCMvzsNzFDnx6"
@@ -720,7 +760,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 157958,
       "name": "Amor Barato",
       "url": "https://open.spotify.com/track/0naN2BJF6oNF4DCmueGCiI"
@@ -876,6 +916,24 @@
       "duration_ms": 199000,
       "name": "Aromaterapia",
       "url": "https://open.spotify.com/track/7A1CxQf6JtyblxU0Jw5KEO"
+    },
+    {
+      "album": {
+        "name": "Asi Me Toco",
+        "url": "https://open.spotify.com/album/4zbwx3GVYdEXLxgtgjb1oG"
+      },
+      "artists": [
+        {
+          "name": "AM\u00d8RA G",
+          "url": "https://open.spotify.com/artist/3zwogaMnI4Vtdoa9Oz9Slx"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212223,
+      "name": "Asi Me Toco",
+      "url": "https://open.spotify.com/track/2eF9QAwZQpvC4W7W64oHF4"
     },
     {
       "album": {
@@ -1376,7 +1434,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 168234,
       "name": "Black Hat GZR",
       "url": "https://open.spotify.com/track/1WCPT1bF1rHd0pA9gYaRVq"
@@ -1456,7 +1514,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 176106,
       "name": "Blue Label",
       "url": "https://open.spotify.com/track/6s0eQ3Qu012386r7mvKAyC"
@@ -1670,7 +1728,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 126259,
       "name": "CACHE",
       "url": "https://open.spotify.com/track/7nY4ssDRP0M7q7KymDxVGi"
@@ -1783,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Canto Y No Lloro",
+        "url": "https://open.spotify.com/album/5MnJ1EUC5N0JK1WSvY9mhX"
+      },
+      "artists": [
+        {
+          "name": "Grupo RYE",
+          "url": "https://open.spotify.com/artist/5bN6BTVdgv8Ykc0No1RNtv"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172977,
+      "name": "Canto Y No Lloro",
+      "url": "https://open.spotify.com/track/5miDxmeNkPk4Y6QrfVzVgs"
+    },
+    {
+      "album": {
         "name": "CAPITAN",
         "url": "https://open.spotify.com/album/0WewY62tKhjGvwMq6RF2YE"
       },
@@ -1892,7 +1968,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 180608,
       "name": "Cero Compromiso",
       "url": "https://open.spotify.com/track/6OnJ5oEvTDFn4lhWYDhvCX"
@@ -2759,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "De Una Vez",
+        "url": "https://open.spotify.com/album/1CVF4Aae9E5gTY3yORnVs9"
+      },
+      "artists": [
+        {
+          "name": "Vanita Leo",
+          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "De Una Vez",
+      "url": "https://open.spotify.com/track/4gyV7NTXXFrX8hlNNasu9W"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/7b68NdgO87wkHjVSAX2Dk8"
       },
@@ -2817,6 +2911,28 @@
     },
     {
       "album": {
+        "name": "Desaparezco",
+        "url": "https://open.spotify.com/album/0LFpwBCMSwLLXdvLvv47S0"
+      },
+      "artists": [
+        {
+          "name": "LINEA ALTA",
+          "url": "https://open.spotify.com/artist/6VbazDH12lIzW0bHTDvDcw"
+        },
+        {
+          "name": "Bullet Loko",
+          "url": "https://open.spotify.com/artist/0W8vYljgqvfxofbmvWP8u1"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166504,
+      "name": "Desaparezco",
+      "url": "https://open.spotify.com/track/6CNTKO6TAuLIhq0b13qM5z"
+    },
+    {
+      "album": {
         "name": "Desde Cero",
         "url": "https://open.spotify.com/album/3zjuLcHKQlQjk7Eu6oeoMl"
       },
@@ -2868,6 +2984,24 @@
       "duration_ms": 158476,
       "name": "DETALLONES",
       "url": "https://open.spotify.com/track/6UT0QjzzvLOcdWOOClA02d"
+    },
+    {
+      "album": {
+        "name": "DF",
+        "url": "https://open.spotify.com/album/5VfVUdkWArHbAoJlyeAmG0"
+      },
+      "artists": [
+        {
+          "name": "El Wiko",
+          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109375,
+      "name": "DF",
+      "url": "https://open.spotify.com/track/0br9w6chPqkiPymlhvwhEd"
     },
     {
       "album": {
@@ -3513,6 +3647,24 @@
     },
     {
       "album": {
+        "name": "El Monstruo Mexicano",
+        "url": "https://open.spotify.com/album/3n9rUwPpVN8jSMWB6P2wLL"
+      },
+      "artists": [
+        {
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201515,
+      "name": "El Monstruo Mexicano",
+      "url": "https://open.spotify.com/track/7gum3gJdoxhHQHd6oIJxgO"
+    },
+    {
+      "album": {
         "name": "Vuelo Hacia Ti",
         "url": "https://open.spotify.com/album/4n1IVcK68DF49rdtk9rbFc"
       },
@@ -3546,6 +3698,24 @@
       "duration_ms": 146571,
       "name": "El Muchacho de la Sierra",
       "url": "https://open.spotify.com/track/3KdV5gciau4Zqb2UHQPg0B"
+    },
+    {
+      "album": {
+        "name": "El Pajarillo",
+        "url": "https://open.spotify.com/album/1tR4f1JVZeNwm914KsD7Gs"
+      },
+      "artists": [
+        {
+          "name": "Angel Trino",
+          "url": "https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253423,
+      "name": "El Pajarillo",
+      "url": "https://open.spotify.com/track/2AzqUNC3BEtqpHhnbuM7Q3"
     },
     {
       "album": {
@@ -5283,6 +5453,24 @@
     },
     {
       "album": {
+        "name": "La Culpable",
+        "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237005,
+      "name": "La Culpable",
+      "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
+    },
+    {
+      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
@@ -6846,7 +7034,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 175721,
       "name": "Moctezuma",
       "url": "https://open.spotify.com/track/0oYHuGgrotGm8XeHCAdf81"
@@ -6980,7 +7168,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 228994,
       "name": "Mr. Make It Happen",
       "url": "https://open.spotify.com/track/4Dyht9NcFwLHZG1uxUmWnI"
@@ -10288,7 +10476,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 195721,
       "name": "Tantas Veces",
       "url": "https://open.spotify.com/track/5VHuFhhmpXKZZ5zkRVEu3b"
@@ -10680,6 +10868,28 @@
       "duration_ms": 191096,
       "name": "TOMEN NOTA",
       "url": "https://open.spotify.com/track/3cy0Vn09SjqWriCCFAZDC3"
+    },
+    {
+      "album": {
+        "name": "TRAJE DIOR",
+        "url": "https://open.spotify.com/album/0AeunG5npw5Yj62RWOBON7"
+      },
+      "artists": [
+        {
+          "name": "Agushto Papa",
+          "url": "https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS"
+        },
+        {
+          "name": "Los Ahijados 815",
+          "url": "https://open.spotify.com/artist/3OdLrpXRZN2cy2I9B19gPY"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116033,
+      "name": "TRAJE DIOR",
+      "url": "https://open.spotify.com/track/562ELgkIE21EumNa5u2PMK"
     },
     {
       "album": {
@@ -11278,7 +11488,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 154506,
       "name": "Una Vez Y Ya",
       "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"

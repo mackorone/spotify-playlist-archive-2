@@ -1,6 +1,6 @@
 {
   "description": "Embrace those happy vibes with these feel-good hits!",
-  "num_followers": 399760,
+  "num_followers": 399756,
   "original_name": "Happy Pop",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Fearless (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Who You Are (Platinum Edition)",
         "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 223053,
       "name": "Price Tag",
       "url": "https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "Fearless (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Starving",
         "url": "https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 181880,
       "name": "Starving",
       "url": "https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Crimes Of Passion",
-        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
-      },
-      "artists": [
-        {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Hit Me With Your Best Shot",
-      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
+        "name": "Crimes Of Passion",
+        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
         }
       ],
-      "duration_ms": 170813,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
+      "duration_ms": 171266,
+      "name": "Hit Me With Your Best Shot",
+      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Postcards From Heaven",
-        "url": "https://open.spotify.com/album/0yt5HBehM950wQDBIIcldi"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
       },
       "artists": [
         {
-          "name": "Lighthouse Family",
-          "url": "https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 308333,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0AQHfKjzky28rf5ytfBANJ"
+      "duration_ms": 170813,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
+        "name": "Postcards From Heaven",
+        "url": "https://open.spotify.com/album/0yt5HBehM950wQDBIIcldi"
+      },
+      "artists": [
+        {
+          "name": "Lighthouse Family",
+          "url": "https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ"
+        }
+      ],
+      "duration_ms": 308333,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0AQHfKjzky28rf5ytfBANJ"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
         "name": "Take You Dancing",
         "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 225960,
       "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -1363,22 +1363,22 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt"
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 212868,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN"
+      "duration_ms": 202245,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
     }
   ],
   "unique_name": "Happy Pop",

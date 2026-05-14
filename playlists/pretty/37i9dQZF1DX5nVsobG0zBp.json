@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Papillon ",
-  "num_followers": 84469,
+  "num_followers": 84495,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7"
+      },
+      "artists": [
+        {
+          "name": "Yuri NR5",
+          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
         "name": "ROSAS",
         "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 177272,
       "name": "ROSAS",
       "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
-        "name": "S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7"
-      },
-      "artists": [
-        {
-          "name": "Yuri NR5",
-          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1"
+        "name": "Devia Ir",
+        "url": "https://open.spotify.com/album/1Sg69oASUTiS8NM0XlGqaZ"
       },
       "artists": [
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 192631,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
+      "duration_ms": 293748,
+      "name": "Devia Ir",
+      "url": "https://open.spotify.com/track/1ftBvRj542ol7LT1A0EtL7"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Devia Ir",
-        "url": "https://open.spotify.com/album/1Sg69oASUTiS8NM0XlGqaZ"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 293748,
-      "name": "Devia Ir",
-      "url": "https://open.spotify.com/track/1ftBvRj542ol7LT1A0EtL7"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "Menino da Mam\u00e3",
         "url": "https://open.spotify.com/album/5lOZhbXTGbap6fbeqJhpDz"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 160015,
       "name": "Menino da Mam\u00e3",
       "url": "https://open.spotify.com/track/12giMqnkKs2qruB6IVqshu"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 192631,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1319,6 +1319,22 @@
       "duration_ms": 163862,
       "name": "Picareta",
       "url": "https://open.spotify.com/track/29aqbuYYooVNgqzcOKhwbK"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "Bairro",
+        "url": "https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 258590,
+      "name": "Bairro",
+      "url": "https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1355,22 +1371,6 @@
       "duration_ms": 260800,
       "name": "Vencedor",
       "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
-        "name": "Bairro",
-        "url": "https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 258590,
-      "name": "Bairro",
-      "url": "https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz"
     },
     {
       "added_at": "2026-01-12 15:23:48",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: KIIRAS)",
+  "description": "Future K-Pop hits! (Cover: JINYOUNG)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 200089,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l"
@@ -3772,7 +3772,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 252800,
       "name": "Breaking Through",
       "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
@@ -8521,6 +8521,24 @@
     },
     {
       "album": {
+        "name": "Said & Done",
+        "url": "https://open.spotify.com/album/1TnfxlOrAmE8d2ThZxYNnm"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "EVERLOVE",
+      "url": "https://open.spotify.com/track/1KWKmkMB8vnB4BvJdVIQuJ"
+    },
+    {
+      "album": {
         "name": "Every Moment With You",
         "url": "https://open.spotify.com/album/3lqsRjiQWCyXoDHPGH5vhw"
       },
@@ -11052,7 +11070,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 218000,
       "name": "Good Day (Feat. Jay Park, 1iL)",
       "url": "https://open.spotify.com/track/4lveRzAWbl6pNLITlfiW9A"
@@ -13578,7 +13596,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 171000,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/5JJl9DV0DAg5ekxnBSqZyO"
@@ -21181,6 +21199,24 @@
     },
     {
       "album": {
+        "name": "INYUN Part.1",
+        "url": "https://open.spotify.com/album/5LgCRrc9Ew4Vz1tgCr1QMM"
+      },
+      "artists": [
+        {
+          "name": "YOUNITE",
+          "url": "https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "POSE! (\u59ff\u614b)",
+      "url": "https://open.spotify.com/track/0xCuNHv88Mdyigv64zOexH"
+    },
+    {
+      "album": {
         "name": "96",
         "url": "https://open.spotify.com/album/2kAA71fuWIvHSJ2FfD2Pjg"
       },
@@ -28719,6 +28755,24 @@
     },
     {
       "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/1LRDEk3bmvqWGBvRMCfzgb"
+      },
+      "artists": [
+        {
+          "name": "NOWZ",
+          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/5r5skMXXVwTbQy6r6NgQD9"
+    },
+    {
+      "album": {
         "name": "SWEET DREAM",
         "url": "https://open.spotify.com/album/78sWCAEgt78WNRfwkGijgX"
       },
@@ -29454,6 +29508,24 @@
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+    },
+    {
+      "album": {
+        "name": "YOUTH ERROR",
+        "url": "https://open.spotify.com/album/554ZAVXkeiPlgSpcpf0Mnj"
+      },
+      "artists": [
+        {
+          "name": "FLARE U",
+          "url": "https://open.spotify.com/artist/2v3JmjJAF2a8JRUft5sOod"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "WAY 2 U",
+      "url": "https://open.spotify.com/track/4FsqRuZd7lPLSKGqy8skuS"
     },
     {
       "album": {
@@ -30987,6 +31059,24 @@
     },
     {
       "album": {
+        "name": "Yarrr",
+        "url": "https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166999,
+      "name": "Yarrr",
+      "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"
+    },
+    {
+      "album": {
         "name": "SPECIAL MINI ALBUM [PLEASURE]",
         "url": "https://open.spotify.com/album/4Ek59vEmWeKZTWgFbWNZlL"
       },
@@ -31794,7 +31884,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 162000,
       "name": "\ub208\uc5d0 \uac70\uc2ac\ub9ac\uace0 \uc2f6\uc5b4 (Eye-Poppin')",
       "url": "https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC"

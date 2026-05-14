@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,871 likes - 120 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,956 likes - 120 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 51 | [Uprising Gamma 146hz](https://open.spotify.com/track/40lux2m9G8S9TchpAJeEa8) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Uprising Gamma 146hz](https://open.spotify.com/album/5sfopZ98oDYt19FW8tuk5m) | 2:52 |
 | 52 | [Endless Arabic Desert](https://open.spotify.com/track/4sTW8YNbQe6i6EpGs3vFoR) | [Emily Featherly](https://open.spotify.com/artist/45BvDv1nb4RMNzetiujRGA) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 3:45 |
 | 53 | [Where Silence Heals](https://open.spotify.com/track/4DrU5AIgI9aCf5TRomj5T8) | [Ocealis](https://open.spotify.com/artist/6bTSQUJFV2QX32Hx639Ht1) | [Where Silence Heals](https://open.spotify.com/album/26B5JB0X8l53PrLk9STVx3) | 3:22 |
-| 54 | [Dreaming of Arabia](https://open.spotify.com/track/0rjWngexJxYIMQktacJMSD) | [Briar Birchmead](https://open.spotify.com/artist/77cX9tYU49wHFR3jSOg5bE) | [Arabian Spa \(Middle Eastern Music\)](https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX) | 3:47 |
+| 54 | [Softrealm of Arabia](https://open.spotify.com/track/0rjWngexJxYIMQktacJMSD) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Arabian Therapeutic Escape](https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX) | 3:47 |
 | 55 | [Calyphora Sky](https://open.spotify.com/track/61RaEvriQ3vWcMt7GIu45b) | [Galaxarastra](https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b) | [Calyphora Sky](https://open.spotify.com/album/64p5GNydwd9FoJGEP8QplF) | 2:42 |
 | 56 | [Maitri Lake \(432hz\) \- without ambience](https://open.spotify.com/track/24cX7yJ9Mrqn6Y1LnkCfDH) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Maitri Lake \(432hz\)](https://open.spotify.com/album/71rEntjg6kz31bN6xUrAHe) | 3:43 |
 | 57 | [Daybreak Undone](https://open.spotify.com/track/1HvED1bePoJRdBVwTFPqba) | [Matsyendrasana](https://open.spotify.com/artist/5dI5W68twpm551EsblOx8m) | [Daybreak Undone](https://open.spotify.com/album/2lG7zFIt146SyyTctUJk6K) | 2:24 |

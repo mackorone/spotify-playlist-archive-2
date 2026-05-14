@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Loathe
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,044 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,007 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 87 | [Iron Gate](https://open.spotify.com/track/3hxOUdnf1zeY2RoH7ozob5) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Labyrinthine](https://open.spotify.com/album/3WOLRTjNMQBPzHB1wgFYev) | 4:01 |
 | 88 | [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/track/0m6wHoCD76aMVrKr5NWeHU) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/album/1LqHo7nmaZhSAoYAnk6tA4) | 4:22 |
 | 89 | [This Is The Sound](https://open.spotify.com/track/5u3LQf7tg1eS2AEGyguDPa) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [This Is The Sound](https://open.spotify.com/album/37Ixky407QDvoGFDx1vmrC) | 2:57 |
-| 90 | [Nerve](https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Nerve](https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE) | 5:52 |
-| 91 | [Of Her](https://open.spotify.com/track/2415zlo33NvXzYSZEH61s5) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 1:33 |
+| 90 | [Of Her](https://open.spotify.com/track/2415zlo33NvXzYSZEH61s5) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 1:33 |
+| 91 | [Nerve](https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Nerve](https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE) | 5:52 |
 | 92 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 |
 | 93 | [Hype Man](https://open.spotify.com/track/4eTN4kEeexKdkAE804WJfv) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Hype Man](https://open.spotify.com/album/2Gmcj6USDIZh2tGg0Z3068) | 4:08 |
 | 94 | [Twilight Cabaret](https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry) | 3:55 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 97 | [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 |
 | 98 | [\(sic\) \- Ulrich Wild Mix](https://open.spotify.com/track/1Ti2u8of40rQqQiVnJq5t0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(25th Anniversary Edition\)](https://open.spotify.com/album/24uSmiCdGfRf5MReMeWvmO) | 3:27 |
 | 99 | [Like the Fourth Wall](https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3) | [BLACKSHAPE](https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH) | [Like the Fourth Wall](https://open.spotify.com/album/2ZG0myg8s6IjllpeN6riOs) | 5:43 |
-| 100 | [Deceptacon](https://open.spotify.com/track/5yUmpwhdcXHoedujODeAlG) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Deceptacon](https://open.spotify.com/album/7DpbAouDpH4cMwQxZ8zGrc) | 3:13 |
+| 100 | [PUT A HIT ON](https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK) | [MUTTLEE](https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L) | [PUT A HIT ON](https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2) | 2:54 |
 
 Snapshot ID: `AAAAACyEJqviHnXL78y+tcaMfWxA6O3E`

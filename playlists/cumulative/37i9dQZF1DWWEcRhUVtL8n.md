@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: MUNA
 
-2,395 songs - 5 day 7 hr 36 min
+2,396 songs - 5 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,7 +1069,7 @@
 | [I'll Be There](https://open.spotify.com/track/3C9l4bgVhBjEwFergPZIjU) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [I'll Be There](https://open.spotify.com/album/2UMwb26oqZr3HXk8JKz3t3) | 3:27 | 2021-02-28 | 2021-10-16 |
 | [I'll Call You Mine](https://open.spotify.com/track/0cH6s5bw1BS4hL06hmUO6F) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:21 | 2021-06-04 | 2022-07-29 |
 | [I'll Call You Mine](https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:21 | 2022-10-07 | 2022-12-10 |
-| [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-06 |  |
+| [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-06 | 2026-05-14 |
 | [I'll come back to you](https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Lady Love](https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx) | 3:13 | 2026-03-06 | 2026-03-22 |
 | [i'm busy](https://open.spotify.com/track/5WMym0tnIA4jkBvyl5KmXr) | [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [i'm busy](https://open.spotify.com/album/1tpx9WDPwZkFWnHNZr85pU) | 2:48 | 2020-11-13 | 2021-05-28 |
 | [I'm Enough \(with Katie Gavin\)](https://open.spotify.com/track/6JSvMqV3e3TjzkYkAGYwu1) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq), [Katie Gavin](https://open.spotify.com/artist/0YKOKKfXkVOrizPVSbGQ01) | [I'm Enough \(with Katie Gavin\)](https://open.spotify.com/album/12EGghSTPlxGOFrfgvtk2l) | 3:02 | 2021-02-09 | 2022-04-11 |
@@ -1079,6 +1079,7 @@
 | [I'm Not In Love](https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/10VeT6WRqObxGPOirjcank) | 1:37 | 2022-06-17 | 2022-10-13 |
 | [I'm Not In Love](https://open.spotify.com/track/7gEw6TDaj60NOibnidPBix) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/6nqKQaJR7WETXh4s176M3K) | 1:37 | 2022-10-28 | 2022-12-22 |
 | [I'm Not Okay \(feat\. meija\)](https://open.spotify.com/track/09USLRwzsSitztRekqWpM3) | [Tyzo Bloom](https://open.spotify.com/artist/38fu1DhmEN33ALaBa7jGhI), [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Random Thoughts](https://open.spotify.com/album/2nTBFr520WwBWIsJvR4Hfc) | 3:55 | 2020-11-13 | 2021-01-15 |
+| [I'm Perfect](https://open.spotify.com/track/0AhwAd4wVcIBOAlsS6PhVn) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [I'm Perfect](https://open.spotify.com/album/60Hvs9ZxGolkuc4sPafLY1) | 2:36 | 2026-05-01 |  |
 | [I'M SCARED](https://open.spotify.com/track/0rkpvtBvgYH9VPgJFw0Paj) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [PLEASE HELP ME..\. Part 1](https://open.spotify.com/album/4p00pudzSjGeQXQKD981gQ) | 3:00 | 2024-05-17 | 2024-05-25 |
 | [I'm So Bored](https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [The Living End](https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B) | 3:28 | 2022-12-09 | 2023-07-29 |
 | [Icarus](https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Icarus](https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn) | 4:25 | 2026-03-27 |  |

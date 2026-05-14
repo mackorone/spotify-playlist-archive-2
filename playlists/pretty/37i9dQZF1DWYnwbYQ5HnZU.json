@@ -1,6 +1,6 @@
 {
   "description": "Spotify country fan favorites. Cover: Jon Pardi",
-  "num_followers": 2206395,
+  "num_followers": 2206360,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-05-01 04:02:16",
       "album": {
+        "name": "Songs for the Saints",
+        "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 199625,
+      "name": "Get Along",
+      "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
+    },
+    {
+      "added_at": "2026-05-01 04:02:16",
+      "album": {
         "name": "Cocky",
         "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 298960,
       "name": "Picture (feat. Sheryl Crow)",
       "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
-    },
-    {
-      "added_at": "2026-05-01 04:02:16",
-      "album": {
-        "name": "Songs for the Saints",
-        "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 199625,
-      "name": "Get Along",
-      "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
     },
     {
       "added_at": "2026-05-01 04:02:16",

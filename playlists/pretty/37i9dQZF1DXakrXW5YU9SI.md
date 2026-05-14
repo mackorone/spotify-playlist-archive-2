@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Błogie dźwięki na powitanie słonecznych dni 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,955 likes - 65 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,935 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 61 | [Woman I Am](https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Woman I Am](https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70) | 3:31 |
 | 62 | [Trzy razy bardziej](https://open.spotify.com/track/6tYIWwVAC9xTnG9RaO7hG5) | [Hania Kuzimowicz](https://open.spotify.com/artist/2z0LDef08JN0VpXdzrZIvJ), [The Voice of Poland](https://open.spotify.com/artist/0tu7LpFeEMuCPewcudUKG4) | [Trzy razy bardziej](https://open.spotify.com/album/3HEVadnUPopLxU5O0Mhdbl) | 2:29 |
 | 63 | [Love You Right](https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Love You Right](https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks) | 2:45 |
-| 64 | [Knife In The Heart](https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Knife In The Heart](https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A) | 2:57 |
-| 65 | [TV](https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [TV](https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4) | 3:15 |
+| 64 | [TV](https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [TV](https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4) | 3:15 |
+| 65 | [na zabój](https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [Alien BSC](https://open.spotify.com/artist/33wR1nI0o5pJgyl4ft8BWT), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [na zabój](https://open.spotify.com/album/7MINDF0PK3Jj9Rp2yJAPaj) | 3:45 |
 
 Snapshot ID: `AAAAAC27bWKt039NWIOeMAlTGUuh2PVU`

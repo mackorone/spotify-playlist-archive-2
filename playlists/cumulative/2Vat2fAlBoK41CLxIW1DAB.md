@@ -4,7 +4,7 @@
 
 > 
 
-995 songs - 2 day 14 hr 43 min
+1,001 songs - 2 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Anitya](https://open.spotify.com/track/3gAY2oiEDApvv4Qra5JkWA) | [Story Over Night](https://open.spotify.com/artist/0xD1rWlMwDqNGOggf8B7uB) | [Anitya](https://open.spotify.com/album/3fpVPwneQbTQXlH5GBOD8A) | 3:05 | 2025-11-24 |  |
 | [Another Me](https://open.spotify.com/track/6yRW9K6Ra063o6iEFoudjp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Another Me](https://open.spotify.com/album/4Rzrxe2plr3iRS4Chm2kOW) | 3:52 | 2024-12-12 |  |
 | [Antes do Fim](https://open.spotify.com/track/312pZXdVyBJr8iUTMQjxg9) | [LinkHal](https://open.spotify.com/artist/40K4yTKWbNbFPfUIGeESQa) | [Antes do Fim](https://open.spotify.com/album/6wYELSGAfoVHPOU4jFNgNI) | 2:18 | 2025-05-06 |  |
+| [Antonia](https://open.spotify.com/track/573f55AEzc0NcoRcHXlT41) | [Garage 21](https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j) | [Y ahora que vas a hacer?](https://open.spotify.com/album/1oZRBpopkLT3feW9afDHnn) | 3:02 | 2026-05-13 |  |
 | [Apotheosis](https://open.spotify.com/track/7HXONGzA2agswSxiuUdyIB) | [Tears on Paper](https://open.spotify.com/artist/3I8bUKDD6miAP2trqMdWo4) | [Apotheosis](https://open.spotify.com/album/2wHwlWiM6JjioTqakwWZpa) | 5:36 | 2025-08-21 |  |
 | [Arawn Whisper \- Radio Edit](https://open.spotify.com/track/3rwDTq27WXVttCatynqBy8) | [ARUNE](https://open.spotify.com/artist/4hKVBzFJd7I482YxVSsLXr) | [The Arawn Whisper](https://open.spotify.com/album/1ski8B8SXnbKENdI1EoK2J) | 4:28 | 2025-05-06 |  |
 | [ARE YOU BORED?](https://open.spotify.com/track/74MrNmVQMrv5fjn8Ugkhcg) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [ARE YOU BORED?](https://open.spotify.com/album/3ZhFoJsxuJSHowxyPn2TVp) | 3:33 | 2025-10-28 |  |
@@ -311,6 +312,7 @@
 | [Give Me A Reason](https://open.spotify.com/track/3E9UwbONa8WkVloJAHNrvp) | [ALL I LIVE FOR](https://open.spotify.com/artist/0ctNWTAY952oN0bGaFZmkP) | [Into The Ether](https://open.spotify.com/album/6yUePvsSDBwDVQkaADWqPn) | 4:06 | 2025-12-03 |  |
 | [Give Me Everything \(feat\. Nayer\)](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Nayer](https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 4:12 | 2024-11-02 |  |
 | [Given Up](https://open.spotify.com/track/2PcTQxer6wobPdt2k2UozL) | [Arsenic Kitchen](https://open.spotify.com/artist/5eQGqzkt479Fgnn4IJMJu1) | [Given Up](https://open.spotify.com/album/1woWviNayzJrOf29oocqfj) | 3:09 | 2025-07-17 |  |
+| [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 | 2026-05-13 |  |
 | [God is Dead](https://open.spotify.com/track/3GTLWFpws1laRSWCp8IWv7) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/0SkYNxbu2XwUkfdIy6Wyuc) | 4:31 | 2025-07-02 |  |
 | [God is Dead](https://open.spotify.com/track/7x0ulc1IYBrxmf7iMas88k) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/4q5fMSTCIsS14rCSf8FXZC) | 4:31 | 2025-08-21 |  |
 | [Godforsaken Town](https://open.spotify.com/track/3dhkHlAOSF65ZZgNKaUbuZ) | [Arthur Smith And The Skycruisers](https://open.spotify.com/artist/5oxjtUm1DYNBYPJP2GVneD) | [Godforsaken Town](https://open.spotify.com/album/084WXGY2xz5xSJOxaXuIhw) | 3:35 | 2025-08-10 |  |
@@ -358,6 +360,7 @@
 | [Höhlämänschemeidli](https://open.spotify.com/track/24FolRg7c6nItqSy4jWflO) | [Sir Donkey's Revenge](https://open.spotify.com/artist/4nm1bk6VxOcLoTnXurtnF7) | [Beyswind](https://open.spotify.com/album/1T6HXNWxc0tAHBT1OFICDV) | 4:37 | 2026-05-09 |  |
 | [I Almost Stayed](https://open.spotify.com/track/0Wou1SWFH4bpIGycvAw1cn) | [Eduardo Mendes](https://open.spotify.com/artist/6zFDDWxcLKsKBMUwQhvZkL) | [I Almost Stayed](https://open.spotify.com/album/6BRvwwyjvNOvBp1XEAEKrn) | 3:34 | 2026-03-21 |  |
 | [I Am Glow](https://open.spotify.com/track/3i8ecpPBllwZgk6SAj5RN2) | [Dute](https://open.spotify.com/artist/4JVDpPwTXaLhNcXMXz6NJV), [Lukky Sparxx](https://open.spotify.com/artist/7FFdx96MiyEDRkKZz62MCN) | [I Am Glow](https://open.spotify.com/album/4lEjcnMWiJgH7Op5Chh8Kk) | 4:23 | 2026-04-12 |  |
+| [I Believe In A Thing Called Love](https://open.spotify.com/track/4MIfPxadLGN52O6PZmGWsg) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [I Believe In A Thing Called Love](https://open.spotify.com/album/0J2tyt22Agtt6i4IgZnkTC) | 3:25 | 2026-05-13 |  |
 | [I Fell in Love With Princess Peach](https://open.spotify.com/track/55dAQezxrdU5nyxhTU0n1V) | [The Opposite Of Falling](https://open.spotify.com/artist/09WpOH3MuSzBPgKWLsocbo) | [I Fell in Love With Princess Peach](https://open.spotify.com/album/2R5pOvnzxjHbGvTz46mAmG) | 2:32 | 2025-05-15 |  |
 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 | 2024-11-12 |  |
 | [I Hate That I Don't Hate You](https://open.spotify.com/track/3bJOzfEj1SYMYf5FKezNHY) | [Lighten Up, Francis](https://open.spotify.com/artist/53Ff651JKd4ooOWJ51qkGU) | [Store Brand Talent](https://open.spotify.com/album/2P76VKyK1AUTSrf6oHiTcD) | 4:24 | 2025-04-24 |  |
@@ -551,7 +554,9 @@
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2026-01-06 |  |
 | [Nobody's Ever Gonna Stop Me](https://open.spotify.com/track/1r0sjKNUpW22UVjMJbCi87) | [Red Red Lips](https://open.spotify.com/artist/07Ce7mB1JE52kQiOylh5Ui) | [Nobody's Ever Gonna Stop Me](https://open.spotify.com/album/3rfiPR2xOSKK0mxTms1oWb) | 2:41 | 2025-06-12 |  |
 | [Nobody's Party](https://open.spotify.com/track/1RBbF0iJ632hhhR6eCvEUq) | [Otis Shanty](https://open.spotify.com/artist/4boX3IB2STKtAEQfzhMOfn) | [Nobody's Party](https://open.spotify.com/album/44fcCU4HGUqtEVTyx5G6on) | 4:32 | 2024-12-04 |  |
+| [Noche y piramide](https://open.spotify.com/track/6Hhq8JD7amxvPnUYuDEnCD) | [Optional Ganesh](https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5) | [Popurrí](https://open.spotify.com/album/46ma0E1qBPHpJeiRHelay1) | 3:44 | 2026-05-13 |  |
 | [NOEYES//NOLOVE](https://open.spotify.com/track/1C5xxIlC1xavzMctSroHAD) | [BAMBEES](https://open.spotify.com/artist/5XRS6XmNxoOO0nDsJgeOrl) | [NOEYES//NOLOVE](https://open.spotify.com/album/4bZun5C03yKphjdj3vTyRd) | 2:33 | 2026-02-26 |  |
+| [Noir](https://open.spotify.com/track/3Z8OSx0kJcitYmfFqNszDy) | [LehtMoJoe](https://open.spotify.com/artist/5lgsUNLe65iEVXFzvreh0J) | [Noir](https://open.spotify.com/album/0ZW75tnVFB8wWRvzOSqdM4) | 3:08 | 2026-05-13 |  |
 | [Nomads](https://open.spotify.com/track/0vZsXqnHGy1n8qb3BnoWIx) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/7287Xttv3A5IdTikDJZZG0) | 2:48 | 2025-07-28 |  |
 | [Nordrvindr](https://open.spotify.com/track/5ykbhRr5pjeaZAQ4eSbWcW) | [Mazze](https://open.spotify.com/artist/5xK3y54jgC0trOcG18yFsF) | [Nordrvindr](https://open.spotify.com/album/5Q0EwjsNZVzPSBTkcohMgL) | 4:30 | 2025-09-19 |  |
 | [Nosferatu I Am](https://open.spotify.com/track/7sZudFcX8k2nTqwFqMcsIL) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Nosferatu I Am](https://open.spotify.com/album/5Q3P0mQdUDQ8XRQ45CHz9j) | 3:21 | 2025-08-06 |  |
@@ -669,6 +674,7 @@
 | [Ride the Quasar](https://open.spotify.com/track/674f9lPeHWZdjZdpWKkreC) | [Bob Saliba](https://open.spotify.com/artist/3uiDNCZFyT0jkEj2IK9aHb), [John Macaluso](https://open.spotify.com/artist/3PXkp8i0STVwhAfaHxBjpP) | [Ride the Quasar](https://open.spotify.com/album/4KbPwql2LCFCs3ds49QFvJ) | 3:36 | 2024-12-20 |  |
 | [Right Round](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [R.O.O.T.S\. \(Route of Overcoming the Struggle\)](https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5) | 3:24 | 2024-11-02 |  |
 | [Rip The Flesh \(Of Your Bones\)](https://open.spotify.com/track/0Td82gVZP9rfCw8aRgVaIt) | [S.H.O.U.T](https://open.spotify.com/artist/5Gn7doGZ1cPCZuIuzVU6RD) | [Rip The Flesh \(Of Your Bones\)](https://open.spotify.com/album/368OzTE0b2r3Ns4SUgTelt) | 4:00 | 2026-02-19 |  |
+| [Rip The Flesh \(Of Your Bones\)](https://open.spotify.com/track/5sFtTVVYE7AqkoCA9w0bDu) | [S.H.O.U.T](https://open.spotify.com/artist/5Gn7doGZ1cPCZuIuzVU6RD) | [Rip The Flesh \(Of Your Bones\)](https://open.spotify.com/album/5oVbmZthg9Yh1nfSis7Tf3) | 4:00 | 2026-05-13 |  |
 | [Rise From The Ashes](https://open.spotify.com/track/25IfwtrqMa8KNWbo8zp0s8) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Rise From The Ashes](https://open.spotify.com/album/08lgmop2zbx7VK0WoColUp) | 3:16 | 2026-01-06 |  |
 | [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 | 2025-03-18 |  |
 | [Ritual for the Unheard](https://open.spotify.com/track/5NjN0sZpDeUcs8uBNMVbTw) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 3:20 | 2026-04-26 |  |

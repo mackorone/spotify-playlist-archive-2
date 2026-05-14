@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Martin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,871 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,873 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,28 +28,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 18 | [Omaigach](https://open.spotify.com/track/0CUf3C7SNW7y4PyWgWFFK6) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Omaigach](https://open.spotify.com/album/453JEsE7EoOcvyBo4Qia7W) | 3:34 |
 | 19 | [Estoy Buscona](https://open.spotify.com/track/7mGw95qIFGc6Bb9LajHRVA) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [Estoy Buscona](https://open.spotify.com/album/3RBnIa108gQWHzImhg35Eh) | 3:16 |
 | 20 | [PÍSAME!](https://open.spotify.com/track/2elKOUJduoluYmIQjb8tFr) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm) | [PÍSAME!](https://open.spotify.com/album/27vi1kwNGOj6q0QVPUSYbA) | 3:26 |
-| 21 | [dama en apuros remix metrika](https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [dama en apuros remix metrika](https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ) | 2:27 |
+| 21 | [Primavera](https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Primavera](https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn) | 2:36 |
 | 22 | [Pobre Diabla](https://open.spotify.com/track/7nxcob26NTuDTAZPRinx0h) | [Xerach](https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW) | [Pobre Diabla](https://open.spotify.com/album/5S6npYH6gOVd4O4vE5F5EL) | 3:05 |
 | 23 | [Nascuda al Paral·lel](https://open.spotify.com/track/2tm5o5VxD0bmTS7qIBain1) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Nascuda al Paral·lel](https://open.spotify.com/album/7q3Tlb80kVw0IZtcBgqNja) | 3:28 |
 | 24 | [Marinero](https://open.spotify.com/track/2xaAMsog0pGI8kdtfKt4Jm) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Marinero](https://open.spotify.com/album/7IGsK5cjTaJOk1C9Y8DtDn) | 3:09 |
 | 25 | [Algo me falta](https://open.spotify.com/track/1B6zVmn6jdStD6ZFRhn4rU) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Algo me falta](https://open.spotify.com/album/1suJSeK6upGYxxD1iMqIEE) | 3:01 |
 | 26 | [KERRREBOTE!](https://open.spotify.com/track/7Jq2VLAHVTXq6UkxS0f4EN) | [Kadriana Massri](https://open.spotify.com/artist/3VQnM4BnAzAcEwr7RZl8mz), [MIGUELITA](https://open.spotify.com/artist/5ft3Lm4NT2TwfPbzEmudjN) | [KERRREBOTE!](https://open.spotify.com/album/4a1KCU8w8JBND5dXQLjG8p) | 2:57 |
-| 27 | [Primavera](https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Primavera](https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn) | 2:36 |
+| 27 | [dama en apuros remix metrika](https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [dama en apuros remix metrika](https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ) | 2:27 |
 | 28 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
 | 29 | [La Tortura](https://open.spotify.com/track/0jkH9BGNs1Texa3x9c0qrj) | [UMEN](https://open.spotify.com/artist/62iVCVY9p4GgBfNQNC3Buf) | [La Tortura](https://open.spotify.com/album/2m7aaJHQMBrHxgGzaxHall) | 2:52 |
 | 30 | [Me tiré a un Facha](https://open.spotify.com/track/1rqVMhdUJPYvnXF7xHlqWY) | [Montedapena](https://open.spotify.com/artist/4mit7hjQhGPMJOj2zNQIyv), [PLATERÍAS](https://open.spotify.com/artist/421hInltWZcGKhEFnDbj5C) | [Me tiré a un Facha](https://open.spotify.com/album/20oYiyi0cfku7vjOnYbQRb) | 3:00 |
 | 31 | [Un Mundo Feliz](https://open.spotify.com/track/2DYuMgoUq4Dyiz7k2UfCJf) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Manual de Belleza](https://open.spotify.com/album/2CgN7GeZdAbOeqsrra7x4b) | 4:31 |
 | 32 | [se sube la falda](https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [se sube la falda](https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN) | 2:34 |
 | 33 | [Ay Amor](https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Ay Amor](https://open.spotify.com/album/24zbNGOGUKdAzsHIsa7zxL) | 2:11 |
-| 34 | [Pichersita](https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Pichersita](https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay) | 2:18 |
-| 35 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
+| 34 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
+| 35 | [Pichersita](https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Pichersita](https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay) | 2:18 |
 | 36 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
 | 37 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
 | 38 | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW) | 2:36 |
 | 39 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 40 | [NOIS](https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC) | [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [Ouineta Verificada](https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus) | 3:01 |
-| 41 | [Hoy ya no](https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Hoy ya no](https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA) | 2:40 |
-| 42 | [CULPA NUESTRA](https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL), [STRANGEL0VE](https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP) | [CULPA NUESTRA](https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po) | 2:22 |
+| 41 | [CULPA NUESTRA](https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL), [STRANGEL0VE](https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP) | [CULPA NUESTRA](https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po) | 2:22 |
+| 42 | [Hoy ya no](https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Hoy ya no](https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA) | 2:40 |
 | 43 | [Virgen de Magallón](https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 2:31 |
 | 44 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |
 | 45 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 49 | [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 |
 | 50 | [TKM CNT XFA](https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [TKM CNT XFA](https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q) | 3:32 |
 
-Snapshot ID: `AAAAAJWsFKkfNnh5H+KttEA+bTo3S5aJ`
+Snapshot ID: `AAAAAF+dEiC4yeuBlkxTjsCa4BZaaqs+`

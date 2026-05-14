@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,916 likes - 76 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,919 likes - 76 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 21 | [There Will Never Be Another You](https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD) | [Walter Malosetti](https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp) | [All of Me](https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE) | 4:39 |
 | 22 | [Chacafrik](https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:35 |
 | 23 | [Caminando Con Audífonos](https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im) | [Pat Nuño](https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN) | [En Las Afueras](https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my) | 3:50 |
-| 24 | [I'm Beginning to See the Light](https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:20 |
-| 25 | [Nublado](https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC) | [La Grande](https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0) | [Sesiones 2017\-2020](https://open.spotify.com/album/17NlLQlimG217X7OALtTSy) | 6:14 |
+| 24 | [Nublado](https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC) | [La Grande](https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0) | [Sesiones 2017\-2020](https://open.spotify.com/album/17NlLQlimG217X7OALtTSy) | 6:14 |
+| 25 | [I'm Beginning to See the Light](https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:20 |
 | 26 | [Learning the Blues \- En Vivo](https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf) | [Inés Estévez](https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq) | [Nude \(En Vivo\)](https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH) | 5:05 |
 | 27 | [Arenales Blues](https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Lua](https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs) | 4:11 |
 | 28 | [Sol La, Al Sol](https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 7:48 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 49 | [Ausencias](https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT) | [Dino Saluzzi](https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz) | [Ausencias](https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM) | 4:58 |
 | 50 | [Cosa Panicosa](https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1) | [La Mujer Barbuda](https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM) | [Cosa Panicosa](https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm) | 6:28 |
 | 51 | [Comrade Conrad](https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p) | [Hernán Merlo](https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c) | [Solo](https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs) | 5:42 |
-| 52 | [Way You Look Tonight The](https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 5:41 |
-| 53 | [El cristal de los otros](https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0) | [Ernesto Jodos](https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb) | [Fragmentos del mundo](https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG) | 5:29 |
+| 52 | [El cristal de los otros](https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0) | [Ernesto Jodos](https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb) | [Fragmentos del mundo](https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG) | 5:29 |
+| 53 | [Way You Look Tonight The](https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 5:41 |
 | 54 | [Creer en las Hojas](https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM) | [Emi Gimenez](https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ) | [Atemporal](https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY) | 4:52 |
-| 55 | [Cristal](https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:32 |
-| 56 | [Dos Verdades en Una Botella](https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Valentin Reiners](https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug) | [Sexto VI](https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL) | 3:13 |
+| 55 | [Dos Verdades en Una Botella](https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Valentin Reiners](https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug) | [Sexto VI](https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL) | 3:13 |
+| 56 | [Cristal](https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:32 |
 | 57 | [Masche](https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU) | [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm) | [Edén](https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR) | 6:37 |
 | 58 | [Reunión](https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7) | [Pepi Taveira](https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2) | [Reunión](https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB) | 6:29 |
 | 59 | [De Pie](https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8) | [Emi Gimenez](https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ) | [Atemporal](https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY) | 5:56 |

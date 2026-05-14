@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Sfera in cover della playlist urban più grande d'Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,439 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,340 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 41 | [CHIEF KEEF \(feat\. Sfera Ebbasta & Skillibeng\)](https://open.spotify.com/track/6wp73WIgt66WS4e9PPGSV1) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [CHIEF KEEF \(feat\. Sfera Ebbasta & Skillibeng\)](https://open.spotify.com/album/5arcR9CXQpOJZ5FgoEfrC0) | 3:28 |
 | 42 | [ARCOBALENO \(feat\. Anuel AA\)](https://open.spotify.com/track/6JE8qB33bwbb6kLK7YjndA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:13 |
 | 43 | [TOKYO DRIFT \(feat\. Low\-Red\)](https://open.spotify.com/track/5Mqg9vLd5s58OxbXD3fYvG) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [TOKYO DRIFT \(feat\. Low\-Red\)](https://open.spotify.com/album/2SmmkwkVUZUDG7oQYF0E9M) | 2:10 |
-| 44 | [TXT](https://open.spotify.com/track/7GHXHYge4hcLsUGwxHwygw) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [TXT](https://open.spotify.com/album/4F4CP1xAwlDthC4bMd8TUP) | 3:21 |
+| 44 | [LEWANDOWSKI XI](https://open.spotify.com/track/4F1XlmUmFbvAj3Pw8MMrPT) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/1skLkLQdIPk8L4c16DbqkX) | 2:58 |
 | 45 | [ORDINARIA FOLLIA \(feat\. Franco126\)](https://open.spotify.com/track/2rqxTIXwORh2uvyJzGoMQR) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [MORENDO AD OCCHI APERTI](https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C) | 2:17 |
 | 46 | [L'astronauta](https://open.spotify.com/track/5SKziDfyRfyHgqjvDFWcJ9) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [io Individuo](https://open.spotify.com/album/31bkDaSjWXeCnc18BfkpaY) | 3:20 |
 | 47 | [Via dei Mille](https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Via dei Mille](https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [LOCO](https://open.spotify.com/track/0LRn7PREPQewuKuiHTRC6T) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [LOCO](https://open.spotify.com/album/37gg7kaGWbOLVjLKMLKrwG) | 2:04 |
 | 50 | [BERLUSCONI](https://open.spotify.com/track/0Ur1Orl66Xij0d36vLuHj4) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [BERLUSCONI](https://open.spotify.com/album/2R98hh8wKmY27SvNY0Tj4K) | 2:06 |
 
-Snapshot ID: `AAAAADRo9UT92ZzMQ9dg2f6zjY4w9LRy`
+Snapshot ID: `AAAAAHM2fHWr25HqqZgK9oDwNn1GRosX`

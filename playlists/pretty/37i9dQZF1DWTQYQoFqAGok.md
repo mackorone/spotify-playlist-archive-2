@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,375 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,377 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 38 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
 | 39 | [Nu Soul](https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1) | [Pepe Hernandez](https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW) | [Groove Zone](https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3) | 4:32 |
 | 40 | [La Franca](https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 3:18 |
-| 41 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
-| 42 | [Temporary Insanity](https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL) | [Joe d'Etienne Big Band](https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M) | [What's The Rush? \(Remastered\)](https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi) | 6:43 |
+| 41 | [Temporary Insanity](https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL) | [Joe d'Etienne Big Band](https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M) | [What's The Rush? \(Remastered\)](https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi) | 6:43 |
+| 42 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
 | 43 | [Guapanguito](https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c) | [Rosino Serrano](https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ), [Orquesta Moderna](https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob), [Gianluca Littera](https://open.spotify.com/artist/3FQJWyPvR00JAfEL8TAsFo), [Alex Mercado](https://open.spotify.com/artist/7oVhQ1IHY6U2VfSqJl5cu1) | [Orquesta Moderna](https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i) | 4:45 |
 | 44 | [A la Ventana Carolina](https://open.spotify.com/track/1JFYLc7GyftevczE418CcE) | [Aaron Cruz Trío](https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL) | [Eco](https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx) | 6:18 |
 | 45 | [Madrugada](https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv) | [Cha/Co Project](https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK) | [Claroscuro](https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o) | 6:24 |
 | 46 | [Once I Loved](https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K) | [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Alberto Medina](https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z), [Pablo Prieto](https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25) | [Triology](https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS) | 7:08 |
 | 47 | [La Danza de Helmut](https://open.spotify.com/track/3XIuXL9FZBfoQe0KK7tdqc) | [Luri Molina](https://open.spotify.com/artist/6SEMxEhkjIX6zwedFrLv0n), [Diego Franco](https://open.spotify.com/artist/54unEwVLwrdvfz638XHDzY), [Juan Ale Sáenz](https://open.spotify.com/artist/46lGzSjHcC3I4JOUVpriOa), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [La Danza de Helmut](https://open.spotify.com/album/6Kks2IU2J1pb2nZ6sCpjck) | 3:58 |
 | 48 | [Horizonte Lejano](https://open.spotify.com/track/1KP9tWQFQSsVp0BdBcteuI) | [Leonardo Prieto](https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc) | [Sembrando](https://open.spotify.com/album/3D7czDy4fUgXDJujkjYR2q) | 7:38 |
-| 49 | [En Cualquier Momento](https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4) | [Juanjo Gómez](https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp), [Xuc Trío](https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9) | [Semillas De Copinol](https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2) | 5:52 |
+| 49 | [Mosquita Muerta \- Versión Mariachi](https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Mosquita Muerta \(Versión Mariachi\)](https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv) | 5:23 |
 | 50 | [Fíeme una Coca, No?](https://open.spotify.com/track/1ItJeVpac8LmFL9LyqMFJo) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 7:01 |
 
 Snapshot ID: `AAAAAMOjSA4Zxa9lWQuv5BBcYa/bK0RS`

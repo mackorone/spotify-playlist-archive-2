@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 823 likes - 116 songs - 6 hr 30 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 837 likes - 121 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,5 +124,10 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 114 | [Gold Bars](https://open.spotify.com/track/7tOKyNunKElBFGIzrDyvoc) | [Highway Jay](https://open.spotify.com/artist/5DiKeSa0Wrr5ShwTSbIRjR) | [Curse of Johnny](https://open.spotify.com/album/3aA8uKDqT07y98S5Ic7nXR) | 2:24 |
 | 115 | [H\. O\. T\. \(Helen Of Troy\)](https://open.spotify.com/track/2HKUpHEqJbPAUufq9vGpkP) | [Young Milla](https://open.spotify.com/artist/421ZXXqByMXM4G7VjBa6K5) | [H\. O\. T\. \(Helen Of Troy\)](https://open.spotify.com/album/7Cou1drdzxHfmfzMVaFH9u) | 4:24 |
 | 116 | [Same Ol](https://open.spotify.com/track/0bDz7KTcpgyinGhRLiAFlS) | [Sam Watson](https://open.spotify.com/artist/2kKoGgC3dc984v8Jq1FenP) | [Just Listen EP](https://open.spotify.com/album/1InJV1CZU9tbEAdi6SPWxW) | 2:43 |
+| 117 | [Wasting My Time](https://open.spotify.com/track/33xLkxYXmsvaZKUvN1LO2n) | [Bad Mother Nature](https://open.spotify.com/artist/6pnqSlSpc5z1Svc1aDC61b) | [Wasting My Time](https://open.spotify.com/album/6bhne7zajsPKWMfREgBIio) | 3:52 |
+| 118 | [Hell Yeah! \- Live](https://open.spotify.com/track/20nc8GukCpUXya4TtHigcH) | [First Date Fuckers](https://open.spotify.com/artist/4UCxI5qHOs4Gi8xyfDDlVd) | [LIVE IN LONDON](https://open.spotify.com/album/4TjxfhIrZog2yGEeU8rAsg) | 3:52 |
+| 119 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 |
+| 120 | [Sins](https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Sins](https://open.spotify.com/album/7upoZURMk4ZcAlulV9Rluu) | 3:28 |
+| 121 | [Break These Chains](https://open.spotify.com/track/6UXMNP2WDg7RhYpanEkSOL) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Break These Chains](https://open.spotify.com/album/5x59iPEINkuzJY35NV7hbf) | 3:24 |
 
-Snapshot ID: `AAADpJHqFXgdRG/gxqiVjvKA6HkMxIiA`
+Snapshot ID: `AAADqb6lHbnkcvu5T8XSZBwqEQ46irFd`

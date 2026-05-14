@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: aldo van eyck
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,502 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,506 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 9 | [おんぶに疲れて](https://open.spotify.com/track/0baWFXPgNavrj5zoLAJOKx) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [死んでも一生](https://open.spotify.com/album/0h1iYevrGU4NXbRtYT7k5N) | 5:17 |
 | 10 | [flower of life 3: Cosmos](https://open.spotify.com/track/2wKnp0rZEb1L3TFtXztcbw) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [collaborate\#2](https://open.spotify.com/album/147REGWn52KMSsO3Vu1hAb) | 2:32 |
 | 11 | [Soto wa kirei \(Outside is beautiful\)](https://open.spotify.com/track/26wqfXw1yFRoPfph7vYSiO) | [buoy](https://open.spotify.com/artist/0SoIfZImEkbzedoaM9AsPv) | [watashi](https://open.spotify.com/album/79VmQVWFpmvcTQBjK6HInh) | 3:19 |
-| 12 | [Track 1](https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [EMO EMO](https://open.spotify.com/album/1sxsJF9uD9ubGGpCqEuGRn) | 0:00 |
+| 12 | [EMO EMO](https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [EMO EMO](https://open.spotify.com/album/1sxsJF9uD9ubGGpCqEuGRn) | 2:37 |
 | 13 | [ROMANTICIZE](https://open.spotify.com/track/732nsS7pPnfVDX73bbzNgB) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4), [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [ROMANTICIZE](https://open.spotify.com/album/6EkLu27GIDM8QR3rEYyUAT) | 3:27 |
 | 14 | [メニタイム](https://open.spotify.com/track/5BmVYbQF2newHwuhtrQHED) | [花想い](https://open.spotify.com/artist/74nDyelvbniQaGrB5D9QuQ) | [メニタイム](https://open.spotify.com/album/60upLu5n7U91v606z0OiRa) | 5:09 |
 | 15 | [Announce](https://open.spotify.com/track/7sfIcI0n3G9w94kNjkUVPk) | [moe](https://open.spotify.com/artist/476il2S7rEQ5a2kfPJWGdL), [東北ずん子](https://open.spotify.com/artist/5lA3Ut8cSDXKkWgryag3m3) | [Announce](https://open.spotify.com/album/3sicddscK9uCcrxNojEwDM) | 4:23 |

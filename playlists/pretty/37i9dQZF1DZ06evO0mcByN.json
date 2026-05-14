@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 6780,
+  "num_followers": 6782,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAAx52q7SGeGD6gP/kZ+Ozda",
+  "snapshot_id": "agJtgAAAAACXwjWkzBAmfpQAUO+vNyn9",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "A Promessa",
-      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -91,8 +71,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
       "artists": [
         {
@@ -104,9 +84,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 358973,
-      "name": "Se O Mar N\u00e3o Se Abrir / Cita\u00e7\u00e3o: Firme Nas Promessas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0vDhtdj7GlEWspnNvxTqb2"
+      "duration_ms": 249266,
+      "name": "A Promessa",
+      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
     },
     {
       "added_at": null,
@@ -127,6 +107,26 @@
       "duration_ms": 359015,
       "name": "Quien Te Ve Adorando",
       "url": "https://open.spotify.com/track/6FQ3i3v5WTwVm97tRv63P4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 358973,
+      "name": "Se O Mar N\u00e3o Se Abrir / Cita\u00e7\u00e3o: Firme Nas Promessas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0vDhtdj7GlEWspnNvxTqb2"
     },
     {
       "added_at": null,
@@ -164,25 +164,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 238133,
-      "name": "Quem Nunca",
-      "url": "https://open.spotify.com/track/3g0GvJxgn2eZoJAdrqUdGk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Deus Vai Agir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
+      "duration_ms": 290040,
+      "name": "Nas M\u00e3os do Oleiro",
+      "url": "https://open.spotify.com/track/28fcOzkWlYVKVJDQntl4eO"
     },
     {
       "added_at": null,
@@ -207,6 +191,22 @@
       "duration_ms": 448926,
       "name": "Plano do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/7oe0KG1ZEDkoM9gKD05HxU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
     },
     {
       "added_at": null,
@@ -240,25 +240,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 290040,
-      "name": "Nas M\u00e3os do Oleiro",
-      "url": "https://open.spotify.com/track/28fcOzkWlYVKVJDQntl4eO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+      "duration_ms": 238133,
+      "name": "Quem Nunca",
+      "url": "https://open.spotify.com/track/3g0GvJxgn2eZoJAdrqUdGk"
     },
     {
       "added_at": null,
@@ -283,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
       "artists": [
         {
@@ -292,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 212933,
-      "name": "O Jogo Virou",
-      "url": "https://open.spotify.com/track/6cSnZYtQqScxcQmlbC9FS7"
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
     },
     {
       "added_at": null,
@@ -319,26 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Continua Sendo Bom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/73CHRIILjit70Dl9k1OIAq"
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
       "artists": [
         {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        },
-        {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 454867,
-      "name": "Ele Continua Sendo Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/747qPyNXVeRyg3wsUhJau4"
+      "duration_ms": 212933,
+      "name": "O Jogo Virou",
+      "url": "https://open.spotify.com/track/6cSnZYtQqScxcQmlbC9FS7"
     },
     {
       "added_at": null,
@@ -359,6 +335,30 @@
       "duration_ms": 424985,
       "name": "Cicatrizes - Ao Vivo",
       "url": "https://open.spotify.com/track/6v9d7DgP3HoWwCaR8EJ5t0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Continua Sendo Bom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/73CHRIILjit70Dl9k1OIAq"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 454867,
+      "name": "Ele Continua Sendo Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/747qPyNXVeRyg3wsUhJau4"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "Limite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2YKHuAYlhQoJrKDBVeMG6x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 349984,
       "name": "Deus do Amanh\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/5FEw9JQkDELlGDDwqqVYKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "Limite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2YKHuAYlhQoJrKDBVeMG6x"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "Mais Que Vencedor",
-      "url": "https://open.spotify.com/track/2QBRoV43fAg9flDyVgos1C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem \u00e9 Voc\u00ea",
         "url": "https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 240829,
       "name": "Quem \u00e9 Voc\u00ea",
       "url": "https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "Mais Que Vencedor",
+      "url": "https://open.spotify.com/track/2QBRoV43fAg9flDyVgos1C"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 270533,
-      "name": "Por Tr\u00e1s Desse Sil\u00eancio",
-      "url": "https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plano Original",
         "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 308059,
       "name": "O Desfecho",
       "url": "https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 270533,
+      "name": "Por Tr\u00e1s Desse Sil\u00eancio",
+      "url": "https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2"
     },
     {
       "added_at": null,

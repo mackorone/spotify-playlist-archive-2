@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAADaZ89eY7xuUt7Ug2a+rYay",
+  "snapshot_id": "agJtgAAAAABgkwkBE+JqX4qvq2VfqDuF",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 337937,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/3y0MWGcgTa2ITPYvn196Xi"
+      "duration_ms": 257993,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/4nPWO2GRxNoTwlBFPgMqTh"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 221101,
-      "name": "Open / Rain",
-      "url": "https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx"
+      "duration_ms": 341999,
+      "name": "Awake / Lakeside",
+      "url": "https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 257993,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/4nPWO2GRxNoTwlBFPgMqTh"
+      "duration_ms": 380624,
+      "name": "Dew",
+      "url": "https://open.spotify.com/track/5yUkO5rXLUsMTIRyGJujaj"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 341999,
-      "name": "Awake / Lakeside",
-      "url": "https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft"
+      "duration_ms": 221101,
+      "name": "Open / Rain",
+      "url": "https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 499990,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
+      "duration_ms": 337937,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/3y0MWGcgTa2ITPYvn196Xi"
     },
     {
       "added_at": null,
@@ -356,15 +356,15 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 380624,
-      "name": "Dew",
-      "url": "https://open.spotify.com/track/5yUkO5rXLUsMTIRyGJujaj"
+      "duration_ms": 499990,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Still Left",
-        "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
+        "name": "Depthscape",
+        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Rustle",
-      "url": "https://open.spotify.com/track/67cO2PbFqNBfZ6k1srD2Hn"
+      "duration_ms": 390000,
+      "name": "Foggy",
+      "url": "https://open.spotify.com/track/48BaTYfr7tCqfUxAoU0ARE"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Left",
+        "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Rustle",
+      "url": "https://open.spotify.com/track/67cO2PbFqNBfZ6k1srD2Hn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Depthscape",
         "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
       },
@@ -420,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Foggy",
-      "url": "https://open.spotify.com/track/48BaTYfr7tCqfUxAoU0ARE"
+      "duration_ms": 223000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Interspace",
-        "url": "https://open.spotify.com/album/2VbA8iS39yqOChWVPxC0kA"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "Ma",
-      "url": "https://open.spotify.com/track/6JxYkB8w6fzgK0LPctp2dC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
       },
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Interspace",
+        "url": "https://open.spotify.com/album/2VbA8iS39yqOChWVPxC0kA"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 329000,
+      "name": "Ma",
+      "url": "https://open.spotify.com/track/6JxYkB8w6fzgK0LPctp2dC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Depthscape",
         "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
       },
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
+      "duration_ms": 624000,
+      "name": "Ten",
+      "url": "https://open.spotify.com/track/4qYZegpAWSfWecpp6qAYh2"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
       "duration_ms": 420979,
       "name": "Hamon",
       "url": "https://open.spotify.com/track/6mazXf0065n3ttcbEXQVba"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Depthscape",
-        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 624000,
-      "name": "Ten",
-      "url": "https://open.spotify.com/track/4qYZegpAWSfWecpp6qAYh2"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2182948,
+  "num_followers": 2182942,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-05-08 08:22:10",
       "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/77HYhNOlQWTnoqrwAmBahJ"
+      },
+      "artists": [
+        {
+          "name": "Tingvall Trio",
+          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+        }
+      ],
+      "duration_ms": 283675,
+      "name": "A Promise",
+      "url": "https://open.spotify.com/track/36Y2PY9cCueWRSixpcqiRG"
+    },
+    {
+      "added_at": "2026-05-08 08:22:10",
+      "album": {
         "name": "At the Movies",
         "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 378520,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT"
-    },
-    {
-      "added_at": "2026-05-08 08:22:10",
-      "album": {
-        "name": "A Promise",
-        "url": "https://open.spotify.com/album/77HYhNOlQWTnoqrwAmBahJ"
-      },
-      "artists": [
-        {
-          "name": "Tingvall Trio",
-          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
-        }
-      ],
-      "duration_ms": 283675,
-      "name": "A Promise",
-      "url": "https://open.spotify.com/track/36Y2PY9cCueWRSixpcqiRG"
     },
     {
       "added_at": "2026-05-08 08:22:10",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-05-08 08:22:10",
       "album": {
-        "name": "Little River",
-        "url": "https://open.spotify.com/album/5SYtJ3WCN5c2nEinWR9csr"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 411996,
-      "name": "Little River",
-      "url": "https://open.spotify.com/track/1kmKV67WowGUUR9KpklaMT"
-    },
-    {
-      "added_at": "2026-05-08 08:22:10",
-      "album": {
         "name": "ARTEMIS",
         "url": "https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 327379,
       "name": "Nocturno",
       "url": "https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO"
+    },
+    {
+      "added_at": "2026-05-08 08:22:10",
+      "album": {
+        "name": "Little River",
+        "url": "https://open.spotify.com/album/5SYtJ3WCN5c2nEinWR9csr"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 411996,
+      "name": "Little River",
+      "url": "https://open.spotify.com/track/1kmKV67WowGUUR9KpklaMT"
     },
     {
       "added_at": "2026-05-08 08:22:10",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-05-08 08:22:10",
       "album": {
-        "name": "For Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/0K10SUnHnwWjpmBBbzeDwU"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 294504,
-      "name": "For Mar\u00eda Jos\u00e9",
-      "url": "https://open.spotify.com/track/4zZ48K58R61teDDRJsPTPb"
-    },
-    {
-      "added_at": "2026-05-08 08:22:10",
-      "album": {
         "name": "Last Decade",
         "url": "https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 349802,
       "name": "Last Decade",
       "url": "https://open.spotify.com/track/6kw0TP5KGTilTx0ZdorCun"
+    },
+    {
+      "added_at": "2026-05-08 08:22:10",
+      "album": {
+        "name": "For Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/0K10SUnHnwWjpmBBbzeDwU"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 294504,
+      "name": "For Mar\u00eda Jos\u00e9",
+      "url": "https://open.spotify.com/track/4zZ48K58R61teDDRJsPTPb"
     },
     {
       "added_at": "2026-05-08 08:22:10",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2026-05-08 08:22:10",
       "album": {
-        "name": "Round Midnight",
-        "url": "https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u"
-      },
-      "artists": [
-        {
-          "name": "Gustav Lundgren",
-          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
-        },
-        {
-          "name": "Par-Ola Landin",
-          "url": "https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr"
-        },
-        {
-          "name": "Karl-Henrik Ousb\u00e4ck",
-          "url": "https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV"
-        }
-      ],
-      "duration_ms": 379245,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/77Ws7XMrgFRt0wAulJ6UHF"
-    },
-    {
-      "added_at": "2026-05-08 08:22:10",
-      "album": {
         "name": "Winter Rose",
         "url": "https://open.spotify.com/album/23yajgtCvy40lAZQswKdLr"
       },
@@ -1663,6 +1639,30 @@
     {
       "added_at": "2026-05-08 08:22:10",
       "album": {
+        "name": "Round Midnight",
+        "url": "https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "Par-Ola Landin",
+          "url": "https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr"
+        },
+        {
+          "name": "Karl-Henrik Ousb\u00e4ck",
+          "url": "https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV"
+        }
+      ],
+      "duration_ms": 379245,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/77Ws7XMrgFRt0wAulJ6UHF"
+    },
+    {
+      "added_at": "2026-05-08 08:22:10",
+      "album": {
         "name": "Trust and Honesty",
         "url": "https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh"
       },
@@ -1675,6 +1675,50 @@
       "duration_ms": 278182,
       "name": "Designs",
       "url": "https://open.spotify.com/track/0FwP04wAnbpflZg05NRBH2"
+    },
+    {
+      "added_at": "2026-05-08 08:22:10",
+      "album": {
+        "name": "Ledsen",
+        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
+      },
+      "artists": [
+        {
+          "name": "John Nilsson",
+          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
+        }
+      ],
+      "duration_ms": 330120,
+      "name": "Ledsen",
+      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
+    },
+    {
+      "added_at": "2026-05-08 08:22:10",
+      "album": {
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV"
+      },
+      "artists": [
+        {
+          "name": "Mikkel Ploug",
+          "url": "https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26"
+        },
+        {
+          "name": "Mark Turner",
+          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
+        },
+        {
+          "name": "Sean Carpio",
+          "url": "https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f"
+        },
+        {
+          "name": "Jeppe Skovbakke",
+          "url": "https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg"
+        }
+      ],
+      "duration_ms": 384560,
+      "name": "Monet",
+      "url": "https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J"
     },
     {
       "added_at": "2026-05-08 08:22:10",
@@ -1735,22 +1779,6 @@
     {
       "added_at": "2026-05-08 08:22:10",
       "album": {
-        "name": "Ledsen",
-        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
-      },
-      "artists": [
-        {
-          "name": "John Nilsson",
-          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
-        }
-      ],
-      "duration_ms": 330120,
-      "name": "Ledsen",
-      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
-    },
-    {
-      "added_at": "2026-05-08 08:22:10",
-      "album": {
         "name": "Abeyance",
         "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
       },
@@ -1763,34 +1791,6 @@
       "duration_ms": 414108,
       "name": "Abeyance",
       "url": "https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8"
-    },
-    {
-      "added_at": "2026-05-08 08:22:10",
-      "album": {
-        "name": "Nocturnes",
-        "url": "https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV"
-      },
-      "artists": [
-        {
-          "name": "Mikkel Ploug",
-          "url": "https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26"
-        },
-        {
-          "name": "Mark Turner",
-          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
-        },
-        {
-          "name": "Sean Carpio",
-          "url": "https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f"
-        },
-        {
-          "name": "Jeppe Skovbakke",
-          "url": "https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg"
-        }
-      ],
-      "duration_ms": 384560,
-      "name": "Monet",
-      "url": "https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J"
     },
     {
       "added_at": "2026-05-08 08:22:10",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2026-05-08 08:22:10",
       "album": {
+        "name": "I Was Afraid of Stone Rooms",
+        "url": "https://open.spotify.com/album/1BmVGUIQE2Vf3JDm3oLYuO"
+      },
+      "artists": [
+        {
+          "name": "Hyphen Dash",
+          "url": "https://open.spotify.com/artist/7yarlsp9DnjnP2qQ3JoCqs"
+        },
+        {
+          "name": "Borys Mohylevskyi",
+          "url": "https://open.spotify.com/artist/6ifXwxpDgOK2R5hL7em39z"
+        }
+      ],
+      "duration_ms": 481415,
+      "name": "IWASR X",
+      "url": "https://open.spotify.com/track/5IpHYhIj9JS0pT0Nfcgykn"
+    },
+    {
+      "added_at": "2026-05-08 08:22:10",
+      "album": {
         "name": "Red Orange and Blue",
         "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
       },
@@ -1923,6 +1943,22 @@
       "duration_ms": 432226,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
+    },
+    {
+      "added_at": "2026-05-08 08:22:10",
+      "album": {
+        "name": "There Will Always Be We",
+        "url": "https://open.spotify.com/album/3tOVSgsrHavqZWIY6Vuywv"
+      },
+      "artists": [
+        {
+          "name": "David Gibson",
+          "url": "https://open.spotify.com/artist/2xtRXEqN4qxtf4AYocor5g"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "There Will Always Be We",
+      "url": "https://open.spotify.com/track/2mPUBvYmCo2XEmcFPqptd8"
     },
     {
       "added_at": "2026-05-08 08:22:10",
@@ -1955,22 +1991,6 @@
       "duration_ms": 263971,
       "name": "No Cure",
       "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
-    },
-    {
-      "added_at": "2026-05-08 08:22:10",
-      "album": {
-        "name": "There Will Always Be We",
-        "url": "https://open.spotify.com/album/3tOVSgsrHavqZWIY6Vuywv"
-      },
-      "artists": [
-        {
-          "name": "David Gibson",
-          "url": "https://open.spotify.com/artist/2xtRXEqN4qxtf4AYocor5g"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "There Will Always Be We",
-      "url": "https://open.spotify.com/track/2mPUBvYmCo2XEmcFPqptd8"
     },
     {
       "added_at": "2026-05-08 08:22:10",
@@ -2071,26 +2091,6 @@
       "duration_ms": 501106,
       "name": "Old Ballad For Hawk",
       "url": "https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79"
-    },
-    {
-      "added_at": "2026-05-08 08:22:10",
-      "album": {
-        "name": "I Was Afraid of Stone Rooms",
-        "url": "https://open.spotify.com/album/1BmVGUIQE2Vf3JDm3oLYuO"
-      },
-      "artists": [
-        {
-          "name": "Hyphen Dash",
-          "url": "https://open.spotify.com/artist/7yarlsp9DnjnP2qQ3JoCqs"
-        },
-        {
-          "name": "Borys Mohylevskyi",
-          "url": "https://open.spotify.com/artist/6ifXwxpDgOK2R5hL7em39z"
-        }
-      ],
-      "duration_ms": 481415,
-      "name": "IWASR X",
-      "url": "https://open.spotify.com/track/5IpHYhIj9JS0pT0Nfcgykn"
     },
     {
       "added_at": "2026-05-08 08:22:10",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-05-08 08:22:10",
       "album": {
-        "name": "It Never Entered My Mind",
-        "url": "https://open.spotify.com/album/5lorPM42rAyHXCrnMecPmP"
-      },
-      "artists": [
-        {
-          "name": "Eddie Henderson",
-          "url": "https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF"
-        }
-      ],
-      "duration_ms": 525573,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/1vawGyH0kTmE8SCADEI5k2"
-    },
-    {
-      "added_at": "2026-05-08 08:22:10",
-      "album": {
         "name": "Search for Peace",
         "url": "https://open.spotify.com/album/3MPQi7p3q7d2m2dPLMWBcN"
       },
@@ -2315,26 +2299,18 @@
     {
       "added_at": "2026-05-08 08:22:10",
       "album": {
-        "name": "Song for Peace",
-        "url": "https://open.spotify.com/album/1BQv10hYaemrbRMpXtbst1"
+        "name": "It Never Entered My Mind",
+        "url": "https://open.spotify.com/album/5lorPM42rAyHXCrnMecPmP"
       },
       "artists": [
         {
-          "name": "Kevin Hays",
-          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
-        },
-        {
-          "name": "Ben Street",
-          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
-        },
-        {
-          "name": "Billy Hart",
-          "url": "https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I"
+          "name": "Eddie Henderson",
+          "url": "https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF"
         }
       ],
-      "duration_ms": 270893,
-      "name": "Song for Peace",
-      "url": "https://open.spotify.com/track/1Zmt1jvtaBJmMeDTKNiLzT"
+      "duration_ms": 525573,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/1vawGyH0kTmE8SCADEI5k2"
     },
     {
       "added_at": "2026-05-08 08:22:10",
@@ -2359,6 +2335,30 @@
       "duration_ms": 271547,
       "name": "Melody At Night",
       "url": "https://open.spotify.com/track/6H8Kb2KHTCOhMBRifugOKj"
+    },
+    {
+      "added_at": "2026-05-08 08:22:10",
+      "album": {
+        "name": "Song for Peace",
+        "url": "https://open.spotify.com/album/1BQv10hYaemrbRMpXtbst1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Hays",
+          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
+        },
+        {
+          "name": "Ben Street",
+          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
+        },
+        {
+          "name": "Billy Hart",
+          "url": "https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "Song for Peace",
+      "url": "https://open.spotify.com/track/1Zmt1jvtaBJmMeDTKNiLzT"
     },
     {
       "added_at": "2026-05-08 08:22:10",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2026-05-08 08:22:10",
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/2tkvHgxZAjDZZb6eQ2lGkZ"
-      },
-      "artists": [
-        {
-          "name": "Svaneborg Kardyb",
-          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
-        }
-      ],
-      "duration_ms": 259970,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/5eMNHvVloaTLdWD2qxaIn3"
-    },
-    {
-      "added_at": "2026-05-08 08:22:10",
-      "album": {
         "name": "We'll Be Together Again",
         "url": "https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 308193,
       "name": "We'll Be Together Again",
       "url": "https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8"
+    },
+    {
+      "added_at": "2026-05-08 08:22:10",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/2tkvHgxZAjDZZb6eQ2lGkZ"
+      },
+      "artists": [
+        {
+          "name": "Svaneborg Kardyb",
+          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
+        }
+      ],
+      "duration_ms": 259970,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/5eMNHvVloaTLdWD2qxaIn3"
     },
     {
       "added_at": "2026-05-08 08:22:10",

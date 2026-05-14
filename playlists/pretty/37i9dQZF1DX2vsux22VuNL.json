@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 291080,
+  "num_followers": 291062,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,30 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
+        "name": "Pensando Em N\u00f3s",
+        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Pensando Em N\u00f3s",
+      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
         "name": "Flor de Maio",
         "url": "https://open.spotify.com/album/18jhTVeRNyNOTkM1YeOYZt"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 154105,
       "name": "O Despertar",
       "url": "https://open.spotify.com/track/33wlhom1u9DpjP28vbjj1u"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
-        "name": "Pensando Em N\u00f3s",
-        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Pensando Em N\u00f3s",
-      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1103,6 +1103,30 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
+        "name": "PAZ",
+        "url": "https://open.spotify.com/album/0EERtu0Qbd2RFSiNp3HGdN"
+      },
+      "artists": [
+        {
+          "name": "Pez\u00e3o",
+          "url": "https://open.spotify.com/artist/2UiLeUnwb6HIGBjyp6BK8J"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        }
+      ],
+      "duration_ms": 239557,
+      "name": "PAZ",
+      "url": "https://open.spotify.com/track/3d030LtkMGUreX1dk56goW"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
         "name": "Casal de Uma Noite S\u00f3",
         "url": "https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL"
       },
@@ -1155,30 +1179,6 @@
       "duration_ms": 364195,
       "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
       "url": "https://open.spotify.com/track/1dPYH7lKhUZHoaZMMeQHN3"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
-        "name": "PAZ",
-        "url": "https://open.spotify.com/album/0EERtu0Qbd2RFSiNp3HGdN"
-      },
-      "artists": [
-        {
-          "name": "Pez\u00e3o",
-          "url": "https://open.spotify.com/artist/2UiLeUnwb6HIGBjyp6BK8J"
-        },
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "Gu$t",
-          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
-        }
-      ],
-      "duration_ms": 239557,
-      "name": "PAZ",
-      "url": "https://open.spotify.com/track/3d030LtkMGUreX1dk56goW"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Me Diz Quando A Gente Vai Se Ver",
-        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Me Diz Quando A Gente Vai Se Ver",
-      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Pra todo mundo que \u00e9 emocionado",
         "url": "https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 171585,
       "name": "Pra todo mundo que \u00e9 emocionado",
       "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "Me Diz Quando A Gente Vai Se Ver",
+        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Me Diz Quando A Gente Vai Se Ver",
+      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
     },
     {
       "added_at": "2026-02-23 14:14:13",

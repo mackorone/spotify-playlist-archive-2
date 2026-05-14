@@ -9402,7 +9402,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 172153,
       "name": "From Now",
       "url": "https://open.spotify.com/track/0DM3lSIBNK4ydX6jId7XbC"
@@ -16750,6 +16750,24 @@
       "duration_ms": 165877,
       "name": "need that",
       "url": "https://open.spotify.com/track/1ZGpwuim0mPENX0yg1Q4cp"
+    },
+    {
+      "album": {
+        "name": "NEED U",
+        "url": "https://open.spotify.com/album/3ypwm1CP5knsBg0c4xnFjS"
+      },
+      "artists": [
+        {
+          "name": "TACHIAN",
+          "url": "https://open.spotify.com/artist/5nmUsvbk7aA1zb0gxD9nG4"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199448,
+      "name": "NEED U",
+      "url": "https://open.spotify.com/track/3X8N82pF8LlB0mMuwn4so8"
     },
     {
       "album": {

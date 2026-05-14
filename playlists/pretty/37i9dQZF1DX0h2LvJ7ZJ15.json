@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1631600,
+  "num_followers": 1631855,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-04-07 14:54:05",
       "album": {
-        "name": "LOVELY BASTARDS (Slowed)",
-        "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
-      },
-      "artists": [
-        {
-          "name": "ZWE1HVNDXR",
-          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
-        },
-        {
-          "name": "yatashigang",
-          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
-        }
-      ],
-      "duration_ms": 152674,
-      "name": "LOVELY BASTARDS - Slowed",
-      "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
-    },
-    {
-      "added_at": "2026-04-07 14:54:05",
-      "album": {
         "name": "coldshade",
         "url": "https://open.spotify.com/album/7stzTSqo40hosxvqvrUFZx"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 204887,
       "name": "coldshade - Slowed",
       "url": "https://open.spotify.com/track/6kazHgRY42IvErUxsSInVV"
+    },
+    {
+      "added_at": "2026-04-07 14:54:05",
+      "album": {
+        "name": "LOVELY BASTARDS (Slowed)",
+        "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "duration_ms": 152674,
+      "name": "LOVELY BASTARDS - Slowed",
+      "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
     },
     {
       "added_at": "2026-04-07 14:54:05",

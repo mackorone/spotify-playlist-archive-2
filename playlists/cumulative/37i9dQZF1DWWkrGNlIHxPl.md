@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by Arab artists\. Cover: Saint Levant
+> Global crossovers by Arab artists\. Cover: Nory & Nadine El Roubi
 
-380 songs - 20 hr 42 min
+383 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Astronaut in the Ocean](https://open.spotify.com/track/27ErCu5vx463lPyabA87oi) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Astronaut in the Ocean](https://open.spotify.com/album/4JupiYe3WiIJwzA0BxXvXl) | 2:14 | 2021-12-16 | 2022-05-05 |
 | [Astronaut In The Ocean \- The Synaptik & Freek Remix](https://open.spotify.com/track/5xSHLDWdeIEpBa84mQRoJX) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 3:18 | 2021-12-16 | 2022-08-05 |
 | [ATARAXIA](https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 2:56 | 2024-10-18 |  |
+| [audio ghost](https://open.spotify.com/track/5SOtvBhAJI7B4gAwRTDUvF) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [audio ghost](https://open.spotify.com/album/61Rb6lzuf3kk9pOcFtDrVq) | 2:13 | 2026-05-13 |  |
 | [Awake](https://open.spotify.com/track/4hLN4fsuA4E5HyOQM7d5Fo) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Awake](https://open.spotify.com/album/4EVEmumfv1Maw79Kipv0Uw) | 3:00 | 2021-12-16 | 2022-10-09 |
 | [AYZANI](https://open.spotify.com/track/65opn1GI1WWZ5j7NJMQuRL) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [AYZANI](https://open.spotify.com/album/6fEpLvYXIRJCB2aHN3QeQo) | 2:45 | 2026-04-23 |  |
 | [Bahja Bidha](https://open.spotify.com/track/75pvUJiPQ2Eg0wSiZokVe9) | [Dahmane El Harrachi](https://open.spotify.com/artist/0WtlXlCzfp2mJyINCsf1tb) | [Le Chaâbi, Vol\. 2](https://open.spotify.com/album/0kNtY2VnymD3B7veZcLoaR) | 5:57 | 2022-06-06 | 2022-06-24 |
@@ -100,6 +101,7 @@
 | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/track/21A4JaxvfhCINfSV7opcUv) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO), [Amal Maghrabi](https://open.spotify.com/artist/5QzA0opnA9ZIGWF5ZFFnNI) | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/album/23h8qFcArj3keLTY0jmyJl) | 3:28 | 2021-12-16 | 2022-07-29 |
 | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/track/2OvkCZfT67niZHpnZ28215) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO), [Amal Maghrabi](https://open.spotify.com/artist/5QzA0opnA9ZIGWF5ZFFnNI) | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/album/7rUWs9A2Owofq7T1IfVnkQ) | 3:28 | 2022-07-28 | 2023-01-26 |
 | [ELEPHANT in the room](https://open.spotify.com/track/6ZyM3trBytgnYgRfh2stYu) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [ELEPHANT in the room](https://open.spotify.com/album/3t98yciKCkgEvjLYwtrNPg) | 2:54 | 2023-07-31 | 2023-09-20 |
+| [ENEMY OF THE STATE](https://open.spotify.com/track/4aYbsdzbKuhkFHYdODiBl8) | [Nory](https://open.spotify.com/artist/4cDwm4vhL5IYVN5SlY3FRM), [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [ENEMY OF THE STATE](https://open.spotify.com/album/1U6pOb4Oixmu7VmnXOAbf8) | 2:29 | 2026-05-13 |  |
 | [Enta](https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.1](https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC) | 3:08 | 2022-04-22 | 2023-06-15 |
 | [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 | 2024-06-15 | 2024-09-14 |
 | [Everlasting Dance](https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Everlasting Dance](https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1) | 3:23 | 2023-06-07 | 2026-04-24 |
@@ -174,7 +176,7 @@
 | [I Guess](https://open.spotify.com/track/1Q8UhAL4Ebspx05qAFGyTn) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [I Guess](https://open.spotify.com/album/1KCGlttwZbhgs9WfNoHitL) | 2:38 | 2022-12-12 | 2023-06-03 |
 | [I Miss You So](https://open.spotify.com/track/2A9K8umLwHLCo1RKDdEkHG) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [I Miss You So](https://open.spotify.com/album/1xxM6IffyyGSq959QBgleA) | 3:34 | 2023-02-27 | 2023-03-13 |
 | [I'M HERE](https://open.spotify.com/track/0sQuYu2RP49JdqprLskHbB) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [I'M HERE](https://open.spotify.com/album/5RiGTzqHWdL9k5cYf5HvuG) | 2:10 | 2022-05-27 | 2022-12-08 |
-| [If I Must Die](https://open.spotify.com/track/1bUdNH9WMnKjjJtMJeVPjy) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [If I Must Die](https://open.spotify.com/album/6d9ZXeO25MhLiiThjPq0W5) | 2:44 | 2025-10-06 |  |
+| [If I Must Die](https://open.spotify.com/track/1bUdNH9WMnKjjJtMJeVPjy) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [If I Must Die](https://open.spotify.com/album/6d9ZXeO25MhLiiThjPq0W5) | 2:44 | 2025-10-06 | 2026-05-14 |
 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 | 2023-03-12 | 2023-03-15 |
 | [IL0V3Y0U](https://open.spotify.com/track/0MdcE5oHji8C8XCJCR5o3z) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [IL0V3Y0U](https://open.spotify.com/album/3f2hRnl0alXw9bz8PpQSWz) | 2:43 | 2023-09-19 | 2024-03-12 |
 | [Illbealright](https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Illbealright](https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6) | 3:32 | 2023-06-02 | 2026-04-24 |
@@ -201,6 +203,7 @@
 | [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 | 2022-08-25 | 2023-08-07 |
 | [Leeh \(feat\. BUGGATINO\)](https://open.spotify.com/track/6TCbTczOreXauNQMepPeuJ) | [Azira](https://open.spotify.com/artist/3uUYaYT9wbZFNL0iMv5LIP), [BUGGATINO](https://open.spotify.com/artist/43zou9f8vndQl2XZR5gAmR) | [Leeh \(feat\. BUGGATINO\)](https://open.spotify.com/album/0XwxYo7Gd8biv6yp2GIQgK) | 2:53 | 2021-12-16 | 2022-06-07 |
 | [Legend](https://open.spotify.com/track/2p4Pl6IzNlZ0lpZqGLbinC) | [Sons of Yusuf](https://open.spotify.com/artist/6Vptp9yQcvtgjwFt6GDQno), [Sandhill](https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2) | [Legend](https://open.spotify.com/album/60O0ca9zcTXnFMyJxNyoVP) | 3:15 | 2021-12-16 | 2022-04-08 |
+| [Leila](https://open.spotify.com/track/5XPJ4knJTeyOTt71mwY6aH) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Leila](https://open.spotify.com/album/2724bx6Kskvgii4dFiSyjm) | 3:46 | 2026-05-13 |  |
 | [LIARS CAN'T HIDE](https://open.spotify.com/track/0lVpfIsQ336HysPSP5PlPx) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [LIARS CAN'T HIDE](https://open.spotify.com/album/11hKCgN02XVRY1gDycGKDY) | 2:16 | 2024-06-08 |  |
 | [Like That](https://open.spotify.com/track/57ckc64pkdrinysXmErndL) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [Like That](https://open.spotify.com/album/3tzNLXTx8mH1lPaFrIuKXx) | 3:19 | 2021-12-16 | 2022-03-08 |
 | [Lonely People](https://open.spotify.com/track/3fN7EGwo1y6qAQnT1U7IPn) | [Imen Siar](https://open.spotify.com/artist/36JmeaPYkStxoKLqPmUNVE) | [Lonely People](https://open.spotify.com/album/1j8KSKJtQwcjzdbylsGcAa) | 3:13 | 2022-03-18 | 2022-12-08 |
@@ -312,7 +315,7 @@
 | [SOLD](https://open.spotify.com/track/4hMcamMdjiJmZ3thozEqOR) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [SOLD](https://open.spotify.com/album/2FZStBhAxT7X2hJaPsUXDm) | 2:38 | 2022-08-04 | 2023-04-29 |
 | [Something I Need](https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Something I Need](https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX) | 3:36 | 2023-04-07 | 2023-05-27 |
 | [Somewave](https://open.spotify.com/track/5UdK4jJ7qcY8wU4d9kpits) | [Zeyada](https://open.spotify.com/artist/2UJIKiHl019qoazIKbax7D) | [Somewave](https://open.spotify.com/album/6JH0QKxS6ygJqS3zTsoiHk) | 3:01 | 2021-12-16 | 2022-06-07 |
-| [Souvenir](https://open.spotify.com/track/3pJ7Zz0759gcQDSDmF3c73) | [L'ASTRO](https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv) | [Souvenir](https://open.spotify.com/album/3EckeasMm45ypnwReWIIVo) | 2:36 | 2024-10-07 |  |
+| [Souvenir](https://open.spotify.com/track/3pJ7Zz0759gcQDSDmF3c73) | [L'ASTRO](https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv) | [Souvenir](https://open.spotify.com/album/3EckeasMm45ypnwReWIIVo) | 2:36 | 2024-10-07 | 2026-05-14 |
 | [Stars Align](https://open.spotify.com/track/6isRn13M76FHcFFefJwSUj) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Attention \- R&B Favourites](https://open.spotify.com/album/4HendAoi1Gnkm8O4Q0rQ8P) | 4:20 | 2022-12-15 | 2023-01-04 |
 | [Stars Align \(with Drake\)](https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 4:20 | 2021-12-16 | 2023-01-01 |
 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 | 2022-12-15 | 2023-03-14 |
@@ -337,7 +340,7 @@
 | [The First Disciple](https://open.spotify.com/track/5mbeR5Kz4A1wfZsU9bXUJt) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [The First Disciple](https://open.spotify.com/album/0Tq5p3TGrec8ZKEh68JNWO) | 6:02 | 2022-05-26 | 2022-07-29 |
 | [The First Disciple](https://open.spotify.com/track/7jEuDXkFXtE5LKnq4SMTM7) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 6:02 | 2022-10-08 | 2023-04-01 |
 | [The Pen & The Sword](https://open.spotify.com/track/1VgwKZoRyDjkOvVWlBs0Y9) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [The Pen & The Sword](https://open.spotify.com/album/0701R6QU1xnQFYxy8mVTaW) | 2:55 | 2023-09-19 |  |
-| [The Route](https://open.spotify.com/track/3AzfHcA5mmjkg04BBXBoiE) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Dual Reality](https://open.spotify.com/album/4snbzdTWgW4W2UuDtbgvIw) | 2:43 | 2024-09-27 |  |
+| [The Route](https://open.spotify.com/track/3AzfHcA5mmjkg04BBXBoiE) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Dual Reality](https://open.spotify.com/album/4snbzdTWgW4W2UuDtbgvIw) | 2:43 | 2024-09-27 | 2026-05-14 |
 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 | 2022-03-14 | 2022-12-08 |
 | [The Tourist / The Local](https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ) | [Marwan Elfakharany](https://open.spotify.com/artist/2oG1c2PmDXKTLMofwwgTxp) | [Chapter 2: Love Come Get Me](https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3) | 4:44 | 2023-03-20 | 2023-05-27 |
 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 | 2022-12-07 | 2023-03-14 |

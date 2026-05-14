@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "MUSEUM",
+        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
+      },
+      "artists": [
+        {
+          "name": "OWIS",
+          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146338,
+      "name": "airplane : 143",
+      "url": "https://open.spotify.com/track/24odAZQ1krmbVhG2tH4IXh"
+    },
+    {
+      "album": {
         "name": "Track 03",
         "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
       },
@@ -1672,6 +1690,24 @@
       "duration_ms": 239002,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+    },
+    {
+      "album": {
+        "name": "Poem of Spring",
+        "url": "https://open.spotify.com/album/7IDzVxjASo7fI7uAWpWvlE"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186375,
+      "name": "Poem of Spring",
+      "url": "https://open.spotify.com/track/6bvm2Ej8Q1P7a6TL5lLd4y"
     },
     {
       "album": {

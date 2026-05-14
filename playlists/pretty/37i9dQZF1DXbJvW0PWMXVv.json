@@ -575,22 +575,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Sorriso Eu Gosto no Pagode Vol. 3 - Homenagem ao Fundo de Quintal (Gravado em Londres) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 258656,
-      "name": "Lucidez - Ao Vivo",
-      "url": "https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "al romper la burbuja",
         "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 234445,
       "name": "pesimista",
       "url": "https://open.spotify.com/track/4h3UlQtw65wj5tiYZ4TZ3s"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Sorriso Eu Gosto no Pagode Vol. 3 - Homenagem ao Fundo de Quintal (Gravado em Londres) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 258656,
+      "name": "Lucidez - Ao Vivo",
+      "url": "https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1115,18 +1115,26 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+        "name": "Aventuras de Caramelo",
+        "url": "https://open.spotify.com/album/1iZLM6uFvP1OP1D4SwMm9Q"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Antonio Caramelo",
+          "url": "https://open.spotify.com/artist/2iCmceKgCskEfeiw0lWhfF"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Malibu Kids",
+          "url": "https://open.spotify.com/artist/2VQHINk1AordxUvaQplYM7"
         }
       ],
-      "duration_ms": 266737,
-      "name": "CAJU",
-      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
+      "duration_ms": 154900,
+      "name": "Bolinha Azul",
+      "url": "https://open.spotify.com/track/5w1vjzU1xvgEIp1gwGT9rA"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1159,30 +1167,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Aventuras de Caramelo",
-        "url": "https://open.spotify.com/album/1iZLM6uFvP1OP1D4SwMm9Q"
-      },
-      "artists": [
-        {
-          "name": "Antonio Caramelo",
-          "url": "https://open.spotify.com/artist/2iCmceKgCskEfeiw0lWhfF"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Malibu Kids",
-          "url": "https://open.spotify.com/artist/2VQHINk1AordxUvaQplYM7"
-        }
-      ],
-      "duration_ms": 154900,
-      "name": "Bolinha Azul",
-      "url": "https://open.spotify.com/track/5w1vjzU1xvgEIp1gwGT9rA"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Caman\u00e9 Ao Vivo No CCB - Homenagem a Jos\u00e9 M\u00e1rio Branco",
         "url": "https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "CAJU",
+      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/1rYAzBqBHOJhRQ6e77vaod"
       },
@@ -1211,30 +1211,6 @@
       "duration_ms": 452573,
       "name": "Flight 962",
       "url": "https://open.spotify.com/track/5986EUS4Rn5gp9LaDs0mz1"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Amaro Freitas",
-          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 431494,
-      "name": "AO TEU LADO",
-      "url": "https://open.spotify.com/track/5veL5yeni75MC7zZ8ne1gS"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1299,6 +1275,30 @@
       "duration_ms": 243333,
       "name": "A Melhor Sa\u00edda",
       "url": "https://open.spotify.com/track/6nnQ6idUNylK6LBckW9hyO"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 431494,
+      "name": "AO TEU LADO",
+      "url": "https://open.spotify.com/track/5veL5yeni75MC7zZ8ne1gS"
     },
     {
       "added_at": "2025-09-17 15:00:09",

@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34394,
+  "num_followers": 34398,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,26 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
+        "name": "Musica Nuda - My Favorite Tunes",
+        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
+      },
+      "artists": [
+        {
+          "name": "Petra Magoni",
+          "url": "https://open.spotify.com/artist/3VrYO8Q1lMGMRH2tgcfr4s"
+        },
+        {
+          "name": "Ferruccio Spinetti",
+          "url": "https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Bach Aire",
+      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
         "name": "Milestones - Un Incontro In Jazz",
         "url": "https://open.spotify.com/album/7CvHJLd6qmyVhoIRnwlbNQ"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 438346,
       "name": "Senza Fine",
       "url": "https://open.spotify.com/track/1vp31dl868PovF1oReS716"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
-        "name": "Musica Nuda - My Favorite Tunes",
-        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
-      },
-      "artists": [
-        {
-          "name": "Petra Magoni",
-          "url": "https://open.spotify.com/artist/3VrYO8Q1lMGMRH2tgcfr4s"
-        },
-        {
-          "name": "Ferruccio Spinetti",
-          "url": "https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Bach Aire",
-      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "L'indispensabile",
         "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 407760,
       "name": "Ultimo amore",
       "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
-      },
-      "artists": [
-        {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "Prati Bagnati Del Monte Analogo",
         "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
         "name": "1000 Smiles",
         "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "New Game Plus",
         "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 222000,
       "name": "2 AM",
       "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
         "name": "Amore a prima vista",
         "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 164246,
       "name": "Amore a prima vista - Bossa & Jazz Version",
       "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "For Those I Never Knew",
-        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
-      },
-      "artists": [
-        {
-          "name": "Luca Flores",
-          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
-        }
-      ],
-      "duration_ms": 269139,
-      "name": "How Far Can You Fly? (Ladder) - Original Version",
-      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "Norma (Arr. for Jazz Orchestra)",
         "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+      },
+      "artists": [
+        {
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+        }
+      ],
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     },
     {
       "added_at": "2026-05-07 22:04:36",

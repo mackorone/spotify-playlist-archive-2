@@ -1,6 +1,6 @@
 {
   "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Artur Rojek",
-  "num_followers": 129713,
+  "num_followers": 129756,
   "original_name": "Alternatywna Polska",
   "owner": {
     "name": "Spotify",
@@ -68,6 +68,10 @@
       },
       "artists": [
         {
+          "name": "BABIE LATO",
+          "url": "https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G"
+        },
+        {
           "name": "Natalia Grosiak",
           "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
         },
@@ -78,10 +82,6 @@
         {
           "name": "Kathia",
           "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
-        },
-        {
-          "name": "BABIE LATO",
-          "url": "https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G"
         }
       ],
       "duration_ms": 197793,

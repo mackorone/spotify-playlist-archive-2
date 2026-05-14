@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Da\u00f0i Freyr, HelgiT, Birnir og m\u00f6rgum fleiri!",
-  "num_followers": 9642,
+  "num_followers": 9644,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-05-08 00:00:01",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
-    },
-    {
-      "added_at": "2026-05-08 00:00:01",
-      "album": {
         "name": "GEEKIN (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 152533,
       "name": "GEEKIN (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q"
+    },
+    {
+      "added_at": "2026-05-08 00:00:01",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
     },
     {
       "added_at": "2026-05-08 00:00:01",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-05-08 00:00:01",
       "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/0VXJNeoTG1FDVc69l0Joqf"
-      },
-      "artists": [
-        {
-          "name": "Kyle Alessandro",
-          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
-        }
-      ],
-      "duration_ms": 161147,
-      "name": "Headlines",
-      "url": "https://open.spotify.com/track/4FMxamchqOEJFMMmPNwZfH"
-    },
-    {
-      "added_at": "2026-05-08 00:00:01",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/5vxOl8NZ3auwfNHBHYon5n"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 154099,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/42zGjIXYF1soqCfiqSXCLY"
+    },
+    {
+      "added_at": "2026-05-08 00:00:01",
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/0VXJNeoTG1FDVc69l0Joqf"
+      },
+      "artists": [
+        {
+          "name": "Kyle Alessandro",
+          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+        }
+      ],
+      "duration_ms": 161147,
+      "name": "Headlines",
+      "url": "https://open.spotify.com/track/4FMxamchqOEJFMMmPNwZfH"
     },
     {
       "added_at": "2026-05-08 00:00:01",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-05-08 00:00:01",
       "album": {
-        "name": "I've Been Missing U",
-        "url": "https://open.spotify.com/album/5Wjms6TRm1D8XSkv7YhuvE"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 163378,
-      "name": "I've Been Missing U",
-      "url": "https://open.spotify.com/track/6eRvpJ5dbz17RlKTRtD55c"
-    },
-    {
-      "added_at": "2026-05-08 00:00:01",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/4B1qPyJ2bG8USG8AsJwe88"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 206191,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/1fOSDhD21PpU6oBzsGMxMG"
+    },
+    {
+      "added_at": "2026-05-08 00:00:01",
+      "album": {
+        "name": "I've Been Missing U",
+        "url": "https://open.spotify.com/album/5Wjms6TRm1D8XSkv7YhuvE"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 163378,
+      "name": "I've Been Missing U",
+      "url": "https://open.spotify.com/track/6eRvpJ5dbz17RlKTRtD55c"
     },
     {
       "added_at": "2026-05-08 00:00:01",
@@ -963,58 +963,6 @@
     {
       "added_at": "2026-05-08 00:00:01",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/2u7rpfd4NMwhFgMXrPsgPd"
-      },
-      "artists": [
-        {
-          "name": "Enzo",
-          "url": "https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR"
-        },
-        {
-          "name": "seantommy",
-          "url": "https://open.spotify.com/artist/5jDDKbkXcoXJsowZyVIKHB"
-        }
-      ],
-      "duration_ms": 178602,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/6J03cdHlV9Dzz3c1AptqDb"
-    },
-    {
-      "added_at": "2026-05-08 00:00:01",
-      "album": {
-        "name": "Be My Party",
-        "url": "https://open.spotify.com/album/3CUEzet9ZFk7E9hMuSBUoN"
-      },
-      "artists": [
-        {
-          "name": "Izza Gara",
-          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
-        }
-      ],
-      "duration_ms": 132952,
-      "name": "Be My Party",
-      "url": "https://open.spotify.com/track/0WgtUjAlyJXp5IXgbOPQfQ"
-    },
-    {
-      "added_at": "2026-05-08 00:00:01",
-      "album": {
-        "name": "Closet Disco Queen",
-        "url": "https://open.spotify.com/album/6rqG9i4Ta02RZckj908KWM"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 222834,
-      "name": "Closet Disco Queen",
-      "url": "https://open.spotify.com/track/6XJ5vjfwHJ9yJwJRCCQMTB"
-    },
-    {
-      "added_at": "2026-05-08 00:00:01",
-      "album": {
         "name": "Good Without You",
         "url": "https://open.spotify.com/album/5awDzsU42xLV5jTXNiLC5I"
       },
@@ -1035,6 +983,58 @@
       "duration_ms": 157834,
       "name": "Good Without You",
       "url": "https://open.spotify.com/track/2TCqSjc5szJAQ8sqT7rTtV"
+    },
+    {
+      "added_at": "2026-05-08 00:00:01",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/2u7rpfd4NMwhFgMXrPsgPd"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR"
+        },
+        {
+          "name": "seantommy",
+          "url": "https://open.spotify.com/artist/5jDDKbkXcoXJsowZyVIKHB"
+        }
+      ],
+      "duration_ms": 178602,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6J03cdHlV9Dzz3c1AptqDb"
+    },
+    {
+      "added_at": "2026-05-08 00:00:01",
+      "album": {
+        "name": "Closet Disco Queen",
+        "url": "https://open.spotify.com/album/6rqG9i4Ta02RZckj908KWM"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 222834,
+      "name": "Closet Disco Queen",
+      "url": "https://open.spotify.com/track/6XJ5vjfwHJ9yJwJRCCQMTB"
+    },
+    {
+      "added_at": "2026-05-08 00:00:01",
+      "album": {
+        "name": "Be My Party",
+        "url": "https://open.spotify.com/album/3CUEzet9ZFk7E9hMuSBUoN"
+      },
+      "artists": [
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "duration_ms": 132952,
+      "name": "Be My Party",
+      "url": "https://open.spotify.com/track/0WgtUjAlyJXp5IXgbOPQfQ"
     },
     {
       "added_at": "2026-05-08 00:00:01",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-05-08 00:00:01",
       "album": {
-        "name": "DARRYL",
-        "url": "https://open.spotify.com/album/6DQJVc53ic6Z9DHbW76XbR"
-      },
-      "artists": [
-        {
-          "name": "BORIS",
-          "url": "https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "DARRYL",
-      "url": "https://open.spotify.com/track/56Xi4X86ZCgtQTmCSnrBkr"
-    },
-    {
-      "added_at": "2026-05-08 00:00:01",
-      "album": {
         "name": "lure",
         "url": "https://open.spotify.com/album/4EM9lezjSIAyCMNd6v0oRg"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 180200,
       "name": "nursed",
       "url": "https://open.spotify.com/track/0eHAj1orKqxcYybWXMB8ue"
+    },
+    {
+      "added_at": "2026-05-08 00:00:01",
+      "album": {
+        "name": "DARRYL",
+        "url": "https://open.spotify.com/album/6DQJVc53ic6Z9DHbW76XbR"
+      },
+      "artists": [
+        {
+          "name": "BORIS",
+          "url": "https://open.spotify.com/artist/598zdcipITFu6JHR7Zna8a"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "DARRYL",
+      "url": "https://open.spotify.com/track/56Xi4X86ZCgtQTmCSnrBkr"
     },
     {
       "added_at": "2026-05-08 00:00:01",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-05-08 00:00:01",
       "album": {
-        "name": "Hva\u00f0 ger\u00f0ist vi\u00f0 a\u00f0 segja takk fyrir?",
-        "url": "https://open.spotify.com/album/33VR6jcYOrtQbDgRZN8bDc"
-      },
-      "artists": [
-        {
-          "name": "Zyber",
-          "url": "https://open.spotify.com/artist/6eJhwqu1uVS9JOZzsQ7Sra"
-        }
-      ],
-      "duration_ms": 100384,
-      "name": "Hva\u00f0 ger\u00f0ist vi\u00f0 a\u00f0 segja takk fyrir?",
-      "url": "https://open.spotify.com/track/0nfxoRH0wqxpHYBm8jgoQl"
-    },
-    {
-      "added_at": "2026-05-08 00:00:01",
-      "album": {
         "name": "Huggun harmi gegn",
         "url": "https://open.spotify.com/album/16oC7Fp6CGg02jQTnyknWa"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 280000,
       "name": "Huggun harmi gegn",
       "url": "https://open.spotify.com/track/0GxuIW0tDAXJGjJ3iTVR2b"
+    },
+    {
+      "added_at": "2026-05-08 00:00:01",
+      "album": {
+        "name": "Hva\u00f0 ger\u00f0ist vi\u00f0 a\u00f0 segja takk fyrir?",
+        "url": "https://open.spotify.com/album/33VR6jcYOrtQbDgRZN8bDc"
+      },
+      "artists": [
+        {
+          "name": "Zyber",
+          "url": "https://open.spotify.com/artist/6eJhwqu1uVS9JOZzsQ7Sra"
+        }
+      ],
+      "duration_ms": 100384,
+      "name": "Hva\u00f0 ger\u00f0ist vi\u00f0 a\u00f0 segja takk fyrir?",
+      "url": "https://open.spotify.com/track/0nfxoRH0wqxpHYBm8jgoQl"
     },
     {
       "added_at": "2026-05-08 00:00:01",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-08 00:00:01",
       "album": {
-        "name": "B P T",
-        "url": "https://open.spotify.com/album/2wxSrXtx4j8cqjqoQbsijs"
-      },
-      "artists": [
-        {
-          "name": "Hrafn",
-          "url": "https://open.spotify.com/artist/37j3SRnSK6Hd4SYMsAMmao"
-        }
-      ],
-      "duration_ms": 106784,
-      "name": "B P T",
-      "url": "https://open.spotify.com/track/4zFref1M123gJbxiGEjonP"
-    },
-    {
-      "added_at": "2026-05-08 00:00:01",
-      "album": {
         "name": "The bridge",
         "url": "https://open.spotify.com/album/2DEzGIaIpeslDog0kj7gwB"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 235639,
       "name": "The bridge",
       "url": "https://open.spotify.com/track/7nzQJyAjcNOGsgjfvr9Oh5"
+    },
+    {
+      "added_at": "2026-05-08 00:00:01",
+      "album": {
+        "name": "B P T",
+        "url": "https://open.spotify.com/album/2wxSrXtx4j8cqjqoQbsijs"
+      },
+      "artists": [
+        {
+          "name": "Hrafn",
+          "url": "https://open.spotify.com/artist/37j3SRnSK6Hd4SYMsAMmao"
+        }
+      ],
+      "duration_ms": 106784,
+      "name": "B P T",
+      "url": "https://open.spotify.com/track/4zFref1M123gJbxiGEjonP"
     }
   ],
   "unique_name": "New Music Friday Iceland",

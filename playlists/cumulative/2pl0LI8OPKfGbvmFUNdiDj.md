@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-461 songs - 1 day 1 hr 49 min
+466 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-20 | 2026-01-15 |
 | [Bowerbird](https://open.spotify.com/track/3bqgRiOCd9ymGlaNO4S9h6) | [Perfect Weather for Humans](https://open.spotify.com/artist/1f2FYrOXGLghWMIcjrBwFD) | [Bowerbird](https://open.spotify.com/album/52YSSNofyjjtLsZcPAdvEL) | 5:15 | 2026-01-06 | 2026-02-21 |
 | [Boîte Magique](https://open.spotify.com/track/04GosWc3UkHFGxivdwVbmY) | [Nathalie Weider](https://open.spotify.com/artist/3Yxh2UfFmtitygOFD1eizB) | [Boîte Magique](https://open.spotify.com/album/2ScT2BrgRbnIiIaPVd0jj9) | 4:34 | 2025-12-25 | 2026-01-15 |
+| [Break These Chains](https://open.spotify.com/track/6UXMNP2WDg7RhYpanEkSOL) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Break These Chains](https://open.spotify.com/album/5x59iPEINkuzJY35NV7hbf) | 3:24 | 2026-05-13 |  |
 | [Break These Chains](https://open.spotify.com/track/3axpdtLJYG1k7lIXCTBWzK) | [Mícheál Hillen](https://open.spotify.com/artist/7fMUnhujgqoUxpLolw4uhG) | [Break These Chains](https://open.spotify.com/album/1ardTUvHlmUNtTOgApTwog) | 2:59 | 2025-11-05 | 2025-12-01 |
 | [Brian and Old Tom](https://open.spotify.com/track/7yyrFEH3eQQK2pL4ynhsge) | [MORRS](https://open.spotify.com/artist/62gqmfoVxMEKTdB426eb4I) | [Brian and Old Tom](https://open.spotify.com/album/1Mcn2OsWWMIvtAdlxNOStf) | 3:57 | 2025-11-17 | 2026-01-05 |
 | [BTC \- Live](https://open.spotify.com/track/2mSsTajIROCRN8Ffri2ZjF) | [Gal\_or](https://open.spotify.com/artist/0j0hVZhTBQrmQNMjyzI0QM), [Gal Dahan](https://open.spotify.com/artist/21x9QjLzTIpMonjnMzVvQB), [Tal Michles](https://open.spotify.com/artist/5qMmNcUwmq0QNJCulxMTQO), [Yair Samoylov](https://open.spotify.com/artist/6lYlIZdEaIKjrhAmwCgZse) | [BTC \(Live\)](https://open.spotify.com/album/3wkU4WU6EXuuAFvGEFWlbc) | 5:19 | 2025-12-20 | 2026-01-15 |
@@ -185,6 +186,7 @@
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-24 | 2026-01-05 |
 | [Hectic Movement](https://open.spotify.com/track/4G0L0GzZjStc84JE0muTBt) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Eviction Notice](https://open.spotify.com/album/2vSRvfh99w8GfaaZpbUkjS) | 2:17 | 2025-11-08 | 2025-12-01 |
 | [Heir To The Throne](https://open.spotify.com/track/3A0cKdejEnyr8wojgntQVH) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Heir To The Throne](https://open.spotify.com/album/3NekfNDmU7iDJbPqM5PzFB) | 4:09 | 2026-04-28 |  |
+| [Hell Yeah! \- Live](https://open.spotify.com/track/20nc8GukCpUXya4TtHigcH) | [First Date Fuckers](https://open.spotify.com/artist/4UCxI5qHOs4Gi8xyfDDlVd) | [LIVE IN LONDON](https://open.spotify.com/album/4TjxfhIrZog2yGEeU8rAsg) | 3:52 | 2026-05-13 |  |
 | [Heute geh ich drauf](https://open.spotify.com/track/23nNSezQQ5f4GYcnkDmHiX) | [EKN\_0322](https://open.spotify.com/artist/2TzFfwjSStKVlmeexgGpK5) | [Heute geh ich drauf](https://open.spotify.com/album/3ZrFHe0uXTln9gL7JMqqFb) | 2:45 | 2026-01-24 | 2026-02-21 |
 | [Hey Woman](https://open.spotify.com/track/08JpU2mT1TLwxZme4pAHU5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 2:57 | 2026-02-28 |  |
 | [Higher Ground](https://open.spotify.com/track/6OKnrZiGv6u4gDg92UuEtf) | [Fernando's Eyes](https://open.spotify.com/artist/2nrwwBTk2oiNYRK29k6vGr) | [Bonus Tracks & Remixes](https://open.spotify.com/album/0wLTi4IIGvYo9isxjLoxHi) | 6:11 | 2025-11-22 | 2026-01-05 |
@@ -359,6 +361,7 @@
 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 | 2026-04-30 |  |
 | [Shine Again](https://open.spotify.com/track/3gvW1GzMz9ZziCm7oMzxFK) | [Radio Rosine](https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka) | [Shine Again](https://open.spotify.com/album/1EIhHwdJLtXEvXDWtSpjPc) | 3:39 | 2025-12-20 | 2026-01-15 |
 | [Sin aire](https://open.spotify.com/track/5cOfPn6Krz3MKoBiOKDtJV) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Sin aire](https://open.spotify.com/album/51FfR6nXySt8MN06vr84bh) | 2:37 | 2025-11-05 | 2025-12-01 |
+| [Sins](https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Sins](https://open.spotify.com/album/7upoZURMk4ZcAlulV9Rluu) | 3:28 | 2026-05-13 |  |
 | [Skydance](https://open.spotify.com/track/15zR06FbjuduwqCaFYs4gw) | [DeLee](https://open.spotify.com/artist/03QtwFNNguDpdprkrCZuz0) | [Skydance](https://open.spotify.com/album/0QuAlKoAMPIogPdcITmRXB) | 2:52 | 2025-11-02 | 2025-12-01 |
 | [Slam Dunk](https://open.spotify.com/track/0asprWWnSSVaYhWvmRKDgb) | [Aishe](https://open.spotify.com/artist/6lXZYPpYrkt4jbBawRJ6qA) | [Slam Dunk](https://open.spotify.com/album/6IMcApH01rfqNtTdvWEoN6) | 2:03 | 2025-11-17 | 2026-01-05 |
 | [Sniffing Markers](https://open.spotify.com/track/3iZm8CiTo8oWCpTpacDYG3) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:52 | 2025-11-30 | 2026-01-05 |
@@ -366,6 +369,7 @@
 | [Solos tú y yo](https://open.spotify.com/track/2oXDydAuDS6F88LMwnqELE) | [Chaplin](https://open.spotify.com/artist/0NRtBBSool3NhHpi6WPHkI), [Drumglass](https://open.spotify.com/artist/5TV3jKC1INn5xO2MLgdDSw) | [Solos tú y yo](https://open.spotify.com/album/4d8ImOKjPHKYKLEaOX439d) | 3:20 | 2025-11-22 | 2026-01-05 |
 | [Something You Know](https://open.spotify.com/track/5aiZesL3a40ceXTtnldlSD) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [Something You Know](https://open.spotify.com/album/3eUa3PiDZCRCZGgwDzvpHC) | 3:17 | 2026-02-19 | 2026-04-25 |
 | [Song of the Week \- \(Album Version\)](https://open.spotify.com/track/4Hh3cYCCSHebeaHB49YGsB) | [Kenny Mehler](https://open.spotify.com/artist/4N1Sigw37UfElIUUR981QS) | [Cornbread and Whiskey](https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg) | 2:39 | 2025-11-01 | 2025-12-01 |
+| [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2026-05-13 |  |
 | [Sotto la Pioggia](https://open.spotify.com/track/1E5cfhHQzQEGFrkCLCoJYK) | [Vacant Age](https://open.spotify.com/artist/4oRYX3WgCNT4BzcKXxLXPq) | [Sotto la Pioggia](https://open.spotify.com/album/2P2iK8WQH5ziCz9z91QcaC) | 3:16 | 2025-12-24 | 2026-01-15 |
 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 | 2025-11-30 | 2026-01-05 |
 | [Stars Align](https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stars Align](https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S) | 3:36 | 2025-11-17 | 2026-01-05 |
@@ -434,6 +438,7 @@
 | [Was All \(Live at Rui2online\)](https://open.spotify.com/track/7287cbTyQRUs93lI7T5kLA) | [Bed Riders](https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ), [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [2014](https://open.spotify.com/album/4zRuYKD8Jr5mFjxeghUQ1E) | 5:08 | 2025-12-20 | 2026-01-15 |
 | [Was Los](https://open.spotify.com/track/0n0VH7jkxUITqDGTVRpBTH) | [Willi Eyy](https://open.spotify.com/artist/4nBqFEM66Gl0kKkKDKDx2t), [Krizbo](https://open.spotify.com/artist/6kIxxuflj0QyD89t9v4SSN) | [Was Los](https://open.spotify.com/album/0n9HJBDelqWOxZrFZqjEfK) | 3:11 | 2026-01-31 | 2026-03-03 |
 | [Waste Your Life Away](https://open.spotify.com/track/3eabOltffS3CrKuJ0lSkL5) | [No Consent](https://open.spotify.com/artist/7jg6RKGiaiKYF7QJ3bigxW) | [Waste Your Life Away](https://open.spotify.com/album/61RNd1AYukexfLY2M9PgT6) | 2:56 | 2025-12-04 | 2026-01-05 |
+| [Wasting My Time](https://open.spotify.com/track/33xLkxYXmsvaZKUvN1LO2n) | [Bad Mother Nature](https://open.spotify.com/artist/6pnqSlSpc5z1Svc1aDC61b) | [Wasting My Time](https://open.spotify.com/album/6bhne7zajsPKWMfREgBIio) | 3:52 | 2026-05-13 |  |
 | [We're Not Going Back !](https://open.spotify.com/track/2ZfUwtNAa1m2pFfbw12P1f) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [We're Not Going Back !](https://open.spotify.com/album/24RpqAI2h0N71yyWZAHjUR) | 3:09 | 2026-01-24 | 2026-02-21 |
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-12-29 | 2026-01-25 |
 | [WER ZAHLT?](https://open.spotify.com/track/1tyHRSnq2wSfnlqT7AIQkG) | [du zahlst](https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ) | [WER ZAHLT?](https://open.spotify.com/album/6M6QZyne28WhzUzSMZn1ju) | 4:19 | 2026-01-19 | 2026-02-21 |

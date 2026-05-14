@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Miluhska. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring aLex vs aLex. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -16178,6 +16178,24 @@
     {
       "album": {
         "name": "Ella",
+        "url": "https://open.spotify.com/album/0xCZ4O9TWu76HZX5Ganux2"
+      },
+      "artists": [
+        {
+          "name": "Bodine",
+          "url": "https://open.spotify.com/artist/3l0RaT1QvO3sAHccHxZgy1"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170008,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/35wMZ6rRS7MOo327osImdn"
+    },
+    {
+      "album": {
+        "name": "Ella",
         "url": "https://open.spotify.com/album/6xtYyeCIif3OaNMbOTinb7"
       },
       "artists": [
@@ -22906,7 +22924,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 170704,
       "name": "JUNO106",
       "url": "https://open.spotify.com/track/5oAnRL7VaJSOSRDIzBGu4U"
@@ -28706,7 +28724,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 165600,
       "name": "Me Gustas Tanto",
       "url": "https://open.spotify.com/track/1qMgmUjYvqtncpcMiwYyFg"
@@ -35465,6 +35483,24 @@
     },
     {
       "album": {
+        "name": "OTRA COSA MARIPOSA",
+        "url": "https://open.spotify.com/album/5WbuT5XstCjeeZTz4eUWki"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "OTRA COSA MARIPOSA",
+      "url": "https://open.spotify.com/track/4bEt3v7NRisM84YVfzgdyy"
+    },
+    {
+      "album": {
         "name": "OTRA MANERA",
         "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
       },
@@ -38692,7 +38728,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 164371,
       "name": "Que Jodia Tristeza",
       "url": "https://open.spotify.com/track/2xd4iPasbOXSInxNbwftB6"
@@ -39276,6 +39312,24 @@
       "duration_ms": 159500,
       "name": "Quieto mal",
       "url": "https://open.spotify.com/track/30YagZwIh0Iiy3G0DM0HIp"
+    },
+    {
+      "album": {
+        "name": "quisiera",
+        "url": "https://open.spotify.com/album/7AHG9x2e3h4zjBdjAzuwPs"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254218,
+      "name": "quisiera",
+      "url": "https://open.spotify.com/track/2cxlVp4E32261uVRRJS8Fk"
     },
     {
       "album": {
@@ -46654,7 +46708,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 208275,
       "name": "tocando",
       "url": "https://open.spotify.com/track/00BgZZQ8zvHNoyb5vmlmYo"
@@ -50092,6 +50146,24 @@
       "duration_ms": 183872,
       "name": "Vente Pa Aca",
       "url": "https://open.spotify.com/track/080DuuIelsTw0XhJszJShf"
+    },
+    {
+      "album": {
+        "name": "venus & romeo",
+        "url": "https://open.spotify.com/album/2nKTInQL5qoLf11ZXXBHnb"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123045,
+      "name": "venus & romeo",
+      "url": "https://open.spotify.com/track/7xPYhm2jFGzO6dZBjlS58n"
     },
     {
       "album": {

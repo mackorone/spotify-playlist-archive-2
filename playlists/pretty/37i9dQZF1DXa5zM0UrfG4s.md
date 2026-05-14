@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,812 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,818 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 51 | [Helt Ærlig](https://open.spotify.com/track/00NVYE5PrMpR1gVlC8zPZV) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6) | [Helt Ærlig](https://open.spotify.com/album/5tpY3sc8z7TFGeCixCgW0Y) | 2:48 |
 | 52 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
 | 53 | [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 |
-| 54 | [Kunna vorre vær](https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Kunna vorre vær](https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt) | 2:18 |
+| 54 | [Langt igjen å gå](https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Langt igjen å gå](https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867) | 3:02 |
 | 55 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
-| 56 | [Langt igjen å gå](https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Langt igjen å gå](https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867) | 3:02 |
+| 56 | [Kunna vorre vær](https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Kunna vorre vær](https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt) | 2:18 |
 | 57 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 |
 | 58 | [Singel til jeg dør](https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Singel til jeg dør](https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f) | 2:22 |
 | 59 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |

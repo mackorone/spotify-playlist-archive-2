@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Diss Gacha in cover.
 
-424 songs - 21 hr 35 min
+425 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [LEWANDOWSKI VIII \(64 Bars\)](https://open.spotify.com/track/4A7tYODnFfrS0mymGZOEMJ) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/1UAkQ5bV8GvKrSMA4Vd1MV) | 2:50 | 2022-07-15 | 2023-12-15 |
 | [LEWANDOWSKI VIII \(64 Bars\)](https://open.spotify.com/track/5kH2a9KFmkkDme5LPRgjOz) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/3W0Np6mQAbBH3IpuZJj5po) | 2:50 | 2022-04-15 | 2022-07-29 |
 | [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 | 2023-05-04 | 2025-04-11 |
+| [LEWANDOWSKI XI](https://open.spotify.com/track/4F1XlmUmFbvAj3Pw8MMrPT) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/1skLkLQdIPk8L4c16DbqkX) | 2:58 | 2026-05-13 |  |
 | [Lifestyle](https://open.spotify.com/track/20XT7TO32dN1s9xtowLPuR) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:09 | 2022-04-15 |  |
 | [LikethisLikethat](https://open.spotify.com/track/3HZmRXf14kseu6k7awTcPe) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [NON GUARDARE GIÙ](https://open.spotify.com/album/4TFMkUQJGM1a2ZuarJKs4U) | 3:52 | 2025-05-15 | 2025-06-27 |
 | [Lilith](https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:44 | 2024-03-15 | 2026-02-06 |

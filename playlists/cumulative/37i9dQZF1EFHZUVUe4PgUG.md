@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-181 songs - 9 hr 31 min
+182 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Besos en Cualquier Horario](https://open.spotify.com/track/0aiJ4t6JYzLN5V9RSj6h2N) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Lucy Vives](https://open.spotify.com/artist/38J4nu5eGAEtwWH9fSWEj4) | [Besos en Cualquier Horario \(Official Video\)](https://open.spotify.com/album/6GWumwjL17cuDeKpxQC5lY) | 3:24 | 2023-12-13 | 2024-01-30 |
 | [Besos Escondíos \(feat\. Pedro Capó\)](https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Palmeras](https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL) | 2:42 | 2023-06-22 |  |
 | [Big Bang](https://open.spotify.com/track/7dxrSzsK1bouobJiY5fIcD) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:37 | 2024-12-11 |  |
+| [Borrachos](https://open.spotify.com/track/4Atb7JMjADktnKGOXzUmeF) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 3:23 | 2026-05-13 |  |
 | [Bota Fuego](https://open.spotify.com/track/7MYTacMEC5D7o30BkNnK7s) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 3:43 | 2023-07-23 | 2023-12-14 |
 | [Bota Fuego \- con Nicky Jam](https://open.spotify.com/track/6Y6YC93R1r0CISm5iC4j27) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Bota Fuego \(con Nicky Jam\)](https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6) | 3:43 | 2022-06-04 |  |
 | [Cachito](https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cachito](https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf) | 3:08 | 2022-06-04 |  |
@@ -166,8 +167,8 @@
 | [Sin Querer Queriendo \(feat\. Mau y Ricky\)](https://open.spotify.com/track/5rUNrHC5b0oYanaw370Ncz) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:48 | 2022-06-04 |  |
 | [Solo una Vez](https://open.spotify.com/track/4WCQeyTgRukuFL4Mwt68yw) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:07 | 2024-12-14 |  |
 | [Sonreír](https://open.spotify.com/track/0PeZSWnEegBvqWyJVatSwE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Jesse](https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:27 | 2022-06-04 |  |
+| [Sugar Mami](https://open.spotify.com/track/5sUoZwdTnrjxcBL2oSfb6z) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna](https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:11 | 2023-12-13 |  |
 | [Sugar Mami](https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sugar Mami](https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV) | 2:11 | 2023-06-18 | 2023-12-14 |
-| [Sugar Mami](https://open.spotify.com/track/5sUoZwdTnrjxcBL2oSfb6z) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:11 | 2023-12-13 |  |
 | [Tan Buena](https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:45 | 2022-06-04 |  |
 | [Tarde](https://open.spotify.com/track/2t3d3JhHNfX83R3r2shiLx) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K de Karma](https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc) | 2:55 | 2026-04-01 |  |
 | [The Cure](https://open.spotify.com/track/4Setk0A2CtxXFCgK9u7xxa) | [Alazka](https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7) | [The Cure](https://open.spotify.com/album/3n1kVPFKPYovCFBFDTrYUh) | 3:49 | 2024-03-26 | 2025-06-28 |

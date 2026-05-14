@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,038 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,972 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 20 | [Singular](https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Singular](https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo) | 3:50 |
 | 21 | [Perto de Você \- Ao Vivo](https://open.spotify.com/track/0cSIHvOAL4LqBpZnib5Ne5) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \(Ao Vivo Em Manaus\)](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 2:51 |
 | 22 | [Coração Calejado \- Ao Vivo](https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:46 |
-| 23 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
+| 23 | [Milu](https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Milu](https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI) | 3:44 |
 | 24 | [Derreter a Aliança \- Ao Vivo](https://open.spotify.com/track/5LrxVF7fpZZdbB7zy6MnIg) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:09 |
-| 25 | [Milu](https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Milu](https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI) | 3:44 |
+| 25 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
 | 26 | [O Que Houve? \- Ao Vivo](https://open.spotify.com/track/6fDadQZ5QlZgYqpZhDfwek) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Ao Vivo Em Maceió](https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC) | 4:39 |
 | 27 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
 | 28 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 73 | [Jenifer](https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Jenifer](https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH) | 2:40 |
 | 74 | [Ponto Final \- Ao Vivo](https://open.spotify.com/track/78UZagNegqHZAKv3491xB2) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:27 |
 | 75 | [Deus Me Livre Quem Me Dera](https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:03 |
-| 76 | [Sofro Onde Eu Quiser](https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Esquenta do DVD](https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV) | 2:35 |
-| 77 | [Mundo de Ilusões \- Ao Vivo](https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Mundo de Ilusões \(Ao Vivo\)](https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi) | 3:05 |
+| 76 | [Mundo de Ilusões \- Ao Vivo](https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Mundo de Ilusões \(Ao Vivo\)](https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi) | 3:05 |
+| 77 | [Sofro Onde Eu Quiser](https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Esquenta do DVD](https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV) | 2:35 |
 | 78 | [Oi Nego \(Não Vai Dar Parte 3\)](https://open.spotify.com/track/5M78WUOq5AjcDfLoj9yi6a) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C), [Maraisa](https://open.spotify.com/artist/7xRbrPoxLDHtoZ8PkUKAOr) | [Oi Nego \(Não Vai Dar Parte 3\)](https://open.spotify.com/album/3bj35fk8CPlghdLVOiDZnF) | 2:50 |
 | 79 | [Desconhecido \- Ao Vivo](https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:53 |
 | 80 | [Aperte O Play \- Ao Vivo](https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Aperte O Play! \(Ao Vivo\)](https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI) | 3:21 |

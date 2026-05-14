@@ -1,13 +1,49 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Baileyrp",
-  "num_followers": 256033,
+  "num_followers": 256043,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEimV+rYVgSS6k7vP4bEBTgLgjLT",
+  "snapshot_id": "AAAAAOc5wAPItzzBxsG+yZTvjfJ2q7wl",
   "tracks": [
+    {
+      "added_at": "2026-05-13 15:04:02",
+      "album": {
+        "name": "Better Angels",
+        "url": "https://open.spotify.com/album/33mfAax2G5I4xIimwIxjnt"
+      },
+      "artists": [
+        {
+          "name": "sadie",
+          "url": "https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc"
+        },
+        {
+          "name": "May Rio",
+          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
+        }
+      ],
+      "duration_ms": 182991,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/7ceXS6lQW6ypMvRumTvJXm"
+    },
+    {
+      "added_at": "2026-05-13 15:04:02",
+      "album": {
+        "name": "i wait, i sink",
+        "url": "https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o"
+      },
+      "artists": [
+        {
+          "name": "The Healing Power of Horses",
+          "url": "https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J"
+        }
+      ],
+      "duration_ms": 166167,
+      "name": "i wait, i sink",
+      "url": "https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN"
+    },
     {
       "added_at": "2026-05-06 17:59:13",
       "album": {
@@ -25,20 +61,36 @@
       "url": "https://open.spotify.com/track/4i48XJB5LK9FWvubslk3Ko"
     },
     {
-      "added_at": "2026-05-06 17:59:13",
+      "added_at": "2026-05-13 15:04:02",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/0qZvRbw7bR8fAI1xCwhaPH"
+        "name": "Beams",
+        "url": "https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16"
       },
       "artists": [
         {
-          "name": "Evil Adeline",
-          "url": "https://open.spotify.com/artist/1ECkxQh8rsOcuOChE5Flzi"
+          "name": "DERBY",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3DTwjK0pAoNX26FEGuZwO8"
+      "duration_ms": 161375,
+      "name": "Ambrosia",
+      "url": "https://open.spotify.com/track/344KZeQWZKibpxndj98m1j"
+    },
+    {
+      "added_at": "2026-05-13 15:04:02",
+      "album": {
+        "name": "When It's Leaving",
+        "url": "https://open.spotify.com/album/0zibF0KTPQWL5KSBI6FWex"
+      },
+      "artists": [
+        {
+          "name": "Pleasure Systems",
+          "url": "https://open.spotify.com/artist/6tuEL6IAVy9fuSPuZp1hMk"
+        }
+      ],
+      "duration_ms": 184874,
+      "name": "When It's Leaving",
+      "url": "https://open.spotify.com/track/4DywkvVLSUQnJg21CfMqUU"
     },
     {
       "added_at": "2026-04-22 16:16:37",
@@ -57,36 +109,84 @@
       "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
     },
     {
-      "added_at": "2026-05-06 17:59:13",
+      "added_at": "2026-05-13 15:04:02",
       "album": {
-        "name": "my heart was good (you never knew)",
-        "url": "https://open.spotify.com/album/5i3RwhZsSWtyM6Ppp9JrLO"
+        "name": "HOLD ME (SLOWLY)",
+        "url": "https://open.spotify.com/album/7m1REx16trI5MSc9uNLrja"
       },
       "artists": [
         {
-          "name": "shinyhunt",
-          "url": "https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63"
+          "name": "KatzPascale",
+          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
         }
       ],
-      "duration_ms": 201272,
-      "name": "my heart was good (you never knew)",
-      "url": "https://open.spotify.com/track/182pZBYrPgjBRVHSzSyWsw"
+      "duration_ms": 251500,
+      "name": "HOLD ME (SLOWLY)",
+      "url": "https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m"
+    },
+    {
+      "added_at": "2026-05-13 15:04:02",
+      "album": {
+        "name": "lure",
+        "url": "https://open.spotify.com/album/4EM9lezjSIAyCMNd6v0oRg"
+      },
+      "artists": [
+        {
+          "name": "Sindy",
+          "url": "https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "nursed",
+      "url": "https://open.spotify.com/track/0eHAj1orKqxcYybWXMB8ue"
+    },
+    {
+      "added_at": "2026-05-13 15:04:02",
+      "album": {
+        "name": "the plushies, they love you bro",
+        "url": "https://open.spotify.com/album/7b6ztDIWYP4CjLcNPnI6AS"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        }
+      ],
+      "duration_ms": 105999,
+      "name": "the plushies, they love you bro",
+      "url": "https://open.spotify.com/track/1n6r2NDSVjsSbVULU6ZMmD"
+    },
+    {
+      "added_at": "2026-05-13 15:04:02",
+      "album": {
+        "name": "Liar Liar",
+        "url": "https://open.spotify.com/album/0W7U9wdIcFsDVIJmExlPLX"
+      },
+      "artists": [
+        {
+          "name": "dearest",
+          "url": "https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT"
+        }
+      ],
+      "duration_ms": 195782,
+      "name": "Liar Liar",
+      "url": "https://open.spotify.com/track/43nlIi8s0GhjIc47lQ7lr5"
     },
     {
       "added_at": "2026-05-06 17:59:13",
       "album": {
-        "name": "Lighter in the Morning (2/2)",
-        "url": "https://open.spotify.com/album/66R6xgqXKrIN5xNma8dG6a"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0qZvRbw7bR8fAI1xCwhaPH"
       },
       "artists": [
         {
-          "name": "Veronica Everheart",
-          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+          "name": "Evil Adeline",
+          "url": "https://open.spotify.com/artist/1ECkxQh8rsOcuOChE5Flzi"
         }
       ],
-      "duration_ms": 179788,
-      "name": "22 & Climbing",
-      "url": "https://open.spotify.com/track/7KBLQuzWxiMWnBZvrRmuay"
+      "duration_ms": 192000,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3DTwjK0pAoNX26FEGuZwO8"
     },
     {
       "added_at": "2026-04-29 18:35:08",
@@ -103,6 +203,86 @@
       "duration_ms": 186446,
       "name": "You Say I Love You",
       "url": "https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w"
+    },
+    {
+      "added_at": "2026-05-13 15:04:02",
+      "album": {
+        "name": "tangerine!",
+        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "tangerine!",
+      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
+    },
+    {
+      "added_at": "2026-05-13 15:04:02",
+      "album": {
+        "name": "The Folkhouse",
+        "url": "https://open.spotify.com/album/5a579gBBhmqGsspzYvWWgz"
+      },
+      "artists": [
+        {
+          "name": "Lecx Stacy",
+          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Safe In Your Hands, I Clasp",
+      "url": "https://open.spotify.com/track/1AD4SaybMcep5W0kSRUZuD"
+    },
+    {
+      "added_at": "2026-05-06 17:59:13",
+      "album": {
+        "name": "my heart was good (you never knew)",
+        "url": "https://open.spotify.com/album/5i3RwhZsSWtyM6Ppp9JrLO"
+      },
+      "artists": [
+        {
+          "name": "shinyhunt",
+          "url": "https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63"
+        }
+      ],
+      "duration_ms": 201272,
+      "name": "my heart was good (you never knew)",
+      "url": "https://open.spotify.com/track/182pZBYrPgjBRVHSzSyWsw"
+    },
+    {
+      "added_at": "2026-05-13 15:04:02",
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/4DMrla244oAlAEKKOEOJ0X"
+      },
+      "artists": [
+        {
+          "name": "Bryce Bishop",
+          "url": "https://open.spotify.com/artist/4bCECQ7T6fKIUbM8PtC13Q"
+        }
+      ],
+      "duration_ms": 186903,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/0G6KhAjctCKbzAfN3EdYys"
+    },
+    {
+      "added_at": "2026-05-06 17:59:13",
+      "album": {
+        "name": "Lighter in the Morning (2/2)",
+        "url": "https://open.spotify.com/album/66R6xgqXKrIN5xNma8dG6a"
+      },
+      "artists": [
+        {
+          "name": "Veronica Everheart",
+          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+        }
+      ],
+      "duration_ms": 179788,
+      "name": "22 & Climbing",
+      "url": "https://open.spotify.com/track/7KBLQuzWxiMWnBZvrRmuay"
     },
     {
       "added_at": "2026-04-29 18:30:29",
@@ -493,54 +673,6 @@
       "url": "https://open.spotify.com/track/57m7ws7xQ6XSdOfU9w92D5"
     },
     {
-      "added_at": "2026-04-15 17:14:31",
-      "album": {
-        "name": "Generic Actress",
-        "url": "https://open.spotify.com/album/5lLKZrOFktnY1sUZocLkYG"
-      },
-      "artists": [
-        {
-          "name": "Paycheque",
-          "url": "https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe"
-        }
-      ],
-      "duration_ms": 202117,
-      "name": "Generic Actress",
-      "url": "https://open.spotify.com/track/6B5UyhbPKCXvmF3FOfud0K"
-    },
-    {
-      "added_at": "2026-04-15 17:14:31",
-      "album": {
-        "name": "cannonball \u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007",
-        "url": "https://open.spotify.com/album/2PcuUV7KMSjFfKHJhJR4Jt"
-      },
-      "artists": [
-        {
-          "name": "cratre",
-          "url": "https://open.spotify.com/artist/26Jjqr3I02y7Q7TAxPWsFW"
-        }
-      ],
-      "duration_ms": 135611,
-      "name": "cannonball \u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007\u3007",
-      "url": "https://open.spotify.com/track/6QeNNqPnYmPwr4NAzd6lnM"
-    },
-    {
-      "added_at": "2026-04-15 17:14:31",
-      "album": {
-        "name": "One Way To Say",
-        "url": "https://open.spotify.com/album/0mZ82bAyTg7TLrTooWics6"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sais Quoi",
-          "url": "https://open.spotify.com/artist/6YpejmpNAfxBhj1D1O1vJI"
-        }
-      ],
-      "duration_ms": 164616,
-      "name": "One Way To Say",
-      "url": "https://open.spotify.com/track/5ZsE7Ycok9CbFqCnHQMYRu"
-    },
-    {
       "added_at": "2026-04-01 16:00:37",
       "album": {
         "name": "Switcheroo",
@@ -849,38 +981,6 @@
       "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
-      "added_at": "2026-03-18 17:42:54",
-      "album": {
-        "name": "draggin' my feet!",
-        "url": "https://open.spotify.com/album/5vEzSFTbG1LKzP8He9NTAQ"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 132587,
-      "name": "draggin' my feet!",
-      "url": "https://open.spotify.com/track/75rjpPPUrJoFcuVoAkkImF"
-    },
-    {
-      "added_at": "2026-03-18 17:42:54",
-      "album": {
-        "name": "Subject to Change",
-        "url": "https://open.spotify.com/album/6dHbi0NyH3rUdHS6Ac8r5R"
-      },
-      "artists": [
-        {
-          "name": "Jenna Pascale",
-          "url": "https://open.spotify.com/artist/2dJ9kBaf6P5ZUTltKgevu6"
-        }
-      ],
-      "duration_ms": 216349,
-      "name": "Dissociating in New York",
-      "url": "https://open.spotify.com/track/6wiesLavHvTWT23wawkVrO"
-    },
-    {
       "added_at": "2026-02-25 17:24:17",
       "album": {
         "name": "I Know!",
@@ -915,22 +1015,6 @@
       "duration_ms": 151356,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/1dS0XYWVtLNrkfyG8VAfEa"
-    },
-    {
-      "added_at": "2026-03-18 17:42:54",
-      "album": {
-        "name": "songs i would never release",
-        "url": "https://open.spotify.com/album/77vGGQiLI2dg5RWaxXUboM"
-      },
-      "artists": [
-        {
-          "name": "Knox Write",
-          "url": "https://open.spotify.com/artist/6LCRsIzcJEhHvCxFpRzOfK"
-        }
-      ],
-      "duration_ms": 148668,
-      "name": "love me",
-      "url": "https://open.spotify.com/track/6hHW7ymUVBjwVA5jWrr076"
     },
     {
       "added_at": "2026-03-11 17:52:17",
@@ -997,22 +1081,6 @@
       "url": "https://open.spotify.com/track/3l6j12OekR484QBIbttlrx"
     },
     {
-      "added_at": "2026-03-11 17:52:17",
-      "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/5I17zM2Ovzcpew2NJOkzJM"
-      },
-      "artists": [
-        {
-          "name": "Scratching",
-          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
-        }
-      ],
-      "duration_ms": 323198,
-      "name": "Sanity",
-      "url": "https://open.spotify.com/track/0yGZWIBojuCCebat8AA0HW"
-    },
-    {
       "added_at": "2026-02-11 17:00:28",
       "album": {
         "name": "My Heart Is A Room With No Cameras In It",
@@ -1043,38 +1111,6 @@
       "duration_ms": 174290,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/61wiLy4LB7rFZUYvETBv6u"
-    },
-    {
-      "added_at": "2026-03-11 17:52:17",
-      "album": {
-        "name": "hello",
-        "url": "https://open.spotify.com/album/3cxt0budBXJt5kuorU6PxF"
-      },
-      "artists": [
-        {
-          "name": "koady",
-          "url": "https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG"
-        }
-      ],
-      "duration_ms": 76866,
-      "name": "hello",
-      "url": "https://open.spotify.com/track/10HkcKldxntNwW4W9m998V"
-    },
-    {
-      "added_at": "2026-03-18 17:42:54",
-      "album": {
-        "name": "I Like This",
-        "url": "https://open.spotify.com/album/6nbB9dZSxd38EJvZ97fg2y"
-      },
-      "artists": [
-        {
-          "name": "Jack Larsen",
-          "url": "https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o"
-        }
-      ],
-      "duration_ms": 111963,
-      "name": "I Like This",
-      "url": "https://open.spotify.com/track/2Lo7t2lsSVMTK5Vu3amZm3"
     },
     {
       "added_at": "2026-03-04 17:27:54",
@@ -1175,38 +1211,6 @@
       "duration_ms": 222682,
       "name": "Reno Moon",
       "url": "https://open.spotify.com/track/0iObTWrYhEn0adDWiFOvKE"
-    },
-    {
-      "added_at": "2026-02-11 17:00:28",
-      "album": {
-        "name": "Move On With The Year",
-        "url": "https://open.spotify.com/album/5JMt8gvc13TSA5YCm9Hwe3"
-      },
-      "artists": [
-        {
-          "name": "Alice Costelloe",
-          "url": "https://open.spotify.com/artist/1xbZZl0gYutFPyiUAXuJLy"
-        }
-      ],
-      "duration_ms": 357902,
-      "name": "Feet On The Sand",
-      "url": "https://open.spotify.com/track/7BekKBRhD7H6rLgzZ0szIJ"
-    },
-    {
-      "added_at": "2026-02-11 17:00:28",
-      "album": {
-        "name": "1 plus 1",
-        "url": "https://open.spotify.com/album/1LysZgJlcQxPkF3VcRCs80"
-      },
-      "artists": [
-        {
-          "name": "Eilish Constance",
-          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
-        }
-      ],
-      "duration_ms": 181566,
-      "name": "1 plus 1",
-      "url": "https://open.spotify.com/track/10Vy8sTZEt4gAYs3DTKKon"
     }
   ],
   "unique_name": "Fresh Finds Indie",

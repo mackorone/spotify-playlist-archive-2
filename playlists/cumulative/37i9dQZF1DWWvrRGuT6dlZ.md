@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Glen Wee\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: K1O\. Artwork: Isu Kim.
 
-1,465 songs - 3 day 8 hr 11 min
+1,468 songs - 3 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,7 +606,7 @@
 | [I’m Waiting For You](https://open.spotify.com/track/5FfH3MpU36mxToCTrB7QMO) | [Trae Jepsen](https://open.spotify.com/artist/49cJghSUtmexjuExPaBXs1), [Brandnewxia](https://open.spotify.com/artist/5qSeL4JZjGAo6f55vDBWtF) | [I’m Waiting For You](https://open.spotify.com/album/6h6V5Lh7FYKlsveJOwKr1y) | 4:28 | 2026-02-06 | 2026-03-21 |
 | [JADED](https://open.spotify.com/track/3JLRDi6U0BXwWzkqXjliIn) | [Silver Lim](https://open.spotify.com/artist/1Wytp9rQDwH6Qnt8RBc3Pb), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [JADED](https://open.spotify.com/album/5mH7POlWSAS7WYlk7kK39E) | 3:10 | 2022-03-31 | 2022-07-08 |
 | [Jadi Aku](https://open.spotify.com/track/5pND7I6IZ5ZhMIoLaktHu9) | [Agy](https://open.spotify.com/artist/5IAtHehHh4ONLzZYY0A0Yn) | [Jadi Aku](https://open.spotify.com/album/2pJWdoS5TuZ56xCxnbclh1) | 3:36 | 2025-05-02 | 2025-06-07 |
-| [Jadi Manusia](https://open.spotify.com/track/1WPSTpBANcJrij80C79Bkz) | [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [Jadi Manusia](https://open.spotify.com/album/5lVphuoW9odFp5KlJlDE7d) | 3:02 | 2026-01-14 | 2026-03-21 |
+| [Jadi Manusia](https://open.spotify.com/track/1WPSTpBANcJrij80C79Bkz) | [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [Jadi Manusia](https://open.spotify.com/album/5lVphuoW9odFp5KlJlDE7d) | 3:02 | 2026-01-14 |  |
 | [Jalan Cerita Kita Berbeza](https://open.spotify.com/track/5SbZwmualUuinIiFZTmOVl) | [Ahmadul Amin](https://open.spotify.com/artist/3zEZOoywGtysVsh2w8OMZy) | [Jalan Cerita Kita Berbeza](https://open.spotify.com/album/3NQCF3KmPJUvqasarfw77B) | 2:26 | 2026-01-30 | 2026-03-21 |
 | [Jalan Gelap](https://open.spotify.com/track/62j7rF2k3SbI7kFaY4pXZu) | [Nazaha Napi](https://open.spotify.com/artist/6w13PUMwxsc7PuVW8ZvMQD) | [Jalan Gelap](https://open.spotify.com/album/393YkIxifoYURIzHXl90RV) | 3:29 | 2025-08-21 | 2025-10-17 |
 | [Jangan, Monyet, Jangan...](https://open.spotify.com/track/0rI0fw9X5WuAS9X4zGpEU1) | [Kirana Kay](https://open.spotify.com/artist/7r55umEzEffX1QqODpSIkq) | [Jangan, Monyet, Jangan...](https://open.spotify.com/album/0iZlpqPKAQxTO90dWNShSr) | 3:48 | 2025-05-09 | 2025-06-07 |
@@ -879,6 +879,7 @@
 | [Outta My Head](https://open.spotify.com/track/6XWw1Sj6WxN7bqXgA8j3YH) | [Shazee](https://open.spotify.com/artist/3hjD2tgcUWOm6o8Kk7cudp), [Tilla Hanna](https://open.spotify.com/artist/3NJyNeADXHVxvIKdTxTqw4) | [Outta My Head](https://open.spotify.com/album/6aBZwWz8GXM7EUGtU4YgVv) | 2:37 | 2022-01-20 | 2022-06-17 |
 | [Outta My Mind](https://open.spotify.com/track/5m5ZqwkHyeByNHFhTczqkt) | [Aini Mazalan](https://open.spotify.com/artist/3mfDuM7MO7MWAfFID5ecai) | [Outta My Mind](https://open.spotify.com/album/0yDJYWBNXKqtwlah6357qT) | 3:21 | 2024-02-15 | 2025-01-18 |
 | [OVER](https://open.spotify.com/track/4NmZMyrKqf37ST8Retl1TW) | [$ain't](https://open.spotify.com/artist/7xxicFvPSZeCwcUIENBQWH) | [OVER](https://open.spotify.com/album/2I4jJrYVLfL1rTT4syjmuu) | 2:21 | 2022-04-21 | 2022-07-08 |
+| [Over & Over](https://open.spotify.com/track/3tk1bjylspbmL1UJqqKp9h) | [DLKC](https://open.spotify.com/artist/0xiN6caKYAR6AQ04DPL2qc) | [Over & Over](https://open.spotify.com/album/3kJcBMt6Ks4HDVo72rbanH) | 2:22 | 2026-05-13 |  |
 | [over again](https://open.spotify.com/track/37iW8X8YFVwkfYxW5lvm29) | [owellciao](https://open.spotify.com/artist/5S9GPm0jvveRHL8QNWircV) | [over again](https://open.spotify.com/album/3grYbQWNGmymlbMjlV6Qo1) | 2:50 | 2024-11-21 | 2025-03-14 |
 | [Over Overthinking](https://open.spotify.com/track/4pnbyipG5l8dTE1tnMc24d) | [Noa Angell](https://open.spotify.com/artist/50WeqTlp8tT6OnQCbZW0q8) | [Over Overthinking](https://open.spotify.com/album/4oOyFDgWnKk1HhPLoUuHx0) | 2:00 | 2022-01-13 | 2022-06-17 |
 | [Over The Moon](https://open.spotify.com/track/7MFMicI9kiV2QKmhSzhGTr) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Over The Moon](https://open.spotify.com/album/76ggCBGXOVOf3nru9bFccp) | 3:23 | 2022-03-24 | 2022-07-08 |
@@ -1250,7 +1251,7 @@
 | [Trust Yourself](https://open.spotify.com/track/47M0SqumGm8AEkRlJg7BRM) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [Trust Yourself](https://open.spotify.com/album/03FiTDkBIz1X04rV9jw61u) | 3:22 | 2025-10-16 | 2025-12-04 |
 | [truth](https://open.spotify.com/track/7tbwFRAijfsJab4RB0RiWG) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [truth](https://open.spotify.com/album/0cytQ3yMVtGQWgl6ASjdb7) | 4:12 | 2022-01-27 | 2022-06-17 |
 | [Tulips](https://open.spotify.com/track/358ebpX0j2KttZ9IxzEjKB) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [Tulips](https://open.spotify.com/album/5Dzekft2Oi1AkJKLBhJrcs) | 4:14 | 2026-05-06 |  |
-| [twenties](https://open.spotify.com/track/4fMF95jhCb0ncIBnjmTmxt) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [twenties](https://open.spotify.com/album/29tt47YoPo8P8AP7GjXTUi) | 2:30 | 2026-03-13 | 2026-05-07 |
+| [twenties](https://open.spotify.com/track/4fMF95jhCb0ncIBnjmTmxt) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [twenties](https://open.spotify.com/album/29tt47YoPo8P8AP7GjXTUi) | 2:30 | 2026-03-13 |  |
 | [Twenty](https://open.spotify.com/track/6fVDL8uE18yJx82mKRewm6) | [Meira Lee](https://open.spotify.com/artist/6YNH5fkFzDNwL677EnvReM) | [Twenty](https://open.spotify.com/album/7IniMQKgGH0bAj9Xb95ZBU) | 3:52 | 2024-11-21 | 2025-04-04 |
 | [Twenty](https://open.spotify.com/track/3iGMa0hrJQv9EtFeTnBbyA) | [Wen Wei](https://open.spotify.com/artist/12LXmUdAbhmRP9CCa7wGHn) | [Twenty](https://open.spotify.com/album/6lzxaxTTPsO3OXnXHcEqJI) | 3:48 | 2023-03-30 | 2023-11-10 |
 | [Twisted](https://open.spotify.com/track/3RnJhnZrXFimbSewER89x8) | [RINES](https://open.spotify.com/artist/2FquRCgJvkUVwoDNrnsgAD) | [Twisted](https://open.spotify.com/album/5Iv2QUpTaaYhDQrDWcIcrj) | 3:11 | 2025-06-26 | 2025-08-16 |
@@ -1401,6 +1402,7 @@
 | [Your Loss](https://open.spotify.com/track/24IE7WIUYYs9gmhbgPLULC) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Your Loss](https://open.spotify.com/album/7zWIsfNXYMTqckSbp21PjE) | 3:35 | 2022-01-13 | 2022-03-11 |
 | [your side of the story](https://open.spotify.com/track/0dTyIKsi7vakMstpTbk6zM) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [your side of the story](https://open.spotify.com/album/4Jmd8kkBMm5Ec3j7uEn3cE) | 3:25 | 2025-04-03 | 2025-05-10 |
 | [youth](https://open.spotify.com/track/49tQrXARvt1w5owiwep6Zp) | [palemoon.wav](https://open.spotify.com/artist/3qIdJUayfhmeD2QJp6aP7W), [Kitty N.](https://open.spotify.com/artist/5RyfJnfLyUGI5MdDFPVLQF) | [youth](https://open.spotify.com/album/3uriGGJgCmdBvpY9VXQDNa) | 2:53 | 2024-11-21 | 2025-04-04 |
+| [Ɏour Museum](https://open.spotify.com/track/40agAr6fkH5tJ2ZDrGfJaF) | [Jilian Summers](https://open.spotify.com/artist/0NxMTmmuciwlzWWdFoSmYd) | [Ɏour Museum](https://open.spotify.com/album/34IC98B7TfwPUQxT2OIDfw) | 3:27 | 2026-05-13 |  |
 | [내 사랑아 \(Oh, My Love\)](https://open.spotify.com/track/7KgRv7LzkNQ4EFeoMzC24G) | [mersie](https://open.spotify.com/artist/6NiLEHNy66fQkD5PNoQqoH) | [내 사랑아 \(Oh, My Love\)](https://open.spotify.com/album/3QNFlrECM7YmdCwpt1vQx1) | 3:36 | 2021-12-01 | 2023-01-13 |
 | [​play me](https://open.spotify.com/track/5626i04kNNcjKXLIpn7kYi) | [Agalia](https://open.spotify.com/artist/3SjO9XulRr2YjTkxQwuJKZ) | [​play me](https://open.spotify.com/album/2nrX1v6cePTohto7uIuhf6) | 3:49 | 2022-01-20 | 2022-06-17 |
 | [一剑世间 \(新传媒戏剧《带剑女孩》主题曲\)](https://open.spotify.com/track/2zS6qfcjcnzqWdsv0VRJGB) | [Ferlyn G](https://open.spotify.com/artist/35ZJOtqAuh2El8GVW5W2GW) | [一剑世间 \(新传媒戏剧《带剑女孩》主题曲\)](https://open.spotify.com/album/0EqPWCE9zx0qWZ9szFw3iM) | 1:40 | 2025-06-26 | 2025-08-16 |
@@ -1411,6 +1413,7 @@
 | [不完美 Imperfect \(Studio Live\)](https://open.spotify.com/track/5JM4dUWbRRsdwvOVoDew4k) | [Feith Li](https://open.spotify.com/artist/4LVRvWh1ht2qMPVotYMUjD) | [不完美 Imperfect \(Studio Live\)](https://open.spotify.com/album/4ZDfWI6UXVbJKOo9dblZoa) | 4:17 | 2025-08-15 | 2026-01-15 |
 | [不能不是你](https://open.spotify.com/track/5ROXIBNxM2zyAX9FszP4zx) | [黄俊荣 Amsden](https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m) | [不能不是你](https://open.spotify.com/album/3N6xPgDHdaxlc1kOU3zJJ6) | 4:22 | 2025-04-03 | 2025-05-17 |
 | [你沒給名字的太陽花](https://open.spotify.com/track/07eaaMkRf7eu5jX6YvoVYh) | [Ritchie Leong](https://open.spotify.com/artist/64Z9Y2gzSyj45yml0RNV4T) | [你沒給名字的太陽花](https://open.spotify.com/album/37oZcQ9XjKsBWhAnPRZzm1) | 3:46 | 2025-10-16 | 2025-12-04 |
+| [你没走](https://open.spotify.com/track/3b7U4m0E23pkw5HNALbmbQ) | [Haze哈泽](https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq) | [你没走](https://open.spotify.com/album/4w54dWGCHMOatKj6gsWHlM) | 3:49 | 2026-05-13 |  |
 | [你的關係，不關於我](https://open.spotify.com/track/5tQ1mEucjeK7NNo124w4Y5) | [Wendy 胡繢頤](https://open.spotify.com/artist/2aasQQcvsJBJXt5nAvBBIF) | [你的關係，不關於我](https://open.spotify.com/album/2kMw7cCZx4x3DsZC3HiSGf) | 4:35 | 2025-06-26 | 2025-09-13 |
 | [你説我欠在哪？](https://open.spotify.com/track/5CZfzGCKDNVXlNtnk0CNeJ) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe), [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [你説我欠在哪？](https://open.spotify.com/album/3CpsZgnbQo8snwM7GYJ4Av) | 2:47 | 2025-05-22 | 2025-07-18 |
 | [內心有一把聲音](https://open.spotify.com/track/1Fd95Ud11xyxXI1C2ER2on) | [Ah5ive the Band](https://open.spotify.com/artist/7xeAey43hE64qU2CaN759N) | [內心有一把聲音](https://open.spotify.com/album/5ltdirAiuhR8nSLFq19aCR) | 5:09 | 2025-08-15 | 2025-09-27 |

@@ -2,7 +2,7 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> 100% Moroccan Hits.
+> Les hits marocains du moment 🇲🇦
 
 522 songs - 1 day 3 hr 44 min
 

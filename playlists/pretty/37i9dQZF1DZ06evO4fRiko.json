@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 985659,
+  "num_followers": 985748,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAC4sqb6jbildv6Ll4lhdIMi",
+  "snapshot_id": "agJtgAAAAABNNQylM7GQKHR0P+VbkU4B",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 278573,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 265813,
       "name": "Next To You (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 278573,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obvious",
-        "url": "https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 186009,
-      "name": "Obvious",
-      "url": "https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 213398,
       "name": "Girl You Loud",
       "url": "https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obvious",
+        "url": "https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186009,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H"
     },
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Depends (feat. Bryson Tiller)",
-        "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 271875,
-      "name": "It Depends (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 199492,
       "name": "MUTT (feat. Chris Brown) [CB REMIX]",
       "url": "https://open.spotify.com/track/08M5qLQy0oUNrTMQv4xQac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Depends (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 271875,
+      "name": "It Depends (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 189469,
+      "name": "Honey Pack",
+      "url": "https://open.spotify.com/track/4feylTrblgm1ai6clRPIFS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Me Crazy, But...",
         "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
       },
@@ -687,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 187837,
+      "name": "It's Not You It's Me",
+      "url": "https://open.spotify.com/track/1Q7nndrSFXM7V5A3sYVDZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Own Lane (Expanded Edition)",
         "url": "https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11"
       },
@@ -727,22 +759,6 @@
       "duration_ms": 207746,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BROWN",
-        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 189469,
-      "name": "Honey Pack",
-      "url": "https://open.spotify.com/track/4feylTrblgm1ai6clRPIFS"
     },
     {
       "added_at": null,
@@ -820,9 +836,9 @@
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 187837,
-      "name": "It's Not You It's Me",
-      "url": "https://open.spotify.com/track/1Q7nndrSFXM7V5A3sYVDZ4"
+      "duration_ms": 196675,
+      "name": "Something In The Water",
+      "url": "https://open.spotify.com/track/5mHMquOvCCeCyzcGT4fY2I"
     },
     {
       "added_at": null,
@@ -851,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Gimme That",
+      "url": "https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -871,22 +903,6 @@
       "duration_ms": 276560,
       "name": "Deuces (feat. Tyga & Kevin McCall)",
       "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Gimme That",
-      "url": "https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph"
     },
     {
       "added_at": null,
@@ -951,38 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Wall To Wall",
-      "url": "https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BROWN",
-        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 138909,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/25X5bys7y2mclBZOJIzHYz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 216293,
       "name": "Nobody's Business",
       "url": "https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 138909,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/25X5bys7y2mclBZOJIzHYz"
     }
   ],
   "unique_name": "This Is Chris Brown",

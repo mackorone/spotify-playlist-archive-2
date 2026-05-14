@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Farrel Hilal
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,837 likes - 109 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,850 likes - 109 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

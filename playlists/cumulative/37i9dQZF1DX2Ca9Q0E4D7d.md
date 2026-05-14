@@ -4,7 +4,7 @@
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-109 songs - 5 hr 35 min
+112 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alpha Binaural Astral Echoes](https://open.spotify.com/track/54Hz2H60d33HYOcCaoUk6w) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Alpha Binaural Astral Echoes](https://open.spotify.com/album/7ve26rcVcrU2aRtrhbmluB) | 2:50 | 2025-07-16 |  |
 | [Angel Plucks Delta D sinus 72\-75hz](https://open.spotify.com/track/4p62bc6ng2sXwyHJT0M6Qv) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Angel Plucks Delta D sinus 72\-75hz](https://open.spotify.com/album/1j9nwoR1nMCvj7J8RNRGXY) | 2:42 | 2024-02-14 | 2024-03-09 |
 | [Appreciation \(Beta 105 Hz \- 121 Hz\)](https://open.spotify.com/track/7vrlLqv2HhIWT4Yhpu9byI) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Wonder Falls & Appreciation \(Binaural Beta\)](https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS) | 3:43 | 2023-01-13 |  |
+| [Attentive Beta 93 Hz \- 123 Hz](https://open.spotify.com/track/6JrfL3jDbZmSyiFwwRzyIl) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Attentive Beta 93 Hz \- 123 Hz](https://open.spotify.com/album/5cdlOuSzqEftUp9TvDtTVO) | 2:46 | 2026-05-13 |  |
 | [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/track/2AFdAp6PnYcJdiEknVrMp7) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/album/7raltftxJk9fINtP88U8KT) | 2:39 | 2024-01-24 | 2024-03-09 |
 | [Beta Air 16 Hz](https://open.spotify.com/track/6nEcvyEGYkXNRhIjkVl1vT) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 2:54 | 2022-09-06 | 2023-10-06 |
 | [Beta Ambience 92 + 96 hz](https://open.spotify.com/track/6s1OXyadYotrzBDzTjfyjY) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Binaural Beta Waves](https://open.spotify.com/album/2V2HmzfobUf8xqE7yPPcQ3) | 3:16 | 2023-03-16 |  |
@@ -72,6 +73,7 @@
 | [Binaural Beta Sinus Drone III](https://open.spotify.com/track/2TqCK23e1IFAX3QEhU42z8) | [The Entrainment](https://open.spotify.com/artist/1in2vhhcCXymghyzFTXL2n) | [Beta Brainwaves For Focus And Thinking](https://open.spotify.com/album/5rYq946bYO7Z7Gs7TITbG3) | 3:44 | 2022-09-06 | 2023-01-25 |
 | [Binaural Beta Sinus Drone IIII](https://open.spotify.com/track/57QUuHrWZz08HialRptMC4) | [The Entrainment](https://open.spotify.com/artist/1in2vhhcCXymghyzFTXL2n) | [Beta Brainwaves For Focus And Thinking](https://open.spotify.com/album/5rYq946bYO7Z7Gs7TITbG3) | 3:34 | 2022-09-06 |  |
 | [Binaural Beta Waves \(117\-155Hz\)](https://open.spotify.com/track/1E99tsBnOiXoAPQ8h47VhD) | [Guglielmo Markoni](https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419) | [Binaural Beta Waves \(117\-155Hz\)](https://open.spotify.com/album/34Qx1hlWdDA3kF4aXlGvQW) | 2:49 | 2026-04-14 |  |
+| [Carbon Drift Beta \(130.2–138.1\)](https://open.spotify.com/track/58hUvU9muG08c7BMNZG6C8) | [Alien Academy](https://open.spotify.com/artist/37MJLRFMewr3LFXff6skVk) | [Carbon Drift Beta \(130.2–138.1\)](https://open.spotify.com/album/79gjcCChZhUcKKdDrboqft) | 2:18 | 2026-05-13 |  |
 | [Changing Motion Beta \(54hz\-76hz\)](https://open.spotify.com/track/0ck0NTsKapZeeFxYS1sGPs) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Changing Motion Beta \(54hz\-76hz\)](https://open.spotify.com/album/0X5dUbmVeEt9454fyvRiQL) | 2:40 | 2025-01-30 |  |
 | [Cognitive Stream \(Beta 90.5Hz\-104.8Hz\)](https://open.spotify.com/track/47gp5xtlAQo2dtdrR3Dcu0) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Cognitive Stream \(Beta 90.5Hz\-104.8Hz\)](https://open.spotify.com/album/0ccyLGbxasnSlCmQ67RwmX) | 2:35 | 2026-04-14 |  |
 | [Cognitive Thinking \(Beta 15 Hz\)](https://open.spotify.com/track/0LG2f3X2SiFZxr1cK2POJC) | [Binaural Warrior](https://open.spotify.com/artist/74eeG2QIYgBimAxFL2vGL5) | [Binaural Warrior](https://open.spotify.com/album/1bHFsNgWMyPJRNx8OsfcYL) | 3:12 | 2022-09-06 |  |
@@ -87,6 +89,7 @@
 | [Enlightment \- 963Hz](https://open.spotify.com/track/2nY7UgFmtpqeeQcB9vc6TD) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Enlightment \- 963Hz](https://open.spotify.com/album/2Ms7ggeaMmwqjmC0sgS6gM) | 2:48 | 2024-02-14 | 2024-03-09 |
 | [Enyrma 396Hz](https://open.spotify.com/track/1orxcdtIK5ejnttDYCbHmw) | [Balanced Resonances](https://open.spotify.com/artist/1NaTgQgoB7SBLTiso71iKn) | [Enyrma 396Hz](https://open.spotify.com/album/4tFBZdSmxsOHEa4kxMEley) | 2:59 | 2024-02-14 | 2024-03-09 |
 | [Falling In Reverse Beta \(94\-123hz\)](https://open.spotify.com/track/3d6H12ch1MGJr5AiIHpQCb) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Falling In Reverse Beta](https://open.spotify.com/album/14YM7tbOJdyvq0NE05ny87) | 2:40 | 2024-08-27 |  |
+| [Focus Beta \(78Hz \- 104Hz\)](https://open.spotify.com/track/2JvWiAjTiROv4lNmrBAlDM) | [Sonopad](https://open.spotify.com/artist/6a3JGgQNJ6ugMYY9CgzltE) | [Focus Beta \(78Hz \- 104Hz\)](https://open.spotify.com/album/1PLo9ie55daCZiGUCPFYQn) | 2:16 | 2026-05-13 |  |
 | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/track/0C8s08h2AlIraAJMQKd6TL) | [Beatwaves](https://open.spotify.com/artist/5fEs2L5wUZDsFQ01NzZPzP) | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/album/6PSy4drFaRYL0UyBA9i3t9) | 3:06 | 2023-04-06 |  |
 | [Highway to Beta 200Hz \- 230Hz](https://open.spotify.com/track/7mHB1qn2vxK3F2rEjI6pRs) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Highway to Beta 200Hz \- 230Hz](https://open.spotify.com/album/5dcWi2kfONurAxDPTkB72V) | 2:24 | 2024-08-27 |  |
 | [Inner Study 110Hz \- 115Hz](https://open.spotify.com/track/0PyiofNb4rNdW6ks6nrlDn) | [Rerose](https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn) | [Inner Study 110Hz \- 115Hz](https://open.spotify.com/album/1Hv7msekzlXAux7IewbSM6) | 2:05 | 2025-10-01 |  |

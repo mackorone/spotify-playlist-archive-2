@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,749 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,795 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 93 | [Pienso en Ti](https://open.spotify.com/track/6FJWdltW5dOa4pAHBDW9pi) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Amor, Familia y Respeto](https://open.spotify.com/album/434Iw6Hpknzb3altfTyF71) | 2:54 |
 | 94 | [Buscando Otro Amor](https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Buscando Otro Amor](https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK) | 2:27 |
 | 95 | [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 |
-| 96 | [Conmigo Te Gustó](https://open.spotify.com/track/5HlgCSzypWjzrQwfmEJNwW) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [Conmigo Te Gustó](https://open.spotify.com/album/7GjmuXtSwXPTX2VR1TQYER) | 3:53 |
-| 97 | [Como Duele/ Tu Presa/ Te Vas A Arrepentir](https://open.spotify.com/track/1HP2lOzVbv8WHUT6IIgYCf) | [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Como Duele / Tu Presa / Te Vas A Arrepentir](https://open.spotify.com/album/7MI2qYvaIGpT4F9pWQ6qwa) | 7:37 |
+| 96 | [Como Duele/ Tu Presa/ Te Vas A Arrepentir](https://open.spotify.com/track/1HP2lOzVbv8WHUT6IIgYCf) | [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Como Duele / Tu Presa / Te Vas A Arrepentir](https://open.spotify.com/album/7MI2qYvaIGpT4F9pWQ6qwa) | 7:37 |
+| 97 | [Conmigo Te Gustó](https://open.spotify.com/track/5HlgCSzypWjzrQwfmEJNwW) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [Conmigo Te Gustó](https://open.spotify.com/album/7GjmuXtSwXPTX2VR1TQYER) | 3:53 |
 | 98 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 |
 | 99 | [Una Cartita](https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Una Cartita](https://open.spotify.com/album/579lllA20Ok3w4rBAcaUDq) | 2:58 |
-| 100 | [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 |
+| 100 | [Pero No Puedo Vol.2](https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Pero No Puedo Vol.2](https://open.spotify.com/album/3ne9oJyuZbSjtlACDhzc7L) | 3:06 |
 
 Snapshot ID: `AAAAABsidUwXk7rBjjK8H5YvbKFj2gwH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,164 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,183 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 24 | [Verre Oosten](https://open.spotify.com/track/1GhbUw7skwCjSzLB3tWtMj) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Vloeistof](https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2) | 4:46 |
 | 25 | [Zegevieren](https://open.spotify.com/track/7mO12vvu1kHS0VQ4eYRRHm) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9), [Feis](https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc) | [Winne Zonder Strijd](https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4) | 4:00 |
 | 26 | [Superman](https://open.spotify.com/track/4NtGAQJXUXfqIni5ouifAX) | [Feis](https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc), [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [Hard Van Buiten, Gebroken Van Binnen](https://open.spotify.com/album/6gAjlhxCZHluNBCghWD1l6) | 3:33 |
-| 27 | [Alleen](https://open.spotify.com/track/1RClBEEVn5SqHFM8gsyoXL) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Fresku](https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW) | 3:49 |
-| 28 | [Cocktail](https://open.spotify.com/track/5nPgvhN5bUJcJUpVDtSrzn) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:28 |
-| 29 | [Regen Op Warm Asfalt](https://open.spotify.com/track/0HxlygG0MffYR6BffSGzuL) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [De Ark De Triomf](https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM) | 4:38 |
+| 27 | [Regen Op Warm Asfalt](https://open.spotify.com/track/0HxlygG0MffYR6BffSGzuL) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [De Ark De Triomf](https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM) | 4:38 |
+| 28 | [Alleen](https://open.spotify.com/track/1RClBEEVn5SqHFM8gsyoXL) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Fresku](https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW) | 3:49 |
+| 29 | [Cocktail](https://open.spotify.com/track/5nPgvhN5bUJcJUpVDtSrzn) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:28 |
 | 30 | [Gekkenhuis FT\. Jawat](https://open.spotify.com/track/50Rr5oZu70pOqUQjvZewsh) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 6:07 |
 | 31 | [Get Money](https://open.spotify.com/track/6GaAIbK70c7PTacYXO9IcK) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Hefvermogen](https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P) | 2:26 |
 | 32 | [Klein, Klein Jongetje](https://open.spotify.com/track/1wTU7sJqqrDSFkcK1VCtAz) | [U\-niq](https://open.spotify.com/artist/15cp217nCdrUbiZ2m7wyAb), [Feis](https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc) | [Rotterdam](https://open.spotify.com/album/2yeBzg1PXDkV7Iah1AMdLN) | 4:25 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 50 | [Ik Heb Je](https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [De Ark De Triomf](https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM) | 4:03 |
 | 51 | [Crisis](https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:14 |
 | 52 | [Wakker In Du Cel](https://open.spotify.com/track/4CD7S5MjBQMTOZWEPMCqnd) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Du Zoon](https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU) | 4:50 |
-| 53 | [Klokkenluiders](https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs) | [Spookrijders](https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA) | [Klokkenluiders Van Amsterdam](https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB) | 6:28 |
-| 54 | [Sporen](https://open.spotify.com/track/3ql0vdOmqy74NqAqAtDXTI) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Vloeistof](https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2) | 4:15 |
+| 53 | [Sporen](https://open.spotify.com/track/3ql0vdOmqy74NqAqAtDXTI) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Vloeistof](https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2) | 4:15 |
+| 54 | [Klokkenluiders](https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs) | [Spookrijders](https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA) | [Klokkenluiders Van Amsterdam](https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB) | 6:28 |
 | 55 | [Ambiance](https://open.spotify.com/track/6QcH6GjDPcjixgieMwPr4j) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1), [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd) | [Ambiance](https://open.spotify.com/album/46EmL72r47VNWRUhRnELKC) | 4:00 |
 | 56 | [Je Kan Niks Doen](https://open.spotify.com/track/5zkRdTaRj9CeYp8F8zGfZW) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [De Fik Erin](https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W) | 3:31 |
 | 57 | [Duivelszoon](https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 5:15 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 84 | [Plakka](https://open.spotify.com/track/1bPQ0PV4DWY2rnYjXs5bek) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 2:17 |
 | 85 | [Soms Gaat Het Mis](https://open.spotify.com/track/788HqVM9tvdzeVeHqp60VW) | [Raymtzer](https://open.spotify.com/artist/3ybiWTDJvKidAlwSqwCU8p) | [Soms Gaat Het Mis](https://open.spotify.com/album/7hreym7UT47rKfIqhfnLMf) | 3:13 |
 | 86 | [Punt](https://open.spotify.com/track/48CfE8EAxOnx0OlWz51Zv5) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Boulimia](https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV) | 3:40 |
-| 87 | [Mijn Manier](https://open.spotify.com/track/6YmDH07CvDvrJPQC68OeK2) | [Brainpower](https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w) | [Mijn Manier](https://open.spotify.com/album/0hBGB9cgria5UdV15puxAJ) | 4:18 |
-| 88 | [Generaal](https://open.spotify.com/track/2uE3STwXESU4UvO5rZkkVC) | [Opgeduveld](https://open.spotify.com/artist/2itHVhH84RBGG9RsKyj5Yz) | [Opgeduveld](https://open.spotify.com/album/5rpa2P52leivrXWEOU0vdL) | 4:23 |
+| 87 | [Generaal](https://open.spotify.com/track/2uE3STwXESU4UvO5rZkkVC) | [Opgeduveld](https://open.spotify.com/artist/2itHVhH84RBGG9RsKyj5Yz) | [Opgeduveld](https://open.spotify.com/album/5rpa2P52leivrXWEOU0vdL) | 4:23 |
+| 88 | [Mijn Manier](https://open.spotify.com/track/6YmDH07CvDvrJPQC68OeK2) | [Brainpower](https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w) | [Mijn Manier](https://open.spotify.com/album/0hBGB9cgria5UdV15puxAJ) | 4:18 |
 | 89 | [Batterij](https://open.spotify.com/track/6lcwYclQz58gfAZrgAmBBx) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 2:43 |
 | 90 | [Ik Ben De Man](https://open.spotify.com/track/5bLa3DBGxcOIQEQYnt5NFz) | [Spookrijders](https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA) | [Klokkenluiders Van Amsterdam](https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB) | 4:49 |
 | 91 | [Steppin' On My Rhyme \(feat\. Tienus\)](https://open.spotify.com/track/5d1XqlMborBiMmqWZDqpuO) | [Skiggy Rapz](https://open.spotify.com/artist/3vbbctIYmGu2HXRSSwFqoR), [Tienus](https://open.spotify.com/artist/5CurgiE0DjD3FHtxlhOqXu) | [Bang To The Boogie EP](https://open.spotify.com/album/1VvBY6dt0TkENNXDL5xGgx) | 4:28 |

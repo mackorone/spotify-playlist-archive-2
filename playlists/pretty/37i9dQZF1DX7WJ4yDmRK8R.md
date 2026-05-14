@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Sublime on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,857 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,874 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 75 | [Ego](https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [Room For Abuse '06](https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf) | 3:06 |
 | 76 | [Skinhead](https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Godfather Of Ska Anthology](https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp) | 4:40 |
 | 77 | [Stepping Out](https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6) | [Big D and the Kids Table](https://open.spotify.com/artist/5SkGKY8rSkaiC0DqfHuPbY) | [Stomp](https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI) | 3:01 |
-| 78 | [No Piensa En Ti \- Sonando Desde El Auditorio Nacional](https://open.spotify.com/track/5ZY4KPgjOVBMAzZXdUIGyH) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [No Piensa En Ti \(Sonando Desde El Auditorio Nacional\)](https://open.spotify.com/album/6RlTdExC3Yd0wIxL8MTpBw) | 3:37 |
-| 79 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 |
+| 78 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 |
+| 79 | [No Piensa En Ti \- Sonando Desde El Auditorio Nacional](https://open.spotify.com/track/5ZY4KPgjOVBMAzZXdUIGyH) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [No Piensa En Ti \(Sonando Desde El Auditorio Nacional\)](https://open.spotify.com/album/6RlTdExC3Yd0wIxL8MTpBw) | 3:37 |
 | 80 | [SKrAm!](https://open.spotify.com/track/5ROazJQzZ1LqD2muLOEaHy) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [SKA DREAM](https://open.spotify.com/album/3H28j4CQIYPGvrS4StXeMz) | 2:38 |
 | 81 | [Cold in the City](https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Cold in the City](https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z) | 3:26 |
 | 82 | [Pensándolo Bien](https://open.spotify.com/track/43ujqpuF6Z8ryGKz4slZVd) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [Algo Tiene Que Pasar](https://open.spotify.com/album/1DnsTcyBOm6D5inOroI1Yd) | 3:48 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 91 | [El Febrero](https://open.spotify.com/track/27QfV2StXia4q47sioekXv) | [Lollypop Lorry](https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX) | [El Febrero](https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD) | 2:58 |
 | 92 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
 | 93 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 |
-| 94 | [A Better Home](https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Self Care](https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X) | 2:28 |
-| 95 | [The Sweat](https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Nice Things](https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T) | 2:21 |
+| 94 | [The Sweat](https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Nice Things](https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T) | 2:21 |
+| 95 | [A Better Home](https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Self Care](https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X) | 2:28 |
 | 96 | [On My Radio](https://open.spotify.com/track/7kNNi7Wv4LQcYS4k2E1TZA) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Indie Singles Collection 1991\-1996](https://open.spotify.com/album/3gwVOnYIvRJFJyrJzaPnWF) | 3:06 |
 | 97 | [University](https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [University](https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi) | 3:34 |
 | 98 | [Kung\-Fu Blues](https://open.spotify.com/track/5WcBrKNNZqHfaezyDSV0WH) | [Marina P](https://open.spotify.com/artist/56yITwbimLLYB5gPSwxTRK), [The Co\-Operators](https://open.spotify.com/artist/3d2PfQ6lK72nZHjaZrWGve), [Joe Yorke](https://open.spotify.com/artist/5txKJQwlX202UqnBPII2PK) | [Know Nothing About](https://open.spotify.com/album/49H5fqOXN0iB5qPrtUs4Iy) | 4:24 |

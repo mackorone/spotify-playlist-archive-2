@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,706 likes - 50 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,730 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 10 | [KHED ISHQE DI](https://open.spotify.com/track/6mfsnDVuZ7XP66s2FJqrz9) | [Khan Saab](https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN), [Sandeep Kaur Sidhu](https://open.spotify.com/artist/32fW3RBYZcC0FxXQC1NiY5) | [KHED ISHQE DI](https://open.spotify.com/album/2DB1lIB9Eorc4Mw1T60GzT) | 4:27 |
 | 11 | [Ikko \- Mikke\-Title Track](https://open.spotify.com/track/0VLOjHoPU01al8NSwcIGIF) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Ikko \- Mikke](https://open.spotify.com/album/3QrDIIhCfGDnpnuw10GJtk) | 6:38 |
 | 12 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 |
-| 13 | [Ranjha](https://open.spotify.com/track/65ixdACjOb3qOSLnGONOSB) | [Shye Ben Tzur](https://open.spotify.com/artist/2UCzkuXiE37VD7K123J4Tf), [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU), [The Rajasthan Express](https://open.spotify.com/artist/01LHIx3tQpDdRtuGLOI9Jk) | [Ranjha](https://open.spotify.com/album/3IKEzGl5fUUO29QdbPlc9X) | 4:51 |
-| 14 | [Jogi](https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt), [Manpreet Singh](https://open.spotify.com/artist/0vqqFNT40Yi47BEE0XBkfg), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Jogi](https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb) | 4:45 |
+| 13 | [Jogi](https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt), [Manpreet Singh](https://open.spotify.com/artist/0vqqFNT40Yi47BEE0XBkfg), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Jogi](https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb) | 4:45 |
+| 14 | [Ranjha](https://open.spotify.com/track/65ixdACjOb3qOSLnGONOSB) | [Shye Ben Tzur](https://open.spotify.com/artist/2UCzkuXiE37VD7K123J4Tf), [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU), [The Rajasthan Express](https://open.spotify.com/artist/01LHIx3tQpDdRtuGLOI9Jk) | [Ranjha](https://open.spotify.com/album/3IKEzGl5fUUO29QdbPlc9X) | 4:51 |
 | 15 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
 | 16 | [Rutba](https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc) | 6:44 |
 | 17 | [Ik Tu Hi Tu Hi \(Mehfil Mix\)](https://open.spotify.com/track/2nOHNCkYKM5964mADMnFp6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 5:51 |

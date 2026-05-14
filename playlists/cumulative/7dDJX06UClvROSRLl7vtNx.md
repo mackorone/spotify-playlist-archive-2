@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,307 songs - 2 day 8 hr 24 min
+1,308 songs - 2 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1195,6 +1195,7 @@
 | [Unknown Lovers](https://open.spotify.com/track/7KjuxlANmMeOAPHrlMeInu) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [MBB](https://open.spotify.com/artist/3Yk2lTHJVFzRCwNdUCqCQ8), [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [Kaley](https://open.spotify.com/artist/5ioRU3OGYb8O0rPw0PNxiN) | [Unknown Lovers](https://open.spotify.com/album/1A0a3oLjVA2OfrD4bvj6FN) | 2:23 | 2025-11-09 | 2025-11-24 |
 | [Unreachable](https://open.spotify.com/track/1ZJf99SCDgvPmc5y5bFlaJ) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Unreachable](https://open.spotify.com/album/2U3XIbR7gUgRnQQZJ68d9o) | 2:50 | 2025-09-25 | 2026-05-11 |
 | [Until The End Of Time](https://open.spotify.com/track/0Zv5hSYT7LD7GFRO8Ip0oU) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Until The End Of Time](https://open.spotify.com/album/6ncZ16w9NoA8EXiTRAXAj1) | 3:14 | 2024-01-06 | 2024-05-13 |
+| [Until The Morning](https://open.spotify.com/track/4WfAnKZfHSFRv514DUi0ej) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Until The Morning](https://open.spotify.com/album/1YvTqboRE1UWLApjIJaj1c) | 2:10 | 2026-05-13 |  |
 | [Until We're Together](https://open.spotify.com/track/7gPd8N4YFAXjiQtnnQzRn9) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Until We're Together](https://open.spotify.com/album/0gerArONKXKkiCm6jdfIGB) | 2:11 | 2024-11-03 | 2025-11-03 |
 | [Up At Night](https://open.spotify.com/track/3HMFkGrSmhzEVNatvkfSZj) | [Jeremy Arnold](https://open.spotify.com/artist/7bSNahMBuhzMOwCAn57FB5) | [Up At Night](https://open.spotify.com/album/6DDnONcoqkv97XDFxc59nO) | 2:54 | 2024-07-30 | 2025-01-26 |
 | [Upside Down](https://open.spotify.com/track/5mx9adNpiWs7lPLwxGaFvU) | [Emblè](https://open.spotify.com/artist/7BmOUNMC8ZJhZEBmdFiqMC), [lifevest](https://open.spotify.com/artist/76SqwU2jHw1PFG4zpG73OU) | [Upside Down](https://open.spotify.com/album/6rOohSHYA9wprHy3SumKH6) | 2:18 | 2026-01-03 |  |

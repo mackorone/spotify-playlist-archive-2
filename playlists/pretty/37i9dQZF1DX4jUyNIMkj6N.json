@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 222783,
+  "num_followers": 222789,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-05-07 22:02:38",
       "album": {
+        "name": "Simpler Times",
+        "url": "https://open.spotify.com/album/4uZZKroW4sf3973ravoU6s"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "duration_ms": 236375,
+      "name": "End of July",
+      "url": "https://open.spotify.com/track/6ag0v6PX7xlKu1RqmU6dm4"
+    },
+    {
+      "added_at": "2026-05-07 22:02:38",
+      "album": {
         "name": "Feels like That",
         "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 216955,
       "name": "Feels like That",
       "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
-    },
-    {
-      "added_at": "2026-05-07 22:02:38",
-      "album": {
-        "name": "Little Storm",
-        "url": "https://open.spotify.com/album/3SG6ai3jzNsouC1LIn6BIx"
-      },
-      "artists": [
-        {
-          "name": "Beth McBride",
-          "url": "https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "Warm Weather Song",
-      "url": "https://open.spotify.com/track/0a6MgmYXX8QCCmCPNRMshq"
     },
     {
       "added_at": "2026-05-07 22:02:38",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-05-07 22:02:38",
       "album": {
-        "name": "Wild Geese, Wild Love / Day 2000 Awake",
-        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
+        "name": "Little Storm",
+        "url": "https://open.spotify.com/album/3SG6ai3jzNsouC1LIn6BIx"
       },
       "artists": [
         {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+          "name": "Beth McBride",
+          "url": "https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73"
         }
       ],
-      "duration_ms": 323386,
-      "name": "Wild Geese, Wild Love",
-      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
+      "duration_ms": 221733,
+      "name": "Warm Weather Song",
+      "url": "https://open.spotify.com/track/0a6MgmYXX8QCCmCPNRMshq"
     },
     {
       "added_at": "2026-05-07 22:02:38",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-05-07 22:02:38",
       "album": {
-        "name": "Simpler Times",
-        "url": "https://open.spotify.com/album/4uZZKroW4sf3973ravoU6s"
+        "name": "Wild Geese, Wild Love / Day 2000 Awake",
+        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
       },
       "artists": [
         {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
         }
       ],
-      "duration_ms": 236375,
-      "name": "End of July",
-      "url": "https://open.spotify.com/track/6ag0v6PX7xlKu1RqmU6dm4"
+      "duration_ms": 323386,
+      "name": "Wild Geese, Wild Love",
+      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
     },
     {
       "added_at": "2026-05-07 22:02:38",

@@ -4383,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "PODER",
+        "url": "https://open.spotify.com/album/4g0rqG42TcD9fN6XmiGXfX"
+      },
+      "artists": [
+        {
+          "name": "Joaco Burgos",
+          "url": "https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304210,
+      "name": "PODER",
+      "url": "https://open.spotify.com/track/43Qf6HSkCuXBQeOjjzacoT"
+    },
+    {
+      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },

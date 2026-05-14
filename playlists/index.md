@@ -1,4 +1,4 @@
-## Playlists \(9197\)
+## Playlists \(9198\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2507,7 +2507,7 @@
 - [Frozen Official Playlist](/playlists/pretty/37i9dQZF1DXeapRjZhqZ07.md)
 - [Fruits Basket \-フルーツバスケット\-](/playlists/pretty/37i9dQZF1DWXIm5Nuoh0vn.md)
 - [Frutiger Aero 🌿🌐](/playlists/pretty/2PX0djbBozANnN4mHxh6Wx.md)
-- [Fryderyk 2025](/playlists/pretty/37i9dQZF1DX9YOBVbaj8Mw.md)
+- [Fryderyk 2026](/playlists/pretty/37i9dQZF1DX9YOBVbaj8Mw.md)
 - [Frühlings Chillout](/playlists/pretty/37i9dQZF1DXaIrEwuQ3hyy.md)
 - [Frühlingsgefühle](/playlists/pretty/37i9dQZF1DWZESE3fHLhmD.md)
 - [Fuck Valentine!](/playlists/pretty/5Dn14a8hNIhT3NLLjUUBGL.md)
@@ -2722,6 +2722,7 @@
 - [Global Hip\-Hop](/playlists/pretty/37i9dQZF1DX2sQHbtx0sdt.md)
 - [Global Hits From Japan 2025 \-国境を超える日本の音楽\-](/playlists/pretty/37i9dQZF1DX9hThfji1Q6J.md)
 - [Global Music Day](/playlists/pretty/2EsohEQHsGn1LWNgOxnuoI.md)
+- [Global R&B](/playlists/pretty/37i9dQZF1DWXjo7kaCGuCU.md)
 - [Global X](/playlists/pretty/37i9dQZF1DWUxHPh2rEiHr.md)
 - [Glow España](/playlists/pretty/37i9dQZF1DXckSQXNNdGD6.md)
 - [Gnawa Music](/playlists/pretty/37i9dQZF1DWYCFWZy4Gz9M.md)

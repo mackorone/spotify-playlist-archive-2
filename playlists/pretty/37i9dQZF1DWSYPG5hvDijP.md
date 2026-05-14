@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Dhruv Sthetick
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,903 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,917 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 12 | [Yaqeen\-E\-Kaamil](https://open.spotify.com/track/6Y9AghXw6a9h2JBmqqqD5P) | [MZeroHit](https://open.spotify.com/artist/4g72LAFwVvy0PfYenI0D0w), [Ether Makes Banger](https://open.spotify.com/artist/33xDeepbcx2zGO1n7DOP2d) | [Yaqeen\-E\-Kaamil](https://open.spotify.com/album/0D7cZ9HpdL4lif5pCYoF7L) | 3:55 |
 | 13 | [Turiya Freeverse 2](https://open.spotify.com/track/2iEyQA2XHav60cutbAzom8) | [GAUSH](https://open.spotify.com/artist/5UPhqOBfNq83B0vOaLocFM), [Placidchills](https://open.spotify.com/artist/4DOiFiwOoLhBQOniziQ7V6) | [Turiya Freeverse 2](https://open.spotify.com/album/0IkXKP4f7Egzw8UfuDaSs3) | 3:13 |
 | 14 | [Ishaare](https://open.spotify.com/track/5qTgEZP06ckA9iaPirOY5W) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Kobi Dai](https://open.spotify.com/artist/62tLQaSrqTnjnNB8rehjQc), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ) | [Late Night Frappe](https://open.spotify.com/album/2pXzljskWl3qDVf5QxRMS2) | 2:30 |
-| 15 | [Jee Mera Lagda Nai](https://open.spotify.com/track/0tYBBoqgLOvGKq3mbL0HPJ) | [Byg Smyle](https://open.spotify.com/artist/4Jw8bandV6BAMsS85XggcH), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Jee Mera Lagda Nai](https://open.spotify.com/album/7GOHrr5d8CRaUhzvl28qmJ) | 3:58 |
+| 15 | [Jee Mera Lagda Nai](https://open.spotify.com/track/0tYBBoqgLOvGKq3mbL0HPJ) | [Byg Smyle](https://open.spotify.com/artist/4Jw8bandV6BAMsS85XggcH), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Jee Mera Lagda Nai](https://open.spotify.com/album/7GOHrr5d8CRaUhzvl28qmJ) | 3:58 |
 | 16 | [iraade](https://open.spotify.com/track/3fKnqd98qess9K7Fw2PSK7) | [jaiyash](https://open.spotify.com/artist/2kuul1Vaxgt3qCPKeGGTx3), [Sarcastically Kumar](https://open.spotify.com/artist/3JXJU7MO7Ukn0szred59Ar) | [throwaways two](https://open.spotify.com/album/5in58QhgJxj11qO6jGlpNk) | 2:30 |
 | 17 | [Move On](https://open.spotify.com/track/1Q2lbPDiH7ScJdNOAjwwQB) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Move On](https://open.spotify.com/album/2MH8AvJIlRGTMAj6gOtBIm) | 2:19 |
 | 18 | [BLOWUP](https://open.spotify.com/track/5Oys598jBje9v92awHRXzZ) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [VVVV VOL\. 2](https://open.spotify.com/album/1m2FkAT18SmqCJEzKnYzIW) | 2:23 |

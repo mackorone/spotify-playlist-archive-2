@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Madonna & Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,234 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,211 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 49 | [Sucker For Love](https://open.spotify.com/track/5O8GYy3zDYonQno0UWYc9n) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential](https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL) | 3:34 |
 | 50 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 |
 
-Snapshot ID: `AAAAAPVJurhFoEBESrE+4WDXPPB9/KyT`
+Snapshot ID: `AAAAAHG3HOAO5cVjj7C5JbnGo0Pxev6A`

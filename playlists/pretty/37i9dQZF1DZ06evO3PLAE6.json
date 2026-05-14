@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAD2VySZ6s5kErzUjTyBrind",
+  "snapshot_id": "agJtgAAAAACsiGcz8DAofYozVzo0IjE9",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 186320,
       "name": "Monkey On A Wire",
       "url": "https://open.spotify.com/track/7noOxZuNKyPn9mJCZFv3zr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs"
     },
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
-      },
-      "artists": [
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tea & Sympathy (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6zt2LZDe7Yv6a0zpH7xjBN"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 240893,
       "name": "Watch Over Me (feat. Kasey Chambers & Clare Bowditch)",
       "url": "https://open.spotify.com/track/45LCTq3XmuEVhCb09vDUDc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd"
     },
     {
       "added_at": null,

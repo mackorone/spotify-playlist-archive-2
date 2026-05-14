@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent hits from your favorite Christian Contemporary artists\.  Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,860 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,202 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 26 | [Don't Stop Praying](https://open.spotify.com/track/0TH9LO1qmuXMtMYHZhT5gP) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Don't Stop Praying](https://open.spotify.com/album/1nV08vXokWpBYEkd1Mjdmz) | 3:53 |
 | 27 | [Praise You In This Storm \(feat\. Phil Wickham\)](https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:33 |
 | 28 | [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 |
-| 29 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 |
+| 29 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 |
 | 30 | [Come Jesus Come \- Radio Version](https://open.spotify.com/track/5SUQktBU6pgsvPSgG3uiLA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come \(Radio Version\)](https://open.spotify.com/album/7GOKgIxyfzPwmUyF1Mxjec) | 4:12 |
 | 31 | [STILL](https://open.spotify.com/track/4Za9hSqVpFWXyavYoaFIo9) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [The EXILE](https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN) | 3:12 |
 | 32 | [If I Got Jesus](https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [If I Got Jesus](https://open.spotify.com/album/3VPe5UV652wUXh56MN9eSH) | 3:51 |

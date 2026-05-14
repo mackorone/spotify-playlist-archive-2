@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHJY6ZqPPz.md) - [plain]
 
 > Find out the true meaning of <a href="spotify:site:aesparichman"> aespa RICH MAN</a>\. <br/>All about aespa: meeting another self and experiencing the new world
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,823 likes - 102 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,883 likes - 102 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Keychain \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 |
+| 1 | [Keychain \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 |
 | 2 | [BLUE \- WINTER Solo](https://open.spotify.com/track/58awxGcVt7bQ9bahX7yWxt) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 3:31 |
 | 3 | [Ketchup And Lemonade \- NINGNING Solo](https://open.spotify.com/track/1D1cBWh7IJ5DqOIYqCtqZa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 4:08 |
 | 4 | [Tornado \- GISELLE Solo](https://open.spotify.com/track/09mT11oYwaa8geGu4UHpzL) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 3:24 |

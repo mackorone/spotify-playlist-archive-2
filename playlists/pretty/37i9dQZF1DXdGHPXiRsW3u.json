@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 1308837,
+  "num_followers": 1309077,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
@@ -691,26 +691,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        },
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 184400,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+      "duration_ms": 241946,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 284902,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Bad Boy 20th Anniversary Box Set Edition",
         "url": "https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 284902,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 241946,
-      "name": "Slow Dancing in a Burning Room",
-      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
+      "duration_ms": 200666,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW"
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
       "artists": [
         {
-          "name": "Atomic Kitten",
-          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 185013,
-      "name": "Whole Again",
-      "url": "https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm"
+      "duration_ms": 273466,
+      "name": "Stuck In A Moment You Can't Get Out Of",
+      "url": "https://open.spotify.com/track/1klDPm7SfsS32hl7KHV9iy"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Atomic Kitten",
+          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
         }
       ],
-      "duration_ms": 273466,
-      "name": "Stuck In A Moment You Can't Get Out Of",
-      "url": "https://open.spotify.com/track/1klDPm7SfsS32hl7KHV9iy"
+      "duration_ms": 185013,
+      "name": "Whole Again",
+      "url": "https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2371,18 +2371,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
       "artists": [
         {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Stepping Stone",
-      "url": "https://open.spotify.com/track/3g9nxeJPQM4CxhHt1iNlB4"
+      "duration_ms": 304013,
+      "name": "The Voice Within",
+      "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2403,18 +2403,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
         }
       ],
-      "duration_ms": 304013,
-      "name": "The Voice Within",
-      "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
+      "duration_ms": 209453,
+      "name": "Stepping Stone",
+      "url": "https://open.spotify.com/track/3g9nxeJPQM4CxhHt1iNlB4"
     },
     {
       "added_at": "2024-02-12 15:05:39",

@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-243 songs - 13 hr 1 min
+246 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Anda Tudo Em Cima Dela](https://open.spotify.com/track/2gk6yd2SRFOBAOJ3XfOiVF) | [Nelo Ferreira](https://open.spotify.com/artist/1cc1iPHQfGtslkY2XW9MZ0) | [Anda Tudo Em Cima Dela](https://open.spotify.com/album/6amv3wYD5SkGR1dFWj2Svy) | 3:30 | 2023-10-13 |  |
 | [Anxiété](https://open.spotify.com/track/1QHUX5mgQV8Tyt43IJYWMR) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N) | [Anxiété](https://open.spotify.com/album/0fcjwblXLIIjazHN3vRjZy) | 2:04 | 2024-05-28 |  |
 | [Au bout de la nuit](https://open.spotify.com/track/5SJ2JJEUkWQDbavEq7uIXx) | [Malamour](https://open.spotify.com/artist/7B86KFgaarFnAslIkwOkaj) | [Au bout de la nuit](https://open.spotify.com/album/5gBGeZDYvBfQmCjC6AY7yZ) | 4:33 | 2023-09-29 |  |
+| [Au clair de la dune](https://open.spotify.com/track/362JrOM6zGyzkMv5Fm7eBn) | [Hub30](https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0) | [Au clair de la dune](https://open.spotify.com/album/6VZlASTXypeYvkj1JcTcqI) | 3:20 | 2026-05-13 |  |
 | [AU DEDANS](https://open.spotify.com/track/5X4FvvckvkVlzBir1RlEhn) | [Club Célest](https://open.spotify.com/artist/4XwNxwWS9jzKX4xOTQ4LJk) | [AU DEDANS](https://open.spotify.com/album/7HMlhLIqhZ4M5YEXjJZZjV) | 2:22 | 2024-11-25 |  |
 | [Balayer](https://open.spotify.com/track/7y2hvef4AcT3PtEiUwhdhA) | [Elidjha](https://open.spotify.com/artist/1WU4E9yrQemcJdV8seQjVw) | [Balayer](https://open.spotify.com/album/1N9MbJNH0nSCUCMi2aigqh) | 3:16 | 2023-06-03 |  |
 | [Barcelona](https://open.spotify.com/track/4hWaycGZCLV0nojbTWGeVY) | [Marcelo Santos](https://open.spotify.com/artist/5DUXqH2QvET0Sutw98BRoZ) | [12:06](https://open.spotify.com/album/0C5Y8NfrqgUD5ayPpyK5a7) | 2:44 | 2023-12-06 |  |
@@ -41,6 +42,7 @@
 | [Cada um na Sua \- Remix](https://open.spotify.com/track/1QLgZwOz86TyrJheP906Wu) | [Jean Cremona](https://open.spotify.com/artist/18EDVSNwUawLWXfdd5Jc9a), [SATNIK](https://open.spotify.com/artist/1xtaRlIJ0phsrjkimeMFul) | [Cada um na Sua \(Remix\)](https://open.spotify.com/album/2ZKvu5uhL4iROFoZtidCfY) | 3:37 | 2023-03-03 |  |
 | [Calma Espera](https://open.spotify.com/track/55vtG5Z21tw1bkQ4Azkiri) | [Mc Lic](https://open.spotify.com/artist/1EsbQyIL0vr4ze4rKKVHoe) | [Calma Espera](https://open.spotify.com/album/1A6nATQax0ncTovTaemfwK) | 3:04 | 2024-06-26 |  |
 | [Cansei de Sofrer \- Dance](https://open.spotify.com/track/3yvnkkzrcOyQXiA70WEx8l) | [SATNIK](https://open.spotify.com/artist/1xtaRlIJ0phsrjkimeMFul), [Doctor Silva](https://open.spotify.com/artist/0eROhumi1bgxd2IDx2Lj7D) | [Cansei de Sofrer \(Dance\)](https://open.spotify.com/album/6qs79yrAlmoFFUVxU92BPt) | 3:46 | 2023-07-13 |  |
+| [CASH](https://open.spotify.com/track/57DFVtIFBayTIVQa81v2Xq) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [CASH](https://open.spotify.com/album/62dr1xx8kCvC6y1wif90ui) | 1:35 | 2026-05-13 |  |
 | [Catharsis](https://open.spotify.com/track/452WY2DU5r4VSyGHYzhARQ) | [Roman Voropaev](https://open.spotify.com/artist/3HbdPF6Q2kMiB8adht8S6m) | [Catharsis](https://open.spotify.com/album/35hTw3V19gUyRrEgEUmgwh) | 2:48 | 2023-11-08 |  |
 | [CHEMTRAIL](https://open.spotify.com/track/5cP9wQoL8QRAbt2NgHbMVn) | [PRNKD](https://open.spotify.com/artist/6XhetbXT03TNYLZuFiOZST), [THISISPHONKED.](https://open.spotify.com/artist/6XjaLce8M9sRg7GZ6sKKqD) | [CHEMTRAIL](https://open.spotify.com/album/6bm5AgMv2abXMyWbUW91s6) | 2:36 | 2024-01-27 |  |
 | [Choosing Sides](https://open.spotify.com/track/32C0SoSVF56Cd0gNiV5OIu) | [DJ Jay Sudo](https://open.spotify.com/artist/1iyy5yeUB398YUCSY20Zdc) | [Choosing Sides](https://open.spotify.com/album/2KbCvYr7fkhjOmEBsfCqcO) | 3:27 | 2023-11-03 |  |
@@ -150,6 +152,7 @@
 | [Metaverse](https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Metaverse](https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt) | 3:16 | 2023-01-11 |  |
 | [Milkshake](https://open.spotify.com/track/2OK6Pi1b7xZoPAzjxXs79g) | [SATNIK](https://open.spotify.com/artist/1xtaRlIJ0phsrjkimeMFul) | [Milkshake](https://open.spotify.com/album/7FZL6joZM9VH23t7WcLzxg) | 3:41 | 2024-01-31 |  |
 | [Minha Cama](https://open.spotify.com/track/4vAlnm8Pku2vZouDMMumaY) | [Marcelo Santos](https://open.spotify.com/artist/5DUXqH2QvET0Sutw98BRoZ) | [12:06](https://open.spotify.com/album/0C5Y8NfrqgUD5ayPpyK5a7) | 3:13 | 2023-12-06 |  |
+| [Mohnspark GT Lègendes](https://open.spotify.com/track/3glzeqMjuKzXkHLquQgqqW) | [KNRR33](https://open.spotify.com/artist/6fJ05FXmbwu3A2FdzGP1iM) | [Mohnspark GT Lègendes](https://open.spotify.com/album/0ThCU2o759233P6acNaXZx) | 3:04 | 2026-05-13 |  |
 | [Mon bel amour](https://open.spotify.com/track/327SNL1yRQzINX4RDER9nW) | [LaRude](https://open.spotify.com/artist/2JHgSw6a6V28A30BbD8cJJ) | [L'an fête](https://open.spotify.com/album/6HMdlOMmQ2x5W3gozVAdkw) | 2:49 | 2024-07-11 |  |
 | [Mon fils](https://open.spotify.com/track/6H0vinsLgruObJnVf4afsU) | [Goldy Craigs](https://open.spotify.com/artist/4PCmiHUYfOvz62UuYVLaBs) | [3.0](https://open.spotify.com/album/7hX2q4JEtrxenbxdfMjZGp) | 2:46 | 2024-01-26 |  |
 | [Mon étoile](https://open.spotify.com/track/7CZD2wE07xdq4exNKPjZth) | [Hub30](https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0) | [Mon étoile](https://open.spotify.com/album/2nTukMiETsGCDXf9764Qr8) | 3:52 | 2023-10-02 |  |

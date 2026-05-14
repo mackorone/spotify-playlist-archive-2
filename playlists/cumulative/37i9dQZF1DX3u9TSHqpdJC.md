@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Akeira Jade\. Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.  Cover: GRESLEY\. Artwork by Paola Saliby
 
-4,485 songs - 9 day 12 hr 32 min
+4,487 songs - 9 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -742,6 +742,7 @@
 | [Chic](https://open.spotify.com/track/2FfWe4bCCBxLJa111E6GNI) | [Jessica Doolan](https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW) | [Keep It Chic](https://open.spotify.com/album/3wotas98423uIAgzaKLHJk) | 3:31 | 2025-08-20 | 2025-12-04 |
 | [Child of the City](https://open.spotify.com/track/72lqf7BtvGFadFPWkvoz9C) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX) | [Child of the City](https://open.spotify.com/album/34bN53KpSsbPFjnGL8vppH) | 3:21 | 2024-07-24 | 2024-09-26 |
 | [Chill](https://open.spotify.com/track/3kebhj0PbLEinhk3hCmGVA) | [Jack Miller](https://open.spotify.com/artist/1L2dgYrQs4HZDHfYB2klTF), [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [Chill](https://open.spotify.com/album/1KNSEeA85hL5RSU2usNKbq) | 2:57 | 2021-07-02 | 2021-10-07 |
+| [Chloe Showed Me](https://open.spotify.com/track/5XQTbbeLLN5WYvye53LApg) | [Sofia D'Angelo](https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5) | [Chloe Showed Me](https://open.spotify.com/album/1iN809Rv6ca7WOfJvuAmlr) | 2:30 | 2026-05-13 |  |
 | [Chocolate](https://open.spotify.com/track/51kmdZIuwxM0iNmntBi7UX) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs), [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [Chocolate](https://open.spotify.com/album/0RNal1yJeaL6AV4Iz9lS91) | 2:39 | 2021-01-15 | 2021-02-04 |
 | [Chokehold](https://open.spotify.com/track/6xW03IbLmuw5vQc6jELnm1) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Blooming Season Pt\. 2](https://open.spotify.com/album/00lgkYhcBBa6dfa9kc4KNF) | 3:04 | 2025-07-30 | 2025-09-25 |
 | [Choose Me](https://open.spotify.com/track/3QLveHoS9QBHLzCmRMjPO9) | [HEZEN](https://open.spotify.com/artist/6NRtJHCVFkNJv8xTEN7AB6) | [Choose Me](https://open.spotify.com/album/5q2WMsG5P0GiZJr2xAWfWK) | 3:08 | 2022-01-26 | 2022-03-03 |
@@ -753,7 +754,7 @@
 | [Circumstantial Confidence](https://open.spotify.com/track/4vfCBI1ADYnvvwLB0qg50g) | [Tedadore](https://open.spotify.com/artist/5Sy1WoUv5DuzsMoQ0SLp6E) | [Circumstantial Confidence](https://open.spotify.com/album/1SaKE0gJtKei809g7F8ICl) | 3:32 | 2021-07-02 | 2021-07-29 |
 | [City](https://open.spotify.com/track/67upU8uOiheMRpgYK6Ru8W) | [Tobias Defoe](https://open.spotify.com/artist/4UWYwl77CmLOHrz7Zehl2l) | [City](https://open.spotify.com/album/2kKVo48OHlMQdbhBK3ZHT1) | 2:43 | 2024-03-06 | 2024-04-19 |
 | [City of Angels](https://open.spotify.com/track/6Y3ksyxJPEJr0nZATJq1Y5) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [City of Angels](https://open.spotify.com/album/4OlLFlWJ5rQ4XKuVzyrCxZ) | 2:13 | 2022-02-09 | 2022-03-10 |
-| [Clairvoyant](https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n) | 3:33 | 2026-02-18 |  |
+| [Clairvoyant](https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n) | 3:33 | 2026-02-18 | 2026-05-14 |
 | [Clarence](https://open.spotify.com/track/58GqIwAH6Z9qPBDQRd2sEr) | [Jude Kelly](https://open.spotify.com/artist/0xHZwRejbMwSEfDZNnyviZ) | [Clarence](https://open.spotify.com/album/6YMvucMuycOBYPK39jtztD) | 3:30 | 2025-03-12 | 2025-05-29 |
 | [Classic](https://open.spotify.com/track/16ELC6PKYdHxw5UVt0Xnrb) | [Fire Choir](https://open.spotify.com/artist/0MTQj6AkAsjqaxXHQNbK3N) | [Classic](https://open.spotify.com/album/2rf923kCGBZ8GsyQMfNCSZ) | 2:26 | 2021-08-05 | 2021-09-10 |
 | [Classic](https://open.spotify.com/track/3nXCsRBwRBCJv8owAJnYQ0) | [Tori Templet](https://open.spotify.com/artist/7ulINFYFROOmdGxDhsjMqG) | [Classic](https://open.spotify.com/album/2PYKaf5p9Ot4IHx2MFkWUh) | 2:47 | 2020-11-12 | 2020-12-08 |
@@ -2295,6 +2296,7 @@
 | [Liar](https://open.spotify.com/track/4oOYJDT0D6cgHsIyoqQSXv) | [David Ost](https://open.spotify.com/artist/6w6wZxrkurPtakOOnf4FZR) | [Liar](https://open.spotify.com/album/2uhygzcwNbkJVZOnIWGuge) | 4:45 | 2023-08-09 | 2023-10-12 |
 | [Liar](https://open.spotify.com/track/3GN4qe6CrarjGTZU2DdpEe) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Liar](https://open.spotify.com/album/2NXTdIWQLR45B1jJFgTKZj) | 2:38 | 2022-03-30 | 2022-04-28 |
 | [Liar](https://open.spotify.com/track/45XpGaMRJuPJ3LACv1jIOP) | [Lucinda Poy](https://open.spotify.com/artist/2C9cfAkExY8U2k2sYbmn3Q) | [Liar](https://open.spotify.com/album/1zh7zWXUZcFtd1yF5gI8kH) | 3:39 | 2025-08-27 | 2025-12-04 |
+| [Liar Liar](https://open.spotify.com/track/43nlIi8s0GhjIc47lQ7lr5) | [dearest](https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT) | [Liar Liar](https://open.spotify.com/album/0W7U9wdIcFsDVIJmExlPLX) | 3:15 | 2026-05-13 |  |
 | [Liars](https://open.spotify.com/track/1aeMR6HZyexprB1AePlVEs) | [st.James](https://open.spotify.com/artist/0WqfvIHk0iWcqlp4UsZyMC) | [Liars](https://open.spotify.com/album/2RRSldjXULZzO7eK5qwk2T) | 2:31 | 2022-04-06 | 2022-04-28 |
 | [Liars And Fakes](https://open.spotify.com/track/6ZeUZ9aGZSZBdtPWuOdNWD) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [Liars And Fakes](https://open.spotify.com/album/2LXEHfZ8N6dN2HuSusPbQF) | 3:30 | 2021-04-29 | 2021-05-27 |
 | [Liberation](https://open.spotify.com/track/63HeOmi0Cav15rLsktJq8W) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Liberation](https://open.spotify.com/album/2ikZVKHUow5r1VdlVaFBnZ) | 2:38 | 2022-01-19 | 2022-03-24 |
@@ -3997,7 +3999,7 @@
 | [Till I Met You](https://open.spotify.com/track/2dg01RHUIFmcXazoDIZfAZ) | [Amanda Stan](https://open.spotify.com/artist/1mxLgtca4UWonOTabN1qWV) | [Till I Met You](https://open.spotify.com/album/4yk7MltN3wAqWOGIVJanZy) | 2:44 | 2022-10-12 | 2022-12-01 |
 | [Till the Sun Comes Up](https://open.spotify.com/track/3PE4TOJQ5NlP21Xc1Ptqig) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Till the Sun Comes Up](https://open.spotify.com/album/1P4kytlTj9436utfvnQ9c9) | 3:43 | 2025-05-21 | 2025-07-31 |
 | [TIM BURTON](https://open.spotify.com/track/5HnhgU9FS7RNnFgkBy48wS) | [RAEGAN](https://open.spotify.com/artist/2nB2BHirpyBx2sJc4QKfwz) | [TIM BURTON](https://open.spotify.com/album/6oABSgthAWalcNbsL8VWKF) | 2:32 | 2022-03-30 | 2022-04-28 |
-| [TIME](https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk) | [Sofia D'Angelo](https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5) | [TIME](https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR) | 3:15 | 2026-04-01 |  |
+| [TIME](https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk) | [Sofia D'Angelo](https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5) | [TIME](https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR) | 3:15 | 2026-04-01 | 2026-05-14 |
 | [Time After Time](https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Time After Time](https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x) | 3:39 | 2025-07-30 | 2025-11-13 |
 | [Time After Time](https://open.spotify.com/track/418GlYC0t3bVR8DhEWa7Od) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Time After Time](https://open.spotify.com/album/4r7UEmj9xJOCCKSnuo79i6) | 2:53 | 2025-01-15 | 2025-03-27 |
 | [Time Is Running Out](https://open.spotify.com/track/6Zcm77gXr85gJHGJLZVbPV) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Time Is Running Out](https://open.spotify.com/album/2ncVA4VJqFzCU7MP95uuz0) | 3:04 | 2021-05-27 | 2021-06-18 |

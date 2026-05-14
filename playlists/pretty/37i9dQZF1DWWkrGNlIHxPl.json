@@ -1,13 +1,65 @@
 {
-  "description": "Global crossovers by Arab artists. Cover: Saint Levant",
-  "num_followers": 167087,
+  "description": "Global crossovers by Arab artists. Cover: Nory & Nadine El Roubi",
+  "num_followers": 167091,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvNoCBfzq6lpbfiL6TtaYPuFcUA",
+  "snapshot_id": "AAAAAHtJz1DNQOmsOpuRoK7u7yOgg7t3",
   "tracks": [
+    {
+      "added_at": "2026-05-13 16:44:15",
+      "album": {
+        "name": "ENEMY OF THE STATE",
+        "url": "https://open.spotify.com/album/1U6pOb4Oixmu7VmnXOAbf8"
+      },
+      "artists": [
+        {
+          "name": "Nory",
+          "url": "https://open.spotify.com/artist/4cDwm4vhL5IYVN5SlY3FRM"
+        },
+        {
+          "name": "Nadine El Roubi",
+          "url": "https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "ENEMY OF THE STATE",
+      "url": "https://open.spotify.com/track/4aYbsdzbKuhkFHYdODiBl8"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Eastend Confessions",
+        "url": "https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 162578,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF"
+    },
+    {
+      "added_at": "2026-03-16 14:06:51",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/0839Kf02US5van5YHRCflf"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 203244,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6lX0AWScOl2M3xEPRKkVRy"
+    },
     {
       "added_at": "2025-10-06 11:50:22",
       "album": {
@@ -43,26 +95,18 @@
     {
       "added_at": "2025-10-06 11:50:22",
       "album": {
-        "name": "Land Of The Heroes (Arabic Version)",
-        "url": "https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x"
+        "name": "Seventeenth",
+        "url": "https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sophie Stray",
-          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
-        },
-        {
-          "name": "Zena Emad",
-          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+          "name": "fulana",
+          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
         }
       ],
-      "duration_ms": 173253,
-      "name": "Land Of The Heroes (Arabic Version)",
-      "url": "https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn"
+      "duration_ms": 231545,
+      "name": "Seventeenth",
+      "url": "https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM"
     },
     {
       "added_at": "2026-04-23 21:16:32",
@@ -113,6 +157,46 @@
       "url": "https://open.spotify.com/track/05LtudsqIIZHZaFBPpoXiR"
     },
     {
+      "added_at": "2026-05-13 16:44:15",
+      "album": {
+        "name": "audio ghost",
+        "url": "https://open.spotify.com/album/61Rb6lzuf3kk9pOcFtDrVq"
+      },
+      "artists": [
+        {
+          "name": "MARCELINA",
+          "url": "https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi"
+        }
+      ],
+      "duration_ms": 133802,
+      "name": "audio ghost",
+      "url": "https://open.spotify.com/track/5SOtvBhAJI7B4gAwRTDUvF"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Land Of The Heroes (Arabic Version)",
+        "url": "https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sophie Stray",
+          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
+        },
+        {
+          "name": "Zena Emad",
+          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "Land Of The Heroes (Arabic Version)",
+      "url": "https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn"
+    },
+    {
       "added_at": "2025-10-06 11:50:22",
       "album": {
         "name": "Beaucoup",
@@ -129,6 +213,22 @@
       "url": "https://open.spotify.com/track/4IXasJjUsHa69EHAFs1z7E"
     },
     {
+      "added_at": "2026-05-13 16:44:15",
+      "album": {
+        "name": "Leila",
+        "url": "https://open.spotify.com/album/2724bx6Kskvgii4dFiSyjm"
+      },
+      "artists": [
+        {
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "Leila",
+      "url": "https://open.spotify.com/track/5XPJ4knJTeyOTt71mwY6aH"
+    },
+    {
       "added_at": "2025-10-06 11:50:22",
       "album": {
         "name": "Jananto",
@@ -143,22 +243,6 @@
       "duration_ms": 181445,
       "name": "Jananto",
       "url": "https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM"
-    },
-    {
-      "added_at": "2026-03-16 14:06:51",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/0839Kf02US5van5YHRCflf"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        }
-      ],
-      "duration_ms": 203244,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6lX0AWScOl2M3xEPRKkVRy"
     },
     {
       "added_at": "2025-10-06 11:50:22",
@@ -199,38 +283,6 @@
       "duration_ms": 167368,
       "name": "ARABI",
       "url": "https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/3EckeasMm45ypnwReWIIVo"
-      },
-      "artists": [
-        {
-          "name": "L'ASTRO",
-          "url": "https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv"
-        }
-      ],
-      "duration_ms": 156174,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/3pJ7Zz0759gcQDSDmF3c73"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Dual Reality",
-        "url": "https://open.spotify.com/album/4snbzdTWgW4W2UuDtbgvIw"
-      },
-      "artists": [
-        {
-          "name": "Llunr",
-          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
-        }
-      ],
-      "duration_ms": 163970,
-      "name": "The Route",
-      "url": "https://open.spotify.com/track/3AzfHcA5mmjkg04BBXBoiE"
     },
     {
       "added_at": "2025-10-06 11:50:22",
@@ -339,22 +391,6 @@
     {
       "added_at": "2025-10-06 11:50:22",
       "album": {
-        "name": "Seventeenth",
-        "url": "https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg"
-      },
-      "artists": [
-        {
-          "name": "fulana",
-          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "Seventeenth",
-      "url": "https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/7h5gLixz0Kl723RxDr6Fcv"
       },
@@ -415,22 +451,6 @@
       "duration_ms": 194195,
       "name": "ROLLERCOASTER",
       "url": "https://open.spotify.com/track/3QjwfqkglQOeUuyNKiK5oC"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "If I Must Die",
-        "url": "https://open.spotify.com/album/6d9ZXeO25MhLiiThjPq0W5"
-      },
-      "artists": [
-        {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "If I Must Die",
-      "url": "https://open.spotify.com/track/1bUdNH9WMnKjjJtMJeVPjy"
     },
     {
       "added_at": "2025-11-19 17:26:39",
@@ -703,22 +723,6 @@
       "duration_ms": 208608,
       "name": "Maktub",
       "url": "https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Eastend Confessions",
-        "url": "https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 162578,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF"
     },
     {
       "added_at": "2025-10-06 11:50:22",

@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sean Solomon",
-  "num_followers": 97198,
+  "num_followers": 97207,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGVHSiTipwCs1K/3O5a60/WuwwzL",
+  "snapshot_id": "AAAAANiPGjAQlQfc6vVmxDJNNzJF7WAi",
   "tracks": [
     {
       "added_at": "2026-05-06 16:16:56",
@@ -23,6 +23,150 @@
       "duration_ms": 152488,
       "name": "Rewarding Melody",
       "url": "https://open.spotify.com/track/7mf2ubTq7o3O9U9ql3CNPv"
+    },
+    {
+      "added_at": "2026-05-13 15:04:36",
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/2S4MfD2Tro1uE4nK9SNnW6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
+        }
+      ],
+      "duration_ms": 196202,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/49AfNVQ0stMJEJQ4O4mmNe"
+    },
+    {
+      "added_at": "2026-05-13 15:04:36",
+      "album": {
+        "name": "86",
+        "url": "https://open.spotify.com/album/3g4bCLXT8iLIoZPiaINxul"
+      },
+      "artists": [
+        {
+          "name": "Tracey Nelson",
+          "url": "https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J"
+        }
+      ],
+      "duration_ms": 232277,
+      "name": "86",
+      "url": "https://open.spotify.com/track/2n2oNATPYI3rtGzLZs7mEw"
+    },
+    {
+      "added_at": "2026-05-13 15:04:36",
+      "album": {
+        "name": "just checkin' in (demo)",
+        "url": "https://open.spotify.com/album/6XzKpEkWuEsEYZQV1x7zmj"
+      },
+      "artists": [
+        {
+          "name": "kelly bridges",
+          "url": "https://open.spotify.com/artist/00NqBlGQXqEDd3a4nAdIHq"
+        }
+      ],
+      "duration_ms": 158529,
+      "name": "just checkin' in - demo",
+      "url": "https://open.spotify.com/track/4XDfsY7EB6B8DfO3UHf6si"
+    },
+    {
+      "added_at": "2026-05-13 15:04:36",
+      "album": {
+        "name": "sadie",
+        "url": "https://open.spotify.com/album/7he6RCG89OQebnS87zTala"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "sadie",
+      "url": "https://open.spotify.com/track/4XP3xSOgMKHLC2IBVBRiCL"
+    },
+    {
+      "added_at": "2026-05-13 15:04:36",
+      "album": {
+        "name": "Song for a...",
+        "url": "https://open.spotify.com/album/2AiqjmESpJkCJooLVW7Aio"
+      },
+      "artists": [
+        {
+          "name": "Lightning Bug",
+          "url": "https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Song for a...",
+      "url": "https://open.spotify.com/track/28Peuwft9Gj8AhHAI8z9qU"
+    },
+    {
+      "added_at": "2026-05-13 15:04:36",
+      "album": {
+        "name": "I'm Alright Now",
+        "url": "https://open.spotify.com/album/6lM1YCAmwDDVtM8xZX9PTQ"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "duration_ms": 168642,
+      "name": "I'm Alright Now",
+      "url": "https://open.spotify.com/track/3LFcHLPdxn1PhAqCwRDZc1"
+    },
+    {
+      "added_at": "2026-05-13 15:04:36",
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/3lWYYXSLKRrbiqvOsRSeTH"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bishop",
+          "url": "https://open.spotify.com/artist/1SNT1xbb94VsMFDUMTRViq"
+        }
+      ],
+      "duration_ms": 243834,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/0fX87MQuQEbN6yTsurdeJ8"
+    },
+    {
+      "added_at": "2026-05-13 15:04:36",
+      "album": {
+        "name": "Red Dragonfly",
+        "url": "https://open.spotify.com/album/6QnR7oyhYeKenfmwdI1ai5"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Red Dragonfly",
+      "url": "https://open.spotify.com/track/2YpapyODyBEZU9W3AKnGZ3"
+    },
+    {
+      "added_at": "2026-05-13 15:04:36",
+      "album": {
+        "name": "Six String",
+        "url": "https://open.spotify.com/album/5v6BHPf3ikQi9d4kFih5PB"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 191112,
+      "name": "Six String",
+      "url": "https://open.spotify.com/track/4NKSMuM0rG4FN6CwPjXHQM"
     },
     {
       "added_at": "2026-04-29 18:31:34",
@@ -887,150 +1031,6 @@
       "duration_ms": 354506,
       "name": "Demon in Me",
       "url": "https://open.spotify.com/track/2Oh46gHI8lhRJXrJbvV1IP"
-    },
-    {
-      "added_at": "2026-03-04 17:30:46",
-      "album": {
-        "name": "Prefab Moon",
-        "url": "https://open.spotify.com/album/1JNY2m9eU9O5xobCeRGttj"
-      },
-      "artists": [
-        {
-          "name": "Field Commander Ali",
-          "url": "https://open.spotify.com/artist/4TUeSXaTyrKCPiQ2X9mekU"
-        }
-      ],
-      "duration_ms": 406108,
-      "name": "Prefab Moon",
-      "url": "https://open.spotify.com/track/2ZUZV6pgiRokNtkuxCH7w6"
-    },
-    {
-      "added_at": "2026-03-11 17:52:44",
-      "album": {
-        "name": "Stuck (here)",
-        "url": "https://open.spotify.com/album/4kyMNDFqQM6tvfTZtc7w2K"
-      },
-      "artists": [
-        {
-          "name": "beaming",
-          "url": "https://open.spotify.com/artist/3CXe43s6Cq1U4ycpcxFvui"
-        }
-      ],
-      "duration_ms": 222968,
-      "name": "Stuck (here)",
-      "url": "https://open.spotify.com/track/67UGNAsxTDki453lkJUagJ"
-    },
-    {
-      "added_at": "2026-03-11 17:52:44",
-      "album": {
-        "name": "Rust & Wire",
-        "url": "https://open.spotify.com/album/4fHXnGLM5xGiLuKp8QKvrj"
-      },
-      "artists": [
-        {
-          "name": "Anjimile",
-          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Rust & Wire",
-      "url": "https://open.spotify.com/track/4bqN0ipnuiiGvJdhsSQWeM"
-    },
-    {
-      "added_at": "2026-02-25 17:25:45",
-      "album": {
-        "name": "Desert Horse",
-        "url": "https://open.spotify.com/album/1p8JaGm0nprhboSoTfU9Oy"
-      },
-      "artists": [
-        {
-          "name": "YONAH",
-          "url": "https://open.spotify.com/artist/3x2O11OST09HF9T2jMOTjL"
-        }
-      ],
-      "duration_ms": 170125,
-      "name": "Desert Horse",
-      "url": "https://open.spotify.com/track/6WdyBn0hIDJa33KFMKuy0A"
-    },
-    {
-      "added_at": "2026-03-11 17:52:44",
-      "album": {
-        "name": "The King of Soda",
-        "url": "https://open.spotify.com/album/58XRWxquOE5EU4UYR2pcx5"
-      },
-      "artists": [
-        {
-          "name": "Star 80",
-          "url": "https://open.spotify.com/artist/0DHlIT2F8hcRfWLGvzne4d"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "The King of Soda",
-      "url": "https://open.spotify.com/track/41ppoasp0Iu2aLVA9eReas"
-    },
-    {
-      "added_at": "2026-03-04 17:30:46",
-      "album": {
-        "name": "Prisoner of Love",
-        "url": "https://open.spotify.com/album/4OrzHUjEoG1ONZtt9W0tNJ"
-      },
-      "artists": [
-        {
-          "name": "jael",
-          "url": "https://open.spotify.com/artist/1fa5Cs0FLFymlUMabvWTtw"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Prisoner of Love",
-      "url": "https://open.spotify.com/track/51hGzgzAeI72yzyyG1jxlK"
-    },
-    {
-      "added_at": "2026-03-11 17:52:44",
-      "album": {
-        "name": "soft shakes",
-        "url": "https://open.spotify.com/album/1QsJMXQaX3JFWowpyC2Zwa"
-      },
-      "artists": [
-        {
-          "name": "Go Kurosawa",
-          "url": "https://open.spotify.com/artist/7xosp4nmGQZhCc0rE9ILg5"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Green Thing",
-      "url": "https://open.spotify.com/track/3pMJ3RrBBILhy63Uds1BGd"
-    },
-    {
-      "added_at": "2026-03-04 17:30:46",
-      "album": {
-        "name": "Blubird",
-        "url": "https://open.spotify.com/album/3pfOPzE5MdTlxoiJjEwO0Y"
-      },
-      "artists": [
-        {
-          "name": "Ryann Ross",
-          "url": "https://open.spotify.com/artist/4LlusKGPaCxnefSJFNulY6"
-        }
-      ],
-      "duration_ms": 136773,
-      "name": "Blubird",
-      "url": "https://open.spotify.com/track/1zCMk3ySbq4JIeVzU2j1Os"
-    },
-    {
-      "added_at": "2026-02-11 17:00:28",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/17nZOx99YpjzysZgV5wSV6"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane Hill",
-          "url": "https://open.spotify.com/artist/4fuJe6HS0wXyzuNeffCoSu"
-        }
-      ],
-      "duration_ms": 210939,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/4IF0zcoO0VNoyQTm1EKiLt"
     },
     {
       "added_at": "2026-02-25 17:25:45",

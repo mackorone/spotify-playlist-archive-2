@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,386 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,390 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 36 | [鬼ノ森](https://open.spotify.com/track/5bn8QRLruU48VU3an3MMNr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [鬼ノ森](https://open.spotify.com/album/11KLezHDkMMTZejfjErhiQ) | 4:35 |
 | 37 | [これ青春アンダースタンド](https://open.spotify.com/track/5KVyLT4jZZ2JQXwyEfzIKq) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/1RKmJpVze3oVKCzRldAiJa) | [恋色に咲け](https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z) | 4:12 |
 | 38 | [ラズベリー＊モンスター](https://open.spotify.com/track/19oCEhJcUnJjFWnJ8tAnvL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール](https://open.spotify.com/album/4PV8u7OxMEUJqFA1lFvNh7) | 2:55 |
-| 39 | [ラブホイッスル Alert！](https://open.spotify.com/track/5eSzaeDXNvFWvUZgl8vKyZ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ラブホイッスル Special edition](https://open.spotify.com/album/69BC6aULa8qJQ7CrpIVcHZ) | 2:56 |
-| 40 | [LOVE FIGHT](https://open.spotify.com/track/0IP24AsXkRicQbRt5HGA8Z) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [LOVE FIGHT](https://open.spotify.com/album/0uZAUiU2010CN2rBWL4Y6X) | 3:56 |
-| 41 | [人生のオーケストラ](https://open.spotify.com/track/49QaYX0XchfWTTldxGinEj) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [くすぐったい。](https://open.spotify.com/album/3OV9LPuJd3C6cALSGhIUdy) | 3:10 |
+| 39 | [LOVE FIGHT](https://open.spotify.com/track/0IP24AsXkRicQbRt5HGA8Z) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [LOVE FIGHT](https://open.spotify.com/album/0uZAUiU2010CN2rBWL4Y6X) | 3:56 |
+| 40 | [人生のオーケストラ](https://open.spotify.com/track/49QaYX0XchfWTTldxGinEj) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [くすぐったい。](https://open.spotify.com/album/3OV9LPuJd3C6cALSGhIUdy) | 3:10 |
+| 41 | [ラブホイッスル Alert！](https://open.spotify.com/track/5eSzaeDXNvFWvUZgl8vKyZ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ラブホイッスル Special edition](https://open.spotify.com/album/69BC6aULa8qJQ7CrpIVcHZ) | 2:56 |
 | 42 | [君ガ空コソカナシケレ](https://open.spotify.com/track/78eNy6PS6zZetlXJZIRSH1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [CHiCO with HoneyWorks 2016.1.10 "世界はiに満ちている \-1st\-" at 渋谷WWW](https://open.spotify.com/album/7eu3mYVNTeq6mV0sD7XkR0) | 3:21 |
 | 43 | [ヒストリア](https://open.spotify.com/track/0nzaNIkYGdZ8zI97ZT1Q1u) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [プライド革命](https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8) | 3:29 |
 | 44 | [乙女どもよ。（TV size）](https://open.spotify.com/track/0UIL22vPHoye8EtsWXTnVk) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [乙女どもよ。（TV size）](https://open.spotify.com/album/26zxdP1K5NGFkIhdDUXLkd) | 1:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 49 | [決戦スピリット TVsize](https://open.spotify.com/track/7h9dwMxEmUl4kRA3Jo90to) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット TVsize](https://open.spotify.com/album/0kNJ3BzFw3lPFdooeN5MdN) | 1:30 |
 | 50 | [ロデオ](https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/1RKmJpVze3oVKCzRldAiJa) | [今日もサクラ舞う暁に](https://open.spotify.com/album/12JuBA89662EPQLXiNF6KV) | 3:46 |
 
-Snapshot ID: `agEcAAAAAAAKk461oBOP4OKXRpwPmC4h`
+Snapshot ID: `agJtgAAAAADeOAzgzG4CospH/8mZlOCW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 💚 Cover: Marte
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,648 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,649 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 99 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 |
 | 100 | [Gioielli Neri](https://open.spotify.com/track/0F34WTdm0Yn2FFJtnMu3jf) | [Sara Gioielli](https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI) | [Gioielli Neri](https://open.spotify.com/album/6tNSiiQ7xp1an19SzdFRQt) | 2:46 |
 
-Snapshot ID: `AAAAAMwRKnDIc4YNhlGyRpLOtHZY2Xa4`
+Snapshot ID: `AAAAABRzHEhfT4KIq2vQoCHhMu5JwEvR`

@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 28648,
+  "num_followers": 28653,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAACCoLUXBam7x8AWnzhyQkTf",
+  "snapshot_id": "agJtgAAAAAARo6uPu3YcZDFBoiFd5v04",
   "tracks": [
     {
       "added_at": null,
@@ -595,42 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blameless",
-        "url": "https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hill Perry",
-          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 163037,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/2zUcMdIMGKuDLjR1WnbzbB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 207033,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glory Down",
         "url": "https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R"
       },
@@ -651,26 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just That Good",
-        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
+        "name": "Blameless",
+        "url": "https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Jackie Hill Perry",
+          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
         },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 199065,
-      "name": "Glorious Day",
-      "url": "https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx"
+      "duration_ms": 163037,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/2zUcMdIMGKuDLjR1WnbzbB"
     },
     {
       "added_at": null,
@@ -706,15 +666,35 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 229807,
-      "name": "The Name (feat. Koryn Hawthorne)",
-      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+      "duration_ms": 207033,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just That Good",
+        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 199065,
+      "name": "Glorious Day",
+      "url": "https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx"
     },
     {
       "added_at": null,
@@ -759,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 229807,
+      "name": "The Name (feat. Koryn Hawthorne)",
+      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "His Glory Alone II",
         "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 187115,
       "name": "Glory 2 Glory",
       "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 225809,
-      "name": "Yes Song",
-      "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
     },
     {
       "added_at": null,
@@ -827,6 +811,22 @@
       "duration_ms": 182095,
       "name": "Wholehearted",
       "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 225809,
+      "name": "Yes Song",
+      "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 170118,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomorrow We Live",
         "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 236353,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 170118,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
       "added_at": null,

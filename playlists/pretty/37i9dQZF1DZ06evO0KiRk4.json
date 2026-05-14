@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 585089,
+  "num_followers": 585175,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAACxMzcc8cXR6DfZfadCAbpE",
+  "snapshot_id": "agJtgAAAAAA+fXPJTF/J4yPdsZciSwpN",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 124240,
-      "name": "Kiss With A Fist",
-      "url": "https://open.spotify.com/track/0qnzHn8plo9r10x69uFJYS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ceremonials (Original Deluxe Version)",
         "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 274853,
       "name": "No Light, No Light",
       "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 124240,
+      "name": "Kiss With A Fist",
+      "url": "https://open.spotify.com/track/0qnzHn8plo9r10x69uFJYS"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 232360,
-      "name": "Rabbit Heart (Raise It Up)",
-      "url": "https://open.spotify.com/track/5jAYbBuwroXXigCj4IGFdA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 216176,
       "name": "What Kind Of Man",
       "url": "https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 232360,
+      "name": "Rabbit Heart (Raise It Up)",
+      "url": "https://open.spotify.com/track/5jAYbBuwroXXigCj4IGFdA"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jenny of Oldstones (Game of Thrones)",
-        "url": "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 188638,
-      "name": "Jenny of Oldstones (Game of Thrones)",
-      "url": "https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 293468,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jenny of Oldstones (Game of Thrones)",
+        "url": "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 188638,
+      "name": "Jenny of Oldstones (Game of Thrones)",
+      "url": "https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
-        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 361188,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/69sJBJdGogAYV74hmB0ORK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 307347,
       "name": "Queen Of Peace",
       "url": "https://open.spotify.com/track/6WRjufZUoxjaUNKOJ6QhWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
+        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 361188,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/69sJBJdGogAYV74hmB0ORK"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 149120,
-      "name": "No Choir",
-      "url": "https://open.spotify.com/track/47a7Hn4fFE4mHgVJF19CO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
@@ -799,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
       "artists": [
         {
@@ -808,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 199386,
-      "name": "Addicted To Love",
-      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
+      "duration_ms": 149120,
+      "name": "No Choir",
+      "url": "https://open.spotify.com/track/47a7Hn4fFE4mHgVJF19CO1"
     },
     {
       "added_at": null,
@@ -827,6 +811,22 @@
       "duration_ms": 287240,
       "name": "Heavy In Your Arms",
       "url": "https://open.spotify.com/track/3svizT5TsRqDffORHCmwKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
     },
     {
       "added_at": null,

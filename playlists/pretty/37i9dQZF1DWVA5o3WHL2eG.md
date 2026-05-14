@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Mariybu
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,265 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,267 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [Nicht alle Männer](https://open.spotify.com/track/1EW65ROral0c7zxKuYwyP0) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG), [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Nicht alle Männer](https://open.spotify.com/album/1McXTV5fnHSRVBJlfk5Cz9) | 2:05 |
 | 8 | [Süßer](https://open.spotify.com/track/4i9MMlgfUTuC3ClXAsbjYw) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [Süßer](https://open.spotify.com/album/4IGnm0d5e8LxE7Ix7WuYEq) | 1:44 |
 | 9 | [fuego](https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [fuego](https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa) | 2:20 |
-| 10 | [So wie sie](https://open.spotify.com/track/2aa4pe8kQ68SVOYijZ8xTr) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [So wie sie](https://open.spotify.com/album/2yPQISpJIGw2OkkDyAbhfF) | 2:15 |
-| 11 | [Miu Miu](https://open.spotify.com/track/24B8vZjjgNxxRUBfuXl9s6) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Miu Miu](https://open.spotify.com/album/0vTYPoWCq8r4aT6Cj3MMMI) | 2:24 |
+| 10 | [Miu Miu](https://open.spotify.com/track/24B8vZjjgNxxRUBfuXl9s6) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Miu Miu](https://open.spotify.com/album/0vTYPoWCq8r4aT6Cj3MMMI) | 2:24 |
+| 11 | [So wie sie](https://open.spotify.com/track/2aa4pe8kQ68SVOYijZ8xTr) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [So wie sie](https://open.spotify.com/album/2yPQISpJIGw2OkkDyAbhfF) | 2:15 |
 | 12 | [Pfeil und Bogen](https://open.spotify.com/track/3hxKz56t0LmiRhrWSO3sVg) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Pfeil und Bogen](https://open.spotify.com/album/05eliY4RhHXsQmvC2jTS83) | 2:50 |
 | 13 | [isy](https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [isy](https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL) | 2:30 |
 | 14 | [HMDL](https://open.spotify.com/track/4xVR7iSp5Mdl6FGCbzz9AM) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [melle](https://open.spotify.com/artist/2IZgsJlw6u4ZnZlbGqlBHw), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [HMDL](https://open.spotify.com/album/3VRpUAmX0GSRjvMOwX1H4K) | 1:58 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Château Brute](https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Château Brute](https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8) | 2:44 |
 | 33 | [Politschlampe](https://open.spotify.com/track/05PosjtIvZysYhJEahkp8X) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [SLAYBAE](https://open.spotify.com/album/08e6NGFmeuJKSqH3iMvunX) | 1:03 |
 | 34 | [Also lass' ich es los](https://open.spotify.com/track/7yfJjlAecJklc45OdRRooX) | [LILITH](https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ) | [Also lass' ich es los](https://open.spotify.com/album/66a6oOPUQdalx7DCaIepxP) | 2:31 |
-| 35 | [Samowar](https://open.spotify.com/track/0xoQSP1xVyu2DeSCCOWO8L) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Samowar](https://open.spotify.com/album/72Ehw8aD5ZX4h2oKXYuq4A) | 2:53 |
-| 36 | [Confidence](https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Confidence](https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK) | 3:08 |
+| 35 | [Confidence](https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Confidence](https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK) | 3:08 |
+| 36 | [Samowar](https://open.spotify.com/track/0xoQSP1xVyu2DeSCCOWO8L) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Samowar](https://open.spotify.com/album/72Ehw8aD5ZX4h2oKXYuq4A) | 2:53 |
 | 37 | [LECK](https://open.spotify.com/track/0TYWngaLKfKyBHXSh7nzex) | [pixxi](https://open.spotify.com/artist/3Y9fcdMTvsOkdgLXxxwjsE) | [LECK](https://open.spotify.com/album/6Kz0fj2HdevGcNsDyjdtBQ) | 2:41 |
 | 38 | [Magical Female Rage](https://open.spotify.com/track/0Egy1eNOg0VdAPfIkDuXri) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Call Me The Witch](https://open.spotify.com/album/0ONATOQHPwMWxvw3iqPhkv) | 3:39 |
 | 39 | [ONE HEART](https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [SOMEBODY WHO LOVES](https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N) | 2:50 |

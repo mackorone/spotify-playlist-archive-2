@@ -2,7 +2,7 @@
 
 ### [\(AR\)](https://open.spotify.com/playlist/37i9dQZF1DXdM3ZcJzlarB)
 
-> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Mariano Mellino
+> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Jay de Lys
 
 368 songs - 1 day 10 hr 38 min
 
@@ -185,7 +185,7 @@
 | [Let You Go](https://open.spotify.com/track/5NuUpZEwvaezusTcocyCZi) | [Kabi \(AR\)](https://open.spotify.com/artist/5T7NqJBwbKQHEOosAPfuSL), [Agustin Ficarra](https://open.spotify.com/artist/75TGMCCFNwVQ4XivI9t2J6) | [Let You Go](https://open.spotify.com/album/2ifjAn59ZY2PN6ldZH4JFR) | 6:06 | 2026-01-16 |  |
 | [Let's Talk](https://open.spotify.com/track/2urMoiu8biLlRt4J3lrvHW) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5) | [Let's Talk](https://open.spotify.com/album/0uQPkMEkucJfEkCotw5IVP) | 5:26 | 2025-12-09 |  |
 | [Lick It \(feat\. Pablo Aristimuño\)](https://open.spotify.com/track/0mWebM26qFivYA24xX6olo) | [Mateo Dufour](https://open.spotify.com/artist/5BhU8yBWfPZN2J2OCefip6), [Pablo Aristimuño](https://open.spotify.com/artist/5ZJcLDAlidHV1DvhdenGSI) | [Lick It](https://open.spotify.com/album/1uvpOdGh9Z8r13mDhAUfx6) | 3:18 | 2025-12-09 |  |
-| [Lifeline \- Hernan Cattaneo & Simply City Remix](https://open.spotify.com/track/5qjcU88QJddF5igdZneGIB) | [J Lauda](https://open.spotify.com/artist/5lKQ05oFwm17Qlsctpr1BL), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Simply City](https://open.spotify.com/artist/3MdR0nAA5pQ7DJ72YapcRj) | [Lifeline \(Hernan Cattaneo & Simply City Remix\)](https://open.spotify.com/album/15kMi4Cc8dQKziRsc6HsgJ) | 3:58 | 2025-07-18 |  |
+| [Lifeline \- Hernan Cattaneo & Simply City Remix](https://open.spotify.com/track/5qjcU88QJddF5igdZneGIB) | [J Lauda](https://open.spotify.com/artist/5lKQ05oFwm17Qlsctpr1BL), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Simply City](https://open.spotify.com/artist/3MdR0nAA5pQ7DJ72YapcRj) | [Lifeline \(Hernan Cattaneo & Simply City Remix\)](https://open.spotify.com/album/15kMi4Cc8dQKziRsc6HsgJ) | 3:58 | 2025-07-18 | 2026-05-14 |
 | [Like Forever \- Hernan Cattaneo and Kevin Di Serna Remix](https://open.spotify.com/track/2KXLXUoc4IvnF53qDJH3L7) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm) | [Like Forever \(Hernan Cattaneo & Kevin Di Serna Remix\)](https://open.spotify.com/album/02ZyfvHxCHY8PmH1JOhKF9) | 4:44 | 2024-04-12 | 2025-03-20 |
 | [Listen](https://open.spotify.com/track/0L8WTNC0GLcfAXkGMPIolF) | [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Listen](https://open.spotify.com/album/71KIKLJFqbZqWosO3D5qgD) | 3:45 | 2023-11-17 | 2025-03-20 |
 | [lo que pase \(feat\. Trueno\) \- Muter Remix](https://open.spotify.com/track/7585ieV3yv12vwh5Qn1G9V) | [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Muter](https://open.spotify.com/artist/2o5tNqU2sF0RFlheSryWXk), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [lo que pase \(feat\. Trueno\) \[Muter Remix\]](https://open.spotify.com/album/4EfCkFlGiBW45WezCqIuA6) | 3:50 | 2025-11-07 |  |

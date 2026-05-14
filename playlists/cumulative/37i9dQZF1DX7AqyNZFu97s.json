@@ -24919,6 +24919,24 @@
     },
     {
       "album": {
+        "name": "HEAD IN THE CLOUDS",
+        "url": "https://open.spotify.com/album/2sOvbfuUlnzmPz5FmwWxz5"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Mettle",
+          "url": "https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "HEAD IN THE CLOUDS",
+      "url": "https://open.spotify.com/track/4s4fymRewq40MD6v4CQLSh"
+    },
+    {
+      "album": {
         "name": "Head Straight",
         "url": "https://open.spotify.com/album/60MZDr1SPWlUcTpxxBZ4sc"
       },

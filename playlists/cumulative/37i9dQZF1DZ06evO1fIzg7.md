@@ -4,7 +4,7 @@
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 47 min
+63 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,11 @@
 | [Breaking the Circle](https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg) | 4:13 | 2025-10-28 |  |
 | [Can't Fight This Feeling](https://open.spotify.com/track/0SMtrSiWbLctS8Hy91YMaE) | [Junior Caldera](https://open.spotify.com/artist/0uRgQor0jDWaKojnCUhR0b), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Debut \(Gold Edition\)](https://open.spotify.com/album/5PWBm9v7VxGtt344G8h5Li) | 3:40 | 2025-10-28 |  |
 | [Catch You](https://open.spotify.com/track/1LjXn0nG37aBWPPnDOq1nQ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:18 | 2025-10-28 |  |
-| [China Heart](https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:42 | 2025-10-28 |  |
+| [China Heart](https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:42 | 2025-10-28 | 2026-05-14 |
 | [Come with Us](https://open.spotify.com/track/43n5mksAK5DmDSRnuv6hVV) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Familia](https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6) | 3:54 | 2025-10-28 |  |
 | [Crying at the Discotheque](https://open.spotify.com/track/2m3c0Fe9teHlUKlOfFgOd8) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 3:51 | 2025-10-28 | 2026-02-06 |
 | [Crying at the Discotheque](https://open.spotify.com/track/48n09PfulQQGKMoTKTxi7w) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Crying at the Discotheque](https://open.spotify.com/album/6ft7u4owE0OZDTMefWy4Ts) | 3:51 | 2026-02-06 |  |
+| [Dear Jimmy](https://open.spotify.com/track/0j0BoDlXaFILyYbCN3fzzQ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(25th Anniversary Edition\)](https://open.spotify.com/album/4hqcTt3sWPNNZ1MRAI9zJG) | 3:26 | 2026-05-14 |  |
 | [Do You Remember the First Time? \- Live](https://open.spotify.com/track/3H4eDzeAiETLAviW8KY2nz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 4:13 | 2025-12-23 |  |
 | [Dolce Vita](https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:31 | 2025-10-28 |  |
 | [Everything is Sweet](https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg) | 4:49 | 2025-10-28 | 2026-04-24 |

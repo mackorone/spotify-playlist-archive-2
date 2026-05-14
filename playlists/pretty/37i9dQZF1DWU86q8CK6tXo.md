@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Quiet Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,117 likes - 54 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,118 likes - 54 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 15 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
 | 16 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 |
 | 17 | [Numb](https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Numb](https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma) | 2:34 |
-| 18 | [Buffalo 66](https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Jesus loves a primadonna](https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK) | 4:27 |
-| 19 | [Truth Of Pursuit](https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA) | 2:51 |
+| 18 | [Truth Of Pursuit](https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA) | 2:51 |
+| 19 | [Buffalo 66](https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Jesus loves a primadonna](https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK) | 4:27 |
 | 20 | [Time Will Tell](https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Empty Hands](https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C) | 3:27 |
 | 21 | [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 |
 | 22 | [kiss goodbye](https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [kiss goodbye / brb](https://open.spotify.com/album/45omOM9b7ujbjudttnasFa) | 2:43 |
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 30 | [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 |
 | 31 | [i loved you then](https://open.spotify.com/track/6VT52WzaQT5oeZpFWv2q1H) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [i loved you then](https://open.spotify.com/album/7nocSTYeEUYkOXtHu5EIcf) | 3:42 |
 | 32 | [Man Downstairs](https://open.spotify.com/track/63jyN3zXtA4Du2rUqBR4MG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Man Downstairs](https://open.spotify.com/album/3nBSeiODQ7GDrzjpuXT0NH) | 2:34 |
-| 33 | [Is It Fun Or Is It Over?](https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Is It Fun Or Is It Over?](https://open.spotify.com/album/54N4dAkractT6mUBC0a48b) | 2:40 |
-| 34 | [Tattoos](https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Tattoos](https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt) | 3:18 |
-| 35 | [listening](https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Just Us](https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit) | 3:53 |
+| 33 | [Tattoos](https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Tattoos](https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt) | 3:18 |
+| 34 | [listening](https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Just Us](https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit) | 3:53 |
+| 35 | [Is It Fun Or Is It Over?](https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Is It Fun Or Is It Over?](https://open.spotify.com/album/54N4dAkractT6mUBC0a48b) | 2:40 |
 | 36 | [Delicately](https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Delicately](https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD) | 3:20 |
 | 37 | [Don't Stop](https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Don't Stop](https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF) | 2:55 |
 | 38 | [Baggy Jeans](https://open.spotify.com/track/3kkwjDRPPYIZ54FF0ceeco) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Reverie](https://open.spotify.com/album/5newvs2aGEj6sYvNIECgiZ) | 2:51 |
-| 39 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
-| 40 | [\(ENAMORADA\)](https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(enamorada\)](https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7) | 4:01 |
+| 39 | [\(ENAMORADA\)](https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(enamorada\)](https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7) | 4:01 |
+| 40 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
 | 41 | [SURFBOARD](https://open.spotify.com/track/4Qos8gdRj92oPPNplKREFj) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [AMOR & DROGA](https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg) | 3:31 |
 | 42 | [THUM](https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [THUM](https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr) | 2:11 |
 | 43 | [MALIBU](https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:34 |
@@ -61,6 +61,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 51 | [Your Mother](https://open.spotify.com/track/7eq64AWsnSuYEE2861FRuD) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [Sound of a Woman](https://open.spotify.com/album/1EXvOPcWpUOV0rU44OXDHD) | 5:16 |
 | 52 | [Mine](https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo: Act 2](https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh) | 2:27 |
 | 53 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 |
-| 54 | [WYD](https://open.spotify.com/track/4VzsfQSUEwJ37RjyzAmQ5Y) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [WYD](https://open.spotify.com/album/3UQ4Eu0TwyHelMM8LR5smw) | 2:36 |
+| 54 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
 
 Snapshot ID: `AAAAAHLKWE44ORhz1t78R4gcv5JNUxnx`

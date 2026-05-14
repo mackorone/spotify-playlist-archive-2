@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SEFZskKvKB.md) - [plain]
 
 > Ambient and percussion to move the body and heal the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,939 likes - 110 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,009 likes - 110 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SEFZskKvKB.md) - [plain]
 | 106 | [Zen Beat 1](https://open.spotify.com/track/5xZ2SUNClq0bfr5CbYEKBc) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zen Beats 1](https://open.spotify.com/album/3EjS8dAFjuHzy4FE9UYif6) | 3:14 |
 | 107 | [Focus One](https://open.spotify.com/track/3XbLt09x1IBDMPYDTFRZXM) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus One](https://open.spotify.com/album/7pPXleKmHlZ8YPkQTxetQ1) | 3:31 |
 | 108 | [Ruby's Dance](https://open.spotify.com/track/0NXGeUwHAHttzLNhbv4oHB) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Ruby's Dance](https://open.spotify.com/album/6fc6QjKd0j2ZkMp3wdbJPK) | 2:39 |
-| 109 | [Song of Peace](https://open.spotify.com/track/4XxhiwOmf12vK6iRcmDlXE) | [Jonathan Mantras](https://open.spotify.com/artist/2yppMEsQtj8KqFq1EBiNz7) | [Shamanic Drums \(Meditation & Sacred Dance\)](https://open.spotify.com/album/1XS9JY9mSUo78ellvdiQo5) | 3:26 |
+| 109 | [Chant of Peace](https://open.spotify.com/track/4XxhiwOmf12vK6iRcmDlXE) | [Selene Noor](https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi) | [Shamanic Drums](https://open.spotify.com/album/1XS9JY9mSUo78ellvdiQo5) | 3:26 |
 | 110 | [Tabla Journey](https://open.spotify.com/track/0yU7xhca2umDHpLpVuGKQX) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Tabla Journey](https://open.spotify.com/album/0Z0xbFPij5lnivzRj8daSF) | 2:39 |
 
 Snapshot ID: `AAAAAA/aRu/Fs7Ecsyft2I8HL9Q7D5Ee`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de mayo 2026\. Cover: Alvaro Diaz & LATIN MAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,557,628 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,557,547 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 17 | [Apambichao](https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Apambichao](https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B) | 2:27 |
 | 18 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 |
 | 19 | [X UNAS LLANTAS](https://open.spotify.com/track/0uniUBcZwEwycJAMgFF8x0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [X UNAS LLANTAS](https://open.spotify.com/album/6yfOnX63qyUDHSQMEzHpxl) | 2:43 |
-| 20 | [EL SENTRITA](https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ETERNO](https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7) | 2:57 |
-| 21 | [EA EA EA](https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [AFTERAFTER](https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ) | 2:42 |
-| 22 | [Dando Vueltas](https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Dando Vueltas](https://open.spotify.com/album/7wYT2QR0HAARGKAbZR0xTk) | 3:14 |
-| 23 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
+| 20 | [EA EA EA](https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [AFTERAFTER](https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ) | 2:42 |
+| 21 | [EL SENTRITA](https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ETERNO](https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7) | 2:57 |
+| 22 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
+| 23 | [Dando Vueltas](https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Dando Vueltas](https://open.spotify.com/album/7wYT2QR0HAARGKAbZR0xTk) | 3:14 |
 | 24 | [QHP PIÑATA](https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [QHP PIÑATA](https://open.spotify.com/album/4bEPyt76DUgLvsQsZ2czkf) | 3:38 |
 | 25 | [Ruca](https://open.spotify.com/track/73Iis0jeK8GvqybSakXRHd) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ruca](https://open.spotify.com/album/6fsNOWfqMS95siXiT0XSQn) | 3:01 |
 | 26 | [SI LAS PAREDES HABLARAN](https://open.spotify.com/track/3ENGH9alDrEvggq3ZoGzWN) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SI LAS PAREDES HABLARAN](https://open.spotify.com/album/0U0dJC5TvkLSd1CKMoleT7) | 3:14 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 34 | [Déjame Entrar](https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Déjame Entrar](https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV) | 4:10 |
 | 35 | [Me & U](https://open.spotify.com/track/7bA4pw66AARPLFVi14O7G4) | [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Me & U](https://open.spotify.com/album/5a8WNzwGYttrWURsqdzbuu) | 3:09 |
 | 36 | [pecos](https://open.spotify.com/track/1U4gvn7EQFC2RQgaYEthVa) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [pecos](https://open.spotify.com/album/52UqQdtl1tkSGMiSM7d8OV) | 3:07 |
-| 37 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
+| 37 | [\(ENAMORADA\)](https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(enamorada\)](https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7) | 4:01 |
 | 38 | [no me importa](https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [no me importa](https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL) | 3:20 |
-| 39 | [\(ENAMORADA\)](https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(enamorada\)](https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7) | 4:01 |
+| 39 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
 | 40 | [ENCONTREMOS UNA MANERA](https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [ENCONTREMOS UNA MANERA](https://open.spotify.com/album/6f1tNlGmy7U1rIn9Ye94RC) | 2:14 |
 | 41 | [el silencio](https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [el silencio](https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL) | 3:38 |
 | 42 | [D U L C E](https://open.spotify.com/track/5wJyNrj7pygsFIwqsO5jjX) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [D U L C E](https://open.spotify.com/album/6L9ASSKb4Y5vRmNTJqRfMV) | 3:12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Ayumu Imazu *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/345797\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Ayumu Imazu *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/346050\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -4052,6 +4052,24 @@
       "duration_ms": 1231679,
       "name": "2026/4/8 Chevon\u304c\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\uff01\uff01Kohjiya\u306e\u30a2\u30eb\u30d0\u30e0\u3082\uff01Original Love\u3068\u97d3\u56fd\u306e\u30d0\u30f3\u30c9CADEJO\u306e\u30b3\u30e9\u30dcEP\u3001\u5d0e\u5c71\u84bc\u5fd7\u306e\u65b0\u66f2\u3001Early Noise\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8LAUSBUB\u306e\u65b0\u66f2\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01\uff01",
       "url": "https://open.spotify.com/episode/7m1EGrXPb572JYfJz9YemQ"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2143178,
+      "name": "2026/5/13 Ayumu Imazu\u304c\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\uff01STUTS\u3001butaji\u3001\u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9\u3078\u306e\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3082\uff01\u6d5c\u91ce\u8b19\u592a\u00d7\u5f8c\u85e4\u771f\u5e0c\u306e\u30b3\u30e9\u30dc\u66f2\u3001Maverick Mom\u306e1st\u30a2\u30eb\u30d0\u30e0\u3001Maya\u3068Rol3ert\u306e\u30b3\u30e9\u30dc\u66f2\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
+      "url": "https://open.spotify.com/episode/2Y4b8uaMMQZs6YtdpY8jmk"
     },
     {
       "album": {
@@ -48350,6 +48368,24 @@
       "duration_ms": 196125,
       "name": "Emma",
       "url": "https://open.spotify.com/track/3Ew2Z5BuGpha0CCT924Cf4"
+    },
+    {
+      "album": {
+        "name": "EMO EMO",
+        "url": "https://open.spotify.com/album/1sxsJF9uD9ubGGpCqEuGRn"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "EMO EMO",
+      "url": "https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1"
     },
     {
       "album": {
@@ -171155,42 +171191,6 @@
     },
     {
       "album": {
-        "name": "EMO EMO",
-        "url": "https://open.spotify.com/album/1sxsJF9uD9ubGGpCqEuGRn"
-      },
-      "artists": [
-        {
-          "name": "illiomote",
-          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
-        }
-      ],
-      "date_added": "2026-05-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1"
-    },
-    {
-      "album": {
-        "name": "\u30c4\u30ae\u30cf\u30ae",
-        "url": "https://open.spotify.com/album/6YYOIl8Ap2B5LmXYZHAEfj"
-      },
-      "artists": [
-        {
-          "name": "\u30ab\u30e9\u30ce\u30a2",
-          "url": "https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m"
-        }
-      ],
-      "date_added": "2026-05-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2jkgvQaRty8kMsBJ9rRuWz"
-    },
-    {
-      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -203470,6 +203470,24 @@
       "duration_ms": 297554,
       "name": "\u307e\u308c\u3073\u3068",
       "url": "https://open.spotify.com/track/0Hixq9hxVTMmLhFxZ1YGpu"
+    },
+    {
+      "album": {
+        "name": "\u30c4\u30ae\u30cf\u30ae",
+        "url": "https://open.spotify.com/album/6YYOIl8Ap2B5LmXYZHAEfj"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30e9\u30ce\u30a2",
+          "url": "https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231224,
+      "name": "\u307e\u308f\u308b",
+      "url": "https://open.spotify.com/track/2jkgvQaRty8kMsBJ9rRuWz"
     },
     {
       "album": {

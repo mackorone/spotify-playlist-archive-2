@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 988400,
+  "num_followers": 988458,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAABIEnsoTEOORrMkD66gY99h",
+  "snapshot_id": "agJtgAAAAACrZM83o3jJafSjF41d/sVS",
   "tracks": [
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 170360,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
+      "duration_ms": 330506,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 330506,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
+      "duration_ms": 170360,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
     },
     {
       "added_at": null,

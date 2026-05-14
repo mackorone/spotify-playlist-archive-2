@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸    Cover: Thea Dora
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,135 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,133 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 4 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 |
 | 5 | [Livet Er For Kort](https://open.spotify.com/track/6QynJvly6ZcSpcEweJwQEt) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Livet Er For Kort](https://open.spotify.com/album/2yxKdiluzCssx2saJ4h3NF) | 2:50 |
 | 6 | [Klip Klap Sandaler](https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Kan Du Mærke Suset?](https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty) | 4:00 |
-| 7 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 |
-| 8 | [Hvorfor skulle jeg vide det?](https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Hvorfor skulle jeg vide det?](https://open.spotify.com/album/360MgRzxQLYOT70TgyPyg4) | 2:15 |
+| 7 | [Hvorfor skulle jeg vide det?](https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Hvorfor skulle jeg vide det?](https://open.spotify.com/album/360MgRzxQLYOT70TgyPyg4) | 2:15 |
+| 8 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 |
 | 9 | [drikker med mig selv](https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [vågner](https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w) | 2:30 |
 | 10 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 |
 | 11 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 33 | [Ender Altid Hos Dig](https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [4CANTOS](https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw) | 2:20 |
 | 34 | [Hvis jeg ku'](https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Hvis jeg ku'](https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c) | 3:49 |
 | 35 | [Hvad Med Mig](https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [August](https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb) | 3:15 |
-| 36 | [Barn Af Venedig](https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Barn Af Venedig](https://open.spotify.com/album/7md2UVqllUni4xa7373rXi) | 3:59 |
-| 37 | [Kun for os](https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Kun for os](https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc) | 3:20 |
+| 36 | [Kun for os](https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Kun for os](https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc) | 3:20 |
+| 37 | [Barn Af Venedig](https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Barn Af Venedig](https://open.spotify.com/album/7md2UVqllUni4xa7373rXi) | 3:59 |
 | 38 | [Hæng En Mand](https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Hæng En Mand](https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa) | 5:12 |
 | 39 | [Søvnløs](https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN) | [Friða Saiya](https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm) | [Søvnløs](https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN) | 2:29 |
 | 40 | [sad song](https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [sad song](https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I) | 3:03 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 48 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 |
 | 49 | [Stay 4 U](https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Stay 4 U](https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7) | 3:04 |
 | 50 | [You Make a Fire, You Make a Camp](https://open.spotify.com/track/3G83jEKy5gwjXxHabR89h7) | [Jura](https://open.spotify.com/artist/7o47tXCHgjbz4cGuYgg7AM), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC), [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V), [Helene Norup Due](https://open.spotify.com/artist/0o1fgVWvRNSPuuurEKVRWb) | [You Make a Fire, You Make a Camp](https://open.spotify.com/album/3AgBPC2z48Foe0g6clOy2I) | 8:53 |
-| 51 | [Uden Tøj På](https://open.spotify.com/track/2yJGqPpHkLEQJH1t1dKGyS) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Uden Tøj På](https://open.spotify.com/album/2Wulhz0KDC8b9ZHIAwL2gW) | 2:34 |
-| 52 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 |
+| 51 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 |
+| 52 | [Uden Tøj På](https://open.spotify.com/track/2yJGqPpHkLEQJH1t1dKGyS) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Uden Tøj På](https://open.spotify.com/album/2Wulhz0KDC8b9ZHIAwL2gW) | 2:34 |
 | 53 | [Ekkoer](https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Ekkoer](https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa) | 2:41 |
 | 54 | [Idiot](https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Kraftidiot](https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82) | 2:45 |
 | 55 | [Genbrug](https://open.spotify.com/track/47dUNTWlQ735eBb6XrBS0x) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Genbrug](https://open.spotify.com/album/41X17LznjGL3UAGwk8O5UC) | 2:52 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 59 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
 | 60 | [Mareridt](https://open.spotify.com/track/6hhNPBPQDhO0WYbhVFFCIM) | [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [Mareridt](https://open.spotify.com/album/2fTcRdTAQuCADEZj5KZGLf) | 3:03 |
 | 61 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 |
-| 62 | [Eleanor's Escape](https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Eleanor's Escape](https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL) | 4:16 |
-| 63 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
+| 62 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
+| 63 | [Eleanor's Escape](https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Eleanor's Escape](https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL) | 4:16 |
 | 64 | [Den Lykkelige Ungdom](https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Den Lykkelige Ungdom](https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo) | 2:43 |
 | 65 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 |
 | 66 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 |
-| 67 | [Upgrade](https://open.spotify.com/track/3ogJQFKXZconuA2XeTYo90) | [marius](https://open.spotify.com/artist/0DxnhmBH9QUcVojeyZROdZ) | [Upgrade](https://open.spotify.com/album/5W2Ey9dqhjwkG4zxSynNjy) | 2:18 |
+| 67 | [Bye Sofia](https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [The Way She Says Goodbye](https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB) | 2:45 |
 | 68 | [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 |
-| 69 | [Bye Sofia](https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [The Way She Says Goodbye](https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB) | 2:45 |
+| 69 | [Upgrade](https://open.spotify.com/track/3ogJQFKXZconuA2XeTYo90) | [marius](https://open.spotify.com/artist/0DxnhmBH9QUcVojeyZROdZ) | [Upgrade](https://open.spotify.com/album/5W2Ey9dqhjwkG4zxSynNjy) | 2:18 |
 | 70 | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA) | 4:18 |
 
 Snapshot ID: `AAAAAF3SavAa0JVTa/h8Xceh9+b3BlxF`

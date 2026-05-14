@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 
 > Sultry house beats to accompany your cocktail drinks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,221 likes - 280 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,312 likes - 280 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

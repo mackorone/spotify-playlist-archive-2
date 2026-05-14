@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Sir Trill
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,519 likes - 101 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,565 likes - 101 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 10 | [Uzophumelela](https://open.spotify.com/track/5r5B9F336V8Z28mTjQ65Cm) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Uzophumelela](https://open.spotify.com/album/4IBjT3s0Ws23421NY1lc2J) | 4:07 |
 | 11 | [Kuwe \(feat\. Ugatsheni & Pretty Masompisi\)](https://open.spotify.com/track/0WxdS0wwIkVQKppKum6Xvi) | [Stallion X](https://open.spotify.com/artist/3V3keoOsIZ5Hj0PTGTWqds), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Diary](https://open.spotify.com/artist/2pTKezPNKXyQCfkUVIRJ74), [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60), [Pretty Masompisi](https://open.spotify.com/artist/7xBgvT4t4AQ0t7gcBc90ts) | [Genesis Chapter 1](https://open.spotify.com/album/1c3YTpnvWNgONgyS2DubMf) | 4:39 |
 | 12 | [Ndivile](https://open.spotify.com/track/6ebjGZv5Z7DAssFfIOKfUc) | [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i), [Michelle ka Ndikhoyo](https://open.spotify.com/artist/3aBdFG9uR25zPsSqQvPzpF) | [Dithapelo](https://open.spotify.com/album/5614FCEOB3ZvIftl0W2J7a) | 4:19 |
-| 13 | [KHALANWAHA](https://open.spotify.com/track/5fC3oT3rRF7itnkIV8JZbY) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [KHALANWAHA](https://open.spotify.com/album/7kuWlNLAPzPeGuUliVibgI) | 5:11 |
+| 13 | [KHALANWAHA](https://open.spotify.com/track/5fC3oT3rRF7itnkIV8JZbY) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [KHALANWAHA](https://open.spotify.com/album/7kuWlNLAPzPeGuUliVibgI) | 5:11 |
 | 14 | [EThekwini \(feat\. Shwi Mantombazane\)](https://open.spotify.com/track/0uqXtHOucKim6xknqVXy9R) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [GVNT](https://open.spotify.com/artist/3mPwYo0I3ghj65F0C9iRtQ), [Shwi Mantombazane](https://open.spotify.com/artist/19JQ640cmG2atUL0ynYIWX) | [NOSANGE](https://open.spotify.com/album/4VCDfRRf7SUvFx396U3cn9) | 4:00 |
 | 15 | [Ndi A Ni Funa](https://open.spotify.com/track/2SsNEiaTIx5pYANxFIvn87) | [Eleh](https://open.spotify.com/artist/3kPtdzzTFXY0AZIR1Iyrtl), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [Ndi A Ni Funa](https://open.spotify.com/album/2fAkM4cyTKO8zR6FSuKwFz) | 4:32 |
 | 16 | [Omaqondana](https://open.spotify.com/track/0RgQ2wCSQOhwt6nOWicp9M) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Sqiniseko SqinQ](https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ) | [Omaqondana](https://open.spotify.com/album/5mnCLnuHVYtMxOfv5pzC64) | 3:38 |

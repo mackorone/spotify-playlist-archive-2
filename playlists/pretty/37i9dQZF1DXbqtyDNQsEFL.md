@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,937 likes - 80 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,956 likes - 80 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 73 | [Jehovah Move](https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3) | [Sikaflames](https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg) | [Jehovah Move](https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm) | 3:41 |
 | 74 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 |
 | 75 | [Jesu \- Live](https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:37 |
-| 76 | [Way Maker](https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08) | [SINACH](https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV) | [Way Maker](https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq) | 4:46 |
-| 77 | [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 |
-| 78 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 |
-| 79 | [Heart of Worship](https://open.spotify.com/track/24nHidYHfPkAkdhFvv9tKL) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Mayo](https://open.spotify.com/artist/2vcjogMCAZpBE9uJGGDY6o) | [Heart of Worship](https://open.spotify.com/album/6EEeFZ86I2ajYjcE40tE0G) | 4:02 |
+| 76 | [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 |
+| 77 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 |
+| 78 | [Heart of Worship](https://open.spotify.com/track/24nHidYHfPkAkdhFvv9tKL) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Mayo](https://open.spotify.com/artist/2vcjogMCAZpBE9uJGGDY6o) | [Heart of Worship](https://open.spotify.com/album/6EEeFZ86I2ajYjcE40tE0G) | 4:02 |
+| 79 | [Way Maker](https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08) | [SINACH](https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV) | [Way Maker](https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq) | 4:46 |
 | 80 | [Isi Gini](https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Isi Gini](https://open.spotify.com/album/4odNgQQKOPmNSQbs1k2bYj) | 4:29 |
 
 Snapshot ID: `AAAAALc8svuDSLD3zM9j0CYMqGie9Paw`

@@ -4,7 +4,7 @@
 
 > This is Morocco right now\. Cover: Tame Impala, JENNIE
 
-535 songs - 1 day 4 hr 20 min
+536 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [PENALTY](https://open.spotify.com/track/6K98YuYoefShCK5qIsPybL) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu), [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [PENALTY](https://open.spotify.com/album/67nkeu6axxVkXnqDnig9iQ) | 3:21 | 2025-05-27 | 2025-06-20 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-13 | 2023-08-02 |
 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(feat\. Cian Ducrot\) \[Remix\]](https://open.spotify.com/album/2iBbNFC5oZdKfqQyiSEfXx) | 3:04 | 2023-03-16 | 2023-03-19 |
+| [PER LA VITA](https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [PER LA VITA](https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z) | 3:12 | 2026-05-13 |  |
 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 | 2024-07-18 | 2025-01-21 |
 | [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 | 2025-06-16 | 2025-09-02 |
 | [Pichichi](https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7) | 2:58 | 2025-04-21 | 2025-06-20 |
@@ -499,7 +500,7 @@
 | [Walidia](https://open.spotify.com/track/6lMibyYmZ1TrpXOMdzdetu) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Walidia](https://open.spotify.com/album/1olBJn1wRmpQxVSdprcr6f) | 3:06 | 2025-04-24 | 2025-07-08 |
 | [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 | 2025-04-07 | 2026-04-17 |
 | [WARDA](https://open.spotify.com/track/5lC39yQlbwLlJyKswUV9yt) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [SPLIT](https://open.spotify.com/album/4geWx0ghzLQHdWCvkxkc1e) | 2:59 | 2026-05-07 |  |
-| [WARDA](https://open.spotify.com/track/6h12Wm7WN4HUwKiquHjaNK) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:59 | 2026-04-20 |  |
+| [WARDA](https://open.spotify.com/track/6h12Wm7WN4HUwKiquHjaNK) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:59 | 2026-04-20 | 2026-05-14 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-10-27 | 2023-11-17 |
 | [Wayeh](https://open.spotify.com/track/7EMzOyDT87Uq9Hi08Mxe31) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 2:28 | 2024-07-18 | 2024-11-12 |
 | [WAYLE](https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2NRpmLrRQOapraNh2MCRnZ) | 3:10 | 2022-11-07 | 2023-05-24 |

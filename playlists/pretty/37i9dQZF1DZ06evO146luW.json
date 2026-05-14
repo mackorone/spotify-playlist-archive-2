@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 51324,
+  "num_followers": 51336,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agEcAAAAAAC4xAZliFnrZMKj0XK1aUsM",
+  "snapshot_id": "agJtgAAAAADHGSKPZpO0wFOZLbjKqRkM",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurts Like You & Dollar and a Bottle",
+        "url": "https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 195332,
+      "name": "Hurts Like You",
+      "url": "https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Austin",
         "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
       },
@@ -247,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 165699,
-      "name": "Good Die Young",
-      "url": "https://open.spotify.com/track/6vBbirJ0n9L0j1XPtWlG6T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurts Like You & Dollar and a Bottle",
-        "url": "https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD"
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 195332,
-      "name": "Hurts Like You",
-      "url": "https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr"
+      "duration_ms": 165699,
+      "name": "Good Die Young",
+      "url": "https://open.spotify.com/track/6vBbirJ0n9L0j1XPtWlG6T"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 338346,
-      "name": "Honey Pain",
-      "url": "https://open.spotify.com/track/21dB5hK5tAJaGD3VTbQ7ly"
+      "duration_ms": 282282,
+      "name": "Sober Sunday",
+      "url": "https://open.spotify.com/track/6uzJmSCgxBMu9cIyYfFUKr"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 Lives (Black Cat)",
-        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 204628,
-      "name": "9 Lives (Black Cat)",
-      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
+      "duration_ms": 194621,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
+        "name": "9 Lives (Black Cat)",
+        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 194621,
-      "name": "Casamigos",
-      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
+      "duration_ms": 204628,
+      "name": "9 Lives (Black Cat)",
+      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 272674,
-      "name": "Wine Glass",
-      "url": "https://open.spotify.com/track/142j2y0wEDHuofNFBggRDb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Werewolf",
         "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 222578,
       "name": "Werewolf",
       "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 272674,
+      "name": "Wine Glass",
+      "url": "https://open.spotify.com/track/142j2y0wEDHuofNFBggRDb"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 240068,
-      "name": "Gravedigger",
-      "url": "https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
         "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 267715,
       "name": "Sweet Texas Strange",
       "url": "https://open.spotify.com/track/2eMDLqUwfIKwYpamHAzgEe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 240068,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW"
     },
     {
       "added_at": null,

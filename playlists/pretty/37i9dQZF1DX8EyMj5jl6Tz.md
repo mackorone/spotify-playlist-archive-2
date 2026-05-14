@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8EyMj5jl6Tz.md) - [plain]
 
 > Dance remixes of popular songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,150 likes - 150 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,503 likes - 150 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8EyMj5jl6Tz.md) - [plain]
 | 50 | [Ça Plane Pour Moi](https://open.spotify.com/track/0PGm3NNagxDaHas5YyiGnV) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Deso Latee](https://open.spotify.com/artist/0klyxA0TLyUMXyeIsbe5eN) | [Ça Plane Pour Moi](https://open.spotify.com/album/765or5WI01dcXYlibrzcqm) | 2:07 |
 | 51 | [Rude Boy](https://open.spotify.com/track/4BejhNw8vSXf7BwVy9Osmj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Rude Boy](https://open.spotify.com/album/3qlpSfP5AHTpYGnCmBCf99) | 2:39 |
 | 52 | [Love The Way You Lie \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/0KEQ6X89UPO4wUFjLoIERl) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Love The Way You Lie \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/5P3i2e0G7OZFlHW6k01qNE) | 2:40 |
-| 53 | [With Every Heartbeat](https://open.spotify.com/track/5Y4Wcbq7o4UbNhIOj68BiY) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Olivia](https://open.spotify.com/artist/7aAMmxuAsbxOYa4dYIEZdi) | [With Every Heartbeat](https://open.spotify.com/album/2mJSN9REiMiZyGyYUkdY4g) | 3:14 |
+| 53 | [With Every Heartbeat](https://open.spotify.com/track/5Y4Wcbq7o4UbNhIOj68BiY) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [With Every Heartbeat](https://open.spotify.com/album/2mJSN9REiMiZyGyYUkdY4g) | 3:14 |
 | 54 | [Galvanize \- Chris Lake Remix](https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Galvanize \(Chris Lake Remix\)](https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB) | 3:43 |
 | 55 | [Say My Name](https://open.spotify.com/track/4tIMdH3mXwtdNheYrm6lah) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Say My Name](https://open.spotify.com/album/2CBDCccwib8dlgkcKfpuEF) | 2:36 |
 | 56 | [Somebody That I Used To Know](https://open.spotify.com/track/7l00IN1o5wQvd2GfWMbAYg) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Somebody That I Used To Know](https://open.spotify.com/album/0NRKmZUelQc3JcEO3ll7E1) | 1:59 |

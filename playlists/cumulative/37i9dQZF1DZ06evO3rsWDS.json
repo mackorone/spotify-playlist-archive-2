@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 225920,
       "name": "Devu\u00e9lveme El Amor",
       "url": "https://open.spotify.com/track/2SfvqP7CmfIBct2KxFEnlp"
@@ -555,6 +555,24 @@
     },
     {
       "album": {
+        "name": "Janney",
+        "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143326,
+      "name": "eres M\u00c1S",
+      "url": "https://open.spotify.com/track/0ECpWS4JhjTDrprNhBkJuN"
+    },
+    {
+      "album": {
         "name": "eres M\u00c1S",
         "url": "https://open.spotify.com/album/3PtZ39Y1LiftVTJdouRP0Y"
       },
@@ -566,7 +584,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 143326,
       "name": "eres M\u00c1S",
       "url": "https://open.spotify.com/track/5uZfq4zuU3Z12Szm7iLjMM"
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-14",
       "duration_ms": 146109,
       "name": "my angel",
       "url": "https://open.spotify.com/track/4YX4OGZQRVIeHIDt7OMohx"
