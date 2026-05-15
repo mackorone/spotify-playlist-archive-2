@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Little Simz",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: AJ Tracey",
   "name": "Rap UK",
   "tracks": [
     {
@@ -5762,7 +5762,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 155753,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
@@ -13242,7 +13242,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 111462,
       "name": "DPMO",
       "url": "https://open.spotify.com/track/6rf4KX0dLAeA9YOLf2kPR0"
@@ -14544,7 +14544,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 123428,
       "name": "Everest",
       "url": "https://open.spotify.com/track/0XUiK6UHJJP3X7aE8W2Aa9"
@@ -17251,6 +17251,28 @@
     },
     {
       "album": {
+        "name": "GEEKIN",
+        "url": "https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152533,
+      "name": "GEEKIN",
+      "url": "https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q"
+    },
+    {
+      "album": {
         "name": "GEEKIN (feat. AJ Tracey)",
         "url": "https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV"
       },
@@ -17270,28 +17292,6 @@
       "duration_ms": 165000,
       "name": "GEEKIN (feat. AJ Tracey)",
       "url": "https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH"
-    },
-    {
-      "album": {
-        "name": "GEEKIN (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG"
-      },
-      "artists": [
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152533,
-      "name": "GEEKIN (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q"
     },
     {
       "album": {
@@ -20316,7 +20316,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 132653,
       "name": "Hundo",
       "url": "https://open.spotify.com/track/192KH2aINQ0q3cdHvd7CSG"
@@ -27562,7 +27562,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 126000,
       "name": "Money And Power",
       "url": "https://open.spotify.com/track/3pH4Si4NME7K5zTQl7boxa"
@@ -32892,7 +32892,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 185040,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/0M68nnE5BjdNamxGEjQyzj"
@@ -39876,7 +39876,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 162162,
       "name": "Still Indecisive",
       "url": "https://open.spotify.com/track/0JYhsvRtU9Hq4p7SWzVJUB"
@@ -42975,6 +42975,24 @@
     },
     {
       "album": {
+        "name": "Top 3",
+        "url": "https://open.spotify.com/album/2sgcUUQ4UQ2XUbrduYisme"
+      },
+      "artists": [
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134766,
+      "name": "Top 3",
+      "url": "https://open.spotify.com/track/47E59ScAI4kEsAH6ELaIkA"
+    },
+    {
+      "album": {
         "name": "Stars Aligned",
         "url": "https://open.spotify.com/album/2w7XUlUZNZ6hmr7tsrUNQy"
       },
@@ -43188,6 +43206,24 @@
       "duration_ms": 194089,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
+    },
+    {
+      "album": {
+        "name": "Hear me vent",
+        "url": "https://open.spotify.com/album/3sAfU8HtLEbFcsoBUL88BJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Zino",
+          "url": "https://open.spotify.com/artist/7AUV18vpujVWJKIDZtFfWS"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/3nP7GDxbWL9UqT5vkAqZb7"
     },
     {
       "album": {
@@ -45910,7 +45946,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 152112,
       "name": "What's Good?",
       "url": "https://open.spotify.com/track/1cgCdZT8tfdtNDTIbt5zVA"
@@ -45958,6 +45994,24 @@
       "duration_ms": 191666,
       "name": "What's The Motion",
       "url": "https://open.spotify.com/track/1LLcWzBzD14bzxcxvTnuoS"
+    },
+    {
+      "album": {
+        "name": "Whats My Name",
+        "url": "https://open.spotify.com/album/6zIbKOi3iaFLqAiFKbXn0f"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Whats My Name",
+      "url": "https://open.spotify.com/track/3LZeT8JO6gGfOsjjo8AjYf"
     },
     {
       "album": {

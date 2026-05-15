@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: Goldmax",
+  "description": "The best dance hits in Africa. Cover: Muzi",
   "name": "mint Africa",
   "tracks": [
     {
@@ -15345,6 +15345,28 @@
     },
     {
       "album": {
+        "name": "Electric Zululand",
+        "url": "https://open.spotify.com/album/1w7SHy1Zu84K4jFRHV8bmr"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322990,
+      "name": "Khethile",
+      "url": "https://open.spotify.com/track/4v8WbXi1doI5lRV6fko2Yq"
+    },
+    {
+      "album": {
         "name": "Africa Gets Physical, Vol. 4",
         "url": "https://open.spotify.com/album/3EYT5rRhfYfz4ttOl2ILEr"
       },
@@ -24952,7 +24974,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 170000,
       "name": "Sensational",
       "url": "https://open.spotify.com/track/35DzYSdOBggQOkMWAc99i1"

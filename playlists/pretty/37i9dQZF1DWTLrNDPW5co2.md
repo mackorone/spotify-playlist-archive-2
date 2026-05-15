@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring Honey Dijon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,691 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,719 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

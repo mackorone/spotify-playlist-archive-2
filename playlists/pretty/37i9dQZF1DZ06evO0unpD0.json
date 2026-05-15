@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 13784,
+  "num_followers": 13783,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAByVI2KxvtLa6QSddh4gdGO",
+  "snapshot_id": "agO/AAAAAABSUwLcy/uFCRCESmz2R4wW",
   "tracks": [
     {
       "added_at": null,
@@ -554,15 +554,11 @@
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Roots Manuva",
-          "url": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
         }
       ],
-      "duration_ms": 300466,
-      "name": "C'est bon, c'est bon",
-      "url": "https://open.spotify.com/track/3fXWcMsilfmKDVawJgnC83"
+      "duration_ms": 249706,
+      "name": "A demain",
+      "url": "https://open.spotify.com/track/6vIUiseKiLL1KJ7gS6pmM1"
     },
     {
       "added_at": null,
@@ -622,11 +618,15 @@
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Roots Manuva",
+          "url": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
         }
       ],
-      "duration_ms": 249706,
-      "name": "A demain",
-      "url": "https://open.spotify.com/track/6vIUiseKiLL1KJ7gS6pmM1"
+      "duration_ms": 300466,
+      "name": "C'est bon, c'est bon",
+      "url": "https://open.spotify.com/track/3fXWcMsilfmKDVawJgnC83"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moffou",
+        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 418186,
+      "name": "Katolon",
+      "url": "https://open.spotify.com/track/4L5rI5vn2xtBXvEtb3EfdU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djourou",
         "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moffou",
-        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 418186,
-      "name": "Katolon",
-      "url": "https://open.spotify.com/track/4L5rI5vn2xtBXvEtb3EfdU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 267693,
       "name": "Folon",
       "url": "https://open.spotify.com/track/0YPHxhTtceIbXF5ioGEwGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tal\u00e9",
+        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Natty",
+      "url": "https://open.spotify.com/track/2EQcny3367J1n6gLC0Y16l"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
       "duration_ms": 303773,
       "name": "Ntoman",
       "url": "https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tal\u00e9",
-        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Natty",
-      "url": "https://open.spotify.com/track/2EQcny3367J1n6gLC0Y16l"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tassi",
-        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 283720,
-      "name": "Tassi",
-      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tal\u00e9",
         "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 378213,
       "name": "Ch\u00e9rie s'en va",
       "url": "https://open.spotify.com/track/1NnUiWQ5GKOcEdPJSyHquJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tassi",
+        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 283720,
+      "name": "Tassi",
+      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
     },
     {
       "added_at": null,

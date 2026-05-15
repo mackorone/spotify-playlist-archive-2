@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Un ícono que marcó la música para siempre, gracias Willie Colón\. 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,879,465 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,879,373 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 82 | [Doble Vida](https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 6:00 |
 | 83 | [Mal Necesario](https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Mal Necesario](https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU) | 3:06 |
 | 84 | [Me Dediqué A Perderte](https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX) | [Pablo EEE](https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP), [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av) | [Me Dedique A Perderte](https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs) | 2:47 |
-| 85 | [Cómo Se Compara](https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [GRIS](https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f) | 3:59 |
-| 86 | [Páginas De Amor](https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Salsa de Amor Vol\. 3](https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ) | 4:56 |
+| 85 | [Páginas De Amor](https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Salsa de Amor Vol\. 3](https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ) | 4:56 |
+| 86 | [Cómo Se Compara](https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [GRIS](https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f) | 3:59 |
 | 87 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 |
 | 88 | [Fue Culpa De Usted](https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Fue Culpa De Usted](https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ) | 3:27 |
 | 89 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |

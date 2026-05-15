@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: KNEECAP",
+  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: Genesis Owusu",
   "name": "Wire",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 317613,
       "name": "5words",
       "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 124800,
       "name": "Big Star",
       "url": "https://open.spotify.com/track/7tEUBlisQoe2wYRqAEnGji"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 184053,
       "name": "Call U Back",
       "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 226645,
       "name": "Executive Function",
       "url": "https://open.spotify.com/track/5LrBYOI6AaS8zumfUqaygO"
@@ -1028,6 +1028,24 @@
       "duration_ms": 268280,
       "name": "Glassman",
       "url": "https://open.spotify.com/track/1mogapB4xvnlFlZUB3FKII"
+    },
+    {
+      "album": {
+        "name": "Go Fuck Urself",
+        "url": "https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185998,
+      "name": "Go Fuck Urself",
+      "url": "https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP"
     },
     {
       "album": {
@@ -1793,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156545,
+      "name": "MOST NORMAL AMERICAN VOTER:",
+      "url": "https://open.spotify.com/track/1ZFViiRzWZa2iWImM9HN7a"
+    },
+    {
+      "album": {
         "name": "Nausea",
         "url": "https://open.spotify.com/album/0MJVMWhQjrVp9aE7M5b9mi"
       },
@@ -1844,6 +1880,24 @@
       "duration_ms": 166414,
       "name": "New Case",
       "url": "https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf"
+    },
+    {
+      "album": {
+        "name": "No God",
+        "url": "https://open.spotify.com/album/0jRTea6wJN0q140LwWQPt5"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165426,
+      "name": "No God",
+      "url": "https://open.spotify.com/track/1McpAvcwxctyBOqPulTmSQ"
     },
     {
       "album": {
@@ -2214,7 +2268,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 266759,
       "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
       "url": "https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC"
@@ -2499,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Theft World",
+        "url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182665,
+      "name": "Shoplifting",
+      "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
+    },
+    {
+      "album": {
         "name": "Sick Sad World",
         "url": "https://open.spotify.com/album/56QBpPc2pFCRaM0KhSOrw9"
       },
@@ -2604,7 +2676,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 217333,
       "name": "Sony Ericsson",
       "url": "https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40"
@@ -3218,6 +3290,24 @@
       "duration_ms": 234733,
       "name": "Why Are These Men Still Alive",
       "url": "https://open.spotify.com/track/4oUei1ZLojAfP7iLANoR4e"
+    },
+    {
+      "album": {
+        "name": "\u5186\u76f8 \uff5cEnso",
+        "url": "https://open.spotify.com/album/5YSZ50mLBYO7yUTPUesWno"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "\u5186\u76f8 \uff5cEnso",
+      "url": "https://open.spotify.com/track/38POEFYokzqLItJQpaBZx5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc"

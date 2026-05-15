@@ -4,7 +4,7 @@
 
 > Get the drinks on ice, this one is on us!
 
-423 songs - 21 hr 24 min
+426 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 | 2023-08-22 | 2023-09-06 |
 | [Avalanche](https://open.spotify.com/track/2xNc3WwzGK19JXPgcmzRU8) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Avalanche](https://open.spotify.com/album/05fHcYNnZOIL56Aq5QVqU2) | 2:37 | 2025-07-03 | 2026-04-11 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2023-04-18 |  |
+| [Baby](https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Baby](https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo) | 3:13 | 2026-05-14 |  |
 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 | 2023-04-18 | 2023-07-01 |
 | [Baby Don't Hurt Me \(feat\. Anne\-Marie & Coi Leray\) \- Joel Corry Remix](https://open.spotify.com/track/6Z8iL8x45rPksBobTCrD2A) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me \(feat\. Anne\-Marie & Coi Leray\) \[Joel Corry Remix\]](https://open.spotify.com/album/4ZxoqDQ7tayryB9DFm6jbZ) | 2:45 | 2023-08-22 | 2023-09-06 |
 | [Baby I'm Bad](https://open.spotify.com/track/6lXIFf6lUbe6zCHtHz8DnT) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Shugz](https://open.spotify.com/artist/4tMlRT8e6fHXzLSbbVpvcV), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Baby I'm Bad](https://open.spotify.com/album/1eY0NDrf95EpnIe7mh4a06) | 2:15 | 2024-03-29 | 2025-04-04 |
@@ -227,6 +228,7 @@
 | [Liquor Store](https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Liquor Store](https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF) | 3:21 | 2023-08-22 | 2023-09-06 |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-06-30 |  |
 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 | 2024-05-22 | 2025-04-04 |
+| [Lockup](https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Lockup](https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7) | 4:31 | 2026-05-14 |  |
 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 | 2023-08-22 | 2023-09-06 |
 | [Looking for Me](https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Looking for Me](https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o) | 3:31 | 2024-04-12 | 2025-04-18 |
 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 | 2023-04-18 | 2024-04-19 |
@@ -431,5 +433,6 @@
 | [You Don't Know Me](https://open.spotify.com/track/6jLjRDCcNBlmckqvf9tfKL) | [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [You Don’t Know Me](https://open.spotify.com/album/6zt71NmGotoD66mAdswJII) | 3:35 | 2023-04-18 | 2023-09-09 |
 | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/album/7hRW5l0Tm5GCEpFHRYwxfT) | 2:50 | 2025-07-03 | 2026-04-11 |
 | [Your Mind Is Dirty](https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Your Mind Is Dirty](https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR) | 3:18 | 2023-08-22 | 2023-09-06 |
+| [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF) | 2:56 | 2026-05-14 |  |
 
 \*This playlist was first scraped on 2023-05-16. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Mariybu
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,267 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,257 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 6 | [Original](https://open.spotify.com/track/5CVBDJgah8MZN9hAPgVAXZ) | [Moneygirl](https://open.spotify.com/artist/1wh0DX6IlJ5JZQg7cvV5Qb) | [Original](https://open.spotify.com/album/5AvcUsTK3hDXdaIab4kaLm) | 2:56 |
 | 7 | [Nicht alle Männer](https://open.spotify.com/track/1EW65ROral0c7zxKuYwyP0) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG), [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Nicht alle Männer](https://open.spotify.com/album/1McXTV5fnHSRVBJlfk5Cz9) | 2:05 |
 | 8 | [Süßer](https://open.spotify.com/track/4i9MMlgfUTuC3ClXAsbjYw) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [Süßer](https://open.spotify.com/album/4IGnm0d5e8LxE7Ix7WuYEq) | 1:44 |
-| 9 | [fuego](https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [fuego](https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa) | 2:20 |
-| 10 | [Miu Miu](https://open.spotify.com/track/24B8vZjjgNxxRUBfuXl9s6) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Miu Miu](https://open.spotify.com/album/0vTYPoWCq8r4aT6Cj3MMMI) | 2:24 |
+| 9 | [Miu Miu](https://open.spotify.com/track/24B8vZjjgNxxRUBfuXl9s6) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Miu Miu](https://open.spotify.com/album/0vTYPoWCq8r4aT6Cj3MMMI) | 2:24 |
+| 10 | [fuego](https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [fuego](https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa) | 2:20 |
 | 11 | [So wie sie](https://open.spotify.com/track/2aa4pe8kQ68SVOYijZ8xTr) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [So wie sie](https://open.spotify.com/album/2yPQISpJIGw2OkkDyAbhfF) | 2:15 |
 | 12 | [Pfeil und Bogen](https://open.spotify.com/track/3hxKz56t0LmiRhrWSO3sVg) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Pfeil und Bogen](https://open.spotify.com/album/05eliY4RhHXsQmvC2jTS83) | 2:50 |
 | 13 | [isy](https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [isy](https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL) | 2:30 |
 | 14 | [HMDL](https://open.spotify.com/track/4xVR7iSp5Mdl6FGCbzz9AM) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [melle](https://open.spotify.com/artist/2IZgsJlw6u4ZnZlbGqlBHw), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [HMDL](https://open.spotify.com/album/3VRpUAmX0GSRjvMOwX1H4K) | 1:58 |
 | 15 | [Kein Ponyhof](https://open.spotify.com/track/17RvndgsVO7lqqfGyQ10rA) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Kein Ponyhof](https://open.spotify.com/album/40XDSJnsxmultAZzOo5Jid) | 2:05 |
 | 16 | [watch me](https://open.spotify.com/track/43HETwsBf1TLoiNUjh1D9a) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [watch me](https://open.spotify.com/album/7cGfQ7T20mmGgx0sCvsMuE) | 2:24 |
-| 17 | [wenn du mich brauchst](https://open.spotify.com/track/3HpBs2Y76Z21WVGaeb9VnZ) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ), [DeeVoe](https://open.spotify.com/artist/7avn0wHSO3cny6OM46NALL) | [wenn du mich brauchst](https://open.spotify.com/album/10jHTTFc3KwGNx2vTCn1Y9) | 2:33 |
-| 18 | [Ahogar](https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Ahogar](https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q) | 3:13 |
+| 17 | [Ahogar](https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Ahogar](https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q) | 3:13 |
+| 18 | [wenn du mich brauchst](https://open.spotify.com/track/3HpBs2Y76Z21WVGaeb9VnZ) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ), [DeeVoe](https://open.spotify.com/artist/7avn0wHSO3cny6OM46NALL) | [wenn du mich brauchst](https://open.spotify.com/album/10jHTTFc3KwGNx2vTCn1Y9) | 2:33 |
 | 19 | [Flying](https://open.spotify.com/track/0y00KtJDQ6jy4iHMs6P5fq) | [Victoria West](https://open.spotify.com/artist/2g14SO8yjodxGFXxwPOGmL) | [Flying](https://open.spotify.com/album/1a9b7KWurtHnoLfcOVIl8N) | 3:05 |
 | 20 | [BTCHZ](https://open.spotify.com/track/6JzxtouLmYg4yolDZSMkfj) | [KIARABABA](https://open.spotify.com/artist/2gRcuby898lRpJlaFVNTos) | [BTCHZ](https://open.spotify.com/album/6OKBbJHp6qNSjJTIDPXCNN) | 1:47 |
 | 21 | [Jamais Été \(Cool\)](https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Jamais Été \(Cool\)](https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra) | 2:35 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 27 | [Cowboy Mouth](https://open.spotify.com/track/7qgYR8fHsHyyS5WKvA9srS) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Cowboy Mouth](https://open.spotify.com/album/2AqkGAoflreArNrZQVQMCL) | 3:29 |
 | 28 | [GEIL](https://open.spotify.com/track/1nXPLmT3IeLvvMP96aLfJT) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [GEIL](https://open.spotify.com/album/48uGv2kWy9qhW3XAK22YFX) | 2:13 |
 | 29 | [SWITCH](https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [SWITCH](https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn) | 2:41 |
-| 30 | [Sirens](https://open.spotify.com/track/7r1SZaJhXDTod2cXakbAJ5) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Sirens](https://open.spotify.com/album/4QGu7AvOfVauFWqzfywklJ) | 3:26 |
-| 31 | [Puta Madre](https://open.spotify.com/track/6WaZdIWUE5L44Bk8p6ZdsF) | [sarah4k](https://open.spotify.com/artist/5FeCVlYDA8WCyvh3KIY8NN), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [Puta Madre](https://open.spotify.com/album/1dIlVK2tTazG8gK6yggPSe) | 2:00 |
+| 30 | [Puta Madre](https://open.spotify.com/track/6WaZdIWUE5L44Bk8p6ZdsF) | [sarah4k](https://open.spotify.com/artist/5FeCVlYDA8WCyvh3KIY8NN), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [Puta Madre](https://open.spotify.com/album/1dIlVK2tTazG8gK6yggPSe) | 2:00 |
+| 31 | [Sirens](https://open.spotify.com/track/7r1SZaJhXDTod2cXakbAJ5) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Sirens](https://open.spotify.com/album/4QGu7AvOfVauFWqzfywklJ) | 3:26 |
 | 32 | [Château Brute](https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Château Brute](https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8) | 2:44 |
 | 33 | [Politschlampe](https://open.spotify.com/track/05PosjtIvZysYhJEahkp8X) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [SLAYBAE](https://open.spotify.com/album/08e6NGFmeuJKSqH3iMvunX) | 1:03 |
 | 34 | [Also lass' ich es los](https://open.spotify.com/track/7yfJjlAecJklc45OdRRooX) | [LILITH](https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ) | [Also lass' ich es los](https://open.spotify.com/album/66a6oOPUQdalx7DCaIepxP) | 2:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,313 likes - 84 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,298 likes - 84 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 53 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
 | 54 | [Exit Music \(For a Film\)](https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:27 |
 | 55 | [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 |
-| 56 | [Katy Song](https://open.spotify.com/track/6Gmc3OUoP4JotwPb2CIXYD) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Red House Painters I](https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5) | 8:22 |
-| 57 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 |
-| 58 | [Inside Out](https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 2:21 |
+| 56 | [Inside Out](https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 2:21 |
+| 57 | [Katy Song](https://open.spotify.com/track/6Gmc3OUoP4JotwPb2CIXYD) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Red House Painters I](https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5) | 8:22 |
+| 58 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 |
 | 59 | [How To Disappear Completely](https://open.spotify.com/track/69pwmeyvQMuHMtkCmpEWhQ) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 5:56 |
 | 60 | [nail i couldn't bite](https://open.spotify.com/track/0AgghN0YfYSZRilCXOb3do) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [Hypnic Jerks](https://open.spotify.com/album/3M1hjHgDdFdhZKQRAccl8n) | 5:15 |
 | 61 | [Memory](https://open.spotify.com/track/5krHe0jThPClniUNYLKNYn) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:52 |

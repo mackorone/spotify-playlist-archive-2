@@ -4,7 +4,7 @@
 
 > This is Chris Brown\. The essential tracks, all in one playlist.
 
-90 songs - 5 hr 24 min
+91 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 | 2025-06-06 |  |
 | [No Interruptions](https://open.spotify.com/track/6DaUoalUi6GAQTLaWmNcF0) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:39 | 2024-07-13 | 2024-07-20 |
 | [No One Else \(feat\. Fridayy\)](https://open.spotify.com/track/1lYqI9WKBPsL6Hf93yT9bB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:43 | 2024-07-13 | 2024-09-28 |
-| [Nobody's Business](https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:36 | 2024-07-13 |  |
+| [Nobody's Business](https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:36 | 2024-07-13 | 2026-05-15 |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2024-07-13 |  |
 | [Not You Too \(feat\. Chris Brown\)](https://open.spotify.com/track/3Q4gttWQ6hxqWOa3tHoTNi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 4:29 | 2024-07-13 |  |
 | [Obvious](https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Obvious](https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv) | 3:06 | 2026-04-12 |  |
@@ -95,6 +95,7 @@
 | [wgft \(Remix\) \[feat\. Chris Brown\]](https://open.spotify.com/track/4m4sk6NdP92HCvioRCo9BM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [wgft \(Remix\) \[feat\. Chris Brown\]](https://open.spotify.com/album/7w0YmeUJoZebUXDqhtzmuL) | 3:07 | 2026-01-21 |  |
 | [Whatchamacallit \(feat\. Chris Brown\)](https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 2:59 | 2024-12-24 | 2026-04-25 |
 | [With You](https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:12 | 2024-07-14 |  |
+| [Won't Let Me Leave](https://open.spotify.com/track/3wTzCXNCqfMdBvtUjb4cv5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 2:58 | 2026-05-15 |  |
 | [Woo Baby \(feat\. Chris Brown\)](https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:36 | 2024-07-13 | 2026-03-01 |
 | [Yeah 3x](https://open.spotify.com/track/2QtxlzvSBONjs1bDC34ixs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:01 | 2024-07-13 | 2025-09-18 |
 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 | 2024-07-13 |  |

@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 46 | [Is This Thing Cursed?](https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:43 |
 | 47 | [Do You Wanna Know?](https://open.spotify.com/track/29PCRRuIs7enxT7Oih4VEE) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:36 |
 | 48 | [Maybe I'll Catch Fire](https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 3:07 |
-| 49 | [Cringe](https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/6600hazblXXS27uIdcPLBs) | 2:23 |
-| 50 | [I Wanna Be A Warhol](https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:07 |
+| 49 | [I Wanna Be A Warhol](https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:07 |
+| 50 | [Cringe](https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/6600hazblXXS27uIdcPLBs) | 2:23 |
 
-Snapshot ID: `agJtgAAAAADRNRjuI7hX3iJ62nGaB96T`
+Snapshot ID: `agO/AAAAAADasH6qtERH+zVSpaSqCI/Q`

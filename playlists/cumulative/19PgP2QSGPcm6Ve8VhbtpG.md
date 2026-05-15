@@ -4,7 +4,7 @@
 
 > The best of the 1980s classics from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more\. Stranger Things, Top Gun, Back to the Future.
 
-262 songs - 18 hr 33 min
+263 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 | 2022-05-27 |  |
 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 | 2022-05-27 |  |
 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 | 2023-05-08 | 2023-06-15 |
+| [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 | 2026-05-14 |  |
 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 | 2022-05-27 |  |
 | [Blame It on the Rain](https://open.spotify.com/track/0UUpyDCYzkziXJ1TM4awHM) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [4 Hits: Milli Vanilli](https://open.spotify.com/album/6YOOLhdZhPoLDhEe8862YD) | 4:08 | 2024-09-25 | 2024-10-12 |
 | [Blame It on the Rain](https://open.spotify.com/track/0QUNPrtmW46HNpUbw0nNsL) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [The Best of Milli Vanilli \(35th Anniversary\)](https://open.spotify.com/album/0OMqAiDoE5TnIOWW4ktkE1) | 4:08 | 2024-10-11 |  |

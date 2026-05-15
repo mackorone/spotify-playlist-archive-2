@@ -2,9 +2,9 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> From the trenches\. Through the streets.<br/>Cover: Olamide
+> From the trenches\. Through the streets.<br/>Cover: Famous Pluto
 
-475 songs - 21 hr 43 min
+477 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Blessings \(Kura\)](https://open.spotify.com/track/7L9MFfcZGJhANKgZ6s4cjw) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Blessings \(Kura\)](https://open.spotify.com/album/4ynej0qVlWtRvP3db58hVT) | 2:39 | 2025-08-29 | 2025-09-05 |
 | [Body](https://open.spotify.com/track/1Ut1vSnb0hM58jFbPVhZaC) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Body](https://open.spotify.com/album/17voJtUJhl79b5WgXT0ttE) | 2:06 | 2023-05-11 | 2023-09-28 |
 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 | 2022-06-29 | 2024-01-30 |
-| [Bololo](https://open.spotify.com/track/4KJyE2f2XE23WGEOMNHVB1) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Bololo](https://open.spotify.com/album/69vo5eFdRo97geZkqJNHVJ) | 2:08 | 2026-05-08 |  |
+| [Bololo](https://open.spotify.com/track/4KJyE2f2XE23WGEOMNHVB1) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Bololo](https://open.spotify.com/album/69vo5eFdRo97geZkqJNHVJ) | 2:08 | 2026-05-08 | 2026-05-15 |
 | [Bon Appetit](https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Bon Appetit](https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM) | 2:32 | 2025-05-30 | 2025-07-23 |
 | [Born Fi Dis](https://open.spotify.com/track/4jL2U9V8qa4aQH4IHQ6hTv) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:30 | 2024-04-03 | 2025-01-22 |
 | [Born to Win](https://open.spotify.com/track/4qEm3JiU5GkeWKtnL5FmxG) | [Ayomide](https://open.spotify.com/artist/60ugXjqZGlhC7aLMRL49Dl), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Born to Win](https://open.spotify.com/album/3WzgZdTWq4Yrm4gPyZpFCw) | 2:41 | 2024-09-20 | 2024-11-08 |
@@ -299,7 +299,7 @@
 | [Mental](https://open.spotify.com/track/5j7OST3AEbe2N3nmMZflWg) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 3:06 | 2023-06-22 | 2023-06-27 |
 | [Metaverse](https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:59 | 2024-06-28 |  |
 | [Metro](https://open.spotify.com/track/3ncCdwV4rnFY9YNzsh4KGo) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Yo X](https://open.spotify.com/artist/5Dv0JAo4jUBcrG1rHzCzcV) | [Metro](https://open.spotify.com/album/3SIBRVHyi8IkfXig7nFhiq) | 2:10 | 2024-01-05 | 2024-04-26 |
-| [Mgbidi](https://open.spotify.com/track/0bITzlhR6d8rAOQIFjh62w) | [Highstarlavista](https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Mgbidi](https://open.spotify.com/album/2impBftLFBFKKrzR2zQlDi) | 2:26 | 2026-05-08 |  |
+| [Mgbidi](https://open.spotify.com/track/0bITzlhR6d8rAOQIFjh62w) | [Highstarlavista](https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Mgbidi](https://open.spotify.com/album/2impBftLFBFKKrzR2zQlDi) | 2:26 | 2026-05-08 | 2026-05-15 |
 | [Mofe](https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Mofe](https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB) | 3:05 | 2026-03-06 |  |
 | [Money Moves](https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Money Moves](https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX) | 2:43 | 2025-05-23 | 2026-02-21 |
 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 | 2025-06-20 |  |
@@ -380,6 +380,7 @@
 | [PXTA](https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [PXTA](https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk) | 3:28 | 2022-06-29 | 2023-09-27 |
 | [Pxy Drip](https://open.spotify.com/track/6slrSrrOXJGgUcDFjmNP3T) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Pxy Drip](https://open.spotify.com/album/3xIa0k3KbEemfPcrF30nOd) | 2:29 | 2025-01-17 | 2025-04-23 |
 | [Quarter Life Crisis](https://open.spotify.com/track/2oRtlkII9VFYqo2uINihe0) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [Quarter Life Crisis](https://open.spotify.com/album/4AzGaTUXROzktohl92hFjz) | 3:26 | 2024-06-28 | 2024-07-12 |
+| [Raba](https://open.spotify.com/track/51uKPbZuFHfSezLOCfWHRo) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Raba](https://open.spotify.com/album/1TJcvsmHnnQ15DfWfNKTPn) | 2:46 | 2026-05-15 |  |
 | [RAMADAN KAREEM \(with Tolibian & Boj\)](https://open.spotify.com/track/6xIcJYyk3f3WvgnX7dcHmw) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:08 | 2025-04-07 | 2025-06-01 |
 | [Rara](https://open.spotify.com/track/7Ko1e2popoynx9jsU0wj6S) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN) | 2:36 | 2023-04-27 | 2023-07-28 |
 | [Reality](https://open.spotify.com/track/1o8Rj6XbX1rvrUP0R6deYQ) | [DJ Venus](https://open.spotify.com/artist/1vQuGiTJo2kBzWQkA9FXzE), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Reality](https://open.spotify.com/album/3BZHHMR8ILwVvXdTZi1spZ) | 2:46 | 2024-09-13 | 2024-11-08 |
@@ -442,6 +443,7 @@
 | [Top Chart](https://open.spotify.com/track/5Hci0k1CPLJwJrr4yL5xVU) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Tony Montana Of London](https://open.spotify.com/album/0DXKD2h11v2YmQp96v9eZB) | 1:58 | 2024-02-08 | 2024-02-23 |
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-14 | 2025-01-21 |
 | [TRABZ](https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [TRABZ](https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd) | 2:22 | 2026-02-27 | 2026-03-13 |
+| [Track 3](https://open.spotify.com/track/4SdgMlhtSTiMnd8XuqCjn5) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 0:00 | 2026-05-15 |  |
 | [traffic](https://open.spotify.com/track/57Ca9ulwiKUh5VEAb0ObA3) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC](https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n) | 2:20 | 2023-05-11 | 2023-09-29 |
 | [Trench Anthem](https://open.spotify.com/track/3pg3n0XBIUJkUeUEZjQmQV) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Freshout Jimma, Vol\. 1](https://open.spotify.com/album/4vEbQcyYikY4qCKGxAgfeT) | 2:43 | 2024-11-22 | 2024-11-29 |
 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-02-14 |  |

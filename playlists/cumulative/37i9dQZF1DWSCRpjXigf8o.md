@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-676 songs - 1 day 17 hr 5 min
+678 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [20200817 Proud True Toyota](https://open.spotify.com/track/4OeO5Xc50TRVG3ofaxM1rn) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:02 | 2023-04-20 | 2023-07-14 |
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-11 | 2024-02-21 |
 | [28](https://open.spotify.com/track/4x83cYbV42NT0z1QkTj4TN) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [28](https://open.spotify.com/album/3rogb53wBCNjq4oHV7Dy5p) | 2:44 | 2023-02-21 | 2023-03-01 |
+| [6 Years](https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [6 Years](https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM) | 2:42 | 2026-05-14 |  |
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-09-05 | 2026-03-27 |
 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 | 2025-09-05 | 2026-03-27 |
 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 | 2023-05-30 | 2023-09-20 |
@@ -261,6 +262,7 @@
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-10-20 | 2024-03-17 |
 | [I know](https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60) | [SOIII](https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp) | [I know](https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs) | 3:52 | 2024-01-30 |  |
 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 | 2022-12-15 | 2024-04-19 |
+| [I Love Me Now](https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T) | [Childish](https://open.spotify.com/artist/7ILJcS2uY2VevOMgm83nqf), [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Zalma](https://open.spotify.com/artist/7babJi39oEVpXicBIzFQzT) | [I Love Me Now](https://open.spotify.com/album/5HFMjggZPqo2Q3ePQRDUYK) | 4:36 | 2026-05-14 |  |
 | [I Love You More.](https://open.spotify.com/track/5Id0x8wRZVso2GLqzofDAB) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 2:00 | 2023-01-03 | 2023-02-15 |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2022-10-20 | 2022-10-26 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-08-15 |  |
@@ -300,7 +302,7 @@
 | [Koikogare](https://open.spotify.com/track/03hPAKNaAJ8RdY5G8zS0Ex) | [Baby Kiy](https://open.spotify.com/artist/1CNrTrXERkuBWYb8dtWl62) | [Love seasons](https://open.spotify.com/album/19lqIHbFWDYmpIvwBpmLKl) | 3:21 | 2023-07-04 | 2023-08-16 |
 | [Kokoro No Mamani](https://open.spotify.com/track/0ntEHTd4tY8jfL7bElYoGo) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Kokoro No Mamani](https://open.spotify.com/album/6PHA287IjWB3n2jg1xowXQ) | 3:25 | 2022-10-20 | 2022-11-09 |
 | [Kolohe](https://open.spotify.com/track/4Pjxy2sB2cPaGfeSQbbv2p) | [Wavvy](https://open.spotify.com/artist/1pYU5y6mtFPrF67l5VfOrW), [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8) | [Kolohe](https://open.spotify.com/album/3uXztbTQtLRVAmlZuXFwX0) | 3:07 | 2026-01-29 | 2026-03-27 |
-| [LADY](https://open.spotify.com/track/6iU9oxoFtYJE7Nor8TfOul) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [LADY](https://open.spotify.com/album/323qdKTTUr38ssH2q7Ak3g) | 4:40 | 2026-02-19 |  |
+| [LADY](https://open.spotify.com/track/6iU9oxoFtYJE7Nor8TfOul) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [LADY](https://open.spotify.com/album/323qdKTTUr38ssH2q7Ak3g) | 4:40 | 2026-02-19 | 2026-05-15 |
 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 | 2025-09-05 | 2026-03-27 |
 | [Lately](https://open.spotify.com/track/3BGs6vIRCo62d9tRmaNyLc) | [Alex Stevens](https://open.spotify.com/artist/04TUw0YgRJ39Ivu7qEjHlX) | [Lately](https://open.spotify.com/album/7H1bbFsbLB94kdIUHQLUZQ) | 4:07 | 2023-03-28 | 2023-04-21 |
 | [Lean On Me](https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Lean On Me](https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs) | 3:02 | 2022-10-25 | 2022-11-16 |
@@ -672,7 +674,7 @@
 | [犬ころ \- ACOUSTIC ver.](https://open.spotify.com/track/23I8aRvG4XIC0stNGiynA1) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [犬ころ \(ACOUSTIC ver\)](https://open.spotify.com/album/5BMAO6e2opOWkhTuxBFG0e) | 3:56 | 2023-10-31 | 2023-11-29 |
 | [目醒めは合わせ鏡のように](https://open.spotify.com/track/4d5CiAGnqKfFVgxLBiefTh) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [目醒めは合わせ鏡のように](https://open.spotify.com/album/06M2ieovjfI0eS2bSNHA2W) | 3:47 | 2023-07-11 | 2023-08-16 |
 | [紫陽花の庭](https://open.spotify.com/track/6akOpGJcktIeKmtqK8LXdh) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [Calyx](https://open.spotify.com/album/30u7TBjP17nCKURG0tkmwl) | 2:34 | 2022-10-20 | 2022-10-26 |
-| [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 | 2025-09-05 |  |
+| [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 | 2025-09-05 | 2026-05-15 |
 | [虫](https://open.spotify.com/track/03fWcvMJUrIBGgiGpM5Z9z) | [Tocago](https://open.spotify.com/artist/5WYxT3w8PntFhAJC48Y7oc) | [虫](https://open.spotify.com/album/58XOr4Fe8QQrHNdwCub48d) | 3:03 | 2023-07-04 | 2023-09-13 |
 | [言い分](https://open.spotify.com/track/1brVIniF5ly3Sfv6zW8C63) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [言い分](https://open.spotify.com/album/4oMAqIjtIrHpcPZezqQUHY) | 4:13 | 2023-04-04 | 2023-04-21 |
 | [遠ざかる犬](https://open.spotify.com/track/1cKHVRusQeLaOAbUjYwQeI) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遠ざかる犬](https://open.spotify.com/album/0Lcw3UBEpNKe0XAwOaC5Rd) | 4:19 | 2023-01-26 | 2023-02-22 |

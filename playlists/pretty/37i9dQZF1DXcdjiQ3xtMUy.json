@@ -1,15 +1,15 @@
 {
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Manos, Dina",
-  "num_followers": 52927,
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Nikos Apergis, Daphne Lawrence",
+  "num_followers": 52935,
   "original_name": "Greek Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZuf+xakT907f2UxyiSjsVl78XI",
+  "snapshot_id": "AAAAAEQfBX0wB2wqyv5bwRRx2Ogk9Cd6",
   "tracks": [
     {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
       "album": {
         "name": "Keno",
         "url": "https://open.spotify.com/album/7FrdB9jKNXI7DbhPHN9sl0"
@@ -29,27 +29,43 @@
       "url": "https://open.spotify.com/track/5bIY2tipWqaLOBanuPL4sF"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
       "album": {
-        "name": "10 Lexeis",
-        "url": "https://open.spotify.com/album/7oBgIXyeaVOw2QkkDvAZz2"
+        "name": "Isos Avrio",
+        "url": "https://open.spotify.com/album/7J0bbGUJ3bOUzIivoi2aLG"
       },
       "artists": [
         {
-          "name": "Stavento",
-          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
+          "name": "Nikos Apergis",
+          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
         },
         {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+          "name": "Daphne Lawrence",
+          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
         }
       ],
-      "duration_ms": 207666,
-      "name": "Gliko Methisi",
-      "url": "https://open.spotify.com/track/23dr3z6SEt87AKtts97vny"
+      "duration_ms": 161142,
+      "name": "Isos Avrio",
+      "url": "https://open.spotify.com/track/4KKlKLS7iGXyk2Mysaz3vV"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Ixogenia",
+        "url": "https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "duration_ms": 140777,
+      "name": "Glyko Antio",
+      "url": "https://open.spotify.com/track/1XJAyJ7p11u2He72ecoq5C"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
       "album": {
         "name": "Oneiro Vathi",
         "url": "https://open.spotify.com/album/641o0ItNropWRYCAUZkoTD"
@@ -69,55 +85,27 @@
       "url": "https://open.spotify.com/track/0VU2t3vtbGI8TiVzR0PoFt"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
       "album": {
-        "name": "Isos",
-        "url": "https://open.spotify.com/album/7jMvYA8RxzBQ0o0nFJvY81"
+        "name": "10 Lexeis",
+        "url": "https://open.spotify.com/album/7oBgIXyeaVOw2QkkDvAZz2"
       },
       "artists": [
         {
-          "name": "Ellize",
-          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
-        }
-      ],
-      "duration_ms": 188308,
-      "name": "Isos",
-      "url": "https://open.spotify.com/track/6Khu7menFiVNlj6938Qqv5"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Aigaio",
-        "url": "https://open.spotify.com/album/0uNhF7NbXx5MHKICl0f5Dk"
-      },
-      "artists": [
+          "name": "Stavento",
+          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
+        },
         {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
         }
       ],
-      "duration_ms": 244600,
-      "name": "Aigaio",
-      "url": "https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi"
+      "duration_ms": 207666,
+      "name": "Gliko Methisi",
+      "url": "https://open.spotify.com/track/23dr3z6SEt87AKtts97vny"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Rebetiko",
-        "url": "https://open.spotify.com/album/5vbHVcCQ2492sXESGmjdWd"
-      },
-      "artists": [
-        {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
-        }
-      ],
-      "duration_ms": 143677,
-      "name": "Rebetiko",
-      "url": "https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
       "album": {
         "name": "Ax Kardia Mou (Remix)",
         "url": "https://open.spotify.com/album/5YYSstQqlAhcxo7VA5Z6og"
@@ -137,7 +125,55 @@
       "url": "https://open.spotify.com/track/30Hqr0nzbKLgkFsrmGQtG4"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Aigaio",
+        "url": "https://open.spotify.com/album/0uNhF7NbXx5MHKICl0f5Dk"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Aigaio",
+      "url": "https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Fotia Sti Nihta",
+        "url": "https://open.spotify.com/album/1lPjjBHjkvjugsBGIlO8hW"
+      },
+      "artists": [
+        {
+          "name": "Michalis Hatzigiannis",
+          "url": "https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Fotia Sti Nihta",
+      "url": "https://open.spotify.com/track/6JsLcU3XFElXEhC7tPbeIl"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "PAR\u00c9A",
+        "url": "https://open.spotify.com/album/3jC6c4UCOOzX2DE6KGCxFV"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "duration_ms": 178403,
+      "name": "PAR\u00c9A",
+      "url": "https://open.spotify.com/track/2NeN8zS1StQmyZlm5bXk3w"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
       "album": {
         "name": "DIO KARDIES",
         "url": "https://open.spotify.com/album/6IhmTZhE9F91ozgvQULr6Z"
@@ -161,7 +197,7 @@
       "url": "https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
       "album": {
         "name": "Vrexei",
         "url": "https://open.spotify.com/album/5ftIw5ZnarnnZwtdYSSn2l"
@@ -177,251 +213,7 @@
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Ela Ela",
-        "url": "https://open.spotify.com/album/1vUeRdWJUti83IytzQlExw"
-      },
-      "artists": [
-        {
-          "name": "Angelina",
-          "url": "https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW"
-        },
-        {
-          "name": "Paris Kalpos",
-          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Ela Ela",
-      "url": "https://open.spotify.com/track/10FlcJhTdA0ubuTd2FWejq"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Ferto",
-        "url": "https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV"
-      },
-      "artists": [
-        {
-          "name": "Akylas",
-          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ferto",
-      "url": "https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "sprite+",
-        "url": "https://open.spotify.com/album/7h5FLXCeRsa25KQYA2uFVo"
-      },
-      "artists": [
-        {
-          "name": "TEO.x3",
-          "url": "https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH"
-        },
-        {
-          "name": "Tamta",
-          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
-        },
-        {
-          "name": "Maleigh Zan",
-          "url": "https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG"
-        }
-      ],
-      "duration_ms": 156252,
-      "name": "sprite+",
-      "url": "https://open.spotify.com/track/0EGvFsP3gdiDtZCWcCfOBF"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Esena Mono (Malik Remix)",
-        "url": "https://open.spotify.com/album/2hrw2ocOVRZhCt0UYwyqjc"
-      },
-      "artists": [
-        {
-          "name": "Katy Garbi",
-          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
-        },
-        {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
-        }
-      ],
-      "duration_ms": 138387,
-      "name": "Esena Mono - Malik Remix",
-      "url": "https://open.spotify.com/track/5KNLxa9luSww08keMA65T0"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/3uAbQus7VRwa8kduF771DY"
-      },
-      "artists": [
-        {
-          "name": "Daphne Lawrence",
-          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
-        }
-      ],
-      "duration_ms": 189411,
-      "name": "Asorti",
-      "url": "https://open.spotify.com/track/0Ds24GnzJdaWccgCxnkCYL"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Etsi Eimai Ego",
-        "url": "https://open.spotify.com/album/1LX8tlGm8TGYQn5sa8MQW4"
-      },
-      "artists": [
-        {
-          "name": "Papaz\u00f3",
-          "url": "https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ"
-        },
-        {
-          "name": "Billie Kark",
-          "url": "https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Etsi Eimai Ego",
-      "url": "https://open.spotify.com/track/3hKzxwuHuAt4vUTJIFYBy8"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Savvato",
-        "url": "https://open.spotify.com/album/1NkUIqDz4AEyWcIH8z13sk"
-      },
-      "artists": [
-        {
-          "name": "M.Hustler",
-          "url": "https://open.spotify.com/artist/4DQVXkgvUChjlRvkwoLc1a"
-        },
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 234344,
-      "name": "Savvato",
-      "url": "https://open.spotify.com/track/6ULW8Q20DVR3MvwSK6yzMq"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "NAYA",
-        "url": "https://open.spotify.com/album/6Gb4SvqtyqT5JYSy4cvUQx"
-      },
-      "artists": [
-        {
-          "name": "CARLA",
-          "url": "https://open.spotify.com/artist/0efzWCTqpsoaTZNUn3ar4z"
-        }
-      ],
-      "duration_ms": 155368,
-      "name": "NAYA",
-      "url": "https://open.spotify.com/track/7CoyoHJ9Nhlcl1MPwmUmsn"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "EDO",
-        "url": "https://open.spotify.com/album/1q9XTRduM5wwv8ky12UDrC"
-      },
-      "artists": [
-        {
-          "name": "Leon of Athens",
-          "url": "https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0"
-        },
-        {
-          "name": "Marina Satti",
-          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
-        }
-      ],
-      "duration_ms": 211717,
-      "name": "EDO",
-      "url": "https://open.spotify.com/track/7wv6l1qAMRJywQtxZuhMIc"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Xanomai",
-        "url": "https://open.spotify.com/album/0sNrsla1rrnkmEGignrS1v"
-      },
-      "artists": [
-        {
-          "name": "Marseaux",
-          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Xanomai",
-      "url": "https://open.spotify.com/track/6HZGBcrYHmc3cdGlpjkF0j"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "PAR\u00c9A",
-        "url": "https://open.spotify.com/album/3jC6c4UCOOzX2DE6KGCxFV"
-      },
-      "artists": [
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        }
-      ],
-      "duration_ms": 178403,
-      "name": "PAR\u00c9A",
-      "url": "https://open.spotify.com/track/2NeN8zS1StQmyZlm5bXk3w"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "ASTEIO",
-        "url": "https://open.spotify.com/album/2gkUqFdZNhFb4DHxK2Mmyp"
-      },
-      "artists": [
-        {
-          "name": "ZAF",
-          "url": "https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "ASTEIO",
-      "url": "https://open.spotify.com/track/2j17FJiRlXhuf0gqoyFSza"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Femme Fatale (Remix)",
-        "url": "https://open.spotify.com/album/2Ol7aFetVRNJjJa2l1hcZx"
-      },
-      "artists": [
-        {
-          "name": "Katy Garbi",
-          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "Bobito",
-          "url": "https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Femme Fatale - Remix",
-      "url": "https://open.spotify.com/track/3K5NhnaUtG2pMWoFznWoNc"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
       "album": {
         "name": "Anemos",
         "url": "https://open.spotify.com/album/1CHEOeLIjns4RCOMziny6E"
@@ -441,55 +233,99 @@
       "url": "https://open.spotify.com/track/1ot6Dg7Sn77aL45m7O6aYG"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
       "album": {
-        "name": "Ola Gia Sena",
-        "url": "https://open.spotify.com/album/57WnUjl1PHGbqpruNoyYUb"
+        "name": "Gia Panta",
+        "url": "https://open.spotify.com/album/7Fw9abn6hgQYgypa7uIz3w"
       },
       "artists": [
         {
-          "name": "Kalomira",
-          "url": "https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH"
-        }
-      ],
-      "duration_ms": 196406,
-      "name": "Ola Gia Sena",
-      "url": "https://open.spotify.com/track/2J62CRR3KSpd9zkZrjbXpn"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Leei Leei Leei",
-        "url": "https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1"
-      },
-      "artists": [
+          "name": "Stavento",
+          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
+        },
         {
           "name": "Ivi Adamou",
           "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
         }
       ],
-      "duration_ms": 189152,
-      "name": "Leei Leei Leei",
-      "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
+      "duration_ms": 208717,
+      "name": "Gia Panta",
+      "url": "https://open.spotify.com/track/4U2WTa7KJImfnHiiCajzeq"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
       "album": {
-        "name": "Gata",
-        "url": "https://open.spotify.com/album/3HZbiNytGIXEhBFsuhKVAz"
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/1W0hcyDzZ7qt69C6KBAlwY"
       },
       "artists": [
         {
-          "name": "Daphne Lawrence",
-          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+          "name": "Playmen",
+          "url": "https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c"
+        },
+        {
+          "name": "Marasi",
+          "url": "https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
         }
       ],
-      "duration_ms": 146209,
-      "name": "Gata",
-      "url": "https://open.spotify.com/track/5s8xMpKgZAJseMqyqhJLiL"
+      "duration_ms": 140274,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/3DsJyeULgdBuBYGqw6AIhn"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Kaigomai",
+        "url": "https://open.spotify.com/album/2sWotPDlxvtwKk5fhvkrqD"
+      },
+      "artists": [
+        {
+          "name": "Elena Tsagrinou",
+          "url": "https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Kaigomai",
+      "url": "https://open.spotify.com/track/5HdggIsemsufKTS7guiZfh"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Polemos",
+        "url": "https://open.spotify.com/album/3PrtVwGdi5aiDF6NFeXLEW"
+      },
+      "artists": [
+        {
+          "name": "Nikos Ganos",
+          "url": "https://open.spotify.com/artist/5p69MKTTWD8xdt3bWkeggK"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Polemos",
+      "url": "https://open.spotify.com/track/2iAp9vJZp7queqUFGr88kS"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Rebetiko",
+        "url": "https://open.spotify.com/album/5vbHVcCQ2492sXESGmjdWd"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "duration_ms": 143677,
+      "name": "Rebetiko",
+      "url": "https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
       "album": {
         "name": "GET LOW",
         "url": "https://open.spotify.com/album/6evd7cFqSRXyJ4t1Fimxit"
@@ -513,99 +349,7 @@
       "url": "https://open.spotify.com/track/4IcDfTKEPoCyZNbPWDLV32"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Asteio",
-        "url": "https://open.spotify.com/album/5s8IZjqAX57I4iiMUI9kT9"
-      },
-      "artists": [
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        }
-      ],
-      "duration_ms": 199218,
-      "name": "Asteio",
-      "url": "https://open.spotify.com/track/3grnI3Xh7sIjuSI6mH59Ta"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Gia Panta",
-        "url": "https://open.spotify.com/album/7Fw9abn6hgQYgypa7uIz3w"
-      },
-      "artists": [
-        {
-          "name": "Stavento",
-          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
-        },
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        }
-      ],
-      "duration_ms": 208717,
-      "name": "Gia Panta",
-      "url": "https://open.spotify.com/track/4U2WTa7KJImfnHiiCajzeq"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "ELATOMA",
-        "url": "https://open.spotify.com/album/3wNW6TYNZP0qLCq83zadeU"
-      },
-      "artists": [
-        {
-          "name": "LILA",
-          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
-        },
-        {
-          "name": "Sin Laurent",
-          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 151565,
-      "name": "ELATOMA",
-      "url": "https://open.spotify.com/track/7mKZSn3sScAiLzlPeUk7NP"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Polemos",
-        "url": "https://open.spotify.com/album/3PrtVwGdi5aiDF6NFeXLEW"
-      },
-      "artists": [
-        {
-          "name": "Nikos Ganos",
-          "url": "https://open.spotify.com/artist/5p69MKTTWD8xdt3bWkeggK"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Polemos",
-      "url": "https://open.spotify.com/track/2iAp9vJZp7queqUFGr88kS"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Hybrid",
-        "url": "https://open.spotify.com/album/4My7whJTE7G98ey208Neit"
-      },
-      "artists": [
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        }
-      ],
-      "duration_ms": 187674,
-      "name": "Xronia Polla",
-      "url": "https://open.spotify.com/track/2S9GRnNXYaISgIO3Lru7BH"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
       "album": {
         "name": "Ti Kaneis?",
         "url": "https://open.spotify.com/album/0iPJLtcoMXpF1RPQDYXqaz"
@@ -625,263 +369,7 @@
       "url": "https://open.spotify.com/track/05Tponzfx2bk9wtpopsHSg"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Ta Pagkakia",
-        "url": "https://open.spotify.com/album/4sKble7tOl2ka7mAmLcbSB"
-      },
-      "artists": [
-        {
-          "name": "Malu",
-          "url": "https://open.spotify.com/artist/7yRdQVDlefMJhDk3vbhjah"
-        }
-      ],
-      "duration_ms": 170464,
-      "name": "Ta Pagkakia",
-      "url": "https://open.spotify.com/track/15OwfEKAhTnQovplNkR0Ms"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "AUTOTAPINOSI",
-        "url": "https://open.spotify.com/album/45Xo98XYG7DQUJf9i8LDSs"
-      },
-      "artists": [
-        {
-          "name": "Tamta",
-          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "AUTOTAPINOSI",
-      "url": "https://open.spotify.com/track/7fA0RUkZkQyXrbaoh5tAWt"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "S' Exo Varethei",
-        "url": "https://open.spotify.com/album/7hXYd9sOT2zRygQ8D5hSnq"
-      },
-      "artists": [
-        {
-          "name": "Nicole Saravakou",
-          "url": "https://open.spotify.com/artist/6YWoDV05GqDoeuaFUDzqzH"
-        }
-      ],
-      "duration_ms": 210265,
-      "name": "S' Exo Varethei",
-      "url": "https://open.spotify.com/track/7HQGtCGeuuBid8cm90S1wO"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Xronomixani",
-        "url": "https://open.spotify.com/album/4slQ6jKbvEP4KldHnawRH6"
-      },
-      "artists": [
-        {
-          "name": "Solmeister",
-          "url": "https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48"
-        },
-        {
-          "name": "_sunset",
-          "url": "https://open.spotify.com/artist/7wW1i3pFTsdxc7yqYAH2Vu"
-        }
-      ],
-      "duration_ms": 217933,
-      "name": "Xronomixani",
-      "url": "https://open.spotify.com/track/0uHiM7lWdLZvsUJO24C5rX"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Gia Sena Pou Latrevo",
-        "url": "https://open.spotify.com/album/4R8CJqVRPReE9rKhhM86hz"
-      },
-      "artists": [
-        {
-          "name": "Stavento",
-          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
-        },
-        {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        }
-      ],
-      "duration_ms": 190549,
-      "name": "Gia Sena Pou Latrevo",
-      "url": "https://open.spotify.com/track/3ke3c38UR92nhiofYhQv5a"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/1GxQ94lSCYcSPsghedTuCn"
-      },
-      "artists": [
-        {
-          "name": "Ellize",
-          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
-        }
-      ],
-      "duration_ms": 114571,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/08dIKnRL0hADQh0jdlra6B"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Aisiodoksi Matia",
-        "url": "https://open.spotify.com/album/5DmlVgu0g1HGI2Xai33BGT"
-      },
-      "artists": [
-        {
-          "name": "Konstantinos Koufos",
-          "url": "https://open.spotify.com/artist/1P2Y42avJKqxYP3ZrUuzqj"
-        }
-      ],
-      "duration_ms": 206838,
-      "name": "Proteraiotita",
-      "url": "https://open.spotify.com/track/1bLeGv7pHEnY1j7Ni7wOTX"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "ALLI MIA MERA",
-        "url": "https://open.spotify.com/album/5v1x1HSw8UooJFhLJmbJtm"
-      },
-      "artists": [
-        {
-          "name": "Leon of Athens",
-          "url": "https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0"
-        }
-      ],
-      "duration_ms": 187482,
-      "name": "ALLI MIA MERA",
-      "url": "https://open.spotify.com/track/3vLK49YoLBAWtpcqpTdWCl"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "To Sagapw",
-        "url": "https://open.spotify.com/album/2wSHAUfxb1PQyOqWkvbjRS"
-      },
-      "artists": [
-        {
-          "name": "DJ Stephan",
-          "url": "https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "To Sagapw",
-      "url": "https://open.spotify.com/track/60VwRmtFziGwPfhklepBZT"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/0WzcMQnfXpFCIyYn8obzSR"
-      },
-      "artists": [
-        {
-          "name": "Joanne",
-          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
-        }
-      ],
-      "duration_ms": 172909,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/4o4EyHdcgUB7XWUWzEjlzf"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "To S' Agapo",
-        "url": "https://open.spotify.com/album/5TL1F4mfJncz4EcA7hY4qt"
-      },
-      "artists": [
-        {
-          "name": "Kostas Martakis",
-          "url": "https://open.spotify.com/artist/1WqBNjsIfFxCyYuAhLMfXd"
-        },
-        {
-          "name": "Teo Tzimas",
-          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
-        },
-        {
-          "name": "Paris Kalpos",
-          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
-        }
-      ],
-      "duration_ms": 203505,
-      "name": "To S' Agapo",
-      "url": "https://open.spotify.com/track/1NOXCmSA0fIk9P3PvchJle"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Ekeinos",
-        "url": "https://open.spotify.com/album/7I5lgVW7EKY6x322AEoATa"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Papadopoulos",
-          "url": "https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "Ekeinos",
-      "url": "https://open.spotify.com/track/7vEFGoqbuVcLmyCkBKFDkQ"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "ASTO",
-        "url": "https://open.spotify.com/album/6583W1cJew8azNxmRHS26l"
-      },
-      "artists": [
-        {
-          "name": "KONY",
-          "url": "https://open.spotify.com/artist/0uf238oeLAQXNuy8WNKgce"
-        }
-      ],
-      "duration_ms": 123913,
-      "name": "ASTO",
-      "url": "https://open.spotify.com/track/6f0rmYIVJzuDnZcKocYC0z"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "De M' Agapouses",
-        "url": "https://open.spotify.com/album/579p2fFgpWvCVqTKtCe6ge"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Sabanis",
-          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
-        }
-      ],
-      "duration_ms": 254210,
-      "name": "De M' Agapouses",
-      "url": "https://open.spotify.com/track/6bz2oDXZjkyCYki5GnIz5O"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
-      "album": {
-        "name": "Tragoudao Dinata",
-        "url": "https://open.spotify.com/album/3MvFgf053daWKzR5EcL6vK"
-      },
-      "artists": [
-        {
-          "name": "Stelios Rokkos",
-          "url": "https://open.spotify.com/artist/01GDS9NmGwhzHm2VjbZFcG"
-        }
-      ],
-      "duration_ms": 189024,
-      "name": "Tragoudao Dinata",
-      "url": "https://open.spotify.com/track/1zbPYnhRaPooiirF9rc4j1"
-    },
-    {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
       "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/2JW2g7KxgwI7udpgferDSM"
@@ -905,24 +393,540 @@
       "url": "https://open.spotify.com/track/4FKDGC1hp2ojXjgzf1oVG9"
     },
     {
-      "added_at": "2026-05-07 21:00:35",
+      "added_at": "2026-05-14 21:18:17",
       "album": {
-        "name": "Exeresi Esi",
-        "url": "https://open.spotify.com/album/6phSz3O5j3LccfLBZRLtqj"
+        "name": "ASTEIO",
+        "url": "https://open.spotify.com/album/2gkUqFdZNhFb4DHxK2Mmyp"
       },
       "artists": [
         {
-          "name": "Ioulia Kallimani",
-          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
-        },
-        {
-          "name": "Michael Touratzidis",
-          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+          "name": "ZAF",
+          "url": "https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO"
         }
       ],
-      "duration_ms": 215937,
-      "name": "Exeresi Esi",
-      "url": "https://open.spotify.com/track/11VI8fCs5NyWgTy7QOiHc4"
+      "duration_ms": 180000,
+      "name": "ASTEIO",
+      "url": "https://open.spotify.com/track/2j17FJiRlXhuf0gqoyFSza"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Isos",
+        "url": "https://open.spotify.com/album/7jMvYA8RxzBQ0o0nFJvY81"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "duration_ms": 188308,
+      "name": "Isos",
+      "url": "https://open.spotify.com/track/6Khu7menFiVNlj6938Qqv5"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Esena Mono (Malik Remix)",
+        "url": "https://open.spotify.com/album/2hrw2ocOVRZhCt0UYwyqjc"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        },
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+        }
+      ],
+      "duration_ms": 138387,
+      "name": "Esena Mono - Malik Remix",
+      "url": "https://open.spotify.com/track/5KNLxa9luSww08keMA65T0"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "EDO",
+        "url": "https://open.spotify.com/album/1q9XTRduM5wwv8ky12UDrC"
+      },
+      "artists": [
+        {
+          "name": "Leon of Athens",
+          "url": "https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0"
+        },
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "duration_ms": 211717,
+      "name": "EDO",
+      "url": "https://open.spotify.com/track/7wv6l1qAMRJywQtxZuhMIc"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Xanomai",
+        "url": "https://open.spotify.com/album/0sNrsla1rrnkmEGignrS1v"
+      },
+      "artists": [
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Xanomai",
+      "url": "https://open.spotify.com/track/6HZGBcrYHmc3cdGlpjkF0j"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Gata",
+        "url": "https://open.spotify.com/album/3HZbiNytGIXEhBFsuhKVAz"
+      },
+      "artists": [
+        {
+          "name": "Daphne Lawrence",
+          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+        }
+      ],
+      "duration_ms": 146209,
+      "name": "Gata",
+      "url": "https://open.spotify.com/track/5s8xMpKgZAJseMqyqhJLiL"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Asteio",
+        "url": "https://open.spotify.com/album/5s8IZjqAX57I4iiMUI9kT9"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "duration_ms": 199218,
+      "name": "Asteio",
+      "url": "https://open.spotify.com/track/3grnI3Xh7sIjuSI6mH59Ta"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "De M' Agapouses",
+        "url": "https://open.spotify.com/album/579p2fFgpWvCVqTKtCe6ge"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "duration_ms": 254210,
+      "name": "De M' Agapouses",
+      "url": "https://open.spotify.com/track/6bz2oDXZjkyCYki5GnIz5O"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Tragoudao Dinata",
+        "url": "https://open.spotify.com/album/3MvFgf053daWKzR5EcL6vK"
+      },
+      "artists": [
+        {
+          "name": "Stelios Rokkos",
+          "url": "https://open.spotify.com/artist/01GDS9NmGwhzHm2VjbZFcG"
+        }
+      ],
+      "duration_ms": 189024,
+      "name": "Tragoudao Dinata",
+      "url": "https://open.spotify.com/track/1zbPYnhRaPooiirF9rc4j1"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Ela Ela",
+        "url": "https://open.spotify.com/album/1vUeRdWJUti83IytzQlExw"
+      },
+      "artists": [
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Ela Ela",
+      "url": "https://open.spotify.com/track/10FlcJhTdA0ubuTd2FWejq"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Ferto",
+        "url": "https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV"
+      },
+      "artists": [
+        {
+          "name": "Akylas",
+          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ferto",
+      "url": "https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "sprite+",
+        "url": "https://open.spotify.com/album/7h5FLXCeRsa25KQYA2uFVo"
+      },
+      "artists": [
+        {
+          "name": "TEO.x3",
+          "url": "https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH"
+        },
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        },
+        {
+          "name": "Maleigh Zan",
+          "url": "https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG"
+        }
+      ],
+      "duration_ms": 156252,
+      "name": "sprite+",
+      "url": "https://open.spotify.com/track/0EGvFsP3gdiDtZCWcCfOBF"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/3uAbQus7VRwa8kduF771DY"
+      },
+      "artists": [
+        {
+          "name": "Daphne Lawrence",
+          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+        }
+      ],
+      "duration_ms": 189411,
+      "name": "Asorti",
+      "url": "https://open.spotify.com/track/0Ds24GnzJdaWccgCxnkCYL"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Etsi Eimai Ego",
+        "url": "https://open.spotify.com/album/1LX8tlGm8TGYQn5sa8MQW4"
+      },
+      "artists": [
+        {
+          "name": "Papaz\u00f3",
+          "url": "https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ"
+        },
+        {
+          "name": "Billie Kark",
+          "url": "https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Etsi Eimai Ego",
+      "url": "https://open.spotify.com/track/3hKzxwuHuAt4vUTJIFYBy8"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "To S' Agapo",
+        "url": "https://open.spotify.com/album/5TL1F4mfJncz4EcA7hY4qt"
+      },
+      "artists": [
+        {
+          "name": "Kostas Martakis",
+          "url": "https://open.spotify.com/artist/1WqBNjsIfFxCyYuAhLMfXd"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "duration_ms": 203505,
+      "name": "To S' Agapo",
+      "url": "https://open.spotify.com/track/1NOXCmSA0fIk9P3PvchJle"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "ASTO",
+        "url": "https://open.spotify.com/album/6583W1cJew8azNxmRHS26l"
+      },
+      "artists": [
+        {
+          "name": "KONY",
+          "url": "https://open.spotify.com/artist/0uf238oeLAQXNuy8WNKgce"
+        }
+      ],
+      "duration_ms": 123913,
+      "name": "ASTO",
+      "url": "https://open.spotify.com/track/6f0rmYIVJzuDnZcKocYC0z"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "NAYA",
+        "url": "https://open.spotify.com/album/6Gb4SvqtyqT5JYSy4cvUQx"
+      },
+      "artists": [
+        {
+          "name": "CARLA",
+          "url": "https://open.spotify.com/artist/0efzWCTqpsoaTZNUn3ar4z"
+        }
+      ],
+      "duration_ms": 155368,
+      "name": "NAYA",
+      "url": "https://open.spotify.com/track/7CoyoHJ9Nhlcl1MPwmUmsn"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Femme Fatale (Remix)",
+        "url": "https://open.spotify.com/album/2Ol7aFetVRNJjJa2l1hcZx"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Bobito",
+          "url": "https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Femme Fatale - Remix",
+      "url": "https://open.spotify.com/track/3K5NhnaUtG2pMWoFznWoNc"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "ELATOMA",
+        "url": "https://open.spotify.com/album/3wNW6TYNZP0qLCq83zadeU"
+      },
+      "artists": [
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 151565,
+      "name": "ELATOMA",
+      "url": "https://open.spotify.com/track/7mKZSn3sScAiLzlPeUk7NP"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Ta Pagkakia",
+        "url": "https://open.spotify.com/album/4sKble7tOl2ka7mAmLcbSB"
+      },
+      "artists": [
+        {
+          "name": "Malu",
+          "url": "https://open.spotify.com/artist/7yRdQVDlefMJhDk3vbhjah"
+        }
+      ],
+      "duration_ms": 170464,
+      "name": "Ta Pagkakia",
+      "url": "https://open.spotify.com/track/15OwfEKAhTnQovplNkR0Ms"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "AUTOTAPINOSI",
+        "url": "https://open.spotify.com/album/45Xo98XYG7DQUJf9i8LDSs"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "AUTOTAPINOSI",
+      "url": "https://open.spotify.com/track/7fA0RUkZkQyXrbaoh5tAWt"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Ola Gia Sena",
+        "url": "https://open.spotify.com/album/57WnUjl1PHGbqpruNoyYUb"
+      },
+      "artists": [
+        {
+          "name": "Kalomira",
+          "url": "https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH"
+        }
+      ],
+      "duration_ms": 196406,
+      "name": "Ola Gia Sena",
+      "url": "https://open.spotify.com/track/2J62CRR3KSpd9zkZrjbXpn"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "S' Exo Varethei",
+        "url": "https://open.spotify.com/album/7hXYd9sOT2zRygQ8D5hSnq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Saravakou",
+          "url": "https://open.spotify.com/artist/6YWoDV05GqDoeuaFUDzqzH"
+        }
+      ],
+      "duration_ms": 210265,
+      "name": "S' Exo Varethei",
+      "url": "https://open.spotify.com/track/7HQGtCGeuuBid8cm90S1wO"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Gia Sena Pou Latrevo",
+        "url": "https://open.spotify.com/album/4R8CJqVRPReE9rKhhM86hz"
+      },
+      "artists": [
+        {
+          "name": "Stavento",
+          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
+        },
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 190549,
+      "name": "Gia Sena Pou Latrevo",
+      "url": "https://open.spotify.com/track/3ke3c38UR92nhiofYhQv5a"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/1GxQ94lSCYcSPsghedTuCn"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "duration_ms": 114571,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/08dIKnRL0hADQh0jdlra6B"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Aisiodoksi Matia",
+        "url": "https://open.spotify.com/album/5DmlVgu0g1HGI2Xai33BGT"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Koufos",
+          "url": "https://open.spotify.com/artist/1P2Y42avJKqxYP3ZrUuzqj"
+        }
+      ],
+      "duration_ms": 206838,
+      "name": "Proteraiotita",
+      "url": "https://open.spotify.com/track/1bLeGv7pHEnY1j7Ni7wOTX"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "To Sagapw",
+        "url": "https://open.spotify.com/album/2wSHAUfxb1PQyOqWkvbjRS"
+      },
+      "artists": [
+        {
+          "name": "DJ Stephan",
+          "url": "https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "To Sagapw",
+      "url": "https://open.spotify.com/track/60VwRmtFziGwPfhklepBZT"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/0WzcMQnfXpFCIyYn8obzSR"
+      },
+      "artists": [
+        {
+          "name": "Joanne",
+          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
+        }
+      ],
+      "duration_ms": 172909,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/4o4EyHdcgUB7XWUWzEjlzf"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Ekeinos",
+        "url": "https://open.spotify.com/album/7I5lgVW7EKY6x322AEoATa"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Papadopoulos",
+          "url": "https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "Ekeinos",
+      "url": "https://open.spotify.com/track/7vEFGoqbuVcLmyCkBKFDkQ"
+    },
+    {
+      "added_at": "2026-05-14 21:18:17",
+      "album": {
+        "name": "Xronomixani",
+        "url": "https://open.spotify.com/album/4slQ6jKbvEP4KldHnawRH6"
+      },
+      "artists": [
+        {
+          "name": "Solmeister",
+          "url": "https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48"
+        },
+        {
+          "name": "_sunset",
+          "url": "https://open.spotify.com/artist/7wW1i3pFTsdxc7yqYAH2Vu"
+        }
+      ],
+      "duration_ms": 217933,
+      "name": "Xronomixani",
+      "url": "https://open.spotify.com/track/0uHiM7lWdLZvsUJO24C5rX"
     }
   ],
   "unique_name": "Greek Pop",

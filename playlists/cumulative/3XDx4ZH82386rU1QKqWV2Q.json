@@ -2459,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "CEILINGS",
+        "url": "https://open.spotify.com/album/3Lt1RtppwL1nYBGoNkaiof"
+      },
+      "artists": [
+        {
+          "name": "brkn",
+          "url": "https://open.spotify.com/artist/0UzJRW888MJxtTFhNvS8SM"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128624,
+      "name": "CEILINGS",
+      "url": "https://open.spotify.com/track/3qyN4mCrH4sJJaKKFAqjRo"
+    },
+    {
+      "album": {
         "name": "Champione",
         "url": "https://open.spotify.com/album/50lpPl3PK2P5Nq3qwNQdU7"
       },
@@ -8534,6 +8552,24 @@
       "duration_ms": 200800,
       "name": "Limo",
       "url": "https://open.spotify.com/track/6Cdr851nKksSUQ1PI8IFaO"
+    },
+    {
+      "album": {
+        "name": "liquid",
+        "url": "https://open.spotify.com/album/2XcC6LE4AaIEuooYAo8BV6"
+      },
+      "artists": [
+        {
+          "name": "cxllide",
+          "url": "https://open.spotify.com/artist/7unTFY2FL3hA7qXBGAVuWk"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164015,
+      "name": "liquid",
+      "url": "https://open.spotify.com/track/0eDZ7Cj3LHJnG7zC4vDTtD"
     },
     {
       "album": {

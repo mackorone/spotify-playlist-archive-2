@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 112 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 112 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 59 | [Designer](https://open.spotify.com/track/2cdIoTQN2tiFoKPh1b8bH7) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Designer](https://open.spotify.com/album/2iy0EWYF5LfydMsc6E3Hrr) | 2:01 |
 | 60 | [London Bound](https://open.spotify.com/track/4w9UERRjbLgLZJmlezArOF) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [We Are](https://open.spotify.com/album/56t8diCSoYT53frC59aHYJ) | 2:53 |
 | 61 | [Landslide](https://open.spotify.com/track/5GOwSGaZbQcg9uwl4j9GyH) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL), [Crissie Rhodes](https://open.spotify.com/artist/1ihjZOWoOqFjbSVIgxEaCp) | [Cedarmont](https://open.spotify.com/album/36X88HKH0GEhGFXmrRld2E) | 3:19 |
-| 62 | [This Must Be Christmas \- Single Mix](https://open.spotify.com/track/2hXjYeuMrcZZ2Z9C3MER4c) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [This Must Be Christmas](https://open.spotify.com/album/2pu1UdU80EqKShbMTQgrHb) | 3:33 |
-| 63 | [Holy](https://open.spotify.com/track/5kje42RAjDsJlKpN4OezWL) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Holy](https://open.spotify.com/album/4eXbnV8FXwsq70sKvLM1YR) | 3:19 |
+| 62 | [Holy](https://open.spotify.com/track/5kje42RAjDsJlKpN4OezWL) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Holy](https://open.spotify.com/album/4eXbnV8FXwsq70sKvLM1YR) | 3:19 |
+| 63 | [This Must Be Christmas \- Single Mix](https://open.spotify.com/track/2hXjYeuMrcZZ2Z9C3MER4c) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [This Must Be Christmas](https://open.spotify.com/album/2pu1UdU80EqKShbMTQgrHb) | 3:33 |
 | 64 | [Fixing Me Breaking You](https://open.spotify.com/track/13ynOu7fZjOGBXBXPVmNjH) | [River Atley](https://open.spotify.com/artist/7jdKX74FchWPfiPJNEwF8A) | [Fixing Me Breaking You](https://open.spotify.com/album/3zzbP5UjjZizBRDc0zXnVm) | 3:32 |
 | 65 | [Kid At Christmas](https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Kid At Christmas](https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki) | 3:33 |
 | 66 | [Temporary Fix](https://open.spotify.com/track/04ttk2TXHyDsQyp9g6EcdX) | [Dirty Blond](https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM) | [Temporary Fix](https://open.spotify.com/album/4TexJNS9hSTmRILQTSZkcH) | 3:27 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 111 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
 | 112 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcRaxgAAAABlFTKY+BACQ+GQDuAGp97a`
+Snapshot ID: `AcRgXAAAAAC3v8mRyqNLq3hGbZIBjBvs`

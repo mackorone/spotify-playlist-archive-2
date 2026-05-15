@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Manos, Dina",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Nikos Apergis, Daphne Lawrence",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187482,
       "name": "ALLI MIA MERA",
       "url": "https://open.spotify.com/track/3vLK49YoLBAWtpcqpTdWCl"
@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 215937,
       "name": "Exeresi Esi",
       "url": "https://open.spotify.com/track/11VI8fCs5NyWgTy7QOiHc4"
@@ -2232,6 +2232,24 @@
       "duration_ms": 144552,
       "name": "FLX",
       "url": "https://open.spotify.com/track/5BGsV1OzGDMvtu15TC0fFU"
+    },
+    {
+      "album": {
+        "name": "Fotia Sti Nihta",
+        "url": "https://open.spotify.com/album/1lPjjBHjkvjugsBGIlO8hW"
+      },
+      "artists": [
+        {
+          "name": "Michalis Hatzigiannis",
+          "url": "https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198805,
+      "name": "Fotia Sti Nihta",
+      "url": "https://open.spotify.com/track/6JsLcU3XFElXEhC7tPbeIl"
     },
     {
       "album": {
@@ -2523,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Ixogenia",
+        "url": "https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140777,
+      "name": "Glyko Antio",
+      "url": "https://open.spotify.com/track/1XJAyJ7p11u2He72ecoq5C"
+    },
+    {
+      "album": {
         "name": "Gremos",
         "url": "https://open.spotify.com/album/5WMCQnseeaKn9Cq3fJ9MCJ"
       },
@@ -2719,6 +2755,28 @@
     },
     {
       "album": {
+        "name": "Isos Avrio",
+        "url": "https://open.spotify.com/album/7J0bbGUJ3bOUzIivoi2aLG"
+      },
+      "artists": [
+        {
+          "name": "Nikos Apergis",
+          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
+        },
+        {
+          "name": "Daphne Lawrence",
+          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Isos Avrio",
+      "url": "https://open.spotify.com/track/4KKlKLS7iGXyk2Mysaz3vV"
+    },
+    {
+      "album": {
         "name": "ISOS SICARIO REMIX",
         "url": "https://open.spotify.com/album/48QgTIugLApqfKWm2Ypqfd"
       },
@@ -2756,6 +2814,24 @@
       "duration_ms": 137896,
       "name": "Ithopoios",
       "url": "https://open.spotify.com/track/7reX1GQGNZbFBM9JzVWR8S"
+    },
+    {
+      "album": {
+        "name": "Kaigomai",
+        "url": "https://open.spotify.com/album/2sWotPDlxvtwKk5fhvkrqD"
+      },
+      "artists": [
+        {
+          "name": "Elena Tsagrinou",
+          "url": "https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Kaigomai",
+      "url": "https://open.spotify.com/track/5HdggIsemsufKTS7guiZfh"
     },
     {
       "album": {
@@ -3194,7 +3270,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 189152,
       "name": "Leei Leei Leei",
       "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
@@ -4520,7 +4596,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 234344,
       "name": "Savvato",
       "url": "https://open.spotify.com/track/6ULW8Q20DVR3MvwSK6yzMq"
@@ -5307,6 +5383,32 @@
     },
     {
       "album": {
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/1W0hcyDzZ7qt69C6KBAlwY"
+      },
+      "artists": [
+        {
+          "name": "Playmen",
+          "url": "https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c"
+        },
+        {
+          "name": "Marasi",
+          "url": "https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140274,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/3DsJyeULgdBuBYGqw6AIhn"
+    },
+    {
+      "album": {
         "name": "Update",
         "url": "https://open.spotify.com/album/3sRSh3kVIcOfHPUA4Ysscu"
       },
@@ -5542,7 +5644,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187674,
       "name": "Xronia Polla",
       "url": "https://open.spotify.com/track/2S9GRnNXYaISgIO3Lru7BH"

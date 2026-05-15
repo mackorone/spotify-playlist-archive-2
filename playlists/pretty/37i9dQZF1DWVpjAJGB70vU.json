@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2200795,
+  "num_followers": 2201343,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 223832,
-      "name": "Wide Open Spaces",
-      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+      "duration_ms": 223832,
+      "name": "Wide Open Spaces",
+      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
-      },
-      "artists": [
-        {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        }
-      ],
-      "duration_ms": 218053,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "No Doubt About It",
         "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 162466,
       "name": "Wink",
       "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Brand New Man",
-        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Boot Scootin' Boogie",
-      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "No Ordinary Man",
         "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 247626,
       "name": "The Keeper Of The Stars",
       "url": "https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Boot Scootin' Boogie",
+      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2231,18 +2231,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Homeward Looking Angel",
-        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
+        "name": "What Do I Do With Me",
+        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
       },
       "artists": [
         {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 187733,
-      "name": "Shake The Sugar Tree",
-      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
+      "duration_ms": 210200,
+      "name": "Down To My Last Teardrop",
+      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2279,18 +2279,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "What Do I Do With Me",
-        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
+        "name": "Homeward Looking Angel",
+        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
       },
       "artists": [
         {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Down To My Last Teardrop",
-      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
+      "duration_ms": 187733,
+      "name": "Shake The Sugar Tree",
+      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
     },
     {
       "added_at": "2026-02-11 22:52:29",

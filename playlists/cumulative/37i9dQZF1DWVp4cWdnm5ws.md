@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
 
-336 songs - 19 hr 51 min
+337 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Munchies](https://open.spotify.com/track/1vXc5zGgyzKsNjA6USRzkd) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Munchies](https://open.spotify.com/album/7MKpOuvtAQlOYTjPeRAgXk) | 3:28 | 2024-04-26 | 2025-03-28 |
 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 | 2024-04-02 | 2025-03-28 |
 | [Musika](https://open.spotify.com/track/33DMX9LvLFdgbVaZKCD8t4) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Musika](https://open.spotify.com/album/4m5n14fVI1ZteLeQC8CPxx) | 3:57 | 2023-10-02 | 2024-04-03 |
+| [my crush and i will crush the system baby](https://open.spotify.com/track/3X97K3qe31iHwbZTiib3tQ) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [my crush and i will crush the system baby](https://open.spotify.com/album/3V7AG5cXmnhZLiEDuIVfDZ) | 1:57 | 2026-05-15 |  |
 | [Na Na Na](https://open.spotify.com/track/1apdXuG82uFNmWmx3zWc8u) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Labyu with an Accent \(Original Soundtrack\)](https://open.spotify.com/album/0AYxV6cAIuHMsO22fJz2P9) | 4:11 | 2023-04-13 | 2023-06-06 |
 | [Na Na Na](https://open.spotify.com/track/4aqkICleG6HLRc2ygpWqN1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/28rgW6IXDsrk4YtTcFtGGK) | 4:11 | 2023-04-13 | 2024-04-03 |
 | [Na Na Na](https://open.spotify.com/track/5zoJ1eChvongUvr14bzckH) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 4:11 | 2023-04-13 | 2023-06-03 |

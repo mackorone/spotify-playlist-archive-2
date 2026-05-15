@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3892729,
+  "num_followers": 3892257,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Coraz\u00f3n Latino",
-        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
         "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 288893,
       "name": "\u00a1Corre!",
       "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Coraz\u00f3n Latino",
+        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Por Amor A Mi Pueblo",
         "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 299626,
       "name": "Ser\u00e1 Mejor Que Te Vayas",
       "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "Voy",
+        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "Te amo",
+      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 248000,
       "name": "Si la Ves (feat. Sin Bandera)",
       "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Voy",
-        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "Te amo",
-      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "El Arte De Roberto Carlos",
+        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
+      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 246666,
       "name": "Llegaste t\u00fa",
       "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "El Arte De Roberto Carlos",
-        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
-      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1707,8 +1707,8 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "De Pel\u00edcula",
-        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE"
       },
       "artists": [
         {
@@ -1716,9 +1716,9 @@
           "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 224333,
-      "name": "No Quer\u00edas Lastimarme",
-      "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
+      "duration_ms": 288600,
+      "name": "Como Yo Te Amo",
+      "url": "https://open.spotify.com/track/2WGYmstMZN1Kbz2sKiguFB"
     }
   ],
   "unique_name": "Baladas Rom\u00e1nticas",

@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10742,
+  "num_followers": 10748,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADr3Vh7lH33JobfdMrBU5QT",
+  "snapshot_id": "agO/AAAAAAB+rYnjiUxW3QdJ05FFg/uJ",
   "tracks": [
     {
       "added_at": null,
@@ -171,30 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RENDEZ-VOUS - MIRRORS",
-        "url": "https://open.spotify.com/album/5gSmATnfYnOS1SqyP18Pbw"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Camille Thomas",
-          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
-        },
-        {
-          "name": "Julien Brocal",
-          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
-        }
-      ],
-      "duration_ms": 611813,
-      "name": "Spiegel im Spiegel (Arr. C.Thomas for Cello and Piano)",
-      "url": "https://open.spotify.com/track/17rSNhhcPePVmKxRHjcyrY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -219,6 +195,30 @@
       "duration_ms": 152546,
       "name": "Veni creator",
       "url": "https://open.spotify.com/track/7vU6uArKT6ONVogJQ6tl2n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RENDEZ-VOUS - MIRRORS",
+        "url": "https://open.spotify.com/album/5gSmATnfYnOS1SqyP18Pbw"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Julien Brocal",
+          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
+        }
+      ],
+      "duration_ms": 611813,
+      "name": "Spiegel im Spiegel (Arr. C.Thomas for Cello and Piano)",
+      "url": "https://open.spotify.com/track/17rSNhhcPePVmKxRHjcyrY"
     },
     {
       "added_at": null,
@@ -267,30 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
-        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Gidon Kremer",
-          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
-        },
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 688413,
-      "name": "Fratres",
-      "url": "https://open.spotify.com/track/7HghA8IIzsVsoF16SNSmbn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 250746,
       "name": "The Deer's Cry",
       "url": "https://open.spotify.com/track/4Fjv84kmmnz02yCyAsHYxb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
+        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 688413,
+      "name": "Fratres",
+      "url": "https://open.spotify.com/track/7HghA8IIzsVsoF16SNSmbn"
     },
     {
       "added_at": null,
@@ -359,6 +359,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 362613,
+      "name": "Summa",
+      "url": "https://open.spotify.com/track/7a6AlKiNWFSA33WzF2SBi7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
         "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
@@ -383,30 +407,6 @@
       "duration_ms": 350626,
       "name": "Es sang vor langen Jahren",
       "url": "https://open.spotify.com/track/3TauBOYLjym8k2aVkDi0f0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 362613,
-      "name": "Summa",
-      "url": "https://open.spotify.com/track/7a6AlKiNWFSA33WzF2SBi7"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Hymn to a Great City",
-      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 185240,
       "name": "Alleluia-Tropus",
       "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Hymn to a Great City",
+      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
     },
     {
       "added_at": null,
@@ -651,6 +651,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Echoes of Time",
+        "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Lisa Batiashvili",
+          "url": "https://open.spotify.com/artist/7nstqHP5wRNlaUeSByC86I"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Grimaud",
+          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+        }
+      ],
+      "duration_ms": 621160,
+      "name": "Spiegel im Spiegel",
+      "url": "https://open.spotify.com/track/5hADOw1WHlKQRSysOoGkUj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arvo P\u00e4rt: Tractus",
         "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
@@ -703,30 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes of Time",
-        "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Lisa Batiashvili",
-          "url": "https://open.spotify.com/artist/7nstqHP5wRNlaUeSByC86I"
-        },
-        {
-          "name": "H\u00e9l\u00e8ne Grimaud",
-          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
-        }
-      ],
-      "duration_ms": 621160,
-      "name": "Spiegel im Spiegel",
-      "url": "https://open.spotify.com/track/5hADOw1WHlKQRSysOoGkUj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Cold Landscapes - Minimalism\"",
         "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
       },
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: And I Heard a Voice\u2026",
-        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+        "name": "Arvo P\u00e4rt: Tractus",
+        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
       "artists": [
         {
@@ -780,17 +780,21 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
         },
         {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 650000,
-      "name": "O Holy Father Nicholas",
-      "url": "https://open.spotify.com/track/0wD9XLtbl3dsOSDm9gPz8q"
+      "duration_ms": 566293,
+      "name": "Cantique des degr\u00e9s",
+      "url": "https://open.spotify.com/track/1NXUKupy1SizGnr4wR9pTd"
     },
     {
       "added_at": null,
@@ -819,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Tractus",
-        "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
       "artists": [
         {
@@ -828,21 +832,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
         },
         {
-          "name": "Tallinn Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 566293,
-      "name": "Cantique des degr\u00e9s",
-      "url": "https://open.spotify.com/track/1NXUKupy1SizGnr4wR9pTd"
+      "duration_ms": 650000,
+      "name": "O Holy Father Nicholas",
+      "url": "https://open.spotify.com/track/0wD9XLtbl3dsOSDm9gPz8q"
     },
     {
       "added_at": null,
@@ -1071,8 +1071,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
-        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
       },
       "artists": [
         {
@@ -1080,13 +1080,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Die 12 Cellisten der Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/3YZqGxNBOlhhAETu2LrNB7"
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 709666,
-      "name": "Fratres (Version for 12 Cellos) - For 12 Celli",
-      "url": "https://open.spotify.com/track/3yb6Pn8xeTANmqTPTHpwRI"
+      "duration_ms": 498573,
+      "name": "Kanon Pokajanen: Ode VI",
+      "url": "https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i"
     },
     {
       "added_at": null,
@@ -1111,8 +1115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
+        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
       "artists": [
         {
@@ -1120,17 +1124,13 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+          "name": "Die 12 Cellisten der Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/3YZqGxNBOlhhAETu2LrNB7"
         }
       ],
-      "duration_ms": 498573,
-      "name": "Kanon Pokajanen: Ode VI",
-      "url": "https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i"
+      "duration_ms": 709666,
+      "name": "Fratres (Version for 12 Cellos) - For 12 Celli",
+      "url": "https://open.spotify.com/track/3yb6Pn8xeTANmqTPTHpwRI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 
 > This is Ravyn Lenae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,609 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,615 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 | 20 | [4 Leaf Clover \(feat\. Steve Lacy\)](https://open.spotify.com/track/1To829onYmL63wLNtU7Zm8) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 3:40 |
 | 21 | [Lauder Too \(feat\. Ravyn Lenae & Eryn Allen Kane\)](https://open.spotify.com/track/14l9gwYmyxQu5m8tD5bv0W) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:53 |
 | 22 | [Dream Girl](https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:39 |
-| 23 | [Settle Down \(with Cory Henry, Ravyn Lenae\)](https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 3:03 |
-| 24 | [Glass Flows](https://open.spotify.com/track/06BLANboqUEnvBHJH0aViQ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 3:08 |
+| 23 | [Glass Flows](https://open.spotify.com/track/06BLANboqUEnvBHJH0aViQ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 3:08 |
+| 24 | [Settle Down \(with Cory Henry, Ravyn Lenae\)](https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 3:03 |
 | 25 | [Venom](https://open.spotify.com/track/5E0P7zYAZ0k22RwNgWxUXA) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:29 |
 | 26 | [Closer \(Ode 2 U\)](https://open.spotify.com/track/39xVzbZDVYROIkoI0wJU7k) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 3:16 |
 | 27 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3suc4V.md) - [plain]
 | 49 | [awake](https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [noise \(meaning\)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 2:07 |
 | 50 | [Moon Shoes](https://open.spotify.com/track/7hMUEYcx1aApliI6CAqvBS) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 2:47 |
 
-Snapshot ID: `agJtgAAAAABJmaKNkhdsAeytwOMpzj/Y`
+Snapshot ID: `agO/AAAAAADLZWIw/48bw416bZ5xgu9F`

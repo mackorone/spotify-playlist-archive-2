@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 16803,
+  "num_followers": 16836,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
     },
     {
-      "added_at": "2025-05-29 17:04:18",
-      "album": {
-        "name": "Bed on Fire",
-        "url": "https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 228507,
-      "name": "Bed on Fire",
-      "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
-    },
-    {
       "added_at": "2025-05-19 03:00:14",
       "album": {
         "name": "Lonestar Luchador",
@@ -999,6 +983,22 @@
       "duration_ms": 192000,
       "name": "Johnny Dang (with Paul Wall & DRODi)",
       "url": "https://open.spotify.com/track/6XEt23sq6sRgER8sSZbCR5"
+    },
+    {
+      "added_at": "2025-05-29 17:04:18",
+      "album": {
+        "name": "Bed on Fire",
+        "url": "https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 228507,
+      "name": "Bed on Fire",
+      "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Robin Hood",
+        "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Robin Hood",
+      "url": "https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "S\u1ed0 KH\u00d4NG",
         "url": "https://open.spotify.com/album/2W8HAPjn7tl7pHXGZ8WZIe"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Robin Hood",
-        "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Robin Hood",
-      "url": "https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2"
+      "duration_ms": 177176,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1419,22 +1435,6 @@
       "duration_ms": 152571,
       "name": "High",
       "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 177176,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Blue Tequila",
-        "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
-      },
-      "artists": [
-        {
-          "name": "T\u00e1o",
-          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "Blue Tequila",
-      "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 173619,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/0QLb1y64s617SAnnDoUZLN"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Blue Tequila",
+        "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1o",
+          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "Blue Tequila",
+      "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/0RSPVYjnhUDpXfMOa7zTdE"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 216852,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/43I2PiBJCc781cQwY5EUVA"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "L\u1ee1 Say Bye L\u00e0 Bye",
         "url": "https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 214948,
       "name": "L\u1ee1 Say Bye L\u00e0 Bye",
       "url": "https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/0RSPVYjnhUDpXfMOa7zTdE"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/43I2PiBJCc781cQwY5EUVA"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "safety",
-      "url": "https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Tirando Balas",
         "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "A BEGINNER'S GUIDE TO FAKING YOUR DEATH",
-        "url": "https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv"
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
       },
       "artists": [
         {
-          "name": "Jhariah",
-          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
         }
       ],
-      "duration_ms": 158466,
-      "name": "Flight of the Crows",
-      "url": "https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6"
+      "duration_ms": 183600,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1731,6 +1715,22 @@
       "duration_ms": 127000,
       "name": "12:34 AM",
       "url": "https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "A BEGINNER'S GUIDE TO FAKING YOUR DEATH",
+        "url": "https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "Flight of the Crows",
+      "url": "https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "CHATO",
-        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 162178,
-      "name": "Joga Bonito",
-      "url": "https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "fangirl",
         "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 174462,
       "name": "high school boy",
       "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "CHATO",
+        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 162178,
+      "name": "Joga Bonito",
+      "url": "https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "H O M E",
-      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Songs4u",
         "url": "https://open.spotify.com/album/2bLdzrKZaJTEZvoeJPzMxx"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 206060,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "H O M E",
+      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2399,18 +2399,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "34Corine",
-        "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
+        "name": "Space Makes Me Sad",
+        "url": "https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX"
       },
       "artists": [
         {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
         }
       ],
-      "duration_ms": 147920,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK"
+      "duration_ms": 136419,
+      "name": "Space Makes Me Sad",
+      "url": "https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Space Makes Me Sad",
-        "url": "https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX"
+        "name": "34Corine",
+        "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
       },
       "artists": [
         {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
         }
       ],
-      "duration_ms": 136419,
-      "name": "Space Makes Me Sad",
-      "url": "https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3"
+      "duration_ms": 147920,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK"
     },
     {
       "added_at": "2025-05-19 03:00:14",

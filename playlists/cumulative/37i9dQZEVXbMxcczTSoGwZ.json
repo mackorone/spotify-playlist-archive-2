@@ -36089,6 +36089,24 @@
     },
     {
       "album": {
+        "name": "My System (Acoustic)",
+        "url": "https://open.spotify.com/album/4SJkfGs1KQDsfFGbN7LAfZ"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "My System",
+      "url": "https://open.spotify.com/track/74s87wGi4ZIqgoBPg7fzyj"
+    },
+    {
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -57446,7 +57464,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 148152,
       "name": "T\u00e4\u00e4l m\u00e4 oon",
       "url": "https://open.spotify.com/track/4BQpIP9GV6B4xrwgOBmit4"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  Adekunle Gold",
+  "description": "Tracks popping off in the Afro scene. Cover:  Didi B x Young John",
   "name": "Afro Station",
   "tracks": [
     {
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 184897,
       "name": "Amen",
       "url": "https://open.spotify.com/track/5EMfg6xUjEWWmd5NvREmWd"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 211090,
       "name": "Back Outside",
       "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 142540,
       "name": "Benga Folie Remix",
       "url": "https://open.spotify.com/track/3BTGQNn03ZqvpcgbeCrQT5"
@@ -7703,6 +7703,28 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/3nCIGVNjTdwNw9xTcNq7k5"
+      },
+      "artists": [
+        {
+          "name": "G4ZI",
+          "url": "https://open.spotify.com/artist/78eHosuz1v9o8dY3T8tbd3"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143568,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/0EhDGbsM0ApYVcOrSPI2u4"
+    },
+    {
+      "album": {
         "name": "ENERGY",
         "url": "https://open.spotify.com/album/1W1Z8zqg6fH2i5lTD4rguw"
       },
@@ -10982,7 +11004,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 156997,
       "name": "Isn't It Beautiful",
       "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
@@ -12897,6 +12919,24 @@
     },
     {
       "album": {
+        "name": "LIKE ME!",
+        "url": "https://open.spotify.com/album/39UlfnJ2pFQL4WH7sovaKZ"
+      },
+      "artists": [
+        {
+          "name": "KABBSKY",
+          "url": "https://open.spotify.com/artist/7BBPfCpPMA1WzpEYUXp65i"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132110,
+      "name": "LIKE ME!",
+      "url": "https://open.spotify.com/track/3ju7ndeLclkEUQTHWLgYtX"
+    },
+    {
+      "album": {
         "name": "Like Shakira (with Oxlade & Vegedream)",
         "url": "https://open.spotify.com/album/2QDpUR93OfmMcYTvRuSkWf"
       },
@@ -12916,7 +12956,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 166361,
       "name": "Like Shakira (with Oxlade & Vegedream)",
       "url": "https://open.spotify.com/track/3LmXBbvcAVnFL4mq1sL73r"
@@ -17966,7 +18006,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 161379,
       "name": "Party Started",
       "url": "https://open.spotify.com/track/2p4pnJCzxtNeZf0nZ8JiR7"
@@ -18656,7 +18696,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 115200,
       "name": "POR TI",
       "url": "https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ"
@@ -19132,6 +19172,28 @@
       "duration_ms": 172706,
       "name": "Qu\u00eate",
       "url": "https://open.spotify.com/track/0UvG1kG6vH8LBRbDpBfi7O"
+    },
+    {
+      "album": {
+        "name": "Raba",
+        "url": "https://open.spotify.com/album/1TJcvsmHnnQ15DfWfNKTPn"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166661,
+      "name": "Raba",
+      "url": "https://open.spotify.com/track/51uKPbZuFHfSezLOCfWHRo"
     },
     {
       "album": {
@@ -21115,6 +21177,28 @@
     },
     {
       "album": {
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193672,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
+    },
+    {
+      "album": {
         "name": "Speed",
         "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
       },
@@ -21218,6 +21302,24 @@
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+    },
+    {
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142950,
+      "name": "STARLIFE",
+      "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
     },
     {
       "album": {
@@ -22657,6 +22759,24 @@
     },
     {
       "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
+    },
+    {
+      "album": {
         "name": "Love Deeply...",
         "url": "https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS"
       },
@@ -23110,6 +23230,28 @@
       "duration_ms": 138947,
       "name": "Un peu d'amoore",
       "url": "https://open.spotify.com/track/0ZcjlETeoMYhg71ZxeMBpo"
+    },
+    {
+      "album": {
+        "name": "UNDISCLOSED",
+        "url": "https://open.spotify.com/album/3iwrDAWoUmeCHqryfB29xM"
+      },
+      "artists": [
+        {
+          "name": "KODEE",
+          "url": "https://open.spotify.com/artist/0b2KMU81y0jEUeTuzkcCua"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155575,
+      "name": "UNDISCLOSED",
+      "url": "https://open.spotify.com/track/6Ay2uPSszn352nL1bqiTcj"
     },
     {
       "album": {

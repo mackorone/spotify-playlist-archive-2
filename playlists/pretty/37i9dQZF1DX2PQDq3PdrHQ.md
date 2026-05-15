@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,050 likes - 177 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,185 likes - 177 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 176 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 |
 | 177 | [you don't know what you did to me](https://open.spotify.com/track/4H6POdROKcRiPChvaK4HWY) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47) | [you don't know what you did to me](https://open.spotify.com/album/74wjxzvCKQfn80ecFDPL0E) | 2:02 |
 
-Snapshot ID: `AAAAAB8bywKvrtx4EwViPKTaq8l+LK9j`
+Snapshot ID: `AAAAAHiyjUVa3/7vfYqC3WuIMb7R5n9C`

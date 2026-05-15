@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Thiều Bảo Trâm
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,031 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,030 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/46DiCDUqxQMUU6fSpBvSRG) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/6GFmE0aUDPZcatKXvPih0e) | 3:19 |
+| 1 | [Thỏ Săn Mồi](https://open.spotify.com/track/3nWbRAFNAW5vGi1nR20e2b) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi) | [Thỏ Săn Mồi](https://open.spotify.com/album/38DOhwjrW8ho0wini5LAZq) | 3:21 |
 | 2 | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/track/3yKzLSeR9NTwCTg9HvQkcJ) | [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/album/4gdijoRorJWWUUYlWcb5oJ) | 5:02 |
 | 3 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/6azvhyagGek75gi0pLyl30) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/67zICJlL1ZcLe7aCWXLsSF) | 4:38 |
 | 4 | [Kỵ Sĩ Và Ánh Sao](https://open.spotify.com/track/62oJI8qLl1kFx77NQiCFo7) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [THEATER OF DREAMS \(Volume 4\)](https://open.spotify.com/album/3E21KthaeTgJgTWrqkME9t) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [phases of the moon](https://open.spotify.com/track/7kmuy7PgxxXxavSCn1rGwj) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [phases of the moon](https://open.spotify.com/album/28gPrPbtLBPV8Fh0fCTnQ3) | 4:42 |
 | 50 | [chẳng phải tình đầu sao đau đến thế](https://open.spotify.com/track/3T7XHOdRcyhKU3QCB6kZG3) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0) | [Dear Min](https://open.spotify.com/album/1ArFYNJ0eKeFWqnvdDivvv) | 4:43 |
 
-Snapshot ID: `AAAAADMin1CXa5Dz7/MH1YrrEMkR46wb`
+Snapshot ID: `AAAAAFoFQXif9kTYnXYuc0rWfbFMF/1K`

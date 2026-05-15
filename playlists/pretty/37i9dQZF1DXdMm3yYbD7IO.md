@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,784 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,023 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 38 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |
 | 39 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 3:31 |
 | 40 | [Space Jam](https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk) | [Quad City DJ's](https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS) | [Space Jam \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI) | 5:04 |
-| 41 | [Dreamer \- Janice Robinson Vocal](https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:43 |
-| 42 | [The Bomb \(These Sounds Fall Into My Mind\)](https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/7AvNbRsfa2B0Hwf4bfcABj) | 3:22 |
+| 41 | [The Bomb \(These Sounds Fall Into My Mind\)](https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/7AvNbRsfa2B0Hwf4bfcABj) | 3:22 |
+| 42 | [Dreamer \- Janice Robinson Vocal](https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:43 |
 | 43 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 |
 | 44 | [This Is Your Night](https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [This Is Your Night](https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA) | 3:58 |
 | 45 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 59 | [Move This \(Shake That Body\)](https://open.spotify.com/track/0PAGmTNpVASXq2tegMxSOs) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Let's Go To Prison \(Music From The Motion Picture\)](https://open.spotify.com/album/0jhb7fxZSylI2A7y6a5lio) | 4:56 |
 | 60 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 |
 | 61 | [Professional Widow \- Armand's Star Trunk Funk Mix](https://open.spotify.com/track/7pRDFBYPmUWBFnpwDhzqGm) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [A Tori Amos Collection: Tales of a Librarian](https://open.spotify.com/album/5vxM3v3hgNTQUmSu3LFxTa) | 3:47 |
-| 62 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See the Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
-| 63 | [Crush \(Dance Mix\)](https://open.spotify.com/track/39D7jfatdB8iX42ZCJmILT) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Crush](https://open.spotify.com/album/4043DNu4jVlMNetxtdh68B) | 3:18 |
+| 62 | [Crush \(Dance Mix\)](https://open.spotify.com/track/39D7jfatdB8iX42ZCJmILT) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Crush](https://open.spotify.com/album/4043DNu4jVlMNetxtdh68B) | 3:18 |
+| 63 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See the Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
 | 64 | [Too Blind to See It](https://open.spotify.com/track/4SmiFk4zGbPVf0vvoSDvuG) | [Kym Sims](https://open.spotify.com/artist/40PLSl99xXqAQsCQQPmfyM) | [Too Blind To See It](https://open.spotify.com/album/0smpJHEIRat9aBllmrRqO3) | 3:31 |
 | 65 | [U Got 2 Let The Music \- Brescia Edit](https://open.spotify.com/track/7dIa8yS7HIPKkBvOmERSZ7) | [Cappella](https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg) | [Best Of Cappella](https://open.spotify.com/album/5WnAHnV4xlvxZXEDOtISxX) | 3:38 |
 | 66 | [\(You Drive Me\) Crazy \[The Stop Remix!\]](https://open.spotify.com/track/5G4w4RECwnPdUjz0L0xmNi) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:17 |

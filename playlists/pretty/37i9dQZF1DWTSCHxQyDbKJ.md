@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Necessities from LGBTQIA+ artists\. Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,321 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,323 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 63 | [Ever New \- Single Version](https://open.spotify.com/track/3TXjItvy5G7Td2OrhslAAY) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA) | [Ever New](https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO) | 4:50 |
 | 64 | [ACT ALIVE](https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [ACT ALIVE](https://open.spotify.com/album/13ayQoD69KCSMRFSqo9u0a) | 4:12 |
 | 65 | [Love Second Music First](https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Love Second Music First](https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe) | 4:05 |
-| 66 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 |
-| 67 | [Mountain out of a Molehill](https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Mountain out of a Molehill](https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j) | 3:25 |
+| 66 | [Mountain out of a Molehill](https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Mountain out of a Molehill](https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j) | 3:25 |
+| 67 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 |
 | 68 | [Sex Metal](https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 1:05 |
 | 69 | [Now What?](https://open.spotify.com/track/5RgjWYlNS1LMonnWdE9yd1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Now What?](https://open.spotify.com/album/2VJPkqUnyeB2xCYa4nikN7) | 3:13 |
 | 70 | [Wahoo](https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Wahoo](https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq) | 2:05 |
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 73 | [2 Year Itch](https://open.spotify.com/track/5tIOc6GbyGRnSNCfpTNUPg) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [2 Year Itch](https://open.spotify.com/album/1ZhtlKn7oUMdKBkQ5njhKl) | 2:45 |
 | 74 | [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 |
 | 75 | [I Would Die 4 U](https://open.spotify.com/track/1R9ah1wItTvehP2whKXpQk) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL), [Wendy & Lisa](https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz) | [I Would Die 4 U](https://open.spotify.com/album/5kDgEnfQkOrcYjl5v2VxbO) | 3:21 |
-| 76 | [I Wantchu](https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [I Wantchu](https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6) | 2:50 |
-| 77 | [WILD!](https://open.spotify.com/track/49BcUseE7kHJ5YEZ51EQgr) | [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X) | [WILD!](https://open.spotify.com/album/4jSn0KXaUCI9m026jBPF3i) | 3:22 |
+| 76 | [WILD!](https://open.spotify.com/track/49BcUseE7kHJ5YEZ51EQgr) | [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X) | [WILD!](https://open.spotify.com/album/4jSn0KXaUCI9m026jBPF3i) | 3:22 |
+| 77 | [I Wantchu](https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [I Wantchu](https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6) | 2:50 |
 | 78 | [Carnal](https://open.spotify.com/track/2wnnMeISG1gM0vXhsSQGeR) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA), [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Carnal](https://open.spotify.com/album/4wUzF46CYbhDC1IqSYgdUz) | 3:34 |
 | 79 | [69](https://open.spotify.com/track/7HThqZsl1l1YshgeZaoBRD) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [69](https://open.spotify.com/album/65AGTpy6jBYVi8KH4oVugq) | 3:29 |
-| 80 | [Talk 2 Me](https://open.spotify.com/track/1twfzIIdZiI08eM7yVhE9E) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Talk 2 Me](https://open.spotify.com/album/1CAxbTl96WGEeV6j0oGxMq) | 3:42 |
-| 81 | [Eden](https://open.spotify.com/track/3DHMdOGskwcdXSSymYJoOn) | [Lucyvivor](https://open.spotify.com/artist/1cEzgHSv07ZJvU2PtVa17g) | [Eden](https://open.spotify.com/album/6t0KIdBeZEvQrTtJoiCUCe) | 2:51 |
+| 80 | [Eden](https://open.spotify.com/track/3DHMdOGskwcdXSSymYJoOn) | [Lucyvivor](https://open.spotify.com/artist/1cEzgHSv07ZJvU2PtVa17g) | [Eden](https://open.spotify.com/album/6t0KIdBeZEvQrTtJoiCUCe) | 2:51 |
+| 81 | [Talk 2 Me](https://open.spotify.com/track/1twfzIIdZiI08eM7yVhE9E) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Talk 2 Me](https://open.spotify.com/album/1CAxbTl96WGEeV6j0oGxMq) | 3:42 |
 | 82 | [The Worst](https://open.spotify.com/track/7uRuhSjbA0McvqXUAOQWYn) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Light It Up](https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn) | 2:58 |
 | 83 | [I Wanna Be Loved By You](https://open.spotify.com/track/18gnbzwrQjunR6kpaTJp6F) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [I Got Too Sad For My Friends](https://open.spotify.com/album/2PTF4EW8kJIeib3cQ87lJk) | 3:03 |
 | 84 | [Everything Is Beautiful](https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Everything Is Beautiful](https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL) | 3:18 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 94 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/4JNOcgdDYesDZXCJgErW8N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/5hjzYMk2CESQYfZo4a7fGL) | 4:23 |
 | 95 | [Going To My Head](https://open.spotify.com/track/5VT6K1GoBmMLkySKljNcZx) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Cabin Fever](https://open.spotify.com/album/724Umpj2VEH5ZAACzQMEAc) | 4:04 |
 | 96 | [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 |
-| 97 | [heaven/jealous](https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [heaven/jealous](https://open.spotify.com/album/3A3Kt4qO9NQL6gYuizHZdr) | 2:56 |
-| 98 | [go!](https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [go!](https://open.spotify.com/album/1Jg6CxHmAxmkf4CE8b8x17) | 3:31 |
+| 97 | [go!](https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [go!](https://open.spotify.com/album/1Jg6CxHmAxmkf4CE8b8x17) | 3:31 |
+| 98 | [heaven/jealous](https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [heaven/jealous](https://open.spotify.com/album/3A3Kt4qO9NQL6gYuizHZdr) | 2:56 |
 | 99 | [One More Time \(feat\. Popstar\)](https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [One More Time \(feat\. Popstar\)](https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW) | 3:20 |
 | 100 | [DONT MAKE THIS WEIRD](https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS) | [DONT MAKE THIS WEIRD](https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p) | [DONT MAKE THIS WEIRD](https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs) | 2:50 |
 

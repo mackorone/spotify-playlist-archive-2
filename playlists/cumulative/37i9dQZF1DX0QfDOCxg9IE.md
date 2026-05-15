@@ -2,9 +2,9 @@
 
 ### [Internet Hits Greece](https://open.spotify.com/playlist/37i9dQZF1DX0QfDOCxg9IE)
 
-> Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
+> Η Ελλάδα στον τελικό της Eurovision 🇬🇷! Καλή επιτυχία, Akylas!
 
-785 songs - 1 day 18 hr 32 min
+786 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Feeling You](https://open.spotify.com/track/0dIxWfVPWEwJhvFhIBrgXv) | [Faros](https://open.spotify.com/artist/0pMAqc1agvJHdl0lvNShHb) | [Feeling You](https://open.spotify.com/album/4pt5wkJHQdFFo2SY95DFaR) | 3:36 | 2024-07-22 | 2024-08-06 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-15 | 2024-07-30 |
 | [Ferry \- Fly Lo](https://open.spotify.com/track/5JWoMdlBXcEy2fPb7tPlta) | [Yung Chicago](https://open.spotify.com/artist/7HxQdVQGnQeD5v2mXxoImR) | [Ferry \(Fly Lo\)](https://open.spotify.com/album/1d29dkHu9fvsGnahOTpGWC) | 1:33 | 2025-07-14 | 2025-08-26 |
+| [Ferto](https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [Ferto](https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV) | 3:00 | 2026-05-14 |  |
 | [Files Kai Filoi](https://open.spotify.com/track/3SSShuFuxAtR3pGMOahCbO) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB), [Mpelafon](https://open.spotify.com/artist/0bWNsLp2zKgUNInup4gU9F) | [Files Kai Filoi](https://open.spotify.com/album/4oAjQIKscpA7lemogSGruT) | 3:24 | 2025-06-16 | 2025-07-29 |
 | [Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire Fire](https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf) | 2:30 | 2025-08-19 | 2025-09-02 |
 | [Follow You](https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Follow You](https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE) | 2:44 | 2024-11-18 | 2025-09-02 |

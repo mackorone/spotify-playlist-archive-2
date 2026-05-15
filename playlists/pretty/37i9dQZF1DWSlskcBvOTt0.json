@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 586880,
+  "num_followers": 586956,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-05-08 04:03:21",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
-    },
-    {
-      "added_at": "2026-05-08 04:03:21",
-      "album": {
         "name": "Closer To The Floor",
         "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
       },
@@ -1103,6 +1083,26 @@
     {
       "added_at": "2026-05-08 04:03:21",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
+    },
+    {
+      "added_at": "2026-05-08 04:03:21",
+      "album": {
         "name": "Dancing",
         "url": "https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n"
       },
@@ -1123,6 +1123,30 @@
       "duration_ms": 225247,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL"
+    },
+    {
+      "added_at": "2026-05-08 04:03:21",
+      "album": {
+        "name": "Unjust",
+        "url": "https://open.spotify.com/album/4TkMSfIK0rOsSoAgRJOifr"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Madmix",
+          "url": "https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Unjust",
+      "url": "https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0"
     },
     {
       "added_at": "2026-05-08 04:03:21",
@@ -1159,50 +1183,6 @@
     {
       "added_at": "2026-05-08 04:03:21",
       "album": {
-        "name": "Love\u2019s A Game",
-        "url": "https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 206585,
-      "name": "Love\u2019s A Game",
-      "url": "https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5"
-    },
-    {
-      "added_at": "2026-05-08 04:03:21",
-      "album": {
-        "name": "Unjust",
-        "url": "https://open.spotify.com/album/4TkMSfIK0rOsSoAgRJOifr"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Madmix",
-          "url": "https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt"
-        },
-        {
-          "name": "Toshi",
-          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Unjust",
-      "url": "https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0"
-    },
-    {
-      "added_at": "2026-05-08 04:03:21",
-      "album": {
         "name": "Natural Blues",
         "url": "https://open.spotify.com/album/1Il6vUKaKu9dwdxWSvtoSC"
       },
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2026-05-08 04:03:21",
       "album": {
+        "name": "Love\u2019s A Game",
+        "url": "https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 206585,
+      "name": "Love\u2019s A Game",
+      "url": "https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5"
+    },
+    {
+      "added_at": "2026-05-08 04:03:21",
+      "album": {
         "name": "Keep Me Close",
         "url": "https://open.spotify.com/album/442k8gJJ7jTh4uokubtnbi"
       },
@@ -1247,6 +1247,34 @@
       "duration_ms": 197000,
       "name": "Keep Me Close",
       "url": "https://open.spotify.com/track/1xUNcHDeD5yl2RpVS85q0a"
+    },
+    {
+      "added_at": "2026-05-08 04:03:21",
+      "album": {
+        "name": "Believe In Us",
+        "url": "https://open.spotify.com/album/6EYNnyT5alWlKspslbOGnN"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+        },
+        {
+          "name": "Neyl",
+          "url": "https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD"
+        },
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Believe In Us",
+      "url": "https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA"
     },
     {
       "added_at": "2026-05-08 04:03:21",
@@ -1283,34 +1311,6 @@
       "duration_ms": 185806,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/2bzCnD7nJuuS4yDNCAtLYz"
-    },
-    {
-      "added_at": "2026-05-08 04:03:21",
-      "album": {
-        "name": "Believe In Us",
-        "url": "https://open.spotify.com/album/6EYNnyT5alWlKspslbOGnN"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Jawora",
-          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
-        },
-        {
-          "name": "Neyl",
-          "url": "https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD"
-        },
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Believe In Us",
-      "url": "https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA"
     },
     {
       "added_at": "2026-05-08 04:03:21",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-05-08 04:03:21",
       "album": {
+        "name": "GROOVINU",
+        "url": "https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 166162,
+      "name": "GROOVINU",
+      "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
+    },
+    {
+      "added_at": "2026-05-08 04:03:21",
+      "album": {
         "name": "Feel The Love",
         "url": "https://open.spotify.com/album/5n6V1LkjqA3sr4n1gz1ODx"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 183016,
       "name": "Feel The Love",
       "url": "https://open.spotify.com/track/79VHKtRi11otZg0Bil7v1G"
-    },
-    {
-      "added_at": "2026-05-08 04:03:21",
-      "album": {
-        "name": "GROOVINU",
-        "url": "https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 166162,
-      "name": "GROOVINU",
-      "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
     },
     {
       "added_at": "2026-05-08 04:03:21",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2026-05-08 04:03:21",
       "album": {
+        "name": "Nothing Wrong",
+        "url": "https://open.spotify.com/album/6K2eYBkRKd1PigxrMJujNn"
+      },
+      "artists": [
+        {
+          "name": "OMRI.",
+          "url": "https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Nothing Wrong - Love Mix",
+      "url": "https://open.spotify.com/track/7iplrJUdhVjYgAjZGINro8"
+    },
+    {
+      "added_at": "2026-05-08 04:03:21",
+      "album": {
         "name": "Sympathy For The Devil",
         "url": "https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 219963,
       "name": "Sympathy For The Devil",
       "url": "https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO"
-    },
-    {
-      "added_at": "2026-05-08 04:03:21",
-      "album": {
-        "name": "Nothing Wrong",
-        "url": "https://open.spotify.com/album/6K2eYBkRKd1PigxrMJujNn"
-      },
-      "artists": [
-        {
-          "name": "OMRI.",
-          "url": "https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Nothing Wrong - Love Mix",
-      "url": "https://open.spotify.com/track/7iplrJUdhVjYgAjZGINro8"
     },
     {
       "added_at": "2026-05-08 04:03:21",
@@ -2371,6 +2371,26 @@
     {
       "added_at": "2026-05-08 04:03:21",
       "album": {
+        "name": "Real, You Know?!",
+        "url": "https://open.spotify.com/album/3Y6tmTccFgBNu3OxrA61Yk"
+      },
+      "artists": [
+        {
+          "name": "Mano Le Tough",
+          "url": "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 236226,
+      "name": "Real, You Know?!",
+      "url": "https://open.spotify.com/track/5sjsIBzfE5cfRj8XBkk5B8"
+    },
+    {
+      "added_at": "2026-05-08 04:03:21",
+      "album": {
         "name": "Your Command (Paul Kalkbrenner Remix)",
         "url": "https://open.spotify.com/album/5ZGfegmOmQ795QyKe5ln5U"
       },
@@ -2415,26 +2435,6 @@
     {
       "added_at": "2026-05-08 04:03:21",
       "album": {
-        "name": "Feel the Rhythm",
-        "url": "https://open.spotify.com/album/67YOOGJXXbfL0N5xRjRpDl"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 196339,
-      "name": "Feel the Rhythm",
-      "url": "https://open.spotify.com/track/7mnmhbOCsqpYnJg8en0j4D"
-    },
-    {
-      "added_at": "2026-05-08 04:03:21",
-      "album": {
         "name": "Campanera",
         "url": "https://open.spotify.com/album/3IsSwiowHDd0YgVeAIuU4U"
       },
@@ -2455,6 +2455,26 @@
       "duration_ms": 159555,
       "name": "Campanera",
       "url": "https://open.spotify.com/track/48PDWlo207BD9XDRZzFhR7"
+    },
+    {
+      "added_at": "2026-05-08 04:03:21",
+      "album": {
+        "name": "Feel the Rhythm",
+        "url": "https://open.spotify.com/album/67YOOGJXXbfL0N5xRjRpDl"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 196339,
+      "name": "Feel the Rhythm",
+      "url": "https://open.spotify.com/track/7mnmhbOCsqpYnJg8en0j4D"
     },
     {
       "added_at": "2026-05-08 04:03:21",
@@ -2491,26 +2511,6 @@
       "duration_ms": 218760,
       "name": "U Ain't Lyin'",
       "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
-    },
-    {
-      "added_at": "2026-05-08 04:03:21",
-      "album": {
-        "name": "Real, You Know?!",
-        "url": "https://open.spotify.com/album/3Y6tmTccFgBNu3OxrA61Yk"
-      },
-      "artists": [
-        {
-          "name": "Mano Le Tough",
-          "url": "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 236226,
-      "name": "Real, You Know?!",
-      "url": "https://open.spotify.com/track/5sjsIBzfE5cfRj8XBkk5B8"
     },
     {
       "added_at": "2026-05-08 04:03:21",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2026-05-08 04:03:21",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/1d2ZLzQ3y2UQzXYx6iLIKM"
-      },
-      "artists": [
-        {
-          "name": "Aden Lou",
-          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh"
-    },
-    {
-      "added_at": "2026-05-08 04:03:21",
-      "album": {
         "name": "Remember Who You Are",
         "url": "https://open.spotify.com/album/2JZ9v11Hfhbvk5AtW3Pgyo"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 224140,
       "name": "Remember Who You Are",
       "url": "https://open.spotify.com/track/3tblXmky5Yxp4egimxx5t8"
+    },
+    {
+      "added_at": "2026-05-08 04:03:21",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/1d2ZLzQ3y2UQzXYx6iLIKM"
+      },
+      "artists": [
+        {
+          "name": "Aden Lou",
+          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh"
     },
     {
       "added_at": "2026-05-08 04:03:21",
@@ -2671,6 +2671,30 @@
     {
       "added_at": "2026-05-08 04:03:21",
       "album": {
+        "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
+        "url": "https://open.spotify.com/album/3LxTnt5i5qLoYMZJhPna48"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "duration_ms": 197546,
+      "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
+      "url": "https://open.spotify.com/track/7buuOG83BDx2R8dc36WAYn"
+    },
+    {
+      "added_at": "2026-05-08 04:03:21",
+      "album": {
         "name": "Shake It To The Max (FLY) [Major Lazer Remix]",
         "url": "https://open.spotify.com/album/5ILhc6FDbh6qqA22QLjnoh"
       },
@@ -2691,34 +2715,6 @@
       "duration_ms": 170074,
       "name": "Shake It To The Max (FLY) [Major Lazer Remix]",
       "url": "https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq"
-    },
-    {
-      "added_at": "2026-05-08 04:03:21",
-      "album": {
-        "name": "Amazone Project",
-        "url": "https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64"
-      },
-      "artists": [
-        {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Carlinhos Brown",
-          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
-        },
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 230322,
-      "name": "Raiz Brasileira",
-      "url": "https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3"
     }
   ],
   "unique_name": "Tantra",

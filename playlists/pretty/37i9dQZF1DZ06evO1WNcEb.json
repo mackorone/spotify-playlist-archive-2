@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66675,
+  "num_followers": 66677,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAABQfoixrGG9qAP6PlEjjJOd",
+  "snapshot_id": "agO/AAAAAADmm8GC2tUhQ+uWZ3LV4jP4",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4jebOXsJYZCzILZYFacDcB"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
-        }
-      ],
-      "duration_ms": 299840,
-      "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4OHNYjow2gCBNgNIuKtwHj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 334310,
       "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
       "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4jebOXsJYZCzILZYFacDcB"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        }
+      ],
+      "duration_ms": 299840,
+      "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4OHNYjow2gCBNgNIuKtwHj"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 380760,
+      "name": "Eu Quero Ser Santo",
+      "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 383490,
       "name": "Simplesmente Te Adorar",
       "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 380760,
-      "name": "Eu Quero Ser Santo",
-      "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 393206,
+      "name": "\u00c9 Assim que Eu Quero Te Adorar",
+      "url": "https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
         "url": "https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 260893,
       "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
       "url": "https://open.spotify.com/track/1BhgFlaCVzAhJoCznssFpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 393206,
-      "name": "\u00c9 Assim que Eu Quero Te Adorar",
-      "url": "https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GMCW2o8zYxHIv5Dms2nu0"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 308053,
-      "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0B6CvjP0zkqEMe03vzEx91"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
       },
@@ -799,6 +779,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Deus dos Vales, Deus dos Montes",
+      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GMCW2o8zYxHIv5Dms2nu0"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 308053,
+      "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0B6CvjP0zkqEMe03vzEx91"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus, o Brasil Te Adora",
         "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 353893,
       "name": "Eu Me Arrependo",
       "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Deus dos Vales, Deus dos Montes",
-      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 393533,
+      "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus no Controle + Milagre (Ao Vivo)",
         "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 301280,
       "name": "Deus no Controle + Milagre (Ao Vivo)",
       "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 393533,
-      "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4"
     },
     {
       "added_at": null,

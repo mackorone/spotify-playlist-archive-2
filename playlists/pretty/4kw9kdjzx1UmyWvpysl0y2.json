@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123942,
+  "num_followers": 123941,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVYtxwQvz2chm7a4EVJwZbwsTwlB5z",
+  "snapshot_id": "AAAVY1yEM5Kky+c0knxxzW08Yltx7UNg",
   "tracks": [
+    {
+      "added_at": "2026-05-14 12:59:49",
+      "album": {
+        "name": "Who Knew",
+        "url": "https://open.spotify.com/album/4F2I2ZBLo2ncuhMIA1Dlr2"
+      },
+      "artists": [
+        {
+          "name": "Jay Mark",
+          "url": "https://open.spotify.com/artist/2Rbank5DKhxfNuUmlszjX6"
+        },
+        {
+          "name": "Livvy Lauren",
+          "url": "https://open.spotify.com/artist/7H525GcgGfiktDgxDHGcX1"
+        }
+      ],
+      "duration_ms": 161503,
+      "name": "Who Knew",
+      "url": "https://open.spotify.com/track/7cXmJP7TDbzzf9ONkSOhtt"
+    },
     {
       "added_at": "2026-05-13 12:49:43",
       "album": {

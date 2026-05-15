@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Beeztrap KOTM",
+  "description": "Hottest bars coming live from the 233.  Cover: Kwartengg & M.anifest",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 130032,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/2yC0x7PvGRy3AoQKETNgPN"
@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 234161,
       "name": "Chacha",
       "url": "https://open.spotify.com/track/3DV7TWewqGjRLQEQhie59M"
@@ -7847,6 +7847,28 @@
     },
     {
       "album": {
+        "name": "Gorilla",
+        "url": "https://open.spotify.com/album/4a0B0u4XNJ80uqh3k7lmKf"
+      },
+      "artists": [
+        {
+          "name": "BANTU",
+          "url": "https://open.spotify.com/artist/2FIlpbCgw3KsywBZzuPU1H"
+        },
+        {
+          "name": "Jesse Jagz",
+          "url": "https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249812,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/4aVaZe9w1fWrGERmJKPzsk"
+    },
+    {
+      "album": {
         "name": "GORILLA",
         "url": "https://open.spotify.com/album/3EkSa2Y7VEt9XU5hgMS6d9"
       },
@@ -8986,7 +9008,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 148615,
       "name": "IT'S TIME",
       "url": "https://open.spotify.com/track/6MCGLH0jyEv6Nleaqjo5H2"
@@ -11366,7 +11388,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 122024,
       "name": "MO NTW\u0190N!",
       "url": "https://open.spotify.com/track/7sMAkr15drJKAD6zysmihs"
@@ -11516,6 +11538,28 @@
       "duration_ms": 160888,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/68kLBc1qUai4uAkO6tbKkW"
+    },
+    {
+      "album": {
+        "name": "TORCHER II",
+        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Arathejay",
+          "url": "https://open.spotify.com/artist/766TmQenI8cK9circQjAfp"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160580,
+      "name": "Mountain Tall",
+      "url": "https://open.spotify.com/track/1zwPYYCU0y3qLRn1KAjeeg"
     },
     {
       "album": {
@@ -12244,7 +12288,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 224174,
       "name": "No Way",
       "url": "https://open.spotify.com/track/6lZp4Dfw7DuKbe9vrIxSsx"
@@ -13551,6 +13595,28 @@
     },
     {
       "album": {
+        "name": "Out The Mud",
+        "url": "https://open.spotify.com/album/2zUbYr0EsC9FcatnR2AT3A"
+      },
+      "artists": [
+        {
+          "name": "Kwartengg",
+          "url": "https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194307,
+      "name": "Out The Mud",
+      "url": "https://open.spotify.com/track/0ew3fsc3ljIZlb46OeTKJs"
+    },
+    {
+      "album": {
         "name": "Okay Baby, Lets Do This",
         "url": "https://open.spotify.com/album/4IamBG0gFqg3LN9L7YuZjH"
       },
@@ -13970,7 +14036,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 167368,
       "name": "PLENTY WAHALA",
       "url": "https://open.spotify.com/track/6Q8VMpuINAzI3CKcb0Mr3i"
@@ -15052,6 +15118,24 @@
       "duration_ms": 176219,
       "name": "Roses",
       "url": "https://open.spotify.com/track/1f47jNLpMn4L1OeYiFamS0"
+    },
+    {
+      "album": {
+        "name": "Rotation",
+        "url": "https://open.spotify.com/album/3iyvH9o2nOjTLLJinOObnj"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/3kd7SEgutk0Dkp3S6VnasJ"
     },
     {
       "album": {
@@ -16985,6 +17069,28 @@
     },
     {
       "album": {
+        "name": "N0 W OR N\u00a3V\u0100.",
+        "url": "https://open.spotify.com/album/7AovTbW8Z4rYu75hCz1q6E"
+      },
+      "artists": [
+        {
+          "name": "Terry Babone.",
+          "url": "https://open.spotify.com/artist/4E4lpCtFbddqLRx09XJ4F8"
+        },
+        {
+          "name": "King Fahd",
+          "url": "https://open.spotify.com/artist/486umUh84fnYVC8ATOJtHv"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142471,
+      "name": "T0RONT0.",
+      "url": "https://open.spotify.com/track/6xBsQSlx7rhQgPV3nqFG1c"
+    },
+    {
+      "album": {
         "name": "Trenches Babies; Lalid - The Big Fish",
         "url": "https://open.spotify.com/album/7w0dha98O5MiKp51tUlMyg"
       },
@@ -17680,7 +17786,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 241200,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/0ZnKfkvVIkWg9dN3GN9Kot"
@@ -19289,6 +19395,24 @@
     },
     {
       "album": {
+        "name": "Woes",
+        "url": "https://open.spotify.com/album/6QNjAHqh2MrfF8VSFI5PMG"
+      },
+      "artists": [
+        {
+          "name": "Supa Gaeta",
+          "url": "https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Woes",
+      "url": "https://open.spotify.com/track/7pGXllQJ8seQkYIYW3zxV4"
+    },
+    {
+      "album": {
         "name": "Wombom",
         "url": "https://open.spotify.com/album/5WQmQP2tj5xH2mvoB1dXme"
       },
@@ -20162,6 +20286,24 @@
       "duration_ms": 156922,
       "name": "Yipi Yoo",
       "url": "https://open.spotify.com/track/4aI9GatG1DzBNeDFvjcAPs"
+    },
+    {
+      "album": {
+        "name": "TORCHER II",
+        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150535,
+      "name": "Yire (Fanfooler)",
+      "url": "https://open.spotify.com/track/1390ovzn0DCki8MOIUJ185"
     },
     {
       "album": {

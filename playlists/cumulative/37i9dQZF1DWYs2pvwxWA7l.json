@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Adekunle Gold ",
+  "description": "The hottest Afropop records on the planet.  Cover: Johnny Drille ",
   "name": "Afropop",
   "tracks": [
     {
@@ -671,6 +671,28 @@
     },
     {
       "album": {
+        "name": "The Game Needs Us",
+        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/4c0l2xJLaY8PBS7yi37Ry3"
+    },
+    {
+      "album": {
         "name": "FUJI MOTO",
         "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
       },
@@ -682,7 +704,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 157714,
       "name": "AMA",
       "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
@@ -6114,7 +6136,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
@@ -14070,6 +14092,28 @@
       "duration_ms": 228000,
       "name": "Space (feat. Yumbs)",
       "url": "https://open.spotify.com/track/0Seh9U0NFDWegwzEjfjalQ"
+    },
+    {
+      "album": {
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193672,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
     },
     {
       "album": {

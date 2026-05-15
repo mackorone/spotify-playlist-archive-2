@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 334680,
+  "num_followers": 334688,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADWRFBM3DmqCk7FQrA0NaYE",
+  "snapshot_id": "agO/AAAAAAAZnIts+mbk5t/IFQmlR4J7",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "worst behaviour (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 219607,
       "name": "DIRT ON MY SHOES (feat. Kehlani)",
       "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
     },
     {
       "added_at": null,

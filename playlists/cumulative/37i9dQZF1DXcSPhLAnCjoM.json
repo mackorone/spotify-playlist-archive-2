@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Le petit p\u00eacheur\" de Manon Lisa  est le Grand Hit de la semaine.  ",
+  "description": "\"Dis moi o\u00f9\" de Julien Lieb & OTTA  est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -2544,6 +2544,24 @@
       "duration_ms": 172263,
       "name": "Je pense \u00e0 vous",
       "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
+    },
+    {
+      "album": {
+        "name": "Je pense \u00e0 vous",
+        "url": "https://open.spotify.com/album/7nYETPT6MTJ1UcIn1x4MFF"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172170,
+      "name": "Je pense \u00e0 vous",
+      "url": "https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa"
     },
     {
       "album": {
@@ -5524,7 +5542,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 246000,
       "name": "Soleil Bleu",
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"

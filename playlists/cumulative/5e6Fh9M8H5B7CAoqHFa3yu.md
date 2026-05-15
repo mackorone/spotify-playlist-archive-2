@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,210 songs - 5 day 10 hr 43 min
+2,212 songs - 5 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,7 +638,7 @@
 | [Finding the Light](https://open.spotify.com/track/3NRF7WdmISMZDHqnQihJ1f) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [Finding the Light](https://open.spotify.com/album/35ywCORGOYMeTxKVETMPMK) | 2:44 | 2026-03-13 |  |
 | [Fine Dub](https://open.spotify.com/track/3OC1ZBl2IyA6A2Vn4CD7VU) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:19 | 2024-03-25 |  |
 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2024-03-04 |  |
-| [FIRE ON THE BLACK FLAGS](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 | 2026-03-13 |  |
+| [Fire on the Black Flags](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Fire on the Black Flags](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 | 2026-03-13 |  |
 | [Fireside](https://open.spotify.com/track/0ZDHsXc2Oe3PXKaNH38tR2) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Fireside](https://open.spotify.com/album/3hKn1c0BwHI1PzWQELe6tM) | 2:29 | 2025-11-21 |  |
 | [FIRST](https://open.spotify.com/track/0fefDKmSDmws0zzhIJzdG8) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4G5ugJrdVIQM3l3MaTsFpi) | 3:49 | 2025-10-24 |  |
 | [FIRST](https://open.spotify.com/track/553SWInFyd53tSE1pG7bgG) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:49 | 2025-12-01 |  |
@@ -1330,7 +1330,7 @@
 | [Niebaschil](https://open.spotify.com/track/3QkXNDZIpBxJhnrOesyiqo) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 3:39 | 2025-10-09 |  |
 | [Night in Blue](https://open.spotify.com/track/3Oz0sNwPoqSdWnnpehCT7T) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Night in Blue](https://open.spotify.com/album/4MzNvJ1ZT60rEzgk7d6TLY) | 2:47 | 2022-10-24 |  |
 | [Night Shift](https://open.spotify.com/track/0UUfMuJyyosW5EQNtYPVWz) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Night Shift](https://open.spotify.com/album/6QJICO8aIvLQWjfa58PlpN) | 2:12 | 2025-09-15 |  |
-| [NIGHT SPIRAL](https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [NIGHT SPIRAL](https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9) | 2:50 | 2026-02-20 |  |
+| [Night Spiral](https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Night Spiral](https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9) | 2:50 | 2026-02-20 |  |
 | [Nimbus](https://open.spotify.com/track/3HcO0heDVrD7Ox9y6hNV3T) | [LoFi Bits](https://open.spotify.com/artist/7w6hMq10imqDIY64cY4sFT) | [Nature's White Noise: LoFi for Deep Focus](https://open.spotify.com/album/6epj6a6Ml495zUCUst2TzY) | 5:18 | 2026-04-13 |  |
 | [Nina plays Swiftly \(a goodbye in my garage early\)](https://open.spotify.com/track/2ptEjreHIpK9uhUuq6YCUs) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 1:02 | 2025-09-24 |  |
 | [Nina Sings Again \(a goodbye in my garage\)](https://open.spotify.com/track/1GeAgHaA2a0538y6ZFHD7M) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 1:55 | 2025-09-24 |  |
@@ -1576,6 +1576,7 @@
 | [Revolution Dub](https://open.spotify.com/track/3JNAZBCWglVOYDiYzwKqXx) | [Zion Irie](https://open.spotify.com/artist/5noXAEZH9V1X7qtOSjM2Aw), [Sax n Dub](https://open.spotify.com/artist/1lTpzANT3gWVh5ll93tw8V) | [New Generation](https://open.spotify.com/album/6RyvPp3UVehoVieHF7mLuh) | 5:00 | 2024-05-04 |  |
 | [Revolutionary Dub \- Mr Mefistou Remix](https://open.spotify.com/track/56rRKx7OwqnXVaL9vmiPqK) | [Mexican Stepper](https://open.spotify.com/artist/0LkpURD28re1NOBsAWSZQq), [Mr Mefistou](https://open.spotify.com/artist/66ZwkhQaZJNCgZK8Ac95a0) | [The Mad Sunday](https://open.spotify.com/album/22xvWyrGCj7bk8GTA5buRd) | 5:02 | 2024-05-01 |  |
 | [Rhythm Of The Spiritual Warrior \- Discomix](https://open.spotify.com/track/4vTDCzJ2moQPtqH7XgDT7t) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj), [Me Zion Dread](https://open.spotify.com/artist/5D6WDodQdxb0vX5VSAvpaX) | [Tunes For Thoughts](https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U) | 6:07 | 2024-05-01 |  |
+| [Riddim In Dub](https://open.spotify.com/track/2er9UkwfQgKXhOtExYKNzn) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Zion Train](https://open.spotify.com/artist/6sDKfmMPaTI7MYeFoNFrg7), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Astral Vision](https://open.spotify.com/album/4skr9ieBSHKCa52ivYa7hy) | 5:51 | 2026-05-14 |  |
 | [Ride Home](https://open.spotify.com/track/58LpmworkJRhceB2n5AK47) | [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Full Circle](https://open.spotify.com/album/11w3N6BlPCKYZqC394rMOj) | 5:13 | 2025-08-02 |  |
 | [Rider](https://open.spotify.com/track/3jwAwVzOQWy4v2DBvQOFzw) | [Mixdy](https://open.spotify.com/artist/45Aq6zFmD3OEHtOIYzuYnR) | [Rider](https://open.spotify.com/album/0KEsf3kLP3TF7RF2CvtJO0) | 3:08 | 2025-05-09 |  |
 | [RIDING DINAMITE](https://open.spotify.com/track/2nPGjtFpy5OLgRYNXvGIHm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [RIDING DINAMITE](https://open.spotify.com/album/58J3xXeAPkerRCmJez9Evx) | 3:36 | 2026-01-06 |  |
@@ -1861,6 +1862,7 @@
 | [Te Quiero un Poco Mas que Ayer](https://open.spotify.com/track/6Xo5MDZk4C9C8FPIXpbfAy) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Te Quiero un Poco Mas que Ayer](https://open.spotify.com/album/5PNRIcbmmKH316fScpEr9z) | 3:01 | 2026-03-30 |  |
 | [Te Sueño](https://open.spotify.com/track/6DD4JYO7BurM1tZr1ddpuD) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Futuro de ayer](https://open.spotify.com/album/7lUdUvmdDdK2mdysOuo5xn) | 3:37 | 2026-04-12 |  |
 | [Te Tīmatanga \(Te Aka\)](https://open.spotify.com/track/1XZNkzpGGZvVasGQa9wHCj) | [Toroa](https://open.spotify.com/artist/3s7ob7yKHjS7z0yb6dp9C7) | [Te Tīmatanga](https://open.spotify.com/album/5sznJKnLWxiGq04Y7R0Um1) | 7:37 | 2026-02-07 |  |
+| [Te Tīmatanga \(Te Pū\)](https://open.spotify.com/track/2FIF4VZmClzDeA3OSvQeuZ) | [Toroa](https://open.spotify.com/artist/3s7ob7yKHjS7z0yb6dp9C7) | [Te Tīmatanga](https://open.spotify.com/album/5sznJKnLWxiGq04Y7R0Um1) | 6:07 | 2026-05-14 |  |
 | [Te vas milonga](https://open.spotify.com/track/70U2FFW5R9UDaBjjpdKycn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Te vas milonga](https://open.spotify.com/album/6N5YpykukS9nj2dRCO0nG6) | 2:05 | 2025-12-18 |  |
 | [Te Vuelves Loca](https://open.spotify.com/track/5f3MWc6zj0bGLXyhbYiAis) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Te Vuelves Loca](https://open.spotify.com/album/6Cnh6082MCq5hsxutry4UB) | 4:00 | 2025-06-05 |  |
 | [Techno Dub](https://open.spotify.com/track/6KOjDQ7ZVMvtgJU3HW824M) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [Dublaboratory, Vol​.​ 1](https://open.spotify.com/album/1qJg2mlB24zMwNtTl39jXx) | 4:13 | 2024-03-25 |  |

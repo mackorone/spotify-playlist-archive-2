@@ -3477,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "Nie mehr halbe Wege",
+        "url": "https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T"
+      },
+      "artists": [
+        {
+          "name": "Voltwechsel",
+          "url": "https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205936,
+      "name": "Nie mehr halbe Wege",
+      "url": "https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K"
+    },
+    {
+      "album": {
         "name": "Off to the Happy Place",
         "url": "https://open.spotify.com/album/5nJbbVazM8PySnmkj64vvR"
       },
@@ -3824,6 +3842,24 @@
       "duration_ms": 154428,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/2uQ5bMY5E0cflJbbGQcpgJ"
+    },
+    {
+      "album": {
+        "name": "Ordinary People",
+        "url": "https://open.spotify.com/album/1SGIESobBCifLw8vs4Bnor"
+      },
+      "artists": [
+        {
+          "name": "Lotus Grove",
+          "url": "https://open.spotify.com/artist/26mBaP2fnwi2GnYNRWn9vR"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176439,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/1oCwhlhRkPd5dCmS22o6jY"
     },
     {
       "album": {

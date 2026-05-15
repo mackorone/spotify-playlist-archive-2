@@ -2,9 +2,9 @@
 
 ### [Big In Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX0vJksQf4im1)
 
-> Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: Charli xcx
+> Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: Gracie Abrams
 
-429 songs - 23 hr 25 min
+434 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-12 |  |
 | [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 | 2026-02-13 |  |
 | [Girl In The Orchestra](https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Girl In The Orchestra](https://open.spotify.com/album/0Wgw9J708bA5yoIR87bJAC) | 3:12 | 2024-06-21 | 2025-03-07 |
+| [girl next door](https://open.spotify.com/track/0xCRp9lVz8jrq7G9syKlYL) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [girl next door](https://open.spotify.com/album/3QDKyEJSkkAiJOoyuZOm9F) | 3:18 | 2026-05-15 |  |
 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-12 | 2026-01-15 |
 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 | 2024-07-11 | 2025-03-07 |
 | [GO](https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC) | 3:15 | 2026-02-26 |  |
@@ -168,6 +169,7 @@
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-08-15 |
 | [her](https://open.spotify.com/track/7d6zoOnSVP1s5GAuPzcuoX) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/5KoCmD5XRyOzslD6isdIDf) | 2:51 | 2024-08-30 | 2025-03-14 |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-06-21 | 2025-03-07 |
+| [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-05-15 |  |
 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 | 2026-03-12 |  |
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-21 | 2025-05-09 |
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-05 |  |
@@ -205,6 +207,7 @@
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-12 | 2025-03-14 |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-11 | 2025-05-09 |
 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-08-21 | 2026-01-15 |
+| [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 | 2026-05-15 |  |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-10 | 2026-01-15 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-05-29 | 2025-10-03 |
 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-21 | 2026-01-15 |
@@ -250,6 +253,7 @@
 | [MIA \(feat\. Chlöe\)](https://open.spotify.com/track/1jI4qCnDm6wDP5X6caZPeO) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:40 | 2024-12-12 | 2025-03-07 |
 | [Misfire](https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy) | 3:41 | 2025-08-07 | 2026-01-15 |
 | [Miss Esme](https://open.spotify.com/track/27aKQv7H9PX4Fz2ogl9rU9) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l) | [Miss Esme](https://open.spotify.com/album/3SwKD9N93UjGQQ0eS9e18l) | 3:36 | 2025-12-18 | 2026-01-15 |
+| [MISS U](https://open.spotify.com/track/48FfsXjz8rd8CLhnIwWQNw) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [MISS U](https://open.spotify.com/album/2ZCGxJ2LtsOmIyIhIrwV24) | 2:31 | 2026-05-15 |  |
 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-23 | 2025-10-03 |
 | [mood swings](https://open.spotify.com/track/2wVmMB3NBNbOuPIJfe5KK0) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [mood swings](https://open.spotify.com/album/49ohZcxcWzI8nefBcfe9Bt) | 2:05 | 2025-10-02 | 2026-04-17 |
 | [moonboy](https://open.spotify.com/track/4YoU6VbOH4KigttoGoPFjT) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [moonboy](https://open.spotify.com/album/7Ix2gCc8OGassm8RdqLCMa) | 2:53 | 2026-03-05 |  |
@@ -312,6 +316,7 @@
 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 | 2026-01-09 |  |
 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-01-16 | 2025-03-14 |
 | [RED FLAG.](https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 3:34 | 2025-07-03 | 2026-01-15 |
+| [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 | 2026-05-15 |  |
 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 | 2026-04-02 |  |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-21 | 2025-06-20 |
 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 | 2025-01-09 | 2025-03-07 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1\u00danete al party con estos hits! Baila y canta hasta el amanecer",
-  "num_followers": 2001145,
+  "num_followers": 2001188,
   "original_name": "Fiesta! Fiesta! ",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,26 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
+    },
+    {
+      "added_at": "2026-04-24 06:00:19",
+      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
-    },
-    {
-      "added_at": "2026-04-24 06:00:19",
-      "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 183550,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
       "added_at": "2026-04-24 06:00:19",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
-        "name": "Nine Track Mind",
-        "url": "https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 217706,
-      "name": "We Don't Talk Anymore (feat. Selena Gomez)",
-      "url": "https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj"
-    },
-    {
-      "added_at": "2026-04-24 06:00:19",
-      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2026-04-24 06:00:19",
+      "album": {
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 217706,
+      "name": "We Don't Talk Anymore (feat. Selena Gomez)",
+      "url": "https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj"
     },
     {
       "added_at": "2026-04-24 06:00:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
-        "name": "Mu\u00e9velo",
-        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 127366,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
-    },
-    {
-      "added_at": "2026-04-24 06:00:19",
-      "album": {
         "name": "God's Project",
         "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 267786,
       "name": "Ella Y Yo - Featuring Don Omar",
       "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
+    },
+    {
+      "added_at": "2026-04-24 06:00:19",
+      "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 127366,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
     },
     {
       "added_at": "2026-04-24 06:00:19",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
-        "name": "NI BORRACHO",
-        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "NI BORRACHO",
-      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
-    },
-    {
-      "added_at": "2026-04-24 06:00:19",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
+    },
+    {
+      "added_at": "2026-04-24 06:00:19",
+      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
-        "name": "SCANDIC",
-        "url": "https://open.spotify.com/album/1yyN0XBYnI7tJBCAhmmcOE"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 181421,
-      "name": "SCANDIC",
-      "url": "https://open.spotify.com/track/7D2A3hvJSabgicJ1HM4kDi"
-    },
-    {
-      "added_at": "2026-04-24 06:00:19",
-      "album": {
         "name": "Ride It",
         "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
+        "name": "SCANDIC",
+        "url": "https://open.spotify.com/album/1yyN0XBYnI7tJBCAhmmcOE"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 181421,
+      "name": "SCANDIC",
+      "url": "https://open.spotify.com/track/7D2A3hvJSabgicJ1HM4kDi"
+    },
+    {
+      "added_at": "2026-04-24 06:00:19",
+      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 215672,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy"
-    },
-    {
-      "added_at": "2026-04-24 06:00:19",
-      "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
-        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 162289,
-      "name": "TRANKAITO",
-      "url": "https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN"
     },
     {
       "added_at": "2026-04-24 06:00:19",
@@ -1023,26 +1007,18 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
-        "name": "DEPORTIVO",
-        "url": "https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs"
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 218701,
-      "name": "DEPORTIVO",
-      "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
+      "duration_ms": 162289,
+      "name": "TRANKAITO",
+      "url": "https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN"
     },
     {
       "added_at": "2026-04-24 06:00:19",
@@ -1063,6 +1039,30 @@
       "duration_ms": 176840,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
+    },
+    {
+      "added_at": "2026-04-24 06:00:19",
+      "album": {
+        "name": "DEPORTIVO",
+        "url": "https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 218701,
+      "name": "DEPORTIVO",
+      "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
     },
     {
       "added_at": "2026-04-24 06:00:19",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
-        "name": "El Merengue",
-        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 189668,
-      "name": "El Merengue",
-      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2026-04-24 06:00:19",
-      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -1223,26 +1203,22 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
-        "name": "5 Estrellas - W Sound 23",
-        "url": "https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S"
+        "name": "El Merengue",
+        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
       "artists": [
         {
-          "name": "W Sound",
-          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 191397,
-      "name": "5 Estrellas - W Sound 23",
-      "url": "https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT"
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
       "added_at": "2026-04-24 06:00:19",
@@ -1267,6 +1243,30 @@
       "duration_ms": 188368,
       "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
+    },
+    {
+      "added_at": "2026-04-24 06:00:19",
+      "album": {
+        "name": "5 Estrellas - W Sound 23",
+        "url": "https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 191397,
+      "name": "5 Estrellas - W Sound 23",
+      "url": "https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT"
     },
     {
       "added_at": "2026-04-24 06:00:19",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
-        "name": "LATINA FOREVA",
-        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 159452,
-      "name": "LATINA FOREVA",
-      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2026-04-24 06:00:19",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+        "name": "LATINA FOREVA",
+        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
+      "duration_ms": 159452,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
     },
     {
       "added_at": "2026-04-24 06:00:19",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "EL MAKINON",
-      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
-    },
-    {
-      "added_at": "2026-04-24 06:00:19",
-      "album": {
         "name": "Soltera (Remix)",
         "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "added_at": "2026-04-24 06:00:19",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "EL MAKINON",
+      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
     },
     {
       "added_at": "2026-04-24 06:00:19",
@@ -1891,30 +1891,6 @@
     {
       "added_at": "2026-04-24 06:00:19",
       "album": {
-        "name": "blackout \ud83e\uddca",
-        "url": "https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "blackout \ud83e\uddca",
-      "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
-    },
-    {
-      "added_at": "2026-04-24 06:00:19",
-      "album": {
         "name": "Una Foto Remix (feat. Emilia)",
         "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
       },
@@ -1939,6 +1915,30 @@
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
+    },
+    {
+      "added_at": "2026-04-24 06:00:19",
+      "album": {
+        "name": "blackout \ud83e\uddca",
+        "url": "https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "blackout \ud83e\uddca",
+      "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
     },
     {
       "added_at": "2026-04-24 06:00:19",

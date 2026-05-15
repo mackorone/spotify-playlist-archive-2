@@ -1,13 +1,29 @@
 {
   "description": "Introducing RADAR Philippines Cast of 2026. Cover: NEW LORE",
-  "num_followers": 137653,
+  "num_followers": 137649,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHjyKOKUTSpFnzHPlxo/JhwSvPFN",
+  "snapshot_id": "AAAAAPGXcQ+uXgwD6alaoEM68pPvzRXm",
   "tracks": [
+    {
+      "added_at": "2026-05-15 02:00:10",
+      "album": {
+        "name": "my crush and i will crush the system baby",
+        "url": "https://open.spotify.com/album/3V7AG5cXmnhZLiEDuIVfDZ"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 117176,
+      "name": "my crush and i will crush the system baby",
+      "url": "https://open.spotify.com/track/3X97K3qe31iHwbZTiib3tQ"
+    },
     {
       "added_at": "2026-05-08 03:48:15",
       "album": {

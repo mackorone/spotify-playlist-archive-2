@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-485 songs - 1 day 5 hr 58 min
+490 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Be Able to Love](https://open.spotify.com/track/2WMcEWz3MGj2IkpaFxOi3W) | [EVGHENI TULGENCO](https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w) | [Be Able to Love](https://open.spotify.com/album/7aeQRtbSegbwni28Yb8QRo) | 3:06 | 2026-02-10 | 2026-03-04 |
 | [Been So Long](https://open.spotify.com/track/181JBo6fgmCPougtkMU4xO) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Been So Long](https://open.spotify.com/album/4KdRx4zeATizHzXA5T45TK) | 4:01 | 2025-12-20 | 2026-01-21 |
 | [Bella](https://open.spotify.com/track/1ASPU1mX9IhqhiwcCN3WHb) | [Andacia](https://open.spotify.com/artist/6V8nJSc2EDQYdwfKzNA9pd) | [Bella](https://open.spotify.com/album/66UowctBk5iPa9KdvyxeZO) | 3:21 | 2026-01-12 | 2026-02-23 |
+| [Below](https://open.spotify.com/track/7EN56vFE3dTbkuzaIBkplR) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Below](https://open.spotify.com/album/3PazqcjJO7Kyz3BUJMXxuL) | 3:06 | 2026-05-14 |  |
 | [Better Than I](https://open.spotify.com/track/2UQHkffxecaIu9irBNoqPD) | [MILK Band](https://open.spotify.com/artist/6ycvZDVu8yYCsbit6IaiX9) | [Better Than I](https://open.spotify.com/album/75MGG0n4U8VMzlEZ1RqZc3) | 3:48 | 2026-03-14 | 2026-04-20 |
 | [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 | 2025-12-22 | 2026-01-21 |
 | [Bild aus Asche](https://open.spotify.com/track/0IkqOwvBWA87kckTOEZi93) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Bild aus Asche](https://open.spotify.com/album/10nAsOXRGEtWfTTkWwBRfa) | 2:53 | 2026-03-24 | 2026-04-20 |
@@ -79,6 +80,7 @@
 | [Breakdown](https://open.spotify.com/track/7DTuKfDhFKQqCpP5lnU05g) | [Erik Knear](https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV) | [Votive Sound](https://open.spotify.com/album/2HsWsLYWGUEZdXPGIyT57R) | 3:28 | 2026-02-07 | 2026-03-04 |
 | [Breathe In Breathe Out](https://open.spotify.com/track/3du8pgzoJLZk7KYFNrNpFI) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [Breathe In Breathe Out](https://open.spotify.com/album/005wg2iv5EcGFSpZVw9mhB) | 2:01 | 2026-02-19 |  |
 | [Bring Me Down](https://open.spotify.com/track/6DDJXTCoB99753Q6Pt3YDz) | [Aaetheria](https://open.spotify.com/artist/5XvLB3DxqgreEsNDrtAdfu) | [Bring Me Down](https://open.spotify.com/album/3S7MDIVQgVNIq9Q9KfCVtZ) | 2:57 | 2025-11-19 | 2025-12-12 |
+| [Broken \(Goodbye\)](https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Broken \(Goodbye\)](https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B) | 3:45 | 2026-05-14 |  |
 | [Broken Mirrors](https://open.spotify.com/track/7EutEoJcHg6Rapoc9BIPde) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Broken Mirrors](https://open.spotify.com/album/3MgB1ndfRsXWlBtLt3j3Rs) | 4:25 | 2026-01-17 | 2026-02-18 |
 | [Broken Souls](https://open.spotify.com/track/1QI8qHeZM2D9CjukHziaoo) | [Malcolm E Ormond](https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG) | [Broken Souls](https://open.spotify.com/album/3HyteMRqp1h4fag2Nukpd6) | 5:35 | 2025-12-18 | 2026-01-21 |
 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 | 2025-12-13 | 2026-01-05 |
@@ -245,6 +247,7 @@
 | [Lobotomy](https://open.spotify.com/track/19aXEmTM5YghumBM5d0HWu) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:03 | 2025-12-13 | 2026-01-05 |
 | [Lonely Spaceman](https://open.spotify.com/track/2zqjUfdbnpfFCzwMmIYjbD) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 4:39 | 2026-02-26 |  |
 | [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 | 2026-04-04 |  |
+| [Loophole](https://open.spotify.com/track/7bGqHpMXZK7EO2193SDGiz) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Loophole](https://open.spotify.com/album/4Gd7KgDAfgJ7tU9PirJXfU) | 4:13 | 2026-05-14 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-10-28 | 2025-11-22 |
 | [LOS BIOLOGOS](https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [LOS BIOLOGOS](https://open.spotify.com/album/4prHVEmsCxLHDTsV6zSsuM) | 4:11 | 2026-02-04 | 2026-02-23 |
 | [Lost On Queen Street](https://open.spotify.com/track/6qD5nfAKKmTjs5IoUaHJS3) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Lost On Queen Street](https://open.spotify.com/album/7Gp9P7nstTV0xulsGSk7LH) | 3:32 | 2026-04-21 |  |
@@ -276,6 +279,7 @@
 | [Nada De Vos](https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Nada De Vos](https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6) | 3:04 | 2026-03-12 | 2026-04-20 |
 | [Nerves of Steel](https://open.spotify.com/track/21heBobd16ggH4cfDKll9A) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Nerves of Steel](https://open.spotify.com/album/7BoC4jIW6k1Dfjku8Lm17j) | 3:16 | 2026-03-11 | 2026-04-20 |
 | [Never Gonna Make You Mine](https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Never Gonna Make You Mine](https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz) | 3:02 | 2025-11-21 | 2025-12-12 |
+| [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 | 2026-05-14 |  |
 | [NO](https://open.spotify.com/track/0EVKsHWoodqSaburPbBUzJ) | [MONOBERMUDO](https://open.spotify.com/artist/3LMo7RbDhqPnuLwtfGQihv) | [NO](https://open.spotify.com/album/19v34ghKtt5qmrLZySuq4K) | 1:59 | 2025-11-04 | 2025-11-22 |
 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-02-10 | 2026-03-04 |
 | [No puedes saber](https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3) | [Decode](https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r) | [No puedes saber](https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf) | 4:57 | 2026-03-05 |  |
@@ -416,6 +420,7 @@
 | [The Perfect Buzz](https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [The Perfect Buzz](https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG) | 2:46 | 2026-02-04 |  |
 | [The Poorest Man](https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o) | [Brassard](https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27) | [Marathon](https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2) | 4:04 | 2025-12-25 | 2026-01-21 |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-11-22 |
+| [The Road Less Travelled](https://open.spotify.com/track/343vOMd6pDa254603WoQlV) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [The Road Less Travelled](https://open.spotify.com/album/4hKhTfDR48nGOzM7uNSeTQ) | 4:54 | 2026-05-14 |  |
 | [The Runaround](https://open.spotify.com/track/0ORTqNtEa0vnT28dUYgGEq) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [The Runaround](https://open.spotify.com/album/7bRIOQfdUKMVvBcnkfpzZJ) | 3:31 | 2026-03-14 |  |
 | [The Time Will Come](https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Time Will Come](https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC) | 3:09 | 2026-03-03 | 2026-03-22 |
 | [The Whistleblower](https://open.spotify.com/track/3tjz79WyUdxsnt3RvGsbdh) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Under The East End Sky](https://open.spotify.com/album/7a3Bw6t0OBpaH6NNya0wnD) | 3:37 | 2025-12-23 | 2026-01-21 |

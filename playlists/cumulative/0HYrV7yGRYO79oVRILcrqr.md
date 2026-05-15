@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-497 songs - 1 day 6 hr 53 min
+499 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Dissonanze](https://open.spotify.com/track/4it9AInqERIyIVB2xAyGeU) | [Evan Park](https://open.spotify.com/artist/0Uy6ep5p6hkzzPs1SuucDU) | [Dissonanze](https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8) | 2:16 | 2026-04-14 |  |
 | [Do You Remember?](https://open.spotify.com/track/2ir8kJN0GO8wUP90oU3LSJ) | [Arthur Smith And The Skycruisers](https://open.spotify.com/artist/5oxjtUm1DYNBYPJP2GVneD) | [Do You Remember?](https://open.spotify.com/album/73GDhhUlcUhxlDUm6BqdLo) | 3:40 | 2025-10-04 | 2025-12-17 |
 | [Do You Think You Are ...](https://open.spotify.com/track/6LZkKLSRhixSCSv0fU0Iyo) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Do You Think You Are ...](https://open.spotify.com/album/7aySkDtNQbHGcPsrG1GLNo) | 3:53 | 2026-04-12 |  |
+| [Don't Go into Decline](https://open.spotify.com/track/26jxUzCuaOEh3FIV94ENXQ) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Don't Go Into Decline](https://open.spotify.com/album/2wk8NzsQBaA23jHCMtcqKo) | 4:20 | 2026-05-14 |  |
 | [Don't Let Me Down Again](https://open.spotify.com/track/3O1JR1gUR8shtWDhxc5Bwc) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Ben Trexel Music Classic Rock Collection, Vol\. 1](https://open.spotify.com/album/3ndoROj3VUZ3hLUIBS2OqU) | 3:24 | 2025-10-20 | 2025-11-28 |
 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 | 2025-11-08 | 2025-12-17 |
 | [Don't look back](https://open.spotify.com/track/3USP9tP0tX1jVue701swyK) | [Andrius](https://open.spotify.com/artist/2r4P3xB3mTIzuks1cnFOYS) | [The Dark Side Of The Tune](https://open.spotify.com/album/4JcCpQvnmSKs2LYE3ZzX5x) | 3:40 | 2025-11-29 | 2025-12-17 |
@@ -153,6 +154,7 @@
 | [Esploratore](https://open.spotify.com/track/1WC9lEhr79UeT1rV9c0mOC) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Claudia / Esploratore](https://open.spotify.com/album/1qs6f1FbQuFIoXuH1KeF4v) | 4:50 | 2026-03-30 | 2026-04-21 |
 | [ESTOY VIEJA](https://open.spotify.com/track/4vhQqf3mGxPEdM4X85GWkL) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [ESTOY VIEJA](https://open.spotify.com/album/38HjyGTf0kKd67brXPPMd1) | 2:40 | 2026-02-09 | 2026-03-18 |
 | [Eternal Flame](https://open.spotify.com/track/1knJt03nwMagF4TfJOrirK) | [Marcus O'Neill](https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J) | [Eternal Flame](https://open.spotify.com/album/1So5y8r0qzeuYtR4PWkNvB) | 2:14 | 2025-09-28 | 2025-12-17 |
+| [EX](https://open.spotify.com/track/2x6uxhbPVhUobfPzlEHAUK) | [TotoFuoriclasse](https://open.spotify.com/artist/3EhWMTwP7dGIl3Y6MiscVL) | [EX](https://open.spotify.com/album/3HqyGKFgZnme52jqSt2fW5) | 2:57 | 2026-05-14 |  |
 | [Faded Sun](https://open.spotify.com/track/4yoShDFZqFOsrXTdUzxpz6) | [OberTonic](https://open.spotify.com/artist/0D2hc3aCon3HUemLWIj2pR) | [Faded Sun](https://open.spotify.com/album/6Nj3qWQMCdy0Z9kNwhLiYq) | 3:05 | 2025-11-29 | 2025-12-17 |
 | [Faith Over Follows](https://open.spotify.com/track/4KwSpONS6uS35pBJDXDXJd) | [Walker Lawrence](https://open.spotify.com/artist/65CIRBacIF3DEkVgBZ9YFC) | [Faith Over Follows](https://open.spotify.com/album/5JS5m0MeKrmj1VMZgkdd6Z) | 4:29 | 2026-03-01 | 2026-03-18 |
 | [Fallin' Up](https://open.spotify.com/track/6K0AByZlnuW2t9iuV4ntBg) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [New West](https://open.spotify.com/album/7iwcTjYekrnEr3CM1J8TIS) | 3:11 | 2025-12-04 | 2025-12-17 |

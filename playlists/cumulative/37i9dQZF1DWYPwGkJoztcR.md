@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-172 songs - 9 hr 53 min
+173 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Call Me When You Get In](https://open.spotify.com/track/1Ubp8409zEMy2FJDOvMkfW) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Emily Rink](https://open.spotify.com/artist/65A05MaAQkUbLQm8jVtZHF) | [Call Me When You Get In](https://open.spotify.com/album/2l6Ur9RzHqEuQA5wioCaeM) | 3:48 | 2025-06-27 |  |
 | [Calling Out](https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Calling Out](https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn) | 2:30 | 2025-06-27 |  |
 | [Cape Forestier](https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c) | 3:52 | 2025-10-02 |  |
+| [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 | 2026-04-20 |  |
 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2026-03-02 | 2026-04-21 |
 | [Coffee Shop Boy](https://open.spotify.com/track/1iMItSsYpJoU0xzxwyNlXp) | [Zoe Hess](https://open.spotify.com/artist/3LGk1fSWkZLW6sCMGt8OJT) | [Coffee Shop Boy](https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ) | 3:27 | 2025-06-27 | 2025-10-03 |
 | [Colourblind](https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:29 | 2025-06-27 | 2026-04-21 |
@@ -177,7 +178,7 @@
 | [Woman](https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Woman](https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV) | 4:08 | 2026-04-20 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2025-06-27 | 2025-10-03 |
 | [You Give Me Something \(Refreshed\)](https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [You Give Me Something \(Refreshed\)](https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV) | 4:03 | 2025-06-27 | 2026-03-03 |
-| [You Got Me Hurt \- Acoustic](https://open.spotify.com/track/4AU7JPfolYuSGHpmCMyD3D) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [You Got Me Hurt \(Acoustic\)](https://open.spotify.com/album/6K8sqso55MSlz26PYW7yI3) | 3:34 | 2026-04-20 |  |
+| [You Got Me Hurt \- Acoustic](https://open.spotify.com/track/4AU7JPfolYuSGHpmCMyD3D) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [You Got Me Hurt \(Acoustic\)](https://open.spotify.com/album/6K8sqso55MSlz26PYW7yI3) | 3:34 | 2026-04-20 | 2026-05-15 |
 | [Younger Days](https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Bungalow](https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6) | 3:31 | 2025-10-31 |  |
 | [Your Spirit \- From "Team Spirit: Next Gen"](https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N) | [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Your Spirit \(From "Team Spirit: Next Gen"\)](https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw) | 3:31 | 2025-12-05 |  |
 

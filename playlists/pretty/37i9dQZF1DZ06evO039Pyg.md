@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,680 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,688 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 14 | [Can You Blame Me \(feat\. Lucky Daye\)](https://open.spotify.com/track/12xVuIohhHSklxvi1ItKGA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:03 |
 | 15 | [Ring \(feat\. Kehlani\)](https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 2:57 |
 | 16 | [Anotha Luva \(feat\. Lil Wayne\)](https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 4:01 |
-| 17 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:33 |
-| 18 | [DIRT ON MY SHOES \(feat\. Kehlani\)](https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:39 |
+| 17 | [DIRT ON MY SHOES \(feat\. Kehlani\)](https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:39 |
+| 18 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:33 |
 | 19 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
 | 20 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 2:42 |
 | 21 | [Distraction](https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:55 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 44 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 |
 | 45 | [Faking It \(feat\. Kehlani & Lil Yachty\)](https://open.spotify.com/track/0pJPdSVti6cTM1Q6xYGmcf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 4:00 |
 
-Snapshot ID: `agJtgAAAAADWRFBM3DmqCk7FQrA0NaYE`
+Snapshot ID: `agO/AAAAAAAZnIts+mbk5t/IFQmlR4J7`

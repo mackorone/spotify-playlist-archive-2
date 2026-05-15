@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Rhineland, The Wild Wind, Laureline and more",
+  "description": "With Rhineland, VICTORS, The Wild Wind and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 204040,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy"
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 230000,
       "name": "Big City",
       "url": "https://open.spotify.com/track/3uf7jjUpzDhNT6XEdNHUQt"
@@ -8804,7 +8804,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 219440,
       "name": "Ghost Hotel",
       "url": "https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh"
@@ -9932,7 +9932,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 252200,
       "name": "hey, u up?",
       "url": "https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1"
@@ -13178,7 +13178,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 290388,
       "name": "Last Year",
       "url": "https://open.spotify.com/track/1q6dH6WXMtdTgfTwrBWfKA"
@@ -14498,7 +14498,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 282354,
       "name": "Loving Like You Lost",
       "url": "https://open.spotify.com/track/0bSE852Jyc3H1koMeCOjaG"
@@ -17878,7 +17878,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 206600,
       "name": "Pale Ash",
       "url": "https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y"
@@ -18796,7 +18796,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 217656,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/3rkgDAgshJ6qDBFHEOMRvs"
@@ -20808,7 +20808,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 228080,
       "name": "Soundtrack",
       "url": "https://open.spotify.com/track/0EyVRIUOD2x2oiv8VqC8wK"
@@ -23024,7 +23024,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 229685,
       "name": "Things I Can't Explain",
       "url": "https://open.spotify.com/track/278dQxBy7NH5eA0WaNw6Gq"
@@ -23758,7 +23758,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 176365,
       "name": "tv shows",
       "url": "https://open.spotify.com/track/3fcMn1jCLiBRuFqfwkrjkX"
@@ -23906,7 +23906,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 313400,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/7D5V8XA1vFvk5ZVUbE1R6M"
@@ -24448,7 +24448,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 219457,
       "name": "Washed Wine",
       "url": "https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz"
@@ -26346,6 +26346,24 @@
       "duration_ms": 153440,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/3QTIbezK045KYDoCqARGN8"
+    },
+    {
+      "album": {
+        "name": "Take Flight",
+        "url": "https://open.spotify.com/album/2GMQ19WQGxqMHSj9z5iby1"
+      },
+      "artists": [
+        {
+          "name": "thebandfriday",
+          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235312,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/4yTdmwSCBVW3kYbDA2Hr3F"
     },
     {
       "album": {

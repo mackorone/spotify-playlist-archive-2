@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 375918,
+  "num_followers": 375937,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
+        "name": "IDKW",
+        "url": "https://open.spotify.com/album/7DKKHibyLHjQdE98HeVQT7"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "IDKW",
+      "url": "https://open.spotify.com/track/67Nrz0HAa2MUrO2zbekGfs"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
         "name": "Pathways",
         "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 166909,
       "name": "All Night",
       "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
-        "name": "IDKW",
-        "url": "https://open.spotify.com/album/7DKKHibyLHjQdE98HeVQT7"
-      },
-      "artists": [
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "IDKW",
-      "url": "https://open.spotify.com/track/67Nrz0HAa2MUrO2zbekGfs"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1107,22 +1107,22 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Strike a Pose (feat. Camille Munn)",
-        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
+        "name": "Dancing While Falling",
+        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
       },
       "artists": [
         {
-          "name": "IZCO",
-          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         },
         {
-          "name": "Camille Munn",
-          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
         }
       ],
-      "duration_ms": 186604,
-      "name": "Strike a Pose (feat. Camille Munn)",
-      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
+      "duration_ms": 211590,
+      "name": "Morning Light (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1151,22 +1151,22 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Dancing While Falling",
-        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
+        "name": "Strike a Pose (feat. Camille Munn)",
+        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
         },
         {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+          "name": "Camille Munn",
+          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
         }
       ],
-      "duration_ms": 211590,
-      "name": "Morning Light (feat. Andreya Triana)",
-      "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
+      "duration_ms": 186604,
+      "name": "Strike a Pose (feat. Camille Munn)",
+      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Sa\u00efna",
-          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
-        }
-      ],
-      "duration_ms": 154735,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "touch",
         "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 222496,
       "name": "touch",
       "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Sa\u00efna",
+          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
+        }
+      ],
+      "duration_ms": 154735,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "We Just Got Started",
-        "url": "https://open.spotify.com/album/4UwnE6qGrzqSfs4ZKO6chL"
-      },
-      "artists": [
-        {
-          "name": "Krafty Kuts",
-          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 224714,
-      "name": "We Just Got Started",
-      "url": "https://open.spotify.com/track/068oUeiG85BIf78eMv45Sn"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 139680,
       "name": "Excuse Me",
       "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "We Just Got Started",
+        "url": "https://open.spotify.com/album/4UwnE6qGrzqSfs4ZKO6chL"
+      },
+      "artists": [
+        {
+          "name": "Krafty Kuts",
+          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+        },
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 224714,
+      "name": "We Just Got Started",
+      "url": "https://open.spotify.com/track/068oUeiG85BIf78eMv45Sn"
     },
     {
       "added_at": "2026-05-07 13:54:31",

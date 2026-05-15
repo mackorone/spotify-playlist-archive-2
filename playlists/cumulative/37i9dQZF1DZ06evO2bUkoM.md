@@ -4,7 +4,7 @@
 
 > This is Hayley Kiyoko\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 54 min
+54 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Palace](https://open.spotify.com/track/46PIPQSUEmFqLQyq3r4QS4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 4:00 | 2023-05-02 |  |
 | [panorama](https://open.spotify.com/track/7CM0JwhONajGpNY2a2KIra) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:55 | 2024-06-06 | 2025-11-05 |
 | [Pretty Girl](https://open.spotify.com/track/55kn1i0n1mUWiEB6LZrTYe) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:36 | 2023-05-02 |  |
+| [red bikini](https://open.spotify.com/track/6HRfpEsRjpbi0vuS2od9t9) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [red bikini](https://open.spotify.com/album/0gHXJ2q3TX31arXhf31vbh) | 3:36 | 2026-05-15 |  |
 | [Rich Youth](https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:27 | 2023-05-02 |  |
 | [Runaway](https://open.spotify.com/track/6D9gsDE5QqFYM904iKHBFM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 2:30 | 2023-05-02 |  |
 | [Sadness](https://open.spotify.com/track/3wW615TC8W0at2BjnOfiRM) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Sadness](https://open.spotify.com/album/171hNpaERUy2FQ17IrnH4F) | 2:39 | 2025-11-02 |  |

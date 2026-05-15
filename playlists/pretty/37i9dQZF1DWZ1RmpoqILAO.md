@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > you met me at a very indie twang time in my life...This Is Lorelei on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,087 likes - 149 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,110 likes - 149 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

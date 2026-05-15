@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,174 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,202 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 21 | [Triste Recuerdo](https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Triste Recuerdo \(Aferrado Por Ti\)](https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS) | 3:05 |
 | 22 | [Cuando Yo Era Un Jovencito](https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 2:47 |
 | 23 | [Recuérdame Y Ven A Mí](https://open.spotify.com/track/32mEAMzlZpdWqg5NyWdsmw) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Entre Besos Y Heridas](https://open.spotify.com/album/2j0kTA0dSdo9N7CoOskR8i) | 3:26 |
-| 24 | [Besos Y Caricias](https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 2:29 |
-| 25 | [Mi Piquito De Oro](https://open.spotify.com/track/3GhDnfO7J3zLTswYYrQFnP) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [MI PIQUITO DE ORO \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr) | 2:08 |
+| 24 | [Mi Piquito De Oro](https://open.spotify.com/track/3GhDnfO7J3zLTswYYrQFnP) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [MI PIQUITO DE ORO \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr) | 2:08 |
+| 25 | [Besos Y Caricias](https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 2:29 |
 | 26 | [Recuerdos Tristes](https://open.spotify.com/track/7ddBBqgSFD17sJUjkdROAK) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 3:05 |
 | 27 | [Y Lloro Por Ella Mi Gorrión](https://open.spotify.com/track/0ZjZPINvCCjbARJfesaiQT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Pero Yo No La Conozco](https://open.spotify.com/album/6cXxPPrINk8uJBNnvOYLqP) | 2:53 |
 | 28 | [Quisiera Tener Alas](https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quisiera Tener Alas](https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Amor Vaquero](https://open.spotify.com/track/4mfeFlSkg2PHY3Gf5iYuGU) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 2:41 |
 | 50 | [Señor Dios](https://open.spotify.com/track/4UHusMkOSxGYFMjrMaHfLq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 3:21 |
 
-Snapshot ID: `agJtgAAAAAB5BkviuOuk5Kvl2j7aBHtn`
+Snapshot ID: `agO/AAAAAADL8Yg5UzBc+9izs4RLh2mU`

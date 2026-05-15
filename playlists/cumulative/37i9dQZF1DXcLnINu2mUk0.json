@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Guga",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Nenny",
   "name": "Seda",
   "tracks": [
     {
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 186483,
       "name": "Before I Lose My Voice",
       "url": "https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5"
@@ -3432,6 +3432,24 @@
       "duration_ms": 222677,
       "name": "Como Tu",
       "url": "https://open.spotify.com/track/2gqAMjrQUZxdYzCBhp9X86"
+    },
+    {
+      "album": {
+        "name": "Como Tu",
+        "url": "https://open.spotify.com/album/3yuaBILcbW98E2qAAImOH9"
+      },
+      "artists": [
+        {
+          "name": "Guga",
+          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172144,
+      "name": "Como Tu",
+      "url": "https://open.spotify.com/track/1OVi2ejz73AXSSv0rGBS5H"
     },
     {
       "album": {
@@ -8564,7 +8582,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 191406,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/0vmWtB8G1aRXLyJfMrQxUY"
@@ -9672,7 +9690,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 207272,
       "name": "Minha Boo",
       "url": "https://open.spotify.com/track/2yvqRPQaQeGt1C46p6kVc1"
@@ -11020,7 +11038,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 194117,
       "name": "N\u00c3O D\u00c1",
       "url": "https://open.spotify.com/track/7mKQ0XtCP5QBPF1r8wHmoO"
@@ -11160,6 +11178,28 @@
       "duration_ms": 218969,
       "name": "N\u00e3o Me Escondas Nada",
       "url": "https://open.spotify.com/track/3yD60vja3cPmuOK96uEEa2"
+    },
+    {
+      "album": {
+        "name": "ID",
+        "url": "https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        },
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268075,
+      "name": "N\u00e3o Me Fales (feat. Wet Bed Gang)",
+      "url": "https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS"
     },
     {
       "album": {
@@ -14856,7 +14896,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 212200,
       "name": "Sobre n\u00f3s",
       "url": "https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt"

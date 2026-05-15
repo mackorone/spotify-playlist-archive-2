@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 84707,
+  "num_followers": 84720,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -508,13 +508,13 @@
           "url": "https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR"
         },
         {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+          "name": "Vidhya Gopal",
+          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
         }
       ],
-      "duration_ms": 118520,
-      "name": "NEU",
-      "url": "https://open.spotify.com/track/70qRMWQ1bO98R6bE2jwSFf"
+      "duration_ms": 139120,
+      "name": "ROOTH GAYE",
+      "url": "https://open.spotify.com/track/2iSIacvItNiyVAEL0OPNv1"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -624,13 +624,13 @@
           "url": "https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR"
         },
         {
-          "name": "Vidhya Gopal",
-          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
         }
       ],
-      "duration_ms": 139120,
-      "name": "ROOTH GAYE",
-      "url": "https://open.spotify.com/track/2iSIacvItNiyVAEL0OPNv1"
+      "duration_ms": 118520,
+      "name": "NEU",
+      "url": "https://open.spotify.com/track/70qRMWQ1bO98R6bE2jwSFf"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -863,34 +863,22 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
-        "name": "VIHAR",
-        "url": "https://open.spotify.com/album/2bRXMyMM97uGP308LUnW8s"
+        "name": "Goldfish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
       },
       "artists": [
         {
-          "name": "Tanmay Deochake",
-          "url": "https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR"
+          "name": "Tapas Relia",
+          "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
         },
         {
-          "name": "Ojas Adhiya",
-          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
-        },
-        {
-          "name": "Rahul Wadhwani",
-          "url": "https://open.spotify.com/artist/0SK7RDcRnWovFlBRPeL1aV"
-        },
-        {
-          "name": "Gino Banks",
-          "url": "https://open.spotify.com/artist/2wZjVRal2ABf9OWGiNLUBZ"
-        },
-        {
-          "name": "Manaskumar",
-          "url": "https://open.spotify.com/artist/12k2tiAAfjlofwMhqnpZvA"
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
         }
       ],
-      "duration_ms": 536487,
-      "name": "VIHAR",
-      "url": "https://open.spotify.com/track/5g4nywaf2qGoY8J5iGvkyw"
+      "duration_ms": 201230,
+      "name": "Piya Padh Lena",
+      "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -919,38 +907,34 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
-        "name": "Goldfish (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
+        "name": "VIHAR",
+        "url": "https://open.spotify.com/album/2bRXMyMM97uGP308LUnW8s"
       },
       "artists": [
         {
-          "name": "Tapas Relia",
-          "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
+          "name": "Tanmay Deochake",
+          "url": "https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR"
         },
         {
-          "name": "Pratibha Singh Baghel",
-          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Piya Padh Lena",
-      "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
-    },
-    {
-      "added_at": "2026-05-13 11:22:05",
-      "album": {
-        "name": "Vari",
-        "url": "https://open.spotify.com/album/0yP0Y5UeIqn0PaMMczQVtI"
-      },
-      "artists": [
+          "name": "Ojas Adhiya",
+          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
+        },
         {
-          "name": "Varijashree Venugopal",
-          "url": "https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i"
+          "name": "Rahul Wadhwani",
+          "url": "https://open.spotify.com/artist/0SK7RDcRnWovFlBRPeL1aV"
+        },
+        {
+          "name": "Gino Banks",
+          "url": "https://open.spotify.com/artist/2wZjVRal2ABf9OWGiNLUBZ"
+        },
+        {
+          "name": "Manaskumar",
+          "url": "https://open.spotify.com/artist/12k2tiAAfjlofwMhqnpZvA"
         }
       ],
-      "duration_ms": 224225,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/52JCzatsNXrdTo5UvjA7Tp"
+      "duration_ms": 536487,
+      "name": "VIHAR",
+      "url": "https://open.spotify.com/track/5g4nywaf2qGoY8J5iGvkyw"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -987,22 +971,34 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
-        "name": "Tum Chatur Sughar",
-        "url": "https://open.spotify.com/album/1NiNbmVjuaQhb706ijfhEC"
+        "name": "Vari",
+        "url": "https://open.spotify.com/album/0yP0Y5UeIqn0PaMMczQVtI"
       },
       "artists": [
         {
-          "name": "Tanmay Deochake",
-          "url": "https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR"
-        },
-        {
-          "name": "Sharayu Date",
-          "url": "https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC"
+          "name": "Varijashree Venugopal",
+          "url": "https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Tum Chatur Sughar",
-      "url": "https://open.spotify.com/track/7adVzyJYNEWRbMokWBUpE1"
+      "duration_ms": 224225,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/52JCzatsNXrdTo5UvjA7Tp"
+    },
+    {
+      "added_at": "2026-05-13 11:22:05",
+      "album": {
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+      },
+      "artists": [
+        {
+          "name": "Shubha Mudgal",
+          "url": "https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk"
+        }
+      ],
+      "duration_ms": 355266,
+      "name": "Seekho Na",
+      "url": "https://open.spotify.com/track/1Ar5Yq6mg57nt6w5vgiUgu"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
-        "name": "Classic Love",
-        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+        "name": "Tum Chatur Sughar",
+        "url": "https://open.spotify.com/album/1NiNbmVjuaQhb706ijfhEC"
       },
       "artists": [
         {
-          "name": "Shubha Mudgal",
-          "url": "https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk"
+          "name": "Tanmay Deochake",
+          "url": "https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR"
+        },
+        {
+          "name": "Sharayu Date",
+          "url": "https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC"
         }
       ],
-      "duration_ms": 355266,
-      "name": "Seekho Na",
-      "url": "https://open.spotify.com/track/1Ar5Yq6mg57nt6w5vgiUgu"
+      "duration_ms": 264000,
+      "name": "Tum Chatur Sughar",
+      "url": "https://open.spotify.com/track/7adVzyJYNEWRbMokWBUpE1"
     },
     {
       "added_at": "2026-05-13 11:22:05",

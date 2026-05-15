@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-485 songs - 1 day 1 hr 28 min
+486 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Can I Call You in the Morning?](https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Can I Call You in the Morning?](https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU) | 2:52 | 2025-08-31 | 2025-09-22 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-30 |  |
 | [Car Park](https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lifetime of Wanting](https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS) | 3:04 | 2023-09-04 | 2023-09-11 |
-| [Carry On](https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 2:49 | 2025-11-10 |  |
+| [Carry On](https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 2:49 | 2025-11-10 | 2026-05-15 |
 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 | 2022-12-06 | 2022-12-13 |
 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-01-23 | 2023-02-01 |
 | [Chew On My Heart](https://open.spotify.com/track/6t7089pe4VklogK683LdPM) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart](https://open.spotify.com/album/35CBeD16aEGo0xnm5ov6pM) | 3:15 | 2022-06-06 | 2022-07-29 |
@@ -466,6 +466,7 @@
 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2022-09-12 | 2022-09-20 |
 | [Wait For You](https://open.spotify.com/track/0NZvn9BwjmFVcVkOiaEObS) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Wait For You](https://open.spotify.com/album/1g8TrWPCzdTW6VuXWhuVSo) | 2:55 | 2024-04-15 | 2024-04-22 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-07-01 |  |
+| [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2026-02-15 |  |
 | [We'll be fine \- English Version](https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [We'll be fine \(English Version\)](https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi) | 3:17 | 2022-06-06 | 2022-07-29 |
 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2022-07-25 |  |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-06-06 |  |

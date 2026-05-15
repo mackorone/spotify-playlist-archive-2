@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 171222,
+  "num_followers": 171229,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -563,46 +563,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "DURO",
-        "url": "https://open.spotify.com/album/7s3uEJa4VwAiij9v3N0DMW"
-      },
-      "artists": [
-        {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "DURO",
-      "url": "https://open.spotify.com/track/7D2pw1k24KdVVRkD2RzXoV"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "LOVELANGUAGE",
-        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "LOVELANGUAGE",
-      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "TOMORROWLAND",
         "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
       },
@@ -623,6 +583,46 @@
       "duration_ms": 185511,
       "name": "TOMORROWLAND",
       "url": "https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "LOVELANGUAGE",
+        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "LOVELANGUAGE",
+      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/7s3uEJa4VwAiij9v3N0DMW"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/7D2pw1k24KdVVRkD2RzXoV"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/5RmsoBvb9J2pFUJpLOG1eN"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "Plural Siendo Singular",
+      "url": "https://open.spotify.com/track/13vs8iIpPs7E625qGqgpUm"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "CUANDO NADIE LA VE",
         "url": "https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 146417,
       "name": "CUANDO NADIE LA VE",
       "url": "https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/5RmsoBvb9J2pFUJpLOG1eN"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "Plural Siendo Singular",
-      "url": "https://open.spotify.com/track/13vs8iIpPs7E625qGqgpUm"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Megalodon",
-        "url": "https://open.spotify.com/album/1mqpNirCBGzTo53xKIb9fu"
-      },
-      "artists": [
-        {
-          "name": "Dazoner",
-          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
-        }
-      ],
-      "duration_ms": 141030,
-      "name": "El Greench",
-      "url": "https://open.spotify.com/track/3ERzlxM1CKMUjYb2RGQF6S"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Alucina2",
         "url": "https://open.spotify.com/album/3ZNQvcoa9WX9HTgUxeQI1o"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/4L0ezHukewSynWMb37L2PO"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Megalodon",
+        "url": "https://open.spotify.com/album/1mqpNirCBGzTo53xKIb9fu"
+      },
+      "artists": [
+        {
+          "name": "Dazoner",
+          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "El Greench",
+      "url": "https://open.spotify.com/track/3ERzlxM1CKMUjYb2RGQF6S"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "A La PM Puse En Alto",
-        "url": "https://open.spotify.com/album/7JMd6WQhu41hgPGNsktSax"
-      },
-      "artists": [
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 261809,
-      "name": "A La PM Puse En Alto",
-      "url": "https://open.spotify.com/track/6SxEw6xmkOhO2BgF6fnm0K"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Venimi",
         "url": "https://open.spotify.com/album/4dnFRlboe1Wj7k2AeE50pp"
       },
@@ -2011,22 +1995,6 @@
       "duration_ms": 224790,
       "name": "alguien +",
       "url": "https://open.spotify.com/track/3wK98tIawh2nKwk40k2TXB"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Adios",
-        "url": "https://open.spotify.com/album/7tgREtNFckExy20QnRUJpF"
-      },
-      "artists": [
-        {
-          "name": "La Marlu",
-          "url": "https://open.spotify.com/artist/6jE6nnMPk3FSA9RBHxYks3"
-        }
-      ],
-      "duration_ms": 204107,
-      "name": "Adios",
-      "url": "https://open.spotify.com/track/6fkxCIVDhGYuQfZO6f4PtW"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2083,6 +2051,38 @@
       "duration_ms": 237333,
       "name": "Gitana (feat. Jeis, Pao Alvarado & Charly Romero)",
       "url": "https://open.spotify.com/track/36sCyXGpgGVkiPaTObxvVT"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Adios",
+        "url": "https://open.spotify.com/album/7tgREtNFckExy20QnRUJpF"
+      },
+      "artists": [
+        {
+          "name": "La Marlu",
+          "url": "https://open.spotify.com/artist/6jE6nnMPk3FSA9RBHxYks3"
+        }
+      ],
+      "duration_ms": 204107,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/6fkxCIVDhGYuQfZO6f4PtW"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "A La PM Puse En Alto",
+        "url": "https://open.spotify.com/album/7JMd6WQhu41hgPGNsktSax"
+      },
+      "artists": [
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "duration_ms": 261809,
+      "name": "A La PM Puse En Alto",
+      "url": "https://open.spotify.com/track/6SxEw6xmkOhO2BgF6fnm0K"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Nitrocumbia",
-        "url": "https://open.spotify.com/album/4vDymKr8UcyvMaaZOGELy3"
-      },
-      "artists": [
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Nitrocumbia",
-      "url": "https://open.spotify.com/track/5Ub2ljGAxC1ZWZ4IxAZRKa"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Vive Cumbia",
         "url": "https://open.spotify.com/album/4rJYfaZvpbKxuzALlHJfhZ"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 218693,
       "name": "Se Nos Muri\u00f3 el Amor",
       "url": "https://open.spotify.com/track/5ijOMu6ML6oI8pOi5YedLq"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Nitrocumbia",
+        "url": "https://open.spotify.com/album/4vDymKr8UcyvMaaZOGELy3"
+      },
+      "artists": [
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Nitrocumbia",
+      "url": "https://open.spotify.com/track/5Ub2ljGAxC1ZWZ4IxAZRKa"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2423,26 +2423,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "NECIA",
-        "url": "https://open.spotify.com/album/3UkGnHED6tOV5fKgWCPBOX"
-      },
-      "artists": [
-        {
-          "name": "Sahir Montoya",
-          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
-        },
-        {
-          "name": "Estevan Plazola",
-          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
-        }
-      ],
-      "duration_ms": 183607,
-      "name": "NECIA",
-      "url": "https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "A Gozar",
         "url": "https://open.spotify.com/album/4ZN8AOjAkMnIlEqd0Fav9u"
       },
@@ -2467,6 +2447,26 @@
       "duration_ms": 150591,
       "name": "A Gozar",
       "url": "https://open.spotify.com/track/2i7sKsVOXtrhBdQGMWNTcp"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "NECIA",
+        "url": "https://open.spotify.com/album/3UkGnHED6tOV5fKgWCPBOX"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        },
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        }
+      ],
+      "duration_ms": 183607,
+      "name": "NECIA",
+      "url": "https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

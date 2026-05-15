@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: hey, nothing
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,027 likes - 151 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,056 likes - 151 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

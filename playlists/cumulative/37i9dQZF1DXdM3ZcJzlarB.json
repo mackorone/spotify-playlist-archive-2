@@ -3920,7 +3920,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 349090,
       "name": "Lost at 9pm",
       "url": "https://open.spotify.com/track/3rxfxCbXfNWIn2rwFxPdn8"
@@ -4602,7 +4602,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 279858,
       "name": "My Requiem",
       "url": "https://open.spotify.com/track/4AVtGocGEvcMuY0fAX4ePD"
@@ -5818,6 +5818,24 @@
       "duration_ms": 282240,
       "name": "Secret Society",
       "url": "https://open.spotify.com/track/7H7YhNmZgcpAwxfuIc9mGj"
+    },
+    {
+      "album": {
+        "name": "Seek",
+        "url": "https://open.spotify.com/album/63s987VXb56UCNcl0hbCZF"
+      },
+      "artists": [
+        {
+          "name": "Agustin Giri",
+          "url": "https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333333,
+      "name": "Seek",
+      "url": "https://open.spotify.com/track/7GcsNkRat0EsmY85eBvBmt"
     },
     {
       "album": {
@@ -7040,6 +7058,28 @@
       "duration_ms": 332500,
       "name": "Turnin'",
       "url": "https://open.spotify.com/track/36gthjpephERK8Il6W6o5p"
+    },
+    {
+      "album": {
+        "name": "Two Blade Knife",
+        "url": "https://open.spotify.com/album/2joJpUC161x4v5wI5kkV3c"
+      },
+      "artists": [
+        {
+          "name": "Mila Journ\u00e9e",
+          "url": "https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB"
+        },
+        {
+          "name": "Juan Hansen",
+          "url": "https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176190,
+      "name": "Two Blade Knife",
+      "url": "https://open.spotify.com/track/1Z1due2rqBLez3DwH9mW6F"
     },
     {
       "album": {

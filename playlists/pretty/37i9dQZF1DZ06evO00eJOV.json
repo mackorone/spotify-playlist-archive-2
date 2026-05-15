@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADkBfpl2WKTgIuqYR+LRzRa",
+  "snapshot_id": "agO/AAAAAAAR/hjiTNxep8khht8IPAmw",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimme Some Volume",
-        "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 301986,
-      "name": "Matshidiso",
-      "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
+      "duration_ms": 294746,
+      "name": "Monate",
+      "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+        "name": "Gimme Some Volume",
+        "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 294746,
-      "name": "Monate",
-      "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
+      "duration_ms": 301986,
+      "name": "Matshidiso",
+      "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries \ud83e\ude90\ncover: beabadoobee",
+  "description": "a playlist without boundaries \ud83e\ude90\ncover: Paris Paloma",
   "name": "Our Generation",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5t5Y97MUjjhE5gKDTIfPVK"
+    },
+    {
+      "album": {
+        "name": "+deriva",
+        "url": "https://open.spotify.com/album/2VRNcYjJfKqk9yAImvgpCY"
+      },
+      "artists": [
+        {
+          "name": "plusamari",
+          "url": "https://open.spotify.com/artist/7aBsay1LwiX89GuowSd15N"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175304,
+      "name": "+new strangers",
+      "url": "https://open.spotify.com/track/6snObK4c5mYNC0obf5J2VC"
     },
     {
       "album": {
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 174945,
       "name": "Birthday Makeup",
       "url": "https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd"
@@ -3730,6 +3748,24 @@
       "duration_ms": 207348,
       "name": "Dark Arts",
       "url": "https://open.spotify.com/track/5q8lO9GDY33DvVH4gkkPNa"
+    },
+    {
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/2x8RBnasrwFI2F9DS3uG3a"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214348,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/1Xl7BcVmwEW6FpnnIAFGJm"
     },
     {
       "album": {
@@ -6541,6 +6577,28 @@
     },
     {
       "album": {
+        "name": "Hardy (feat. Clairo)",
+        "url": "https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233160,
+      "name": "Hardy (feat. Clairo)",
+      "url": "https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy"
+    },
+    {
+      "album": {
         "name": "Harpy Hare",
         "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
       },
@@ -6884,6 +6942,24 @@
       "duration_ms": 205335,
       "name": "Hit Me Where It Hurts",
       "url": "https://open.spotify.com/track/2kEkIOoKTB6I9wkMnyH11K"
+    },
+    {
+      "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
       "album": {
@@ -7512,7 +7588,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 205500,
       "name": "I Hope You Don't Remember Me",
       "url": "https://open.spotify.com/track/0H1iIWraMgzBMIQglJQXvJ"
@@ -9092,6 +9168,24 @@
       "duration_ms": 134117,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
+    },
+    {
+      "album": {
+        "name": "XY",
+        "url": "https://open.spotify.com/album/1yiVOuCt6cgP6lHVNALOrV"
+      },
+      "artists": [
+        {
+          "name": "PIXY",
+          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/4ZjAfdKKRfibE5gVDkDCWs"
     },
     {
       "album": {
@@ -13293,6 +13387,24 @@
     },
     {
       "album": {
+        "name": "sex dreams do cum tru",
+        "url": "https://open.spotify.com/album/5YzxSH4ctA14VlbzNKmrAP"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202311,
+      "name": "sex dreams do cum tru",
+      "url": "https://open.spotify.com/track/3OuiIicHPLEpTHKmc8Cw7q"
+    },
+    {
+      "album": {
         "name": "Sex, Drugs & Existential Dread",
         "url": "https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0"
       },
@@ -14345,6 +14457,24 @@
     },
     {
       "album": {
+        "name": "STATIC SHOCK",
+        "url": "https://open.spotify.com/album/0zjic09LaCwBkHRqwykc7p"
+      },
+      "artists": [
+        {
+          "name": "charlieeeee",
+          "url": "https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148161,
+      "name": "STATIC SHOCK",
+      "url": "https://open.spotify.com/track/38yhK4zLBGBVOsY3e9qhG5"
+    },
+    {
+      "album": {
         "name": "Applesauce",
         "url": "https://open.spotify.com/album/3OBdKoFtSsBVqk7UDWH2M0"
       },
@@ -14876,6 +15006,24 @@
       "duration_ms": 169361,
       "name": "superstar",
       "url": "https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1"
+    },
+    {
+      "album": {
+        "name": "Surprise Surprise",
+        "url": "https://open.spotify.com/album/7jyW62gM9VNH5NVd3XkfZA"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175005,
+      "name": "Surprise Surprise",
+      "url": "https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9"
     },
     {
       "album": {
@@ -15694,7 +15842,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 136093,
       "name": "Til95",
       "url": "https://open.spotify.com/track/6RhMNlG85piPym1au9zWTZ"
@@ -17248,6 +17396,24 @@
       "duration_ms": 189979,
       "name": "Wishbone",
       "url": "https://open.spotify.com/track/5aePgIIbf22kK811gBksW9"
+    },
+    {
+      "album": {
+        "name": "Word Vomit",
+        "url": "https://open.spotify.com/album/4f675l51sEciftAWInTtKB"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166439,
+      "name": "Word Vomit",
+      "url": "https://open.spotify.com/track/29XRcFuqT5quAetizfP8d4"
     },
     {
       "album": {

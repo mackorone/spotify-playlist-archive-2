@@ -1,13 +1,29 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Andien",
-  "num_followers": 14218,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: BLINGOUTKID",
+  "num_followers": 14221,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGZyzMUZZN4aGV1IoaEEPemd2rlk",
+  "snapshot_id": "AAAAAMJLJKBTfrehgDwcp6KwyhYl+8+l",
   "tracks": [
+    {
+      "added_at": "2026-05-14 18:00:04",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/74fAfgfs0k8X2RevURKI0k"
+      },
+      "artists": [
+        {
+          "name": "BLINGOUTKID",
+          "url": "https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/7KFkkuf3MMd6DM9yBNmcZT"
+    },
     {
       "added_at": "2026-05-07 18:00:21",
       "album": {

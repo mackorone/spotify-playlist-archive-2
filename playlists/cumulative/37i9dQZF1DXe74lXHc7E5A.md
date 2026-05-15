@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Blaqbonez
 
-639 songs - 1 day 7 hr 55 min
+640 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 | 2024-03-15 | 2024-09-10 |
 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-07-28 | 2023-08-08 |
 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 | 2023-12-22 | 2024-07-05 |
-| [ESCAPE PLAN](https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [ESCAPE PLAN](https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT) | 2:28 | 2025-06-27 |  |
+| [ESCAPE PLAN](https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [ESCAPE PLAN](https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT) | 2:28 | 2025-06-27 | 2026-05-15 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-03 | 2024-08-02 |
 | [Everlasting Taker](https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Everlasting Taker](https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6) | 1:58 | 2025-08-22 |  |
 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 | 2022-07-27 | 2023-02-11 |
@@ -304,6 +304,7 @@
 | [INTERMISSION](https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [INTERMISSION](https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7) | 2:48 | 2023-03-30 | 2023-04-15 |
 | [Is This Love \('09\) \(feat\. 50 Cent\)](https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtain Call 2](https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n) | 3:32 | 2022-08-05 | 2022-09-24 |
 | [ISAKABA MAN \(with Rondodasosa\)](https://open.spotify.com/track/0kYm6ZRybLfuybS4mQRBAN) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 3:21 | 2025-04-04 | 2025-06-20 |
+| [Ise Oluwa](https://open.spotify.com/track/640JNqmCoELpUVGPGZ1OeV) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Ise Oluwa](https://open.spotify.com/album/5CPCGLYsm34DMldgedz6de) | 2:14 | 2026-05-15 |  |
 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 | 2023-09-29 | 2023-10-13 |
 | [IT AIN'T SAFE \(feat\. Nardo Wick & Kodak Black\)](https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:50 | 2022-08-26 | 2022-09-24 |
 | [It Is What It Is](https://open.spotify.com/track/56Tn1NezPK8I82vgZ38FzR) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [It Is What It Is](https://open.spotify.com/album/4Kf53rJMirogBxNIDzQVSe) | 2:39 | 2025-04-04 | 2025-05-30 |

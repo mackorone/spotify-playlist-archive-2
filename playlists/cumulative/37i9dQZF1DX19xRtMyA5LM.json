@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 226344,
       "name": "150 Kop",
       "url": "https://open.spotify.com/track/5bM31fX0c5gSURvi69Kgje"
@@ -391,6 +391,28 @@
     },
     {
       "album": {
+        "name": "Achtervolging",
+        "url": "https://open.spotify.com/album/5HIsuwqQKlXCk0xb3qIBSi"
+      },
+      "artists": [
+        {
+          "name": "Sam J'taime",
+          "url": "https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh"
+        },
+        {
+          "name": "FFRAGEZEICHEN",
+          "url": "https://open.spotify.com/artist/5sgF2eX98WWNADz4USyKiX"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138595,
+      "name": "Achtervolging",
+      "url": "https://open.spotify.com/track/454rxkANmheTNT4VT9G6nX"
+    },
+    {
+      "album": {
         "name": "Af En Toe",
         "url": "https://open.spotify.com/album/0AgL090JXM8vnwccThYTy8"
       },
@@ -582,7 +604,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 189374,
       "name": "Ambassade",
       "url": "https://open.spotify.com/track/3YoaeRrMo9u4jDWcBDyUJu"
@@ -644,6 +666,24 @@
       "duration_ms": 117805,
       "name": "Annie",
       "url": "https://open.spotify.com/track/61zWhf6RKGGXcIONwtmMsK"
+    },
+    {
+      "album": {
+        "name": "APPLE WATCH",
+        "url": "https://open.spotify.com/album/1SzU7cYlTKGhpNKFcShSeT"
+      },
+      "artists": [
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150162,
+      "name": "APPLE WATCH",
+      "url": "https://open.spotify.com/track/0q3D0FlBgp7vdMErL6wt0J"
     },
     {
       "album": {
@@ -1025,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Ben je dom?",
+        "url": "https://open.spotify.com/album/683rXVkEbHarFpnbjEvN7D"
+      },
+      "artists": [
+        {
+          "name": "D-Double",
+          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171081,
+      "name": "Ben je dom?",
+      "url": "https://open.spotify.com/track/6heB9e8RyXvmQpKZEs3x87"
+    },
+    {
+      "album": {
         "name": "BEN JE DOM?!",
         "url": "https://open.spotify.com/album/0ZDbBUhewSBhxO7ekYoG94"
       },
@@ -1084,7 +1142,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 151160,
       "name": "Big Fish",
       "url": "https://open.spotify.com/track/6tzURsalrw2yun8CiboXk7"
@@ -1460,6 +1518,28 @@
       "duration_ms": 127690,
       "name": "CARLOS",
       "url": "https://open.spotify.com/track/4TO2Vla9yVPmshcO2aRAAC"
+    },
+    {
+      "album": {
+        "name": "Chain",
+        "url": "https://open.spotify.com/album/5gsJwLoXPhgngGBTYiskJM"
+      },
+      "artists": [
+        {
+          "name": "YVES",
+          "url": "https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ"
+        },
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "Chain",
+      "url": "https://open.spotify.com/track/3e7cxssFrV847TSd57Zca3"
     },
     {
       "album": {
@@ -3114,14 +3194,14 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 160000,
       "name": "Hans Kazan",
       "url": "https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun"
     },
     {
       "album": {
-        "name": "Hanz Kazan",
+        "name": "Hans Kazan",
         "url": "https://open.spotify.com/album/0y6RO57aYva65mN3l6E3aZ"
       },
       "artists": [
@@ -3286,7 +3366,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 142978,
       "name": "Headshots",
       "url": "https://open.spotify.com/track/4chZIaQQmDMkdURoJotQFF"
@@ -3682,7 +3762,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 156631,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/6z7QPblgmq6HOhuoYEtBZW"
@@ -4731,6 +4811,24 @@
     },
     {
       "album": {
+        "name": "Lyca & Slammers",
+        "url": "https://open.spotify.com/album/6vaLcRaqbe90A4GdLMO9Yf"
+      },
+      "artists": [
+        {
+          "name": "SKEEKS",
+          "url": "https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148222,
+      "name": "Lyca & Slammers",
+      "url": "https://open.spotify.com/track/1TCvXAJ0PZAimDMi6hyFvv"
+    },
+    {
+      "album": {
         "name": "De Ene Hand Wast De Ander (Deluxe)",
         "url": "https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5"
       },
@@ -4760,7 +4858,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 100465,
       "name": "Maandag",
       "url": "https://open.spotify.com/track/2DIsaYyACYgf2Svj7EDXyq"
@@ -5537,6 +5635,24 @@
     },
     {
       "album": {
+        "name": "Rode Kaart",
+        "url": "https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174179,
+      "name": "Netflix",
+      "url": "https://open.spotify.com/track/0Xc9gBpLrCbDWM8YdnBaY1"
+    },
+    {
+      "album": {
         "name": "Netvlies",
         "url": "https://open.spotify.com/album/1N08jfMlRLXRijddi54kkQ"
       },
@@ -6094,6 +6210,36 @@
       "duration_ms": 167199,
       "name": "OPPBOTS",
       "url": "https://open.spotify.com/track/6TYJ9Ilq5TEIKCcIwXDbAI"
+    },
+    {
+      "album": {
+        "name": "OPTIMA FORMA",
+        "url": "https://open.spotify.com/album/1d8RbiyXEhtcYPgnpDZF7Y"
+      },
+      "artists": [
+        {
+          "name": "RADIO Z",
+          "url": "https://open.spotify.com/artist/2YKf3owzYnZlcecKmQCgob"
+        },
+        {
+          "name": "Ray Fuego",
+          "url": "https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U"
+        },
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        },
+        {
+          "name": "Kabul $lim",
+          "url": "https://open.spotify.com/artist/6KPpLyARdAWIxznl7tkoyD"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173091,
+      "name": "OPTIMA FORMA",
+      "url": "https://open.spotify.com/track/5g0ltT0GczODNj4YPfMsHP"
     },
     {
       "album": {
@@ -6790,7 +6936,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140000,
       "name": "PUTANA",
       "url": "https://open.spotify.com/track/4lWgY018cs58i8J7glmkEH"

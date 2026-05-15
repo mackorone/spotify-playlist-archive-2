@@ -2019,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/6ibaF5HoVpDJZttiCxAcSi"
+      },
+      "artists": [
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136460,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/66EnQA0itg9MoeWg4UnhTr"
+    },
+    {
+      "album": {
         "name": "Bianu Sorom",
         "url": "https://open.spotify.com/album/0TPwjoGDzhYPScSnecgNDY"
       },
@@ -3064,7 +3082,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 133333,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
@@ -3494,6 +3512,24 @@
       "duration_ms": 162893,
       "name": "Count My Blessings",
       "url": "https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L"
+    },
+    {
+      "album": {
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/3qSdKF7RuqPi7q8kLUgmFb"
+      },
+      "artists": [
+        {
+          "name": "Petra Odubayo",
+          "url": "https://open.spotify.com/artist/1sL3aemHcqUxh1UIrGkYIA"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356000,
+      "name": "Count Your Blessings",
+      "url": "https://open.spotify.com/track/4px2IwQ5OVSdTTeo4hzHYV"
     },
     {
       "album": {
@@ -3984,7 +4020,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 160551,
       "name": "DATIEMO",
       "url": "https://open.spotify.com/track/3gmbhDHaD0y6TOmE0mkcbj"
@@ -4506,7 +4542,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 145615,
       "name": "Ekele (Thank You)",
       "url": "https://open.spotify.com/track/2yHAk6q2S0xol1xxYo2P72"
@@ -8650,7 +8686,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 164047,
       "name": "IMOLE - II",
       "url": "https://open.spotify.com/track/0whLg5l1zHr88DSIkClepW"
@@ -9949,6 +9985,32 @@
     },
     {
       "album": {
+        "name": "Light of the World",
+        "url": "https://open.spotify.com/album/2AiocbPntbH30SXnX8rq9q"
+      },
+      "artists": [
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        },
+        {
+          "name": "Sammy Sas",
+          "url": "https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123895,
+      "name": "Light of the World",
+      "url": "https://open.spotify.com/track/1DmDFKRHIdH1g9mLO18dkq"
+    },
+    {
+      "album": {
         "name": "Light Of The World (Live)",
         "url": "https://open.spotify.com/album/6SzntBREccSSWqtX90xg8d"
       },
@@ -10136,6 +10198,32 @@
       "duration_ms": 205333,
       "name": "Lost",
       "url": "https://open.spotify.com/track/0eFv5lJ5Xz0OQCz2UYgn6O"
+    },
+    {
+      "album": {
+        "name": "HEALING STREAMS",
+        "url": "https://open.spotify.com/album/36XyxwnJyp6iq1qf27XcDz"
+      },
+      "artists": [
+        {
+          "name": "Same OG",
+          "url": "https://open.spotify.com/artist/76h9OBfmrRBZI5R4PA3r6i"
+        },
+        {
+          "name": "David Nkennor",
+          "url": "https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN"
+        },
+        {
+          "name": "Henrisoul",
+          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266657,
+      "name": "LOUD",
+      "url": "https://open.spotify.com/track/3jhKmcPfx0TAexrvNCCiMG"
     },
     {
       "album": {
@@ -10632,7 +10720,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 394634,
       "name": "Mbalenhle\u2019s Prayer",
       "url": "https://open.spotify.com/track/24AdQhBM0cy194JyjouRJ2"
@@ -11106,7 +11194,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 200000,
       "name": "Moja",
       "url": "https://open.spotify.com/track/6q3P3cfcEJHqNiPk01xH31"
@@ -12336,7 +12424,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 181440,
       "name": "No Man Dare",
       "url": "https://open.spotify.com/track/4sdffkRaBSsec5AARs5Vrd"
@@ -13017,6 +13105,54 @@
     },
     {
       "album": {
+        "name": "Oh My Soul",
+        "url": "https://open.spotify.com/album/0kCQtj3r882jtLDX7TvxUy"
+      },
+      "artists": [
+        {
+          "name": "Godfrey Gad",
+          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
+        },
+        {
+          "name": "Sound Of Salem",
+          "url": "https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I"
+        },
+        {
+          "name": "Pst. Oche Ogebe",
+          "url": "https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172714,
+      "name": "Oh My Soul",
+      "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
+    },
+    {
+      "album": {
+        "name": "Oh Oluwa",
+        "url": "https://open.spotify.com/album/512VWUjWzWBtMNlGYzyiS7"
+      },
+      "artists": [
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        },
+        {
+          "name": "Monique",
+          "url": "https://open.spotify.com/artist/183yuYxGCyhROvuEpTPdfk"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154218,
+      "name": "Oh Oluwa",
+      "url": "https://open.spotify.com/track/2zOB1fjp9I0MOSetSoi49i"
+    },
+    {
+      "album": {
         "name": "Oh One (Freestyle)",
         "url": "https://open.spotify.com/album/5JXVlnYe3UbHc07SQ0F0t7"
       },
@@ -13032,7 +13168,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 186542,
       "name": "Oh One - Freestyle",
       "url": "https://open.spotify.com/track/1KR8psRrqKAYmUCOjRxlTg"
@@ -13538,7 +13674,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 178536,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/2jBPRbWwqroyQ2bKmgdmhy"
@@ -14002,6 +14138,28 @@
       "duration_ms": 201691,
       "name": "OVER DO (feat. AMERADO) [Remix]",
       "url": "https://open.spotify.com/track/5ZihPaQYouHULw8wMPKDUb"
+    },
+    {
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/1MaVkWlpWmmimMyT9kkigY"
+      },
+      "artists": [
+        {
+          "name": "Israel the creator",
+          "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
+        },
+        {
+          "name": "Jerrywine",
+          "url": "https://open.spotify.com/artist/4nw6sgVNWtJA3wiMHEaXYG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/7dbtuzwX5J0jUBtUrimuHA"
     },
     {
       "album": {
@@ -14966,7 +15124,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 228349,
       "name": "Protocol Breaker",
       "url": "https://open.spotify.com/track/28G8vBuZw2k4Uilnn6xoEJ"
@@ -19494,7 +19652,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 185945,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/6VDhWqHgYFJQkWC8X6GwEl"
@@ -19556,7 +19714,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 163000,
       "name": "Yesu",
       "url": "https://open.spotify.com/track/53LjxInfWogTWJyCDaRhem"

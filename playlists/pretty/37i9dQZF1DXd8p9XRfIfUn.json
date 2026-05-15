@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81080,
+  "num_followers": 81083,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "La del Tik Tok",
+        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 257592,
+      "name": "La del Tik Tok",
+      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
         "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 181894,
       "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
       "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "La del Tik Tok",
-        "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 257592,
-      "name": "La del Tik Tok",
-      "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Que Loco Mami",
-        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        }
-      ],
-      "duration_ms": 176629,
-      "name": "Que Loco Mami",
-      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Nada Formal",
         "url": "https://open.spotify.com/album/27e20XRLAglZv8waxqEeWz"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 269306,
       "name": "Nada Formal",
       "url": "https://open.spotify.com/track/5kvlGR3K69Hk3a3DwfJQED"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Que Loco Mami",
+        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "duration_ms": 176629,
+      "name": "Que Loco Mami",
+      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "BILLETES EN EL AIRE",
-        "url": "https://open.spotify.com/album/5pK6B9GBLyf0CHpK5StNPe"
+        "name": "POPPER!",
+        "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
         },
         {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/4GVsXuFOY9WJmgnmq5RVoh"
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         }
       ],
-      "duration_ms": 182070,
-      "name": "BILLETES EN EL AIRE",
-      "url": "https://open.spotify.com/track/5k0e2dhXqfqCg50JwRY31Y"
+      "duration_ms": 110141,
+      "name": "POPPER!",
+      "url": "https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "POPPER!",
-        "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
+        "name": "Manzana",
+        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
       },
       "artists": [
         {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 110141,
-      "name": "POPPER!",
-      "url": "https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O"
+      "duration_ms": 173936,
+      "name": "Manzana",
+      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Manzana",
-        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
+        "name": "BILLETES EN EL AIRE",
+        "url": "https://open.spotify.com/album/5pK6B9GBLyf0CHpK5StNPe"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/4GVsXuFOY9WJmgnmq5RVoh"
         }
       ],
-      "duration_ms": 173936,
-      "name": "Manzana",
-      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
+      "duration_ms": 182070,
+      "name": "BILLETES EN EL AIRE",
+      "url": "https://open.spotify.com/track/5k0e2dhXqfqCg50JwRY31Y"
     },
     {
       "added_at": "2025-09-18 23:00:14",

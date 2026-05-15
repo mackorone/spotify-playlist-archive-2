@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,659 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,655 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 11 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 |
 | 12 | [Chloroform](https://open.spotify.com/track/0LucKGxWYkj2d0SHdx2WBh) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 4:04 |
 | 13 | [Fences](https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1) | 3:44 |
-| 14 | [UFO](https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx) | [UFOs](https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [UFO](https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C) | 4:33 |
-| 15 | [J\-Boy](https://open.spotify.com/track/57tOzus76E38NNNkNp1lnq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 4:07 |
+| 14 | [J\-Boy](https://open.spotify.com/track/57tOzus76E38NNNkNp1lnq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 4:07 |
+| 15 | [UFO](https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx) | [UFOs](https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [UFO](https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C) | 4:33 |
 | 16 | [One Time Too Many](https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:40 |
 | 17 | [Girlfriend](https://open.spotify.com/track/6Z8I9zzJb5WCAJkz6qBo7k) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1) | 3:24 |
 | 18 | [Artefact \(feat\. León Larregui\)](https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Artefact \(feat\. León Larregui\)](https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 49 | [Honeymoon](https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 5:00 |
 | 50 | [Definitive Breaks](https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 1:40 |
 
-Snapshot ID: `agJtgAAAAABfU3xZvQFCW4vk3EHwjNQu`
+Snapshot ID: `agO/AAAAAABHgLfjg8IvJbeYTd3JsWwG`

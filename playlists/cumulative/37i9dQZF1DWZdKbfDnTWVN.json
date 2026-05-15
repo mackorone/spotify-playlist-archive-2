@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=bwxFNSQ_QcuacRy0nrEU3A\"> Khaligraph Jones</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ?si=1ks8jsdKTNKHVTC78WiC2Q\"> Jovie Jovv</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -3603,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "House Affairs",
+        "url": "https://open.spotify.com/album/6iNvJMo6jPfnqF5Kpm6mW0"
+      },
+      "artists": [
+        {
+          "name": "Richie Gathu",
+          "url": "https://open.spotify.com/artist/1bOJ3iI7pYFIOk9a2cYUsK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "House Affairs",
+      "url": "https://open.spotify.com/track/4q78gKfhWQHR7js12jHJ89"
+    },
+    {
+      "album": {
         "name": "Hujaniacha",
         "url": "https://open.spotify.com/album/6pkBbblUXg89PNv5BLJyt9"
       },
@@ -5405,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4bcTonPKPTjHHLrHPIfvM8"
+      },
+      "artists": [
+        {
+          "name": "Storyteller Sam",
+          "url": "https://open.spotify.com/artist/2fPoc0IkxF7Y64uDy1O99x"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167231,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/6BesAhUSMdFGDB2JfNJsCR"
+    },
+    {
+      "album": {
         "name": "Mama We Made It",
         "url": "https://open.spotify.com/album/0dgpBAaxZypoormj2fkGWW"
       },
@@ -5786,7 +5822,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 280800,
       "name": "Mjanja Mjini",
       "url": "https://open.spotify.com/track/5LpEdN7lVszRk6ERt6Mkd1"
@@ -9586,6 +9622,24 @@
       "duration_ms": 132685,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/0KeypJHo1vNcEUR5cQSBHz"
+    },
+    {
+      "album": {
+        "name": "Street Mathematics",
+        "url": "https://open.spotify.com/album/4yrgJMdk4vpvYIFN3NABDL"
+      },
+      "artists": [
+        {
+          "name": "Jovie Jovv",
+          "url": "https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/4gsJE7EY6Ugolq6ObjsmMS"
     },
     {
       "album": {

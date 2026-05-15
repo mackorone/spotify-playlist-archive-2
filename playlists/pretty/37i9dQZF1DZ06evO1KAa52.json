@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 668076,
+  "num_followers": 668096,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAD0iwOGQXKQqQTSAIILykc7",
+  "snapshot_id": "agO/AAAAAABscotDNJQs9OKR77u1hRa8",
   "tracks": [
     {
       "added_at": null,
@@ -896,16 +896,16 @@
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         },
         {
           "name": "Anna Kendrick",
           "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         },
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
           "name": "Eric Andre",
@@ -918,15 +918,11 @@
         {
           "name": "Kid Cudi",
           "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 217266,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/3uAPRSXcJo3kgdFWAQjy1R"
+      "duration_ms": 219133,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/72o9sWkvAIJAtOs1WoVhNN"
     },
     {
       "added_at": null,
@@ -1008,16 +1004,16 @@
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
           "name": "Anna Kendrick",
           "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         },
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         },
         {
           "name": "Eric Andre",
@@ -1030,11 +1026,15 @@
         {
           "name": "Kid Cudi",
           "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 219133,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/72o9sWkvAIJAtOs1WoVhNN"
+      "duration_ms": 217266,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/3uAPRSXcJo3kgdFWAQjy1R"
     },
     {
       "added_at": null,
@@ -1135,70 +1135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI"
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
       "artists": [
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "James Corden",
-          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Rachel Bloom",
-          "url": "https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY"
-        },
-        {
-          "name": "Kenan Thompson",
-          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
-        },
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        },
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Kunal Nayyar",
-          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
-        },
-        {
-          "name": "Sam Rockwell",
-          "url": "https://open.spotify.com/artist/6WPC3Dc27kiyJ14fZbDXMl"
         }
       ],
-      "duration_ms": 240568,
-      "name": "Just Sing (Trolls World Tour)",
-      "url": "https://open.spotify.com/track/773kKMbHhQGq7LIw3P5Xmy"
+      "duration_ms": 406637,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/79MOydAvZYm8nyyzd6fiVi"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

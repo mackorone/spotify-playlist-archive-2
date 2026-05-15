@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Hollander. The essential tracks, all in one playlist.",
-  "num_followers": 41,
+  "num_followers": 40,
   "original_name": "This Is Celia Hollander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACDjK8s9iVACrFcHuGFuRg/",
+  "snapshot_id": "agO/AAAAAABp/87ysGfbK+7mQn5Z626u",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 153783,
-      "name": "Fire / Earth",
-      "url": "https://open.spotify.com/track/7Kqi570gTIl6oxQQXpwzCd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timekeeper",
         "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 282545,
       "name": "11:01 PM",
       "url": "https://open.spotify.com/track/3TqfeqqdhRhZsGIE37pHSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 153783,
+      "name": "Fire / Earth",
+      "url": "https://open.spotify.com/track/7Kqi570gTIl6oxQQXpwzCd"
     },
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 60534,
-      "name": "Earth / Water",
-      "url": "https://open.spotify.com/track/6vbANraif8b0DaaJI7ELuZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timekeeper",
         "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
       },
@@ -208,9 +192,25 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 198620,
-      "name": "12:55 PM",
-      "url": "https://open.spotify.com/track/2q3F6iTCazDYB4tLqNWUIP"
+      "duration_ms": 97000,
+      "name": "6:33 AM",
+      "url": "https://open.spotify.com/track/0yeDAJ4yH08Y4Cf3SKPn8s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Earth / Earth",
+      "url": "https://open.spotify.com/track/51JXFYjuemyyf0LOYSyJtm"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Air / Water",
-      "url": "https://open.spotify.com/track/0lYFtSLs42bCRf8tN7T7u8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timekeeper",
         "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
       },
@@ -276,45 +260,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 97000,
-      "name": "6:33 AM",
-      "url": "https://open.spotify.com/track/0yeDAJ4yH08Y4Cf3SKPn8s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unexpected Music II",
-        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        },
-        {
-          "name": "Evan Shornstein",
-          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Friendly Glow",
-      "url": "https://open.spotify.com/track/1m7rLMGoH3EIHQhzgAgRFb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2nd Draft",
-        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 218029,
-      "name": "Beginner",
-      "url": "https://open.spotify.com/track/7oUDEfKHRK7fY8WS7ItenO"
+      "duration_ms": 198620,
+      "name": "12:55 PM",
+      "url": "https://open.spotify.com/track/2q3F6iTCazDYB4tLqNWUIP"
     },
     {
       "added_at": null,
@@ -328,25 +276,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 80888,
-      "name": "Air / Air",
-      "url": "https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timekeeper",
-        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 152508,
-      "name": "6:58 PM",
-      "url": "https://open.spotify.com/track/1DtTh0W0xqJuZSS3RsuIAS"
+      "duration_ms": 258000,
+      "name": "Air / Water",
+      "url": "https://open.spotify.com/track/0lYFtSLs42bCRf8tN7T7u8"
     },
     {
       "added_at": null,
@@ -380,25 +312,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 31816,
-      "name": "First Sustain",
-      "url": "https://open.spotify.com/track/5QN78sb8FUoWJffvxiuOKE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Earth / Air",
-      "url": "https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK"
+      "duration_ms": 218029,
+      "name": "Beginner",
+      "url": "https://open.spotify.com/track/7oUDEfKHRK7fY8WS7ItenO"
     },
     {
       "added_at": null,
@@ -415,6 +331,90 @@
       "duration_ms": 74000,
       "name": "1:23 AM",
       "url": "https://open.spotify.com/track/12hd2wt0VMJuurnKaCdALe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 80888,
+      "name": "Air / Air",
+      "url": "https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unexpected Music II",
+        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        },
+        {
+          "name": "Evan Shornstein",
+          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Friendly Glow",
+      "url": "https://open.spotify.com/track/1m7rLMGoH3EIHQhzgAgRFb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2nd Draft",
+        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 31816,
+      "name": "First Sustain",
+      "url": "https://open.spotify.com/track/5QN78sb8FUoWJffvxiuOKE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timekeeper",
+        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "1:17 PM",
+      "url": "https://open.spotify.com/track/7gKej7VfNxa70InVtO8fn3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 60534,
+      "name": "Earth / Water",
+      "url": "https://open.spotify.com/track/6vbANraif8b0DaaJI7ELuZ"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 252857,
-      "name": "Air / Earth",
-      "url": "https://open.spotify.com/track/1gQXtJnmO1w3LCpBATX6RU"
+      "duration_ms": 155294,
+      "name": "Earth / Air",
+      "url": "https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: Modern Woman",
-  "num_followers": 130943,
+  "num_followers": 130950,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,18 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Man On The Moon",
-        "url": "https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb"
+        "name": "We Get By",
+        "url": "https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW"
       },
       "artists": [
         {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ"
+      "duration_ms": 194059,
+      "name": "This Place",
+      "url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "We Get By",
-        "url": "https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW"
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb"
       },
       "artists": [
         {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
         }
       ],
-      "duration_ms": 194059,
-      "name": "This Place",
-      "url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R"
+      "duration_ms": 159000,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Don't Throw Rocks",
-        "url": "https://open.spotify.com/album/6vIgYCy9Q8NkjF3aTTU1n8"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Don't Throw Rocks",
-      "url": "https://open.spotify.com/track/4B31jv3HqAJ3yYDlpo5ZYm"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
       },
@@ -703,22 +687,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Another Round",
-        "url": "https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D"
-      },
-      "artists": [
-        {
-          "name": "The Scratch",
-          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
-        }
-      ],
-      "duration_ms": 307527,
-      "name": "Another Round",
-      "url": "https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Peace Song",
         "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
       },
@@ -731,6 +699,38 @@
       "duration_ms": 190784,
       "name": "Peace Song",
       "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Don't Throw Rocks",
+        "url": "https://open.spotify.com/album/6vIgYCy9Q8NkjF3aTTU1n8"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 181870,
+      "name": "Don't Throw Rocks",
+      "url": "https://open.spotify.com/track/4B31jv3HqAJ3yYDlpo5ZYm"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Another Round",
+        "url": "https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "duration_ms": 307527,
+      "name": "Another Round",
+      "url": "https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 211964,
-      "name": "Break the Girl",
-      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Never Going Under",
         "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 146392,
       "name": "Do You Wanna Talk",
       "url": "https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 211964,
+      "name": "Break the Girl",
+      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "marry me to dopamine",
-        "url": "https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7"
-      },
-      "artists": [
-        {
-          "name": "Kilu",
-          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
-        }
-      ],
-      "duration_ms": 213083,
-      "name": "marry me to dopamine",
-      "url": "https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Big Swimmer",
         "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
       },
@@ -1103,18 +1087,34 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4"
+        "name": "marry me to dopamine",
+        "url": "https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7"
       },
       "artists": [
         {
-          "name": "Cardinals",
-          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
         }
       ],
-      "duration_ms": 184624,
-      "name": "Barbed Wire",
-      "url": "https://open.spotify.com/track/1MCZAFcjyD5WC43Xd82Mhi"
+      "duration_ms": 213083,
+      "name": "marry me to dopamine",
+      "url": "https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/7D8d6CcdC2unP1EXdpvvYq"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/26Nq9eBvSF5QIADN158plo"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/7D8d6CcdC2unP1EXdpvvYq"
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4"
       },
       "artists": [
         {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
         }
       ],
-      "duration_ms": 218386,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/26Nq9eBvSF5QIADN158plo"
+      "duration_ms": 184624,
+      "name": "Barbed Wire",
+      "url": "https://open.spotify.com/track/1MCZAFcjyD5WC43Xd82Mhi"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/3hSn5sirwtHG66b3pcnOTB"
-      },
-      "artists": [
-        {
-          "name": "CQ Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 303174,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/1iGDydzF1qxVqW7N1JdQP0"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Inaction",
         "url": "https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 186437,
       "name": "Inaction",
       "url": "https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/3hSn5sirwtHG66b3pcnOTB"
+      },
+      "artists": [
+        {
+          "name": "CQ Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 303174,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/1iGDydzF1qxVqW7N1JdQP0"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Who've You Come As?, Pt. 2",
-        "url": "https://open.spotify.com/album/3AVhzOJ1jUZB5uSB4reg6i"
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
       },
       "artists": [
         {
-          "name": "Balancing Act",
-          "url": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
         }
       ],
-      "duration_ms": 200785,
-      "name": "All Yours",
-      "url": "https://open.spotify.com/track/2ep1Ni8QYPcZZ3ggr1vGoc"
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Zombieland",
-        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+        "name": "Who've You Come As?, Pt. 2",
+        "url": "https://open.spotify.com/album/3AVhzOJ1jUZB5uSB4reg6i"
       },
       "artists": [
         {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+          "name": "Balancing Act",
+          "url": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
         }
       ],
-      "duration_ms": 162932,
-      "name": "Zombieland",
-      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
+      "duration_ms": 200785,
+      "name": "All Yours",
+      "url": "https://open.spotify.com/track/2ep1Ni8QYPcZZ3ggr1vGoc"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Blisters",
-        "url": "https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP"
-      },
-      "artists": [
-        {
-          "name": "The Royston Club",
-          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
-        }
-      ],
-      "duration_ms": 179776,
-      "name": "Blisters",
-      "url": "https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Can't Say No",
         "url": "https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "My Favourite Monster",
-        "url": "https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu"
+        "name": "Blisters",
+        "url": "https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP"
       },
       "artists": [
         {
-          "name": "Cliffords",
-          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
         }
       ],
-      "duration_ms": 238533,
-      "name": "My Favourite Monster",
-      "url": "https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ"
+      "duration_ms": 179776,
+      "name": "Blisters",
+      "url": "https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
+        "name": "My Favourite Monster",
+        "url": "https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu"
+      },
+      "artists": [
+        {
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "My Favourite Monster",
+      "url": "https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
         "name": "Ballad Of A Bystander",
         "url": "https://open.spotify.com/album/3tbVVoG2U5m4IAnJTF3YyZ"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Rewire",
-        "url": "https://open.spotify.com/album/2pp6yjayJD05QuhLbGqa1K"
+        "name": "Breadline",
+        "url": "https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1"
       },
       "artists": [
         {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
         }
       ],
-      "duration_ms": 176492,
-      "name": "Rewire",
-      "url": "https://open.spotify.com/track/7vqPs5RH1PC8Sfv6hg9Q0A"
+      "duration_ms": 194652,
+      "name": "Breadline",
+      "url": "https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n"
     }
   ],
   "unique_name": "Proper Belters",

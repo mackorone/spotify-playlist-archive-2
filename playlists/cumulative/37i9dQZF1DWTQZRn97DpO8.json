@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Ja\u00efa Rose",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Lestin",
   "name": "le miel",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 184970,
       "name": "20S",
       "url": "https://open.spotify.com/track/5j01MVH7tjbeHFDUr7ijzD"
@@ -4549,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "J'attendrai",
+        "url": "https://open.spotify.com/album/4XLDi2wljeLFIet9mtptQP"
+      },
+      "artists": [
+        {
+          "name": "Clem Rubato",
+          "url": "https://open.spotify.com/artist/6tnf8vFGmUGn3oHajIYypa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194200,
+      "name": "J'attendrai",
+      "url": "https://open.spotify.com/track/00YWsG8fMw65lFOwvyynUW"
+    },
+    {
+      "album": {
         "name": "J'avais pr\u00e9venu",
         "url": "https://open.spotify.com/album/1wRvC3m4OPlSH8cDhpSo35"
       },
@@ -5992,7 +6010,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 183353,
       "name": "l\u00e2che le contr\u00f4le",
       "url": "https://open.spotify.com/track/26TKvMvqJihea2JL9BtRz4"
@@ -7322,6 +7340,24 @@
       "duration_ms": 155596,
       "name": "Oublie-moi",
       "url": "https://open.spotify.com/track/6fLxzXS6PRXglMvu3eNpQJ"
+    },
+    {
+      "album": {
+        "name": "Oublier",
+        "url": "https://open.spotify.com/album/339B0RklgGgH3oe6z1oFC2"
+      },
+      "artists": [
+        {
+          "name": "Misha\u00ebl",
+          "url": "https://open.spotify.com/artist/7967X4fzzyLLDsw9kiJUPu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145523,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/3j72wtC2S5bZ8AKIEdT4hH"
     },
     {
       "album": {
@@ -10185,6 +10221,24 @@
     },
     {
       "album": {
+        "name": "JO\u0178A",
+        "url": "https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 17",
+      "url": "https://open.spotify.com/track/2yNk4Uvw8wXrbWHDwh1K45"
+    },
+    {
+      "album": {
         "name": "Tranquille",
         "url": "https://open.spotify.com/album/0R4Wx0ucuQHUNkXPmV7eZG"
       },
@@ -10510,7 +10564,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 200000,
       "name": "Une derni\u00e8re fois",
       "url": "https://open.spotify.com/track/6TeuCRHQxIrEz4CxFdhxAM"

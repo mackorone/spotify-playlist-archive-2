@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 78724,
+  "num_followers": 78725,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-04-21 15:00:48",
       "album": {
+        "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077\uff11 (Cover)",
+        "url": "https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293"
+      },
+      "artists": [
+        {
+          "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077",
+          "url": "https://open.spotify.com/artist/0Jvxrj4gf4hdQYuTNq12b5"
+        }
+      ],
+      "duration_ms": 277735,
+      "name": "\u71b1\u98a8\u6d77\u9678\u30d6\u30b7\u30ed\u30fc\u30c9\u301c\u71b1\u304d\u5486\u54ee\u301c (Cover)",
+      "url": "https://open.spotify.com/track/0TSGiufLpHUCT3RpiBogE8"
+    },
+    {
+      "added_at": "2026-04-21 15:00:48",
+      "album": {
         "name": "\u512a\u52dd",
         "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 271013,
       "name": "\u512a\u52dd",
       "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
-    },
-    {
-      "added_at": "2026-04-21 15:00:48",
-      "album": {
-        "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077\uff11 (Cover)",
-        "url": "https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293"
-      },
-      "artists": [
-        {
-          "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077",
-          "url": "https://open.spotify.com/artist/0Jvxrj4gf4hdQYuTNq12b5"
-        }
-      ],
-      "duration_ms": 277735,
-      "name": "\u71b1\u98a8\u6d77\u9678\u30d6\u30b7\u30ed\u30fc\u30c9\u301c\u71b1\u304d\u5486\u54ee\u301c (Cover)",
-      "url": "https://open.spotify.com/track/0TSGiufLpHUCT3RpiBogE8"
     },
     {
       "added_at": "2026-04-21 15:00:48",

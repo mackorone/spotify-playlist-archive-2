@@ -1,12 +1,12 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299194,
+  "num_followers": 299249,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGdOBlbpqVR13frdPS9HnjtaHXJx",
+  "snapshot_id": "AAAAAD/kHf4mfFnYScPAJysbW9NUy9Vn",
   "tracks": [
     {
       "added_at": "2026-05-07 22:03:27",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "Tom McFarland",
-          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
-        }
-      ],
-      "duration_ms": 199477,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
-    },
-    {
-      "added_at": "2026-05-07 22:03:27",
-      "album": {
         "name": "I Love Life (feat. RANI)",
         "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 156190,
       "name": "I Love Life (feat. RANI)",
       "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
+    },
+    {
+      "added_at": "2026-05-07 22:03:27",
+      "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Tom McFarland",
+          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
+        }
+      ],
+      "duration_ms": 199477,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
     },
     {
       "added_at": "2026-05-07 22:03:27",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
+        "name": "Blue Sky Mentality",
+        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 176985,
+      "name": "Walk Walk Walk",
+      "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
+    },
+    {
+      "added_at": "2026-05-07 22:03:27",
+      "album": {
         "name": "Fucked Up",
         "url": "https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-05-07 22:03:27",
-      "album": {
-        "name": "Blue Sky Mentality",
-        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 176985,
-      "name": "Walk Walk Walk",
-      "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
     },
     {
       "added_at": "2026-05-07 22:03:27",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
+        "name": "Can Feel It",
+        "url": "https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn"
+      },
+      "artists": [
+        {
+          "name": "Marie Sarah",
+          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
+        }
+      ],
+      "duration_ms": 153520,
+      "name": "Can Feel It",
+      "url": "https://open.spotify.com/track/0rrlUV4F6oFbQDz02qqZVE"
+    },
+    {
+      "added_at": "2026-05-07 22:03:27",
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/6I8YtUNtTpKIU2SJPRVfId"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 208821,
       "name": "Friends",
       "url": "https://open.spotify.com/track/1pwyINL3fwBKV95x0l4A1n"
-    },
-    {
-      "added_at": "2026-05-07 22:03:27",
-      "album": {
-        "name": "Can Feel It",
-        "url": "https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn"
-      },
-      "artists": [
-        {
-          "name": "Marie Sarah",
-          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
-        }
-      ],
-      "duration_ms": 153520,
-      "name": "Can Feel It",
-      "url": "https://open.spotify.com/track/0rrlUV4F6oFbQDz02qqZVE"
     },
     {
       "added_at": "2026-05-07 22:03:27",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
-        "name": "Kicking My Feet",
-        "url": "https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 174751,
-      "name": "Not What\u2019s Going On",
-      "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
-    },
-    {
-      "added_at": "2026-05-07 22:03:27",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 196360,
       "name": "Promises",
       "url": "https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5"
+    },
+    {
+      "added_at": "2026-05-07 22:03:27",
+      "album": {
+        "name": "Kicking My Feet",
+        "url": "https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 174751,
+      "name": "Not What\u2019s Going On",
+      "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
     },
     {
       "added_at": "2026-05-07 22:03:27",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
-        "name": "The Meeting (Deluxe)",
-        "url": "https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde"
-      },
-      "artists": [
-        {
-          "name": "Astels",
-          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
-        }
-      ],
-      "duration_ms": 173172,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"
-    },
-    {
-      "added_at": "2026-05-07 22:03:27",
-      "album": {
         "name": "viens on part",
         "url": "https://open.spotify.com/album/7xSHTYnwyFVUONUoKILwgp"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
-        "name": "When I Go",
-        "url": "https://open.spotify.com/album/5MYFajLWl4uphD3NPW223K"
+        "name": "The Meeting (Deluxe)",
+        "url": "https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde"
       },
       "artists": [
         {
-          "name": "Saults",
-          "url": "https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8"
+          "name": "Astels",
+          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
         }
       ],
-      "duration_ms": 257397,
-      "name": "When I Go",
-      "url": "https://open.spotify.com/track/1DIWTY8YI8cLaQRdPSrkDl"
+      "duration_ms": 173172,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"
     },
     {
       "added_at": "2026-05-07 22:03:27",
@@ -1031,6 +1015,22 @@
       "duration_ms": 251718,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz"
+    },
+    {
+      "added_at": "2026-05-07 22:03:27",
+      "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k"
+      },
+      "artists": [
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "duration_ms": 198287,
+      "name": "555",
+      "url": "https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3"
     }
   ],
   "unique_name": "Feel Good",

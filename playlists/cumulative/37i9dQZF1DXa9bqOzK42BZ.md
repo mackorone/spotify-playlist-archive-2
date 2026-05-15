@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-333 songs - 1 day 5 hr 6 min
+334 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Moyo Wangu](https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Coeur à Coeur](https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh) | 5:09 | 2022-06-24 |  |
 | [MOYO WANGU BMM Yombo Vituka](https://open.spotify.com/track/6X7sY5M6IziPbUJyG0G2xl) | [FLSA\_ENTERTAINMENT](https://open.spotify.com/artist/4KxxxfPxkFJ2IbWfVMU1Ye) | [EASTER PASAKA YETU](https://open.spotify.com/album/2sYU0Di9FKjrdTBn1nYQ1S) | 8:18 | 2022-06-24 | 2023-11-03 |
 | [Moyo Wangu Tulia](https://open.spotify.com/track/440P05rOe8Kcfqxctuzgo7) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Lydia Nzale](https://open.spotify.com/artist/7GgpEk927K6DNwAV2S5Cmt), [Irene Ezekiel](https://open.spotify.com/artist/6sMpXHs1ySmIwuASuFPJDX), [Hadia Komz](https://open.spotify.com/artist/4Qt8QpjrguN13aKGyEe8oZ), [Jackie Edith](https://open.spotify.com/artist/6SGl8GR1pfa28pQ7N02dyd) | [Moyo Wangu Tulia \(feat\. Lydia Nzale, Irene Ezekiel, Hadia Komz & Jackie Edith\)](https://open.spotify.com/album/6O0TmwVQb2ak4xmO6D9Hb3) | 3:37 | 2026-04-10 |  |
-| [Moyoni](https://open.spotify.com/track/2qVFAjT0CajtnkuXo2BlWO) | [Zion Njeri](https://open.spotify.com/artist/39Kc4S8IXSqU4dO6UivqL6) | [Moyoni](https://open.spotify.com/album/3qahfDTvESpoSNZs25e4LY) | 2:47 | 2025-10-17 |  |
+| [Moyoni](https://open.spotify.com/track/2qVFAjT0CajtnkuXo2BlWO) | [Zion Njeri](https://open.spotify.com/artist/39Kc4S8IXSqU4dO6UivqL6) | [Moyoni](https://open.spotify.com/album/3qahfDTvESpoSNZs25e4LY) | 2:47 | 2025-10-17 | 2026-05-15 |
 | [Mpango](https://open.spotify.com/track/2r9iEJtI80kGkLhKwqFhTJ) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mpango](https://open.spotify.com/album/0UyldaytlWsu1JfRaS10B2) | 4:50 | 2024-04-19 | 2024-09-06 |
 | [Msaada](https://open.spotify.com/track/3QxGvXzFz43WkhdhwOXDGY) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL), [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Msaada](https://open.spotify.com/album/0JfHXADJpWRHgHB1XPg1k1) | 4:04 | 2023-10-20 | 2026-04-24 |
 | [Mshindi](https://open.spotify.com/track/45Y60HEPBdrKCb47nPBmLK) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Everline Moipaai](https://open.spotify.com/artist/7Igggx4dG8j5utTr05SnR3) | [MSHINDI](https://open.spotify.com/album/1JvhrNeEZuIkmuPbZnUF2b) | 5:08 | 2025-03-21 | 2025-07-18 |
@@ -165,6 +165,7 @@
 | [Mwamba El Sela](https://open.spotify.com/track/26CuIfoVvvt22BQfwMjYGS) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Mwamba El Sela](https://open.spotify.com/album/7IomRvYMcnXSv4wTtn658W) | 5:14 | 2025-12-12 |  |
 | [Mwenye Uwezo \- Live](https://open.spotify.com/track/4RcqL9xk4v0PbbuEaCJxVv) | [Dr Sarah K](https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm), [Shachah Team](https://open.spotify.com/artist/6mx6zAmXuabDmkBY91jpXy) | [Mwenye Uwezo](https://open.spotify.com/album/1vuXnAygU80Nr9hRTAvgjW) | 8:39 | 2025-04-18 | 2025-05-30 |
 | [Naamini Kwako Bwana](https://open.spotify.com/track/1xqmMfkjQSGUgGF93wSbyE) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Naamini Kwako Bwana](https://open.spotify.com/album/1jExfezqunAy4F3tQP9IZf) | 6:20 | 2024-12-20 | 2025-03-28 |
+| [NACHEZA](https://open.spotify.com/track/0SroOTkCo1Dzp2USuVVb8G) | [Tory Lynn](https://open.spotify.com/artist/4ipYpjTLHtOPZ657jj21nv) | [NACHEZA](https://open.spotify.com/album/4Gt7FnGl9sMOFiIgbcCwy2) | 3:00 | 2026-05-15 |  |
 | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/track/7tnGzoqS9ITlwiQmlaTtgB) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Zoe](https://open.spotify.com/artist/4FaAab5oHVuSLoIK1G2icg) | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/album/6IrJsGlVLBtKcGquLif5v0) | 3:17 | 2024-09-06 | 2025-09-20 |
 | [Nakupenda \- Live](https://open.spotify.com/track/7FhBF3erXmu9EwpIw2Wr3V) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Nakupenda \(Live\)](https://open.spotify.com/album/1lj8OzHxosFnVOahWkk6Xp) | 14:38 | 2026-01-23 |  |
 | [Nami Nataka Nikuone](https://open.spotify.com/track/31SuK9LQAlG2z4VnXriZ47) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Nami Nataka Nikuone](https://open.spotify.com/album/2AQ9kOCph0Gw9kfbFENbhq) | 9:28 | 2023-09-08 | 2025-03-28 |

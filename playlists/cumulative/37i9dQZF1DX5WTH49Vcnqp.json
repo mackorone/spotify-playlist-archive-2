@@ -3209,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216311,
+      "name": "BIG DOG",
+      "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
+    },
+    {
+      "album": {
         "name": "Bigger",
         "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
       },
@@ -5778,6 +5796,24 @@
       "duration_ms": 226588,
       "name": "Coasting On Fumes",
       "url": "https://open.spotify.com/track/77wuyG9tm96JXMRegiDf2j"
+    },
+    {
+      "album": {
+        "name": "Train on the Island",
+        "url": "https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208875,
+      "name": "Coats",
+      "url": "https://open.spotify.com/track/2ck5LysJdg1BbMqaLzr0XT"
     },
     {
       "album": {
@@ -12601,6 +12637,28 @@
     },
     {
       "album": {
+        "name": "Hardy (feat. Clairo)",
+        "url": "https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233160,
+      "name": "Hardy (feat. Clairo)",
+      "url": "https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy"
+    },
+    {
+      "album": {
         "name": "HARMONY BLOOMS",
         "url": "https://open.spotify.com/album/4oQpAIlJCkzgp9mRfNUrEY"
       },
@@ -13628,6 +13686,24 @@
       "duration_ms": 206058,
       "name": "Hologram",
       "url": "https://open.spotify.com/track/19zjVWC09Iv6SZ0gOKDkHC"
+    },
+    {
+      "album": {
+        "name": "Holy Grail",
+        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
     },
     {
       "album": {
@@ -14760,6 +14836,24 @@
       "duration_ms": 126450,
       "name": "I Need Therapy 2.4 (alt_demo)",
       "url": "https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8"
+    },
+    {
+      "album": {
+        "name": "I Never See Her",
+        "url": "https://open.spotify.com/album/2p6wnhkj0a5SWmBnLFmCTe"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184220,
+      "name": "I Never See Her",
+      "url": "https://open.spotify.com/track/4Mk8CHwAOp9VDoauZ5y7h8"
     },
     {
       "album": {
@@ -19140,7 +19234,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
@@ -20824,7 +20918,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 298783,
       "name": "My Old Ways",
       "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
@@ -31158,7 +31252,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 281786,
       "name": "This Is The World (I Made It For You)",
       "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
@@ -31212,7 +31306,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 192368,
       "name": "This Time For Real",
       "url": "https://open.spotify.com/track/2LDTkxBmLRr4ENG0kNQLum"
@@ -34518,7 +34612,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 200871,
       "name": "Yadingji",
       "url": "https://open.spotify.com/track/2DBmM2B6rqpf975z7ciy02"

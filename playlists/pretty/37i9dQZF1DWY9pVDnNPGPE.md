@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,730 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,733 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,19 +32,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 22 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
 | 23 | [Chance \(Feat\. Peakboy \(픽보이\)\)](https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Peakboy \(픽보이\)](https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 3:14 |
 | 24 | [Love](https://open.spotify.com/track/4oBIqV6T0FmTWUtnHQCOEc) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Us](https://open.spotify.com/album/6W5maKueRWuKffmaMfXUjp) | 3:33 |
-| 25 | [RIDE \(feat\. THAMA\)](https://open.spotify.com/track/6jpFPa2m8PjHurC7508wYB) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [RIDE](https://open.spotify.com/album/3t4nLWaE60YINX7QLTIbAS) | 4:04 |
-| 26 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
+| 25 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
+| 26 | [RIDE \(feat\. THAMA\)](https://open.spotify.com/track/6jpFPa2m8PjHurC7508wYB) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [RIDE](https://open.spotify.com/album/3t4nLWaE60YINX7QLTIbAS) | 4:04 |
 | 27 | [ASTEARSGOBY](https://open.spotify.com/track/2rOA9vEsnpNB6L5XgmibKn) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:56 |
 | 28 | [Once a Day](https://open.spotify.com/track/6W4iF5kAqqwKiVwAk3TcN1) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Once a Day](https://open.spotify.com/album/7B17owLQwSzw5jd1Gw4Mdi) | 3:32 |
 | 29 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 |
-| 30 | [DEPEND ON YOU](https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:18 |
-| 31 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
+| 30 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
+| 31 | [DEPEND ON YOU](https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:18 |
 | 32 | [How Do You Think](https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT) | 3:25 |
 | 33 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
 | 34 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 |
-| 35 | [Good Day \(Feat\. Jay Park, 1iL\)](https://open.spotify.com/track/4lveRzAWbl6pNLITlfiW9A) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [1iL](https://open.spotify.com/artist/0aLwY7iJg9JPeLOX8Rf5iP) | [Good Day \(Feat\. Jay Park, 1iL\)](https://open.spotify.com/album/432CGZ4tKvuyizD5MSW5iW) | 3:38 |
-| 36 | [Secret Garden](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 |
-| 37 | [Wherever](https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Wherever](https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1) | 2:51 |
+| 35 | [Secret Garden](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 |
+| 36 | [Wherever](https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Wherever](https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1) | 2:51 |
+| 37 | [Good Day \(Feat\. Jay Park, 1iL\)](https://open.spotify.com/track/4lveRzAWbl6pNLITlfiW9A) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [1iL](https://open.spotify.com/artist/0aLwY7iJg9JPeLOX8Rf5iP) | [Good Day \(Feat\. Jay Park, 1iL\)](https://open.spotify.com/album/432CGZ4tKvuyizD5MSW5iW) | 3:38 |
 | 38 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 |
 | 39 | [ANYWHERE ANYTIME](https://open.spotify.com/track/67sYclP23NAkhQwYciJd16) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 2:36 |
 | 40 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 46 | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/album/5YgVYVi56JNU6XrIcnHWFW) | 3:43 |
 | 47 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 |
 | 48 | [dance all night](https://open.spotify.com/track/05v68b039L6DcXHhbkL2wO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/34Q2W5StgW4WC6HhbsNWnv) | 3:34 |
-| 49 | [La Vie En Bleu](https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:16 |
-| 50 | [Milky Way](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Our Beloved BoA \#4 \- SM STATION](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) | 3:37 |
+| 49 | [Milky Way](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Our Beloved BoA \#4 \- SM STATION](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) | 3:37 |
+| 50 | [La Vie En Bleu](https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:16 |
 
 Snapshot ID: `AAAAAMrHYj4kjO+VSRvUO+gSiNTEZtKC`

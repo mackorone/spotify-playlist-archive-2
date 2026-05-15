@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 320 likes - 2,285 songs - 5 day 15 hr 7 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 320 likes - 2,287 songs - 5 day 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1979,7 +1979,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1969 | [For Myself](https://open.spotify.com/track/6jTOCU5N4kHi4VGq2I9NHV) | [NOAH](https://open.spotify.com/artist/6cndR2a5aoWwRv3Zdw3BNk) | [For Myself](https://open.spotify.com/album/69hsNWKUUm0za0ID3WpBCN) | 4:30 |
 | 1970 | [Lazy Horizon \- Original Version](https://open.spotify.com/track/0zO4JbFcUsi1GhKSUt22BP) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Lazy Horizon \(Original Version\)](https://open.spotify.com/album/283SVcDeLYWgp0qH4o8Yrm) | 2:47 |
 | 1971 | [why don't u love me](https://open.spotify.com/track/4YLDHOCEVqtGsJhf25jEOL) | [abbot crow](https://open.spotify.com/artist/0ITPPVFvxeAQ3WLvqiIzxW) | [why don't u love me](https://open.spotify.com/album/4OL9Ur3teyOIXGqMmtBvdF) | 1:37 |
-| 1972 | [NIGHT SPIRAL](https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [NIGHT SPIRAL](https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9) | 2:50 |
+| 1972 | [Night Spiral](https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Night Spiral](https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9) | 2:50 |
 | 1973 | [My last song for you](https://open.spotify.com/track/4bpODX6WMCmdohiQNUYxfd) | [RAWRITO](https://open.spotify.com/artist/69kJaVwMWBJF2ncss4pvqV) | [My last song for you](https://open.spotify.com/album/4ZoXUCQKkfr5jmC1MrDy4A) | 3:01 |
 | 1974 | [Medicine](https://open.spotify.com/track/2FGTL4RbwWbPXZrY8XoMQh) | [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 2:42 |
 | 1975 | [Push On](https://open.spotify.com/track/0BrO6JpVQjbVe1foPTZoIO) | [12 Tribes Of Mars](https://open.spotify.com/artist/6DCPOFQmbWMu64jaWWEX87) | [Push On](https://open.spotify.com/album/1n0zoAysgW94AmxkNgm9FG) | 5:22 |
@@ -2032,7 +2032,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2022 | [Mi Niña Bonita](https://open.spotify.com/track/35JpFVZztoyQceLfNNswtC) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Mi Niña Bonita](https://open.spotify.com/album/3fNpy5KdbyueT5hM9TsLDr) | 2:02 |
 | 2023 | [Juntos en la Playa](https://open.spotify.com/track/5mOs4uCtRlI06ZUHIkoo9t) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Juntos en la Playa](https://open.spotify.com/album/0tA0nw0PIJU817dg9obfWE) | 2:07 |
 | 2024 | [Donde Caben Mis Sueños](https://open.spotify.com/track/2JbLGmbohs2648kDXsqJD9) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Donde Caben Mis Sueños](https://open.spotify.com/album/2Agar5A3Iwtqs2JdXhX0qb) | 1:37 |
-| 2025 | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 |
+| 2025 | [Fire on the Black Flags](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Fire on the Black Flags](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 |
 | 2026 | [Sé](https://open.spotify.com/track/3zl3AgMqP6Vw6cu7QWspus) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Líricamente Amor](https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z) | 3:31 |
 | 2027 | [Pelo de mar](https://open.spotify.com/track/3vMmZnb3g5ML0K9w4PKoqM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Líricamente Amor](https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z) | 2:42 |
 | 2028 | [Aunque no Sobre Nada](https://open.spotify.com/track/3gzsPdpwoYOt1k5csRZXRi) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Aunque no Sobre Nada](https://open.spotify.com/album/5GdkEMt3dvIiHfGR9tvkCm) | 2:04 |
@@ -2293,5 +2293,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2283 | [Justin](https://open.spotify.com/track/2Sz2PJ4WHrJXlHstvPiGjS) | [The Oats](https://open.spotify.com/artist/4AN73N32ZF93Eil03Gr53B) | [Justin](https://open.spotify.com/album/6d5DFkT0xMXWP102bh9uGb) | 2:02 |
 | 2284 | [Disorder](https://open.spotify.com/track/76sKVlV9JbKDXWSanOBzkd) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Rare](https://open.spotify.com/album/22Pfw2Cr7UHCJdmEizej8V) | 2:22 |
 | 2285 | [When The Tornado Comes](https://open.spotify.com/track/7394SpkcD7WUtx3OWis2YV) | [Adam Aronson](https://open.spotify.com/artist/5lrLb0jXN8RE9HMFLtnN9X) | [When The Tornado Comes](https://open.spotify.com/album/7ncobca1PIxSqABQGQEP4Z) | 3:10 |
+| 2286 | [Te Tīmatanga \(Te Pū\)](https://open.spotify.com/track/2FIF4VZmClzDeA3OSvQeuZ) | [Toroa](https://open.spotify.com/artist/3s7ob7yKHjS7z0yb6dp9C7) | [Te Tīmatanga](https://open.spotify.com/album/5sznJKnLWxiGq04Y7R0Um1) | 6:07 |
+| 2287 | [Riddim In Dub](https://open.spotify.com/track/2er9UkwfQgKXhOtExYKNzn) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Zion Train](https://open.spotify.com/artist/6sDKfmMPaTI7MYeFoNFrg7), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Astral Vision](https://open.spotify.com/album/4skr9ieBSHKCa52ivYa7hy) | 5:51 |
 
-Snapshot ID: `AAAJljIUSDeHUaohed6+CR761wM0MqCx`
+Snapshot ID: `AAAJmMwyx4RkFm4deYYOZ2wwcsdVPt8W`

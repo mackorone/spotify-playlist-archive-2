@@ -793,6 +793,28 @@
     },
     {
       "album": {
+        "name": "red bikini",
+        "url": "https://open.spotify.com/album/0gHXJ2q3TX31arXhf31vbh"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216054,
+      "name": "red bikini",
+      "url": "https://open.spotify.com/track/6HRfpEsRjpbi0vuS2od9t9"
+    },
+    {
+      "album": {
         "name": "A Belle to Remember",
         "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
       },

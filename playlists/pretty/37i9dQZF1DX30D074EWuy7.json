@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34398,
+  "num_followers": 34401,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
       },
       "artists": [
         {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
         }
       ],
-      "duration_ms": 244632,
-      "name": "Zenzero e cannella",
-      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
       },
       "artists": [
         {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
         }
       ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+      "duration_ms": 244632,
+      "name": "Zenzero e cannella",
+      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Editto Dal Sottoscoglio",
-        "url": "https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7"
-      },
-      "artists": [
-        {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
-        }
-      ],
-      "duration_ms": 206204,
-      "name": "Editto Dal Sottoscoglio",
-      "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "fusion.",
         "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Editto Dal Sottoscoglio",
+        "url": "https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7"
+      },
+      "artists": [
+        {
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+        }
+      ],
+      "duration_ms": 206204,
+      "name": "Editto Dal Sottoscoglio",
+      "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -759,6 +759,26 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
+        "name": "Musica Nuda - My Favorite Tunes",
+        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
+      },
+      "artists": [
+        {
+          "name": "Petra Magoni",
+          "url": "https://open.spotify.com/artist/3VrYO8Q1lMGMRH2tgcfr4s"
+        },
+        {
+          "name": "Ferruccio Spinetti",
+          "url": "https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Bach Aire",
+      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
         "name": "Trama Latina",
         "url": "https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 370960,
       "name": "chiquil\u00edn de bach\u00edn",
       "url": "https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
-        "name": "Musica Nuda - My Favorite Tunes",
-        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
-      },
-      "artists": [
-        {
-          "name": "Petra Magoni",
-          "url": "https://open.spotify.com/artist/3VrYO8Q1lMGMRH2tgcfr4s"
-        },
-        {
-          "name": "Ferruccio Spinetti",
-          "url": "https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Bach Aire",
-      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "Funambola",
         "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 231920,
       "name": "Vola lontano",
       "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "1000 Smiles",
-        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "New Game Plus",
         "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 222000,
       "name": "2 AM",
       "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "1000 Smiles",
+        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1339,38 +1339,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Piero Odorici",
-          "url": "https://open.spotify.com/artist/5rECEZfFS5a06goUq2vL1c"
-        },
-        {
-          "name": "Nicola Barbon",
-          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
-        },
-        {
-          "name": "Alessandro Buzzi",
-          "url": "https://open.spotify.com/artist/6qOSfEAYQemTcpVwnyLKAu"
-        },
-        {
-          "name": "Davide Palladin",
-          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
-        }
-      ],
-      "duration_ms": 276862,
-      "name": "It's Easy to Remember",
-      "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1411,6 +1379,38 @@
       "duration_ms": 245500,
       "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
       "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Piero Odorici",
+          "url": "https://open.spotify.com/artist/5rECEZfFS5a06goUq2vL1c"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Alessandro Buzzi",
+          "url": "https://open.spotify.com/artist/6qOSfEAYQemTcpVwnyLKAu"
+        },
+        {
+          "name": "Davide Palladin",
+          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
+        }
+      ],
+      "duration_ms": 276862,
+      "name": "It's Easy to Remember",
+      "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1571,46 +1571,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Nidi di Note",
-        "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        },
-        {
-          "name": "Sonia Peana",
-          "url": "https://open.spotify.com/artist/2rOegNhB7nuLzLis8vWQhK"
-        }
-      ],
-      "duration_ms": 194638,
-      "name": "Inizi\u00f2",
-      "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
-        "name": "Mister Magic",
-        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 221660,
-      "name": "Mister Magic",
-      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "Tempo al Tempo",
         "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
       },
@@ -1639,6 +1599,46 @@
       "duration_ms": 377930,
       "name": "Tempo al Tempo",
       "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Mister Magic",
+        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 221660,
+      "name": "Mister Magic",
+      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Nidi di Note",
+        "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        },
+        {
+          "name": "Sonia Peana",
+          "url": "https://open.spotify.com/artist/2rOegNhB7nuLzLis8vWQhK"
+        }
+      ],
+      "duration_ms": 194638,
+      "name": "Inizi\u00f2",
+      "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
+        "name": "Meridian",
+        "url": "https://open.spotify.com/album/4Xih1E9StG9RV8UjQ2DDET"
+      },
+      "artists": [
+        {
+          "name": "Daykoda",
+          "url": "https://open.spotify.com/artist/7ileF8v8C9pqci1fqJOkf0"
+        }
+      ],
+      "duration_ms": 150755,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/7o8dtA8TSGnOhshs9HPYyV"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1819,8 +1835,8 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Jazz Carnival",
-        "url": "https://open.spotify.com/album/6qeRZWcX3ZBIbG06naVZUS"
+        "name": "Harlem Nocturne",
+        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
       },
       "artists": [
         {
@@ -1828,25 +1844,25 @@
           "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
         }
       ],
-      "duration_ms": 226693,
-      "name": "Jazz Carnival",
-      "url": "https://open.spotify.com/track/4bTSotryWXXOQw55gXDAyA"
+      "duration_ms": 124613,
+      "name": "Harlem Nocturne",
+      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
     },
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Meridian",
-        "url": "https://open.spotify.com/album/4Xih1E9StG9RV8UjQ2DDET"
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
       },
       "artists": [
         {
-          "name": "Daykoda",
-          "url": "https://open.spotify.com/artist/7ileF8v8C9pqci1fqJOkf0"
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
         }
       ],
-      "duration_ms": 150755,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/7o8dtA8TSGnOhshs9HPYyV"
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1883,22 +1899,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 180738,
-      "name": "Acqua alta",
-      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "Kair\u00f2s",
         "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
       },
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Harlem Nocturne",
-        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
+        "name": "Julia de Palma In Concert",
+        "url": "https://open.spotify.com/album/3Jwv7FkYyegDB5Pl6V8pQL"
       },
       "artists": [
         {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+          "name": "Jula De Palma",
+          "url": "https://open.spotify.com/artist/5lW8wX7Dvny7gTTfql8755"
         }
       ],
-      "duration_ms": 124613,
-      "name": "Harlem Nocturne",
-      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
+      "duration_ms": 283977,
+      "name": "Bugiardo, incosciente",
+      "url": "https://open.spotify.com/track/3DXgG3Nncn1x9qrpZHZl0V"
     }
   ],
   "unique_name": "Jazz Italia",

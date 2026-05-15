@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Γιορτάζοντας 5 Χρόνια EQUAL\. Εξώφυλλο: Andromache
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,516 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,512 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 58 | [Epta Ouranoi](https://open.spotify.com/track/7g98y5pwrFua3OAi8fNDkU) | [Sofia Manousaki](https://open.spotify.com/artist/4HOhcDTOk0JfElBEZynmcO), [Stefanos Korkolis](https://open.spotify.com/artist/1ZvewXx4WAhSSrxoUDb4Nz), [Nikos Moraitis](https://open.spotify.com/artist/7BnGccC1QC927VRFJuNpjn) | [Epta Ouranoi](https://open.spotify.com/album/5e0RifhKBqjdjnEYMExGKW) | 3:51 |
 | 59 | [Na Mas Zisei I Ellada](https://open.spotify.com/track/7p81bybRQh8r128P5rM15a) | [Alexandra Mpounatsa](https://open.spotify.com/artist/247Hj7IDJ1NHQDN756GeLX) | [Na Mas Zisei I Ellada](https://open.spotify.com/album/411mkbrTExAHVxx2tQTCxL) | 3:16 |
 
-Snapshot ID: `AAAAAJ8h4Rta1iKJqUz7YflqLHp2lj5j`
+Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,759 likes - 40 songs - 2 hr 37 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,759 likes - 46 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,11 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 38 | [Neanderthal](https://open.spotify.com/track/5RTMnfJSu8lRZOZcKSgQde) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 2:28 |
 | 39 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 |
 | 40 | [Lady](https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf) | [Decade](https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi) | [Lady](https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex) | 3:24 |
+| 41 | [Trouble](https://open.spotify.com/track/6z9MnDXCKOfD7Bh1RU0odl) | [Tidal Rave](https://open.spotify.com/artist/1cLwEvonj7L34lEucivmLv) | [Trouble](https://open.spotify.com/album/6MfJwwwL5PuAQTnKmOK3RE) | 3:15 |
+| 42 | [The Party Is Over](https://open.spotify.com/track/5O69OUizv8L6SElL2O7bjx) | [Atomium](https://open.spotify.com/artist/0KZxq71zg8JWEP22q0Qwff) | [The Party Is Over](https://open.spotify.com/album/4FKtBBuGUFTwsLAF4s219I) | 3:57 |
+| 43 | [I Hate That I Don't Hate You](https://open.spotify.com/track/3bJOzfEj1SYMYf5FKezNHY) | [Lighten Up, Francis](https://open.spotify.com/artist/53Ff651JKd4ooOWJ51qkGU) | [Store Brand Talent](https://open.spotify.com/album/2P76VKyK1AUTSrf6oHiTcD) | 4:24 |
+| 44 | [Lost & Found](https://open.spotify.com/track/2BWoxn24Y3TCo6S3YAyJNx) | [Roy Aharon](https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc), [Sapir J\. Fox](https://open.spotify.com/artist/574DPDIpkGHROQN4fgCOek) | [Zen Project](https://open.spotify.com/album/336ZUWQwHQrwtVD2w71YC1) | 5:13 |
+| 45 | [Ballerina's Dilemma](https://open.spotify.com/track/7LTciIxPjON8ttlOOI1Ue5) | [Jocelyn Stewart](https://open.spotify.com/artist/3ACUC6ruZ4IiXDpFDLZhXK), [Mike Hamilton](https://open.spotify.com/artist/1NImbJcYPrIMmEDpDSskX3) | [Our Little Lives](https://open.spotify.com/album/7mmmpaae8BEEBYMnGXkP7a) | 3:17 |
+| 46 | [Man in the Dark](https://open.spotify.com/track/5EDgFxvKmS798AQYHaoWJ0) | [The Magenta](https://open.spotify.com/artist/7LSEWrAltP8MRqpYwjrc4s) | [May Cause Addiction](https://open.spotify.com/album/0PqmnazU9h1RqTNiNcUnUo) | 3:25 |
 
-Snapshot ID: `AAAOsQOz0tOGNXQG3MwzfDnRbImL7yyw`
+Snapshot ID: `AAAOt9E6IXvtvfaguiZp9BZlG8/B3Jo9`

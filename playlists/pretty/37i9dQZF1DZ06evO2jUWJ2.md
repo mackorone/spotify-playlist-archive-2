@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,593 likes - 50 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,654 likes - 50 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 39 | [God Is Not Against Me \(feat\. Jonsal Barrientes & Tiffany Hudson\)](https://open.spotify.com/track/2lQL53FnkClnRs2q6aX7Lr) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 5:42 |
 | 40 | [Joy In The Morning](https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 8:48 |
 | 41 | [No Body \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/2djkGKuduO9pea7gt8wPIz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 6:01 |
-| 42 | [What I See \(feat\. Chris Brown\)](https://open.spotify.com/track/4A6zhvBNk6MAUp4u07p7kD) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 4:36 |
+| 42 | [Forever YHWH \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:19 |
 | 43 | [Great Is \(feat\. Jenna Barrientes\)](https://open.spotify.com/track/1Z07de4JfEV5lk8cNaNvn3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jenna Barrientes](https://open.spotify.com/artist/1kXAHDXLzukedSpQPN1XUO) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 5:47 |
 | 44 | [So So Good \- Live](https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [So So Good \(Live\)](https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru) | 4:48 |
 | 45 | [Resurrecting \(Live\)](https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 7:47 |
-| 46 | [Forever YHWH \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:19 |
+| 46 | [What I See \(feat\. Chris Brown\)](https://open.spotify.com/track/4A6zhvBNk6MAUp4u07p7kD) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 4:36 |
 | 47 | [Another One \(feat\. Chris Brown\)](https://open.spotify.com/track/4Km4rwUtXs7m0Vmc94eyOH) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 6:32 |
 | 48 | [Unstoppable God](https://open.spotify.com/track/7myOvrlSOO7VIyd7JQnSU0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Wake Up The Wonder](https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob) | 4:21 |
 | 49 | [Echo \(feat\. Tauren Wells\)](https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 3:56 |
 | 50 | [RATTLE! \(Live\)](https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:12 |
 
-Snapshot ID: `agJtgAAAAABZWXLzSNziIv3WX5NT35x6`
+Snapshot ID: `agO/AAAAAADKj4SW4y9avmVcShYs82Sf`

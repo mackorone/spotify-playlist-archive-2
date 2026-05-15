@@ -220,7 +220,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 180030,
       "name": "100.000 Flitsen",
       "url": "https://open.spotify.com/track/0rbgTt2zmkR44lE94FuC58"
@@ -4914,7 +4914,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 180657,
       "name": "Dat Jij Mij Vindt",
       "url": "https://open.spotify.com/track/4aQMM6U0EnJevrsuqXsa1V"
@@ -5106,6 +5106,24 @@
       "duration_ms": 174957,
       "name": "De Laatste Keer Dat Ik Huil",
       "url": "https://open.spotify.com/track/1IFzQTzO3M8TFkGEX8NxtR"
+    },
+    {
+      "album": {
+        "name": "De Leeuw Komt Eraan",
+        "url": "https://open.spotify.com/album/2cYpryI2g6eu20whof2VI8"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134692,
+      "name": "De Leeuw Komt Eraan",
+      "url": "https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7"
     },
     {
       "album": {
@@ -6020,7 +6038,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 195000,
       "name": "Door me heen",
       "url": "https://open.spotify.com/track/5w2ik1kdMwpU5Nhcudy8Px"
@@ -7191,6 +7209,24 @@
     },
     {
       "album": {
+        "name": "gaan",
+        "url": "https://open.spotify.com/album/1DiKNoIgdJ3cY67TKvK15a"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Low",
+          "url": "https://open.spotify.com/artist/7suO7fpI2Z4B1Ok40mvkec"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187611,
+      "name": "gaan",
+      "url": "https://open.spotify.com/track/4vF3BtYIxpe4CrTxeyP8pt"
+    },
+    {
+      "album": {
         "name": "Gaan We Weg?",
         "url": "https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas"
       },
@@ -7817,6 +7853,24 @@
     },
     {
       "album": {
+        "name": "Goed In Bed",
+        "url": "https://open.spotify.com/album/2WHzOvPRt80QQpIR8q4tMS"
+      },
+      "artists": [
+        {
+          "name": "Adriaan Persons",
+          "url": "https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Goed In Bed",
+      "url": "https://open.spotify.com/track/54paMo4UsPOsR7aVNlGbIc"
+    },
+    {
+      "album": {
         "name": "Goed Nieuws",
         "url": "https://open.spotify.com/album/3iAznDDuEi5gm0XP4cAF1s"
       },
@@ -7832,6 +7886,28 @@
       "duration_ms": 223028,
       "name": "Goed Nieuws",
       "url": "https://open.spotify.com/track/1qSTVPUUf1JGUc5NpIZ6mB"
+    },
+    {
+      "album": {
+        "name": "Goed voor jou (feat. Brace)",
+        "url": "https://open.spotify.com/album/3vSS5DFiJLfNR4HUZgZgnN"
+      },
+      "artists": [
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149543,
+      "name": "Goed voor jou (feat. Brace)",
+      "url": "https://open.spotify.com/track/2k0iMnetMmzo4sm3Z15sBT"
     },
     {
       "album": {
@@ -10476,7 +10552,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 158343,
       "name": "Ik Heb Gedanst",
       "url": "https://open.spotify.com/track/2iVaoOaqNKuSuc0nuhNOeY"
@@ -12048,7 +12124,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 204115,
       "name": "Kijk niet in de Zon",
       "url": "https://open.spotify.com/track/29a5iDpWcJNMupxLzh3Vtx"
@@ -15466,7 +15542,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 137087,
       "name": "Nachtzuster",
       "url": "https://open.spotify.com/track/5MeVW2Ao6F9wepl10Sy86g"
@@ -17253,6 +17329,24 @@
     },
     {
       "album": {
+        "name": "over of niet?",
+        "url": "https://open.spotify.com/album/4Qg5ZK7clQbv75bn8DNQc6"
+      },
+      "artists": [
+        {
+          "name": "Laura Sjin",
+          "url": "https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196329,
+      "name": "over of niet?",
+      "url": "https://open.spotify.com/track/5NjNvHLQHT2yP4kDBOBel1"
+    },
+    {
+      "album": {
         "name": "Overdosis",
         "url": "https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL"
       },
@@ -18708,7 +18802,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 171934,
       "name": "schuldgevoel.",
       "url": "https://open.spotify.com/track/2Ekml6t6JfU8e6UucTpYmo"
@@ -20581,6 +20675,24 @@
     },
     {
       "album": {
+        "name": "Eindelijk Eerlijk",
+        "url": "https://open.spotify.com/album/5LgZAUOTk6N6fWaOqSNYxp"
+      },
+      "artists": [
+        {
+          "name": "JASHA",
+          "url": "https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/2FgCaGJ6rES2dyK5HajLmw"
+    },
+    {
+      "album": {
         "name": "Tranen Om Te Lachen",
         "url": "https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp"
       },
@@ -21007,6 +21119,24 @@
     },
     {
       "album": {
+        "name": "Vallen In Geluk",
+        "url": "https://open.spotify.com/album/1rZZVgeOmcYy98ubIr1pxY"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199404,
+      "name": "Vallen In Geluk",
+      "url": "https://open.spotify.com/track/0JGuRUagLm7QQAdtdiUAHE"
+    },
+    {
+      "album": {
         "name": "Tot Het Eind Van Mij",
         "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
       },
@@ -21347,6 +21477,24 @@
     },
     {
       "album": {
+        "name": "Oorsprong",
+        "url": "https://open.spotify.com/album/3xlmnqLwIYo9wDyRr83NOu"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156520,
+      "name": "Verkeerde Moment",
+      "url": "https://open.spotify.com/track/2kKbCuHVX8RM7KnjrFYtsx"
+    },
+    {
+      "album": {
         "name": "Verlaten",
         "url": "https://open.spotify.com/album/5enwsEosuR83tZqUFuTlam"
       },
@@ -21568,6 +21716,24 @@
       "duration_ms": 152470,
       "name": "Vervloekt",
       "url": "https://open.spotify.com/track/2fLTwHxKyC7D4O4ekCGjhi"
+    },
+    {
+      "album": {
+        "name": "Vespa",
+        "url": "https://open.spotify.com/album/5MYGAgMj7Z46h0znl6eeMb"
+      },
+      "artists": [
+        {
+          "name": "Dave Dekker",
+          "url": "https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184580,
+      "name": "Vespa",
+      "url": "https://open.spotify.com/track/2zvXfv3Cog6MIVEnPDzbp4"
     },
     {
       "album": {
@@ -22160,6 +22326,24 @@
       "duration_ms": 143015,
       "name": "Voorzichtig",
       "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
+    },
+    {
+      "album": {
+        "name": "Vrede",
+        "url": "https://open.spotify.com/album/06xueBfEDKOMKHdIqnNguZ"
+      },
+      "artists": [
+        {
+          "name": "Puck",
+          "url": "https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174255,
+      "name": "Vrede",
+      "url": "https://open.spotify.com/track/5nChDoJ0kXRw9Mmfyhn2ou"
     },
     {
       "album": {
@@ -23286,7 +23470,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 195459,
       "name": "Wie weet",
       "url": "https://open.spotify.com/track/1mUXSKARq2lBJkjy4jA7yc"

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Friday!",
-  "num_followers": 43457,
+  "num_followers": 43455,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAasbvgnoU/E7kOiss/fIA6tsT/ABJ7",
+  "snapshot_id": "AAAasjVsdLjfBFqSuEb9gok9awNTWPhL",
   "tracks": [
+    {
+      "added_at": "2026-05-15 04:00:51",
+      "album": {
+        "name": "Itty Bitty",
+        "url": "https://open.spotify.com/album/4zTQxIZDVMsUmjTjkrvkzq"
+      },
+      "artists": [
+        {
+          "name": "Dani Thorne",
+          "url": "https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Itty Bitty",
+      "url": "https://open.spotify.com/track/0xA7XDzXFyry0ien9lSD6s"
+    },
     {
       "added_at": "2026-05-08 04:00:46",
       "album": {

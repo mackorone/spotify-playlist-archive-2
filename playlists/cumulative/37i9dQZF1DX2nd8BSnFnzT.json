@@ -241,6 +241,28 @@
     },
     {
       "album": {
+        "name": "A LEI DO RETORNO",
+        "url": "https://open.spotify.com/album/7CyMcM3TxANJdZtQe5uFVT"
+      },
+      "artists": [
+        {
+          "name": "Bayside Kings",
+          "url": "https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p"
+        },
+        {
+          "name": "Terrorscreen",
+          "url": "https://open.spotify.com/artist/7FQTTbTEvmwJIwCkMYK4CR"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162009,
+      "name": "A LEI DO RETORNO",
+      "url": "https://open.spotify.com/track/6EXIs7tvBncoZjc2kn3Lvk"
+    },
+    {
+      "album": {
         "name": "A Mesma Coisa",
         "url": "https://open.spotify.com/album/6RaKLp5NgcVnqAyGr58iAW"
       },
@@ -782,6 +804,24 @@
       "duration_ms": 160320,
       "name": "Andando de SK8",
       "url": "https://open.spotify.com/track/2J8hc2jstcvn7yH3fbvOEb"
+    },
+    {
+      "album": {
+        "name": "Anedonia",
+        "url": "https://open.spotify.com/album/7y1buR3p6Hr9aK2NszCNN9"
+      },
+      "artists": [
+        {
+          "name": "Hellbenders",
+          "url": "https://open.spotify.com/artist/0V8ho5TS0MIhzlchtBuv7N"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144320,
+      "name": "Anedonia",
+      "url": "https://open.spotify.com/track/7I0L7nWg533yzThpuNnMkd"
     },
     {
       "album": {
@@ -2162,7 +2202,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 126448,
       "name": "Cola - Ao Vivo no Circo Voador",
       "url": "https://open.spotify.com/track/3RIaUfQVP9ibjO8aQM3Dar"
@@ -4834,7 +4874,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 173091,
       "name": "I Don't Wanna Die",
       "url": "https://open.spotify.com/track/76fkjJ43JhSYfiMyO7Bc03"

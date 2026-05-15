@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 6018,
+  "num_followers": 6019,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACj1LWsEu6kDplOC82CyiFf",
+  "snapshot_id": "agO/AAAAAAA7xDYBQ+aPbvxmqKLEjgVu",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "De Lo Que Me Salv\u00e9",
-      "url": "https://open.spotify.com/track/0NLswoddn2pdpx2AZ9Wm6J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Mocho Un Huevo",
         "url": "https://open.spotify.com/album/5ft1SODMyfZ15pYmC2QwwH"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "De Lo Que Me Salv\u00e9",
+      "url": "https://open.spotify.com/track/0NLswoddn2pdpx2AZ9Wm6J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
       },
@@ -651,26 +651,6 @@
       "duration_ms": 177240,
       "name": "Quisieran Tener Mi Lugar",
       "url": "https://open.spotify.com/track/5tToNjJK3lXfBqsvY51deQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 203013,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 203013,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
       },
@@ -719,30 +719,6 @@
       "duration_ms": 153653,
       "name": "Cuanto Te Debo",
       "url": "https://open.spotify.com/track/3XIsoRTP18VmEoSEBMr5yD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Ely Quintero",
-          "url": "https://open.spotify.com/artist/1Tgbk6apDUw1Vtg8qusImT"
-        },
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "Las Destrampadas",
-      "url": "https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk"
     },
     {
       "added_at": null,
@@ -787,6 +763,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Ely Quintero",
+          "url": "https://open.spotify.com/artist/1Tgbk6apDUw1Vtg8qusImT"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 141373,
+      "name": "Las Destrampadas",
+      "url": "https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Muerta",
         "url": "https://open.spotify.com/album/45ID2WdGfnY0a0d9kjMdzE"
       },
@@ -807,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+        "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
+        "url": "https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+          "name": "Dani Rose",
+          "url": "https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8"
         },
         {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 182986,
-      "name": "Ticket De Salida",
-      "url": "https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq"
+      "duration_ms": 198442,
+      "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
+      "url": "https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j"
     },
     {
       "added_at": null,
@@ -847,22 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
-        "url": "https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc"
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
       },
       "artists": [
         {
-          "name": "Dani Rose",
-          "url": "https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8"
-        },
-        {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
         }
       ],
-      "duration_ms": 198442,
-      "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
-      "url": "https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j"
+      "duration_ms": 182986,
+      "name": "Ticket De Salida",
+      "url": "https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq"
     },
     {
       "added_at": null,

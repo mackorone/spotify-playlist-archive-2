@@ -5,6 +5,36 @@
   "tracks": [
     {
       "album": {
+        "name": "06.10.22",
+        "url": "https://open.spotify.com/album/0Y6HgbPAVSZaOcrjZGAO7t"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Chris Carson",
+          "url": "https://open.spotify.com/artist/0gvoKJbY0q97HgBvPRmjMW"
+        },
+        {
+          "name": "Wilku WDZ",
+          "url": "https://open.spotify.com/artist/2W0PvL5xnsP59i2dgTkRF2"
+        },
+        {
+          "name": "W\u0142odi",
+          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "06.10.22",
+      "url": "https://open.spotify.com/track/1T5PDoKbM9gR3zFooqWSci"
+    },
+    {
+      "album": {
         "name": "1 na 100",
         "url": "https://open.spotify.com/album/1eMRkYLNzESSOcItnPYyvW"
       },
@@ -296,7 +326,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 183941,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6Y4NRk2afKRBAYeJqNP6eJ"
@@ -1816,7 +1846,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 180115,
       "name": "BAUNS",
       "url": "https://open.spotify.com/track/4mbkEOu7YG4MYR616x9g4a"
@@ -2500,6 +2530,36 @@
       "duration_ms": 160000,
       "name": "BOOMBOO",
       "url": "https://open.spotify.com/track/4uENLDm1ig23LmYH0yVDec"
+    },
+    {
+      "album": {
+        "name": "Border collie",
+        "url": "https://open.spotify.com/album/220ck3rTfplGLlRmyVIGYU"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        },
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "facaldo",
+          "url": "https://open.spotify.com/artist/0HlwqevkMNnO3xEMGDqca1"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149924,
+      "name": "Border collie",
+      "url": "https://open.spotify.com/track/5OzBUhbigJnRkPFiGlcZr0"
     },
     {
       "album": {
@@ -4627,6 +4687,24 @@
     },
     {
       "album": {
+        "name": "CZUJ\u0118 \u017bE CHC\u0118 ZAB**",
+        "url": "https://open.spotify.com/album/149sAS4O7Y2REM2lzFk6qC"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "CZUJ\u0118 \u017bE CHC\u0118 ZAB**",
+      "url": "https://open.spotify.com/track/1A2DkusE7Ntd7xoHVn2rsC"
+    },
+    {
+      "album": {
         "name": "da da da(\u017cyje dla rapu)",
         "url": "https://open.spotify.com/album/1ojwFXQzTdXq2TkJEN5naV"
       },
@@ -5442,7 +5520,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 162684,
       "name": "Dostosowany",
       "url": "https://open.spotify.com/track/38ynT8ztbxTnabNOqwzp2f"
@@ -6015,6 +6093,24 @@
     },
     {
       "album": {
+        "name": "MANDA",
+        "url": "https://open.spotify.com/album/1NimBkvK8jVrwne1yYVKgh"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113898,
+      "name": "Essentials",
+      "url": "https://open.spotify.com/track/33STAzaSlp3YjnHqxycIhK"
+    },
+    {
+      "album": {
         "name": "Etiuda nr11 FOKUS x RAHIM",
         "url": "https://open.spotify.com/album/1DbKOhADwXZW1Y7YuMkkm4"
       },
@@ -6354,7 +6450,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 155357,
       "name": "fashionably late",
       "url": "https://open.spotify.com/track/6ry6SA50l59MWK0g0r2qJ8"
@@ -10777,6 +10873,24 @@
     },
     {
       "album": {
+        "name": "LOBBY/STRADA",
+        "url": "https://open.spotify.com/album/5s9rbcdMIIJBJB1eyGaAiO"
+      },
+      "artists": [
+        {
+          "name": "kidzlori",
+          "url": "https://open.spotify.com/artist/5vd5bcqLmwJKYag1wil888"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143686,
+      "name": "LOBBY/STRADA",
+      "url": "https://open.spotify.com/track/0rMVc0ZKFC1frPgVL9Msxr"
+    },
+    {
+      "album": {
         "name": "lodowisko",
         "url": "https://open.spotify.com/album/4TlMnTBOhrKiJeENCLkRiY"
       },
@@ -11756,6 +11870,36 @@
       "duration_ms": 237893,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1EbpeFTSg6ZSSLhz366ova"
+    },
+    {
+      "album": {
+        "name": "VILLA MOMBASA MIXTAPE",
+        "url": "https://open.spotify.com/album/2fZ2MgeD7J7xVQFU1vqJWO"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Janusz Walczuk",
+          "url": "https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "Albert RCB",
+          "url": "https://open.spotify.com/artist/2suB8DxwVd3W7nXcZkLRZc"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153655,
+      "name": "MA\u0141A HOLD ON",
+      "url": "https://open.spotify.com/track/3K1ZjolMkY4zHv37YuKYIz"
     },
     {
       "album": {
@@ -14188,7 +14332,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 147692,
       "name": "NIE WSZYSTKO ZABOLI RAZ",
       "url": "https://open.spotify.com/track/2XxPUXfmaJ5pQFP32jGcJA"
@@ -14362,7 +14506,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 151836,
       "name": "Nieodebrane",
       "url": "https://open.spotify.com/track/5TyyDbRGSKvRXmcFxOLEqV"
@@ -18971,6 +19115,40 @@
     },
     {
       "album": {
+        "name": "Skincare",
+        "url": "https://open.spotify.com/album/0NpMUJE7AlYo1cHca590uh"
+      },
+      "artists": [
+        {
+          "name": "BROKIES",
+          "url": "https://open.spotify.com/artist/16e88U4wWhHSnsLZbjEgS8"
+        },
+        {
+          "name": "DiscoKarol",
+          "url": "https://open.spotify.com/artist/4Kl4ykwlB2WDqrieMW3XWB"
+        },
+        {
+          "name": "Dajczman",
+          "url": "https://open.spotify.com/artist/1NQ1cA17XLd3Rh7PFzadL2"
+        },
+        {
+          "name": "pirlo444",
+          "url": "https://open.spotify.com/artist/6eFI79MK4G6bNJd3F8hnL6"
+        },
+        {
+          "name": "WHXTISTM",
+          "url": "https://open.spotify.com/artist/58xJpLNziu6G8CgBtBwAo3"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Skincare",
+      "url": "https://open.spotify.com/track/2RnkwJU73biCm13CKPKKa0"
+    },
+    {
+      "album": {
         "name": "Skippers",
         "url": "https://open.spotify.com/album/55BlPQmFYM4ynhO05xKi9C"
       },
@@ -20237,6 +20415,40 @@
     },
     {
       "album": {
+        "name": "TIMETRAVEL",
+        "url": "https://open.spotify.com/album/58JmygA4LHNIWt5WioXKsu"
+      },
+      "artists": [
+        {
+          "name": "SKOK",
+          "url": "https://open.spotify.com/artist/3VAb1unnABjeF2pDUX2BLb"
+        },
+        {
+          "name": "AMEN HEWRA",
+          "url": "https://open.spotify.com/artist/6yuCtDwY0KUdcDZ46Hwxrg"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Sok\u00f3\u0142",
+          "url": "https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300985,
+      "name": "TIMETRAVEL",
+      "url": "https://open.spotify.com/track/4WaOIrKa42XU4hxBaGVcZ5"
+    },
+    {
+      "album": {
         "name": "<33",
         "url": "https://open.spotify.com/album/3nX8yqFelqnx29MHZ5Cdpi"
       },
@@ -21290,7 +21502,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 167522,
       "name": "Vito Van",
       "url": "https://open.spotify.com/track/0UQyYkHeR1xv51ApdrNFKv"
@@ -22942,7 +23154,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 193520,
       "name": "Zimny",
       "url": "https://open.spotify.com/track/4OrtPFEAlDpRORmP4T4ODI"

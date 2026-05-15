@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸    Cover: Thea Dora
 
-421 songs - 21 hr 36 min
+422 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Let Love In](https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR) | [Jaleesa](https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4) | [Sodalite](https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S) | 4:08 | 2025-10-09 | 2025-10-30 |
 | [Levende Billeder](https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx) | [Carl Emil Petersen](https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW) | [Amager Forbrænding](https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H) | 3:04 | 2024-07-11 | 2024-08-18 |
 | [Life Witness](https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Life Witness](https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm) | 2:25 | 2025-01-30 | 2025-07-24 |
-| [Lige Meget Hvor Langt Du Er](https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA) | 4:18 | 2025-04-03 |  |
+| [Lige Meget Hvor Langt Du Er](https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA) | 4:18 | 2025-04-03 | 2026-05-15 |
 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 |  |
 | [Like That](https://open.spotify.com/track/6gLqJMFHxveWZzHKmCbzv1) | [EMMA SEE](https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM) | [Like That](https://open.spotify.com/album/4jnfnJOU8HwBkc6y63d38h) | 3:16 | 2025-08-14 | 2025-08-22 |
 | [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [: \(:](https://open.spotify.com/album/4HN7xWLgsSVl6CdpbNPGRa) | 2:32 | 2025-09-11 | 2025-09-19 |
@@ -399,6 +399,7 @@
 | [Venter Kun På Dig](https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Venter Kun På Dig](https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL) | 2:20 | 2025-06-05 | 2025-09-05 |
 | [venter venter](https://open.spotify.com/track/3D0gL4WndIjNjETzEumRwZ) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [venter venter](https://open.spotify.com/album/1RHkIVr9rfmw4o3nLPurlJ) | 3:39 | 2025-05-29 | 2025-06-06 |
 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 | 2025-05-01 |  |
+| [Vilde Svaner](https://open.spotify.com/track/1yCjEZoEg0hICScFrASlMg) | [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Vilde Svaner](https://open.spotify.com/album/0HXtOt97IMGoJgvjok6MKO) | 3:27 | 2026-05-07 |  |
 | [Vilde Øjne](https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Vilde Øjne](https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS) | 3:10 | 2025-07-17 | 2025-11-16 |
 | [Vinder Ikke Mere](https://open.spotify.com/track/6idRbzcrBLHQjCJmTSaqLC) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Vinder Ikke Mere](https://open.spotify.com/album/2lmQ2oaFJjyjbJsock3zdw) | 3:06 | 2025-03-07 | 2025-03-22 |
 | [Vindueskarm](https://open.spotify.com/track/3t97ccQXMzSRs5CW7oYXPV) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Vindueskarm](https://open.spotify.com/album/1scUpPkKb82T46XThpZBO6) | 2:57 | 2025-08-28 | 2025-09-05 |

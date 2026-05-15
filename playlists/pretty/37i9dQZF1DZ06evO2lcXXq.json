@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 368810,
+  "num_followers": 368812,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAC4O1Y5hZJ20lMrDI36Rli9",
+  "snapshot_id": "agO/AAAAAAC53uzKwp5zlZ2LXnJPl+aN",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Let You Go",
-        "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
       "artists": [
         {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 247422,
-      "name": "I Won't Let You Go",
-      "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
+      "duration_ms": 319574,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt"
     },
     {
       "added_at": null,
@@ -267,22 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
+        "name": "I Won't Let You Go",
+        "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
         },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 319574,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt"
+      "duration_ms": 247422,
+      "name": "I Won't Let You Go",
+      "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
     },
     {
       "added_at": null,

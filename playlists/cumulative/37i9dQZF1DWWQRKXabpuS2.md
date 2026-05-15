@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-461 songs - 1 day 7 hr 30 min
+462 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [AL Haneen](https://open.spotify.com/track/4QFao7PN5C3uGmfyaWs3Dw) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [AL Haneen](https://open.spotify.com/album/2yN7VTziuoXyPuqy0HONX2) | 3:20 | 2021-12-23 | 2022-01-21 |
 | [Al Hila](https://open.spotify.com/track/0P8Sth3aH06QBfMF1hw3C4) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [Al Hila](https://open.spotify.com/album/53S7tlEKRYRp1pJ7pez7TL) | 2:58 | 2023-05-25 | 2023-05-28 |
 | [Al Hob Al Kbeer](https://open.spotify.com/track/7t1GCSJoQOX246hFilyjgu) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Hob Al Kbeer](https://open.spotify.com/album/2YIXkJvOS9I7c58kFp6qhC) | 5:28 | 2022-08-09 | 2022-10-11 |
+| [AL Madhi](https://open.spotify.com/track/2U4qvP2oIGcsYgSHLkxKm5) | [Nawaf Fraih](https://open.spotify.com/artist/5yl3BFzx0O1yOA06WCWWGj) | [AL Madhi](https://open.spotify.com/album/7En7seOI2dlQTl9CfAQCct) | 1:49 | 2026-05-13 |  |
 | [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 | 2023-02-02 | 2023-09-08 |
 | [Al Sayda Al Oula](https://open.spotify.com/track/5zGk9jf74600Cy1RzvJp3M) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Al Sayda Al Oula](https://open.spotify.com/album/2PxcNAyTS3nJwOXKMtA8fV) | 4:13 | 2024-01-18 | 2024-09-06 |
 | [Al Sodfa](https://open.spotify.com/track/2129hTPYFuxRwddEyZQQxq) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Al Sodfa](https://open.spotify.com/album/3U0JikN0cQIjuDnortcJ2R) | 2:53 | 2023-12-09 | 2024-06-25 |

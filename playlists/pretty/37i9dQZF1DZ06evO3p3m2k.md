@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 
 > This is Juliana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,721 likes - 48 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,723 likes - 48 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 16 | [Sin medir distancias](https://open.spotify.com/track/3JM3WhGaWoAZ6JCsH6T1zx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Sin medir distancias](https://open.spotify.com/album/0NqLWiJ5IfOUFUDTBdxGaA) | 4:16 |
 | 17 | [Cara de Idiota](https://open.spotify.com/track/4dKJDvoZ70XB4BIHMoGnAU) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 3:11 |
 | 18 | [A Tiempo](https://open.spotify.com/track/0l7o1qoJ754BKRlH7uBf2q) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:47 |
-| 19 | [Paciente](https://open.spotify.com/track/2x6RrcueNTLQuloTnR1ULz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 3:07 |
+| 19 | [Submarino](https://open.spotify.com/track/458HEdjsqtvw5x7QXmFNL6) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:51 |
 | 20 | [24 Horas](https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [24 Horas](https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le) | 3:38 |
 | 21 | [La Colombiana](https://open.spotify.com/track/3lR7MCIummieXz5REQDoYp) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:46 |
 | 22 | [Pendejada feat\. Mabiland](https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:27 |
-| 23 | [Submarino](https://open.spotify.com/track/458HEdjsqtvw5x7QXmFNL6) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:51 |
+| 23 | [Paciente](https://open.spotify.com/track/2x6RrcueNTLQuloTnR1ULz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 3:07 |
 | 24 | [Electricidad \(2:21am\)](https://open.spotify.com/track/5ErcJsujfGgRXsTTz7FGRm) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 3:57 |
 | 25 | [Aurora](https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:57 |
 | 26 | [Cometa Feat\. Daniela Calle \- En Vivo](https://open.spotify.com/track/5mqYQFMbHe9NX1P8hWNZNl) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Cometa Feat\. Daniela Calle \(En Vivo\)](https://open.spotify.com/album/0hR2l1PUKrem5AbwJc9EJY) | 2:38 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 37 | [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 |
 | 38 | [A La Medida \(2:20am\)](https://open.spotify.com/track/7EQKXlAb6jFOld9IPODbn8) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 3:18 |
 | 39 | [Que Locura Enamorarme de Ti \- \(Sesión en vivo\)](https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 2:57 |
-| 40 | [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 |
-| 41 | [La Primera Vez \- Remix](https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [La Primera Vez: Temporada 4 \(Soundtrack de la Serie de Netflix\)](https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM) | 3:38 |
+| 40 | [La Primera Vez \- Remix](https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [La Primera Vez: Temporada 4 \(Soundtrack de la Serie de Netflix\)](https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM) | 3:38 |
+| 41 | [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 |
 | 42 | [Montaña Rusa](https://open.spotify.com/track/0OC5zKdIxjR3oYiWuL3Tq1) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 2:46 |
 | 43 | [¿Y Cómo Es Él? \- \(Sesión en vivo\)](https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 2:43 |
 | 44 | [Enséñame](https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Enséñame](https://open.spotify.com/album/34KSApIN48IpEUePEJYV97) | 3:37 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 47 | [Corazón Partío \- \(Sesión en vivo\)](https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 3:54 |
 | 48 | [La Última Vez](https://open.spotify.com/track/0b1yf2gOLwNAx80mjql6HP) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez: Temporada 4 \(Soundtrack de la Serie de Netflix\)](https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM) | 2:53 |
 
-Snapshot ID: `agJtgAAAAAAV+Ad+2I13WdBxs23XY3p8`
+Snapshot ID: `agO/AAAAAABS4mWL7JjD3iNMUeqseHfS`

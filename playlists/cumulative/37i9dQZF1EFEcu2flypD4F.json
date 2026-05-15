@@ -6055,6 +6055,24 @@
     },
     {
       "album": {
+        "name": "Step By Step (Amazon Original)",
+        "url": "https://open.spotify.com/album/6BiJg12jXySG2hIFOnSjSV"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249343,
+      "name": "Step By Step (Amazon Original)",
+      "url": "https://open.spotify.com/track/1Twk62H5OUjfxf3wDOmohi"
+    },
+    {
+      "album": {
         "name": "We Are Born",
         "url": "https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI"
       },
@@ -8058,7 +8076,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 257252,
       "name": "You Lost Me",
       "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"

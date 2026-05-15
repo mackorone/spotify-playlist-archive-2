@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 103234,
+  "num_followers": 103268,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAABPwOmRXoZQN+wvkaR7eLBJ",
+  "snapshot_id": "agO/AAAAAAA/cSUC6sJKMdhjP4At5CHb",
   "tracks": [
     {
       "added_at": null,
@@ -191,30 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know Your Worth (feat. Davido & Tems)",
-        "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 191067,
-      "name": "Know Your Worth (feat. Davido & Tems)",
-      "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
+      "duration_ms": 193758,
+      "name": "High",
+      "url": "https://open.spotify.com/track/4G11wDzAKuCFqApL4g3ixC"
     },
     {
       "added_at": null,
@@ -239,22 +231,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+        "name": "Know Your Worth (feat. Davido & Tems)",
+        "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 193758,
-      "name": "High",
-      "url": "https://open.spotify.com/track/4G11wDzAKuCFqApL4g3ixC"
+      "duration_ms": 191067,
+      "name": "Know Your Worth (feat. Davido & Tems)",
+      "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Holy Ground (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 187893,
       "name": "La La (feat. Ckay)",
       "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
     },
     {
       "added_at": null,
@@ -999,22 +999,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+        "name": "Aza",
+        "url": "https://open.spotify.com/album/1FEEBPf8hVb5OplQtmvsPv"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "DMW",
+          "url": "https://open.spotify.com/artist/6DmouQfvRZ2y9auxK3DjuI"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Duncan Mighty",
+          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         }
       ],
-      "duration_ms": 199850,
-      "name": "Eva Longoria",
-      "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
+      "duration_ms": 224587,
+      "name": "Aza",
+      "url": "https://open.spotify.com/track/38CYTisSSjMhhHqFyj6w4l"
     }
   ],
   "unique_name": "This Is Davido",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: jolle",
+  "description": "Deutschpop, der jetzt passiert. Cover: Wilhelmine",
   "name": "POPLAND",
   "tracks": [
     {
@@ -500,7 +500,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 130906,
       "name": "Alles wird gut",
       "url": "https://open.spotify.com/track/1ApCAnRE4fQZ3jEEhuE3Nc"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 127333,
       "name": "Auf dich",
       "url": "https://open.spotify.com/track/2otC9SlXj6GmQhMAwK5DyR"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 152208,
       "name": "deine l\u00fcgen sind die sch\u00f6nsten",
       "url": "https://open.spotify.com/track/3g04dcCUVDEfJI8krrluXt"
@@ -3337,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Nicht mehr traurig",
+        "url": "https://open.spotify.com/album/6FtYUdzSfqNCsAVmR3BsmM"
+      },
+      "artists": [
+        {
+          "name": "Queen Mahoro",
+          "url": "https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118194,
+      "name": "Halbe Wahrheit",
+      "url": "https://open.spotify.com/track/09ro7ihMGccFtQDWATIF8f"
+    },
+    {
+      "album": {
         "name": "Hallo",
         "url": "https://open.spotify.com/album/6zAhoTEzsK3QdJBgtKdpBr"
       },
@@ -3904,7 +3922,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 142986,
       "name": "Ich seh was, was du nicht siehst",
       "url": "https://open.spotify.com/track/4BAPYfMQTLYgXB5KU0GkDf"
@@ -5504,7 +5522,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 190177,
       "name": "mansplaining survivor",
       "url": "https://open.spotify.com/track/147XAaZBvbw6DQpPMBcTKC"
@@ -5526,6 +5544,24 @@
       "duration_ms": 127200,
       "name": "MARKETING",
       "url": "https://open.spotify.com/track/5CJqZDf8EhrgSy3sveyEdl"
+    },
+    {
+      "album": {
+        "name": "Mascara",
+        "url": "https://open.spotify.com/album/3h7k7XEpZ4wxGyfzO3Eyvk"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151106,
+      "name": "Mascara",
+      "url": "https://open.spotify.com/track/23jeo9x3nDuXSBBp8A4RTo"
     },
     {
       "album": {
@@ -5753,6 +5789,24 @@
     },
     {
       "album": {
+        "name": "Merci Ch\u00e9rie (Eine Hommage an Udo J\u00fcrgens)",
+        "url": "https://open.spotify.com/album/6RuUX1qqcSqaSTcXxdhvyW"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136720,
+      "name": "Merci Ch\u00e9rie - Eine Hommage an Udo J\u00fcrgens",
+      "url": "https://open.spotify.com/track/1xm3ihvK0g2eKBdOqHUjOG"
+    },
+    {
+      "album": {
         "name": "mich hat man(n) nicht lieb",
         "url": "https://open.spotify.com/album/2C46UXfOaIYtC2MXylfU3K"
       },
@@ -5902,6 +5956,24 @@
       "duration_ms": 158201,
       "name": "nah am meer gebaut",
       "url": "https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es"
+    },
+    {
+      "album": {
+        "name": "naiv",
+        "url": "https://open.spotify.com/album/6ocTkLFtl8TmxHfDAncmZw"
+      },
+      "artists": [
+        {
+          "name": "marita",
+          "url": "https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182960,
+      "name": "naiv",
+      "url": "https://open.spotify.com/track/3C51CA0oPVN4wDzug0aiBY"
     },
     {
       "album": {
@@ -6223,6 +6295,24 @@
     },
     {
       "album": {
+        "name": "Nie mehr f\u00fcr immer",
+        "url": "https://open.spotify.com/album/2S0YuHNEfBbHgeYVE2pRHw"
+      },
+      "artists": [
+        {
+          "name": "CCOSMO",
+          "url": "https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Nie mehr f\u00fcr immer",
+      "url": "https://open.spotify.com/track/4rTKY2Iu3xmeAJwBr9aAMl"
+    },
+    {
+      "album": {
         "name": "nie verstehen",
         "url": "https://open.spotify.com/album/7CR6gLaObiPTPqOg2CIUoN"
       },
@@ -6238,6 +6328,24 @@
       "duration_ms": 133209,
       "name": "nie verstehen",
       "url": "https://open.spotify.com/track/0nKiL94U8ti7ksxjSaIDB8"
+    },
+    {
+      "album": {
+        "name": "NIE WIEDER",
+        "url": "https://open.spotify.com/album/5GSAR1jAcRlCAHLr5g1Rza"
+      },
+      "artists": [
+        {
+          "name": "LORI",
+          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134506,
+      "name": "NIE WIEDER",
+      "url": "https://open.spotify.com/track/7MLQqu5BcNGO78I4ozefEv"
     },
     {
       "album": {
@@ -6288,7 +6396,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 178714,
       "name": "Niemand ist perfekt",
       "url": "https://open.spotify.com/track/4l8VmY3YnBZ1heMneGSS9p"
@@ -6632,7 +6740,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 136201,
       "name": "pepe hellgr\u00fcn",
       "url": "https://open.spotify.com/track/3gT1xwmqnH6ICz6fI08FCf"
@@ -7382,7 +7490,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 135409,
       "name": "So wie sie",
       "url": "https://open.spotify.com/track/2aa4pe8kQ68SVOYijZ8xTr"
@@ -7400,7 +7508,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 135360,
       "name": "SOMMER",
       "url": "https://open.spotify.com/track/3sYlzPHOgTkxljflx9znBQ"
@@ -7675,6 +7783,24 @@
     },
     {
       "album": {
+        "name": "STOLZ AUF DICH",
+        "url": "https://open.spotify.com/album/20k84KeK6g6VPnz6MdWt8T"
+      },
+      "artists": [
+        {
+          "name": "KAYEF",
+          "url": "https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151958,
+      "name": "STOLZ AUF DICH",
+      "url": "https://open.spotify.com/track/4Zppu4rQXAsTwIM2AFsM0y"
+    },
+    {
+      "album": {
         "name": "Stolz auf Dich",
         "url": "https://open.spotify.com/album/3zqjNnfFcg6pdGv2Lvb1Ez"
       },
@@ -7837,6 +7963,60 @@
     },
     {
       "album": {
+        "name": "TESTPHASE LIEBE",
+        "url": "https://open.spotify.com/album/2nYaZhXmzgIGGV6plCUjD0"
+      },
+      "artists": [
+        {
+          "name": "Gregor H\u00e4gele",
+          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/5ZatvuoTuGsOUj4DqCR6xH"
+    },
+    {
+      "album": {
+        "name": "nur Mut",
+        "url": "https://open.spotify.com/album/0R0MoBwi0gobIp6s1Nybrd"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/5t201vMU4MTLtWeCBOBNRZ"
+    },
+    {
+      "album": {
+        "name": "eine kleine nacht ep",
+        "url": "https://open.spotify.com/album/77idFTs70HXrdab52Enr8A"
+      },
+      "artists": [
+        {
+          "name": "Caro Schaeffler",
+          "url": "https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/07NhhkTJgIFS0ZrC847dEb"
+    },
+    {
+      "album": {
         "name": "Traumfrau",
         "url": "https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9"
       },
@@ -7848,7 +8028,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 130346,
       "name": "Traumfrau",
       "url": "https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej"
@@ -8116,6 +8296,24 @@
       "duration_ms": 129982,
       "name": "VERLIEBT IN MICH",
       "url": "https://open.spotify.com/track/1XZK1B904mtFv1Ze3Rgeg2"
+    },
+    {
+      "album": {
+        "name": "VERMISS DICH",
+        "url": "https://open.spotify.com/album/2Iv9uGJkD15qyUDhKxvVvh"
+      },
+      "artists": [
+        {
+          "name": "CHRIS",
+          "url": "https://open.spotify.com/artist/5KFGB68TTW3x2GFT8o00rL"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128403,
+      "name": "VERMISS DICH",
+      "url": "https://open.spotify.com/track/4r6Aws9aiJdYpG4cS1vrJ1"
     },
     {
       "album": {
@@ -8818,7 +9016,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 181867,
       "name": "Wenn der Tag anbricht",
       "url": "https://open.spotify.com/track/3YDzmIpERgs9JbpQ5drWv9"
@@ -9461,6 +9659,24 @@
     },
     {
       "album": {
+        "name": "zufrieden",
+        "url": "https://open.spotify.com/album/5ajFVeGBHKkocRlrGCOWAx"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136204,
+      "name": "zufrieden",
+      "url": "https://open.spotify.com/track/5H9Zad8uqdWkfKygwYjZvv"
+    },
+    {
+      "album": {
         "name": "Zuhause",
         "url": "https://open.spotify.com/album/1Oah8D3dVIvryOs4nQRQ3V"
       },
@@ -9544,7 +9760,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 151646,
       "name": "\u00c7a va aller",
       "url": "https://open.spotify.com/track/5HDCn7jnmb9SDwn1btDGwi"

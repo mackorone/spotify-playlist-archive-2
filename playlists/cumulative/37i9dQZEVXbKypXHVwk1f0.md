@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,872 songs - 4 day 8 hr 57 min
+1,873 songs - 4 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1282,6 +1282,7 @@
 | [PIDE](https://open.spotify.com/track/2tAwNLAIBtgXdzQOtVq6mL) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:27 | 2023-08-30 | 2023-09-04 |
 | [Piedras en la Ventana](https://open.spotify.com/track/6a78lsclHfvHEMES2X5BT7) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 2:56 | 2025-04-05 | 2025-04-07 |
 | [Piedritas En Los Dientes](https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Piedritas En Los Dientes](https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A) | 2:36 | 2023-08-05 | 2023-08-07 |
+| [Piel Morena](https://open.spotify.com/track/4l9qLfwUOLpmCP8JOEanMF) | [Natax Beat](https://open.spotify.com/artist/7g5ZEviM2IkEaqkLhO72bx) | [Cordelia](https://open.spotify.com/album/3QrBjOkMByv3gWF7FXlqNO) | 2:40 | 2026-05-14 |  |
 | [Pieza Exhibición](https://open.spotify.com/track/6BIeMM4lJYzeVlYP289uDp) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Pieza Exhibición](https://open.spotify.com/album/7p5H5BRUqMenAPNZmLsiuX) | 4:43 | 2025-10-29 | 2025-10-31 |
 | [Pin](https://open.spotify.com/track/5L1GX9GFIHYm1AMAlNgoHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:41 | 2021-11-28 | 2021-12-04 |
 | [PIN PIN](https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:39 | 2021-04-26 | 2021-05-20 |
@@ -1468,7 +1469,7 @@
 | [SALU](https://open.spotify.com/track/4LTUsC5Qh4gQUvL2P6rBkD) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:01 | 2025-05-20 | 2025-05-23 |
 | [San Andrés](https://open.spotify.com/track/2cPCGkVzozHLsdylZb7x5T) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:33 | 2022-03-12 | 2022-06-23 |
 | [san blaS](https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 2:28 | 2025-04-26 | 2025-05-15 |
-| [San Jose](https://open.spotify.com/track/10faGZlZW8884vtccmxfuG) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Bombermusik](https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ) | [San Jose](https://open.spotify.com/album/01cCEYFBAyC4bWcKZoSoKU) | 3:55 | 2025-12-04 |  |
+| [San Jose](https://open.spotify.com/track/10faGZlZW8884vtccmxfuG) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Bombermusik](https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ) | [San Jose](https://open.spotify.com/album/01cCEYFBAyC4bWcKZoSoKU) | 3:55 | 2025-12-04 | 2026-05-15 |
 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 | 2024-04-15 | 2024-05-22 |
 | [Santa](https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W) | 3:13 | 2024-05-21 | 2025-11-04 |
 | [Santa Claus Llegó a La Ciudad](https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 1:55 | 2024-12-26 | 2024-12-28 |

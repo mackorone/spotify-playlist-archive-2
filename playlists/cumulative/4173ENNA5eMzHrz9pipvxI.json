@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Timmy Trumpet x Frank Walker x John Martin",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: POLTERGST",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -602,6 +602,44 @@
       "duration_ms": 159166,
       "name": "A Gira (David Guetta Remix)",
       "url": "https://open.spotify.com/track/2AZVoftjLl883aKfk8wSJn"
+    },
+    {
+      "album": {
+        "name": "A Gira (with Emanuel Satie, Maga, Sean Doron, Tim Engelhardt & Scenarios) [Remix]",
+        "url": "https://open.spotify.com/album/33ryXYhRDCEqDH86X8CRx8"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        },
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        },
+        {
+          "name": "Maga",
+          "url": "https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl"
+        },
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        },
+        {
+          "name": "Scenarios",
+          "url": "https://open.spotify.com/artist/67Y8oTELtWBk3MncBMCG1H"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "A Gira (with Emanuel Satie, Maga, Sean Doron, Tim Engelhardt & Scenarios) - Remix",
+      "url": "https://open.spotify.com/track/77kExLr3RKN77SYcVEZZ14"
     },
     {
       "album": {
@@ -2756,6 +2794,40 @@
       "duration_ms": 162187,
       "name": "Baby I'm a Boss",
       "url": "https://open.spotify.com/track/1uiDcSpUCJvAZuRtjkS9b4"
+    },
+    {
+      "album": {
+        "name": "Men Machine EP",
+        "url": "https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Men Machine",
+          "url": "https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2"
+        },
+        {
+          "name": "Congorock",
+          "url": "https://open.spotify.com/artist/683obsKtbyVNhitubjOZhi"
+        },
+        {
+          "name": "KENZ",
+          "url": "https://open.spotify.com/artist/4hG14VdUeZMYHmKwXjGv2L"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Babylon (Men Machine Rework)",
+      "url": "https://open.spotify.com/track/5sUr2jls97So7KyzHC8Rqk"
     },
     {
       "album": {
@@ -7259,6 +7331,28 @@
     },
     {
       "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/3IMhAUPK3pRLIMO2Qy8I3v"
+      },
+      "artists": [
+        {
+          "name": "Jeno",
+          "url": "https://open.spotify.com/artist/6a6RDE2aXu0ZPQPxpllNps"
+        },
+        {
+          "name": "Wempe",
+          "url": "https://open.spotify.com/artist/55DlXvQEA1caP9xf39DSlW"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182978,
+      "name": "Contra",
+      "url": "https://open.spotify.com/track/404MxkOiMnqfYgiHtI7jEr"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA"
       },
@@ -11089,6 +11183,36 @@
     },
     {
       "album": {
+        "name": "Men Machine EP",
+        "url": "https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Men Machine",
+          "url": "https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2"
+        },
+        {
+          "name": "Vitalic",
+          "url": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120916,
+      "name": "Engage (feat. Vitalic)",
+      "url": "https://open.spotify.com/track/1E7exwXNMzyj6k0I5jAGY8"
+    },
+    {
+      "album": {
         "name": "Entrance",
         "url": "https://open.spotify.com/album/6vnQGepBinBhQjBUdm1hxL"
       },
@@ -12992,6 +13116,28 @@
       "duration_ms": 133758,
       "name": "Fine Day (Ninkid Remix)",
       "url": "https://open.spotify.com/track/3R8ae3SyEdVm4uEq9gnJwd"
+    },
+    {
+      "album": {
+        "name": "Fit The Tempo",
+        "url": "https://open.spotify.com/album/4ZjEvuT2fAJPc46RluNFAK"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "VIKTOR",
+          "url": "https://open.spotify.com/artist/2nuOh4IEefKExo2nWyNu9W"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Fit The Tempo",
+      "url": "https://open.spotify.com/track/3yXgRhLAjW7I3vRv8QY43C"
     },
     {
       "album": {
@@ -15742,6 +15888,32 @@
       "duration_ms": 148062,
       "name": "Hey Sexy Lady",
       "url": "https://open.spotify.com/track/4LwRGTfL5kxJEHWl98usFa"
+    },
+    {
+      "album": {
+        "name": "Men Machine EP",
+        "url": "https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Men Machine",
+          "url": "https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/7qiYvvhc4un5HjssmfRs65"
     },
     {
       "album": {
@@ -19012,6 +19184,28 @@
       "duration_ms": 227200,
       "name": "It Ain't Safe",
       "url": "https://open.spotify.com/track/6lAYlIYhPgHw6cXkxAmiJg"
+    },
+    {
+      "album": {
+        "name": "It Ain't Safe (FENRIP)",
+        "url": "https://open.spotify.com/album/6UgNBTBU36IulNvfUrrHIk"
+      },
+      "artists": [
+        {
+          "name": "Fenrick",
+          "url": "https://open.spotify.com/artist/4xfKbQQytFl4LWMGe2v5P3"
+        },
+        {
+          "name": "DJ IP",
+          "url": "https://open.spotify.com/artist/7fv38XqMnjKou11W8jG4aK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151945,
+      "name": "It Ain't Safe (FENRIP)",
+      "url": "https://open.spotify.com/track/2uvchqTMwW7gAgjuGVI2pj"
     },
     {
       "album": {
@@ -24840,6 +25034,24 @@
       "duration_ms": 171825,
       "name": "Mind Illuminate",
       "url": "https://open.spotify.com/track/5p7hNVYvzfrdb4wOiWtcNo"
+    },
+    {
+      "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/2jQ51I82kUtGlS2hwIZJCn"
+      },
+      "artists": [
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/03ywYxods3U9Go51LNZzzb"
     },
     {
       "album": {
@@ -30982,6 +31194,36 @@
       "duration_ms": 125729,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/4tFPsq6ZxrCH1pgz2XIYP2"
+    },
+    {
+      "album": {
+        "name": "Men Machine EP",
+        "url": "https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Men Machine",
+          "url": "https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2"
+        },
+        {
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "PWR",
+      "url": "https://open.spotify.com/track/1m2ZPf3N9I3bEFds3TwHNQ"
     },
     {
       "album": {
@@ -37891,6 +38133,32 @@
     },
     {
       "album": {
+        "name": "Men Machine EP",
+        "url": "https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Men Machine",
+          "url": "https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "The Past, The Present, The Future",
+      "url": "https://open.spotify.com/track/1Cp8mfSFvYo7ddTy7NkmpL"
+    },
+    {
+      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
       },
@@ -39802,6 +40070,36 @@
       "duration_ms": 186093,
       "name": "Turn The Lights Off (Hypaton Remix)",
       "url": "https://open.spotify.com/track/0sbdU6J0TXPuRcSeIa7glU"
+    },
+    {
+      "album": {
+        "name": "Turn The Lights Off (Paul Elstak Remix)",
+        "url": "https://open.spotify.com/album/4z02t8GQPO1052P0gvBPc3"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Turn The Lights Off (Paul Elstak Remix)",
+      "url": "https://open.spotify.com/track/5rc4Y6Io2RKjqDdsZR7G3R"
     },
     {
       "album": {

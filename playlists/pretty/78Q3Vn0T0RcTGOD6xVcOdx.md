@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 483 likes - 112 songs - 6 hr 25 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 483 likes - 113 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,6 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 110 | [Silver Threads: Dawn That Conquers Night](https://open.spotify.com/track/4dDmB5h8WUehCfXMNDW4wn) | [ELYRIA](https://open.spotify.com/artist/2i2B40TahkDpJYM4J7PHHb) | [Silver Threads: The Final Saga](https://open.spotify.com/album/3XEMADvwycV4x8hJDHi2Qo) | 6:44 |
 | 111 | [Feet On Earth \- Bones Alive](https://open.spotify.com/track/32Zqd3db3Bd6RGBeG9PATQ) | [LEARA \- ELYRIA SINGER](https://open.spotify.com/artist/6jgY3hP8sqiGrAbHdvUkk8) | [Feet On Earth](https://open.spotify.com/album/5Vv1f6zZhiQNa2lf7Ti5S6) | 3:51 |
 | 112 | [Me Gustas Tu](https://open.spotify.com/track/235Y5A55l0S5VuHAArd8e8) | [Los Flamingo](https://open.spotify.com/artist/2JlMuemTsSuUKSZqghyTm0), [Capitán Eléctrico](https://open.spotify.com/artist/5a4CjfqcIDFQFUxaQqg2Ka) | [Me Gustas Tu](https://open.spotify.com/album/3xCvaL302GI5AfR3xN3G6Y) | 2:42 |
+| 113 | [Onde di Luce](https://open.spotify.com/track/1Qlfkz30wwCeCgQ1XLBJZL) | [PAUL PARKER](https://open.spotify.com/artist/0P4buL4lc2m8KO8WD28XMa), [Deep7s](https://open.spotify.com/artist/33QC3toB8CzjHU0QhbVLfl) | [Onde di Luce](https://open.spotify.com/album/5dnnc3ycjReH8Kwh1XFZk7) | 2:54 |
 
-Snapshot ID: `AAABre6HQjm/WCkgmzUfhSJeGkjp1lCM`
+Snapshot ID: `AAABrgVE7sPeAsUArxyZBV/CNpdpLhoZ`

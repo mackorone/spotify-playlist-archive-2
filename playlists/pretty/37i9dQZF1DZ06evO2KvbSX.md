@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KvbSX.md) - [plain]
 
 > This is Lewis Capaldi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,376 likes - 38 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,407 likes - 38 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KvbSX.md) - [plain]
 | 37 | [Old Navy Blue](https://open.spotify.com/track/2sZxMkr5Qq5FzaymQy2nFc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:08 |
 | 38 | [Bruises \- Steve Void Remix](https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:32 |
 
-Snapshot ID: `agJtgAAAAAApJWsE6XaAW8mW9JnzDe4h`
+Snapshot ID: `agO/AAAAAABho83470eKtaEW/EEotWkg`

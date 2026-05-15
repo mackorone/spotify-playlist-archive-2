@@ -987,6 +987,24 @@
     },
     {
       "album": {
+        "name": "Arasi",
+        "url": "https://open.spotify.com/album/5j4nerLGYSNhuVKaoPAGlh"
+      },
+      "artists": [
+        {
+          "name": "Haakash",
+          "url": "https://open.spotify.com/artist/4srKc15ZZzjnAbr6NYhju0"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192908,
+      "name": "Arasi",
+      "url": "https://open.spotify.com/track/7F1LALzf4IhVQ7azvc9trG"
+    },
+    {
+      "album": {
         "name": "Atha Mava",
         "url": "https://open.spotify.com/album/0A6W0ReWy6DnU5NmcqMyK9"
       },
@@ -3834,6 +3852,24 @@
       "duration_ms": 209563,
       "name": "I Love You - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/6qLhGqkpNeCScdqW1vaXDK"
+    },
+    {
+      "album": {
+        "name": "I Love You MA",
+        "url": "https://open.spotify.com/album/5HJchuj36N2O9QfzF6qcOI"
+      },
+      "artists": [
+        {
+          "name": "Santesh",
+          "url": "https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213103,
+      "name": "I Love You MA",
+      "url": "https://open.spotify.com/track/3ZfxwZtwbv4Lc8ew5V8HGN"
     },
     {
       "album": {

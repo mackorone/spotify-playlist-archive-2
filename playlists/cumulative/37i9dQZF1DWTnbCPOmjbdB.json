@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Kasia Sienkiewicz",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Justyna Steczkowska, Skolim",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 153513,
       "name": "Co, je\u015bli?",
       "url": "https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr"
@@ -2553,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Czule m\u00f3wi\u0119",
+        "url": "https://open.spotify.com/album/4DEt3nc2DIHkRafA7RI1Ty"
+      },
+      "artists": [
+        {
+          "name": "Natalia Grosiak",
+          "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "Czule m\u00f3wi\u0119",
+      "url": "https://open.spotify.com/track/5vCjLZ5tJd2DuVeENeoTyw"
+    },
+    {
+      "album": {
         "name": "Czy o mnie my\u015blisz?",
         "url": "https://open.spotify.com/album/3bNRAwwiPnhSaXtrzPfkhB"
       },
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 177120,
       "name": "Czy wie?",
       "url": "https://open.spotify.com/track/4rTDbgvrOW9ICPoZjRCeTe"
@@ -4660,7 +4678,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 125624,
       "name": "G\u0119sty dym (ca\u0142y Ty ca\u0142a ja)",
       "url": "https://open.spotify.com/track/7o8FRyR08PuUMWRlW6jDsV"
@@ -5113,6 +5131,24 @@
     },
     {
       "album": {
+        "name": "Imi\u0119",
+        "url": "https://open.spotify.com/album/7Hpjd4c0HqZM2LwPeFWeZ9"
+      },
+      "artists": [
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Imi\u0119",
+      "url": "https://open.spotify.com/track/7xgvGlzuUn9yLXmyFAsq4U"
+    },
+    {
+      "album": {
         "name": "Immortal",
         "url": "https://open.spotify.com/album/2NVN3qy6uQmgOEjmWpyFGo"
       },
@@ -5524,7 +5560,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 120333,
       "name": "Jedziemy na domki",
       "url": "https://open.spotify.com/track/1k6UKqqaN8YmJJzTp0gyCw"
@@ -5884,7 +5920,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 192122,
       "name": "Kiedy umr\u0119 kochanie (H. Po\u015bwiatowska)",
       "url": "https://open.spotify.com/track/2PB5GjIi4EC3XYsanvpysO"
@@ -7263,6 +7299,32 @@
     },
     {
       "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/4e0pXkMrFaqCerD62yyTGX"
+      },
+      "artists": [
+        {
+          "name": "Justyna Steczkowska",
+          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+        },
+        {
+          "name": "Skolim",
+          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138935,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/6hYzr0Q7PxojAZFViv62af"
+    },
+    {
+      "album": {
         "name": "MAMONY MILION",
         "url": "https://open.spotify.com/album/1Webw1M55Xd9Rr1n51Qk70"
       },
@@ -7964,7 +8026,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 143138,
       "name": "Moja Pani",
       "url": "https://open.spotify.com/track/0EDjVUr4AhNISqIs6Vc4Tb"
@@ -9324,6 +9386,24 @@
       "duration_ms": 179025,
       "name": "Nie mam ju\u017c miejsca na \"chyba\"",
       "url": "https://open.spotify.com/track/0WO9GFE5OP7Qjx0pKdNFtG"
+    },
+    {
+      "album": {
+        "name": "Halo. Co jest grane?",
+        "url": "https://open.spotify.com/album/3erv5YTUmv5AvVTqnJTEjP"
+      },
+      "artists": [
+        {
+          "name": "Daria ze \u015al\u0105ska",
+          "url": "https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232850,
+      "name": "Nie masz si\u0142 to p\u0142acz",
+      "url": "https://open.spotify.com/track/5NIc6PrM1pmEiRCTRdUSgp"
     },
     {
       "album": {
@@ -11038,6 +11118,24 @@
       "duration_ms": 164666,
       "name": "PARASOL",
       "url": "https://open.spotify.com/track/6ChJ0FFpq1pjn3uulbSmrx"
+    },
+    {
+      "album": {
+        "name": "Parostatek",
+        "url": "https://open.spotify.com/album/5VjvQECvIMZYd7rrHZ3GcF"
+      },
+      "artists": [
+        {
+          "name": "Linia Nocna",
+          "url": "https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117186,
+      "name": "Parostatek",
+      "url": "https://open.spotify.com/track/1U7G4KKeRjzbvVK50VYTk3"
     },
     {
       "album": {
@@ -16028,6 +16126,24 @@
       "duration_ms": 177864,
       "name": "Wol\u0119 Ci\u0119 kocha\u0107, ni\u017c mie\u0107",
       "url": "https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe"
+    },
+    {
+      "album": {
+        "name": "Wo\u0142am",
+        "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166315,
+      "name": "Wo\u0142am",
+      "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
     },
     {
       "album": {

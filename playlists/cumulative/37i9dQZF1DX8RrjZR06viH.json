@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Akkurat her",
+        "url": "https://open.spotify.com/album/4J6Yg6pN5o2OHo1cvwhAxs"
+      },
+      "artists": [
+        {
+          "name": "FRIDA",
+          "url": "https://open.spotify.com/artist/6VU3QyjVEFVhxSx8KVz6PM"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Akkurat her",
+      "url": "https://open.spotify.com/track/3eOAyuTBAIhHrhgWfv1zb2"
+    },
+    {
+      "album": {
         "name": "Again, for the first time",
         "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
       },
@@ -410,6 +428,24 @@
       "duration_ms": 177173,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh"
+    },
+    {
+      "album": {
+        "name": "Babycake",
+        "url": "https://open.spotify.com/album/40vt0NOKvzkoFMXZRcnuX3"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148465,
+      "name": "Babycake",
+      "url": "https://open.spotify.com/track/51wGa9a97WhBQZxMGRnnlm"
     },
     {
       "album": {
@@ -764,6 +800,24 @@
       "duration_ms": 218306,
       "name": "Catalonia",
       "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
     },
     {
       "album": {
@@ -3213,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Koko",
+        "url": "https://open.spotify.com/album/7tpyddbQDi2ScOdJ5crJmR"
+      },
+      "artists": [
+        {
+          "name": "Nils Bech",
+          "url": "https://open.spotify.com/artist/57QhXfAsLsIRtgC1VfHu1F"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178162,
+      "name": "Koko",
+      "url": "https://open.spotify.com/track/5KcDHgEfD0uLZufIM5i11Z"
+    },
+    {
+      "album": {
         "name": "Kor e du?",
         "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
       },
@@ -3314,7 +3386,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 173822,
       "name": "Late Bloomer",
       "url": "https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg"
@@ -4153,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Never Be Friends",
+        "url": "https://open.spotify.com/album/25xUgydy4RfI3TQ3q9P8xD"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179189,
+      "name": "Never Be Friends",
+      "url": "https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk"
+    },
+    {
+      "album": {
         "name": "Can't Get the Hang of It",
         "url": "https://open.spotify.com/album/46ilRFIfzaCTSALgNnsr9E"
       },
@@ -4348,7 +4438,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 172212,
       "name": "Not That Serious",
       "url": "https://open.spotify.com/track/7B6yrPp2vBtm57Q8HM2cyb"
@@ -4384,7 +4474,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 221427,
       "name": "N\u00e5 har du meg",
       "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
@@ -4744,7 +4834,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 181641,
       "name": "Prettyboy",
       "url": "https://open.spotify.com/track/6KUGCwPiOfSIduW1JYwsuG"
@@ -5192,7 +5282,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 222546,
       "name": "So cool",
       "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
@@ -5674,7 +5764,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 207050,
       "name": "Sweet Breath",
       "url": "https://open.spotify.com/track/2wbmUKHXgYkpseXs1CmP4h"
@@ -5812,7 +5902,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 211810,
       "name": "Ta med deg d\u00f8ra",
       "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
@@ -6362,6 +6452,24 @@
       "duration_ms": 139875,
       "name": "VI SKAL ALDRI G\u00c5 HJEM F\u00d8R SOLOPPGANG",
       "url": "https://open.spotify.com/track/0gAJiu6fAe7j2PxYEz9f7a"
+    },
+    {
+      "album": {
+        "name": "Vil bare henge med",
+        "url": "https://open.spotify.com/album/3lfeYZ7YxGQo3FqQ3mvnNU"
+      },
+      "artists": [
+        {
+          "name": "Daniela Reyes",
+          "url": "https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143720,
+      "name": "Vil bare henge med",
+      "url": "https://open.spotify.com/track/30Nq4NwgIXECwHdaRYvLUu"
     },
     {
       "album": {

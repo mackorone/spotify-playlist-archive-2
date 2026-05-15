@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: NO TIME FOR SILENCE
+> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: J308
 
-313 songs - 17 hr 3 min
+315 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [FREEFALL](https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:52 | 2025-10-24 | 2026-04-07 |
 | [FUN N FRENS](https://open.spotify.com/track/1YpGkjqF6hT6rRFD4AHfPk) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [FUN N FRENS](https://open.spotify.com/album/2FhWYE5T1lmT4fX56QQUDi) | 0:40 | 2025-07-24 | 2026-04-07 |
 | [Future Somebody](https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Future Somebody](https://open.spotify.com/album/6oNuFaEPjjlNH9XeT1Aiab) | 2:22 | 2024-06-27 | 2024-12-05 |
+| [Gelato](https://open.spotify.com/track/5QTLkIBuxqpEXE4gm7IKCX) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [Gelato](https://open.spotify.com/album/5IwZQK5NNKr4O2Vh7HKYYM) | 2:48 | 2026-05-14 |  |
 | [Gerimis Mengundang \- Ska Reggae](https://open.spotify.com/track/2FxX2nIJ8iqR13gcz96Gb0) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Gerimis Mengundang \(Ska Reggae\)](https://open.spotify.com/album/761clLaYSuG9COhmMyOZag) | 5:17 | 2024-10-31 | 2024-12-05 |
 | [Get Loose](https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES), [SoundClout](https://open.spotify.com/artist/3LcwAiTjlQTT25TtU39kSB), [PravOnTheLoose](https://open.spotify.com/artist/5HvJGgEq2XovGcbdGmWKXg) | [Get Loose](https://open.spotify.com/album/6bPxTPEqF4jd5ugFWShH0A) | 3:15 | 2024-10-24 | 2024-12-05 |
 | [Gimme That Crown](https://open.spotify.com/track/3p3RPVrPSUyrtLk6VWiuCO) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Gimme That Crown](https://open.spotify.com/album/49CfrRaf35iX4IRKMppz5w) | 3:09 | 2024-06-27 | 2025-04-16 |
@@ -316,6 +317,7 @@
 | [“唱歌學中文”之千言萬語 \- 國風版](https://open.spotify.com/track/6c8rpXgFVHHjByA6dKsXUz) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [“唱歌學中文”之千言萬語 \- 國風版 \(2025年【繞口歌韻挑戰季】挑戰曲\)](https://open.spotify.com/album/29jbKwJcZZSVsBDdigFaGn) | 3:24 | 2025-07-31 | 2026-04-07 |
 | [一刹那花火](https://open.spotify.com/track/4wlVJSRfM8aJXbgLEJPPiW) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [一刹那花火](https://open.spotify.com/album/7hslljYtbnZlTheevJpUgf) | 3:02 | 2025-04-15 | 2026-04-07 |
 | [專屬浪漫](https://open.spotify.com/track/0ZpPrBnYV401be2ZyHS5eR) | [J308](https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1), [sunOceanus](https://open.spotify.com/artist/0qxSSTp4mU0vlKz2VgTCsB) | [專屬浪漫](https://open.spotify.com/album/4pXJNKM5u6U2JJ9oeli2iU) | 3:14 | 2026-04-06 |  |
+| [我們都不屬於這個時代](https://open.spotify.com/track/2j2EnUvN3tGTRAcxJJe7uP) | [J308](https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1) | [我們都不屬於這個時代](https://open.spotify.com/album/7s3kMcHIqME1bUbNZVQsiz) | 4:03 | 2026-05-14 |  |
 | [最後一次浪費 \(抒情版\)](https://open.spotify.com/track/4pCz05SvW63BsYVWZNIJst) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [最後一次浪費 \(抒情版\)](https://open.spotify.com/album/2J3Xk0CGqReOLvVYinYNmo) | 2:19 | 2026-05-08 |  |
 | [梦的篮筐 \(新传媒戏剧《力挽狂篮》主题曲\)](https://open.spotify.com/track/7GuInOhpVfe3cQGAJM1nKt) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [新传媒戏剧《力挽狂篮》](https://open.spotify.com/album/4tSNukIK4cDOVLdlRqIbcY) | 2:40 | 2025-11-20 | 2026-04-07 |
 | [渣男太累](https://open.spotify.com/track/2qHgnAqNXpduoXj1VolQrv) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw), [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [渣男太累](https://open.spotify.com/album/1qR6574TLpI236TY0pEEFM) | 3:33 | 2025-04-15 | 2026-04-07 |

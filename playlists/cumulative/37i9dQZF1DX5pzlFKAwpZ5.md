@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-389 songs - 1 day 4 hr 6 min
+390 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Atrium](https://open.spotify.com/track/7CV8NzeND4AZIdKRRVAYW4) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 8:25 | 2022-12-30 | 2024-08-09 |
 | [Bananatron](https://open.spotify.com/track/03CbUuPxmE1hvo5fuCs86N) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 7:40 | 2022-12-30 | 2023-08-19 |
 | [barely](https://open.spotify.com/track/45HvQappqMA3ekJzhBxhfP) | [Keigo Tatsumi](https://open.spotify.com/artist/0CdfyGSPzkbOuhlsltYr8M) | [AT US](https://open.spotify.com/album/0Gvs95sa3jXOZA7w7YcZbk) | 4:00 | 2025-06-12 |  |
-| [Bayou](https://open.spotify.com/track/4pmkk5jUvi46uAgnuA7D9c) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Canadian Love Letters](https://open.spotify.com/album/5MqeWE0BF5TkOjr4YHRRcr) | 4:35 | 2022-03-25 |  |
+| [Bayou](https://open.spotify.com/track/4pmkk5jUvi46uAgnuA7D9c) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Canadian Love Letters](https://open.spotify.com/album/5MqeWE0BF5TkOjr4YHRRcr) | 4:35 | 2022-03-25 | 2026-05-15 |
 | [BEAMS](https://open.spotify.com/track/4ITZWlrroLXgMj9K3jvZPG) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [BEAMS](https://open.spotify.com/album/4KVRLz2Vwc2bQNhoKudhTt) | 1:44 | 2026-02-25 | 2026-05-13 |
 | [Beauty in Imperfection](https://open.spotify.com/track/1C4xtnNBK4Lau7iEkdYNVw) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Beauty in Imperfection](https://open.spotify.com/album/5WPvDzaQpEDkJNZ4zP0mRd) | 4:56 | 2025-06-12 | 2026-01-15 |
 | [Billowing](https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ), [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF) | [Music for Peace and Harmony](https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW) | 4:35 | 2025-03-06 |  |
@@ -179,6 +179,7 @@
 | [Layer](https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Layer](https://open.spotify.com/album/60lpyOQBN0qHUDHuP2IB9F) | 3:12 | 2025-05-16 | 2026-05-13 |
 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 | 2023-10-13 | 2024-03-08 |
 | [les cinquième alternées](https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [northern wind](https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD) | 2:59 | 2025-03-21 |  |
+| [Ley](https://open.spotify.com/track/6KY33JhZ06PP1gyuDdXGRM) | [Yasutaka Okada](https://open.spotify.com/artist/0zusZBbK9iV4XdhC77Ai8S) | [Ley](https://open.spotify.com/album/2PATaU6gBhiovCPZriSexq) | 4:51 | 2026-05-12 |  |
 | [Liberty](https://open.spotify.com/track/2pv4n0WhR3f0IayyG0lc4z) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Envision](https://open.spotify.com/album/2lnwd16ApEAAJ0GNqH7SNq) | 2:39 | 2022-01-07 | 2025-03-30 |
 | [LICHT](https://open.spotify.com/track/6b9ISqw8KlXu4tbG2bLuqV) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [LICHT](https://open.spotify.com/album/2wUjZqdRflZRYB3kE1YXUM) | 3:22 | 2025-12-02 |  |
 | [Life Of Blessing](https://open.spotify.com/track/2qqK382uhnhiW5OYY6Ymwh) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [井口 寛](https://open.spotify.com/artist/5LblBo8BWf1f8OjpKaffLt) | [Life Of Blessing](https://open.spotify.com/album/7CqdD4xQtGEyAf1p7gAeVB) | 2:01 | 2026-01-23 |  |

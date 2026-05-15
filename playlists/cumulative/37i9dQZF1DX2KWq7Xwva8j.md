@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí, con nuestra nueva promoción\. Foto: Gara Durán.
+> El futuro ya está aquí, con nuestra nueva promoción\. Foto: Alcalá Norte.
 
-339 songs - 16 hr 34 min
+340 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [LOEWE](https://open.spotify.com/track/01ZvvafMDxlqMYbX0j14Wh) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [LOEWE](https://open.spotify.com/album/1T2Kjbx42YRxuKFukJYACe) | 3:14 | 2024-05-31 | 2025-03-04 |
 | [LOKURA](https://open.spotify.com/track/2ceTylNropN8MsY6BqE5R7) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [LOKURA](https://open.spotify.com/album/5vQmgNAlnp04oqkimTY9mX) | 2:26 | 2025-03-03 | 2026-03-19 |
 | [los chicos no lloran](https://open.spotify.com/track/2jD6X6gSLtynew2xj6qHRt) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [los chicos no lloran](https://open.spotify.com/album/7uKY4Ga9A9LDtaAWG7hV2H) | 3:18 | 2024-02-03 | 2024-02-07 |
+| [Los Llamados Pitagóricos](https://open.spotify.com/track/7ydaxAURHTlX3JGOo7JEsW) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Los Llamados Pitagóricos](https://open.spotify.com/album/6FsxcuAF5nouopLZ5ZE6Kz) | 4:02 | 2026-05-14 |  |
 | [Los niños del parque](https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Los Niños del Parque](https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf) | 3:17 | 2022-03-17 | 2022-11-12 |
 | [LOTUS](https://open.spotify.com/track/7l9phRNA1AH6lzcZBAVKZw) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [akaluigi](https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC) | [LOTUS](https://open.spotify.com/album/2OyS1TdYHxpn32r3K2sYGn) | 2:19 | 2025-01-09 | 2025-03-04 |
 | [Luna](https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Luna](https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm) | 2:53 | 2022-01-27 | 2022-06-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,822 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,830 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 29 | [Da Stanotte in Poi \(From This Moment On\) \- Christmas version](https://open.spotify.com/track/02kX7sjdAvnFzvnTRmkf5p) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Duets \(30th Anniversary / Deluxe\)](https://open.spotify.com/album/2g3GFQWZXivB3cl3hJeDAb) | 3:55 |
 | 30 | [Rock This Country!](https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 4:22 |
 | 31 | [Waking Up Dreaming](https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Waking Up Dreaming](https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn) | 3:18 |
-| 32 | [Nah! \- Red Version](https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:08 |
-| 33 | [She's Not Just A Pretty Face](https://open.spotify.com/track/1dqiXGXfB74mwUeJRvqYKB) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 3:49 |
+| 32 | [She's Not Just A Pretty Face](https://open.spotify.com/track/1dqiXGXfB74mwUeJRvqYKB) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 3:49 |
+| 33 | [Nah! \- Red Version](https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:08 |
 | 34 | [Life's About To Get Good](https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Now \(Deluxe\)](https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD) | 3:40 |
 | 35 | [You're Still The One](https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Encontros Pelo Caminho](https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke) | 3:34 |
-| 36 | [Black Eyes, Blue Tears](https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:39 |
-| 37 | [Don't! \- Greatest Hits Version](https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Don't!](https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3) | 3:58 |
+| 36 | [Don't! \- Greatest Hits Version](https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Don't!](https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3) | 3:58 |
+| 37 | [Black Eyes, Blue Tears](https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:39 |
 | 38 | [Boots Don't](https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:28 |
 | 39 | [Thank You Baby! \(For Makin' Someday Come So Soon\) \- Red Version](https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:00 |
 | 40 | [It Only Hurts When I'm Breathing \- Red Version](https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Blue Versions\)](https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 49 | [Best Friend](https://open.spotify.com/track/7o8JK3VT39xu90cTJTV2uT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 |
 | 50 | [I Won't Leave You Lonely](https://open.spotify.com/track/1duv1TxQLmY2DuXdilI18Y) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 4:12 |
 
-Snapshot ID: `agJtgAAAAACOpSfL7+eFVlG8x2tDWFd/`
+Snapshot ID: `agO/AAAAAACXFCTMB2ziJb7Rt0ip8FF0`

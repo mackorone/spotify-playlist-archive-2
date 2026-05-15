@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-416 songs - 1 day 2 hr 28 min
+417 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Speed Dial No\. 2](https://open.spotify.com/track/2mDc143FTC5LOxCm2OBOSB) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [When It Falls](https://open.spotify.com/album/24mJNZUHHK22MvgEnG1his) | 3:49 | 2025-06-04 |  |
 | [Speed Dial No\. 2](https://open.spotify.com/track/7rhc9e9gzWZOj9khLQE8mb) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [When It Falls](https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7) | 3:51 | 2023-12-30 | 2025-06-05 |
 | [Standing on the Sun Remix \(feat\. Mr\. Vegas\)](https://open.spotify.com/track/7jpSvCrFev9EBb5RSmoRTa) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Clifford Smith](https://open.spotify.com/artist/5toAPS22hqjqGy4MQwpAM0), [Cleveland Browne](https://open.spotify.com/artist/6t1QCRhViEFcYbIzNapUj0), [Danny Browne](https://open.spotify.com/artist/0qy3SWTPGNnQpTuqk9eG8G) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 4:33 | 2023-12-30 |  |
+| [Step By Step \(Amazon Original\)](https://open.spotify.com/track/1Twk62H5OUjfxf3wDOmohi) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Step By Step \(Amazon Original\)](https://open.spotify.com/album/6BiJg12jXySG2hIFOnSjSV) | 4:09 | 2026-05-14 |  |
 | [Stop Trying](https://open.spotify.com/track/6hFfcBZz36QEIHh3BukdS0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 2:40 | 2023-12-30 |  |
 | [Straight for the Knife](https://open.spotify.com/track/6AAl7AECcCH7mVGNqHGmaI) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:31 | 2023-12-30 |  |
 | [Strange Birds](https://open.spotify.com/track/5Qn7UBFKV5iemqZMJ5F5ve) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 3:03 | 2023-12-30 |  |
@@ -415,7 +416,7 @@
 | [You Don't Know](https://open.spotify.com/track/7fCWkqJLVGhGKBGuE511fl) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Milow](https://open.spotify.com/album/1qh6lFASwV7pqaGfUbHhEn) | 2:47 | 2023-12-30 | 2025-07-01 |
 | [You Don't Know](https://open.spotify.com/track/1nkRwGuEnySwY2PbdT25Hb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [The Bigger Picture](https://open.spotify.com/album/5shtXocLO7yZoLsztFHhqF) | 2:47 | 2025-07-05 |  |
 | [You Have Been Loved](https://open.spotify.com/track/4tr2T0FIHxaWYkIUcaFMfG) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:23 | 2023-12-30 |  |
-| [You Lost Me](https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:17 | 2023-12-30 |  |
+| [You Lost Me](https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:17 | 2023-12-30 | 2026-05-15 |
 | [You Lost Me](https://open.spotify.com/track/30LX4w8a4TAtpQUbgfvFTm) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [You Lost Me \(Official Video\)](https://open.spotify.com/album/0vuo1uIZ9DWsBO3x318QFm) | 4:25 | 2024-01-02 | 2024-02-02 |
 | [You Lost Me](https://open.spotify.com/track/0lYyvXtcfPP8oA51fsQ85J) | [Liv Skotte](https://open.spotify.com/artist/2BdJOtQ2kOCA2KA9H7lHQA) | [Voice \- Live Show 18\. Feb\. 2012 \(Danmarks Største Stemme fra TV2\)](https://open.spotify.com/album/179MAVuEp3ztrlTt9kJXC4) | 4:14 | 2023-12-30 |  |
 | [You're Mine](https://open.spotify.com/track/3wfiYtFeCtlijiqmTIlBFQ) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:38 | 2023-12-30 |  |

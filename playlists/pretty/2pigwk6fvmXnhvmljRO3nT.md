@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,443 songs - 21 day 12 hr 18 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,444 songs - 21 day 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8421,11 +8421,11 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8411 | [Scarborough Fair / Canticle](https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 3:14 |
 | 8412 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
 | 8413 | [SOUVENIR](https://open.spotify.com/track/3GLSPr5dyhrNBvDPpdoPDK) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Iris](https://open.spotify.com/album/5FSNEQcyQtmVeizw5j5Y8b) | 4:25 |
-| 8414 | [Angelic Angel](https://open.spotify.com/track/46v8fYqNmVdqCyqiVeeSjj) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Complete BEST BOX \(Chapter.12\)](https://open.spotify.com/album/0pkmGenaj8UzPldSgoC2qE) | 4:56 |
-| 8415 | [キミのくせに!](https://open.spotify.com/track/2EgFitP5szGlhglt4P0wN7) | [lily white](https://open.spotify.com/artist/0AVxxoSuVTDb0JamZGKmmA) | [μ's Complete BEST BOX \(Chapter.09\)](https://open.spotify.com/album/56r4XvKUMrmB9kcRFIbZmv) | 3:57 |
+| 8414 | [Angelic Angel](https://open.spotify.com/track/46v8fYqNmVdqCyqiVeeSjj) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Complete BEST BOX Chapter.12](https://open.spotify.com/album/0pkmGenaj8UzPldSgoC2qE) | 4:56 |
+| 8415 | [キミのくせに!](https://open.spotify.com/track/2EgFitP5szGlhglt4P0wN7) | [lily white](https://open.spotify.com/artist/0AVxxoSuVTDb0JamZGKmmA) | [μ's Complete BEST BOX Chapter.09](https://open.spotify.com/album/56r4XvKUMrmB9kcRFIbZmv) | 3:57 |
 | 8416 | [A song for You! You? You!!](https://open.spotify.com/track/1TLDe7LHaRGh3nxPl1cKHG) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [A song for You! You? You!!](https://open.spotify.com/album/6QYnlFEi1gI9gXvOGwUK2J) | 5:50 |
 | 8417 | [Round ＆ Laundry](https://open.spotify.com/track/2iY4oU7WUKKfTXowEAVxsV) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 3:12 |
-| 8418 | [HAPPY PARTY TRAIN](https://open.spotify.com/track/79lPN4KsjswcqoKDUGn16h) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:37 |
+| 8418 | [HAPPY PARTY TRAIN](https://open.spotify.com/track/79lPN4KsjswcqoKDUGn16h) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:37 |
 | 8419 | [soldier game](https://open.spotify.com/track/0xzwcaP8fD9rWgIBUM3BJ1) | [西木野真姫\(CV.Pile\)](https://open.spotify.com/artist/2OU9W3Nbb1UaIr9SmZuLdK), [園田海未\(CV.三森すずこ\)](https://open.spotify.com/artist/6U3OZAgzVyqqqz87z6mse7), [絢瀬絵里\(CV.南條愛乃\)](https://open.spotify.com/artist/1hH0U0CBUFUvzCw8xTJu1R) | [soldier game](https://open.spotify.com/album/7maP3nXdOuFwLlLwwcdQIM) | 3:41 |
 | 8420 | [A Sky Full Of Stars](https://open.spotify.com/track/2uAE3kSlanqv3U1KfdAhra) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック](https://open.spotify.com/album/5ONLnFM7dW4eZ7irUTvwhK) | 2:46 |
 | 8421 | [天使と悪魔](https://open.spotify.com/track/22y3zsYYYx4VisZMOwTFQA) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ENTERTAINMENT](https://open.spotify.com/album/7J9IuxWGge23Amv8msKGtF) | 4:30 |
@@ -8451,5 +8451,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8441 | [4Me 4Me](https://open.spotify.com/track/7uEFboafVLvROPYTqdMi0n) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:30 |
 | 8442 | [On & On](https://open.spotify.com/track/4uukXoeAUxow3aV9kVkcjY) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/2Ms3svRNQf0jFryjT2HKCQ) | 3:27 |
 | 8443 | [Cheerleader](https://open.spotify.com/track/1ggsR5kCepKTW4F64bCFdV) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/7qx3Q51nfQvkEHIREiTRCO) | 3:57 |
+| 8444 | [Cold Green Eyes \- Original Mix](https://open.spotify.com/track/2gtBcLNjFMi8l5xSz66Fsb) | [Station Earth](https://open.spotify.com/artist/1G9FmqZJybVEOXqMOR5usy), [Roos Denayer](https://open.spotify.com/artist/0tsKdteyh5ArMn3pAUiSff) | [Cold Green Eyes](https://open.spotify.com/album/4UD0rIYLnIeixT6m51hrTe) | 4:07 |
 
-Snapshot ID: `AAALxAvPKhVcAVo/b9KFoZWhmU8XOC22`
+Snapshot ID: `AAALxcVUDwZzsPcfo8AUvgqsDsrZ0xsF`

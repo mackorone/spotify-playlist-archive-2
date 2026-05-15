@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 
 > This is Danny Go!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,668 likes - 49 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,735 likes - 49 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 28 | [Airplane Mode!](https://open.spotify.com/track/3SiijksKZyytWUhHftvctc) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Airplane Mode!](https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL) | 3:44 |
 | 29 | [Great Big Sea Lullaby](https://open.spotify.com/track/1uJsAWQ72UOxOBTqxaXTkF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:15 |
 | 30 | [Drive Drive Vehicle Dance](https://open.spotify.com/track/6W1pb7YKtRIkcgSuvC7Pyb) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Drive Drive Vehicle Dance](https://open.spotify.com/album/70eYeeYN9cYHSYKoMxLzaY) | 3:17 |
-| 31 | [Swab The Deck \- Pirate Clean Up Song](https://open.spotify.com/track/3AThGve7ZzIiQ8NwLAIAIS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Swab The Deck \(Pirate Clean Up Song\)](https://open.spotify.com/album/2oOgvfSIY81CFlsPWPF1cy) | 3:40 |
-| 32 | [The Animal Dance Game](https://open.spotify.com/track/7uK3on96wGPbnOQWPpRFz8) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Animal Dance Game](https://open.spotify.com/album/1gBWrEqXqUh6KzWSDSDRGF) | 3:47 |
-| 33 | [Brand New Day \- Good Morning Dance](https://open.spotify.com/track/5W5nJROpttNmn8Ols7HoSr) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Brand New Day \(Good Morning Dance\)](https://open.spotify.com/album/2ZqxJ0m0mJVw6KyA0hJYQb) | 2:56 |
-| 34 | [The Monkey Dance](https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Monkey Dance](https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9) | 2:22 |
-| 35 | [Grocery Store DASH! \- Swipe and Scan](https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Grocery Store DASH!](https://open.spotify.com/album/51yipUUQPWXDyvvxkn2tkP) | 4:46 |
+| 31 | [The Animal Dance Game](https://open.spotify.com/track/7uK3on96wGPbnOQWPpRFz8) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Animal Dance Game](https://open.spotify.com/album/1gBWrEqXqUh6KzWSDSDRGF) | 3:47 |
+| 32 | [Brand New Day \- Good Morning Dance](https://open.spotify.com/track/5W5nJROpttNmn8Ols7HoSr) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Brand New Day \(Good Morning Dance\)](https://open.spotify.com/album/2ZqxJ0m0mJVw6KyA0hJYQb) | 2:56 |
+| 33 | [Swab The Deck \- Pirate Clean Up Song](https://open.spotify.com/track/3AThGve7ZzIiQ8NwLAIAIS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Swab The Deck \(Pirate Clean Up Song\)](https://open.spotify.com/album/2oOgvfSIY81CFlsPWPF1cy) | 3:40 |
+| 34 | [Grocery Store DASH! \- Swipe and Scan](https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Grocery Store DASH!](https://open.spotify.com/album/51yipUUQPWXDyvvxkn2tkP) | 4:46 |
+| 35 | [The Monkey Dance](https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Monkey Dance](https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9) | 2:22 |
 | 36 | [The Stomp Clap Dance Song](https://open.spotify.com/track/6eUC9FU6VauzxWN7sv7CgD) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Stomp Clap Dance Song](https://open.spotify.com/album/1NzvQktWfTgwVCVE71VhaK) | 3:47 |
 | 37 | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t) | 7:34 |
 | 38 | [Don't Stop Digging](https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Don't Stop Digging](https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy) | 4:05 |
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 41 | [Digging In The Dirt \- Construction Vehicles Dance](https://open.spotify.com/track/01hdETjucKH5ZrB4vkUqwV) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Digging In The Dirt \(Construction Vehicles Dance\)](https://open.spotify.com/album/37KlVr59FQRgCLnI1LSIUq) | 3:36 |
 | 42 | [Rabbit Turtle Rodeo](https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rabbit Turtle Rodeo](https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV) | 3:58 |
 | 43 | [The Ice King Freeze Dance](https://open.spotify.com/track/1a14fAbcmd3vwjUOHDgAXh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Ice King Freeze Dance](https://open.spotify.com/album/6savsF7SNiPRKpzCCUqpG0) | 3:23 |
-| 44 | [Little Cat](https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Little Cat](https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB) | 3:14 |
-| 45 | [The Color Dance](https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Color Dance](https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70) | 3:44 |
+| 44 | [The Color Dance](https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Color Dance](https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70) | 3:44 |
+| 45 | [Little Cat](https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Little Cat](https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB) | 3:14 |
 | 46 | [The Space Race Planet Dance](https://open.spotify.com/track/5jvTizDVo08steVEiqXMbh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Space Race Planet Dance](https://open.spotify.com/album/6d8g23NRnlaL3DJylM8x8w) | 4:00 |
 | 47 | [The Creepy Crawl](https://open.spotify.com/track/3sjwPrNmCYwkGMvAm8wlS2) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Creepy Crawl](https://open.spotify.com/album/53kXMqX4i6E0kJwwbAxkNn) | 2:42 |
 | 48 | [Rainbow Disco Unicorn](https://open.spotify.com/track/5J8qbgtxKEgM8FXhLeatNm) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rainbow Disco Unicorn](https://open.spotify.com/album/66a5wLzW596cfmq65VzSYG) | 2:58 |
 | 49 | [Bluey Theme \- Acapella Version](https://open.spotify.com/track/3DzlwU2KL2yyqJb5lhM1XS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Bluey Theme \(Acapella Version\)](https://open.spotify.com/album/3eStOZlBWOOhexdhe203N0) | 1:10 |
 
-Snapshot ID: `agJtgAAAAAC7EUKEkI4pKMvOsclBlHlP`
+Snapshot ID: `agO/AAAAAAApISCwFkwpciILEHh8nhBQ`

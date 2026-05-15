@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,962 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,927 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Shape Of Memory](https://open.spotify.com/track/2ZpFFr4Sgch7Gd1Z8MCtcB) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Feeling Is Structure](https://open.spotify.com/album/2pvLN2jTZhYg9aWQyESDps) | 4:38 |
 | 2 | [⋆.✩ ࣪₊˚.⋆☾⋆⁺₊✧](https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Close](https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY) | 2:19 |
-| 3 | [\#19](https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [\#19](https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss) | 10:14 |
-| 4 | [Yorokobi](https://open.spotify.com/track/2h4JwOuZMiBSCao8QAiwgS) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Yorokobi](https://open.spotify.com/album/5mZ7OlFuS64Xi3P3J6LTWw) | 2:17 |
+| 3 | [Yorokobi](https://open.spotify.com/track/2h4JwOuZMiBSCao8QAiwgS) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Yorokobi](https://open.spotify.com/album/5mZ7OlFuS64Xi3P3J6LTWw) | 2:17 |
+| 4 | [\#19](https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [\#19](https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss) | 10:14 |
 | 5 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 |
 | 6 | [Screen](https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Screen](https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu) | 4:06 |
 | 7 | [Bosky](https://open.spotify.com/track/2O7WjhPo6pV9zWfHLRtBw0) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Bosky](https://open.spotify.com/album/4BETqinA7K3vShwtubiFSF) | 4:50 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 40 | [i feel lost \- orchestral reprise](https://open.spotify.com/track/7l2XviJ7uk4cijQXPd7uEO) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Dan Heath](https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P) | [Astral Projection \(Deluxe Edition\)](https://open.spotify.com/album/3GILJJDr4pbDI3pH8lNyJr) | 2:44 |
 | 41 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 42 | [Sorrow Stutter](https://open.spotify.com/track/0HL6bNzpulo1DRLmPGG6uV) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Sorrow Stutter](https://open.spotify.com/album/39RPb0ePvso317NSsRmoNX) | 2:50 |
-| 43 | [Home](https://open.spotify.com/track/20nMaS9F08WxA3FU9P0UG3) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Hyperphantasia](https://open.spotify.com/album/1vgXBRPMUybozJ8zD4TrZ0) | 4:10 |
-| 44 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 |
+| 43 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 |
+| 44 | [Home](https://open.spotify.com/track/20nMaS9F08WxA3FU9P0UG3) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Hyperphantasia](https://open.spotify.com/album/1vgXBRPMUybozJ8zD4TrZ0) | 4:10 |
 | 45 | [The Missing Piece](https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [The Missing Piece](https://open.spotify.com/album/38QmZa8ks65KhvcOP9fjL9) | 4:16 |
 | 46 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
 | 47 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |

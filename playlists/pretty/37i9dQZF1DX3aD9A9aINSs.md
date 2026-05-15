@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Güneş Özgeç
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,351 likes - 84 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,346 likes - 84 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 83 | [Bir Masala Kandım](https://open.spotify.com/track/5AJoRwvVK5wlVilaITthNW) | [Ilgın Sıla](https://open.spotify.com/artist/3ereAumOIcyaaBl1YmaNv2) | [Bir Masala Kandım](https://open.spotify.com/album/3pAOZmqwKTZ4N9jr3LJERl) | 3:18 |
 | 84 | [Haram Sevdam](https://open.spotify.com/track/70h1OdNxtN8ualUGncnPvk) | [Tuğçe Haşimoğlu](https://open.spotify.com/artist/62jyG49Q860ZooOgpPDW9C) | [Haram Sevdam](https://open.spotify.com/album/6SqiHs4Znjp2sEuGHmwcqg) | 2:40 |
 
-Snapshot ID: `AAAAAHkChT6zR/EikxCjPTUIXK+biSwR`
+Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`

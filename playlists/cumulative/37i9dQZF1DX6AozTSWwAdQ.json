@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169171,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV"
@@ -8534,6 +8534,28 @@
       "duration_ms": 166706,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
+    },
+    {
+      "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        },
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2026-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158021,
+      "name": "WANNA BE (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN"
     },
     {
       "album": {

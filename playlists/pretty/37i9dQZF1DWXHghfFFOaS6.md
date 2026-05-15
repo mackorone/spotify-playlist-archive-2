@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,113 likes - 90 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,166 likes - 90 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 17 | [Funkin' for Jamaica](https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Love Approach \(Bonus Track\)](https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP) | 4:42 |
 | 18 | [I'll Stay](https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 7:50 |
 | 19 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 |
-| 20 | [Where Are We Going?](https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Blackbyrd](https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ) | 4:37 |
-| 21 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
+| 20 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
+| 21 | [Where Are We Going?](https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Blackbyrd](https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ) | 4:37 |
 | 22 | [Let It Flow \(For "DR\. J"\)](https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 5:50 |
 | 23 | [Friends And Strangers](https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 4:49 |
 | 24 | [Whenimondamic](https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 2:45 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 63 | [Now Is Tomorrow \(Anticipation\)](https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction II](https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6) | 5:58 |
 | 64 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/7vJTJEMC5FYSCD61O5KFvf) | 5:19 |
 | 65 | [Web of Deception](https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture of Fear](https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263) | 4:32 |
-| 66 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
-| 67 | [Check The Pulse](https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Check The Pulse](https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5) | 2:34 |
-| 68 | [Niassam](https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU) | [Zoe's Shanghai](https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5) | [Lava Love](https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT) | 4:58 |
+| 66 | [Check The Pulse](https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Check The Pulse](https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5) | 2:34 |
+| 67 | [Niassam](https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU) | [Zoe's Shanghai](https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5) | [Lava Love](https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT) | 4:58 |
+| 68 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
 | 69 | [Dream Waves](https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD) | [New Jersey Kings](https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp) | [Stratosphere Breakdown](https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K) | 4:55 |
 | 70 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
 | 71 | [Don't Let It Go to Your Head](https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [The Best of Acid Jazz Vol\. 2](https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f) | 3:51 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 86 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
 | 87 | [Crazy That You Love](https://open.spotify.com/track/3aNpDqzNSONgd2wJA8iBLx) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Crazy That You Love](https://open.spotify.com/album/4itLRse7LQuZRpBiogq4Tf) | 3:29 |
 | 88 | [Slow Down](https://open.spotify.com/track/6i4Gu9ogL4kClgBzj3NZ6g) | [Brand Nubian](https://open.spotify.com/artist/3YyZFf9ZN2YbkqeZia8zHX) | [One for All](https://open.spotify.com/album/2R3q5gMNeQpSNRnAYay6Sm) | 5:03 |
-| 89 | [Broken Biscuits](https://open.spotify.com/track/0CVX6UKcZkfS2vGrqbQKXI) | [Rebecca Vasmant](https://open.spotify.com/artist/0a5lsotyiCdV0xmceU44oN), [Nadya Albertsson](https://open.spotify.com/artist/5Tth72I5bVVp0ndOMDnu3A) | [Broken Biscuits](https://open.spotify.com/album/4RWrAbKH3H9J3oAQLwFL8B) | 6:17 |
-| 90 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
+| 89 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
+| 90 | [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 |
 
 Snapshot ID: `AAAAAMZtH013VT9yo8MLTUxYxErI+AHq`

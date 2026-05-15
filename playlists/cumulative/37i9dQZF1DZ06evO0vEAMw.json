@@ -515,6 +515,36 @@
     },
     {
       "album": {
+        "name": "Aza",
+        "url": "https://open.spotify.com/album/1FEEBPf8hVb5OplQtmvsPv"
+      },
+      "artists": [
+        {
+          "name": "DMW",
+          "url": "https://open.spotify.com/artist/6DmouQfvRZ2y9auxK3DjuI"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Duncan Mighty",
+          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224587,
+      "name": "Aza",
+      "url": "https://open.spotify.com/track/38CYTisSSjMhhHqFyj6w4l"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/6qsQ0MJsBfRYuG8lTz7ncT"
       },
@@ -1226,7 +1256,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 199850,
       "name": "Eva Longoria",
       "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"

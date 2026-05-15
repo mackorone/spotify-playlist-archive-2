@@ -1,6 +1,6 @@
 {
   "description": "Super mega hits!  Foto: Olivia Rodrigo",
-  "num_followers": 6660930,
+  "num_followers": 6660287,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-05-01 06:01:14",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2026-05-01 06:01:14",
+      "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2026-05-01 06:01:14",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2026-05-01 06:01:14",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-05-01 06:01:14",
       "album": {
-        "name": "A Matter of Time: The Final Hour",
-        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Madwoman",
-      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
-    },
-    {
-      "added_at": "2026-05-01 06:01:14",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2026-05-01 06:01:14",
+      "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
     },
     {
       "added_at": "2026-05-01 06:01:14",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-05-01 06:01:14",
       "album": {
-        "name": "I Feel So Free",
-        "url": "https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 303528,
-      "name": "I Feel So Free",
-      "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
-    },
-    {
-      "added_at": "2026-05-01 06:01:14",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2026-05-01 06:01:14",
+      "album": {
+        "name": "I Feel So Free",
+        "url": "https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 303528,
+      "name": "I Feel So Free",
+      "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
     },
     {
       "added_at": "2026-05-01 06:01:14",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-05-01 06:01:14",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
-    },
-    {
-      "added_at": "2026-05-01 06:01:14",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "added_at": "2026-05-01 06:01:14",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
     },
     {
       "added_at": "2026-05-01 06:01:14",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-05-01 06:01:14",
       "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+    },
+    {
+      "added_at": "2026-05-01 06:01:14",
+      "album": {
         "name": "FUNNY little FEARS (DREAMS)",
         "url": "https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 193502,
       "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
       "url": "https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn"
-    },
-    {
-      "added_at": "2026-05-01 06:01:14",
-      "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
     },
     {
       "added_at": "2026-05-01 06:01:14",

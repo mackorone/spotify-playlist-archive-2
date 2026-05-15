@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: FIt For An Autopsy",
-  "num_followers": 293213,
+  "num_followers": 293321,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "The Maker",
-        "url": "https://open.spotify.com/album/3INCg86OumH3EymmO3Ytpz"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "The Maker",
-      "url": "https://open.spotify.com/track/5HuO6uXKZa5EzVPXrdNj4Z"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "A Visceral Retch",
         "url": "https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 245656,
       "name": "A Visceral Retch",
       "url": "https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "The Maker",
+        "url": "https://open.spotify.com/album/3INCg86OumH3EymmO3Ytpz"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "The Maker",
+      "url": "https://open.spotify.com/track/5HuO6uXKZa5EzVPXrdNj4Z"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "IO",
-        "url": "https://open.spotify.com/album/2RJttoIphditrfgq3FEq3j"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 221325,
-      "name": "Snapped Neck",
-      "url": "https://open.spotify.com/track/5cex1G9SdIUJjSOWInsJnp"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Hymns in Dissonance",
         "url": "https://open.spotify.com/album/4vrdVbbpdzmw9WMzdr0lra"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 312466,
       "name": "Hymns in Dissonance",
       "url": "https://open.spotify.com/track/6KukQLPGIVCyPYHSG9aiIU"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "IO",
+        "url": "https://open.spotify.com/album/2RJttoIphditrfgq3FEq3j"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 221325,
+      "name": "Snapped Neck",
+      "url": "https://open.spotify.com/track/5cex1G9SdIUJjSOWInsJnp"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "I'll Find the Dark",
-        "url": "https://open.spotify.com/album/5cqd8D9vfcWnfJ1RQJBMMn"
+        "name": "Born To Lose",
+        "url": "https://open.spotify.com/album/4vWFFMOKx27LnPbGP4HeF6"
       },
       "artists": [
         {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
         }
       ],
-      "duration_ms": 232468,
-      "name": "I'll Find the Dark",
-      "url": "https://open.spotify.com/track/5xNSX36L3tlJsL92bjx8gw"
+      "duration_ms": 192553,
+      "name": "Born To Lose",
+      "url": "https://open.spotify.com/track/3w7hEGQDeQl6GKPIRT4hGp"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Born To Lose",
-        "url": "https://open.spotify.com/album/4vWFFMOKx27LnPbGP4HeF6"
+        "name": "I'll Find the Dark",
+        "url": "https://open.spotify.com/album/5cqd8D9vfcWnfJ1RQJBMMn"
       },
       "artists": [
         {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
         }
       ],
-      "duration_ms": 192553,
-      "name": "Born To Lose",
-      "url": "https://open.spotify.com/track/3w7hEGQDeQl6GKPIRT4hGp"
+      "duration_ms": 232468,
+      "name": "I'll Find the Dark",
+      "url": "https://open.spotify.com/track/5xNSX36L3tlJsL92bjx8gw"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Bleeding Sun",
+        "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Bleeding Sun",
+      "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "burning/bones",
         "url": "https://open.spotify.com/album/3tAlPqKBq8yedhqCdj7GJh"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 228967,
       "name": "burning/bones",
       "url": "https://open.spotify.com/track/0EIVQZvinTmJoBLzC6WOKX"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Bleeding Sun",
-        "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Bleeding Sun",
-      "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "FEED",
+        "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
+      },
+      "artists": [
+        {
+          "name": "PSYCHO-FRAME",
+          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+        }
+      ],
+      "duration_ms": 206857,
+      "name": "NO REVIVES",
+      "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
         "url": "https://open.spotify.com/album/2kvMb8wE8J9hnrBzvBecNI"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 173624,
       "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
       "url": "https://open.spotify.com/track/2hSjpNE3JZtPDuA8zG6pMT"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "FEED",
-        "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
-      },
-      "artists": [
-        {
-          "name": "PSYCHO-FRAME",
-          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
-        }
-      ],
-      "duration_ms": 206857,
-      "name": "NO REVIVES",
-      "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Nihilus",
-        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
+        "name": "Sing to the Grave",
+        "url": "https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o"
       },
       "artists": [
         {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Nihilus",
-      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
+      "duration_ms": 159417,
+      "name": "Sing to the Grave",
+      "url": "https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Sing to the Grave",
-        "url": "https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o"
+        "name": "Nihilus",
+        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
       },
       "artists": [
         {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
         }
       ],
-      "duration_ms": 159417,
-      "name": "Sing to the Grave",
-      "url": "https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU"
+      "duration_ms": 214973,
+      "name": "Nihilus",
+      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Needful Things",
-        "url": "https://open.spotify.com/album/5kNyXGLHUusKlqJlrT8o7k"
-      },
-      "artists": [
-        {
-          "name": "Without a Face",
-          "url": "https://open.spotify.com/artist/0JEwrxfSq0vIDE2wmDT5JG"
-        },
-        {
-          "name": "Jacob Mathes",
-          "url": "https://open.spotify.com/artist/2RjZF0rj8NPt4bHtAHve59"
-        }
-      ],
-      "duration_ms": 133113,
-      "name": "Resurfacing (ft. Jacob Mathes of Orphan)",
-      "url": "https://open.spotify.com/track/5hKqEbZyJmhZIcnbdzJjqA"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Infinity Of Horrors",
         "url": "https://open.spotify.com/album/1EDNRl5Rzrs0W5telXtzQB"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 177428,
       "name": "Heaven's Gate",
       "url": "https://open.spotify.com/track/7nqXXHiraoBCFk7JBcx17Q"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Needful Things",
+        "url": "https://open.spotify.com/album/5kNyXGLHUusKlqJlrT8o7k"
+      },
+      "artists": [
+        {
+          "name": "Without a Face",
+          "url": "https://open.spotify.com/artist/0JEwrxfSq0vIDE2wmDT5JG"
+        },
+        {
+          "name": "Jacob Mathes",
+          "url": "https://open.spotify.com/artist/2RjZF0rj8NPt4bHtAHve59"
+        }
+      ],
+      "duration_ms": 133113,
+      "name": "Resurfacing (ft. Jacob Mathes of Orphan)",
+      "url": "https://open.spotify.com/track/5hKqEbZyJmhZIcnbdzJjqA"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Keres",
-        "url": "https://open.spotify.com/album/1luPoswLxtIRfoZAI4m513"
-      },
-      "artists": [
-        {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Keres",
-      "url": "https://open.spotify.com/track/3OZopVlrXlZzhy9Inwin9C"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Chainbreaker",
         "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 275807,
       "name": "Chainbreaker",
       "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Keres",
+        "url": "https://open.spotify.com/album/1luPoswLxtIRfoZAI4m513"
+      },
+      "artists": [
+        {
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Keres",
+      "url": "https://open.spotify.com/track/3OZopVlrXlZzhy9Inwin9C"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Been There, Mutilated That",
         "url": "https://open.spotify.com/album/6IzuEnCsz9celfE3THxHuW"
       },
@@ -1811,6 +1795,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/5lxqoACoFFCyZaISr77Hdj"
       },
@@ -1823,26 +1823,6 @@
       "duration_ms": 263400,
       "name": "Forlorn",
       "url": "https://open.spotify.com/track/5BCK5qslfX22rNkVnwomkw"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Make It to Heaven (feat. Signs of the Swarm)",
-        "url": "https://open.spotify.com/album/0JqqyIGmnrGylT8lSfxys9"
-      },
-      "artists": [
-        {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
-        },
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Make It to Heaven (feat. Signs of the Swarm)",
-      "url": "https://open.spotify.com/track/6XsYxUlmR9onLDzgAeUueE"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1867,6 +1847,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "From Ruin... We Rise",
+        "url": "https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 290844,
+      "name": "From Ruin... We Rise",
+      "url": "https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "No Way Out",
         "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
       },
@@ -1883,18 +1879,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "From Ruin... We Rise",
-        "url": "https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW"
+        "name": "Make It to Heaven (feat. Signs of the Swarm)",
+        "url": "https://open.spotify.com/album/0JqqyIGmnrGylT8lSfxys9"
       },
       "artists": [
         {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+        },
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
         }
       ],
-      "duration_ms": 290844,
-      "name": "From Ruin... We Rise",
-      "url": "https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S"
+      "duration_ms": 225882,
+      "name": "Make It to Heaven (feat. Signs of the Swarm)",
+      "url": "https://open.spotify.com/track/6XsYxUlmR9onLDzgAeUueE"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2047,30 +2047,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "DISSOLVING PATTERNS",
-        "url": "https://open.spotify.com/album/5cmgIc4QwUtEqvXwqbWBuA"
-      },
-      "artists": [
-        {
-          "name": "DeathStroke",
-          "url": "https://open.spotify.com/artist/7wwl379SuQW6sSag3WjnQQ"
-        },
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        },
-        {
-          "name": "Dave Simonich",
-          "url": "https://open.spotify.com/artist/2G1B2xH6hfW70iN7IcO7Ln"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "DISSOLVING PATTERNS",
-      "url": "https://open.spotify.com/track/7mPSKlMBA0tQDkCRbGZz4u"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Cut Off The Head",
         "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
       },
@@ -2099,6 +2075,30 @@
       "duration_ms": 205058,
       "name": "Fathomless Maw",
       "url": "https://open.spotify.com/track/3SSc3dcDRsvLuLYTSbyeYM"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "DISSOLVING PATTERNS",
+        "url": "https://open.spotify.com/album/5cmgIc4QwUtEqvXwqbWBuA"
+      },
+      "artists": [
+        {
+          "name": "DeathStroke",
+          "url": "https://open.spotify.com/artist/7wwl379SuQW6sSag3WjnQQ"
+        },
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        },
+        {
+          "name": "Dave Simonich",
+          "url": "https://open.spotify.com/artist/2G1B2xH6hfW70iN7IcO7Ln"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "DISSOLVING PATTERNS",
+      "url": "https://open.spotify.com/track/7mPSKlMBA0tQDkCRbGZz4u"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2215,26 +2215,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Extraction",
-        "url": "https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu"
-      },
-      "artists": [
-        {
-          "name": "LARC\u0246NIA RO\u0246",
-          "url": "https://open.spotify.com/artist/7I4UbCV9XZSHR24cyJcUy4"
-        },
-        {
-          "name": "Alex Koehler",
-          "url": "https://open.spotify.com/artist/0gmlkmHNfDhknERbozS3cI"
-        }
-      ],
-      "duration_ms": 264463,
-      "name": "Calcium Closet",
-      "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Befouler (feat. Alex Terrible)",
         "url": "https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD"
       },
@@ -2255,18 +2235,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "selfish",
-        "url": "https://open.spotify.com/album/7H21DastPGNSAMfFr6GwLP"
+        "name": "Extraction",
+        "url": "https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu"
       },
       "artists": [
         {
-          "name": "Axty",
-          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+          "name": "LARC\u0246NIA RO\u0246",
+          "url": "https://open.spotify.com/artist/7I4UbCV9XZSHR24cyJcUy4"
+        },
+        {
+          "name": "Alex Koehler",
+          "url": "https://open.spotify.com/artist/0gmlkmHNfDhknERbozS3cI"
         }
       ],
-      "duration_ms": 182704,
-      "name": "selfish",
-      "url": "https://open.spotify.com/track/74iXMAVaJXb9319uYRUSi4"
+      "duration_ms": 264463,
+      "name": "Calcium Closet",
+      "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2291,22 +2275,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Become Death",
-        "url": "https://open.spotify.com/album/78mkHcNRrEaEzDKrBnAG8U"
+        "name": "selfish",
+        "url": "https://open.spotify.com/album/7H21DastPGNSAMfFr6GwLP"
       },
       "artists": [
         {
-          "name": "Waste",
-          "url": "https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj"
-        },
-        {
-          "name": "Late 9",
-          "url": "https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup"
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
         }
       ],
-      "duration_ms": 129022,
-      "name": "Become Death",
-      "url": "https://open.spotify.com/track/7JztNZfxQ6bIYW85OecBsS"
+      "duration_ms": 182704,
+      "name": "selfish",
+      "url": "https://open.spotify.com/track/74iXMAVaJXb9319uYRUSi4"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2327,18 +2307,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Circus Sapiens",
-        "url": "https://open.spotify.com/album/0Ys3qZo73uTLQ4L03pdHja"
+        "name": "Become Death",
+        "url": "https://open.spotify.com/album/78mkHcNRrEaEzDKrBnAG8U"
       },
       "artists": [
         {
-          "name": "NECROTTED",
-          "url": "https://open.spotify.com/artist/7khBSLZWST1HqSjWpEFlXl"
+          "name": "Waste",
+          "url": "https://open.spotify.com/artist/2XuyPcxHeNlK7tOej51mqj"
+        },
+        {
+          "name": "Late 9",
+          "url": "https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup"
         }
       ],
-      "duration_ms": 201468,
-      "name": "Circus Sapiens",
-      "url": "https://open.spotify.com/track/5JlRn4UO14O7RuxwZUwOeJ"
+      "duration_ms": 129022,
+      "name": "Become Death",
+      "url": "https://open.spotify.com/track/7JztNZfxQ6bIYW85OecBsS"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2375,6 +2359,38 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Confounder",
+        "url": "https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5"
+      },
+      "artists": [
+        {
+          "name": "Heaven Shall Burn",
+          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
+        }
+      ],
+      "duration_ms": 261012,
+      "name": "Confounder",
+      "url": "https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Circus Sapiens",
+        "url": "https://open.spotify.com/album/0Ys3qZo73uTLQ4L03pdHja"
+      },
+      "artists": [
+        {
+          "name": "NECROTTED",
+          "url": "https://open.spotify.com/artist/7khBSLZWST1HqSjWpEFlXl"
+        }
+      ],
+      "duration_ms": 201468,
+      "name": "Circus Sapiens",
+      "url": "https://open.spotify.com/track/5JlRn4UO14O7RuxwZUwOeJ"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "Concrete Casket",
         "url": "https://open.spotify.com/album/6lICdyiJ6S1WU8aUjx9UVg"
       },
@@ -2407,22 +2423,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Confounder",
-        "url": "https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5"
-      },
-      "artists": [
-        {
-          "name": "Heaven Shall Burn",
-          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
-        }
-      ],
-      "duration_ms": 261012,
-      "name": "Confounder",
-      "url": "https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "leech",
         "url": "https://open.spotify.com/album/79cJKwt7LAExXQFPuKS3zj"
       },
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Scars Upon Scars",
-        "url": "https://open.spotify.com/album/4U0gc1lWiU9Osb10MzVmYN"
-      },
-      "artists": [
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Scars Upon Scars",
-      "url": "https://open.spotify.com/track/4I2nxxg5Rztf5ldzh0Acc7"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Fury",
         "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 186358,
       "name": "Code of Honor",
       "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Scars Upon Scars",
+        "url": "https://open.spotify.com/album/4U0gc1lWiU9Osb10MzVmYN"
+      },
+      "artists": [
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Scars Upon Scars",
+      "url": "https://open.spotify.com/track/4I2nxxg5Rztf5ldzh0Acc7"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2527,6 +2527,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
+      },
+      "artists": [
+        {
+          "name": "Tactosa",
+          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+        }
+      ],
+      "duration_ms": 191909,
+      "name": "Dead Pacifist",
+      "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "SILENT DECISIONS",
         "url": "https://open.spotify.com/album/6y284pHhGTzxyHzufmv2x9"
       },
@@ -2551,34 +2567,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
+        "name": "The Isnis",
+        "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
       },
       "artists": [
         {
-          "name": "Tactosa",
-          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
         }
       ],
-      "duration_ms": 191909,
-      "name": "Dead Pacifist",
-      "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "The Tide of Death and Fractured Dreams",
-        "url": "https://open.spotify.com/album/1vrBZpr5a4DEPJNMnpzPkM"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 271717,
-      "name": "Where No Light Shines",
-      "url": "https://open.spotify.com/track/38pklo617cL9UmIMU8FkTQ"
+      "duration_ms": 197614,
+      "name": "The Isnis",
+      "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
     }
   ],
   "unique_name": "Deathcore",

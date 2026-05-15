@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 308000,
       "name": "Calling Mine",
       "url": "https://open.spotify.com/track/1JRFvEe3KLaMBs2CheFmCT"
@@ -3510,7 +3510,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 190819,
       "name": "Can't Slow Down",
       "url": "https://open.spotify.com/track/5kU0vd9onuQvaYKOBpgDX5"
@@ -4030,7 +4030,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 211239,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/5UzHzwat1mg3u2XQDDBvuE"
@@ -5854,7 +5854,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 180000,
       "name": "Elders Calling - Edit",
       "url": "https://open.spotify.com/track/794JWL5giwIpLuIPARuQwH"
@@ -8640,7 +8640,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 257851,
       "name": "High",
       "url": "https://open.spotify.com/track/5RWN7jqjecmigM40x8L6A7"
@@ -15203,6 +15203,32 @@
     },
     {
       "album": {
+        "name": "Naach",
+        "url": "https://open.spotify.com/album/0omv08yGvfibeF6bHW44df"
+      },
+      "artists": [
+        {
+          "name": "Djuma Soundsystem",
+          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
+        },
+        {
+          "name": "6RAJ",
+          "url": "https://open.spotify.com/artist/58SIYws6xOsAunIbhuC6qf"
+        },
+        {
+          "name": "Valexx",
+          "url": "https://open.spotify.com/artist/4wA2CLt9Kxkh5440U9ol2K"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364000,
+      "name": "Naach - Valexx remix",
+      "url": "https://open.spotify.com/track/4WArEyLhv7LNeMcRBNzDd7"
+    },
+    {
+      "album": {
         "name": "Nairobi EP",
         "url": "https://open.spotify.com/album/0Rn7yQV2KPZE4GQEevh5lc"
       },
@@ -15454,6 +15480,28 @@
       "duration_ms": 417112,
       "name": "Ndoto (Chaleee Remix)",
       "url": "https://open.spotify.com/track/1YrkcrW3RwpceFop5gxkZV"
+    },
+    {
+      "album": {
+        "name": "Needed You",
+        "url": "https://open.spotify.com/album/7diI480u1J6UhNgBSsGpvK"
+      },
+      "artists": [
+        {
+          "name": "ODARA (BE)",
+          "url": "https://open.spotify.com/artist/1LgepmOxLTtKWQbgsXRIpr"
+        },
+        {
+          "name": "Hiding Waves",
+          "url": "https://open.spotify.com/artist/7duKwMpUrs4fsyYpGRwIFu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374218,
+      "name": "Needed You",
+      "url": "https://open.spotify.com/track/4ys9X9Q8e63XCeu8BaKPlZ"
     },
     {
       "album": {
@@ -20661,6 +20709,28 @@
     },
     {
       "album": {
+        "name": "Son of Kanku EP",
+        "url": "https://open.spotify.com/album/0IQskHfwyiilZHA0ZBMUVE"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Madmix",
+          "url": "https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393846,
+      "name": "Son of Kanku",
+      "url": "https://open.spotify.com/track/7yCxWf9OaAWgypJRNEk0ET"
+    },
+    {
+      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/1qLQYpWgWtO7DLAaqFnCY7"
       },
@@ -20742,6 +20812,28 @@
       "duration_ms": 291528,
       "name": "Soso (Joseph Remix)",
       "url": "https://open.spotify.com/track/6oZZ8xUrjlvIQz0s70C3Uo"
+    },
+    {
+      "album": {
+        "name": "Soul of Africa",
+        "url": "https://open.spotify.com/album/7rjnQdyt8tidht5oVcUGrj"
+      },
+      "artists": [
+        {
+          "name": "Lohrasp Kansara",
+          "url": "https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy"
+        },
+        {
+          "name": "Mavhungu",
+          "url": "https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189616,
+      "name": "Soul of Africa - Radio Mix",
+      "url": "https://open.spotify.com/track/1Xj1GJ6D9QBEmuB3opIAGm"
     },
     {
       "album": {
@@ -23334,6 +23426,24 @@
       "duration_ms": 213000,
       "name": "Tribal Frequency - Dub Mix",
       "url": "https://open.spotify.com/track/4GAbrrA4yEavVJh5QweJSB"
+    },
+    {
+      "album": {
+        "name": "Trilemma",
+        "url": "https://open.spotify.com/album/6I4IDcgoiIg6TZjFhk7EgX"
+      },
+      "artists": [
+        {
+          "name": "Alex Chasos",
+          "url": "https://open.spotify.com/artist/3sjMvObopxSnKXZz9eTBXo"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Trilemma",
+      "url": "https://open.spotify.com/track/7jOPnyBZk370lHFAiTHNwO"
     },
     {
       "album": {

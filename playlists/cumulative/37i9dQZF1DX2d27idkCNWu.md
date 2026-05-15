@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-181 songs - 10 hr 34 min
+182 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH) | 3:08 | 2022-09-09 | 2024-05-04 |
 | [Del Mar \- Acustico](https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ozu Vivo \(Live\)](https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O) | 3:07 | 2023-02-24 |  |
 | [Die Of A Broken Heart \- Acoustic](https://open.spotify.com/track/1RVq89LvXQYuEDurokDRvO) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Die Of A Broken Heart \(Acoustic\)](https://open.spotify.com/album/4pGufWAK66P4G7QyuaW2Db) | 3:08 | 2022-11-04 | 2022-11-26 |
+| [do raso ao fundo](https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [do raso ao fundo](https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK) | 4:05 | 2026-05-15 |  |
 | [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms) | 2:15 | 2022-12-02 | 2024-05-13 |
 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2021-11-05 |  |
 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 | 2021-11-05 |  |
@@ -138,7 +139,7 @@
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:18 | 2023-05-26 | 2024-04-19 |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Price Tag](https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX) | 3:18 | 2021-11-05 |  |
 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 | 2021-11-05 | 2022-11-13 |
-| [PSYCHO \- Acoustic](https://open.spotify.com/track/7EZiKFoOdwja5fgZW3DePA) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [PSYCHO \(Acoustic\)](https://open.spotify.com/album/6gQZTsyFmMPZ2vdh413QoK) | 2:20 | 2022-11-15 |  |
+| [PSYCHO \- Acoustic](https://open.spotify.com/track/7EZiKFoOdwja5fgZW3DePA) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [PSYCHO \(Acoustic\)](https://open.spotify.com/album/6gQZTsyFmMPZ2vdh413QoK) | 2:20 | 2022-11-15 | 2026-05-15 |
 | [Razão Da Minha Vida](https://open.spotify.com/track/6LlTxwLS2K5y231YSQGNcF) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café da MaLu, Vol\. 7](https://open.spotify.com/album/1gCJSSPP5L651egm306TdC) | 2:56 | 2025-03-28 |  |
 | [Rest Your Love \- Acoustic Version](https://open.spotify.com/track/2cWap35x6l2kXcjtOGYHqL) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Acoustic by Connor](https://open.spotify.com/album/4yKCxARipHPZ92wNy3HCyb) | 3:18 | 2022-09-09 | 2022-11-13 |
 | [Rise \- Acoustic](https://open.spotify.com/track/64TfjW0Ebj9Uq0ik2OfmE7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Rise \(Acoustic\)](https://open.spotify.com/album/4M4lVwxi3BpaAmv9hMIzrm) | 3:52 | 2021-11-05 |  |

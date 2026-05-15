@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,733 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,731 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 20 | [Do You Mind \(feat\. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross\)](https://open.spotify.com/track/6ezg5Mm5UEEi3Oqsbb7Cjn) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Major Key](https://open.spotify.com/album/6ZQyMrmlg95L8gy63Pnm33) | 5:25 |
 | 21 | [Make Me Proud](https://open.spotify.com/track/7yfg0Eer6UZZt5tZ1XdsWz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:39 |
 | 22 | [FEFE \(feat\. Nicki Minaj & Murda Beatz\)](https://open.spotify.com/track/43VXG87ajppI8mO1Mxo8vu) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 2:59 |
-| 23 | [2012 \(It Ain't The End\)](https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [2012 \(It Ain't The End\)](https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr) | 3:42 |
-| 24 | [No Love](https://open.spotify.com/track/7ewfvLrlI0VNht4vEnoTMh) | [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [No Love \(Remix\)](https://open.spotify.com/album/7ghSWpMQsrdOH8icfRKsk9) | 4:36 |
+| 23 | [No Love](https://open.spotify.com/track/7ewfvLrlI0VNht4vEnoTMh) | [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [No Love \(Remix\)](https://open.spotify.com/album/7ghSWpMQsrdOH8icfRKsk9) | 4:36 |
+| 24 | [2012 \(It Ain't The End\)](https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [2012 \(It Ain't The End\)](https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr) | 3:42 |
 | 25 | [High School](https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 3:38 |
 | 26 | [Up All Night](https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:54 |
 | 27 | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 49 | [Bed \(feat\. Ariana Grande\)](https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:09 |
 | 50 | [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/track/2iVpUQJaQjOWGja05zyIj9) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 3:19 |
 
-Snapshot ID: `agJtgAAAAACDRgWSUaDKvqaj2Ztks9Of`
+Snapshot ID: `agO/AAAAAAAeX7wSIhp5osdVAiC9kFTs`

@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-368 songs - 21 hr 16 min
+370 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Dirty Soul](https://open.spotify.com/track/3yHiEP169PW8FQVLOBn0Ph) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Dirty Soul](https://open.spotify.com/album/0VcUcURCY02Tv33uTlfgTd) | 5:04 | 2026-02-23 | 2026-04-16 |
 | [Disconnected](https://open.spotify.com/track/719IcOlLBbnW1HMreex6aA) | [Dante](https://open.spotify.com/artist/0wg680NQmdJpNhFzhSxZGF) | [Disconnected](https://open.spotify.com/album/7xoJK59B89gXpOkSRG34fP) | 4:02 | 2026-04-28 |  |
 | [Do It for the Love](https://open.spotify.com/track/1H9OJ0qE5I2595jeG72ZMZ) | [Narcotic Hearts](https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0) | [Open up Your Mind's Eye](https://open.spotify.com/album/5n09KMS0CKmlOdQ7TQYAn5) | 2:24 | 2026-04-23 |  |
+| [Do You Care](https://open.spotify.com/track/7kY6QH8DKLM8yCI6nIjuNp) | [FL!P](https://open.spotify.com/artist/1Nhc1lmGw78IavLiBewZDU) | [Do You Care](https://open.spotify.com/album/5wV40igYpNvJ1RG9b3obV7) | 2:51 | 2026-05-14 |  |
 | [Dollface](https://open.spotify.com/track/2gJlmzqblAarjB9FPa3WaD) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [Dollface](https://open.spotify.com/album/4JxQ2wpp7DQKnPoAsvxMNq) | 3:09 | 2026-04-08 | 2026-05-14 |
 | [Don't Be The Victim](https://open.spotify.com/track/3GfM3bTP0qnoD43WPBBeqD) | [Elli Hart](https://open.spotify.com/artist/6TeYsug4ZJPQF4FdFm2Cc0) | [Don't Be The Victim](https://open.spotify.com/album/7JDzrgzkJcP4O53rugLCCZ) | 3:44 | 2025-11-09 | 2026-01-17 |
 | [Don't Give Up On Me](https://open.spotify.com/track/2GhvGTzsq4Q5Uts53zNali) | [IAMDWX](https://open.spotify.com/artist/7w2jiVgHPyBIahw5NZkPHU), [Kevin Hadley](https://open.spotify.com/artist/4nBjWiNV8ofFeQdnMbijqk) | [Don't Give Up On Me](https://open.spotify.com/album/2WGUdDm9QTCnzFhXOwERi7) | 2:49 | 2026-03-04 | 2026-04-16 |
@@ -231,6 +232,7 @@
 | [Next In Line](https://open.spotify.com/track/7G4XN3ChekRS6KOxOIF68G) | [Carmen Olivia](https://open.spotify.com/artist/1w04bxkCPIX84eeMhf73aN) | [Next In Line](https://open.spotify.com/album/1tPGzJkKTLeb9X7mmCrdUu) | 3:31 | 2026-04-09 | 2026-05-14 |
 | [Nie wieder denken](https://open.spotify.com/track/19u4Ep9u8L5BsCgiZEDzXN) | [Endstation Sanifair](https://open.spotify.com/artist/2qBfpEPXX7Wunr7so7DGNc) | [Nie wieder denken](https://open.spotify.com/album/31WtAgZUTznoy3qd5FbyIo) | 3:54 | 2025-11-24 | 2026-01-17 |
 | [No Proof](https://open.spotify.com/track/0Jb6JopsRsmUeaDgiWEgGx) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:03 | 2026-04-21 |  |
+| [No Worries](https://open.spotify.com/track/4TBGIVVn9AFlv4KNQxFhGX) | [The Hello Hello's](https://open.spotify.com/artist/5RSf4xv4XplceoLEFCWsn0) | [No Worries](https://open.spotify.com/album/39VkszZlsXNg6senihUxbo) | 3:26 | 2026-05-14 |  |
 | [noise around](https://open.spotify.com/track/27fE1mDoOHqkExHkgThqYc) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [noise around](https://open.spotify.com/album/0GqjQS5cIPFGyyVJOrwAtL) | 3:43 | 2026-03-20 | 2026-04-21 |
 | [not ur muse](https://open.spotify.com/track/7aBKuGcK0y9RKT3ezTfx9J) | [Lumi Mar](https://open.spotify.com/artist/5xFxgq2tTejLjoDRzAuZaw) | [not ur muse](https://open.spotify.com/album/0zb6wtxREtziSDRzui3MqJ) | 4:05 | 2026-01-16 | 2026-02-20 |
 | [Nothing We Can Do](https://open.spotify.com/track/2GcRdml2oURe3PpLEZmpfn) | [Laurie McMahon](https://open.spotify.com/artist/3Xr0YttuvFgDb6vgjONFT7) | [Nothing We Can Do](https://open.spotify.com/album/0nfkbEiPiQrwF9dIVEjGUV) | 3:36 | 2025-11-21 | 2026-01-17 |

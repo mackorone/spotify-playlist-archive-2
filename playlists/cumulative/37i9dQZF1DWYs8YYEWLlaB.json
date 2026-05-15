@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "viral, trend ve y\u00fckselenler.  Kapak: Ayla \u00c7elik",
+  "description": "viral, trend ve y\u00fckselenler.  Kapak: ",
   "name": "trend 2026",
   "tracks": [
     {
@@ -2509,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Kalpsiz Bir Serseri (Live)",
+        "url": "https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224962,
+      "name": "Kalpsiz Bir Serseri - Live",
+      "url": "https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ"
+    },
+    {
+      "album": {
         "name": "Kapak Olsun",
         "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
       },
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 280739,
       "name": "K\u00fc\u00e7\u00fck Bir Yol",
       "url": "https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk"

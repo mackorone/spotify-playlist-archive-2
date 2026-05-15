@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADkCixRo4OO/F90fWcBPVMZ",
+  "snapshot_id": "agO/AAAAAABkuSHophooiR5xmYKuMUGd",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 156129,
-      "name": "Chicas Modernas",
-      "url": "https://open.spotify.com/track/72ov6SCXGHtob2fZwg7o6M"
+      "duration_ms": 180765,
+      "name": "Presumidas S.a.",
+      "url": "https://open.spotify.com/track/7o5rderOhdcSTkpFECRLPg"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 180765,
-      "name": "Presumidas S.a.",
-      "url": "https://open.spotify.com/track/7o5rderOhdcSTkpFECRLPg"
+      "duration_ms": 203126,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/3LUoAN6rKESMBwV6hOXKBF"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 203126,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/3LUoAN6rKESMBwV6hOXKBF"
+      "duration_ms": 234868,
+      "name": "Revent\u00f3n Unixes",
+      "url": "https://open.spotify.com/track/0gz4F3WCiOfGt6AqKiTw68"
     },
     {
       "added_at": null,
@@ -216,25 +216,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 162626,
-      "name": "Toca Tres Veces",
-      "url": "https://open.spotify.com/track/699JdgmsdfNHRAxysWzD1S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
-        "url": "https://open.spotify.com/album/4AAxr6YcB2n3yn7VAyozMI"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 234868,
-      "name": "Revent\u00f3n Unixes",
-      "url": "https://open.spotify.com/track/0gz4F3WCiOfGt6AqKiTw68"
+      "duration_ms": 157492,
+      "name": "Chicas Modernas",
+      "url": "https://open.spotify.com/track/19D00rbiTgUtcSr9VfcYhZ"
     },
     {
       "added_at": null,
@@ -271,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jacarandosa",
-        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 151458,
-      "name": "El Gato Del Vecindario",
-      "url": "https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Calentura",
         "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
       },
@@ -299,6 +267,22 @@
       "duration_ms": 184693,
       "name": "La Calentura",
       "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jacarandosa",
+        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "Toca Tres Veces",
+      "url": "https://open.spotify.com/track/699JdgmsdfNHRAxysWzD1S"
     },
     {
       "added_at": null,
@@ -339,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jacarandosa",
-        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 169870,
-      "name": "En La Esquina",
-      "url": "https://open.spotify.com/track/3keUCZz4ZHiFlPcmlJ6Vmj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestra Historia",
         "url": "https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA"
       },
@@ -367,6 +335,22 @@
       "duration_ms": 134903,
       "name": "Nuestra Historia",
       "url": "https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jacarandosa",
+        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 151458,
+      "name": "El Gato Del Vecindario",
+      "url": "https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF"
     },
     {
       "added_at": null,
@@ -551,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorprendente",
-        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 169377,
-      "name": "Cena de Plomo",
-      "url": "https://open.spotify.com/track/7oMDzR2APsPC2HfTxW78Sh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Mexicanos",
         "url": "https://open.spotify.com/album/6YQDaHi4rLGhKQxgjiGVJk"
       },
@@ -579,6 +547,22 @@
       "duration_ms": 140173,
       "name": "La chica del tec",
       "url": "https://open.spotify.com/track/5hcY0tnytA0kwAvj42P7eF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorprendente",
+        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 169377,
+      "name": "Cena de Plomo",
+      "url": "https://open.spotify.com/track/7oMDzR2APsPC2HfTxW78Sh"
     },
     {
       "added_at": null,
@@ -599,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baladas de Banda",
-        "url": "https://open.spotify.com/album/7yH1lqItrx5HzgJewnS7YO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Arrepentida",
-      "url": "https://open.spotify.com/track/70TwKdpqicn3iyocKhmFP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes Bandas",
         "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
       },
@@ -627,22 +595,6 @@
       "duration_ms": 171720,
       "name": "Zapatos viejos",
       "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorprendente",
-        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 162771,
-      "name": "De Chivito los Tamales",
-      "url": "https://open.spotify.com/track/5IgsBtotWUXW6QzwZtLt93"
     },
     {
       "added_at": null,
@@ -663,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Tropical, Vol. 8",
-        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
+        "name": "Baladas de Banda",
+        "url": "https://open.spotify.com/album/7yH1lqItrx5HzgJewnS7YO"
       },
       "artists": [
         {
@@ -672,25 +624,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Cumbiando Con Zeta",
-      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tropicalandia",
-        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Me Vas a Querer",
-      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
+      "duration_ms": 185440,
+      "name": "Arrepentida",
+      "url": "https://open.spotify.com/track/70TwKdpqicn3iyocKhmFP0"
     },
     {
       "added_at": null,
@@ -707,6 +643,22 @@
       "duration_ms": 175368,
       "name": "Pies de Chicle",
       "url": "https://open.spotify.com/track/1UPH534fJWHjmlgNkntVxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tropicalandia",
+        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Me Vas a Querer",
+      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
     },
     {
       "added_at": null,
@@ -743,6 +695,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorprendente",
+        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 162771,
+      "name": "De Chivito los Tamales",
+      "url": "https://open.spotify.com/track/5IgsBtotWUXW6QzwZtLt93"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100% Tropical, Vol. 8",
+        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Cumbiando Con Zeta",
+      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tropicalandia, Vol. II",
         "url": "https://open.spotify.com/album/57vgkfk1F10xH338L7SJIc"
       },
@@ -759,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorprendente",
-        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 180001,
-      "name": "Cobardemente",
-      "url": "https://open.spotify.com/track/2FiUBzxN2JsGcIoQnKyBg3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charangas, Vol. 3",
         "url": "https://open.spotify.com/album/0UqWpT5GDnIM6KyyPdJTwF"
       },
@@ -787,6 +755,22 @@
       "duration_ms": 245333,
       "name": "Llena de Amor",
       "url": "https://open.spotify.com/track/0thgST7TUDPVuW8wTE1LXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorprendente",
+        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 180001,
+      "name": "Cobardemente",
+      "url": "https://open.spotify.com/track/2FiUBzxN2JsGcIoQnKyBg3"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 726,
+  "num_followers": 731,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 254793,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5lJz2AYwwMxq9SuEGCa9GR"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1655,38 +1655,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
+        "name": "First Rollie",
+        "url": "https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A"
       },
       "artists": [
         {
           "name": "DOK2",
           "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 199755,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "GAROSAWK",
-        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
-      },
-      "artists": [
-        {
-          "name": "Khundi Panda",
-          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
         },
         {
-          "name": "DAMYE",
-          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
         }
       ],
-      "duration_ms": 250195,
-      "name": "Story On Sale (Feat. DAMYE)",
-      "url": "https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1"
+      "duration_ms": 199786,
+      "name": "First Rollie (feat. Seori)",
+      "url": "https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1707,6 +1691,26 @@
       "duration_ms": 179769,
       "name": "runaway (Feat. DON MALIK)",
       "url": "https://open.spotify.com/track/5mgJHVqjrx56K4mAJx8eaY"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "GAROSAWK",
+        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "DAMYE",
+          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
+        }
+      ],
+      "duration_ms": 250195,
+      "name": "Story On Sale (Feat. DAMYE)",
+      "url": "https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1"
     },
     {
       "added_at": "2025-11-10 09:53:18",

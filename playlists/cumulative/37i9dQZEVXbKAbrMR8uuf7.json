@@ -140,7 +140,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140587,
       "name": "1/1",
       "url": "https://open.spotify.com/track/16CgEHkJE7g4l6NDcnP3Yo"
@@ -4662,7 +4662,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187098,
       "name": "Body",
       "url": "https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75"
@@ -9728,7 +9728,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 123454,
       "name": "Demasiada Buena",
       "url": "https://open.spotify.com/track/6F5sLN6JoiUBbx6XB1u48Z"
@@ -13562,8 +13562,8 @@
       },
       "artists": [
         {
-          "name": "RONNY GTA",
-          "url": "https://open.spotify.com/artist/7nqm5r3RkWaqfp0FbWTiET"
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
         },
         {
           "name": "Megadivo Produce",
@@ -16560,7 +16560,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 114407,
       "name": "Hagan De To Meno Da\u00f1o",
       "url": "https://open.spotify.com/track/708q7FVfLLHwipRUYeKTbD"
@@ -18192,7 +18192,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 136470,
       "name": "iPhone",
       "url": "https://open.spotify.com/track/7aD32QMkp3Tku0XDuekyMY"
@@ -19548,7 +19548,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -23918,7 +23918,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 105091,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/2WNPfZJA4tUJw4FF47YTl4"
@@ -29476,6 +29476,28 @@
       "duration_ms": 176426,
       "name": "PAKATA",
       "url": "https://open.spotify.com/track/59rRvUjxSrKnimSsg678f9"
+    },
+    {
+      "album": {
+        "name": "PAL ME TIENEN DEMA",
+        "url": "https://open.spotify.com/album/24he376YzgCqEjakYJ0ywD"
+      },
+      "artists": [
+        {
+          "name": "Maiky Pailon",
+          "url": "https://open.spotify.com/artist/2sRNZXIG2iwA17lHJjBP9P"
+        },
+        {
+          "name": "Herido no muerto",
+          "url": "https://open.spotify.com/artist/72d2wiRTQCxoIENVvdb7xc"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119070,
+      "name": "PAL ME TIENEN DEMA",
+      "url": "https://open.spotify.com/track/36OUboJHvflOiJHR2e8X0A"
     },
     {
       "album": {

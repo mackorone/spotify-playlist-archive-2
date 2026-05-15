@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,949 likes - 75 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,947 likes - 75 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 3 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 |
 | 4 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 |
 | 5 | [Myth](https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Myth](https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s) | 1:55 |
-| 6 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
-| 7 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 |
+| 6 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 |
+| 7 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
 | 8 | [With U](https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [With U](https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3) | 3:38 |
 | 9 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 |
 | 10 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 13 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 |
 | 14 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 |
 | 15 | [Joan of Arc.](https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:58 |
-| 16 | [Divine](https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Divine](https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR) | 2:27 |
-| 17 | [Secret](https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Cadillac Mountain](https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul) | 1:43 |
+| 16 | [Secret](https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Cadillac Mountain](https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul) | 1:43 |
+| 17 | [Divine](https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Divine](https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR) | 2:27 |
 | 18 | [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 |
 | 19 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
 | 20 | [time's arrow](https://open.spotify.com/track/6Cvg6ojYitzuxZt1YHFmOI) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [time's arrow](https://open.spotify.com/album/2Mp2LYqJ7G8GKnKKF0doym) | 2:18 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 62 | [Jacaranda](https://open.spotify.com/track/6V8p59npenZZ2HaryaII9r) | [Lofi Coffee](https://open.spotify.com/artist/4lzccanVi9wOfGrXhRLlGY), [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Jacaranda](https://open.spotify.com/album/11KVHT49O592ahjmQ0yjL4) | 2:47 |
 | 63 | [Snow Profile](https://open.spotify.com/track/62zZi1Yk6I4DlUrN5PSpKW) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Snow Profile](https://open.spotify.com/album/2ovh6aY8qeOJNSq0QweDhM) | 3:21 |
 | 64 | [Lofi Smoke and Pass Out](https://open.spotify.com/track/6cK2p8SINJhAtZWjljXzqg) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Smoke and Pass Out](https://open.spotify.com/album/5nyNkedLe5CAEED8c2nDyt) | 3:53 |
-| 65 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
-| 66 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
+| 65 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
+| 66 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
 | 67 | [Milk & Cookies](https://open.spotify.com/track/2TUxk6Lbcj0le79LGO4eQ6) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Milk & Cookies](https://open.spotify.com/album/0J7mljOriS30XDELsyKJp6) | 2:04 |
 | 68 | [reality](https://open.spotify.com/track/6eGpjRTgqSs8JfLPJcSSts) | [mr.neab](https://open.spotify.com/artist/2cZLcgAsOeknY8nJGwt5Bg) | [reality](https://open.spotify.com/album/7zjk5CmvoP6k8M17vOrSc6) | 2:01 |
 | 69 | [Real Life](https://open.spotify.com/track/4kSWrE6OOHPJt4TizgkckZ) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Polo Beats](https://open.spotify.com/album/0aCbGwTjoC0h4F6SJN2OzE) | 1:38 |
 | 70 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
 | 71 | [Green Cats Cave](https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Green Cats Cave](https://open.spotify.com/album/0LIEVUcK68HEtUvfbY4E2o) | 2:42 |
 | 72 | [BEACH](https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 2:46 |
-| 73 | [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 |
-| 74 | [Floating Free](https://open.spotify.com/track/4T50e4TUj1kMFWi66QaBEq) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Floating Free](https://open.spotify.com/album/1o57MZ6drrqBMNsahZNvPu) | 4:08 |
+| 73 | [Floating Free](https://open.spotify.com/track/4T50e4TUj1kMFWi66QaBEq) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Floating Free](https://open.spotify.com/album/1o57MZ6drrqBMNsahZNvPu) | 4:08 |
+| 74 | [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 |
 | 75 | [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 |
 
 Snapshot ID: `AAAAAGXo2C6cif2LL666TXmpa/7usd3J`

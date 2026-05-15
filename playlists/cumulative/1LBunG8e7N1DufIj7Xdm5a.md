@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,377 songs - 9 day 17 hr 32 min
+4,379 songs - 9 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Black Ice](https://open.spotify.com/track/1Tj2KMUujEiAwxJ6xCSOy4) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Black Ice](https://open.spotify.com/album/5icroVOKKzAcHg89b2GQud) | 3:44 | 2025-10-01 |  |
 | [BLACK KARMA](https://open.spotify.com/track/4n91E3TWxqJFtdERx4uyXW) | [Mattia](https://open.spotify.com/artist/0DlXZLlv0VD7ngS0PZRBey), [Rossella Essence](https://open.spotify.com/artist/5uw59dgrWXoss2sg9TC3HD), [Fluid Vyola](https://open.spotify.com/artist/0ROPGqTJSsHeS5vI1IaBhN) | [BLACK KARMA](https://open.spotify.com/album/1ZSkBMEjgDwWnp6UXl5skk) | 2:56 | 2025-06-22 |  |
 | [Black Music](https://open.spotify.com/track/1GupOxLLdvexHWgpu34uuD) | [Mauro Tudino](https://open.spotify.com/artist/1oeoZXpqKTC8Y62yrALSC9) | [Queen Africa](https://open.spotify.com/album/1zSxRg7i7mMbv6eGaiQvZO) | 3:32 | 2025-06-04 |  |
+| [Black or White](https://open.spotify.com/track/4tok7s1cquoHTxgHPIv8Xe) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Black or White](https://open.spotify.com/album/6jAQM6dV7PLwD05KnDotSk) | 6:05 | 2026-05-14 |  |
 | [BLACK STAR \- SINGOLO](https://open.spotify.com/track/7In4JGEpZPLTyuckV69bBV) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [BLACK STAR \(SINGOLO\)](https://open.spotify.com/album/6DrwTjhBvwsIpDHGdGRUdi) | 3:50 | 2025-10-04 |  |
 | [Blacked Out](https://open.spotify.com/track/3kdRdlEqHdnGXeqUjFrH06) | [Kiid Jay](https://open.spotify.com/artist/3ozVEXSQBtsOPFwvnOXpTD), [Multiszn](https://open.spotify.com/artist/3YVGBwNQmEMDiEMn1RGK9W) | [Blacked Out](https://open.spotify.com/album/44MJn0Qaeli0noRTd0Erwm) | 3:10 | 2025-03-03 |  |
 | [Blackout Trauma](https://open.spotify.com/track/0UNpnDhGLD7jOziJqRhiEs) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 3:04 | 2026-04-13 |  |
@@ -1444,7 +1445,7 @@
 | [Fire emoji \(Deluxe\)](https://open.spotify.com/track/6JOrEG0E9p1ouUJQcSc7tF) | [Brian Jeck](https://open.spotify.com/artist/1jjQCpK843ShqLm4AMYna7), [Leo Magozz](https://open.spotify.com/artist/3OXeHIirpgyxCLualXXrB4), [Bling4](https://open.spotify.com/artist/3O0bJuoK49Mge1J8DAqBZc) | [Fire emoji \(Deluxe\)](https://open.spotify.com/album/0OG53iSQPwcJ5lg2rUQytm) | 3:10 | 2025-05-16 |  |
 | [Fire in My Veins](https://open.spotify.com/track/2qWqf2rzEAKgUfSaFuSO4Q) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn the Night](https://open.spotify.com/album/4Fr9ospcNo6Ml3HCQpQpa1) | 2:04 | 2025-09-12 |  |
 | [Fire Lighter](https://open.spotify.com/track/1lp1qlP0bteQTKuhGHCB4t) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Overdrive](https://open.spotify.com/album/2enRTMrOe25fNz0EtZ3rBp) | 3:39 | 2025-09-26 |  |
-| [FIRE ON THE BLACK FLAGS](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 | 2026-04-30 |  |
+| [Fire on the Black Flags](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Fire on the Black Flags](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 | 2026-04-30 |  |
 | [Fire Starter](https://open.spotify.com/track/3YjfhJzOKPX2jL0gOJptBR) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Fire Starter](https://open.spotify.com/album/04RhtkfQIWZqVKoxwmJwms) | 2:28 | 2025-01-23 |  |
 | [Fire\-Fire!](https://open.spotify.com/track/3ElFZz2vDDWWzLPtjfXRUb) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Fire\-Fire!](https://open.spotify.com/album/4p16uzyXDB2tGu4r9t2Sd2) | 2:43 | 2025-06-05 |  |
 | [Firefly Feast](https://open.spotify.com/track/2fgK8lEyLfYn5DAgHjL4j1) | [MGila\_00](https://open.spotify.com/artist/29ghh8SWOgR4zcnUrG5pp8) | [Dark Forest Cruise](https://open.spotify.com/album/5UJrnNlYatHz2JjPCD5IHq) | 2:09 | 2025-12-25 |  |
@@ -4190,6 +4191,7 @@
 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 | 2025-11-05 |  |
 | [Where it began](https://open.spotify.com/track/7FxotCXuLecKLYZvlk6BLS) | [Patrick van Bergen](https://open.spotify.com/artist/0iIsumYuMvo8U1dfOVuGXY) | [Where it began](https://open.spotify.com/album/4fPcg0BfUr7BZv0od5wgi2) | 3:45 | 2026-03-18 |  |
 | [Where the Power Lies](https://open.spotify.com/track/4Ox1lyF51vHPW5hSiDF02n) | [Vigilant Sun](https://open.spotify.com/artist/4CKxxKaa8QGZ4nsZJ0gGj2) | [Vigilant Sun](https://open.spotify.com/album/59buI0FjiizLzAsLPYBPkJ) | 2:55 | 2025-05-05 |  |
+| [Where you and music meet](https://open.spotify.com/track/3KxEFfyYA4gYbpqouqxZgx) | [Patrick van Bergen](https://open.spotify.com/artist/0iIsumYuMvo8U1dfOVuGXY) | [Where you and music meet](https://open.spotify.com/album/1BCGjd7MKvuxSi5LoMS90O) | 4:22 | 2026-05-14 |  |
 | [Where's Me Jumper?](https://open.spotify.com/track/0wRBCcuhLoI85VbrPByx88) | [Sultans Of Ping F.C.](https://open.spotify.com/artist/6SdAlCpKHeAXKmNzvhuhSs), [Frank Mcnamara](https://open.spotify.com/artist/6gauCsjCSocvGc243BRdnT) | [Casual Sex In The Cineplex](https://open.spotify.com/album/3Nunc0C2S3K5heQ9VRQFPy) | 3:08 | 2025-11-05 |  |
 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 | 2025-07-28 |  |
 | [Whisper](https://open.spotify.com/track/7r1leXqYXV7VfSRqGBfi5U) | [Shanie T](https://open.spotify.com/artist/2u9AyGn9OFUydnCaJaaTLR) | [Whisper](https://open.spotify.com/album/7fkBnWbR6UjyEJ6yfsn4KW) | 4:49 | 2026-04-14 |  |

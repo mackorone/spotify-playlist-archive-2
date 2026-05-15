@@ -56,8 +56,8 @@
 | [ใกล้](https://open.spotify.com/track/4r3UvwePMdXPJrqFautgTq) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:17 | 2026-03-13 |  |
 | [ใครบางคนจากบนฟ้า](https://open.spotify.com/track/0tEl0D4fMH5bfeegwW4gWY) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Tales](https://open.spotify.com/album/21f2pmFCn07w2y8w96X65t) | 3:49 | 2026-03-13 |  |
 | [ใจกลางความเจ็บปวด](https://open.spotify.com/track/28s9lZvryGHS4XOJVwwQMZ) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [4 Days](https://open.spotify.com/album/0gamElnT7ranqjnxSpjeWi) | 5:28 | 2026-03-13 |  |
-| [ไม่จำ!](https://open.spotify.com/track/4lvTuTHfeggO9qBAljoXxT) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh) | 4:10 | 2026-03-13 | 2026-05-09 |
-| [ไม่มี \(Tomorrow With Nobody\)](https://open.spotify.com/track/0a9MtfsKXwJbejt3OcXd0U) | [P.O.P](https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal) | [Era](https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1) | 6:33 | 2026-03-13 |  |
+| [ไม่จำ!](https://open.spotify.com/track/4lvTuTHfeggO9qBAljoXxT) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh) | 4:10 | 2026-03-13 |  |
+| [ไม่มี \(Tomorrow With Nobody\)](https://open.spotify.com/track/0a9MtfsKXwJbejt3OcXd0U) | [P.O.P](https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal) | [Era](https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1) | 6:33 | 2026-03-13 | 2026-05-15 |
 | [ไม่เคยไม่รักเธอ \(Never\)](https://open.spotify.com/track/5dnUVOtziaHI5kAHVUTZQY) | [Better Weather](https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu) | [Better Than Looks](https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06) | 4:51 | 2026-03-13 |  |
 
 \*This playlist was first scraped on 2026-05-02. Prior content cannot be recovered.

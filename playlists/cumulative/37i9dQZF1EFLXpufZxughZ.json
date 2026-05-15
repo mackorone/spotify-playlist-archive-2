@@ -2229,6 +2229,28 @@
     },
     {
       "album": {
+        "name": "No Permission",
+        "url": "https://open.spotify.com/album/2z1DvojPoUd8Gf9jPZYZES"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140014,
+      "name": "No Permission",
+      "url": "https://open.spotify.com/track/6thv6Vn1CM04ROmckfFvke"
+    },
+    {
+      "album": {
         "name": "Soundgod Fest Vol.1",
         "url": "https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249"
       },
@@ -2244,7 +2266,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140120,
       "name": "No Permission",
       "url": "https://open.spotify.com/track/7jqKilq41EX5ZyiIKeSnwA"

@@ -4,7 +4,7 @@
 
 > Ella Langley, Morgan Wallen and the biggest hits in country music.
 
-975 songs - 2 day 4 hr 59 min
+976 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [All My Friends Are Hot](https://open.spotify.com/track/0Nj5Pq7qU1KegBDOt7RPmh) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [All My Friends Are Hot](https://open.spotify.com/album/6DUGC2faJSxcexvFhCIJWr) | 2:54 | 2023-09-01 | 2023-10-07 |
 | [All Night](https://open.spotify.com/track/54dEctyawPXA7WsakKPrNL) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [All Night](https://open.spotify.com/album/53kNGz1qGKuHNOFYxGPZVs) | 2:52 | 2022-04-29 | 2022-09-03 |
 | [All Summer](https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [All Summer](https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS) | 2:51 | 2022-07-01 | 2022-09-17 |
-| [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 | 2025-04-04 |  |
+| [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 | 2025-04-04 | 2026-05-15 |
 | [Always Gonna Be](https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Always Gonna Be](https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa) | 2:52 | 2023-08-04 | 2023-09-16 |
 | [Always Gonna Love You](https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:57 | 2021-12-31 | 2022-03-19 |
 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 | 2024-08-02 | 2024-10-19 |
@@ -206,6 +206,7 @@
 | [Dammit Randy](https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Dammit Randy](https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7) | 2:59 | 2024-09-06 | 2024-10-19 |
 | [Damn Good Country Song](https://open.spotify.com/track/7xXtjD7xcsp7HHl8T7Vy38) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Black Bandana](https://open.spotify.com/album/2uHstVyPjR0mwRKlRnD2Gp) | 2:28 | 2024-10-04 | 2025-07-19 |
 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 | 2022-12-30 | 2023-02-11 |
+| [Damned If I Do](https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [There I Go](https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg) | 3:37 | 2026-05-15 |  |
 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 | 2023-06-16 | 2024-06-29 |
 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 | 2022-06-10 | 2023-06-24 |
 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2022-08-19 | 2023-11-11 |

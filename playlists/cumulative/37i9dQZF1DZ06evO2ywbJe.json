@@ -1209,6 +1209,36 @@
     },
     {
       "album": {
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/3Wnmm7fzA7q6Ua6cMF4TNX"
+      },
+      "artists": [
+        {
+          "name": "Kellylivinglarge",
+          "url": "https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Priddy Prince",
+          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
+        },
+        {
+          "name": "Brainyboi",
+          "url": "https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176169,
+      "name": "Living Life",
+      "url": "https://open.spotify.com/track/700TinpmLmAZKNxtjzIoPC"
+    },
+    {
+      "album": {
         "name": "Help Is On The Way",
         "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
       },
@@ -1232,7 +1262,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 176183,
       "name": "Living Life",
       "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"

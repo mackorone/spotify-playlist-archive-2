@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best club\-ready cuts from the underground 🧨 featuring Soul Mass Transit System 🧨
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,645 likes - 115 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,656 likes - 115 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 10 | [FIESTA](https://open.spotify.com/track/1Cs9MMnozQQUYUyxAQlbVD) | [Coffintexts](https://open.spotify.com/artist/4OMHnyekp6Sv6BdGxDcmK1), [Ale Acosta](https://open.spotify.com/artist/5LXcik8l0rAkVuFe1vI3JM), [PAYME AMY](https://open.spotify.com/artist/1mvSJJESoqtyg1HP0k9kfa) | [FIESTA](https://open.spotify.com/album/04cR0wP3saPJ7rBlI96V9h) | 5:29 |
 | 11 | [ID1](https://open.spotify.com/track/41qFfCBEexyEM4TNOgqk4O) | [Deft](https://open.spotify.com/artist/43qPWPlDL5noyuCJKPKm6N), [Crosstalk](https://open.spotify.com/artist/6xS8ncgjhNBXYqKDgOLKBq) | [N4U E.P](https://open.spotify.com/album/61eIrjLkJIy2ZcYsFLV6xZ) | 4:24 |
 | 12 | [Helix](https://open.spotify.com/track/4CDLVSZvQ2pEj3xreFWns6) | [Ehua](https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50), [Flore](https://open.spotify.com/artist/14LfGaytRuKLzIjUP6SXMM) | [Pyrexia](https://open.spotify.com/album/5bXY8a7X1GPtI01b4NCV4s) | 5:38 |
-| 13 | [Shot Caller \- Shuga's Edit](https://open.spotify.com/track/7lJsZIS9Z0uekFXmEVIywH) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ), [Swick](https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID), [Zanillya](https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p), [Shuga](https://open.spotify.com/artist/7DyQpeiuHFiQ8vR0p9zGdE) | [Shot Caller \(Remixes\)](https://open.spotify.com/album/3LX5oKGgY8Z6ZIRRomMqUp) | 3:16 |
+| 13 | [Shot Caller \(Shuga's Edit\)](https://open.spotify.com/track/7lJsZIS9Z0uekFXmEVIywH) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ), [Swick](https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID), [Zanillya](https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p), [Shuga](https://open.spotify.com/artist/7DyQpeiuHFiQ8vR0p9zGdE) | [Shot Caller \(Remixes\)](https://open.spotify.com/album/3LX5oKGgY8Z6ZIRRomMqUp) | 3:16 |
 | 14 | [Astro](https://open.spotify.com/track/0ayz6PqaVqwkCpjA9iPzas) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Ciauru](https://open.spotify.com/artist/6Zw3Q6LjYtvoNF14YXkIYf) | [Club della Fortuna](https://open.spotify.com/album/7MNPtrnNZln2GY2D2AiVv3) | 3:34 |
 | 15 | [Moving](https://open.spotify.com/track/4DO0st2jNIC8Rp02wDRLZB) | [DJ Sprinter](https://open.spotify.com/artist/62bTaWfo92DH6KPMh5xhlY) | [Moving](https://open.spotify.com/album/5BiVv8EhTyXG7Diee5XrzE) | 3:56 |
 | 16 | [Naaz](https://open.spotify.com/track/44UpPGRE0YKOT1J3bwt0ju) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [Threads](https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62) | 3:28 |

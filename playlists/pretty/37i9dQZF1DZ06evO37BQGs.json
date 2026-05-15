@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADZYadDYKMjOYPdjylBxXo5",
+  "snapshot_id": "agO/AAAAAAAgBZdtp89cnxnW7CaTTokK",
   "tracks": [
     {
       "added_at": null,
@@ -92,7 +92,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
+        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Glorious Sunset",
-      "url": "https://open.spotify.com/track/5nH0UPZ7FJcGvueuiJ7lyr"
+      "duration_ms": 167080,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
     },
     {
       "added_at": null,
@@ -164,6 +164,70 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
+      "duration_ms": 239000,
+      "name": "Glorious Sunset",
+      "url": "https://open.spotify.com/track/5nH0UPZ7FJcGvueuiJ7lyr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shatterproof Is Not A Challenge",
+        "url": "https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Still Be Here",
+      "url": "https://open.spotify.com/track/3Yee35jWZXXB3c2osYsrGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill Your Own",
+        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "Broken Hands",
+      "url": "https://open.spotify.com/track/68bhEGCeB4rH6xNrDVASLu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ideas Above Our Station",
+        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 275173,
+      "name": "Falter",
+      "url": "https://open.spotify.com/track/00vvVPPl3DHNtez3liGp8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glorious Sunset",
+        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
       "duration_ms": 215960,
       "name": "Replicate",
       "url": "https://open.spotify.com/track/3VvWADtitcT75nZvKtfS7Q"
@@ -212,70 +276,6 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 275173,
-      "name": "Falter",
-      "url": "https://open.spotify.com/track/00vvVPPl3DHNtez3liGp8Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 167080,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shatterproof Is Not A Challenge",
-        "url": "https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Still Be Here",
-      "url": "https://open.spotify.com/track/3Yee35jWZXXB3c2osYsrGI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kill Your Own",
-        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "Broken Hands",
-      "url": "https://open.spotify.com/track/68bhEGCeB4rH6xNrDVASLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ideas Above Our Station",
-        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
       "duration_ms": 193666,
       "name": "Answers",
       "url": "https://open.spotify.com/track/4BLboQozqbi0wfghh4fV1a"
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 190160,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/0H11Sou0GRil5ozQ7Qaclh"
+      "duration_ms": 219160,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 219160,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
+      "duration_ms": 190160,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/0H11Sou0GRil5ozQ7Qaclh"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You Get",
-        "url": "https://open.spotify.com/album/12mMk1LYNxZ80S7notPNHr"
+        "name": "One",
+        "url": "https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 188893,
-      "name": "Don't Forget",
-      "url": "https://open.spotify.com/track/0SVuU8e4VVa4TewIiy2szE"
+      "duration_ms": 272066,
+      "name": "Cerebra",
+      "url": "https://open.spotify.com/track/6dFkhKuX87DaF1W27RmIeD"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS"
+        "name": "What You Get",
+        "url": "https://open.spotify.com/album/12mMk1LYNxZ80S7notPNHr"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 272066,
-      "name": "Cerebra",
-      "url": "https://open.spotify.com/track/6dFkhKuX87DaF1W27RmIeD"
+      "duration_ms": 188893,
+      "name": "Don't Forget",
+      "url": "https://open.spotify.com/track/0SVuU8e4VVa4TewIiy2szE"
     },
     {
       "added_at": null,

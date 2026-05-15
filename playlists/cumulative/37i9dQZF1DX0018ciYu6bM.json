@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 202203,
       "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
       "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
@@ -6114,6 +6114,24 @@
       "duration_ms": 152640,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN"
+    },
+    {
+      "album": {
+        "name": "Heavy Serenade",
+        "url": "https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Heavy Serenade",
+      "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
     },
     {
       "album": {

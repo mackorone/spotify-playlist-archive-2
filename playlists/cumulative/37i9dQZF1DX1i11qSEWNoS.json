@@ -968,7 +968,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 121235,
       "name": "BASS BASS BASS",
       "url": "https://open.spotify.com/track/5dKJ2swiIHwBDfXz0dcLto"
@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/1B0KAFlGkoWRVu7J6hYRY9"
+      },
+      "artists": [
+        {
+          "name": "Kai Baum",
+          "url": "https://open.spotify.com/artist/5kp4UMsrN5oZxPnsef59iQ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135552,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/2x2VnJ0uQyT9tNLN5f00Ug"
+    },
+    {
+      "album": {
         "name": "Butzemann",
         "url": "https://open.spotify.com/album/0HwqPFr3m75mcNTP2eJ2pp"
       },
@@ -1942,6 +1960,28 @@
       "duration_ms": 145989,
       "name": "Dein Mann Freestyle",
       "url": "https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV"
+    },
+    {
+      "album": {
+        "name": "DER LETZTE SONG (ALLES WIRD GUT)",
+        "url": "https://open.spotify.com/album/7AOs5zY7QM8yM9tYTlitxa"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "DER LETZTE SONG (ALLES WIRD GUT)",
+      "url": "https://open.spotify.com/track/3cISOmIP920NUzN4xlWhZF"
     },
     {
       "album": {
@@ -2806,7 +2846,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 196718,
       "name": "FREI",
       "url": "https://open.spotify.com/track/0N1YHuLEvAr8cJheQD0AoT"
@@ -3222,7 +3262,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 160000,
       "name": "HALLI GALLI",
       "url": "https://open.spotify.com/track/6Ly234rjhOILeYXjF67tQ6"
@@ -3950,7 +3990,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 171800,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5IHOeYfMY3ZhuUPXDKH7sf"
@@ -4024,7 +4064,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140326,
       "name": "J\u00dcRGEN KLINSMANN",
       "url": "https://open.spotify.com/track/7tq1Vmap2HLusP6b5rO1y2"
@@ -4969,6 +5009,24 @@
     },
     {
       "album": {
+        "name": "MEHR ALS NUR EiN FAN",
+        "url": "https://open.spotify.com/album/1QcjhdI08BvBZBujA8CeG6"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129130,
+      "name": "MEHR ALS NUR EiN FAN",
+      "url": "https://open.spotify.com/track/6pbDwnvoJYJNr0ClFK3HSS"
+    },
+    {
+      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -5414,6 +5472,28 @@
       "duration_ms": 157058,
       "name": "M\u00e4dchen auf dem Pferd",
       "url": "https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq"
+    },
+    {
+      "album": {
+        "name": "Nachbeben (ANTISNOOZE)",
+        "url": "https://open.spotify.com/album/1L5hmnpaiG6NIdvlcAfQlg"
+      },
+      "artists": [
+        {
+          "name": "Alligatoah",
+          "url": "https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb"
+        },
+        {
+          "name": "LARI LUKE",
+          "url": "https://open.spotify.com/artist/4CTjrUu7zgqHjGDjFKYTAm"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Nachbeben (ANTISNOOZE)",
+      "url": "https://open.spotify.com/track/4PTEd5BRZRX7qVyhDqdXrZ"
     },
     {
       "album": {
@@ -6769,6 +6849,32 @@
     },
     {
       "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/6Il7QV7psvsviOrcosXM0J"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155516,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/1gYhY6lBUobvFCB5klYJkL"
+    },
+    {
+      "album": {
         "name": "STEP",
         "url": "https://open.spotify.com/album/4MlI9FT4vongqbAQlCtxju"
       },
@@ -6858,7 +6964,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169941,
       "name": "Streiten",
       "url": "https://open.spotify.com/track/3OlL2uUljslFoxinfslpb4"
@@ -8000,7 +8106,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"

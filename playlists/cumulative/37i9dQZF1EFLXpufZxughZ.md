@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-198 songs - 11 hr 43 min
+199 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [My Potna](https://open.spotify.com/track/33CpCzA6Rdv9d6pxBRzTho) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paperwork : Trap Music](https://open.spotify.com/album/2XkQJozVWIfsF68bRw24BD) | 3:04 | 2023-12-13 |  |
 | [My Way](https://open.spotify.com/track/3YSyn0hVwVZNptiWIOJ8Ci) | [Calynn](https://open.spotify.com/artist/3Z3fwHyjzkwiQKgZNrpodY), [T\-Minus](https://open.spotify.com/artist/61tS1lGZgs3RUqZCEyHKRJ) | [My Way](https://open.spotify.com/album/1CnIWmkw5WQuqkwYGnTg2N) | 2:26 | 2026-03-27 |  |
 | [No More \- Instrumental](https://open.spotify.com/track/3yE6B9IbyI1zDQmEvGvM0K) | [New Boyz](https://open.spotify.com/artist/1ZKqrja0WvbSssYNFO3lzs) | [Skinny Jeanz and a Mic \(Instrumental\)](https://open.spotify.com/album/1VbN8kbddayHzCw4oYTw0K) | 3:55 | 2023-12-13 |  |
-| [No Permission](https://open.spotify.com/track/7jqKilq41EX5ZyiIKeSnwA) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 2:20 | 2023-12-13 |  |
+| [No Permission](https://open.spotify.com/track/6thv6Vn1CM04ROmckfFvke) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Permission](https://open.spotify.com/album/2z1DvojPoUd8Gf9jPZYZES) | 2:20 | 2026-05-14 |  |
+| [No Permission](https://open.spotify.com/track/7jqKilq41EX5ZyiIKeSnwA) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Soundgod Fest Vol.1](https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249) | 2:20 | 2023-12-13 | 2026-05-15 |
 | [NYCE 2 Know Ya](https://open.spotify.com/track/2K4xlf7zxkU9MB88He8B1P) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [BLack On BLonde+](https://open.spotify.com/album/1b3nLfYDeIL0ND1BzTzpZc) | 3:02 | 2025-02-27 |  |
 | [NYCE 2 Know Ya](https://open.spotify.com/track/4GwsvRU7V3IXHhvqNHOBba) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [BLack on BLonde](https://open.spotify.com/album/1MDhrZN4OE4KPEjhXKJXGT) | 3:02 | 2023-12-13 | 2025-02-28 |
 | [Obama Coupe](https://open.spotify.com/track/12Kfuzg1Wo3s3BTguGUaD9) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 3:43 | 2023-12-13 |  |

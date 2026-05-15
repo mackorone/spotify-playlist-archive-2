@@ -4,7 +4,7 @@
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : DJ Arafat
 
-295 songs - 16 hr 2 min
+296 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Allons chercher](https://open.spotify.com/track/7e5KKhlapDqkvK3fUnpoUD) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Allons chercher](https://open.spotify.com/album/3AM3leqISTCPpygzdQR4Ly) | 2:31 | 2026-01-08 | 2026-01-21 |
 | [Allumez](https://open.spotify.com/track/4b8vP4Nxy9RQF8ESYAtpyb) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Allumez](https://open.spotify.com/album/1Svwz2URG49O0mj9XsrhVN) | 4:55 | 2023-07-06 | 2023-12-15 |
 | [Ambiance](https://open.spotify.com/track/74EJEB08idbiA53t61V9pU) | [TEAM DÉCALÉ](https://open.spotify.com/artist/4qym3w1SpxIMrorfAp5Os3) | [Ambiance](https://open.spotify.com/album/5g34hzac6FbJM8VehF7dtj) | 3:02 | 2024-01-18 | 2025-12-19 |
+| [AMBIANCE](https://open.spotify.com/track/7uK6bcUf92yoNy1CmBhAXZ) | [VDA](https://open.spotify.com/artist/5KFQVUUJceKqUAjdtMD4D0) | [AMBIANCE](https://open.spotify.com/album/4BnNZLG5DbxQmi5s5o7OEh) | 4:08 | 2026-05-14 |  |
 | [Ambiance Mopacho](https://open.spotify.com/track/2M4f4coh903vjprofqQcrW) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Ambiance Mopacho](https://open.spotify.com/album/5QgIL8XeuoJgyqUeXEx1g6) | 4:15 | 2023-01-12 | 2024-08-23 |
 | [Amour multiprise](https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz) | [Josée Delatour](https://open.spotify.com/artist/3o16PJgfLAo9FSDVyp1p0J) | [Amour multiprise](https://open.spotify.com/album/34l6OhPm91L7kZgJUql3d9) | 2:56 | 2023-05-18 | 2023-09-29 |
 | [Anitché deh](https://open.spotify.com/track/3YefD0JOpz43dj1AnmVn9m) | [Mille Etoil](https://open.spotify.com/artist/5zN4AUBgav2DbSsVsw0ATF), [Jolina Verdigo](https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO) | [Anitché deh](https://open.spotify.com/album/2y98G94gTdhvqn8zNvltOn) | 2:51 | 2026-03-26 | 2026-04-24 |
@@ -53,7 +54,7 @@
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-05-20 | 2025-08-08 |
 | [C'est Gnimo](https://open.spotify.com/track/0C4a0cnFflwKChIX9KJnDX) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [C'est Gnimo](https://open.spotify.com/album/23idLA2MKbC9XGJPVsOgb3) | 2:40 | 2026-04-23 |  |
 | [C'est gâté](https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [C'est gâté](https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX) | 3:18 | 2022-12-08 | 2023-11-17 |
-| [C'est Gâté partout](https://open.spotify.com/track/7D9dBLIcRVVaflhhPJtSaX) | [Taf La Référence](https://open.spotify.com/artist/5CtDNucB5geU4uqT0SuqZv) | [C'est Gâté partout](https://open.spotify.com/album/1IglftnnNnwZEwCU4XIf2l) | 2:20 | 2026-04-02 |  |
+| [C'est Gâté partout](https://open.spotify.com/track/7D9dBLIcRVVaflhhPJtSaX) | [Taf La Référence](https://open.spotify.com/artist/5CtDNucB5geU4uqT0SuqZv) | [C'est Gâté partout](https://open.spotify.com/album/1IglftnnNnwZEwCU4XIf2l) | 2:20 | 2026-04-02 | 2026-05-15 |
 | [C'est le moment](https://open.spotify.com/track/2MOlw94ecEZ2ZfaXstl3KG) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [C'est le moment](https://open.spotify.com/album/7KfEmS33up7GwkaeGi5wLx) | 4:34 | 2025-05-01 | 2025-09-05 |
 | [C'est pour les grands](https://open.spotify.com/track/5347vjt4voHoVXB4r4PUQm) | [Lionell](https://open.spotify.com/artist/678uLiEv9CfIv59509DnZe) | [C'est pour les grands](https://open.spotify.com/album/3ZWT7ouS6rVQLC69ZUhBJc) | 3:36 | 2024-04-11 | 2024-05-03 |
 | [C'est qui qui à koeuré?](https://open.spotify.com/track/3sMa9CW10jJOINelbPeV03) | [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [C'est qui qui à koeuré?](https://open.spotify.com/album/4AQrYtHFNuagblJEqLA8nM) | 2:45 | 2025-10-16 | 2026-02-06 |

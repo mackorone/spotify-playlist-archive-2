@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAC+WGz74InHzxe3cPppQO5f",
+  "snapshot_id": "agO/AAAAAAAjMJ6cRlA/5xeF9H0U1N+t",
   "tracks": [
     {
       "added_at": null,
@@ -883,18 +883,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/25Hk9EaZCYzWpIABUIKrz2"
+        "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
+        "url": "https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft"
       },
       "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 140996,
-      "name": "GHOST",
-      "url": "https://open.spotify.com/track/6ki0Gavv009DU2nBvtzzjb"
+      "duration_ms": 253568,
+      "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
+      "url": "https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5"
     }
   ],
   "unique_name": "This Is Jack Harlow",

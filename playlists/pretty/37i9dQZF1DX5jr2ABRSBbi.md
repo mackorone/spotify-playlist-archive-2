@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Sawsane
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,664 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,663 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Pretty On Paper](https://open.spotify.com/track/1EMd124K50KEJtOXaBk4wf) | [Rue Gale](https://open.spotify.com/artist/4D9p7KMV97cr41GH94Fa9V), [NEXT GENERATION](https://open.spotify.com/artist/23mVTTijlJBZUXFwV0GWH0) | [NEXT GENERATION Vol\. 001 \- GRL PWR](https://open.spotify.com/album/0L5wozLbt0Q3tXWRDHRXv8) | 4:12 |
 | 50 | [ticho!](https://open.spotify.com/track/4NPKJ6FXSPn7e79ONoEONM) | [ESPO](https://open.spotify.com/artist/54XCtYCbKZH0Va38YTqhoG), [NEXT GENERATION](https://open.spotify.com/artist/23mVTTijlJBZUXFwV0GWH0) | [NEXT GENERATION Vol\. 001 \- GRL PWR](https://open.spotify.com/album/0L5wozLbt0Q3tXWRDHRXv8) | 3:07 |
 
-Snapshot ID: `AAAAAO1nWJMLXTzhsYwFFP3aOvtqqG+y`
+Snapshot ID: `AAAAAOLELfq2s5fgcV4I5LrNvNiWWVl2`

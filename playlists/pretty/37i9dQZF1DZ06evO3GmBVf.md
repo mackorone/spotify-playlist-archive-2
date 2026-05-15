@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,492 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,516 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 29 | [Señorita Licor](https://open.spotify.com/track/0XhfUuzitgJkATaO7eS86r) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:37 |
 | 30 | [Ahora Es Diferente](https://open.spotify.com/track/6tST0LckVOXThIgappR0qk) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Ahora Es Diferente](https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6) | 4:39 |
 | 31 | [No Para](https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Para](https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N) | 3:18 |
-| 32 | [Mi Camino](https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Camino](https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v) | 3:37 |
-| 33 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 |
+| 32 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 |
+| 33 | [Mi Camino](https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Camino](https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v) | 3:37 |
 | 34 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
 | 35 | [Nada Es Perfecto](https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Nada Es Perfecto](https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq) | 3:08 |
 | 36 | [Sin Ti](https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Ti](https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i) | 5:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [Voy Por El Oro](https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Voy Por El Oro](https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9) | 5:10 |
 | 50 | [No Me Pregunten](https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Me Pregunten](https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu) | 4:10 |
 
-Snapshot ID: `agJtgAAAAABYhhdebQsFqWZYSJaf7u+O`
+Snapshot ID: `agO/AAAAAAC4BCjWSqOdVFyuKCJJw3RE`

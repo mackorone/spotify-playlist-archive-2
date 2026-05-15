@@ -738,7 +738,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 165000,
       "name": "All The Way (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
@@ -3762,6 +3762,24 @@
       "duration_ms": 183413,
       "name": "Damn You",
       "url": "https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN"
+    },
+    {
+      "album": {
+        "name": "There I Go",
+        "url": "https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217446,
+      "name": "Damned If I Do",
+      "url": "https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous"
     },
     {
       "album": {

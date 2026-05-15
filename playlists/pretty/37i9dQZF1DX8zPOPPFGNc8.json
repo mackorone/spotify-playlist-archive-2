@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"http://tbhits.com/\">Tommy Brown</a>",
-  "num_followers": 22551,
+  "num_followers": 22565,
   "original_name": "Tommy Brown's Taste",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Childs Play",
+      "url": "https://open.spotify.com/track/3NxAG2ni1lLa8RKL6a0INc"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "Mi Gente",
         "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 189440,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Childs Play",
-      "url": "https://open.spotify.com/track/3NxAG2ni1lLa8RKL6a0INc"
     },
     {
       "added_at": "2022-10-01 04:00:00",

@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: PUN
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: ALIE BLACKCOBRA
 
-239 songs - 15 hr 25 min
+240 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [BU](https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq) | [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY) | [BU](https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s) | 2:46 | 2025-09-11 | 2026-05-08 |
 | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 | 2025-01-30 | 2025-10-13 |
 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-08 | 2026-01-23 |
+| [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 | 2026-05-14 |  |
 | [Faded \- Special Version](https://open.spotify.com/track/5b2OC2aaioNReqHlQs1TbR) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Faded \(Special Version\)](https://open.spotify.com/album/7J06yijTctAn2FkYe4xZOI) | 3:49 | 2025-04-28 |  |
 | [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2024-01-26 | 2024-03-11 |
 | [Golden Hour](https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Golden Hour](https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB) | 3:44 | 2024-10-10 | 2024-12-07 |
@@ -71,7 +72,7 @@
 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 | 2025-04-16 |  |
 | [กลิ่นดอกไม้](https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลิ่นดอกไม้](https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl) | 3:52 | 2024-01-26 | 2024-06-01 |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-01-26 | 2025-01-16 |
-| [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 | 2025-02-27 |  |
+| [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 | 2025-02-27 | 2026-05-15 |
 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 | 2024-02-25 | 2025-03-24 |
 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 | 2025-11-20 |  |
 | [ขอโทษที่ติดต่อไป](https://open.spotify.com/track/1EPvxPb6ToC6LHzmHik4ZJ) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [Nap The Nap](https://open.spotify.com/artist/12uTsbd2SoA8dRXfbI9rfd) | [ขอโทษที่ติดต่อไป \- Single](https://open.spotify.com/album/2yPNK8VRicVSkfUBy4KDJ1) | 4:18 | 2025-01-23 | 2025-02-28 |

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: FIЇNKA
+> 50 найгарячіших пісень в Україні\. Обкладинка: IVAN LIULENOV
 
-200 songs - 10 hr 3 min
+201 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Забий](https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Забий](https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM) | 3:14 | 2024-06-27 | 2025-09-05 |
 | [Закоханий](https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Закоханий](https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb) | 3:48 | 2026-02-09 |  |
 | [Залежність](https://open.spotify.com/track/1z7kp9tmpxVLEOnMX2kXJ9) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [Залежність](https://open.spotify.com/album/3kqPBJF8BhkGX42jkwmffB) | 2:37 | 2025-02-17 | 2025-04-15 |
+| [Залишайся](https://open.spotify.com/track/4TGTna6ft6UaFobFf1FcHK) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Живий](https://open.spotify.com/album/3QRFj9rOsprsmXz7fOWgTQ) | 3:52 | 2026-05-14 |  |
 | [ЗВ'ЯЗОК](https://open.spotify.com/track/5151tSCaX6klN5wcC3wPkf) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [ЗВ'ЯЗОК](https://open.spotify.com/album/3u2uYEE3stbH7w5SLNcZ2j) | 2:44 | 2025-04-10 |  |
 | [Знайди мене](https://open.spotify.com/track/2xmQMKTjiOdkdGVgqDzezo) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:30 | 2024-06-27 | 2025-08-22 |
 | [Зупини її](https://open.spotify.com/track/74B82JctlL09EYkeTEqhtG) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [Сонь, ти спиш?](https://open.spotify.com/album/5SOprLKOOiyW248WNOnf9d) | 2:37 | 2025-12-01 |  |
@@ -164,7 +165,7 @@
 | [Порічка](https://open.spotify.com/track/3gH5vuIvlmzHQkPGmbkXND) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Порічка](https://open.spotify.com/album/7psQf9ptuKCMeDfvlumlmU) | 2:39 | 2024-06-27 | 2025-01-28 |
 | [Посилать](https://open.spotify.com/track/1n9Nd330aNzwwUi1p7tIF9) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Посилать](https://open.spotify.com/album/1s6ntybnzHb68tXPNPScFn) | 2:56 | 2025-04-17 | 2025-10-17 |
 | [Привіт\. Hello](https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Привіт\. Hello](https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o) | 3:02 | 2026-03-26 |  |
-| [Прикуті](https://open.spotify.com/track/4KfdSyCZM6LY7WlATxIgfx) | [Kristonko](https://open.spotify.com/artist/0zazzKWsThTBwSOVbwBNZY) | [Прикуті](https://open.spotify.com/album/01jiq2sZMVJcY9UQd6NnvA) | 2:25 | 2026-04-27 |  |
+| [Прикуті](https://open.spotify.com/track/4KfdSyCZM6LY7WlATxIgfx) | [Kristonko](https://open.spotify.com/artist/0zazzKWsThTBwSOVbwBNZY) | [Прикуті](https://open.spotify.com/album/01jiq2sZMVJcY9UQd6NnvA) | 2:25 | 2026-04-27 | 2026-05-15 |
 | [Півонії](https://open.spotify.com/track/6mkdNIS7OOMndjXVzgyA13) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Півонії](https://open.spotify.com/album/6CJD937GwNOJDyPgDwaron) | 2:06 | 2025-07-31 | 2026-01-15 |
 | [Пінаколада](https://open.spotify.com/track/4PMQ591DnjhGRYZNLETsno) | [Vitaliy Kozlovskiy](https://open.spotify.com/artist/1xn58akm1S6uU3ZVbNNfSw) | [Пінаколада](https://open.spotify.com/album/112jvnaQDUj6eHextLkaaS) | 3:15 | 2025-05-16 | 2026-05-08 |
 | [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 | 2024-10-17 | 2026-03-27 |

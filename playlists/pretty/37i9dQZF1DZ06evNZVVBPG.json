@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2800768,
+  "num_followers": 2801073,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADKdcKdmKxzr2x6i77tn4gW",
+  "snapshot_id": "agO/AAAAAACBnmk3qNFfcgZWJBHom536",
   "tracks": [
     {
       "added_at": null,
@@ -515,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Feather Hawk Tail Deer Hunter",
-        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
       },
       "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
         {
           "name": "Lana Del Rey",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 234049,
-      "name": "White Feather Hawk Tail Deer Hunter",
-      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
+      "duration_ms": 229942,
+      "name": "Snow On The Beach (feat. More Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
     },
     {
       "added_at": null,
@@ -547,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnights (The Til Dawn Edition)",
-        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+        "name": "White Feather Hawk Tail Deer Hunter",
+        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
       },
       "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
         {
           "name": "Lana Del Rey",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 229942,
-      "name": "Snow On The Beach (feat. More Lana Del Rey)",
-      "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
+      "duration_ms": 234049,
+      "name": "White Feather Hawk Tail Deer Hunter",
+      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
     },
     {
       "added_at": null,

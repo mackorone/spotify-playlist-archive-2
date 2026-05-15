@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "La BO officielle de l'\u00e9t\u00e9 2026 \ud83c\udf1e Photo : HUGEL",
+  "description": "La BO officielle de l'\u00e9t\u00e9 2026 \ud83c\udf1e Photo : GIMS x Theodora",
   "name": "hits de l'\u00e9t\u00e9 2026",
   "tracks": [
     {
@@ -224,7 +224,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140669,
       "name": "A me mi piace",
       "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca"
@@ -3532,6 +3532,24 @@
       "duration_ms": 234200,
       "name": "Hit My Heart - TR3NACRIA Remix",
       "url": "https://open.spotify.com/track/06g67XFL3EvhddvSG5Cuku"
+    },
+    {
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
       "album": {
@@ -8680,7 +8698,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 135013,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt"
@@ -9372,6 +9390,40 @@
       "duration_ms": 162041,
       "name": "ZOU BISOU",
       "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"
+    },
+    {
+      "album": {
+        "name": "404",
+        "url": "https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "MC YOSHI",
+          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179640,
+      "name": "\u00c0 l'aise",
+      "url": "https://open.spotify.com/track/3XzwTdwcIz67nPOE6sitEo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Trap Dickey, Key Glock, T.I\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,809 likes - 74 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,843 likes - 74 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 3 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
 | 4 | [MR HIM](https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [MR HIM](https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK) | 2:29 |
 | 5 | [Smoking pt\. 2](https://open.spotify.com/track/53b8uZzAN04bh91gZzZt8O) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Smoking pt\. 2](https://open.spotify.com/album/6NsTk0mMFPriN6n1NVfRwd) | 3:21 |
-| 6 | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
+| 6 | [GEEKIN](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
 | 7 | [Ya Dig](https://open.spotify.com/track/2A94GZ5pVHLPcZuhx8cMbm) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Ya Dig](https://open.spotify.com/album/5Yr7duqfOQ7PFqTYqb119j) | 2:53 |
 | 8 | [Coconut Water](https://open.spotify.com/track/0mgnFP2bLDhkG4NvlIDW41) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [Coconut Water](https://open.spotify.com/album/50rJrnieqMH6EScNI6BgXB) | 1:57 |
 | 9 | [Game On \(ft\. JT\)](https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Sugar Girl](https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI) | 2:29 |

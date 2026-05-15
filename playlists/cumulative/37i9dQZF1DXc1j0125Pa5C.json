@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Renan Oliveira",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Yan, Kamisa 10",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -612,6 +612,24 @@
       "duration_ms": 200092,
       "name": "Aonde Quer Chegar / Encaixe - Ao Vivo",
       "url": "https://open.spotify.com/track/7Cy97gNaRFruzvFX65hn8K"
+    },
+    {
+      "album": {
+        "name": "CBF (Cerveja, Batucada e Futebol) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/6su7EViSNwpG1XcWte56X8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389461,
+      "name": "Apaga / Medo Bobo / Notifica\u00e7\u00e3o Preferida - Ao Vivo",
+      "url": "https://open.spotify.com/track/1voNjZWuJlVVYByeJJF7sj"
     },
     {
       "album": {
@@ -3126,7 +3144,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 401025,
       "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu"
@@ -4545,6 +4563,28 @@
     },
     {
       "album": {
+        "name": "Futyando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4G7ErIkiDhs4tblQ7GXDgK"
+      },
+      "artists": [
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        },
+        {
+          "name": "Kamisa 10",
+          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277273,
+      "name": "Prata no Bolso / Cad\u00ea Voc\u00ea / Aventureiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/6hvSkrtRjwINftixUyRkmX"
+    },
+    {
+      "album": {
         "name": "Preciso Te Encontrar / Fronteiras / Voc\u00ea Me Pegou / \u00c9 Natural",
         "url": "https://open.spotify.com/album/6lZU6yqySUkzRTjICu6nt2"
       },
@@ -4928,7 +4968,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 327805,
       "name": "Ref\u00e9m / Trov\u00e3o / Cansei de Farra - Ao Vivo",
       "url": "https://open.spotify.com/track/78yISFDMff0e2JHdteBGhc"

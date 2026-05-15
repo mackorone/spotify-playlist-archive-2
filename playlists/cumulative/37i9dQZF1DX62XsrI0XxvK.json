@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Andien",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: BLINGOUTKID",
   "name": "JIVVA",
   "tracks": [
     {
@@ -2642,6 +2642,24 @@
       "duration_ms": 200484,
       "name": "Like That",
       "url": "https://open.spotify.com/track/1w6FQsV3hhmE4qshMfb5yk"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/74fAfgfs0k8X2RevURKI0k"
+      },
+      "artists": [
+        {
+          "name": "BLINGOUTKID",
+          "url": "https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/7KFkkuf3MMd6DM9yBNmcZT"
     },
     {
       "album": {

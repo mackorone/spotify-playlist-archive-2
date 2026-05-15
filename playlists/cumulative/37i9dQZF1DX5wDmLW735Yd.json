@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: P Money, Whiney, Lady Leshurr",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Fred V, Grafix",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -714,7 +714,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 197241,
       "name": "All Hearts",
       "url": "https://open.spotify.com/track/35qPmB2tWHUhzdbE62HpZ9"
@@ -1895,6 +1895,28 @@
     },
     {
       "album": {
+        "name": "Badgyal Ting",
+        "url": "https://open.spotify.com/album/0PcwRtWjooGiaCtxI2Y4fv"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "LawdGad",
+          "url": "https://open.spotify.com/artist/2Hms9pPdSDaT78nUgGbhYc"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Badgyal Ting",
+      "url": "https://open.spotify.com/track/2Tmg1LdPMeXSNfgReCKBJz"
+    },
+    {
+      "album": {
         "name": "Badman",
         "url": "https://open.spotify.com/album/1430OXye8UzHJp4XUUMMcX"
       },
@@ -2146,6 +2168,24 @@
       "duration_ms": 262321,
       "name": "Bassline Drop",
       "url": "https://open.spotify.com/track/0PLTn4plAqE6J4VflCrPXA"
+    },
+    {
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/4un4FAjfIhnCW1Xy83Qx9Y"
+      },
+      "artists": [
+        {
+          "name": "FLOONK",
+          "url": "https://open.spotify.com/artist/4ZzqskD9slkLlmzd5kiEnM"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202970,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/63pDrdeYyMZ9kmMtzRB8Uj"
     },
     {
       "album": {
@@ -7200,7 +7240,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 176614,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu"
@@ -8598,7 +8638,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 158928,
       "name": "FUEGO",
       "url": "https://open.spotify.com/track/1L9osXOLzN9sCMnZum9KC0"
@@ -8700,7 +8740,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 149585,
       "name": "Furaha",
       "url": "https://open.spotify.com/track/2UPK3TcZUKKLFB3D1HqzZw"
@@ -10728,7 +10768,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 268965,
       "name": "Hold up your Hands",
       "url": "https://open.spotify.com/track/6puuJ6GcrvxxKxvDsC28bj"
@@ -11830,7 +11870,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 201000,
       "name": "International Luv",
       "url": "https://open.spotify.com/track/6DtdxFU9OP3gOVpFayrdje"
@@ -13079,6 +13119,24 @@
     },
     {
       "album": {
+        "name": "Like U",
+        "url": "https://open.spotify.com/album/5xx3iZ2XAjgMXNMNaj5SkT"
+      },
+      "artists": [
+        {
+          "name": "DRZ",
+          "url": "https://open.spotify.com/artist/55WAGKDNjOnBYUoy5Vs3Db"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211885,
+      "name": "Like U",
+      "url": "https://open.spotify.com/track/4PXTxHV6BmmPa1249aSej9"
+    },
+    {
+      "album": {
         "name": "Rumble in the Jungle, Vol. 2",
         "url": "https://open.spotify.com/album/2eZMOpHPQD6mmYr5NygRxg"
       },
@@ -14300,7 +14358,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 171508,
       "name": "Man Down VIP",
       "url": "https://open.spotify.com/track/1XGgN6rRknZQppgbEpBKoD"
@@ -14998,7 +15056,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 222171,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/0Cbf9Ds2KVwdMWl2zkMiGF"
@@ -15468,6 +15526,32 @@
       "duration_ms": 226206,
       "name": "Naughty",
       "url": "https://open.spotify.com/track/0vhGiH9uWiXR8dVe4Mkk16"
+    },
+    {
+      "album": {
+        "name": "NEED U NOW",
+        "url": "https://open.spotify.com/album/1xI6wBN4xJQq3Yb2PIonjk"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Dutch & Graft",
+          "url": "https://open.spotify.com/artist/2ltPY3GzZwO3CRvIRM7QZi"
+        },
+        {
+          "name": "Professor Green",
+          "url": "https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202971,
+      "name": "NEED U NOW",
+      "url": "https://open.spotify.com/track/2rBc2CHYwIaMhMm41TCbb5"
     },
     {
       "album": {
@@ -16918,7 +17002,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 237266,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/49qBrUpRySaAocCL88ve6r"
@@ -18310,6 +18394,32 @@
       "duration_ms": 189257,
       "name": "Rain Dance",
       "url": "https://open.spotify.com/track/2kjE1Znpvkl5g6BrHAN8KG"
+    },
+    {
+      "album": {
+        "name": "Rain Is Falling",
+        "url": "https://open.spotify.com/album/4CWfu90gA1ldOGF4xYt78m"
+      },
+      "artists": [
+        {
+          "name": "Fred V & Grafix",
+          "url": "https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena"
+        },
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Rain Is Falling",
+      "url": "https://open.spotify.com/track/7Lo3mb75tBVVXiW4UAWEo5"
     },
     {
       "album": {
@@ -21031,6 +21141,28 @@
     },
     {
       "album": {
+        "name": "Snakes & Ladders",
+        "url": "https://open.spotify.com/album/2C6EixyS0KJRYDVEqFLOg4"
+      },
+      "artists": [
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        },
+        {
+          "name": "Shapes",
+          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170751,
+      "name": "Snakes & Ladders",
+      "url": "https://open.spotify.com/track/7pX4CIa5YbDQqyttp14Xjf"
+    },
+    {
+      "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/6vnJ2hMUKxOv6X9kfGYCp3"
       },
@@ -22296,7 +22428,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 167010,
       "name": "Sweet Smile",
       "url": "https://open.spotify.com/track/6ZkCjSjw228jA98Xox6SYF"
@@ -26222,7 +26354,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 157714,
       "name": "Yard Shop",
       "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"

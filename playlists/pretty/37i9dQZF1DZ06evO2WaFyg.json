@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 267077,
+  "num_followers": 267109,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADWhBwi3hyYSAyhuJviiO70",
+  "snapshot_id": "agO/AAAAAABNgNbGztobT36uQR9C+90z",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 152333,
       "name": "Ski",
       "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
     },
     {
       "added_at": null,
@@ -723,26 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Language 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
       "artists": [
         {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 188440,
-      "name": "Slam the Door",
-      "url": "https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3"
+      "duration_ms": 230253,
+      "name": "City Girls",
+      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
     },
     {
       "added_at": null,
@@ -771,22 +767,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+        "name": "Slime Language 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
         },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 230253,
-      "name": "City Girls",
-      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
+      "duration_ms": 188440,
+      "name": "Slam the Door",
+      "url": "https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3"
     },
     {
       "added_at": null,

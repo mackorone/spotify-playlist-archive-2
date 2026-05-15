@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Jeriq",
+  "description": "Hip hop and rap music from Nigeria. Cover: Aguero Banks",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -2906,7 +2906,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 163125,
       "name": "Chance",
       "url": "https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM"
@@ -3208,7 +3208,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 169920,
       "name": "CLOUD 9 (GUCCI BBY)",
       "url": "https://open.spotify.com/track/0s0HKUEoB3vmZqzM90GOJK"
@@ -5278,7 +5278,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 120868,
       "name": "FL STUDIO II",
       "url": "https://open.spotify.com/track/1A2MQMzE9on8FqI2vc984w"
@@ -7264,6 +7264,24 @@
       "duration_ms": 201639,
       "name": "IRE",
       "url": "https://open.spotify.com/track/3vowySAqVBASOj6qojv0e6"
+    },
+    {
+      "album": {
+        "name": "Ise Oluwa",
+        "url": "https://open.spotify.com/album/5CPCGLYsm34DMldgedz6de"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134896,
+      "name": "Ise Oluwa",
+      "url": "https://open.spotify.com/track/640JNqmCoELpUVGPGZ1OeV"
     },
     {
       "album": {
@@ -9586,7 +9604,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 161289,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ"
@@ -10588,6 +10606,32 @@
       "duration_ms": 119166,
       "name": "Oh My Days",
       "url": "https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l"
+    },
+    {
+      "album": {
+        "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
+        "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
+      },
+      "artists": [
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Oku",
+      "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
     },
     {
       "album": {
@@ -14430,7 +14474,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 128705,
       "name": "Tomorrow Fi Bi Lagos",
       "url": "https://open.spotify.com/track/4JFQmn2ahhGECceuhk9YOc"
@@ -14544,6 +14588,24 @@
       "duration_ms": 113776,
       "name": "TRABAYE",
       "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
+    },
+    {
+      "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
     },
     {
       "album": {

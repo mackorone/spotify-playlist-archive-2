@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Hot & Sexy (Girls Trip)",
+        "url": "https://open.spotify.com/album/7cn2d24DspmyMMe5j2nLuf"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206118,
+      "name": "Hot & Sexy - Girls Trip",
+      "url": "https://open.spotify.com/track/56XRMsd36CU26THxIrVRJG"
+    },
+    {
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },

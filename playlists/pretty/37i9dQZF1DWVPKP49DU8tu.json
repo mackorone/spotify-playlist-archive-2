@@ -1,6 +1,6 @@
 {
   "description": "Noi e il tuo specchio non ti giudicheremo mai, promesso \ud83e\udd1e\ud83c\udffc",
-  "num_followers": 366060,
+  "num_followers": 366077,
   "original_name": "Hit da cantare (come se nessuno ti stesse guardando)",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "Escapology",
-        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "Escapology",
+        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
         "name": "I Don't Care (with Justin Bieber)",
         "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "Amarsi \u00e8 la rivoluzione",
-        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
-      },
-      "artists": [
-        {
-          "name": "Eddie Brock",
-          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
-        }
-      ],
-      "duration_ms": 187698,
-      "name": "Non \u00e8 mica te",
-      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
         "name": "Beautiful People (feat. Khalid)",
         "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 197866,
       "name": "Beautiful People (feat. Khalid)",
       "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "Amarsi \u00e8 la rivoluzione",
+        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
+      },
+      "artists": [
+        {
+          "name": "Eddie Brock",
+          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
+        }
+      ],
+      "duration_ms": 187698,
+      "name": "Non \u00e8 mica te",
+      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
     },
     {
       "added_at": "2026-01-15 13:13:46",

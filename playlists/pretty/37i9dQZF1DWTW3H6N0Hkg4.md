@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 
 > Cumbias de antaño para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,840 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,955 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 117 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 |
 | 118 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |
 | 119 | [Pasito Tun, Tun](https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Los Años De Oro \- La Orquesta De Siempre](https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz) | 3:46 |
-| 120 | [Madre Cumbia](https://open.spotify.com/track/2668O3R4bP55uqLDdT19mu) | [Ritmos del Litoral](https://open.spotify.com/artist/5gvQN8WZWpHTg1ODVx9770) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 2:44 |
-| 121 | [Cumbia de Sal](https://open.spotify.com/track/7sU9DEqALuJj4rdYH5zovf) | [Cumbias en Moog](https://open.spotify.com/artist/4PNKSrqmyVecGOndjroyY6) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 3:32 |
+| 120 | [Cumbia de Sal](https://open.spotify.com/track/7sU9DEqALuJj4rdYH5zovf) | [Cumbias en Moog](https://open.spotify.com/artist/4PNKSrqmyVecGOndjroyY6) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 3:32 |
+| 121 | [Madre Cumbia](https://open.spotify.com/track/2668O3R4bP55uqLDdT19mu) | [Ritmos del Litoral](https://open.spotify.com/artist/5gvQN8WZWpHTg1ODVx9770) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 2:44 |
 | 122 | [Alma De Acero](https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:44 |
 | 123 | [Las Mujeres No Se Acaban](https://open.spotify.com/track/76JtOI0FWWI1KhM0Gyj3rJ) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia](https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw) | 4:31 |
 | 124 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 |

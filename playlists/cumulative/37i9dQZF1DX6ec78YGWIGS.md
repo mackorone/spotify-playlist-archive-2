@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Juliana Gattas & Juana Rozas
 
-508 songs - 1 day 1 hr 13 min
+509 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2023-05-12 | 2024-04-05 |
 | [Cómo Estás BB?](https://open.spotify.com/track/6PvIUWGrOYsThHZMaTyBHc) | [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc), [FEFE WAV](https://open.spotify.com/artist/6t4GgZDk0RVM2dTfMLMOUi) | [Cómo Estás BB?](https://open.spotify.com/album/4cJALLwUA2Ua8767udoJFL) | 2:54 | 2023-06-30 | 2023-07-22 |
 | [Dama](https://open.spotify.com/track/2LRlONnL2PJxCMumJ4dzHZ) | [joelle](https://open.spotify.com/artist/3PDji1lPMrS6awaEbXwa45) | [Dama](https://open.spotify.com/album/0Km5dQHnEQTITFHFlcChHB) | 2:45 | 2023-09-01 | 2023-10-06 |
+| [DAME CALOR](https://open.spotify.com/track/1dnuSENzX9bX0ARx0QPyM5) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i) | [DAME CALOR](https://open.spotify.com/album/6p2xnAkfDVOWL9xXeff1aL) | 2:26 | 2026-05-15 |  |
 | [Dame Chance \(Rayuela\)](https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Dame Chance \(Rayuela\)](https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL) | 2:32 | 2024-03-22 | 2024-04-27 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-26 | 2024-07-19 |
 | [De Nada \- Remix](https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Nada \(Remix\)](https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC) | 2:59 | 2023-05-12 | 2023-11-11 |
@@ -270,7 +271,7 @@
 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2023-08-28 | 2024-04-19 |
 | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr) | 2:47 | 2023-11-24 | 2024-03-02 |
 | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/track/5zDEMy7lLJ1W7vauTrH5mb) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/album/5J0QySoFlt8cXEQIH0jF64) | 2:47 | 2023-10-13 | 2023-11-25 |
-| [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-01-26 |  |
+| [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-01-26 | 2026-05-15 |
 | [MALA](https://open.spotify.com/track/5IF3wRy67JqKEMLduiSSFX) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i) | [DUALIDAD](https://open.spotify.com/album/2E8uAhpPNGEzKPfuojbLHj) | 2:32 | 2024-09-19 | 2024-09-28 |
 | [Maldita Foto](https://open.spotify.com/track/4WkEH0PgystZUaN6QU6Z0B) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Maldita Foto](https://open.spotify.com/album/3Ka78dJC3Xm7UjN7IhCXG6) | 3:10 | 2023-05-12 | 2023-08-04 |
 | [Maldito Mio](https://open.spotify.com/track/6ExTuAZzEBJRqVDeOk52Jf) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Maldito Mio](https://open.spotify.com/album/2MbtMw42B55nxIFipfgst7) | 2:24 | 2024-04-19 | 2024-08-24 |

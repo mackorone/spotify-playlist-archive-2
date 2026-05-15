@@ -4,7 +4,7 @@
 
 > Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Thiều Bảo Trâm
 
-418 songs - 1 day 2 hr 21 min
+419 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,13 +334,14 @@
 | [Thương](https://open.spotify.com/track/64R6c49ljNaTEl7sGZxQ00) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [Thương](https://open.spotify.com/album/0uzJPbCh0luZoWx0WXSkW9) | 3:10 | 2025-11-06 |  |
 | [Thấm Tình](https://open.spotify.com/track/2eseFd61CIH5LMbiwOS40Y) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [ĐẪM TÌNH](https://open.spotify.com/album/2sTZrEzrWI6MKcuGVBdYol) | 3:15 | 2026-01-13 | 2026-03-20 |
 | [thế giới không anh](https://open.spotify.com/track/4IpeOlxcNz1IFVvZ2ll7In) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [yesteryear](https://open.spotify.com/album/33EIrbMJq7O5fQ1WPcwaB4) | 4:19 | 2021-12-07 | 2023-02-07 |
+| [Thỏ Săn Mồi](https://open.spotify.com/track/3nWbRAFNAW5vGi1nR20e2b) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi) | [Thỏ Săn Mồi](https://open.spotify.com/album/38DOhwjrW8ho0wini5LAZq) | 3:21 | 2026-05-14 |  |
 | [Tin Nhắn Sau Cùng](https://open.spotify.com/track/4P05WuzPnCN2vqH50RyrLt) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Chia Tay](https://open.spotify.com/album/4clb1rDsPU9TuBT2P5mZU2) | 3:07 | 2025-07-03 | 2025-12-03 |
 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 | 2025-07-15 | 2026-01-15 |
 | [Trong Lòng Thủ Đô](https://open.spotify.com/track/3nRLlj6VWwR5lS9ODIFUZP) | [Kimmese](https://open.spotify.com/artist/4w5vfLTFKwpd16ZzmYwcXA) | [For My People](https://open.spotify.com/album/75O5F1pWqYfDV70l4Q8Pfa) | 3:50 | 2026-01-13 | 2026-03-20 |
 | [Trà Và Cà Phê](https://open.spotify.com/track/2jI2eny6tiU4s9wS7aCegq) | [Chi Xê](https://open.spotify.com/artist/3TInd7W6K9AZ6lKYA3dviJ), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Thinker Tell](https://open.spotify.com/album/55tvUQPvAa7p3iExGN3FqF) | 3:40 | 2025-11-06 | 2026-03-20 |
 | [Trái Tim Em Cũng Biết Đau](https://open.spotify.com/track/3xgG9C4ACPGQfYGjahrvVx) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [VSTRA](https://open.spotify.com/album/168kYvrugeWAGTfIl7i4Ck) | 3:05 | 2024-07-03 | 2024-08-01 |
 | [Trái đất ôm Mặt trời](https://open.spotify.com/track/4NTanSVXBkQ2NmDEbr2vLE) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Trái đất ôm Mặt trời](https://open.spotify.com/album/56L3SxM76dbmYCD1tOziHB) | 3:14 | 2025-07-03 | 2026-01-15 |
-| [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/46DiCDUqxQMUU6fSpBvSRG) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/6GFmE0aUDPZcatKXvPih0e) | 3:19 | 2026-03-19 |  |
+| [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/46DiCDUqxQMUU6fSpBvSRG) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/6GFmE0aUDPZcatKXvPih0e) | 3:19 | 2026-03-19 | 2026-05-15 |
 | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/4zFgUpC8z88A9aEo7dnRPN) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:19 | 2022-11-30 | 2023-12-09 |
 | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/5zH2inEP6THOY8tomr3DdZ) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/album/6He7un0iQqrbVsmieoliGN) | 3:19 | 2021-12-07 | 2022-12-01 |
 | [Trót Yêu](https://open.spotify.com/track/2lL7kSRjgVZjm942GdVOef) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Trót Yêu](https://open.spotify.com/album/5bc2VEYLPy8dII9TTZ1caN) | 4:43 | 2022-10-12 | 2022-12-01 |

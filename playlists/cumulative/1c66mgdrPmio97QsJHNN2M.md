@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-1,933 songs - 4 day 7 hr 10 min
+1,940 songs - 4 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Blood Orange](https://open.spotify.com/track/37ezRYgGPhn8c04W6v6Oyv) | [Zoe Wynns](https://open.spotify.com/artist/7wQ8IMTKvyGSOqjrGnAnit) | [Blood Orange](https://open.spotify.com/album/71vwafT0yr1239fkxRhIy1) | 3:45 | 2025-12-30 | 2026-02-03 |
 | [Blue Crush](https://open.spotify.com/track/4HTgkU4eIGE3f5PH91Q007) | [Serena Rae](https://open.spotify.com/artist/4S5i1YFUxdqqDrogeD1aIf) | [WHAT](https://open.spotify.com/album/1PFqMwYSrw0zZA8QsZbU82) | 3:05 | 2025-12-15 | 2026-01-17 |
 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 | 2026-02-17 | 2026-03-21 |
+| [Blue Screen, Half\-Dream](https://open.spotify.com/track/7s6tUZIowZBSVBSmOUtXRN) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Shenanigansia Vol.1](https://open.spotify.com/album/02WORhFZN1F14E2dTBUXau) | 4:09 | 2026-05-14 |  |
 | [Blue Star](https://open.spotify.com/track/35aqbfDHrzA2SVQxHcAiW2) | [Haido](https://open.spotify.com/artist/7Bu8J1E5EWlbwS8OiiXBuJ) | [Tales Beyond](https://open.spotify.com/album/4NoPH8oc20Bme0GGd1TW5k) | 4:00 | 2025-11-12 | 2025-12-15 |
 | [Boat Show Buzz](https://open.spotify.com/track/16DC3cIF8r9TOVlU7d3vrT) | [Jason Jarrett](https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO) | [Boat Show Buzz](https://open.spotify.com/album/1oDN8gJcWkTDs6XM5Xkli4) | 3:11 | 2026-05-03 |  |
 | [Body](https://open.spotify.com/track/62IKx3R9stwBimFMDRAkGn) | [Blake Schmitz](https://open.spotify.com/artist/6C5UsZ26MzmcbxIZM6geL4) | [Body](https://open.spotify.com/album/53N1pCCbbS3vCiZ3pXkKPa) | 2:27 | 2026-02-03 | 2026-03-06 |
@@ -557,6 +558,7 @@
 | [First Light Flow](https://open.spotify.com/track/5vwMcIO5RHjT1vFcungrin) | [Moonlight Chorizo](https://open.spotify.com/artist/0cCNixvpASdvsL7l1678xt) | [Breakfast Beats, Vol\. 2.5](https://open.spotify.com/album/4Dv6fwxPKfmT31RaIkmjYq) | 3:39 | 2025-11-14 | 2025-12-15 |
 | [First Place](https://open.spotify.com/track/1YkIM6ENm1hRijGxxPlofp) | [levi tuccson](https://open.spotify.com/artist/4xcnQh7Xxrw4T3Tb75wEEh) | [First Place](https://open.spotify.com/album/4XQQRN49tXeUKUkDPBvWnD) | 2:18 | 2025-11-25 | 2025-12-28 |
 | [Fix the lie](https://open.spotify.com/track/3FY61yjIDax22BXZfD3LNp) | [Love & Furies](https://open.spotify.com/artist/7qXLQcTSfoclWHRWwMQKPs) | [Dizzy](https://open.spotify.com/album/4dWvRHISUd5BFLRb719Awy) | 2:20 | 2025-11-03 | 2025-12-07 |
+| [Flattered](https://open.spotify.com/track/06PLRhppzQIhQ5VRFkDtvF) | [Big Little Lavender](https://open.spotify.com/artist/3GX3MouMORVyAphrgn8rEi) | [Flattered](https://open.spotify.com/album/5MwY1mOI8m6rtkYP973X7P) | 3:22 | 2026-05-14 |  |
 | [Flavored Latte](https://open.spotify.com/track/7xKUz9qNvReZC1KCJG2rcW) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [Flavored Latte](https://open.spotify.com/album/4Mthkc8cuTCo2C8ILAtdjG) | 2:41 | 2025-11-18 | 2025-12-20 |
 | [FLIGHT ATTUNED](https://open.spotify.com/track/0AhGhH87FruUWr2Z8QRFRR) | [Nibs](https://open.spotify.com/artist/44PCnr42qAFVWTK6z6Aydc) | [FLIGHT ATTUNED](https://open.spotify.com/album/78ffn5hIhwzN5w8HW6MCKC) | 3:18 | 2026-03-30 | 2026-05-02 |
 | [Flip Dat](https://open.spotify.com/track/60r6GqqN92c94fnhTSTN77) | [Otim](https://open.spotify.com/artist/1S8YtfjplFKWleoMd4Gwq8) | [Flip Dat](https://open.spotify.com/album/2RfOMDFHmPpvjjPWbVdlwf) | 3:16 | 2025-11-05 | 2025-12-07 |
@@ -691,6 +693,7 @@
 | [Help](https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Help](https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6) | 3:18 | 2026-03-21 | 2026-04-22 |
 | [Her](https://open.spotify.com/track/76cSENHWEELxDU77fz7rXz) | [UDrimmy](https://open.spotify.com/artist/1z4UTJXpmJbT6kgP7hjhMl) | [HER JOURNEY](https://open.spotify.com/album/0zMMja7cjRRlxRsagjTD71) | 2:47 | 2026-02-16 | 2026-03-20 |
 | [Here To Stay](https://open.spotify.com/track/7fCShYg6SGtz8S1bJHHC18) | [Beach Symphony](https://open.spotify.com/artist/1g7T3WjueJnRn8SU9b4zRJ) | [Here To Stay](https://open.spotify.com/album/04cUVjCm0vLXR72kUGMykn) | 3:38 | 2025-10-26 | 2026-01-15 |
+| [Here's To](https://open.spotify.com/track/09arw3m3mE6nv5YgzryEAj) | [Pien](https://open.spotify.com/artist/0M3W0VPiLEjryaAfMEoP8z) | [Here's To](https://open.spotify.com/album/3vqFuUP7NzGfacTikiemri) | 3:01 | 2026-05-14 |  |
 | [Hers.](https://open.spotify.com/track/4ltJgPwenNc9lZI3Bj7oND) | [Leazes](https://open.spotify.com/artist/5bGY4sTp40OQy0e2xihTU3) | [Hers.](https://open.spotify.com/album/2rihz6xqMk5itDWTnnVVRp) | 2:21 | 2026-04-13 | 2026-05-14 |
 | [Hex Girl](https://open.spotify.com/track/46asTlY8z9HP9oEON23EmT) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [Hex Girl](https://open.spotify.com/album/766G8rjZkrfGn543XZ1WuL) | 3:03 | 2026-01-02 | 2026-02-03 |
 | [Hide Away](https://open.spotify.com/track/55fyowkhO89KLDit9n8sLA) | [Euan Hammond](https://open.spotify.com/artist/2nEGoVluqPxGvLKlP20aN3) | [Hide Away](https://open.spotify.com/album/1yKfgbQkWEPodJxQhyxrsY) | 3:06 | 2026-03-25 | 2026-04-26 |
@@ -1240,6 +1243,7 @@
 | [Over](https://open.spotify.com/track/6Y8hVr1YAvcBnM4CxHa26R) | [Jess Stewart](https://open.spotify.com/artist/6wKbS0fTioEJQPaPSufbsu) | [Over](https://open.spotify.com/album/7sFJbynF5wkpT6fPq8O0Wy) | 3:06 | 2025-12-15 | 2026-01-17 |
 | [Overcome and Conquer](https://open.spotify.com/track/4TaDEJsvBRurwSOD4xVjet) | [Chris Clark](https://open.spotify.com/artist/2UTOgpYFtcqNi0BKKwouLw) | [Overcome and Conquer](https://open.spotify.com/album/0Ulb8AK1xDzHzza9ensfGx) | 3:19 | 2026-03-20 | 2026-04-22 |
 | [Overdose](https://open.spotify.com/track/0i9QcTH4ZM6NhPHOeznucq) | [Nyla Dream](https://open.spotify.com/artist/6HBZYlcOVJtP2vuht1HQnj) | [Two Sides Of A Dream](https://open.spotify.com/album/6NfYTmTgd7ylMee0ldhlIE) | 2:47 | 2025-12-30 | 2026-02-03 |
+| [Painted](https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Painted](https://open.spotify.com/album/1VIkQ3jdOIyFvqbMXmFNFO) | 3:05 | 2026-05-14 |  |
 | [Palabras Pendientes](https://open.spotify.com/track/4oWJOrdcJuVIADxGciov99) | [Yoriell](https://open.spotify.com/artist/6fyMge7UGAurHl7cWcH3Hx) | [Palabras Pendientes](https://open.spotify.com/album/51Kru7QORQaHoatRgXMYMM) | 2:50 | 2026-04-25 |  |
 | [Panic Attack](https://open.spotify.com/track/0UAYuISsgYOvz3G3a9T2wv) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Hello Everyone, How Are You?](https://open.spotify.com/album/09JQAkeCBSkbroiQIFjw3K) | 4:39 | 2026-01-23 |  |
 | [Paper Wings](https://open.spotify.com/track/7lwiGDNF0tewbMBEVf21fX) | [Ava Callen](https://open.spotify.com/artist/6bzb8i6DkYAu4iJZoSflhv) | [Paper Wings](https://open.spotify.com/album/0643vg6vaBN7hfQLQZqg6F) | 3:04 | 2025-11-27 | 2025-12-31 |
@@ -1471,6 +1475,7 @@
 | [Six Seasons And A Movie](https://open.spotify.com/track/0bBL5fiStd3yOZUGK2PgiA) | [Kill The Joy](https://open.spotify.com/artist/7u9DBKVrjwrpraYElkztA2) | [Six Seasons And A Movie](https://open.spotify.com/album/1TAkIJFPRFCn0Hza7jpTBF) | 3:52 | 2026-03-27 | 2026-04-28 |
 | [SIX SEVEN](https://open.spotify.com/track/3MRtHkEGf8WwNIm3i6yMbl) | [SINZ3R](https://open.spotify.com/artist/1A47d4xRwFacfpb0C9JXit) | [SIX SEVEN](https://open.spotify.com/album/2ZLaXVnLah3g7tvl17iUSw) | 3:03 | 2026-05-06 |  |
 | [Six Years](https://open.spotify.com/track/2oKwFFkRhsqN2Ja8BZ0io7) | [hateclay](https://open.spotify.com/artist/3NQb1iQBV5F8gf03zwRfPX), [Clay Winters](https://open.spotify.com/artist/5dMclDZPP5Ng2HVspxz3ip) | [Repeat](https://open.spotify.com/album/2VI3dPgXtGqWbEvWmRcvwL) | 2:18 | 2026-03-09 | 2026-04-10 |
+| [Skimming stones](https://open.spotify.com/track/5d7lKC9rNskbkpOOnaAz69) | [Treetunnels](https://open.spotify.com/artist/7nlrtDTZoeoxdtsXWeAgyk) | [Skimming stones](https://open.spotify.com/album/7FkKOBkPuKSO3Dfh0tCemg) | 3:17 | 2026-05-14 |  |
 | [Skinny Dip](https://open.spotify.com/track/0igCVOPagOunGSw6JmblK2) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [Skinny Dip](https://open.spotify.com/album/3iNAVqSpQnAQbBAh8EHmZq) | 3:27 | 2026-03-10 | 2026-04-11 |
 | [Slayer](https://open.spotify.com/track/4wYX6FWCuhl3W4sTy31kpF) | [JDM Music + Sound](https://open.spotify.com/artist/6wNwzoiFkuHDAYDRYoTt4z), [Aeph](https://open.spotify.com/artist/0lzSrFGE3CoEg8dtn1PS6i) | [AEON](https://open.spotify.com/album/4TIkr6AJmoIQruxui7DNYZ) | 1:58 | 2026-03-20 | 2026-04-22 |
 | [Sleep Of Reason](https://open.spotify.com/track/49c8H7Av1WRH1ThRmv4wyK) | [Ann Helene Hagen](https://open.spotify.com/artist/7aXFGhNg982wa7TzhTp2fj) | [Sleep Of Reason](https://open.spotify.com/album/4DUVjXTmdF0j3r4cyvASxa) | 3:25 | 2025-11-03 | 2025-12-07 |
@@ -1699,6 +1704,7 @@
 | [Thursday](https://open.spotify.com/track/4dcJzSL3inrWDsXU2QXWXe) | [mkDUBBY](https://open.spotify.com/artist/4kWnfpTnVzZt3wyAqDEvDt) | [Daylight Sessions](https://open.spotify.com/album/5D4DquhEuNaiU0GVOWtIXW) | 6:39 | 2026-02-19 | 2026-03-23 |
 | [Tic toc](https://open.spotify.com/track/5BTY9TRm4ypYqXVU0kvmTF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Tic toc](https://open.spotify.com/album/0zubQYsAaKEyw6Ju6IRHko) | 2:34 | 2026-02-14 | 2026-03-17 |
 | [Tiktok Rythm](https://open.spotify.com/track/4BAA6UtOFadQqXuo2O8KkI) | [GHANAPAQ](https://open.spotify.com/artist/26O4R4Y3SD2KQ6KUqwGeIB) | [Tiktok Rythm](https://open.spotify.com/album/4RIbdbjRuWTyS0JIsytvLD) | 4:28 | 2025-10-28 | 2025-11-30 |
+| [Till i die](https://open.spotify.com/track/6r88GA7ct5UQQNAw7Cpu1X) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [Till i die](https://open.spotify.com/album/2VLenjFE6X34XheGOSKfHo) | 2:16 | 2026-05-14 |  |
 | [Till We Become One](https://open.spotify.com/track/57mysSRVsAV9cipfunyJ6X) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [Till We Become One](https://open.spotify.com/album/6otBvHY5CtHdbqt6JThpnB) | 2:55 | 2026-03-28 | 2026-04-30 |
 | [Time](https://open.spotify.com/track/7tJud3vh5jPvumj2THvdMk) | [Locuorio](https://open.spotify.com/artist/4UaRYsvuPqjOLvjza9fpPP) | [Time](https://open.spotify.com/album/0ERm3k6ZIzrgy9dvGph0U1) | 3:05 | 2026-02-11 | 2026-03-15 |
 | [TIME](https://open.spotify.com/track/4I4WNyVowkLGNLLDOkHvsn) | [NOSTALGIC](https://open.spotify.com/artist/2NZBrHEPJL6Y2dWgBWt4d9) | [DIGITAL ROCKSTARS](https://open.spotify.com/album/6Xi1tnpXDdH0xKsCkuOGCz) | 2:42 | 2026-02-09 | 2026-03-12 |
@@ -1921,6 +1927,7 @@
 | [You Walked In](https://open.spotify.com/track/32W4eaf9gPOra2YugGB3Cg) | [Billy Holley](https://open.spotify.com/artist/4kyZuN4Dowu3l7KKv5T0hO) | [You Walked In](https://open.spotify.com/album/5DGQ8y9ZHa0sAJzmL78sOc) | 3:27 | 2026-03-07 | 2026-04-08 |
 | [You were my everything](https://open.spotify.com/track/0dVW4fqFFf6H9AfXK6xtkN) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [You were my everything](https://open.spotify.com/album/3EKtfIQBKbo4V5BIzDF8oS) | 3:05 | 2026-01-12 | 2026-02-13 |
 | [You Were with Me](https://open.spotify.com/track/7tZcQ49zuNpe5M9fjfJdzx) | [Connected Path](https://open.spotify.com/artist/1O7V9rFk7s415L4D3G9qwi) | [You Were with Me](https://open.spotify.com/album/5jtXmjATMpMRfnopCt2tkD) | 3:21 | 2026-01-01 | 2026-02-03 |
+| [You Woke My Soul](https://open.spotify.com/track/3belJHRaollUNJq4dBtyIf) | [MILA \- Canto del Alma](https://open.spotify.com/artist/4VmxZmDwgWQcE9t9FLqJMH) | [You Woke My Soul](https://open.spotify.com/album/5Nq8Tng44zNXBgM8DLZhuw) | 3:29 | 2026-05-14 |  |
 | [You're Alright](https://open.spotify.com/track/4TzuCR7T46l7gbnyfMJQyl) | [Annabell](https://open.spotify.com/artist/2fLLvnXpeib5cTbBacon4r) | [You're Alright](https://open.spotify.com/album/3pzEbv3Wa8gCEE0j4abXzI) | 3:24 | 2026-02-20 | 2026-03-25 |
 | [You're Not Alone](https://open.spotify.com/track/0eeVeWfoy34vDgMxNeJeNR) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [You're Not Alone](https://open.spotify.com/album/5fAbzRhgwUL4lQnmG2ylE7) | 3:28 | 2025-10-29 | 2025-11-30 |
 | [You're So Uninviting](https://open.spotify.com/track/1U6hp7lzgST4lzxRIR1VvW) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k), [Molly Coleman](https://open.spotify.com/artist/3zVctuiATB47XZXKAgzPZD) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 3:15 | 2026-04-01 | 2026-05-03 |

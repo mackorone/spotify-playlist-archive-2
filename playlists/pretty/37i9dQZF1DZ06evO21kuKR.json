@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 98449,
+  "num_followers": 98458,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACOL3/Bac6/GO1UchXZnR5o",
+  "snapshot_id": "agO/AAAAAABzFR0aKFSeWzGKSCanl8M9",
   "tracks": [
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feet On Land",
-        "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 152658,
-      "name": "Feet On Land",
-      "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Gangsta\u2019s Pain: Reloaded",
         "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 133631,
       "name": "Switches & Dracs (with Lil Durk feat. EST Gee)",
       "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feet On Land",
+        "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 152658,
+      "name": "Feet On Land",
+      "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
     },
     {
       "added_at": null,

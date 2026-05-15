@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. Обкладинка: lesfleures
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,317 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,314 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Знову](https://open.spotify.com/track/6mWUAL8IUjVwPF2TRTI0xf) | [lesfleures](https://open.spotify.com/artist/5rvTaikujPdqylzMhjYsVn), [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [Знову](https://open.spotify.com/album/4rtTlRrbyv8zBZouUEOnsh) | 2:54 |
 | 2 | [Бомбить](https://open.spotify.com/track/5lfAtjdZNkomb4vs9K12QX) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C), [Scroodgee](https://open.spotify.com/artist/5ZKdNe6j8vkgseAJ8odrTU) | [Бомбить](https://open.spotify.com/album/7ICoAXxiiN8i7Di321qacf) | 2:44 |
-| 3 | [грошей](https://open.spotify.com/track/3IRfziA9CWBXjjfBV1DenV) | [mercurikill](https://open.spotify.com/artist/2TlE3Qe38b9xHDrjTkO2Kl), [MBY](https://open.spotify.com/artist/3AXXysK0eGG8CmbmJINr5R) | [грошей](https://open.spotify.com/album/3mJ5MTM8TEXaJtmoEb3hn8) | 1:57 |
-| 4 | [Хто такий Гоня?](https://open.spotify.com/track/0nsUUOrPQxFMY2uOgYl4tt) | [Гоня](https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh) | [Хто такий Гоня?](https://open.spotify.com/album/3KX1j6URKzYfUK2ENDgLVG) | 2:49 |
-| 5 | [Ким би зараз був](https://open.spotify.com/track/4i6GMw7M93fQ2EqBKUnEjc) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Ким би зараз був](https://open.spotify.com/album/5xwpw8ySFze1rprGDEKgGh) | 2:14 |
-| 6 | [Soul](https://open.spotify.com/track/5N6FP5IHZMmI9Zjf7SXZoY) | [Фрай](https://open.spotify.com/artist/0u1L8pq6k21TsAtP0OPq2J) | [Soul](https://open.spotify.com/album/2vh1BxvGGcEqw7H3NVNQVP) | 2:07 |
-| 7 | [Дорога](https://open.spotify.com/track/08U1gRmKZiIvfCvq4z2X43) | [Третя Штурмова](https://open.spotify.com/artist/5PchdBWAnESzmi6rBbxq4M), [ДК Енергетик](https://open.spotify.com/artist/3eYHCFBRUK9hyTm6aG08LD), [NORD DIVISION](https://open.spotify.com/artist/1MQrUVl8fu6oQqAe3wQ1ap) | [Дорога](https://open.spotify.com/album/1LA0LRyCxuEu0HhvRlr7Lu) | 9:05 |
+| 3 | [ЛАБУДА](https://open.spotify.com/track/6EyI07FJXdGQ4a0lXLg0L1) | [NORD DIVISION](https://open.spotify.com/artist/1MQrUVl8fu6oQqAe3wQ1ap) | [ЛАБУДА](https://open.spotify.com/album/1crRIyWCvbsXKdTFkMDteo) | 13:16 |
+| 4 | [грошей](https://open.spotify.com/track/3IRfziA9CWBXjjfBV1DenV) | [mercurikill](https://open.spotify.com/artist/2TlE3Qe38b9xHDrjTkO2Kl), [MBY](https://open.spotify.com/artist/3AXXysK0eGG8CmbmJINr5R) | [грошей](https://open.spotify.com/album/3mJ5MTM8TEXaJtmoEb3hn8) | 1:57 |
+| 5 | [Хто такий Гоня?](https://open.spotify.com/track/0nsUUOrPQxFMY2uOgYl4tt) | [Гоня](https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh) | [Хто такий Гоня?](https://open.spotify.com/album/3KX1j6URKzYfUK2ENDgLVG) | 2:49 |
+| 6 | [Ким би зараз був](https://open.spotify.com/track/4i6GMw7M93fQ2EqBKUnEjc) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Ким би зараз був](https://open.spotify.com/album/5xwpw8ySFze1rprGDEKgGh) | 2:14 |
+| 7 | [Soul](https://open.spotify.com/track/5N6FP5IHZMmI9Zjf7SXZoY) | [Фрай](https://open.spotify.com/artist/0u1L8pq6k21TsAtP0OPq2J) | [Soul](https://open.spotify.com/album/2vh1BxvGGcEqw7H3NVNQVP) | 2:07 |
 | 8 | [Мені це не потрібно, дякую](https://open.spotify.com/track/7qwI6c72DmQYaXsOXnu9Bz) | [lesfleures](https://open.spotify.com/artist/5rvTaikujPdqylzMhjYsVn) | [Талант.](https://open.spotify.com/album/1JNqPxc1Cii8UnHCa8XMis) | 2:06 |
 | 9 | [Рішення прийнято](https://open.spotify.com/track/0zbRdXl3Buh1Z3B0sb3hKT) | [Mark Greider](https://open.spotify.com/artist/5uFQX3xS7WcnexP5lH91eJ) | [Рішення прийнято](https://open.spotify.com/album/2yrS9xU3aioS70QYTFiycJ) | 3:24 |
 | 10 | [lambada](https://open.spotify.com/track/2lsSwYf4KcOEhWE10xfWnK) | [askwhen](https://open.spotify.com/artist/0GsArlDO65z8mj3McTCliI), [MBY](https://open.spotify.com/artist/3AXXysK0eGG8CmbmJINr5R) | [lambada](https://open.spotify.com/album/2rF1ds7PTw6EcFJwLO1cIr) | 2:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 | 54 | [ГАДДЕМІТ](https://open.spotify.com/track/4OX375hbVOIIYYOVKqGWKO) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [ГАДДЕМІТ](https://open.spotify.com/album/1yg8JJLkBXE93Y6dDya9Tr) | 2:31 |
 | 55 | [Марічка](https://open.spotify.com/track/2WoksKIDPQ8o90cqDbgE7L) | [Patsyki Z Franeka](https://open.spotify.com/artist/0fB3vIwNC9q3MCIBugQ5o9) | [Марічка](https://open.spotify.com/album/2vuy3wk0EUUUPJejUuAF43) | 3:26 |
 
-Snapshot ID: `AAAAACkOUKoFGvo3M1fROpiAsPqyMCi6`
+Snapshot ID: `AAAAACsbVquU1nYNRgdxcbbEISAUFNVl`

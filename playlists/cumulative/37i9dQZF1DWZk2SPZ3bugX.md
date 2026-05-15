@@ -4,7 +4,7 @@
 
 > 🍾
 
-283 songs - 16 hr 7 min
+284 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Lost](https://open.spotify.com/track/2P008xRvFjXgzOK7OUUVyS) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Lost](https://open.spotify.com/album/6baHRhSnqtzgOo4uPhMAVO) | 3:28 | 2022-12-08 | 2023-06-10 |
 | [LOST IN SPACE](https://open.spotify.com/track/3vPeIA6cFEdv1opegsgQ2E) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [LOST IN SPACE](https://open.spotify.com/album/3uU3DdiyrUrGjOEparOAfZ) | 2:55 | 2022-12-08 | 2023-07-29 |
 | [Love Bites Back](https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Love Bites Back](https://open.spotify.com/album/1r7EMLI4RNk6vZjcKy5Son) | 3:11 | 2026-03-13 |  |
+| [Lovesick](https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Experiencing Feelings of Joy](https://open.spotify.com/album/30vkSdtJBtkpCJEPmgyg6F) | 3:54 | 2026-05-14 |  |
 | [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 | 2022-12-08 | 2023-09-23 |
 | [Lucky Star](https://open.spotify.com/track/3JhAETPmy2RZSLTZ6FmcHp) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Hold Up](https://open.spotify.com/album/7ECP8AzznFSErmzzik305h) | 4:55 | 2022-12-08 | 2023-09-23 |
 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 | 2023-07-28 | 2025-03-21 |
@@ -199,7 +200,7 @@
 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 | 2023-06-09 | 2025-03-14 |
 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 | 2022-12-08 | 2024-03-23 |
 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 | 2022-12-08 | 2023-09-23 |
-| [Quero](https://open.spotify.com/track/57uV62QQp0kiwBwpZjgarH) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ), [Iná](https://open.spotify.com/artist/0qA4dxIMSPVxjKBiczVHQv) | [Quero](https://open.spotify.com/album/7wNFlxLXby8RduE9xNEjrW) | 2:00 | 2026-01-23 |  |
+| [Quero](https://open.spotify.com/track/57uV62QQp0kiwBwpZjgarH) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ), [Iná](https://open.spotify.com/artist/0qA4dxIMSPVxjKBiczVHQv) | [Quero](https://open.spotify.com/album/7wNFlxLXby8RduE9xNEjrW) | 2:00 | 2026-01-23 | 2026-05-15 |
 | [R.I.P.](https://open.spotify.com/track/1KSPuERBxyErKcJDhlyRJ8) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [R.I.P.](https://open.spotify.com/album/31GGW5v48kh1vAZ6FSyqZk) | 3:04 | 2025-03-20 | 2025-03-28 |
 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-03-13 | 2025-03-28 |
 | [Reverse](https://open.spotify.com/track/0gqM9aHHz4OzqrfmRxdonh) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Gangbusters Melody Club](https://open.spotify.com/album/4li43Kruh0Mrh0SGsIipvU) | 4:02 | 2023-12-01 | 2024-04-19 |
@@ -269,7 +270,7 @@
 | [Two Years](https://open.spotify.com/track/6a2z6P7iSN9CTnR3NYyCKV) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Two Years](https://open.spotify.com/album/4UckwDR1GDGS6DN1YsTqql) | 2:48 | 2022-12-08 | 2023-09-23 |
 | [un thé?](https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [un thé?](https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI) | 2:32 | 2026-02-27 | 2026-03-14 |
 | [Upside Down](https://open.spotify.com/track/6sxRO2iJhe3hNU9HP1uJGI) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Upside Down](https://open.spotify.com/album/0ViDharMjqxwOoHFmU9Esx) | 3:27 | 2026-04-30 |  |
-| [Upside Down \(Candy Crush\)](https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Upside Down \(Candy Crush\)](https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf) | 3:29 | 2025-11-06 |  |
+| [Upside Down \(Candy Crush\)](https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Upside Down \(Candy Crush\)](https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf) | 3:29 | 2025-11-06 | 2026-05-15 |
 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 | 2025-05-30 |  |
 | [Vinyle](https://open.spotify.com/track/63YoTNZTVXMeiVw8s7fd2V) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs) | [Vinyle](https://open.spotify.com/album/7zKq0eBazgkWFC3vV7L0gu) | 3:19 | 2025-07-10 | 2025-10-03 |
 | [Voyeurisme](https://open.spotify.com/track/4wkoMRbuxd07GbA7ZDy3fi) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Voyeurisme](https://open.spotify.com/album/13cOuw1n2MIymW6G8Fvnrt) | 2:44 | 2025-02-06 | 2025-10-11 |

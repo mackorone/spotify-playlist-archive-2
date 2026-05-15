@@ -1,13 +1,61 @@
 {
-  "description": "R&B and good vibe tracks for your current mood. Cover: Chris Brown",
-  "num_followers": 149183,
+  "description": "R&B and good vibe tracks for your current mood. Cover: Bryant Barnes",
+  "num_followers": 149186,
   "original_name": "mood. ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPFfvYZZGJ8FY2r0PZPchYd2TWoo",
+  "snapshot_id": "AAAAAPn8Imry0aBqR2qa4r6pL5eFnNyq",
   "tracks": [
+    {
+      "added_at": "2026-05-14 18:00:02",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/5zXWAjUQ1Sv1aEF3HYLeuu"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 215850,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4k7lVsIunyMi4eHr4SmjDU"
+    },
+    {
+      "added_at": "2026-05-14 18:00:02",
+      "album": {
+        "name": "BELOVED: ACT II",
+        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 265127,
+      "name": "JEZEBEL",
+      "url": "https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY"
+    },
+    {
+      "added_at": "2026-05-14 18:00:02",
+      "album": {
+        "name": "But, Nvm",
+        "url": "https://open.spotify.com/album/2YZZlQUGlQgf2xIiimUGlN"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "But, Nvm",
+      "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
+    },
     {
       "added_at": "2026-05-08 02:00:02",
       "album": {
@@ -1307,22 +1355,6 @@
     {
       "added_at": "2026-05-08 02:00:02",
       "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/4X5WQeKYj003IX0SVUafA5"
-      },
-      "artists": [
-        {
-          "name": "brayll",
-          "url": "https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9"
-        }
-      ],
-      "duration_ms": 181443,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/3hbnIdY6Oqkag7QMaM0aHb"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
         "name": "All I got left",
         "url": "https://open.spotify.com/album/1s3tMzs6GFE6vsWHGgvz4q"
       },
@@ -1367,38 +1399,6 @@
       "duration_ms": 153690,
       "name": "JULIANNA",
       "url": "https://open.spotify.com/track/7C1JvjL44dnAvbLAqQunWU"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
-        "name": "what's that supposed to mean? (Deluxe)",
-        "url": "https://open.spotify.com/album/0cq4Lk1DHnpUqse6o7RMLn"
-      },
-      "artists": [
-        {
-          "name": "Ethan Low",
-          "url": "https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS"
-        }
-      ],
-      "duration_ms": 140018,
-      "name": "back2me",
-      "url": "https://open.spotify.com/track/3Mertw67m5xQ28ns2rH1Qu"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
-        "name": "ECLESIA",
-        "url": "https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 152240,
-      "name": "ALL MY LIFE",
-      "url": "https://open.spotify.com/track/77OJdtx1NDBybpWWlc4p7c"
     },
     {
       "added_at": "2026-05-08 02:00:02",
@@ -1755,22 +1755,6 @@
       "duration_ms": 211669,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
-        "name": "Feline's Return",
-        "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 224498,
-      "name": "Sofa Joy",
-      "url": "https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD"
     }
   ],
   "unique_name": "mood. ",

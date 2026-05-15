@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9659,
+  "num_followers": 9660,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAAga8MHeMkvKTU6NKPp/Div",
+  "snapshot_id": "agO/AAAAAAAXvCYdaHJpZaaiWN5AOCeb",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 237231,
       "name": "Raingurl",
       "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "booboo",
-        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "booboo",
-      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
     },
     {
       "added_at": null,
@@ -63,6 +47,22 @@
       "duration_ms": 153093,
       "name": "February 2017 (feat. Clairo and Yaeji)",
       "url": "https://open.spotify.com/track/3fTEcn7Jt6Dq3NVVdNvl4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "booboo",
+        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "booboo",
+      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yaeji",
-        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 205677,
-      "name": "Noonside",
-      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 196923,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 205677,
+      "name": "Noonside",
+      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
     },
     {
       "added_at": null,

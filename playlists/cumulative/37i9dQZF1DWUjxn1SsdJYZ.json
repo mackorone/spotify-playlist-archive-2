@@ -6025,6 +6025,24 @@
     },
     {
       "album": {
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/3Y0rHZW8DRcNW4cNoafrat"
+      },
+      "artists": [
+        {
+          "name": "Baker Boy",
+          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171411,
+      "name": "CURSE",
+      "url": "https://open.spotify.com/track/7B46lawmUGUBO8YHnsbdTJ"
+    },
+    {
+      "album": {
         "name": "Dabke (feat. NASA NOVA)",
         "url": "https://open.spotify.com/album/0uWk7ZzcKR8quoaEGUvAWl"
       },
@@ -9116,7 +9134,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 142154,
       "name": "Flexa",
       "url": "https://open.spotify.com/track/4BdrgdeUIapD9BEvg7NCZ6"
@@ -11226,6 +11244,32 @@
       "duration_ms": 120317,
       "name": "HANDS DOWN!",
       "url": "https://open.spotify.com/track/1MN8w8hmGUV9yky4ekR2nU"
+    },
+    {
+      "album": {
+        "name": "HANDS UP",
+        "url": "https://open.spotify.com/album/2Zbw1u1Bcxx3wmjtrc6BQf"
+      },
+      "artists": [
+        {
+          "name": "Cutty Vibez",
+          "url": "https://open.spotify.com/artist/1UkCLh64SVsVv3oSjPlzGQ"
+        },
+        {
+          "name": "DeeKay",
+          "url": "https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi"
+        },
+        {
+          "name": "CLXUDA",
+          "url": "https://open.spotify.com/artist/1Z4mXYbemmhlwzYTEkOdqV"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187546,
+      "name": "HANDS UP",
+      "url": "https://open.spotify.com/track/4ZCGYjggCPwIwxRbGsq27S"
     },
     {
       "album": {
@@ -24420,7 +24464,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 107587,
       "name": "SINCE YOU BEEN GONE",
       "url": "https://open.spotify.com/track/2ZxMEEi8uhwhybaxgt0AkS"
@@ -28049,6 +28093,24 @@
     },
     {
       "album": {
+        "name": "Love Songs For The Streets",
+        "url": "https://open.spotify.com/album/3fdsFwfBPE618kDPu3AzQ9"
+      },
+      "artists": [
+        {
+          "name": "Youngn Lipz",
+          "url": "https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/2RSaKYZsVd9Px5ZLyH1fy7"
+    },
+    {
+      "album": {
         "name": "Tracy Grimshaw",
         "url": "https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA"
       },
@@ -30714,7 +30776,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 110022,
       "name": "WHOLE LIFE",
       "url": "https://open.spotify.com/track/08KFqnBuCDqaQvnljRBomv"

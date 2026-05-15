@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,148 likes - 28 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,149 likes - 28 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 17 | [El Campeón](https://open.spotify.com/track/4kw4cmB6JJXA6SeqAO4x3t) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 3:48 |
 | 18 | [Solares Baldíos](https://open.spotify.com/track/6D8LxaWbw8V8gPG5RFusMc) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 4:26 |
 | 19 | [Diva Francesa](https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 2:17 |
-| 20 | [Puedes](https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:50 |
+| 20 | [Amor De Telefono Esquinero](https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:19 |
 | 21 | [Vieja Ciudad de Hierro](https://open.spotify.com/track/7pQiufMiF96UFnhmqB43Lo) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 3:08 |
 | 22 | [Huapanguero](https://open.spotify.com/track/6j8hjB5DiTxtq7W4MHFDeM) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 4:10 |
 | 23 | [El Feo](https://open.spotify.com/track/3l6pDQO0OfeHTeXzr6rTfn) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 5:51 |
-| 24 | [Amor De Telefono Esquinero](https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:19 |
+| 24 | [Puedes](https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:50 |
 | 25 | [La Partida](https://open.spotify.com/track/6mes0R2e1oe1RZMPHymcHt) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Wiracocha](https://open.spotify.com/artist/3Bed96BaBI1MxnoggMiACW), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Viaje \(Original Soundtrack\)](https://open.spotify.com/album/1qkhgSzOSCwZ809JLv4fJS) | 3:19 |
 | 26 | [Плохие танцоры](https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Лучшие из лучших](https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u) | 3:36 |
 | 27 | [Close The Door \- Original Mix](https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Decibels Loudness And Perception](https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg) | 9:19 |
 | 28 | [Schlechte Tänzer](https://open.spotify.com/track/4S8YNk4NRGZDfxGqWSA4H5) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Naked Kings](https://open.spotify.com/album/5IBEszYRv4q4Ej1PVIRdSh) | 3:36 |
 
-Snapshot ID: `agJtgAAAAABZjHtc2AeBLTukTKRDwm3N`
+Snapshot ID: `agO/AAAAAABOXJfSZoccV9h6G9jHjWeD`

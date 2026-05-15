@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,683 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,677 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 23 | [Lo Real](https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Lo Real](https://open.spotify.com/album/2dWRx8YRn7RFQ4UNdjbeGq) | 3:26 |
 | 24 | [La Placita](https://open.spotify.com/track/5ZmmNBKHKLDureKMGrRHCJ) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Placita](https://open.spotify.com/album/46l66J5C7w8cK1EOm0LlIr) | 3:48 |
 | 25 | [BAJO ZERO](https://open.spotify.com/track/5bkHVqgHtm0QKoN7qdvclK) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [Hijos de la Ruina](https://open.spotify.com/artist/39pp1wX82VRlVVohxushdp) | [BAJO ZERO](https://open.spotify.com/album/5Nxxi3O0Hz2H8Uzbz9RSSI) | 3:37 |
-| 26 | [PIRINEOS](https://open.spotify.com/track/3oSSoUOigmLhsVvfwZUanZ) | [L'haine](https://open.spotify.com/artist/7tXH4uI7BOE7hFBazlah0q), [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5) | [PIRINEOS](https://open.spotify.com/album/2Kl9CYbfn9SExmhgDooD5p) | 2:25 |
+| 26 | [PIRINEOS](https://open.spotify.com/track/3oSSoUOigmLhsVvfwZUanZ) | [L'haine](https://open.spotify.com/artist/7tXH4uI7BOE7hFBazlah0q), [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5) | [PIRINEOS](https://open.spotify.com/album/2Kl9CYbfn9SExmhgDooD5p) | 2:24 |
 | 27 | [Lobos con hambre](https://open.spotify.com/track/53N4XDk8kY4HXVJJhUNEuV) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg) | [Lobos con hambre](https://open.spotify.com/album/2bWv45S5OhapGxCSOTHHSW) | 2:25 |
 | 28 | [MAMAHUEVO](https://open.spotify.com/track/2PnQZX719RIRJSbjn6Kw0P) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [MAMAHUEVO](https://open.spotify.com/album/488FVpFzPMj5lsNQKhb3X5) | 3:03 |
 | 29 | [Shars 2019](https://open.spotify.com/track/4vI7HAK6oC52MfOYlICa0l) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2019](https://open.spotify.com/album/0ouvrlpcjyOklFJK70pwNe) | 2:55 |

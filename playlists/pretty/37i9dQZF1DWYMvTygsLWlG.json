@@ -1,6 +1,6 @@
 {
   "description": "Some of the worlds most beautiful love songs.",
-  "num_followers": 2188547,
+  "num_followers": 2188600,
   "original_name": "Love Ballads",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 269556,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
-    },
-    {
-      "added_at": "2025-05-18 19:27:55",
-      "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 242721,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "added_at": "2025-05-18 19:27:55",
+      "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 269556,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
     {
       "added_at": "2025-05-18 19:27:55",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2025-05-18 19:27:55",
-      "album": {
         "name": "Third Album",
         "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 237760,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
+    },
+    {
+      "added_at": "2025-05-18 19:27:55",
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2025-05-18 19:27:55",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "Now in a Minute",
-        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
-      },
-      "artists": [
-        {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Love You Always Forever",
-      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
-    },
-    {
-      "added_at": "2025-05-18 19:27:55",
-      "album": {
         "name": "Last of the Independents",
         "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
       },
@@ -543,22 +527,18 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
         }
       ],
-      "duration_ms": 266800,
-      "name": "Endless Love",
-      "url": "https://open.spotify.com/track/5iwyLsQ5yjnCaRrJGyAPZM"
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     },
     {
       "added_at": "2025-05-18 19:27:55",
@@ -591,6 +571,26 @@
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
+    },
+    {
+      "added_at": "2025-05-18 19:27:55",
+      "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "Endless Love",
+      "url": "https://open.spotify.com/track/5iwyLsQ5yjnCaRrJGyAPZM"
     },
     {
       "added_at": "2025-05-18 19:27:55",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Woman in Love",
-      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
-    },
-    {
-      "added_at": "2025-05-18 19:27:55",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2025-05-18 19:27:55",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Woman in Love",
+      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
     },
     {
       "added_at": "2025-05-18 19:27:55",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "The Gold Collection",
-        "url": "https://open.spotify.com/album/4oDHj8m5ksE08WWlNgcQ9Q"
+        "name": "Vagabond Heart",
+        "url": "https://open.spotify.com/album/757sdXtzO7Csu93nrCGYeo"
       },
       "artists": [
         {
-          "name": "Sheena Easton",
-          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 184480,
-      "name": "For Your Eyes Only",
-      "url": "https://open.spotify.com/track/7kd2X1tJCWrmysEeE8jiAW"
+      "duration_ms": 241506,
+      "name": "Have I Told You Lately - 2008 Remaster",
+      "url": "https://open.spotify.com/track/3S0pLtHQWFYCmNE9byQcWS"
     }
   ],
   "unique_name": "Love Ballads",

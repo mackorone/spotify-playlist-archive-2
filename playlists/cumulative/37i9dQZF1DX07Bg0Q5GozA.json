@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Deer Jade",
+  "description": "New music off the beaten track. Cover: Paycheque",
   "name": "OFF POP",
   "tracks": [
     {
@@ -618,6 +618,24 @@
       "duration_ms": 163867,
       "name": "Ace",
       "url": "https://open.spotify.com/track/3UKQ5hpIM4nWnV2vzhOwPd"
+    },
+    {
+      "album": {
+        "name": "Achtung! Optimism",
+        "url": "https://open.spotify.com/album/27kvwQYfe4ubB6hYfI76n1"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248709,
+      "name": "Achtung! Optimism",
+      "url": "https://open.spotify.com/track/1iDL7T71mxNcbStMg90e6g"
     },
     {
       "album": {
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 199454,
       "name": "Burn It!",
       "url": "https://open.spotify.com/track/0ADXYdnGtoEcUodPirMYXZ"
@@ -6519,6 +6537,32 @@
     },
     {
       "album": {
+        "name": "Dracula (JENNIE Remix - Boys Noize Disko Version)",
+        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241777,
+      "name": "Dracula - JENNIE Remix - Boys Noize Disko Version",
+      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
+    },
+    {
+      "album": {
         "name": "Springtime (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4hgg8gdEBl7TrwpjpGxli2"
       },
@@ -7852,7 +7896,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 276662,
       "name": "Fallen Cloud",
       "url": "https://open.spotify.com/track/2eYz2ZEoHun4Lepj7nBM3S"
@@ -8856,7 +8900,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 198240,
       "name": "For The Time Being - Steve Bug Remix",
       "url": "https://open.spotify.com/track/6zZulZTOGu2sgvoP107mIX"
@@ -9764,7 +9808,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 165737,
       "name": "Golden",
       "url": "https://open.spotify.com/track/73ob1BOoxobzYqlnwSVmJv"
@@ -9786,10 +9830,28 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 498968,
       "name": "Golden Cage - Fred Falke Remix",
       "url": "https://open.spotify.com/track/19XDBETDLZ2JwCUSjzN8DL"
+    },
+    {
+      "album": {
+        "name": "Golden Gallows",
+        "url": "https://open.spotify.com/album/6HmW6AUos8RG7kTOhFYSvf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284745,
+      "name": "Golden Gallows",
+      "url": "https://open.spotify.com/track/1yaZAY2LyK4sH0PVr1cxcm"
     },
     {
       "album": {
@@ -15940,7 +16002,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 239973,
       "name": "Love Who You Love",
       "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
@@ -16670,6 +16732,24 @@
       "duration_ms": 264296,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/3NYm3ZimuJNb0Z0px5OEwO"
+    },
+    {
+      "album": {
+        "name": "Massacre",
+        "url": "https://open.spotify.com/album/2z3jdGl1joL7e7yhJLi9Nr"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175330,
+      "name": "Massacre",
+      "url": "https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3"
     },
     {
       "album": {
@@ -22675,6 +22755,32 @@
     },
     {
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/4C7lqD1l78gnaMTLVA9JGW"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Taube",
+          "url": "https://open.spotify.com/artist/7CkJFCrOBweQ9bOL3C5MCu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212907,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/75LdIYSLqY9kBXZIHnqf9U"
+    },
+    {
+      "album": {
         "name": "Exosoul [of Ana\u00efnja]",
         "url": "https://open.spotify.com/album/79AFgPV8mpa1WVlwLPowb4"
       },
@@ -25422,6 +25528,24 @@
       "duration_ms": 209700,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/7a4tPUZr5Fm3eQ1KkT2nGA"
+    },
+    {
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/4016CeKzSOstXXe2jLqqoh"
+      },
+      "artists": [
+        {
+          "name": "Paycheque",
+          "url": "https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239700,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR"
     },
     {
       "album": {
@@ -28544,7 +28668,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169630,
       "name": "We Go So Good Together",
       "url": "https://open.spotify.com/track/5u60vtj3BIty91oZw2xUVF"
@@ -28992,6 +29116,32 @@
       "duration_ms": 188320,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"
+    },
+    {
+      "album": {
+        "name": "What You Want (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/6pTEOWVGMpx8keqO9xRhDC"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202773,
+      "name": "What You Want - Fcukers Remix",
+      "url": "https://open.spotify.com/track/0vDEDfoMO57db8lb60xE2s"
     },
     {
       "album": {

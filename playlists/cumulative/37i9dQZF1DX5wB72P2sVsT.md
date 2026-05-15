@@ -2,9 +2,9 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Bebe Rexha au top des bangers dance/electro du moment !
+> Jaden Bojsen x David Guetta au top des bangers dance/electro du moment !
 
-353 songs - 16 hr 15 min
+354 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 | 2025-01-16 | 2025-06-27 |
 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 | 2023-11-30 | 2024-02-23 |
 | [Disconnected](https://open.spotify.com/track/0elPKqkYWPPuhpaKAj1fPP) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Disconnected](https://open.spotify.com/album/4VQAVGBcC2gPvo3CyLlgrT) | 2:42 | 2023-11-09 | 2023-12-01 |
+| [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 | 2026-05-14 |  |
 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 | 2023-12-21 | 2024-06-15 |
 | [Don't Leave \- Kylie](https://open.spotify.com/track/3TcF1tFvOdhTUMIaCRBFbN) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don't Leave \(Kylie\)](https://open.spotify.com/album/3fr8O4xvV0CCAipaAkF8ZS) | 3:08 | 2025-11-13 | 2026-01-15 |
 | [Don't Stop \(I Wanna Know\)](https://open.spotify.com/track/0GaelwSoQDKjwoE16jxwNo) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Don't Stop \(I Wanna Know\)](https://open.spotify.com/album/0CjeKexsHa6yFv7X43qJ4d) | 2:39 | 2024-12-12 | 2025-03-14 |
@@ -102,7 +103,7 @@
 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Greg Taro](https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 | 2025-03-06 | 2025-11-07 |
 | [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 | 2024-04-04 | 2024-10-25 |
 | [Fable](https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Fable](https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk) | 2:45 | 2023-09-28 | 2024-02-02 |
-| [Feel Free](https://open.spotify.com/track/13sT3wY8JzF0R3Kc3lUp5l) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Feel Free](https://open.spotify.com/album/4H9preSHuvOhNVFsKbENPP) | 2:19 | 2025-12-04 |  |
+| [Feel Free](https://open.spotify.com/track/13sT3wY8JzF0R3Kc3lUp5l) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Feel Free](https://open.spotify.com/album/4H9preSHuvOhNVFsKbENPP) | 2:19 | 2025-12-04 | 2026-05-15 |
 | [Feeling Good](https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Feeling Good](https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk) | 3:23 | 2024-04-11 | 2024-08-16 |
 | [feelings don't lie](https://open.spotify.com/track/3lqamRh4EILIDACnAbl35t) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [feelings don't lie](https://open.spotify.com/album/7Dl3d5p3H4vp1DKkXifeRm) | 2:30 | 2024-05-31 | 2024-09-20 |
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-09-19 | 2025-03-21 |

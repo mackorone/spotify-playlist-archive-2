@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-553 songs - 1 day 19 hr 48 min
+554 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Jesus Reigns \(Remix\) \(feat\. Khaya Mthethwa\)](https://open.spotify.com/track/2ghE8KoNrcqUUTBERLTdQP) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Adoration](https://open.spotify.com/album/3YK4Pkalw9PrD92s6Kmjdk) | 6:33 | 2025-07-18 | 2025-07-25 |
 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God \(Live\)](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 | 2024-03-08 | 2024-03-15 |
 | [Jireh](https://open.spotify.com/track/02tEWGFU203kUXfxDsuHQs) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Jireh](https://open.spotify.com/album/5Ksm72DfwaFQD9iTEY1vk8) | 2:55 | 2023-12-05 | 2023-12-13 |
+| [Jireh](https://open.spotify.com/track/3PzMMIwLiUTvirBij9AcSw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Rozil](https://open.spotify.com/artist/7DKK0ozHbmXGIx5KsVL3uF) | [Jireh](https://open.spotify.com/album/7jPZxPOJK7PkT3EymnDuWA) | 3:16 | 2026-05-15 |  |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 | 2023-12-29 |  |
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2023-08-11 | 2025-03-02 |
 | [Joy Overflow \- Live](https://open.spotify.com/track/5FxeHgp09vEDEnd13YqBcP) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Praise Ovation \(Live Recording\)](https://open.spotify.com/album/7IOP1HGSwRMkIVcZjdcwgL) | 8:27 | 2024-03-29 | 2024-04-05 |
@@ -461,7 +462,7 @@
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-15 | 2023-10-23 |
 | [Talk N Do](https://open.spotify.com/track/6X2jbH1M9sA8x2B2e37TKH) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ThisIsPrinx](https://open.spotify.com/album/5pqNbCEWRERViZjzrJS76h) | 2:16 | 2023-12-05 | 2023-12-13 |
 | [TAMUNO](https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [TAMUNO](https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1) | 2:36 | 2026-02-27 | 2026-03-13 |
-| [Tamuno](https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Tamuno](https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs) | 4:16 | 2025-10-10 |  |
+| [Tamuno](https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Tamuno](https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs) | 4:16 | 2025-10-10 | 2026-05-15 |
 | [Teach Me](https://open.spotify.com/track/37vfiHVsdmfJ9YYpvQn7w8) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [Rays Of Tamara](https://open.spotify.com/album/31Ph0MBb9Y85Q8VqwA0Moi) | 3:08 | 2026-03-13 | 2026-03-27 |
 | [Tender Love](https://open.spotify.com/track/5V2JjuDMDPSensCHBTNXZr) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Tender Love](https://open.spotify.com/album/3A4hndO1mMtdSTtzzFcZRu) | 2:14 | 2025-05-23 | 2025-06-06 |
 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 | 2025-05-30 | 2025-06-13 |

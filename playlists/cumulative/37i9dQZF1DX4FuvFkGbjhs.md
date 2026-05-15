@@ -2,9 +2,9 @@
 
 ### [UNTITLED](https://open.spotify.com/playlist/37i9dQZF1DX4FuvFkGbjhs)
 
-> Beyond titles, beyond genre\. Cover: Kelela
+> Beyond titles, beyond genre\. Cover: Genesis Owusu
 
-881 songs - 2 day 2 hr 51 min
+883 songs - 2 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [..FEISTY](https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ICEY..FEISTY](https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL) | 2:51 | 2025-11-28 | 2026-04-09 |
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-21 | 2025-07-18 |
 | [1/17](https://open.spotify.com/track/1EGSotfvgMDQFFtFoUdrv5) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [1/17](https://open.spotify.com/album/0P7LoMJJ9wKnXovFzTVt3j) | 4:12 | 2025-07-31 | 2025-08-15 |
-| [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [A Love For Strangers](https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc) | 4:04 | 2026-02-13 |  |
+| [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [A Love For Strangers](https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc) | 4:04 | 2026-02-13 | 2026-05-15 |
 | [2018](https://open.spotify.com/track/6S9sqqVGCau6PzteziaEIn) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [2018](https://open.spotify.com/album/6adhvOA1OkiN4QmxpD4Zcx) | 3:46 | 2024-08-29 | 2024-11-01 |
 | [25 Metres](https://open.spotify.com/track/0vEty4cjnxyYJVv9Gsoqjy) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Dogs In Heaven](https://open.spotify.com/album/1FKbZv8ZPuDt8ufBnyFiH0) | 2:39 | 2025-09-11 | 2026-01-16 |
 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-01-16 |  |
@@ -90,6 +90,7 @@
 | [Better in Person](https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Basis of a Pinky Promise](https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM) | 2:50 | 2025-07-10 | 2025-08-15 |
 | [Big Bad Pearl](https://open.spotify.com/track/7cPH1QXuEtdtGGJ7f1bn6j) | [Serena Clara](https://open.spotify.com/artist/1PO51wEepI6XjVQnfl0ve1) | [Big Bad Pearl](https://open.spotify.com/album/46WHnnpAdHD3vQgtJA6e8i) | 3:42 | 2025-09-04 | 2025-10-17 |
 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 | 2025-05-23 | 2025-09-12 |
+| [BIG DOG](https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 3:36 | 2026-05-14 |  |
 | [Big Man](https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb) | 4:13 | 2024-06-27 | 2024-09-13 |
 | [BLACK DOG / WHITE HORSE \- Sleaford Mods Remix](https://open.spotify.com/track/0eglbcH0XUFpU7cPiH6wVL) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [POSTINDUSTRIAL HOMETOWN BLUES \(Deluxe\)](https://open.spotify.com/album/7FfB109iBD1pV0tMi2CWyX) | 3:08 | 2025-02-21 | 2025-05-02 |
 | [Black Hole \(feat\. Reggie Watts\)](https://open.spotify.com/track/4PnekQ16RE2bFx4e9dYOsx) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [Black Hole \(feat\. Reggie Watts\)](https://open.spotify.com/album/77dFEarLbOf6T1NwafEfsl) | 4:12 | 2024-12-13 | 2025-03-21 |
@@ -312,7 +313,7 @@
 | [Hallelujah!](https://open.spotify.com/track/7lbPVYxNxuQMdDpC4lwv5n) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Hallelujah!](https://open.spotify.com/album/5X6t1Y5kuS47gJSwfrAEH0) | 2:37 | 2024-08-08 | 2024-09-06 |
 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 | 2025-06-19 | 2025-06-27 |
 | [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 | 2026-04-16 |  |
-| [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 | 2026-03-20 |  |
+| [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 | 2026-03-20 | 2026-05-15 |
 | [Happy People](https://open.spotify.com/track/41wgHYaNAx7QAEaUvmpUBb) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Happy People](https://open.spotify.com/album/7K84PEN3LOZvwIigoIbJpy) | 3:20 | 2025-01-17 | 2025-05-02 |
 | [Happy Survival \(feat\. Khruangbin\)](https://open.spotify.com/track/0Ck3kW2KiRLjMOGiKzW3la) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:23 | 2024-07-18 | 2024-08-09 |
 | [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 3:34 | 2025-12-19 |  |
@@ -450,6 +451,7 @@
 | [Life Of The Party](https://open.spotify.com/track/3pWAykbBhuG4Qxp3aQiKpq) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Life Of The Party](https://open.spotify.com/album/2SOY7ASK4wU3ecJTPBTT44) | 2:42 | 2025-08-21 | 2026-02-06 |
 | [light dark light](https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [light dark light](https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB) | 3:06 | 2024-12-13 | 2025-03-21 |
 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 | 2026-02-13 |  |
+| [Like Heaven](https://open.spotify.com/track/5pZGuhprytXKB7QRMul3jq) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Like Heaven](https://open.spotify.com/album/2f4vxEOlp1k8ZSffiROoHE) | 3:38 | 2026-05-14 |  |
 | [Like Him \(feat\. Lola Young\)](https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:38 | 2024-11-01 | 2025-02-21 |
 | [Like The End](https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Like The End](https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ) | 5:19 | 2024-11-15 | 2025-03-21 |
 | [Limits](https://open.spotify.com/track/4CmdJFgdhp5RVcjLh2q3YS) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Fork](https://open.spotify.com/album/6tdqVDZQJdk1Joub1My6yt) | 4:45 | 2025-04-03 | 2025-05-16 |

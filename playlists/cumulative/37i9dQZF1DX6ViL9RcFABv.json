@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Mickael Carreira, Terry ",
+  "description": "Uma playlist de pura alma pop co curada com os Vizinhos .",
   "name": "Pop PT",
   "tracks": [
     {
@@ -382,7 +382,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 264417,
       "name": "ALGO MAIS QUE FLOR FEIA",
       "url": "https://open.spotify.com/track/4HFBl4zxIUX37uDLxPuZrz"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 160424,
       "name": "Amanh\u00e3",
       "url": "https://open.spotify.com/track/2qTobLBXa6mIEyI6dJn9Nz"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 180512,
       "name": "Avisem Que Eu Cheguei",
       "url": "https://open.spotify.com/track/12Cw7loqrdJdLCWCaGDSkn"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 184867,
       "name": "Bem",
       "url": "https://open.spotify.com/track/6jH3MDwn8rquyjvaT8dFgQ"
@@ -1644,6 +1644,24 @@
       "duration_ms": 198453,
       "name": "Chumbo da Maria",
       "url": "https://open.spotify.com/track/1HH6XW60EYyp2n5PEnEW2a"
+    },
+    {
+      "album": {
+        "name": "In Taberna",
+        "url": "https://open.spotify.com/album/3pY6pe2MXHXjB5HbqTCJKT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Acad\u00e9mico Seistetos (Universidade \u00c9vora)",
+          "url": "https://open.spotify.com/artist/6UytzMPJfPy7zHhPXTDMvr"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198453,
+      "name": "Chumbo da Maria",
+      "url": "https://open.spotify.com/track/3x6TKlEnSHeZJE88P9OuOt"
     },
     {
       "album": {
@@ -3954,7 +3972,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 181333,
       "name": "Gente Aberta",
       "url": "https://open.spotify.com/track/2gCiIWKITflnf9Yv7hhAUB"
@@ -4117,6 +4135,24 @@
     },
     {
       "album": {
+        "name": "Hist\u00f3ria por Contar",
+        "url": "https://open.spotify.com/album/1I0yAEnRFfOlmAth2548nn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Francisco",
+          "url": "https://open.spotify.com/artist/4E9qTH6kow2DnxoMAcrZAG"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "Hist\u00f3ria por Contar",
+      "url": "https://open.spotify.com/track/1xExJ9s5nKEPZH0dHbhy6Y"
+    },
+    {
+      "album": {
         "name": "Hoje eu vi o Mundo",
         "url": "https://open.spotify.com/album/0gNwToU5Q32Ftr390wdWwj"
       },
@@ -4186,7 +4222,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 189093,
       "name": "H\u00e1 De Haver",
       "url": "https://open.spotify.com/track/5oEd2A6Kz0Q5Lp3Fm02sU5"
@@ -4604,6 +4640,24 @@
       "duration_ms": 183431,
       "name": "KISS ME",
       "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Se Estraga uma Casa",
+        "url": "https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227117,
+      "name": "Laranjeiras",
+      "url": "https://open.spotify.com/track/4Wdl20Ohk3Swj1ccdTvQYK"
     },
     {
       "album": {
@@ -5247,6 +5301,24 @@
     },
     {
       "album": {
+        "name": "Meu Amor, Dorme Bem",
+        "url": "https://open.spotify.com/album/5R3oXkOZfl2wJJkzOgbFLI"
+      },
+      "artists": [
+        {
+          "name": "Os Quatro e Meia",
+          "url": "https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213098,
+      "name": "Meu Amor, Dorme Bem",
+      "url": "https://open.spotify.com/track/2e6ECjRLnmfZAdURMiergM"
+    },
+    {
+      "album": {
         "name": "Milion\u00e1rio",
         "url": "https://open.spotify.com/album/4ppDJUn1qfV7FxgGqNeVFA"
       },
@@ -5358,6 +5430,24 @@
       "duration_ms": 146086,
       "name": "Moleirinha",
       "url": "https://open.spotify.com/track/56jU6taZOBOHZvL61KSLIJ"
+    },
+    {
+      "album": {
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180491,
+      "name": "Mo\u00e7a",
+      "url": "https://open.spotify.com/track/5ADtkD7oOzAQFWcfYQvQsl"
     },
     {
       "album": {
@@ -5514,6 +5604,24 @@
       "duration_ms": 225195,
       "name": "M\u00e3e",
       "url": "https://open.spotify.com/track/7nPsaDN1eYi7QFslaVDSDY"
+    },
+    {
+      "album": {
+        "name": "M\u00e3e",
+        "url": "https://open.spotify.com/album/0fO6Lc2RY48YKXucvf8WVI"
+      },
+      "artists": [
+        {
+          "name": "Margarida Vasconcelos",
+          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225810,
+      "name": "M\u00e3e",
+      "url": "https://open.spotify.com/track/7LROtokzjUIWF3pepHHg0y"
     },
     {
       "album": {
@@ -5956,7 +6064,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 195843,
       "name": "o amor \u00e9 tudo",
       "url": "https://open.spotify.com/track/7cgCWmnfYPVgtzM3SWh6W4"
@@ -5992,7 +6100,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 218453,
       "name": "O Maior Bem",
       "url": "https://open.spotify.com/track/4x5nUs1deAC6GMlWVjdNea"
@@ -6028,7 +6136,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 181791,
       "name": "O Que \u00c9 Que Vai Dar",
       "url": "https://open.spotify.com/track/7pUTnX6E1wHFgQarE8lZt5"
@@ -6278,7 +6386,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 157010,
       "name": "Ol\u00e1 Amor",
       "url": "https://open.spotify.com/track/4qCffxC8QBjX9C6OGYIdgQ"
@@ -6376,6 +6484,24 @@
       "duration_ms": 184902,
       "name": "Outro Planeta",
       "url": "https://open.spotify.com/track/5gowKvKBEEpQhdAL2Qklhe"
+    },
+    {
+      "album": {
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/00nvowtrGJk81SKLMoJ1UD"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/1pdZPIw7v8yQqfwwet0cRK"
     },
     {
       "album": {
@@ -6528,7 +6654,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 163750,
       "name": "Peda\u00e7o De Bom Caminho",
       "url": "https://open.spotify.com/track/12mSyoPyGcxkh97T4vQl6L"
@@ -6691,6 +6817,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Se Estraga uma Casa",
+        "url": "https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        },
+        {
+          "name": "Aurora Pinto",
+          "url": "https://open.spotify.com/artist/67IzblEppf2J60LZAviG9B"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190023,
+      "name": "Pessoa Certa",
+      "url": "https://open.spotify.com/track/0Ad3M24IIye1wrPGUyo7wd"
+    },
+    {
+      "album": {
         "name": "Pessoas Normais",
         "url": "https://open.spotify.com/album/6HYOMwyb8R4F5ylccBafRU"
       },
@@ -6764,6 +6912,24 @@
       "duration_ms": 173613,
       "name": "Pobre Ex-Namorado",
       "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"
+    },
+    {
+      "album": {
+        "name": "Pode Tentar",
+        "url": "https://open.spotify.com/album/7tqfs2HS7LyVIKS6u8hTgS"
+      },
+      "artists": [
+        {
+          "name": "Maninho",
+          "url": "https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155307,
+      "name": "Pode Tentar",
+      "url": "https://open.spotify.com/track/2vFjbIf5sKoXsXdBG2E9Xf"
     },
     {
       "album": {
@@ -7345,6 +7511,24 @@
     },
     {
       "album": {
+        "name": "Ra\u00edzes De Pedra",
+        "url": "https://open.spotify.com/album/2iYvJBmeRwDEAMIgdz7EmW"
+      },
+      "artists": [
+        {
+          "name": "Valas",
+          "url": "https://open.spotify.com/artist/3zE5InDD74ETpPKj31203f"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185399,
+      "name": "Raiz",
+      "url": "https://open.spotify.com/track/32jqvwyRTdUkRrwimfQSrd"
+    },
+    {
+      "album": {
         "name": "Ramantxada",
         "url": "https://open.spotify.com/album/33lNwEO011Rmow3JyX4eM7"
       },
@@ -7472,7 +7656,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 172745,
       "name": "Responso",
       "url": "https://open.spotify.com/track/32OBrzQDUYNhaWY4GzRXwm"
@@ -7548,7 +7732,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 156063,
       "name": "Ritinha",
       "url": "https://open.spotify.com/track/2wtV8sHeYkZTfKiUGQPX1c"
@@ -8135,6 +8319,24 @@
     },
     {
       "album": {
+        "name": "Pontos nos Is",
+        "url": "https://open.spotify.com/album/5oFhCtICV8D4Hh50FU32BG"
+      },
+      "artists": [
+        {
+          "name": "Os Quatro e Meia",
+          "url": "https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227211,
+      "name": "Sentir o Sol",
+      "url": "https://open.spotify.com/track/70GRlXUPxqaiv1JZCoAKYn"
+    },
+    {
+      "album": {
         "name": "Sentir o Sol",
         "url": "https://open.spotify.com/album/0iqbj2gboZFz5MZDd9xG30"
       },
@@ -8502,7 +8704,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 207869,
       "name": "S\u00f3 Existo Contigo",
       "url": "https://open.spotify.com/track/6KSp8SF1M4DmlO3FA3JU9G"
@@ -8542,7 +8744,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 176434,
       "name": "S\u00f3t\u00e3o dos Porqu\u00eas",
       "url": "https://open.spotify.com/track/2WttNRFTl0Aez48Cq8uj2J"
@@ -8644,7 +8846,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 225360,
       "name": "Tanto Tempo",
       "url": "https://open.spotify.com/track/003pENpxbAlWY7nMscpC05"
@@ -8768,6 +8970,24 @@
       "duration_ms": 214866,
       "name": "Ternura",
       "url": "https://open.spotify.com/track/15k6RLK8IqIAK4QUgkyg9S"
+    },
+    {
+      "album": {
+        "name": "Vida de C\u00e3o",
+        "url": "https://open.spotify.com/album/4KMBwRSiwcHKWmsGQhuoZp"
+      },
+      "artists": [
+        {
+          "name": "Edmundo In\u00e1cio",
+          "url": "https://open.spotify.com/artist/04CmgOhFRROgjxTnL7dKlR"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209213,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/31YkjnVfOOsYmEeCIhFllB"
     },
     {
       "album": {
@@ -9114,7 +9334,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 164650,
       "name": "um do outro",
       "url": "https://open.spotify.com/track/6gw8EpXw9txLByfBqqDUL2"
@@ -9542,6 +9762,24 @@
       "duration_ms": 226758,
       "name": "\u00c9 O Que \u00c9",
       "url": "https://open.spotify.com/track/1cmRRx68ZuTNcw7jm6M8Pk"
+    },
+    {
+      "album": {
+        "name": "Hormonal",
+        "url": "https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Tinoco",
+          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163734,
+      "name": "\u00c9POCA DE CA\u00c7A \u2206",
+      "url": "https://open.spotify.com/track/39tCkRfeiJaB64lpsNOInU"
     },
     {
       "album": {

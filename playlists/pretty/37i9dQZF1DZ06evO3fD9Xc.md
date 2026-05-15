@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,965 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,964 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,20 +12,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 2 | [En Peligro de Extinción](https://open.spotify.com/track/4hl4QsudusiDu4IMnoOmGl) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:37 |
 | 3 | [Me Vas a Extrañar](https://open.spotify.com/track/1SAZFG8t1qjlzNZYdXswqw) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:59 |
 | 4 | [Puño de Diamantes](https://open.spotify.com/track/205jUQPoqMVQZUQe81yJmB) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:53 |
-| 5 | [Nunca Me Quisiste](https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Quisiste](https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL) | 2:32 |
-| 6 | [Me Sobrabas Tú](https://open.spotify.com/track/1oFYyDYpOFJ0HNtjyfY6e1) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:24 |
+| 5 | [Me Sobrabas Tú](https://open.spotify.com/track/1oFYyDYpOFJ0HNtjyfY6e1) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:24 |
+| 6 | [Nunca Me Quisiste](https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Quisiste](https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL) | 2:32 |
 | 7 | [Cuando Fuimos Nada](https://open.spotify.com/track/4aVZpMuRkWElSJwJdRCa8n) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 3:05 |
 | 8 | [Mi Razón de Ser](https://open.spotify.com/track/4yiLCbreyJh6tt8O6VLCkI) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:40 |
-| 9 | [A Lo Mejor](https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 3:33 |
-| 10 | [El Color de Tus Ojos](https://open.spotify.com/track/2teAaxXdeNe4cQa6cjnnKg) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:17 |
+| 9 | [El Color de Tus Ojos](https://open.spotify.com/track/2teAaxXdeNe4cQa6cjnnKg) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:17 |
+| 10 | [A Lo Mejor](https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 3:33 |
 | 11 | [Solo Con Verte](https://open.spotify.com/track/4kap0K8QvEZUKKwmKUtKb8) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:55 |
 | 12 | [Apuré Mi Café](https://open.spotify.com/track/1828p0hv042r1LVXgJHSZn) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:11 |
-| 13 | [El Amor de Mi Vida](https://open.spotify.com/track/0A9HmbxmsodmqLujdz5c7d) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 2:36 |
-| 14 | [Que Bonito Es Querer](https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Que Bonito Es Querer](https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO) | 3:17 |
+| 13 | [Que Bonito Es Querer](https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Que Bonito Es Querer](https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO) | 3:17 |
+| 14 | [El Amor de Mi Vida](https://open.spotify.com/track/0A9HmbxmsodmqLujdz5c7d) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 2:36 |
 | 15 | [Háblame de Ti](https://open.spotify.com/track/0LmqvjaR1jom4ThUPqAmgV) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 3:02 |
 | 16 | [Me Hubieras Dicho](https://open.spotify.com/track/2QWxAkrTH97GmRhnaFJ6Vi) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:06 |
-| 17 | [La Mejor Versión de Mí](https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 2:28 |
-| 18 | [Complicado](https://open.spotify.com/track/40fBOKWD0ophwpsjE9kBcD) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:01 |
+| 17 | [Complicado](https://open.spotify.com/track/40fBOKWD0ophwpsjE9kBcD) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:01 |
+| 18 | [La Mejor Versión de Mí](https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 2:28 |
 | 19 | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/track/61pfP2D4QNELNEsxh0aCn7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Sueltes](https://open.spotify.com/album/7JfwGcd9SQy4wxXK5aQTFc) | 3:00 |
 | 20 | [Cicatrices](https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:55 |
 | 21 | [El Triste](https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Triste](https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6) | 4:23 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 47 | [Yo Te Extrañaré](https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Yo Te Extrañaré](https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20) | 4:55 |
 | 48 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:16 |
 | 49 | [La Competencia](https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Competencia](https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY) | 3:29 |
-| 50 | [Lo Que Se Dice Amor](https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Lo Que Se Dice Amor](https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI) | 3:12 |
+| 50 | [Coleccionando Corazones](https://open.spotify.com/track/1VscAOiu0sBu2pr1Sw5i5Y) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/3XWYL4mP1CtFAiX5EwXxJL) | 2:35 |
 
-Snapshot ID: `agJtgAAAAABhYtO34LzCJ+QOIAxCccTi`
+Snapshot ID: `agO/AAAAAACf7+FuPPsQGGdElcIvARxw`

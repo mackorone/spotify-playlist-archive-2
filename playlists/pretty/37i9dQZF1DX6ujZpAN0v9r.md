@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,761 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,849 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,20 +91,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 81 | [Cherry\-coloured Funk](https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven Or Las Vegas \(Remastered\)](https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E) | 3:12 |
 | 82 | [Superbike](https://open.spotify.com/track/4kK7bQcFQKldges2b6WXrV) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Superbike](https://open.spotify.com/album/68TrLByFkqkuVDVmIVpXdi) | 3:53 |
 | 83 | [Elizabeth Colour Wheel](https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl) | [Lilys](https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj) | [In the Presence of Nothing](https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP) | 6:58 |
-| 84 | [In Your Room](https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 9:26 |
-| 85 | [The Perfect Needle](https://open.spotify.com/track/2ZyKEtawyPdYXQG0U2SAYy) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Taste + The Perfect Needle EP](https://open.spotify.com/album/4SXZL0la3HRhgBjTkUYlzW) | 3:28 |
-| 86 | [Souvenirs d'un autre monde](https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Souvenirs d'un autre monde](https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf) | 6:08 |
-| 87 | [Reverence](https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Honey's Dead](https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF) | 3:40 |
-| 88 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 |
-| 89 | [Molten Young Lovers](https://open.spotify.com/track/5uu6X7Fs4fkoKSRo7zDXAf) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/5ZyewodnhW2uWCuNH83gP7) | 4:39 |
-| 90 | [Dark Spring](https://open.spotify.com/track/6PGrkeJpDpgiFLvgKYD489) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 3:24 |
-| 91 | [Autre temps](https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O) | 5:50 |
-| 92 | [Sure \- Robin Guthrie remix](https://open.spotify.com/track/5n23n1Vd5din4eKMjpbKQ0) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Sure \(Robin Guthrie remix\)](https://open.spotify.com/album/7y9l93Ik2ULQWNZi5v2QSq) | 4:08 |
+| 84 | [Dark Spring](https://open.spotify.com/track/6PGrkeJpDpgiFLvgKYD489) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 3:24 |
+| 85 | [In Your Room](https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 9:26 |
+| 86 | [The Perfect Needle](https://open.spotify.com/track/2ZyKEtawyPdYXQG0U2SAYy) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Taste + The Perfect Needle EP](https://open.spotify.com/album/4SXZL0la3HRhgBjTkUYlzW) | 3:28 |
+| 87 | [Souvenirs d'un autre monde](https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Souvenirs d'un autre monde](https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf) | 6:08 |
+| 88 | [Reverence](https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Honey's Dead](https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF) | 3:40 |
+| 89 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 |
+| 90 | [Molten Young Lovers](https://open.spotify.com/track/5uu6X7Fs4fkoKSRo7zDXAf) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/5ZyewodnhW2uWCuNH83gP7) | 4:39 |
+| 91 | [Sure \- Robin Guthrie remix](https://open.spotify.com/track/5n23n1Vd5din4eKMjpbKQ0) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Sure \(Robin Guthrie remix\)](https://open.spotify.com/album/7y9l93Ik2ULQWNZi5v2QSq) | 4:08 |
+| 92 | [Autre temps](https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O) | 5:50 |
 | 93 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 |
 | 94 | [Staring At The Sun](https://open.spotify.com/track/3XtFDis6KnAOopdjnUmI1k) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Staring At The Sun](https://open.spotify.com/album/3vANqWkHEdIeiuTgqFYikr) | 7:27 |
 | 95 | [Lazuli](https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/5k565ga9B9EJqLyCatmrt0) | 5:01 |
-| 96 | [Into the Waves](https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC) | 6:30 |
-| 97 | [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 |
+| 96 | [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 |
+| 97 | [Into the Waves](https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC) | 6:30 |
 | 98 | [Surrender](https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH) | [Leave the Planet](https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk) | [Nowhere](https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo) | 3:39 |
 | 99 | [Thoughtforms \- 2nd Version](https://open.spotify.com/track/7ARIbfiiJA4nyuXyXsGxJL) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/11hFygy8xLDCeECJEDnNEK) | 2:47 |
 | 100 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 |

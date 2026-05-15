@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Paul Partohap
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Jordy Riz
 
-625 songs - 1 day 12 hr 31 min
+629 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Aliens](https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [Aliens](https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr) | 3:05 | 2025-02-06 | 2025-06-13 |
 | [ALIVE](https://open.spotify.com/track/7qL1ImIs0qrXds1ldjicPx) | [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP) | [ALIVE](https://open.spotify.com/album/5WJaZSqKMBeyO4nqGzbgpQ) | 3:13 | 2025-10-23 | 2026-04-10 |
 | [All of Our Friends](https://open.spotify.com/track/5n04xhk5uLiRODhnms3eow) | [Melisa Lestira](https://open.spotify.com/artist/5TAIXdOUxvx8CK65DG00KV) | [All of Our Friends](https://open.spotify.com/album/50ZCoF9liqAOOS5Q41Sdhc) | 4:17 | 2025-05-29 | 2025-06-13 |
+| [Almost Home Again](https://open.spotify.com/track/6L0KxnMl27Nb4MY2UumMRb) | [Reischa Alana](https://open.spotify.com/artist/4d99g47Up9gZ0TJiFiLbqJ) | [Almost Home Again](https://open.spotify.com/album/5tvyyjREnZSKpT7JrVc8QU) | 3:03 | 2026-05-14 |  |
 | [Alone Together](https://open.spotify.com/track/6FdZ6ROBj0l3EpRW6NpCu0) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Top 5](https://open.spotify.com/album/08Qll2maWwJ3Siah405k7c) | 3:00 | 2025-07-18 | 2025-10-04 |
 | [Am I Loving You Alone?](https://open.spotify.com/track/6eEbetfobV9JUj4Sgt7gIJ) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Am I Loving You Alone?](https://open.spotify.com/album/4JiJysyBHufvbmgeiDwfZR) | 3:23 | 2026-05-07 |  |
 | [Amazing Grace](https://open.spotify.com/track/5zrTbyQPohSKWRBk9M7wcj) | [Edo Kondologit](https://open.spotify.com/artist/27B9bqgXcAatghbLzNrYY1) | [Amazing Grace](https://open.spotify.com/album/5mNbw4PoMtAhZ0ZR9AzjDe) | 6:29 | 2024-12-05 | 2025-03-14 |
@@ -382,6 +383,7 @@
 | [Make Ur Move, Plz](https://open.spotify.com/track/2Emcg1SfTyZBRJ2cqPHZJQ) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Lovecycle](https://open.spotify.com/album/5qxc6Ojbm8WfekBpBm70YD) | 3:08 | 2024-07-25 | 2024-09-06 |
 | [Mango Lassi](https://open.spotify.com/track/6py6uaUQHVTEcbLkdwFbjg) | [Nap Room](https://open.spotify.com/artist/0gafAMOxET1u9oFP6JGwfl), [Mithunder](https://open.spotify.com/artist/5do4fAClPjY5A1jwJPri87) | [Mango Lassi](https://open.spotify.com/album/46eIzn0Jg24FL06xv8X4Lh) | 3:20 | 2024-07-25 | 2024-11-29 |
 | [Mangoes](https://open.spotify.com/track/5vgYp3XPGGXk37i6qymmoR) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Mangoes](https://open.spotify.com/album/28fXB4mhhQPVH3SGmAiLks) | 3:16 | 2026-04-23 |  |
+| [MANTRA \- English Version](https://open.spotify.com/track/2r2KDhFf8vcEAgo9zVWMxK) | [Drive](https://open.spotify.com/artist/1DgveZI0VAdnZxNiEsZPuF) | [MANTRA \(English Version\)](https://open.spotify.com/album/1d6hyXGs01JfHrP4rnxfDW) | 3:51 | 2026-05-14 |  |
 | [Mantra \- Feat\. Bloodlyne](https://open.spotify.com/track/6JdzENl1wQYvHoHCEZc0AP) | [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2), [Dmust Akira](https://open.spotify.com/artist/29OA72cLmCZDFEn0Fk8JXl) | [Mantra](https://open.spotify.com/album/7pFR36qMcT4XYWDDLrqay1) | 3:15 | 2024-09-05 | 2024-11-29 |
 | [MAPA \(Indonesian Ver.\)](https://open.spotify.com/track/23FJNFAeNLzAuFORNvyBFf) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [MAPA \(Indonesian Ver.\)](https://open.spotify.com/album/0jVk4hqUcFogF1NcK3ZQ0a) | 4:30 | 2025-06-26 | 2025-10-04 |
 | [Matcha With The Sun](https://open.spotify.com/track/0fl1rI10pLuI1V1QIPzWsE) | [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Matcha With The Sun](https://open.spotify.com/album/3dq5YbNQ5abnueXajovGUG) | 2:45 | 2025-06-12 | 2025-10-31 |
@@ -551,6 +553,7 @@
 | [Take It Slow](https://open.spotify.com/track/5DXX82PVYUYIdAb6czzR6l) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Take It Slow](https://open.spotify.com/album/5tmiUYxb4Xx7GgPC8D3LdZ) | 3:49 | 2024-08-01 | 2024-11-16 |
 | [take me home](https://open.spotify.com/track/03CfNgeIsd5pKYidGk2pm3) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [take me home](https://open.spotify.com/album/1jsjYXxocWl0MyMvpCJ19k) | 4:36 | 2024-06-27 | 2025-01-24 |
 | [TAKE YOU HOME](https://open.spotify.com/track/3AB0SaVOyeL7d0EoBHVFMo) | [KATHMANDU](https://open.spotify.com/artist/4kxdAg0Ja8nOfjf54kqnHi) | [GOLDEN AGE](https://open.spotify.com/album/6t3KgJK2GFnbVgNIk9vwat) | 4:22 | 2024-09-26 | 2024-11-16 |
+| [tangled](https://open.spotify.com/track/4ZBaoNXFFIyR2Ce9LdHEYO) | [gabsav](https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ) | [tangled](https://open.spotify.com/album/0UIHSmA4B2ykgZ9hSGqegw) | 4:31 | 2026-05-14 |  |
 | [Teenage Years](https://open.spotify.com/track/4Ft96mSN2Yy3BWwZ9mgcSX) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Teenage Years](https://open.spotify.com/album/4wwDH2rLj9iB2eUltgzrUY) | 4:10 | 2024-07-11 | 2024-10-11 |
 | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq) | 3:20 | 2024-11-07 | 2025-08-08 |
 | [Text Me \(When It's Over\)](https://open.spotify.com/track/6JjHBg0GsvwjpnczvBhtbv) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Text Me \(When It's Over\)](https://open.spotify.com/album/1ERnC3W3zKYuepZvBvBemw) | 3:04 | 2025-07-24 | 2025-09-30 |
@@ -587,6 +590,7 @@
 | [U](https://open.spotify.com/track/4LYWl6AYZYagSRVx9gLwrc) | [Gerald Liu](https://open.spotify.com/artist/5RbFRImP5QQkMWpVfYXaT6), [Dyolow](https://open.spotify.com/artist/1lVN3ysg7IblYuk27iDPre) | [U](https://open.spotify.com/album/00r3Et7b8ZlX05BVQY8Ckq) | 3:42 | 2026-04-02 |  |
 | [u only u \(girl\)](https://open.spotify.com/track/0N6NQBzSPztx1cmvLoTZZU) | [Davidbeatt](https://open.spotify.com/artist/5U85zLLOevENJVI3tqXbO6), [Manutized](https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS) | [u only u \(girl\)](https://open.spotify.com/album/41XgthUOVhWgKzFOL660Jq) | 2:28 | 2024-12-05 | 2025-09-30 |
 | [Unfinished](https://open.spotify.com/track/7jjiNv6lqv9l7GNnqrjtFL) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Unfinished](https://open.spotify.com/album/0Fw8otiXWyj2kBGymjqywY) | 3:38 | 2024-12-12 | 2025-08-08 |
+| [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 | 2026-05-14 |  |
 | [Untitled \- 20th Anniversary Tribute](https://open.spotify.com/track/7LrShfibFq494DGZtMw7dX) | [Manutized](https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS) | [Untitled \(20th Anniversary Tribute\)](https://open.spotify.com/album/1eTFrocdyafKmO9frFj6vE) | 4:27 | 2025-08-21 | 2025-11-07 |
 | [Unwavering](https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Unwavering](https://open.spotify.com/album/60Ems1fT6kFthRWEaL3Nkj) | 3:37 | 2024-06-27 | 2024-07-24 |
 | [Virtu4L](https://open.spotify.com/track/2R5gTygG7JdLLdgrzoLHiC) | [Vania Abby](https://open.spotify.com/artist/1uCsUNBbx78pkgx2k5OxlA) | [Virtu4L](https://open.spotify.com/album/3dVfEqCHMDFeRQ7Qt1CIOB) | 2:56 | 2025-11-13 | 2026-02-13 |

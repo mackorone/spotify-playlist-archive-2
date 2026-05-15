@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 132804,
+  "num_followers": 132819,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADV+lN5vJoUbAluTKQ/itSq",
+  "snapshot_id": "agO/AAAAAAA++5CumMEg2/KvH7iH8Xw7",
   "tracks": [
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YELIANA-Cap.3-ZHA",
-        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 140906,
-      "name": "YELIANA - Cap. 3 - ZHA",
-      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9cimo Cuarto",
         "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 173796,
       "name": "Le Viene Bien",
       "url": "https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA-Cap.3-ZHA",
+        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 140906,
+      "name": "YELIANA - Cap. 3 - ZHA",
+      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
     },
     {
       "added_at": null,

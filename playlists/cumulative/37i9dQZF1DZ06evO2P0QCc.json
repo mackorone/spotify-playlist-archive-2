@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 198520,
       "name": "El A\u00f1o Viejo (feat. Celso Pi\u00f1a)",
       "url": "https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP"
@@ -980,10 +980,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 243253,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+    },
+    {
+      "album": {
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297693,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/3UlazqG94X2Zy6ENGKWiwx"
     },
     {
       "album": {
@@ -1136,10 +1154,32 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 246100,
       "name": "Osito Dormil\u00f3n (feat. Tony Hernandez El Gran Silencio)",
       "url": "https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr"
+    },
+    {
+      "album": {
+        "name": "Sonando desde el Auditorio Nacional",
+        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236586,
+      "name": "Osito Dormil\u00f3n - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/4pAjXPqKrk5Tg5437YxiEv"
     },
     {
       "album": {
@@ -1527,6 +1567,28 @@
     },
     {
       "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Lng Sht",
+          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Soy Soledad",
+      "url": "https://open.spotify.com/track/0zN2JS790KaES8ylERbnaY"
+    },
+    {
+      "album": {
         "name": "Soy Soledad",
         "url": "https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8"
       },
@@ -1640,7 +1702,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 192626,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
@@ -1662,6 +1724,24 @@
       "duration_ms": 176533,
       "name": "Te He Prometido - Sonando desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/5T3mQQfht90nVR50uq294L"
+    },
+    {
+      "album": {
+        "name": "Sonando desde el Auditorio Nacional",
+        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176533,
+      "name": "Te He Prometido - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/5t3v6MdAJB1jHdFUyBsibE"
     },
     {
       "album": {
@@ -1754,7 +1834,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 254813,
       "name": "Vampiros en la Tierra",
       "url": "https://open.spotify.com/track/3suoE5t6CyOuoNnDDU9Vyn"
@@ -1870,7 +1950,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 270860,
       "name": "Yo No Naci Para Amar",
       "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"

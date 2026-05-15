@@ -4,7 +4,7 @@
 
 > pretona, responsa, do corre \- pergunta da luanna pra sua namorada \(!\)
 
-531 songs - 1 day 4 hr 53 min
+532 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [DissAposta](https://open.spotify.com/track/0826YXDvd2ZnTohSHsiGGB) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [DissAposta](https://open.spotify.com/album/4sSviVVd2CfJYjCanKzGOR) | 3:07 | 2024-08-02 | 2024-08-09 |
 | [Documentário](https://open.spotify.com/track/2ndTkGWb7m80kMNNfQUq1e) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Documentário](https://open.spotify.com/album/4bAbUUH5bndP2unEm1lwed) | 1:26 | 2024-02-23 | 2024-04-06 |
 | [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 | 2023-01-16 | 2023-03-18 |
+| [Dona de Casa](https://open.spotify.com/track/21HI2SdE0gKyzMX3ge45If) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2 De Luxo \(Faixa a Faixa\)](https://open.spotify.com/album/2gVnBElQuN9NM1kqqYmoWj) | 1:08 | 2026-05-15 |  |
 | [Donos do Torro](https://open.spotify.com/track/1qCX8wkjJjRfPXdJr8Be6v) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [Prs, o Peres](https://open.spotify.com/artist/6zA1Us7yWyCj4OXxkgAuqC) | [Donos do Torro](https://open.spotify.com/album/2jj5EcURhCwLQkVW1eXmwx) | 2:53 | 2024-07-19 | 2024-08-09 |
 | [DRAKE DA CAPITAL](https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Rapper Gregory](https://open.spotify.com/artist/55XEJ5O0Gy6wAUANXfXpSS) | [Yin Yang](https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3) | 4:28 | 2023-06-09 | 2023-09-30 |
 | [Drop da Santa](https://open.spotify.com/track/4m4ZQv1aPfi4jDpl8Kt5hK) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Rapper Gregory](https://open.spotify.com/artist/55XEJ5O0Gy6wAUANXfXpSS) | [Drop da Santa](https://open.spotify.com/album/6ObK2QGCtSFaDxDYnKyKyZ) | 2:44 | 2024-03-08 | 2024-03-30 |

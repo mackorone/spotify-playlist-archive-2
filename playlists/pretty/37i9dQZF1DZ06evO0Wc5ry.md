@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,934 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,949 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 31 | [West Savannah](https://open.spotify.com/track/5yTQ7Vy6EwKwB64Vho90LI) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 4:06 |
 | 32 | [Spaghetti Junction](https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 3:57 |
 | 33 | [Crumblin' Erb](https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:09 |
-| 34 | [The Art of Storytellin, Pt\. 4 \(feat\. Outkast & Marsha Ambrosius\)](https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Gangsta Grillz The Album](https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec) | 4:57 |
-| 35 | [In Due Time \(with Cee\-Lo\)](https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [In Due Time](https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU) | 4:20 |
+| 34 | [In Due Time \(with Cee\-Lo\)](https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [In Due Time](https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU) | 4:20 |
+| 35 | [The Art of Storytellin, Pt\. 4 \(feat\. Outkast & Marsha Ambrosius\)](https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Gangsta Grillz The Album](https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec) | 4:57 |
 | 36 | [Gasoline Dreams \(with Khujo Goodie\)](https://open.spotify.com/track/1Jo3u8eXp8xobbrvq0FIi9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Khujo Goodie](https://open.spotify.com/artist/28i3mntNBlXpjstb1nHhkJ) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 3:34 |
 | 37 | [Ain't No Thang](https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:38 |
 | 38 | [Walk It Out](https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA) | [Street Swag, Vol\. 2](https://open.spotify.com/album/2A89rexB6sUic5498mls4J) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 49 | [Watch for the Hook \(Dungeon Family Mix\)](https://open.spotify.com/track/5CNBjdmp5aZdW2Nu6f0Xav) | [Cool Breeze](https://open.spotify.com/artist/1hTh4ZmK0tdbocmMgM2bSO), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Witchdoctor](https://open.spotify.com/artist/0CSW4YWldpNnpaqYJJXSto) | [East Point's Greatest Hit](https://open.spotify.com/album/1xnatTs8lRun69YT1tleCS) | 4:31 |
 | 50 | [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 |
 
-Snapshot ID: `agJtgAAAAACU8OQouR1+3ERg1VE+VVQb`
+Snapshot ID: `agO/AAAAAACsKs2RY8sO2K5GBsSJY/lT`

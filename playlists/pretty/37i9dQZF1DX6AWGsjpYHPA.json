@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 190132,
+  "num_followers": 190180,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -75,8 +75,8 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 235680,
-      "name": "Where Are We Going?",
-      "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu"
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -163,8 +163,8 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Got To Give It Up - Pt. 1",
-      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
+      "duration_ms": 235680,
+      "name": "Where Are We Going?",
+      "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
+        "name": "Every Day the Sun Comes Up",
+        "url": "https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 316194,
+      "name": "Every Day the Sun Comes Up",
+      "url": "https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
-        "name": "Every Day the Sun Comes Up",
-        "url": "https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 316194,
-      "name": "Every Day the Sun Comes Up",
-      "url": "https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo"
     },
     {
       "added_at": "2026-04-03 04:00:50",

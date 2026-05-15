@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "al menos esta vez",
+        "url": "https://open.spotify.com/album/04kcMaGoeUfsql1U9IHnI1"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243128,
+      "name": "al menos esta vez",
+      "url": "https://open.spotify.com/track/66gBvl6lnycugddmfIs4dL"
+    },
+    {
+      "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 204974,
       "name": "barquito - bonus track",
       "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
@@ -520,6 +538,24 @@
       "duration_ms": 151011,
       "name": "Buena Suerte :)",
       "url": "https://open.spotify.com/track/5l6eMDDoiKnuW6CQIYdO8U"
+    },
+    {
+      "album": {
+        "name": "calma",
+        "url": "https://open.spotify.com/album/0FxGdicC03LBraAb4Zcglc"
+      },
+      "artists": [
+        {
+          "name": "Lito",
+          "url": "https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119336,
+      "name": "calma",
+      "url": "https://open.spotify.com/track/72u9TVViPWzK3xiuhxRgf0"
     },
     {
       "album": {
@@ -807,6 +843,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Viene Tu Amor",
+        "url": "https://open.spotify.com/album/3LonceOAnPu6MqEpUuvP8M"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171712,
+      "name": "C\u00f3mo Viene Tu Amor",
+      "url": "https://open.spotify.com/track/5J2wXlzzG1CrRm8zMmwFaB"
+    },
+    {
+      "album": {
         "name": "De cabeza a pies",
         "url": "https://open.spotify.com/album/6kxifQONbXoeQJDXQT8eqy"
       },
@@ -826,6 +880,24 @@
       "duration_ms": 143511,
       "name": "De cabeza a pies",
       "url": "https://open.spotify.com/track/1CQ5RmaOyNaEpSm1zJDkZz"
+    },
+    {
+      "album": {
+        "name": "LOS DIOSES SE TIENEN QUE VESTIR",
+        "url": "https://open.spotify.com/album/0djTV4RsUYQohJ9QIFhCpk"
+      },
+      "artists": [
+        {
+          "name": "Catalina Bay\u00e1",
+          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188230,
+      "name": "Dejo todo",
+      "url": "https://open.spotify.com/track/7xyQYlWl0qsOS66GVaVoHJ"
     },
     {
       "album": {
@@ -1080,7 +1152,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 148421,
       "name": "EL MENSAJERO",
       "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
@@ -1445,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "Hasta la Ra\u00edz",
+        "url": "https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5"
+      },
+      "artists": [
+        {
+          "name": "N1za",
+          "url": "https://open.spotify.com/artist/4d8ZfnxnDiXAMT65RrzgBa"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159285,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH"
+    },
+    {
+      "album": {
         "name": "Hasta Que Llegue El Verano",
         "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
       },
@@ -1536,7 +1630,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 233617,
       "name": "I Knew You Were Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
@@ -1688,6 +1782,24 @@
       "duration_ms": 183600,
       "name": "La Carta",
       "url": "https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y"
+    },
+    {
+      "album": {
+        "name": "La Mala",
+        "url": "https://open.spotify.com/album/7mpDCS3CqxlDWLbkxpvbDI"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137479,
+      "name": "La Mala",
+      "url": "https://open.spotify.com/track/5YckAHqUVvw9Xcgn5N2AH4"
     },
     {
       "album": {
@@ -2448,7 +2560,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 110700,
       "name": "Noches de Ciencia Ficci\u00f3n",
       "url": "https://open.spotify.com/track/3xeHdDEFA3sjH3s3EtS6vP"
@@ -3044,7 +3156,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 247790,
       "name": "SER AMIGOS (olvida)",
       "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
@@ -3464,7 +3576,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 240535,
       "name": "TRANQUILO",
       "url": "https://open.spotify.com/track/0iJJlpfRTMNhqpd1tDAAjY"
@@ -3500,7 +3612,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 222280,
       "name": "Tu soledad y la m\u00eda - En vivo en Buenos Aires",
       "url": "https://open.spotify.com/track/1qBuD0e1Iv3CMmUYfWrvDB"
@@ -3598,10 +3710,28 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 212333,
       "name": "Un Mont\u00f3n de Estrellas",
       "url": "https://open.spotify.com/track/654WSeeGc6ktF9iNcepapj"
+    },
+    {
+      "album": {
+        "name": "Una Herida Y Un Adi\u00f3s",
+        "url": "https://open.spotify.com/album/6gcvjfv3oLAHg5LYDLt4QL"
+      },
+      "artists": [
+        {
+          "name": "Un Verano",
+          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107865,
+      "name": "Una Herida Y Un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5lucxvkqKHg0i6b4Dru8hw"
     },
     {
       "album": {
@@ -3642,6 +3772,24 @@
       "duration_ms": 193154,
       "name": "Una Noche Contigo",
       "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
+    },
+    {
+      "album": {
+        "name": "Los Algarrobos",
+        "url": "https://open.spotify.com/album/7BbLxJ2MPhmnSAHShC7DJZ"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215647,
+      "name": "Una Persona",
+      "url": "https://open.spotify.com/track/0i01P3ZURjQ7kGTFLrpv28"
     },
     {
       "album": {

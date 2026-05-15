@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 145152,
+  "num_followers": 145149,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
+        "name": "Los Exitazos De Lupe Y Polo",
+        "url": "https://open.spotify.com/album/4L3qgi5ztCfcWmT1aN3znS"
+      },
+      "artists": [
+        {
+          "name": "Lupe Y Polo",
+          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
+        }
+      ],
+      "duration_ms": 150952,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/3rKAnW24I1KT8uoKllBB8B"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
         "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 157866,
       "name": "Se Me Perdio La Cadenita",
       "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
-        "name": "Los Grandes \u00c9xitos de Jose Miguel Class",
-        "url": "https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt"
-      },
-      "artists": [
-        {
-          "name": "Jose Miguel Class",
-          "url": "https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Si Pudiera",
-      "url": "https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Los Exitazos De Lupe Y Polo",
-        "url": "https://open.spotify.com/album/4L3qgi5ztCfcWmT1aN3znS"
+        "name": "Los Grandes \u00c9xitos de Jose Miguel Class",
+        "url": "https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt"
       },
       "artists": [
         {
-          "name": "Lupe Y Polo",
-          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
+          "name": "Jose Miguel Class",
+          "url": "https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk"
         }
       ],
-      "duration_ms": 150952,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/3rKAnW24I1KT8uoKllBB8B"
+      "duration_ms": 173800,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -691,6 +691,22 @@
       "duration_ms": 113133,
       "name": "Viejo Juguete",
       "url": "https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Y Polo",
+          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
+        }
+      ],
+      "duration_ms": 156177,
+      "name": "De Lejos Tierras",
+      "url": "https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -747,22 +763,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy"
-      },
-      "artists": [
-        {
-          "name": "Lupe Y Polo",
-          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
-        }
-      ],
-      "duration_ms": 156177,
-      "name": "De Lejos Tierras",
-      "url": "https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Los Grandes Exitos de Odilio Gonz\u00e1lez: Vol. 7",
-        "url": "https://open.spotify.com/album/1sdNOVvPaLGb8MR3OsZLgl"
-      },
-      "artists": [
-        {
-          "name": "Odilio Gonzalez",
-          "url": "https://open.spotify.com/artist/206W0oLEf4mLQiOsFNtnH2"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/13BtA47QqoO57N9H4XHLps"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Con el Triunfo en las Manos",
         "url": "https://open.spotify.com/album/2p1zJS35lacTNCUNKtYbNG"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 171306,
       "name": "Loco por Amor",
       "url": "https://open.spotify.com/track/1nO699U6HsTjHvYYX0Crh5"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Los Grandes Exitos de Odilio Gonz\u00e1lez: Vol. 7",
+        "url": "https://open.spotify.com/album/1sdNOVvPaLGb8MR3OsZLgl"
+      },
+      "artists": [
+        {
+          "name": "Odilio Gonzalez",
+          "url": "https://open.spotify.com/artist/206W0oLEf4mLQiOsFNtnH2"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/13BtA47QqoO57N9H4XHLps"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Los M\u00e1s Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/2Tq2ArF6n3cLMX22XBKANR"
-      },
-      "artists": [
-        {
-          "name": "El Caballero Gaucho",
-          "url": "https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "Lejos del Tambo",
-      "url": "https://open.spotify.com/track/2sJh7SIghOD2eOxAkHXa5p"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Amandonos",
         "url": "https://open.spotify.com/album/3ugQU48SaahgO7iyE2G74c"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 153176,
       "name": "El Jinete Perdido",
       "url": "https://open.spotify.com/track/0laa8LQmctEf0Eyg47ioC9"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Los M\u00e1s Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/2Tq2ArF6n3cLMX22XBKANR"
+      },
+      "artists": [
+        {
+          "name": "El Caballero Gaucho",
+          "url": "https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "Lejos del Tambo",
+      "url": "https://open.spotify.com/track/2sJh7SIghOD2eOxAkHXa5p"
     },
     {
       "added_at": "2026-02-23 16:04:48",

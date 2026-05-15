@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Tino Martin",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Wesly Bronkhorst",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -226,7 +226,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 159638,
       "name": "Ai Ai Olga",
       "url": "https://open.spotify.com/track/4p0g9MlVrfwHZKoa0O9WYV"
@@ -2377,6 +2377,24 @@
     },
     {
       "album": {
+        "name": "De Leeuw Komt Eraan",
+        "url": "https://open.spotify.com/album/2cYpryI2g6eu20whof2VI8"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134692,
+      "name": "De Leeuw Komt Eraan",
+      "url": "https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7"
+    },
+    {
+      "album": {
         "name": "De Liefde Die Leeft (Stumblin' In Remix)",
         "url": "https://open.spotify.com/album/40flGd5I9axFmh22OnNemq"
       },
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 177773,
       "name": "Dit Ben Ik",
       "url": "https://open.spotify.com/track/1pnZyVLjRvNnXXovS9dfpz"
@@ -5004,6 +5022,24 @@
       "duration_ms": 197437,
       "name": "Ik Bleef Geloven",
       "url": "https://open.spotify.com/track/5ExwZgMiUnW0rBcGlhhGLq"
+    },
+    {
+      "album": {
+        "name": "Ik Doe Wat Ik Wil",
+        "url": "https://open.spotify.com/album/5mYxWHw4qS6KAfGCXZNcD4"
+      },
+      "artists": [
+        {
+          "name": "Sieneke",
+          "url": "https://open.spotify.com/artist/3AbzwHPIn3CHOZ91SstXk0"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175305,
+      "name": "Ik Doe Wat Ik Wil",
+      "url": "https://open.spotify.com/track/3QrDgyGRJOsDqOFUaAnxD9"
     },
     {
       "album": {
@@ -7881,6 +7917,24 @@
     },
     {
       "album": {
+        "name": "Menens",
+        "url": "https://open.spotify.com/album/0cxgnecX7oaz2qOhnnjhcd"
+      },
+      "artists": [
+        {
+          "name": "Mike Appelhof",
+          "url": "https://open.spotify.com/artist/0bw5QUWR6fvaH1b5xf1CeQ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Menens",
+      "url": "https://open.spotify.com/track/2gasGNrOoOHqb9gTJG4TJx"
+    },
+    {
+      "album": {
         "name": "Met Het Vliegtuig Naar Spanje",
         "url": "https://open.spotify.com/album/3v9ZAOqiho1zRej69vSnWk"
       },
@@ -7968,6 +8022,24 @@
       "duration_ms": 206133,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6wZ5Uq4nvLeCdk55aDpiae"
+    },
+    {
+      "album": {
+        "name": "Midden In Paris",
+        "url": "https://open.spotify.com/album/6cAFEfAFJ0Fdy6uWnflctt"
+      },
+      "artists": [
+        {
+          "name": "Lisa Rose",
+          "url": "https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197979,
+      "name": "Midden In Paris",
+      "url": "https://open.spotify.com/track/2jb24vo03wyU4RdgSnj6JJ"
     },
     {
       "album": {
@@ -8590,7 +8662,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 152598,
       "name": "Onderweg naar jou",
       "url": "https://open.spotify.com/track/6zdg8VKwiyqDzwBzBg1cIj"
@@ -10449,6 +10521,24 @@
     },
     {
       "album": {
+        "name": "Vespa",
+        "url": "https://open.spotify.com/album/5MYGAgMj7Z46h0znl6eeMb"
+      },
+      "artists": [
+        {
+          "name": "Dave Dekker",
+          "url": "https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184580,
+      "name": "Vespa",
+      "url": "https://open.spotify.com/track/2zvXfv3Cog6MIVEnPDzbp4"
+    },
+    {
+      "album": {
         "name": "Vette Boeren",
         "url": "https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE"
       },
@@ -11582,7 +11672,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 201188,
       "name": "Wij Doen Het Samen",
       "url": "https://open.spotify.com/track/4lX1P1sgbfJ4FXZSTeJd2h"
@@ -11756,6 +11846,24 @@
       "duration_ms": 152727,
       "name": "Ze Komt Uit Amsterdam",
       "url": "https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp"
+    },
+    {
+      "album": {
+        "name": "Ze Mogen Alles Van Me Krijgen",
+        "url": "https://open.spotify.com/album/7xJGSEqfNnPyM3RPB0JMJy"
+      },
+      "artists": [
+        {
+          "name": "Nelis Leeman",
+          "url": "https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166117,
+      "name": "Ze Mogen Alles Van Me Krijgen",
+      "url": "https://open.spotify.com/track/7bLNL1xHgJYwqyI3fQlRSo"
     },
     {
       "album": {
@@ -12108,7 +12216,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 165551,
       "name": "Zoals Ze Danste",
       "url": "https://open.spotify.com/track/6h6XuEke2ZE3wWr52ZjJY1"

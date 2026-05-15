@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,643,517 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,643,489 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 68 | [Love At The Five & Dime](https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [The Last Of The True Believers](https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t) | 4:39 |
 | 69 | [Crayon Angels](https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Judee Sill](https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf) | 2:45 |
 | 70 | [Red Dirt Girl](https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Hickory Wind](https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX) | 4:05 |
-| 71 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
-| 72 | [When I'm Gone](https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ) | [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [There But For Fortune](https://open.spotify.com/album/5uhYaHfiH4leO4tbdEOZJe) | 4:13 |
+| 71 | [When I'm Gone](https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ) | [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [There But For Fortune](https://open.spotify.com/album/5uhYaHfiH4leO4tbdEOZJe) | 4:13 |
+| 72 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
 | 73 | [Alice's Restaurant Massacree](https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 18:36 |
 | 74 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 75 | [Sing a Song for You](https://open.spotify.com/track/01o6YGrdvMrUAFmWgwoDCb) | [Tim Buckley](https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr) | [Happy Sad](https://open.spotify.com/album/20CYfxjKvqXkCXBhAgOE39) | 2:41 |

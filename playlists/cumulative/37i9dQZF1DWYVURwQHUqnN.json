@@ -620,7 +620,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 132500,
       "name": "Argent",
       "url": "https://open.spotify.com/track/1wqTyuGvBpFctcJ4y48cIA"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 136653,
       "name": "Aventador\u00e9",
       "url": "https://open.spotify.com/track/0jMh5CUDXCHhUoLJntKyHW"
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 192002,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/68mqhwsCoxMsIt2kKUYhzt"
@@ -3019,6 +3019,24 @@
     },
     {
       "album": {
+        "name": "DidiStone",
+        "url": "https://open.spotify.com/album/3YFC2nDPfLFMvdEQvpFV1G"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125949,
+      "name": "DidiStone",
+      "url": "https://open.spotify.com/track/2II9MXqA07RZ5cxFzUqwFo"
+    },
+    {
+      "album": {
         "name": "DIOR",
         "url": "https://open.spotify.com/album/0j1hZJA1NNx9Gs32oExpcs"
       },
@@ -3074,7 +3092,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 163124,
       "name": "DJIMBO",
       "url": "https://open.spotify.com/track/0qIGbIrJJiu2HEm3RjNyu9"
@@ -3238,7 +3256,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 157781,
       "name": "Dua L",
       "url": "https://open.spotify.com/track/5IfknW0NYsSS5aBYk0dorA"
@@ -3732,7 +3750,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 138005,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0"
@@ -3866,6 +3884,28 @@
       "duration_ms": 184342,
       "name": "Fum\u00e9e Blanche",
       "url": "https://open.spotify.com/track/72Wv7tnQhlVyvc4VaBDBDe"
+    },
+    {
+      "album": {
+        "name": "GABBANA",
+        "url": "https://open.spotify.com/album/0RXkJHWg3gGn1cIdRr0vFR"
+      },
+      "artists": [
+        {
+          "name": "L I B",
+          "url": "https://open.spotify.com/artist/7Ij70AqQaRRiBNSxcJrZUa"
+        },
+        {
+          "name": "Dalso",
+          "url": "https://open.spotify.com/artist/0zAXRPAuLqtMW3lmLrn3T5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "GABBANA",
+      "url": "https://open.spotify.com/track/6fz980vcz9v4Nvn9EiOVUO"
     },
     {
       "album": {
@@ -4201,6 +4241,46 @@
     },
     {
       "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/77p0RRmxWpxvdjYiPQGyKo"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81454,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3ZH39dQbXu9jqihvP9EAAH"
+    },
+    {
+      "album": {
+        "name": "Oubliez-moi",
+        "url": "https://open.spotify.com/album/75ymIEBQv8zZhnKtabtB9C"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Kakouprod",
+          "url": "https://open.spotify.com/artist/6g75synhG2eMd0j2228MPR"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235586,
+      "name": "J'ai pas d'associ\u00e9",
+      "url": "https://open.spotify.com/track/4KS9smSoCP1EnxWBvMnotT"
+    },
+    {
+      "album": {
         "name": "J'ai pris le mic",
         "url": "https://open.spotify.com/album/4jKbyOUDV8ZbSFsgYGCvNQ"
       },
@@ -4372,7 +4452,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 222253,
       "name": "Je suis love",
       "url": "https://open.spotify.com/track/2PrfuPBFj26EHrnN4ZIzzM"
@@ -5869,6 +5949,28 @@
     },
     {
       "album": {
+        "name": "Milano",
+        "url": "https://open.spotify.com/album/6bBAtP09YBrPUH05JPNFYC"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156234,
+      "name": "Milano",
+      "url": "https://open.spotify.com/track/6WT1AWBgI6DYbmkiWjfO8Q"
+    },
+    {
+      "album": {
         "name": "Million",
         "url": "https://open.spotify.com/album/34PgqU853NOE06O6q5LywJ"
       },
@@ -6124,6 +6226,24 @@
       "duration_ms": 126035,
       "name": "MONEY (feat. Boumidjal X)",
       "url": "https://open.spotify.com/track/0OItrStw62ofKZD6x857Fp"
+    },
+    {
+      "album": {
+        "name": "Monte-Carlo",
+        "url": "https://open.spotify.com/album/1eB3XleIJ6OEEJoc9bkbjY"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168736,
+      "name": "Monte-Carlo",
+      "url": "https://open.spotify.com/track/7jAEtDBn8bL9E0ywseuAMM"
     },
     {
       "album": {
@@ -6662,7 +6782,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 135093,
       "name": "Oh Ma Jolie",
       "url": "https://open.spotify.com/track/7u7wn0MqPlSaBV0hSyfF9K"
@@ -8643,6 +8763,24 @@
     },
     {
       "album": {
+        "name": "SANS REFR#8",
+        "url": "https://open.spotify.com/album/3ss0OAwKNPlURiiuyWpAOd"
+      },
+      "artists": [
+        {
+          "name": "Iss",
+          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119090,
+      "name": "SANS REFR#8",
+      "url": "https://open.spotify.com/track/4dSfxSw1onqs2loOLgKMBN"
+    },
+    {
+      "album": {
         "name": "Sans toi",
         "url": "https://open.spotify.com/album/4amqcpoxDGYH4MK5xSzS9g"
       },
@@ -8778,7 +8916,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 139229,
       "name": "SENSUAL",
       "url": "https://open.spotify.com/track/4hoCktfuRkcuZGN6rY9Te5"
@@ -10191,6 +10329,24 @@
     },
     {
       "album": {
+        "name": "van cleef",
+        "url": "https://open.spotify.com/album/4Jy6VLypn1JPKHA0jXaMSw"
+      },
+      "artists": [
+        {
+          "name": "Eve La Marka",
+          "url": "https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127062,
+      "name": "van cleef",
+      "url": "https://open.spotify.com/track/3XXjuNt877aP0N9qFEefIr"
+    },
+    {
+      "album": {
         "name": "C'est de la Cali",
         "url": "https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI"
       },
@@ -10642,6 +10798,24 @@
       "duration_ms": 172750,
       "name": "Z\u00e9ro Soucis",
       "url": "https://open.spotify.com/track/0eDyUBPdPjS5t2IapdVYim"
+    },
+    {
+      "album": {
+        "name": "Z\u00e9ro stress",
+        "url": "https://open.spotify.com/album/2H6Kikbo5LhjmvjW0InhTa"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133014,
+      "name": "Z\u00e9ro stress",
+      "url": "https://open.spotify.com/track/59Gs1p5Z0IQA8zN9X37aWH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-186 songs - 9 hr 38 min
+188 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Break It](https://open.spotify.com/track/4XMbKS9GO46sPXoJOO1ffu) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Canaan Cox](https://open.spotify.com/album/3LzwdHRLsgho0NkmHIs0mA) | 3:05 | 2022-08-14 | 2024-11-23 |
 | [Break It](https://open.spotify.com/track/4fvcUgX4G5N9wSWuHMEiwG) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Canaan Cox](https://open.spotify.com/album/3I7fJCRMqUykpseiTimweN) | 3:05 | 2026-03-23 |  |
 | [Call Your Sister](https://open.spotify.com/track/4ZhULfF8Sto8LKYUgx1yU3) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:00 | 2022-05-29 |  |
+| [Clarity \(Ft\. Kabaka Pyramid\)](https://open.spotify.com/track/39xEK5rYhBgPANUaL0eOmz) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Clarity \(Ft\. Kabaka Pyramid\)](https://open.spotify.com/album/4aTPodNe6oejgf3SFp5RiP) | 3:19 | 2026-05-14 |  |
 | [Close](https://open.spotify.com/track/3lhEsT2z3kVegKaI05Osy5) | [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Close](https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet) | 3:14 | 2023-05-15 |  |
 | [Closer To Heaven](https://open.spotify.com/track/4le0jIkDt5mHyatZMp4rYB) | [Lucky Guess](https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0), [CharlieWonder](https://open.spotify.com/artist/5jXBLZwmopWkoDELHtLSdN), [Coppermines](https://open.spotify.com/artist/2uqEKVU14iUExTS2g7Tn07) | [Closer To Heaven](https://open.spotify.com/album/515WUaq7Tx1xZRHBjRQZg4) | 2:23 | 2024-08-09 |  |
 | [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 | 2024-11-03 |  |
@@ -99,6 +100,7 @@
 | [Lethal](https://open.spotify.com/track/7k0n8cQ0XUxDU5209qcE07) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [When the Money Runs Out](https://open.spotify.com/album/1a8Qi4Py6my4IxQAjWoPFK) | 2:50 | 2026-02-28 |  |
 | [Little Things](https://open.spotify.com/track/1vQtS9oKsjY6tWr3CizNAl) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Little Things](https://open.spotify.com/album/78qFqIAO3RIsGmqgBLDtFt) | 3:16 | 2025-08-10 |  |
 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 | 2022-05-29 |  |
+| [lonestar alone](https://open.spotify.com/track/2DMuq5jna4zbi49OiaBClA) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [forgive, forget.](https://open.spotify.com/album/2VdjF3nvUQCrpmxbsd9fNp) | 2:57 | 2026-05-14 |  |
 | [lose a friend](https://open.spotify.com/track/0Cw21zwpYtEsRtX1ahlC5O) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq) | 3:07 | 2022-05-29 | 2023-12-14 |
 | [lose a friend](https://open.spotify.com/track/0SvvUd63GzA41h5YQMxoDn) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/7kM5N8LhfPhz8BWronkeub) | 3:07 | 2023-12-13 |  |
 | [Loud House](https://open.spotify.com/track/3T9TRSgEw9rbqOJXEObErB) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7hpM4nPEnAH5ctuqma33ob) | 3:24 | 2024-07-11 |  |

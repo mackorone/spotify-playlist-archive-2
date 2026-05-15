@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: SLAK
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,723 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,728 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 24 | [サファリ](https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [マイ・ディア・ライフ](https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD) | 7:06 |
 | 25 | [Soft Departure](https://open.spotify.com/track/3VIqNUACL8f1IGCSX8fgp0) | [SLAK](https://open.spotify.com/artist/0axatT20L7PAw25ZyCnbJ0) | [Soft Departure](https://open.spotify.com/album/1isWDAJWi8FOFzXBU3jPBD) | 6:12 |
 | 26 | [Yes! Ramen!! \[Feat\. Sonicwonder\]](https://open.spotify.com/track/1KbsFchJaw3BU5iwnTrd8s) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [OUT THERE \[Feat\. Sonicwonder\]](https://open.spotify.com/album/5Z1XM55fh24JfLyDWWzRRl) | 8:14 |
-| 27 | [Blue Bird](https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Synesthesia](https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8) | 5:09 |
-| 28 | [Dancing in the mood](https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [PIANO CRAZE](https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B) | 5:50 |
+| 27 | [Dancing in the mood](https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [PIANO CRAZE](https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B) | 5:50 |
+| 28 | [Blue Bird](https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Synesthesia](https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8) | 5:09 |
 | 29 | [The Piano](https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SET FREE](https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ) | 3:48 |
 | 30 | [Liberty](https://open.spotify.com/track/1craVn3h83RslIC0BZBiIS) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:56 |
 | 31 | [Ephemeral summer](https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:20 |
-| 32 | [ハルシュラ](https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 4:01 |
-| 33 | [Ready?](https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [Ready?](https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw) | 4:35 |
+| 32 | [Ready?](https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [Ready?](https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw) | 4:35 |
+| 33 | [ハルシュラ](https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 4:01 |
 | 34 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
 | 35 | [Thrust](https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Thrust](https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz) | 4:27 |
 | 36 | [WAVE](https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 7:32 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 47 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
 | 48 | [birth](https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [NEW DAY](https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB) | 4:50 |
 | 49 | [京都](https://open.spotify.com/track/6xePBiTAAtrAtH2a37fwGS) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [ZIPANG 弐nd](https://open.spotify.com/album/39c02j5uv4sOAD1sx1yV8q) | 4:25 |
-| 50 | [Normal Life](https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Variety](https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2) | 2:38 |
+| 50 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
 
 Snapshot ID: `AAAAAHL1iaSGSH4cArtVle17ckzvXynR`

@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 150333,
       "name": "Dance Like David",
       "url": "https://open.spotify.com/track/0AVYx4AftpfptSBZwSoefi"
@@ -4531,6 +4531,28 @@
     },
     {
       "album": {
+        "name": "Goodness Of The Lord II",
+        "url": "https://open.spotify.com/album/4rJ3UPyCmY7j14LRUCO0Mm"
+      },
+      "artists": [
+        {
+          "name": "CHINEMEREM",
+          "url": "https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v"
+        },
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "Goodness Of The Lord II",
+      "url": "https://open.spotify.com/track/3l9LAWKObVbji81BbWT8Ky"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/5GklgMCajHkEtvTBbD7N4m"
       },
@@ -6046,7 +6068,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 279352,
       "name": "In Awe",
       "url": "https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn"
@@ -6474,6 +6496,28 @@
       "duration_ms": 482142,
       "name": "Jesus the Doer",
       "url": "https://open.spotify.com/track/7AdrYZPMBEjYIdjSyovMQ9"
+    },
+    {
+      "album": {
+        "name": "Jireh",
+        "url": "https://open.spotify.com/album/7jPZxPOJK7PkT3EymnDuWA"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Rozil",
+          "url": "https://open.spotify.com/artist/7DKK0ozHbmXGIx5KsVL3uF"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Jireh",
+      "url": "https://open.spotify.com/track/3PzMMIwLiUTvirBij9AcSw"
     },
     {
       "album": {
@@ -8827,6 +8871,24 @@
     },
     {
       "album": {
+        "name": "Aanu Ni",
+        "url": "https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET"
+      },
+      "artists": [
+        {
+          "name": "BisiManuel",
+          "url": "https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258741,
+      "name": "Ogbon Mi O Gbe",
+      "url": "https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt"
+    },
+    {
+      "album": {
         "name": "Oghene Do",
         "url": "https://open.spotify.com/album/4OMOfEjqFKN0rvpqDnWOyf"
       },
@@ -9338,7 +9400,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 544864,
       "name": "Orun Si",
       "url": "https://open.spotify.com/track/3FF3zeBKsLZzpNT6hnF0xc"
@@ -9896,7 +9958,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 136092,
       "name": "Rest",
       "url": "https://open.spotify.com/track/1Mct4TjRxkfHkSOzAUvVbl"
@@ -11190,6 +11252,24 @@
       "duration_ms": 169933,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J"
+    },
+    {
+      "album": {
+        "name": "OFFDAYS",
+        "url": "https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
     },
     {
       "album": {

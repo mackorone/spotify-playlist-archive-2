@@ -2,7 +2,7 @@
 
 ### [Gospel Classics](https://open.spotify.com/playlist/37i9dQZF1DXcuQS7VQhd6f)
 
-> All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: John P\. Kee
+> All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Mary Mary
 
 164 songs - 15 hr 33 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: WELKER",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Vintage Culture, Volkoder",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 222439,
       "name": "Astralis",
       "url": "https://open.spotify.com/track/1jaA1jV5jzNnmhxqmo2VrO"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 203636,
       "name": "AWAKE",
       "url": "https://open.spotify.com/track/5XH7i3B4Q6ZPHhdv07SEdf"
@@ -5834,7 +5834,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 121874,
       "name": "Ex Machina",
       "url": "https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz"
@@ -7523,6 +7523,24 @@
     },
     {
       "album": {
+        "name": "Groove In",
+        "url": "https://open.spotify.com/album/6p0dxT8vJNybsgPWDwUYXO"
+      },
+      "artists": [
+        {
+          "name": "Tough Art",
+          "url": "https://open.spotify.com/artist/6XiVEatJ4Bq46wONrrSJwA"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212980,
+      "name": "Groove In",
+      "url": "https://open.spotify.com/track/6HNDqY2aY9L7UuRGzA9gw5"
+    },
+    {
+      "album": {
         "name": "Groove On",
         "url": "https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ"
       },
@@ -7626,6 +7644,28 @@
       "duration_ms": 263035,
       "name": "Hand in Hand - Diego Druck Remix",
       "url": "https://open.spotify.com/track/0v20nQM0HNhL63IO9syp8B"
+    },
+    {
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/2r6q6PurKAaN31ws05LZKC"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187968,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/2X3MVthrKaaP8RbrEen8UJ"
     },
     {
       "album": {
@@ -9044,7 +9084,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 222148,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6r6MPuQfr3riRVWcJnfKNe"
@@ -11189,6 +11229,32 @@
     },
     {
       "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ"
+    },
+    {
+      "album": {
         "name": "Human Experience",
         "url": "https://open.spotify.com/album/4Gv0T3z8IBCxGaohWJvoBf"
       },
@@ -11883,6 +11949,28 @@
     },
     {
       "album": {
+        "name": "Midnight Groove",
+        "url": "https://open.spotify.com/album/5n5JEUVqvnU6DH9XxOxfER"
+      },
+      "artists": [
+        {
+          "name": "Duarte",
+          "url": "https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk"
+        },
+        {
+          "name": "Nadin",
+          "url": "https://open.spotify.com/artist/4sgVJb7jlCE51EaPmdyfiv"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Midnight Groove",
+      "url": "https://open.spotify.com/track/2StsqxlW7tXeeKEjBBTust"
+    },
+    {
+      "album": {
         "name": "Milango (Curol Remix)",
         "url": "https://open.spotify.com/album/3TBV6T0fz209gc4qOyPTNf"
       },
@@ -12046,7 +12134,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 171825,
       "name": "Mind Illuminate",
       "url": "https://open.spotify.com/track/5p7hNVYvzfrdb4wOiWtcNo"
@@ -14540,7 +14628,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187741,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/4z7Yzda45Gok9vuTPXnCxr"
@@ -15703,6 +15791,28 @@
     },
     {
       "album": {
+        "name": "See-Line Woman (Mochakk Mix)",
+        "url": "https://open.spotify.com/album/5LlU02DzqhgFNDIbPfSxXV"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288021,
+      "name": "See-Line Woman - Mochakk Mix",
+      "url": "https://open.spotify.com/track/3kVHlBlzIZP2kuqWMYhv3B"
+    },
+    {
+      "album": {
         "name": "Seek Love (On The Beach) (feat. Amanda Wilson & York)",
         "url": "https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O"
       },
@@ -16032,6 +16142,28 @@
       "duration_ms": 183114,
       "name": "She Wanna Dance",
       "url": "https://open.spotify.com/track/4fkVZCK83FhFlF5A5VvB43"
+    },
+    {
+      "album": {
+        "name": "She's Bad",
+        "url": "https://open.spotify.com/album/3hXwIuTqAbiEUcQ4Z9XgQu"
+      },
+      "artists": [
+        {
+          "name": "SUBB",
+          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
+        },
+        {
+          "name": "Dynamick",
+          "url": "https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166314,
+      "name": "She's Bad",
+      "url": "https://open.spotify.com/track/3KboNROvF7SWtpPUtkCzhb"
     },
     {
       "album": {
@@ -17286,7 +17418,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 174000,
       "name": "Take My Time",
       "url": "https://open.spotify.com/track/6t9mVDPpeMZhm0pnqGHzUF"
@@ -18400,6 +18532,24 @@
       "duration_ms": 236220,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3XV0uZdvAS0feYbJOEfC4U"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5jm2SNw5FX4YUVeB8qCXOI"
+      },
+      "artists": [
+        {
+          "name": "Bauhouse",
+          "url": "https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/2wjJc5f7Xy4EksJvv40qUv"
     },
     {
       "album": {

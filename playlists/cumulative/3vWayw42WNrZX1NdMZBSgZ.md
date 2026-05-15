@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro and more!!! Cover: Shakira &amp; Beéle
 
-981 songs - 2 day 4 hr 12 min
+982 songs - 2 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Cómo Poder Olvidar \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 | 2022-11-17 | 2023-05-26 |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2022-02-02 | 2023-05-26 |
 | [D Pic](https://open.spotify.com/track/6bbajYIBOhfzx6fppjqSZq) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [D Pic](https://open.spotify.com/album/4gCkkrljRoMKWydXymbY6n) | 2:24 | 2022-10-21 | 2023-05-26 |
+| [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-05-15 |  |
 | [Dame Break](https://open.spotify.com/track/7LVyfGaXMOu4bsLdluFFLc) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Dame Break](https://open.spotify.com/album/6bMIvydO8SPINO43xbqiJF) | 3:31 | 2022-07-07 | 2023-05-26 |
 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 | 2023-03-29 | 2023-06-01 |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3H0MZWoFs9THnbYbjFkeHn) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ETERNO](https://open.spotify.com/album/2QIiq3VZhg6GNB2JGdU7tm) | 2:40 | 2025-05-21 | 2025-11-22 |

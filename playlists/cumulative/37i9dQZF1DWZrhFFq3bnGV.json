@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Societeit de Harmonie, Natasya Elvira",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: gabsav",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 297600,
       "name": "Destination Moon",
       "url": "https://open.spotify.com/track/6ZcfZ8dyYySA6xXdykEItF"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 258510,
       "name": "Essence",
       "url": "https://open.spotify.com/track/43P2BUpH7mWjOx9nLZpC8C"
@@ -1866,6 +1866,28 @@
       "duration_ms": 188696,
       "name": "eyes closed",
       "url": "https://open.spotify.com/track/4ulnoshXvEKyzwaYETxa5g"
+    },
+    {
+      "album": {
+        "name": "Fainted Light",
+        "url": "https://open.spotify.com/album/5KmRjLkfAdzK9dXMIJyBJ6"
+      },
+      "artists": [
+        {
+          "name": "Indra Lesmana",
+          "url": "https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7"
+        },
+        {
+          "name": "Maurice Mobetta Brown",
+          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407910,
+      "name": "Fainted Light",
+      "url": "https://open.spotify.com/track/5XAilDhslmDyV1iCXJAblR"
     },
     {
       "album": {
@@ -2416,7 +2438,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 221877,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/2ioFniiBnm3HeMji8iHBx7"
@@ -3451,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "Lepas Kendali",
+        "url": "https://open.spotify.com/album/6VtQV89IlZM0UlFYkhFNZL"
+      },
+      "artists": [
+        {
+          "name": "Jo Soegono",
+          "url": "https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190805,
+      "name": "Lepas Kendali",
+      "url": "https://open.spotify.com/track/11LEQn7G7zBIRnZhW3FnDA"
+    },
+    {
+      "album": {
         "name": "Life Is Good",
         "url": "https://open.spotify.com/album/31UgRFCQms3Oqtr2UTi8HB"
       },
@@ -3870,6 +3910,24 @@
       "duration_ms": 196363,
       "name": "Memories",
       "url": "https://open.spotify.com/track/0RwY80gFnRo9noKMipeFXi"
+    },
+    {
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/1a0V8SN1IbXPWMa8ojUgjQ"
+      },
+      "artists": [
+        {
+          "name": "Jundy Salut",
+          "url": "https://open.spotify.com/artist/630LcUjYXp9RxxvnU9fUkP"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434032,
+      "name": "Migration",
+      "url": "https://open.spotify.com/track/1YKaLjf8T6uct1drEULZ8R"
     },
     {
       "album": {
@@ -4973,6 +5031,24 @@
     },
     {
       "album": {
+        "name": "Semua Akan Berlalu",
+        "url": "https://open.spotify.com/album/7Cg6rRTHY37AKeBEgE5bYe"
+      },
+      "artists": [
+        {
+          "name": "Avalokiteshvara",
+          "url": "https://open.spotify.com/artist/5maaciTj4rHBn2xOGxcPM2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209892,
+      "name": "Semua Akan Berlalu",
+      "url": "https://open.spotify.com/track/37AQUaxHCyCpdMV53BWrLX"
+    },
+    {
+      "album": {
         "name": "Senandung Saja",
         "url": "https://open.spotify.com/album/0Hgko728r60VRnLaOoJfIh"
       },
@@ -5567,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "tangled",
+        "url": "https://open.spotify.com/album/0UIHSmA4B2ykgZ9hSGqegw"
+      },
+      "artists": [
+        {
+          "name": "gabsav",
+          "url": "https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271500,
+      "name": "tangled",
+      "url": "https://open.spotify.com/track/4ZBaoNXFFIyR2Ce9LdHEYO"
+    },
+    {
+      "album": {
         "name": "Perasa",
         "url": "https://open.spotify.com/album/6aOJTpyar68TCZy6XAZ65i"
       },
@@ -5578,7 +5672,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 256000,
       "name": "Tanya",
       "url": "https://open.spotify.com/track/2OF4WQCcU0j99WWVjyj9UL"
@@ -6020,7 +6114,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 300999,
       "name": "World : Against, Changed, Educate",
       "url": "https://open.spotify.com/track/6B1tdAqKADoEdn9Y4q9ulj"

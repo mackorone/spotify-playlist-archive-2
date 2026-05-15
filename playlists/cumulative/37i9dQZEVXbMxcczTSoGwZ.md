@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,251 songs - 7 day 2 hr 23 min
+3,252 songs - 7 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1832,6 +1832,7 @@
 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-04-06 | 2024-04-08 |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2021-12-13 | 2025-12-28 |
 | [My Sister's Crown](https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [My Sister's Crown](https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp) | 2:56 | 2023-05-10 | 2023-05-24 |
+| [My System](https://open.spotify.com/track/74s87wGi4ZIqgoBPg7fzyj) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [My System \(Acoustic\)](https://open.spotify.com/album/4SJkfGs1KQDsfFGbN7LAfZ) | 3:02 | 2026-05-14 |  |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2024-08-03 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
 | [Myrskyn jälkeen](https://open.spotify.com/track/7h8d7vRJRidMLutOfJ13F7) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M), [Poju](https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn) | [Myrskyn jälkeen](https://open.spotify.com/album/4J3xDVYm3u5hk3a5NR78SX) | 3:37 | 2023-04-15 | 2023-05-14 |
@@ -2927,7 +2928,7 @@
 | [Tää tarina ei kertonu meistä](https://open.spotify.com/track/41NnA94Z0Jf2Ipy3e9GZwM) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Sä olit oikees](https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC) | 2:40 | 2026-03-28 | 2026-04-19 |
 | [Tää tunne](https://open.spotify.com/track/4CUwPg9TWRoXYbPaB5K6oU) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Tää tunne](https://open.spotify.com/album/3nAhQyPcUPixMmaubT3Ecq) | 3:05 | 2022-10-29 | 2023-01-22 |
 | [Tää yö](https://open.spotify.com/track/44tpujjBaMAjTUnx1To90r) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Tää yö](https://open.spotify.com/album/18cjVLK3NUZFuGY9qFycb4) | 2:34 | 2025-06-14 | 2025-06-16 |
-| [Tääl mä oon](https://open.spotify.com/track/4BQpIP9GV6B4xrwgOBmit4) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Tääl mä oon](https://open.spotify.com/album/7GxY87m2q8I7WiUkYTfyxk) | 2:28 | 2026-05-09 |  |
+| [Tääl mä oon](https://open.spotify.com/track/4BQpIP9GV6B4xrwgOBmit4) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Tääl mä oon](https://open.spotify.com/album/7GxY87m2q8I7WiUkYTfyxk) | 2:28 | 2026-05-09 | 2026-05-15 |
 | [Tääl on niin kuuma](https://open.spotify.com/track/18b2gd5dH7lCrNVYaClpgF) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR), [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Erika Vikman](https://open.spotify.com/album/3QsYSDk8vAA3h2NP0yAXE8) | 2:55 | 2021-08-22 | 2021-08-25 |
 | [Tääl on niin kuuma](https://open.spotify.com/track/25eOf9HqPqa2EyWeMxNOtI) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR), [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Tääl on niin kuuma](https://open.spotify.com/album/10ffVSHLlK44lkkRpAg5dp) | 2:55 | 2021-06-06 | 2021-08-13 |
 | [Täälpäin](https://open.spotify.com/track/0Gf5abbjb5XibbQRAwsCPq) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Van Hegen](https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9) | [Täälpäin](https://open.spotify.com/album/32Tow3LoxvoHqW4EO0fVbv) | 3:14 | 2026-03-14 | 2026-03-31 |

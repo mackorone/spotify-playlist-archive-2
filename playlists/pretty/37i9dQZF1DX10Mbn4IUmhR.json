@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Ben Rodrigues",
-  "num_followers": 6536,
+  "num_followers": 6540,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "REAL, Vol. 1",
         "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 145492,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
+        "name": "Hold Me In The Dark",
+        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Hold Me In The Dark",
+      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 165625,
       "name": "Waist",
       "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
-        "name": "Hold Me In The Dark",
-        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Hold Me In The Dark",
-      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
+        "name": "Letting go",
+        "url": "https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Letting go",
+      "url": "https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
         "name": "Same Old",
         "url": "https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "Letting go",
-        "url": "https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c"
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/1FjqFA9fMXRjm5le1dROMY"
       },
       "artists": [
         {
-          "name": "Stephen Willo",
-          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+          "name": "Tatum Tides",
+          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Letting go",
-      "url": "https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg"
+      "duration_ms": 188000,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/2pYeCSz1jCLtz2GDioZEfs"
     },
     {
       "added_at": "2026-05-08 07:46:27",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "Neverland",
-        "url": "https://open.spotify.com/album/1FjqFA9fMXRjm5le1dROMY"
-      },
-      "artists": [
-        {
-          "name": "Tatum Tides",
-          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Neverland",
-      "url": "https://open.spotify.com/track/2pYeCSz1jCLtz2GDioZEfs"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "180\u00b0",
         "url": "https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-05-08 07:46:27",
       "album": {
-        "name": "Don't Call Me Up",
-        "url": "https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg"
-      },
-      "artists": [
-        {
-          "name": "Mieke Chapman",
-          "url": "https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Don't Call Me Up",
-      "url": "https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca"
-    },
-    {
-      "added_at": "2026-05-08 07:46:27",
-      "album": {
         "name": "Figments Of My Imagination",
         "url": "https://open.spotify.com/album/3jFjcAeoCIFcbJ2re4WIrv"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 195254,
       "name": "Figments Of My Imagination",
       "url": "https://open.spotify.com/track/5KH9u7Z9D1J51uZLNtsscD"
+    },
+    {
+      "added_at": "2026-05-08 07:46:27",
+      "album": {
+        "name": "Don't Call Me Up",
+        "url": "https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg"
+      },
+      "artists": [
+        {
+          "name": "Mieke Chapman",
+          "url": "https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca"
     },
     {
       "added_at": "2026-05-08 07:46:27",

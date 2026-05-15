@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,469 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,488 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 5 | [Dynamite](https://open.spotify.com/track/76N39WgN4xENapS5tnw7Of) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Dynamite](https://open.spotify.com/album/7BYzMlE0anzovqdMe5bNSJ) | 2:40 |
 | 6 | [Fire Lessons](https://open.spotify.com/track/3FLMN8fVYCVu0UgVpifSWa) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:18 |
 | 7 | [Judy](https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 2:56 |
-| 8 | [Big Dog \(with That Mexican OT & 2 Chainz\)](https://open.spotify.com/track/7BO9V2NxeJRvrWS65BCvkB) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Big Dog \(with That Mexican OT & 2 Chainz\)](https://open.spotify.com/album/1zS7KTyodkgZ4pMo1okKgE) | 3:00 |
-| 9 | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/7DSqGWatwo13yjAIgKx8g8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/album/2fBT3VgUrM7S3HVfZiqjbJ) | 3:07 |
+| 8 | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/7DSqGWatwo13yjAIgKx8g8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/album/2fBT3VgUrM7S3HVfZiqjbJ) | 3:07 |
+| 9 | [Big Dog \(with That Mexican OT & 2 Chainz\)](https://open.spotify.com/track/7BO9V2NxeJRvrWS65BCvkB) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Big Dog \(with That Mexican OT & 2 Chainz\)](https://open.spotify.com/album/1zS7KTyodkgZ4pMo1okKgE) | 3:00 |
 | 10 | [Cutthroat](https://open.spotify.com/track/6jWg9ZeIlDOuwr62vpKfut) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Cutthroat](https://open.spotify.com/album/3RswC4TBK1oa5mEh9nHtKS) | 3:07 |
 | 11 | [Horse](https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:02 |
 | 12 | [Pain Salesmen \(with Ren\)](https://open.spotify.com/track/6LcCM904i2ATZcyatWGRsT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Pain Salesmen \(with Ren\)](https://open.spotify.com/album/57PLyxgQHkm56xk3nssS4h) | 3:19 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 21 | [OH SHIT!!!](https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [OH SHIT!!!](https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G) | 3:05 |
 | 22 | [Spellbound \(The Beginning\)](https://open.spotify.com/track/6cIprowHIA9CtkA9Bgxk7g) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:16 |
 | 23 | [Snake Skin Leather](https://open.spotify.com/track/521mlZAo2XcA5lvFgN4tUT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:26 |
-| 24 | [Gone Fishin](https://open.spotify.com/track/2dps4BWM4a4Tp8QNU3NWdQ) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Pants](https://open.spotify.com/artist/3WtAzoVwx7E9AhgLkhrps4) | [Gone Fishin](https://open.spotify.com/album/10YR1HKDO5NoeiKgHjeDKH) | 1:57 |
-| 25 | [Feed the Dogs](https://open.spotify.com/track/21Nuz8C7Ou8B7U7RUxhTR1) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Feed the Dogs](https://open.spotify.com/album/6MIpSgb65ovU5136ui8udW) | 3:23 |
+| 24 | [Feed the Dogs](https://open.spotify.com/track/21Nuz8C7Ou8B7U7RUxhTR1) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Feed the Dogs](https://open.spotify.com/album/6MIpSgb65ovU5136ui8udW) | 3:23 |
+| 25 | [Gone Fishin](https://open.spotify.com/track/2dps4BWM4a4Tp8QNU3NWdQ) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Pants](https://open.spotify.com/artist/3WtAzoVwx7E9AhgLkhrps4) | [Gone Fishin](https://open.spotify.com/album/10YR1HKDO5NoeiKgHjeDKH) | 1:57 |
 | 26 | [Vulnerable God](https://open.spotify.com/track/1rns1Sea7RI4wCNHtkkthQ) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Vulnerable God](https://open.spotify.com/album/2Px80IZqOMRP6E6kjM2wie) | 2:04 |
 | 27 | [The Season](https://open.spotify.com/track/5zvPlnOXaOoknahmh69RiI) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 3:25 |
 | 28 | [I Dry Heave](https://open.spotify.com/track/12bZrnYJpqXNCN8545LDIz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Project Gampo](https://open.spotify.com/album/6cyh4kHkJVOlLGx6LFElwJ) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 49 | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra) | 2:28 |
 | 50 | [Neighborhood \(with Krayzie Bone & Prof\)](https://open.spotify.com/track/0c8evdQNBWPtimiOrk15zB) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR) | [Neighborhood \(with Krayzie Bone & Prof\)](https://open.spotify.com/album/1FKJMAtB80EITlI5kxD9Y1) | 3:47 |
 
-Snapshot ID: `agJtgAAAAADaIguL01ci9xvTDbCfLiv5`
+Snapshot ID: `agO/AAAAAAB0F3+AH29or8vitHsqk+9Z`

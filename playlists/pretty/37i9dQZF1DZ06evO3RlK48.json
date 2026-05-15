@@ -1,29 +1,13 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 17268,
+  "num_followers": 17288,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAAa6Pv2z6IqHFhBrW6Dh/Vr",
+  "snapshot_id": "agO/AAAAAADKZ76566QmfsWijA7QpSgR",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wannabeher",
-        "url": "https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 154853,
-      "name": "Wannabeher",
-      "url": "https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G"
-    },
     {
       "added_at": null,
       "album": {
@@ -75,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So What",
-        "url": "https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC"
+        "name": "Wannabeher",
+        "url": "https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9"
       },
       "artists": [
         {
@@ -84,9 +68,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 271213,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II"
+      "duration_ms": 154853,
+      "name": "Wannabeher",
+      "url": "https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G"
     },
     {
       "added_at": null,
@@ -127,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 271213,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -139,22 +139,6 @@
       "duration_ms": 272806,
       "name": "I Know A Place",
       "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": null,
@@ -184,9 +168,25 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 193920,
-      "name": "Girl's Girl",
-      "url": "https://open.spotify.com/track/2BuLvHB2f5yWhPTYNF7CU8"
+      "duration_ms": 156120,
+      "name": "Big Stick",
+      "url": "https://open.spotify.com/track/1VgAgeHvB45Y5ZgqAnCA82"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": null,
@@ -207,26 +207,6 @@
       "duration_ms": 209293,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/2xeIWTt1cWvRa8R31RPOip"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into Your Room (with MUNA)",
-        "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 211235,
-      "name": "Into Your Room (with MUNA)",
-      "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
     },
     {
       "added_at": null,
@@ -256,9 +236,29 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 156120,
-      "name": "Big Stick",
-      "url": "https://open.spotify.com/track/1VgAgeHvB45Y5ZgqAnCA82"
+      "duration_ms": 193920,
+      "name": "Girl's Girl",
+      "url": "https://open.spotify.com/track/2BuLvHB2f5yWhPTYNF7CU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into Your Room (with MUNA)",
+        "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 211235,
+      "name": "Into Your Room (with MUNA)",
+      "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
     },
     {
       "added_at": null,
@@ -275,26 +275,6 @@
       "duration_ms": 205871,
       "name": "Number One Fan",
       "url": "https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Morning Pages",
-      "url": "https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n"
     },
     {
       "added_at": null,
@@ -331,6 +311,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Morning Pages",
+      "url": "https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 211971,
       "name": "Stayaway",
       "url": "https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sometimes (From \"Fire Island\")",
-        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 183811,
-      "name": "Sometimes - From \"Fire Island\"",
-      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sometimes (From \"Fire Island\")",
+        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 183811,
+      "name": "Sometimes - From \"Fire Island\"",
+      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 251144,
       "name": "Pink Light",
       "url": "https://open.spotify.com/track/2zmGJTOfCKljp9HEffLM78"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 206079,
-      "name": "Motivation - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 206079,
+      "name": "Motivation - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In My Way",
         "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
       },
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 297045,
+      "name": "Winterbreak",
+      "url": "https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad At Letting Go (feat. MUNA)",
         "url": "https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 200959,
       "name": "Bad At Letting Go (feat. MUNA)",
       "url": "https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 297045,
-      "name": "Winterbreak",
-      "url": "https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promising Young Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Nihilist - From \"Promising Young Woman\" Soundtrack",
-      "url": "https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 237020,
       "name": "So Special",
       "url": "https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Promising Young Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Nihilist - From \"Promising Young Woman\" Soundtrack",
+      "url": "https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 246601,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Empathy (MUNA Remix)",
         "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 188369,
       "name": "Empathy - MUNA Remix",
       "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 246601,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO"
     },
     {
       "added_at": null,

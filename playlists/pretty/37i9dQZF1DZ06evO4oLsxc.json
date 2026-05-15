@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 1408,
+  "num_followers": 1409,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADJffYWAmaff+xtIB7Ysa3/",
+  "snapshot_id": "agO/AAAAAAA8ox24WUUO2TVA/cMsxDGM",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALIK",
-        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 213394,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/4I8fZSVDGv3wzLafeYlncj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casa Lopez",
         "url": "https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 243560,
       "name": "Casa Lopez",
       "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 213394,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/4I8fZSVDGv3wzLafeYlncj"
     },
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALIK",
-        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "Myself (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soundboy",
         "url": "https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 186173,
       "name": "WestBorn",
       "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Myself (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx"
     },
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALIK",
-        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Twisting (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0VELY6OksBpoDWTeYvENx0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "London Class",
         "url": "https://open.spotify.com/album/6Vvxsmhtg0FKtUEsrkfleL"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 175227,
       "name": "Standout",
       "url": "https://open.spotify.com/track/7z8mamHXaezlYVODfFOypw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Twisting (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0VELY6OksBpoDWTeYvENx0"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALIK",
-        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 296186,
-      "name": "Prophet",
-      "url": "https://open.spotify.com/track/639zLmMqth7OXOV7NxsHL8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avenue B",
         "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 242933,
       "name": "Avenue B",
       "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 296186,
+      "name": "Prophet",
+      "url": "https://open.spotify.com/track/639zLmMqth7OXOV7NxsHL8"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALIK",
-        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 252653,
-      "name": "Numero Uno",
-      "url": "https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Standard",
         "url": "https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 157866,
       "name": "Standard",
       "url": "https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 252653,
+      "name": "Numero Uno",
+      "url": "https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALIK",
-        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 293040,
-      "name": "Eternal Reflections (feat. Yussef Dayes)",
-      "url": "https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
         "url": "https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM"
       },
@@ -527,38 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "nag champa",
-        "url": "https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj"
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
       },
       "artists": [
         {
-          "name": "agajon",
-          "url": "https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k"
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         },
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 172190,
-      "name": "so simple",
-      "url": "https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 144746,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
+      "duration_ms": 293040,
+      "name": "Eternal Reflections (feat. Yussef Dayes)",
+      "url": "https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm"
     },
     {
       "added_at": null,
@@ -583,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 144746,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tam Tam",
         "url": "https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 212933,
       "name": "Tam Tam",
       "url": "https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nag champa",
+        "url": "https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj"
+      },
+      "artists": [
+        {
+          "name": "agajon",
+          "url": "https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 172190,
+      "name": "so simple",
+      "url": "https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5"
     },
     {
       "added_at": null,

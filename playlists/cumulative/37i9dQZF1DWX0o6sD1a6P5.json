@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: kulturr",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: TRIANGLE DES BERMUDES",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1518,6 +1518,28 @@
       "duration_ms": 212666,
       "name": "back n forth",
       "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
+    },
+    {
+      "album": {
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211090,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
     },
     {
       "album": {
@@ -5480,7 +5502,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 138545,
       "name": "DOUDOU",
       "url": "https://open.spotify.com/track/2W1hpgKsdh9VMgsR9GvDev"
@@ -11730,7 +11752,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 148193,
       "name": "Mood (feat. D2 & kulturr)",
       "url": "https://open.spotify.com/track/0Map8Sn47eyojScNyuMnUD"
@@ -14172,7 +14194,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
@@ -17797,6 +17819,24 @@
     },
     {
       "album": {
+        "name": "JO\u0178A",
+        "url": "https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 15",
+      "url": "https://open.spotify.com/track/26sQBFzuAjDRRKbcrsD1ki"
+    },
+    {
+      "album": {
         "name": "Trop intense",
         "url": "https://open.spotify.com/album/5pK1UjbKezgFzawUAFACEI"
       },
@@ -18816,7 +18856,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 136036,
       "name": "With You (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"

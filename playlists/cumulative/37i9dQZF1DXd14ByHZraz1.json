@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: FatSync",
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: \u00d6wnboss",
   "name": "mint brasil",
   "tracks": [
     {
@@ -446,6 +446,24 @@
       "duration_ms": 162580,
       "name": "Baile Lotad\u00e3o",
       "url": "https://open.spotify.com/track/6R8sBJjTQnFffxSU4u4Kg9"
+    },
+    {
+      "album": {
+        "name": "Baile Lotad\u00e3o",
+        "url": "https://open.spotify.com/album/4nmXTGDefT5zsdDv1GqwaC"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Baile Lotad\u00e3o",
+      "url": "https://open.spotify.com/track/0EBJmDpmMlHwioc5OEyNd8"
     },
     {
       "album": {
@@ -5175,6 +5193,24 @@
     },
     {
       "album": {
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/4j4Zh9283Vp7BWNbWhaMHe"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306492,
+      "name": "Run It Back",
+      "url": "https://open.spotify.com/track/3LQyg19W4JLwPZVtAT1E0g"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/5JMbsiPcxRBVNztGimHvyw"
       },
@@ -5216,6 +5252,32 @@
       "duration_ms": 152500,
       "name": "Same Man",
       "url": "https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM"
+    },
+    {
+      "album": {
+        "name": "Saturn Storm",
+        "url": "https://open.spotify.com/album/1U19xKKGgUTdIx4ITVB7cG"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        },
+        {
+          "name": "Nana Torres",
+          "url": "https://open.spotify.com/artist/3Y7qOams3aO2VkPvq3Xz1S"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "Saturn Storm",
+      "url": "https://open.spotify.com/track/3hTphn9Yj76uUJe3mZDbq0"
     },
     {
       "album": {
@@ -5274,7 +5336,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 220009,
       "name": "Se Que Quiere",
       "url": "https://open.spotify.com/track/6lG1GtM6FvL18EvOVQELC8"
@@ -5446,7 +5508,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 183114,
       "name": "She Wanna Dance",
       "url": "https://open.spotify.com/track/4fkVZCK83FhFlF5A5VvB43"
@@ -6521,6 +6583,28 @@
     },
     {
       "album": {
+        "name": "Where U Go",
+        "url": "https://open.spotify.com/album/0LREfFtoY3yU2o9GQG4zNa"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171875,
+      "name": "Where U Go",
+      "url": "https://open.spotify.com/track/7yzFmC4PBfAu50HgJbRlLg"
+    },
+    {
+      "album": {
         "name": "Airy EP",
         "url": "https://open.spotify.com/album/3KOQ2yxqN7OKVy4VbH1mzH"
       },
@@ -6718,7 +6802,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 221123,
       "name": "You Want The Fire",
       "url": "https://open.spotify.com/track/1L3syVgeYCOYc5O7IECxwI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 
 > This is John Williamson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,446 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,448 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 49 | [King Of The Road](https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U) | [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf), [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Both Sides Now](https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm) | 2:06 |
 | 50 | [Drovers Boy](https://open.spotify.com/track/1xHzFR5aBiIJH0IhWuJAxY) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 3:37 |
 
-Snapshot ID: `agJtgAAAAABpSrKsIzIoPyb86uBmufzb`
+Snapshot ID: `agO/AAAAAABTJy70W4ioyzBU1rx/3yfI`

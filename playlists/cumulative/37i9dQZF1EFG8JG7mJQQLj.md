@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-626 songs - 1 day 11 hr 16 min
+627 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Fall](https://open.spotify.com/track/5Hd0J6dWz0jqgRDJoRpOdc) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Fall](https://open.spotify.com/album/2aKKhb3QvJcB4yxbRXZTUu) | 3:37 | 2024-10-17 |  |
 | [Falling](https://open.spotify.com/track/5i0g98UudqymFhmcBfCs9I) | [Josh Hoge](https://open.spotify.com/artist/3xlxlp5Pzc1JYmyUPS79VC) | [This Holiday](https://open.spotify.com/album/3SYNzzNRhQBNQgtfIopiyH) | 2:12 | 2024-01-29 |  |
 | [Fantastic](https://open.spotify.com/track/2Qs9CZcvOzVcHFhP64eEvP) | [pupculture](https://open.spotify.com/artist/5hJodDOgnJhYazwIDUTWPH) | [Fantastic](https://open.spotify.com/album/4EVmjvtGfqzswP65AxA6hV) | 3:03 | 2025-07-13 |  |
-| [Fantastic \(from the series Arcane League of Legends\)](https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:04 | 2025-01-09 |  |
+| [Fantastic \(from the series Arcane League of Legends\)](https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:04 | 2025-01-09 | 2026-05-15 |
+| [Fantastic \(from the series Arcane League of Legends\)](https://open.spotify.com/track/72fZASPFEUKE4Fu4AF2BQn) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/18r1yGUJUNHXYj1DQU0qIE) | 3:04 | 2026-05-14 |  |
 | [Favorite Song](https://open.spotify.com/track/5QmWwEZY23peUBTVC8bIYA) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [All Of You](https://open.spotify.com/album/3J72FiClHtOI1WmbIJEP03) | 3:45 | 2024-01-29 |  |
 | [Favourite Scar](https://open.spotify.com/track/68gjvd3jdbJa4ByEpd5mt6) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:36 | 2024-01-29 |  |
 | [Feed That Flame \(feat\. James Byous & Caitlin Ary\)](https://open.spotify.com/track/48TbKyp7cuVF9vlvnhafRA) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [James Byous](https://open.spotify.com/artist/2tUreb816WKgRlb0hDAtRI), [Caitlin Ary](https://open.spotify.com/artist/1JpyNIxn4ixMD8POdmcSKs) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:28 | 2024-01-29 |  |

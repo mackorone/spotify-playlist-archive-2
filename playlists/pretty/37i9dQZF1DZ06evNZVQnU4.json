@@ -1,12 +1,12 @@
 {
   "description": "This is Olivia Dean. The essential tracks, all in one playlist.",
-  "num_followers": 570581,
+  "num_followers": 572168,
   "original_name": "This Is Olivia Dean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAABLYUO71FFyGtfqkZUpL2wW",
+  "snapshot_id": "agO/AAAAAACokTiS38WzqBBSGUzlgViT",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 220372,
       "name": "Ladies Room",
       "url": "https://open.spotify.com/track/0M7oki70AV10Ztt3HyUd8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm"
     },
     {
       "added_at": null,

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Tamela Mann
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,071 likes - 75 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,079 likes - 75 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Live Breathe Fight \- Radio Edit](https://open.spotify.com/track/3jqMQdxkyaudfrX62axCjq) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Live Breathe Fight \(Radio Edit\)](https://open.spotify.com/album/5ENgy9hJVcX6p44OamK5SY) | 3:46 |
 | 2 | [Come Jesus Come](https://open.spotify.com/track/218S8MsbNO1ZGNxMQCb89L) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/3ZSCXdA9n1XNGTsWKjeNQr) | 5:01 |
 | 3 | [Lord Do It For Me \- Live](https://open.spotify.com/track/17WnVLXVM5qUT1z0YZN0Yw) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb) | 5:54 |
-| 4 | [Yahweh Flow \- Live In San Francisco](https://open.spotify.com/track/6nn9pfbOHHmaQAYxn6H7WO) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 9:40 |
+| 4 | [Yahweh Flow \- Live In San Francisco](https://open.spotify.com/track/6nn9pfbOHHmaQAYxn6H7WO) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Jocelyn Bowman](https://open.spotify.com/artist/4oNDPftuqEd86eBJ108S11), [D'Nar Young](https://open.spotify.com/artist/0gSN31lo9boEhogd3kbNXZ), [Jewell Jones](https://open.spotify.com/artist/2EFb5gGfPIYNen4BAVb7qQ), [Jalisa Faye](https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 9:40 |
 | 5 | [Able](https://open.spotify.com/track/05Qb46jhgjlxjbQQQvCpFQ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Able](https://open.spotify.com/album/5huA7FbW7RWr0lXR9dC7Dx) | 2:53 |
 | 6 | [Church](https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:02 |
 | 7 | [Holy Forever](https://open.spotify.com/track/2jStgsgQWFNIKdloTLJd6F) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Holy Forever](https://open.spotify.com/album/3zcJQVAiPUCcOcUcIg62lY) | 9:43 |

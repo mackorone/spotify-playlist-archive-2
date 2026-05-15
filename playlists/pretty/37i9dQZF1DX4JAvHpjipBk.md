@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Charli xcx, 6LACK & Young Thug, Calvin Harris & Jazzy, MUNA, Madison Beer, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,565,292 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,565,013 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 30 | [ORIGAMI!](https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [ORIGAMI!](https://open.spotify.com/album/5k3UPN6pjUxuktIaTLV32J) | 2:34 |
 | 31 | [Una A La Vez](https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [OMERTA](https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY) | 2:32 |
 | 32 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
-| 33 | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
+| 33 | [GEEKIN](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
 | 34 | [Ya Dig](https://open.spotify.com/track/2A94GZ5pVHLPcZuhx8cMbm) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Ya Dig](https://open.spotify.com/album/5Yr7duqfOQ7PFqTYqb119j) | 2:53 |
 | 35 | [Big Dog](https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Big Dog](https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1) | 2:59 |
 | 36 | [FIYAH](https://open.spotify.com/track/1C5e6MyQXLY5npQiE1FRbl) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [FIYAH](https://open.spotify.com/album/2E1UGRJKwUyZxyn4Szf8mm) | 3:12 |

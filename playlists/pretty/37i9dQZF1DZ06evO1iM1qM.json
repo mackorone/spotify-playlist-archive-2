@@ -1,12 +1,12 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 221684,
+  "num_followers": 221702,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAAL1qwvLXtSoXkDg9+xmQ2j",
+  "snapshot_id": "agO/AAAAAADf+9+Qkc215yuty0ZO8U68",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coltrane [Rudy Van Gelder Remaster]",
+        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 375066,
+      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 329613,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/0Srs2sPdZTfFvvfLP4DGa0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coltrane [Rudy Van Gelder Remaster]",
-        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 375066,
-      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 297880,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 262946,
       "name": "Stevie",
       "url": "https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 297880,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "Take The Coltrane",
-      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mating Call [RVG Remaster]",
         "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
       },
@@ -875,8 +855,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Old Stockholm",
-        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "Take The Coltrane",
+      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 248933,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/7qIu3QtATGnJhQ9RyrDQHP"
+      "duration_ms": 550189,
+      "name": "Moment's Notice",
+      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dear Old Stockholm",
+        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 248933,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/7qIu3QtATGnJhQ9RyrDQHP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 267133,
       "name": "Big Nick",
       "url": "https://open.spotify.com/track/5PGnB8aUHVm6tvYRHy4i30"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 550189,
-      "name": "Moment's Notice",
-      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
     },
     {
       "added_at": null,

@@ -5766,7 +5766,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 123640,
       "name": "Got Me Good",
       "url": "https://open.spotify.com/track/7tp47Us7OJ0u2JaPnSCP5n"
@@ -7108,7 +7108,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 196535,
       "name": "I Got A Love Feeling",
       "url": "https://open.spotify.com/track/7n52wRgdwscjTt7sxbxP2G"
@@ -7222,6 +7222,28 @@
       "duration_ms": 225954,
       "name": "I Need You - Edit",
       "url": "https://open.spotify.com/track/4bzxy2xDy77HH5L1Y2UW1w"
+    },
+    {
+      "album": {
+        "name": "I Never Knew Love",
+        "url": "https://open.spotify.com/album/2W6jUKzIt8bZGsT7yicqVw"
+      },
+      "artists": [
+        {
+          "name": "Michel De Hey",
+          "url": "https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh"
+        },
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "I Never Knew Love",
+      "url": "https://open.spotify.com/track/3NS5U4aFcStjsgUraLr5rO"
     },
     {
       "album": {
@@ -12268,6 +12290,28 @@
       "duration_ms": 242545,
       "name": "RUSH (Blush)",
       "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
+    },
+    {
+      "album": {
+        "name": "Fuego LP",
+        "url": "https://open.spotify.com/album/0M0zqlR3a0ZmxkFs7NuE5K"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Safe To Say",
+      "url": "https://open.spotify.com/track/6zjP0YVZnncoPd4uUzACMv"
     },
     {
       "album": {

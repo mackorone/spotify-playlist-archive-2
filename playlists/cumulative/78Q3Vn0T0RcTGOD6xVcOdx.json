@@ -3551,6 +3551,28 @@
     },
     {
       "album": {
+        "name": "Onde di Luce",
+        "url": "https://open.spotify.com/album/5dnnc3ycjReH8Kwh1XFZk7"
+      },
+      "artists": [
+        {
+          "name": "PAUL PARKER",
+          "url": "https://open.spotify.com/artist/0P4buL4lc2m8KO8WD28XMa"
+        },
+        {
+          "name": "Deep7s",
+          "url": "https://open.spotify.com/artist/33QC3toB8CzjHU0QhbVLfl"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "Onde di Luce",
+      "url": "https://open.spotify.com/track/1Qlfkz30wwCeCgQ1XLBJZL"
+    },
+    {
+      "album": {
         "name": "Para volverte a ver",
         "url": "https://open.spotify.com/album/6xHhy8egyGlxZV8YlNNZcU"
       },

@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 181466,
       "name": "Carolina Herrera (feat. VilleGalle)",
       "url": "https://open.spotify.com/track/5mBwJ2eCKsY4iCk7W7Jbln"
@@ -3458,6 +3458,24 @@
       "duration_ms": 167720,
       "name": "Hei kuski (feat. Elias Gould)",
       "url": "https://open.spotify.com/track/4KBaamH6sQDzO71LxFHXLJ"
+    },
+    {
+      "album": {
+        "name": "SUOMI SOIMAAN",
+        "url": "https://open.spotify.com/album/6S7ManFfpG2utmKFgyyDtK"
+      },
+      "artists": [
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218651,
+      "name": "Helmi",
+      "url": "https://open.spotify.com/track/61dybiXP0dqHsqNdoPkMfy"
     },
     {
       "album": {
@@ -7519,6 +7537,24 @@
     },
     {
       "album": {
+        "name": "Leikkikaluj\u00e4ppinen",
+        "url": "https://open.spotify.com/album/4F1rj2WqRJshM9CUCO9mjy"
+      },
+      "artists": [
+        {
+          "name": "Raptori",
+          "url": "https://open.spotify.com/artist/2borB1YWJN6giuvN920B1X"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167181,
+      "name": "Leikkikaluj\u00e4ppinen",
+      "url": "https://open.spotify.com/track/11wL65OTqXItpHjFJHcaXX"
+    },
+    {
+      "album": {
         "name": "ORIGO",
         "url": "https://open.spotify.com/album/7bH5zo9yUlF6TXk8SpfxPt"
       },
@@ -10836,7 +10872,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 221912,
       "name": "Onnellinen 2.0",
       "url": "https://open.spotify.com/track/4I449JXcbtG29y76wlyb8i"
@@ -10858,6 +10894,24 @@
       "duration_ms": 156826,
       "name": "Onnellisii osumii",
       "url": "https://open.spotify.com/track/6rPIEhlRmhsSr9yTQSmWr5"
+    },
+    {
+      "album": {
+        "name": "Oo mun kaa",
+        "url": "https://open.spotify.com/album/2TFvaZPo2eCKlHpE3q4LHX"
+      },
+      "artists": [
+        {
+          "name": "Maija Vilkkumaa",
+          "url": "https://open.spotify.com/artist/4LhCodjo3UFI0Bu0ZYuOP5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221893,
+      "name": "Oo mun kaa",
+      "url": "https://open.spotify.com/track/0gUeH4lixEwsW1iNWER5Fo"
     },
     {
       "album": {
@@ -12062,7 +12116,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187520,
       "name": "Pokaali",
       "url": "https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR"
@@ -15582,7 +15636,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 159255,
       "name": "Teatterii",
       "url": "https://open.spotify.com/track/7unJcils43dvDrUjadoyI5"
@@ -16118,6 +16172,28 @@
       "duration_ms": 180878,
       "name": "Tuhat turhaa tarinaa",
       "url": "https://open.spotify.com/track/7nwyLGiHYB8AcNE0T7KNnU"
+    },
+    {
+      "album": {
+        "name": "Tuhlaajapoika",
+        "url": "https://open.spotify.com/album/4nAarP84OVUVhGCLbUU70H"
+      },
+      "artists": [
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        },
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198364,
+      "name": "Tuhlaajapoika",
+      "url": "https://open.spotify.com/track/2ASg9yzBPTLR63886IOzTp"
     },
     {
       "album": {

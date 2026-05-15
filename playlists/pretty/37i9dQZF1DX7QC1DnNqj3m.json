@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 727561,
+  "num_followers": 727537,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Just As Long As We're Together",
-        "url": "https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 194992,
-      "name": "Just As Long As We're Together",
-      "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Silk & Soul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 188613,
       "name": "I Wish I Knew How It Would Feel to Be Free",
       "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Just As Long As We're Together",
+        "url": "https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 194992,
+      "name": "Just As Long As We're Together",
+      "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "2 Much",
         "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Keep Coming Back To You",
-        "url": "https://open.spotify.com/album/6P2HiyDapzinr2gRhN5RXT"
-      },
-      "artists": [
-        {
-          "name": "Vicky Sometani",
-          "url": "https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt"
-        }
-      ],
-      "duration_ms": 209858,
-      "name": "Keep Coming Back To You",
-      "url": "https://open.spotify.com/track/55uA56TpLi1Xu0OBb95RTN"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 293428,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Keep Coming Back To You",
+        "url": "https://open.spotify.com/album/6P2HiyDapzinr2gRhN5RXT"
+      },
+      "artists": [
+        {
+          "name": "Vicky Sometani",
+          "url": "https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt"
+        }
+      ],
+      "duration_ms": 209858,
+      "name": "Keep Coming Back To You",
+      "url": "https://open.spotify.com/track/55uA56TpLi1Xu0OBb95RTN"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "Inside Friend (feat. John Mayer)",
         "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 175432,
       "name": "Inside Friend (feat. John Mayer)",
       "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Friends & Family",
-        "url": "https://open.spotify.com/album/1nUIe59HS9voX4GS2W77tX"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "The Only Way",
-      "url": "https://open.spotify.com/track/1V9GYXroUEuxUXYAzNkysN"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Sun Is Gone",
         "url": "https://open.spotify.com/album/1khO1egdgcjU26efaTHLb0"
       },
@@ -1099,22 +1083,18 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+        "name": "Friends & Family",
+        "url": "https://open.spotify.com/album/1nUIe59HS9voX4GS2W77tX"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
-      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
+      "duration_ms": 148093,
+      "name": "The Only Way",
+      "url": "https://open.spotify.com/track/1V9GYXroUEuxUXYAzNkysN"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1147,6 +1127,26 @@
       "duration_ms": 236933,
       "name": "June's Cry",
       "url": "https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Find My Love",
-        "url": "https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Find My Love",
-      "url": "https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Ten Cane Row (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Find My Love",
+        "url": "https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "Find My Love",
+      "url": "https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l"
     },
     {
       "added_at": "2026-04-16 23:00:42",

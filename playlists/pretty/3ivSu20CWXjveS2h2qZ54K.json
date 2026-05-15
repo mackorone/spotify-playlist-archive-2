@@ -6,8 +6,72 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADdKYdndCtT/tRWPCdOjdEMQYVo7o5z",
+  "snapshot_id": "AADdLVvlyjUbrD/aN8cTKqOBB32PG1pE",
   "tracks": [
+    {
+      "added_at": "2026-05-14 09:09:26",
+      "album": {
+        "name": "Falling out of Love",
+        "url": "https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 381293,
+      "name": "Falling out of Love",
+      "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
+    },
+    {
+      "added_at": "2026-05-14 09:08:42",
+      "album": {
+        "name": "I\u2019m your girl right?",
+        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 169059,
+      "name": "I\u2019m your girl right?",
+      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
+    },
+    {
+      "added_at": "2026-05-14 09:08:56",
+      "album": {
+        "name": "Paradise Rains",
+        "url": "https://open.spotify.com/album/742WS1Ecgg9LxeyXL3GgB2"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Paradise Rains",
+      "url": "https://open.spotify.com/track/5YpQawQeItMDR1IBBIEzlG"
+    },
+    {
+      "added_at": "2026-05-14 09:09:10",
+      "album": {
+        "name": "Charlie Sheen Reaches Out to the Feds",
+        "url": "https://open.spotify.com/album/6et2Do8DrMA0iEPgibSiq6"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 192332,
+      "name": "Charlie Sheen Reaches Out to the Feds",
+      "url": "https://open.spotify.com/track/4Nx6uVBaesj4bx1tGCWeAz"
+    },
     {
       "added_at": "2026-05-08 04:01:32",
       "album": {
@@ -1071,7 +1135,7 @@
     {
       "added_at": "2026-05-08 03:45:37",
       "album": {
-        "name": "GEEKIN (feat. Lil Yachty)",
+        "name": "GEEKIN",
         "url": "https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG"
       },
       "artists": [
@@ -1085,7 +1149,7 @@
         }
       ],
       "duration_ms": 152533,
-      "name": "GEEKIN (feat. Lil Yachty)",
+      "name": "GEEKIN",
       "url": "https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q"
     },
     {

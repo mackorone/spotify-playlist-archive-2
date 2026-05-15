@@ -4,7 +4,7 @@
 
 > The hottest tracks in Ghana\. Cover: Black Sherif
 
-442 songs - 22 hr 22 min
+443 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,7 @@
 | [Terminator \- Remix](https://open.spotify.com/track/10AIyGWEbCddWbxHzRm9pJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Terminator \(Remix\)](https://open.spotify.com/album/2ke3G6HBIqidv4jrcZh2gN) | 3:31 | 2023-12-08 | 2024-01-13 |
 | [Tested, Approved & Trusted](https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 3:40 | 2023-11-13 | 2024-03-01 |
 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 | 2026-02-06 | 2026-02-13 |
-| [The Matter](https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [The Matter](https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp) | 3:01 | 2025-09-22 |  |
+| [The Matter](https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [The Matter](https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp) | 3:01 | 2025-09-22 | 2026-05-15 |
 | [The Victory Song](https://open.spotify.com/track/3C5s6DTIhYRmCzgm8yfJlm) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:55 | 2025-08-25 | 2025-09-23 |
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-05-05 | 2023-05-27 |
 | [Till It's Done](https://open.spotify.com/track/6cb3jTr1QzN9dEmSkwMtdL) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [CHRONICLES \(The First Supper\)](https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ) | 2:41 | 2025-05-12 | 2025-07-18 |
@@ -445,6 +445,7 @@
 | [YAYA](https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 3:13 | 2023-08-10 | 2024-05-15 |
 | [YESU](https://open.spotify.com/track/3yt7iYLEWEAF2DR98QYeOU) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [YESU](https://open.spotify.com/album/4rvlg1bc9BpOw7Coj5mLyy) | 3:21 | 2024-08-29 | 2025-03-15 |
 | [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 | 2025-08-25 |  |
+| [Yire \(Fanfooler\)](https://open.spotify.com/track/1390ovzn0DCki8MOIUJ185) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [TORCHER II](https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD) | 2:30 | 2026-05-15 |  |
 | [You Dey Feel The Vibe \(Live\)](https://open.spotify.com/track/3jDxl1SAnCCZ6TIod7uD7n) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [You Dey Feel The Vibe \(Live\)](https://open.spotify.com/album/3MdmMxsZPo4hSM0XvOx6PN) | 5:03 | 2023-07-07 | 2023-09-22 |
 | [YOUR BODY](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [YOUR BODY](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-10-01 |
 | [Your Ghost](https://open.spotify.com/track/4jWDJjKkwzMDjou8X7V0Ml) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Your Ghost / Ayekoo](https://open.spotify.com/album/6OwmHKMoOpPX9N8l35xX3B) | 2:42 | 2025-05-30 | 2025-06-10 |

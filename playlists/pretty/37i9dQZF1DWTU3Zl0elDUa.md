@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Crystal Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,421 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,761 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 54 | [Let's Get Brutal \- Brutal House](https://open.spotify.com/track/5mOn7oJdEBmG43elhWGfXo) | [Nitro Deluxe](https://open.spotify.com/artist/6KcNmchIyvo5TqzjfJtwYR) | [Let's Get Brutal](https://open.spotify.com/album/0EvnsXix5UTUJH8lXHAgdI) | 7:11 |
 | 55 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 |
 | 56 | [Love Come Down \- Club Vocal Mix](https://open.spotify.com/track/3U6w4KTpZm7jhqmGJEzRW5) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 8:36 |
-| 57 | [Pick Up The Phone](https://open.spotify.com/track/2uvFIGn79RLOHP1MeXI1Tr) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 4:30 |
-| 58 | [Move Your Body \(The House Music Anthem\) \- Remaster \[feat\. Curtis McClain\]](https://open.spotify.com/track/6hG8qz5Tc6syPSQMG5wRsR) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Curtis McClain](https://open.spotify.com/artist/0Ik99Pnfq97cEn0ScUrczM) | [Move Your Body \(The House Music Anthem\) \- Remaster \[feat\. Curtis McClain\]](https://open.spotify.com/album/7KlYBYVRKAzjQA5lZHZ3r1) | 4:52 |
+| 57 | [Move Your Body \(The House Music Anthem\) \- Remaster \[feat\. Curtis McClain\]](https://open.spotify.com/track/6hG8qz5Tc6syPSQMG5wRsR) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Curtis McClain](https://open.spotify.com/artist/0Ik99Pnfq97cEn0ScUrczM) | [Move Your Body \(The House Music Anthem\) \- Remaster \[feat\. Curtis McClain\]](https://open.spotify.com/album/7KlYBYVRKAzjQA5lZHZ3r1) | 4:52 |
+| 58 | [Pick Up The Phone](https://open.spotify.com/track/2uvFIGn79RLOHP1MeXI1Tr) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 4:30 |
 | 59 | [Was That All It Was \- Def Mix Edit 2](https://open.spotify.com/track/0dPA0IEjHKMKDlHTS4tY9g) | [Kym Mazelle](https://open.spotify.com/artist/7CgweQAq49HmeMQaxzyuXC) | [Brilliant!!](https://open.spotify.com/album/16GqsaJujQk5DxtPVh8NWh) | 5:39 |
 | 60 | [Trouble](https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs) | [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ) | [The World is Full of Trouble](https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn) | 7:26 |
 

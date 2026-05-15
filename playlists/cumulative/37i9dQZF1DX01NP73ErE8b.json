@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Serena Brancale, Levante e Delia in cover",
+  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Bresh in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -658,10 +658,28 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 170528,
       "name": "Amore Mio",
       "url": "https://open.spotify.com/track/7BeDxg0gxPargyAeyXiyfr"
+    },
+    {
+      "album": {
+        "name": "Amore \u00e8",
+        "url": "https://open.spotify.com/album/5BD5b6K0dU8xJjYI5jpsBX"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192083,
+      "name": "Amore \u00e8",
+      "url": "https://open.spotify.com/track/0XW2hU83XoLGKppz03cLL5"
     },
     {
       "album": {
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 137575,
       "name": "Bene (da sola)",
       "url": "https://open.spotify.com/track/5NPY05T2iSHZpGnK5f6tmS"
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 194516,
       "name": "Bottiglie Vuote (feat. Max Pezzali)",
       "url": "https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF"
@@ -1600,6 +1618,24 @@
       "duration_ms": 187254,
       "name": "BUONA DOMENICA",
       "url": "https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty"
+    },
+    {
+      "album": {
+        "name": "Cabana",
+        "url": "https://open.spotify.com/album/6jZqXuGjnCopndMocQFEcm"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167166,
+      "name": "Cabana",
+      "url": "https://open.spotify.com/track/0mky62869TYpIcvQ9NmOtY"
     },
     {
       "album": {
@@ -1850,6 +1886,32 @@
       "duration_ms": 185597,
       "name": "Casomai",
       "url": "https://open.spotify.com/track/2Yo5lsdqZunwJxkLI0mxIt"
+    },
+    {
+      "album": {
+        "name": "Cattive Abitudini \ud807\udfe0 (con Salmo, Colapesce)",
+        "url": "https://open.spotify.com/album/4lVmEfiWW67IleqyUBsYyQ"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Colapesce",
+          "url": "https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201391,
+      "name": "Cattive Abitudini \ud807\udfe0 (con Salmo, Colapesce)",
+      "url": "https://open.spotify.com/track/7DE2ngDnQgLQM43PeKrAoG"
     },
     {
       "album": {
@@ -2491,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Da Dio",
+        "url": "https://open.spotify.com/album/1XjzMjgg0ktZSGrUv3j1bs"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173415,
+      "name": "Da Dio",
+      "url": "https://open.spotify.com/track/7pzx95tPu1njhmM6IoR6Al"
+    },
+    {
+      "album": {
         "name": "DOPAMINA",
         "url": "https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD"
       },
@@ -2922,7 +3002,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 164413,
       "name": "Dopamina Gourmet",
       "url": "https://open.spotify.com/track/1Zk9msK1cyOBkkfPsw2XUR"
@@ -3908,6 +3988,24 @@
       "duration_ms": 219660,
       "name": "Galassie",
       "url": "https://open.spotify.com/track/2RVy5hchm7GxsGzXO6haOv"
+    },
+    {
+      "album": {
+        "name": "Gatti",
+        "url": "https://open.spotify.com/album/0nbeL6zELxhyONSkTosGqA"
+      },
+      "artists": [
+        {
+          "name": "Rare\u0219",
+          "url": "https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178650,
+      "name": "Gatti",
+      "url": "https://open.spotify.com/track/7HdVSBG6fqXYyEbizxIQwJ"
     },
     {
       "album": {
@@ -7440,7 +7538,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 191600,
       "name": "Oh, Maria!",
       "url": "https://open.spotify.com/track/76AUGMgXgac6mPBF2gvjlb"
@@ -7564,6 +7662,28 @@
       "duration_ms": 188231,
       "name": "PARADOSSALE",
       "url": "https://open.spotify.com/track/1E3bg4sPGZzyK4qatexweB"
+    },
+    {
+      "album": {
+        "name": "CATALINA",
+        "url": "https://open.spotify.com/album/7fqG8FHvN56MVDBZy08u1F"
+      },
+      "artists": [
+        {
+          "name": "Cate Lumina",
+          "url": "https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf"
+        },
+        {
+          "name": "PRACI",
+          "url": "https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "Para\u00edso (feat. PRACI)",
+      "url": "https://open.spotify.com/track/3oFDugsZh7LccP3xzhOvYe"
     },
     {
       "album": {
@@ -8306,7 +8426,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 188726,
       "name": "Prima o poi",
       "url": "https://open.spotify.com/track/4j88Y86NDJvbioBEZTxQeO"
@@ -8436,7 +8556,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 161432,
       "name": "Qualcosa di grande",
       "url": "https://open.spotify.com/track/7LHCJnWkQgmHGUhQyZeoW5"
@@ -9867,6 +9987,24 @@
     },
     {
       "album": {
+        "name": "Sorry Scusa Lo Siento",
+        "url": "https://open.spotify.com/album/6fsms67vLncXwehxDegR5I"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200134,
+      "name": "Sorry Scusa Lo Siento",
+      "url": "https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr"
+    },
+    {
+      "album": {
         "name": "SOTTO SOTTO",
         "url": "https://open.spotify.com/album/2LO0HmFLFdEakEAJMOa0hU"
       },
@@ -10936,7 +11074,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 158992,
       "name": "Umore marea",
       "url": "https://open.spotify.com/track/2PhXWpXhWg61SdUO44FIUk"
@@ -11606,6 +11744,28 @@
       "duration_ms": 142051,
       "name": "X Te",
       "url": "https://open.spotify.com/track/7erp5QvErykwQ9QHCZTvJz"
+    },
+    {
+      "album": {
+        "name": "SONO UN GRANDE",
+        "url": "https://open.spotify.com/album/3Lp0Pv6BZDcPgiBKjPi0Az"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "XXDONO (feat. Lazza)",
+      "url": "https://open.spotify.com/track/1vkDKchOzwZM4rXsJTdtGs"
     },
     {
       "album": {

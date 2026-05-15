@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-467 songs - 23 hr 29 min
+468 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Won't Forget This Time ft\. John Martin](https://open.spotify.com/track/5q8Z8P353nbfsiXz4Jdho9) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Won't Forget This Time ft\. John Martin](https://open.spotify.com/album/1WzD4wAhcuqIFBMZSDVoH9) | 3:21 | 2023-08-04 | 2023-09-02 |
 | [Won´t Let Go \- Festival Mix](https://open.spotify.com/track/4lqqB48xuVR3MXRM3PjUor) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Neyra](https://open.spotify.com/artist/2kUa88shQOFvgtjsNN0GWg) | [Won’t Let Go \(Festival Mix\)](https://open.spotify.com/album/0Lk4f8V7oT0f8ZEgOG4W6S) | 2:43 | 2024-03-01 | 2024-06-22 |
 | [World Comes Undone](https://open.spotify.com/track/7FkHbXxJoX6vx5M69wZLFh) | [STARLYTE](https://open.spotify.com/artist/32UL2dRIFoeUL3ViLatNGv) | [For The Love Of Progressive EP](https://open.spotify.com/album/69WyFAqNqj4nK0wjq5wmqs) | 3:32 | 2024-06-20 |  |
+| [Yesterday](https://open.spotify.com/track/4PM5otDH7pMuVn33kph35B) | [Joey Dale](https://open.spotify.com/artist/3QjbhhPrW6clls3VPRGkXu) | [Yesterday](https://open.spotify.com/album/5sBh2Aa30g4T3TfraUPpoW) | 3:46 | 2026-05-14 |  |
 | [You Protect Me](https://open.spotify.com/track/7bUn12J9UiiA5t8bh1O4ci) | [Lee Roy Mon'do](https://open.spotify.com/artist/4Wxrposn6r7Yi6EJAh8Nwc) | [You Protect Me](https://open.spotify.com/album/7LBSAJMn87qjqjF8eoima4) | 3:21 | 2024-11-15 | 2025-02-01 |
 | [You're Still Home](https://open.spotify.com/track/1ihSGolsCvQ85xIlUWINoP) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Larce](https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [You're Still Home](https://open.spotify.com/album/2d4kzj2WTwsHiTyLddvh5e) | 2:42 | 2022-12-01 | 2023-08-11 |
 | [You're Still Home \- Blackcode Remode](https://open.spotify.com/track/2bHcXgMCCTxXVHteDvQCF6) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Larce](https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [You're Still Home](https://open.spotify.com/album/2d4kzj2WTwsHiTyLddvh5e) | 2:26 | 2022-12-01 | 2025-08-26 |

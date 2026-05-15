@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Mine (In Love with You)",
+        "url": "https://open.spotify.com/album/6lDFKeWnoT7BuQBEphyrTD"
+      },
+      "artists": [
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "Mine (In Love with You)",
+      "url": "https://open.spotify.com/track/5DoBQPUPzyMa6GX8W4JUPo"
+    },
+    {
+      "album": {
         "name": "Backstreets",
         "url": "https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0"
       },

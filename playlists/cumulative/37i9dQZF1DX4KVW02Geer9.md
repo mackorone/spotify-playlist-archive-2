@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: aron! Mei Semones
 
-556 songs - 1 day 15 hr 48 min
+559 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Lion](https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:57 | 2025-06-05 | 2025-08-01 |
 | [Lithium](https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Lithium](https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f) | 3:58 | 2026-05-01 |  |
 | [Little Ghost \- feat.Ayana](https://open.spotify.com/track/5lRvtSHfQtZAc7Z3sCVVs4) | [Takeshi Kurihara](https://open.spotify.com/artist/6FUT8hb16X6z0LD0HUeEyK), [彩菜](https://open.spotify.com/artist/7i4sDrUnoJZK5brWXdx0HS) | [Little Ghost \(feat.Ayana\)](https://open.spotify.com/album/2l2zImOdGQ77OqhqrPVLc2) | 7:17 | 2024-07-18 | 2024-11-08 |
+| [Liyoze Line Nangakithi](https://open.spotify.com/track/5q7fC6mCFVUr6FWg3w8dhx) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Liyoze Line Nangakithi](https://open.spotify.com/album/4INvgaGXRdna2ganfmKpDW) | 4:26 | 2026-05-14 |  |
 | [looping second](https://open.spotify.com/track/0m3dCqF4PD3t2cu3Wl3bgb) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [Spira1oop](https://open.spotify.com/album/5vFrH1kauZ2tb0dKt81lDx) | 4:48 | 2025-11-27 |  |
 | [Lost Souls](https://open.spotify.com/track/0MaSu2qUbdaP52OsRCKPyK) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Lost Souls](https://open.spotify.com/album/2JVOuF5RUd94hA6g1rYFyY) | 4:42 | 2025-08-14 | 2025-11-07 |
 | [Love Theme from Spartacus](https://open.spotify.com/track/57vCXyHbCxi4iIozQdepuy) | [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [Love Theme from Spartacus](https://open.spotify.com/album/6hP7lyRCB4janjkcSguJfv) | 2:59 | 2025-05-30 | 2025-09-12 |
@@ -481,6 +482,7 @@
 | [Tokyo Daydream](https://open.spotify.com/track/6WLnZc1eXIoGy6VOzkEV3l) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Taali](https://open.spotify.com/artist/5SkhihNXZNPmooUcbSVZho) | [1978: Revenge of The Dragon](https://open.spotify.com/album/485R0lCUZRApYWXnH2PAeh) | 3:48 | 2025-05-15 | 2025-08-01 |
 | [Tokyo Lift \(5am\)](https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Tokyo Lift \(5am\)](https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE) | 2:24 | 2025-03-13 | 2025-06-27 |
 | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/track/0hFgollnKwPJjFod8ouqof) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Gaku Kano](https://open.spotify.com/artist/6pV6yUKdqnxwwKpqSu6AXM) | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/album/03b1xvc1fNSbThzeQJvsfJ) | 3:54 | 2026-01-15 |  |
+| [Track 7](https://open.spotify.com/track/6LeXODbhlorIYhCnoxWT6Y) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 0:00 | 2026-05-14 |  |
 | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF) | 5:41 | 2026-01-15 | 2026-04-03 |
 | [Transient Line](https://open.spotify.com/track/4ekwaV3DkhZOWafEoKWUUZ) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [Transient Line](https://open.spotify.com/album/4eOsTT2FgzuTRqCJLqXDbH) | 4:13 | 2025-07-03 | 2025-09-26 |
 | [Transporter](https://open.spotify.com/track/0mQo8pALF313P3mtXFQj1T) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Leif Maine](https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Transformations](https://open.spotify.com/album/3pGVHliOsYNnjjQLjZaClb) | 2:27 | 2025-06-19 | 2025-08-01 |
@@ -530,6 +532,7 @@
 | [Who is "LH"?](https://open.spotify.com/track/6LzMDXrQThX499lfG5ZMU9) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN) | [Who is “LAGHEADS”?](https://open.spotify.com/album/52iASbVYgjcsSasw8D0KZY) | 1:28 | 2025-03-13 | 2025-05-02 |
 | [Wichita Lineman \(feat\. Nick Cave\)](https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j), [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 4:22 | 2026-03-26 |  |
 | [Wicked Kingdom Of This Earth](https://open.spotify.com/track/0740lESvnSA36vmcHyejTB) | [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW), [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ), [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH) | [Barbican Heights](https://open.spotify.com/album/7azZ1q1eFyw039P2iko2uX) | 5:20 | 2025-11-27 | 2026-02-28 |
+| [Window To The Soul](https://open.spotify.com/track/7wNqcryc6nxY7fXKm9Y6cr) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Window To The Soul](https://open.spotify.com/album/1ng7DPYpbK1yhjGqL5oTcW) | 4:56 | 2026-05-14 |  |
 | [Wires \(Lazarus Version\)](https://open.spotify.com/track/4Wjhmh0mRCKDSBCMcIyWut) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/6FxiYTl0Ht63ZdtgtjLIGg) | 4:33 | 2025-04-13 | 2025-06-20 |
 | [Within Me](https://open.spotify.com/track/7H0KBslgob52P0haWSUoFL) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Within Me](https://open.spotify.com/album/4Q6bfiZbfA7fnuURrTZbKd) | 3:09 | 2025-09-25 |  |
 | [Woman “Wの悲劇”より](https://open.spotify.com/track/2LekJIHMXmm2PEZ0sPfFfj) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Woman “Wの悲劇”より](https://open.spotify.com/album/6pdNJgvPa8LfnZXD8giqfx) | 3:53 | 2025-11-20 | 2026-02-28 |

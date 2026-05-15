@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3gEzVb.md) - [plain]
 
 > This is Daddy Lumba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,747 likes - 49 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,749 likes - 49 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,17 +45,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3gEzVb.md) - [plain]
 | 35 | [Adepa Hye Adepa Mu](https://open.spotify.com/track/5ds48ZOnVldBlcUudozuaF) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 4:08 |
 | 36 | [Sɛsee Wo Se](https://open.spotify.com/track/3bm3TifQ8suct6OfRd0lJM) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Sesee Wo Se](https://open.spotify.com/album/3OXL5uXWzMUyayoGZKkeBM) | 6:26 |
 | 37 | [Bla Bla Bla](https://open.spotify.com/track/0Tii7GjTjBIf8e4cRllMy3) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Ma To Odo Mu](https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9) | 5:39 |
-| 38 | [Eye Onoa](https://open.spotify.com/track/20gvKF0b1OWTG2IPcygA9h) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Back for Good](https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX) | 4:29 |
-| 39 | [Ahenfo Kyiniye](https://open.spotify.com/track/2I56btX31wtV1gSAvZJXXl) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy) | [Ahenfo Kyiniye](https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7) | 6:09 |
-| 40 | [Tokrom](https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 6:24 |
-| 41 | [Fakye](https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:08 |
-| 42 | [Yee Ye Aka Akwantuom](https://open.spotify.com/track/5GuGQomjgvLo9gIM8ZWP40) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Nana Acheampong](https://open.spotify.com/artist/4cXlKyzDbtIT2IXX4zcHN1) | [Yee Ye Aka Akwantuom](https://open.spotify.com/album/5B9l9CRF3kEvH2kQ8qySLP) | 10:11 |
+| 38 | [Ahenfo Kyiniye](https://open.spotify.com/track/2I56btX31wtV1gSAvZJXXl) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy) | [Ahenfo Kyiniye](https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7) | 6:09 |
+| 39 | [Eye Onoa](https://open.spotify.com/track/20gvKF0b1OWTG2IPcygA9h) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Back for Good](https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX) | 4:29 |
+| 40 | [Yee Ye Aka Akwantuom](https://open.spotify.com/track/5GuGQomjgvLo9gIM8ZWP40) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Nana Acheampong](https://open.spotify.com/artist/4cXlKyzDbtIT2IXX4zcHN1) | [Yee Ye Aka Akwantuom](https://open.spotify.com/album/5B9l9CRF3kEvH2kQ8qySLP) | 10:11 |
+| 41 | [Tokrom](https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 6:24 |
+| 42 | [Hye Woho Den](https://open.spotify.com/track/5cZx8lSVEsibdjbsy5iUFM) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 6:23 |
 | 43 | [Gyabi Wu a Gyabi Te Ase](https://open.spotify.com/track/6TRfndi3AmlRhkU3k5jsXG) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy) | [Ahenfo Kyiniye](https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7) | 4:25 |
-| 44 | [Obi Ate Meso Buo \- Remix](https://open.spotify.com/track/3uU0P0jAUXXYJnooi4lItE) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Okyeame Kwame](https://open.spotify.com/artist/03PFnT5fu6TcuZMu1ZBvz4), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 9:54 |
-| 45 | [Hye Woho Den](https://open.spotify.com/track/5cZx8lSVEsibdjbsy5iUFM) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 6:23 |
-| 46 | [Mennye Den Koraa](https://open.spotify.com/track/4WrMvahsiLv2CHmt0Ggg1J) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Back for Good](https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX) | 5:00 |
-| 47 | [Tasso Eburo](https://open.spotify.com/track/2w9m5atgMBLlbFbzJwmtSo) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 5:47 |
-| 48 | [Nyame Nhyira Mmaa](https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:30 |
-| 49 | [Back For Good](https://open.spotify.com/track/5MyI2UKJhYFJsWMjjjUuuk) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Back for Good](https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX) | 5:55 |
+| 44 | [Mennye Den Koraa](https://open.spotify.com/track/4WrMvahsiLv2CHmt0Ggg1J) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Back for Good](https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX) | 5:00 |
+| 45 | [Obi Ate Meso Buo \- Remix](https://open.spotify.com/track/3uU0P0jAUXXYJnooi4lItE) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Okyeame Kwame](https://open.spotify.com/artist/03PFnT5fu6TcuZMu1ZBvz4), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 9:54 |
+| 46 | [Fakye](https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:08 |
+| 47 | [Back For Good](https://open.spotify.com/track/5MyI2UKJhYFJsWMjjjUuuk) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Back for Good](https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX) | 5:55 |
+| 48 | [Tasso Eburo](https://open.spotify.com/track/2w9m5atgMBLlbFbzJwmtSo) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 5:47 |
+| 49 | [Nyame Nhyira Mmaa](https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:30 |
 
-Snapshot ID: `agJtgAAAAAD2hbuaG9i+hnD7O6xcbAEm`
+Snapshot ID: `agO/AAAAAABH72niGrY1WwEHFvPz02ip`

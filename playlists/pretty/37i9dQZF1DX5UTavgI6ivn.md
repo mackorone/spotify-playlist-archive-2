@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: J Balvin y Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,529 likes - 54 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,543 likes - 54 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

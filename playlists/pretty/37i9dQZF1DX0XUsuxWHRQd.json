@@ -1,12 +1,12 @@
 {
   "description": "New music from Key Glock, DJ Khaled and Don Toliver.",
-  "num_followers": 15737356,
+  "num_followers": 15736189,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO90jbXH/3qFz6lWY/B62FwmQTgI",
+  "snapshot_id": "AAAAAL0SDIBjmAFaiprqxxmb+BhAOzBm",
   "tracks": [
     {
       "added_at": "2026-05-09 21:16:31",
@@ -173,6 +173,26 @@
       "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
     },
     {
+      "added_at": "2026-05-14 04:00:04",
+      "album": {
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 253386,
+      "name": "She",
+      "url": "https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"
+    },
+    {
       "added_at": "2026-05-09 21:16:31",
       "album": {
         "name": "6WA",
@@ -203,7 +223,7 @@
     {
       "added_at": "2026-05-09 21:16:31",
       "album": {
-        "name": "GEEKIN (feat. Lil Yachty)",
+        "name": "GEEKIN",
         "url": "https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG"
       },
       "artists": [
@@ -217,7 +237,7 @@
         }
       ],
       "duration_ms": 152533,
-      "name": "GEEKIN (feat. Lil Yachty)",
+      "name": "GEEKIN",
       "url": "https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q"
     },
     {

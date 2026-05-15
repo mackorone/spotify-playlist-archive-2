@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 203032,
+  "num_followers": 203072,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACkX2ZIHoJ7pxSz6D3ng8u9",
+  "snapshot_id": "agO/AAAAAAD8CSLYKrWrr9VR7s7MYc6Y",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shine Again",
-        "url": "https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 245564,
-      "name": "Shine Again",
-      "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
       },
@@ -303,6 +287,26 @@
       "duration_ms": 254333,
       "name": "Perfect Situation",
       "url": "https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All My Favorite Songs (feat. AJR)",
+        "url": "https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "All My Favorite Songs (feat. AJR)",
+      "url": "https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7"
     },
     {
       "added_at": null,
@@ -339,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Favorite Songs (feat. AJR)",
-        "url": "https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H"
+        "name": "Shine Again",
+        "url": "https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153"
       },
       "artists": [
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
         }
       ],
-      "duration_ms": 170720,
-      "name": "All My Favorite Songs (feat. AJR)",
-      "url": "https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7"
+      "duration_ms": 245564,
+      "name": "Shine Again",
+      "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "Ain't Got Nobody",
-      "url": "https://open.spotify.com/track/1dTschRbSqaIDXBQDfVQS2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pinkerton - Deluxe Edition",
         "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 251160,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/3ovTVlWIAzB1XGG8dWPtFl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Ain't Got Nobody",
+      "url": "https://open.spotify.com/track/1dTschRbSqaIDXBQDfVQS2"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+        "name": "A Little Bit of Love",
+        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 204973,
-      "name": "Eulogy For A Rock Band",
-      "url": "https://open.spotify.com/track/1gIMETJ85nrrvmqUgkpLXt"
+      "duration_ms": 164359,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
     }
   ],
   "unique_name": "This Is Weezer",

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 101193,
+  "num_followers": 101212,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "HoneyComb",
         "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 139752,
       "name": "HoneyComb",
       "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Way Too Nice",
+        "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
+      },
+      "artists": [
+        {
+          "name": "Eyo-E",
+          "url": "https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB"
+        }
+      ],
+      "duration_ms": 125600,
+      "name": "Way Too Nice",
+      "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Manyen'l",
         "url": "https://open.spotify.com/album/43hG4RyRcCWC9JTY0teMzu"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 209777,
       "name": "Manyen'l",
       "url": "https://open.spotify.com/track/2avp7IL8rkllPcyRcnCJPY"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Way Too Nice",
-        "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
-      },
-      "artists": [
-        {
-          "name": "Eyo-E",
-          "url": "https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB"
-        }
-      ],
-      "duration_ms": 125600,
-      "name": "Way Too Nice",
-      "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1571,42 +1571,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "PA KRIYE",
-        "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
-      },
-      "artists": [
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        },
-        {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "PA KRIYE",
-      "url": "https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Souvni",
-        "url": "https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv"
-      },
-      "artists": [
-        {
-          "name": "Fatima Altieri",
-          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
-        }
-      ],
-      "duration_ms": 210410,
-      "name": "Souvni",
-      "url": "https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1635,6 +1599,42 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Souvni",
+        "url": "https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv"
+      },
+      "artists": [
+        {
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
+        }
+      ],
+      "duration_ms": 210410,
+      "name": "Souvni",
+      "url": "https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "PA KRIYE",
+        "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
+      },
+      "artists": [
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "PA KRIYE",
+      "url": "https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1807,6 +1807,30 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Koup\u00e9",
+        "url": "https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI"
+      },
+      "artists": [
+        {
+          "name": "Bilix",
+          "url": "https://open.spotify.com/artist/2t3MOHUqpgzXfxRugdaXSY"
+        },
+        {
+          "name": "Blackboy",
+          "url": "https://open.spotify.com/artist/41rmcjpuoB63va3wJtJ5sV"
+        },
+        {
+          "name": "Jay Brixxx",
+          "url": "https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv"
+        }
+      ],
+      "duration_ms": 155637,
+      "name": "Koup\u00e9",
+      "url": "https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Fete Nap Fete Ti Babas (Live)",
         "url": "https://open.spotify.com/album/4NxnJQPNAXRHl72HFIyNml"
       },
@@ -1839,30 +1863,6 @@
       "duration_ms": 148650,
       "name": "DILEMMA",
       "url": "https://open.spotify.com/track/66hJl21lRutbfOCcELoS1R"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Koup\u00e9",
-        "url": "https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI"
-      },
-      "artists": [
-        {
-          "name": "Bilix",
-          "url": "https://open.spotify.com/artist/2t3MOHUqpgzXfxRugdaXSY"
-        },
-        {
-          "name": "Blackboy",
-          "url": "https://open.spotify.com/artist/41rmcjpuoB63va3wJtJ5sV"
-        },
-        {
-          "name": "Jay Brixxx",
-          "url": "https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv"
-        }
-      ],
-      "duration_ms": 155637,
-      "name": "Koup\u00e9",
-      "url": "https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk"
     },
     {
       "added_at": "2025-07-25 04:00:50",

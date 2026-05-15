@@ -4,7 +4,7 @@
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 50 min
+112 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [El Mago](https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:57 | 2024-01-29 |  |
 | [El Mandado](https://open.spotify.com/track/64kqJ2pSMRLGdBcnNbeNpw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 2:41 | 2024-01-29 | 2024-04-27 |
 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 | 2024-01-29 |  |
-| [El Pocho \- En Vivo](https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho \(En Vivo\)](https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q) | 2:48 | 2024-08-22 |  |
+| [El Pocho \- En Vivo](https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho \(En Vivo\)](https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q) | 2:48 | 2024-08-22 | 2026-05-15 |
 | [El Pocho \- En Vivo](https://open.spotify.com/track/4ggSfStfqtdh0eifmjmnIf) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho \- En Vivo](https://open.spotify.com/album/1dygfh3ka5qJvULv4iebxO) | 2:48 | 2024-01-29 | 2024-08-22 |
+| [El Pocho \- En Vivo](https://open.spotify.com/track/3JbmQUutdkiOrW70mN6yUj) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho \(En Vivo\)](https://open.spotify.com/album/7eSm5HJazbVWs2NRjOTE5v) | 2:48 | 2026-05-15 |  |
 | [El Pocho 43](https://open.spotify.com/track/3dh0r1yRhQK48Dy11gAYzw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/5Xh2F18vrwX7NozpAT1rAN) | 3:47 | 2026-05-10 |  |
 | [El Pocho 43](https://open.spotify.com/track/69DWK7IL1kul2ZK327hn7t) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM) | 3:47 | 2024-08-22 | 2026-05-10 |
 | [El Pocho 43](https://open.spotify.com/track/6GpUIhRCjIwKBLVt4pvcZo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/7pZlwL9vBGDR5sMDXHrvSh) | 3:47 | 2024-01-29 | 2024-08-22 |

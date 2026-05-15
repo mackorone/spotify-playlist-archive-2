@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-687 songs - 1 day 12 hr 57 min
+688 songs - 1 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [High Society](https://open.spotify.com/track/6LDnETyFx7w7h3ju7Co3pE) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/4Ayz7LNkwTxzJsd2mfWmrQ) | 3:26 | 2024-07-24 | 2025-06-28 |
 | [High Society](https://open.spotify.com/track/6IZrkrD882aP8of0NNYH89) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 3:56 | 2026-02-19 |  |
 | [High Society](https://open.spotify.com/track/3Q7lmoYtGUI5npEm3bsdU2) | [Louis Armstrong And The All\-Stars](https://open.spotify.com/artist/3KvGtmDDpEUkfyW09R6kYS) | [King Louis](https://open.spotify.com/album/4P81dhj7mDhuQvbhtCXYX1) | 3:59 | 2024-07-24 | 2026-02-20 |
-| [High Society Calypso](https://open.spotify.com/track/5DiCVFFmQ0uxPkPlBTVVO2) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [In Concert \(Newport 1960\)](https://open.spotify.com/album/5yfs4HBmueqnv9t82mFPEm) | 2:51 | 2025-07-10 |  |
+| [High Society Calypso](https://open.spotify.com/track/5DiCVFFmQ0uxPkPlBTVVO2) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [In Concert \(Newport 1960\)](https://open.spotify.com/album/5yfs4HBmueqnv9t82mFPEm) | 2:51 | 2025-07-10 | 2026-05-15 |
+| [High Society Calypso \- Live 1960](https://open.spotify.com/track/4HkA3LQ3Y1ibz09G6CFBuM) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Happy Birthday Louis \- Live From Newport Jazz Festival 1960](https://open.spotify.com/album/0dRiFMDN5ccb2DLZei0VeX) | 2:51 | 2026-05-14 |  |
 | [Hitchy\-Koo: My cozy little corner in the Ritz](https://open.spotify.com/track/4awcli4SRCRtBLjZiTwfL7) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Frank Saddler](https://open.spotify.com/artist/0eYfjTQgCssFOhftSnR9Dv), [Thomas Hampson/London Symphony Orchestra/John McGlinn](https://open.spotify.com/artist/2icPd5FHYWJ3TIszCPOVPb), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Cole Porter Night and Day: Thomas Hampson](https://open.spotify.com/album/37eRtgxiUCq3qZN1WmxodR) | 2:30 | 2024-07-24 | 2025-06-28 |
 | [Hitchy\-Koo: When I had a uniform on \(orch\. Maurice de Packh\)](https://open.spotify.com/track/0IyYNqJmz40WRGuqXImQZ4) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Maurice de Packh](https://open.spotify.com/artist/2zO3UwJ09Hz2IlBK40mUzL), [Thomas Hampson](https://open.spotify.com/artist/6pxEWWaFpWFJGEZK6dOzsF), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK) | [Cole Porter Night and Day: Thomas Hampson](https://open.spotify.com/album/37eRtgxiUCq3qZN1WmxodR) | 3:32 | 2024-07-24 |  |
 | [Home](https://open.spotify.com/track/0yqj1lmiSbIgcp1fXIpqh1) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Under The Stars](https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM) | 5:52 | 2024-07-24 | 2025-06-28 |

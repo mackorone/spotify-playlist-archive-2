@@ -2,9 +2,9 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Ayla Çelik
+> viral, trend ve yükselenler\.  Kapak:
 
-277 songs - 14 hr 8 min
+278 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Kader Sağ Olsun](https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:47 | 2024-08-15 | 2025-04-24 |
 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 | 2024-07-02 | 2025-04-24 |
 | [Kalpsiz](https://open.spotify.com/track/2ciOT2HoX5rjkARUQiO0P6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Kalpsiz](https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS) | 3:00 | 2025-06-18 | 2026-01-15 |
+| [Kalpsiz Bir Serseri \- Live](https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Kalpsiz Bir Serseri \(Live\)](https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB) | 3:44 | 2026-05-14 |  |
 | [Kapak Olsun](https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Fredo](https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6) | [Kapak Olsun](https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B) | 2:27 | 2024-07-02 | 2025-01-15 |
 | [KAPALI KAPILAR](https://open.spotify.com/track/4tFRoWT0hpshwYHAaDxcLj) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [KAPALI KAPILAR](https://open.spotify.com/album/4LQUHqj3yzAz5zQXR1w296) | 2:36 | 2024-07-02 | 2024-10-14 |
 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 | 2025-02-18 | 2025-03-20 |
@@ -154,7 +155,7 @@
 | [Kutupta Yaz Gibi](https://open.spotify.com/track/28wSrbbf6vnix8F6vcHGFZ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/22dJRNVTVUfGQzbMCNMuJq) | 2:18 | 2026-05-01 |  |
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-28 | 2026-04-28 |
 | [Küle Dönmüşsün](https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Küle Dönmüşsün](https://open.spotify.com/album/69XrCiTVTxzFDxvk6RorEG) | 2:22 | 2024-07-02 | 2024-12-06 |
-| [Küçük Bir Yol](https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Küçük Bir Yol](https://open.spotify.com/album/7jaKipywn8miD34MQ6G946) | 4:40 | 2026-03-23 |  |
+| [Küçük Bir Yol](https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Küçük Bir Yol](https://open.spotify.com/album/7jaKipywn8miD34MQ6G946) | 4:40 | 2026-03-23 | 2026-05-15 |
 | [Küçük Bir Yol \- Red Bull Track Takeover](https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Küçük Bir Yol \(Red Bull Track Takeover\)](https://open.spotify.com/album/5tpgUR7cyZyc2B6KS9unWY) | 3:20 | 2026-03-27 |  |
 | [Küçük Sevgilim \- Saygi1](https://open.spotify.com/track/4Y5WDvbBG3g1R34CfKwUSP) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT), [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Küçük Sevgilim \(Saygi1\)](https://open.spotify.com/album/71xsPyusr0Bm6qY0owtR5I) | 2:59 | 2025-04-28 | 2025-05-29 |
 | [Kırmızı](https://open.spotify.com/track/58Y5BrcGgDUd5RWApT1lV9) | [Ayla Çelik](https://open.spotify.com/artist/3Z7GwK4hUEczTklLsVedcx) | [Kırmızı](https://open.spotify.com/album/3wk2gK2cnkhfqMqydtqdf9) | 3:25 | 2026-03-31 |  |

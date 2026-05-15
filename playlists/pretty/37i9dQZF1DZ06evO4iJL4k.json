@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 324382,
+  "num_followers": 324420,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAASV9/+AxeBQs/NM8lCFXtA",
+  "snapshot_id": "agO/AAAAAAAk33S5B5jJ8aB1gT9ATgTI",
   "tracks": [
     {
       "added_at": null,
@@ -1035,26 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NUME",
-        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Vibe Infinita",
-      "url": "https://open.spotify.com/track/3zZzG8v295s437L9X8qjlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivaz",
         "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 234614,
       "name": "Dutumob",
       "url": "https://open.spotify.com/track/048DxjBJekj6Ipk7OxtkF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NUME",
+        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "Vibe Infinita",
+      "url": "https://open.spotify.com/track/3zZzG8v295s437L9X8qjlZ"
     },
     {
       "added_at": null,
@@ -1139,6 +1139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 190241,
+      "name": "Nova Sorte",
+      "url": "https://open.spotify.com/track/12TzgWqlNFtPXO4hwCusiV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NUME",
         "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 168957,
       "name": "N\u00e3o Sou Daqui",
       "url": "https://open.spotify.com/track/44ewce1oaRA9AfHPRenLCe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 190241,
-      "name": "Nova Sorte",
-      "url": "https://open.spotify.com/track/12TzgWqlNFtPXO4hwCusiV"
     },
     {
       "added_at": null,
@@ -1215,8 +1215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NUME",
-        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
       },
       "artists": [
         {
@@ -1224,13 +1224,13 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Quero Paz",
-      "url": "https://open.spotify.com/track/2jtg6PA6LmQQa7fS0a7MbF"
+      "duration_ms": 224266,
+      "name": "Vivendo Avan\u00e7ado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5DaJJxTkFXv2ymTfiqunQd"
     }
   ],
   "unique_name": "This Is Filipe Ret",

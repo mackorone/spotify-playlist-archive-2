@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: The Last Dinner Party",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: The Rolling Stones",
   "name": "Rock The World",
   "tracks": [
     {
@@ -3945,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216311,
+      "name": "BIG DOG",
+      "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
+    },
+    {
+      "album": {
         "name": "Big Dog",
         "url": "https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1"
       },
@@ -4174,7 +4192,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 218213,
       "name": "black cloud",
       "url": "https://open.spotify.com/track/3mKOb2WrVo8YAyqV4sqRA0"
@@ -6219,6 +6237,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Miss You",
+        "url": "https://open.spotify.com/album/1HcwraITfQ87kS5yYhYPcw"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152826,
+      "name": "Can\u2019t Miss You",
+      "url": "https://open.spotify.com/track/1TUTNM3CpHprIlMq3BPlNd"
+    },
+    {
+      "album": {
         "name": "Capricorn / Gen-X Cops",
         "url": "https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv"
       },
@@ -6464,7 +6500,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 242373,
       "name": "Caught In The Echo",
       "url": "https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH"
@@ -9122,7 +9158,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 207514,
       "name": "Dissolve Me",
       "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
@@ -11401,6 +11437,24 @@
     },
     {
       "album": {
+        "name": "Falling out of Love",
+        "url": "https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381293,
+      "name": "Falling out of Love",
+      "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
+    },
+    {
+      "album": {
         "name": "Paper Hearts",
         "url": "https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb"
       },
@@ -13180,6 +13234,24 @@
       "duration_ms": 173119,
       "name": "Glorious Day",
       "url": "https://open.spotify.com/track/3hJpl7GUqYf1oozozdExrl"
+    },
+    {
+      "album": {
+        "name": "Go Fuck Urself",
+        "url": "https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185998,
+      "name": "Go Fuck Urself",
+      "url": "https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP"
     },
     {
       "album": {
@@ -16590,7 +16662,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 208611,
       "name": "In the End",
       "url": "https://open.spotify.com/track/5WKguOpEwe8qpXPSz25Zqx"
@@ -17568,6 +17640,24 @@
       "duration_ms": 140560,
       "name": "Kamikaze (feat. Jason Williamson)",
       "url": "https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja"
+    },
+    {
+      "album": {
+        "name": "Travessia",
+        "url": "https://open.spotify.com/album/1AABJwnD3LB9dRkIihBM3J"
+      },
+      "artists": [
+        {
+          "name": "Maverick Mom",
+          "url": "https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Karakuri",
+      "url": "https://open.spotify.com/track/1BupfSkdNPkfKzUMHpO03e"
     },
     {
       "album": {
@@ -19814,7 +19904,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 263279,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6P8GSsFudw7kcEmSyUT8Bb"
@@ -22134,7 +22224,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169371,
       "name": "New Love",
       "url": "https://open.spotify.com/track/6hsHSPspOQ6XqoVkcllD2X"
@@ -24708,6 +24798,24 @@
       "duration_ms": 206610,
       "name": "ParaNoia",
       "url": "https://open.spotify.com/track/5G9amsIn2lFbIbx628vDFk"
+    },
+    {
+      "album": {
+        "name": "Joy Next Door",
+        "url": "https://open.spotify.com/album/2KncKAPSZkXQxaU122QDrx"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181869,
+      "name": "Parking Garage Song #5",
+      "url": "https://open.spotify.com/track/3BIfhn8vRZEWM9d2Em37ez"
     },
     {
       "album": {
@@ -27316,7 +27424,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 1102737,
       "name": "S G T A P E - 03",
       "url": "https://open.spotify.com/track/0fYNsFfFuzOaIMzglAh7yH"
@@ -27568,7 +27676,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 204202,
       "name": "Sand",
       "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
@@ -27626,6 +27734,24 @@
       "duration_ms": 236800,
       "name": "Satanized",
       "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
+    },
+    {
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/5PqCUKKhtOA7OFG2z9Ts7b"
+      },
+      "artists": [
+        {
+          "name": "brkfstblend",
+          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258928,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1DW7tCaCz37vpD8eDQWqfH"
     },
     {
       "album": {
@@ -32352,7 +32478,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 170254,
       "name": "The Observer",
       "url": "https://open.spotify.com/track/4CZMQE6ygZXVD74FVjtziM"
@@ -36152,7 +36278,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 284173,
       "name": "Window",
       "url": "https://open.spotify.com/track/4iUxryTOl8KT0ZLETYNZjv"
@@ -37563,6 +37689,42 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a9\u30fc\u30ea\u30f3",
+        "url": "https://open.spotify.com/album/4kMhGt65ZN0u4txAT81zKu"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213566,
+      "name": "\u30d5\u30a9\u30fc\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/4SR6nzYh5GFBA9l2q2kMau"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30eb\u30fc/\u307e\u3060\u554f\u984c\u306a\u3044",
+        "url": "https://open.spotify.com/album/08xScu3cYp3QW5kakLd17P"
+      },
+      "artists": [
+        {
+          "name": "kanekoayano",
+          "url": "https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290949,
+      "name": "\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/6773G0vy7KnC1c5mnHyVbf"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
         "url": "https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1"
       },
@@ -37614,6 +37776,24 @@
       "duration_ms": 146220,
       "name": "\u4ecea\u5230z",
       "url": "https://open.spotify.com/track/4As3i0eUbQpSa0pLZFLXBa"
+    },
+    {
+      "album": {
+        "name": "\u5186\u76f8 \uff5cEnso",
+        "url": "https://open.spotify.com/album/5YSZ50mLBYO7yUTPUesWno"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "\u5186\u76f8 \uff5cEnso",
+      "url": "https://open.spotify.com/track/38POEFYokzqLItJQpaBZx5"
     },
     {
       "album": {
@@ -37848,7 +38028,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 242250,
       "name": "\u900f\u93e1 Refracting: Souls in Focus",
       "url": "https://open.spotify.com/track/4N93zCsfCvRcq2XRYIGaRw"

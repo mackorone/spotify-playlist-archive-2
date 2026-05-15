@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 324749,
+  "num_followers": 324748,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAApvlR4z289NZ9feWMOOu0I",
+  "snapshot_id": "agO/AAAAAAChwoiWAvCOfyiHr6rMtUhc",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On My Mind (Jorja Smith X Preditah)",
-        "url": "https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Preditah",
-          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
-        }
-      ],
-      "duration_ms": 181509,
-      "name": "On My Mind (Jorja Smith X Preditah)",
-      "url": "https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Honest (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 207030,
       "name": "Be Honest (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On My Mind (Jorja Smith X Preditah)",
+        "url": "https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Preditah",
+          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
+        }
+      ],
+      "duration_ms": 181509,
+      "name": "On My Mind (Jorja Smith X Preditah)",
+      "url": "https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 224098,
-      "name": "Backwards",
-      "url": "https://open.spotify.com/track/7uRIdAhzWjQPSIgkZaMn73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rose Rouge",
         "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 357960,
       "name": "Rose Rouge",
       "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 224098,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/7uRIdAhzWjQPSIgkZaMn73"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "Broken is the man",
-      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Can't Steal My Joy",
         "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "Broken is the man",
+      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
       },
@@ -823,26 +823,6 @@
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Me",
-        "url": "https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 205784,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/35KBVb0GWD9u0IGMRSNMEL"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 176919,
       "name": "On My Mind (acoustic)",
       "url": "https://open.spotify.com/track/4ktAIutrCjL3oD9rR1aEWU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 205784,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/35KBVb0GWD9u0IGMRSNMEL"
     },
     {
       "added_at": null,

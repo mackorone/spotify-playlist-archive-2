@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 122884,
+  "num_followers": 122889,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Be Glad (Live)",
-        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 533500,
-      "name": "Be Glad - Live",
-      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Monday Morning Faith (Acoustic)",
         "url": "https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 338493,
       "name": "Monday Morning Faith - Acoustic",
       "url": "https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Be Glad (Live)",
+        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 533500,
+      "name": "Be Glad - Live",
+      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
+        "name": "05 (Morning)",
+        "url": "https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5"
+      },
+      "artists": [
+        {
+          "name": "Tom Read",
+          "url": "https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "05 (Morning)",
+      "url": "https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
         "name": "THIS IS THE DAY",
         "url": "https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 224081,
       "name": "THIS IS THE DAY",
       "url": "https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
-        "name": "05 (Morning)",
-        "url": "https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5"
-      },
-      "artists": [
-        {
-          "name": "Tom Read",
-          "url": "https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "05 (Morning)",
-      "url": "https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
-      },
-      "artists": [
-        {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 223695,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/7ilYm200byu5tpaXE97NVR"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Hope Builds (Live)",
         "url": "https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 343592,
       "name": "Hope Builds - Live",
       "url": "https://open.spotify.com/track/5z29OLLU0EQq2mSVR44TTE"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 223695,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/7ilYm200byu5tpaXE97NVR"
     },
     {
       "added_at": "2026-04-17 07:08:56",

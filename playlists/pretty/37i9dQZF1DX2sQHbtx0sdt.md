@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > Our picks for the best global hip\-hop songs this year\. Cover: Central Cee 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,127 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,272 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 |
 | 2 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
 | 3 | [NOW OR NEVER II](https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [NOW OR NEVER II](https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3) | 2:38 |
-| 4 | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
+| 4 | [GEEKIN](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
 | 5 | [MOOD BRAZIL](https://open.spotify.com/track/6G5Viv7tX2WGQ2i0aCNkkl) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [MOOD BRAZIL](https://open.spotify.com/album/72ITYdwG0keGGxJyCD3wji) | 2:29 |
 | 6 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 7 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |

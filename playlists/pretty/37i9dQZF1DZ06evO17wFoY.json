@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 29772,
+  "num_followers": 29774,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAD+eHGDxZMjhYg88a9g9zs5",
+  "snapshot_id": "agO/AAAAAAAoObDCIpJL+Nhz2pJURKet",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voyager - Essential Max Richter",
-        "url": "https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd"
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
       "artists": [
         {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 151506,
-      "name": "The Departure",
-      "url": "https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l"
+      "duration_ms": 140040,
+      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
+      "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
     },
     {
       "added_at": null,
@@ -235,22 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+        "name": "Voyager - Essential Max Richter",
+        "url": "https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 140040,
-      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
-      "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
+      "duration_ms": 151506,
+      "name": "The Departure",
+      "url": "https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns: Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
-        "url": "https://open.spotify.com/album/0PuIYmzYUjpCtdavDdXdoY"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
-      "url": "https://open.spotify.com/track/0iM0od4FRl4FhDSSEIWjms"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Painted Veil",
         "url": "https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 142560,
       "name": "River Waltz - From \"The Painted Veil\" Original Soundtrack",
       "url": "https://open.spotify.com/track/4ymJo2WLb6jikYZHaZDdL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saint-Sa\u00ebns: Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
+        "url": "https://open.spotify.com/album/0PuIYmzYUjpCtdavDdXdoY"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
+      "url": "https://open.spotify.com/track/0iM0od4FRl4FhDSSEIWjms"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
-        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
-      },
-      "artists": [
-        {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 89280,
-      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
-      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
         "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 81080,
       "name": "Waltz in A Minor \u201cFound in New York\u201d - 2024 World Premiere Recording",
       "url": "https://open.spotify.com/track/3Pmd3LaITgStVLitSsRAer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
+        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
+      },
+      "artists": [
+        {
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 89280,
+      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
+      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ann: ICARUS (Version for Piano 4 Hands)",
-        "url": "https://open.spotify.com/album/70wHjMEcYKBwNTufddc69I"
-      },
-      "artists": [
-        {
-          "name": "Tony Ann",
-          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "ICARUS (Version for Piano 4 Hands)",
-      "url": "https://open.spotify.com/track/2Ebny6CAm0KH0YvWvLQBNz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Part of Your World (Arr. Hamilton for Piano & Flute) [From \"The Little Mermaid\" (Feat. Cocomi)]",
         "url": "https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 344466,
       "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
       "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ann: ICARUS (Version for Piano 4 Hands)",
+        "url": "https://open.spotify.com/album/70wHjMEcYKBwNTufddc69I"
+      },
+      "artists": [
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "ICARUS (Version for Piano 4 Hands)",
+      "url": "https://open.spotify.com/track/2Ebny6CAm0KH0YvWvLQBNz"
     },
     {
       "added_at": null,

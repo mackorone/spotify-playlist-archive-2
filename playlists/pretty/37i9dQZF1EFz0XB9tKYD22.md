@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599 likes - 351 songs - 20 hr 47 min
+[](https://open.spotify.com/user/null) - 600 likes - 351 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 87 | [The Ride \(feat\. Jordan Davis\)](https://open.spotify.com/track/1WeXDyy9jM3bX5ZdN0IvFV) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:27 |
 | 88 | [Beg For Your Love](https://open.spotify.com/track/2OvDg8MoPWvr6xsd9egdPt) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:06 |
 | 89 | [No Place Like Hometown \(HARDY feat\. Keith Urban, Hillary Lindsey\)](https://open.spotify.com/track/6NtgQCMKmkX1ChI8mOJ8Wf) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 4:01 |
-| 90 | [Patterns](https://open.spotify.com/track/2LEQiEchYXOfllBduPpnAn) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:40 |
-| 91 | [SO CLOSE \(feat\. Ashland Craft\)](https://open.spotify.com/track/3VNbQeU5THaYyB6Ayh7vIX) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:45 |
+| 90 | [SO CLOSE \(feat\. Ashland Craft\)](https://open.spotify.com/track/3VNbQeU5THaYyB6Ayh7vIX) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:45 |
+| 91 | [Patterns](https://open.spotify.com/track/2LEQiEchYXOfllBduPpnAn) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:40 |
 | 92 | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT) | [Jelly Roll](https://open.spotify.com/artist/1aJya6ffz7a0CLVG2nfYYm), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi) | 3:20 |
 | 93 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 |
 | 94 | [To The Men That Love Women After Heartbreak](https://open.spotify.com/track/64yNVFQSll4Sl2Vfe4G1di) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:52 |
@@ -360,4 +360,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 350 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
 | 351 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcRaxgAAAABlSLZoLI88f5uqbgJwHXG0`
+Snapshot ID: `AcRgXAAAAABgP/IBa/UxhQJaF7fwObPg`

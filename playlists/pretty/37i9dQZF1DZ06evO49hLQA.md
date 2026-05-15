@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,233,835 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,233,925 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 45 | [Kick You When You're Down](https://open.spotify.com/track/0Kq6RzOqkHxnfiA9OGqReU) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:10 |
 | 46 | [The Jack](https://open.spotify.com/track/3k1WwLG1OXCm6iQ13VrJEL) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:53 |
 | 47 | [Ride On](https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 5:54 |
-| 48 | [Play Ball](https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:47 |
+| 48 | [Come and Get It](https://open.spotify.com/track/1B7YWCnmn6bWii1Pyy8cfK) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Stiff Upper Lip](https://open.spotify.com/album/5JPVHEB67TREre4Q8JOfCQ) | 4:02 |
 | 49 | [Witch's Spell](https://open.spotify.com/track/06hy0gi5aLXcWRjnj9fgoh) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:42 |
-| 50 | [Come and Get It](https://open.spotify.com/track/1B7YWCnmn6bWii1Pyy8cfK) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Stiff Upper Lip](https://open.spotify.com/album/5JPVHEB67TREre4Q8JOfCQ) | 4:02 |
+| 50 | [Play Ball](https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:47 |
 
-Snapshot ID: `agJtgAAAAAD6hxBAqYtDSoXN9G/A+XZ/`
+Snapshot ID: `agO/AAAAAACAxPAj0iwo05r3yUDgrkX3`

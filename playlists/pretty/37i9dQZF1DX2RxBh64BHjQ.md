@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1xkEwol8vsfO4m2WP8Dyk9">Trim</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,732,002 likes - 98 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,731,833 likes - 98 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 18 | [Spin](https://open.spotify.com/track/3Y915GAqFaP9hO4VDip2ud) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Spin](https://open.spotify.com/album/5Nj4Y2qCEQyiGEX6nm24Mx) | 4:15 |
 | 19 | [KASKET](https://open.spotify.com/track/2jMmQZ0snsFqJZVd3X4NDP) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [THE PRELUDE](https://open.spotify.com/album/2qM8KDElZ8OM6PxxhGG7xg) | 1:21 |
 | 20 | [Dumb wit it \(get in dea\) \- Remix](https://open.spotify.com/track/3u2QIFXPyss9Kf5Fux8DVi) | [Geaux Teezy](https://open.spotify.com/artist/5D54Rqnqk6veVQv3rNoUAz), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Dumb wit it \(get in dea\) \[Remix\]](https://open.spotify.com/album/4B9ffC4jRpKIUG7R2cYKSE) | 2:42 |
-| 21 | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
+| 21 | [GEEKIN](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
 | 22 | [the kill 2](https://open.spotify.com/track/7MZyREIMPkgc7v5vzCGw87) | [Lex Amarni](https://open.spotify.com/artist/1GJLP5vEHWn08VOlzfR8ID), [2muchmotion](https://open.spotify.com/artist/1DW3WjdUKh9hvg2bh89IVw) | [the kill 2](https://open.spotify.com/album/2bXAxRwdbZlT0mdIQlKQbn) | 2:01 |
 | 23 | [Popular](https://open.spotify.com/track/74RED1gaWYRnb2AgEFh3ES) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Popular](https://open.spotify.com/album/7xck6NTRqumFEIvd7ganZZ) | 2:58 |
 | 24 | [Th!s t!m3](https://open.spotify.com/track/3T8HPYtct1n1zN7YeNn42a) | [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [N0rth4evr](https://open.spotify.com/album/1jkEEeWKAJiR0LQyOvtM7b) | 1:57 |

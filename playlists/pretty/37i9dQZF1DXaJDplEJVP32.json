@@ -1,6 +1,6 @@
 {
   "description": "Spotify music editors' choice for the best Christian & Gospel songs of 2010s. Cover: MercyMe",
-  "num_followers": 152647,
+  "num_followers": 152652,
   "original_name": "2010s Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 248735,
       "name": "Control (Somehow You Want Me)",
       "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Love Theory",
-        "url": "https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251258,
-      "name": "Love Theory",
-      "url": "https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "No Far Away",
         "url": "https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 203440,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/7C1UfKbTHSjLOvufnfdWbl"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "Love Theory",
+        "url": "https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251258,
+      "name": "Love Theory",
+      "url": "https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik"
-      },
-      "artists": [
-        {
-          "name": "Hawk Nelson",
-          "url": "https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Drops In the Ocean",
-      "url": "https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "Light Up the Sky",
         "url": "https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 218840,
       "name": "Light Up the Sky",
       "url": "https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik"
+      },
+      "artists": [
+        {
+          "name": "Hawk Nelson",
+          "url": "https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Drops In the Ocean",
+      "url": "https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu"
     },
     {
       "added_at": "2025-12-12 06:15:47",

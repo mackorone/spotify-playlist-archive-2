@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Son Rompe Pera en portada. ",
-  "num_followers": 974169,
+  "num_followers": 974064,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
-        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
-        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Tijuana Sound Machine",
-      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
-    },
-    {
-      "added_at": "2026-05-08 06:00:15",
-      "album": {
         "name": "Mi vida sin tu vida",
         "url": "https://open.spotify.com/album/6wiPssuqdqZ5oaNxqmkZQa"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 202328,
       "name": "Mi vida sin tu vida",
       "url": "https://open.spotify.com/track/3juCArYNEUHsMNRDlRZL2s"
+    },
+    {
+      "added_at": "2026-05-08 06:00:15",
+      "album": {
+        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
+        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Tijuana Sound Machine",
+      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
     },
     {
       "added_at": "2026-05-08 06:00:15",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
-        "name": "Noches De Sal\u00f3n",
-        "url": "https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 232250,
-      "name": "Somos Ajenos - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O"
-    },
-    {
-      "added_at": "2026-05-08 06:00:15",
-      "album": {
         "name": "Mala Junta",
         "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 174289,
       "name": "Mala Junta",
       "url": "https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh"
+    },
+    {
+      "added_at": "2026-05-08 06:00:15",
+      "album": {
+        "name": "Noches De Sal\u00f3n",
+        "url": "https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 232250,
+      "name": "Somos Ajenos - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O"
     },
     {
       "added_at": "2026-05-08 06:00:15",
@@ -1455,6 +1455,42 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
+        "name": "Perro de Pavlov",
+        "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
+      },
+      "artists": [
+        {
+          "name": "Los Concorde",
+          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
+        }
+      ],
+      "duration_ms": 197271,
+      "name": "Perro de Pavlov",
+      "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
+    },
+    {
+      "added_at": "2026-05-08 06:00:15",
+      "album": {
+        "name": "De vuelta a casa",
+        "url": "https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 266176,
+      "name": "De vuelta a casa",
+      "url": "https://open.spotify.com/track/4ifNbWxNqrVlvkj7r4HWqB"
+    },
+    {
+      "added_at": "2026-05-08 06:00:15",
+      "album": {
         "name": "Vivir As\u00ed Es Morir de Amor",
         "url": "https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g"
       },
@@ -1487,26 +1523,6 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
-        "name": "De vuelta a casa",
-        "url": "https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        },
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 266176,
-      "name": "De vuelta a casa",
-      "url": "https://open.spotify.com/track/4ifNbWxNqrVlvkj7r4HWqB"
-    },
-    {
-      "added_at": "2026-05-08 06:00:15",
-      "album": {
         "name": "Y Ca\u00edste",
         "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 292846,
       "name": "Y Ca\u00edste",
       "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
-    },
-    {
-      "added_at": "2026-05-08 06:00:15",
-      "album": {
-        "name": "Perro de Pavlov",
-        "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
-      },
-      "artists": [
-        {
-          "name": "Los Concorde",
-          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
-        }
-      ],
-      "duration_ms": 197271,
-      "name": "Perro de Pavlov",
-      "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
     },
     {
       "added_at": "2026-05-08 06:00:15",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
-        "name": "Un Brindis al Sol",
-        "url": "https://open.spotify.com/album/26QYbeCgkfuz4FWnY75C6j"
+        "name": "PRISMARAMA",
+        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 251408,
-      "name": "Un Brindis al Sol",
-      "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
+      "duration_ms": 287613,
+      "name": "Incendio de Amor/Carmelita",
+      "url": "https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I"
     },
     {
       "added_at": "2026-05-08 06:00:15",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
-        "name": "PRISMARAMA",
-        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
+        "name": "Un Brindis al Sol",
+        "url": "https://open.spotify.com/album/26QYbeCgkfuz4FWnY75C6j"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 287613,
-      "name": "Incendio de Amor/Carmelita",
-      "url": "https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I"
+      "duration_ms": 251408,
+      "name": "Un Brindis al Sol",
+      "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
     },
     {
       "added_at": "2026-05-08 06:00:15",

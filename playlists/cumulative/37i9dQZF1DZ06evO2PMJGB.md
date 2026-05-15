@@ -4,7 +4,7 @@
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 46 min
+113 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Saudade](https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Saudade](https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm) | 2:47 | 2023-10-10 | 2026-04-11 |
 | [Sempre Você](https://open.spotify.com/track/6OLRROXI8aDgzNDK5oDTNr) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 3:35 | 2026-04-10 |  |
 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 | 2023-10-10 |  |
+| [Seu Desejo \- Ao Vivo](https://open.spotify.com/track/1u2eH3YKbVOINQiau9cT4B) | [Seu Desejo](https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Seu Desejo \(Ao Vivo\)](https://open.spotify.com/album/7CbL0bPlUb8LciWM8AaZzd) | 2:48 | 2026-05-15 |  |
 | [Sonhei Contigo](https://open.spotify.com/track/7awOe7nQfsexvICymZ7rco) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 3:04 | 2026-04-10 |  |
 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 | 2023-12-13 |  |
 | [Sou Musa do Verão](https://open.spotify.com/track/43PhhCK5fAtChNH7V8PatN) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sou Musa do Verão](https://open.spotify.com/album/0lgpFlh4par3uffP78nU8H) | 3:07 | 2023-11-10 | 2023-12-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, explora as músicas escolhidas pelos nossos editores\. Cover: Neyna
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,353 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,354 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 58 | [Prá Frente](https://open.spotify.com/track/0J3f25RFV6IBqdEWPiPy5d) | [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF) | [Lado AB](https://open.spotify.com/album/4mGRMOTfJmkb8jWrCVWHYq) | 2:49 |
 | 59 | [DROWN](https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:53 |
 
-Snapshot ID: `AAAAACX06Mqqiuh912uAtpW9i1eupU+q`
+Snapshot ID: `AAAAAEHZGm17d6aVBXUetDglt35bSnuK`

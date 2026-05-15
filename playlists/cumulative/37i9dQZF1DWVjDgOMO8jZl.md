@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Sayf in cover.
+> Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
 
-217 songs - 10 hr 17 min
+218 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [GIRASOLE](https://open.spotify.com/track/6Q5BuRgXZOWItqzvZfjKxw) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [GIÙ DA ME](https://open.spotify.com/track/4OMdFWA9yLk8zHq6gwnSY6) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [GIÙ DA ME](https://open.spotify.com/album/7djKPOv1ZCuFubOjudHqjr) | 1:55 | 2025-07-10 |  |
 | [Guai \(feat\. Francesca Michielin\)](https://open.spotify.com/track/34hOXJuqGnxRVg0B5eDrpG) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Numeri primi](https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH) | 2:30 | 2022-08-31 | 2023-04-12 |
+| [Himalaya](https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Himalaya](https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K) | 3:15 | 2026-05-14 |  |
 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 | 2023-04-11 | 2024-04-24 |
 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 | 2023-04-11 | 2023-09-29 |
 | [I CAN FLY](https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [I CAN FLY](https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu) | 2:44 | 2024-03-26 | 2024-04-24 |

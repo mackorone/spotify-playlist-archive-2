@@ -4,7 +4,7 @@
 
 > The party has arrived! 🪩  Cover: Solomun
 
-669 songs - 2 day 5 hr 24 min
+670 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-30 | 2022-10-19 |
 | [Rejection \- Martin Waslewski Remix](https://open.spotify.com/track/5zF2LhMNz7TpEk2CPZXNsl) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ), [Martin Waslewski](https://open.spotify.com/artist/3qk4AowZhFKoYHocPk6l06) | [Rejection \(Martin Waslewski Remix\)](https://open.spotify.com/album/0UpE1oBCZDFIJ4AsAysr4s) | 5:45 | 2022-05-20 | 2022-07-26 |
 | [Replicant](https://open.spotify.com/track/4TZPQmkyOD8KTQsyv87VFK) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Replicant](https://open.spotify.com/album/0RRJKozADemLSVXEba0xUq) | 5:14 | 2022-06-24 | 2022-07-25 |
+| [Reserva](https://open.spotify.com/track/1XQ7cb5Ta5XDXAnX2eF52I) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY), [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX) | [The Turn](https://open.spotify.com/album/02bP8IHWtLIK5wvHp3FZHv) | 5:46 | 2026-05-07 |  |
 | [Resistance](https://open.spotify.com/track/76TAjkJMvZIjpxWlbRN8sE) | [SNYL](https://open.spotify.com/artist/3HgxWk2K2rP0tL9RHYl7EY), [Touchtalk](https://open.spotify.com/artist/7h3WYtTqpcXSkGcrKC4kAZ), [Aves Volare](https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq) | [Resistance](https://open.spotify.com/album/0uMb6TzyUqyBeVXGWzxaeX) | 7:26 | 2022-09-30 | 2022-10-08 |
 | [Restless](https://open.spotify.com/track/6NGgmMjUaqD8dAM2lszTPI) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [THELMA](https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm) | [Restless](https://open.spotify.com/album/69hh2tQ34vrWH6VnbOJ7OP) | 2:36 | 2026-04-23 | 2026-05-01 |
 | [Resurgence](https://open.spotify.com/track/2sMjP9i4XVbg7GHXprQIuo) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Resurgence](https://open.spotify.com/album/6P3nsCwqmch2tuqaWiJKbm) | 6:21 | 2022-04-15 | 2022-07-29 |
@@ -536,7 +537,7 @@
 | [Silence & Secrets \- Adriatique Remix](https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Silence & Secrets \(Adriatique Remix\)](https://open.spotify.com/album/0Y0xhBcScceez0FfDnap8p) | 7:21 | 2022-04-15 | 2024-01-06 |
 | [Silence of Love \- Reznik Remix](https://open.spotify.com/track/5PhLhmZG1r1R1YAAUbl2hx) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Silence of Love \(Reznik Remix\)](https://open.spotify.com/album/0vSvPP21Ijfo3czy4QIaq3) | 7:05 | 2024-10-10 | 2024-11-16 |
 | [Silius \- Alfa Romero Remix](https://open.spotify.com/track/0wj0giVxSGWzlnWhdC8EUh) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Silius EP](https://open.spotify.com/album/1kvDBa5nOhlshFg5rwaItu) | 6:35 | 2022-11-26 | 2022-12-13 |
-| [Simulate](https://open.spotify.com/track/0QBerdsjOmIdSCAKgKr5HP) | [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV) | [Simulate](https://open.spotify.com/album/6oFid8H74EyjAOslgduKtx) | 3:20 | 2026-04-09 |  |
+| [Simulate](https://open.spotify.com/track/0QBerdsjOmIdSCAKgKr5HP) | [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV) | [Simulate](https://open.spotify.com/album/6oFid8H74EyjAOslgduKtx) | 3:20 | 2026-04-09 | 2026-05-15 |
 | [Singularity](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:01 | 2024-02-22 |  |
 | [Siren \- Original Mix](https://open.spotify.com/track/49iFrXYyyHFvWC1gKnfZcR) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Siren](https://open.spotify.com/album/7m68B9yIJCdhW9nL6sVCeS) | 6:51 | 2022-04-15 | 2022-11-26 |
 | [Sirens](https://open.spotify.com/track/7r1SZaJhXDTod2cXakbAJ5) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Sirens](https://open.spotify.com/album/4QGu7AvOfVauFWqzfywklJ) | 3:26 | 2026-04-23 | 2026-05-01 |

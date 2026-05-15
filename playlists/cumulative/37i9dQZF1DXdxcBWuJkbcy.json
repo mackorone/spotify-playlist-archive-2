@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 204285,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
@@ -5043,6 +5043,28 @@
     },
     {
       "album": {
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw"
+    },
+    {
+      "album": {
         "name": "Don't Worry Bout Me (Rudimental Remix)",
         "url": "https://open.spotify.com/album/7094we3M30fGknUwYLiT5f"
       },
@@ -7194,7 +7216,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 174000,
       "name": "Freestyler (Rock The Microphone)",
       "url": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess"
@@ -14602,7 +14624,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 205190,
       "name": "Orla",
       "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
@@ -18684,7 +18706,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 202418,
       "name": "SUNSHINE",
       "url": "https://open.spotify.com/track/1JEO1yb1YHikp8G9dy9jMY"
@@ -19749,6 +19771,32 @@
     },
     {
       "album": {
+        "name": "Men Machine EP",
+        "url": "https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Men Machine",
+          "url": "https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "The Past, The Present, The Future",
+      "url": "https://open.spotify.com/track/1Cp8mfSFvYo7ddTy7NkmpL"
+    },
+    {
+      "album": {
         "name": "The Prophecy",
         "url": "https://open.spotify.com/album/06iIebuNOYZv0iXMv3tHwJ"
       },
@@ -20474,6 +20522,32 @@
       "duration_ms": 113661,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/1U9fCIjViZNHm1HoxUpK8H"
+    },
+    {
+      "album": {
+        "name": "Turn Up The Bass",
+        "url": "https://open.spotify.com/album/2CgkofuvzaeVcTd0e13dgE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        },
+        {
+          "name": "Tyree Cooper",
+          "url": "https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "Turn Up The Bass",
+      "url": "https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c"
     },
     {
       "album": {
@@ -22282,6 +22356,24 @@
       "duration_ms": 174254,
       "name": "Work (feat. Yeat)",
       "url": "https://open.spotify.com/track/6Xl6w3XXqVCcUAfMPQbMMJ"
+    },
+    {
+      "album": {
+        "name": "Work Your Body",
+        "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186776,
+      "name": "Work Your Body",
+      "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
     },
     {
       "album": {

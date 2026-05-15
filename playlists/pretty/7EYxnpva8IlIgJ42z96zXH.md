@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,130 likes - 99 songs - 5 hr 12 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,129 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 97 | [Lose Yourself Again](https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Lose Yourself Again](https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws) | 4:19 |
 | 98 | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/track/493FTCCY5sMAlb10ICFAtJ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/album/0moJ5HyyeYr64SH8o17Hvf) | 2:39 |
 | 99 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
+| 100 | [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF) | 2:56 |
 
-Snapshot ID: `AAAQd74eXegOXzlLMN9OYPTYkY4tNaZk`
+Snapshot ID: `AAAQeB/zXR5nNyLrpFrY1offV8y0o4Yr`

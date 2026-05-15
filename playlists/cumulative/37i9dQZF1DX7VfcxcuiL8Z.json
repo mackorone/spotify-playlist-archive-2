@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Violent Soho",
+  "description": "The best in new rock. Cover: Bloc Party",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 232874,
       "name": "Angel Wings",
       "url": "https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 157027,
       "name": "Another World",
       "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Miss You",
+        "url": "https://open.spotify.com/album/1HcwraITfQ87kS5yYhYPcw"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152826,
+      "name": "Can\u2019t Miss You",
+      "url": "https://open.spotify.com/track/1TUTNM3CpHprIlMq3BPlNd"
+    },
+    {
+      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m"
       },
@@ -2078,6 +2096,24 @@
       "duration_ms": 151258,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/0vz451SVtbqq5zDh4lrNwh"
+    },
+    {
+      "album": {
+        "name": "Coming On Strong",
+        "url": "https://open.spotify.com/album/3oeSa6CphbMgzssPEUknVt"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188053,
+      "name": "Coming On Strong",
+      "url": "https://open.spotify.com/track/0803vH8x1peM7SxVODBhVn"
     },
     {
       "album": {
@@ -3085,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Falling out of Love",
+        "url": "https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381293,
+      "name": "Falling out of Love",
+      "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
+    },
+    {
+      "album": {
         "name": "Are We All Angels",
         "url": "https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs"
       },
@@ -3746,7 +3800,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 261747,
       "name": "Going Shopping",
       "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
@@ -4050,6 +4104,24 @@
       "duration_ms": 184073,
       "name": "Head Chef",
       "url": "https://open.spotify.com/track/4Y9oWVeBZuSdZnIrO2T3Rr"
+    },
+    {
+      "album": {
+        "name": "Head On",
+        "url": "https://open.spotify.com/album/7l9b9zoidvTrvs0GIIxbG2"
+      },
+      "artists": [
+        {
+          "name": "Grace Mitchell",
+          "url": "https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277605,
+      "name": "Head On",
+      "url": "https://open.spotify.com/track/2UtqgSde6wOGbdXa5ShRq5"
     },
     {
       "album": {
@@ -5005,6 +5077,24 @@
     },
     {
       "album": {
+        "name": "Invisible Man",
+        "url": "https://open.spotify.com/album/6RAXdwafkuveYGIM0gSrz8"
+      },
+      "artists": [
+        {
+          "name": "The Beefs",
+          "url": "https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180697,
+      "name": "Invisible Man",
+      "url": "https://open.spotify.com/track/3rq59yNoeIyvs8yk050BxQ"
+    },
+    {
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/238u1n8IgczzXXiGWkiKOn"
       },
@@ -5286,7 +5376,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 225743,
       "name": "Kiss the Rain",
       "url": "https://open.spotify.com/track/796pQutsRdXDdYoV0wgCRk"
@@ -5910,6 +6000,24 @@
       "duration_ms": 169451,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/7tCXixP04LDsacfpKJCBUE"
+    },
+    {
+      "album": {
+        "name": "Magic Man",
+        "url": "https://open.spotify.com/album/4N468uvbihepIVfjDhe82d"
+      },
+      "artists": [
+        {
+          "name": "The Gnomes",
+          "url": "https://open.spotify.com/artist/1Ax3BC6GoOGjSw2ipoi6P6"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175103,
+      "name": "Magic Man",
+      "url": "https://open.spotify.com/track/1kegdFmzGcUPUM35xJXzmK"
     },
     {
       "album": {
@@ -7723,6 +7831,24 @@
     },
     {
       "album": {
+        "name": "PUSH PIN",
+        "url": "https://open.spotify.com/album/4OWcPaOG3bxKOIOmOywInK"
+      },
+      "artists": [
+        {
+          "name": "RAGEFLOWER",
+          "url": "https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189752,
+      "name": "PUSH PIN",
+      "url": "https://open.spotify.com/track/42HAEL264uHwYLbQV5Y9Io"
+    },
+    {
+      "album": {
         "name": "Let All That We Imagine Be The Light",
         "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
       },
@@ -8352,7 +8478,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 221842,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy"
@@ -8532,7 +8658,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 134785,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/1l99r6e1DH1aWIucAhufR9"
@@ -10674,7 +10800,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 264900,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/0TNLgJnAepOj8PK5oWTJoQ"

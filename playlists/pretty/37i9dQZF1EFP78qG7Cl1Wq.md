@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,124 likes - 250 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,125 likes - 250 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 57 | [Electric Glow \- Original Mix](https://open.spotify.com/track/48eWZkmFr31aOpFyfkeE0R) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Skyler Stonestreet](https://open.spotify.com/artist/1sY8XHjk6WoA2B5YIGV1S2) | [Metamorphic II](https://open.spotify.com/album/3FDrNsoeak1G0Ua5nSAMnR) | 6:54 |
 | 58 | [Deliver](https://open.spotify.com/track/7eop1iSITujvmKRme0DdKJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Fifth Harmony](https://open.spotify.com/album/0kHFNaPXHGZitDEqNb88ws) | 3:26 |
 | 59 | [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 |
-| 60 | [Got Her Own \(with Victoria Monét\)](https://open.spotify.com/track/3UBE9swDF71ARoV42g6Fcx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:41 |
-| 61 | [MEEEEEE \(NAYEON\)](https://open.spotify.com/track/4fj3ZKe3p2f5BdZgMdsQe5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:46 |
+| 60 | [MEEEEEE \(NAYEON\)](https://open.spotify.com/track/4fj3ZKe3p2f5BdZgMdsQe5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:46 |
+| 61 | [Got Her Own \(with Victoria Monét\)](https://open.spotify.com/track/3UBE9swDF71ARoV42g6Fcx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:41 |
 | 62 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/5tf6nRmNE3hd2lDvfco1I1) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo) | 6:25 |
 | 63 | [I Got the Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5Yfq9uugLFchtFymQQWxgt) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:46 |
 | 64 | [All The Time](https://open.spotify.com/track/5UA6rAsMTn0okgp95isGrl) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [All The Time](https://open.spotify.com/album/67Ulp5KinPqy6RBWgS3hO7) | 2:19 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 249 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 250 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcRavAAAAADXSgLOqXII7ElcRarRJ9OS`
+Snapshot ID: `AcRgXAAAAABp2PSLoTBgiqt5UudgUUss`

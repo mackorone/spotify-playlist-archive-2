@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 
 > Le meilleur des années 70 en 70 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,176 likes - 70 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,188 likes - 70 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 | 35 | [Guilty \(feat\. Barry Gibb\)](https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 4:26 |
 | 36 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
 | 37 | [Le chanteur](https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Le chanteur \(Remastered\)](https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI) | 3:54 |
-| 38 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
-| 39 | [Heart Of Glass \[24\-Bit Digitally Remastered 01\] \- Remastered 2001](https://open.spotify.com/track/5XJ1J9QPxaOzdpkGxKU4lA) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 5:50 |
-| 40 | [Ladies Night \- Single Version](https://open.spotify.com/track/2GUESfQxaSuauM5fwiRkXb) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebration: The Best Of Kool & The Gang \(1979\-1987\)](https://open.spotify.com/album/6HrxTtsF46JKueFEs8S4p5) | 3:29 |
+| 38 | [Heart Of Glass \[24\-Bit Digitally Remastered 01\] \- Remastered 2001](https://open.spotify.com/track/5XJ1J9QPxaOzdpkGxKU4lA) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 5:50 |
+| 39 | [Ladies Night \- Single Version](https://open.spotify.com/track/2GUESfQxaSuauM5fwiRkXb) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebration: The Best Of Kool & The Gang \(1979\-1987\)](https://open.spotify.com/album/6HrxTtsF46JKueFEs8S4p5) | 3:29 |
+| 40 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
 | 41 | [J'ai encore rêvé d'elle](https://open.spotify.com/track/6aV2qifrzZkfT2PW3gsWDE) | [Il Etait Une Fois](https://open.spotify.com/artist/1QQlg9J5PEMv9cpOOJPUvR) | [ils vecurent heureux](https://open.spotify.com/album/16ymDIBYhTE7GANUGFJYmk) | 3:40 |
 | 42 | [Every Kinda People](https://open.spotify.com/track/38E7U60ipLSTVDcPIuVzZw) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Double Fun](https://open.spotify.com/album/3eGG3yU4bnmBK7TfFWa15y) | 3:18 |
 | 43 | [Don't Leave Me This Way](https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx) | 3:37 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 | 58 | [Spacer](https://open.spotify.com/track/4xdZYGbne37Yz1Rx7vTqBl) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [The Complete Disco Years](https://open.spotify.com/album/6i8aQhvGr1xrJRKswvrjpI) | 5:54 |
 | 59 | [Ex\-fan des sixties](https://open.spotify.com/track/0ZpsflpEO5MgMwzxBsOqfx) | [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Ex Fan Des Sixties](https://open.spotify.com/album/1nhDXT9LZhqq9nXTV2bhOa) | 3:01 |
 | 60 | [Isn't She Lovely](https://open.spotify.com/track/0VFKMaDnEAmi90P9dOwtyz) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 6:34 |
-| 61 | [Téléphone\-moi](https://open.spotify.com/track/5zILwyLYKdDRgMBfuOZYob) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Téléphone\-moi / Tu m'avais dit \- Single](https://open.spotify.com/album/3Z8ys5UIyDtytg6pfsKAUS) | 3:10 |
-| 62 | [I Can Help](https://open.spotify.com/track/6oDOACuzVZPMNaAfLGpCWG) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:57 |
+| 61 | [I Can Help](https://open.spotify.com/track/6oDOACuzVZPMNaAfLGpCWG) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:57 |
+| 62 | [Téléphone\-moi](https://open.spotify.com/track/5zILwyLYKdDRgMBfuOZYob) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Téléphone\-moi / Tu m'avais dit \- Single](https://open.spotify.com/album/3Z8ys5UIyDtytg6pfsKAUS) | 3:10 |
 | 63 | [Musique \- Remasterisé en 2004](https://open.spotify.com/track/0TrSWhokDH5OfUdvU2qIdJ) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Dancing Disco \(Edition Deluxe\) \[Remasterisé en 2004\]](https://open.spotify.com/album/2tJBpkXgpcxb59u0Pi3FMi) | 5:25 |
 | 64 | [Où sont les femmes](https://open.spotify.com/track/1QhmS32Uo9BZCznhbYBRyY) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of](https://open.spotify.com/album/0AOw7IUisWy0h8VjcP6CGp) | 6:16 |
 | 65 | [The Fool \- Version Remasterisée 2021](https://open.spotify.com/track/256L5lP9i1w5PFIPEdZ1DJ) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [The Fool](https://open.spotify.com/album/32NiN3HsKzBrSSo1PV2cpa) | 3:08 |

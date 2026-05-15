@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187826,
       "name": "A PERFECT WORLD",
       "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 228168,
       "name": "Do You Really Love Her",
       "url": "https://open.spotify.com/track/3II8ry3bjOniwbCF78KRpb"
@@ -4053,6 +4053,24 @@
     },
     {
       "album": {
+        "name": "I Never See Her",
+        "url": "https://open.spotify.com/album/2p6wnhkj0a5SWmBnLFmCTe"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184220,
+      "name": "I Never See Her",
+      "url": "https://open.spotify.com/track/4Mk8CHwAOp9VDoauZ5y7h8"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -4966,6 +4984,24 @@
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
+    },
+    {
+      "album": {
+        "name": "Experiencing Feelings of Joy",
+        "url": "https://open.spotify.com/album/30vkSdtJBtkpCJEPmgyg6F"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234292,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH"
     },
     {
       "album": {
@@ -7050,7 +7086,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 224210,
       "name": "She Will (with Day1)",
       "url": "https://open.spotify.com/track/17CgN1wfpepyTOyVviHS6L"
@@ -7654,6 +7690,24 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
+        "name": "Stuntn",
+        "url": "https://open.spotify.com/album/7yvbGWAVQjdneslunN6ije"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151212,
+      "name": "Stuntn",
+      "url": "https://open.spotify.com/track/6hMvp0LhXoFwS9eJU4Eu5w"
     },
     {
       "album": {

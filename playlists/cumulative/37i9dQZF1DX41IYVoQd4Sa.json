@@ -1173,6 +1173,28 @@
     },
     {
       "album": {
+        "name": "I LOVE YOU (feat. Armani White)",
+        "url": "https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191950,
+      "name": "I LOVE YOU (feat. Armani White)",
+      "url": "https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh"
+    },
+    {
+      "album": {
         "name": "I Never Land",
         "url": "https://open.spotify.com/album/0jYlxuuRcYQydLzceR0ZLu"
       },
@@ -1424,7 +1446,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 172661,
       "name": "Met_A_Girl",
       "url": "https://open.spotify.com/track/2VaxzejJWeSMRn1HL3lMmd"
@@ -1442,7 +1464,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 229099,
       "name": "Midnight Blue",
       "url": "https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T"
@@ -2298,7 +2320,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 166996,
       "name": "WATCH THE NEWS",
       "url": "https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9"
@@ -3162,6 +3184,28 @@
       "duration_ms": 221122,
       "name": "\u05d0\u05e8\u05e5 \u05de\u05d5\u05dc\u05d3\u05ea",
       "url": "https://open.spotify.com/track/22l5xX5d7j74YebfkMxd9c"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05d4 \u05e9\u05d4\u05db\u05e8\u05ea\u05d9 \u05db\u05d1\u05e8 \u05dc\u05d0 \u05e9\u05dd",
+        "url": "https://open.spotify.com/album/4tWjGroxiBTVPSuHuTiC0O"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05e9\u05de\u05d4",
+          "url": "https://open.spotify.com/artist/5sbDy7V3VZdRGv4F8z5Yu5"
+        },
+        {
+          "name": "Yael Selinger",
+          "url": "https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173922,
+      "name": "\u05d0\u05e9",
+      "url": "https://open.spotify.com/track/1g3dgn8mgy26mSAxpfs2Tm"
     },
     {
       "album": {
@@ -7808,6 +7852,28 @@
       "duration_ms": 168666,
       "name": "\u05ea\u05e4\u05d0\u05d5\u05e8\u05d5\u05ea",
       "url": "https://open.spotify.com/track/4lErySIzc6Wwx1rSdoZltT"
+    },
+    {
+      "album": {
+        "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u"
+      },
+      "artists": [
+        {
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+        },
+        {
+          "name": "Uri Brauner Kinrot",
+          "url": "https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210620,
+      "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY"
     },
     {
       "album": {

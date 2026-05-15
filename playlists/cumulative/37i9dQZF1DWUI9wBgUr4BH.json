@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  Sound Of Legend",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  Shakira & Burna Boy",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -2515,6 +2515,28 @@
     },
     {
       "album": {
+        "name": "Oubliez-moi",
+        "url": "https://open.spotify.com/album/75ymIEBQv8zZhnKtabtB9C"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Kakouprod",
+          "url": "https://open.spotify.com/artist/6g75synhG2eMd0j2228MPR"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "C'est dur d'aimer",
+      "url": "https://open.spotify.com/track/1a2dh2wtCzMZedHpUjplzv"
+    },
+    {
+      "album": {
         "name": "C'est Fort",
         "url": "https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS"
       },
@@ -3629,6 +3651,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
       },
@@ -4593,6 +4637,24 @@
     },
     {
       "album": {
+        "name": "EPA",
+        "url": "https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202542,
+      "name": "EPA",
+      "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw"
+    },
+    {
+      "album": {
         "name": "Coeur maladroit (Deluxe)",
         "url": "https://open.spotify.com/album/4vMwcXo0IBEa0TsGUyw2pn"
       },
@@ -5440,7 +5502,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 170640,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV"
@@ -7826,7 +7888,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 258996,
       "name": "Karma",
       "url": "https://open.spotify.com/track/28kLe1YD8fxrUTf6duHVs8"
@@ -11865,6 +11927,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163961,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R"
+    },
+    {
+      "album": {
         "name": "Pichichi",
         "url": "https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7"
       },
@@ -12620,7 +12700,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 203668,
       "name": "Release The Pressure",
       "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
@@ -12664,6 +12744,28 @@
       "duration_ms": 137973,
       "name": "REN\u00c9 CAOVILLA",
       "url": "https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT"
+    },
+    {
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "album": {
@@ -13028,7 +13130,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 151846,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/3S8uW1FUeNqzaRzwJWRU8g"
@@ -15118,7 +15220,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 178148,
       "name": "Think About Us",
       "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"

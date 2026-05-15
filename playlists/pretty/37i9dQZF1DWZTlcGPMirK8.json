@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73500,
+  "num_followers": 73497,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Surfers Paradise (Expanded)",
-        "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 196786,
-      "name": "La Da Dee",
-      "url": "https://open.spotify.com/track/0ccwMrlZONy5yXrirq7lTe"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/6EMxWaM803hd4sPsJ6PkcA"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 244893,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/1qk9ujVgudgU8CyhKOx8ji"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Surfers Paradise (Expanded)",
+        "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 196786,
+      "name": "La Da Dee",
+      "url": "https://open.spotify.com/track/0ccwMrlZONy5yXrirq7lTe"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Better in Blak",
-        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Better in Blak",
-      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Off The Grid",
         "url": "https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 237613,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Better in Blak",
+        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Better in Blak",
+      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Two Degrees",
-        "url": "https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR"
-      },
-      "artists": [
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt"
-        },
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 255889,
-      "name": "Papercuts (feat. Vera Blue)",
-      "url": "https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 250506,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Two Degrees",
+        "url": "https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR"
+      },
+      "artists": [
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt"
+        },
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 255889,
+      "name": "Papercuts (feat. Vera Blue)",
+      "url": "https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd"
     },
     {
       "added_at": "2024-08-05 06:00:58",

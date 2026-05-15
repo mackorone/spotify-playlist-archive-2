@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The voices shaping R&B\. Cover: Mack Keane
+> The voices shaping R&B\. Cover: AMARIA BB
 
-622 songs - 1 day 9 hr 7 min
+624 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Boyfriend](https://open.spotify.com/track/0DAttm4G157xCPhzrCeH4t) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Boyfriend](https://open.spotify.com/album/28TP6aTijewWST9QGFvwkO) | 2:54 | 2024-02-28 | 2024-04-19 |
 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 | 2024-07-24 | 2025-02-07 |
 | [Break Me In](https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Break Me In](https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg) | 2:52 | 2026-01-23 |  |
+| [Break Me Off](https://open.spotify.com/track/01nqAnr8UmgLjgKSjhLGLF) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Break Me Off](https://open.spotify.com/album/6dQRJLvQNiDEOdH7rri6NS) | 2:54 | 2026-05-14 |  |
 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 | 2024-02-28 | 2024-10-25 |
 | [Broken](https://open.spotify.com/track/2oiYwCA2XB26ISvhKxWLU1) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Broken](https://open.spotify.com/album/1PrFwjRBnqMeOdhabi0y0C) | 3:08 | 2024-10-17 | 2025-04-25 |
 | [BROWN SUGAH](https://open.spotify.com/track/2lP4A3vu4O8SwZz1Tss6IC) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [BROWN SUGAH](https://open.spotify.com/album/70P8F7UhiBVpfI4vgzCdq2) | 2:50 | 2025-09-04 | 2026-02-27 |
@@ -420,7 +421,7 @@
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2023-02-23 | 2023-05-15 |
 | [Out Of Luck \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/6t2QMkSZRKsg0PXUb3wV4c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:58 | 2024-06-14 | 2024-10-18 |
 | [Out of Touch](https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Out of Touch](https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr) | 3:32 | 2023-03-02 | 2023-08-19 |
-| [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 | 2025-11-07 |  |
+| [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 | 2025-11-07 | 2026-05-15 |
 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 | 2023-05-14 | 2024-01-26 |
 | [Outside Freestyle](https://open.spotify.com/track/19fuiBJWyDl0vC2SZcxVXt) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Outside Freestyle](https://open.spotify.com/album/0bDbd9p3H6B9iXYUFHob0c) | 2:50 | 2023-07-03 | 2023-07-22 |
 | [Outside Freestyle](https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Outside Freestyle](https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F) | 2:50 | 2023-05-14 | 2023-07-14 |
@@ -467,6 +468,7 @@
 | [Right My Wrongs \- Acoustic](https://open.spotify.com/track/6nKq3nK5J03pDbXPqapI1x) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Right My Wrongs \(Acoustic\)](https://open.spotify.com/album/0GHvzb0AAfYy32swXfZ5oF) | 2:50 | 2023-05-14 | 2023-10-28 |
 | [Ritual](https://open.spotify.com/track/17BFKHgIt1PwUYCKxRith8) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:56 | 2023-06-08 | 2023-08-19 |
 | [Ritual](https://open.spotify.com/track/6gLQasxLzEFfGEQIzEQudC) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Peace in the Madness](https://open.spotify.com/album/3wUhu09M0XOnnsYR6CQJME) | 3:56 | 2023-06-08 | 2023-06-21 |
+| [Rivers End](https://open.spotify.com/track/4iU6dFUo07jr6jBuwaUUk8) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Rivers End](https://open.spotify.com/album/4GejwOc0Vi6eRZJzw05i6X) | 3:29 | 2026-05-14 |  |
 | [RM\. 143 \- RM112 Remix](https://open.spotify.com/track/5nEXSU70UNltl8Q1PS7AWR) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Slim](https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [RM\. 143 \(RM112 Remix\)](https://open.spotify.com/album/6rRZCZwQU02DKN6EfCrGi2) | 3:00 | 2023-07-21 | 2023-09-23 |
 | [Room 69 \- Acoustic version](https://open.spotify.com/track/3mmJDYnT5mowOO8JzX339t) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/0vzqawXZNRIlR6o8ruxXDK) | 2:50 | 2023-05-14 | 2023-07-22 |
 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-28 | 2024-09-27 |
@@ -501,7 +503,7 @@
 | [Sinner](https://open.spotify.com/track/0MUSX7J41ns5rBseSaxuyT) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Sinner](https://open.spotify.com/album/4pXAW15Q6SBg09Sl7lYxFF) | 2:51 | 2026-03-27 |  |
 | [Slow Dancing](https://open.spotify.com/track/6F7OCdwLWwJWkNB4qCGDOr) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Kincy](https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53) | [Slow Dancing](https://open.spotify.com/album/2mnONj1DFsjtCAFc3dJBlV) | 3:46 | 2023-05-14 | 2023-10-28 |
 | [Slow Grind](https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Slow Grind](https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe) | 3:39 | 2025-02-14 | 2025-07-25 |
-| [Smoov](https://open.spotify.com/track/5Yj6xkBg6LQ6zOWrpjIPUO) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Smoov](https://open.spotify.com/album/25nS0vLEH890SRtn0ziKIL) | 3:03 | 2025-11-21 |  |
+| [Smoov](https://open.spotify.com/track/5Yj6xkBg6LQ6zOWrpjIPUO) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Smoov](https://open.spotify.com/album/25nS0vLEH890SRtn0ziKIL) | 3:03 | 2025-11-21 | 2026-05-15 |
 | [So Be It](https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:09 | 2023-02-23 | 2023-05-15 |
 | [So Be It \(with Summer Walker\) \- Remix](https://open.spotify.com/track/4CZYU36tRUXVWKqd0Xtidm) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [So Be It \(with Summer Walker\) \[Remix\]](https://open.spotify.com/album/7a6axBirYuebMEsOtmKVWy) | 3:13 | 2023-05-14 | 2023-09-30 |
 | [So Beautiful](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [So Beautiful](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 | 2025-02-28 | 2025-07-25 |

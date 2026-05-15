@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 660 likes - 114 songs - 6 hr 34 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 664 likes - 116 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 112 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 |
 | 113 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 |
 | 114 | [Something Going Down](https://open.spotify.com/track/1IMz6vOVbR7r7GoIXruUYZ) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Something Going Down](https://open.spotify.com/album/0dybQYta1tbwwYKNusjGWm) | 2:11 |
+| 115 | [Ordinary People](https://open.spotify.com/track/1oCwhlhRkPd5dCmS22o6jY) | [Lotus Grove](https://open.spotify.com/artist/26mBaP2fnwi2GnYNRWn9vR) | [Ordinary People](https://open.spotify.com/album/1SGIESobBCifLw8vs4Bnor) | 2:56 |
+| 116 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 |
 
-Snapshot ID: `AAADbTgpOoTV+/zyOqGS5X13zW3NeYtS`
+Snapshot ID: `AAADb8wwnGmRFnhPTc6YL3KJOHKbG8q8`

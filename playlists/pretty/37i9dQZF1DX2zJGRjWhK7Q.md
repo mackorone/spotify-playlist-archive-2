@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,420 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,477 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 13 | [El Raton](https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [A Man And His Music](https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89) | 3:50 |
 | 14 | [Que Pena](https://open.spotify.com/track/7H6TbcATjUfP6gkJ7vxfp5) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Loco Por Ti](https://open.spotify.com/album/4xDo2losNBAidTX68sPdeM) | 4:55 |
 | 15 | [Lejos De Ti](https://open.spotify.com/track/1u3myea0ndESXsA2OifxCQ) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/62j3BsaN0cXPxbvOwvwlhH) | 4:15 |
-| 16 | [Vamonos Pal Monte](https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vamonos Pal' Monte](https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM) | 7:06 |
-| 17 | [El Negro Bembon](https://open.spotify.com/track/1xVSHCVq7yfjl3txyq9dsw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [El Sonero Mayor](https://open.spotify.com/album/2lV3Tmgb4lIv6CbVJKJmjZ) | 3:03 |
+| 16 | [El Negro Bembon](https://open.spotify.com/track/1xVSHCVq7yfjl3txyq9dsw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [El Sonero Mayor](https://open.spotify.com/album/2lV3Tmgb4lIv6CbVJKJmjZ) | 3:03 |
+| 17 | [Vamonos Pal Monte](https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vamonos Pal' Monte](https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM) | 7:06 |
 | 18 | [Senor Sereno](https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/2HeEHgCPC1b1mPUBfv37rK) | 5:31 |
 | 19 | [Che Che Cole](https://open.spotify.com/track/0FriNBfZnUzIAXRkYH1SHH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Cosa Nuestra](https://open.spotify.com/album/7h9smttvUvPPLLQeRWOPbI) | 3:32 |
 | 20 | [Richie's Jala Jala](https://open.spotify.com/track/4Mk7napJbsKzRAs38jy0oK) | [Ricardo Ray](https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq) | [Jala Jala Y Boogaloo](https://open.spotify.com/album/4UnQVmkl3uH5mEBeAvQbjH) | 5:07 |
 | 21 | [El Cantante](https://open.spotify.com/track/1uRXl9FJPkommfTTqXkhRo) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G) | 10:26 |
-| 22 | [Sigue Tu Camino](https://open.spotify.com/track/6K60uL5wHxDSqKgzScPzAn) | [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5) | [Una Dimension De Exitos](https://open.spotify.com/album/6cEzcbjpmhMhkuO22YNOOD) | 3:51 |
-| 23 | [Sonido Bestial](https://open.spotify.com/track/682K8AJvxcAaUWgjuQSmmN) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A life time of Hits.\. \(Live At Centro De Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/6ZcpYhA2AErirv2nt3R7U2) | 9:58 |
+| 22 | [Sonido Bestial](https://open.spotify.com/track/682K8AJvxcAaUWgjuQSmmN) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A life time of Hits.\. \(Live At Centro De Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/6ZcpYhA2AErirv2nt3R7U2) | 9:58 |
+| 23 | [Sigue Tu Camino](https://open.spotify.com/track/6K60uL5wHxDSqKgzScPzAn) | [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5) | [Una Dimension De Exitos](https://open.spotify.com/album/6cEzcbjpmhMhkuO22YNOOD) | 3:51 |
 | 24 | [Lluvia Con Nieve](https://open.spotify.com/track/1bTfh8IF7GIOuxtQcfXMF4) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averigua](https://open.spotify.com/album/7mpXUilEGA93vFJDrpQEaK) | 2:57 |
 | 25 | [Trucutu](https://open.spotify.com/track/28FigNLC77a3Bg02MErvFK) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx) | [Plante Bandera](https://open.spotify.com/album/3m28lC1sNHIdKpRAswcoU5) | 5:02 |
 | 26 | [Triste Y Vacía](https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Anthology](https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ) | 6:10 |

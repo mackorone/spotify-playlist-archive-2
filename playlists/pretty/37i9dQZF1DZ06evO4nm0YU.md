@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,872 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,911 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 27 | [Emborrachame De Amor](https://open.spotify.com/track/0XDMdFi1onaxibiQKz7slG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 3:00 |
 | 28 | [Qué Lío](https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 4:37 |
 | 29 | [Taxi](https://open.spotify.com/track/6hqqBWimVhXmWcA8OMzTKX) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Strikes Back](https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP) | 3:43 |
-| 30 | [Timbalero](https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [49 Minutes](https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72) | 8:17 |
+| 30 | [Déjala Que Siga](https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 6:27 |
 | 31 | [Soñando Despierto](https://open.spotify.com/track/5T33s7r9ZphwekRhavpbmA) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 4:06 |
-| 32 | [Déjala Que Siga](https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 6:27 |
+| 32 | [Timbalero](https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [49 Minutes](https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72) | 8:17 |
 | 33 | [Rompe Saragüey \- Remastered 2023](https://open.spotify.com/track/3WAV5R3aBDpT10YhxVoQv3) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz \(Remastered 2023\)](https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW) | 6:32 |
 | 34 | [Eso Se Baila Así](https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 5:17 |
 | 35 | [Te Conozco](https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 49 | [Consejo De Oro](https://open.spotify.com/track/7DlwfBB4NQDQEn88FefveR) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 2:45 |
 | 50 | [Bandolera](https://open.spotify.com/track/5UCnz9Q6GSFLl6oeCSaSSZ) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 9:34 |
 
-Snapshot ID: `agJtgAAAAAB8EG4ZMMMzR3Yq9Wooy5oh`
+Snapshot ID: `agO/AAAAAAAzSrGm68hNusI4zRh9j1XF`

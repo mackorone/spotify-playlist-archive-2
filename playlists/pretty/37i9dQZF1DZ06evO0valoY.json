@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 214928,
+  "num_followers": 214929,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACztwREgmuW4fhUs3+TqYOT",
+  "snapshot_id": "agO/AAAAAADTSAkUftQYE38YeLL41UE9",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 215954,
-      "name": "Catorce de Febrero",
-      "url": "https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua"
+      "duration_ms": 107153,
+      "name": "QUE DIABLOS HICE (INTERLUDE)",
+      "url": "https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 107153,
-      "name": "QUE DIABLOS HICE (INTERLUDE)",
-      "url": "https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj"
+      "duration_ms": 215954,
+      "name": "Catorce de Febrero",
+      "url": "https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua"
     },
     {
       "added_at": null,
@@ -519,42 +519,6 @@
       "duration_ms": 307375,
       "name": "Ando M\u00e1s Que Mal",
       "url": "https://open.spotify.com/track/2uVW9s3bC14wp15d3Ma6EO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 217182,
-      "name": "Me Prendes",
-      "url": "https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibras De Noche II",
-        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
-        }
-      ],
-      "duration_ms": 198064,
-      "name": "Esa noche",
-      "url": "https://open.spotify.com/track/2mgB7dTJpANxh0Xayd0o9S"
     },
     {
       "added_at": null,
@@ -579,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+        "name": "Vibras De Noche II",
+        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
       },
       "artists": [
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
         }
       ],
-      "duration_ms": 292052,
-      "name": "\u00bfDonde Has Estado?",
-      "url": "https://open.spotify.com/track/6hklGK8K5sqP4IK2PZHGkV"
+      "duration_ms": 198064,
+      "name": "Esa noche",
+      "url": "https://open.spotify.com/track/2mgB7dTJpANxh0Xayd0o9S"
     },
     {
       "added_at": null,
@@ -604,15 +572,15 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 278073,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
+      "duration_ms": 217182,
+      "name": "Me Prendes",
+      "url": "https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vibras De Noche II",
-        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
       "artists": [
         {
@@ -620,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 210122,
-      "name": "Eres Arte <3",
-      "url": "https://open.spotify.com/track/5yJBiHH4O9q3gFVFl4abUZ"
+      "duration_ms": 292052,
+      "name": "\u00bfDonde Has Estado?",
+      "url": "https://open.spotify.com/track/6hklGK8K5sqP4IK2PZHGkV"
     },
     {
       "added_at": null,
@@ -643,6 +611,38 @@
       "duration_ms": 233096,
       "name": "Pa Que Te Duela",
       "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibras De Noche II",
+        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 210122,
+      "name": "Eres Arte <3",
+      "url": "https://open.spotify.com/track/5yJBiHH4O9q3gFVFl4abUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 278073,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
     },
     {
       "added_at": null,

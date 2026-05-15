@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec C\u00e9sar\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Joseph Kamel\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -745,6 +745,28 @@
     },
     {
       "album": {
+        "name": "Oubliez-moi",
+        "url": "https://open.spotify.com/album/75ymIEBQv8zZhnKtabtB9C"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Kakouprod",
+          "url": "https://open.spotify.com/artist/6g75synhG2eMd0j2228MPR"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "C'est dur d'aimer",
+      "url": "https://open.spotify.com/track/1a2dh2wtCzMZedHpUjplzv"
+    },
+    {
+      "album": {
         "name": "C'est toi",
         "url": "https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy"
       },
@@ -1095,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Close to you",
+        "url": "https://open.spotify.com/album/1CFSPUxpsNnHO6BscKWSec"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136293,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/53zIb2goiAPlyy40I71UlI"
+    },
+    {
+      "album": {
         "name": "Coeur maladroit",
         "url": "https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt"
       },
@@ -1416,10 +1456,28 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 195250,
       "name": "COURTE PAILLE",
       "url": "https://open.spotify.com/track/7dvRcvy17soNaOVy8jWbbt"
+    },
+    {
+      "album": {
+        "name": "Les Grands Espaces",
+        "url": "https://open.spotify.com/album/4QjwSGXRmFijZvXqtXN2Wh"
+      },
+      "artists": [
+        {
+          "name": "Elo\u00efz",
+          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169653,
+      "name": "Cow-girl moderne",
+      "url": "https://open.spotify.com/track/6YhzM0nbo6xOPzpkoEdq6A"
     },
     {
       "album": {
@@ -1774,7 +1832,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 161539,
       "name": "Dis-moi o\u00f9 (feat. OTTA)",
       "url": "https://open.spotify.com/track/6FNnrwCYdfGwDiO1x76ReL"
@@ -7414,7 +7472,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 151931,
       "name": "Sens dessus dessous",
       "url": "https://open.spotify.com/track/1eys5uEsHHVbrlIFGWVD0s"

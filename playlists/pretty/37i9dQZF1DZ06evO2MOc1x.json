@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 53067,
+  "num_followers": 53066,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADzHVNix9A8Zjr9dvoaRyeF",
+  "snapshot_id": "agO/AAAAAADTRP4HtfnpIfX6S1fZjLj2",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs from the Rainbow Room 1972 (Live)",
-        "url": "https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c"
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 187533,
-      "name": "Can't Find My Way Home - Live",
-      "url": "https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm"
+      "duration_ms": 244560,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+        "name": "Songs from the Rainbow Room 1972 (Live)",
+        "url": "https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 244560,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt"
+      "duration_ms": 187533,
+      "name": "Can't Find My Way Home - Live",
+      "url": "https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm"
     },
     {
       "added_at": null,

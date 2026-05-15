@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România și piesele alese de editorii noștri\. Cover: EMAA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,920 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,921 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [MILIONARA](https://open.spotify.com/track/3ShYgHS6W8wUmfNG9Iwbj7) | [Lora](https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq), [Sonia Simionov](https://open.spotify.com/artist/3wZcQGpLB55O3amtFyoDFY) | [MILIONARA](https://open.spotify.com/album/64RZz2vbwB3gWsV7dzbBOf) | 2:51 |
 | 50 | [Mâinile](https://open.spotify.com/track/3800i4uUPQ0TousOW9Kw9f) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Mâinile](https://open.spotify.com/album/2DF4lqHTnPUQl2C0bEQXnl) | 3:18 |
 
-Snapshot ID: `AAAAAL5zMMrD0+SN+ORtx2xWtC9wHMLn`
+Snapshot ID: `AAAAAPCgU+hv1QkY/0P7E1E1NbL02n8P`

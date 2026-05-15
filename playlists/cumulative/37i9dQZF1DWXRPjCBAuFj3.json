@@ -418,7 +418,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 220235,
       "name": "AIRFORCE (feat. Madame)",
       "url": "https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 183500,
       "name": "Beatrice (feat. Annalisa)",
       "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
@@ -2800,7 +2800,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 155753,
       "name": "Body",
       "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
@@ -2964,6 +2964,28 @@
       "duration_ms": 167753,
       "name": "Bo\u00eete (feat. Jul)",
       "url": "https://open.spotify.com/track/4CwoIYWEZE9UTixtP5nc7d"
+    },
+    {
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178966,
+      "name": "BRATZ (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/10nZU1tAX7XepntuYDJUVO"
     },
     {
       "album": {
@@ -3970,7 +3992,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 188693,
       "name": "Chicchi di caff\u00e8",
       "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
@@ -4340,6 +4362,32 @@
       "duration_ms": 178360,
       "name": "Colpevole (feat. Franco126 & Lil Kvneki)",
       "url": "https://open.spotify.com/track/5hupUValNs86n6lzCJkSVQ"
+    },
+    {
+      "album": {
+        "name": "NON \u00c8 SOLO SWAG",
+        "url": "https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        },
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150204,
+      "name": "COME SAREBBE IL MONDO SE REGNASSE L'ARTE (feat. 22simba)",
+      "url": "https://open.spotify.com/track/63XduKh85AiG9L1LjxcfHP"
     },
     {
       "album": {
@@ -6872,7 +6920,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -11797,6 +11845,24 @@
     },
     {
       "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192005,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
+    },
+    {
+      "album": {
         "name": "Mama ja dola",
         "url": "https://open.spotify.com/album/3TAIRuW8HHeq0i7VESGsII"
       },
@@ -16342,7 +16408,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 110551,
       "name": "re bowser (feat. Khodi)",
       "url": "https://open.spotify.com/track/4XcsVgIeHtW4EDrcPUXCez"
@@ -20102,7 +20168,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 209664,
       "name": "TU MI PIACI TANTO",
       "url": "https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf"
@@ -20146,7 +20212,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 193992,
       "name": "Tutto ci\u00f2 che odio (feat. 18K)",
       "url": "https://open.spotify.com/track/2FU3zLtHc8pgWfom7D4td7"
@@ -20296,7 +20362,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 151461,
       "name": "UCCIDERMI/DROGARMI",
       "url": "https://open.spotify.com/track/40N9mmfRHFIy5GnVLuQVKB"
@@ -20852,7 +20918,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 146526,
       "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
       "url": "https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx"

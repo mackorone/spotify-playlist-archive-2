@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 164307,
       "name": "2u",
       "url": "https://open.spotify.com/track/3jJMJNiWbAdGu1ArlaKCWX"
@@ -230,6 +230,24 @@
     {
       "album": {
         "name": "Adelante",
+        "url": "https://open.spotify.com/album/6r1wZRojNoLnMVA05lx7oH"
+      },
+      "artists": [
+        {
+          "name": "Julia Sabat\u00e9",
+          "url": "https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124707,
+      "name": "Adelante",
+      "url": "https://open.spotify.com/track/1Bt7R4D2wOiKxi2JSceI4P"
+    },
+    {
+      "album": {
+        "name": "Adelante",
         "url": "https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ"
       },
       "artists": [
@@ -334,7 +352,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 142584,
       "name": "Ahora lo entiendo",
       "url": "https://open.spotify.com/track/02bgvNU1qzfzKhDklJsyQm"
@@ -352,7 +370,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 174000,
       "name": "AHORRO DE ENERG\u00cdA",
       "url": "https://open.spotify.com/track/1d675JRJcYCu7w6kS4lc9w"
@@ -500,7 +518,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 214170,
       "name": "Alguien especial",
       "url": "https://open.spotify.com/track/70l1yDDqBeh8rGxBPM3GEt"
@@ -3447,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "El Norte est\u00e1 lleno de frio",
+        "url": "https://open.spotify.com/album/1K8CCzXrXQojgiioK6CObm"
+      },
+      "artists": [
+        {
+          "name": "Ojos Pochos",
+          "url": "https://open.spotify.com/artist/6CV8tsJ44anEaCwVm7pWk8"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143573,
+      "name": "El Norte est\u00e1 lleno de frio",
+      "url": "https://open.spotify.com/track/6pcwlreOOJzbLT0Ph6TIH9"
+    },
+    {
+      "album": {
         "name": "El Pajarillo",
         "url": "https://open.spotify.com/album/5UWtB5MPdsNoaHLjDLMBP0"
       },
@@ -3873,6 +3909,28 @@
     },
     {
       "album": {
+        "name": "Esport",
+        "url": "https://open.spotify.com/album/3V0ewH9ahMlLGRtihGjqn7"
+      },
+      "artists": [
+        {
+          "name": "Roko Banana",
+          "url": "https://open.spotify.com/artist/1NLmdiLmGXAmUFALmYqLWO"
+        },
+        {
+          "name": "Remei de Ca la Fresca",
+          "url": "https://open.spotify.com/artist/4EumXNdcUtH8akCtwEYUwu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238514,
+      "name": "Esport",
+      "url": "https://open.spotify.com/track/0JRViB6NK0mrasLg3fHKBq"
+    },
+    {
+      "album": {
         "name": "Esp\u00edritu Ol\u00edmpico",
         "url": "https://open.spotify.com/album/5KhojvYi9mOuTkQQcbuXLh"
       },
@@ -4026,7 +4084,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 131779,
       "name": "EVA-03",
       "url": "https://open.spotify.com/track/6z9SOKob9QhoYueCLZUcYN"
@@ -4844,7 +4902,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 161026,
       "name": "Harakiri",
       "url": "https://open.spotify.com/track/1LMZT6dGl9LXI52zxpJuT5"
@@ -5645,6 +5703,24 @@
     },
     {
       "album": {
+        "name": "LA GOMERA",
+        "url": "https://open.spotify.com/album/0LwSnM0GA4JfAzfNdXcsEO"
+      },
+      "artists": [
+        {
+          "name": "Duele",
+          "url": "https://open.spotify.com/artist/3dz9aMICvHqTIm2suEMolO"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "LA GOMERA",
+      "url": "https://open.spotify.com/track/3PPEkc7wT1Al0Fgqk9vAzV"
+    },
+    {
+      "album": {
         "name": "La gran renuncia",
         "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
       },
@@ -6187,6 +6263,24 @@
     },
     {
       "album": {
+        "name": "Llevo d\u00edas",
+        "url": "https://open.spotify.com/album/36lXF92s95aqJngaNdtCzx"
+      },
+      "artists": [
+        {
+          "name": "Alison Darwin",
+          "url": "https://open.spotify.com/artist/6Yj1pX8slOOGUwzDNwMdXz"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178358,
+      "name": "Llevo d\u00edas",
+      "url": "https://open.spotify.com/track/5CHr43xl7swpRuniVGt8ZN"
+    },
+    {
+      "album": {
         "name": "Ll\u00e9vame M\u00e1s Lejos",
         "url": "https://open.spotify.com/album/2Ur3sb6K1VElD5PJz8uOLI"
       },
@@ -6386,6 +6480,24 @@
       "duration_ms": 186284,
       "name": "Los jueves de la buena",
       "url": "https://open.spotify.com/track/3W7x9JMC3yS4qJNncsXIS9"
+    },
+    {
+      "album": {
+        "name": "Los Llamados Pitag\u00f3ricos",
+        "url": "https://open.spotify.com/album/6FsxcuAF5nouopLZ5ZE6Kz"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242065,
+      "name": "Los Llamados Pitag\u00f3ricos",
+      "url": "https://open.spotify.com/track/7ydaxAURHTlX3JGOo7JEsW"
     },
     {
       "album": {
@@ -7160,6 +7272,24 @@
       "duration_ms": 190013,
       "name": "Mi Barrio",
       "url": "https://open.spotify.com/track/1dw2PZHbL7HXcbM97S9BdM"
+    },
+    {
+      "album": {
+        "name": "Mi Catedral",
+        "url": "https://open.spotify.com/album/7rR8qrcmBnzJeqOj2dWq9n"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268053,
+      "name": "Mi Catedral",
+      "url": "https://open.spotify.com/track/46dzyJIPzp8WhdG8pFd4oj"
     },
     {
       "album": {
@@ -9352,7 +9482,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 202252,
       "name": "P\u00e9gate por favor",
       "url": "https://open.spotify.com/track/0QPQ8ZfzwCuEzO1obLV7K3"
@@ -10696,7 +10826,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 144079,
       "name": "talento natural",
       "url": "https://open.spotify.com/track/1aQTHE9NGTGnV4hc9BsSPt"
@@ -12086,6 +12216,24 @@
       "duration_ms": 182880,
       "name": "Vou pa Arz\u00faa",
       "url": "https://open.spotify.com/track/73hDech6uOsguf43udLL5V"
+    },
+    {
+      "album": {
+        "name": "voy a destrozar tu piso",
+        "url": "https://open.spotify.com/album/46OUSy7jAQg3nCxeObzZjM"
+      },
+      "artists": [
+        {
+          "name": "piso piloto",
+          "url": "https://open.spotify.com/artist/6tQK138Vxap50aqGSXKB9O"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154578,
+      "name": "voy a destrozar tu piso",
+      "url": "https://open.spotify.com/track/2LObFOHb1MdQ9PiDquWvE9"
     },
     {
       "album": {

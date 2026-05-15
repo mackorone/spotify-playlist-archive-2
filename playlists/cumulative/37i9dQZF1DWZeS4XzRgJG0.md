@@ -4,7 +4,7 @@
 
 > focus modus is aan en leren maar
 
-379 songs - 22 hr 24 min
+380 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All My Life](https://open.spotify.com/track/5A5RoEPhOr4TzKA2dRxNl0) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Plug It In](https://open.spotify.com/album/40M3lQx5lmpdIMEeABwLIT) | 3:38 | 2022-11-11 | 2024-10-04 |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2022-11-11 |  |
 | [all the kids are depressed](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 2:49 | 2022-11-11 | 2024-07-19 |
+| [All The Things](https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:01 | 2026-05-14 |  |
 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2026-02-06 |  |
 | [Always](https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 4:07 | 2022-11-11 | 2024-04-19 |
 | [Always](https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Always](https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM) | 4:07 | 2024-03-25 |  |

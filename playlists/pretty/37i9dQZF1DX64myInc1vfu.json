@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: iLe",
-  "num_followers": 104814,
+  "num_followers": 104832,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Medianoche",
-        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 240495,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Medianoche",
+        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Frio",
         "url": "https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 155208,
       "name": "Frio",
       "url": "https://open.spotify.com/track/0Upd1dGnqg5TtrFb8urWTb"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
         "name": "D\u00e9jame Conocerte",
         "url": "https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Ojos de Serpiente",
         "url": "https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 171145,
       "name": "Ojos de Serpiente",
       "url": "https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
-        "name": "Y SI SOMOS NOVIOS???",
-        "url": "https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go"
-      },
-      "artists": [
-        {
-          "name": "PARDOPARDO",
-          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
-        }
-      ],
-      "duration_ms": 153117,
-      "name": "Y SI SOMOS NOVIOS???",
-      "url": "https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -1003,6 +987,22 @@
       "duration_ms": 213511,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Y SI SOMOS NOVIOS???",
+        "url": "https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go"
+      },
+      "artists": [
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        }
+      ],
+      "duration_ms": 153117,
+      "name": "Y SI SOMOS NOVIOS???",
+      "url": "https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL"
     },
     {
       "added_at": "2025-10-24 04:00:22",

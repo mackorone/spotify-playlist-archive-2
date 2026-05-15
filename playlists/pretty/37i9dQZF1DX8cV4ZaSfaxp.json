@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 64306,
+  "num_followers": 64309,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
+        "name": "Film Love",
+        "url": "https://open.spotify.com/album/7HSP5krjj4CV7xoBfPoIuz"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 243280,
+      "name": "Film Love",
+      "url": "https://open.spotify.com/track/1cXTdenfd8MRKw9Elge6ru"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/7hX2fO4JjrObIF3u33pKM6"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 216360,
       "name": "Thinkin' bout you",
       "url": "https://open.spotify.com/track/21DduanRJyq1KNV4h1DyWH"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
-        "name": "Film Love",
-        "url": "https://open.spotify.com/album/7HSP5krjj4CV7xoBfPoIuz"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 243280,
-      "name": "Film Love",
-      "url": "https://open.spotify.com/track/1cXTdenfd8MRKw9Elge6ru"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
-        "url": "https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jong Shin",
-          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
-      "url": "https://open.spotify.com/track/4b4hrrDEP5ZrF5n1mePurX"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "AOA 4th Mini Album Good Luck",
         "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 200053,
       "name": "5min to heartbreak",
       "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
+        "url": "https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
+      "url": "https://open.spotify.com/track/4b4hrrDEP5ZrF5n1mePurX"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
-      },
-      "artists": [
-        {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "Elastic Love",
         "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 218880,
       "name": "Elastic Love",
       "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "Onstage Digging Club Seoul Part.05",
-        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
-      },
-      "artists": [
-        {
-          "name": "DAYBREAK",
-          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
-        }
-      ],
-      "duration_ms": 294308,
-      "name": "You always - Digging Club Seoul Ver.",
-      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "I Just Wanna Dance - The 1st Mini Album",
         "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "WJ STAY?",
-        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
+        "name": "Onstage Digging Club Seoul Part.05",
+        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
       },
       "artists": [
         {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+          "name": "DAYBREAK",
+          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
         }
       ],
-      "duration_ms": 214847,
-      "name": "You Got",
-      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
+      "duration_ms": 294308,
+      "name": "You always - Digging Club Seoul Ver.",
+      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1323,6 +1307,22 @@
       "duration_ms": 235293,
       "name": "A song from the past",
       "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "WJ STAY?",
+        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 214847,
+      "name": "You Got",
+      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/1nwQsE8hXTrrjjnTviT2qn"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
         "name": "The Story Of The Year (feat. Wonwoo)",
         "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 253948,
       "name": "The Story Of The Year (feat. Wonwoo)",
       "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
-        "name": "Rainbow note",
-        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/1nwQsE8hXTrrjjnTviT2qn"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1543,18 +1543,22 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "TALK",
-        "url": "https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR"
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
       "artists": [
         {
-          "name": "YOU DAYEON",
-          "url": "https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr"
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        },
+        {
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
         }
       ],
-      "duration_ms": 203927,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv"
+      "duration_ms": 299500,
+      "name": "Aqua (feat. Muzie)",
+      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1575,22 +1579,18 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+        "name": "TALK",
+        "url": "https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR"
       },
       "artists": [
         {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        },
-        {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+          "name": "YOU DAYEON",
+          "url": "https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr"
         }
       ],
-      "duration_ms": 299500,
-      "name": "Aqua (feat. Muzie)",
-      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
+      "duration_ms": 203927,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
+        "name": "Here, This Moment",
+        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
+      },
+      "artists": [
+        {
+          "name": "ARTLOVEU",
+          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Here, This Moment",
+      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
         "name": "Dance with me",
         "url": "https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 237500,
       "name": "Get up",
       "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
-        "name": "Here, This Moment",
-        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
-      },
-      "artists": [
-        {
-          "name": "ARTLOVEU",
-          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Here, This Moment",
-      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
     },
     {
       "added_at": "2026-04-23 02:17:51",

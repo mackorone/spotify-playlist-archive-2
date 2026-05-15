@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,615 songs - 6 day 17 hr 34 min
+2,616 songs - 6 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 | 2024-01-30 | 2024-04-11 |
 | [Curious about you](https://open.spotify.com/track/4NkwAY248EipSQ4SMp7nV6) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Curious about you](https://open.spotify.com/album/3qXGpeLVb06vcBRaod0dXV) | 3:00 | 2025-04-08 | 2025-06-14 |
 | [Cusp](https://open.spotify.com/track/2QDZd5Au985Dtz5VpserwG) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Cusp](https://open.spotify.com/album/0Ez4MRqV4NTymRUGeYeqpR) | 3:53 | 2026-04-14 |  |
+| [CUTIE SPHERE \- TV size](https://open.spotify.com/track/4qu7V5Gbu5J1DBaHrr8y3I) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [CUTIE SPHERE \(TV size\)](https://open.spotify.com/album/6EZ6r2vFlyplhPMys8fN8p) | 1:29 | 2026-05-14 |  |
 | [CYAN](https://open.spotify.com/track/2yZqINHT3713H9A5H4yVmS) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [CYAN](https://open.spotify.com/album/4LyPs0HZouAAK4JWwbkkv5) | 4:06 | 2024-06-04 | 2024-07-10 |
 | [Cyan Innocence](https://open.spotify.com/track/73gBEMU6UOgFw38HRGtVHj) | [FRAM](https://open.spotify.com/artist/0TLeLdnZij6KfCNwzzcfOS) | [Cyan Innocence](https://open.spotify.com/album/0IlrhjdCwl97eFuztYrI2p) | 3:24 | 2023-07-18 | 2023-08-07 |
 | [Da La La](https://open.spotify.com/track/0SBJVoFxYDaMnBH0nq65Sv) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Da La La](https://open.spotify.com/album/09KT17PkcVMZoZq0G2jOYI) | 3:10 | 2024-11-12 | 2024-12-18 |
@@ -509,7 +510,7 @@
 | [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 | 2025-03-25 | 2025-04-18 |
 | [heart notes](https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [heart notes](https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ) | 4:17 | 2022-12-22 | 2023-01-18 |
 | [HEARTLOUD](https://open.spotify.com/track/0BrP9D6bRbq9UFcWGpa4nM) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [HEARTLOUD](https://open.spotify.com/album/2djfNGmYD4Ut8aMSNuBNB9) | 3:22 | 2026-04-07 |  |
-| [Heaven Knows](https://open.spotify.com/track/2m9wsoF85YK4KkGIPNeJEZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [Heaven Knows](https://open.spotify.com/album/0pgiZyAh2klqVTqyLy7Pwh) | 3:08 | 2026-04-07 |  |
+| [Heaven Knows](https://open.spotify.com/track/2m9wsoF85YK4KkGIPNeJEZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [Heaven Knows](https://open.spotify.com/album/0pgiZyAh2klqVTqyLy7Pwh) | 3:08 | 2026-04-07 | 2026-05-15 |
 | [Heaven’s falling down](https://open.spotify.com/track/5viPEz1dLOhTXNEeZEscGH) | [sana \(sajou no hana\)](https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY) | [Heaven’s falling down](https://open.spotify.com/album/4fJPCGw5H94MX6TGOe6gBd) | 3:35 | 2022-12-01 | 2023-04-09 |
 | [Heaven’s falling down](https://open.spotify.com/track/6q8zgVqFyHm7tnrhe7gMMQ) | [sana \(sajou no hana\)](https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY) | [Heaven’s falling down](https://open.spotify.com/album/4k9eadDUC9Mgab8rFcEiSS) | 3:35 | 2022-12-01 | 2022-12-03 |
 | [HEAVY GAMER](https://open.spotify.com/track/7A5w2FDIv8NERGk59C6dF9) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [HEAVY GAMER](https://open.spotify.com/album/5thtZUHXDTXNPvd5qKvnJV) | 3:24 | 2024-04-16 | 2024-06-13 |
@@ -1477,7 +1478,7 @@
 | [Young Gun of The Sun](https://open.spotify.com/track/1FvOJYT3Q7JI4HvAekiEW8) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [ヒプノシスマイク \-D.R.B\- \(波羅夷 空却\)](https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t) | [Bad Ass Temple \-戒定慧\-](https://open.spotify.com/album/2uQtOIKEuUWsy2HVt270Zy) | 3:02 | 2022-09-01 | 2022-09-16 |
 | [YOUR COLOUR, MY COLOUR](https://open.spotify.com/track/5P2Fj8zQPK9B6WLIu7988P) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [YOUR COLOUR, MY COLOUR](https://open.spotify.com/album/3p1snIInehN6i6kdukMUeo) | 3:39 | 2025-10-14 | 2026-01-15 |
 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 | 2024-01-09 | 2024-03-20 |
-| [Youth](https://open.spotify.com/track/3Rxe1nKv2XDDyDj1F4QMOO) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [Youth](https://open.spotify.com/album/2r9og7GiccfnuknYxrO645) | 3:05 | 2026-04-14 |  |
+| [Youth](https://open.spotify.com/track/3Rxe1nKv2XDDyDj1F4QMOO) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [Youth](https://open.spotify.com/album/2r9og7GiccfnuknYxrO645) | 3:05 | 2026-04-14 | 2026-05-15 |
 | [Yumagadoki](https://open.spotify.com/track/5ZQfzVe2AZ2YGeW04QNWmn) | [Soraru & Rib](https://open.spotify.com/artist/2xagT4uswba0ebsK4tlNr2), [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz), [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [Collaboration Single "Yumagadoki" \-TV Anime "Migi & Dali" OpeningTheme\-](https://open.spotify.com/album/5HjBHw6gFDGDkrR0e694mn) | 3:36 | 2023-10-24 | 2024-01-10 |
 | [Yumagadoki\(TV Size ver.\)](https://open.spotify.com/track/5XpyuBdbX8Pn4nArmEcPGm) | [Soraru & Rib](https://open.spotify.com/artist/2xagT4uswba0ebsK4tlNr2), [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz), [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [TV Anime "Migi & Dali" Opening Theme "Yumagadoki"](https://open.spotify.com/album/5b4tdpeo3ZQXQZRHlm4CCd) | 1:29 | 2023-10-03 | 2023-10-11 |
 | [yummy goodday](https://open.spotify.com/track/56YtgeLZZz9mWWcbPu569O) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [yummy goodday](https://open.spotify.com/album/2cFgZ4OOUSTsvTek9hqtvT) | 3:20 | 2025-10-07 | 2026-01-15 |

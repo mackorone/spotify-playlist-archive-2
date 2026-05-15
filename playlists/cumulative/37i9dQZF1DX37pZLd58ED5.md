@@ -2,9 +2,9 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Marracash
+> Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-356 songs - 18 hr 17 min
+360 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [6 LONTANA](https://open.spotify.com/track/38GGZL8KMmJPtoJQ5lJMl6) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [6 LONTANA](https://open.spotify.com/album/2p8MnbIdUPbA54s13USJMB) | 2:39 | 2026-02-13 | 2026-02-25 |
 | [7 GIORNI SU 7](https://open.spotify.com/track/2VkQSgHFeC4rcyeGHpCtGL) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [CRACK MUSICA II](https://open.spotify.com/album/2F2oWAicT6LTTTa7QbvWU6) | 1:39 | 2026-03-12 | 2026-03-27 |
 | [A Lei](https://open.spotify.com/track/50uGP4Bs22S1iPNn1hTo3R) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 3:05 | 2025-01-17 |  |
+| [A METÀ \(feat\. 22Simba\)](https://open.spotify.com/track/0sIIPNmFuN4ULytAUNgRuY) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [THE GOLDFATHER](https://open.spotify.com/album/2wqe37GloOInHxfqo7N6DC) | 2:50 | 2026-05-14 |  |
 | [A Pezzi](https://open.spotify.com/track/7gcd2AUCQaUcbjx51LJ0Ha) | [Due G](https://open.spotify.com/artist/7ICNoOv4dBRG72UaFP5Aba) | [A Pezzi](https://open.spotify.com/album/2vRxTXuIKL5emsInVmEU7T) | 2:20 | 2026-02-20 | 2026-03-27 |
 | [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-07-07 | 2022-09-02 |
 | [Aeroplanini Di Carta](https://open.spotify.com/track/5lSUBOoR69N6lbwGySVdSr) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Dasein Sollen](https://open.spotify.com/album/4cpbVkMPzHjWZajKY53SKJ) | 3:44 | 2022-04-28 |  |
@@ -91,6 +92,7 @@
 | [Come Finirà?](https://open.spotify.com/track/5sSwJbF5jJHGMiSOOfNl8V) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mentre Los Angeles Brucia](https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1) | 3:50 | 2025-06-19 | 2025-09-05 |
 | [Come Mai \(feat\. Emis Killa\)](https://open.spotify.com/track/0ImvhtUWThEVg2d7KQPT1N) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:23 | 2023-05-25 | 2023-09-08 |
 | [Come mi guardi](https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 2](https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn) | 3:23 | 2024-09-19 |  |
+| [COME SAREBBE IL MONDO SE REGNASSE L'ARTE \(feat\. 22simba\)](https://open.spotify.com/track/63XduKh85AiG9L1LjxcfHP) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [NON È SOLO SWAG](https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic) | 2:30 | 2026-05-14 |  |
 | [Come Stai](https://open.spotify.com/track/6mmBVpItqlggbdKOD9zOu9) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 2:46 | 2022-04-28 | 2022-07-07 |
 | [COME STAI?](https://open.spotify.com/track/2QjyiKbzVyfrRgE6EGF3bn) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 3:22 | 2026-04-16 |  |
 | [Complicato](https://open.spotify.com/track/6d7BZ0WMfu6OlgA3hIh58P) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:13 | 2023-11-17 |  |
@@ -274,6 +276,7 @@
 | [PER SENTIRMI ADATTO](https://open.spotify.com/track/0NGU0fn89wEQisihc82r9Y) | [Ciro AMORE](https://open.spotify.com/artist/0gHvXoRSFCRlbgkAgSXtP4) | [PER SENTIRMI ADATTO](https://open.spotify.com/album/7qlMO1OIjjwYD4ERwMZq3R) | 3:16 | 2026-01-28 | 2026-02-03 |
 | [PERCHÉ PIANGO \(feat\. Kid Yugi\)](https://open.spotify.com/track/5O7yMp5fwRCKvbVEYoEb7d) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 4:19 | 2026-05-08 |  |
 | [Perdersi](https://open.spotify.com/track/3TLZe4PbXoTISRZpgWEpMX) | [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu), [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [Perdersi](https://open.spotify.com/album/7LXaxcuY0jHmP4Ii8hj8E5) | 2:07 | 2025-11-20 | 2026-03-27 |
+| [PERSONA SOLA](https://open.spotify.com/track/2wgIIFt4Ar6NJczAVmQ4Yd) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc) | [PERSONA SOLA](https://open.spotify.com/album/7l9rya9T0tUZeBK3YI1KC7) | 2:24 | 2026-05-14 |  |
 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 | 2025-10-16 | 2025-11-07 |
 | [Piccolo principe](https://open.spotify.com/track/0ReSNmM6DihL9WAb95jc5h) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:20 | 2024-01-25 | 2024-12-07 |
 | [PIETÀ \(feat\. Kid Yugi\)](https://open.spotify.com/track/0IkOUXIMztRh6yBAPD1OzF) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 3:28 | 2025-03-28 |  |
@@ -364,5 +367,6 @@
 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 | 2023-10-05 |  |
 | [X Sempre](https://open.spotify.com/track/00r1JkjftpDP9sToJsHypT) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [4U EP](https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm) | 3:10 | 2026-02-13 |  |
 | [È FINITA LA PACE](https://open.spotify.com/track/6hBvXhUosokAqnc701pVE1) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 2:58 | 2024-12-13 | 2025-03-28 |
+| [つづく\(passerà\) \(feat\. Silent Bob\)](https://open.spotify.com/track/231agvY1iOEF1ghofx1lrx) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [²Geeeeked](https://open.spotify.com/album/2F3INNy442zZb28Nxb8klD) | 3:08 | 2026-05-14 |  |
 
 \*This playlist was first scraped on 2022-05-12. Prior content cannot be recovered.

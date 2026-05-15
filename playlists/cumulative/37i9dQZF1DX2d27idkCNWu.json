@@ -923,6 +923,28 @@
     },
     {
       "album": {
+        "name": "do raso ao fundo",
+        "url": "https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245681,
+      "name": "do raso ao fundo",
+      "url": "https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW"
+    },
+    {
+      "album": {
         "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
         "url": "https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms"
       },
@@ -2552,7 +2574,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140026,
       "name": "PSYCHO - Acoustic",
       "url": "https://open.spotify.com/track/7EZiKFoOdwja5fgZW3DePA"

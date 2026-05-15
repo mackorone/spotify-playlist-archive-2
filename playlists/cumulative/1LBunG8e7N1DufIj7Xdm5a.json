@@ -6729,6 +6729,24 @@
     },
     {
       "album": {
+        "name": "Black or White",
+        "url": "https://open.spotify.com/album/6jAQM6dV7PLwD05KnDotSk"
+      },
+      "artists": [
+        {
+          "name": "Dark Shadow",
+          "url": "https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365000,
+      "name": "Black or White",
+      "url": "https://open.spotify.com/track/4tok7s1cquoHTxgHPIv8Xe"
+    },
+    {
+      "album": {
         "name": "BLACK STAR (SINGOLO)",
         "url": "https://open.spotify.com/album/6DrwTjhBvwsIpDHGdGRUdi"
       },
@@ -26285,7 +26303,7 @@
     },
     {
       "album": {
-        "name": "FIRE ON THE BLACK FLAGS",
+        "name": "Fire on the Black Flags",
         "url": "https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e"
       },
       "artists": [
@@ -26298,7 +26316,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169412,
-      "name": "FIRE ON THE BLACK FLAGS",
+      "name": "Fire on the Black Flags",
       "url": "https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO"
     },
     {
@@ -76550,6 +76568,24 @@
       "duration_ms": 175000,
       "name": "Where the Power Lies",
       "url": "https://open.spotify.com/track/4Ox1lyF51vHPW5hSiDF02n"
+    },
+    {
+      "album": {
+        "name": "Where you and music meet",
+        "url": "https://open.spotify.com/album/1BCGjd7MKvuxSi5LoMS90O"
+      },
+      "artists": [
+        {
+          "name": "Patrick van Bergen",
+          "url": "https://open.spotify.com/artist/0iIsumYuMvo8U1dfOVuGXY"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262269,
+      "name": "Where you and music meet",
+      "url": "https://open.spotify.com/track/3KxEFfyYA4gYbpqouqxZgx"
     },
     {
       "album": {

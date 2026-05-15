@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 106433,
+  "num_followers": 106521,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACT3QJhdAR1jEd2Oj2a7Z/J",
+  "snapshot_id": "agO/AAAAAAAkCUmOpyxGQ69+zamxI6ER",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reputation (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
       },
       "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 235705,
-      "name": "Reputation (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
+      "duration_ms": 127054,
+      "name": "Superstar Sh*t",
+      "url": "https://open.spotify.com/track/20j7l6tFtc5lynXpbOQg1O"
     },
     {
       "added_at": null,
@@ -215,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+        "name": "Reputation (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
       },
       "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 127054,
-      "name": "Superstar Sh*t",
-      "url": "https://open.spotify.com/track/20j7l6tFtc5lynXpbOQg1O"
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
     },
     {
       "added_at": null,

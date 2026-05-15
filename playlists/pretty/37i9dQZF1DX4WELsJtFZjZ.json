@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1700562,
+  "num_followers": 1700863,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 354636,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "...Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 267266,
-      "name": "Englishman In New York",
-      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
+      "duration_ms": 354636,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -459,6 +443,22 @@
       "duration_ms": 208000,
       "name": "Words - Original Version 1983",
       "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Englishman In New York",
+      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "We Are The World",
+        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
+      },
+      "artists": [
+        {
+          "name": "U.S.A. For Africa",
+          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
+        }
+      ],
+      "duration_ms": 427333,
+      "name": "We Are The World",
+      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -919,18 +935,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "We Are The World",
-        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
       "artists": [
         {
-          "name": "U.S.A. For Africa",
-          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
         }
       ],
-      "duration_ms": 427333,
-      "name": "We Are The World",
-      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+      "duration_ms": 253784,
+      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -963,26 +983,6 @@
       "duration_ms": 222280,
       "name": "I Keep Forgettin' (Every Time You're Near)",
       "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Siedah Garrett",
-          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
-        }
-      ],
-      "duration_ms": 253784,
-      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Eyes Without A Face - Remastered 1999",
+      "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "Heart Break",
         "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 278853,
       "name": "Where Do Broken Hearts Go",
       "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "Eyes Without A Face - Remastered 1999",
-      "url": "https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "I Don't Wanna Lose You",
-      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 211000,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "I Don't Wanna Lose You",
+      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "The Visitors (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/40IHflbrHcOuC8ZcYxUSAC"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7oGKY090fvrI6pgFW64kXS"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 235666,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/793zMrBCSBOYgD7JhYB97f"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "The Visitors (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/40IHflbrHcOuC8ZcYxUSAC"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Shake You Down (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
-      },
-      "artists": [
-        {
-          "name": "Gregory Abbott",
-          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Shake You Down",
-      "url": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Simply the Best",
         "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 255186,
       "name": "We Don't Need Another Hero (Thunderdome)",
       "url": "https://open.spotify.com/track/1qyJ6XpMHdsJD8pkiA7Qww"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Shake You Down (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
+      },
+      "artists": [
+        {
+          "name": "Gregory Abbott",
+          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Shake You Down",
+      "url": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "The Best Of Roxy Music",
-        "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 297306,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Turn Back The Clock",
         "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 270133,
       "name": "Turn Back The Clock",
       "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "The Best Of Roxy Music",
+        "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 297306,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/6RKJu77xXDgTqGWCEmzMll"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 265293,
       "name": "Human",
       "url": "https://open.spotify.com/track/79FPdsekcDp7RWK1IzClbr"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "Introducing The Hardline According To Sananda Maitreya",
+        "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
+      },
+      "artists": [
+        {
+          "name": "Sananda Maitreya",
+          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
+        }
+      ],
+      "duration_ms": 276533,
+      "name": "Sign Your Name",
+      "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "Gideon",
         "url": "https://open.spotify.com/album/5bxzSTp85ypZnJHFBD3lNb"
       },
@@ -2383,22 +2399,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Introducing The Hardline According To Sananda Maitreya",
-        "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
-      },
-      "artists": [
-        {
-          "name": "Sananda Maitreya",
-          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
-        }
-      ],
-      "duration_ms": 276533,
-      "name": "Sign Your Name",
-      "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Hangin' Tough",
         "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
       },
@@ -2411,6 +2411,22 @@
       "duration_ms": 263933,
       "name": "I'll Be Loving You (Forever)",
       "url": "https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Being With You",
+        "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Being With You",
+      "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2431,22 +2447,6 @@
       "duration_ms": 361626,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/7upgDi9C0pQn9HZzGfksJq"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "Being With You",
-        "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Being With You",
-      "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
     },
     {
       "added_at": "2026-05-04 14:51:52",

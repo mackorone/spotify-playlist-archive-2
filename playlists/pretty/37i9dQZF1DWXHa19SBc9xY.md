@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,004 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,037 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 48 | [Te Levar \- Acústico](https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Te Levar \(Acústico\)](https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ) | 2:53 |
 | 49 | [Coração Melão](https://open.spotify.com/track/5WJl5D5BtJ1m0DIj6ZKOzT) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Coração Melão](https://open.spotify.com/album/6M6JvZ9nPuldJZHe99vInD) | 4:18 |
 | 50 | [Pode Acreditar](https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0) | [Pode Acreditar](https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf) | 3:39 |
-| 51 | [cheia de vontade](https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [cheia de vontade](https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv) | 2:26 |
-| 52 | [Estrelas](https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB) | [Jonathan Luiz](https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2) | [Estrelas](https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj) | 3:33 |
+| 51 | [Estrelas](https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB) | [Jonathan Luiz](https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2) | [Estrelas](https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj) | 3:33 |
+| 52 | [cheia de vontade](https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [cheia de vontade](https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv) | 2:26 |
 | 53 | [Vou Me Banhar](https://open.spotify.com/track/1BFf0ApsecABByJCo1jsYr) | [LOFRAN](https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78), [Jônatas Belgrande](https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz) | [Vou Me Banhar](https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M) | 3:42 |
 | 54 | [Com Certeza](https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Com Certeza](https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7) | 3:32 |
 | 55 | [PREAMAR](https://open.spotify.com/track/5vXucjlEods0fafmWCudxU) | [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj), [Felipe Cordeiro](https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4), [Júnior Soares](https://open.spotify.com/artist/4d4yeFgcaOZvMcCWWY0pON) | [PREAMAR](https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA) | 4:21 |

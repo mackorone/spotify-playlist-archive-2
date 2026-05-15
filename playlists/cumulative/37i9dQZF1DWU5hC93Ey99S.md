@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-1,019 songs - 2 day 6 hr 12 min
+1,021 songs - 2 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [I've Been Missing U](https://open.spotify.com/track/6eRvpJ5dbz17RlKTRtD55c) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [I've Been Missing U](https://open.spotify.com/album/5Wjms6TRm1D8XSkv7YhuvE) | 2:43 | 2026-05-07 |  |
 | [ibiza is waiting for me](https://open.spotify.com/track/5vdhqDCTGz9wOOtfNc9WAb) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ), [Spring Breaker](https://open.spotify.com/artist/5ba5RugOUTTg6cRZQdV0bP) | [ibiza is waiting for me](https://open.spotify.com/album/1bN925mymBe394mn5MS3oX) | 5:27 | 2025-02-20 |  |
 | [IDK](https://open.spotify.com/track/23BiGklg1oOIXdA1r6ABSZ) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [IDK](https://open.spotify.com/album/0leWpmreYDDG81dM9D3djo) | 2:53 | 2024-08-29 | 2025-08-13 |
+| [If This Is It](https://open.spotify.com/track/71vkCMFohC2QD94tlyIGln) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [If This Is It](https://open.spotify.com/album/4EQ1QONy2hsmWHFdxOB7gm) | 4:03 | 2026-05-14 |  |
 | [If U Get Lost](https://open.spotify.com/track/1clcJIgwOLFu4t0Bz0p8FF) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [If U Get Lost](https://open.spotify.com/album/1fmQ63djQBOt6M2XscCL1D) | 2:36 | 2024-07-12 | 2025-08-13 |
 | [Imagination](https://open.spotify.com/track/43FVchS087rIcfmnrOkNsC) | [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt), [Aries](https://open.spotify.com/artist/5i3GGVDRXf0fPJsmzA6uuC) | [Imagination](https://open.spotify.com/album/7IcoBgb1jeBfEDDQ9R0lg0) | 2:46 | 2026-04-09 |  |
 | [imissthetimes](https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [imissthetimes](https://open.spotify.com/album/6soiQc7YLffUhmPHzWbz7q) | 2:24 | 2026-01-22 |  |
@@ -680,6 +681,7 @@
 | [Piece of You](https://open.spotify.com/track/4pNpIUcx66auuJTusGNHxa) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Piece of You](https://open.spotify.com/album/6svyIFvuWLHRtq5AgISkO5) | 2:58 | 2025-12-18 |  |
 | [Pixel Heart](https://open.spotify.com/track/2mDnysW26TTMYZ0Wji4juJ) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Pixel Heart](https://open.spotify.com/album/0N6kV5ONaWhpQquw2DBRHA) | 3:00 | 2024-01-11 | 2024-01-26 |
 | [PLACE IN MY MIND \(feat\. shy martin\)](https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Life of a Wallflower , Vol\. 2](https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T) | 2:46 | 2024-07-12 | 2025-08-13 |
+| [Playground](https://open.spotify.com/track/1yWRP5rFvqJwsEFO6jgYxp) | [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Playground](https://open.spotify.com/album/3OaGy8eYfBTE8QQO3PyZbu) | 4:10 | 2026-05-14 |  |
 | [Poetry Of You](https://open.spotify.com/track/2fvt96YAsSr5e8ZwbMg2j9) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Poetry Of You](https://open.spotify.com/album/4qdR9J2rvV9X3t6eZKrTL1) | 4:17 | 2023-06-08 | 2024-01-06 |
 | [Pollen](https://open.spotify.com/track/3SLLlwtC4vAyiaWhZ6U4pI) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Pollen](https://open.spotify.com/album/6xsuHwZZyZjzfc5GQ2QiB3) | 3:25 | 2025-05-01 |  |
 | [Pool \- Gravagerz Version](https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc), [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Pool \(Gravagerz Version\)](https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9) | 2:05 | 2025-04-17 |  |

@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 16 | [Polite](https://open.spotify.com/track/6vBq30WUf7EJq0bQPEkBXr) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:24 |
 | 17 | [Forget](https://open.spotify.com/track/7CgfLYNXmkKsOpI23Cjbkc) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Forget](https://open.spotify.com/album/7va1UjsOrCh9wEz0sscKFO) | 3:24 |
 | 18 | [Miss](https://open.spotify.com/track/3iewIkYTvvaicW8iysqxuU) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:09 |
-| 19 | [Good Time](https://open.spotify.com/track/0ypj9uw3cJgqdumtA87LSD) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:37 |
-| 20 | [You Can't Always Get What You Want](https://open.spotify.com/track/0loAUwPeBd9LvYtnaKpoGG) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:30 |
+| 19 | [You Can't Always Get What You Want](https://open.spotify.com/track/0loAUwPeBd9LvYtnaKpoGG) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:30 |
+| 20 | [Good Time](https://open.spotify.com/track/0ypj9uw3cJgqdumtA87LSD) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:37 |
 | 21 | [Lucky](https://open.spotify.com/track/4UZI5lPk248pK7T41dOiL9) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:24 |
 | 22 | [December](https://open.spotify.com/track/5xiRrfntOYopw0Zoa5MMHY) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:00 |
 | 23 | [ice](https://open.spotify.com/track/4yDy9duBm6tumzyxp9HHkm) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:46 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHqb7XwW9OVZ.md) - [plain]
 | 67 | [No One's God](https://open.spotify.com/track/3lI8GbBt2RTH2F2AJkJXgS) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [No One's God](https://open.spotify.com/album/0Sy6QHq7t9bxY3poE7E3Se) | 4:07 |
 | 68 | [Ride](https://open.spotify.com/track/6k7yFNyWrK8rfWxsZlFiLW) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:48 |
 
-Snapshot ID: `AcRavAAAAAAPlwEfTuYe7X9RfDQ95i0Y`
+Snapshot ID: `AcRgXAAAAADbBiVB6nxc6sH4BjWWcHRA`

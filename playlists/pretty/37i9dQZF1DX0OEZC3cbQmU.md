@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: MORADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,344,386 likes - 75 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,344,399 likes - 75 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 39 | [Reacende a Chama \- Ao Vivo](https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Reacende a Chama \(Ao Vivo\)](https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc) | 7:57 |
 | 40 | [Sê Valente / Deus Vai Te Guiar / O Cego De Jericó \(Ao Vivo\)](https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3) | [Michele do Pandeiro](https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn) | [Jesus, Eu, Vocês E O Pandeiro \(Ao Vivo\)](https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL) | 5:52 |
 | 41 | [Nada Mais/Uma Vez](https://open.spotify.com/track/6iRxHMWx0ACA8NoDZ8NN60) | [Cultura do Céu](https://open.spotify.com/artist/2CzYWEDa8pdDgcwaazooQd), [Davi Fernandes](https://open.spotify.com/artist/6llGArQXTEY84S4Oto9Vll), [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Nada Mais/Uma Vez](https://open.spotify.com/album/6gQlQS55W8vZ3bjTmByVa1) | 6:32 |
-| 42 | [É Ele](https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13) | [Drops INA](https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh) | [É Ele](https://open.spotify.com/album/7KlZpsjIMUEPApVyY7RC1h) | 8:15 |
+| 42 | [É Ele](https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13) | [Drops INA](https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh), [Paulo Vicente](https://open.spotify.com/artist/1kKEkCw8fhGuPOWI2JYDFO) | [É Ele](https://open.spotify.com/album/7KlZpsjIMUEPApVyY7RC1h) | 8:15 |
 | 43 | [Fé Para O Impossível](https://open.spotify.com/track/0OSnHMH7SVZT9CgA2DMu4x) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Fé Para O Impossível](https://open.spotify.com/album/4vmCARn8Gmc9Uodx8aaJGE) | 4:20 |
 | 44 | [Amor Infinito / A Mensagem da Cruz \- Ao Vivo](https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Amor Infinito / A Mensagem da Cruz \(Ao Vivo\)](https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI) | 5:55 |
 | 45 | [A Maior Honra \- Ao Vivo](https://open.spotify.com/track/1C9gcXH4aJVwz7dr4JNnOG) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Guilherme Andrade](https://open.spotify.com/artist/6LFnFW6ECYKbvQ4QV4NwnH) | [A Maior Honra \(Ao Vivo\)](https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB) | 11:22 |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Olivia Rodrigo
+> The best tracks from the world of music\. Cover: Tame Impala, JENNIE
 
 648 songs - 1 day 11 hr 22 min
 

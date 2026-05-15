@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec César
+> Les meilleures nouveautés de la variété française avec Joseph Kamel
 
-484 songs - 23 hr 49 min
+487 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Butterfly](https://open.spotify.com/track/4FsPvaASzHNVGs0vFXavBo) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Butterfly](https://open.spotify.com/album/3rOI7YmGY7hVB8m7YZ8HPY) | 3:43 | 2025-06-12 | 2025-09-13 |
 | [Bye \(feat\. Vitaa\)](https://open.spotify.com/track/7yPLuv0JNnSJrKRJjaDon5) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [+1](https://open.spotify.com/album/1eoAQ3NzpoBJwFsI79LYqO) | 2:49 | 2024-11-21 | 2025-02-07 |
 | [Bye Bye](https://open.spotify.com/track/7zSFYYKM7ygYInwcbs1Aj2) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Bye Bye](https://open.spotify.com/album/6EC2GZOfGX9KbIGBjZy1PP) | 2:45 | 2025-09-25 | 2026-01-02 |
+| [C'est dur d'aimer](https://open.spotify.com/track/1a2dh2wtCzMZedHpUjplzv) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Kakouprod](https://open.spotify.com/artist/6g75synhG2eMd0j2228MPR) | [Oubliez\-moi](https://open.spotify.com/album/75ymIEBQv8zZhnKtabtB9C) | 3:10 | 2026-05-14 |  |
 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 | 2026-01-15 | 2026-02-20 |
 | [C'EST VRAI OU PAS](https://open.spotify.com/track/7E15SgpsnmFGl8rCJhSriL) | [Allan](https://open.spotify.com/artist/7tJ1ZtOt4EOPyQnT8LE6rH) | [C'EST VRAI OU PAS](https://open.spotify.com/album/7fTIIvEY1iZRor9IJumqpB) | 2:59 | 2024-06-27 | 2024-09-20 |
 | [C'est ça la vie](https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp) | 2:29 | 2024-06-27 | 2024-10-18 |
@@ -67,6 +68,7 @@
 | [Chez toi, chez moi](https://open.spotify.com/track/0gOjmVqeKWFByLqpPTTrJF) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Chez toi, chez moi](https://open.spotify.com/album/5P5y6ZjwvDvVkn5VOekb2T) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [Chiens](https://open.spotify.com/track/51qMciprNwFso3R3XioUUu) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chiens](https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG) | 3:02 | 2025-09-25 | 2026-01-16 |
 | [CIEL](https://open.spotify.com/track/78FNSZkI1968KTtyf2s315) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CIEL](https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL) | 3:06 | 2024-11-07 | 2025-01-17 |
+| [Close to You](https://open.spotify.com/track/53zIb2goiAPlyy40I71UlI) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Close to you](https://open.spotify.com/album/1CFSPUxpsNnHO6BscKWSec) | 2:16 | 2026-05-14 |  |
 | [Coeur maladroit](https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt) | 2:40 | 2025-05-22 | 2025-06-27 |
 | [Coeur Vagabond](https://open.spotify.com/track/0xQD0amV9gCVM65edA5vA6) | [César](https://open.spotify.com/artist/29QLxgXz1rdMvaVK2aWFlU) | [Coeur Vagabond](https://open.spotify.com/album/27YIFWHTmGvUol9A8HaAIx) | 2:48 | 2025-05-22 | 2025-08-29 |
 | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/track/4EWeDhIeB90lUmgsVKATi2) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/album/70kgTL1sdlX06MdZ5wa4rq) | 3:05 | 2026-02-12 | 2026-04-24 |
@@ -84,7 +86,8 @@
 | [Corine](https://open.spotify.com/track/2UR2tbWSaUs7p1KE9UZfkt) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Corine](https://open.spotify.com/album/1GB3gNZWsz3Ii8YfJpoaDn) | 2:47 | 2025-02-06 | 2025-04-18 |
 | [Courage](https://open.spotify.com/track/00lPmwgjp2MnqVhZaxyLDv) | [Adèle & Robin](https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8) | [Courage](https://open.spotify.com/album/29r7xSMi482M5GsggEk5J8) | 2:41 | 2025-04-17 | 2025-07-04 |
 | [Courage \- Edit](https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Courage \(Edit\)](https://open.spotify.com/album/5nHYNiYmmOsghJAYdlhf7n) | 3:00 | 2025-03-06 | 2025-04-18 |
-| [COURTE PAILLE](https://open.spotify.com/track/7dvRcvy17soNaOVy8jWbbt) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [COURTE PAILLE](https://open.spotify.com/album/1AE6Cu2gcZDNoe6TTBqeGW) | 3:15 | 2026-02-26 |  |
+| [COURTE PAILLE](https://open.spotify.com/track/7dvRcvy17soNaOVy8jWbbt) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [COURTE PAILLE](https://open.spotify.com/album/1AE6Cu2gcZDNoe6TTBqeGW) | 3:15 | 2026-02-26 | 2026-05-15 |
+| [Cow\-girl moderne](https://open.spotify.com/track/6YhzM0nbo6xOPzpkoEdq6A) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Les Grands Espaces](https://open.spotify.com/album/4QjwSGXRmFijZvXqtXN2Wh) | 2:49 | 2026-05-14 |  |
 | [Crash](https://open.spotify.com/track/02IIarJdHe8u4n0XcOEzHN) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Crash](https://open.spotify.com/album/20RGe7E8FpGuhkcTLa4LpG) | 2:44 | 2026-03-12 |  |
 | [Crash 404](https://open.spotify.com/track/0KAer3rHTN83dkRcSIfnXl) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Crash 404](https://open.spotify.com/album/5IYdM41ewgdw56nnArwFdm) | 2:31 | 2026-02-12 | 2026-05-08 |
 | [Crash Dans Tes Bras](https://open.spotify.com/track/3SySzHH2kUy1JplgpVc8Rr) | [Elissa Lauper](https://open.spotify.com/artist/7mtFeidhCmzKSONpngSXoa) | [Crash Dans Tes Bras](https://open.spotify.com/album/5JmoeCP9fG3PrBEcusvb2c) | 2:49 | 2024-07-25 | 2024-08-02 |
@@ -103,7 +106,7 @@
 | [Dis\-le moi](https://open.spotify.com/track/7JI97inpI8UEflF3hsncqb) | [Valentina](https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S) | [Dis\-le moi](https://open.spotify.com/album/6Lzv3Nl0m09P73lFQkTrEc) | 2:38 | 2024-09-05 | 2024-11-08 |
 | [Dis\-moi](https://open.spotify.com/track/48J8yeiYwZZxxwWXa4zTXQ) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Dis\-moi](https://open.spotify.com/album/1RwLMAYV1bqXcwCmdKrsOO) | 2:27 | 2025-03-20 | 2025-06-13 |
 | [Dis\-moi oui](https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Dis\-moi oui](https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe) | 3:56 | 2025-09-11 | 2025-12-05 |
-| [Dis\-moi où \(feat\. OTTA\)](https://open.spotify.com/track/6FNnrwCYdfGwDiO1x76ReL) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [OTTA](https://open.spotify.com/artist/4NMvzpqVsDCC0Cte4GTG3d) | [Naufragé](https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf) | 2:41 | 2026-02-19 |  |
+| [Dis\-moi où \(feat\. OTTA\)](https://open.spotify.com/track/6FNnrwCYdfGwDiO1x76ReL) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [OTTA](https://open.spotify.com/artist/4NMvzpqVsDCC0Cte4GTG3d) | [Naufragé](https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf) | 2:41 | 2026-02-19 | 2026-05-15 |
 | [Divine](https://open.spotify.com/track/6LF1OzPmtNhklCCKUt2jUq) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Divine](https://open.spotify.com/album/7DuT3z3dsEhqyqxNTwMKKd) | 2:56 | 2024-11-28 | 2025-01-31 |
 | [Dix](https://open.spotify.com/track/73R9ZxRE69JEMiYGHMHFPz) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [Dix](https://open.spotify.com/album/210TNnc1y4PeTH5cRbWePO) | 3:13 | 2024-11-14 | 2025-01-10 |
 | [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 | 2025-07-10 | 2025-09-26 |
@@ -397,7 +400,7 @@
 | [Sans toi](https://open.spotify.com/track/7F67nFKCxSnDdSJwOkZQCn) | [Hugo Nogam](https://open.spotify.com/artist/3A08xhQd902eJmnI5U0bJe) | [Sans toi](https://open.spotify.com/album/6dIHkbZtnkMcNa9ITpFgWu) | 2:45 | 2024-09-26 | 2024-11-15 |
 | [Sans toi](https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Sans toi](https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI) | 3:34 | 2024-10-03 | 2025-01-10 |
 | [Sans vous](https://open.spotify.com/track/3i0STV9zBlqhMKZQTgcIJ0) | [Sauvan](https://open.spotify.com/artist/4wBeyqtkhN19P3XJCyfq4y) | [Sans vous](https://open.spotify.com/album/1eOVvClP4oRDq109ulCNUi) | 2:40 | 2024-11-14 | 2024-12-20 |
-| [Sens dessus dessous](https://open.spotify.com/track/1eys5uEsHHVbrlIFGWVD0s) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Sens dessus dessous](https://open.spotify.com/album/5e1MaVHLp37jBhIv7Zn6A6) | 2:31 | 2026-03-26 |  |
+| [Sens dessus dessous](https://open.spotify.com/track/1eys5uEsHHVbrlIFGWVD0s) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Sens dessus dessous](https://open.spotify.com/album/5e1MaVHLp37jBhIv7Zn6A6) | 2:31 | 2026-03-26 | 2026-05-15 |
 | [Sentiers de la brume](https://open.spotify.com/track/3REOJVcm5TaOSjsMPwB6X2) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Sentiers de la brume](https://open.spotify.com/album/6X4h1fNGloFPCNKn1bvu8L) | 3:56 | 2024-07-04 | 2024-07-27 |
 | [SENTIMENTAL](https://open.spotify.com/track/7lf6EvTJtrbLKtJ1BKP3hv) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SENTIMENTAL](https://open.spotify.com/album/6yWYL1AlHmkWVbuHKppErm) | 3:15 | 2025-10-09 | 2025-12-05 |
 | [Ses yeux](https://open.spotify.com/track/1FkXhWnAODxXoaCnmMGo4j) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [cuicui](https://open.spotify.com/album/4OsIHJzoFdSEdFaYg6uSAE) | 2:54 | 2026-02-19 | 2026-05-08 |

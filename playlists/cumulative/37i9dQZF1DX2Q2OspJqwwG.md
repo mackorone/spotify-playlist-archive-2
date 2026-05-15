@@ -2,7 +2,7 @@
 
 ### [Viral în România](https://open.spotify.com/playlist/37i9dQZF1DX2Q2OspJqwwG)
 
-> Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
+> România  în semi\-finala Eurovision 🇷🇴  Succes Alexandra Căpitănescu!
 
 495 songs - 1 day 0 hr 48 min
 
@@ -101,7 +101,7 @@
 | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs) | 3:10 | 2025-04-14 | 2025-10-21 |
 | [Centura Roșie](https://open.spotify.com/track/4OgdylluWaWNDvrxqHykkB) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Centura Roșie](https://open.spotify.com/album/395C3jKyfACtCrna9l87uN) | 2:00 | 2024-08-05 | 2024-08-21 |
 | [Cetera](https://open.spotify.com/track/5MVwdhr04bLrZuBz9TCN1N) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Jurnal](https://open.spotify.com/album/3unPXEIMbJjpMx6Eb9rxJb) | 2:41 | 2026-04-07 | 2026-05-05 |
-| [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 3:00 | 2026-03-09 | 2026-04-08 |
+| [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 3:00 | 2026-03-09 |  |
 | [Ciao Bambolina](https://open.spotify.com/track/67EGqwz0zHHbMRvRWAUctt) | [Dragos Andrew](https://open.spotify.com/artist/63Okb1szUCYxv5IY7T3re4) | [Ciao Bambolina](https://open.spotify.com/album/3rU8AnqW3sF3mRc3QIALAU) | 2:54 | 2025-08-21 | 2025-11-25 |
 | [Cine N\-a Gresit Vreodata](https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Cine N\-a Gresit Vreodata](https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh) | 3:18 | 2024-11-11 | 2025-06-10 |
 | [Cine, cine](https://open.spotify.com/track/6paw0zreuIzEn8CmhPGwct) | [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2), [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Cine, cine](https://open.spotify.com/album/5xTwLaYlDYZFxqWTFeOLV9) | 2:53 | 2025-03-10 | 2025-04-08 |
@@ -451,7 +451,7 @@
 | [Totul meu](https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Totul meu](https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7) | 2:24 | 2024-07-29 | 2024-09-10 |
 | [TOXIC](https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Katarina](https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0) | [TOXIC](https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk) | 2:49 | 2025-11-03 | 2025-11-25 |
 | [Trebuie să vorbim](https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf) | [Cojo](https://open.spotify.com/artist/4Rl9vpUbiQ7h02NfIaAma2), [Yasmin Petroșanu](https://open.spotify.com/artist/0JAK73jXbu6yF0BMfLZ7xB) | [Erupt](https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf) | 3:36 | 2025-04-07 | 2025-04-24 |
-| [TRECI PESTE](https://open.spotify.com/track/0qeJlzTP4ElGNqleALaeR2) | [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [TRECI PESTE](https://open.spotify.com/album/5vAQSqY4GikPJfPwJIrB7R) | 2:18 | 2026-04-07 |  |
+| [TRECI PESTE](https://open.spotify.com/track/0qeJlzTP4ElGNqleALaeR2) | [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [TRECI PESTE](https://open.spotify.com/album/5vAQSqY4GikPJfPwJIrB7R) | 2:18 | 2026-04-07 | 2026-05-15 |
 | [Tu blondina,eu brunet](https://open.spotify.com/track/3Xu2k2FS97eGmK7OOTfPHH) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Tu blondina,eu brunet](https://open.spotify.com/album/4FwzoL4kOfxLNH1Bb3o29g) | 2:25 | 2025-08-26 | 2026-04-22 |
 | [Tu mamă, Tu tată](https://open.spotify.com/track/0qop3bdoYrtweMgOvioiwl) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd), [Giulie](https://open.spotify.com/artist/2gzaHShPWOO48peaAPwk7k) | [Tu mamă, Tu tată](https://open.spotify.com/album/28iZqnpeEoQicMt0fyEfkp) | 2:49 | 2024-11-05 | 2024-11-19 |
 | [Tu pe mine m\-ai ales](https://open.spotify.com/track/6Klf7QK9VaDdJfAOB5PaHN) | [Edward Sanda](https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V), [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Tu pe mine m\-ai ales](https://open.spotify.com/album/03axcpcgVFHlLzoP04zt0s) | 2:46 | 2025-09-22 | 2025-10-07 |

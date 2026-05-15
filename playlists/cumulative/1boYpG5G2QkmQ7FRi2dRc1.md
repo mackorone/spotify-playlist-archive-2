@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,957 songs - 7 day 11 hr 11 min
+2,958 songs - 7 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2106,6 +2106,7 @@
 | [Rendezvous \(feat\. Marlo Rex\)](https://open.spotify.com/track/13cVApl6LsR2QvEGdmh9VC) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Rendezvous \(feat\. Marlo Rex\)](https://open.spotify.com/album/3XQFiCrdl8Yv1VVlraeq4y) | 2:59 | 2022-10-31 | 2022-11-05 |
 | [Renewal](https://open.spotify.com/track/1Wp0EwdW9af3gqkwjQnKS0) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Vomee](https://open.spotify.com/artist/7AoYKqkWmyz20OmuMC8OeS) | [Needed You](https://open.spotify.com/album/4yJReYYNc54OSz6JwdPUGT) | 5:14 | 2025-05-17 | 2025-05-25 |
 | [Repeat](https://open.spotify.com/track/5s8W9kVGieuKlxDsECr7aP) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Repeat](https://open.spotify.com/album/4rRMaeeAaqfbT5WXEnv6lv) | 3:20 | 2026-04-17 | 2026-05-10 |
+| [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 | 2026-05-14 |  |
 | [Rescue Me](https://open.spotify.com/track/1taZgqmYybM7nXGje9u4HH) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Rescue Me](https://open.spotify.com/album/1lxjMEG1ow2R5tfwEub0Eh) | 2:40 | 2023-12-22 | 2024-02-11 |
 | [Restless Soul \- LP Giobbi Remix](https://open.spotify.com/track/03UPxMrz7Iyh9yxLDwV7OJ) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Restless Soul \(LP Giobbi Remix\)](https://open.spotify.com/album/6JVQpCKKLcZIeeErTI0TIt) | 3:13 | 2023-12-22 | 2023-12-30 |
 | [RESTORE POWER](https://open.spotify.com/track/4YrNLXWp78sMdxQn34LYke) | [Les Char](https://open.spotify.com/artist/2qJjHcYZPuhSI1g0bIEfG1), [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [OBSIDIENNE](https://open.spotify.com/album/2ylJayvQTz9LZO0hfo00Gi) | 4:00 | 2023-01-21 | 2023-01-29 |

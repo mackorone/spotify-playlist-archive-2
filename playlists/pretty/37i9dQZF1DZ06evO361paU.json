@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 296170,
+  "num_followers": 296192,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAB0zcDFneS0Q0WOdzzYA0pE",
+  "snapshot_id": "agO/AAAAAADzlXPaJmKnVLlXQ9/NL0jG",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 234413,
+      "name": "(I Can't Make It) Another Day (feat. Lenny Kravitz)",
+      "url": "https://open.spotify.com/track/5OgTq4ExF13EdcLD6PSYuN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ride (Edit)",
         "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 214653,
       "name": "Minister Of Rock 'N Roll",
       "url": "https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Michael",
-        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 234413,
-      "name": "(I Can't Make It) Another Day (feat. Lenny Kravitz)",
-      "url": "https://open.spotify.com/track/5OgTq4ExF13EdcLD6PSYuN"
     },
     {
       "added_at": null,

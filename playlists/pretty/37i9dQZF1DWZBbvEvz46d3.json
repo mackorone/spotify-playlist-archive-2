@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 75390,
+  "num_followers": 75401,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Zacznij od Bacha (The Best)",
-        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
-      },
-      "artists": [
-        {
-          "name": "Zbigniew Wodecki",
-          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
-        }
-      ],
-      "duration_ms": 262293,
-      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
-      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Milosc",
         "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Zacznij od Bacha (The Best)",
+        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
+      },
+      "artists": [
+        {
+          "name": "Zbigniew Wodecki",
+          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
+        }
+      ],
+      "duration_ms": 262293,
+      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
+      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Komponuj\u0105c siebie",
         "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
       },
@@ -627,6 +627,54 @@
       "duration_ms": 184514,
       "name": "Ksi\u0119\u017cniczka",
       "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
+        "url": "https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
+      "url": "https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Comfort and Happiness",
+        "url": "https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Tr\u00f3jk\u0105ty i Kwadraty",
+      "url": "https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Zakryj (Deluxe)",
+        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "T\u0119skno Mi",
+      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -651,54 +699,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Comfort and Happiness",
-        "url": "https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Tr\u00f3jk\u0105ty i Kwadraty",
-      "url": "https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
-        "url": "https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
-      "url": "https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Zakryj (Deluxe)",
-        "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
-      },
-      "artists": [
-        {
-          "name": "Sarsa",
-          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u0119skno Mi",
-      "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Motyle",
         "url": "https://open.spotify.com/album/00FcCZBbHD1FmOfn3FdDHj"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 175667,
       "name": "Motyle",
       "url": "https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "Miales Byc",
-      "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -759,18 +743,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Wkr\u0119ceni nie ufaj mi",
-        "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
+        "name": "Album",
+        "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
       },
       "artists": [
         {
-          "name": "Igor Herbut",
-          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
         }
       ],
-      "duration_ms": 178725,
-      "name": "Wkr\u0119ceni nie ufaj mi",
-      "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
+      "duration_ms": 209213,
+      "name": "Miales Byc",
+      "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -787,6 +771,22 @@
       "duration_ms": 294066,
       "name": "Kocham ci\u0119 jak irlandi\u0119",
       "url": "https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Wkr\u0119ceni nie ufaj mi",
+        "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
+      },
+      "artists": [
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        }
+      ],
+      "duration_ms": 178725,
+      "name": "Wkr\u0119ceni nie ufaj mi",
+      "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Marek Grechuta - 40 piosenek",
-        "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
-      },
-      "artists": [
-        {
-          "name": "Marek Grechuta",
-          "url": "https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD"
-        },
-        {
-          "name": "Anawa",
-          "url": "https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8"
-        }
-      ],
-      "duration_ms": 104733,
-      "name": "B\u0119dziesz moj\u0105 pani\u0105",
-      "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Nie k\u0142am \u017ce mnie kochasz",
         "url": "https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 186026,
       "name": "Nie k\u0142am \u017ce mnie kochasz",
       "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Marek Grechuta - 40 piosenek",
+        "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
+      },
+      "artists": [
+        {
+          "name": "Marek Grechuta",
+          "url": "https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD"
+        },
+        {
+          "name": "Anawa",
+          "url": "https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8"
+        }
+      ],
+      "duration_ms": 104733,
+      "name": "B\u0119dziesz moj\u0105 pani\u0105",
+      "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Nasz Film (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
-      },
-      "artists": [
-        {
-          "name": "Antek Smykiewicz",
-          "url": "https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863"
-        }
-      ],
-      "duration_ms": 202127,
-      "name": "Pomimo Burz",
-      "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Smak Sl\u00f3w",
         "url": "https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 239866,
       "name": "Smak s\u0142\u00f3w",
       "url": "https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Nasz Film (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
+      },
+      "artists": [
+        {
+          "name": "Antek Smykiewicz",
+          "url": "https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863"
+        }
+      ],
+      "duration_ms": 202127,
+      "name": "Pomimo Burz",
+      "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Ballady",
+        "url": "https://open.spotify.com/album/7odRFyosv4azI3uenvDJq0"
+      },
+      "artists": [
+        {
+          "name": "Bajm",
+          "url": "https://open.spotify.com/artist/1ckVZCWKKoeh5GhtidoU4D"
+        }
+      ],
+      "duration_ms": 319346,
+      "name": "Dwa serca, dwa smutki",
+      "url": "https://open.spotify.com/track/0hmuqBnZVaud5KU7lMRJlE"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Bumerang",
         "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 280737,
       "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
       "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Ballady",
-        "url": "https://open.spotify.com/album/7odRFyosv4azI3uenvDJq0"
-      },
-      "artists": [
-        {
-          "name": "Bajm",
-          "url": "https://open.spotify.com/artist/1ckVZCWKKoeh5GhtidoU4D"
-        }
-      ],
-      "duration_ms": 319346,
-      "name": "Dwa serca, dwa smutki",
-      "url": "https://open.spotify.com/track/0hmuqBnZVaud5KU7lMRJlE"
     },
     {
       "added_at": "2025-10-16 09:34:51",

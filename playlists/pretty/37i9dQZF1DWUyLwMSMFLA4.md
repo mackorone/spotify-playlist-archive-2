@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,150 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,166 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 36 | [QUE ME FALTE TODO](https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE ME FALTE TODO](https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd) | 2:45 |
 | 37 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |
 | 38 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
-| 39 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 |
-| 40 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 |
+| 39 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 |
+| 40 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 |
 | 41 | [Un Beso y una Flor](https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 4:08 |
 | 42 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
 | 43 | [Poeta Enamorado](https://open.spotify.com/track/7hz1CZ9EqizK9QjAIQFqRi) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:34 |
@@ -87,12 +87,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 77 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 |
 | 78 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 |
 | 79 | [Orgullosa](https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:07 |
-| 80 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 |
-| 81 | [Besame](https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:52 |
-| 82 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 |
+| 80 | [Besame](https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:52 |
+| 81 | [Para la Gilada](https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 3:42 |
+| 82 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 |
 | 83 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
-| 84 | [Trampas](https://open.spotify.com/track/3OBXS3Tgtj7OQVzLA0BFKY) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 4:00 |
-| 85 | [Para la Gilada](https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 3:42 |
+| 84 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 |
+| 85 | [Trampas](https://open.spotify.com/track/3OBXS3Tgtj7OQVzLA0BFKY) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 4:00 |
 | 86 | [Te Tengo que Olvidar](https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [20 Grandes Exitos](https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n) | 3:13 |
 | 87 | [Inventame](https://open.spotify.com/track/1Ea6SMCRQqN8cpSMpgeqpJ) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Y Amigos](https://open.spotify.com/album/7aY118zqoTPNmZsLc66twq) | 3:31 |
 | 88 | [Barrio Prendido](https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Nestor En Bloque](https://open.spotify.com/artist/3RBwlm5DeZ9ywEknLEqIzr), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [MOMO](https://open.spotify.com/artist/6Oa7dtz85WbPv9pYDcRSDN), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Barrio Prendido](https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J) | 4:00 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 95 | [Noche de Party](https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Noche de Party](https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD) | 2:32 |
 | 96 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 |
 | 97 | [Comadre Compadre](https://open.spotify.com/track/4QVrFHXINjFlGuotAhiUmr) | [Los Fatales](https://open.spotify.com/artist/5mLvRBeI5T7w08iWtK7FXu) | [Revolución Fatal](https://open.spotify.com/album/0I579Ritet6fjbN4BBRuXd) | 4:30 |
-| 98 | [Los Infieles](https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Y la cumbia se baila así...](https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN) | 3:18 |
-| 99 | [Tarjetita de Invitacion](https://open.spotify.com/track/4DxGfLYbOD32hr5EMF8HV1) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Todo Bien](https://open.spotify.com/album/7qbyuCscYdunQu1IMTmQpv) | 3:25 |
+| 98 | [Tarjetita de Invitacion](https://open.spotify.com/track/4DxGfLYbOD32hr5EMF8HV1) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Todo Bien](https://open.spotify.com/album/7qbyuCscYdunQu1IMTmQpv) | 3:25 |
+| 99 | [Los Infieles](https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Y la cumbia se baila así...](https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN) | 3:18 |
 | 100 | [Boquita Perfumada](https://open.spotify.com/track/3MLq3n8fNlubRM2FmPREbF) | [Sexteto Imperial](https://open.spotify.com/artist/7Ij3qRinMFtEpzRghKIHtE) | [Boquita Perfumada](https://open.spotify.com/album/6DTMt3s7wVmf9KD2FwZoMG) | 4:12 |
 
 Snapshot ID: `AAAAAAxL3iQwgD9v5MlxVJM4NYdYx+e6`

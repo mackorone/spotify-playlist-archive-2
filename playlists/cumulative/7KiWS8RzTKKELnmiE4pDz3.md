@@ -4,7 +4,7 @@
 
 > 
 
-1,453 songs - 3 day 5 hr 26 min
+1,457 songs - 3 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Alone](https://open.spotify.com/track/1BuN2kMDQrXhS73RrTNRyY) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Alone](https://open.spotify.com/album/15Yomku18T30aig4W9l7dY) | 3:44 | 2022-11-01 | 2023-03-01 |
 | [Alter Ego](https://open.spotify.com/track/5LDdlwdDIILBwIcoCrdMTo) | [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o), [GlockBoyz Teejaee](https://open.spotify.com/artist/53t9roZkWltf6zIcSHHFET) | [Alter Ego](https://open.spotify.com/album/7AoMYMDk8WjQ95TVEudUaD) | 2:21 | 2022-09-12 |  |
 | [Amanecer](https://open.spotify.com/track/0esl5kXcV6xKZZjcyTtInJ) | [Gerry Garcia](https://open.spotify.com/artist/3JBqGOnpdinzeD7sSMyiU4) | [Amanecer](https://open.spotify.com/album/3VkuGo7ePsX2G7pIzheJPI) | 2:45 | 2025-12-08 | 2026-03-08 |
+| [American Psycho](https://open.spotify.com/track/2XTGgYVwL96mQ9pUNAIQZF) | [D12](https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0) | [Devils Night](https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA) | 4:36 | 2026-05-15 |  |
 | [Amoeba](https://open.spotify.com/track/65pLdhLeA6MIZ31heNXO13) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4OJeOPIhvGErsAMDoTfm3N) | 3:06 | 2026-01-21 | 2026-03-08 |
 | [Ampd Up \(feat\. Mouse On Tha Track\)](https://open.spotify.com/track/2mbzyuS4fL72fHrmiWObXQ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Mouse On Tha Track](https://open.spotify.com/artist/26PDNPSOkjZowzVM563lKx) | [3800 Degrees](https://open.spotify.com/album/1gDwjnGfTH7BSqtc4y7AiL) | 2:45 | 2022-10-07 | 2024-03-05 |
 | [And I Gangbang](https://open.spotify.com/track/5VIcIdLfWpNZKjlUGcC17y) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 2:13 | 2024-10-03 | 2025-05-21 |
@@ -801,6 +802,7 @@
 | [MODERN JAM \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-08-04 | 2023-12-14 |
 | [MOJO JOJO](https://open.spotify.com/track/3WRUvGqySBZC6RkB5c2w1S) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:36 | 2025-06-01 | 2026-03-08 |
 | [Molly](https://open.spotify.com/track/78voFwSSy0KLQw7BhHUAyn) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Molly](https://open.spotify.com/album/7pzfdgVTRRSaeXEESqjM6J) | 2:49 | 2022-04-20 | 2024-03-05 |
+| [Moment Of Clarity](https://open.spotify.com/track/5TTFD5DuFhQOrs0RJxGDbD) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:24 | 2026-05-14 |  |
 | [Money Piling](https://open.spotify.com/track/5uqwEl9dOaplxosHJuUH8t) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mr\. Davis](https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ) | 2:56 | 2025-02-22 | 2026-02-08 |
 | [Money Twërk](https://open.spotify.com/track/29Z5qdYEYNFxly8n6Dt7kp) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 2:19 | 2022-08-26 | 2023-12-14 |
 | [Moneybags](https://open.spotify.com/track/75wojwz55E8iWfUHreFEg8) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [RichPoSlim](https://open.spotify.com/artist/2qY9jco1b25sKtNR3u8K8f) | [Dirty Dingy](https://open.spotify.com/album/2T9pnP03f4v6XMVb1VAJcT) | 3:36 | 2024-02-22 | 2024-11-06 |
@@ -1068,6 +1070,7 @@
 | [rifle crew](https://open.spotify.com/track/5JL77p8CYEt7vHEBS9eyVB) | [sniper2004](https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT) | [i wanna be a sniperrrrr](https://open.spotify.com/album/3hqf7upVvfJhXJDgBfmBMq) | 2:03 | 2024-11-05 | 2025-05-21 |
 | [Right](https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 4:47 | 2026-04-23 |  |
 | [Risk It All, Pt.2](https://open.spotify.com/track/1FQMwCRlnmp6lLPrThtS8J) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Perfect](https://open.spotify.com/album/4HPAVn3Z1jGwZLRXadqOKO) | 2:58 | 2024-12-16 | 2025-05-21 |
+| [Roc Boys \(And The Winner Is\)...](https://open.spotify.com/track/7qTHHJ8MeXEKBVuopWdw4b) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [American Gangster](https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5) | 4:12 | 2026-05-14 |  |
 | [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 | 2023-07-22 |  |
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2022-10-18 | 2023-05-09 |
 | [Rock and Roll](https://open.spotify.com/track/1ghSpHC4nGlqWzbPJiVeDU) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Master the Day of Judgement](https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9) | 2:15 | 2022-06-10 | 2023-12-14 |
@@ -1289,6 +1292,7 @@
 | [They're All Gonna Laugh @ You](https://open.spotify.com/track/5qs4JxlpDN2UknSd1HxIb5) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J) | [Lucy Ford: The Atmosphere EP's](https://open.spotify.com/album/3nxoUSsQ96E4mborar9f5v) | 2:04 | 2025-12-02 | 2026-03-08 |
 | [Think Twice](https://open.spotify.com/track/1Fi4hB1McCYFJeG1Q6jpNg) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [InI](https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj) | [Center of Attention](https://open.spotify.com/album/7BWhIFnxTALf0r3HWRiupG) | 3:28 | 2025-10-21 | 2026-03-08 |
 | [this is all too familiar ive seen this in a dream](https://open.spotify.com/track/5rW6ZGwODB5YiI0RnecJz9) | [Fulcrum](https://open.spotify.com/artist/6nbidWb6qovzknhOdeExt7) | [this is all too familiar ive seen this in a dream](https://open.spotify.com/album/5I1Je50iwcuXRi2w8yrl2y) | 2:13 | 2022-12-01 | 2023-05-09 |
+| [Threat](https://open.spotify.com/track/2Zl1wunKulBAythbBKmW4S) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:05 | 2026-05-14 |  |
 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 | 2024-09-25 | 2025-05-21 |
 | [Thrills](https://open.spotify.com/track/0wfEJScDt8ydT71v5ayG5Z) | [Thrill!](https://open.spotify.com/artist/0roOKxMVHXJjwZLBx3uKr2) | [Thrills](https://open.spotify.com/album/6tOr4Zj2gb8q3x6tqjbjGH) | 1:48 | 2022-12-15 | 2023-12-14 |
 | [Through The Wire](https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:41 | 2023-08-09 | 2023-12-14 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117509,
+  "num_followers": 117501,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAAvrdGjlr1nXmKbzvZTv9ws",
+  "snapshot_id": "agO/AAAAAAArYyfrLhLLWPq04tcxT/4m",
   "tracks": [
     {
       "added_at": null,
@@ -75,34 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAL\u00c1CIO DE LONA",
-        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 266778,
-      "name": "LOBO MAU",
-      "url": "https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XEQUE MATE",
         "url": "https://open.spotify.com/album/0NQNB45NzbgxvGddfjFZud"
       },
@@ -139,6 +111,34 @@
       "duration_ms": 315153,
       "name": "Lobo da Madrugada",
       "url": "https://open.spotify.com/track/6lD1ApgmkQW6Ji1CnlYtZn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAL\u00c1CIO DE LONA",
+        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 266778,
+      "name": "LOBO MAU",
+      "url": "https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y"
     },
     {
       "added_at": null,
@@ -699,6 +699,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Ai Calica",
+      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let's Go 5",
         "url": "https://open.spotify.com/album/44o1iCizbxPt4a6VJEQOKZ"
       },
@@ -759,34 +787,6 @@
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Ai Calica",
-      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
     },
     {
       "added_at": null,
@@ -1403,26 +1403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Voando Alto",
-        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Dj Gabriel do Borel",
-          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-        }
-      ],
-      "duration_ms": 137430,
-      "name": "To Voando Alto",
-      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 274015,
       "name": "Assault (Joias no Pulso)",
       "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Voando Alto",
+        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        }
+      ],
+      "duration_ms": 137430,
+      "name": "To Voando Alto",
+      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
     },
     {
       "added_at": null,
@@ -1655,8 +1655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camisa 10",
-        "url": "https://open.spotify.com/album/3JUT6jPZXrzkqIBJSSyrno"
+        "name": "CPX Ta Tega",
+        "url": "https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG"
       },
       "artists": [
         {
@@ -1664,17 +1664,21 @@
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "DJ Zullu",
-          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
-          "name": "DJ Caetano",
-          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
         }
       ],
-      "duration_ms": 90909,
-      "name": "Camisa 10",
-      "url": "https://open.spotify.com/track/6p8mBeEhoP4aywtAXHbcVT"
+      "duration_ms": 142666,
+      "name": "CPX Ta Tega",
+      "url": "https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox"
     }
   ],
   "unique_name": "This Is Mc Poze do Rodo",

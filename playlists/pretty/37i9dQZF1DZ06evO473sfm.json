@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 588620,
+  "num_followers": 588992,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADpBXlToL/wJPrngNrhtyHl",
+  "snapshot_id": "agO/AAAAAAC+/EKjZJZlR4tGVpG8XFSV",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy no me siento bien",
-        "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
+        "name": "Ojitos Bellos",
+        "url": "https://open.spotify.com/album/2QMmrYT9RG0dGQBpXvED9c"
       },
       "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 153709,
-      "name": "Hoy no me siento bien",
-      "url": "https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT"
+      "duration_ms": 179818,
+      "name": "Ojitos Bellos",
+      "url": "https://open.spotify.com/track/75OegUZV4dD54IVeonBKwr"
     },
     {
       "added_at": null,
@@ -703,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojitos Bellos",
-        "url": "https://open.spotify.com/album/2QMmrYT9RG0dGQBpXvED9c"
+        "name": "Hoy no me siento bien",
+        "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
       },
       "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 179818,
-      "name": "Ojitos Bellos",
-      "url": "https://open.spotify.com/track/75OegUZV4dD54IVeonBKwr"
+      "duration_ms": 153709,
+      "name": "Hoy no me siento bien",
+      "url": "https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT"
     },
     {
       "added_at": null,

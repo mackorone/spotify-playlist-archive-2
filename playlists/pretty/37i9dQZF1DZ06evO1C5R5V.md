@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,805 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,813 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 7 | [Yo Pensaba Que](https://open.spotify.com/track/5ADp0XZZ9yyzVJ08qwprdp) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 4:26 |
 | 8 | [Aburrida la Vida](https://open.spotify.com/track/1DGuT7RBkhf2umc7YArWkM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 4:15 |
 | 9 | [A Esa Gran Velocidad](https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 5:35 |
-| 10 | [Buscando Amor en la Calle](https://open.spotify.com/track/36qNWwZLVrAoKTlS1QDEel) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:31 |
-| 11 | [Morir de Noche](https://open.spotify.com/track/0mspoCwPtNxGPImRNALg3n) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:53 |
+| 10 | [Morir de Noche](https://open.spotify.com/track/0mspoCwPtNxGPImRNALg3n) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:53 |
+| 11 | [Buscando Amor en la Calle](https://open.spotify.com/track/36qNWwZLVrAoKTlS1QDEel) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:31 |
 | 12 | [Mujer de Hotel](https://open.spotify.com/track/0DTCKC8mA6SiZNOhAkoDZ5) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 4:32 |
 | 13 | [Juan el Descuartizador](https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:35 |
 | 14 | [No Puedo Más](https://open.spotify.com/track/2d4LDtwEGTDLP8PrYhDo2P) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [Y Se Armó el Rock and Roll, Vol\. 3](https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p) | 3:18 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 37 | [Saber Amar](https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:14 |
 | 38 | [Por los Gluteos de Mi Novia](https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 2:57 |
 | 39 | [Alejandro](https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 3:50 |
-| 40 | [No Huyas de Mi](https://open.spotify.com/track/29gtI2O4SyPLXy2HiIR4qB) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Y Se Armó el Rock and Roll, Vol\. 3](https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p) | 4:02 |
+| 40 | [Un Día A La Vez](https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 5:06 |
 | 41 | [El Primer Destino](https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:53 |
 | 42 | [Tengo un Acoholico en Mi Casa](https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:32 |
-| 43 | [Un Día A La Vez](https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 5:06 |
+| 43 | [No Huyas de Mi](https://open.spotify.com/track/29gtI2O4SyPLXy2HiIR4qB) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Y Se Armó el Rock and Roll, Vol\. 3](https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p) | 4:02 |
 | 44 | [El Camino del Corazón \- Acústico](https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Sesiones Acústicas \(Acústico\)](https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr) | 4:27 |
 | 45 | [El Trabajo del Hombre](https://open.spotify.com/track/3lAwswdOC4L8ng6X6VJy9p) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Trabajo del Hombre](https://open.spotify.com/album/2fe3rIIOfAZ1goUT1Q7lb4) | 3:59 |
 | 46 | [Una Oportunidad](https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Ánimas](https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34) | 3:25 |
 | 47 | [En los Años 30 \- En Vivo](https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:26 |
-| 48 | [Tuve un Sueño](https://open.spotify.com/track/7l8tTy0AtaLKTXrv2ZYTAT) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:12 |
-| 49 | [Campeón](https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:23 |
+| 48 | [Campeón](https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:23 |
+| 49 | [Tuve un Sueño](https://open.spotify.com/track/7l8tTy0AtaLKTXrv2ZYTAT) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:12 |
 | 50 | [El Adiós de un Alcohólico](https://open.spotify.com/track/2XETm8E7PrIuiOOhGNcjIZ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Adiós de un Alcohólico](https://open.spotify.com/album/7F4pEFfyzTJmTbJeWmykce) | 5:06 |
 
-Snapshot ID: `agJtgAAAAAC7qaUh4Pf/TL78LKxduy7y`
+Snapshot ID: `agO/AAAAAAAWZMyxJr6yWZb7xgO/UNQ+`

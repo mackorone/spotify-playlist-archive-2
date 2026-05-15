@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,929 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,931 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 49 | [Ridin Wit It](https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:18 |
 | 50 | [Sneaky Link Chicago](https://open.spotify.com/track/1eoBWsU36esCVnmX947nBX) | [HXLLYWOOD](https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Chicago](https://open.spotify.com/album/2lSKyvTSRoWix2gGoqz8Wk) | 2:00 |
 
-Snapshot ID: `agJtgAAAAAADCOLz35xM2mzLKdEjwfLu`
+Snapshot ID: `agO/AAAAAABY0VXvwkmc4JuX3VzCXWh9`

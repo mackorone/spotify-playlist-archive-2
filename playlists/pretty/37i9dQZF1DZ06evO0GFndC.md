@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,917 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,925 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 29 | [Buenas Vibras](https://open.spotify.com/track/14ZjoQB3VZFISRZTjrVGhj) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Proyecto A](https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ) | 3:11 |
 | 30 | [Holy Molly](https://open.spotify.com/track/0tL39kApl53imatnaQiY4H) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:59 |
 | 31 | [Mejor Sin Ti](https://open.spotify.com/track/56gY9CWrtD5BMiKPxsLv5y) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 3:25 |
-| 32 | [El Fabi](https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Fabi](https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic) | 2:40 |
-| 33 | [Hoy Me Estoy Comiendo la Ciudad \- En Vivo](https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Hoy Me Estoy Comiendo La Ciudad \(En Vivo\)](https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb) | 3:54 |
+| 32 | [Hoy Me Estoy Comiendo la Ciudad \- En Vivo](https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Hoy Me Estoy Comiendo La Ciudad \(En Vivo\)](https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb) | 3:54 |
+| 33 | [El Fabi](https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Fabi](https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic) | 2:40 |
 | 34 | [Puro Gas](https://open.spotify.com/track/1sRDG9M3EuT2Bm4PfRqYGQ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 3:32 |
 | 35 | [En la Ciudad](https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [En la Ciudad](https://open.spotify.com/album/6fK7NyDOCaORkcEV6ravOd) | 3:06 |
 | 36 | [Sin Hacer Ruido](https://open.spotify.com/track/3jAVdwO7ycWZOJl76vn3c9) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Sin Hacer Ruido](https://open.spotify.com/album/6wWICPpm8uk6FkPO9kGObs) | 2:35 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 42 | [Problemas Mentales](https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:51 |
 | 43 | [Legado](https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Proyecto A](https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ) | 2:42 |
 | 44 | [Diez Mandamientos](https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Diez Mandamientos](https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn) | 3:27 |
-| 45 | [Mi Círculo Vicioso](https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Mi Círculo Vicioso](https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw) | 3:39 |
-| 46 | [Señor de la A \- En Vivo](https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:14 |
+| 45 | [Señor de la A \- En Vivo](https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:14 |
+| 46 | [Mi Círculo Vicioso](https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Mi Círculo Vicioso](https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw) | 3:39 |
 | 47 | [Belik Frozen](https://open.spotify.com/track/6FXryIsXIDVWtzoJ5vCKmw) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:42 |
 | 48 | [Bien Equipados](https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Bien Equipados](https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P) | 2:50 |
 | 49 | [Ying Yang](https://open.spotify.com/track/1OYg0a4gAgjcACM7Rl1BnB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:36 |
 | 50 | [En las Calles Aprendi \- En Vivo](https://open.spotify.com/track/05qxEdJG2iRHDP20f4pMpc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:05 |
 
-Snapshot ID: `agJtgAAAAAC+v7modvvMZE5YcFnuVot1`
+Snapshot ID: `agO/AAAAAAAExE+aHpo2ZuYkfnGFy+7D`

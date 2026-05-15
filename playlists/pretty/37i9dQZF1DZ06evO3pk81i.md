@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,509 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,516 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 15 | [No Hay Solución](https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:24 |
 | 16 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
 | 17 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
-| 18 | [Vuelve](https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Vuelve](https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp) | 2:45 |
-| 19 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 |
+| 18 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 |
+| 19 | [Vuelve](https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Vuelve](https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp) | 2:45 |
 | 20 | [Prada](https://open.spotify.com/track/5IXU5eUPQJwhCGOmcOzc9k) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:39 |
 | 21 | [Expectante](https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Expectante](https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h) | 2:34 |
 | 22 | [Esta Noche \(Version Norteña\)](https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 2:21 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 40 | [JÁLATE CONMIGO](https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:58 |
 | 41 | [Bailando \- Live](https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Bailando \(Live\)](https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP) | 3:09 |
 | 42 | [NO TE HUBIERA BESADO](https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [NO TE HUBIERA BESADO](https://open.spotify.com/album/2plPejGZIWWggruY0NizsL) | 2:19 |
-| 43 | [En Ti Pensando](https://open.spotify.com/track/73HfMf0c93AZMEfY8udH6f) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:05 |
+| 43 | [SATIRO](https://open.spotify.com/track/00e7R21236OX75ACaT8HH0) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:13 |
 | 44 | [TE MUEVES MUY BIEN](https://open.spotify.com/track/3qGkq4PS76m3i2BdxtNMgz) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:32 |
-| 45 | [SATIRO](https://open.spotify.com/track/00e7R21236OX75ACaT8HH0) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:13 |
+| 45 | [En Ti Pensando](https://open.spotify.com/track/73HfMf0c93AZMEfY8udH6f) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:05 |
 | 46 | [La Fiesta De Mi Rancho \- Remix](https://open.spotify.com/track/74eHdWsJM0p448J9Hsa3oh) | [Monir Bautista](https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Fiesta De Mi Rancho \(Remix\)](https://open.spotify.com/album/3K2Anv3vPh9KZ5jufd1tAg) | 2:38 |
 | 47 | [La Bella](https://open.spotify.com/track/3Eaz3p3w8eWm3UBiMW8RrE) | [Alfredo Manzo](https://open.spotify.com/artist/2bLVfd7SyWSloS4isXMazU), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Bella](https://open.spotify.com/album/14BQ2d4IWbtNctmhiyV3ur) | 3:58 |
 | 48 | [Nada Sigue Igual](https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Nada Sigue Igual](https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI) | 3:28 |
 | 49 | [Mejor Que Tu Ex](https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:26 |
 | 50 | [Tú Me Haces Falta](https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:43 |
 
-Snapshot ID: `agJtgAAAAAC33T27hB0pbqe+kanYwEH7`
+Snapshot ID: `agO/AAAAAACVU3xvuEUz6eoe726I72jt`

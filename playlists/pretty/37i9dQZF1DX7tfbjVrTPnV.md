@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Amy Grant
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,905 likes - 150 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,908 likes - 150 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 43 | [A Feather's Not A Bird](https://open.spotify.com/track/2Sh2hbPAdqTftRmn6MItCx) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The River & The Thread](https://open.spotify.com/album/548ZyL80s0h5ZX20WVpuys) | 3:18 |
 | 44 | [Merely Avoiding](https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Shouted, Written Down & Quoted](https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L) | 3:27 |
 | 45 | [Can't Let Go](https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x) | 3:28 |
-| 46 | [When You’re With Him \- Bonus Track](https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Airline Highway \(Deluxe\)](https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE) | 3:56 |
-| 47 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:49 |
+| 46 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:49 |
+| 47 | [When You’re With Him \- Bonus Track](https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Airline Highway \(Deluxe\)](https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE) | 3:56 |
 | 48 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 |
 | 49 | [You Are My Sunshine \(with Chris Stapleton\)](https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS) | [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Southern Family](https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x) | [Southern Family](https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi) | 6:13 |
 | 50 | [The Traveling Kind](https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Traveling Kind](https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch) | 3:40 |

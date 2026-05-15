@@ -4,7 +4,7 @@
 
 > This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 48 min
+67 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Nada](https://open.spotify.com/track/66B1wJpeTZrDSgsbHGcjzW) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 3:29 | 2023-12-26 | 2024-05-09 |
 | [NADA](https://open.spotify.com/track/0zK5RRApYNkOtNqkVohwEu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 3:48 | 2023-12-26 |  |
 | [Nada Se Perdió \- Live Acoustic](https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Live At Claustro de Sor Juana — Mexico City \(Live Acoustic\)](https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN) | 3:59 | 2023-12-26 |  |
+| [No](https://open.spotify.com/track/4i8rGIdfM4b2wJqyT0Hf3u) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 4:17 | 2026-05-15 |  |
 | [No Jaló](https://open.spotify.com/track/2bYnrg0QUC9x1jQRLYcDOd) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [No Jaló](https://open.spotify.com/album/6qsAj5nnoQk3xQYnxI18Rg) | 2:32 | 2023-12-26 |  |
 | [OJO DE DIOS](https://open.spotify.com/track/71KjTsyGt8v43JMFtg82Aj) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 1:31 | 2023-12-26 | 2025-07-19 |
 | [OPTEMOS](https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [OPTEMOS](https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR) | 2:58 | 2023-12-26 |  |

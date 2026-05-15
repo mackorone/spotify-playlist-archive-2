@@ -2,9 +2,9 @@
 
 ### [Sora Ambient](https://open.spotify.com/playlist/37i9dQZF1DWZqNqPemiefM)
 
-> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Yoal \(Satomimagae & Euan Alexander Millar\-McMeeken\)
+> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: tamanaramen
 
-1,009 songs - 3 day 4 hr 15 min
+1,012 songs - 3 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Cinnamon \- Rework](https://open.spotify.com/track/2rDw2fEW2uhqx7rMPxpZ4B) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/5db794oGL085Wapqoap8K6) | 2:58 | 2022-03-30 | 2022-07-29 |
 | [Circle 31](https://open.spotify.com/track/1UyGal7Xm6z6C65eUdSx2x) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i) | [Foam and Sand](https://open.spotify.com/album/3qKXft8shy4ueIfieixSGc) | 4:17 | 2024-05-09 | 2025-09-04 |
 | [Circle of Life](https://open.spotify.com/track/1XbdWzaYf9oLAnKpQeg6kG) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [Landscape in Portrait](https://open.spotify.com/album/24uG3LnJjohdiMMRw2DLfw) | 3:41 | 2022-04-16 | 2022-04-19 |
+| [CITY OF RESONANCE: DISTORTION](https://open.spotify.com/track/66CeQAzfUXlwHpAXKfMPNR) | [Exportion](https://open.spotify.com/artist/0brCtEXtI0eniWvODW8s2q) | [CITY OF RESONANCE: DISTORTION](https://open.spotify.com/album/5f1NjTQUxu0qICL9V6VGSc) | 5:15 | 2026-05-14 |  |
 | [Clepsydra](https://open.spotify.com/track/6CXHMfKWiIGJIvIZkGRF6D) | [Tomoko Sauvage](https://open.spotify.com/artist/6j8vIUr5loVTkj8dY1CcDp) | [Musique Hydromantique](https://open.spotify.com/album/5E0k5vGQnBgo392vUclstZ) | 10:49 | 2022-04-07 | 2022-04-14 |
 | [Closer](https://open.spotify.com/track/2nsPkMV6m9pZCOB49nFMDZ) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences Vol\. II](https://open.spotify.com/album/0y5hRFFLP15WWajyyDy1dy) | 4:20 | 2025-08-01 | 2026-05-10 |
 | [Cloudburst](https://open.spotify.com/track/7yN5bqGlouQ1A44lhIR0h3) | [Cokiyu](https://open.spotify.com/artist/7zxbGCI5DeZCwpbYXn20it) | [Cloudburst](https://open.spotify.com/album/6jzI3Y5sRStjxTEXNUSQnP) | 6:06 | 2022-03-31 | 2022-07-24 |
@@ -314,6 +315,7 @@
 | [Garden](https://open.spotify.com/track/0B8oQjIzDKYEcyDHjBESht) | [Pho U](https://open.spotify.com/artist/54BhrjZk5YIjWzeEag33Sn) | [X\-RAY VISION](https://open.spotify.com/album/6Xd4YJT4JHxc77omS3z2ZO) | 2:21 | 2022-04-28 | 2022-04-30 |
 | [Gazing](https://open.spotify.com/track/1hVPAMeg5kekdYulGfgQ8u) | [Firo](https://open.spotify.com/artist/28bSxVrQGGTaSCuotXVtGH) | [Gazing](https://open.spotify.com/album/12qUCf45In3rCNOA0NOXOW) | 3:16 | 2022-03-30 | 2022-11-29 |
 | [GBTC](https://open.spotify.com/track/51IUGiz8ZOcujHlQuuTszO) | [KatzPascale](https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H) | [GBTC](https://open.spotify.com/album/22vX5Kxo15Iw2rGkTZMYq3) | 4:35 | 2026-02-20 | 2026-03-13 |
+| [Gekkō \(feat\. Bby Eco\)](https://open.spotify.com/track/5oCfnlVUIXwiT6atQL1lRB) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3), [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Gekkō \(feat\. Bby Eco\)](https://open.spotify.com/album/2DRi6z7y5UbAjfGgoM8W7f) | 2:40 | 2026-05-14 |  |
 | [Glass Chattering](https://open.spotify.com/track/7kBKbrdOdyERP870kTYwIr) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons I](https://open.spotify.com/album/3UyKEfm5Yg8XUf5LmHiRDZ) | 5:54 | 2022-03-30 | 2022-06-25 |
 | [GLASS CHIME](https://open.spotify.com/track/1lxgQG0xeAsS1r0u9M1TcP) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 3:26 | 2022-04-16 |  |
 | [Glistering](https://open.spotify.com/track/3tRDHIpV1DVg06HC3LPWRj) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Lighthouse](https://open.spotify.com/album/2ElcwSiB2mzqR4ducfcsmy) | 4:23 | 2022-04-07 | 2022-07-12 |
@@ -909,6 +911,7 @@
 | [Vapors](https://open.spotify.com/track/36IKYrCq4bWJAI2NHbQRlI) | [MIZU](https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6) | [4 \| 2 \| 3](https://open.spotify.com/album/3eqCTYlnPPoRVtq9039lkT) | 2:29 | 2024-11-15 | 2024-12-10 |
 | [Variation I](https://open.spotify.com/track/03DhSqOpC0WShbijAAmdYZ) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [eau](https://open.spotify.com/album/7cFPblcCkLc6105lfgAP2o) | 5:54 | 2025-12-11 | 2026-02-07 |
 | [Variation・III](https://open.spotify.com/track/0dDeU6XmLrWgqsLqZU3lpZ) | [Masashi Kitamura + Phonogenix](https://open.spotify.com/artist/55aj1GWBgBPNoVICgtbl7s) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:35 | 2022-04-16 | 2022-04-18 |
+| [VEIL](https://open.spotify.com/track/2dKuPGmF2uZVlehFKcoTT8) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [VEIL](https://open.spotify.com/album/5TwXTHMrZCagd0Rlo8wgW8) | 1:49 | 2026-05-14 |  |
 | [Veiled](https://open.spotify.com/track/5XEdmY7mFElGBxwGNAcCTO) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [Kenichiro Isoda](https://open.spotify.com/artist/5kUr7ReGZPQYssNxaKjyAC), [磯田健一郎](https://open.spotify.com/artist/3rFwskAbReckTSOvClgBCt), [aus isoda](https://open.spotify.com/artist/7s3VfUpUHI84BUZsLYRxaT) | [Veiled](https://open.spotify.com/album/1aVHMxn0VIYQDwu6gOMbuE) | 3:08 | 2026-02-06 |  |
 | [vein](https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [vein](https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV) | 2:08 | 2025-08-01 | 2025-12-03 |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-04-28 | 2024-02-09 |

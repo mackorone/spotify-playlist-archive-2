@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Momo Boyd",
-  "num_followers": 92618,
+  "num_followers": 92621,
   "original_name": "Editors' Picks: Best Songs of April",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "ETERNO",
-        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 177038,
-      "name": "EL SENTRITA",
-      "url": "https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "GOMF (feat. GloRilla)",
         "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
       },
@@ -279,18 +263,18 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+        "name": "ETERNO",
+        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 213283,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/0Ntgg91du8iTGOobonADUu"
+      "duration_ms": 177038,
+      "name": "EL SENTRITA",
+      "url": "https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -323,6 +307,22 @@
       "duration_ms": 188767,
       "name": "Hell On Me",
       "url": "https://open.spotify.com/track/4XzAJ5UubRHl8mSx3T4Aab"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0Ntgg91du8iTGOobonADUu"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "the van",
-        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 178001,
-      "name": "the van",
-      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "babygirl",
         "url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 147491,
       "name": "babygirl",
       "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "SORRY! CRASH!",
-        "url": "https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo"
-      },
-      "artists": [
-        {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "SORRY! CRASH!",
-      "url": "https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "CHR\u00d6ME (feat. slayr)",
         "url": "https://open.spotify.com/album/3qJ91i2zamDYcJ91J7PNHs"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 222204,
       "name": "CHR\u00d6ME (feat. slayr)",
       "url": "https://open.spotify.com/track/13bMRD7SZJCqbx4fSGHK0Y"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "SORRY! CRASH!",
+        "url": "https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "SORRY! CRASH!",
+      "url": "https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62"
+      },
+      "artists": [
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        },
+        {
+          "name": "Lapgan",
+          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
+        }
+      ],
+      "duration_ms": 81944,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "mind be so numb",
         "url": "https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 207893,
       "name": "Humble'Em_PINK",
       "url": "https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62"
-      },
-      "artists": [
-        {
-          "name": "Baalti",
-          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
-        },
-        {
-          "name": "Lapgan",
-          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
-        }
-      ],
-      "duration_ms": 81944,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII"
     },
     {
       "added_at": "2026-05-01 04:00:10",

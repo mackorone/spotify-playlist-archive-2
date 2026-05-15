@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 402615,
+  "num_followers": 402601,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "American Grin",
-        "url": "https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM"
+        "name": "What Kinda Man",
+        "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
       },
       "artists": [
         {
-          "name": "Jason Scott & The High Heat",
-          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 186706,
-      "name": "High Country",
-      "url": "https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ"
+      "duration_ms": 259022,
+      "name": "What Kinda Man",
+      "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -511,8 +511,24 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "What Kinda Man",
-        "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
+        "name": "American Grin",
+        "url": "https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM"
+      },
+      "artists": [
+        {
+          "name": "Jason Scott & The High Heat",
+          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "High Country",
+      "url": "https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Handle On You",
+        "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
       },
       "artists": [
         {
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 259022,
-      "name": "What Kinda Man",
-      "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
+      "duration_ms": 219333,
+      "name": "Handle On You",
+      "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -559,26 +575,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Long Live Cowgirls (with Cody Johnson)",
-        "url": "https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Long Live Cowgirls (with Cody Johnson)",
-      "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Junior Stayed Home",
         "url": "https://open.spotify.com/album/3wLJrVlhhX9HJRDsntBGHz"
       },
@@ -595,18 +591,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Handle On You",
-        "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
+        "name": "Long Live Cowgirls (with Cody Johnson)",
+        "url": "https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 219333,
-      "name": "Handle On You",
-      "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
+      "duration_ms": 184746,
+      "name": "Long Live Cowgirls (with Cody Johnson)",
+      "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 200930,
-      "name": "Chipping Mill",
-      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
+      "duration_ms": 317226,
+      "name": "A Cat in the Rain",
+      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Wandering Star",
-        "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 253965,
-      "name": "Spinnin'",
-      "url": "https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys"
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -872,25 +872,25 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 317226,
-      "name": "A Cat in the Rain",
-      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
+      "duration_ms": 200930,
+      "name": "Chipping Mill",
+      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
     },
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+        "name": "Wandering Star",
+        "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+      "duration_ms": 253965,
+      "name": "Spinnin'",
+      "url": "https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "The Little Things",
-      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Worry is a Sickness",
         "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 254836,
       "name": "Worry is a Sickness",
       "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "The Little Things",
+      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Three Drinks Behind",
-        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Three Drinks Behind",
-      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 241523,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Three Drinks Behind",
+        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Three Drinks Behind",
+      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Old Tricks",
-        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Old Tricks",
-      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Pancho and Lefty",
         "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 309510,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2026-03-06 05:00:13",

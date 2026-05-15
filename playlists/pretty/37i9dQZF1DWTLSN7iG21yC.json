@@ -1,6 +1,6 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 831362,
+  "num_followers": 831303,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 200379,
-      "name": "ocean eyes",
-      "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 200379,
+      "name": "ocean eyes",
+      "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
         "name": "Chasing Stars (feat. James Bay)",
         "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 170457,
       "name": "Chasing Stars (feat. James Bay)",
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
+        "name": "altar",
+        "url": "https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 243090,
+      "name": "altar",
+      "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 165133,
       "name": "Move",
       "url": "https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "altar",
-        "url": "https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 243090,
-      "name": "altar",
-      "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
     },
     {
       "added_at": "2025-08-08 04:00:40",

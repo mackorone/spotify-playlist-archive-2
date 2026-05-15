@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Lina-Mariah",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Breaking Benjamin",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -342,6 +342,24 @@
       "duration_ms": 212733,
       "name": "A Brand New God",
       "url": "https://open.spotify.com/track/1tMJAI8SdpPee1dG1eFUVb"
+    },
+    {
+      "album": {
+        "name": "A Digital Touch",
+        "url": "https://open.spotify.com/album/3Nb6zyWwauTNOVKe1coN3T"
+      },
+      "artists": [
+        {
+          "name": "Evening Elephants",
+          "url": "https://open.spotify.com/artist/4mvJqW3HQswIu7RmvcAQUy"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173228,
+      "name": "A Digital Touch",
+      "url": "https://open.spotify.com/track/6cyDNhtOQR49r8ybpo6ZWO"
     },
     {
       "album": {
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 175445,
       "name": "Brutal Dreamy",
       "url": "https://open.spotify.com/track/27L1zsfjn6dcgDLsRbLMdq"
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 222785,
       "name": "CHASING SHADOWS",
       "url": "https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON"
@@ -5178,7 +5196,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 217189,
       "name": "Everything Is Fine",
       "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
@@ -5200,6 +5218,24 @@
       "duration_ms": 209189,
       "name": "EYE FOR AN EYE",
       "url": "https://open.spotify.com/track/4SmbjgQFYXh8HnfrLmr6Fq"
+    },
+    {
+      "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
     },
     {
       "album": {
@@ -6948,7 +6984,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 199556,
       "name": "HEAVY GLOW",
       "url": "https://open.spotify.com/track/7Jl5sUyMCYycpnX2jbtEbg"
@@ -7212,7 +7248,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 83932,
       "name": "Holy Powers",
       "url": "https://open.spotify.com/track/0QYZRTO4MmRR3JsIUbUVMr"
@@ -7726,7 +7762,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 292058,
       "name": "I Will Not Break",
       "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
@@ -11208,7 +11244,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 237187,
       "name": "Out of The Blue",
       "url": "https://open.spotify.com/track/08bdKvF00EHytZWLyTkLQO"
@@ -13659,6 +13695,24 @@
     },
     {
       "album": {
+        "name": "Something Wicked",
+        "url": "https://open.spotify.com/album/4EKw9Gf8OIFl04bGM8VZJb"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208947,
+      "name": "Something Wicked",
+      "url": "https://open.spotify.com/track/7qf6pX0T9CsTLs4kcqSNes"
+    },
+    {
+      "album": {
         "name": "Days Of Ash EP",
         "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
@@ -15284,7 +15338,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 196160,
       "name": "This Sphere",
       "url": "https://open.spotify.com/track/0WTCIwFFQR8tze3OgHZy1Y"
@@ -16586,7 +16640,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 128000,
       "name": "WE R ALL GONNA DIE",
       "url": "https://open.spotify.com/track/3hDFgwVusg16MFq2UVEwOF"

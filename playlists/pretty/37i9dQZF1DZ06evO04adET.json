@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 853795,
+  "num_followers": 853901,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACek3lL89aa6Vie5ABADsaA",
+  "snapshot_id": "agO/AAAAAABcBIIKaIsP9WVkZdcv1aVK",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amapola",
-        "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Nueva H",
-          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Giza",
         "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 177580,
       "name": "Giza",
       "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Comida del Espacio",
-      "url": "https://open.spotify.com/track/6tt6gB21asRxACQLt5qc4r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retumban2",
         "url": "https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy"
       },
@@ -815,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Comida del Espacio",
+      "url": "https://open.spotify.com/track/6tt6gB21asRxACQLt5qc4r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paso En Culiacan",
         "url": "https://open.spotify.com/album/03fkik4lkYThFBm6gMuWkO"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selfies",
-        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 180007,
-      "name": "Selfies",
-      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 200050,
       "name": "Ninguna Como Ella",
       "url": "https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
     },
     {
       "added_at": null,

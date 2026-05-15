@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4tiJsVI2aAVbb3CrbEDzpN.md) - [plain]
 
 > De Jaren 80 playlist met de grootste hits uit de jaren 80 en 80s\. Met o.a\. Kate Bush, Prince, David Bowie, a\-ha, Phil Collins, Talking Heads en nog veel meer! Foto: Prince \| Jaren 80 hits \- Jaren 80
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,611 likes - 110 songs - 7 hr 40 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,616 likes - 110 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2135,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "Don't Go Into Decline",
+        "url": "https://open.spotify.com/album/2wk8NzsQBaA23jHCMtcqKo"
+      },
+      "artists": [
+        {
+          "name": "Guest",
+          "url": "https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260033,
+      "name": "Don't Go into Decline",
+      "url": "https://open.spotify.com/track/26jxUzCuaOEh3FIV94ENXQ"
+    },
+    {
+      "album": {
         "name": "Ben Trexel Music Classic Rock Collection, Vol. 1",
         "url": "https://open.spotify.com/album/3ndoROj3VUZ3hLUIBS2OqU"
       },
@@ -2680,6 +2698,24 @@
       "duration_ms": 134932,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/1knJt03nwMagF4TfJOrirK"
+    },
+    {
+      "album": {
+        "name": "EX",
+        "url": "https://open.spotify.com/album/3HqyGKFgZnme52jqSt2fW5"
+      },
+      "artists": [
+        {
+          "name": "TotoFuoriclasse",
+          "url": "https://open.spotify.com/artist/3EhWMTwP7dGIl3Y6MiscVL"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177326,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/2x6uxhbPVhUobfPzlEHAUK"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 40568,
+  "num_followers": 40580,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACcTuxewyVwPOBu8K81c0zU",
+  "snapshot_id": "agO/AAAAAABjrLsELtdpN58KLpaoCu7O",
   "tracks": [
     {
       "added_at": null,
@@ -578,51 +578,15 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "H&M",
-      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRINCESS POP THAT",
-        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
-      },
-      "artists": [
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
         },
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 173573,
-      "name": "BACK OUTSIDE (feat. Latto)",
-      "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muwop (feat. Gucci Mane)",
-        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Muwop (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
+      "duration_ms": 178160,
+      "name": "Look What You Did (feat. Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
     },
     {
       "added_at": null,
@@ -647,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+        "name": "Muwop (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
       },
       "artists": [
         {
@@ -656,13 +620,49 @@
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 178160,
-      "name": "Look What You Did (feat. Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
+      "duration_ms": 200135,
+      "name": "Muwop (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRINCESS POP THAT",
+        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173573,
+      "name": "BACK OUTSIDE (feat. Latto)",
+      "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Night",
-        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 205170,
-      "name": "For the Night",
-      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 206250,
       "name": "Sunshine (feat. Lil Wayne & Childish Gambino)",
       "url": "https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For the Night",
+        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 205170,
+      "name": "For the Night",
+      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You For Believing",
-        "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 168019,
-      "name": "5'5 (feat. Latto)",
-      "url": "https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 212293,
       "name": "FINE AS CAN BE (feat. Latto)",
       "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You For Believing",
+        "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 168019,
+      "name": "5'5 (feat. Latto)",
+      "url": "https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ"
     },
     {
       "added_at": null,

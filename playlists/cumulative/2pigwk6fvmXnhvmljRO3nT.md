@@ -4,7 +4,7 @@
 
 > 
 
-8,623 songs - 21 day 23 hr 18 min
+8,624 songs - 21 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,7 +477,7 @@
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2025-04-18 |  |
 | [Angel Dust](https://open.spotify.com/track/1RkPqBGgFNPxdzlGD2Ar0m) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:42 | 2025-01-04 |  |
 | [Angel's Share](https://open.spotify.com/track/0MFky4zpOENxfUb35EK6rx) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 1:53 | 2025-03-23 |  |
-| [Angelic Angel](https://open.spotify.com/track/46v8fYqNmVdqCyqiVeeSjj) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Complete BEST BOX \(Chapter.12\)](https://open.spotify.com/album/0pkmGenaj8UzPldSgoC2qE) | 4:56 | 2026-04-15 |  |
+| [Angelic Angel](https://open.spotify.com/track/46v8fYqNmVdqCyqiVeeSjj) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Complete BEST BOX Chapter.12](https://open.spotify.com/album/0pkmGenaj8UzPldSgoC2qE) | 4:56 | 2026-04-15 |  |
 | [Angels](https://open.spotify.com/track/0NFCFdJxEGCGO6EGkFCGgF) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:47 | 2024-12-05 |  |
 | [Angels \(feat\. Saba\)](https://open.spotify.com/track/0jx8zY5JQsS4YEQcfkoc5C) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:26 | 2024-12-14 |  |
 | [Angels and Demons](https://open.spotify.com/track/4P3tCSd85gGdlDiw5PilvT) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Best of SEKAI NO OWARI \(in Japanese\)](https://open.spotify.com/album/5o79Pz8HCBePpYYPmP07Hn) | 4:34 | 2025-01-15 |  |
@@ -1287,6 +1287,7 @@
 | [Coffee & Sweet Cream](https://open.spotify.com/track/7zi9t019nJbtaOCizE8Bs9) | [saku t.](https://open.spotify.com/artist/7d1hn8RFNON06G8yK8LCda), [Michael Bruce](https://open.spotify.com/artist/3j7tI1R2HH3wi1vALL5ynE) | [Coffee & Sweet Cream](https://open.spotify.com/album/3uXUpOhNlDPSflOKtmY2SX) | 2:41 | 2025-03-19 |  |
 | [COFFEE BEAN](https://open.spotify.com/track/6vnfObZ4Ys70SBAtti1xZ9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:29 | 2025-01-15 |  |
 | [Coffin](https://open.spotify.com/track/5vDNippoMr52KpXBO9b9KQ) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Boat 3.5](https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo) | 1:29 | 2025-01-03 |  |
+| [Cold Green Eyes \- Original Mix](https://open.spotify.com/track/2gtBcLNjFMi8l5xSz66Fsb) | [Station Earth](https://open.spotify.com/artist/1G9FmqZJybVEOXqMOR5usy), [Roos Denayer](https://open.spotify.com/artist/0tsKdteyh5ArMn3pAUiSff) | [Cold Green Eyes](https://open.spotify.com/album/4UD0rIYLnIeixT6m51hrTe) | 4:07 | 2026-05-14 |  |
 | [Cold Night](https://open.spotify.com/track/49scDvsNT1N11yhE9weByf) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 1:07 | 2025-03-23 |  |
 | [Cold Summers](https://open.spotify.com/track/0xUbrvxYljD4OZ02BbuPpK) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Some Rap Songs](https://open.spotify.com/album/66at85wgO2pu5CccvqUF6i) | 1:06 | 2025-01-03 |  |
 | [Cold Water](https://open.spotify.com/track/7zsXy7vlHdItvUSH8EwQss) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Cold Water](https://open.spotify.com/album/3Kmo85mapQ2wTaCAHBkKsK) | 3:05 | 2025-01-04 |  |
@@ -2645,7 +2646,7 @@
 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 | 2025-03-27 |  |
 | [Happy Break up Song](https://open.spotify.com/track/0kJa14gfWrH5R3X82WBGBG) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [94 Camry Music](https://open.spotify.com/album/3GVQNsLDpFxSAQhycJgWo7) | 4:13 | 2025-01-03 |  |
 | [Happy Days](https://open.spotify.com/track/2yTUSrl8w7tegkl3oViAB4) | [ゆずソフト](https://open.spotify.com/artist/62ABa7k8N8I44H7pmYNY6W) | [RIDDLE JOKER オリジナルサウンドトラック](https://open.spotify.com/album/261pdUlb3W24dhMk7HgBkV) | 4:29 | 2025-11-29 |  |
-| [HAPPY PARTY TRAIN](https://open.spotify.com/track/79lPN4KsjswcqoKDUGn16h) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:37 | 2026-04-17 |  |
+| [HAPPY PARTY TRAIN](https://open.spotify.com/track/79lPN4KsjswcqoKDUGn16h) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:37 | 2026-04-17 |  |
 | [Happy Survival \(feat\. Khruangbin\)](https://open.spotify.com/track/0Ck3kW2KiRLjMOGiKzW3la) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:23 | 2024-12-14 |  |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2025-01-03 |  |
 | [Harambe](https://open.spotify.com/track/1yKLa9X63tBfvLojNOw9y8) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 3:10 | 2025-01-15 |  |
@@ -7658,7 +7659,7 @@
 | [ガーデン](https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:49 | 2025-01-03 |  |
 | [キセキ](https://open.spotify.com/track/7ztdl6cnbJgHRdMkKldkts) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [あっ、ども。おひさしぶりです。](https://open.spotify.com/album/7wWqz8nDIHhHdyM7ObDDix) | 4:31 | 2025-01-03 |  |
 | [キミがいなくちゃっ！](https://open.spotify.com/track/4VEL6WYtulopS1j9m1EHU5) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/107eLkxRaPZLPtE5yrUahS) | 4:03 | 2025-12-02 |  |
-| [キミのくせに!](https://open.spotify.com/track/2EgFitP5szGlhglt4P0wN7) | [lily white](https://open.spotify.com/artist/0AVxxoSuVTDb0JamZGKmmA) | [μ's Complete BEST BOX \(Chapter.09\)](https://open.spotify.com/album/56r4XvKUMrmB9kcRFIbZmv) | 3:57 | 2026-04-17 |  |
+| [キミのくせに!](https://open.spotify.com/track/2EgFitP5szGlhglt4P0wN7) | [lily white](https://open.spotify.com/artist/0AVxxoSuVTDb0JamZGKmmA) | [μ's Complete BEST BOX Chapter.09](https://open.spotify.com/album/56r4XvKUMrmB9kcRFIbZmv) | 3:57 | 2026-04-17 |  |
 | [キミの冒険](https://open.spotify.com/track/0fes6t9kQReumEBug0uw2A) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [「劇場版ポケットモンスター ココ」テーマソング集](https://open.spotify.com/album/4oScHRBczz3sQZtoMa4MVS) | 4:14 | 2025-01-04 |  |
 | [キミの記憶](https://open.spotify.com/track/3xZ74cInuK2pAACPRXpM4u) | [川村ゆみ](https://open.spotify.com/artist/55yEcpOYHnvIFiQGqN4t6U) | [ペルソナ3 オリジナル･サウンドトラック](https://open.spotify.com/album/2UfyjcSh6uXBjyNGQnweq7) | 6:09 | 2025-01-15 |  |
 | [キャラクター](https://open.spotify.com/track/0O4YelF6Zneq7sk1Ye73N2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Actor](https://open.spotify.com/album/1wZvv1wdTDAKvWVoqnMcIK) | 4:09 | 2025-01-15 |  |

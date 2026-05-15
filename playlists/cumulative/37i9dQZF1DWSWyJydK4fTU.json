@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 176242,
       "name": "clich\u00e9",
       "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 132800,
       "name": "dein buhmann !!!",
       "url": "https://open.spotify.com/track/5jJcmufdbaUJrG1UiLTKM2"
@@ -1451,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "Don't Say That",
+        "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210048,
+      "name": "Don't Say That",
+      "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
+    },
+    {
+      "album": {
         "name": "C'est La Vie, Baby!",
         "url": "https://open.spotify.com/album/2ncl4h8FXHnpnbMrvGwA2x"
       },
@@ -1592,6 +1628,24 @@
       "duration_ms": 141965,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2lbOVJ2oLUV6e2OvF3JbeH"
+    },
+    {
+      "album": {
+        "name": "Ein Lied",
+        "url": "https://open.spotify.com/album/60xB6sJ3lZJZBgRdyRzZmO"
+      },
+      "artists": [
+        {
+          "name": "Mark Forster",
+          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151552,
+      "name": "Ein Lied",
+      "url": "https://open.spotify.com/track/2nrsfJSYFVmBXe9hc3q3lM"
     },
     {
       "album": {
@@ -2051,6 +2105,28 @@
     },
     {
       "album": {
+        "name": "Gib mir mehr Du",
+        "url": "https://open.spotify.com/album/03ub248yWebL0kbqooEzpM"
+      },
+      "artists": [
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163575,
+      "name": "Gib mir mehr Du",
+      "url": "https://open.spotify.com/track/6w0eHk8No2d9hAn9xym7Se"
+    },
+    {
+      "album": {
         "name": "Give A Little",
         "url": "https://open.spotify.com/album/4PM2t0JoZrpWfjtg8OKXYi"
       },
@@ -2488,6 +2564,24 @@
       "duration_ms": 149495,
       "name": "Herztausch",
       "url": "https://open.spotify.com/track/6k2cbSiYwuHtsiqScrrp3J"
+    },
+    {
+      "album": {
+        "name": "All That We Needed",
+        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
     },
     {
       "album": {
@@ -3056,7 +3150,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 155700,
       "name": "Jamais \u00c9t\u00e9 (Cool)",
       "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
@@ -3132,7 +3226,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140281,
       "name": "Keinen Mann",
       "url": "https://open.spotify.com/track/4mV3ZcdxZ5b3PlLSdZ1Vai"
@@ -4149,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
+    },
+    {
+      "album": {
         "name": "Northern Attitude (with Hozier)",
         "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
       },
@@ -4204,6 +4316,28 @@
       "duration_ms": 142986,
       "name": "Nur ein Wort",
       "url": "https://open.spotify.com/track/6qA3oTgV2MQrehl3wQLlO5"
+    },
+    {
+      "album": {
+        "name": "Nur ein Wort",
+        "url": "https://open.spotify.com/album/6n4MQhGhEBzZt9xFuXIdib"
+      },
+      "artists": [
+        {
+          "name": "Noah Kraus",
+          "url": "https://open.spotify.com/artist/3wEYWraAn9tILbCru8VeME"
+        },
+        {
+          "name": "Wir sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115459,
+      "name": "Nur ein Wort",
+      "url": "https://open.spotify.com/track/0dIb1x3ilFtfprAfbfOEKm"
     },
     {
       "album": {
@@ -4572,7 +4706,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 161200,
       "name": "right there with you",
       "url": "https://open.spotify.com/track/2QPj9HEoVZJ99nv9LxhUTo"
@@ -4590,7 +4724,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169500,
       "name": "River",
       "url": "https://open.spotify.com/track/4rhnAszHuZWU0237E7cdlI"
@@ -4767,6 +4901,24 @@
     },
     {
       "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "album": {
         "name": "THE HELL OF APRIL",
         "url": "https://open.spotify.com/album/6zpmyHGqWXZA36k7Ex68FG"
       },
@@ -4868,7 +5020,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 165573,
       "name": "si tu me demandes",
       "url": "https://open.spotify.com/track/6N9wdVht1PjAnt4AZq9Nou"
@@ -5294,7 +5446,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 184149,
       "name": "Summer In The Woods",
       "url": "https://open.spotify.com/track/2oMVZc7fzqNy6iq9ugUmrV"
@@ -5334,6 +5486,24 @@
       "duration_ms": 225211,
       "name": "Survive",
       "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+    },
+    {
+      "album": {
+        "name": "tanz aus der reihe.",
+        "url": "https://open.spotify.com/album/2dwI089I2sUSZt8T1qUuK2"
+      },
+      "artists": [
+        {
+          "name": "Luca Noel",
+          "url": "https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123205,
+      "name": "tanz aus der reihe.",
+      "url": "https://open.spotify.com/track/01p61G93AOoD9Msb9pdBfP"
     },
     {
       "album": {
@@ -5384,7 +5554,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 161098,
       "name": "Tell Me One Lie",
       "url": "https://open.spotify.com/track/5UVJybNgRKoIkegkEipqfQ"
@@ -5474,7 +5644,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
@@ -5674,7 +5844,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140586,
       "name": "Thinking \u2018bout You",
       "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
@@ -5865,6 +6035,28 @@
     },
     {
       "album": {
+        "name": "VERSPRICH MIR",
+        "url": "https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg"
+      },
+      "artists": [
+        {
+          "name": "FAYAN",
+          "url": "https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF"
+        },
+        {
+          "name": "Dalton",
+          "url": "https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144049,
+      "name": "VERSPRICH MIR",
+      "url": "https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm"
       },
@@ -5912,7 +6104,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169182,
       "name": "Walk Alone",
       "url": "https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov"
@@ -6351,6 +6543,24 @@
     },
     {
       "album": {
+        "name": "Wieso",
+        "url": "https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225201,
+      "name": "Wieso",
+      "url": "https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF"
+    },
+    {
+      "album": {
         "name": "Wimpernschlag",
         "url": "https://open.spotify.com/album/624ffjT6xFCdbDpQL0sV8B"
       },
@@ -6460,6 +6670,24 @@
       "duration_ms": 179086,
       "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
+    },
+    {
+      "album": {
+        "name": "Zu jung",
+        "url": "https://open.spotify.com/album/1Ccqpe7T8ZPHKD7DNwNobI"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121084,
+      "name": "Zu jung",
+      "url": "https://open.spotify.com/track/1x5kr8H7AW5lgAUvGUfYOj"
     },
     {
       "album": {

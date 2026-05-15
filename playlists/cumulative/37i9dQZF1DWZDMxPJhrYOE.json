@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 172844,
       "name": "Bliv hvor du er",
       "url": "https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k"
@@ -4180,7 +4180,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 172535,
       "name": "Det Hele V\u00e6rd",
       "url": "https://open.spotify.com/track/34sPIAouwV5CTKy01oCPy8"
@@ -4934,6 +4934,24 @@
       "duration_ms": 203595,
       "name": "Dream team",
       "url": "https://open.spotify.com/track/6WrM6GnzCkfv075p1KN6fi"
+    },
+    {
+      "album": {
+        "name": "Dreng",
+        "url": "https://open.spotify.com/album/5asn67kNJehseJxmxxeJy4"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153986,
+      "name": "Dreng",
+      "url": "https://open.spotify.com/track/4hHKHJEN7UGBnKY7NvugJ5"
     },
     {
       "album": {
@@ -7684,7 +7702,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169294,
       "name": "GPS",
       "url": "https://open.spotify.com/track/2jlHjepQ8HqqjhDTWCiGYe"
@@ -9146,7 +9164,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 135735,
       "name": "Hvorfor skulle jeg vide det?",
       "url": "https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr"
@@ -10406,6 +10424,24 @@
       "duration_ms": 180000,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
+    },
+    {
+      "album": {
+        "name": "I\u2019m your girl right?",
+        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169059,
+      "name": "I\u2019m your girl right?",
+      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
     },
     {
       "album": {
@@ -15225,6 +15261,28 @@
     },
     {
       "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
+    },
+    {
+      "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
       },
@@ -19010,6 +19068,28 @@
       "duration_ms": 121744,
       "name": "To Know A Girl",
       "url": "https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37"
+    },
+    {
+      "album": {
+        "name": "To Lanterner",
+        "url": "https://open.spotify.com/album/3G77bagmk5pe7ojdlmxSwJ"
+      },
+      "artists": [
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        },
+        {
+          "name": "Fri\u00f0a Saiya",
+          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "To Lanterner",
+      "url": "https://open.spotify.com/track/0zs5EIVjsz66ZHuVlqj2hI"
     },
     {
       "album": {

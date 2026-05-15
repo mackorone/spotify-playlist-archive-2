@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 149199,
+  "num_followers": 149220,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -1051,34 +1051,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel Coronation Anthems",
-        "url": "https://open.spotify.com/album/4c8lcNQ6aSjGJ2pJEWACw8"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Choir of King's College, Cambridge",
-          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
-        },
-        {
-          "name": "Academy of Ancient Music",
-          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
-        },
-        {
-          "name": "Stephen Cleobury",
-          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
-        }
-      ],
-      "duration_ms": 164320,
-      "name": "Handel: Coronation Anthem No. 4, HWV 261 \"My Heart Is Inditing\": I. My Heart Is Inditing",
-      "url": "https://open.spotify.com/track/5VPuxHjU7hVG4kWkSyAR1H"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Handel: Trio Sonatas for Two Violins and Basso Continuo",
         "url": "https://open.spotify.com/album/59YvN2nfiOBRZgqcYpTfHT"
       },
@@ -1111,6 +1083,34 @@
       "duration_ms": 173060,
       "name": "Trio Sonata in F Major, HWV 392: IV. Allegro assai",
       "url": "https://open.spotify.com/track/5JECMr6LxcxhW9U0YjDglW"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel Coronation Anthems",
+        "url": "https://open.spotify.com/album/4c8lcNQ6aSjGJ2pJEWACw8"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        }
+      ],
+      "duration_ms": 164320,
+      "name": "Handel: Coronation Anthem No. 4, HWV 261 \"My Heart Is Inditing\": I. My Heart Is Inditing",
+      "url": "https://open.spotify.com/track/5VPuxHjU7hVG4kWkSyAR1H"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 128599,
+      "name": "Water Music, Suite No. 1, HWV 348: No. 2, Adagio e staccato",
+      "url": "https://open.spotify.com/track/6H8kRwXYJhmz6y1AkbCwvD"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
         "name": "Handel: Oboe Concertos",
         "url": "https://open.spotify.com/album/6CyYye9AOrng3cvwIuLHfL"
       },
@@ -1332,57 +1352,9 @@
           "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
         }
       ],
-      "duration_ms": 128599,
-      "name": "Water Music, Suite No. 1, HWV 348: No. 2, Adagio e staccato",
-      "url": "https://open.spotify.com/track/6H8kRwXYJhmz6y1AkbCwvD"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
       "duration_ms": 192452,
       "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
       "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
-        "name": "In War & Peace - Harmony through Music",
-        "url": "https://open.spotify.com/album/1TjvQpGgD9gaEQbUt5inKM"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Joyce DiDonato",
-          "url": "https://open.spotify.com/artist/6uFDUz42zInHQ1T2JFqNrE"
-        },
-        {
-          "name": "Maxim Emelyanychev",
-          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
-        },
-        {
-          "name": "Il Pomo D'oro",
-          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
-        }
-      ],
-      "duration_ms": 332320,
-      "name": "Handel: Rinaldo, HWV 7, Act 2: \"Lascia ch'io pianga\" (Almirena)",
-      "url": "https://open.spotify.com/track/2Sbb5o2R6zci4L0xEQhsvK"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -1411,6 +1383,34 @@
       "duration_ms": 219360,
       "name": "Messiah, HWV 56, Pt. 2: No. 44, Chorus. Hallelujah, for the Lord God Omnipotent Reigneth",
       "url": "https://open.spotify.com/track/4TNCQyG2gmepsGoeLdRKn4"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "In War & Peace - Harmony through Music",
+        "url": "https://open.spotify.com/album/1TjvQpGgD9gaEQbUt5inKM"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Joyce DiDonato",
+          "url": "https://open.spotify.com/artist/6uFDUz42zInHQ1T2JFqNrE"
+        },
+        {
+          "name": "Maxim Emelyanychev",
+          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
+        },
+        {
+          "name": "Il Pomo D'oro",
+          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+        }
+      ],
+      "duration_ms": 332320,
+      "name": "Handel: Rinaldo, HWV 7, Act 2: \"Lascia ch'io pianga\" (Almirena)",
+      "url": "https://open.spotify.com/track/2Sbb5o2R6zci4L0xEQhsvK"
     },
     {
       "added_at": "2025-12-23 12:24:26",

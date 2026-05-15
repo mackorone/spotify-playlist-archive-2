@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wiseman Freestlye",
-        "url": "https://open.spotify.com/album/0phJFb8bWbZv9Z88hKEFkZ"
-      },
-      "artists": [
-        {
-          "name": "$t3PPA",
-          "url": "https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU"
-        }
-      ],
-      "duration_ms": 128079,
-      "name": "Wiseman Freestlye",
-      "url": "https://open.spotify.com/track/0sMqm4VQAnPkcs1wSSXpKU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "!?",
         "url": "https://open.spotify.com/album/6Q8NissAQlvTJKlqpzm5R4"
       },
@@ -75,38 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hella Vibes (feat TSAN)",
-        "url": "https://open.spotify.com/album/4nI306COmaUP1Rdg4xh3nv"
-      },
-      "artists": [
-        {
-          "name": "Dsaint",
-          "url": "https://open.spotify.com/artist/1FEQirb937ThSgTB386hwi"
-        }
-      ],
-      "duration_ms": 116363,
-      "name": "Hella Vibes (feat TSAN)",
-      "url": "https://open.spotify.com/track/7ckQz5pK4N02ppA23PgW7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "not enn a diss",
-        "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
-      },
-      "artists": [
-        {
-          "name": "Taewitdak",
-          "url": "https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF"
-        }
-      ],
-      "duration_ms": 81176,
-      "name": "not enn a diss",
-      "url": "https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
         "url": "https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz"
       },
@@ -127,8 +79,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "Therapeutic Deluxe (2nd Session)",
-        "url": "https://open.spotify.com/album/4RrFwR4RBdpchZbu34MwHn"
+        "name": "HiTTiN",
+        "url": "https://open.spotify.com/album/6ZXBNHw4VnIPA180AKrymZ"
+      },
+      "artists": [
+        {
+          "name": "KiLLTENTAI",
+          "url": "https://open.spotify.com/artist/7dmdBftWm4pTxCiKpMhlfO"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "HiTTiN",
+      "url": "https://open.spotify.com/track/1xhtuJVJWTzXRGtDQQpS4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "not enn a diss",
+        "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
+      },
+      "artists": [
+        {
+          "name": "Taewitdak",
+          "url": "https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF"
+        }
+      ],
+      "duration_ms": 81176,
+      "name": "not enn a diss",
+      "url": "https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wiseman Freestlye",
+        "url": "https://open.spotify.com/album/0phJFb8bWbZv9Z88hKEFkZ"
       },
       "artists": [
         {
@@ -136,9 +120,9 @@
           "url": "https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU"
         }
       ],
-      "duration_ms": 112616,
-      "name": "21 Years (2nd Session)",
-      "url": "https://open.spotify.com/track/59aWOlDOMAjKAPELfEqqTh"
+      "duration_ms": 128079,
+      "name": "Wiseman Freestlye",
+      "url": "https://open.spotify.com/track/0sMqm4VQAnPkcs1wSSXpKU"
     },
     {
       "added_at": null,
@@ -155,6 +139,38 @@
       "duration_ms": 198149,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/3zls854dRathxLF4aoMJm2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aliv\u00eb",
+        "url": "https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 153208,
+      "name": "WAR 1",
+      "url": "https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloody Bruddas",
+        "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        }
+      ],
+      "duration_ms": 128312,
+      "name": "AR-15",
+      "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
     },
     {
       "added_at": null,
@@ -183,70 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aliv\u00eb",
-        "url": "https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 153208,
-      "name": "WAR 1",
-      "url": "https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SKURF'd UP",
-        "url": "https://open.spotify.com/album/01q9AI0Pg94t9bK96yGLik"
-      },
-      "artists": [
-        {
-          "name": "Oodaredevil",
-          "url": "https://open.spotify.com/artist/1yj1u1EEoD0kmQuthHP6nf"
-        }
-      ],
-      "duration_ms": 133391,
-      "name": "NEED DAT",
-      "url": "https://open.spotify.com/track/0CkmV66jmr4APBOJlG6e3h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloody Bruddas",
-        "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Lil Jeff",
-          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
-        }
-      ],
-      "duration_ms": 128312,
-      "name": "AR-15",
-      "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Digital Circus!",
-        "url": "https://open.spotify.com/album/6AwWvzI7kqewkFF9Yk7bQc"
-      },
-      "artists": [
-        {
-          "name": "BaybWick",
-          "url": "https://open.spotify.com/artist/0rpI9gzgDuWlpsFQiGo8l3"
-        }
-      ],
-      "duration_ms": 170155,
-      "name": "Digital Circus!",
-      "url": "https://open.spotify.com/track/0HdtMYQLQ7kklq31tJNJzV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
       },
@@ -259,6 +211,22 @@
       "duration_ms": 130422,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Therapeutic Deluxe (2nd Session)",
+        "url": "https://open.spotify.com/album/4RrFwR4RBdpchZbu34MwHn"
+      },
+      "artists": [
+        {
+          "name": "$t3PPA",
+          "url": "https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU"
+        }
+      ],
+      "duration_ms": 112616,
+      "name": "21 Years (2nd Session)",
+      "url": "https://open.spotify.com/track/59aWOlDOMAjKAPELfEqqTh"
     },
     {
       "added_at": null,
@@ -295,18 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPERNOVA.",
-        "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
+        "name": "Digital Circus!",
+        "url": "https://open.spotify.com/album/6AwWvzI7kqewkFF9Yk7bQc"
       },
       "artists": [
         {
-          "name": "KA$HDAMI",
-          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+          "name": "BaybWick",
+          "url": "https://open.spotify.com/artist/0rpI9gzgDuWlpsFQiGo8l3"
         }
       ],
-      "duration_ms": 149508,
-      "name": "Switchin Sides",
-      "url": "https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM"
+      "duration_ms": 170155,
+      "name": "Digital Circus!",
+      "url": "https://open.spotify.com/track/0HdtMYQLQ7kklq31tJNJzV"
     },
     {
       "added_at": null,
@@ -327,18 +295,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 DA THRILL",
-        "url": "https://open.spotify.com/album/1hVMY5IZJHZE95MP7wY37r"
+        "name": "HYPERNOVA.",
+        "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
       },
       "artists": [
         {
-          "name": "Unitus",
-          "url": "https://open.spotify.com/artist/4i2MeDBaCWuskZDgkCVAlS"
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
         }
       ],
-      "duration_ms": 112500,
-      "name": "Swept Da Block",
-      "url": "https://open.spotify.com/track/3TZjiHzps5d0Lk2snACKG3"
+      "duration_ms": 149508,
+      "name": "Switchin Sides",
+      "url": "https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SKURF'd UP",
+        "url": "https://open.spotify.com/album/01q9AI0Pg94t9bK96yGLik"
+      },
+      "artists": [
+        {
+          "name": "Oodaredevil",
+          "url": "https://open.spotify.com/artist/1yj1u1EEoD0kmQuthHP6nf"
+        }
+      ],
+      "duration_ms": 133391,
+      "name": "NEED DAT",
+      "url": "https://open.spotify.com/track/0CkmV66jmr4APBOJlG6e3h"
     },
     {
       "added_at": null,
@@ -355,6 +339,22 @@
       "duration_ms": 125217,
       "name": "Still the Same",
       "url": "https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Narrow Road",
+        "url": "https://open.spotify.com/album/5G9CXkdUu2e4rys1cnasJn"
+      },
+      "artists": [
+        {
+          "name": "Favo",
+          "url": "https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe"
+        }
+      ],
+      "duration_ms": 93226,
+      "name": "MITM",
+      "url": "https://open.spotify.com/track/4VtRuRYZHwErYuviKRE2Zb"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "4 DA THRILL",
+        "url": "https://open.spotify.com/album/1hVMY5IZJHZE95MP7wY37r"
+      },
+      "artists": [
+        {
+          "name": "Unitus",
+          "url": "https://open.spotify.com/artist/4i2MeDBaCWuskZDgkCVAlS"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Swept Da Block",
+      "url": "https://open.spotify.com/track/3TZjiHzps5d0Lk2snACKG3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blak Amerika 0.5",
         "url": "https://open.spotify.com/album/5vhfiGkD34WJLIhV65PK1L"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 144055,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/2JegRQblXBHcGA6oGpoxrn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All 4 Bop",
-        "url": "https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb"
-      },
-      "artists": [
-        {
-          "name": "Curry B",
-          "url": "https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Telephones",
-      "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leftovr Drugz",
-        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
-      },
-      "artists": [
-        {
-          "name": "sixsick",
-          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
-        }
-      ],
-      "duration_ms": 165009,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real Talk",
         "url": "https://open.spotify.com/album/1WzQqIOpYtVQ0XzgkWMzoJ"
       },
@@ -483,22 +467,6 @@
       "duration_ms": 146586,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/50ClQ5PTkY2Sc3f0ynVxis"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Therapeutic Deluxe (2nd Session)",
-        "url": "https://open.spotify.com/album/4RrFwR4RBdpchZbu34MwHn"
-      },
-      "artists": [
-        {
-          "name": "$t3PPA",
-          "url": "https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU"
-        }
-      ],
-      "duration_ms": 104861,
-      "name": "Karl Malone (2nd Session)",
-      "url": "https://open.spotify.com/track/5qwtkIJSqZMrmmqXciVBDm"
     },
     {
       "added_at": null,
@@ -519,34 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
+        "name": "All 4 Bop",
+        "url": "https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "Curry B",
+          "url": "https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF"
         }
       ],
-      "duration_ms": 106533,
-      "name": "Yale",
-      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
-      },
-      "artists": [
-        {
-          "name": "Cl4pers",
-          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
-        }
-      ],
-      "duration_ms": 163062,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
+      "duration_ms": 145841,
+      "name": "Telephones",
+      "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
     },
     {
       "added_at": null,
@@ -567,34 +519,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Live, I Die, I Live Again (Resurrected)",
-        "url": "https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2"
+        "name": "Teen X",
+        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
       },
       "artists": [
         {
-          "name": "Chuckyy",
-          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 160000,
-      "name": "No Blickout",
-      "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
+      "duration_ms": 106533,
+      "name": "Yale",
+      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Trifling",
-        "url": "https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e"
+        "name": "Leftovr Drugz",
+        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
       },
       "artists": [
         {
-          "name": "acleast",
-          "url": "https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn"
+          "name": "sixsick",
+          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
         }
       ],
-      "duration_ms": 211931,
-      "name": "Trifling",
-      "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"
+      "duration_ms": 165009,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
+      },
+      "artists": [
+        {
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+        }
+      ],
+      "duration_ms": 163062,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Therapeutic Deluxe (2nd Session)",
+        "url": "https://open.spotify.com/album/4RrFwR4RBdpchZbu34MwHn"
+      },
+      "artists": [
+        {
+          "name": "$t3PPA",
+          "url": "https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU"
+        }
+      ],
+      "duration_ms": 104861,
+      "name": "Karl Malone (2nd Session)",
+      "url": "https://open.spotify.com/track/5qwtkIJSqZMrmmqXciVBDm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/4LsamGhaJ4QVjy3z6t2snN"
+      },
+      "artists": [
+        {
+          "name": "VazClare",
+          "url": "https://open.spotify.com/artist/0nYdbzhczBc4XzpFdHOG75"
+        },
+        {
+          "name": "killfazos",
+          "url": "https://open.spotify.com/artist/3gstM7z6Ou4hsmy3CTrJFj"
+        }
+      ],
+      "duration_ms": 123296,
+      "name": "No Folding (Bonus)",
+      "url": "https://open.spotify.com/track/5bOhFcWSkQfDRTNblpLicF"
     },
     {
       "added_at": null,
@@ -631,58 +635,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intervals",
-        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
+        "name": "I Live, I Die, I Live Again (Resurrected)",
+        "url": "https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2"
       },
       "artists": [
         {
-          "name": "\u0141ee",
-          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
         }
       ],
-      "duration_ms": 143775,
-      "name": "Intervals",
-      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
+      "duration_ms": 160000,
+      "name": "No Blickout",
+      "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "thinking of you, wherever you are",
-        "url": "https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB"
+        "name": "Hella Vibes (feat TSAN)",
+        "url": "https://open.spotify.com/album/4nI306COmaUP1Rdg4xh3nv"
       },
       "artists": [
         {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        },
-        {
-          "name": "Lil Shadow",
-          "url": "https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf"
+          "name": "Dsaint",
+          "url": "https://open.spotify.com/artist/1FEQirb937ThSgTB386hwi"
         }
       ],
-      "duration_ms": 189231,
-      "name": "king of the pumpkin patch",
-      "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
+      "duration_ms": 116363,
+      "name": "Hella Vibes (feat TSAN)",
+      "url": "https://open.spotify.com/track/7ckQz5pK4N02ppA23PgW7Q"
     },
     {
       "added_at": null,
       "album": {
-        "name": "ANTI",
-        "url": "https://open.spotify.com/album/4LsamGhaJ4QVjy3z6t2snN"
+        "name": "LORD",
+        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
       },
       "artists": [
         {
-          "name": "VazClare",
-          "url": "https://open.spotify.com/artist/0nYdbzhczBc4XzpFdHOG75"
-        },
-        {
-          "name": "killfazos",
-          "url": "https://open.spotify.com/artist/3gstM7z6Ou4hsmy3CTrJFj"
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 123296,
-      "name": "No Folding (Bonus)",
-      "url": "https://open.spotify.com/track/5bOhFcWSkQfDRTNblpLicF"
+      "duration_ms": 143112,
+      "name": "Which 1 / Klueless",
+      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trifling",
+        "url": "https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e"
+      },
+      "artists": [
+        {
+          "name": "acleast",
+          "url": "https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn"
+        }
+      ],
+      "duration_ms": 211931,
+      "name": "Trifling",
+      "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"
     },
     {
       "added_at": null,
@@ -719,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time (TopOppGen)",
-        "url": "https://open.spotify.com/album/6yYdwxE24hJAdBZm7a9OTZ"
+        "name": "thinking of you, wherever you are",
+        "url": "https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB"
       },
       "artists": [
         {
-          "name": "Gremlins Town",
-          "url": "https://open.spotify.com/artist/5nLEGbgfJhoLR8q4OiUqaH"
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "Lil Shadow",
+          "url": "https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf"
         }
       ],
-      "duration_ms": 157245,
-      "name": "Time (TopOppGen)",
-      "url": "https://open.spotify.com/track/5lMrHxIqCLdsudOL55c5b1"
+      "duration_ms": 189231,
+      "name": "king of the pumpkin patch",
+      "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
     },
     {
       "added_at": null,
@@ -751,18 +767,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "tempted",
-        "url": "https://open.spotify.com/album/3u5j1nVg9tq2vFdSWvSKnD"
+        "name": "Time (TopOppGen)",
+        "url": "https://open.spotify.com/album/6yYdwxE24hJAdBZm7a9OTZ"
       },
       "artists": [
         {
-          "name": "Shameless",
-          "url": "https://open.spotify.com/artist/2XMnrlg83FzaoLirkS91uP"
+          "name": "Gremlins Town",
+          "url": "https://open.spotify.com/artist/5nLEGbgfJhoLR8q4OiUqaH"
         }
       ],
-      "duration_ms": 114301,
-      "name": "tempted",
-      "url": "https://open.spotify.com/track/1Qm0FSIjb94bsiAs4KcPb6"
+      "duration_ms": 157245,
+      "name": "Time (TopOppGen)",
+      "url": "https://open.spotify.com/track/5lMrHxIqCLdsudOL55c5b1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intervals",
+        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
+      },
+      "artists": [
+        {
+          "name": "\u0141ee",
+          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
+        }
+      ],
+      "duration_ms": 143775,
+      "name": "Intervals",
+      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
     },
     {
       "added_at": null,
@@ -783,66 +815,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Im The Bad Guy",
-        "url": "https://open.spotify.com/album/4HVNcXuZeQWbJFZd2vG34F"
+        "name": "crash life",
+        "url": "https://open.spotify.com/album/2Ah6LQleoaiHyoA77ACfTq"
       },
       "artists": [
         {
-          "name": "Nfe Tummy",
-          "url": "https://open.spotify.com/artist/5kYpfTaZup3Da12sn2KKP8"
+          "name": "brxbandz",
+          "url": "https://open.spotify.com/artist/7rc1zn1vIGqvykU0x2FAJb"
         }
       ],
-      "duration_ms": 131633,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/0MZA9uJHEuqDqQwGrae35J"
+      "duration_ms": 97012,
+      "name": "can i get a kiss?",
+      "url": "https://open.spotify.com/track/1zwiH0mNMsGXUAPAHc9bij"
     },
     {
       "added_at": null,
       "album": {
-        "name": "LORD",
-        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
+        "name": "tempted",
+        "url": "https://open.spotify.com/album/3u5j1nVg9tq2vFdSWvSKnD"
       },
       "artists": [
         {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+          "name": "Shameless",
+          "url": "https://open.spotify.com/artist/2XMnrlg83FzaoLirkS91uP"
         }
       ],
-      "duration_ms": 143112,
-      "name": "Which 1 / Klueless",
-      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BACKINTHECITY",
-        "url": "https://open.spotify.com/album/6eXzIhcaFw8q9ISQ3yToM5"
-      },
-      "artists": [
-        {
-          "name": "Grizz",
-          "url": "https://open.spotify.com/artist/6Za78cAKvPuuZvbdh2r443"
-        }
-      ],
-      "duration_ms": 115275,
-      "name": "BACKINTHECITY",
-      "url": "https://open.spotify.com/track/0hraa6N5drtAw6yF9Bqnzz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bank Is Open",
-        "url": "https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim"
-      },
-      "artists": [
-        {
-          "name": "Nb Bankz",
-          "url": "https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb"
-        }
-      ],
-      "duration_ms": 138017,
-      "name": "P!NK GUN",
-      "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
+      "duration_ms": 114301,
+      "name": "tempted",
+      "url": "https://open.spotify.com/track/1Qm0FSIjb94bsiAs4KcPb6"
     }
   ],
   "unique_name": "Taewitdak Radio",

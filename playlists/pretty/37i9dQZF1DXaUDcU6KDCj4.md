@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Aldous Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,990 likes - 160 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,000 likes - 160 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

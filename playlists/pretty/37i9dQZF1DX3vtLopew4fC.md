@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to Tenille Townes and Canadian women at full volume!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,367 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,373 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [Dans l’temps](https://open.spotify.com/track/1vFup6NBDo6yL5ubgErCo9) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Dans l’temps](https://open.spotify.com/album/4kyxM6cCGRQFRDfHxik3gn) | 3:07 |
 | 40 | [Spring Bling](https://open.spotify.com/track/1F4AIQIVBthPKvXvnRb4Y2) | [DVBLM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [Spring Bling](https://open.spotify.com/album/3d3wu0DXBLjUPMKF43QQOz) | 2:19 |
 
-Snapshot ID: `AAAAAMhhZ6q8CM+XRlP+KL3xiZ6NGQmE`
+Snapshot ID: `AAAAALRem+71aoTwkeR1N+bWJaEeRbrh`

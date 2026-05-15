@@ -5021,6 +5021,24 @@
     },
     {
       "album": {
+        "name": "+3",
+        "url": "https://open.spotify.com/album/5u171dsX9oQuhzIQBXfkFl"
+      },
+      "artists": [
+        {
+          "name": "Samba Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199234,
+      "name": "Fatale",
+      "url": "https://open.spotify.com/track/3G2qTBALAKtJoheQOMXBpx"
+    },
+    {
+      "album": {
         "name": "Boys for Pele (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7vuSTl6tuWg0CQdmfphkFQ"
       },

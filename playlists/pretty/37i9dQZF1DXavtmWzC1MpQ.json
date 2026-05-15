@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 154869,
+  "num_followers": 154884,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Soothing Birdsong by the River",
-        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
-      },
-      "artists": [
-        {
-          "name": "El Naturel",
-          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Singing Birds by the Stream",
-      "url": "https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Jungle Midnight Calm, Borneo",
         "url": "https://open.spotify.com/album/6bHAVMbGHxv0dx4BZnSk8b"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 154499,
       "name": "Jungle Midnight Calm, Borneo",
       "url": "https://open.spotify.com/track/2rIFfdTbET7IDjZjIcGFy4"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Soothing Birdsong by the River",
+        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
+      },
+      "artists": [
+        {
+          "name": "El Naturel",
+          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "Singing Birds by the Stream",
+      "url": "https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Tr\u00f3pico",
-        "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
-      },
-      "artists": [
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Vozterra",
-          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
-        }
-      ],
-      "duration_ms": 158037,
-      "name": "Piqueros",
-      "url": "https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Spring Birds",
         "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
       },
@@ -659,54 +639,6 @@
       "duration_ms": 176100,
       "name": "Relaxing Bird Sounds",
       "url": "https://open.spotify.com/track/1Ar63CC2YckvPzXe5OLtPl"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Catskill Forest Preserve",
-        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
-      },
-      "artists": [
-        {
-          "name": "Waveseekers",
-          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
-        }
-      ],
-      "duration_ms": 247466,
-      "name": "Catskill Forest Preserve",
-      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "3D Audio Textures of Birds & Water",
-        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
-      },
-      "artists": [
-        {
-          "name": "Shaman",
-          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "Close to the River, Birds Watching",
-      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Thunderstorms vol II",
-        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
-      },
-      "artists": [
-        {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Dripping Wet Leaves and Thunder",
-      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -731,6 +663,54 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Catskill Forest Preserve",
+        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
+      },
+      "artists": [
+        {
+          "name": "Waveseekers",
+          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "Catskill Forest Preserve",
+      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Thunderstorms vol II",
+        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Dripping Wet Leaves and Thunder",
+      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "3D Audio Textures of Birds & Water",
+        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "Close to the River, Birds Watching",
+      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Sunny Windy Day",
         "url": "https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 248000,
       "name": "Sunny Windy Day",
       "url": "https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Tr\u00f3pico",
+        "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "duration_ms": 158037,
+      "name": "Piqueros",
+      "url": "https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Soul Healing Birds",
-        "url": "https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo"
-      },
-      "artists": [
-        {
-          "name": "Soul Healer",
-          "url": "https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Soul Healing Birds",
-      "url": "https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Lastovo Island Summer Bird Song",
         "url": "https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 195180,
       "name": "Lastovo Island Summer Bird Song",
       "url": "https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Green Until Morning",
+        "url": "https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn"
+      },
+      "artists": [
+        {
+          "name": "The Long Nap",
+          "url": "https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU"
+        }
+      ],
+      "duration_ms": 124693,
+      "name": "Green Until Morning",
+      "url": "https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt"
     }
   ],
   "unique_name": "Sons da Natureza",

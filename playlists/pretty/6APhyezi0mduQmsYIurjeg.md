@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 555 songs - 1 day 9 hr 31 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,282 likes - 557 songs - 1 day 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -563,5 +563,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 553 | [Away From Here](https://open.spotify.com/track/6PAGBFXRn4Z0pYaAvCzJS6) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Away From Here](https://open.spotify.com/album/6C3Ap9K3wNwKEN61htDJGo) | 2:56 |
 | 554 | [Apple Rose](https://open.spotify.com/track/6XBVq6IszaoiaCSyn0Xu3T) | [Still Crash](https://open.spotify.com/artist/4nxuNWss1Y7gLSIn4I2mNu) | [Apple Rose](https://open.spotify.com/album/2nmHojdDokW6yJmmthKqya) | 4:29 |
 | 555 | [Till i die](https://open.spotify.com/track/6r88GA7ct5UQQNAw7Cpu1X) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [Till i die](https://open.spotify.com/album/2VLenjFE6X34XheGOSKfHo) | 2:16 |
+| 556 | [Feeling \- Radio Edit](https://open.spotify.com/track/0G1Lbe5QtkLlSYSGCE1S9B) | [Chavez Cartel](https://open.spotify.com/artist/6xOc7vQz5A564U7xBlP4e4) | [Feeling](https://open.spotify.com/album/419aOHm534nssVUrGdDr7U) | 4:20 |
+| 557 | [O Tanto Que Eu Vi](https://open.spotify.com/track/3KA0P8blih3jzimdZqrI0j) | [Thiago Martins](https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof) | [O Tanto Que Eu Vi](https://open.spotify.com/album/1aUb5WUyk5oVNwzj9i8fNr) | 4:09 |
 
-Snapshot ID: `AAACwGM1K06g2RXUXkkXadzR4OvuKxMJ`
+Snapshot ID: `AAACwolQ+dRA4gR9aoMVijn7vDH58F2E`

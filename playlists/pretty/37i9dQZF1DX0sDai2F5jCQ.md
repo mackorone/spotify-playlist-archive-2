@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Isaiah Rashad
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,375 likes - 85 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,377 likes - 85 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 |
 | 2 | [M.O.M.](https://open.spotify.com/track/6iIpGsEuUIuapBssJ8sFC2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 2:45 |
 | 3 | [Quaresma](https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Quaresma](https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9) | 1:14 |
-| 4 | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
+| 4 | [GEEKIN](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
 | 5 | [Jezebel](https://open.spotify.com/track/2ww5S3KQ6d73WAVbPXgCPC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Jezebel](https://open.spotify.com/album/2wCruyJJvR1rEJcKYNhqgv) | 1:58 |
 | 6 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 |
 | 7 | [I CONDEMN](https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I CONDEMN](https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI) | 2:22 |

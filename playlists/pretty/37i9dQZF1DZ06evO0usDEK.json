@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 49551,
+  "num_followers": 49548,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAAbdoESFBK+o6m623JdAPAo",
+  "snapshot_id": "agO/AAAAAAAxJY9BmWGAJdtyxNhXv15O",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "I Wanted It Too",
-      "url": "https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 243360,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "I Wanted It Too",
+      "url": "https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "And so It Goes",
-      "url": "https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 296960,
       "name": "No Tears - In the End",
       "url": "https://open.spotify.com/track/1JQTXexqzRiUA2mVjGeem3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "And so It Goes",
+      "url": "https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+        "name": "I'm the One",
+        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 420160,
-      "name": "Ballad of the Sad Young Men",
-      "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
+      "duration_ms": 238506,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm the One",
-        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 238506,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
+      "duration_ms": 420160,
+      "name": "Ballad of the Sad Young Men",
+      "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
     },
     {
       "added_at": null,
@@ -775,38 +775,6 @@
       "duration_ms": 602306,
       "name": "It Might Be You",
       "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "When You Smile",
-      "url": "https://open.spotify.com/track/460ysTfMygkMjaes74RdU3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Let Them Talk",
-      "url": "https://open.spotify.com/track/47jAgpZzxxJn0L4RhmnJnf"
     },
     {
       "added_at": null,
@@ -831,6 +799,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Let Them Talk",
+      "url": "https://open.spotify.com/track/47jAgpZzxxJn0L4RhmnJnf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "When You Smile",
+      "url": "https://open.spotify.com/track/460ysTfMygkMjaes74RdU3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roberta Flack & Donny Hathaway",
         "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
       },
@@ -851,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+        "name": "Born To Love",
+        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
       "artists": [
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        },
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 272866,
-      "name": "Reverend Lee",
-      "url": "https://open.spotify.com/track/1rIY49u8jT04PowbFfHbUz"
+      "duration_ms": 271640,
+      "name": "Can We Find Love Again",
+      "url": "https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P"
     },
     {
       "added_at": null,

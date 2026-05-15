@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280047,
+  "num_followers": 280043,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAA6FQdkZ5j4W7oib1O0Bjom",
+  "snapshot_id": "agO/AAAAAABl3RqOnVUCTJ1qBaosuedB",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Esque\u00e7o",
+        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
+      },
+      "artists": [
+        {
+          "name": "Niara",
+          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "N\u00e3o Esque\u00e7o",
+      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 173265,
       "name": "Derretida - Brunoso Remix",
       "url": "https://open.spotify.com/track/7CzUp49fXwsYP4CgQNfDSh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Esque\u00e7o",
-        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
-      },
-      "artists": [
-        {
-          "name": "Niara",
-          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "N\u00e3o Esque\u00e7o",
-      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 162464,
+      "name": "Problema Seu",
+      "url": "https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem Manda em Mim",
         "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 162464,
-      "name": "Problema Seu",
-      "url": "https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 206736,
-      "name": "Pra Te Esquecer",
-      "url": "https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD"
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
       "duration_ms": 168983,
       "name": "Nada Se Compara a Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/7uzJJ3v91TG26zothutvV2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 157508,
-      "name": "Rajad\u00e3o",
-      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
     },
     {
       "added_at": null,
@@ -723,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dawn Of Chromatica",
+        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 140968,
+      "name": "Fun Tonight - Pabllo Vittar Remix",
+      "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
       },
@@ -732,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI"
+      "duration_ms": 206736,
+      "name": "Pra Te Esquecer",
+      "url": "https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawn Of Chromatica",
-        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
       },
       "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 140968,
-      "name": "Fun Tonight - Pabllo Vittar Remix",
-      "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
+      "duration_ms": 157508,
+      "name": "Rajad\u00e3o",
+      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
     },
     {
       "added_at": null,
@@ -863,6 +863,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+        }
+      ],
+      "duration_ms": 136844,
+      "name": "Parab\u00e9ns",
+      "url": "https://open.spotify.com/track/3mikf8qZaNp6wrrWxHgawH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 174213,
       "name": "BRUXARIA 3000",
       "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
-        }
-      ],
-      "duration_ms": 136844,
-      "name": "Parab\u00e9ns",
-      "url": "https://open.spotify.com/track/3mikf8qZaNp6wrrWxHgawH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-84 songs - 4 hr 38 min
+85 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Magnolias](https://open.spotify.com/track/0VrVlWutHnOk0QLeO7gD77) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:22 | 2022-05-25 |  |
 | [Mi Amour](https://open.spotify.com/track/2HeeT7iaAay4KADoEGDyUB) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 5:06 | 2022-05-25 |  |
 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 | 2024-02-18 |  |
+| [Mine \(In Love with You\)](https://open.spotify.com/track/5DoBQPUPzyMa6GX8W4JUPo) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Mine \(In Love with You\)](https://open.spotify.com/album/6lDFKeWnoT7BuQBEphyrTD) | 3:48 | 2026-05-14 |  |
 | [My Theme Song](https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 | 2022-05-25 |  |
 | [No Relief](https://open.spotify.com/track/2OnlsrZ5hbJkn8n4bALs9w) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 4:31 | 2022-05-25 |  |
 | [not.going.anywhere.](https://open.spotify.com/track/1kNe74Q5XaOeaAc8Y0TSpS) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now \(Deluxe\)](https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg) | 3:30 | 2024-03-24 |  |

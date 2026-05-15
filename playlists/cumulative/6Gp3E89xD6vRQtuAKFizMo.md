@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Friday!
 
-559 songs - 1 day 2 hr 41 min
+560 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Into The Light \(feat\. Miggy Dela Rosa\) \- Repiet Remix](https://open.spotify.com/track/3F5JFRFRo3AXOkSMa6wCyd) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY) | [Into The Light \(feat\. Miggy Dela Rosa\) \[Repiet Remix\]](https://open.spotify.com/album/7LQg7Ti33M9PL3lzs7faqy) | 2:50 | 2025-06-06 |  |
 | [It Clicked](https://open.spotify.com/track/6CZEvodrbQ2peNYVVfH785) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [It Clicked](https://open.spotify.com/album/5xCcujnvIlwkwhA2QRHglJ) | 1:50 | 2025-03-07 |  |
 | [It's A Vibe](https://open.spotify.com/track/1lF6fVuFGAT9EAkD0S04ql) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [It's A Vibe](https://open.spotify.com/album/1pJ7SKaN5pBgWVOmyIsFdJ) | 2:48 | 2024-07-08 | 2025-04-27 |
+| [Itty Bitty](https://open.spotify.com/track/0xA7XDzXFyry0ien9lSD6s) | [Dani Thorne](https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku) | [Itty Bitty](https://open.spotify.com/album/4zTQxIZDVMsUmjTjkrvkzq) | 3:38 | 2026-05-15 |  |
 | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs) | 2:36 | 2024-01-19 | 2025-04-27 |
 | [Jaded](https://open.spotify.com/track/3vGzsNszbAqEr81y2uMlHJ) | [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Jaded](https://open.spotify.com/album/3IJGXIstjykSCnQ5d9uDm9) | 3:15 | 2025-03-21 |  |
 | [Kanos](https://open.spotify.com/track/7DjifpgNrYVPKFcrb6vzqr) | [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Kanos](https://open.spotify.com/album/4ziuSY0MpYg3UwNoGqv5uf) | 3:36 | 2022-05-06 | 2023-04-09 |

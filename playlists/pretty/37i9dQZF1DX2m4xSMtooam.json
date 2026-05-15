@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of bossa nova.",
-  "num_followers": 340326,
+  "num_followers": 340517,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "A heart in amber",
+        "url": "https://open.spotify.com/album/4LRDAV59yKImvrvSaUQcWf"
+      },
+      "artists": [
+        {
+          "name": "Xavier Mendoza",
+          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "A heart in amber",
+      "url": "https://open.spotify.com/track/1TyArzdihmZB650pUI7fxV"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "Luiz Bonf\u00e1 Plays And Sings Bossa Nova",
         "url": "https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 200426,
       "name": "Bossa Nova Cha Cha",
       "url": "https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
-        "name": "A heart in amber",
-        "url": "https://open.spotify.com/album/4LRDAV59yKImvrvSaUQcWf"
-      },
-      "artists": [
-        {
-          "name": "Xavier Mendoza",
-          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
-        }
-      ],
-      "duration_ms": 229384,
-      "name": "A heart in amber",
-      "url": "https://open.spotify.com/track/1TyArzdihmZB650pUI7fxV"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "day by day",
-        "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
-      },
-      "artists": [
-        {
-          "name": "Luca Mundaca",
-          "url": "https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Day by day",
-      "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Green Grapes",
         "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 224187,
       "name": "Woodblock Print",
       "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "day by day",
+        "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
+      },
+      "artists": [
+        {
+          "name": "Luca Mundaca",
+          "url": "https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Day by day",
+      "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Our Poetry",
-        "url": "https://open.spotify.com/album/654pcW24D0sY2s08xWpmC2"
-      },
-      "artists": [
-        {
-          "name": "Leandro Amor Trio",
-          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
-        }
-      ],
-      "duration_ms": 202099,
-      "name": "Our Poetry",
-      "url": "https://open.spotify.com/track/0TucZzpJ9CFlNCSViSDBbM"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Ao Mar e ao Vento",
         "url": "https://open.spotify.com/album/6eZpekST8g6b2qWWffKX5V"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 312716,
       "name": "Ao Mar e ao Vento",
       "url": "https://open.spotify.com/track/1ELY4E0azE57lSuw5K55YJ"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Our Poetry",
+        "url": "https://open.spotify.com/album/654pcW24D0sY2s08xWpmC2"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "duration_ms": 202099,
+      "name": "Our Poetry",
+      "url": "https://open.spotify.com/track/0TucZzpJ9CFlNCSViSDBbM"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Baubles, Bangles and Beads",
-      "url": "https://open.spotify.com/track/7oEGoBAzmD8fvAnJKOW8Cq"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 220000,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Baubles, Bangles and Beads",
+      "url": "https://open.spotify.com/track/7oEGoBAzmD8fvAnJKOW8Cq"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "Double Rainbow",
+        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "Lullaby for Dreaming",
         "url": "https://open.spotify.com/album/430vwTtYup6dRlSRkti1ge"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Double Rainbow",
-        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Dindi",
-        "url": "https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0"
-      },
-      "artists": [
-        {
-          "name": "Clube no norte",
-          "url": "https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "I didn't know what time it was",
-      "url": "https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Braziliana",
         "url": "https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 133093,
       "name": "Cavaquinho",
       "url": "https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Dindi",
+        "url": "https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0"
+      },
+      "artists": [
+        {
+          "name": "Clube no norte",
+          "url": "https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "I didn't know what time it was",
+      "url": "https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
-        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 262887,
-      "name": "Half The Perfect World",
-      "url": "https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Floripa",
         "url": "https://open.spotify.com/album/3Z7vrabrKS7jf4arzq0m3t"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 238163,
       "name": "Floripa",
       "url": "https://open.spotify.com/track/3rIYiMtqjyHj8P12mPi4pI"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
+        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 262887,
+      "name": "Half The Perfect World",
+      "url": "https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "Light My Fire",
+        "url": "https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Isto Aqui O Que \u00c9 (Silver Sandal)",
+      "url": "https://open.spotify.com/track/1bNi8WeHJM2qk4PolPHTVV"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "O Pato",
         "url": "https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 193253,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
-        "name": "Light My Fire",
-        "url": "https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Isto Aqui O Que \u00c9 (Silver Sandal)",
-      "url": "https://open.spotify.com/track/1bNi8WeHJM2qk4PolPHTVV"
     },
     {
       "added_at": "2026-05-08 04:00:36",

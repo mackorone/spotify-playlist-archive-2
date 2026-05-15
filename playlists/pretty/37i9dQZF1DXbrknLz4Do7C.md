@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Our editors' picks for the best Christian, Gospel, and inspirational songs of the year! Cover: ELEVATION RHYTHM
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,792 likes - 90 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,807 likes - 90 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 32 | [God Did It](https://open.spotify.com/track/6MdvwmSn9YUJNn2tC4A7dk) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [God Did It](https://open.spotify.com/album/7LwKfcVB3TofLntabYDKBl) | 2:49 |
 | 33 | [Sweet, Sweet Spirit](https://open.spotify.com/track/6MqrjMezgSSuJlFvZ3IArh) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Then Came the Morning](https://open.spotify.com/album/7gpltwVlSsQJuFP5aG1jN4) | 2:31 |
 | 34 | [Come Jesus Come \(Live\) \(feat\. Stephen McWhirter\)](https://open.spotify.com/track/5yji6x35uKVNk9DlXxe5fH) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs), [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [I Will Not Be Moved \(Live\)](https://open.spotify.com/album/2KbrG7yRet4Gp1adrIfYDW) | 5:50 |
-| 35 | [Yahweh Flow \- Live In San Francisco](https://open.spotify.com/track/6nn9pfbOHHmaQAYxn6H7WO) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 9:40 |
+| 35 | [Yahweh Flow \- Live In San Francisco](https://open.spotify.com/track/6nn9pfbOHHmaQAYxn6H7WO) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Jocelyn Bowman](https://open.spotify.com/artist/4oNDPftuqEd86eBJ108S11), [D'Nar Young](https://open.spotify.com/artist/0gSN31lo9boEhogd3kbNXZ), [Jewell Jones](https://open.spotify.com/artist/2EFb5gGfPIYNen4BAVb7qQ), [Jalisa Faye](https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 9:40 |
 | 36 | [No Fear](https://open.spotify.com/track/0D8ixCy7PxqQHNdqYNEBlR) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [No Fear](https://open.spotify.com/album/0gDdrITVEHF5puxOo0ma1o) | 3:32 |
 | 37 | [God Is For Me](https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [God Is For Me](https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU) | 2:44 |
 | 38 | [Real Love](https://open.spotify.com/track/64xTDRWYWyhfcx0rZexbhO) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Real Love](https://open.spotify.com/album/53JXiB6cQFo2JIkEbIdTWE) | 3:32 |

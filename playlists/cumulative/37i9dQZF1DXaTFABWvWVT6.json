@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 179408,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
@@ -2698,6 +2698,32 @@
       "duration_ms": 203540,
       "name": "I Got Nothing",
       "url": "https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw"
+    },
+    {
+      "album": {
+        "name": "I Need U (feat. Ellie Maxwell)",
+        "url": "https://open.spotify.com/album/6UClC9nN6aQddmQ3dRKyPS"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Ellie Maxwell",
+          "url": "https://open.spotify.com/artist/7FBLZFylhcXi86QYEEXVv4"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176645,
+      "name": "I Need U (feat. Ellie Maxwell)",
+      "url": "https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf"
     },
     {
       "album": {
@@ -3422,6 +3448,24 @@
       "duration_ms": 214315,
       "name": "Lobster Telephone - Edit",
       "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "album": {
+        "name": "Lockup",
+        "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271835,
+      "name": "Lockup",
+      "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
     },
     {
       "album": {
@@ -5796,7 +5840,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 167175,
       "name": "Up N Down",
       "url": "https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF"

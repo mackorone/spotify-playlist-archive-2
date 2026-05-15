@@ -4527,6 +4527,24 @@
     },
     {
       "album": {
+        "name": "Karaoke Bar",
+        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204467,
+      "name": "Karaoke Bar",
+      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "album": {
         "name": "keep my head down",
         "url": "https://open.spotify.com/album/6dA3pcAClcZPbEnKajxiuC"
       },
@@ -7068,7 +7086,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 271662,
       "name": "safe & sound",
       "url": "https://open.spotify.com/track/6fWZFYQ1EMQz0JaOMqG6qV"

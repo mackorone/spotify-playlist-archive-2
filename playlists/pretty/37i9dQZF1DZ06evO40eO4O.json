@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 7652,
+  "num_followers": 7661,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAB7Zhx+fQcvGXjhoCqrmItl",
+  "snapshot_id": "agO/AAAAAAAtG/905YTgrusiN/8SMuM+",
   "tracks": [
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB"
+        "name": "Me Va Muy Bien",
+        "url": "https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 151058,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX"
+      "duration_ms": 141098,
+      "name": "Me Va Muy Bien",
+      "url": "https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Va Muy Bien",
-        "url": "https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf"
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 141098,
-      "name": "Me Va Muy Bien",
-      "url": "https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy"
+      "duration_ms": 151058,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX"
     },
     {
       "added_at": null,

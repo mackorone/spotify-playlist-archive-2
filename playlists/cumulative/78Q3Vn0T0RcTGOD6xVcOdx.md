@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-286 songs - 16 hr 26 min
+287 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Odio a mi jefe](https://open.spotify.com/track/7jLS003HamIVPmdqfEKEjp) | [Ami Amarela](https://open.spotify.com/artist/6G8xgWVfQiLW23DSepp6vE) | [Odio a mi jefe](https://open.spotify.com/album/03sUhVUOflOyEWpawlPZxN) | 3:02 | 2025-02-15 | 2026-04-06 |
 | [Ojos Verdes](https://open.spotify.com/track/4Dm0V6rpjbEjQKACxbnG2L) | [Exen](https://open.spotify.com/artist/1nifjsMyLyjkDexOqptbeq) | [Ojos Verdes](https://open.spotify.com/album/197SmE1V69QtScoUSnvlhy) | 2:49 | 2025-03-08 |  |
 | [On My Own \- Valence Remix](https://open.spotify.com/track/17z9D8bhQ5kAqqDWp8Dra6) | [The Engagement](https://open.spotify.com/artist/0rLsMRlRAKLpRO6CjgFoeV), [Valence](https://open.spotify.com/artist/1DNs16u01pv3jYnZAORG4Y) | [On My Own \(Valence Remix\)](https://open.spotify.com/album/4252N1zNSp8VeB69VUXMWT) | 3:10 | 2025-01-25 |  |
+| [Onde di Luce](https://open.spotify.com/track/1Qlfkz30wwCeCgQ1XLBJZL) | [PAUL PARKER](https://open.spotify.com/artist/0P4buL4lc2m8KO8WD28XMa), [Deep7s](https://open.spotify.com/artist/33QC3toB8CzjHU0QhbVLfl) | [Onde di Luce](https://open.spotify.com/album/5dnnc3ycjReH8Kwh1XFZk7) | 2:54 | 2026-05-14 |  |
 | [Para volverte a ver](https://open.spotify.com/track/0RMJH4BY4TsfPZpDhzojoC) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Para volverte a ver](https://open.spotify.com/album/6xHhy8egyGlxZV8YlNNZcU) | 3:14 | 2025-05-11 | 2026-04-06 |
 | [Paso a Paso](https://open.spotify.com/track/3rU0QvZyM39TD5P29S9BAS) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Paso a Paso](https://open.spotify.com/album/6zu8vQX86ppIIZat01vtHS) | 3:22 | 2025-04-02 | 2026-04-06 |
 | [Perdón, joder](https://open.spotify.com/track/6JqQrFpb9y2b6s7dMfgQNI) | [Dani Leiva](https://open.spotify.com/artist/5sSNiAK830tcTjCsD8uIPW) | [Perdón, joder](https://open.spotify.com/album/0tL2cbP9wAWxZw2A2G8KjB) | 2:17 | 2025-06-30 | 2026-04-06 |

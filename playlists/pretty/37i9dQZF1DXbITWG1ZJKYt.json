@@ -1,6 +1,6 @@
 {
   "description": "The best tunes in Jazz history. ",
-  "num_followers": 4940719,
+  "num_followers": 4941616,
   "original_name": "Jazz Classics",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 659520,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
         "name": "Ella And Louis Again",
         "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 356626,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/0f2489MzoisF9pKduawvce"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 659520,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "I've Got A Crush On You",
-      "url": "https://open.spotify.com/track/5DIVWgTeJ2fPIxaY9e7ZKn"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
         "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 193840,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "I've Got A Crush On You",
+      "url": "https://open.spotify.com/track/5DIVWgTeJ2fPIxaY9e7ZKn"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
+        "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
+        "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 287843,
+      "name": "Giant Steps - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
         "name": "The K\u00f6ln Concert",
         "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 416840,
       "name": "K\u00f6ln, January 24, 1975, Part II c - Live",
       "url": "https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
-        "name": "Mingus Mingus Mingus Mingus Mingus",
-        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Mood Indigo",
-      "url": "https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
+        "name": "Mingus Mingus Mingus Mingus Mingus",
+        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
         "name": "Far East Suite",
         "url": "https://open.spotify.com/album/1JJIAHF3S3R7j6OzVw3fsw"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 392000,
       "name": "Search For Peace",
       "url": "https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
-        "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
-        "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 287843,
-      "name": "Giant Steps - 2020 Remaster",
-      "url": "https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Tea for Two",
-      "url": "https://open.spotify.com/track/0Otf1ZfYNIjhqFIuJk0fsy"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Jazz p\u00e5 svenska",
         "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 273800,
       "name": "Visa fr\u00e5n Utanmyra",
       "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Tea for Two",
+      "url": "https://open.spotify.com/track/0Otf1ZfYNIjhqFIuJk0fsy"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
+        "name": "The Hub of Hubbard",
+        "url": "https://open.spotify.com/album/3TFjJOo2ycCrkiIMC0kKZa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 439120,
+      "name": "The Things We Did Last Summer",
+      "url": "https://open.spotify.com/track/1cfMdMmJqBlLn4auevv0iB"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
         "name": "A Day in Copenhagen",
         "url": "https://open.spotify.com/album/6JJtcOy0LWIT5Kh9W3m1CC"
       },
@@ -2279,22 +2295,6 @@
       "duration_ms": 297875,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/0sRAziWSeUedBSKjapsy9F"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
-        "name": "The Hub of Hubbard",
-        "url": "https://open.spotify.com/album/3TFjJOo2ycCrkiIMC0kKZa"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 439120,
-      "name": "The Things We Did Last Summer",
-      "url": "https://open.spotify.com/track/1cfMdMmJqBlLn4auevv0iB"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "Until The Real Thing Comes Along",
-      "url": "https://open.spotify.com/track/4F0sSQCicLl5tme407ubvS"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Nice 'n' Easy (2020 Mix / Expanded Edition)",
         "url": "https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 266800,
       "name": "You Go To My Head - 2020 Mix",
       "url": "https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "Until The Real Thing Comes Along",
+      "url": "https://open.spotify.com/track/4F0sSQCicLl5tme407ubvS"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Art",
-        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "Goodbye, Old Girl",
-      "url": "https://open.spotify.com/track/5eFFsShr8vchESCk8HGxvn"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Adam's Apple (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 394466,
       "name": "502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Art",
+        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "Goodbye, Old Girl",
+      "url": "https://open.spotify.com/track/5eFFsShr8vchESCk8HGxvn"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -2579,22 +2579,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Sarah Vaughan In Hi-Fi",
-        "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Everything I Play Is Funky",
         "url": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E"
       },
@@ -2607,6 +2591,22 @@
       "duration_ms": 431266,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Sarah Vaughan In Hi-Fi",
+        "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -2711,26 +2711,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Ben And \"Sweets\"",
-        "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Harry \"Sweets\" Edison",
-          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
-        }
-      ],
-      "duration_ms": 330693,
-      "name": "How Long Has This Been Going On",
-      "url": "https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
       },
@@ -2751,18 +2731,22 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Atlantic Jazz: Soul",
-        "url": "https://open.spotify.com/album/5Pi9gvFQLlXGdgI19hb6IR"
+        "name": "Ben And \"Sweets\"",
+        "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
       },
       "artists": [
         {
-          "name": "Herbie Mann",
-          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Harry \"Sweets\" Edison",
+          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
         }
       ],
-      "duration_ms": 519600,
-      "name": "Comin' Home Baby",
-      "url": "https://open.spotify.com/track/6OH7UCFY7SEJxxQkaYfAv8"
+      "duration_ms": 330693,
+      "name": "How Long Has This Been Going On",
+      "url": "https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -2779,6 +2763,22 @@
       "duration_ms": 435440,
       "name": "Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Atlantic Jazz: Soul",
+        "url": "https://open.spotify.com/album/5Pi9gvFQLlXGdgI19hb6IR"
+      },
+      "artists": [
+        {
+          "name": "Herbie Mann",
+          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
+        }
+      ],
+      "duration_ms": 519600,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/6OH7UCFY7SEJxxQkaYfAv8"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -2995,22 +2995,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "The Complete Capitol Recordings Of Art Tatum",
-        "url": "https://open.spotify.com/album/0Qp4pPAZ6EP9aMyFenfXpu"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/0ADAFZE0bYIuaIyPNFl3LE"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "My Song",
         "url": "https://open.spotify.com/album/6ID17PzjagQlFsc1KFha5v"
       },
@@ -3051,6 +3035,22 @@
       "duration_ms": 178533,
       "name": "Four Brothers",
       "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "The Complete Capitol Recordings Of Art Tatum",
+        "url": "https://open.spotify.com/album/0Qp4pPAZ6EP9aMyFenfXpu"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/0ADAFZE0bYIuaIyPNFl3LE"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -3367,22 +3367,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 283740,
-      "name": "Quick Trick",
-      "url": "https://open.spotify.com/track/2EW1mFJaikQh0vxOoB7uGp"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Jan Johansson in Hamburg with Georg Riedel",
         "url": "https://open.spotify.com/album/1JqIyisOzzxq9TIyMoONSE"
       },
@@ -3399,6 +3383,22 @@
       "duration_ms": 284186,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/7hDq6sOZ5Rl1XnSSfoOBRK"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 283740,
+      "name": "Quick Trick",
+      "url": "https://open.spotify.com/track/2EW1mFJaikQh0vxOoB7uGp"
     },
     {
       "added_at": "2026-01-16 13:09:26",

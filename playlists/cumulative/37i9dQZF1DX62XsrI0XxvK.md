@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Andien
+> Irama R&B tanah air yang merasuk jiwa\. Cover: BLINGOUTKID
 
-244 songs - 14 hr 20 min
+245 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Light](https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ) | [Inara](https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL), [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Light](https://open.spotify.com/album/3WZjmog0USmx1kp1PmH5Nt) | 3:06 | 2025-06-12 | 2025-10-24 |
 | [Lika & Liku](https://open.spotify.com/track/7bsAM9K5gI0eTqYOqVg0tq) | [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio), [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Lika & Liku](https://open.spotify.com/album/7lOptYZ3jVvZ0mELGJJQ6v) | 2:21 | 2026-02-12 |  |
 | [Like That](https://open.spotify.com/track/1w6FQsV3hhmE4qshMfb5yk) | [Andrea Tanzil](https://open.spotify.com/artist/3YJZTp3m6z2jgFUwe3krO7) | [Like That](https://open.spotify.com/album/2sklL9TXZl2I57onVPgSU1) | 3:20 | 2024-10-03 | 2025-05-30 |
+| [Lonely](https://open.spotify.com/track/7KFkkuf3MMd6DM9yBNmcZT) | [BLINGOUTKID](https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN) | [Lonely](https://open.spotify.com/album/74fAfgfs0k8X2RevURKI0k) | 4:16 | 2026-05-14 |  |
 | [Long As](https://open.spotify.com/track/1o33oTcVEUuQxAYwAggNCB) | [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [Long As](https://open.spotify.com/album/2GtovgeYPY24W1bgd1Zc3a) | 2:55 | 2025-10-02 | 2026-01-23 |
 | [Looking for Love in Wrong Places](https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Looking for Love in Wrong Places](https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp) | 4:05 | 2025-05-29 |  |
 | [love for u \(❤️4U\)](https://open.spotify.com/track/1cU7aqkCntWTZVcMusnHp1) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [love for u \(❤️4U\)](https://open.spotify.com/album/2mHmxlzaXf0yEuab0Up6wq) | 2:32 | 2024-10-03 | 2025-05-02 |

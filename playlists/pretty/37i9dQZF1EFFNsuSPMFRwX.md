@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792 likes - 68 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 792 likes - 69 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,18 +63,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 53 | [Landslide](https://open.spotify.com/track/4ACXc7diLQP7kQcoTgh0d1) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/2FGOxwdP7MMd4GfVl2Uf7f) | 3:34 |
 | 54 | [Sweet Tea](https://open.spotify.com/track/6rNtNvbgaWhDJAuJGdxw1V) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:28 |
 | 55 | [Comin’ Back](https://open.spotify.com/track/3qJXWWDSDZTtfrlBv3dgyk) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:44 |
-| 56 | [Funk Is On The One](https://open.spotify.com/track/4Isde3N1AFgQDqhFiYHraP) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:38 |
-| 57 | [Stay by Your Phone](https://open.spotify.com/track/64b4SSKDAW21DBBC8aXi4L) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Imagine Not Knowing](https://open.spotify.com/album/6YPjAMPVTJrGRAHXbhMgnO) | 3:48 |
-| 58 | [Mi Amour](https://open.spotify.com/track/2HeeT7iaAay4KADoEGDyUB) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 5:06 |
-| 59 | [No Relief](https://open.spotify.com/track/2OnlsrZ5hbJkn8n4bALs9w) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 4:31 |
-| 60 | [Smokey Mirrors](https://open.spotify.com/track/595nKxCNnFgftXqRFNy7E0) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:10 |
-| 61 | [Now & Then](https://open.spotify.com/track/4zj8zdzgK2bvRpK11kbWtp) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
-| 62 | [All I Got](https://open.spotify.com/track/4WUTu2622TEAFR4TlrjIjV) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:33 |
-| 63 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 |
-| 64 | [Blink of an Eye](https://open.spotify.com/track/2TtyGeOLJxMnbK1VgdIPp7) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:30 |
-| 65 | [Inktro](https://open.spotify.com/track/6JTODtfTPnfQN0yecATqYx) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:57 |
-| 66 | [Inkerlude](https://open.spotify.com/track/0ArmWjJSbba9OY7a56Uxao) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:41 |
-| 67 | [Outro](https://open.spotify.com/track/4WShc2g1Vl3hdMM9JGzZoi) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:54 |
-| 68 | [Tony Machine on 42nd](https://open.spotify.com/track/7oS5pGCbIRr3fbp8PPDS2n) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:19 |
+| 56 | [Mine \(In Love with You\)](https://open.spotify.com/track/5DoBQPUPzyMa6GX8W4JUPo) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Mine \(In Love with You\)](https://open.spotify.com/album/6lDFKeWnoT7BuQBEphyrTD) | 3:48 |
+| 57 | [Funk Is On The One](https://open.spotify.com/track/4Isde3N1AFgQDqhFiYHraP) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:38 |
+| 58 | [Stay by Your Phone](https://open.spotify.com/track/64b4SSKDAW21DBBC8aXi4L) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Imagine Not Knowing](https://open.spotify.com/album/6YPjAMPVTJrGRAHXbhMgnO) | 3:48 |
+| 59 | [Mi Amour](https://open.spotify.com/track/2HeeT7iaAay4KADoEGDyUB) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 5:06 |
+| 60 | [No Relief](https://open.spotify.com/track/2OnlsrZ5hbJkn8n4bALs9w) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 4:31 |
+| 61 | [Smokey Mirrors](https://open.spotify.com/track/595nKxCNnFgftXqRFNy7E0) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:10 |
+| 62 | [Now & Then](https://open.spotify.com/track/4zj8zdzgK2bvRpK11kbWtp) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
+| 63 | [All I Got](https://open.spotify.com/track/4WUTu2622TEAFR4TlrjIjV) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:33 |
+| 64 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 |
+| 65 | [Blink of an Eye](https://open.spotify.com/track/2TtyGeOLJxMnbK1VgdIPp7) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:30 |
+| 66 | [Inktro](https://open.spotify.com/track/6JTODtfTPnfQN0yecATqYx) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:57 |
+| 67 | [Inkerlude](https://open.spotify.com/track/0ArmWjJSbba9OY7a56Uxao) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:41 |
+| 68 | [Outro](https://open.spotify.com/track/4WShc2g1Vl3hdMM9JGzZoi) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:54 |
+| 69 | [Tony Machine on 42nd](https://open.spotify.com/track/7oS5pGCbIRr3fbp8PPDS2n) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:19 |
 
-Snapshot ID: `AcRavAAAAACrnjV9+pCG4dJWtES8ZjCs`
+Snapshot ID: `AcRgXAAAAACMEBbu7hWk5tAisNgYG0ue`

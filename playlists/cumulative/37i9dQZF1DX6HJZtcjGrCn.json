@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Isaura",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Filipe Karlsson, Mike El Nite",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169411,
       "name": "DROPSHIPPING",
       "url": "https://open.spotify.com/track/1HKL1iKrIrX0bHAcZGSobG"
@@ -2902,6 +2902,24 @@
       "duration_ms": 261005,
       "name": "Fable",
       "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+    },
+    {
+      "album": {
+        "name": "Falling out of Love",
+        "url": "https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381293,
+      "name": "Falling out of Love",
+      "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
     },
     {
       "album": {
@@ -3552,7 +3570,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 221405,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5reWe6VIloY1CNYhzdApCl"
@@ -3924,7 +3942,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 196426,
       "name": "I'll Change for You",
       "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
@@ -5945,6 +5963,28 @@
     },
     {
       "album": {
+        "name": "Odore dell'Asfalto",
+        "url": "https://open.spotify.com/album/0C27qZXpYQYPQ9RQMF0lY0"
+      },
+      "artists": [
+        {
+          "name": "carbeau",
+          "url": "https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222902,
+      "name": "Odore dell'Asfalto",
+      "url": "https://open.spotify.com/track/1pQitt4nZhUwvH6Dw2CjwA"
+    },
+    {
+      "album": {
         "name": "Off Guard",
         "url": "https://open.spotify.com/album/4osiR8Cp4GfsUfnPmSzvXX"
       },
@@ -6138,7 +6178,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 190944,
       "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
@@ -6442,6 +6482,24 @@
       "duration_ms": 261959,
       "name": "Post Sex Clarity",
       "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
+    },
+    {
+      "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/3E9korvs1qMdIQ9AX6R6zb"
+      },
+      "artists": [
+        {
+          "name": "Carl Karlsson",
+          "url": "https://open.spotify.com/artist/12QWmTkEzcCYekpdF1CuoQ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229077,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/4QE6hQUEpnH4fPuOlUPK42"
     },
     {
       "album": {
@@ -7144,6 +7202,28 @@
       "duration_ms": 189099,
       "name": "See You In The Afterlife",
       "url": "https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL"
+    },
+    {
+      "album": {
+        "name": "Segura Firme",
+        "url": "https://open.spotify.com/album/6pGPbHaDlFFyfsJwSLIj7L"
+      },
+      "artists": [
+        {
+          "name": "Filipe Karlsson",
+          "url": "https://open.spotify.com/artist/0Yh7cLzoB86bDiq6fAXfB6"
+        },
+        {
+          "name": "Mike El Nite",
+          "url": "https://open.spotify.com/artist/2MPXfFQ72KWgQGUDXrnCwO"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "Segura Firme",
+      "url": "https://open.spotify.com/track/60E4FqlHAFMgzXfvqfAMV9"
     },
     {
       "album": {

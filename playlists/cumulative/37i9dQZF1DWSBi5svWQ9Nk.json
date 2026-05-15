@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 grootste hits in NL. Cover: Kevin & Roxy Dekker",
+  "description": "De 50 grootste hits in NL. Cover: Justen de Wildt",
   "name": "Hot Hits NL",
   "tracks": [
     {
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -4358,7 +4358,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 198004,
       "name": "Gone Gone Gone",
       "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
@@ -5000,6 +5000,32 @@
       "duration_ms": 183968,
       "name": "Hoodiedate",
       "url": "https://open.spotify.com/track/0rWktREtOKwpyAxwbh9aIh"
+    },
+    {
+      "album": {
+        "name": "Kameleon",
+        "url": "https://open.spotify.com/album/0gA7TgT0bz0hBgsUOevoKz"
+      },
+      "artists": [
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Hoog",
+      "url": "https://open.spotify.com/track/60p06WUwnHKy4vB1QzVIog"
     },
     {
       "album": {
@@ -6400,7 +6426,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 240000,
       "name": "Laat Het Licht Aan",
       "url": "https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1"
@@ -7312,6 +7338,24 @@
       "duration_ms": 177758,
       "name": "Matcha Coco",
       "url": "https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX"
+    },
+    {
+      "album": {
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178016,
+      "name": "Material Lover",
+      "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
       "album": {
@@ -10079,6 +10123,24 @@
     },
     {
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142950,
+      "name": "STARLIFE",
+      "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
+    },
+    {
+      "album": {
         "name": "Stars Will Align",
         "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
       },
@@ -10134,7 +10196,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 185999,
       "name": "Stay (If You Wanna Dance)",
       "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
@@ -11122,6 +11184,28 @@
       "duration_ms": 154333,
       "name": "Toute La Night",
       "url": "https://open.spotify.com/track/6BCYTbYrUoOMcPVHwtM8gY"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/7liVvdipZeK6caApJkWSqd"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151282,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
     },
     {
       "album": {

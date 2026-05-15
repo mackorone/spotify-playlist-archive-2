@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 3234,
+  "num_followers": 3236,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADqe9A5hnZQ177+GKZ9DLAa",
+  "snapshot_id": "agO/AAAAAAAwoJGYrBKC1C0FliecwW2f",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        }
-      ],
-      "duration_ms": 230719,
-      "name": "Opaque",
-      "url": "https://open.spotify.com/track/7rRPPNIKGnHzJ57IlJ1Oip"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 131200,
       "name": "The Mustard Seed",
       "url": "https://open.spotify.com/track/6kXgucJ1be2N7X85HqTfLf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        }
+      ],
+      "duration_ms": 230719,
+      "name": "Opaque",
+      "url": "https://open.spotify.com/track/7rRPPNIKGnHzJ57IlJ1Oip"
     },
     {
       "added_at": null,
@@ -375,38 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 357559,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 121813,
-      "name": "Young Penny",
-      "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -435,6 +403,38 @@
       "duration_ms": 219515,
       "name": "A Minor Astronomical Event",
       "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 121813,
+      "name": "Young Penny",
+      "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 357559,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
     },
     {
       "added_at": null,
@@ -503,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 198146,
-      "name": "Overcast",
-      "url": "https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ"
+      "duration_ms": 383266,
+      "name": "The Bone Temple",
+      "url": "https://open.spotify.com/track/3RDfAFQg0yoOjIlUx6l95y"
     },
     {
       "added_at": null,
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 383266,
-      "name": "The Bone Temple",
-      "url": "https://open.spotify.com/track/3RDfAFQg0yoOjIlUx6l95y"
+      "duration_ms": 198146,
+      "name": "Overcast",
+      "url": "https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ"
     },
     {
       "added_at": null,
@@ -631,18 +631,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+        "name": "Ser\u00eda",
+        "url": "https://open.spotify.com/album/26qf6FtyaO41ZAHSxN7PEZ"
       },
       "artists": [
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "\u00d3l\u00f6f Arnalds",
+          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
+        },
+        {
+          "name": "Amedeo Pace",
+          "url": "https://open.spotify.com/artist/0hdlEDPDfsgpg0CuicRpzi"
+        },
+        {
+          "name": "Peter Scherer",
+          "url": "https://open.spotify.com/artist/2zP1W5f5sJb2zSxjzS3u41"
+        },
+        {
+          "name": "Anthony Burr",
+          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
+        },
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 282732,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
+      "duration_ms": 215520,
+      "name": "Ser\u00eda",
+      "url": "https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB"
     },
     {
       "added_at": null,
@@ -711,38 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ser\u00eda",
-        "url": "https://open.spotify.com/album/26qf6FtyaO41ZAHSxN7PEZ"
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
       "artists": [
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "\u00d3l\u00f6f Arnalds",
-          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
-        },
-        {
-          "name": "Amedeo Pace",
-          "url": "https://open.spotify.com/artist/0hdlEDPDfsgpg0CuicRpzi"
-        },
-        {
-          "name": "Peter Scherer",
-          "url": "https://open.spotify.com/artist/2zP1W5f5sJb2zSxjzS3u41"
-        },
-        {
-          "name": "Anthony Burr",
-          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
-        },
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 215520,
-      "name": "Ser\u00eda",
-      "url": "https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB"
+      "duration_ms": 282732,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
     },
     {
       "added_at": null,
@@ -879,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Women Talking (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
+        "name": "Trapped (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Rutger Hoedemaekers",
+          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
         }
       ],
-      "duration_ms": 196888,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/7J1u0DibcEonQFcZukC8XH"
+      "duration_ms": 124541,
+      "name": "A Political Murder",
+      "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
     },
     {
       "added_at": null,
@@ -911,22 +915,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapped (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
+        "name": "Women Talking (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Rutger Hoedemaekers",
-          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
         }
       ],
-      "duration_ms": 124541,
-      "name": "A Political Murder",
-      "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
+      "duration_ms": 163460,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5J18nQLwHFbM12y6rNFpG2"
     },
     {
       "added_at": null,
@@ -951,46 +951,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Women Talking (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
+        "name": "Trapped (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Rutger Hoedemaekers",
+          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 163460,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5J18nQLwHFbM12y6rNFpG2"
+      "duration_ms": 95520,
+      "name": "He Died for All of Us",
+      "url": "https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ser\u00eda II",
-        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
+        "name": "The Bride! (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S"
       },
       "artists": [
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "Anthony Burr",
-          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
-        },
-        {
-          "name": "Eyvind Kang",
-          "url": "https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV"
-        },
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 291706,
-      "name": "M\u00f3\u00f0ir",
-      "url": "https://open.spotify.com/track/1O0ckq884F5wWIaQImY3bg"
+      "duration_ms": 111004,
+      "name": "\u2018Til Death Do Us Part",
+      "url": "https://open.spotify.com/track/6mwk58JW6sX2K56Kp0bln1"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

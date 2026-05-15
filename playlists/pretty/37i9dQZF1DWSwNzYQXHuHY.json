@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12479,
+  "num_followers": 12482,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "MUSEUM",
-        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
-      },
-      "artists": [
-        {
-          "name": "OWIS",
-          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
-        }
-      ],
-      "duration_ms": 200822,
-      "name": "juicy",
-      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
-    },
-    {
-      "added_at": "2026-05-13 08:52:28",
-      "album": {
         "name": "XO, My Cyberlove",
         "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 153000,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk"
+    },
+    {
+      "added_at": "2026-05-13 08:52:28",
+      "album": {
+        "name": "MUSEUM",
+        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
+      },
+      "artists": [
+        {
+          "name": "OWIS",
+          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
+        }
+      ],
+      "duration_ms": 200822,
+      "name": "juicy",
+      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -575,6 +575,22 @@
       "duration_ms": 180000,
       "name": "Telepathy (Feat. ADORA)",
       "url": "https://open.spotify.com/track/43huSeupxUXIBkRALBozSO"
+    },
+    {
+      "added_at": "2026-05-13 08:52:28",
+      "album": {
+        "name": "\uc81c4\ucc28 \uc0ac\ub791\ud601\uba85 (Original Sound Track) Pt.1",
+        "url": "https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC"
+      },
+      "artists": [
+        {
+          "name": "\ubc30\uc774 (NMIXX)",
+          "url": "https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -611,22 +627,6 @@
       "duration_ms": 220626,
       "name": "Love(Prod.Rocoberry)",
       "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
-    },
-    {
-      "added_at": "2026-05-13 08:52:28",
-      "album": {
-        "name": "\uc81c4\ucc28 \uc0ac\ub791\ud601\uba85 (Original Sound Track) Pt.1",
-        "url": "https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC"
-      },
-      "artists": [
-        {
-          "name": "\ubc30\uc774 (NMIXX)",
-          "url": "https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "Go for Love",
-        "url": "https://open.spotify.com/album/7ag0W3hrGjOF486km90W0K"
-      },
-      "artists": [
-        {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        }
-      ],
-      "duration_ms": 163818,
-      "name": "Go for Love",
-      "url": "https://open.spotify.com/track/5pC9c5HlVuifY319wqBMzb"
-    },
-    {
-      "added_at": "2026-05-13 08:52:28",
-      "album": {
         "name": "Message (with Gist)",
         "url": "https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 170000,
       "name": "Message (with Gist)",
       "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
+    },
+    {
+      "added_at": "2026-05-13 08:52:28",
+      "album": {
+        "name": "Go for Love",
+        "url": "https://open.spotify.com/album/7ag0W3hrGjOF486km90W0K"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "duration_ms": 163818,
+      "name": "Go for Love",
+      "url": "https://open.spotify.com/track/5pC9c5HlVuifY319wqBMzb"
     }
   ],
   "unique_name": "\uc378 !",

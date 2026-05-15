@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/75yZELVuJuLN67uBEYxn6y"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155744,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0Z1NN59C1dt9NSpSR4xwMC"
+    },
+    {
+      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
       },
@@ -10324,7 +10342,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 147911,
       "name": "Money Makes The World Go Round (MMTWGR)",
       "url": "https://open.spotify.com/track/6Z4XuIm4CoQM7r4cMH9n6l"
@@ -15301,6 +15319,28 @@
     },
     {
       "album": {
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193672,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1Khrq0VrvwzxhY5gZlsQLT"
       },
@@ -15598,7 +15638,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 202500,
       "name": "STYLO",
       "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
@@ -17279,6 +17319,24 @@
     },
     {
       "album": {
+        "name": "JO\u0178A",
+        "url": "https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 16",
+      "url": "https://open.spotify.com/track/6oojgcW5Ffo7GkB54vARCh"
+    },
+    {
+      "album": {
         "name": "Welcome 2 Collegrove",
         "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
       },
@@ -18694,7 +18752,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 173333,
       "name": "Yes I Do",
       "url": "https://open.spotify.com/track/5kwEDuHCYtqCyO9JisE3XA"

@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-532 songs - 1 day 9 hr 38 min
+533 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Highway of Heroes](https://open.spotify.com/track/6pYeDjLJwp3OvlkMhKR3HI) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [Highway of Heroes](https://open.spotify.com/album/3im21dpoYXLW2K41cLuviM) | 3:52 | 2022-05-02 | 2022-07-29 |
 | [Highway of Heroes \- Remastered](https://open.spotify.com/track/30NBRD11nWJX2lRMVC2hDI) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [Time Capsule](https://open.spotify.com/album/0NIV4KxIC0ed3d5PTdlPYQ) | 3:51 | 2022-05-02 | 2022-12-08 |
 | [Hold On](https://open.spotify.com/track/0d2j2cgwLjzhYsnm4TMxEE) | [Triumph](https://open.spotify.com/artist/4YfnJEbTz8QLD5FusYFwV6) | [Just a Game](https://open.spotify.com/album/1bE0nmoVmxM6gq1tBGfcEa) | 6:05 | 2022-05-02 | 2022-07-23 |
+| [Holy Grail](https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Holy Grail](https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD) | 3:34 | 2026-05-14 |  |
 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 | 2022-09-10 | 2022-09-15 |
 | [Honey](https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Honey](https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9) | 4:36 | 2024-04-19 | 2024-07-17 |
 | [Honky Cat](https://open.spotify.com/track/1plcM0XlbKdjND7Ufokuzb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:13 | 2022-09-10 | 2022-09-15 |
@@ -269,7 +270,7 @@
 | [Lovers in a Dangerous Time](https://open.spotify.com/track/6G0M1Wsz6zQQoJig92kbkY) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Ben Grosse](https://open.spotify.com/artist/7jHrQgFiRvAJVTQSnm2HX1) | [Disc One: All Their Greatest Hits 1991 \- 2001](https://open.spotify.com/album/3XHEreZGCpDgR2joJ2SV8K) | 4:06 | 2022-09-10 | 2022-09-15 |
 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 | 2022-05-02 | 2024-04-19 |
 | [Magic Power](https://open.spotify.com/track/0NJLV3HTsOnfIyFsCQ5O3y) | [Triumph](https://open.spotify.com/artist/4YfnJEbTz8QLD5FusYFwV6) | [Allied Forces](https://open.spotify.com/album/6IL1IMpqQoAH2SJpVj1BWn) | 4:56 | 2022-05-02 | 2022-07-28 |
-| [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 | 2024-08-23 |  |
+| [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 | 2024-08-23 | 2026-05-15 |
 | [Make You a Believer](https://open.spotify.com/track/3x2TPDl0jQthHTKTgWxz21) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Racine](https://open.spotify.com/album/7pMdUFxJHQTtSLfZMtY0SL) | 4:43 | 2022-05-02 | 2022-07-29 |
 | [Mama](https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [The Union](https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa) | 3:01 | 2022-05-02 | 2023-05-19 |
 | [Man In His Pomp](https://open.spotify.com/track/04LRwSXXKAAxFSzyk6Imca) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Man In His Pomp](https://open.spotify.com/album/37KhkdHDI0LERW8dTXz24r) | 1:51 | 2025-10-09 | 2025-10-24 |

@@ -4,7 +4,7 @@
 
 > This is Florence + The Machine\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 32 min
+66 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Big God](https://open.spotify.com/track/1NcXkWB3UwXfMt8izByICb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 4:01 | 2025-10-28 |  |
 | [Breath Of Life](https://open.spotify.com/track/4NMD8KWxZwCrff9uHhVqSn) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 4:08 | 2025-10-28 |  |
 | [Buckle](https://open.spotify.com/track/0JAaTG7sEjukCjC8X58puq) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:23 | 2025-11-02 |  |
-| [Cassandra](https://open.spotify.com/track/0z2BVrzRVNvmnFF37mDhev) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 4:17 | 2025-10-28 |  |
+| [Cassandra](https://open.spotify.com/track/0z2BVrzRVNvmnFF37mDhev) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 4:17 | 2025-10-28 | 2026-05-15 |
 | [Choreomania](https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:33 | 2025-10-28 |  |
 | [Cosmic Love](https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:15 | 2025-10-28 |  |
 | [Daffodil](https://open.spotify.com/track/3EIgAuegl9y3MKfYyNb8jS) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:34 | 2025-10-28 |  |
@@ -26,6 +26,7 @@
 | [Florida!!! \(feat\. Florence + The Machine\)](https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:35 | 2025-10-28 |  |
 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2025-10-28 |  |
 | [Girl With One Eye](https://open.spotify.com/track/0UqDHyajhOTknbgj1IjuNM) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 3:38 | 2025-10-28 |  |
+| [Heaven Is Here](https://open.spotify.com/track/4eh6egMbuQ1QJ65HIA9eXG) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 1:51 | 2026-05-15 |  |
 | [Heavy In Your Arms](https://open.spotify.com/track/3svizT5TsRqDffORHCmwKn) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Between Two Lungs](https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh) | 4:47 | 2025-10-28 |  |
 | [Howl](https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:33 | 2025-10-28 |  |
 | [Howl](https://open.spotify.com/track/30JSP0mpT8DQNHjs6v8Z4P) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 3:34 | 2025-11-30 | 2026-04-21 |

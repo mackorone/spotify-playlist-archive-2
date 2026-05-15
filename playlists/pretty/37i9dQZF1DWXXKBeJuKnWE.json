@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Loathe",
-  "num_followers": 493007,
+  "num_followers": 492967,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "An Ending In Itself",
-        "url": "https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 216884,
-      "name": "An Ending In Itself",
-      "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "The Laugh Track",
         "url": "https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 195434,
       "name": "The Laugh Track",
       "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "An Ending In Itself",
+        "url": "https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 216884,
+      "name": "An Ending In Itself",
+      "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "WE ARE EMPIRE",
         "url": "https://open.spotify.com/album/4GtAnZ58WCp80acUpwM50P"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 360216,
       "name": "WE ARE EMPIRE",
       "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
+        "name": "The End is Not the End",
+        "url": "https://open.spotify.com/album/43jPtoyy13asIz0OwrWKns"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 232135,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/78Byi7xHQziRc0dRsNMwBb"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
         "name": "Nightmare Tripping (Feat. Nickelback)",
         "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 321106,
       "name": "Nightmare Tripping (Feat. Nickelback)",
       "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
-        "name": "The End is Not the End",
-        "url": "https://open.spotify.com/album/43jPtoyy13asIz0OwrWKns"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 232135,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/78Byi7xHQziRc0dRsNMwBb"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Blankets",
-        "url": "https://open.spotify.com/album/2KhU5xZYYF3mopBNajadgW"
-      },
-      "artists": [
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 317738,
-      "name": "Tonight, Tonight",
-      "url": "https://open.spotify.com/track/130TbbLfE1ffUMkvvF1nWJ"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "I Don't Belong Here",
         "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 204500,
       "name": "Hereditary",
       "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "Blankets",
+        "url": "https://open.spotify.com/album/2KhU5xZYYF3mopBNajadgW"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 317738,
+      "name": "Tonight, Tonight",
+      "url": "https://open.spotify.com/track/130TbbLfE1ffUMkvvF1nWJ"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Puppet Parade",
-        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 280924,
-      "name": "Puppet Parade",
-      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "Theft World",
         "url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Bloodlust",
-        "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
+        "name": "Puppet Parade",
+        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
       },
       "artists": [
         {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 209986,
-      "name": "Bloodlust",
-      "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1115,6 +1099,22 @@
       "duration_ms": 236273,
       "name": "human props",
       "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "Bloodlust",
+        "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 209986,
+      "name": "Bloodlust",
+      "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "God Save The Gun",
         "url": "https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 229334,
       "name": "Kick",
       "url": "https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "The New Flesh",
-        "url": "https://open.spotify.com/album/1cTxv3R4nOPQnR7et4cFkz"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 235760,
-      "name": "Spared From The Guillotine",
-      "url": "https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 179083,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "The New Flesh",
+        "url": "https://open.spotify.com/album/1cTxv3R4nOPQnR7et4cFkz"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "Spared From The Guillotine",
+      "url": "https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Sepsis",
-        "url": "https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Sepsis",
-      "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 269318,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "Sepsis",
+        "url": "https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Sepsis",
+      "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "This Is The Sound",
-        "url": "https://open.spotify.com/album/37Ixky407QDvoGFDx1vmrC"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "This Is The Sound",
-      "url": "https://open.spotify.com/track/5u3LQf7tg1eS2AEGyguDPa"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "I Got Heaven",
         "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 352500,
       "name": "Nerve",
       "url": "https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "This Is The Sound",
+        "url": "https://open.spotify.com/album/37Ixky407QDvoGFDx1vmrC"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "This Is The Sound",
+      "url": "https://open.spotify.com/track/5u3LQf7tg1eS2AEGyguDPa"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "God Forgives",
-        "url": "https://open.spotify.com/album/4u3ICe4arWgurXRgAzJFii"
+        "name": "PUT A HIT ON",
+        "url": "https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2"
       },
       "artists": [
         {
-          "name": "Guilt Trip",
-          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+          "name": "MUTTLEE",
+          "url": "https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L"
         }
       ],
-      "duration_ms": 134619,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/2nU7OKyo1EZqZQYnIVjTO1"
+      "duration_ms": 174807,
+      "name": "PUT A HIT ON",
+      "url": "https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1643,6 +1643,22 @@
       "duration_ms": 241300,
       "name": "Moths",
       "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "God Forgives",
+        "url": "https://open.spotify.com/album/4u3ICe4arWgurXRgAzJFii"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "duration_ms": 134619,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/2nU7OKyo1EZqZQYnIVjTO1"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1675,22 +1691,6 @@
       "duration_ms": 343329,
       "name": "Like the Fourth Wall",
       "url": "https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
-        "name": "PUT A HIT ON",
-        "url": "https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2"
-      },
-      "artists": [
-        {
-          "name": "MUTTLEE",
-          "url": "https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L"
-        }
-      ],
-      "duration_ms": 174807,
-      "name": "PUT A HIT ON",
-      "url": "https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK"
     }
   ],
   "unique_name": "The Pit",

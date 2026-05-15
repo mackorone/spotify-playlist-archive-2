@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-11",
-  "description": "The sound of Afrobeats echoing around the world. Cover:  Tyla & Zara Larsson",
+  "description": "The sound of Afrobeats echoing around the world. Cover:  Shakira ",
   "name": "Global Afrobeats",
   "tracks": [
     {
@@ -183,6 +183,28 @@
     },
     {
       "album": {
+        "name": "The Game Needs Us",
+        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/4c0l2xJLaY8PBS7yi37Ry3"
+    },
+    {
+      "album": {
         "name": "Awolowo",
         "url": "https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr"
       },
@@ -360,7 +382,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 197333,
       "name": "Bando (feat. Pharrell Williams & Quavo)",
       "url": "https://open.spotify.com/track/2QfnsYXUpkiCNG56W2aW7I"
@@ -723,6 +745,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "Dare You",
         "url": "https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp"
       },
@@ -756,7 +800,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 176668,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
@@ -800,6 +844,28 @@
       "duration_ms": 181942,
       "name": "DON'T LOVE ME",
       "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
+    },
+    {
+      "album": {
+        "name": "Don't Say Sorry",
+        "url": "https://open.spotify.com/album/03r9ISAWhPm7dwSFQS4izX"
+      },
+      "artists": [
+        {
+          "name": "ZHANGYE",
+          "url": "https://open.spotify.com/artist/1sZntnf0HWP0Rx392NSPwW"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167936,
+      "name": "Don't Say Sorry",
+      "url": "https://open.spotify.com/track/2cICEHulCND7QIqw9jag7S"
     },
     {
       "album": {
@@ -1622,7 +1688,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 191625,
       "name": "Joanna",
       "url": "https://open.spotify.com/track/20KcCDUnEFSHpOADjFFxdD"
@@ -2144,7 +2210,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 186666,
       "name": "Minha Vida \u00e9 um Filme",
       "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
@@ -2768,7 +2834,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 186429,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ"
@@ -3461,6 +3527,28 @@
     },
     {
       "album": {
+        "name": "Super Woman",
+        "url": "https://open.spotify.com/album/0Nqwx5p51hPWe2zQ3YGbKQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "Super Woman",
+      "url": "https://open.spotify.com/track/0Vf5YS7dS9xABKnfvzGf1T"
+    },
+    {
+      "album": {
         "name": "TaTaTa (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
       },
@@ -3560,6 +3648,24 @@
       "duration_ms": 145512,
       "name": "Tout donner",
       "url": "https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O"
+    },
+    {
+      "album": {
+        "name": "JO\u0178A",
+        "url": "https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 16",
+      "url": "https://open.spotify.com/track/6oojgcW5Ffo7GkB54vARCh"
     },
     {
       "album": {

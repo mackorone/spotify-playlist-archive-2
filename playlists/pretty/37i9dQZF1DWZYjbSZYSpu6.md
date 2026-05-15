@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: GUMMY & SEUNGKWAN \(거미 & 승관\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,346 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,366 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 44 | [Sleepless](https://open.spotify.com/track/2V00oEN3wDfzs932dszmG3) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z), [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Sleepless](https://open.spotify.com/album/2NkLgDGMhZHcYYkEaaK93O) | 2:55 |
 | 45 | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW) | 3:08 |
 | 46 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |
-| 47 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 |
+| 47 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 |
 | 48 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 |
-| 49 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 |
+| 49 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 |
 | 50 | [Be Your Enemy](https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:35 |
 
 Snapshot ID: `AAAAAFseM4X9RhNin09TpsUMKlBM+sYB`

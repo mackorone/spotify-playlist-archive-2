@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Travis Green & Forward City
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,869 likes - 80 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,893 likes - 80 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 40 | [Homesick](https://open.spotify.com/track/228LTnxM3tOcex7KCQJUip) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Homesick](https://open.spotify.com/album/5lOLODGKhb6ogIizkHZvxn) | 3:45 |
 | 41 | [Church](https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:02 |
 | 42 | [Come Jesus Come](https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/0qHcqC09wyyfvnEfE2y3UJ) | 5:01 |
-| 43 | [Yahweh Flow \- Live In San Francisco](https://open.spotify.com/track/6nn9pfbOHHmaQAYxn6H7WO) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 9:40 |
+| 43 | [Yahweh Flow \- Live In San Francisco](https://open.spotify.com/track/6nn9pfbOHHmaQAYxn6H7WO) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Jocelyn Bowman](https://open.spotify.com/artist/4oNDPftuqEd86eBJ108S11), [D'Nar Young](https://open.spotify.com/artist/0gSN31lo9boEhogd3kbNXZ), [Jewell Jones](https://open.spotify.com/artist/2EFb5gGfPIYNen4BAVb7qQ), [Jalisa Faye](https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 9:40 |
 | 44 | [Higher](https://open.spotify.com/track/3I3CyeN4kUefehQ607eEHh) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Revelation Worship](https://open.spotify.com/artist/7z6UChLz1HZ00M3LPN1zqN) | [Higher](https://open.spotify.com/album/7F0jledobkx7zSDnAI11A4) | 3:43 |
 | 45 | [Give Him His Crown \(Reprise\) \- Live](https://open.spotify.com/track/6u8Uo8hl0dGEmssVKuFQHs) | [Bethany Echo](https://open.spotify.com/artist/3F2bI4LAlE7z6PB78OViwc), [Meshak Muyaka](https://open.spotify.com/artist/1m5N4kZdRkpivJDGX3siiO) | [Give Him His Crown \(Live\)](https://open.spotify.com/album/2GsaAf501pCDpoGnoeDCRQ) | 3:19 |
 | 46 | [Rain](https://open.spotify.com/track/09ltlFkyREif6QKiKXJDvW) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Rain](https://open.spotify.com/album/3Oa1Fsz90HH7dZgxPQ5qGZ) | 5:15 |

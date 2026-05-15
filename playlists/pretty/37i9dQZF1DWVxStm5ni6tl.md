@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every month\. Cover: Jahson Paynter, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,524 likes - 30 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,523 likes - 30 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 29 | [LIMBO](https://open.spotify.com/track/7xzohTN61dukfXELB3MZhx) | [Luka Ferraro](https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp) | [LIMBO](https://open.spotify.com/album/7fJ7HZ436poKhPLXqsXdyD) | 2:40 |
 | 30 | [Country Club](https://open.spotify.com/track/1ONn9Syk42LP1LAJ9Km2aU) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Country Club](https://open.spotify.com/album/4RxtNebG0fjQiC8ZM0P90x) | 3:24 |
 
-Snapshot ID: `AAAAAO6QpHTs222LM6pDuqNPbAzIeDNo`
+Snapshot ID: `AAAAAHdG4Lqru5uAqaX04JsFpZ+6vTOK`

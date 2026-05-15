@@ -2,9 +2,9 @@
 
 ### [Afro Rap](https://open.spotify.com/playlist/37i9dQZF1DX3oRZ26ZzwxF)
 
-> Le meilleur du rap africain francophone\. Photo : AKIM PAPICHULO
+> Le meilleur du rap africain francophone\. Photo : Joe Kingston
 
-332 songs - 15 hr 20 min
+334 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Décalé chinois](https://open.spotify.com/track/6XbDnaBXrY0rhEbWG9miWX) | [MRKing](https://open.spotify.com/artist/5OLzYSgM51p6y0RV3STRZH) | [Décalé chinois](https://open.spotify.com/album/7h7xQluLbnIFe3tYLxI3Af) | 3:05 | 2025-05-29 | 2025-06-20 |
 | [Dégât](https://open.spotify.com/track/4q9SUUNCPQ8Y17rMnTDtwN) | [Kawid](https://open.spotify.com/artist/5syggS0mW2lbXyA9L5XzRN) | [Dégât](https://open.spotify.com/album/7oiZAimiLnOS5cFTRXZtjn) | 2:03 | 2025-05-29 | 2025-06-27 |
 | [EBOKOBOKO](https://open.spotify.com/track/4EzyTEqa2phD8zP268NkpK) | [TETSUYA 241](https://open.spotify.com/artist/4t9UdNjvKfan9CrkU0xDHv) | [EBOKOBOKO](https://open.spotify.com/album/2080Jab1c2fRT3mNP3PTlG) | 2:30 | 2026-01-08 | 2026-01-23 |
-| [Eliminé](https://open.spotify.com/track/7wbtGmNYsHRH0nWqRLje0X) | [Diesel Gucci](https://open.spotify.com/artist/3ZTd2WDHj0fn67xpiQ9DEi), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Eliminé](https://open.spotify.com/album/4H8jp47Allzo8anDKynAeM) | 3:58 | 2025-12-11 |  |
+| [Eliminé](https://open.spotify.com/track/7wbtGmNYsHRH0nWqRLje0X) | [Diesel Gucci](https://open.spotify.com/artist/3ZTd2WDHj0fn67xpiQ9DEi), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Eliminé](https://open.spotify.com/album/4H8jp47Allzo8anDKynAeM) | 3:58 | 2025-12-11 | 2026-05-15 |
 | [En Bri](https://open.spotify.com/track/2hFMzkCv3udvyL9jXj5c82) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Juventus Nueva Era](https://open.spotify.com/album/40IUUa2awdvlwpkChxGNCw) | 2:48 | 2025-11-13 | 2026-04-17 |
 | [EN STRING](https://open.spotify.com/track/2zsZlQQHhVVacUqLZa4Q4u) | [Doupi Papillon](https://open.spotify.com/artist/4oBgTIQASlIZHyKNkXZWoO), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [EN STRING](https://open.spotify.com/album/3Q3soevfwcQiCIodGOOp90) | 3:07 | 2026-04-30 |  |
 | [En tas](https://open.spotify.com/track/6VmswO0xO4iWADlcx5JdMZ) | [2ci](https://open.spotify.com/artist/2fp7fRtwyWt0l8uehjiMXT), [J\-Haine](https://open.spotify.com/artist/6xqk9AhuWQXiyARu2ViDvI) | [En tas](https://open.spotify.com/album/6wt4Rp9N0yU2MsfEm9lXNH) | 2:00 | 2025-11-20 | 2025-12-12 |
@@ -265,6 +265,7 @@
 | [Ponce pilate](https://open.spotify.com/track/2PgxG5BNSsJ407TrpfNU5X) | [Mink's](https://open.spotify.com/artist/3R5HSF8rhNgBBgeOo0slI9) | [Ponce pilate](https://open.spotify.com/album/4XP2kJMq9X7P3CHluZ942V) | 2:02 | 2025-06-19 | 2025-08-08 |
 | [POSTER](https://open.spotify.com/track/3uncFBAHsDbeCOdAwhYQl5) | [Carty](https://open.spotify.com/artist/33p7Ux3XLYuYDP1cjIaycW) | [POSTER](https://open.spotify.com/album/3hdx5McZX3LHIWtIHhXaeB) | 2:34 | 2025-09-04 | 2025-09-26 |
 | [pourquoi tu gnan](https://open.spotify.com/track/3F7zIvz7LZD4kNyNilox5o) | [Tripa Gninnin](https://open.spotify.com/artist/1942Gu3Pj3kVg8SmX8T5lJ), [Latop](https://open.spotify.com/artist/2Le5krQdKYGiP5xUQnIHKN) | [pourquoi tu gnan](https://open.spotify.com/album/6g1RUsOlrKLG1kAVTIgOVB) | 3:05 | 2025-07-17 | 2025-08-29 |
+| [POWER](https://open.spotify.com/track/0eo7pY9DFqZWI1eOSULLDC) | [Stanley Enow](https://open.spotify.com/artist/1FEzMUWFcZynVzahFj6Xny) | [POWER](https://open.spotify.com/album/6DrINOTib1zUD0p6FZm4F4) | 2:43 | 2026-05-14 |  |
 | [Praise the Lord](https://open.spotify.com/track/3IvprOUbcFgjfFFeh37doB) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Praise the Lord](https://open.spotify.com/album/2xUK7mW9ZsZoHHZTpqomy6) | 2:22 | 2026-04-23 |  |
 | [Pression](https://open.spotify.com/track/57KmGF8jPwAiSXebjpLOC7) | [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV) | [INVASION TOME II](https://open.spotify.com/album/7uG8F9BVGaYGeAHZ2OqQnX) | 2:06 | 2026-03-26 | 2026-05-08 |
 | [Pression Sur Eux](https://open.spotify.com/track/3Z0e8p2ajAfD7zI2tvB051) | [LM](https://open.spotify.com/artist/1acVobzUNrDbRUrc0EIjEM), [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek) | [Nouvelle Ère](https://open.spotify.com/album/1FgxjY37GgrzXAwJigESQb) | 2:51 | 2025-10-09 | 2025-11-14 |
@@ -298,7 +299,7 @@
 | [TAKE & TCHOLI](https://open.spotify.com/track/6ve1Fi1NuXbHJelvSXUrap) | [Carty](https://open.spotify.com/artist/33p7Ux3XLYuYDP1cjIaycW) | [BASTOS](https://open.spotify.com/album/5mjjXY0swdnbmtDYIoixL6) | 2:07 | 2026-01-01 | 2026-01-23 |
 | [Tale](https://open.spotify.com/track/1wpyMgXu9YOjHKZ6nDHdH7) | [D14](https://open.spotify.com/artist/3y3XReRDa8zAZop35uXw0h), [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [Turn Up Ivoire 2](https://open.spotify.com/album/0whylFcTWRqtF93DkFLTvU) | 2:36 | 2026-03-26 | 2026-04-17 |
 | [Tana](https://open.spotify.com/track/2JYp2XCOdmufvPrwLw1J55) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [L’hybride](https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg) | 2:10 | 2025-06-26 | 2025-10-24 |
-| [TANTINE](https://open.spotify.com/track/4mG3gwyKd9f1sKtSak6RlX) | [Waza no limite](https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb), [Elgor Beatz](https://open.spotify.com/artist/4AtBPAJFtolERPERU23kOr) | [TANTINE](https://open.spotify.com/album/3N0RPDXIALceLrVLs6JwZB) | 2:19 | 2025-09-11 |  |
+| [TANTINE](https://open.spotify.com/track/4mG3gwyKd9f1sKtSak6RlX) | [Waza no limite](https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb), [Elgor Beatz](https://open.spotify.com/artist/4AtBPAJFtolERPERU23kOr) | [TANTINE](https://open.spotify.com/album/3N0RPDXIALceLrVLs6JwZB) | 2:19 | 2025-09-11 | 2026-05-15 |
 | [Taper](https://open.spotify.com/track/7HL2kiOEhzfzk5lgfM6awf) | [T Dedonia](https://open.spotify.com/artist/4fM0A0AOHK6Psa6k9u5aYu), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Taper](https://open.spotify.com/album/0BHIK4JCHd1M2cItRHQbzc) | 2:05 | 2025-10-23 | 2025-11-14 |
 | [TAPER CREER \(feat\. Gazo\)](https://open.spotify.com/track/3YKg1eTKqjwFI8pPjZ75xP) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 2:40 | 2025-08-21 | 2025-11-14 |
 | [Taper le Tchapa](https://open.spotify.com/track/5MnXdNc3rDzcwVnmCRuaQy) | [Jolina Verdigo](https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO) | [Taper le Tchapa](https://open.spotify.com/album/5Tvf0MnND0bt5d79hsvH9B) | 3:36 | 2025-09-04 | 2025-11-14 |
@@ -310,6 +311,7 @@
 | [Tout oublier](https://open.spotify.com/track/73XxMiR2dv0NrzPD4XpcsR) | [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek) | [Tout oublier](https://open.spotify.com/album/0JVTs9ACEF5of3JKBObpI0) | 4:15 | 2025-11-13 | 2025-12-19 |
 | [Tranchées](https://open.spotify.com/track/1WFV0xsjOvvoXh8J1ygmAr) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [CAPITALE DU CRIME RADIO, vol\. 3](https://open.spotify.com/album/0XHAPZhoDyPzMnigsKZeej) | 2:47 | 2026-01-29 | 2026-04-17 |
 | [TRANSCENDER](https://open.spotify.com/track/7nP2FfgycGG4Rtis0AoXQt) | [Rodzeng](https://open.spotify.com/artist/0oV1rrMPFQFFaXzJceuKFr), [Celio Le Pertubateur](https://open.spotify.com/artist/6SOoytV3nCJwndru1dSsDL) | [TRANSCENDER](https://open.spotify.com/album/1mkL3KvtZ19BLIjqAcENtW) | 2:47 | 2026-04-02 | 2026-05-08 |
+| [TRAVAILLER](https://open.spotify.com/track/18iQA40Yy0wn88hw67KDOj) | [Joe Kingston](https://open.spotify.com/artist/0XgZLJ4UKRBh6KdFQgnMmc) | [TRAVAILLER](https://open.spotify.com/album/2bWk7vZ83cnttM1cJzVvkJ) | 2:19 | 2026-05-14 |  |
 | [TROP PARLER](https://open.spotify.com/track/3qSDfip8jB4de8n7YzuRyj) | [LESSA](https://open.spotify.com/artist/65KaByjfpccoSYXiADWtxB) | [TROP PARLER](https://open.spotify.com/album/0jdlmc0FyLGppp6PMDOObl) | 2:52 | 2026-03-26 | 2026-04-24 |
 | [Trop parler](https://open.spotify.com/track/6PPxenjRn95x0BHTPGCcZ2) | [Vicky R](https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0), [EBOLOKO](https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR) | [Trop parler](https://open.spotify.com/album/4oQvTGkpuLmPvfkGJ2InZ9) | 2:00 | 2025-08-28 | 2025-09-12 |
 | [Trop Tard](https://open.spotify.com/track/0fJCVXvxUvwHX75ip3FPmf) | [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [Trop Tard](https://open.spotify.com/album/5T8VWAyjFtCaWqCy9XVDkt) | 2:14 | 2025-06-26 | 2025-08-08 |

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Kiss Before Dying",
+        "url": "https://open.spotify.com/album/43HQW7GQUlQEvisvnaT2dJ"
+      },
+      "artists": [
+        {
+          "name": "CIRCUS",
+          "url": "https://open.spotify.com/artist/3mpN9JFZx0JdZvr4ZWvvf9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274506,
+      "name": "90 Seconds for Panic",
+      "url": "https://open.spotify.com/track/3JUfZLz6ONsDcW6CbYucwG"
+    },
+    {
+      "album": {
         "name": "A Perfect Lie",
         "url": "https://open.spotify.com/album/2rvHji4MrQC3S397HaUIRc"
       },
@@ -276,6 +294,24 @@
       "duration_ms": 212718,
       "name": "Away",
       "url": "https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14"
+    },
+    {
+      "album": {
+        "name": "bad lover",
+        "url": "https://open.spotify.com/album/0M4u625Q69qPri1148zoe3"
+      },
+      "artists": [
+        {
+          "name": "Brake Loose",
+          "url": "https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297086,
+      "name": "bad lover",
+      "url": "https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 16 min
+98 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Fake Friends](https://open.spotify.com/track/5kvMLw3iuA2dHH7FLFDgsM) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G) | 3:24 | 2025-03-08 | 2026-04-19 |
 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 | 2025-03-08 |  |
 | [Fresh Start](https://open.spotify.com/track/0CoaJsa2utAfRXiNeWmJiH) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Music from the Original Motion Picture\)](https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja) | 3:35 | 2025-03-08 | 2025-04-27 |
-| [Fun, Fun, Fun](https://open.spotify.com/track/2UVOE5RJFc3Pd9dMA9U6kv) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 2:19 | 2025-03-08 |  |
+| [Fun, Fun, Fun](https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D) | 2:19 | 2026-05-15 |  |
+| [Fun, Fun, Fun](https://open.spotify.com/track/2UVOE5RJFc3Pd9dMA9U6kv) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 2:19 | 2025-03-08 | 2026-05-15 |
 | [Good Music](https://open.spotify.com/track/1uizH33y71PDnU3vjTwWjL) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 5:45 | 2025-03-08 | 2026-05-02 |
 | [Good Music](https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D) | 5:45 | 2026-05-02 |  |
 | [Hanky Panky](https://open.spotify.com/track/7As15eABcFjJ3WuH5OEq6t) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:31 | 2026-04-19 | 2026-04-25 |
@@ -52,7 +53,8 @@
 | [I Love Rock 'N Roll](https://open.spotify.com/track/4jTqsgDaffdNH0BMBwhjFv) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh) | 2:55 | 2026-04-21 |  |
 | [I Love You Love Me Love](https://open.spotify.com/track/5mNnb2gpeXCaPRbJKLI4ue) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF) | 3:19 | 2026-05-04 |  |
 | [I Still Dream About You](https://open.spotify.com/track/6y7Jl5Jrmdl0fCFcOVmnbX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:22 | 2025-03-08 | 2026-05-09 |
-| [I Wanna Be Your Dog](https://open.spotify.com/track/2VppbCFGniv58380qH2Ut3) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 5:10 | 2025-03-08 |  |
+| [I Wanna Be Your Dog](https://open.spotify.com/track/2VppbCFGniv58380qH2Ut3) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 5:10 | 2025-03-08 | 2026-05-15 |
+| [I Wanna Be Your Dog](https://open.spotify.com/track/2q9E4H2F41UU6tAGGnQLPY) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa) | 5:10 | 2026-05-15 |  |
 | [I Want You](https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [First Sessions](https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9) | 2:41 | 2025-03-08 | 2026-04-24 |
 | [I Want You](https://open.spotify.com/track/5tgl0clpp1zalEpKZhwluY) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 2:42 | 2026-04-24 |  |
 | [If You're Blue](https://open.spotify.com/track/0nKC8KgjiOGGBcPDOWPPpp) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Mindsets](https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO) | 3:15 | 2025-03-08 | 2026-04-05 |

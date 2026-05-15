@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 
 > This is RAYE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,531 likes - 44 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,671 likes - 44 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 31 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 |
 | 32 | [Ferrari Horses](https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Blue Print – Us Vs\. Them](https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX) | 3:45 |
 | 33 | [Love Me Again](https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Me Again](https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc) | 3:18 |
-| 34 | [Walk On By](https://open.spotify.com/track/0YACnkfd4NWuiPgjXVJwOD) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:23 |
-| 35 | [Better Things \- RAYE Remix](https://open.spotify.com/track/1RDMPArAraZJ5gW8Qvsucz) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Better Things \(RAYE Remix\)](https://open.spotify.com/album/6eoXsMVCy9smgDaR9RkHMw) | 3:25 |
+| 34 | [Better Things \- RAYE Remix](https://open.spotify.com/track/1RDMPArAraZJ5gW8Qvsucz) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Better Things \(RAYE Remix\)](https://open.spotify.com/album/6eoXsMVCy9smgDaR9RkHMw) | 3:25 |
+| 35 | [Walk On By](https://open.spotify.com/track/0YACnkfd4NWuiPgjXVJwOD) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:23 |
 | 36 | [Genesis.](https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW) | 7:00 |
 | 37 | [Please Don’t Touch](https://open.spotify.com/track/16eNwSoWmJh5GSjN8ECmIp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Please Don’t Touch](https://open.spotify.com/album/2L0kDBJ2d6aThU4egKkoDk) | 3:38 |
-| 38 | [Change Your Mind](https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:00 |
-| 39 | [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 |
+| 38 | [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 |
+| 39 | [Change Your Mind](https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:00 |
 | 40 | [Stay \(Don't Go Away\) \[feat\. Raye\]](https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Stay \(Don't Go Away\) \[feat\. Raye\]](https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE) | 3:05 |
 | 41 | [All Of My Love](https://open.spotify.com/track/1fuOQttSZc7ztlH42OK8VC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [All Of My Love](https://open.spotify.com/album/3MZrIHZmBFXkHT898Y1XgQ) | 3:16 |
 | 42 | [Fly Me to the Moon](https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Fly Me to the Moon](https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY) | 3:11 |
 | 43 | [Decline](https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Decline](https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud) | 3:08 |
 | 44 | [The Thrill Is Gone Requiem\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/6e1u6VSqa1f4zITKX4aTmt) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 2:23 |
 
-Snapshot ID: `agJtgAAAAAAcN9wUtBLnkSc1VK/6EOkI`
+Snapshot ID: `agO/AAAAAACO9Cf/ElhB0cOMieUoOQH9`

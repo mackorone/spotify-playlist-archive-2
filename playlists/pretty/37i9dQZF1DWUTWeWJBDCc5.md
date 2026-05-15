@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 5월의 노래를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,997 likes - 35 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,019 likes - 35 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

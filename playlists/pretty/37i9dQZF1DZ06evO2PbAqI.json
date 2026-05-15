@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 35320,
+  "num_followers": 35324,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAAQwu1MSV7eWSYdD0dw8uFK",
+  "snapshot_id": "agO/AAAAAAAwNQPkCkLsLiV5KDbH+oLb",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepless Empire",
-        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+        "name": "Shallow Life",
+        "url": "https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0"
       },
       "artists": [
         {
           "name": "Lacuna Coil",
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        },
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 259079,
-      "name": "Hosting the Shadow (feat. Randy Blythe)",
-      "url": "https://open.spotify.com/track/6VkkDO5w32HXkgdCDPz9E3"
+      "duration_ms": 201146,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4DXswc4p8mel7E6C1ZSHDq"
     },
     {
       "added_at": null,
@@ -127,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Life",
-        "url": "https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0"
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
       },
       "artists": [
         {
           "name": "Lacuna Coil",
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 201146,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/4DXswc4p8mel7E6C1ZSHDq"
+      "duration_ms": 259079,
+      "name": "Hosting the Shadow (feat. Randy Blythe)",
+      "url": "https://open.spotify.com/track/6VkkDO5w32HXkgdCDPz9E3"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepless Empire",
-        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1ipx7qJSnTuFuPGnPnLWp8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Anima (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 185066,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5LudgNwTAhX2sjfzdpLyAD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1ipx7qJSnTuFuPGnPnLWp8"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepless Empire",
-        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 225453,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/4EsCBMrhAjCNu84DAo1tOn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Crown Halo",
         "url": "https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 247573,
       "name": "Nothing Stands in Our Way",
       "url": "https://open.spotify.com/track/20gUq53TwfLsyq7AIUL2tt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 225453,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/4EsCBMrhAjCNu84DAo1tOn"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepless Empire",
-        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Never Dawn",
-      "url": "https://open.spotify.com/track/1GVFgRmh2yOam7YsezAQBj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delirium",
         "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 196080,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/7q9si83DQmdTuT7zfuus7f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Never Dawn",
+      "url": "https://open.spotify.com/track/1GVFgRmh2yOam7YsezAQBj"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepless Empire",
-        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "The Siege",
-      "url": "https://open.spotify.com/track/0QP6Q6euM4X32r5aEjmkjO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Karmacode",
         "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 181706,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0hjOQVfGYP2NXINPOp4EgI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 264533,
+      "name": "The Siege",
+      "url": "https://open.spotify.com/track/0QP6Q6euM4X32r5aEjmkjO"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies XX",
-        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 212826,
-      "name": "Swamped XX",
-      "url": "https://open.spotify.com/track/2GwbIA9hZvw1IthidzIGY6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comalies",
         "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 217666,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/3RaxN3FA8bvtjHPBEaDnID"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comalies XX",
+        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 212826,
+      "name": "Swamped XX",
+      "url": "https://open.spotify.com/track/2GwbIA9hZvw1IthidzIGY6"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies",
-        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 255200,
-      "name": "Tight Rope",
-      "url": "https://open.spotify.com/track/4ELHk26fjscfQpmKHV0gLe"
+      "duration_ms": 229280,
+      "name": "You Love Me 'Cause I Hate You",
+      "url": "https://open.spotify.com/track/0j2QDNeAmt2WxrmAEQJUe0"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 229280,
-      "name": "You Love Me 'Cause I Hate You",
-      "url": "https://open.spotify.com/track/0j2QDNeAmt2WxrmAEQJUe0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comalies",
         "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
       },
@@ -695,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delirium",
         "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
@@ -727,6 +695,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 255200,
+      "name": "Tight Rope",
+      "url": "https://open.spotify.com/track/4ELHk26fjscfQpmKHV0gLe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Eps- Lacuna Coil/halflife",
         "url": "https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 281826,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 261053,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 217520,
       "name": "Tight Rope XX",
       "url": "https://open.spotify.com/track/5d4O0OoDEloGKJvQlFeYOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 261053,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
     }
   ],
   "unique_name": "This Is Lacuna Coil",

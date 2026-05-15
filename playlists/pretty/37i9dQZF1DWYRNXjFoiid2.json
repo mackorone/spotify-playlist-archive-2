@@ -1,6 +1,6 @@
 {
   "description": "Pop to fuel your gaming. Cover: CORTIS",
-  "num_followers": 460714,
+  "num_followers": 460792,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 239835,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
+    },
+    {
       "added_at": "2026-04-24 04:00:47",
       "album": {
         "name": "RUNWAY",
@@ -247,22 +263,6 @@
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 239835,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
     },
     {
       "added_at": "2024-12-13 05:00:12",
@@ -477,38 +477,6 @@
       "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
     },
     {
-      "added_at": "2025-10-10 04:00:48",
-      "album": {
-        "name": "Devil in Disguise",
-        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
-      },
-      "artists": [
-        {
-          "name": "Marino",
-          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
-        }
-      ],
-      "duration_ms": 104431,
-      "name": "Devil in Disguise",
-      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Feel Something",
@@ -527,18 +495,34 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 157497,
-      "name": "Mount Everest",
-      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "Devil in Disguise",
+        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        }
+      ],
+      "duration_ms": 104431,
+      "name": "Devil in Disguise",
+      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -559,6 +543,22 @@
       "duration_ms": 140525,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 157497,
+      "name": "Mount Everest",
+      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2026-04-24 04:00:47",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Boss Bitch",
@@ -815,6 +799,22 @@
       "duration_ms": 134239,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+    },
+    {
+      "added_at": "2026-04-24 04:00:47",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-04-24 04:00:47",
@@ -1285,38 +1285,6 @@
       "url": "https://open.spotify.com/track/13fVuFWEQOGlYY6EaxfQyj"
     },
     {
-      "added_at": "2025-10-10 04:00:48",
-      "album": {
-        "name": "gigolo",
-        "url": "https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 118461,
-      "name": "gigolo",
-      "url": "https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY"
-    },
-    {
-      "added_at": "2025-02-07 05:00:25",
-      "album": {
-        "name": "HEAVY LOVE",
-        "url": "https://open.spotify.com/album/6IPnW1tlA4tZ2RNP77STlv"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 142261,
-      "name": "HEAVY LOVE",
-      "url": "https://open.spotify.com/track/608gR8geDwag74CiyseUsH"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Levitating (feat. DaBaby)",
@@ -1351,6 +1319,38 @@
       "duration_ms": 171946,
       "name": "Understand",
       "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
+    },
+    {
+      "added_at": "2025-02-07 05:00:25",
+      "album": {
+        "name": "HEAVY LOVE",
+        "url": "https://open.spotify.com/album/6IPnW1tlA4tZ2RNP77STlv"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 142261,
+      "name": "HEAVY LOVE",
+      "url": "https://open.spotify.com/track/608gR8geDwag74CiyseUsH"
+    },
+    {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "gigolo",
+        "url": "https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 118461,
+      "name": "gigolo",
+      "url": "https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY"
     },
     {
       "added_at": "2026-04-24 04:00:47",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
     },
     {
-      "added_at": "2026-04-24 04:00:47",
-      "album": {
-        "name": "Bubee",
-        "url": "https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 182448,
-      "name": "Bubee",
-      "url": "https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Enough",
@@ -1483,6 +1467,22 @@
       "duration_ms": 185266,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+    },
+    {
+      "added_at": "2026-04-24 04:00:47",
+      "album": {
+        "name": "Bubee",
+        "url": "https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 182448,
+      "name": "Bubee",
+      "url": "https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c"
     },
     {
       "added_at": "2025-06-20 04:00:48",
@@ -1665,6 +1665,26 @@
       "url": "https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR"
     },
     {
+      "added_at": "2026-04-24 04:00:47",
+      "album": {
+        "name": "klepto (with Lexie Liu)",
+        "url": "https://open.spotify.com/album/7cKJIdIaR1THuqRTbzhEE0"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        }
+      ],
+      "duration_ms": 152039,
+      "name": "klepto (with Lexie Liu)",
+      "url": "https://open.spotify.com/track/5rElubeagDSx1iaiMqq1jf"
+    },
+    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Dancin (feat. Luvli) [Krono Remix]",
@@ -1687,26 +1707,6 @@
       "duration_ms": 198053,
       "name": "Dancin (feat. Luvli) - Krono Remix",
       "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
-    },
-    {
-      "added_at": "2026-04-24 04:00:47",
-      "album": {
-        "name": "klepto (with Lexie Liu)",
-        "url": "https://open.spotify.com/album/7cKJIdIaR1THuqRTbzhEE0"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        },
-        {
-          "name": "Lexie Liu",
-          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
-        }
-      ],
-      "duration_ms": 152039,
-      "name": "klepto (with Lexie Liu)",
-      "url": "https://open.spotify.com/track/5rElubeagDSx1iaiMqq1jf"
     },
     {
       "added_at": "2024-12-13 05:00:12",

@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Stevan Pasaribu
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: DIKTA
 
-907 songs - 2 day 11 hr 7 min
+913 songs - 2 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [30 Hari Pertama](https://open.spotify.com/track/17xTY2Y9T0cY6vRhuWnWyF) | [Jeyma Monica](https://open.spotify.com/artist/13TIqNSApj4u450gNHdCHN) | [30 Hari Pertama](https://open.spotify.com/album/5tr7Q2wB47XxndqS0pcW17) | 3:28 | 2026-02-12 | 2026-05-09 |
 | [404: HOME NOT FOUND](https://open.spotify.com/track/4hcfM7tc2BdXSmBHEYgf8q) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [404: HOME NOT FOUND](https://open.spotify.com/album/2hy7jf0iW1BKpNJDLTic0r) | 3:36 | 2025-11-20 | 2026-05-09 |
 | [7 Menit](https://open.spotify.com/track/5n6pzrxQfnPCQgQPJWqMF1) | [Bunga Nafisa](https://open.spotify.com/artist/6vn1XVjJm9kouioBxk2u75) | [7 Menit](https://open.spotify.com/album/3TgKFSung0gstCo78vb7U9) | 3:49 | 2025-11-27 | 2026-01-24 |
+| [Abadi \- Acoustic](https://open.spotify.com/track/54FNCV63wnklaEVSdu1ujH) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Abadi \(Acoustic\)](https://open.spotify.com/album/28gLbPfOuDgBHnqxznNGlU) | 4:40 | 2026-05-14 |  |
 | [Abangku](https://open.spotify.com/track/58w5cBvrboUzlt5Ui4Wqj8) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Abangku](https://open.spotify.com/album/4QxhzrKRjmqdTCFrvO7773) | 3:29 | 2024-09-26 | 2024-11-22 |
 | [Ada Untukmu](https://open.spotify.com/track/0mG2Sq4PnmHGSMLay75bDw) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Ada Untukmu](https://open.spotify.com/album/58BtkWNrfBXX8ishPFE3d9) | 4:17 | 2025-10-16 |  |
 | [Adakah Yang Memanggil](https://open.spotify.com/track/1xmGBveHto8zsN4pAWxVnm) | [Mirelle G Edith](https://open.spotify.com/artist/6IaBHU1Mw5RA8Ye6syJRo8) | [Sebentar, Aku Mau Cerita](https://open.spotify.com/album/2u0Ufuo5CM8qgj56b08Ggj) | 3:34 | 2025-06-12 | 2025-09-26 |
@@ -344,6 +345,7 @@
 | [Jatuh Rapuh](https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Jatuh Rapuh](https://open.spotify.com/album/3uX5S5Lrm7mHT22OFt3q00) | 4:30 | 2024-06-27 | 2025-01-10 |
 | [Jatuh Sendiri](https://open.spotify.com/track/0c4VHJ92tbul0Z2sidYl1y) | [Davina Karamoy](https://open.spotify.com/artist/51SqnSkMmAUVzelwhmsitL) | [Jatuh Sendiri](https://open.spotify.com/album/6vwMXeJzNiM6V50HLVwF6n) | 3:09 | 2024-11-28 | 2025-05-09 |
 | [Jauh Dan Rindu](https://open.spotify.com/track/1q34iRuh8bA0cZnwPztL01) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Jauh Dan Rindu](https://open.spotify.com/album/1O3xCjClAfuXAjJTP54Rqc) | 4:03 | 2024-10-24 | 2024-11-29 |
+| [Jejak Waktu](https://open.spotify.com/track/3FUaSd3UmANkguA5vlVCRv) | [Black Horses](https://open.spotify.com/artist/4VNWpDTZPmxLDRDomV7HTI) | [Jahanam](https://open.spotify.com/album/7mn7WGP27dWPhYfHGo7Myf) | 4:57 | 2026-05-14 |  |
 | [Jerih Penat](https://open.spotify.com/track/2TRl0xZRrqCDwgS5iayBXx) | [Syifa Mahirah](https://open.spotify.com/artist/1ZvFdGH1sdzN3wB7CcS4Zk) | [Jerih Penat](https://open.spotify.com/album/37RlA5c0vWSn05SkfgE77e) | 3:44 | 2026-02-19 | 2026-05-09 |
 | [Jika Bukan Karenamu](https://open.spotify.com/track/7iVUpVWUKjUnYAd8vnH24P) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Jika Bukan Karenamu](https://open.spotify.com/album/0AUUtiiCcjBj27ncscvyjK) | 3:18 | 2025-07-24 | 2026-02-13 |
 | [Jika Cinta Dia \- Love Recalls Version](https://open.spotify.com/track/3V2l5oSSdcna93pRw1OgQV) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Love Recalls](https://open.spotify.com/album/7hfFSGo473KD4F40JLxA9A) | 4:20 | 2024-07-04 | 2024-11-22 |
@@ -450,6 +452,7 @@
 | [Lepas Pegangan](https://open.spotify.com/track/6HlPJ9EhmA6CgBD4Ke5AeG) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Lepas Pegangan](https://open.spotify.com/album/5WOKeopcxaXQPkEjUJrX6q) | 3:15 | 2025-09-18 | 2025-10-31 |
 | [Lewat Semesta \- OST\. TABAYYUN](https://open.spotify.com/track/4p30SyLpRQVG3NnydGSDnu) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Lewat Semesta \(OST\. TABAYYUN\)](https://open.spotify.com/album/2zGRJnutXLCACHo3LAt5ob) | 4:07 | 2025-02-06 | 2025-08-16 |
 | [Liang Yang Sama](https://open.spotify.com/track/0m4X8CX1iGMA2SGoi9FL18) | [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC), [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [Liang Yang Sama](https://open.spotify.com/album/4f0IOqaK5A5HdURObwwdFL) | 4:07 | 2025-05-16 | 2025-07-11 |
+| [Lihat Aku](https://open.spotify.com/track/1pTSChKO2uEDkCQ46o9nlz) | [ARDHITIO](https://open.spotify.com/artist/2zOuTsIUlWngXiShXxqzRk), [Pika Iskandar](https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo) | [Lihat Aku](https://open.spotify.com/album/4fjmtsIzN1G0qC7BlfGFdw) | 3:35 | 2026-05-14 |  |
 | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 | 2025-09-19 |  |
 | [Lihat Saja Nanti](https://open.spotify.com/track/15xxsm2qdanGPhzBCmVRXA) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Lihat Saja Nanti](https://open.spotify.com/album/0osKTPgd5Z9JGk6yja3nD0) | 3:19 | 2024-10-10 | 2024-11-29 |
 | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/album/5EJQZDCytmNnMZK3uZYy75) | 4:27 | 2024-12-05 | 2025-09-26 |
@@ -473,6 +476,7 @@
 | [Malam Tolong Sampaikan](https://open.spotify.com/track/6SgC81ohpNeR4Mxne8B3Oh) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Malam Tolong Sampaikan](https://open.spotify.com/album/5roabvYPq1EIjBRoBXlPu8) | 3:33 | 2024-06-27 | 2024-09-13 |
 | [Malu](https://open.spotify.com/track/0XT1eIQ04pRmwt87w03TFi) | [Obbie Messakh](https://open.spotify.com/artist/6S40FdKeiCsGHth3mulKl6) | [Malu](https://open.spotify.com/album/0M3fIUJhwsiG6yn8FIaUs2) | 4:35 | 2026-05-01 |  |
 | [Mampu Tanpamu](https://open.spotify.com/track/1z49jujlAN8qOAa1edC2Qx) | [Ongky Muntazar](https://open.spotify.com/artist/3kaNdtI2vRruVrlUxtJPnc) | [Mampu Tanpamu](https://open.spotify.com/album/6h7LAAl1qoL3gO94ewlEHP) | 4:17 | 2024-09-19 | 2024-12-13 |
+| [MANTRA \- English Version](https://open.spotify.com/track/2r2KDhFf8vcEAgo9zVWMxK) | [Drive](https://open.spotify.com/artist/1DgveZI0VAdnZxNiEsZPuF) | [MANTRA \(English Version\)](https://open.spotify.com/album/1d6hyXGs01JfHrP4rnxfDW) | 3:51 | 2026-05-14 |  |
 | [Mantra Uang](https://open.spotify.com/track/0uw354IeZNXlCQXHYc5pPU) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Mantra Uang](https://open.spotify.com/album/2h2XuTJMCi7Ss2DKyZD9bR) | 2:36 | 2024-06-27 | 2024-10-11 |
 | [Manusia Paling Menyebalkan](https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Manusia Paling Menyebalkan](https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz) | 3:09 | 2024-07-11 | 2025-01-10 |
 | [Masih Ada Hari](https://open.spotify.com/track/7eKSVZkUEySWCc8i9fLESb) | [Gracilya](https://open.spotify.com/artist/4hPx5Nton09msHxLh4Xlwq) | [Masih Ada Hari](https://open.spotify.com/album/7GB7mKELK4RaikKmdmhFKU) | 3:37 | 2026-02-19 |  |
@@ -777,6 +781,7 @@
 | [Sombar](https://open.spotify.com/track/0AQoBIdCoGCDweuMjpkV4q) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Sombar](https://open.spotify.com/album/5cnGHL4CHBibmXnIQAHtAg) | 4:36 | 2026-04-09 |  |
 | [something about you](https://open.spotify.com/track/15YMi1fS4AFTME9bKD9MzZ) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [something about you](https://open.spotify.com/album/1BAfEPPiyIrzglzOqdtPra) | 4:17 | 2025-05-15 | 2025-07-11 |
 | [Still With You](https://open.spotify.com/track/43QWYyR2ShP5cITFTTFvZP) | [Kartika Wang](https://open.spotify.com/artist/2QQLZwFwB7z5EuPgEbFOGj) | [Still With You](https://open.spotify.com/album/2VIUP1UUEvLlqJnC1gJQcr) | 3:51 | 2025-06-05 | 2025-08-16 |
+| [Stop Bilang Iya](https://open.spotify.com/track/6Klr3EiAe7M0djc2eEx5fZ) | [DIKTA.](https://open.spotify.com/artist/5wRhCuhUmcR8EIpyud29nE) | [Unapologetic](https://open.spotify.com/album/6L4krj81zS3DzFJIBGbm3G) | 3:46 | 2026-05-14 |  |
 | [Strategi](https://open.spotify.com/track/2vaYXTUux8AWI8miWBzNTa) | [Maisha Kanna](https://open.spotify.com/artist/4E46R3KgyeZmiJjeCaCQze) | [Katanya Bahagia Jatuh Cinta](https://open.spotify.com/album/1SpKCPTTtjTZDSRGW8tc7l) | 3:17 | 2025-08-08 | 2025-10-03 |
 | [Suamiku](https://open.spotify.com/track/5L6ydpf6e8upEYWBpBGggs) | [Astrid Kuya](https://open.spotify.com/artist/1GkXjvYeaQiWD4KwZVw5PY) | [Suamiku](https://open.spotify.com/album/1rEERVVGC49VgTHStK8U2l) | 4:02 | 2024-07-05 | 2024-09-06 |
 | [Suara Dalam Kepala \(Feat\. Ramengvrl\)](https://open.spotify.com/track/4Ep077zYziACE6aJBN6w7L) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Suara Dalam Kepala \(Feat\. Ramengvrl\)](https://open.spotify.com/album/2p1ODeT3tNEeqkupAElZZW) | 4:07 | 2025-02-20 | 2025-09-26 |
@@ -894,6 +899,7 @@
 | [Tuning Song](https://open.spotify.com/track/7dkKAIazTL7e2FwMuQIDY3) | [AMBARILA](https://open.spotify.com/artist/4bz5OZTEtiOvaBN1oI0Efc) | [Tuning Song](https://open.spotify.com/album/7xRSobNMP0ghOSlFSsSKot) | 2:43 | 2025-05-08 | 2025-05-30 |
 | [UH! \(ghosted\)](https://open.spotify.com/track/3RGfTflTIJQMDY28yUsfKw) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR), [Saykoji](https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ) | [UH! \(ghosted\)](https://open.spotify.com/album/46wz8M1IRfe345WlsIp5IF) | 3:14 | 2025-04-03 | 2025-06-06 |
 | [Ulurkan](https://open.spotify.com/track/0lXjMEFfyD6aXWT5T2l9bv) | [Bragi](https://open.spotify.com/artist/0sKPWtHbmPXRBZDocnmjNG), [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Ulurkan](https://open.spotify.com/album/4QTM1LD57CyUbGs8DltyBG) | 3:30 | 2024-09-05 | 2024-10-11 |
+| [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 | 2026-05-14 |  |
 | [Untuk Dikenang](https://open.spotify.com/track/3ysXeMcA70M7v5fJXywJJR) | [Pongki Barata](https://open.spotify.com/artist/4FTaeFBX07JxJ5hIFFvack), [The Dangerous Band](https://open.spotify.com/artist/6ESLP0LzmoAcDZd8ILvitQ) | [Untuk Dikenang](https://open.spotify.com/album/2DhwbTaWboVQqGiqTAjacK) | 3:50 | 2024-09-05 | 2025-01-10 |
 | [Untuk Selalu Senang](https://open.spotify.com/track/7d5MSiGff1HYAvjVdQkhmh) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Kini & Sampai Kapanpun](https://open.spotify.com/album/0ikkz9CCu9uM54Mcguh1rA) | 4:11 | 2025-01-16 | 2025-07-11 |
 | [Untukmu](https://open.spotify.com/track/2LUBuAQHbXYet792SqD1L5) | [Danyannisa](https://open.spotify.com/artist/2AWnRV889vjq7HLW6kEOVW) | [Untukmu](https://open.spotify.com/album/0NaEN66fsELpbLDHg7Spnp) | 3:03 | 2024-07-04 | 2024-12-13 |

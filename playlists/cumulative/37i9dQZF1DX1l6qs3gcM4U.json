@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Live At Est\u00e1dio Da Luz",
+        "url": "https://open.spotify.com/album/5ReFJGk0OIwMgPJTMOVSy0"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407423,
+      "name": "A Nossa Dan\u00e7a - Live At Est\u00e1dio Da Luz",
+      "url": "https://open.spotify.com/track/5YlT0JXamR3yG0F0W20SgP"
+    },
+    {
+      "album": {
         "name": "A.N.V.",
         "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
       },
@@ -1684,6 +1702,28 @@
       "duration_ms": 195529,
       "name": "Bom Dia",
       "url": "https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB"
+    },
+    {
+      "album": {
+        "name": "Bom Filho",
+        "url": "https://open.spotify.com/album/4OFcsZwg3WWxkFsvaAdmpo"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Yuri da Cunha",
+          "url": "https://open.spotify.com/artist/5Qw3RHD3R95D98alngBJOZ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209737,
+      "name": "Bom Filho",
+      "url": "https://open.spotify.com/track/0bGcdVR9qPOSbrgKjM0WWT"
     },
     {
       "album": {
@@ -3350,7 +3390,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 309648,
       "name": "Dis-Le Moi - Live At Est\u00e1dio Da Luz",
       "url": "https://open.spotify.com/track/65sXcoJbkIJxhrdBH3AlEK"
@@ -6398,7 +6438,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 176770,
       "name": "Mais Nada",
       "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"

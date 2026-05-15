@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: F3miii",
+  "description": "New tunes from Ireland for your discovery. Cover: THEATRE",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 179671,
       "name": "21",
       "url": "https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE"
@@ -1484,6 +1484,28 @@
       "duration_ms": 248500,
       "name": "Cold",
       "url": "https://open.spotify.com/track/20d5r7dJunyrLNXZlv7jP5"
+    },
+    {
+      "album": {
+        "name": "Come & See",
+        "url": "https://open.spotify.com/album/0DuP3lkParVjOhuhBiGuV9"
+      },
+      "artists": [
+        {
+          "name": "Kayleigh Noble",
+          "url": "https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH"
+        },
+        {
+          "name": "Solocoan",
+          "url": "https://open.spotify.com/artist/6mXsXWRSwL3TDPk5sxNuXX"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222305,
+      "name": "Come & See",
+      "url": "https://open.spotify.com/track/2cnvQj0VrdbjQnDbj3tF3D"
     },
     {
       "album": {

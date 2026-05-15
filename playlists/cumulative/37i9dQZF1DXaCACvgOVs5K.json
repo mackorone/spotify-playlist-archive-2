@@ -747,6 +747,28 @@
     },
     {
       "album": {
+        "name": "Back to the Old School",
+        "url": "https://open.spotify.com/album/4zqG45IJIbuMfAu4p2TILM"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371321,
+      "name": "Back to the Old School",
+      "url": "https://open.spotify.com/track/2GcRQo1iIfDGvg4FBgsrU6"
+    },
+    {
+      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
       },
@@ -788,6 +810,28 @@
       "duration_ms": 225250,
       "name": "Bad Habit - Cl\u00fcb De Combat Remix",
       "url": "https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D"
+    },
+    {
+      "album": {
+        "name": "Bad Wolf (feat. UNIIQU3)",
+        "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185954,
+      "name": "Bad Wolf (feat. UNIIQU3)",
+      "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
     },
     {
       "album": {
@@ -1932,7 +1976,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169250,
       "name": "Danca",
       "url": "https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk"
@@ -3823,6 +3867,44 @@
     },
     {
       "album": {
+        "name": "Groovejet (If This Ain\u2019t Love) [not without friends Remix]",
+        "url": "https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF"
+      },
+      "artists": [
+        {
+          "name": "Spiller",
+          "url": "https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb"
+        },
+        {
+          "name": "not without friends",
+          "url": "https://open.spotify.com/artist/2KAgMiCIqPHTA04WRNrhWg"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        },
+        {
+          "name": "Jordan Brando",
+          "url": "https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO"
+        },
+        {
+          "name": "William Kiss",
+          "url": "https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180362,
+      "name": "Groovejet (If This Ain\u2019t Love) - not without friends Remix",
+      "url": "https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV"
+    },
+    {
+      "album": {
         "name": "Orbital 2",
         "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
       },
@@ -4846,7 +4928,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 178110,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/01UTKNFPC5tyXu0XNI3X3d"
@@ -5965,6 +6047,36 @@
     },
     {
       "album": {
+        "name": "Mi Combi EP",
+        "url": "https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd"
+      },
+      "artists": [
+        {
+          "name": "Ollie BC",
+          "url": "https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ"
+        },
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        },
+        {
+          "name": "Dany Gomez",
+          "url": "https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt"
+        },
+        {
+          "name": "EMBI",
+          "url": "https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "Mi Combi",
+      "url": "https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc"
+    },
+    {
+      "album": {
         "name": "Mind, Body & Soul",
         "url": "https://open.spotify.com/album/6nBOwBr4EULU9wXzzImmNI"
       },
@@ -6264,7 +6376,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 273956,
       "name": "My Soul",
       "url": "https://open.spotify.com/track/7KCUvLNglwYUvYoMjKullD"
@@ -7446,7 +7558,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 156850,
       "name": "Restless",
       "url": "https://open.spotify.com/track/6NGgmMjUaqD8dAM2lszTPI"
@@ -8876,7 +8988,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 205161,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/729gvORm05JlcZ9b2S7hti"
@@ -9988,6 +10100,28 @@
       "duration_ms": 163890,
       "name": "Watch Out Now",
       "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
+    },
+    {
+      "album": {
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/5sKUassx36dd58XdIp7GEP"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Dodi",
+          "url": "https://open.spotify.com/artist/4EnqNMAlxI4dewzlGdBCTE"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213809,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/1VRtFiC2jmfXzhbjA1PDZW"
     },
     {
       "album": {

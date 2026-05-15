@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38259,
+  "num_followers": 38265,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACcdnBqCSs9SQEAJIaYMb6S",
+  "snapshot_id": "agO/AAAAAACgZZY7MvF5ufVIlJrqDgqk",
   "tracks": [
     {
       "added_at": null,
@@ -343,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRODUCT",
-        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
+        "name": "1,2,3 dayz up",
+        "url": "https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt"
       },
       "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 126686,
-      "name": "UNISIL",
-      "url": "https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM"
+      "duration_ms": 213678,
+      "name": "1,2,3 dayz up",
+      "url": "https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas"
     },
     {
       "added_at": null,
@@ -375,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "1,2,3 dayz up",
-        "url": "https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt"
+        "name": "PRODUCT",
+        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
       },
       "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 213678,
-      "name": "1,2,3 dayz up",
-      "url": "https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas"
+      "duration_ms": 126686,
+      "name": "UNISIL",
+      "url": "https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM"
     },
     {
       "added_at": null,

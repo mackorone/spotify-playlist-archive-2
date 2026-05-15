@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 
 > Nosotros ponemos la música y tú los pasos ;\)<br/>Can't stop, won't stop dancing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,820,190 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,820,112 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 75 | [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 |
 | 76 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 |
 | 77 | [Beto’s Horns \- fred remix](https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [Beto’s Horns \(fred remix\)](https://open.spotify.com/album/4CC0Q6wTtZ15OWHtNTGvnU) | 3:46 |
-| 78 | [LA NENA](https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LA NENA](https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw) | 3:20 |
-| 79 | [VISTA AL MAR](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [VISTA AL MAR](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 |
+| 78 | [VISTA AL MAR](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [VISTA AL MAR](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 |
+| 79 | [LA NENA](https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LA NENA](https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw) | 3:20 |
 | 80 | [Cohete](https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 |
 | 81 | [Corazón Partío](https://open.spotify.com/track/2LPDdnXn13fw5JmIemG4VE) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG) | [Corazón Partío](https://open.spotify.com/album/5zFpjiEauzmd0quSZxEXpy) | 3:15 |
 | 82 | [DESATAAA](https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [DESATAAA](https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 
 > The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,763 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,965 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 42 | [Double Dare Ya](https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:40 |
 | 43 | [The Bow](https://open.spotify.com/track/50ZE3JmXxdylxW9Kikg07N) | [Niis](https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X) | [NIIS WORLD](https://open.spotify.com/album/6j1pjKXLri5eYuBjjW4Vul) | 2:51 |
 | 44 | [Bruise Violet](https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 2:52 |
-| 45 | [Modern Girl](https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 3:01 |
-| 46 | [Second Skin \- 2024 Remaster](https://open.spotify.com/track/4Rvwe2nPrL4QiylcSD6lcy) | [The Gits](https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m) | [Frenching The Bully \(2024 Remaster\)](https://open.spotify.com/album/0unK1ttNt8xgj6bU0cMo2t) | 2:51 |
+| 45 | [Second Skin \- 2024 Remaster](https://open.spotify.com/track/4Rvwe2nPrL4QiylcSD6lcy) | [The Gits](https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m) | [Frenching The Bully \(2024 Remaster\)](https://open.spotify.com/album/0unK1ttNt8xgj6bU0cMo2t) | 2:51 |
+| 46 | [Modern Girl](https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 3:01 |
 | 47 | [Identity](https://open.spotify.com/track/7oMsD1x3pV1nLm26p8Q914) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 2:25 |
 | 48 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 |
 | 49 | [Sweet '69](https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Nemesisters](https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL) | 4:04 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 55 | [One More Hour](https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 3:19 |
 | 56 | [Joy](https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 2:53 |
 | 57 | [Unbeschreiblich Weiblich](https://open.spotify.com/track/4dzQVQl0NKLseUq5arIw0W) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj), [Spliff](https://open.spotify.com/artist/47U0ujLT2qD3wSOGl5WDth) | [Nina Hagen Band](https://open.spotify.com/album/0xhbRH15usL0err9cL56Dx) | 3:30 |
-| 58 | [Special](https://open.spotify.com/track/0mXI7POSEk4jRlIH0R0VAv) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 2:57 |
-| 59 | [Worldwide](https://open.spotify.com/track/05TRbrINOYAeoOCRy4jbMW) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 2:34 |
+| 58 | [Worldwide](https://open.spotify.com/track/05TRbrINOYAeoOCRy4jbMW) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 2:34 |
+| 59 | [Special](https://open.spotify.com/track/0mXI7POSEk4jRlIH0R0VAv) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 2:57 |
 | 60 | [Across The Line](https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [The Refrigerator](https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR) | 3:19 |
 | 61 | [Libel](https://open.spotify.com/track/62bgpXZkqvbKNwSx0LXyit) | [Tilt](https://open.spotify.com/artist/71nmu8vx7OHvivVKv3dIRq) | ['Til It Kills](https://open.spotify.com/album/07G1rWGaIb0iD4N6YaH2wW) | 2:22 |
 | 62 | [Terrorist](https://open.spotify.com/track/5svfeW2c5FttYvj2IB5Gq6) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [Calculated](https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB) | 1:57 |
@@ -97,13 +97,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 87 | [Need](https://open.spotify.com/track/27ZihatzlzN9p9kQ31uwo1) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [All That Is Over](https://open.spotify.com/album/6VcqAGR33EiDjGZmWgQSpY) | 2:40 |
 | 88 | [DOOMTOWN](https://open.spotify.com/track/1cLUvmoOfRZYbTedbeB9nC) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [DOOMTOWN](https://open.spotify.com/album/79TiaJjwfwiay0vdDwwa5y) | 3:18 |
 | 89 | [I Don't Mind It](https://open.spotify.com/track/4azLr54wMnoayzplNpQpRh) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Castle Talk](https://open.spotify.com/album/4lUYpT7Ksnyn2TtLMJ6Nr8) | 3:26 |
-| 90 | [Hurricane](https://open.spotify.com/track/3rMCQpwLtAMKwDlgjPrysO) | [The Coathangers](https://open.spotify.com/artist/7INFKsainUv68DHVbuLh4J) | [Larceny & Old Lace](https://open.spotify.com/album/5Bu8QKUFumC4uywqYqmN5P) | 2:32 |
-| 91 | [The Surface](https://open.spotify.com/track/7FXfrpdWGdjjZZt1pJ1RbM) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Cerebral Circus](https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss) | 1:55 |
+| 90 | [The Surface](https://open.spotify.com/track/7FXfrpdWGdjjZZt1pJ1RbM) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Cerebral Circus](https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss) | 1:55 |
+| 91 | [Hurricane](https://open.spotify.com/track/3rMCQpwLtAMKwDlgjPrysO) | [The Coathangers](https://open.spotify.com/artist/7INFKsainUv68DHVbuLh4J) | [Larceny & Old Lace](https://open.spotify.com/album/5Bu8QKUFumC4uywqYqmN5P) | 2:32 |
 | 92 | [We Are the One](https://open.spotify.com/track/6o16JFxoLZbrKCdlkC36e0) | [The Avengers](https://open.spotify.com/artist/7eSvd8I9IvSXvz5DhbJ7Oe) | [The American in Me](https://open.spotify.com/album/2YsJTJdqKhc0g9FN6p3bFE) | 2:38 |
 | 93 | [FUU](https://open.spotify.com/track/0suF9QVCRfwx0yltoiO6Z3) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:50 |
-| 94 | [Savage](https://open.spotify.com/track/0m4r5bLIF9pZrc50oh0N38) | [The Nuns](https://open.spotify.com/artist/4lbdX52isOilRhdB9Zzs1y) | [The Nuns](https://open.spotify.com/album/1oCCvYac2MIYPX4fFJK6iD) | 2:17 |
-| 95 | [You're All Talk](https://open.spotify.com/track/56laQa3PukNJ9Fg9k0bP4E) | [The Pandoras](https://open.spotify.com/artist/1IHit5q4Ut9MlbGZUZY94D) | [Stop Pretending](https://open.spotify.com/album/2TZAqOOjAs5lw5iUq2p3sB) | 2:52 |
-| 96 | [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 |
+| 94 | [You're All Talk](https://open.spotify.com/track/56laQa3PukNJ9Fg9k0bP4E) | [The Pandoras](https://open.spotify.com/artist/1IHit5q4Ut9MlbGZUZY94D) | [Stop Pretending](https://open.spotify.com/album/2TZAqOOjAs5lw5iUq2p3sB) | 2:52 |
+| 95 | [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 |
+| 96 | [Savage](https://open.spotify.com/track/0m4r5bLIF9pZrc50oh0N38) | [The Nuns](https://open.spotify.com/artist/4lbdX52isOilRhdB9Zzs1y) | [The Nuns](https://open.spotify.com/album/1oCCvYac2MIYPX4fFJK6iD) | 2:17 |
 | 97 | [Sofa Bed](https://open.spotify.com/track/7AFlvs5nqulxTRq06NLCBx) | [CHERYM](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Sofa Bed](https://open.spotify.com/album/0e1vkBegA6Xe1RBE3urE9P) | 3:03 |
 | 98 | [Twist Barbie](https://open.spotify.com/track/0cLMJ6Ajl5G2Av6PSu8xhM) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Burning Farm](https://open.spotify.com/album/30e1Zd04RWU9KVMwCrYiO6) | 2:32 |
 | 99 | [Resurrection](https://open.spotify.com/track/63tZNnEOTwXWzsWmBcKjZf) | [Vice Squad](https://open.spotify.com/artist/2bnpJ3162H9AjVDukIheOn) | [The Complete Punk Singles Collection](https://open.spotify.com/album/1lghAJ2RV4kjRwTqLa4M9Q) | 4:03 |

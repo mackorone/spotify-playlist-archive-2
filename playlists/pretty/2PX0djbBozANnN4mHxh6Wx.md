@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > Playlist artwork by: @mun15h on Instagram
 
-[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,116 likes - 528 songs - 1 day 7 hr 33 min
+[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,115 likes - 528 songs - 1 day 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 99 | [Brian is the Most Beautiful](https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:45 |
 | 100 | [二十歳の恋](https://open.spotify.com/track/1EA40FX9aBaKIXwIp83WzL) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 3:13 |
 | 101 | [backroom labyrinth](https://open.spotify.com/track/0HRk2U8OCDkS2asQEt22wf) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [backroom labyrinth](https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk) | 2:48 |
-| 102 | [The Soundtrack of Life \- Toy Bunny Mix](https://open.spotify.com/track/2OCLztb0Dq1c5fEFkDuPNr) | [The Gentle People](https://open.spotify.com/artist/1NFClhjZTIZ4L3pRabzO2O) | [Mix Gently](https://open.spotify.com/album/3dNQKAGnGaCVNaVUbEClmI) | 2:56 |
+| 102 | [The Soundtrack of Life \- Toy Bunny Mix](https://open.spotify.com/track/2OCLztb0Dq1c5fEFkDuPNr) | [The Gentle People](https://open.spotify.com/artist/0wVm8mZ61H5ISdKnq0Ebx9) | [Mix Gently](https://open.spotify.com/album/3dNQKAGnGaCVNaVUbEClmI) | 2:56 |
 | 103 | [Binc Rinse Repeat](https://open.spotify.com/track/5luq59NWWmlMrLzJ5g6W3n) | [Naked Flames](https://open.spotify.com/artist/0Fo0RXDFwKNycMr51q0dAP) | [Binc Rinse Repeat](https://open.spotify.com/album/136HuAmuK2NFWZt6ULEtES) | 7:50 |
 | 104 | [Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 2:58 |
 | 105 | [TICTAC](https://open.spotify.com/track/3M1RQSSxQiZs8fooz4Qo0y) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [L.D.K\. Lounge Designers Killer](https://open.spotify.com/album/2QKJQBS7ElKCcq7GoE601a) | 2:30 |

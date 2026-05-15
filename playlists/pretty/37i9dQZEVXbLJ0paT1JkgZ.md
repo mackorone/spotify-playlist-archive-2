@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,719 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,727 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [WO OH OH](https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:29 |
 | 50 | [HOTEL](https://open.spotify.com/track/72Cp6EZ55iI9ZyO7WEBZtr) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [JEREMIAS](https://open.spotify.com/album/3DShOnGU64m1mESFNJoOA0) | 3:10 |
 
-Snapshot ID: `MZft0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MZk/UAAAAAAAAAAAAAAAAAAAAAAAAGVu`

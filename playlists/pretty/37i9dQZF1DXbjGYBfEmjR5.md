@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,844 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,874 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 36 | [Starlight](https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0) | [Andora](https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi) | [Starlight](https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi) | 3:03 |
 | 37 | [The Way U Make Me Feel](https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Cyber Love](https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT) | 2:29 |
 | 38 | [Sunset](https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [Metro City](https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv) | 2:40 |
-| 39 | [Dancefloor Sneakers](https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Beaches](https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y) | 2:08 |
-| 40 | [Sailor Saturn](https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [SAILORWAVE III](https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V) | 2:44 |
+| 39 | [Sailor Saturn](https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [SAILORWAVE III](https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V) | 2:44 |
+| 40 | [Dancefloor Sneakers](https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Beaches](https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y) | 2:08 |
 | 41 | [Anita](https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:16 |
 | 42 | [Ganbare](https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:03 |
 | 43 | [I Chose Wrong](https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [I Chose Wrong](https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE) | 2:52 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 96 | [Enigma](https://open.spotify.com/track/4vPvragqcYmYWwMELVmi17) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Enigma](https://open.spotify.com/album/71BDDT4vAMTa9gPZh96kbJ) | 3:17 |
 | 97 | [Daydream](https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU) | [Daydream](https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki) | 5:03 |
 | 98 | [Bbrown](https://open.spotify.com/track/21JcSs9Zkdc2kuNzoLBcbz) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Pleasure](https://open.spotify.com/album/0AMbhzgFEcmVj46N9TPGmU) | 3:38 |
-| 99 | [Just a Little](https://open.spotify.com/track/4CqwRPsNgnrs05KGY2MXks) | [Amherst](https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU) | [Kudatah, Vol\. 1](https://open.spotify.com/album/0j21NLeNyi3QtU1Y8XJE7l) | 3:13 |
-| 100 | [Sua Noite](https://open.spotify.com/track/1F2LUInQ9RwsTShO88HFYH) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Sua Noite](https://open.spotify.com/album/6YXNb4NfVrdQn0aKnW7sEx) | 2:22 |
+| 99 | [Sua Noite](https://open.spotify.com/track/1F2LUInQ9RwsTShO88HFYH) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Sua Noite](https://open.spotify.com/album/6YXNb4NfVrdQn0aKnW7sEx) | 2:22 |
+| 100 | [Just a Little](https://open.spotify.com/track/4CqwRPsNgnrs05KGY2MXks) | [Amherst](https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU) | [Kudatah, Vol\. 1](https://open.spotify.com/album/0j21NLeNyi3QtU1Y8XJE7l) | 3:13 |
 
 Snapshot ID: `AAAAALeEMQ4u4g+tJ+p11F/YOMDp0VtG`

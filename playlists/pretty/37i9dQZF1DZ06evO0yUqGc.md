@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 
 > This is Lily Allen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,671 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,678 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Smile](https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:16 |
+| 1 | [Smile](https://open.spotify.com/track/3NK28cXAkO5JIM7YOiCQAx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 3:16 |
 | 2 | [Tennis](https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:30 |
 | 3 | [True Love \(feat\. Lily Allen\)](https://open.spotify.com/track/1QNqrsNQ1JVLEwncov3lEY) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 3:50 |
 | 4 | [Somewhere Only We Know](https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:28 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 16 | [Dream A Little Dream](https://open.spotify.com/track/5fZaORfoLqj4fIRqbHA9Bz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Swings Both Ways \(Deluxe Edition\)](https://open.spotify.com/album/4yY8NL5zw83iBAvqVuUAL4) | 3:33 |
 | 17 | [22](https://open.spotify.com/track/5RhkkWN65KEq28RpBit1Hf) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:06 |
 | 18 | [Madeline](https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:55 |
-| 19 | [Come on Then](https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:11 |
-| 20 | [Oh My God \(feat\. Lily Allen\)](https://open.spotify.com/track/0G2BtoIda45xgezQGQn8JS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:35 |
+| 19 | [Oh My God \(feat\. Lily Allen\)](https://open.spotify.com/track/0G2BtoIda45xgezQGQn8JS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:35 |
+| 20 | [Come on Then](https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:11 |
 | 21 | [Smile \- Acoustic](https://open.spotify.com/track/47Y2E9HfyU7diW5WES6vKb) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Smile](https://open.spotify.com/album/07z5Rc3vzqteBidAcjMmku) | 3:20 |
 | 22 | [Sleepwalking](https://open.spotify.com/track/0k6CuggnRkJAem9XowL1Zc) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:57 |
 | 23 | [Hard out Here](https://open.spotify.com/track/3U3BXlwNTkCx7lW9m1H9RY) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Hard out Here](https://open.spotify.com/album/1fby4GbTbNwhaWosafXOmH) | 3:31 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 41 | [Not Big](https://open.spotify.com/track/0XBrb617vdvlC4oo9rrslt) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 3:16 |
 | 42 | [Lost My Mind](https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:47 |
 | 43 | [He Wasn't There](https://open.spotify.com/track/3DvREgY2Bhl5hpEzkgloYH) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0) | 2:51 |
-| 44 | [Take What You Take](https://open.spotify.com/track/7xyvMaJZA7thwtPQv6OCbc) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 4:06 |
+| 44 | [Nan You're a Window Shopper](https://open.spotify.com/track/0Bf2zCGV0yUNSxMC5gpxkJ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 2:59 |
 | 45 | [Family Man](https://open.spotify.com/track/2djUvMKV5x0sUAPdbk4HlJ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:38 |
 
-Snapshot ID: `agJtgAAAAADJLerUUBi4tvJmdrwqCK8x`
+Snapshot ID: `agO/AAAAAABzZzWl8dEsIw33TIZfw+UG`

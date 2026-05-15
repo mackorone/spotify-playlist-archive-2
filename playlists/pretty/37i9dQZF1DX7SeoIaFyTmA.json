@@ -1,6 +1,6 @@
 {
   "description": "Timeless Salsa from your favorite legends.",
-  "num_followers": 1523264,
+  "num_followers": 1523521,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
-        "name": "Voy Pa'Encima",
-        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
         "name": "Determination",
         "url": "https://open.spotify.com/album/3mK3WV1mMPficcGR6WmhCK"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 426840,
       "name": "V\u00e1monos Pa'l Monte",
       "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
+        "name": "Voy Pa'Encima",
+        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
     },
     {
       "added_at": "2025-03-07 05:00:25",

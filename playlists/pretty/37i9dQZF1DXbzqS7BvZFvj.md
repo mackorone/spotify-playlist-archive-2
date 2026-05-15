@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Nemzzz, Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,934 likes - 78 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,941 likes - 78 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
+| 1 | [GEEKIN](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
 | 2 | [Gone](https://open.spotify.com/track/45jsFbRoGY7Wjoufgpn9zc) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [They Just Ain't You](https://open.spotify.com/album/7JxNts9ZhHN2VvQ0NKU0tj) | 3:10 |
 | 3 | [Game On \(ft\. JT\)](https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Sugar Girl](https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI) | 2:29 |
 | 4 | [GOMF \(feat\. GloRilla\)](https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GOMF \(feat\. GloRilla\)](https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO) | 2:29 |

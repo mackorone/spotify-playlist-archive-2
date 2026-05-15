@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 寒い冬は心を暖めるハートフルな楽曲をお供に。あなたの日々に音楽を。
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,377 likes - 99 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,373 likes - 99 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 40 | [LOVER SOUL](https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [POP LIFE](https://open.spotify.com/album/2jb27PDgg002Gnfo357dwv) | 6:01 |
 | 41 | [BLIZZARD](https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [NO SIDE](https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK) | 4:33 |
 | 42 | [0℃の日曜](https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [ALLSEASON EP.](https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L) | 4:10 |
-| 43 | [ホットレモン \- Remix](https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [ホットレモン \(feat\. SKRYU\) \[Remix\]](https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q) | 2:33 |
-| 44 | [プライマル](https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [プライマル](https://open.spotify.com/album/5fWcpMjZtpv1lc74m62bwm) | 4:52 |
+| 43 | [プライマル](https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [プライマル](https://open.spotify.com/album/5fWcpMjZtpv1lc74m62bwm) | 4:52 |
+| 44 | [ホットレモン \- Remix](https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [ホットレモン \(feat\. SKRYU\) \[Remix\]](https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q) | 2:33 |
 | 45 | [怪獣の腕のなか](https://open.spotify.com/track/6MqrpdDa19FOxnhWfPsCgo) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [猫とアレルギー](https://open.spotify.com/album/42G6RaP6sG7YOPYSyOFkkK) | 3:44 |
 | 46 | [ゆれる](https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [ひとつになるとき](https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA) | 4:59 |
 | 47 | [クリスマスキャロルの頃には](https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [稲垣潤一25周年ベスト Rainy Voice](https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of) | 4:29 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 53 | [なごり雪](https://open.spotify.com/track/3ntXrq0GLtqddVD6Mais9H) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q), [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [福耳 THE BEST ACOUSTIC WORKS](https://open.spotify.com/album/6oH1VVOsOcDEEhhVbdCP6a) | 3:22 |
 | 54 | [come again](https://open.spotify.com/track/3doATATHVivzB3EJqZS1eG) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [come again](https://open.spotify.com/album/3F2tl8EfQSECkcoGc4304e) | 5:54 |
 | 55 | [いい時間](https://open.spotify.com/track/3lqUSr3F8gmD7ruydRlky4) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [ひとつになるとき](https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA) | 5:37 |
-| 56 | [bestie](https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [bestie](https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb) | 4:19 |
-| 57 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 |
+| 56 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 |
+| 57 | [bestie](https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [bestie](https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb) | 4:19 |
 | 58 | [Focus](https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Focus](https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh) | 4:17 |
 | 59 | [スカーレット](https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [フェイクファー](https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc) | 3:33 |
 | 60 | [Snow Men](https://open.spotify.com/track/4EAFrjOpnbkUel0WrD9TTy) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:34 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 62 | [orion](https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [orion](https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp) | 4:43 |
 | 63 | [まっしろ](https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:57 |
 | 64 | [まっ白](https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [そうかな](https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6) | 4:23 |
-| 65 | [すてきなホリデイ](https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU) | 4:37 |
-| 66 | [ニットの帽子](https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [What's Going On?](https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7) | 4:24 |
+| 65 | [ニットの帽子](https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [What's Going On?](https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7) | 4:24 |
+| 66 | [すてきなホリデイ](https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU) | 4:37 |
 | 67 | [雪の華](https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [雪の華](https://open.spotify.com/album/1RGkN7I8uWB4832MPaBzCy) | 5:41 |
 | 68 | [You Got This](https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [You Got This](https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta) | 4:15 |
 | 69 | [SNOW SOUND](https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SNOW SOUND / 今まで君が泣いた分取り戻そう](https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj) | 4:46 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 90 | [ふれあうだけで 〜Always with you〜](https://open.spotify.com/track/0mxAShonBvdqpCTlZ1Amvu) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [FEVER](https://open.spotify.com/album/1vxnMxxHXdOtL6wYnpZGdm) | 4:06 |
 | 91 | [もうすぐ夜があける](https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf) | [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [ケモノと魔法](https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw) | 4:01 |
 | 92 | [WinterHurts \(feat\. 笠原 瑠斗\)](https://open.spotify.com/track/1a5QOzP02gtg1YxtqwuuZ6) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg), [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [WinterHurts \(feat\. 笠原 瑠斗\)](https://open.spotify.com/album/52vI57EpyKHJjTwoQiSUaf) | 3:47 |
-| 93 | [水中のメトロ](https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [水中のメトロ](https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM) | 4:21 |
-| 94 | [Winterboy](https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [Winterboy](https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA) | 4:34 |
+| 93 | [Winterboy](https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [Winterboy](https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA) | 4:34 |
+| 94 | [水中のメトロ](https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [水中のメトロ](https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM) | 4:21 |
 | 95 | [冬の予感](https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [冬の予感](https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI) | 3:21 |
 | 96 | [Unmelting Snow](https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY) | [Girls2](https://open.spotify.com/artist/7vilEuvwalwkL7OxM9UuHR) | [Unmelting Snow](https://open.spotify.com/album/1MfUL7JBk8NCMGQmuR4GWW) | 3:28 |
 | 97 | [キンモクセイ](https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2) | [キンモクセイ](https://open.spotify.com/album/7kV1hiwsXPxIEY0TlEyndU) | 3:38 |

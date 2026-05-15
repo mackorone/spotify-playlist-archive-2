@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,104 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,185 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 37 | [Stay](https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Stay](https://open.spotify.com/album/7p609zpBo0lsPEJcXlX9Jr) | 3:39 |
 | 38 | [Dhokebaaz](https://open.spotify.com/track/2QASXYEGqKhN7jnr07c9hP) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Dhokebaaz](https://open.spotify.com/album/4rcQ3AXRzfNkH8tUOz6DeF) | 4:25 |
 | 39 | [Wafa Na Raas Aayee](https://open.spotify.com/track/7rjFYm6THGNETjg3vb1Tof) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Wafa Na Raas Aayee](https://open.spotify.com/album/4SJ1Bg3UAbnkLiaqkHcwaz) | 4:48 |
-| 40 | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/track/3ZKfpGClshLqb531nJJOAm) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/album/27O9dLSmGlbtNQW6PTF7y0) | 3:44 |
-| 41 | [Tu Bhi Sataya Jayega](https://open.spotify.com/track/7Hi1FAuRxHaG9BFJNi2awE) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Tu Bhi Sataya Jayega](https://open.spotify.com/album/1a9yfMwwtq0SXmV6kGCrgx) | 4:27 |
+| 40 | [Tu Bhi Sataya Jayega](https://open.spotify.com/track/7Hi1FAuRxHaG9BFJNi2awE) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Tu Bhi Sataya Jayega](https://open.spotify.com/album/1a9yfMwwtq0SXmV6kGCrgx) | 4:27 |
+| 41 | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/track/3ZKfpGClshLqb531nJJOAm) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/album/27O9dLSmGlbtNQW6PTF7y0) | 3:44 |
 | 42 | [TERE HO KE](https://open.spotify.com/track/6MVCtoSNhJY9hTYfoF4Pst) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 3:43 |
 | 43 | [Dhokha](https://open.spotify.com/track/7K0Br5tRLkicKKpkxC5A9i) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Dhokha](https://open.spotify.com/album/4fGKGVkgIgCp54qVGXhB81) | 2:50 |
 | 44 | [Dil Lauta Do](https://open.spotify.com/track/1VfUpyKz9uN7et8t6Qhe7v) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil Lauta Do](https://open.spotify.com/album/2VfuGeouepkWV0dsSoHZD8) | 5:02 |

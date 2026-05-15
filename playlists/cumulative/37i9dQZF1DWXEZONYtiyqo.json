@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Eva Timush",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Mario",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -474,7 +474,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 153401,
       "name": "Aleg S\u0103 Z\u00e2mbesc",
       "url": "https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG"
@@ -1242,6 +1242,28 @@
       "duration_ms": 164500,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3N6AhbiagcojnXm4GiugHk"
+    },
+    {
+      "album": {
+        "name": "Better Alone",
+        "url": "https://open.spotify.com/album/6t2SDoTeLUBNWpaOisUfsy"
+      },
+      "artists": [
+        {
+          "name": "Ioana Ignat",
+          "url": "https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu"
+        },
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "Better Alone",
+      "url": "https://open.spotify.com/track/7xyQZu1eQD0L36F48B9C0w"
     },
     {
       "album": {
@@ -3056,7 +3078,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 177954,
       "name": "E ok s\u0103",
       "url": "https://open.spotify.com/track/5T1v9ItddGbLb3qBOdsVcy"
@@ -4024,7 +4046,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 153600,
       "name": "Holy",
       "url": "https://open.spotify.com/track/4I6Q4DVncrMMsuhMhwR5Di"
@@ -4522,7 +4544,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 174078,
       "name": "Iubirea na\u0219te mon\u0219tri",
       "url": "https://open.spotify.com/track/68Llxh2OxOlnbQ4jnIwCYs"
@@ -4660,6 +4682,24 @@
       "duration_ms": 179210,
       "name": "La Fel",
       "url": "https://open.spotify.com/track/52nlTHXA3CF9cuY6pUlp3E"
+    },
+    {
+      "album": {
+        "name": "La Galop",
+        "url": "https://open.spotify.com/album/6iwsY2OZxR2rahu8ALuEf3"
+      },
+      "artists": [
+        {
+          "name": "The Motans",
+          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146368,
+      "name": "La Galop",
+      "url": "https://open.spotify.com/track/7gFModOJvoGAB67GHgDF3M"
     },
     {
       "album": {
@@ -4976,7 +5016,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 153540,
       "name": "Lume",
       "url": "https://open.spotify.com/track/6tG31N8m24gUvtGpSUhDRp"
@@ -5330,6 +5370,24 @@
       "duration_ms": 171091,
       "name": "Melo",
       "url": "https://open.spotify.com/track/4J4soOlioWLA6AJ1TqlKgw"
+    },
+    {
+      "album": {
+        "name": "Mi Corazon",
+        "url": "https://open.spotify.com/album/00aGGnFbUDFkASysU0BeJw"
+      },
+      "artists": [
+        {
+          "name": "Fly Project",
+          "url": "https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150303,
+      "name": "Mi Corazon",
+      "url": "https://open.spotify.com/track/0SsPZnatOsS9HvL16wdNik"
     },
     {
       "album": {
@@ -6136,7 +6194,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 135622,
       "name": "Nu sim\u021bi o femeie",
       "url": "https://open.spotify.com/track/4tGk98DRAL2hLbdHwPHtgb"
@@ -7173,6 +7231,24 @@
     },
     {
       "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/7adp8pmNUadZK9SxbOosB9"
+      },
+      "artists": [
+        {
+          "name": "Akcent",
+          "url": "https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125465,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/4KClcAZW7purR7Cbjs17nE"
+    },
+    {
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/7KXn10FnYYqcoepIO95RdZ"
       },
@@ -7488,6 +7564,24 @@
       "duration_ms": 138857,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/7y8gBW0r70bPZaF3h9fI7x"
+    },
+    {
+      "album": {
+        "name": "Sa Danseze Fetele",
+        "url": "https://open.spotify.com/album/2fhmpks5dMP2jQ2ffOpXsP"
+      },
+      "artists": [
+        {
+          "name": "AMI",
+          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207457,
+      "name": "Sa Danseze Fetele",
+      "url": "https://open.spotify.com/track/4L6VaGjKdKpTxaIj7IKx95"
     },
     {
       "album": {
@@ -8210,6 +8304,28 @@
       "duration_ms": 196909,
       "name": "Te-am desenat",
       "url": "https://open.spotify.com/track/0Cuc3pVieq02jC2l7ReUwK"
+    },
+    {
+      "album": {
+        "name": "Temperatura",
+        "url": "https://open.spotify.com/album/7LZ43Xb79dU0zUONNrqOMH"
+      },
+      "artists": [
+        {
+          "name": "Andres Chiriac",
+          "url": "https://open.spotify.com/artist/7HlWxMwAKrMcmjOuo1vmPR"
+        },
+        {
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190099,
+      "name": "Temperatura",
+      "url": "https://open.spotify.com/track/32ciLtBal66Ng1Hohl6QLv"
     },
     {
       "album": {

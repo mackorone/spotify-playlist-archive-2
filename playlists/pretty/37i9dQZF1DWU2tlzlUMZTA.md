@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,679 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,708 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 13 | [Samjho Na](https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Samjho Na](https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B) | 2:52 |
 | 14 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
 | 15 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
-| 16 | [Dil Lagana Mana Tha](https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO) | [Dil Lagana Mana Tha](https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd) | 3:18 |
-| 17 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 |
+| 16 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 |
+| 17 | [Dil Lagana Mana Tha](https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO) | [Dil Lagana Mana Tha](https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd) | 3:18 |
 | 18 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
 | 19 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
 | 20 | [Andaaz e Karam](https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Moin](https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti), [ER](https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll) | [Andaaz e Karam](https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO) | 7:17 |

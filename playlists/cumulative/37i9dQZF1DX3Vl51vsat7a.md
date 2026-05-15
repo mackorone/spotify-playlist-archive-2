@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Magda
 
-513 songs - 1 day 2 hr 5 min
+514 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [I felt all there is to feel](https://open.spotify.com/track/4uYdwdPQQqgIdsWY43UV3o) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [I felt all there is to feel](https://open.spotify.com/album/3sRm6ZhRGz2P7826NhIcBt) | 3:22 | 2025-06-12 | 2025-08-22 |
 | [I Hate Love](https://open.spotify.com/track/0LeyCzaxWW6ashnoEiow37) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Hate Love](https://open.spotify.com/album/1kA1toYzXRZe6fZle3oLQH) | 3:12 | 2026-01-13 | 2026-05-08 |
 | [I Hate You \(So Much\)](https://open.spotify.com/track/4jOscqspgP24yNJ0jhOFRN) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [I Hate You \(So Much\)](https://open.spotify.com/album/5qR3QHS5XHa2IA4i6ujUNi) | 2:58 | 2024-07-18 | 2025-06-13 |
+| [i saw it in a dream](https://open.spotify.com/track/5CPxByKjPDgdFgNifgE4Ae) | [MDNGHT ZONE](https://open.spotify.com/artist/27lTfDEF9QvwM5Cek5tJ5z), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [i saw it in a dream](https://open.spotify.com/album/5pNDz23eMMeWYzBYIKyuAQ) | 3:20 | 2026-05-14 |  |
 | [I See Love](https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Push Life](https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4) | 2:45 | 2022-03-31 | 2023-11-10 |
 | [i see you](https://open.spotify.com/track/4FWN1eZehxMQtUDT9w9rVm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [utopia](https://open.spotify.com/album/7IHRaZLHGqnXJZ2npODrYO) | 3:35 | 2023-04-13 | 2023-10-28 |
 | [I think I lost my mind](https://open.spotify.com/track/7MVpggsOXabGLRYd6O7COl) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [I think I lost my mind](https://open.spotify.com/album/45UUOrbUghYGCTxrcezeqb) | 2:46 | 2024-06-20 | 2024-11-08 |
@@ -428,7 +429,7 @@
 | [That Girl Is Rollercoaster](https://open.spotify.com/track/1XS9BH8bASVM1Vnr8XbSzG) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Lucky Dancer](https://open.spotify.com/album/3XG7s95kEcdaNZliaIbvyL) | 3:55 | 2024-10-17 | 2024-10-25 |
 | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc) | 2:42 | 2021-12-16 | 2022-09-23 |
 | [The Great Pretender](https://open.spotify.com/track/2ci47NBNvhsfWiEzBpQC9d) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [The Great Pretender](https://open.spotify.com/album/6qSrKsU1iHSsHMVKKAN8lq) | 2:56 | 2024-11-07 | 2025-05-30 |
-| [The Only Good Thing In This City](https://open.spotify.com/track/6clLMpnHUkoHawSUn1SGod) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn) | [The Only Good Thing In This City](https://open.spotify.com/album/2b3qbzeJSVrfl64JdnOvHi) | 3:30 | 2025-07-17 |  |
+| [The Only Good Thing In This City](https://open.spotify.com/track/6clLMpnHUkoHawSUn1SGod) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn) | [The Only Good Thing In This City](https://open.spotify.com/album/2b3qbzeJSVrfl64JdnOvHi) | 3:30 | 2025-07-17 | 2026-05-15 |
 | [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 | 2023-05-18 | 2024-06-21 |
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-01-27 | 2022-04-08 |
 | [Theater★](https://open.spotify.com/track/0SGtCOR4G9fx9PQq9shKkw) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Theater★](https://open.spotify.com/album/2VqZQpC4erfX9dNVkE5AZS) | 2:35 | 2023-08-17 | 2023-09-29 |

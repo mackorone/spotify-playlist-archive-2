@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Olivia Rodrigo
+> The best tracks from the world of music\. Cover: CORTIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,446 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,409 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,19 +12,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 2 | [Sayang Orang Sama](https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Sayang Orang Sama](https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL) | 3:22 |
 | 3 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
 | 4 | [SO ASU](https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [SO ASU](https://open.spotify.com/album/00r0dUE6PBHPNVsBsddH7t) | 2:36 |
-| 5 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 |
-| 6 | [kota ini tak sama tanpamu](https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif \(laman berikutnya\)](https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC) | 4:39 |
-| 7 | [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/64qfw9JZl3RYCrq4Mn0WvT) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/1E1Sg8OtAbUNUeq7kat4KP) | 3:50 |
-| 8 | [Butterfly](https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn) | [Aufahanie](https://open.spotify.com/artist/1pAkkbRUYGfOyd1gwxnk7C) | [Butterfly](https://open.spotify.com/album/4vmEvVIRJ7I6pV5gzgaMU4) | 3:56 |
-| 9 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
-| 10 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
-| 11 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
-| 12 | [P Ramlee Saloma](https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN) | 3:18 |
-| 13 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu \(Beda\)](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 |
+| 5 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu \(Beda\)](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 |
+| 6 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
+| 7 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 |
+| 8 | [kota ini tak sama tanpamu](https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif \(laman berikutnya\)](https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC) | 4:39 |
+| 9 | [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/64qfw9JZl3RYCrq4Mn0WvT) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/1E1Sg8OtAbUNUeq7kat4KP) | 3:50 |
+| 10 | [Butterfly](https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn) | [Aufahanie](https://open.spotify.com/artist/1pAkkbRUYGfOyd1gwxnk7C) | [Butterfly](https://open.spotify.com/album/4vmEvVIRJ7I6pV5gzgaMU4) | 3:56 |
+| 11 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
+| 12 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
+| 13 | [P Ramlee Saloma](https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN) | 3:18 |
 | 14 | [Iqro'](https://open.spotify.com/track/0kOYuUZoTmaftVDaePfTIE) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [iqro'](https://open.spotify.com/album/3XqIOufqMUKfSTpzuz4ok3) | 3:54 |
-| 15 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
-| 16 | [Adek Saye Abe Sore](https://open.spotify.com/track/1EC11OC8V8duKLN71sOklm) | [Eda Ezrin](https://open.spotify.com/artist/1v964dN0qqTk4ljQZv723W), [Den Manjo](https://open.spotify.com/artist/1ctGQ3bkMQWyiblbdj1qg9) | [Adek Saye Abe Sore](https://open.spotify.com/album/0JI4Ff6aGDjNxn6n22jGkf) | 4:13 |
-| 17 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
+| 15 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
+| 16 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
+| 17 | [Adek Saye Abe Sore](https://open.spotify.com/track/1EC11OC8V8duKLN71sOklm) | [Eda Ezrin](https://open.spotify.com/artist/1v964dN0qqTk4ljQZv723W), [Den Manjo](https://open.spotify.com/artist/1ctGQ3bkMQWyiblbdj1qg9) | [Adek Saye Abe Sore](https://open.spotify.com/album/0JI4Ff6aGDjNxn6n22jGkf) | 4:13 |
 | 18 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 |
 | 19 | [SUPER EKSIS](https://open.spotify.com/track/0bJYrzP1g2tIheeK5u87KG) | [Naufal Syachreza](https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE) | [SUPER EKSIS](https://open.spotify.com/album/3qvLTnSkUrKbPNHVgiu4BG) | 2:37 |
 | 20 | [MALU MALU](https://open.spotify.com/track/4nx5dujfgjriMeQg1OWMsp) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu), [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB) | [MALU MALU](https://open.spotify.com/album/2ugCJ3D1fto6d0KcvNQVXJ) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 49 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 50 | [Bahagia Lagi](https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Bahagia Lagi](https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX) | 3:47 |
 
-Snapshot ID: `AAAAAFV1OzkYHMPnt/0k7Gm+accVNUf9`
+Snapshot ID: `AAAAAMTC6l1ImQk6kvMqmN93Ov9XchMN`

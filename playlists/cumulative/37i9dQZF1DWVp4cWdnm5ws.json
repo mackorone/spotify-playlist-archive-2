@@ -3637,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "my crush and i will crush the system baby",
+        "url": "https://open.spotify.com/album/3V7AG5cXmnhZLiEDuIVfDZ"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117176,
+      "name": "my crush and i will crush the system baby",
+      "url": "https://open.spotify.com/track/3X97K3qe31iHwbZTiib3tQ"
+    },
+    {
+      "album": {
         "name": "Labyu with an Accent (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0AYxV6cAIuHMsO22fJz2P9"
       },

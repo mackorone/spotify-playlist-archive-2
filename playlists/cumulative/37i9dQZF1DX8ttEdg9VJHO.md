@@ -4,7 +4,7 @@
 
 > Für ein bisschen mehr Leichtigkeit.
 
-158 songs - 8 hr 9 min
+161 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 | 2024-06-17 | 2026-03-21 |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2023-07-14 |  |
 | [Be Good](https://open.spotify.com/track/2qqruNZo50n4si5ngAw3iR) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Be Good](https://open.spotify.com/album/33XINeEL6MDmAypOxIuy3A) | 3:00 | 2023-07-14 | 2023-09-09 |
-| [Be The Diva](https://open.spotify.com/track/6UEDJiYCKVUMShsBISSmck) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Good On Paper](https://open.spotify.com/album/2o7SMccQvGDVsn5B09GSOq) | 3:07 | 2026-05-07 |  |
+| [Be The Diva](https://open.spotify.com/track/6UEDJiYCKVUMShsBISSmck) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Good On Paper](https://open.spotify.com/album/2o7SMccQvGDVsn5B09GSOq) | 3:07 | 2026-05-07 | 2026-05-15 |
 | [beautiful day](https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [beautiful day](https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq) | 3:03 | 2024-03-27 | 2024-04-29 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-04-24 |  |
 | [Best Night Ever](https://open.spotify.com/track/3WPLO5uBmbT050ogKdxT5C) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Best Night Ever](https://open.spotify.com/album/1fPkLLMbiHl9v9L2JyBVoJ) | 2:13 | 2023-07-14 | 2024-10-18 |
@@ -70,10 +70,11 @@
 | [Hardwired](https://open.spotify.com/track/7q2XPiBRzdyqfkpvvgF0hy) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Hardwired](https://open.spotify.com/album/3E2NA2Gv5Ycu6iwj3I5JYH) | 2:43 | 2026-04-16 | 2026-05-08 |
 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 | 2023-07-14 | 2023-10-03 |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-07-14 |  |
-| [Holiday Song](https://open.spotify.com/track/4MVVgMXCGofoegZyc9BxUW) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Holiday Song](https://open.spotify.com/album/3Zq0YnagOHR68KSq2pQ7Kr) | 2:33 | 2026-05-07 |  |
+| [Holiday Song](https://open.spotify.com/track/4MVVgMXCGofoegZyc9BxUW) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Holiday Song](https://open.spotify.com/album/3Zq0YnagOHR68KSq2pQ7Kr) | 2:33 | 2026-05-07 | 2026-05-15 |
 | [Home](https://open.spotify.com/track/1deVnQLp53JBTW2fBUthT2) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Home](https://open.spotify.com/album/3gjXbWIVRiAEkWCwNQuDLa) | 2:46 | 2024-05-10 | 2024-06-24 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-01-26 | 2024-04-19 |
 | [Houdini](https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6) | 3:05 | 2024-03-27 |  |
+| [How Beautiful This Life Is](https://open.spotify.com/track/7z8k59NKAcnwK6OOHt3i3k) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [How Beautiful This Life Is](https://open.spotify.com/album/0KYAQzaK5SAmll1FYTDNDx) | 3:14 | 2026-05-14 |  |
 | [How Many Moons](https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so) | [LUI HILL](https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS) | [How Many Moons](https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9) | 3:03 | 2023-07-14 | 2024-03-06 |
 | [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 | 2025-02-27 | 2026-02-28 |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2023-07-14 | 2023-10-21 |
@@ -124,6 +125,7 @@
 | [Pretty Boys](https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Thanks For Nothing, See You Never](https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc) | 2:20 | 2023-07-14 | 2026-02-03 |
 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 | 2023-07-14 | 2025-02-20 |
 | [Ready To Be Loved](https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ready To Be Loved](https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n) | 3:00 | 2023-07-14 |  |
+| [READY TO BLOW](https://open.spotify.com/track/6t5riyc8EaFD0FLMi8naQp) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [READY TO BLOW](https://open.spotify.com/album/7IUJIJFFdbb3Eue0m2iCGI) | 2:21 | 2026-05-14 |  |
 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 | 2023-07-14 |  |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 | 2026-03-13 |  |
 | [Remember Me](https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Remember Me](https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ) | 3:34 | 2023-07-14 | 2025-05-23 |
@@ -147,11 +149,12 @@
 | [Sweethoneylove](https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt) | [Baba Blakes](https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq) | [Sweethoneylove](https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ) | 2:30 | 2023-07-14 | 2024-12-31 |
 | [Take My Phone Away](https://open.spotify.com/track/5iIRm1NPeb4EhR6I2bKtvC) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Take My Phone Away](https://open.spotify.com/album/7I6HvzNOc1MTYHZmint1K1) | 2:26 | 2024-10-17 | 2025-01-04 |
 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 | 2023-07-14 |  |
-| [The Weekend](https://open.spotify.com/track/5ELSNOIEl2Iqq3f8MEsc8Y) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Imran](https://open.spotify.com/artist/19nLGneaqE4WS27uPmhnBv) | [Oldschool Love](https://open.spotify.com/album/6uwelipskyMH8GsmE6zbGa) | 2:34 | 2025-06-20 |  |
+| [The Weekend](https://open.spotify.com/track/5ELSNOIEl2Iqq3f8MEsc8Y) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Imran](https://open.spotify.com/artist/19nLGneaqE4WS27uPmhnBv) | [Oldschool Love](https://open.spotify.com/album/6uwelipskyMH8GsmE6zbGa) | 2:34 | 2025-06-20 | 2026-05-15 |
 | [Therapy & Yoga](https://open.spotify.com/track/2G7DLml9U6byHyFizFnoyJ) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/7uT49SXl8GTMQ4eeNWBJJk) | 1:55 | 2025-08-01 | 2025-11-16 |
 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 | 2024-09-26 |  |
 | [Thrill Of It All](https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Thrill Of It All](https://open.spotify.com/album/23tZRrcxog6733FrjhknAi) | 3:23 | 2023-07-14 | 2025-01-24 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-26 |  |
+| [Vertigo](https://open.spotify.com/track/4ZrMY6RcgUPNftOt1nsyhd) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Vertigo](https://open.spotify.com/album/6itWOqDXkixKxRimD02770) | 3:00 | 2026-05-14 |  |
 | [Vertigo](https://open.spotify.com/track/5v66VjrhFwSlPqadCrubyb) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:59 | 2024-10-09 |  |
 | [Vertigo](https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Vertigo](https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho) | 2:19 | 2026-03-27 |  |
 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 | 2023-07-14 |  |

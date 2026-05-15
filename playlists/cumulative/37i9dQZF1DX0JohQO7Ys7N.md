@@ -2,7 +2,7 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Bridget Blue
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Muthaka
 
 322 songs - 18 hr 12 min
 

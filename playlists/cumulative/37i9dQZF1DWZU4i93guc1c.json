@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0445\u0456\u0442\u0438 \u0442\u0430 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0430\u043d\u0434\u0435\u0440\u0491\u0440\u0430\u0443\u043d\u0434\u0443. \u043e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: HLIBOROB",
+  "description": "\u0445\u0456\u0442\u0438 \u0442\u0430 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0430\u043d\u0434\u0435\u0440\u0491\u0440\u0430\u0443\u043d\u0434\u0443. \u043e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: David Glads",
   "name": "\u0456\u043d\u0434\u0456",
   "tracks": [
     {
@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Ataraxia",
+        "url": "https://open.spotify.com/album/3XlQ8wUYzNeMvYbJ49XMGx"
+      },
+      "artists": [
+        {
+          "name": "Ann Kovtun",
+          "url": "https://open.spotify.com/artist/6JdwWVgnkKfh2MSRkwSxAU"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144966,
+      "name": "Ataraxia",
+      "url": "https://open.spotify.com/track/4U2zSG0HTCmsj91WLbHBkO"
+    },
+    {
+      "album": {
         "name": "Bird of Pray (Vidbir 2025)",
         "url": "https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM"
       },
@@ -280,7 +298,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 116750,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/3WgoL40RSxbhnHuiBKjCbt"
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 181714,
       "name": "Textury",
       "url": "https://open.spotify.com/track/1pJUfuXXxZH7rl7qOYWZOE"
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 150400,
       "name": "\u0430\u0433\u0430\u0442",
       "url": "https://open.spotify.com/track/3IuNGMk3WeLncyPFLizGuy"
@@ -1998,6 +2016,28 @@
       "duration_ms": 245333,
       "name": "\u0430\u043d\u0442\u0438\u0443\u0442\u043e\u043f\u0456\u044f",
       "url": "https://open.spotify.com/track/30LTUnfJ8GsMkmufwSlZQy"
+    },
+    {
+      "album": {
+        "name": "\u0410\u0440\u0441\u0435\u043d\u0430\u043b\u044c\u043d\u0430",
+        "url": "https://open.spotify.com/album/6BEREUrwhgxiC5uud0SSlU"
+      },
+      "artists": [
+        {
+          "name": "PALMYRA",
+          "url": "https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj"
+        },
+        {
+          "name": "Dmytro Kod",
+          "url": "https://open.spotify.com/artist/2enZNbbp8gTet6jZI9Rbfa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280449,
+      "name": "\u0410\u0440\u0441\u0435\u043d\u0430\u043b\u044c\u043d\u0430",
+      "url": "https://open.spotify.com/track/7GPhgQs0upPXPv98OexMtv"
     },
     {
       "album": {
@@ -2754,7 +2794,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 248963,
       "name": "\u0432\u0435\u0447\u0456\u0440\u043a\u0430 \u043e\u0434\u043d\u043e\u0433\u043e \u0437\u0440\u043e\u0441\u0442\u0443",
       "url": "https://open.spotify.com/track/3eecG1Z4Toqx3eBd3CfnLA"
@@ -6984,7 +7024,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 251612,
       "name": "\u041c\u0443\u0441\u0442\u0430\u043d\u0433",
       "url": "https://open.spotify.com/track/3jtAknEW7Z4xzpacfRIZbN"
@@ -7541,6 +7581,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0430\u0440\u043a\u0456\u0441",
+        "url": "https://open.spotify.com/album/6X4xSHQiWgVULcPxFGG78W"
+      },
+      "artists": [
+        {
+          "name": "zhenya kudryk",
+          "url": "https://open.spotify.com/artist/07FDalb0OOtRuuulpgkq4O"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209704,
+      "name": "\u041d\u0430\u0440\u043a\u0456\u0441",
+      "url": "https://open.spotify.com/track/4WNLCppXHuceMZhhTasixq"
+    },
+    {
+      "album": {
         "name": "\u041f\u043e\u043b\u043e\u0432\u0438\u043d\u0430 \u043c\u0435\u043d\u0435",
         "url": "https://open.spotify.com/album/313ajnJOcZPIfIoe35zGIh"
       },
@@ -7921,6 +7979,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0456",
+        "url": "https://open.spotify.com/album/5YrD0RTHJT0IZYvvitROkB"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u043f\u0430\u0442\u0456\u044f",
+          "url": "https://open.spotify.com/artist/2bkZ1uaI06UpTuDchPk8bE"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "\u041d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0456",
+      "url": "https://open.spotify.com/track/0wnjSFnsGiJmXoNIG88gLI"
+    },
+    {
+      "album": {
         "name": "\u041d\u0435\u0439\u043c\u043e\u0432\u0456\u0440\u043d\u043e \u0442\u043e\u043d\u043a\u0430",
         "url": "https://open.spotify.com/album/6my1K6UekghuCoude69cg7"
       },
@@ -8226,6 +8302,24 @@
       "duration_ms": 167603,
       "name": "\u041e\u0431\u043c\u0430\u043d",
       "url": "https://open.spotify.com/track/1CjLeI6z5PnrXZhWXDg7Rh"
+    },
+    {
+      "album": {
+        "name": "\u043e\u0431\u0456\u0439\u043c\u0430\u0439\\\u0434\u043e\u0449",
+        "url": "https://open.spotify.com/album/00P02iLfW6aXkfqnYe0Fn2"
+      },
+      "artists": [
+        {
+          "name": "\u0430\u0442\u043c\u043e\u0441\u0444\u0435\u0440\u0438\u043a\u0430",
+          "url": "https://open.spotify.com/artist/5bGG00q1afGuAmdjyRiXEN"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "\u043e\u0431\u0456\u0439\u043c\u0430\u0439\\\u0434\u043e\u0449",
+      "url": "https://open.spotify.com/track/1VxTo9fYcDQN6jTSnucLyx"
     },
     {
       "album": {
@@ -8608,7 +8702,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 205453,
       "name": "\u041f\u0430\u043d\u043e\u0432\u0435",
       "url": "https://open.spotify.com/track/2ttG4rhTDnZKfQPPw7YA4l"
@@ -9844,7 +9938,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 219281,
       "name": "\u0421\u0432\u0456\u0442\u043b\u043e (\u0411\u0443\u0434\u0435 \u0432 \u041e\u0447\u0430\u0445)",
       "url": "https://open.spotify.com/track/5Q6zQbmP7oDhoT6zxYEYzy"
@@ -12099,6 +12193,24 @@
     },
     {
       "album": {
+        "name": "Secret's Side",
+        "url": "https://open.spotify.com/album/4TyMF29MUQt9CJyX3RqWXz"
+      },
+      "artists": [
+        {
+          "name": "David Glads",
+          "url": "https://open.spotify.com/artist/5GV74xJRAc5TGhcfMbzP7o"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "\u0425\u0442\u043e \u041d\u0435 \u041a\u0440\u0438\u0447\u0438\u0442\u044c?",
+      "url": "https://open.spotify.com/track/6SkgWnUbpJHucUTszmWh2w"
+    },
+    {
+      "album": {
         "name": "\u0445\u0442\u043e\u0441\u044c \u043a\u043e\u0433\u043e\u0441\u044c",
         "url": "https://open.spotify.com/album/7n1NrKF4Lh3rc0woScsUpe"
       },
@@ -13036,6 +13148,24 @@
       "duration_ms": 269047,
       "name": "\u0456 \u0456\u043d\u0448\u0435 \u0432\u0441\u0435",
       "url": "https://open.spotify.com/track/2FH7XjSzx3D1oCbHhf8rEo"
+    },
+    {
+      "album": {
+        "name": "X+Y=",
+        "url": "https://open.spotify.com/album/2eHftaTJ7D9HYW2k9Ja8dG"
+      },
+      "artists": [
+        {
+          "name": "REMEZ",
+          "url": "https://open.spotify.com/artist/2RYEF0ZXH0pV9WoS64XJ6n"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147660,
+      "name": "\u0406\u043a\u0441 \u043f\u043b\u044e\u0441 \u0406\u0433\u0440\u0435\u043a",
+      "url": "https://open.spotify.com/track/5lkXAYV0D3FMY3g10Jmpo7"
     },
     {
       "album": {

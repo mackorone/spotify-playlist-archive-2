@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mari Froes",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mateus Carrilho, Isma",
   "name": "Palco POP",
   "tracks": [
     {
@@ -2994,7 +2994,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 136089,
       "name": "Bem Bem",
       "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
@@ -13182,7 +13182,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 164000,
       "name": "MINA",
       "url": "https://open.spotify.com/track/6bms1AEgjJDu6TQaSTAEcR"
@@ -15271,6 +15271,36 @@
     },
     {
       "album": {
+        "name": "Oitava Maravilha",
+        "url": "https://open.spotify.com/album/5FwTt373ypJJDubbvjkgtz"
+      },
+      "artists": [
+        {
+          "name": "Romeo",
+          "url": "https://open.spotify.com/artist/78F05Jcd631ZvTrXWiPRsD"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        },
+        {
+          "name": "Fred Aquino",
+          "url": "https://open.spotify.com/artist/1lKCJoxjG5zCdbHLSW0t2N"
+        },
+        {
+          "name": "DZ",
+          "url": "https://open.spotify.com/artist/4Bw466mKxL1kYMjPVsUI2v"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160433,
+      "name": "Oitava Maravilha",
+      "url": "https://open.spotify.com/track/6V4BwX49ZsEzuDhtZ4bSVx"
+    },
+    {
+      "album": {
         "name": "Olha Bela",
         "url": "https://open.spotify.com/album/2H84den6cdw9vICRQfwav0"
       },
@@ -15576,6 +15606,24 @@
       "duration_ms": 164664,
       "name": "Orishas",
       "url": "https://open.spotify.com/track/5eZMv9ZkQ8ySMccOWAbHBq"
+    },
+    {
+      "album": {
+        "name": "Tudo Pelo Show",
+        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152232,
+      "name": "Os Mo\u00e7os da R\u00e1dio",
+      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
     },
     {
       "album": {
@@ -17848,7 +17896,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 180000,
       "name": "Pura Poesia",
       "url": "https://open.spotify.com/track/1ShgI2Qw5D1QeHGscqojEi"
@@ -24036,6 +24084,28 @@
       "duration_ms": 138578,
       "name": "vou te respirar",
       "url": "https://open.spotify.com/track/1Tz1iLZ557WeHvf7tYHe6Z"
+    },
+    {
+      "album": {
+        "name": "VOZ AVELUDADA",
+        "url": "https://open.spotify.com/album/3pyoqiKli0w5kC67x6bbsa"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176402,
+      "name": "VOZ AVELUDADA",
+      "url": "https://open.spotify.com/track/7tsSYwczhdna2lzOEnc6rs"
     },
     {
       "album": {

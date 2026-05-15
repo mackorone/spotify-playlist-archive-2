@@ -2953,6 +2953,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "Dame Un Grrr",
         "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
       },
@@ -3656,6 +3678,24 @@
       "duration_ms": 154909,
       "name": "Engel",
       "url": "https://open.spotify.com/track/4TAiUmnMwwx3LIrwSVnfG0"
+    },
+    {
+      "album": {
+        "name": "EPA",
+        "url": "https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202542,
+      "name": "EPA",
+      "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw"
     },
     {
       "album": {
@@ -6213,6 +6253,28 @@
     },
     {
       "album": {
+        "name": "Loco Loco",
+        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Loco Loco",
+      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
+    },
+    {
+      "album": {
         "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
         "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
       },
@@ -6610,7 +6672,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 163869,
       "name": "MALA M\u00cdA",
       "url": "https://open.spotify.com/track/2ptQrhGlBY7qVMm8VbuAY8"
@@ -9482,7 +9544,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 207789,
       "name": "Ready for the Ride",
       "url": "https://open.spotify.com/track/1mBlAPx3o1upduoTYXwgcZ"
@@ -9946,6 +10008,32 @@
       "duration_ms": 259627,
       "name": "Se Grita",
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
+    },
+    {
+      "album": {
+        "name": "Sensa",
+        "url": "https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122818,
+      "name": "Sensa",
+      "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
     },
     {
       "album": {
@@ -11160,7 +11248,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 137480,
       "name": "Tiroteo",
       "url": "https://open.spotify.com/track/1KaBfgt21SXIoIdkmCVSvH"
@@ -12630,7 +12718,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 159673,
       "name": "YAMA",
       "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"

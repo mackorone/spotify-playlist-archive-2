@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Nerissima Serpe in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Artie in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 165207,
       "name": "Anima",
       "url": "https://open.spotify.com/track/5S73czgYmEvRRyW191Ylsy"
@@ -3882,6 +3882,28 @@
       "duration_ms": 144056,
       "name": "Braquages",
       "url": "https://open.spotify.com/track/2PBzppfFYOLhyNcuosCLF9"
+    },
+    {
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178966,
+      "name": "BRATZ (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/10nZU1tAX7XepntuYDJUVO"
     },
     {
       "album": {
@@ -6400,7 +6422,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 114473,
       "name": "David Bowie",
       "url": "https://open.spotify.com/track/1v8ouYS23vfLGaaJKUS8Al"
@@ -8303,6 +8325,32 @@
     },
     {
       "album": {
+        "name": "FOTTUTO COLTELLO (feat. Visino Bianco, UNK)",
+        "url": "https://open.spotify.com/album/7B72VsfALiDHJtBKCOTnlz"
+      },
+      "artists": [
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "Visino Bianco",
+          "url": "https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx"
+        },
+        {
+          "name": "UNK",
+          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "FOTTUTO COLTELLO (feat. Visino Bianco, UNK)",
+      "url": "https://open.spotify.com/track/6A9GMPXCSGEiss8QUdAa1N"
+    },
+    {
+      "album": {
         "name": "Four Seasons (feat. MamboLosco)",
         "url": "https://open.spotify.com/album/5h09Xy6i2psEpuIJITOLDu"
       },
@@ -9902,6 +9950,24 @@
       "duration_ms": 216960,
       "name": "HOT",
       "url": "https://open.spotify.com/track/0QwWAqI4UglxEiVObWCKvh"
+    },
+    {
+      "album": {
+        "name": "THE GOLDFATHER",
+        "url": "https://open.spotify.com/album/2wqe37GloOInHxfqo7N6DC"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154698,
+      "name": "HOTNAME",
+      "url": "https://open.spotify.com/track/6JfZdFjX8SRsNBYzFiBFsf"
     },
     {
       "album": {
@@ -12838,7 +12904,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140249,
       "name": "MATTONE",
       "url": "https://open.spotify.com/track/0VZOMTITniI3tskCL7RgU6"
@@ -15320,6 +15386,40 @@
       "duration_ms": 151578,
       "name": "NULLA DI BELLO (feat. 22simba, Flaco G e IDUA)",
       "url": "https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha"
+    },
+    {
+      "album": {
+        "name": "NULLNEUN",
+        "url": "https://open.spotify.com/album/5LyNSu2wr3jg8PNnTm1ikI"
+      },
+      "artists": [
+        {
+          "name": "Alkhazar",
+          "url": "https://open.spotify.com/artist/5LYMIHEN7B3C9cm7lSENKF"
+        },
+        {
+          "name": "Rheda",
+          "url": "https://open.spotify.com/artist/3CpzJbFUGyuWn8rkW46gct"
+        },
+        {
+          "name": "Ramzes",
+          "url": "https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR"
+        },
+        {
+          "name": "Harmann",
+          "url": "https://open.spotify.com/artist/7vNFdksWR78dwtW1Tx3Zsw"
+        },
+        {
+          "name": "Logos.Lux",
+          "url": "https://open.spotify.com/artist/3rGdjBtVPeHar0052yH97T"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168539,
+      "name": "NULLNEUN",
+      "url": "https://open.spotify.com/track/3lIZO0nzkPw8ArCOZNX8l6"
     },
     {
       "album": {
@@ -18918,7 +19018,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 129090,
       "name": "Scendo E Cerco Un\u2019Altra",
       "url": "https://open.spotify.com/track/0qFzTGufPnqkI4GrAwXCg1"
@@ -20651,6 +20751,24 @@
     },
     {
       "album": {
+        "name": "SWAG MUSIC",
+        "url": "https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172714,
+      "name": "SWAG MUSIC",
+      "url": "https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4"
+    },
+    {
+      "album": {
         "name": "Syrup",
         "url": "https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37"
       },
@@ -22226,7 +22344,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 128017,
       "name": "UNABOMBER",
       "url": "https://open.spotify.com/track/4BEmfcN2xWbPxsPSlsu37B"

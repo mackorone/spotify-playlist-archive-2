@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 
 > una lloradita y a seguirle 🥲
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,080 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,119 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 42 | [Ecos De Amor](https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Jesse](https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:35 |
 | 43 | [Porque te vas](https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque te vas](https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy) | 3:21 |
 | 44 | [00:00](https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 3:35 |
-| 45 | [Me Vas a Echar de Menos](https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Promesas](https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC) | 2:55 |
-| 46 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
+| 45 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
+| 46 | [Me Vas a Echar de Menos](https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Promesas](https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC) | 2:55 |
 | 47 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
 | 48 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 |
 | 49 | [RELOJ](https://open.spotify.com/track/2DXK0YNGSqnaIEX5iaSIoK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:52 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 80 | [Ya Fue](https://open.spotify.com/track/5ZTPaP0AYqHhf8txyfGb2i) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Ya Fue](https://open.spotify.com/album/73bfayCFQWsMsU2Y9IsU1S) | 3:14 |
 | 81 | [X Perro](https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [X Perro](https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3) | 2:24 |
 | 82 | [Me Vas a Extrañar](https://open.spotify.com/track/1SAZFG8t1qjlzNZYdXswqw) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:59 |
-| 83 | [El Destino Nos Separa](https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [El Destino Nos Separa](https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f) | 2:15 |
-| 84 | [Que Lloro \(with Carla Morrison\)](https://open.spotify.com/track/1XQYjTzZTKfvP69S5yJkaH) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Todas Mías...](https://open.spotify.com/album/6BZPpEDHkZkyxIZarybq4V) | 4:02 |
+| 83 | [Que Lloro \(with Carla Morrison\)](https://open.spotify.com/track/1XQYjTzZTKfvP69S5yJkaH) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Todas Mías...](https://open.spotify.com/album/6BZPpEDHkZkyxIZarybq4V) | 4:02 |
+| 84 | [El Destino Nos Separa](https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [El Destino Nos Separa](https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f) | 2:15 |
 | 85 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 |
 
 Snapshot ID: `AAAAAC5R2QS2tFAGjZUPtti3VheNCibY`

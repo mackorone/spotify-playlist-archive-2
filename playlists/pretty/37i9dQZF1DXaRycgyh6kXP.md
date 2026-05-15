@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,001 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,047 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 35 | [Eyes Be Closed](https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr) | 4:47 |
 | 36 | [Loading](https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 4:44 |
 | 37 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 |
-| 38 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 |
-| 39 | [Bloom](https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Bloom](https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD) | 3:37 |
+| 38 | [Bloom](https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Bloom](https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD) | 3:37 |
+| 39 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 |
 | 40 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 |
 | 41 | [Inspirit](https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 4:12 |
 | 42 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 82 | [All I Need](https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Flowerdrum](https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk) | 4:08 |
 | 83 | [Eon Lens](https://open.spotify.com/track/15qiprD5zSvHE0JF8duU3J) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Eon Lens](https://open.spotify.com/album/12ya6nZTDp02vO0W8uCwL6) | 5:43 |
 | 84 | [Affection](https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Affection](https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp) | 3:40 |
-| 85 | [how2feel](https://open.spotify.com/track/0jMHvOP80LTKOQ8HMxE3yf) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [how2feel](https://open.spotify.com/album/6i9uwLdKpZTxrC65hJZArc) | 2:52 |
-| 86 | [Pantalini](https://open.spotify.com/track/6WDzcqc4VIgMggSMFBnWVt) | [Machweo](https://open.spotify.com/artist/5Mr3g9Iu3I1jnGYi2ATlH3) | [Musica da Festa](https://open.spotify.com/album/1k6Fms9OmPKI3jh4ylxPmC) | 3:59 |
+| 85 | [Pantalini](https://open.spotify.com/track/6WDzcqc4VIgMggSMFBnWVt) | [Machweo](https://open.spotify.com/artist/5Mr3g9Iu3I1jnGYi2ATlH3) | [Musica da Festa](https://open.spotify.com/album/1k6Fms9OmPKI3jh4ylxPmC) | 3:59 |
+| 86 | [how2feel](https://open.spotify.com/track/0jMHvOP80LTKOQ8HMxE3yf) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [how2feel](https://open.spotify.com/album/6i9uwLdKpZTxrC65hJZArc) | 2:52 |
 | 87 | [Implosion\-Explosion](https://open.spotify.com/track/5teWqTjZx7kMto0UUKGCZK) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/0D9pj1z6nbPPfJipQGeMfo) | 5:33 |
 | 88 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 |
 | 89 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 |

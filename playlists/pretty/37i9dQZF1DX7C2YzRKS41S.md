@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,578 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,592 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 28 | [When The Wind Blows \- Private Sessions](https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [When The Wind Blows \(Private Sessions\)](https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc) | 4:04 |
 | 29 | [A Encomenda da Minha Vida](https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [A Encomenda da Minha Vida](https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR) | 2:58 |
 | 30 | [Leve](https://open.spotify.com/track/0vARspjQ7NZqbFsbI2NqeI) | [Badulaque](https://open.spotify.com/artist/0dAAgcwcLoZkVH9EYgTIrr) | [Leve](https://open.spotify.com/album/1FnlISBProVpJR4idoV4Ag) | 3:08 |
-| 31 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
+| 31 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 |
 | 32 | [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 |
-| 33 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 |
+| 33 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
 | 34 | [Menino de Papel](https://open.spotify.com/track/2iiZsYIyb2MUANhTkNjtIy) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Menino de Papel](https://open.spotify.com/album/1ykcByGySTdMT3veccKEXT) | 2:56 |
 | 35 | [Cafuné](https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Cafuné](https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl) | 2:02 |
 | 36 | [Eu Sou Sentimental](https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Capítulo 1](https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR) | 2:57 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 52 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 |
 | 53 | [Eu Nasci Pra Você](https://open.spotify.com/track/06vVPyS7i9LBu6eoBgCBqf) | [Teago Oliveira](https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS) | [Canções do Velho Mundo](https://open.spotify.com/album/7p7mpxc8y8SWZFDuXhoENq) | 3:36 |
 | 54 | [A Day in the Life](https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 |
-| 55 | [Falta](https://open.spotify.com/track/4GxYuiyGijRuGslaPLl2MJ) | [Joaquim](https://open.spotify.com/artist/2whUuDjJvXiJqxVhYhsnSr), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Varanda dos Palpites](https://open.spotify.com/album/3vMBt9c6LGUvwbZ7e3J1HD) | 3:59 |
-| 56 | [Pensando Bem](https://open.spotify.com/track/2vz5y776IIyrac1KkYuY75) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [Zé Luis Nascimento](https://open.spotify.com/artist/3DGZdkW22HAlgGpXOzzaaE), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Eu Sou Outro](https://open.spotify.com/album/7jsBgAZRvGyECgLpcEIa6Z) | 3:22 |
+| 55 | [Pensando Bem](https://open.spotify.com/track/2vz5y776IIyrac1KkYuY75) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [Zé Luis Nascimento](https://open.spotify.com/artist/3DGZdkW22HAlgGpXOzzaaE), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Eu Sou Outro](https://open.spotify.com/album/7jsBgAZRvGyECgLpcEIa6Z) | 3:22 |
+| 56 | [Falta](https://open.spotify.com/track/4GxYuiyGijRuGslaPLl2MJ) | [Joaquim](https://open.spotify.com/artist/2whUuDjJvXiJqxVhYhsnSr), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Varanda dos Palpites](https://open.spotify.com/album/3vMBt9c6LGUvwbZ7e3J1HD) | 3:59 |
 | 57 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 |
 | 58 | [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 |
 | 59 | [Açaí](https://open.spotify.com/track/6K73fSY0NIXJ39rBXw5Nf3) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:43 |

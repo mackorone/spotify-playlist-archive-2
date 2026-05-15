@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "6 Years",
+        "url": "https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "6 Years",
+      "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
+    },
+    {
+      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -4703,6 +4721,36 @@
     },
     {
       "album": {
+        "name": "I Love Me Now",
+        "url": "https://open.spotify.com/album/5HFMjggZPqo2Q3ePQRDUYK"
+      },
+      "artists": [
+        {
+          "name": "Childish",
+          "url": "https://open.spotify.com/artist/7ILJcS2uY2VevOMgm83nqf"
+        },
+        {
+          "name": "Wes Reeve",
+          "url": "https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV"
+        },
+        {
+          "name": "Ayotemi",
+          "url": "https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E"
+        },
+        {
+          "name": "Zalma",
+          "url": "https://open.spotify.com/artist/7babJi39oEVpXicBIzFQzT"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276756,
+      "name": "I Love Me Now",
+      "url": "https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T"
+    },
+    {
+      "album": {
         "name": "Nisenhyakunen",
         "url": "https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n"
       },
@@ -5444,7 +5492,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 280034,
       "name": "LADY",
       "url": "https://open.spotify.com/track/6iU9oxoFtYJE7Nor8TfOul"
@@ -12360,7 +12408,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 247554,
       "name": "\u82b1 - Ballad",
       "url": "https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Corazón Serrano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,930 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,927 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 49 | [Escándalo](https://open.spotify.com/track/5LYoS1KD4ce78Y1PvP7tIL) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Algo Que Darte](https://open.spotify.com/album/5ZWgfUlndLtxaQTnyWqZMZ) | 2:31 |
 | 50 | [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 |
 
-Snapshot ID: `AAAAAAtCDSaUZ1N5Du+ePZQIwTXyCeMc`
+Snapshot ID: `AAAAAJLaQ3K0stz0pHjIomrv+rvLXn7l`

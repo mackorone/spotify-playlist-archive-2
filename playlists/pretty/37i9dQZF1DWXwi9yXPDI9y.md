@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Grab a drink and relax to the Jazz played in the background at the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,874 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,930 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 26 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m), [Bud Shank Quintet](https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS) | [All Through The Night: Julie London Sings The Choicest Of Cole Porter \(Bonus Tracks\)](https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn) | 4:20 |
 | 27 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
 | 28 | [Lover Man \(Oh Where Can You Be\)](https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:46 |
-| 29 | [Anything Goes](https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:07 |
+| 29 | [Cry Me A River](https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI) | 3:42 |
 | 30 | [Fantastic, That's You](https://open.spotify.com/track/0JUg0sZeed300oK3FIP4Ak) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Once Upon A Time](https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY) | 4:10 |
-| 31 | [Cry Me A River](https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI) | 3:42 |
+| 31 | [Anything Goes](https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:07 |
 | 32 | [Something To Remember You By](https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:42 |
 | 33 | [My Romance](https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 4:14 |
 | 34 | [Do It Again](https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 2:57 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 42 | [It Ain't Necessarily So](https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The George Gershwin Song Book](https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a) | 2:48 |
 | 43 | [Excerpts From The Blues](https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:04 |
 | 44 | [How Deep Is The Ocean?](https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:59 |
-| 45 | [Early Autumn](https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Sings The Winners](https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB) | 3:11 |
-| 46 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 |
+| 45 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 |
+| 46 | [Early Autumn](https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Sings The Winners](https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB) | 3:11 |
 | 47 | [Blame It On My Youth \- Remastered 1999](https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 4:12 |
 | 48 | [I'm Through With Love](https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz) | [Arthur Prysock](https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT) | [Jazz 'Round Midnight: Ballads](https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY) | 3:42 |
 | 49 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |

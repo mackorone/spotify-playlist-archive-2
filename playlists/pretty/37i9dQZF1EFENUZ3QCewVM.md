@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588 likes - 129 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 589 likes - 129 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 72 | [Drama Queen](https://open.spotify.com/track/7K4vZUin6BMe1QOM0QpmLO) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Drama Queen](https://open.spotify.com/album/4g9Q2JI0ehh0VQ40vLcbFz) | 4:52 |
 | 73 | [To Be Young \(feat\. Doja Cat\) \- Felix Cartal Remix](https://open.spotify.com/track/55438ajkXveF4Svp5zza0o) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [To Be Young \(feat\. Doja Cat\) \[Felix Cartal Remix\]](https://open.spotify.com/album/0grfIzT5OnDihsqAXgSM38) | 3:53 |
 | 74 | [Perfume](https://open.spotify.com/track/1anDAG6dAqtGdRaWaIF5A6) | [Cameron Hardy](https://open.spotify.com/artist/1j5AUBeVifSYaMswAi9i59) | [Perfume](https://open.spotify.com/album/4gWmboWc9DsfKcyfvmoKkf) | 2:37 |
-| 75 | [Man On The Moon](https://open.spotify.com/track/4nmhLIhYamo2c79buPgJE1) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 3:18 |
-| 76 | [Hey Beautiful \(with Louane & Tiny Habits\)](https://open.spotify.com/track/4apbWcMX0yV7eE4orbPH2K) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:25 |
+| 75 | [Hey Beautiful \(with Louane & Tiny Habits\)](https://open.spotify.com/track/4apbWcMX0yV7eE4orbPH2K) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:25 |
+| 76 | [Man On The Moon](https://open.spotify.com/track/4nmhLIhYamo2c79buPgJE1) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 3:18 |
 | 77 | [Blondes](https://open.spotify.com/track/7icij1c026lNAaX4NiVByO) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 2:27 |
 | 78 | [Actress](https://open.spotify.com/track/0kwqLejJ6WRwV59LMlhYHK) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:56 |
 | 79 | [FEEL LOVE \(feat\. Delacey\)](https://open.spotify.com/track/60n2CwqknqYSbA14vvpTv3) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [TESTIFY](https://open.spotify.com/album/72QrPCGdsW94gJZvQY8ZFV) | 4:01 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 81 | [My Man \- Louis Bell Remix](https://open.spotify.com/track/6Lfyde0lFubconXN7c8WI6) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Louis Bell](https://open.spotify.com/artist/0KhTK3BxneP2FPtlwyp1MK) | [My Man \(Louis Bell Remix\)](https://open.spotify.com/album/2w0c6pJt31vsn5kcce7JdN) | 2:48 |
 | 82 | [Naked](https://open.spotify.com/track/4Aol7GtOaV8EVkanxp1F6r) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:24 |
 | 83 | [Force Of Nature](https://open.spotify.com/track/1RzePFMMipUOKyUoXgM1Lg) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Powerslide \(Deluxe\)](https://open.spotify.com/album/5hJ7ytoXl9KIjn25N0GhYr) | 2:52 |
-| 84 | [Emily](https://open.spotify.com/track/1VxwLxS32ZQ5bioB2JzuE4) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:55 |
-| 85 | [hold my beer](https://open.spotify.com/track/2UKLvUzuRTaX2lrn4xy2a2) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:42 |
+| 84 | [hold my beer](https://open.spotify.com/track/2UKLvUzuRTaX2lrn4xy2a2) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:42 |
+| 85 | [Emily](https://open.spotify.com/track/1VxwLxS32ZQ5bioB2JzuE4) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:55 |
 | 86 | [Parallel Universe](https://open.spotify.com/track/6OQdl6HFCNOFXMw9wHJ4Dd) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Quitter](https://open.spotify.com/album/4goBfD1y92lRNsftSKeEsF) | 3:34 |
 | 87 | [Honest With You](https://open.spotify.com/track/5lpueZOrw3vAJEKamjLXyG) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [YOU](https://open.spotify.com/album/5Eh8ODdlIAB91UYfgNUgFi) | 3:17 |
 | 88 | [How's My Honey?](https://open.spotify.com/track/0FjzyqG0hQdDTlH39U6aOT) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:57 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 128 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 | 129 | [Bad Things](https://open.spotify.com/track/2vlcWSnTuFw57Kyc6D6LBi) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:10 |
 
-Snapshot ID: `AcRaxgAAAABpEG5ezyTYki5jFOGuy8gM`
+Snapshot ID: `AcRgXAAAAABEB8PLPOWFMDuNUDqS0TRW`

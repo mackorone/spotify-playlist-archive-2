@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a whine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,328 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,500 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 6 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 | 7 | [No Games](https://open.spotify.com/track/3WU2blK7YBcugEEU9CATvF) | [Serani](https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo) | [No Games](https://open.spotify.com/album/4cmmzdFqEHTqH13hKRuGJK) | 3:08 |
 | 8 | [Turn Me On](https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Turn Me On \(Online Music\)](https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT) | 3:12 |
-| 9 | [Pon de Replay](https://open.spotify.com/track/3U3Ff8ZvL6oEu1r98gCCWW) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 4:06 |
-| 10 | [Whine & Kotch](https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv) | [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Whine & Kotch](https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ) | 3:37 |
+| 9 | [Whine & Kotch](https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv) | [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Whine & Kotch](https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ) | 3:37 |
+| 10 | [Pon de Replay](https://open.spotify.com/track/3U3Ff8ZvL6oEu1r98gCCWW) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 4:06 |
 | 11 | [Nobody Has to Know](https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Rumors](https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX) | 3:42 |
 | 12 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
 | 13 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:34 |
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 65 | [On Fleek \(Love You Everything\)](https://open.spotify.com/track/5tGLXqxNmzeXcK050Lw5Ou) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [On Fleek \(Love You Everything\) \- Single](https://open.spotify.com/album/0yReupj5PtIMxd8RpwORv8) | 2:45 |
 | 66 | [Gimme the Light](https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:48 |
 | 67 | [Bend Ova](https://open.spotify.com/track/7LC5sCPdYJPgKiUXdnIlYe) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/4IGhZkAU6HHyOMgtfc9Atq) | 3:09 |
-| 68 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
+| 68 | [Likes](https://open.spotify.com/track/0u8OSg2ooosvr7wW6jgYYk) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/0ZRlLe0jPtxYObYIgKZz9R) | 4:18 |
 | 69 | [Ganja Farmer](https://open.spotify.com/track/2zAJvh4y1DBXo7KIqQjumc) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/4FcuMuFa8cnScLyb5n9DyX) | 3:56 |
-| 70 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 |
+| 70 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
 | 71 | [Get Busy](https://open.spotify.com/track/2PAur5UdDtOOYq234rqZRD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Reggae Gold 2003](https://open.spotify.com/album/76Ln6U1PHLVU8Zc10xXAnF) | 3:30 |
-| 72 | [Gasolina](https://open.spotify.com/track/4D1eJ4MRs8Ky0DlBTbFGRp) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [The Playlist \- Carnival](https://open.spotify.com/album/3yZRGphKhDplZip42iTTbO) | 3:12 |
-| 73 | [Gal a Get More](https://open.spotify.com/track/0vpTqPxxCl9fcPzWwIzXkw) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Heat Rave Riddim](https://open.spotify.com/album/6Iln4NFCVVGNrvqkUfqwrE) | 2:46 |
-| 74 | [Things Mi Love](https://open.spotify.com/track/7ngQpwjJbosWoSd1S44Jbb) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Things Mi Love](https://open.spotify.com/album/6ZgEelUaADj0mfsJ8YoclI) | 3:26 |
-| 75 | [Gal a Bubble \- Raw](https://open.spotify.com/track/2bvFZtQc3JbD5ZSA6cwvjq) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Gal a Bubble](https://open.spotify.com/album/78ye6DakWA48XtSsBDD86O) | 3:30 |
+| 72 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 |
+| 73 | [Gasolina](https://open.spotify.com/track/4D1eJ4MRs8Ky0DlBTbFGRp) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [The Playlist \- Carnival](https://open.spotify.com/album/3yZRGphKhDplZip42iTTbO) | 3:12 |
+| 74 | [Gal a Get More](https://open.spotify.com/track/0vpTqPxxCl9fcPzWwIzXkw) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Heat Rave Riddim](https://open.spotify.com/album/6Iln4NFCVVGNrvqkUfqwrE) | 2:46 |
+| 75 | [Things Mi Love](https://open.spotify.com/track/7ngQpwjJbosWoSd1S44Jbb) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Things Mi Love](https://open.spotify.com/album/6ZgEelUaADj0mfsJ8YoclI) | 3:26 |
 | 76 | [Bedroom Bully](https://open.spotify.com/track/3KiVsbXehlQmO8ob18EL6B) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [IT \(Incomparable Talent\)](https://open.spotify.com/album/0L0sXJEat24OuHrAFRyBqd) | 2:45 |
-| 77 | [Pon De River Pon De Bank](https://open.spotify.com/track/639uHIRkzBvJIb9MlXabh1) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Energy God \- The Very Best Of Elephant Man](https://open.spotify.com/album/5mGkSwbPSfYcrV6cxGAUcX) | 4:05 |
-| 78 | [Click Mi Finger](https://open.spotify.com/track/3akvaUfBoq5Gj65jzMl6qy) | [Erup](https://open.spotify.com/artist/06u187az5ps4QsoZHMN8DJ) | [Click Mi Finger Remixed \- EP](https://open.spotify.com/album/7sI4QVzeKL1ht81HKz4EKz) | 2:38 |
-| 79 | [Call Mi A Yardie](https://open.spotify.com/track/0U7sde9uRaGat6ZBtplHF6) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/7ufL2iHy3KiLPTpzqEXeLF) | 3:05 |
-| 80 | [Always](https://open.spotify.com/track/0NDuu5F9yTpA0tw3gzrzOo) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/6Y3GwclvGrERqgTZ3EEXm9) | 3:14 |
+| 77 | [Gal a Bubble \- Raw](https://open.spotify.com/track/2bvFZtQc3JbD5ZSA6cwvjq) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Gal a Bubble](https://open.spotify.com/album/78ye6DakWA48XtSsBDD86O) | 3:30 |
+| 78 | [Pon De River Pon De Bank](https://open.spotify.com/track/639uHIRkzBvJIb9MlXabh1) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Energy God \- The Very Best Of Elephant Man](https://open.spotify.com/album/5mGkSwbPSfYcrV6cxGAUcX) | 4:05 |
+| 79 | [Click Mi Finger](https://open.spotify.com/track/3akvaUfBoq5Gj65jzMl6qy) | [Erup](https://open.spotify.com/artist/06u187az5ps4QsoZHMN8DJ) | [Click Mi Finger Remixed \- EP](https://open.spotify.com/album/7sI4QVzeKL1ht81HKz4EKz) | 2:38 |
+| 80 | [Call Mi A Yardie](https://open.spotify.com/track/0U7sde9uRaGat6ZBtplHF6) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/7ufL2iHy3KiLPTpzqEXeLF) | 3:05 |
 
 Snapshot ID: `AAAAAA55+FtoU7fz72bXO6udsn6AG09u`

@@ -1009,6 +1009,28 @@
     },
     {
       "album": {
+        "name": "Back to the 305",
+        "url": "https://open.spotify.com/album/5bz83EFYjM4ToJVofVL71a"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177730,
+      "name": "Back to the 305",
+      "url": "https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm"
+    },
+    {
+      "album": {
         "name": "BACKBONE",
         "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
       },
@@ -2590,7 +2612,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 163641,
       "name": "Divine",
       "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
@@ -4572,7 +4594,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 178613,
       "name": "Heartbroken - Edit",
       "url": "https://open.spotify.com/track/5Yaw45Q7W0irDbTVN5LOVs"
@@ -5776,7 +5798,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187965,
       "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
       "url": "https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH"
@@ -6272,7 +6294,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 248035,
       "name": "Losing It",
       "url": "https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3"
@@ -8827,6 +8849,28 @@
     },
     {
       "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
+    },
+    {
+      "album": {
         "name": "SAVE ME",
         "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
       },
@@ -8937,6 +8981,24 @@
     },
     {
       "album": {
+        "name": "Seratonin",
+        "url": "https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115652,
+      "name": "Seratonin",
+      "url": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"
+    },
+    {
+      "album": {
         "name": "Set Me Free (feat. Robert Courtois)",
         "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
       },
@@ -9000,6 +9062,28 @@
       "duration_ms": 154680,
       "name": "Set U Free",
       "url": "https://open.spotify.com/track/0m69QNuZVZDXhGHBGK1mQA"
+    },
+    {
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/6HhmkuJ2piF3VScEkAX0hs"
+      },
+      "artists": [
+        {
+          "name": "Kyle Starkey",
+          "url": "https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe"
+        },
+        {
+          "name": "Dart",
+          "url": "https://open.spotify.com/artist/6osq4qbA2enSjbGxYviPgj"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/4Y3sarQT3zTJmb0WHZ0Dax"
     },
     {
       "album": {
@@ -9142,7 +9226,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187640,
       "name": "Show Me Love (feat. Robin S)",
       "url": "https://open.spotify.com/track/55eFVWZ4lLq8kbJ0VwSfA4"
@@ -11660,6 +11744,28 @@
       "duration_ms": 133821,
       "name": "Zeros (feat. Headie One)",
       "url": "https://open.spotify.com/track/1V0HauTAFl7CnslORPhAzB"
+    },
+    {
+      "album": {
+        "name": "Zone (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176274,
+      "name": "Zone (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZqbnP2e1SEM"

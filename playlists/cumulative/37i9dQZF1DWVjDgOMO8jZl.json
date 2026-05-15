@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia. Sayf in cover.",
+  "description": "Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia. Marte in cover.",
   "name": "RADAR Italia",
   "tracks": [
     {
@@ -1496,6 +1496,24 @@
       "duration_ms": 150450,
       "name": "Guai (feat. Francesca Michielin)",
       "url": "https://open.spotify.com/track/34hOXJuqGnxRVg0B5eDrpG"
+    },
+    {
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195188,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR"
     },
     {
       "album": {

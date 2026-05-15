@@ -1,6 +1,6 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 964637,
+  "num_followers": 964680,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 170759,
-      "name": "Walkin' Back to Georgia",
-      "url": "https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
         "name": "McCartney (Special Edition)",
         "url": "https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - Remastered 2011",
       "url": "https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 170759,
+      "name": "Walkin' Back to Georgia",
+      "url": "https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y"
     },
     {
       "added_at": "2024-08-23 14:56:31",

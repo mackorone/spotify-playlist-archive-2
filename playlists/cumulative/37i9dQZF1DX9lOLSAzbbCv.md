@@ -4,7 +4,7 @@
 
 > Хіти українського репу\. Обкладинка: lesfleures
 
-184 songs - 8 hr 29 min
+185 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Десять причин](https://open.spotify.com/track/25NlarRPSZbc2JDCfzJxYY) | [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C) | [Десять причин](https://open.spotify.com/album/1FaBNdDgWZgApuNYyhjJLn) | 3:12 | 2024-09-12 | 2025-07-12 |
 | [Диявол в деталях](https://open.spotify.com/track/5L1fR9v2G74B6xpnFwoYqA) | [Гоня](https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh), [Sasha Chemerov](https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9), [Yaski](https://open.spotify.com/artist/00ucOdLyLnP3Xysj3nvjRG) | [Диявол в деталях](https://open.spotify.com/album/3M53tbXCJkZyNPt8icw3J3) | 2:35 | 2025-06-19 | 2026-04-03 |
 | [До світанку](https://open.spotify.com/track/1bxlTXzCuefTibPtYIjPXS) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [До світанку](https://open.spotify.com/album/55p8NSKLxqSlS7ptkU64yZ) | 2:23 | 2024-06-27 |  |
-| [Дорога](https://open.spotify.com/track/08U1gRmKZiIvfCvq4z2X43) | [Третя Штурмова](https://open.spotify.com/artist/5PchdBWAnESzmi6rBbxq4M), [ДК Енергетик](https://open.spotify.com/artist/3eYHCFBRUK9hyTm6aG08LD), [NORD DIVISION](https://open.spotify.com/artist/1MQrUVl8fu6oQqAe3wQ1ap) | [Дорога](https://open.spotify.com/album/1LA0LRyCxuEu0HhvRlr7Lu) | 9:05 | 2026-05-07 |  |
+| [Дорога](https://open.spotify.com/track/08U1gRmKZiIvfCvq4z2X43) | [Третя Штурмова](https://open.spotify.com/artist/5PchdBWAnESzmi6rBbxq4M), [ДК Енергетик](https://open.spotify.com/artist/3eYHCFBRUK9hyTm6aG08LD), [NORD DIVISION](https://open.spotify.com/artist/1MQrUVl8fu6oQqAe3wQ1ap) | [Дорога](https://open.spotify.com/album/1LA0LRyCxuEu0HhvRlr7Lu) | 9:05 | 2026-05-07 | 2026-05-15 |
 | [Дурень](https://open.spotify.com/track/4NNcKdWl7RDR5m9qBCj2il) | [Богдан Купер](https://open.spotify.com/artist/7oVQRtkKW1oTAe6m6yjW7K) | [Дурень](https://open.spotify.com/album/35uE2d2W9KclnhYCyx0pQo) | 2:34 | 2026-04-10 |  |
 | [Душа](https://open.spotify.com/track/5AxlGeul89BowcUufxPQf4) | [Фрай](https://open.spotify.com/artist/0u1L8pq6k21TsAtP0OPq2J) | [Душа](https://open.spotify.com/album/2Z8rGc50B4V2BDBcmjkzqV) | 2:17 | 2026-04-02 |  |
 | [журба](https://open.spotify.com/track/7H3iTpY8sYZySgvlga4FSm) | [jockii druce](https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD) | [trashhouttttttt](https://open.spotify.com/album/57ifk9AiFeBeY5u1BXkmGt) | 2:56 | 2024-06-27 | 2026-02-20 |
@@ -85,6 +85,7 @@
 | [Кожного Дня](https://open.spotify.com/track/2wtwoWPuJiPrtQJ1BVul5B) | [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu) | [Кожного Дня](https://open.spotify.com/album/2sNyCOmZDidJbM2esfPzwl) | 2:52 | 2025-06-06 | 2025-06-20 |
 | [Колискова](https://open.spotify.com/track/2ulGKgYxUdz5P9J2lRL38A) | [CHURSANOV](https://open.spotify.com/artist/5UqC0WSLyRoS6xGD8NA55e) | [Колискова](https://open.spotify.com/album/2mW9JNVGJySGliMRJPgake) | 2:12 | 2024-08-15 | 2025-03-01 |
 | [Кілометри](https://open.spotify.com/track/686IIGkIhXlr3oF78XoGmT) | [lesfleures](https://open.spotify.com/artist/5rvTaikujPdqylzMhjYsVn) | [Талант.](https://open.spotify.com/album/1JNqPxc1Cii8UnHCa8XMis) | 1:51 | 2026-04-16 | 2026-05-08 |
+| [ЛАБУДА](https://open.spotify.com/track/6EyI07FJXdGQ4a0lXLg0L1) | [NORD DIVISION](https://open.spotify.com/artist/1MQrUVl8fu6oQqAe3wQ1ap) | [ЛАБУДА](https://open.spotify.com/album/1crRIyWCvbsXKdTFkMDteo) | 13:16 | 2026-05-14 |  |
 | [Листопад](https://open.spotify.com/track/6mNHoMuMLUh5rIxiyICJG5) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Листопад](https://open.spotify.com/album/53O4pGKQMQ9gscRjc6Bus0) | 2:33 | 2024-11-08 | 2025-03-01 |
 | [Листопад](https://open.spotify.com/track/2ARYmVaJa8i7DTczEhuqAk) | [VERLOKA](https://open.spotify.com/artist/0tckoUCOIgx8MOe4mIOvUc), [HOLLY](https://open.spotify.com/artist/3EJ1bX5tskfrkykBaVzxD6) | [Листопад](https://open.spotify.com/album/5Ydo9v0cXTvcbrGMT5ZIQy) | 2:02 | 2024-06-27 | 2024-07-12 |
 | [Ломка](https://open.spotify.com/track/5Uq7PROQYS8l6dYLWdufim) | [Mark Greider](https://open.spotify.com/artist/5uFQX3xS7WcnexP5lH91eJ) | [Ломка](https://open.spotify.com/album/5gjD15gojux2Qn7RhHSXo5) | 3:09 | 2026-03-12 | 2026-05-08 |

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-1,005 songs - 2 day 13 hr 0 min
+1,006 songs - 2 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Falling In Love \(Uh\-Oh\)](https://open.spotify.com/track/5jwoygernfGvAuIxFSqxHp) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 3:53 | 2026-04-02 | 2026-04-11 |
 | [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-18 | 2024-11-14 |
 | [Far Away Chant](https://open.spotify.com/track/4CjW0aU1a6Q8SrnGfLJWGx) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 4:04 | 2025-02-26 | 2025-03-03 |
+| [Fatale](https://open.spotify.com/track/3G2qTBALAKtJoheQOMXBpx) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [+3](https://open.spotify.com/album/5u171dsX9oQuhzIQBXfkFl) | 3:19 | 2026-05-14 |  |
 | [Father Lucifer \- 2016 Remaster](https://open.spotify.com/track/22lGkc95LBywIGwK0s7duD) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Boys for Pele \(Deluxe Edition\)](https://open.spotify.com/album/7vuSTl6tuWg0CQdmfphkFQ) | 3:42 | 2025-10-24 | 2025-11-15 |
 | [Faults](https://open.spotify.com/track/3dvxF0boVTu3aSIevH99sk) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Seefeel](https://open.spotify.com/album/1yPrCGFEmjdKKjmdo0I4Jd) | 5:45 | 2026-02-04 | 2026-03-13 |
 | [Feeling Sad Tonight](https://open.spotify.com/track/3UKhzKdWIM8vd1qWPxLRkP) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:13 | 2024-11-13 | 2025-01-12 |

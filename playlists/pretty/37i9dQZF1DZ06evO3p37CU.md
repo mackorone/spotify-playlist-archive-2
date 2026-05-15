@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 
 > This is EARTHGANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,499 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,497 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 17 | [Been A Minute...](https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Been A Minute...](https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub) | 3:09 |
 | 18 | [Meditate \(feat\. J.I.D.\)](https://open.spotify.com/track/0Eqm7hD828cATBLUx2fJox) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Rags](https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ) | 4:38 |
 | 19 | [LIE TO ME](https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 4:07 |
-| 20 | [Swivel \(with EARTHGANG\) \- From The Album "Mirrorland"](https://open.spotify.com/track/03XfngWwNfhEjrnEga73Rg) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:14 |
-| 21 | [Baptize \(with JID & EARTHGANG feat\. Ant Clemons\)](https://open.spotify.com/track/5zWOqc9si4XnemdxZH4WGG) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:53 |
+| 20 | [Baptize \(with JID & EARTHGANG feat\. Ant Clemons\)](https://open.spotify.com/track/5zWOqc9si4XnemdxZH4WGG) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:53 |
+| 21 | [Swivel \(with EARTHGANG\) \- From The Album "Mirrorland"](https://open.spotify.com/track/03XfngWwNfhEjrnEga73Rg) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:14 |
 | 22 | [Big Love \(with EARTHGANG & MNDR\)](https://open.spotify.com/track/25Q6XHjKEyaXzCvKlwDpPP) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Here For Now](https://open.spotify.com/album/12BBYEXH7hGF6io8xNuXSJ) | 2:47 |
 | 23 | [You Comfort Me](https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Songs That Made Me Feel](https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR) | 3:22 |
 | 24 | [Opium \(feat\. EARTHGANG\)](https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 6:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 49 | [ALL EYES ON ME](https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 4:00 |
 | 50 | [Liquor Sto'](https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Strays with Rabies](https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb) | 4:56 |
 
-Snapshot ID: `agJtgAAAAABxtfFripg07AI2iVRjeEjP`
+Snapshot ID: `agO/AAAAAABUT4YK5bB9hbGTLgRfhvKy`

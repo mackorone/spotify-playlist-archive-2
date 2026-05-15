@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 88157,
+  "num_followers": 88163,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAC9p1UNLrEvmThAFDFjSmHw",
+  "snapshot_id": "agO/AAAAAAD/aq5a9Uuthn8DY7C0LSg0",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All You Need Is Love",
-        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+        "name": "100 Lives",
+        "url": "https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu"
       },
       "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
         {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+          "name": "EYLR",
+          "url": "https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV"
         }
       ],
-      "duration_ms": 139927,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+      "duration_ms": 193334,
+      "name": "100 Lives",
+      "url": "https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K"
     },
     {
       "added_at": null,
@@ -391,22 +387,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "100 Lives",
-        "url": "https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu"
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
       "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
         {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "EYLR",
-          "url": "https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV"
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
         }
       ],
-      "duration_ms": 193334,
-      "name": "100 Lives",
-      "url": "https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K"
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
     },
     {
       "added_at": null,

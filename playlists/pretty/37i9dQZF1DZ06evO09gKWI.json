@@ -1,12 +1,12 @@
 {
   "description": "This is Bivolt. The essential tracks, all in one playlist.",
-  "num_followers": 424,
+  "num_followers": 425,
   "original_name": "This Is Bivolt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAABTFJYd4t5scUKptTWRJE/Z",
+  "snapshot_id": "agO/AAAAAACxGg03iF6PbrCXiu0NEtev",
   "tracks": [
     {
       "added_at": null,
@@ -724,21 +724,13 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         }
       ],
-      "duration_ms": 185466,
-      "name": "Pagar Pra Ter",
-      "url": "https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU"
+      "duration_ms": 181626,
+      "name": "T\u00f4 Tranquila",
+      "url": "https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR"
     },
     {
       "added_at": null,
@@ -828,13 +820,21 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
-      "duration_ms": 181626,
-      "name": "T\u00f4 Tranquila",
-      "url": "https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR"
+      "duration_ms": 185466,
+      "name": "Pagar Pra Ter",
+      "url": "https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU"
     },
     {
       "added_at": null,
@@ -1043,54 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Topo",
-        "url": "https://open.spotify.com/album/1orHc2D0k8TKzRIyCSnFXl"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Duzz",
-          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
-        },
-        {
-          "name": "S\u00f3CIRO",
-          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Mikezin",
-          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
-        },
-        {
-          "name": "Kadri",
-          "url": "https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz"
-        },
-        {
-          "name": "Vk Mac",
-          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
-        }
-      ],
-      "duration_ms": 366857,
-      "name": "No Topo",
-      "url": "https://open.spotify.com/track/5gNR7OHe5ZAShqYItuYPmr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ela",
         "url": "https://open.spotify.com/album/6hgMAiw5faQUZgStrv3EDg"
       },
@@ -1159,26 +1111,74 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q"
+        "name": "No Topo",
+        "url": "https://open.spotify.com/album/1orHc2D0k8TKzRIyCSnFXl"
       },
       "artists": [
         {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Mikezin",
+          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
+        },
+        {
+          "name": "Kadri",
+          "url": "https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz"
+        },
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
         }
       ],
-      "duration_ms": 185884,
-      "name": "Imaginei",
-      "url": "https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL"
+      "duration_ms": 366857,
+      "name": "No Topo",
+      "url": "https://open.spotify.com/track/5gNR7OHe5ZAShqYItuYPmr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crypto Reggae",
+        "url": "https://open.spotify.com/album/4HBgdB8bpQInGGYHaFnEcj"
+      },
+      "artists": [
+        {
+          "name": "Dada Yute",
+          "url": "https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 182559,
+      "name": "Palam Gang",
+      "url": "https://open.spotify.com/track/2lXyjv3yo9lYpg9C7EcINz"
     },
     {
       "added_at": null,
@@ -1211,34 +1211,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ta\u00e7as",
-        "url": "https://open.spotify.com/album/3PoTz4bC2YUyPr24yT7zGz"
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q"
       },
       "artists": [
         {
-          "name": "Guxta",
-          "url": "https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy"
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
         },
         {
-          "name": "LOUD",
-          "url": "https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 156353,
-      "name": "Ta\u00e7as",
-      "url": "https://open.spotify.com/track/43wU9QMeq9jJrCxAvpCEXP"
+      "duration_ms": 185884,
+      "name": "Imaginei",
+      "url": "https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL"
     }
   ],
   "unique_name": "This Is Bivolt",

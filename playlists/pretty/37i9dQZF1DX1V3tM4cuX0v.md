@@ -2,34 +2,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: FIЇNKA
+> 50 найгарячіших пісень в Україні\. Обкладинка: IVAN LIULENOV
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,980 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,985 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Вівтар](https://open.spotify.com/track/77Uw5Wkdm8oHS8wkfscyyd) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Вівтар](https://open.spotify.com/album/3IRl9zHBgbbVLGzGm6hoj3) | 3:03 |
-| 2 | [сльозка](https://open.spotify.com/track/2GGCks7uW1AKEZ3usmyGFv) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [сльозка](https://open.spotify.com/album/0qVEXvhfFHHPSgIwBlrBbQ) | 3:21 |
-| 3 | [Фанат](https://open.spotify.com/track/6WWFDQv2Fv4sVkvchrQPDu) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Фанат](https://open.spotify.com/album/3NFBIvdRRvEUr3TxfOmBNa) | 3:18 |
-| 4 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
-| 5 | [ІКОНА](https://open.spotify.com/track/69mUrTMQnNQlTcvFTTAwfA) | [IVAN LIULENOV](https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs) | [ІКОНА](https://open.spotify.com/album/6r2JCnjEAjg1A3VBXIznqb) | 3:08 |
+| 1 | [ІКОНА](https://open.spotify.com/track/69mUrTMQnNQlTcvFTTAwfA) | [IVAN LIULENOV](https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs) | [ІКОНА](https://open.spotify.com/album/6r2JCnjEAjg1A3VBXIznqb) | 3:08 |
+| 2 | [Вівтар](https://open.spotify.com/track/77Uw5Wkdm8oHS8wkfscyyd) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Вівтар](https://open.spotify.com/album/3IRl9zHBgbbVLGzGm6hoj3) | 3:03 |
+| 3 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
+| 4 | [сльозка](https://open.spotify.com/track/2GGCks7uW1AKEZ3usmyGFv) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [сльозка](https://open.spotify.com/album/0qVEXvhfFHHPSgIwBlrBbQ) | 3:21 |
+| 5 | [Залишайся](https://open.spotify.com/track/4TGTna6ft6UaFobFf1FcHK) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Живий](https://open.spotify.com/album/3QRFj9rOsprsmXz7fOWgTQ) | 3:52 |
 | 6 | [розмова з містом](https://open.spotify.com/track/7tpk93TWrPZy6etiJSU8Bv) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [розмова з містом](https://open.spotify.com/album/0SdlYluxB8YEal8KI3o2qV) | 2:59 |
-| 7 | [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 |
-| 8 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
-| 9 | [Енкарапіста](https://open.spotify.com/track/1DPI72Tcvw8g3ZTdn0xlJB) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Енкарапіста](https://open.spotify.com/album/1m1WVnSkvhI9A0RCaPDJoq) | 2:58 |
-| 10 | [Не складається](https://open.spotify.com/track/2Vv2butM4lUAJFcQJusFof) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Не складається](https://open.spotify.com/album/1e043cqReHkbrPd6VRLNTN) | 3:31 |
-| 11 | [FEEL THE HEAT](https://open.spotify.com/track/4HkPA8phzU3UKJ0QOgVILO) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FEEL THE HEAT](https://open.spotify.com/album/5HnlN0yz05hxOFUgbtnOAT) | 2:27 |
-| 12 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
-| 13 | [Гандзя](https://open.spotify.com/track/1xPNyPMjOqmbStqV5vSgxP) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Гандзя](https://open.spotify.com/album/61hQMFiZDZDyPh583rpASv) | 3:37 |
-| 14 | [якщо це не по\-справжньому](https://open.spotify.com/track/5eCPcBBWHxkTJPJ92K2SoB) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [живу\-відстукує](https://open.spotify.com/album/2kh3w0NEksJO1JDzXWhCZJ) | 3:11 |
-| 15 | [boy](https://open.spotify.com/track/0Un8tNJLPWNoU3b7wXuSA2) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [boy](https://open.spotify.com/album/2RQZ6tJEOzRuqo2FCn5WUl) | 2:26 |
-| 16 | [Вівтар](https://open.spotify.com/track/43noEylZwDyaobqGHPhKw2) | [Нікіта Кісельов](https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp) | [Вівтар](https://open.spotify.com/album/5UUNGzQKrshegeUbS5ImBa) | 4:20 |
-| 17 | [На двох](https://open.spotify.com/track/4IXOijyod4KkXplH3ItNWC) | [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C), [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [На двох](https://open.spotify.com/album/1PjmDKQrBu5iTE2wufbrdU) | 2:30 |
-| 18 | [Незручна](https://open.spotify.com/track/6FYUQikhRcWkkz5JSz0jpx) | [Lida Lee](https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy) | [Незручна](https://open.spotify.com/album/2ErCJeY0qMXFYPwmnl1GA9) | 2:53 |
-| 19 | [Сильно Сильно](https://open.spotify.com/track/3j2bdGJ0zHJb3ausjxhUuU) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Сильно Сильно](https://open.spotify.com/album/5dtWBQwt2JA97t7C2z18lH) | 3:24 |
-| 20 | [Сльози](https://open.spotify.com/track/3eHtHXdvwkCzptoyGWoAN0) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Сльози](https://open.spotify.com/album/0NFd9fnA9iU96YfRhxpBgl) | 3:46 |
-| 21 | [Не Пʼяна \- Закохана \- за участі ансамблю «Кралиця»](https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Не Пʼяна \- Закохана \(за участі ансамблю «Кралиця»\)](https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2) | 3:43 |
-| 22 | [Прикуті](https://open.spotify.com/track/4KfdSyCZM6LY7WlATxIgfx) | [Kristonko](https://open.spotify.com/artist/0zazzKWsThTBwSOVbwBNZY) | [Прикуті](https://open.spotify.com/album/01jiq2sZMVJcY9UQd6NnvA) | 2:25 |
+| 7 | [Фанат](https://open.spotify.com/track/6WWFDQv2Fv4sVkvchrQPDu) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Фанат](https://open.spotify.com/album/3NFBIvdRRvEUr3TxfOmBNa) | 3:18 |
+| 8 | [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 |
+| 9 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
+| 10 | [Енкарапіста](https://open.spotify.com/track/1DPI72Tcvw8g3ZTdn0xlJB) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Енкарапіста](https://open.spotify.com/album/1m1WVnSkvhI9A0RCaPDJoq) | 2:58 |
+| 11 | [Не складається](https://open.spotify.com/track/2Vv2butM4lUAJFcQJusFof) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Не складається](https://open.spotify.com/album/1e043cqReHkbrPd6VRLNTN) | 3:31 |
+| 12 | [FEEL THE HEAT](https://open.spotify.com/track/4HkPA8phzU3UKJ0QOgVILO) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FEEL THE HEAT](https://open.spotify.com/album/5HnlN0yz05hxOFUgbtnOAT) | 2:27 |
+| 13 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
+| 14 | [Гандзя](https://open.spotify.com/track/1xPNyPMjOqmbStqV5vSgxP) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Гандзя](https://open.spotify.com/album/61hQMFiZDZDyPh583rpASv) | 3:37 |
+| 15 | [якщо це не по\-справжньому](https://open.spotify.com/track/5eCPcBBWHxkTJPJ92K2SoB) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [живу\-відстукує](https://open.spotify.com/album/2kh3w0NEksJO1JDzXWhCZJ) | 3:11 |
+| 16 | [boy](https://open.spotify.com/track/0Un8tNJLPWNoU3b7wXuSA2) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [boy](https://open.spotify.com/album/2RQZ6tJEOzRuqo2FCn5WUl) | 2:26 |
+| 17 | [Вівтар](https://open.spotify.com/track/43noEylZwDyaobqGHPhKw2) | [Нікіта Кісельов](https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp) | [Вівтар](https://open.spotify.com/album/5UUNGzQKrshegeUbS5ImBa) | 4:20 |
+| 18 | [На двох](https://open.spotify.com/track/4IXOijyod4KkXplH3ItNWC) | [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C), [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [На двох](https://open.spotify.com/album/1PjmDKQrBu5iTE2wufbrdU) | 2:30 |
+| 19 | [Незручна](https://open.spotify.com/track/6FYUQikhRcWkkz5JSz0jpx) | [Lida Lee](https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy) | [Незручна](https://open.spotify.com/album/2ErCJeY0qMXFYPwmnl1GA9) | 2:53 |
+| 20 | [Сильно Сильно](https://open.spotify.com/track/3j2bdGJ0zHJb3ausjxhUuU) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Сильно Сильно](https://open.spotify.com/album/5dtWBQwt2JA97t7C2z18lH) | 3:24 |
+| 21 | [Сльози](https://open.spotify.com/track/3eHtHXdvwkCzptoyGWoAN0) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Сльози](https://open.spotify.com/album/0NFd9fnA9iU96YfRhxpBgl) | 3:46 |
+| 22 | [Не Пʼяна \- Закохана \- за участі ансамблю «Кралиця»](https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Не Пʼяна \- Закохана \(за участі ансамблю «Кралиця»\)](https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2) | 3:43 |
 | 23 | [Питань нема](https://open.spotify.com/track/7bXv03fXWRWpXUajb9F0WY) | [Victoria Niro](https://open.spotify.com/artist/0Fnwu2Efik3XglLCqUXJVo) | [Питань нема](https://open.spotify.com/album/7bMLZ9QarJof8TuEUEHBx7) | 2:47 |
 | 24 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 | 25 | [Привіт\. Hello](https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Привіт\. Hello](https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 49 | [Тьотя](https://open.spotify.com/track/69Agz1StFDBAQwJ2xgvGbF) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Тьотя](https://open.spotify.com/album/3O2ugjYKav0TjqxL8od8wn) | 3:05 |
 | 50 | [На порозі](https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [На порозі](https://open.spotify.com/album/1gHncrqN84hbOyna6VnGWR) | 2:39 |
 
-Snapshot ID: `AAAAAEBJoG+PrSBCfaMj5bp2eCvI1S1X`
+Snapshot ID: `AAAAABX1Ob5a1RhIfAxiq7lYfYoYNNuS`

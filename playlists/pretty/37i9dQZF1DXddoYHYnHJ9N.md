@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: BSW & Nagy Bogi
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,766 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,767 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

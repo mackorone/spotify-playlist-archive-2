@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Z\u00e9lia Duncan",
-  "num_followers": 355817,
+  "num_followers": 355805,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,26 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 259406,
+      "name": "Quando Chego",
+      "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
         "name": "Improviso",
         "url": "https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj"
       },
@@ -75,26 +95,6 @@
       "duration_ms": 216410,
       "name": "Sua Onda",
       "url": "https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 259406,
-      "name": "Quando Chego",
-      "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Um Brinde",
-        "url": "https://open.spotify.com/album/518EwiGLvrLvChQamxmiHk"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 336725,
-      "name": "Um Brinde",
-      "url": "https://open.spotify.com/track/45JysOjjxmLYYUyBNmB6oE"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Um dia eu te encontro",
         "url": "https://open.spotify.com/album/1XzOxqDFkg9PExs47Tip0a"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 209250,
       "name": "Um dia eu te encontro",
       "url": "https://open.spotify.com/track/37QAkaScwdWBOwj8pBpCLo"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Um Brinde",
+        "url": "https://open.spotify.com/album/518EwiGLvrLvChQamxmiHk"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 336725,
+      "name": "Um Brinde",
+      "url": "https://open.spotify.com/track/45JysOjjxmLYYUyBNmB6oE"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Depois do Breu",
-        "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
-      },
-      "artists": [
-        {
-          "name": "Juliana Linhares",
-          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
-        }
-      ],
-      "duration_ms": 250851,
-      "name": "Depois do Breu",
-      "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Reticente",
         "url": "https://open.spotify.com/album/16T8n1POOMmKUrVycoSKlR"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 205997,
       "name": "Reticente",
       "url": "https://open.spotify.com/track/1a0Cfrm86I4nbyk9osnUTF"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Depois do Breu",
+        "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
+      },
+      "artists": [
+        {
+          "name": "Juliana Linhares",
+          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
+        }
+      ],
+      "duration_ms": 250851,
+      "name": "Depois do Breu",
+      "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -547,8 +547,28 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Coisas de Viver",
-        "url": "https://open.spotify.com/album/7h9n5SheG6PtHIOFjfPkYg"
+        "name": "A vida se revela",
+        "url": "https://open.spotify.com/album/2u2cnOWa1vI7pAZ94Y91GF"
+      },
+      "artists": [
+        {
+          "name": "O Teatro M\u00e1gico",
+          "url": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
+        },
+        {
+          "name": "Flavio Venturini",
+          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
+        }
+      ],
+      "duration_ms": 216153,
+      "name": "A vida se revela",
+      "url": "https://open.spotify.com/track/4AGMxN4dW6U7uHrykhsXTC"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "G\u00e9rbera",
+        "url": "https://open.spotify.com/album/1nqSDbbzbWWpbOHWXqhp4h"
       },
       "artists": [
         {
@@ -556,13 +576,29 @@
           "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         },
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 173915,
-      "name": "Coisas de Viver",
-      "url": "https://open.spotify.com/track/0aXfJykpgdZIZ1Rgr278Pr"
+      "duration_ms": 166236,
+      "name": "G\u00e9rbera",
+      "url": "https://open.spotify.com/track/4ZPCUcXOBukvDhV4ydKYxC"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -591,42 +627,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
-        "name": "A vida se revela",
-        "url": "https://open.spotify.com/album/2u2cnOWa1vI7pAZ94Y91GF"
-      },
-      "artists": [
-        {
-          "name": "O Teatro M\u00e1gico",
-          "url": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
-        },
-        {
-          "name": "Flavio Venturini",
-          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
-        }
-      ],
-      "duration_ms": 216153,
-      "name": "A vida se revela",
-      "url": "https://open.spotify.com/track/4AGMxN4dW6U7uHrykhsXTC"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Da Mesma Mat\u00e9ria",
         "url": "https://open.spotify.com/album/5MTzGyUuyasjq7q2387za6"
       },
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "G\u00e9rbera",
-        "url": "https://open.spotify.com/album/1nqSDbbzbWWpbOHWXqhp4h"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 166236,
-      "name": "G\u00e9rbera",
-      "url": "https://open.spotify.com/track/4ZPCUcXOBukvDhV4ydKYxC"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Vila do Sossego",
         "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 249798,
       "name": "Vila do Sossego",
       "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Coisas de Viver",
+        "url": "https://open.spotify.com/album/7h9n5SheG6PtHIOFjfPkYg"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 173915,
+      "name": "Coisas de Viver",
+      "url": "https://open.spotify.com/track/0aXfJykpgdZIZ1Rgr278Pr"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
+        "name": "Afim De Ver\u00e3o",
+        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 300567,
+      "name": "Afim De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
         "name": "BEM ME QUER / MINHA FLOR",
         "url": "https://open.spotify.com/album/7IzEEUAuO7NNdXoRK3KMoo"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 242000,
       "name": "MINHA FLOR",
       "url": "https://open.spotify.com/track/2pN0iVbrmmja8zlJne0fvS"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
-        "name": "Afim De Ver\u00e3o",
-        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 300567,
-      "name": "Afim De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/77jQnxccYwQsoSYaz2XCPn"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 118647,
-      "name": "Boi",
-      "url": "https://open.spotify.com/track/5K5vFbKjcsfgahDYidEx6c"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Licen\u00e7a",
         "url": "https://open.spotify.com/album/66vnrGAJRJwS0wZTuxLgGG"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 219942,
       "name": "Criaturas da Noite",
       "url": "https://open.spotify.com/track/4Ei3Nv53tUWbhityquzSWA"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/77jQnxccYwQsoSYaz2XCPn"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 118647,
+      "name": "Boi",
+      "url": "https://open.spotify.com/track/5K5vFbKjcsfgahDYidEx6c"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Minha Casa",
-        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 200632,
-      "name": "Noite Severina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Reencontro",
         "url": "https://open.spotify.com/album/6FHmlkD5iOGhbvbXlVupp5"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 200500,
       "name": "Reencontro",
       "url": "https://open.spotify.com/track/0J9K0NPeUyQEZw87N0T0y0"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Minha Casa",
+        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 200632,
+      "name": "Noite Severina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Charme Do Mundo",
-        "url": "https://open.spotify.com/album/5hZeK56neuhdhzune4QtYu"
-      },
-      "artists": [
-        {
-          "name": "Leoni",
-          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
-        },
-        {
-          "name": "Outro Futuro",
-          "url": "https://open.spotify.com/artist/7IGi9K7nL5xNTXRS7c78QT"
-        }
-      ],
-      "duration_ms": 241401,
-      "name": "Charme Do Mundo",
-      "url": "https://open.spotify.com/track/3NTNo2SvRGXarNeME5y1X4"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Um Trem para as Estrelas",
         "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
       },
@@ -1351,6 +1331,26 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
+        "name": "Charme Do Mundo",
+        "url": "https://open.spotify.com/album/5hZeK56neuhdhzune4QtYu"
+      },
+      "artists": [
+        {
+          "name": "Leoni",
+          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
+        },
+        {
+          "name": "Outro Futuro",
+          "url": "https://open.spotify.com/artist/7IGi9K7nL5xNTXRS7c78QT"
+        }
+      ],
+      "duration_ms": 241401,
+      "name": "Charme Do Mundo",
+      "url": "https://open.spotify.com/track/3NTNo2SvRGXarNeME5y1X4"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
         "name": "Cartas de Amor - Vol 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kdArHM1ssoWk6mNKsgP9Z"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 238291,
       "name": "Aventurar \u00c9 Preciso",
       "url": "https://open.spotify.com/track/7jUiecRd08TE00CpDBfdZ1"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
-        "name": "M\u00e3e",
-        "url": "https://open.spotify.com/album/4yu7oYdkb7y6Z1tQosW1yq"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 224060,
-      "name": "M\u00e3e",
-      "url": "https://open.spotify.com/track/6imUMThATsFFXljYTuWPso"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/05vHoRRovirQAL58SCHNBZ"
+        "name": "M\u00e3e",
+        "url": "https://open.spotify.com/album/4yu7oYdkb7y6Z1tQosW1yq"
       },
       "artists": [
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
         }
       ],
-      "duration_ms": 265166,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/39wmwAYmZBUiH6uZmXcKoz"
+      "duration_ms": 224060,
+      "name": "M\u00e3e",
+      "url": "https://open.spotify.com/track/6imUMThATsFFXljYTuWPso"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Fruto Do Tempo",
-        "url": "https://open.spotify.com/album/2ayzvQrO9Sxt2qxdNyII3W"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/05vHoRRovirQAL58SCHNBZ"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 244821,
-      "name": "Fruto Do Tempo",
-      "url": "https://open.spotify.com/track/3mHCLBftcI0Q07oFRlS4n0"
+      "duration_ms": 265166,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/39wmwAYmZBUiH6uZmXcKoz"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1511,6 +1495,22 @@
       "duration_ms": 216408,
       "name": "Sambadouro",
       "url": "https://open.spotify.com/track/63l1FU5mLWz51aaTmCoxNz"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Fruto Do Tempo",
+        "url": "https://open.spotify.com/album/2ayzvQrO9Sxt2qxdNyII3W"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 244821,
+      "name": "Fruto Do Tempo",
+      "url": "https://open.spotify.com/track/3mHCLBftcI0Q07oFRlS4n0"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "s\u00f3 eu sei",
-        "url": "https://open.spotify.com/album/5AXHyzrsBqeLPTZieytJyW"
-      },
-      "artists": [
-        {
-          "name": "una sof\u00eda",
-          "url": "https://open.spotify.com/artist/6yMyH4DR2SK7Ido39SfcAs"
-        },
-        {
-          "name": "Nina Nicolaiewsky",
-          "url": "https://open.spotify.com/artist/1vz8lnQtRG8SVZYRfZpkGh"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "s\u00f3 eu sei",
-      "url": "https://open.spotify.com/track/7e0h3dwmifDZT14DLjgqZJ"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Tudo Vai Conspirar",
         "url": "https://open.spotify.com/album/43Vh4wyKdRXNjHWLi1IZHk"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 184875,
       "name": "Tudo Vai Conspirar",
       "url": "https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "s\u00f3 eu sei",
+        "url": "https://open.spotify.com/album/5AXHyzrsBqeLPTZieytJyW"
+      },
+      "artists": [
+        {
+          "name": "una sof\u00eda",
+          "url": "https://open.spotify.com/artist/6yMyH4DR2SK7Ido39SfcAs"
+        },
+        {
+          "name": "Nina Nicolaiewsky",
+          "url": "https://open.spotify.com/artist/1vz8lnQtRG8SVZYRfZpkGh"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "s\u00f3 eu sei",
+      "url": "https://open.spotify.com/track/7e0h3dwmifDZT14DLjgqZJ"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Vestido de Rainha",
-        "url": "https://open.spotify.com/album/5UGk1JVGuDxmn64RozfgVq"
-      },
-      "artists": [
-        {
-          "name": "Lua Castanho",
-          "url": "https://open.spotify.com/artist/6Jp8gOtrNLsndm38r4nosw"
-        }
-      ],
-      "duration_ms": 243607,
-      "name": "Giram S\u00f3is",
-      "url": "https://open.spotify.com/track/15GQtcXgZlUXDbkgu27Zvu"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Quase",
         "url": "https://open.spotify.com/album/3PQ0ob3ei1Y7IsLhJ02BoB"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 240083,
       "name": "Quase",
       "url": "https://open.spotify.com/track/79IHRZdPtOQ0jek0OHTwHp"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Vestido de Rainha",
+        "url": "https://open.spotify.com/album/5UGk1JVGuDxmn64RozfgVq"
+      },
+      "artists": [
+        {
+          "name": "Lua Castanho",
+          "url": "https://open.spotify.com/artist/6Jp8gOtrNLsndm38r4nosw"
+        }
+      ],
+      "duration_ms": 243607,
+      "name": "Giram S\u00f3is",
+      "url": "https://open.spotify.com/track/15GQtcXgZlUXDbkgu27Zvu"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1795,6 +1795,30 @@
       "duration_ms": 219034,
       "name": "Voa - Feat. Ivan Lins",
       "url": "https://open.spotify.com/track/65o5NMspKyMwnXVEMRB3iO"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "A Beleza De Ser",
+        "url": "https://open.spotify.com/album/35MiCztNYMVMlVYlifBCzc"
+      },
+      "artists": [
+        {
+          "name": "Muca",
+          "url": "https://open.spotify.com/artist/0B530ZeLXBaPt7AN3wHNcM"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Ilessi",
+          "url": "https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "A Beleza De Ser",
+      "url": "https://open.spotify.com/track/77KUT4cGoNZZwatCZii61P"
     },
     {
       "added_at": "2026-05-08 03:01:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,590 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,596 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 56 | [Air](https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:16 |
 | 57 | [Mondays](https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Mafeni](https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs) | [Mondays](https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK) | 2:14 |
 | 58 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 |
-| 59 | [Coconut Lips](https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Coconut Lips](https://open.spotify.com/album/6MsvVk2Ts2wITEcov3Zz5Q) | 3:35 |
-| 60 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 |
+| 59 | [Up](https://open.spotify.com/track/78fUOYqXOsIFo6kBjEFfws) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Bri's Lounge](https://open.spotify.com/album/5RZYdZDTZdvlVl11IXCPU4) | 3:25 |
+| 60 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 |
 
 Snapshot ID: `AAAAAHqEkLFIaXOfXehpjGcze3XbkEzT`

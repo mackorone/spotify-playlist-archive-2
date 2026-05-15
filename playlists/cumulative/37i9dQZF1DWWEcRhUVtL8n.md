@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: MUNA
 
-2,396 songs - 5 day 7 hr 38 min
+2,397 songs - 5 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,7 @@
 | [dominoes](https://open.spotify.com/track/1VTr2yQEEKt8ctEL0sFn2m) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [dominoes](https://open.spotify.com/album/38UEwenNyPDRh8e0JhT3hJ) | 2:57 | 2022-01-28 | 2022-04-17 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-04-26 |
 | [Don't Forget Your Neighborhood](https://open.spotify.com/track/0f5oefcDaN8RCIZrVJa8Q7) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Don't Forget Your Neighborhood](https://open.spotify.com/album/2sse1UJ2m1BwZ243r8duR7) | 4:54 | 2021-06-03 | 2021-06-04 |
-| [Don't Kill the Vibe](https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd) | [Jordan Joy](https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv) | [Don't Kill the Vibe](https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N) | 4:22 | 2026-04-24 |  |
+| [Don't Kill the Vibe](https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd) | [Jordan Joy](https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv) | [Don't Kill the Vibe](https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N) | 4:22 | 2026-04-24 | 2026-05-15 |
 | [Don't Know How to Girlfriend](https://open.spotify.com/track/0Xujn00SgmNKBo4y7czhnl) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 3:01 | 2022-04-15 | 2022-04-20 |
 | [Don't Let Me Die In Hollywood](https://open.spotify.com/track/3DJ8ykFy6BdKzoPQFsAkBM) | [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [Don't Let Me Die In Hollywood](https://open.spotify.com/album/3PwkZ5GRuEL1V56z3n0ifR) | 3:02 | 2020-10-13\* | 2020-11-13 |
 | [Don't Let Me Down](https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down](https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU) | 3:55 | 2023-04-21 | 2024-01-13 |
@@ -1235,6 +1235,7 @@
 | [leaving is easy](https://open.spotify.com/track/4nfJKQjA0kTZELSUtpeKQv) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [leaving is easy](https://open.spotify.com/album/4csC6Ngy7HOWdFhh21SMhP) | 3:33 | 2026-03-20 | 2026-05-09 |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-03-29 | 2024-06-08 |
 | [Legs](https://open.spotify.com/track/4MfniDlEjoHjlc5InztTdR) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Legs](https://open.spotify.com/album/0BSMBaAtdAdYqySVXTwR4P) | 3:42 | 2024-08-23 | 2024-09-14 |
+| [lemonlime](https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [lemonlime](https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u) | 3:25 | 2026-04-10 |  |
 | [lemons](https://open.spotify.com/track/2tLoNGLxZsPvvPUVDMfSY2) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [lemons](https://open.spotify.com/album/4VCLLpsH8VSMy2VOdhUhXG) | 3:24 | 2022-03-18 | 2022-04-13 |
 | [Leona](https://open.spotify.com/track/3nZdGftW9CLVQZ0j9hkPuL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO PT\. 1](https://open.spotify.com/album/1sByjN7ag1X0ppsT6SdP8J) | 4:06 | 2021-06-03 | 2021-06-04 |
 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 | 2021-10-10 | 2021-10-11 |

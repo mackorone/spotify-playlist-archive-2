@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49128,
+  "num_followers": 49131,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADz1qYSWuxR7SZ4GrLBnPS9",
+  "snapshot_id": "agO/AAAAAAA6o0ZsM80+735lRvmD+NsS",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 223456,
       "name": "collide",
       "url": "https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "red bikini",
+        "url": "https://open.spotify.com/album/0gHXJ2q3TX31arXhf31vbh"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 216054,
+      "name": "red bikini",
+      "url": "https://open.spotify.com/track/6HRfpEsRjpbi0vuS2od9t9"
     },
     {
       "added_at": null,
@@ -323,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Missed Calls (feat. Hayley Kiyoko)",
-        "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
       "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 154324,
-      "name": "Missed Calls (feat. Hayley Kiyoko)",
-      "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
+      "duration_ms": 185995,
+      "name": "sugar at the bottom",
+      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
     },
     {
       "added_at": null,
@@ -359,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+        "name": "Missed Calls (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
       },
       "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 185995,
-      "name": "sugar at the bottom",
-      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
+      "duration_ms": 154324,
+      "name": "Missed Calls (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
     },
     {
       "added_at": null,
@@ -395,26 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
-        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
       "artists": [
         {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        },
-        {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "AhhHaa",
-          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
         }
       ],
-      "duration_ms": 167649,
-      "name": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
-      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
+      "duration_ms": 167433,
+      "name": "luna",
+      "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
     },
     {
       "added_at": null,
@@ -431,22 +443,6 @@
       "duration_ms": 231293,
       "name": "He'll Never Love You (HNLY)",
       "url": "https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 167433,
-      "name": "luna",
-      "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
     },
     {
       "added_at": null,
@@ -483,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 228431,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
@@ -515,6 +495,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
+        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "AhhHaa",
+          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
+        }
+      ],
+      "duration_ms": 167649,
+      "name": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
+      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 228431,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Citrine EP",
         "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
@@ -527,22 +547,6 @@
       "duration_ms": 235466,
       "name": "One Bad Night",
       "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "somewhere between the sand and the stardust",
-        "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 210918,
-      "name": "somewhere between the sand and the stardust",
-      "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
     },
     {
       "added_at": null,
@@ -571,6 +575,22 @@
       "duration_ms": 155975,
       "name": "Taste So Good (The Cann Song)",
       "url": "https://open.spotify.com/track/5QfungSRYsaCetJfRdazI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "somewhere between the sand and the stardust",
+        "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 210918,
+      "name": "somewhere between the sand and the stardust",
+      "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
     },
     {
       "added_at": null,

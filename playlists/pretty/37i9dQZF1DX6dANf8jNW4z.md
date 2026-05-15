@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\. Foto: Chambao.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,210 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,209 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 59 | [Para Nacer](https://open.spotify.com/track/0fLfe04pdSLi55B9VyP5BP) | [Marina Paredes](https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu) | [Para Nacer](https://open.spotify.com/album/2KthfawVZzrmM1TzxwSJEZ) | 4:36 |
 | 60 | [Jurao](https://open.spotify.com/track/3WgTsWMMtYc9FHlOXdyB2R) | [Alba La Negra](https://open.spotify.com/artist/3o452kYzMEFag64UkILkVE) | [Jurao](https://open.spotify.com/album/4c9kp6Bq4juC4GvVWt7UjH) | 3:41 |
 
-Snapshot ID: `AAAAAAeNyzg6riCOEFLwF/zRLzWSbfgW`
+Snapshot ID: `AAAAAIbI3w2M8GcSnBtnCjqAP9YR4Lsn`

@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-136 songs - 9 hr 6 min
+137 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Under My Thumb \- UK Single Mix / Mono Version](https://open.spotify.com/track/1W0VRuwNVPQ44zTomFOpSK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 2:37 | 2022-10-06 | 2022-10-08 |
 | [Water \- Re\-Make / Take 8](https://open.spotify.com/track/6M4JSKUxDWN659lNxzn6v4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 5:12 | 2023-11-10 | 2023-12-14 |
 | [We're Not Gonna Take It](https://open.spotify.com/track/7jFImjC2qNx6K4WP8PPzGv) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 7:06 | 2022-09-20 | 2022-10-07 |
-| [Who Are You](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 6:21 | 2022-09-17 |  |
+| [Who Are You](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 6:21 | 2022-09-17 | 2026-05-15 |
+| [Who Are You](https://open.spotify.com/track/4XTjaXaGmPh8ys1BzFdjdL) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You \(Super Deluxe Edition\)](https://open.spotify.com/album/7qGnKtZPJMP3LFgEl2WM4r) | 6:22 | 2026-05-15 |  |
 | [Won't Get Fooled Again \- Live At The Oval, London, England \- 9/18/1971](https://open.spotify.com/track/0cFQIlxISu7OZwAY2IvoFw) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Live At The Oval 1971](https://open.spotify.com/album/6PjBwZHtSzVM8d1iD6or1w) | 8:56 | 2025-08-24 | 2025-09-21 |
 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 | 2022-09-17 |  |
 | [You Better You Bet](https://open.spotify.com/track/58RWYT5MGo8e4Y3WAZHh9g) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 5:37 | 2022-09-17 |  |

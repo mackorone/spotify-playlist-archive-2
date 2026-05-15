@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,219 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,217 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 27 | [nothing spoil](https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 3:58 |
 | 28 | [RIDE OR DIE?](https://open.spotify.com/track/2Tf0nTcooiuOWxflvDI3oI) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:01 |
 | 29 | [Show My Side \(feat\. Amaarae\)](https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:02 |
-| 30 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 |
-| 31 | [Anya Mmiri](https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:08 |
+| 30 | [Anya Mmiri](https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:08 |
+| 31 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 |
 | 32 | [Bygone](https://open.spotify.com/track/1BvdpcGv8qFqO99XWN7ile) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 3:18 |
-| 33 | [love nwantiti x dumebi \- Midé Naike Remix](https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Midé Naike](https://open.spotify.com/artist/7qYDPQS76PSE3OzJZ48JCc) | [love nwantiti x dumebi \(Midé Naike Remix\)](https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j) | 3:14 |
-| 34 | [capture my soul \(feat\. Joeboy\)](https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:31 |
+| 33 | [capture my soul \(feat\. Joeboy\)](https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:31 |
+| 34 | [love nwantiti x dumebi \- Midé Naike Remix](https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Midé Naike](https://open.spotify.com/artist/7qYDPQS76PSE3OzJZ48JCc) | [love nwantiti x dumebi \(Midé Naike Remix\)](https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j) | 3:14 |
 | 35 | [beeni \(feat\. Barry Jhay\)](https://open.spotify.com/track/17JuQJJwiZz8xLExCOf59u) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 3:19 |
 | 36 | [Know Better \(feat\. CKay, Seun Kuti & Egypt 80\)](https://open.spotify.com/track/0pSIOwm8Jz5iMj3nR2rllq) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:49 |
 | 37 | [tey tey](https://open.spotify.com/track/2rnfU3akycNpzV0hSXdkGG) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [FANTASY](https://open.spotify.com/track/6ylNT9nQLTOglCEHqvFnGo) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:42 |
 | 50 | [40 Days \(feat\. CKay\)](https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [40 Days \(feat\. CKay\)](https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL) | 3:06 |
 
-Snapshot ID: `agJtgAAAAAAsOP0EMnpCiZEkrauTQ9tU`
+Snapshot ID: `agO/AAAAAAC0VYc+o+vMSnUW0t84d/Ij`

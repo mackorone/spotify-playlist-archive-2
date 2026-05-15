@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 164210,
+  "num_followers": 164228,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Sin L\u00edmites",
-        "url": "https://open.spotify.com/album/6aLCUh6URBoxafrNAIx9nK"
+        "name": "El Poder del Amor",
+        "url": "https://open.spotify.com/album/6Egg4KXDy9yhJox4gjGjmZ"
       },
       "artists": [
         {
-          "name": "El Gran Mart\u00edn El\u00edas",
-          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
+          "name": "Ivan Villazon",
+          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
+        },
+        {
+          "name": "Sa\u00fal Lallermand",
+          "url": "https://open.spotify.com/artist/1lKbL9flS8aGA1TG9IpJsj"
         }
       ],
-      "duration_ms": 232320,
-      "name": "Al Fin Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/7jZJm3yRLCKxmJ3kxUtp6f"
+      "duration_ms": 254200,
+      "name": "Cuando Quieras Quiero",
+      "url": "https://open.spotify.com/track/2hPp4lIfLCYx9sMGXIOYrN"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -367,22 +371,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "El Poder del Amor",
-        "url": "https://open.spotify.com/album/6Egg4KXDy9yhJox4gjGjmZ"
+        "name": "Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/6aLCUh6URBoxafrNAIx9nK"
       },
       "artists": [
         {
-          "name": "Ivan Villazon",
-          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
-        },
-        {
-          "name": "Sa\u00fal Lallermand",
-          "url": "https://open.spotify.com/artist/1lKbL9flS8aGA1TG9IpJsj"
+          "name": "El Gran Mart\u00edn El\u00edas",
+          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
         }
       ],
-      "duration_ms": 254200,
-      "name": "Cuando Quieras Quiero",
-      "url": "https://open.spotify.com/track/2hPp4lIfLCYx9sMGXIOYrN"
+      "duration_ms": 232320,
+      "name": "Al Fin Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/7jZJm3yRLCKxmJ3kxUtp6f"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Ya No Me Duele M\u00e1s",
+        "url": "https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 226731,
+      "name": "Ya No Me Duele M\u00e1s",
+      "url": "https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 222200,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Ya No Me Duele M\u00e1s",
-        "url": "https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 226731,
-      "name": "Ya No Me Duele M\u00e1s",
-      "url": "https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 312783,
-      "name": "Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv"
+      "duration_ms": 315087,
+      "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 315087,
-      "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
+      "duration_ms": 312783,
+      "name": "Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+        "name": "Marca Registrada del Binomio de Oro",
+        "url": "https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys"
       },
       "artists": [
         {
-          "name": "Patricia Teheran y las diosas del vallenato",
-          "url": "https://open.spotify.com/artist/3rqI6yAH8n3G3DHesSW6f2"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 288853,
-      "name": "Todo daria por ti",
-      "url": "https://open.spotify.com/track/1bEzRBe3wSVaBKUaf5WMQJ"
+      "duration_ms": 270293,
+      "name": "Me Sobran las Palabras",
+      "url": "https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh"
     },
     {
       "added_at": "2024-03-28 01:45:52",

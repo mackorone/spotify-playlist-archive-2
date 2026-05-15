@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Ain't Over Me Yet",
+        "url": "https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204897,
+      "name": "Ain't Over Me Yet",
+      "url": "https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL"
+    },
+    {
+      "album": {
         "name": "Ain't That The Way",
         "url": "https://open.spotify.com/album/23q6Juae8S4qOuaQuhvskP"
       },
@@ -2122,6 +2140,28 @@
       "duration_ms": 189502,
       "name": "Better than the Floor",
       "url": "https://open.spotify.com/track/3mSmfRatQFPfg6UERTRkHd"
+    },
+    {
+      "album": {
+        "name": "Better That Way",
+        "url": "https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225884,
+      "name": "Better That Way (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl"
     },
     {
       "album": {
@@ -4543,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Crisco",
+        "url": "https://open.spotify.com/album/70GWxgdMF8ybDcY4JX9SEE"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Crisco",
+      "url": "https://open.spotify.com/track/5pnWECOdwXO5tIyx1DqAeP"
+    },
+    {
+      "album": {
         "name": "CROOKED ROAD",
         "url": "https://open.spotify.com/album/2zxfSHnDIzxmnfCsHrMgm3"
       },
@@ -4702,6 +4760,24 @@
       "duration_ms": 220032,
       "name": "Damn You",
       "url": "https://open.spotify.com/track/4HRzB2lByJLeWdNqx5R0Be"
+    },
+    {
+      "album": {
+        "name": "There I Go",
+        "url": "https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217446,
+      "name": "Damned If I Do",
+      "url": "https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous"
     },
     {
       "album": {
@@ -5308,6 +5384,24 @@
       "duration_ms": 165920,
       "name": "Dirt Road Down",
       "url": "https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1"
+    },
+    {
+      "album": {
+        "name": "Dirty Rosie",
+        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166792,
+      "name": "Dirty Rosie",
+      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
     },
     {
       "album": {
@@ -8351,6 +8445,24 @@
     },
     {
       "album": {
+        "name": "Heartbreakaholic",
+        "url": "https://open.spotify.com/album/1B5eZejFOmzCZ4PvhkMNPj"
+      },
+      "artists": [
+        {
+          "name": "Lauren Watkins",
+          "url": "https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Heartbreakaholic",
+      "url": "https://open.spotify.com/track/43UbMvCw1JOW1mYguzrgkb"
+    },
+    {
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/3mdZCptI0XLPJsp8CRgYbo"
       },
@@ -9758,7 +9870,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 159210,
       "name": "I Know I Know",
       "url": "https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc"
@@ -13546,7 +13658,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 237615,
       "name": "New Frontier",
       "url": "https://open.spotify.com/track/1yZOVBrmZeM8vPpVhMNzzs"
@@ -14747,6 +14859,24 @@
     },
     {
       "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/4stLFHAPs5H3vnd9iU5l11"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172903,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/4w2tZUs63YQeIFhKSCScJ7"
+    },
+    {
+      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/5jS1UDnigkwwbwB9T6l470"
       },
@@ -15658,7 +15788,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 165289,
       "name": "Rethink Some Things",
       "url": "https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu"
@@ -17366,6 +17496,28 @@
       "duration_ms": 195377,
       "name": "Something Stronger",
       "url": "https://open.spotify.com/track/4D8QTpuGn0abO0HmdTI8Rs"
+    },
+    {
+      "album": {
+        "name": "Something To Lose",
+        "url": "https://open.spotify.com/album/7jBvgF3VkF58blzE4NWOye"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        },
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175014,
+      "name": "Something To Lose",
+      "url": "https://open.spotify.com/track/78lR1li9wdwunwNoVYiBpE"
     },
     {
       "album": {

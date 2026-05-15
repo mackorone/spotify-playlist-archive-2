@@ -2623,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "Shenanigansia Vol.1",
+        "url": "https://open.spotify.com/album/02WORhFZN1F14E2dTBUXau"
+      },
+      "artists": [
+        {
+          "name": "Obsoletha",
+          "url": "https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249269,
+      "name": "Blue Screen, Half-Dream",
+      "url": "https://open.spotify.com/track/7s6tUZIowZBSVBSmOUtXRN"
+    },
+    {
+      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1RBlxsu43h0kjVgYfmf3yI"
       },
@@ -8072,6 +8090,24 @@
       "duration_ms": 202000,
       "name": "Feral Lane",
       "url": "https://open.spotify.com/track/43ve0SDtFW96YcHCYIv4Bd"
+    },
+    {
+      "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/3aOn04dyPWVFbj1CpNGWat"
+      },
+      "artists": [
+        {
+          "name": "Kontradikshn",
+          "url": "https://open.spotify.com/artist/20Y7zwi1YKZMxi0N7L2nb2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227941,
+      "name": "Fertique yeah",
+      "url": "https://open.spotify.com/track/1dQcv90sKSlA7Mde2Sg9Cs"
     },
     {
       "album": {
@@ -13831,6 +13867,24 @@
     },
     {
       "album": {
+        "name": "LOVING",
+        "url": "https://open.spotify.com/album/6EjBcnbJOy4tSNDZFzAhZr"
+      },
+      "artists": [
+        {
+          "name": "Jacob Ryan",
+          "url": "https://open.spotify.com/artist/7DgMrk1x4fR1xtITgESbIV"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231940,
+      "name": "LOVING",
+      "url": "https://open.spotify.com/track/3O8vass2SxwRzROlx3LTUz"
+    },
+    {
+      "album": {
         "name": "THELASTIME",
         "url": "https://open.spotify.com/album/6RscKRqZ5aTdYOgYDMi0jT"
       },
@@ -14928,6 +14982,24 @@
       "duration_ms": 175524,
       "name": "Moonshot",
       "url": "https://open.spotify.com/track/2NEZmAlotN9gbZY8xsnwkY"
+    },
+    {
+      "album": {
+        "name": "Music out of Shit",
+        "url": "https://open.spotify.com/album/45HcSY5y8suN9lQZgl5A59"
+      },
+      "artists": [
+        {
+          "name": "Porcus vs Equus",
+          "url": "https://open.spotify.com/artist/0nQSxoEPKIpzEflBycGG2Y"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155225,
+      "name": "MOoS",
+      "url": "https://open.spotify.com/track/4yCBRVGcAMikP52sqLbZ6v"
     },
     {
       "album": {
@@ -17227,6 +17299,24 @@
     },
     {
       "album": {
+        "name": "Fun Sucker",
+        "url": "https://open.spotify.com/album/334p9QnEnPk7HTKGoqNxlP"
+      },
+      "artists": [
+        {
+          "name": "Undercity Kings",
+          "url": "https://open.spotify.com/artist/0MI2WP1twJJQV3OnFY6Slm"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99057,
+      "name": "PENDEJO",
+      "url": "https://open.spotify.com/track/1CyTHBNMzHSUzoQWhuhaRk"
+    },
+    {
+      "album": {
         "name": "Arabesque",
         "url": "https://open.spotify.com/album/3Ci9lnpfoobOGL3XIS12Y7"
       },
@@ -19038,7 +19128,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 183040,
       "name": "Rolling With The Punches",
       "url": "https://open.spotify.com/track/2uBdx0mSrBFpKfpMI3UIze"
@@ -19446,6 +19536,24 @@
       "duration_ms": 186226,
       "name": "Scared",
       "url": "https://open.spotify.com/track/5WXLf0F01kssLi9XOLDeSW"
+    },
+    {
+      "album": {
+        "name": "scifi alibi",
+        "url": "https://open.spotify.com/album/3jJo3buqpkD6Ss2EUOhBZK"
+      },
+      "artists": [
+        {
+          "name": "paradiso PDE",
+          "url": "https://open.spotify.com/artist/08rzidI7HeLZCssOCMhvsW"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206532,
+      "name": "scifi alibi",
+      "url": "https://open.spotify.com/track/6T1ZgC455novi75pLjtStq"
     },
     {
       "album": {
@@ -21605,6 +21713,24 @@
     },
     {
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/03giCh9I2o3HR4xmhld7F5"
+      },
+      "artists": [
+        {
+          "name": "Crying in Colour",
+          "url": "https://open.spotify.com/artist/1gKbrFmybPXTOjGBXetQAn"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/3Bd5rnQ4kDi3RbKbjbF8K9"
+    },
+    {
+      "album": {
         "name": "Ravec\u00f8re",
         "url": "https://open.spotify.com/album/02S523fv6pPpr4kHdBHzdR"
       },
@@ -21984,6 +22110,24 @@
       "duration_ms": 113803,
       "name": "Suizid",
       "url": "https://open.spotify.com/track/0YbAycMvzRJKDQqW2keahX"
+    },
+    {
+      "album": {
+        "name": "Isthmos",
+        "url": "https://open.spotify.com/album/4bRGZ3UMOpuUflHCSVhBFc"
+      },
+      "artists": [
+        {
+          "name": "The Prestige",
+          "url": "https://open.spotify.com/artist/0vqVZAiY4XJe400rsQSzPo"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211080,
+      "name": "Sunborn",
+      "url": "https://open.spotify.com/track/0ta20RyUCE0CTOvQrOY84d"
     },
     {
       "album": {
@@ -25553,6 +25697,24 @@
     },
     {
       "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/6yEGaipDfNKCtiPASSNh0v"
+      },
+      "artists": [
+        {
+          "name": "Dumbwiser",
+          "url": "https://open.spotify.com/artist/3QflMg2Mt2RaMwInZ9kP9H"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193649,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/20vogtcnBIog3nFWy8Rvqx"
+    },
+    {
+      "album": {
         "name": "War / Modern Slavery",
         "url": "https://open.spotify.com/album/3ArgHxxt8iJZvLpAyGQrQf"
       },
@@ -26992,6 +27154,24 @@
       "duration_ms": 223702,
       "name": "You Are The Reason",
       "url": "https://open.spotify.com/track/12CZsFBNPo7cdvRPSJHF8A"
+    },
+    {
+      "album": {
+        "name": "You Can't Bring That in Here, Our Drummer Has a Peanut Allergy",
+        "url": "https://open.spotify.com/album/2p7SwgiSGULHlbk54I1ZTE"
+      },
+      "artists": [
+        {
+          "name": "Tiebreak",
+          "url": "https://open.spotify.com/artist/38pIPIk1VQJhC5sYkIqJB1"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133916,
+      "name": "You Can't Bring That in Here, Our Drummer Has a Peanut Allergy",
+      "url": "https://open.spotify.com/track/4BuMcXOhOOIWBardnE8oHA"
     },
     {
       "album": {

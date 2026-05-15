@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: DEAN & Anderson .Paak\)
+> Trendy & Chill Korean R&B music\. \(Cover: Olivia Marsh \(올리비아 마쉬\)\)
 
-911 songs - 2 day 0 hr 6 min
+912 songs - 2 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,7 +654,7 @@
 | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9) | 3:16 | 2023-06-01 | 2023-06-14 |
 | [Q&A](https://open.spotify.com/track/4hNcCU1IvB6Vaob6SNuaU3) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Q&A](https://open.spotify.com/album/5Wr4YTpwSvR0Z0SD2saGpC) | 2:57 | 2022-05-11 | 2022-05-29 |
 | [Q&A \(Feat\. g0nny\)](https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Q&A \(Feat\. g0nny\)](https://open.spotify.com/album/4GO1ilSEyFguMadQTkSz9n) | 2:32 | 2024-08-10 | 2024-08-23 |
-| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-14 |  |
+| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-14 | 2026-05-15 |
 | [RADIONA \(Feat\. GIST\)](https://open.spotify.com/track/7yuZTTd7qxLV18dU1QsXrC) | [GOYA](https://open.spotify.com/artist/33ftrWjmTpIAXapZU7H1Iw), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [RADIONA](https://open.spotify.com/album/14jzyg9CvAWyVomsapigey) | 3:08 | 2022-11-03 | 2022-11-10 |
 | [Rain Song](https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Rain Song](https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi) | 4:01 | 2022-07-04 | 2022-07-08 |
 | [Rainbow Freestyle](https://open.spotify.com/track/5IzNyik573EIobd8OPPqpZ) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 3:13 | 2022-05-04 | 2022-07-17 |
@@ -676,6 +676,7 @@
 | [Risk \(Prod\. By Devine Channel\)](https://open.spotify.com/track/2Kwy9dFXHc5t1u7bdRlLgd) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Devine Channel](https://open.spotify.com/artist/7ESF8rsuKXKPvD1HEFWJfU) | [Risk](https://open.spotify.com/album/0zxAIBeIBvmk0qjsujNwXY) | 2:58 | 2024-09-25 | 2024-10-09 |
 | [RIZZ](https://open.spotify.com/track/6JbyOUBLnkMadKcPQoQeTR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:44 | 2025-02-05 | 2026-05-07 |
 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 | 2026-04-13 |
+| [Roll](https://open.spotify.com/track/6940UlXrJBISV4WfNQzgQA) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Paraglider](https://open.spotify.com/album/3cVnrjdKcNZuHqY3diBud7) | 2:10 | 2026-05-14 |  |
 | [Rollercoaster](https://open.spotify.com/track/5vQtp2D5HRfqZ1FKmFx9r0) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Still Blue](https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF) | 2:29 | 2022-12-19 | 2023-01-11 |
 | [Roommates](https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Roommates](https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS) | 2:30 | 2024-04-30 | 2024-05-22 |
 | [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 | 2024-08-12 | 2024-12-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,810 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,808 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 43 | [Brazil](https://open.spotify.com/track/2off3DDPQSq4X3jSAg8pwK) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Brazil](https://open.spotify.com/album/5p9wwfMdBpdf1rluuYKeJb) | 2:19 |
 | 44 | [Brokeboy](https://open.spotify.com/track/65CKBZul9KR6cpIN6unK9A) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Tomb](https://open.spotify.com/artist/1Fr0Md8mOOg75V07Awv1G5) | [Brokeboy](https://open.spotify.com/album/79M0EWo6Q5PH5SolSWOPcL) | 2:41 |
 | 45 | [NIEBO](https://open.spotify.com/track/1jAwReLgaaNxczO49Utjnn) | [Jan\-Rapowanie](https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [Hubi](https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN) | [GROTESKA](https://open.spotify.com/album/6F7itXykUJKRptW4JovfLX) | 2:22 |
-| 46 | [Ruchy](https://open.spotify.com/track/267Idgd3aoiep1efGLZIRC) | [Opał](https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Połączenia 2](https://open.spotify.com/album/2feprtPOCyMVM6HW7j3taF) | 2:46 |
-| 47 | [BANGKOK2025](https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW) | [Bardal](https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR), [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1) | [BANGKOK2025](https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk) | 3:18 |
+| 46 | [BANGKOK2025](https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW) | [Bardal](https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR), [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1) | [BANGKOK2025](https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk) | 3:18 |
+| 47 | [Ruchy](https://open.spotify.com/track/267Idgd3aoiep1efGLZIRC) | [Opał](https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Połączenia 2](https://open.spotify.com/album/2feprtPOCyMVM6HW7j3taF) | 2:46 |
 | 48 | [kiedy byłem ale to house](https://open.spotify.com/track/3fF3RKOiMgMtCpPqdF3xdA) | [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2), [młody klakson](https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu) | [kiedy byłem ale to house](https://open.spotify.com/album/2mxKYP9uC0exnzfuozaax1) | 2:49 |
 | 49 | [lodowisko](https://open.spotify.com/track/0lQQLAQY4vmCb1dpcz1OlH) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [nareszcie w domu](https://open.spotify.com/album/7prZBQ3CV8ZUO05o9tnhbb) | 2:24 |
 | 50 | [Nowa Kultura](https://open.spotify.com/track/1l5u5znLAXCxMimLcR6G5f) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [ALESHEN II](https://open.spotify.com/album/0oTX7hZShhVYj8HQ6cwxvJ) | 2:32 |

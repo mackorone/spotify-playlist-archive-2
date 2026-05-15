@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Magda",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Yu, PAULINKO",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1999,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "Amanda",
+        "url": "https://open.spotify.com/album/6IBJ9H72Grh6hjCX7W5y9d"
+      },
+      "artists": [
+        {
+          "name": "yara",
+          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152324,
+      "name": "Amanda",
+      "url": "https://open.spotify.com/track/5jyRLWQaULXTKZcFIMlmmt"
+    },
+    {
+      "album": {
         "name": "amelie",
         "url": "https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE"
       },
@@ -3232,6 +3250,24 @@
       "duration_ms": 195371,
       "name": "Barfu\u00df am Klavier",
       "url": "https://open.spotify.com/track/4kr64ggr6ALZGxnkGdhK7b"
+    },
+    {
+      "album": {
+        "name": "Bayrische M\u00e4nner",
+        "url": "https://open.spotify.com/album/1Z4KFZadQfIKkZH1K9OLbC"
+      },
+      "artists": [
+        {
+          "name": "TOBIAS",
+          "url": "https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158114,
+      "name": "Bayrische M\u00e4nner",
+      "url": "https://open.spotify.com/track/6Pj0AOdluqAsGgjKAIBy7m"
     },
     {
       "album": {
@@ -12794,6 +12830,24 @@
     {
       "album": {
         "name": "Herzschmerz",
+        "url": "https://open.spotify.com/album/7KBL6jNJaUw78Ps60rtClW"
+      },
+      "artists": [
+        {
+          "name": "luisa schweig",
+          "url": "https://open.spotify.com/artist/0xh4h2jM3Iv58jGpeTGj5I"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Herzschmerz",
+      "url": "https://open.spotify.com/track/0tHq02GUfRMlTIHI0HO8SS"
+    },
+    {
+      "album": {
+        "name": "Herzschmerz",
         "url": "https://open.spotify.com/album/4xjyophkBdEI37WTrt0sVE"
       },
       "artists": [
@@ -15122,6 +15176,28 @@
       "duration_ms": 234573,
       "name": "Junimond",
       "url": "https://open.spotify.com/track/22CpeaLcxTA6tMe5grCUee"
+    },
+    {
+      "album": {
+        "name": "Junkie",
+        "url": "https://open.spotify.com/album/4WIZ7EagNwkQp9WxzGCy9K"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        },
+        {
+          "name": "PAULINKO",
+          "url": "https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178203,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/421pMbVNbXVDtSzNynVlop"
     },
     {
       "album": {
@@ -18212,7 +18288,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 206208,
       "name": "Loser",
       "url": "https://open.spotify.com/track/32EldyIfS0pCgs78XQuDT7"
@@ -20116,7 +20192,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 196011,
       "name": "M\u00fcde",
       "url": "https://open.spotify.com/track/1KENu25dLBXMLIxDaSHzCC"
@@ -20552,7 +20628,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 220645,
       "name": "Nichts mehr (mit ENNIO)",
       "url": "https://open.spotify.com/track/38BySzRkktFSQp82WkzgrZ"
@@ -20848,7 +20924,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 194760,
       "name": "Nie wieder ist jetzt",
       "url": "https://open.spotify.com/track/0BbCFmkyoS2r2Au36oOb1g"
@@ -28174,7 +28250,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 161537,
       "name": "Tr\u00e4nen",
       "url": "https://open.spotify.com/track/0PVtk1FliHIiCMJUYWm4Sj"
@@ -29427,6 +29503,24 @@
     },
     {
       "album": {
+        "name": "Viel passiert",
+        "url": "https://open.spotify.com/album/6dQK5iqb0mzzkcBB6fP1a4"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "Viel passiert",
+      "url": "https://open.spotify.com/track/6S1tfkuc1rqeibQbjnv7tS"
+    },
+    {
+      "album": {
         "name": "VIEL10",
         "url": "https://open.spotify.com/album/1jgjo504dJyPyAdnruD0g3"
       },
@@ -29796,6 +29890,24 @@
       "duration_ms": 171180,
       "name": "Vorhang Auf",
       "url": "https://open.spotify.com/track/1lL0UyhGyv4cLglooF3rNc"
+    },
+    {
+      "album": {
+        "name": "Wach",
+        "url": "https://open.spotify.com/album/1Tnup1NySe3yK5xEo1oXHw"
+      },
+      "artists": [
+        {
+          "name": "carls8erg",
+          "url": "https://open.spotify.com/artist/4nZDWhkKuOHrd6OxwoslWp"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156259,
+      "name": "Wach",
+      "url": "https://open.spotify.com/track/2g0KRVZHZ5quYc77w3T0q9"
     },
     {
       "album": {
@@ -32874,7 +32986,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 165833,
       "name": "Zukunfts\u00e4ngste",
       "url": "https://open.spotify.com/track/6XSDv6WC3sukxPSo3nN6Ap"

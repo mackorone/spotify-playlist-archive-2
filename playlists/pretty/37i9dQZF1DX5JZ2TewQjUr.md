@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: ZPOT
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,294 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,297 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 11 | [反岌 \(feat\. Billy Choi\)](https://open.spotify.com/track/6XtZ5WVEf6enXHL0HfWL66) | [Revery](https://open.spotify.com/artist/6RvZ5IrpCh6dKzd5qwBg8Z), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [反岌 \(feat\. Billy Choi\)](https://open.spotify.com/album/7JZ74yefNCSwPcq90PXNED) | 3:30 |
 | 12 | [I Have Your Letter Still](https://open.spotify.com/track/7JUDSlEXbD16wCoMFXubbg) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [I Have Your Letter Still](https://open.spotify.com/album/0Kdr1gCwLfHrqOYAEgq6Nw) | 3:41 |
 | 13 | [未firm](https://open.spotify.com/track/6WOZmRXO92K0j7VYREcJnj) | [elka 鄭芷淇](https://open.spotify.com/artist/7gRFVh7MISIyJyIjPYTEP7) | [未firm](https://open.spotify.com/album/4OgudE0JBgtdMaJZfabHko) | 3:42 |
-| 14 | [少甜](https://open.spotify.com/track/0iDcvBt8SH50PaEc7ZPD5e) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [少甜](https://open.spotify.com/album/14YapR2na4uJRXj5K6ljPK) | 2:43 |
+| 14 | [少甜](https://open.spotify.com/track/0iDcvBt8SH50PaEc7ZPD5e) | [Lester Lam 藍奕持](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [少甜](https://open.spotify.com/album/14YapR2na4uJRXj5K6ljPK) | 2:43 |
 | 15 | [第一支煙 \(The First Cigarette\)](https://open.spotify.com/track/0xA6Kv2WeXBksQv9Q4U4Pl) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [第一支煙 \(The First Cigarette\)](https://open.spotify.com/album/1KNp7MpOsgAm9iTrAkFr9A) | 2:12 |
 | 16 | [無人想關注 \(feat\. SoWhat\)](https://open.spotify.com/track/12NUbBPypbF7ItCQwamG1v) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d) | [無人想關注 \(feat\. SoWhat\)](https://open.spotify.com/album/70OrrmjCHtByggFb1TvYrq) | 3:11 |
 | 17 | [Slowly](https://open.spotify.com/track/7gmloxRTT3WMim8R6Wz3pl) | [Tomii](https://open.spotify.com/artist/5XTFLOAT2qCrhejD1T4zOX) | [Slowly](https://open.spotify.com/album/7DyepXZWkGItn7zM9fpZED) | 3:26 |

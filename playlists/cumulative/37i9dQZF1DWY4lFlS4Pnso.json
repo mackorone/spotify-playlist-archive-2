@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-26",
-  "description": "The UK's biggest playlist. Cover: Sam Fender & Olivia Dean",
+  "description": "The UK's biggest playlist. Cover: Dave & Tems",
   "name": "Hot Hits UK",
   "tracks": [
     {
@@ -600,6 +600,28 @@
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
     },
     {
       "album": {
@@ -3580,6 +3602,24 @@
       "duration_ms": 192818,
       "name": "HISS",
       "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+    },
+    {
+      "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
       "album": {
@@ -8642,7 +8682,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 176828,
       "name": "Walk",
       "url": "https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1"
@@ -9028,7 +9068,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 256901,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"

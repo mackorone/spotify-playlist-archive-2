@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Ahebb",
+        "url": "https://open.spotify.com/album/27n8igfmE2kPeInji7Tqni"
+      },
+      "artists": [
+        {
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277714,
+      "name": "Ahebb",
+      "url": "https://open.spotify.com/track/7cgtPKTOFpmr49u2QxRQWO"
+    },
+    {
+      "album": {
         "name": "Ahogar",
         "url": "https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q"
       },
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 370000,
       "name": "Back to Funk",
       "url": "https://open.spotify.com/track/1kK7YjaHgAbUbrnRr6Ih7l"
@@ -6290,7 +6308,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 199111,
       "name": "Echoes of the Abyss",
       "url": "https://open.spotify.com/track/1TCzVarbkuddyboZ8LpnTA"
@@ -9827,6 +9845,28 @@
     },
     {
       "album": {
+        "name": "Hyena (Hertz Remix)",
+        "url": "https://open.spotify.com/album/2gcxw2MjCZwqmtaFt6cc62"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        },
+        {
+          "name": "Hertz",
+          "url": "https://open.spotify.com/artist/2tH4HqwEi0m5fBvB2dB7q7"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204554,
+      "name": "Hyena - Hertz Remix",
+      "url": "https://open.spotify.com/track/3DwwfjpCj8COT3WxcFBhxe"
+    },
+    {
+      "album": {
         "name": "Charlotte de Witte",
         "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
       },
@@ -10078,6 +10118,24 @@
       "duration_ms": 158167,
       "name": "I Need It More",
       "url": "https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2"
+    },
+    {
+      "album": {
+        "name": "I Wanna Feel Alive",
+        "url": "https://open.spotify.com/album/0h6CgBHJzlN4HsGgaK5g3m"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213937,
+      "name": "I Wanna Feel Alive",
+      "url": "https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE"
     },
     {
       "album": {
@@ -11622,7 +11680,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 288000,
       "name": "Leave This Crap",
       "url": "https://open.spotify.com/track/4YWzKEapxmgfGsw9qjIfwP"
@@ -12468,7 +12526,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 351968,
       "name": "Maverick",
       "url": "https://open.spotify.com/track/5XQRc9fhRoWs4qkxkulbFK"
@@ -13157,6 +13215,24 @@
     },
     {
       "album": {
+        "name": "Moneypulated EP",
+        "url": "https://open.spotify.com/album/2WicuaOdsF2UznsWnwnx0f"
+      },
+      "artists": [
+        {
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303428,
+      "name": "Moneypulated",
+      "url": "https://open.spotify.com/track/0WzqpQOonA6SdSKrUMKA73"
+    },
+    {
+      "album": {
         "name": "MOraaaa",
         "url": "https://open.spotify.com/album/3fpIkXNqg8X8F09nhkewCf"
       },
@@ -13532,6 +13608,24 @@
       "duration_ms": 179104,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/4NOtgbK40lMxjCcP4uutLA"
+    },
+    {
+      "album": {
+        "name": "My Name (Original Mix)",
+        "url": "https://open.spotify.com/album/4u1kTiPmppnJRXWTWkagO4"
+      },
+      "artists": [
+        {
+          "name": "A*S*Y*S",
+          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250838,
+      "name": "My Name - Original Mix",
+      "url": "https://open.spotify.com/track/6i8VHiL2nTBOgdu4jWgiC2"
     },
     {
       "album": {
@@ -14632,7 +14726,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 160800,
       "name": "Oldschool",
       "url": "https://open.spotify.com/track/799cie8KYXJ8sYGmrfCFI9"
@@ -15292,7 +15386,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 261346,
       "name": "Partners of Destiny",
       "url": "https://open.spotify.com/track/6VfxcjXxjJrXhK2EXXbkKy"
@@ -15728,6 +15822,24 @@
       "duration_ms": 338211,
       "name": "Planet XX - Extended Mix",
       "url": "https://open.spotify.com/track/2t8dxuo4kz49lIXW6NJ3Ss"
+    },
+    {
+      "album": {
+        "name": "Planetfall",
+        "url": "https://open.spotify.com/album/1M1G2YEuH7Yhcrx0E5fCwz"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218276,
+      "name": "Planetfall Part 2",
+      "url": "https://open.spotify.com/track/1YbW83lEjWzOMtbKIA0Jg9"
     },
     {
       "album": {
@@ -16980,7 +17092,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 186666,
       "name": "Release Yourself",
       "url": "https://open.spotify.com/track/08BKFOXYgpcIjdjHGYSkmJ"
@@ -17234,6 +17346,28 @@
       "duration_ms": 418533,
       "name": "Reverse Psychology",
       "url": "https://open.spotify.com/track/4j6IGvQ60qnehb9apAN73W"
+    },
+    {
+      "album": {
+        "name": "Rhythm",
+        "url": "https://open.spotify.com/album/0pDtwIEOc1l8mcaBVTs63I"
+      },
+      "artists": [
+        {
+          "name": "Sylent (DE)",
+          "url": "https://open.spotify.com/artist/2fihiM9JwCXFnp7LwnWVuF"
+        },
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "Rhythm",
+      "url": "https://open.spotify.com/track/6kjWdch7mEODxxX2VygdHH"
     },
     {
       "album": {
@@ -18555,6 +18689,24 @@
     },
     {
       "album": {
+        "name": "Shake Shake",
+        "url": "https://open.spotify.com/album/6UfKVYe50kAfV0mzcZNQ7b"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226609,
+      "name": "Shake Shake",
+      "url": "https://open.spotify.com/track/7n9YVXEz9eaVuBiEknEIdm"
+    },
+    {
+      "album": {
         "name": "All Things Fall",
         "url": "https://open.spotify.com/album/3H3MvHQObCHzt1yeEc9KGQ"
       },
@@ -18664,7 +18816,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 299986,
       "name": "Signals",
       "url": "https://open.spotify.com/track/1XNpwtD97A7AluSgLqf0yn"

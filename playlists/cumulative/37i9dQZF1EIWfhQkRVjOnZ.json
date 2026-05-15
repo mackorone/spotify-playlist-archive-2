@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 230533,
       "name": "A Call To The Faithful",
       "url": "https://open.spotify.com/track/3BAGoosCoAadI2UhrKLMu2"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 239866,
       "name": "A Moment Suspended In Time",
       "url": "https://open.spotify.com/track/1SBceOn4txhXq6Uan8EMPt"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 253373,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1NBLKfycJLSpzYM4zYIB8v"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 77973,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 297517,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/3k3gtsfxkTAldjiDxfS807"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 250733,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6X5R4cXJlu91xxl84WUzpS"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 233600,
       "name": "Fleshkiller",
       "url": "https://open.spotify.com/track/037zHJTvyD3ByiESRW4I2X"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 193880,
       "name": "Hymn of a Broken Man",
       "url": "https://open.spotify.com/track/1vcHLDfAfuBq4JuIgEkw5I"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 229786,
       "name": "Live in Love",
       "url": "https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB"
@@ -2540,7 +2540,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 297173,
       "name": "Love Lost In A Hail Of Gun Fire",
       "url": "https://open.spotify.com/track/7gkoQwKoaiPWUs9bkrAWjq"
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 188723,
       "name": "Moths and Rust",
       "url": "https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm"
@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 232400,
       "name": "Mr. And Mrs. Cuckoldom",
       "url": "https://open.spotify.com/track/7D8tKBeAkBqkFRV27VJpzH"
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 217133,
       "name": "My Will Be Done",
       "url": "https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa"
@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 242040,
       "name": "New Medicines",
       "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 85853,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/1RcdFNgUuKdFnuvt2ppD03"
@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 285226,
       "name": "Same Thing We Do Everyday Pinky",
       "url": "https://open.spotify.com/track/0e7Nhkz1m36BjJxlwVUjJh"
@@ -3866,7 +3866,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 211333,
       "name": "So Cold I Could See My Breath",
       "url": "https://open.spotify.com/track/6R3hFLF5jJC7ddCltVbgQz"
@@ -4010,7 +4010,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 251093,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/3J3gUatPi0QOqmMPpTgVEv"
@@ -4046,7 +4046,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 210986,
       "name": "Studying Politics",
       "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z"
@@ -4518,7 +4518,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 290226,
       "name": "The Taste Of Regret",
       "url": "https://open.spotify.com/track/6p9iykxeTs8Zcpy6iv7D2A"
@@ -4554,7 +4554,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 233176,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/7mnxjczsBzv4A5JSR0mLmk"
@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 261013,
       "name": "This Ship, A Coffin",
       "url": "https://open.spotify.com/track/1UabJxjcG7QquUxbFNZDqM"
@@ -4842,7 +4842,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 236893,
       "name": "Tithemi",
       "url": "https://open.spotify.com/track/6SM2fTajm84ZaXJk7ZQSJj"
@@ -4878,7 +4878,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 230546,
       "name": "To Plant a Seed",
       "url": "https://open.spotify.com/track/1XDleb5NksSab3NmUAlvz6"
@@ -5220,7 +5220,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 268093,
       "name": "White Walls",
       "url": "https://open.spotify.com/track/1Fxdmk9xFeUxChpHNohE2w"
@@ -5472,7 +5472,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 242413,
       "name": "Writing On The Walls",
       "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"

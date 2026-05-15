@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,546 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,554 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 11 | [JIM BOB](https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:41 |
 | 12 | [Favorite Country Song](https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0) | 3:13 |
 | 13 | [SOLD OUT](https://open.spotify.com/track/0onJhWTvfPCb5F7gUT3VPA) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 3:22 |
-| 14 | [In The Bible](https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [One Thing At A Time](https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq) | 3:15 |
-| 15 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
+| 14 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
+| 15 | [In The Bible](https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [One Thing At A Time](https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq) | 3:15 |
 | 16 | [UNAPOLOGETICALLY COUNTRY AS HELL](https://open.spotify.com/track/7fkAb0kXW8636FD1Mwz4MY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:55 |
 | 17 | [JACK](https://open.spotify.com/track/34t98bNg4yQxO32BXU5RzC) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 2:48 |
 | 18 | [Hide My Gun \(Feat\. HARDY\)](https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:40 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 47 | [Beer With My Buddies \(feat\. HARDY, Josh Thompson & Travis Denning\)](https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:09 |
 | 48 | [Luckiest Man Alive](https://open.spotify.com/track/4VJQplLkX6agarX99u0iDm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 2:59 |
 | 49 | [Something A Lil' Stronger \(HARDY feat\. Mitchell Tenpenny, Jon Langston\)](https://open.spotify.com/track/4OEJLmKZYopHZIJ121oWLv) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 3:17 |
-| 50 | [HAPPY HOUR \(feat\. Knox\)](https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 2:41 |
+| 50 | [WHERE TO FIND ME](https://open.spotify.com/track/6PpqjWu7fTzXZIeRt4gEOH) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:54 |
 
-Snapshot ID: `agJtgAAAAAD1UI0KanuGXm0sd5MkGnvN`
+Snapshot ID: `agO/AAAAAACVmh5iVEunVWbvw3DEE9zY`

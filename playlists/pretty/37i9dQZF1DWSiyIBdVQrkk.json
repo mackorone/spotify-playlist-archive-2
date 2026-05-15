@@ -1,6 +1,6 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Protoje",
-  "num_followers": 2145081,
+  "num_followers": 2144949,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
         "name": "At We Feet (with Damian Marley)",
         "url": "https://open.spotify.com/album/4Fg8syQhosyT8TpB8di7w9"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 227680,
       "name": "At We Feet (with Damian Marley)",
       "url": "https://open.spotify.com/track/6DM5avm0wR2u3o4JytFHW2"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "BIG 45",
-        "url": "https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 224763,
-      "name": "BIG 45",
-      "url": "https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 154503,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
+        "name": "BIG 45",
+        "url": "https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 224763,
+      "name": "BIG 45",
+      "url": "https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Chronology",
-        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
-      },
-      "artists": [
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Spanish Town Rockin'",
-      "url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 279533,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Spanish Town Rockin'",
+      "url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Tanya...Collection Of Hits",
-        "url": "https://open.spotify.com/album/0jeZIxOER2j9RbJqokIwja"
-      },
-      "artists": [
-        {
-          "name": "Tanya Stephens",
-          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "It's A Pity",
-      "url": "https://open.spotify.com/track/46oKpr00CmuPJGvPZ3y9uk"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "Fally Lover",
         "url": "https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 203400,
       "name": "Ice Cream Love",
       "url": "https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
+        "name": "Tanya...Collection Of Hits",
+        "url": "https://open.spotify.com/album/0jeZIxOER2j9RbJqokIwja"
+      },
+      "artists": [
+        {
+          "name": "Tanya Stephens",
+          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
+        }
+      ],
+      "duration_ms": 253160,
+      "name": "It's A Pity",
+      "url": "https://open.spotify.com/track/46oKpr00CmuPJGvPZ3y9uk"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
+        "name": "The Best Of Ziggy Marley & The Melody Makers",
+        "url": "https://open.spotify.com/album/5qPo9GTYNkMFfe40oUL7VZ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley & The Melody Makers",
+          "url": "https://open.spotify.com/artist/3Z2jmNAP2UaGa8lPpi54wD"
+        }
+      ],
+      "duration_ms": 298266,
+      "name": "Look Who's Dancing",
+      "url": "https://open.spotify.com/track/01qt1C3CQlfjCgGPMWmPfW"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/5H8lZKP8gKPxdLVYDCXZmO"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "The Best Of Ziggy Marley & The Melody Makers",
-        "url": "https://open.spotify.com/album/5qPo9GTYNkMFfe40oUL7VZ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley & The Melody Makers",
-          "url": "https://open.spotify.com/artist/3Z2jmNAP2UaGa8lPpi54wD"
-        }
-      ],
-      "duration_ms": 298266,
-      "name": "Look Who's Dancing",
-      "url": "https://open.spotify.com/track/01qt1C3CQlfjCgGPMWmPfW"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "GOOD TIMES",
         "url": "https://open.spotify.com/album/0fRkvDQXSaioBIy3kHeCR7"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Cry Wolf",
-        "url": "https://open.spotify.com/album/255urlK7V4yakvNY6r7aUK"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        }
-      ],
-      "duration_ms": 207772,
-      "name": "Cry Wolf",
-      "url": "https://open.spotify.com/track/6I2MrEcIvtLzz2Gv6DGCAU"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "The Very Best Of The Wailing Souls",
         "url": "https://open.spotify.com/album/35JVHz9f0H9oIzSYNW7BAC"
       },
@@ -1427,22 +1411,18 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Nectar of the Gods",
-        "url": "https://open.spotify.com/album/7fTqjHVugWluTJ8Ih9sLeC"
+        "name": "Cry Wolf",
+        "url": "https://open.spotify.com/album/255urlK7V4yakvNY6r7aUK"
       },
       "artists": [
         {
-          "name": "Etana",
-          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
-        },
-        {
-          "name": "Bugle",
-          "url": "https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM"
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
         }
       ],
-      "duration_ms": 200168,
-      "name": "Inna Di Ghetto",
-      "url": "https://open.spotify.com/track/1yKqoyJmeLymK6dLd1Tt9P"
+      "duration_ms": 207772,
+      "name": "Cry Wolf",
+      "url": "https://open.spotify.com/track/6I2MrEcIvtLzz2Gv6DGCAU"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1463,6 +1443,26 @@
       "duration_ms": 178670,
       "name": "Road Runner",
       "url": "https://open.spotify.com/track/68ZpiCWoEtGhl8s1uaMXux"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
+        "name": "Nectar of the Gods",
+        "url": "https://open.spotify.com/album/7fTqjHVugWluTJ8Ih9sLeC"
+      },
+      "artists": [
+        {
+          "name": "Etana",
+          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
+        },
+        {
+          "name": "Bugle",
+          "url": "https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM"
+        }
+      ],
+      "duration_ms": 200168,
+      "name": "Inna Di Ghetto",
+      "url": "https://open.spotify.com/track/1yKqoyJmeLymK6dLd1Tt9P"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3EmG2SaJaGoLoknL0Ad1oo"
+      },
+      "artists": [
+        {
+          "name": "Spragga Benz",
+          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
+        }
+      ],
+      "duration_ms": 247058,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2d0xBDrSxKqLacd8OJkeZ6"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
         "name": "By Any Mean$ (with Jesse Royal)",
         "url": "https://open.spotify.com/album/2Hrl1LzZTfBQ9yyr0ME1rB"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 168169,
       "name": "By Any Mean$ (with Jesse Royal)",
       "url": "https://open.spotify.com/track/6bFbSluNoeF83UVJRi6YiG"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3EmG2SaJaGoLoknL0Ad1oo"
-      },
-      "artists": [
-        {
-          "name": "Spragga Benz",
-          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
-        }
-      ],
-      "duration_ms": 247058,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/2d0xBDrSxKqLacd8OJkeZ6"
     },
     {
       "added_at": "2026-04-23 15:31:34",

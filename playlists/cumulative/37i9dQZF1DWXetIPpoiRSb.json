@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "pop for the club / hiya charli \ud83e\udd2d",
+  "description": "pop for the club / hiya memphis \ud83d\udc8b",
   "name": "Evolver",
   "tracks": [
     {
@@ -7345,6 +7345,28 @@
     },
     {
       "album": {
+        "name": "Come & See",
+        "url": "https://open.spotify.com/album/0DuP3lkParVjOhuhBiGuV9"
+      },
+      "artists": [
+        {
+          "name": "Kayleigh Noble",
+          "url": "https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH"
+        },
+        {
+          "name": "Solocoan",
+          "url": "https://open.spotify.com/artist/6mXsXWRSwL3TDPk5sxNuXX"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222305,
+      "name": "Come & See",
+      "url": "https://open.spotify.com/track/2cnvQj0VrdbjQnDbj3tF3D"
+    },
+    {
+      "album": {
         "name": "Oh No, Not Again! - EP",
         "url": "https://open.spotify.com/album/7r7JeEo8jY8QTZvSCLOwir"
       },
@@ -7392,7 +7414,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 157446,
       "name": "Come To God",
       "url": "https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J"
@@ -8002,7 +8024,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 156874,
       "name": "crybby blue",
       "url": "https://open.spotify.com/track/6VvLMqlEMs3BOzBc2YOnXs"
@@ -10981,6 +11003,24 @@
     },
     {
       "album": {
+        "name": "EPA",
+        "url": "https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202542,
+      "name": "EPA",
+      "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw"
+    },
+    {
+      "album": {
         "name": "Eras Of Us",
         "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
       },
@@ -12424,7 +12464,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 190455,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/1E2iN1YwN2S4skzajwGgD6"
@@ -14372,6 +14412,24 @@
       "duration_ms": 187829,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/2nrUtbYTSqCqVIsuqdhuim"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0OcRYga5YnflYN3oLWas5w"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206125,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6Ij2LBj4OaPtcl1M2u4GQu"
     },
     {
       "album": {
@@ -17288,7 +17346,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 170625,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
@@ -19688,7 +19746,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 174506,
       "name": "Is It Just Me?",
       "url": "https://open.spotify.com/track/6QDVKKJHOTIs2dJt4fJ9fB"
@@ -28282,6 +28340,24 @@
       "duration_ms": 139733,
       "name": "Osaka",
       "url": "https://open.spotify.com/track/0mOgDwfv2nL3VWB6wuig1Z"
+    },
+    {
+      "album": {
+        "name": "Out My Body",
+        "url": "https://open.spotify.com/album/0PUCTG6UZVmyECMr5OjYZh"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169968,
+      "name": "Out My Body",
+      "url": "https://open.spotify.com/track/1pA3PUVtJALwxZIQ6wj42X"
     },
     {
       "album": {
@@ -37781,6 +37857,28 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/1ejxqX9sf8WXahJzVrjD2s"
+      },
+      "artists": [
+        {
+          "name": "Planningtorock",
+          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234461,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7DNlr75yw0OcYLgYXvmGY1"
+    },
+    {
+      "album": {
         "name": "Angel Face (Club Deluxe)",
         "url": "https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc"
       },
@@ -38606,6 +38704,36 @@
       "duration_ms": 148665,
       "name": "To The Moon",
       "url": "https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4"
+    },
+    {
+      "album": {
+        "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
+        "url": "https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        },
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        },
+        {
+          "name": "Prentiss",
+          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
+      "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
     },
     {
       "album": {
@@ -40710,7 +40838,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 180554,
       "name": "WHAT IS FOREVER FOR (The Dare Remix)",
       "url": "https://open.spotify.com/track/4hVmWazZwKIyl4VwjTuU54"

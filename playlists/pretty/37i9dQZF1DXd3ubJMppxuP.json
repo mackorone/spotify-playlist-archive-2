@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 87538,
+  "num_followers": 87556,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "Naar de Klote",
-        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
-      },
-      "artists": [
-        {
-          "name": "Barry Fest",
-          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
-        },
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Naar de Klote",
-      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
         "name": "City Streets",
         "url": "https://open.spotify.com/album/0sXs88sWqgcucXTKC5bV6R"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 213088,
       "name": "City Streets",
       "url": "https://open.spotify.com/track/57tzA2bwjsgKZa3NBJvryR"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
+        "name": "Naar de Klote",
+        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
+      },
+      "artists": [
+        {
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
+        },
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Naar de Klote",
+      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -899,22 +899,22 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "Party All Night (Facking Feestje)",
-        "url": "https://open.spotify.com/album/4vHJ9idSm97AgY9FUY5bvl"
+        "name": "Hey Meid (Total Loss Remix)",
+        "url": "https://open.spotify.com/album/1i0R7xiLKmZwYNWGmE598J"
       },
       "artists": [
         {
-          "name": "Barry Fest",
-          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
+          "name": "PartyfrieX",
+          "url": "https://open.spotify.com/artist/1QXZ1BMJKU2dl2q6rDn1pB"
         },
         {
-          "name": "ANGUZ",
-          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
+          "name": "Total Loss",
+          "url": "https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn"
         }
       ],
-      "duration_ms": 176100,
-      "name": "Party All Night (Facking Feestje)",
-      "url": "https://open.spotify.com/track/3TMyHtHJDdIUJ2ZUvjSzcx"
+      "duration_ms": 148800,
+      "name": "Hey Meid - Total Loss Remix",
+      "url": "https://open.spotify.com/track/3DEOsGeqcpHsN7DAgcWzkG"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -939,22 +939,22 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "Hey Meid (Total Loss Remix)",
-        "url": "https://open.spotify.com/album/1i0R7xiLKmZwYNWGmE598J"
+        "name": "Party All Night (Facking Feestje)",
+        "url": "https://open.spotify.com/album/4vHJ9idSm97AgY9FUY5bvl"
       },
       "artists": [
         {
-          "name": "PartyfrieX",
-          "url": "https://open.spotify.com/artist/1QXZ1BMJKU2dl2q6rDn1pB"
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
         },
         {
-          "name": "Total Loss",
-          "url": "https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn"
+          "name": "ANGUZ",
+          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Hey Meid - Total Loss Remix",
-      "url": "https://open.spotify.com/track/3DEOsGeqcpHsN7DAgcWzkG"
+      "duration_ms": 176100,
+      "name": "Party All Night (Facking Feestje)",
+      "url": "https://open.spotify.com/track/3TMyHtHJDdIUJ2ZUvjSzcx"
     },
     {
       "added_at": "2026-04-02 22:00:25",

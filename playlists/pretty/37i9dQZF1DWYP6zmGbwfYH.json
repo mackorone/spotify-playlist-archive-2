@@ -1,6 +1,6 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 394778,
+  "num_followers": 394845,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 189293,
       "name": "Mi C\u00f3mplice",
       "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Mi Satisfacci\u00f3n",
-        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Todo tuyo",
         "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 235906,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Mi Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Huele A Peligro",
-        "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "Huele A Peligro",
-      "url": "https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "T\u00fa Me Quieres Lastimar",
         "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 215266,
       "name": "T\u00fa Me Quieres Lastimar",
       "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Huele A Peligro",
+        "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 232480,
+      "name": "Huele A Peligro",
+      "url": "https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "En Tiempo De Amor",
         "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
       },
       "artists": [
         {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 195506,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+      "duration_ms": 225826,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1275,6 +1259,22 @@
       "duration_ms": 210800,
       "name": "Rosas Rojas",
       "url": "https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Aqu\u00ed Hay Para Llevar",
         "url": "https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 179026,
       "name": "Aqu\u00ed Hay Para Llevar",
       "url": "https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1591,38 +1591,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Y Seguimos Con Duranguense",
-        "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/6h4krpn1OHlpiRDkthIcJk"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "Vanidosa",
-      "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Y Sigue La Mata Dando",
         "url": "https://open.spotify.com/album/1YJgoSpEeSlbQwDiZ5xcE5"
       },
@@ -1635,6 +1603,38 @@
       "duration_ms": 179360,
       "name": "Quiero Saber De Ti",
       "url": "https://open.spotify.com/track/6zBCVy9zWuNZ8qWEh9cMpM"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Descontrolado",
+        "url": "https://open.spotify.com/album/76rlyFU75ajn47W3pBWe2P"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 198681,
+      "name": "Descontrolado",
+      "url": "https://open.spotify.com/track/4sP1BjxO9FtKoG0BaVSYeE"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Y Seguimos Con Duranguense",
+        "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/6h4krpn1OHlpiRDkthIcJk"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1691,8 +1691,8 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Descontrolado",
-        "url": "https://open.spotify.com/album/76rlyFU75ajn47W3pBWe2P"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
       },
       "artists": [
         {
@@ -1700,9 +1700,9 @@
           "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 198681,
-      "name": "Descontrolado",
-      "url": "https://open.spotify.com/track/4sP1BjxO9FtKoG0BaVSYeE"
+      "duration_ms": 197133,
+      "name": "Vanidosa",
+      "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/61kqdsD1xegRmPhdw1r95l"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
         "name": "La Burbuja",
         "url": "https://open.spotify.com/album/4WEKmA2MnfexKkfthwKv6y"
       },
@@ -1851,22 +1867,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/61kqdsD1xegRmPhdw1r95l"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "TRR TAC TAC",
         "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
       },
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "A Traves De Tus Ojos",
-        "url": "https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Chiquilla Bonita",
-      "url": "https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 248857,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "A Traves De Tus Ojos",
+        "url": "https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Chiquilla Bonita",
+      "url": "https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM"
     },
     {
       "added_at": "2026-01-21 19:40:02",

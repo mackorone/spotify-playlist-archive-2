@@ -194,7 +194,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140979,
       "name": "Allerrijkste Man",
       "url": "https://open.spotify.com/track/0h8GdVEcpbZAGhh9dZjpvE"
@@ -1845,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/65qJlvvVCf44wnTqKMeaxq"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129111,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/5vEmp91Mv1X3ZW2AnpxpC3"
+    },
+    {
+      "album": {
         "name": "LET'S GO",
         "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
       },
@@ -3185,6 +3207,28 @@
     },
     {
       "album": {
+        "name": "Vergeten",
+        "url": "https://open.spotify.com/album/4eqi0DD0szFvErxaNCwX9R"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168642,
+      "name": "Vergeten",
+      "url": "https://open.spotify.com/track/6Yj1i2nGfRgGQTslGK5But"
+    },
+    {
+      "album": {
         "name": "Vieze Dingen",
         "url": "https://open.spotify.com/album/4nNsZ3SwBtAcyUFzCwWrMg"
       },
@@ -3250,7 +3294,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 120807,
       "name": "Waar Ben Jij Nou",
       "url": "https://open.spotify.com/track/2WLYxHx1WeKeUf8Vjk6uSl"

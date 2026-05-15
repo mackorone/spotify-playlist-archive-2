@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Sensu, ELOQ",
+  "description": "The home for alternative electronic music. Cover: Overmono",
   "name": "Altar",
   "tracks": [
     {
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 319985,
       "name": "Believer",
       "url": "https://open.spotify.com/track/7CMalKszrxQITnaFvKp6FE"
@@ -3002,6 +3002,24 @@
       "duration_ms": 217265,
       "name": "Billie (Loving Arms)",
       "url": "https://open.spotify.com/track/1vW12BfxjOQKYElBm9ttW9"
+    },
+    {
+      "album": {
+        "name": "Birds Fly In",
+        "url": "https://open.spotify.com/album/0oh9LWYtmn6aaTczUdjDKG"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298079,
+      "name": "Birds Fly In",
+      "url": "https://open.spotify.com/track/7zd6tFDXAMgKngvTmI7gs2"
     },
     {
       "album": {
@@ -4473,6 +4491,36 @@
     },
     {
       "album": {
+        "name": "Chor",
+        "url": "https://open.spotify.com/album/1kovZx96WkX2XylnEUEqSu"
+      },
+      "artists": [
+        {
+          "name": "Indo Warehouse",
+          "url": "https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Kahani",
+          "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb"
+        },
+        {
+          "name": "Kunal Merchant",
+          "url": "https://open.spotify.com/artist/3dnfx7aJ7P7yMP6JuujdjB"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213978,
+      "name": "Chor",
+      "url": "https://open.spotify.com/track/7maiSgBL2JC4icWRAemLHZ"
+    },
+    {
+      "album": {
         "name": "CHROMA 001",
         "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
       },
@@ -5058,7 +5106,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 213743,
       "name": "Coming On Strong",
       "url": "https://open.spotify.com/track/2PRMjvFJmmgMW1yGi3lnaD"
@@ -5164,7 +5212,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187279,
       "name": "Contact",
       "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
@@ -5768,7 +5816,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 234835,
       "name": "Dark Cloud",
       "url": "https://open.spotify.com/track/3Yu7YWkRIx3DaZflhEsbwE"
@@ -6264,7 +6312,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 372424,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/0revALbfswvbw3zURpu4eE"
@@ -6590,7 +6638,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 302748,
       "name": "Dopamine - Jamie xx Remix",
       "url": "https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar"
@@ -8450,7 +8498,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 234482,
       "name": "Fall In Sync",
       "url": "https://open.spotify.com/track/530gLdS9YQVP7LcRnMFQR8"
@@ -10551,6 +10599,24 @@
     },
     {
       "album": {
+        "name": "goodbye! later on!",
+        "url": "https://open.spotify.com/album/5xDOHYY3wSYuOHeZAhzrqI"
+      },
+      "artists": [
+        {
+          "name": "altrice",
+          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273230,
+      "name": "goodbye! later on!",
+      "url": "https://open.spotify.com/track/1ljxYB9lQqJVM5N0gX39Ze"
+    },
+    {
+      "album": {
         "name": "Got Me (feat. Julia Stone)",
         "url": "https://open.spotify.com/album/1qG2RXV02DXzZ4k0i4a69R"
       },
@@ -11522,6 +11588,24 @@
       "duration_ms": 373453,
       "name": "Higher Elevation",
       "url": "https://open.spotify.com/track/3AGTwVq5mmZmRZ4INK4wpv"
+    },
+    {
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195188,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR"
     },
     {
       "album": {
@@ -12646,6 +12730,28 @@
       "duration_ms": 254091,
       "name": "If It's True",
       "url": "https://open.spotify.com/track/116liDXqS5DIzlnkBz1sWp"
+    },
+    {
+      "album": {
+        "name": "If This Is It",
+        "url": "https://open.spotify.com/album/4EQ1QONy2hsmWHFdxOB7gm"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243702,
+      "name": "If This Is It",
+      "url": "https://open.spotify.com/track/71vkCMFohC2QD94tlyIGln"
     },
     {
       "album": {
@@ -14452,7 +14558,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
@@ -14975,6 +15081,28 @@
     },
     {
       "album": {
+        "name": "Like It",
+        "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266923,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
+    },
+    {
+      "album": {
         "name": "Like The Old Days",
         "url": "https://open.spotify.com/album/40yz3IgIDiz0LoiVZJF4ri"
       },
@@ -15190,6 +15318,24 @@
       "duration_ms": 214315,
       "name": "Lobster Telephone - Edit",
       "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "album": {
+        "name": "Lockup",
+        "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271835,
+      "name": "Lockup",
+      "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
     },
     {
       "album": {
@@ -19303,6 +19449,24 @@
     },
     {
       "album": {
+        "name": "Pay Attention to Me",
+        "url": "https://open.spotify.com/album/2JpkP5mLRbWr19HwaYKfqj"
+      },
+      "artists": [
+        {
+          "name": "Next To Blue",
+          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "Pay Attention to Me",
+      "url": "https://open.spotify.com/track/0euCs7l9u8japDamITC7Ab"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3Y1lboWzn2kyYjVDOwkBjd"
       },
@@ -19812,7 +19976,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 239133,
       "name": "Plush",
       "url": "https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj"
@@ -25592,7 +25756,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 216774,
       "name": "think & dream",
       "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
@@ -25698,7 +25862,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 196407,
       "name": "This Is The Place",
       "url": "https://open.spotify.com/track/2CNUFN8wwtwX39rRlPD3Kk"
@@ -26637,6 +26801,24 @@
     },
     {
       "album": {
+        "name": "turbo_viento",
+        "url": "https://open.spotify.com/album/4SWyzgHR4doxIsBh5a8oC7"
+      },
+      "artists": [
+        {
+          "name": "DJ GTi",
+          "url": "https://open.spotify.com/artist/6mPCyDhyxqefBQbhKcm9Ms"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246058,
+      "name": "turbo_viento",
+      "url": "https://open.spotify.com/track/7tZ7gh9JNLdDJgZEMKaxCI"
+    },
+    {
+      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/5XSLcgf6JSnl5DIkAR5cAR"
       },
@@ -27400,6 +27582,36 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "album": {
+        "name": "Visions (feat. Sarah Nimmo)",
+        "url": "https://open.spotify.com/album/0dHj6dcR59sEmaaN4gjmsF"
+      },
+      "artists": [
+        {
+          "name": "NIGHT manoeuvres",
+          "url": "https://open.spotify.com/artist/2CanvvhMZkqCFDFEOvcdNE"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        },
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        },
+        {
+          "name": "Sarah Nimmo",
+          "url": "https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170681,
+      "name": "Visions (feat. Sarah Nimmo)",
+      "url": "https://open.spotify.com/track/14lsJvnrQf7SX2uk3jO1sO"
     },
     {
       "album": {
@@ -28324,6 +28536,28 @@
       "duration_ms": 174048,
       "name": "What You Done",
       "url": "https://open.spotify.com/track/5IouffaYEX67BICjTSCckE"
+    },
+    {
+      "album": {
+        "name": "What You Say (ft umru)",
+        "url": "https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219526,
+      "name": "What You Say - ft umru",
+      "url": "https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev"
     },
     {
       "album": {

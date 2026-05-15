@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Ariel NOAH",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Juicy Luicy",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -1603,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Berusaha di Bawah Hujan",
+        "url": "https://open.spotify.com/album/2D2escw6RwZriL7Ia8EB05"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205778,
+      "name": "Berusaha di Bawah Hujan",
+      "url": "https://open.spotify.com/track/5Oe6NDPYBHcQapkke8fsWn"
+    },
+    {
+      "album": {
         "name": "Lesson Learned",
         "url": "https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8"
       },
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 208400,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/0KvqkQRa7bPYDKjAv8jVwD"
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 272903,
       "name": "Cinta dan Doa",
       "url": "https://open.spotify.com/track/5Q1W1dU9l03A1kql9HNQej"
@@ -2982,7 +3000,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 156684,
       "name": "DM",
       "url": "https://open.spotify.com/track/0SwdKgpwRUviyJ4RQU75An"
@@ -3568,6 +3586,24 @@
       "duration_ms": 278744,
       "name": "GOODLUCK",
       "url": "https://open.spotify.com/track/7dYM7VucT6reu7Q0wGio85"
+    },
+    {
+      "album": {
+        "name": "Gurun Hujan",
+        "url": "https://open.spotify.com/album/6nKmMv7wQ37UCC7NrgnlTR"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190762,
+      "name": "Gurun Hujan",
+      "url": "https://open.spotify.com/track/4czYdbSTG4j5mlsgS6VWn7"
     },
     {
       "album": {
@@ -4234,6 +4270,28 @@
       "duration_ms": 197459,
       "name": "Ingkar Janji",
       "url": "https://open.spotify.com/track/599gm6M2EdYeGpV4TVpjin"
+    },
+    {
+      "album": {
+        "name": "Ini Adalah Cinta",
+        "url": "https://open.spotify.com/album/0nzG99GMJYEag3GcmBusLI"
+      },
+      "artists": [
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        },
+        {
+          "name": "Wijaya 80",
+          "url": "https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254365,
+      "name": "Ini Adalah Cinta",
+      "url": "https://open.spotify.com/track/0TSq90DwjDqkJURB8YeQHm"
     },
     {
       "album": {
@@ -6586,7 +6644,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 225518,
       "name": "Manusia Favorit",
       "url": "https://open.spotify.com/track/6jIkFJt7IfnMWMlWnGhewr"
@@ -7293,6 +7351,24 @@
     },
     {
       "album": {
+        "name": "Menyala",
+        "url": "https://open.spotify.com/album/19K8Pgig7u6Rjg4GrcI2Ss"
+      },
+      "artists": [
+        {
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Menyala",
+      "url": "https://open.spotify.com/track/521ou1Glbfl0JXgWhWWlBd"
+    },
+    {
+      "album": {
         "name": "40",
         "url": "https://open.spotify.com/album/2iVpnS9BgLXkiZZeV3Vn55"
       },
@@ -7392,7 +7468,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 219632,
       "name": "Mother Tongue",
       "url": "https://open.spotify.com/track/5cG4DL30OjzMIJwpJtjETa"
@@ -8430,7 +8506,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 263279,
       "name": "Putus Atau Terus",
       "url": "https://open.spotify.com/track/1Kl5fuxlkvFHP6Ijx5Jq0L"
@@ -8596,7 +8672,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 246400,
       "name": "Remuk",
       "url": "https://open.spotify.com/track/55Cb01L3x8WNC286rYp7Eh"
@@ -10717,6 +10793,24 @@
     },
     {
       "album": {
+        "name": "Unapologetic",
+        "url": "https://open.spotify.com/album/6L4krj81zS3DzFJIBGbm3G"
+      },
+      "artists": [
+        {
+          "name": "DIKTA.",
+          "url": "https://open.spotify.com/artist/5wRhCuhUmcR8EIpyud29nE"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226329,
+      "name": "Stop Bilang Iya",
+      "url": "https://open.spotify.com/track/6Klr3EiAe7M0djc2eEx5fZ"
+    },
+    {
+      "album": {
         "name": "Suara Dalam Kepala (Feat. Ramengvrl)",
         "url": "https://open.spotify.com/album/2p1ODeT3tNEeqkupAElZZW"
       },
@@ -12292,6 +12386,24 @@
       "duration_ms": 210523,
       "name": "uKYdS",
       "url": "https://open.spotify.com/track/0hYZIjydHDd1Wl5bUtQQpD"
+    },
+    {
+      "album": {
+        "name": "Never Ours",
+        "url": "https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu"
+      },
+      "artists": [
+        {
+          "name": "Jordy Riz",
+          "url": "https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216166,
+      "name": "Unspoken Goodbye",
+      "url": "https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD"
     },
     {
       "album": {

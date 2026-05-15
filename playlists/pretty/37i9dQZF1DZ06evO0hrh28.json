@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 257750,
+  "num_followers": 257738,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACuU5+nMyr0I5FWEbw+yb7H",
+  "snapshot_id": "agO/AAAAAADZF4nrHIXUwZvEe9cEqR61",
   "tracks": [
     {
       "added_at": null,
@@ -283,30 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTA",
-        "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "BOTA",
-      "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En La Intimidad | CROSSOVER #1",
         "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
       },
@@ -331,6 +307,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOTA",
+        "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "BOTA",
+      "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Genio Atrapado",
         "url": "https://open.spotify.com/album/7edxAWf9U5vtuc6Ny6wAYw"
       },
@@ -343,6 +343,26 @@
       "duration_ms": 161178,
       "name": "Genio Atrapado",
       "url": "https://open.spotify.com/track/2ctChUbjtzD0TiJo1JSs3U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bunda \ud83c\udf51",
+        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 223855,
+      "name": "bunda \ud83c\udf51",
+      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
     },
     {
       "added_at": null,
@@ -367,26 +387,6 @@
       "duration_ms": 165054,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "bunda \ud83c\udf51",
-        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 223855,
-      "name": "bunda \ud83c\udf51",
-      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
     },
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "como si no importara",
+        "url": "https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 173052,
+      "name": "como si no importara",
+      "url": "https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MASNA REMIX",
         "url": "https://open.spotify.com/album/1vfrfkUV2mKB8KPaOcdyaS"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 248000,
       "name": "MASNA REMIX",
       "url": "https://open.spotify.com/track/6wDig9zSE2qpDbw1W3qqIX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "como si no importara",
-        "url": "https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 173052,
-      "name": "como si no importara",
-      "url": "https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j"
     },
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "KUSTOM",
+        "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 201509,
+      "name": "DAMN GIRL",
+      "url": "https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "r\u00e1pido lento",
         "url": "https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 153868,
       "name": "Vestido Rojo",
       "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KUSTOM",
-        "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 201509,
-      "name": "DAMN GIRL",
-      "url": "https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21042,
+  "num_followers": 21047,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-12-26 06:58:41",
       "album": {
-        "name": "SPOT!",
-        "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 167706,
-      "name": "SPOT!",
-      "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
-    },
-    {
-      "added_at": "2025-12-26 06:58:41",
-      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "added_at": "2025-12-26 06:58:41",
+      "album": {
+        "name": "SPOT!",
+        "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "SPOT!",
+      "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
     },
     {
       "added_at": "2025-12-26 06:58:41",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-12-26 06:58:41",
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 98152,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
+    },
+    {
+      "added_at": "2025-12-26 06:58:41",
+      "album": {
         "name": "My Feelings For You (Mark Knight Remix)",
         "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
       },
@@ -1539,42 +1555,6 @@
     {
       "added_at": "2025-12-26 06:58:41",
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 98152,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
-    },
-    {
-      "added_at": "2025-12-26 06:58:41",
-      "album": {
-        "name": "F.N.F. (Let's Go)",
-        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
-      },
-      "artists": [
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 137579,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
-    },
-    {
-      "added_at": "2025-12-26 06:58:41",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 186805,
       "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
       "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"
+    },
+    {
+      "added_at": "2025-12-26 06:58:41",
+      "album": {
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
       "added_at": "2025-12-26 06:58:41",
@@ -1959,30 +1959,18 @@
     {
       "added_at": "2025-12-26 06:58:41",
       "album": {
-        "name": "K-FLIP",
-        "url": "https://open.spotify.com/album/2TJE6Xv4CZ5560So8iC48N"
+        "name": "The Movie Star",
+        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Lil Moshpit",
-          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
-        },
-        {
-          "name": "Roh Yun Ha",
-          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
-        },
-        {
-          "name": "Wuuslime",
-          "url": "https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm"
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
         }
       ],
-      "duration_ms": 189016,
-      "name": "PUBLIC ENEMY (Feat. Roh Yun Ha, Wuuslime)",
-      "url": "https://open.spotify.com/track/0k4IMjv3mF9LlphfeG8ZjA"
+      "duration_ms": 133320,
+      "name": "GOTTASADAE",
+      "url": "https://open.spotify.com/track/5nJvKQsFRmCp2i7EiKjZDg"
     }
   ],
   "unique_name": "3\ub300 1000",

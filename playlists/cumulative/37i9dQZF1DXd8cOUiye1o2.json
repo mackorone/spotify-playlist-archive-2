@@ -4199,6 +4199,32 @@
     },
     {
       "album": {
+        "name": "Dil Waale Chor - Reprise (From \"Pati Patni Aur Woh Do\")",
+        "url": "https://open.spotify.com/album/1kXUas9tRUAxUGU6EfwNW0"
+      },
+      "artists": [
+        {
+          "name": "Ayushmann Khurrana",
+          "url": "https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133031,
+      "name": "Dil Waale Chor - Reprise (From \"Pati Patni Aur Woh Do\")",
+      "url": "https://open.spotify.com/track/4eggWi0usX123FOHQpSuwR"
+    },
+    {
+      "album": {
         "name": "Dil Zid Kar Baitha",
         "url": "https://open.spotify.com/album/6LDl6tC3x1ErcRUkkE4f39"
       },
@@ -4584,7 +4610,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 126216,
       "name": "Ek Nishani",
       "url": "https://open.spotify.com/track/3qQceQQhg3lOjb93oz15Yg"
@@ -11406,7 +11432,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 287339,
       "name": "O Ri O Sanwariya - From \"Bhooth Bangla\"",
       "url": "https://open.spotify.com/track/7MwfJYZK2zIwe47nYVRmvo"
@@ -17094,6 +17120,32 @@
       "duration_ms": 261254,
       "name": "Ve Mahiya (From \"Sarzameen\")",
       "url": "https://open.spotify.com/track/1N69uoU8VYLDmNzFHKGk1i"
+    },
+    {
+      "album": {
+        "name": "Vo Nahin (From \"Main Vaapas Aaunga\")",
+        "url": "https://open.spotify.com/album/1vrO4GEza89cPRtqCqfBS3"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287102,
+      "name": "Vo Nahin (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/2H4LybC5ZimpGKS8uZzaiN"
     },
     {
       "album": {

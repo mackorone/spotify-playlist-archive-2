@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 450465,
+  "num_followers": 450561,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Pa' Gozar - Zona Rika",
-        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
-      },
-      "artists": [
-        {
-          "name": "Zona Rika",
-          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
-        }
-      ],
-      "duration_ms": 235821,
-      "name": "Spanish Girl",
-      "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "B\u00e1ilame",
         "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 179506,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Pa' Gozar - Zona Rika",
+        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
+      },
+      "artists": [
+        {
+          "name": "Zona Rika",
+          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
+        }
+      ],
+      "duration_ms": 235821,
+      "name": "Spanish Girl",
+      "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Un Millon de Rosas",
+      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Los Del Garrote",
         "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+        "name": "Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/2Tis4GWz7pJbxseWkgjvUJ"
       },
       "artists": [
         {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Un Millon de Rosas",
-      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
+      "duration_ms": 232411,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/7JNn2rhwOntQHy8Yvbu5d5"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -783,22 +799,6 @@
       "duration_ms": 280807,
       "name": "Dame Una Se\u00f1al",
       "url": "https://open.spotify.com/track/3iAD9ey6jjDwihBDaML2Mr"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Colecci\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/2Tis4GWz7pJbxseWkgjvUJ"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 232411,
-      "name": "Mala Mujer",
-      "url": "https://open.spotify.com/track/7JNn2rhwOntQHy8Yvbu5d5"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Fuera De Control",
+        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "Cumbia Del Sol",
+      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Me Voy al Amanecer",
         "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 202029,
       "name": "Me Voy al Amanecer",
       "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Fuera De Control",
-        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "Cumbia Del Sol",
-      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Ya No Hay Beatles (2026 Remasterizada)",
+        "url": "https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj"
+      },
+      "artists": [
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 168917,
+      "name": "Ya No Hay Beatles - 2026 Remasterizada",
+      "url": "https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "En Contacto (En Vivo)",
         "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 181589,
       "name": "El Negrito - En Vivo",
       "url": "https://open.spotify.com/track/1hmZR9N5q1ThHtI701dK9t"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Ya No Hay Beatles (2026 Remasterizada)",
-        "url": "https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj"
-      },
-      "artists": [
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 168917,
-      "name": "Ya No Hay Beatles - 2026 Remasterizada",
-      "url": "https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "De Sonora Para El Mundo (En Vivo)",
         "url": "https://open.spotify.com/album/1II1iynAYvstYcE7OmnKcm"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 251008,
       "name": "Popurr\u00ed: \u00bfC\u00f3mo Est\u00e1s T\u00fa? / Te lo Pido Por Favor - En Vivo",
       "url": "https://open.spotify.com/track/4iY0sp58OJvpjVGQwl5l7U"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2026-03-13 19:07:31",

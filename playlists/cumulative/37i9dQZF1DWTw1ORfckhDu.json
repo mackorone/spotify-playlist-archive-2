@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "ADHD ANTHEM",
+        "url": "https://open.spotify.com/album/5IH1KBdP7E1xeCxqlnvzpC"
+      },
+      "artists": [
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108333,
+      "name": "ADHD ANTHEM",
+      "url": "https://open.spotify.com/track/3pIHXZRqbkqcmO8LZfF2U9"
+    },
+    {
+      "album": {
         "name": "Adi\u00f3s (feat. Juuna Chill)",
         "url": "https://open.spotify.com/album/2PAyYsAVyhllixYkVH1SUQ"
       },
@@ -1683,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Balanssii",
+        "url": "https://open.spotify.com/album/4oVlL1iJe8o3Q5ajmySMlx"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4kki",
+          "url": "https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151773,
+      "name": "Balanssii",
+      "url": "https://open.spotify.com/track/1geLAQ3uIEqg2S5YQjpsY8"
+    },
+    {
+      "album": {
         "name": "Bando",
         "url": "https://open.spotify.com/album/0g93pTi2E9miygXhTNRcWT"
       },
@@ -2030,6 +2066,24 @@
       "duration_ms": 180042,
       "name": "BLONDINA",
       "url": "https://open.spotify.com/track/5V6MFVxOCtnBgw4JV4Yk59"
+    },
+    {
+      "album": {
+        "name": "BNB",
+        "url": "https://open.spotify.com/album/4tRTA99VcnWzUeDTVa39bb"
+      },
+      "artists": [
+        {
+          "name": "leba",
+          "url": "https://open.spotify.com/artist/329hEYn8r1SUGkRomjKqRP"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "BNB",
+      "url": "https://open.spotify.com/track/20O3DehBuvmvFix1PLmc7E"
     },
     {
       "album": {
@@ -6331,6 +6385,28 @@
     },
     {
       "album": {
+        "name": "iltaset",
+        "url": "https://open.spotify.com/album/2iZujhPCftldF5Bq6evcp3"
+      },
+      "artists": [
+        {
+          "name": "Lytt\u00e4",
+          "url": "https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn"
+        },
+        {
+          "name": "Tohtori Getto",
+          "url": "https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185935,
+      "name": "iltaset",
+      "url": "https://open.spotify.com/track/25U7svN6Zqgf9yDCM60tYD"
+    },
+    {
+      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/7MUhZHTwzadlxv6g1ysJYq"
       },
@@ -9357,6 +9433,24 @@
     },
     {
       "album": {
+        "name": "Kumppani",
+        "url": "https://open.spotify.com/album/3CXogRA4K2AeoE0ECIEwu7"
+      },
+      "artists": [
+        {
+          "name": "Wibe",
+          "url": "https://open.spotify.com/artist/4eSZYScvGmZKML6FCn4cMH"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Kumppani",
+      "url": "https://open.spotify.com/track/1q92Q4x7wWdwF3JwYvEwSf"
+    },
+    {
+      "album": {
         "name": "kun pihalla kukkii (feat. fibi)",
         "url": "https://open.spotify.com/album/3pd4ZnjZZZOcnPbln7WEDL"
       },
@@ -10570,7 +10664,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 152339,
       "name": "Like me",
       "url": "https://open.spotify.com/track/4RpA0lgGJh73ATR5WmmufM"
@@ -11390,7 +11484,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 167415,
       "name": "MALIBU",
       "url": "https://open.spotify.com/track/2R28PFx1v4P3V2LBjRzzR3"
@@ -12172,7 +12266,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 212491,
       "name": "Mik\u00e4 diili ?",
       "url": "https://open.spotify.com/track/0mrfIQ6eWa2YatHnzI5Sb0"
@@ -13594,7 +13688,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 151062,
       "name": "m\u00e4 <3 m\u00e4",
       "url": "https://open.spotify.com/track/6dPFo2kfpysF2bgpVj5cvf"
@@ -14745,6 +14839,24 @@
     },
     {
       "album": {
+        "name": "Onks Naisia",
+        "url": "https://open.spotify.com/album/7BY2TiHA93PJvH9gpjOSdE"
+      },
+      "artists": [
+        {
+          "name": "Bulle",
+          "url": "https://open.spotify.com/artist/1lXwfUoWuEuKgm6oPTkGQl"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "Onks Naisia",
+      "url": "https://open.spotify.com/track/3KeLTupSZFdxLEJcOxQvPw"
+    },
+    {
+      "album": {
         "name": "Onks se kuollu? (feat. Pihlaja)",
         "url": "https://open.spotify.com/album/2IGkYJ4tZhFTyR5tPTl5Gj"
       },
@@ -15691,6 +15803,24 @@
     },
     {
       "album": {
+        "name": "Pelleilly",
+        "url": "https://open.spotify.com/album/16v1GWCwpx2oSFNqjCVH7o"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6ge",
+          "url": "https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172700,
+      "name": "Pelleilly",
+      "url": "https://open.spotify.com/track/2eJfHgk5cCQYcHjh4om5SZ"
+    },
+    {
+      "album": {
         "name": "Pentagrammimami",
         "url": "https://open.spotify.com/album/35ExpiT1B8hVOaR6kiolZo"
       },
@@ -16103,6 +16233,24 @@
     },
     {
       "album": {
+        "name": "Polta enemm\u00e4n chillaa v\u00e4hemm\u00e4n",
+        "url": "https://open.spotify.com/album/5UgvyjFGwGHdMMFTY0xRzz"
+      },
+      "artists": [
+        {
+          "name": "FUGE",
+          "url": "https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "Polta enemm\u00e4n chillaa v\u00e4hemm\u00e4n",
+      "url": "https://open.spotify.com/track/2lntJA7Uvom5n5e8UJ7Hak"
+    },
+    {
+      "album": {
         "name": "Pooloo ja fiilaa",
         "url": "https://open.spotify.com/album/5NqTYsowTSQb5C4VjwjezI"
       },
@@ -16504,6 +16652,24 @@
       "duration_ms": 139551,
       "name": "P\u00e4\u00e4 irti",
       "url": "https://open.spotify.com/track/5G3n5lnygZ8sBlQALfEect"
+    },
+    {
+      "album": {
+        "name": "P\u00e4\u00e4henkil\u00f6",
+        "url": "https://open.spotify.com/album/3sAWWSWq9l0JH3QpeKfIfS"
+      },
+      "artists": [
+        {
+          "name": "eemilcoolman",
+          "url": "https://open.spotify.com/artist/0v5hEelqdsATCJ7UECcDtX"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131413,
+      "name": "P\u00e4\u00e4henkil\u00f6",
+      "url": "https://open.spotify.com/track/7IxJsr6MMFuvCbXHgf4ID7"
     },
     {
       "album": {
@@ -17034,7 +17200,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 146000,
       "name": "Reiluu",
       "url": "https://open.spotify.com/track/5aYkP4rn8xiLPKzQT57qce"
@@ -17256,7 +17422,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 178750,
       "name": "Ringside",
       "url": "https://open.spotify.com/track/2nsvYByxwXzlJw6Tps4Tde"
@@ -17982,7 +18148,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 162920,
       "name": "Se Ei Mee Niin",
       "url": "https://open.spotify.com/track/6znnvDT7fkrAmhdIuWTzMj"
@@ -19730,7 +19896,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 252409,
       "name": "S\u00e4 Kannoit Mua",
       "url": "https://open.spotify.com/track/7LF0RYLBxYCWrkHqhDTDVl"
@@ -21216,7 +21382,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 142301,
       "name": "Turvasatama",
       "url": "https://open.spotify.com/track/3a44ANm1GszUeUDe3sDa7k"

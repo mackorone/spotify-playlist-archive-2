@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Car\u00edn Le\u00f3n en portada ",
-  "num_followers": 845567,
+  "num_followers": 845660,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-05-08 06:00:26",
       "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 188121,
-      "name": "Muchacho Alegre",
-      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
-    },
-    {
-      "added_at": "2026-05-08 06:00:26",
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": "2026-05-08 06:00:26",
+      "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 188121,
+      "name": "Muchacho Alegre",
+      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
     },
     {
       "added_at": "2026-05-08 06:00:26",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-05-08 06:00:26",
       "album": {
+        "name": "C Y Medio",
+        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "C Y Medio",
+      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
+    },
+    {
+      "added_at": "2026-05-08 06:00:26",
+      "album": {
         "name": "Todo a Su Tiempo",
         "url": "https://open.spotify.com/album/7fa8NmCDRgIP5BRkdYWG5i"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 180756,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"
-    },
-    {
-      "added_at": "2026-05-08 06:00:26",
-      "album": {
-        "name": "C Y Medio",
-        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "C Y Medio",
-      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
     },
     {
       "added_at": "2026-05-08 06:00:26",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-05-08 06:00:26",
       "album": {
-        "name": "Te Juro Que Te Amo",
-        "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 208298,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
-    },
-    {
-      "added_at": "2026-05-08 06:00:26",
-      "album": {
         "name": "Nenas Mafiosas",
         "url": "https://open.spotify.com/album/1rBCAtb1Y9bUbsOlzcSn53"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 146400,
       "name": "Nenas Mafiosas",
       "url": "https://open.spotify.com/track/33E72WM96PhNU9qyqHiccb"
+    },
+    {
+      "added_at": "2026-05-08 06:00:26",
+      "album": {
+        "name": "Te Juro Que Te Amo",
+        "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 208298,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
     },
     {
       "added_at": "2026-05-08 06:00:26",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-05-08 06:00:26",
       "album": {
+        "name": "El Due\u00f1o De Tu Amor",
+        "url": "https://open.spotify.com/album/2thiiW2ABYaxYRzHjydxcd"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kachimba",
+          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
+        }
+      ],
+      "duration_ms": 238803,
+      "name": "El Due\u00f1o De Tu Amor",
+      "url": "https://open.spotify.com/track/3CMvZy31RHf2UdFY3Xk4Hm"
+    },
+    {
+      "added_at": "2026-05-08 06:00:26",
+      "album": {
         "name": "50/50",
         "url": "https://open.spotify.com/album/14LepGB8kIKQCzxbKVMvdz"
       },
@@ -1119,18 +1135,26 @@
     {
       "added_at": "2026-05-08 06:00:26",
       "album": {
-        "name": "El Due\u00f1o De Tu Amor",
-        "url": "https://open.spotify.com/album/2thiiW2ABYaxYRzHjydxcd"
+        "name": "De Los Dientes Pa Fuera",
+        "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
       },
       "artists": [
         {
-          "name": "Grupo Kachimba",
-          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 238803,
-      "name": "El Due\u00f1o De Tu Amor",
-      "url": "https://open.spotify.com/track/3CMvZy31RHf2UdFY3Xk4Hm"
+      "duration_ms": 168664,
+      "name": "De Los Dientes Pa Fuera",
+      "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
     },
     {
       "added_at": "2026-05-08 06:00:26",
@@ -1191,30 +1215,6 @@
       "duration_ms": 187560,
       "name": "Sin Darme Explicacion",
       "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
-    },
-    {
-      "added_at": "2026-05-08 06:00:26",
-      "album": {
-        "name": "De Los Dientes Pa Fuera",
-        "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 168664,
-      "name": "De Los Dientes Pa Fuera",
-      "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
     },
     {
       "added_at": "2026-05-08 06:00:26",

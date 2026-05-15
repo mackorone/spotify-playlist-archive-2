@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Olivia Rodrigo",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Dipha Barus, Hindia",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -432,6 +432,24 @@
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
+    },
+    {
+      "album": {
+        "name": "Peter, Paul and Mary",
+        "url": "https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "500 Miles",
+      "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
     },
     {
       "album": {
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 223788,
       "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
@@ -1444,6 +1462,24 @@
       "duration_ms": 218076,
       "name": "Anak Kampung Lifestyle Rockstar",
       "url": "https://open.spotify.com/track/1cAhzQdPa4kyuPTbAm9x43"
+    },
+    {
+      "album": {
+        "name": "Ancika (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/2FAe6WqwK377VOzUXO9ug8"
+      },
+      "artists": [
+        {
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198618,
+      "name": "Ancika - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/1ap7BXSR0cpWezixdAzfT9"
     },
     {
       "album": {
@@ -1758,7 +1794,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 201366,
       "name": "Arabian Playboy",
       "url": "https://open.spotify.com/track/2U6JP2KAsNZ6kwPy198mcH"
@@ -2052,7 +2088,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 214240,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
@@ -7591,6 +7627,24 @@
     },
     {
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "album": {
         "name": "AMORTAGE",
         "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
       },
@@ -8312,7 +8366,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 256799,
       "name": "Favorite Girl",
       "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
@@ -11444,7 +11498,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 171000,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/5JJl9DV0DAg5ekxnBSqZyO"
@@ -11996,7 +12050,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 227660,
       "name": "Into the Sun",
       "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
@@ -12264,7 +12318,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
@@ -12500,7 +12554,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 225146,
       "name": "Journey Mercies",
       "url": "https://open.spotify.com/track/03HWY5ttImMemD11wWvxBi"
@@ -13810,7 +13864,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 139323,
       "name": "Kosong",
       "url": "https://open.spotify.com/track/4EhTIOXTXafB1aUwWy3T7N"
@@ -16850,7 +16904,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 229855,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU"
@@ -17572,6 +17626,28 @@
       "duration_ms": 271800,
       "name": "Nada Nada Cinta",
       "url": "https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP"
+    },
+    {
+      "album": {
+        "name": "Nafas",
+        "url": "https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN"
+      },
+      "artists": [
+        {
+          "name": "Dipha Barus",
+          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
+        },
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Nafas",
+      "url": "https://open.spotify.com/track/0HydcejUZ63IGT7ff4Rurs"
     },
     {
       "album": {
@@ -19518,6 +19594,24 @@
       "duration_ms": 259095,
       "name": "Pegang Kendali",
       "url": "https://open.spotify.com/track/2cZndbv4I030w3vfXdE7Ck"
+    },
+    {
+      "album": {
+        "name": "rombak",
+        "url": "https://open.spotify.com/album/3gCYKx8ycJ82m6yDA5eGPu"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170673,
+      "name": "Pelarian",
+      "url": "https://open.spotify.com/track/3UqvqIAj7mfd8pBBnxJWhb"
     },
     {
       "album": {
@@ -22253,6 +22347,24 @@
     },
     {
       "album": {
+        "name": "Say No",
+        "url": "https://open.spotify.com/album/0SuU1lu4vJImcCotDdVa7a"
+      },
+      "artists": [
+        {
+          "name": "Tasya Kamila",
+          "url": "https://open.spotify.com/artist/3MCrMS3Xtw78DxaiH5KutJ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Say No",
+      "url": "https://open.spotify.com/track/6ICEluTQZZwk1Id0XpavZy"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -22908,6 +23020,28 @@
       "duration_ms": 254900,
       "name": "Semusim",
       "url": "https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2"
+    },
+    {
+      "album": {
+        "name": "senang dengar suaramu lagi (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/4MsJMhOJAJMWqa6z7RseUK"
+      },
+      "artists": [
+        {
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257627,
+      "name": "senang dengar suaramu lagi - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/6WtShjwKjMasfkb6SyjRY4"
     },
     {
       "album": {
@@ -26544,6 +26678,24 @@
       "duration_ms": 214395,
       "name": "Terpatah Terluka",
       "url": "https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B"
+    },
+    {
+      "album": {
+        "name": "Terpukau",
+        "url": "https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr"
+      },
+      "artists": [
+        {
+          "name": "Astrid",
+          "url": "https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252093,
+      "name": "Terpukau",
+      "url": "https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj"
     },
     {
       "album": {

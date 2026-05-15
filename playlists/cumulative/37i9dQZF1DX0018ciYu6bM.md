@@ -4,12 +4,12 @@
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. \(Cover: LE SSERAFIM\)
 
-908 songs - 1 day 23 hr 59 min
+909 songs - 2 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 | 2023-06-12 | 2023-08-01 |
-| [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2025-11-04 |  |
+| [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2025-11-04 | 2026-05-15 |
 | [1 of 9](https://open.spotify.com/track/6DB6p1dVSNWJbmrbF34icS) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [YOUNI\-BIRTH](https://open.spotify.com/album/1shJJvoHJtR28Tfd8Ebh07) | 3:19 | 2022-05-26 | 2022-06-24 |
 | [1 to 3](https://open.spotify.com/track/5QSt4NymiiVo7TzmP9siZK) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [1 to 3 \- The 3rd Mini Album](https://open.spotify.com/album/7MdhdsQMuRPFfNoxDOv8Jp) | 3:40 | 2024-06-07 | 2024-07-29 |
 | [10 Minutes](https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [Stylish…](https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b) | 3:56 | 2024-04-11 | 2025-01-28 |
@@ -330,6 +330,7 @@
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-07-21 | 2022-09-29 |
 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 | 2023-09-20 | 2023-11-14 |
 | [Heaven](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Heaven](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) | 2:32 | 2024-07-28 | 2024-10-04 |
+| [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 | 2026-05-13 |  |
 | [Hello](https://open.spotify.com/track/7tdDHP7ZyOjbTQuizyHI1c) | [TEAM 7:00](https://open.spotify.com/artist/2UFo4oEsxKVnhEGgVon9hS) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:29 | 2023-02-20 | 2023-03-07 |
 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-07 | 2023-01-10 |
 | [HER](https://open.spotify.com/track/2MbPhDgeXVipowltFneRH2) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h) | 2:39 | 2025-01-27 | 2025-11-05 |

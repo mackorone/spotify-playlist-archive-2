@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,054 songs - 2 day 13 hr 44 min
+1,058 songs - 2 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2026-01-14 | 2026-02-20 |
 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 | 2026-03-16 | 2026-04-12 |
 | [Desnudos](https://open.spotify.com/track/0YhRvQRdUPS5CTTr271yxK) | [Loshe](https://open.spotify.com/artist/47dUfk9P1DT7rnyPBjAj4j) | [Desnudos](https://open.spotify.com/album/7xZRApMEokpFziQCuMdchm) | 4:40 | 2026-03-20 | 2026-04-22 |
+| [DETACHMENT](https://open.spotify.com/track/7EIDxaAt1Li1bBfX9z0S8v) | [MZY](https://open.spotify.com/artist/2CEU85SUsAjhDaSjvz2GhC), [JBAKED](https://open.spotify.com/artist/0iSctIGKWqT03q6XCFuJVF) | [DETACHMENT](https://open.spotify.com/album/7vgPzGMN5Ziydt016iM72w) | 2:36 | 2026-05-14 |  |
 | [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 | 2026-03-11 | 2026-04-12 |
 | [Devour / The Performer](https://open.spotify.com/track/5FDV4uoXH08RdtWYK59TJv) | [TULLE](https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI) | [Devour / The Performer](https://open.spotify.com/album/0WjR5u6xA9bI9qu0lhDurj) | 4:00 | 2025-11-17 | 2025-12-21 |
 | [Di una donna](https://open.spotify.com/track/6yECICIZ8PrA3fBfsATvig) | [Tommaso Giusti](https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a) | [Di una donna](https://open.spotify.com/album/5o1y7J95FKsNNRdqJgaydO) | 3:55 | 2026-01-02 | 2026-02-03 |
@@ -270,6 +271,7 @@
 | [Everybody Wins In The End](https://open.spotify.com/track/3KZdftmepUXGPv7vvyU0u7) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Everybody Wins In The End](https://open.spotify.com/album/687TYmukX5kBuJBJPub0Yn) | 2:56 | 2026-04-20 |  |
 | [Everything](https://open.spotify.com/track/1oL4pFLc2E8b9CKsZApmSm) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Love & Heartbreak, Vol\. 3](https://open.spotify.com/album/3b2UKbjlhHnEJHr3LjpRmi) | 4:28 | 2026-02-11 | 2026-03-15 |
 | [Everything to me \- 2026 Remastered](https://open.spotify.com/track/6srrd8bYqdRznLnOcJrE32) | [Martin Music](https://open.spotify.com/artist/5Y1uMD9d4HYryBiBvhssUW) | [Everything to me \(2026 Remastered\)](https://open.spotify.com/album/2PIDJ9NUlXxYvw0pD5N7hy) | 2:39 | 2026-03-16 | 2026-04-12 |
+| [EXTAZY éternelle](https://open.spotify.com/track/0lUc5uQa1zlVWkEA83xG9o) | [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12), [MO](https://open.spotify.com/artist/6efZkPMkmkcZDYzz25OYXf) | [EXTAZY éternelle](https://open.spotify.com/album/4a86a5ldY19ncl7gabN3Ju) | 4:10 | 2026-05-14 |  |
 | [Extra Juicy](https://open.spotify.com/track/5pjXk1yt9rxwt2G6phJX2U) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Extra Juicy](https://open.spotify.com/album/7foyhwKtR2A6JrPM7ppeYT) | 3:14 | 2026-03-16 | 2026-04-12 |
 | [Fade \- Remix](https://open.spotify.com/track/376ImRIk78DYFiY03n7s8L) | [GRAMZ NFT](https://open.spotify.com/artist/2W3A0iYZ114bkHssTcl3Cr) | [Blues & Rhythms](https://open.spotify.com/album/7w3z8FgUCAoXFLtGUHHcVG) | 2:47 | 2026-04-16 | 2026-05-14 |
 | [Fading Into You](https://open.spotify.com/track/5VPBujeOcYZ6SJ50pbXZiv) | [Reyzalla](https://open.spotify.com/artist/1GDg9eSEuaf2DR4zwuAQZE) | [Fading Into You](https://open.spotify.com/album/5uFWFE43KS6GIwCoaFdWnM) | 3:27 | 2026-03-11 | 2026-04-12 |
@@ -742,6 +744,7 @@
 | [Rugido na Estrada](https://open.spotify.com/track/3FTaWZD7qUbb6ScM9YjbG1) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Rugido na Estrada](https://open.spotify.com/album/1r76L7sEgHPZtRBRXT4apm) | 2:54 | 2026-01-26 | 2026-02-28 |
 | [Run away](https://open.spotify.com/track/3MMWYNw86r00wkk7smvoM1) | [AILEX](https://open.spotify.com/artist/74xdDdsFQZWsje0e2840Y7) | [Run away](https://open.spotify.com/album/2rsLIZcRDk7G3B6UIEtt6M) | 2:48 | 2026-03-31 | 2026-05-03 |
 | [Runaway](https://open.spotify.com/track/40CRFRPniqwB7sbPlXPm9F) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Runaway](https://open.spotify.com/album/0zgAdhmtbSNkekdvpeeIEd) | 3:39 | 2025-12-15 | 2026-01-15 |
+| [Rusty Song](https://open.spotify.com/track/7hUeW0lgFIwJaXxbS8r9Wo) | [The meantime green](https://open.spotify.com/artist/03AuzDuKaTGM8tBZDtT90h) | [Rusty Song](https://open.spotify.com/album/79nI7doJ0LuujE6jrDJ4Id) | 3:27 | 2026-05-14 |  |
 | [Saajna](https://open.spotify.com/track/2f9yKZiCmnGKgtkmsT67yP) | [Niswarth](https://open.spotify.com/artist/65dQV1yW3OrsEcy0O1b0S5), [Pradhumn Rajput](https://open.spotify.com/artist/2INevekE5kePA1zEWUXuih) | [Saajna](https://open.spotify.com/album/5VTsL2MF0q4Mjfvd7pV1Kx) | 4:00 | 2026-01-14 | 2026-02-20 |
 | [Sabor a Café](https://open.spotify.com/track/0EVejdb25HjSn1MEi9N8sw) | [Samuel Calderón](https://open.spotify.com/artist/6VFOsXn6LfGB6MMdQzvs4l) | [Problema Favorito](https://open.spotify.com/album/0NJKShNiu4WU6Iqxl9R6Ww) | 3:24 | 2025-12-15 | 2026-01-15 |
 | [Sai mondo l'ho capito](https://open.spotify.com/track/7IUdrwykrrNMjk68kaRzZm) | [kreio](https://open.spotify.com/artist/3kRclwJ3uJqLsAYwLLjcZK) | [Sai mondo l'ho capito](https://open.spotify.com/album/5V4C0WT4qhZfFAJnI1AOzK) | 3:17 | 2026-03-09 | 2026-04-12 |
@@ -1025,6 +1028,7 @@
 | [Wine](https://open.spotify.com/track/0y1bwmgoGdG8DvryqmBR3K) | [Ou Yu](https://open.spotify.com/artist/5qPvi8fvZMu4sJGSoA6nH6), [framesound](https://open.spotify.com/artist/2rc2L0vG15AyrlJrIhsIXs) | [Wine](https://open.spotify.com/album/23Saj01VUpK7zGkcDX3mrd) | 2:51 | 2025-12-27 | 2026-01-24 |
 | [Wine Sunrise \- Guitar solo](https://open.spotify.com/track/6OUZpdoDA8pC488uUkRfAr) | [Manaus](https://open.spotify.com/artist/58tdStq1hsnF7s0AtKfc4z) | [Wine Sunrise \(Guitar solo\)](https://open.spotify.com/album/4q3G7faYU8YG9cZAuCRgsO) | 2:58 | 2026-04-03 |  |
 | [Winner](https://open.spotify.com/track/7GFa54KAJEeIMqBTyJR3kn) | [Giga.Ent](https://open.spotify.com/artist/55akrV4qDuxFAITQwKuuBV) | [Joy & Pain](https://open.spotify.com/album/1IrdB9gDE5vWsC2WUNjljN) | 2:19 | 2026-02-15 | 2026-03-15 |
+| [Wish It Were True](https://open.spotify.com/track/0ccX8b6roUZh5wdt4J4dR9) | [The meantime green](https://open.spotify.com/artist/03AuzDuKaTGM8tBZDtT90h) | [Wish It Were True](https://open.spotify.com/album/6BWOyHzOcBHsvS4FU9iMf5) | 3:16 | 2026-05-14 |  |
 | [With You](https://open.spotify.com/track/7LLHGsm4xICcdq84TIYvF4) | [TS Chris](https://open.spotify.com/artist/57Ui8J7CkhuIdZELypG3Vv) | [With You](https://open.spotify.com/album/0PKRfRbbVawBDRcjGKtJeH) | 3:35 | 2025-10-21 | 2025-11-29 |
 | [Without Job](https://open.spotify.com/track/3bUTxynnmrhvaevvDvB7n7) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Without Job](https://open.spotify.com/album/5oryg8dV3hsmDHTum90UTg) | 2:59 | 2026-03-30 | 2026-05-03 |
 | [Wlw](https://open.spotify.com/track/4MxQHuGIOeoRWrNEArWFHf) | [iamChloeMartinez](https://open.spotify.com/artist/6U96xc8JxsBr0EDRnhIxQP) | [Wlw](https://open.spotify.com/album/6PuNvnQoarfkU4w34rhREU) | 2:54 | 2026-04-21 |  |

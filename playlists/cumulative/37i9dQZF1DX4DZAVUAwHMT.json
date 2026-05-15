@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: The Last Dinner Party",
+  "description": "The UK's biggest rock playlist. Cover: Bleech 9:3",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 216884,
       "name": "An Ending In Itself",
       "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
@@ -3008,6 +3008,24 @@
       "duration_ms": 186026,
       "name": "BLOOD AND SUGAR",
       "url": "https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi"
+    },
+    {
+      "album": {
+        "name": "Blood on the Bone",
+        "url": "https://open.spotify.com/album/1HEJyjclrdNapUGwNs9Pl0"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225735,
+      "name": "Blood on the Bone",
+      "url": "https://open.spotify.com/track/2neNFxrx4wiAemOcykU7NO"
     },
     {
       "album": {
@@ -4655,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "Coming On Strong",
+        "url": "https://open.spotify.com/album/3oeSa6CphbMgzssPEUknVt"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188053,
+      "name": "Coming On Strong",
+      "url": "https://open.spotify.com/track/0803vH8x1peM7SxVODBhVn"
+    },
+    {
+      "album": {
         "name": "Company Hunting",
         "url": "https://open.spotify.com/album/3RfMYoc6ypAt7N5kmHhn2u"
       },
@@ -4756,7 +4792,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 152626,
       "name": "Cool Buzz",
       "url": "https://open.spotify.com/track/4EPep3s07C13ngRBVzQ8V0"
@@ -5200,7 +5236,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 179280,
       "name": "Dance In The USA",
       "url": "https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV"
@@ -8117,6 +8153,24 @@
     },
     {
       "album": {
+        "name": "Get Them Out",
+        "url": "https://open.spotify.com/album/6M7SwHpvqj0MxfARhJ7QoS"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258047,
+      "name": "Get Them Out",
+      "url": "https://open.spotify.com/track/1mcgcAggdf9MSEN9wTiKNR"
+    },
+    {
+      "album": {
         "name": "Get This",
         "url": "https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH"
       },
@@ -9274,7 +9328,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 193106,
       "name": "haven't seen you in a while",
       "url": "https://open.spotify.com/track/7JL6PmKndly4X7jODvh1d9"
@@ -9898,6 +9952,24 @@
       "duration_ms": 224532,
       "name": "Hole In The Ground",
       "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
+    },
+    {
+      "album": {
+        "name": "father's daughter",
+        "url": "https://open.spotify.com/album/5BZKnxCJgUXCgFdvtcfaI1"
+      },
+      "artists": [
+        {
+          "name": "Bottle Rockets",
+          "url": "https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "home",
+      "url": "https://open.spotify.com/track/2ZeJ0RpQVGoFSYx59KKIFh"
     },
     {
       "album": {
@@ -15076,10 +15148,28 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 288680,
       "name": "No Feeling",
       "url": "https://open.spotify.com/track/4irsdnZsat5QRfveJwb3Qz"
+    },
+    {
+      "album": {
+        "name": "No God",
+        "url": "https://open.spotify.com/album/0jRTea6wJN0q140LwWQPt5"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165426,
+      "name": "No God",
+      "url": "https://open.spotify.com/track/1McpAvcwxctyBOqPulTmSQ"
     },
     {
       "album": {
@@ -15116,6 +15206,24 @@
       "duration_ms": 168786,
       "name": "No Shame",
       "url": "https://open.spotify.com/track/7tEOucZMfYd1hnW1lN8dMd"
+    },
+    {
+      "album": {
+        "name": "Bleech 9:3",
+        "url": "https://open.spotify.com/album/6LnK2cmnchsy0iSsLJE9ib"
+      },
+      "artists": [
+        {
+          "name": "Bleech 9:3",
+          "url": "https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191432,
+      "name": "No Surprise",
+      "url": "https://open.spotify.com/track/5vZw0zHPkxMYr8cHleEf9k"
     },
     {
       "album": {
@@ -17928,6 +18036,24 @@
       "duration_ms": 149194,
       "name": "REAL SUPER DARK",
       "url": "https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3"
+    },
+    {
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223941,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg"
     },
     {
       "album": {
@@ -21554,7 +21680,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 212163,
       "name": "The Ghost",
       "url": "https://open.spotify.com/track/2j3BsACN13jvgNviBN0lGA"
@@ -23009,6 +23135,24 @@
     },
     {
       "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/3jJ89V0mOcGmC0aKougbwE"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158107,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/1CJc1pMkdXAlUU9723Ir3z"
+    },
+    {
+      "album": {
         "name": "Unbloom",
         "url": "https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis"
       },
@@ -23132,7 +23276,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 209760,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/6d1Zurp6nbAdUztdtu3XEF"
@@ -24370,7 +24514,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 264248,
       "name": "Whisper of a Dream",
       "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"

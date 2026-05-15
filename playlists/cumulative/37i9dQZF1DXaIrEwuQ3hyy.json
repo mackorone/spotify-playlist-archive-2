@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 197129,
       "name": "Catch You",
       "url": "https://open.spotify.com/track/6ikOvPfy40gVDVt34WkoHk"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 207028,
       "name": "Chiara",
       "url": "https://open.spotify.com/track/13SDcvkayQJdSgTUmTbrfe"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 267100,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
@@ -2519,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Irish Eyes",
+        "url": "https://open.spotify.com/album/6wNwp3iSMstG1TjpTQLbAq"
+      },
+      "artists": [
+        {
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153798,
+      "name": "Irish Eyes - Cover",
+      "url": "https://open.spotify.com/track/7f22CM18praOPpgvbiMAgY"
+    },
+    {
+      "album": {
         "name": "Jah",
         "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
       },
@@ -3474,7 +3492,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 287000,
       "name": "Morning Birds",
       "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 182857,
       "name": "My Man & Me",
       "url": "https://open.spotify.com/track/6sYsSMFQWpzzztDgzTGjqf"
@@ -5409,6 +5427,32 @@
     },
     {
       "album": {
+        "name": "Tall Pines",
+        "url": "https://open.spotify.com/album/7nd1bPBc68WdwJY5WkoLjX"
+      },
+      "artists": [
+        {
+          "name": "Ed Prosek",
+          "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW"
+        },
+        {
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        },
+        {
+          "name": "Driftwood Choir",
+          "url": "https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194210,
+      "name": "Tall Pines",
+      "url": "https://open.spotify.com/track/2VQ5Zw5bDevO8iRx1EQ2gr"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
       },
@@ -5860,7 +5904,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 183569,
       "name": "Trust Myself",
       "url": "https://open.spotify.com/track/0P8hP2O5hEVdAvnr0q2c8q"

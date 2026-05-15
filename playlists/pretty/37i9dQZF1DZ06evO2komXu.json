@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 56245,
+  "num_followers": 56262,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACw7y+ai0K6vEy1uzIryVuR",
+  "snapshot_id": "agO/AAAAAACWpBTQRmX5sHkHKgfjrM3R",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 165196,
+      "name": "Cast (Gen Z Anthem)",
+      "url": "https://open.spotify.com/track/39mBggiTIKDRf67oAAoSUx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On A Low",
         "url": "https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 136062,
       "name": "On A Low",
       "url": "https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 165196,
-      "name": "Cast (Gen Z Anthem)",
-      "url": "https://open.spotify.com/track/39mBggiTIKDRf67oAAoSUx"
     },
     {
       "added_at": null,

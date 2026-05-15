@@ -31,6 +31,32 @@
     },
     {
       "album": {
+        "name": "A Beleza De Ser",
+        "url": "https://open.spotify.com/album/35MiCztNYMVMlVYlifBCzc"
+      },
+      "artists": [
+        {
+          "name": "Muca",
+          "url": "https://open.spotify.com/artist/0B530ZeLXBaPt7AN3wHNcM"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Ilessi",
+          "url": "https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "A Beleza De Ser",
+      "url": "https://open.spotify.com/track/77KUT4cGoNZZwatCZii61P"
+    },
+    {
+      "album": {
         "name": "Milton + esperanza",
         "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
       },
@@ -754,7 +780,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169760,
       "name": "Chuvas De Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"

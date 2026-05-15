@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Maroon 5",
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Charli xcx",
   "name": "Next Up",
   "tracks": [
     {
@@ -988,6 +988,28 @@
       "duration_ms": 176865,
       "name": "25",
       "url": "https://open.spotify.com/track/5oh8O4EMOBQNldYQyL7irn"
+    },
+    {
+      "album": {
+        "name": "2AM Highway",
+        "url": "https://open.spotify.com/album/4oVtxuQfloLHB8x351eFab"
+      },
+      "artists": [
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257647,
+      "name": "2AM Highway",
+      "url": "https://open.spotify.com/track/7F2baCmzfx2fmDxgkQf3Zo"
     },
     {
       "album": {
@@ -2624,6 +2646,28 @@
       "duration_ms": 192207,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki"
+    },
+    {
+      "album": {
+        "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
+        "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
+      "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
     },
     {
       "album": {
@@ -11445,6 +11489,24 @@
     },
     {
       "album": {
+        "name": "CALL",
+        "url": "https://open.spotify.com/album/3hJc9OChRC9Mo20CoP887v"
+      },
+      "artists": [
+        {
+          "name": "Aooo",
+          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156792,
+      "name": "CALL",
+      "url": "https://open.spotify.com/track/6huoEUAUkpK70VEbDizmKP"
+    },
+    {
+      "album": {
         "name": "Call",
         "url": "https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu"
       },
@@ -15882,7 +15944,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 164791,
       "name": "dance now!",
       "url": "https://open.spotify.com/track/0RDXqfmkzxoiQ53JHrFNYz"
@@ -16826,6 +16888,24 @@
       "duration_ms": 174626,
       "name": "DDD",
       "url": "https://open.spotify.com/track/0HD7n7QmEmpKhojIu7R1bx"
+    },
+    {
+      "album": {
+        "name": "ddok ddok ddok",
+        "url": "https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155054,
+      "name": "ddok ddok ddok",
+      "url": "https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP"
     },
     {
       "album": {
@@ -36611,6 +36691,24 @@
     },
     {
       "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253266,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
+    },
+    {
+      "album": {
         "name": "In Your Life",
         "url": "https://open.spotify.com/album/20yZQbH7TZ1cCZ0MRyrGVh"
       },
@@ -43849,6 +43947,28 @@
     },
     {
       "album": {
+        "name": "Love Is Kind",
+        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247384,
+      "name": "Love Is Kind",
+      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
+    },
+    {
+      "album": {
         "name": "Love Is Money?",
         "url": "https://open.spotify.com/album/372fVRnoUdCMcyGqt26so4"
       },
@@ -49288,7 +49408,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 165000,
       "name": "My Fan",
       "url": "https://open.spotify.com/track/6J4Jgnx5PxCeyrJxDmBAG1"
@@ -54844,7 +54964,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 154566,
       "name": "ORIGAMI!",
       "url": "https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7"
@@ -55012,7 +55132,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 219820,
       "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
       "url": "https://open.spotify.com/track/7JWFrcLSJ2oknwqTzd7OTF"
@@ -62559,6 +62679,28 @@
     },
     {
       "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
+    },
+    {
+      "album": {
         "name": "Saturday",
         "url": "https://open.spotify.com/album/32xBObHEMQL8BiWZr0N0hb"
       },
@@ -63054,7 +63196,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 224046,
       "name": "Scipio",
       "url": "https://open.spotify.com/track/3TBLEHvlK9sP2zKHpmTdeA"
@@ -64872,7 +65014,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 235560,
       "name": "Sideways (feat. Coco Jones)",
       "url": "https://open.spotify.com/track/3cq2IfK8NOuXDlc0cogY2K"
@@ -69278,6 +69420,24 @@
       "duration_ms": 220333,
       "name": "SUGAR PUFF",
       "url": "https://open.spotify.com/track/0hgMgabTUAFrVSmcpLFAyb"
+    },
+    {
+      "album": {
+        "name": "CLASSIC",
+        "url": "https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171306,
+      "name": "Sugar Rush",
+      "url": "https://open.spotify.com/track/7GId0e73UnUrSCJmfjRTG8"
     },
     {
       "album": {
@@ -77086,7 +77246,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 232796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
@@ -77956,7 +78116,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 269797,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/5LfvepSIF8IWxYbEVyXtiy"
@@ -80020,6 +80180,28 @@
       "duration_ms": 154705,
       "name": "Ways To Go (feat. Khalid)",
       "url": "https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6"
+    },
+    {
+      "album": {
+        "name": "WDA (Whole Different Animal) [feat. G-DRAGON]",
+        "url": "https://open.spotify.com/album/6IttHfuu2t5ciZPApSX0Ex"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "WDA (Whole Different Animal) [feat. G-DRAGON]",
+      "url": "https://open.spotify.com/track/4x0GAc6gDUttopqakXNezW"
     },
     {
       "album": {
@@ -85826,7 +86008,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 228865,
       "name": "\u304a\u306f\u3088\u3046",
       "url": "https://open.spotify.com/track/4CumCsapxGMoFpw9EZS7M0"
@@ -87536,6 +87718,24 @@
       "duration_ms": 196640,
       "name": "\u3077\u3093\u3077\u3093",
       "url": "https://open.spotify.com/track/1ZQjslTPziwyz9BioIBBSI"
+    },
+    {
+      "album": {
+        "name": "\u307e\u305f\u306d",
+        "url": "https://open.spotify.com/album/7LBn3bX4IrLpWUdRyWthwr"
+      },
+      "artists": [
+        {
+          "name": "DOMOTO",
+          "url": "https://open.spotify.com/artist/4NBCFYm6kiW9PN1E4ZhrKf"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281591,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/1ttBK8LYL3eIraeRYOZe6P"
     },
     {
       "album": {
@@ -92374,7 +92574,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 230900,
       "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
       "url": "https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg"
@@ -93358,7 +93558,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 217611,
       "name": "\u30da\u30c8\u30ea\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/3NwV1bntgDOTJ1itqm2xOJ"
@@ -100308,6 +100508,24 @@
       "duration_ms": 323495,
       "name": "\u6625\u306b\u306a\u308c\u3070",
       "url": "https://open.spotify.com/track/75NeiNCxqUojF1evdQflZL"
+    },
+    {
+      "album": {
+        "name": "\u6625\u306b\u821e\u3046",
+        "url": "https://open.spotify.com/album/2nLGFXbJw0Sx21lYGji0NK"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238180,
+      "name": "\u6625\u306b\u821e\u3046",
+      "url": "https://open.spotify.com/track/5DeORdOeIVBMq9hfry3op1"
     },
     {
       "album": {

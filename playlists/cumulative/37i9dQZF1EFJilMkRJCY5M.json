@@ -405,6 +405,28 @@
     },
     {
       "album": {
+        "name": "Clarity (Ft. Kabaka Pyramid)",
+        "url": "https://open.spotify.com/album/4aTPodNe6oejgf3SFp5RiP"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Clarity (Ft. Kabaka Pyramid)",
+      "url": "https://open.spotify.com/track/39xEK5rYhBgPANUaL0eOmz"
+    },
+    {
+      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet"
       },
@@ -1720,6 +1742,24 @@
       "duration_ms": 63124,
       "name": "LONELY PLACE",
       "url": "https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour"
+    },
+    {
+      "album": {
+        "name": "forgive, forget.",
+        "url": "https://open.spotify.com/album/2VdjF3nvUQCrpmxbsd9fNp"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177853,
+      "name": "lonestar alone",
+      "url": "https://open.spotify.com/track/2DMuq5jna4zbi49OiaBClA"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Vanessa Paradis
+> Les  meilleures nouveautés de la chanson française avec TeddyBear
 
-325 songs - 17 hr 44 min
+326 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Berger](https://open.spotify.com/track/4jZa91Syrxgfkc1Vu0WFV0) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Berger](https://open.spotify.com/album/6CHomIIo3zZ5lx6Vyc1r9r) | 3:34 | 2025-10-02 | 2026-02-20 |
 | [Blasé](https://open.spotify.com/track/0lkX4eB6G5k1B6guGkqYkm) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Blasé](https://open.spotify.com/album/422iiY3B8iDAbepmDiBRtX) | 3:18 | 2025-01-10 | 2025-02-21 |
 | [Bleu](https://open.spotify.com/track/5QgOSe0IWekbANgFkwqBz5) | [Antonin](https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC) | [Bleu](https://open.spotify.com/album/33Zk8TkJpJBKx58OYNQfRg) | 2:40 | 2026-03-19 |  |
+| [Bonjour mon amour](https://open.spotify.com/track/3R9KKJYSdraCwuJZVRTnCp) | [Alexis Muratti](https://open.spotify.com/artist/0ZtYN8Q6LXIiyqE7bcDuJX) | [Bonjour mon amour](https://open.spotify.com/album/6VB0596dJfgxrlS0bFR7DK) | 4:53 | 2026-05-14 |  |
 | [bonjour mon amour, bonne nuit.](https://open.spotify.com/track/02JicXcJJFbV2J5c8RkQxX) | [Hermance](https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS) | [bonjour mon amour, bonne nuit.](https://open.spotify.com/album/2JYLJM6efgqZQ7treAnsn1) | 2:43 | 2026-04-23 |  |
 | [Bye Bye](https://open.spotify.com/track/21voZTmJ9CUaws5PnW8eqb) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Bye Bye](https://open.spotify.com/album/1njh9CTA7moOYkmr6BdaNl) | 2:25 | 2026-04-02 |  |
 | [C'est fou comme je t'aime](https://open.spotify.com/track/46KAkT2PJ7aAgYiJAUsrKM) | [Foé](https://open.spotify.com/artist/5KRLYv4JDKx5jvR2EOdw7a) | [C'est fou comme je t'aime](https://open.spotify.com/album/1vXL0FA7JkIjvBbv0J4kdm) | 2:40 | 2024-06-27 | 2024-07-27 |
@@ -231,7 +232,7 @@
 | [On peut comme ça](https://open.spotify.com/track/7Fa90Xad7G9ayAYvZ9nwl6) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [On peut comme ça](https://open.spotify.com/album/3gXoxSvcNA04j16k0U8sZT) | 4:04 | 2025-07-10 | 2025-10-03 |
 | [On s'aimera](https://open.spotify.com/track/3ORZnahwMQvAFnWgHGP3O9) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOXX \(Nouvelle édition\)](https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1) | 2:42 | 2025-01-09 | 2025-05-16 |
 | [On Se Quitte](https://open.spotify.com/track/7sEsRkAw0AFVr6xXoWCNH5) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [On Se Quitte](https://open.spotify.com/album/5YkAWX47J3uQht0bkg1YeH) | 2:44 | 2026-05-07 |  |
-| [On va voir la mer](https://open.spotify.com/track/5PO3Aefu83Q2ZEzG1Ujeyx) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [On va voir la mer](https://open.spotify.com/album/61Q8G8UOL9iUoUOEHeTHvD) | 2:29 | 2026-02-05 |  |
+| [On va voir la mer](https://open.spotify.com/track/5PO3Aefu83Q2ZEzG1Ujeyx) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [On va voir la mer](https://open.spotify.com/album/61Q8G8UOL9iUoUOEHeTHvD) | 2:29 | 2026-02-05 | 2026-05-15 |
 | [ordi par la fenêtre](https://open.spotify.com/track/5QeBageLpTOxXRGf6P8gWV) | [ange](https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG) | [ordi par la fenêtre](https://open.spotify.com/album/0A5jpGUoZXDz8tjZs0zYdz) | 2:37 | 2026-03-12 |  |
 | [PARADIS](https://open.spotify.com/track/7MMVpcHGMfxsK4TUV0I0JL) | [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [PARADIS / SIERRA NEVADA](https://open.spotify.com/album/7rlMrXqjgdiDzBHyz090HD) | 2:44 | 2024-11-21 | 2025-04-11 |
 | [Parano](https://open.spotify.com/track/40VO7iidHortIPgj6ZYpbK) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Parano](https://open.spotify.com/album/2DV7HNzGVAqi0cz1C5QEr2) | 3:10 | 2026-02-27 |  |

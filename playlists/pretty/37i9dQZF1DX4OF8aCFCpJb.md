@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,246 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,244 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 37 | [Attityd](https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Störst av allt är kärleken](https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9) | 3:14 |
 | 38 | [Baluns](https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Dirty Jens](https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7) | [Baluns](https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN) | 2:35 |
 | 39 | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b) | [Promoe](https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU) | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG) | 3:26 |
-| 40 | [I mitt hjärta där bor gud](https://open.spotify.com/track/78br2t9sZ5MP5am2TaHDMo) | [Efia Abu](https://open.spotify.com/artist/71sThNzmzZMPkGWPwnNLBy), [Drömbandet](https://open.spotify.com/artist/48wSRq26bDKQnf9hPTXLGW) | [Kärlek & Verkan](https://open.spotify.com/album/2kshyxJqohs7VpPEjTHP4I) | 5:13 |
+| 40 | [Låt oss leva](https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf) | [Lani Mo](https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Låt oss leva](https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk) | 3:40 |
 | 41 | [Ska vi](https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L), [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Ska vi](https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9) | 3:15 |
-| 42 | [Låt oss leva](https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf) | [Lani Mo](https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Låt oss leva](https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk) | 3:40 |
+| 42 | [I mitt hjärta där bor gud](https://open.spotify.com/track/78br2t9sZ5MP5am2TaHDMo) | [Efia Abu](https://open.spotify.com/artist/71sThNzmzZMPkGWPwnNLBy), [Drömbandet](https://open.spotify.com/artist/48wSRq26bDKQnf9hPTXLGW) | [Kärlek & Verkan](https://open.spotify.com/album/2kshyxJqohs7VpPEjTHP4I) | 5:13 |
 | 43 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
-| 44 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
-| 45 | [Håll i dig](https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd) | [Wagwan](https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS), [Cortés](https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG) | [Håll i dig](https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM) | 3:18 |
+| 44 | [Håll i dig](https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd) | [Wagwan](https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS), [Cortés](https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG) | [Håll i dig](https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM) | 3:18 |
+| 45 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
 | 46 | [Back on track](https://open.spotify.com/track/1yCqXDVbXDyF75VliHTJyv) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [MIVAS](https://open.spotify.com/artist/21xJtgcxDrr0ahUS5GIjFG), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [Back on track](https://open.spotify.com/album/79ja6VUuZvbr0g7POJ1Xb1) | 3:34 |
 | 47 | [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 |
 | 48 | [Säg Till Mig](https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG) | [Säg Till Mig](https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW) | 4:20 |

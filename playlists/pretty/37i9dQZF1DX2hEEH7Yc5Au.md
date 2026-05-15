@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 陳華 Hua Chen
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,484 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,487 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [Cherry Pie](https://open.spotify.com/track/5Xp4UHlOsGaeEThiPnZFy8) | [連穎 ERIN](https://open.spotify.com/artist/3kwAZXcfj1dX9cQKjx4SS6) | [Cherry Pie](https://open.spotify.com/album/66kjn39Tey7uK3KJskxnxt) | 2:30 |
 | 50 | [臺大的垃圾（臺大畢業歌）](https://open.spotify.com/track/6gAlHUGgBlJ1oYu5lBRDSa) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [臺大的垃圾（臺大畢業歌）](https://open.spotify.com/album/3k83evAD99HuSpNc7LnoX4) | 3:02 |
 
-Snapshot ID: `AAAAAC8CUSk29J+FDzavTd6F5RS6WwMx`
+Snapshot ID: `AAAAAPmfjKYTpvCKDi2VWMkqmgDhtsvt`

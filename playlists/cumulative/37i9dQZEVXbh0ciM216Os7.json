@@ -10592,7 +10592,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 107385,
       "name": "Cant Look Back",
       "url": "https://open.spotify.com/track/4BLDnlO6IYXIbemUIBIK26"
@@ -62884,7 +62884,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 128293,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/0rq02HJcHdHnya1SjRqAec"
@@ -69681,6 +69681,28 @@
     },
     {
       "album": {
+        "name": "1983",
+        "url": "https://open.spotify.com/album/2WdDBUfqvkdZ7hsudUNs5m"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Laura Darlington",
+          "url": "https://open.spotify.com/artist/67OokTsDsLUvJI6oIxCigq"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208530,
+      "name": "Unexpected Delight",
+      "url": "https://open.spotify.com/track/24cHjF2ZktXtLh2UUiFh4h"
+    },
+    {
+      "album": {
         "name": "Unfinished Business",
         "url": "https://open.spotify.com/album/4X5xLiyiz2uv2uTYdtC6cc"
       },
@@ -74422,7 +74444,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 167015,
       "name": "Woe is Me",
       "url": "https://open.spotify.com/track/5renTxUL4sugitSmn0Cv3m"

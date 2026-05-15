@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: Durand Bernarr",
-  "num_followers": 1012865,
+  "num_followers": 1012836,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
     },
     {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "Live For You",
+        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
+    },
+    {
       "added_at": "2025-02-21 07:15:25",
       "album": {
         "name": "Body Language (feat. Sasha Keable)",
@@ -1159,22 +1175,6 @@
       "duration_ms": 242530,
       "name": "Body Language (feat. Sasha Keable)",
       "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
-    },
-    {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "Live For You",
-        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 210320,
-      "name": "Live For You",
-      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
       "added_at": "2026-03-20 23:51:54",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
     },
     {
-      "added_at": "2026-03-20 23:51:54",
-      "album": {
-        "name": "Saviour",
-        "url": "https://open.spotify.com/album/3zWKWAIzDcJGKLugpnExtf"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 180734,
-      "name": "Saviour",
-      "url": "https://open.spotify.com/track/7rUDWciGzEJ5kQw3yH8Klr"
-    },
-    {
       "added_at": "2025-05-16 15:23:54",
       "album": {
         "name": "Strawberry featuring Rae Khalil",
@@ -1411,6 +1395,22 @@
       "duration_ms": 163291,
       "name": "Strawberry featuring Rae Khalil",
       "url": "https://open.spotify.com/track/7f7uTJaivqgLEqrOk6cUkx"
+    },
+    {
+      "added_at": "2026-03-20 23:51:54",
+      "album": {
+        "name": "Saviour",
+        "url": "https://open.spotify.com/album/3zWKWAIzDcJGKLugpnExtf"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 180734,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/7rUDWciGzEJ5kQw3yH8Klr"
     },
     {
       "added_at": "2025-12-12 05:00:38",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/6ZGu4JWeLDCNCiyMeG6P82"
     },
     {
-      "added_at": "2025-09-12 19:19:09",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 200536,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
-    },
-    {
       "added_at": "2025-03-07 06:27:51",
       "album": {
         "name": "Yonder: Book III",
@@ -1583,6 +1567,22 @@
       "duration_ms": 120765,
       "name": "Sugarcoat",
       "url": "https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR"
+    },
+    {
+      "added_at": "2025-09-12 19:19:09",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 200536,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
     },
     {
       "added_at": "2024-08-30 05:32:52",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Piruka entra na zona. ",
+  "description": "ProfJam entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -8074,7 +8074,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 212872,
       "name": "FYNTA",
       "url": "https://open.spotify.com/track/0X6SKCzx98CRhbNtMSGWRR"
@@ -10876,7 +10876,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 125255,
       "name": "Malandrim",
       "url": "https://open.spotify.com/track/4Pc8Fpa27F6vnsNYzB66JV"
@@ -12753,6 +12753,24 @@
     },
     {
       "album": {
+        "name": "Nicar\u00e1gua",
+        "url": "https://open.spotify.com/album/4jxw75p4aPSzy5gC1W2Qon"
+      },
+      "artists": [
+        {
+          "name": "Yuran",
+          "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "Nicar\u00e1gua",
+      "url": "https://open.spotify.com/track/4aLlcsrnfL0987VrLjUXd5"
+    },
+    {
+      "album": {
         "name": "Ninfoman\u00edaca",
         "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
       },
@@ -13446,6 +13464,28 @@
       "duration_ms": 233128,
       "name": "N\u00e3o me deixe s\u00f3",
       "url": "https://open.spotify.com/track/64QVkG7vRtjGDkaGZc8zAb"
+    },
+    {
+      "album": {
+        "name": "ID",
+        "url": "https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        },
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268075,
+      "name": "N\u00e3o Me Fales (feat. Wet Bed Gang)",
+      "url": "https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS"
     },
     {
       "album": {
@@ -14991,6 +15031,24 @@
     },
     {
       "album": {
+        "name": "LSD",
+        "url": "https://open.spotify.com/album/0jTTydIhEi4RM75zIYblMS"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223081,
+      "name": "PERAR",
+      "url": "https://open.spotify.com/track/7ypr4HKCTl2QHYLvhbCuda"
+    },
+    {
+      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/7h1u6IDHNug7uk2Nj5GCJH"
       },
@@ -16152,7 +16210,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 228730,
       "name": "Quero Mais",
       "url": "https://open.spotify.com/track/7CB9LLXcyxbEHSo5S6xBGd"
@@ -18001,6 +18059,28 @@
     },
     {
       "album": {
+        "name": "Sou Portugu\u00eas",
+        "url": "https://open.spotify.com/album/3dx3NnimN0VMd9aVOkNV25"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "Dimon",
+          "url": "https://open.spotify.com/artist/7qWWkEWQ78SzepBgVOhDXN"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170679,
+      "name": "Sou Portugu\u00eas",
+      "url": "https://open.spotify.com/track/22AEZiyQXHfWHNVBYbK95P"
+    },
+    {
+      "album": {
         "name": "Merc\u00fario EP",
         "url": "https://open.spotify.com/album/4lnfV64uRboc0VPKRl6uA8"
       },
@@ -19144,7 +19224,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 168487,
       "name": "Trapstars",
       "url": "https://open.spotify.com/track/2XvjmtdhxjWqiSZIg7227x"
@@ -20726,7 +20806,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 193601,
       "name": "\u00a1 S\u00d3 N\u00d3S ! (feat. Carla Prata)",
       "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"

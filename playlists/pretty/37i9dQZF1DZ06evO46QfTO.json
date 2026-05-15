@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75296,
+  "num_followers": 75295,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACHdqvyD9TNyqs9upXfm/15",
+  "snapshot_id": "agO/AAAAAAA6CvL9c3209h31n6+AUJZq",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 185222,
-      "name": "Even When I\u2019m Not",
-      "url": "https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 185222,
+      "name": "Even When I\u2019m Not",
+      "url": "https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba"
     },
     {
       "added_at": null,
@@ -391,38 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "If She Ever Leaves Me",
-      "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
         "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
@@ -451,6 +419,38 @@
       "duration_ms": 291533,
       "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
       "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "If She Ever Leaves Me",
+      "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
+        "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 304026,
+      "name": "Mona Lisas And Mad Hatters",
+      "url": "https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
-        "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 304026,
-      "name": "Mona Lisas And Mad Hatters",
-      "url": "https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "42",
+      "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 174933,
       "name": "Redesigning Women",
       "url": "https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "42",
-      "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
     },
     {
       "added_at": null,
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "D R E A M S I C L E",
+        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 128160,
+      "name": "cut! (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/4kRlL390PfYKVAirO1ZUhZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 345026,
       "name": "Old Soul",
       "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D R E A M S I C L E",
-        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 128160,
-      "name": "cut! (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/4kRlL390PfYKVAirO1ZUhZ"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Be Alone Tonight",
-        "url": "https://open.spotify.com/album/117glnDKbzgvjmOGtx0pmp"
-      },
-      "artists": [
-        {
-          "name": "Charles Kelley",
-          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 211122,
-      "name": "Can't Be Alone Tonight",
-      "url": "https://open.spotify.com/track/2djOyFEFPwM5cXTwDFohPL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway Queen (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
       },
@@ -895,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Be Alone Tonight",
+        "url": "https://open.spotify.com/album/117glnDKbzgvjmOGtx0pmp"
+      },
+      "artists": [
+        {
+          "name": "Charles Kelley",
+          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 211122,
+      "name": "Can't Be Alone Tonight",
+      "url": "https://open.spotify.com/track/2djOyFEFPwM5cXTwDFohPL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208059,
-      "name": "Good Friends",
-      "url": "https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 240061,
       "name": "I Wish I Was",
       "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 208059,
+      "name": "Good Friends",
+      "url": "https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U"
     },
     {
       "added_at": null,
@@ -975,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 169307,
-      "name": "I Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Better Than We Found It",
         "url": "https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 197215,
       "name": "Better Than We Found It",
       "url": "https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 169307,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
     },
     {
       "added_at": null,

@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 529920,
       "name": "All That Matters - ARTBAT Remix",
       "url": "https://open.spotify.com/track/6MUrwiKZCEc80rbKU7cvbd"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 232868,
       "name": "Bare Earth",
       "url": "https://open.spotify.com/track/74oyFcS8W7oeoV3Ckf3HCV"
@@ -4086,7 +4086,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 236975,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
@@ -6180,7 +6180,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 343764,
       "name": "Gate",
       "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
@@ -6572,7 +6572,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 143636,
       "name": "Good Morning Angels",
       "url": "https://open.spotify.com/track/7nYtsGxrvBZSkqopZWCcbk"
@@ -7014,7 +7014,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 227117,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI"
@@ -9773,6 +9773,28 @@
     },
     {
       "album": {
+        "name": "Lost My Mind",
+        "url": "https://open.spotify.com/album/3vUMb6M2VrUH3750wk7HrV"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119869,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/7HyS0rgA4t34Ri1dYA95oH"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/1NuUBi58WVMyF9lC5UiIse"
       },
@@ -10145,6 +10167,32 @@
     },
     {
       "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/53hJOGYo10CRu6zqIXCIKn"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "Lell Nahar",
+          "url": "https://open.spotify.com/artist/0RmDa6p7dMajm2YmjlVQEC"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "MANTRA",
+      "url": "https://open.spotify.com/track/4G6RcByL6hwtBJdhJDniFf"
+    },
+    {
+      "album": {
         "name": "March Of Avalon",
         "url": "https://open.spotify.com/album/2EfaEXWtpJZeunshGo4xUP"
       },
@@ -10387,6 +10435,32 @@
     },
     {
       "album": {
+        "name": "Midnight (Khainz Remix)",
+        "url": "https://open.spotify.com/album/2uC6n9iyhzzbhDPIsVGDaA"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        },
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        },
+        {
+          "name": "Khainz",
+          "url": "https://open.spotify.com/artist/71yD5VENn9Wy1IECnpYWvX"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Midnight - Khainz Remix",
+      "url": "https://open.spotify.com/track/3b5QSrLJDHC1O2S7oHrx1N"
+    },
+    {
+      "album": {
         "name": "Mind Control",
         "url": "https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF"
       },
@@ -10454,7 +10528,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 171825,
       "name": "Mind Illuminate",
       "url": "https://open.spotify.com/track/5p7hNVYvzfrdb4wOiWtcNo"
@@ -11608,6 +11682,32 @@
       "duration_ms": 239475,
       "name": "Now Or Never (feat. IVERSON)",
       "url": "https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt"
+    },
+    {
+      "album": {
+        "name": "NXTBND",
+        "url": "https://open.spotify.com/album/02MACaW4gvaAzQroyXuLZN"
+      },
+      "artists": [
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Dirty Doering",
+          "url": "https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea"
+        },
+        {
+          "name": "Unseen.",
+          "url": "https://open.spotify.com/artist/6UdQkz07ovbUYhACTLoXor"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405120,
+      "name": "NXTBND",
+      "url": "https://open.spotify.com/track/41BDMq1Qt76MKrrnKDvJki"
     },
     {
       "album": {
@@ -18078,7 +18178,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 168808,
       "name": "WAIT",
       "url": "https://open.spotify.com/track/168hqyHROCB8lISUF270KI"

@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397389,
+  "num_followers": 397386,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Thorns",
-        "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
-      },
-      "artists": [
-        {
-          "name": "Jack and the Weatherman",
-          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
-        }
-      ],
-      "duration_ms": 200441,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Guy From Outer Space",
         "url": "https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 163176,
       "name": "Guy From Outer Space",
       "url": "https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Light of My Life",
         "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 259518,
       "name": "Light of My Life",
       "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Saturday Silence",
         "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 175844,
       "name": "Saturday Silence",
       "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 194675,
       "name": "Last Forever - Acoustic",
       "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 155947,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 206453,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 155947,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Queen Of My Castle",
-        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
       },
       "artists": [
         {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+          "name": "Marta Arpini",
+          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
         }
       ],
-      "duration_ms": 179054,
-      "name": "Company Store",
-      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
+      "duration_ms": 188478,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Little Love",
-        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
       "artists": [
         {
-          "name": "Marta Arpini",
-          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
         }
       ],
-      "duration_ms": 188478,
-      "name": "Little Love",
-      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
+      "duration_ms": 179054,
+      "name": "Company Store",
+      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Always Lost",
-        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
-      },
-      "artists": [
-        {
-          "name": "Emma Hessels",
-          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Always Lost",
-      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "I'm Always On Stage",
         "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 243546,
       "name": "I'm Always On Stage",
       "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Always Lost",
+        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
+      },
+      "artists": [
+        {
+          "name": "Emma Hessels",
+          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Always Lost",
+      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Back to the River",
-        "url": "https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 249863,
-      "name": "Back to the River",
-      "url": "https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Po\u00e8te Maudit",
         "url": "https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 167320,
       "name": "Po\u00e8te Maudit",
       "url": "https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Back to the River",
+        "url": "https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "duration_ms": 249863,
+      "name": "Back to the River",
+      "url": "https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Someone To Lose",
-        "url": "https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ"
+        "name": "Distant Rain",
+        "url": "https://open.spotify.com/album/4GegVIiIB3iMfigkKB0M1k"
       },
       "artists": [
         {
-          "name": "Nina June",
-          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
+          "name": "Gis\u00e8le",
+          "url": "https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna"
         }
       ],
-      "duration_ms": 160659,
-      "name": "Someone To Lose",
-      "url": "https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ"
+      "duration_ms": 141720,
+      "name": "Distant Rain",
+      "url": "https://open.spotify.com/track/5SqalOpRVN36tQSYKmA4n2"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Distant Rain",
-        "url": "https://open.spotify.com/album/4GegVIiIB3iMfigkKB0M1k"
+        "name": "Someone To Lose",
+        "url": "https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ"
       },
       "artists": [
         {
-          "name": "Gis\u00e8le",
-          "url": "https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna"
+          "name": "Nina June",
+          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
         }
       ],
-      "duration_ms": 141720,
-      "name": "Distant Rain",
-      "url": "https://open.spotify.com/track/5SqalOpRVN36tQSYKmA4n2"
+      "duration_ms": 160659,
+      "name": "Someone To Lose",
+      "url": "https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/51Q6NRNtIZVW5T6bksOm6I"
-      },
-      "artists": [
-        {
-          "name": "Eva Valery",
-          "url": "https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p"
-        }
-      ],
-      "duration_ms": 214436,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/3ifF2xXCgkd8l10payCaSs"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Redeeming Grace",
         "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 265866,
       "name": "Afraid Of What You Might Find",
       "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/51Q6NRNtIZVW5T6bksOm6I"
+      },
+      "artists": [
+        {
+          "name": "Eva Valery",
+          "url": "https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p"
+        }
+      ],
+      "duration_ms": 214436,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/3ifF2xXCgkd8l10payCaSs"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "At My Worst (feat. philine & Remy van Kesteren)",
         "url": "https://open.spotify.com/album/3SQlbSAOLKTVGyei9tKNPC"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
         "name": "Magnetic Fields",
         "url": "https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed"
       },
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "You Got Me Hurt (Acoustic)",
-        "url": "https://open.spotify.com/album/6K8sqso55MSlz26PYW7yI3"
+        "name": "Cat 13",
+        "url": "https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN"
       },
       "artists": [
         {
-          "name": "Marnix Emanuel",
-          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
         }
       ],
-      "duration_ms": 214052,
-      "name": "You Got Me Hurt - Acoustic",
-      "url": "https://open.spotify.com/track/4AU7JPfolYuSGHpmCMyD3D"
+      "duration_ms": 183526,
+      "name": "Cat 13",
+      "url": "https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo"
     }
   ],
   "unique_name": "'t Koffiehuis",

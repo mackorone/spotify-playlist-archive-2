@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> The Rolling Stones au top des meilleurs morceaux rock du moment.
+> Death Cab for Cutie au top des meilleurs morceaux rock du moment.
 
-481 songs - 1 day 3 hr 36 min
+483 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [believe the hype](https://open.spotify.com/track/4i5ImKbFYhoUCWp57AHgTD) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [believe the hype](https://open.spotify.com/album/5sZDwRqDaOOdplyfSc2w3I) | 3:35 | 2024-08-29 | 2024-10-11 |
 | [Best Of Me](https://open.spotify.com/track/4Gpzgpj57YgCe9uUnwRwz4) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Best Of Me](https://open.spotify.com/album/2Zc3sdoMNkKC2O3Vlu6geL) | 3:16 | 2024-03-26 | 2024-06-14 |
 | [BIG](https://open.spotify.com/track/5zPzmBPamaT9eDGduGtxqG) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [BIG](https://open.spotify.com/album/1L8bOet9vwhCUUHgJewc2Q) | 2:15 | 2023-11-16 | 2024-01-26 |
+| [Big Dog](https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Big Dog](https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1) | 2:59 | 2026-05-14 |  |
 | [Big Dreams](https://open.spotify.com/track/6d5F8T8SS44UMB2Nz8IMGe) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k) | 3:11 | 2025-01-16 | 2025-07-04 |
 | [Bittersweet Mary](https://open.spotify.com/track/6ryKAggOp8dgwFIbgwFwJJ) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Bittersweet Mary](https://open.spotify.com/album/4A7WRN39gSY88Rd9tYHePB) | 3:54 | 2024-09-12 | 2024-11-15 |
 | [Blame](https://open.spotify.com/track/0SFvQaQnPRYKc3K1EgoVgF) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:54 | 2023-09-28 | 2023-10-06 |
@@ -155,7 +156,7 @@
 | [Go Away](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:13 | 2026-03-19 |  |
 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 | 2026-04-09 |  |
 | [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 | 2023-09-28 | 2023-12-01 |
-| [Goodbye](https://open.spotify.com/track/5klilPxJcv8xnwcFj4zL0U) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Futique](https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF) | 3:47 | 2025-10-16 |  |
+| [Goodbye](https://open.spotify.com/track/5klilPxJcv8xnwcFj4zL0U) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Futique](https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF) | 3:47 | 2025-10-16 | 2026-05-15 |
 | [Goodnight Adeline](https://open.spotify.com/track/5oi7EJnwhDhqs4FJ2ewry7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:56 | 2024-03-26 | 2024-07-19 |
 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 | 2025-06-05 | 2025-09-19 |
 | [GREAT PRETENDER](https://open.spotify.com/track/6okpS7XupEUMrB4sGv7Xjf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [GREAT PRETENDER](https://open.spotify.com/album/7K23bPTCyceBsC7lFufoLO) | 2:38 | 2026-04-02 |  |
@@ -310,7 +311,7 @@
 | [Plastic Boxes](https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [As Above, So Below](https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ) | 4:07 | 2024-07-25 | 2024-08-16 |
 | [Plasticine](https://open.spotify.com/track/6OKWc4dJQ4qBNSdMf0Yzbm) | [Jekyll](https://open.spotify.com/artist/19Ak4FmJt4Re3V91wATVKK) | [Plasticine](https://open.spotify.com/album/7eE7nV62AkWNOtWBHnxeCM) | 3:22 | 2024-11-21 | 2025-01-10 |
 | [Playing With Fire](https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:23 | 2023-10-19 | 2023-12-08 |
-| [Poupée parfaite](https://open.spotify.com/track/7reHRGk8Gg83RNp7h8a7V7) | [WEB](https://open.spotify.com/artist/0vpkGPve4zar394BIrZOGh) | [Poupée parfaite](https://open.spotify.com/album/11Epp3z7D7YaTiXzZKwebB) | 2:49 | 2026-02-05 |  |
+| [Poupée parfaite](https://open.spotify.com/track/7reHRGk8Gg83RNp7h8a7V7) | [WEB](https://open.spotify.com/artist/0vpkGPve4zar394BIrZOGh) | [Poupée parfaite](https://open.spotify.com/album/11Epp3z7D7YaTiXzZKwebB) | 2:49 | 2026-02-05 | 2026-05-15 |
 | [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 | 2024-05-23 | 2024-07-27 |
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-10-26 | 2024-02-09 |
 | [Prisoner of Beauty](https://open.spotify.com/track/5Yvhku4TRlkZ1AHJQFqthr) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o) | [Prisoner of Beauty](https://open.spotify.com/album/0FQawKjtZ22suCj37hO2EJ) | 4:52 | 2025-04-03 | 2025-06-27 |
@@ -382,6 +383,7 @@
 | [Still Love](https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 | 2023-10-12 | 2023-11-24 |
 | [Still There](https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:09 | 2023-09-28 | 2023-12-22 |
 | [Stone Spit](https://open.spotify.com/track/4Fug50saRo6YNr2AGT14k1) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Stone Spit](https://open.spotify.com/album/7uuV5NX1TRaPUBjERZbkho) | 3:11 | 2024-12-19 | 2025-01-17 |
+| [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 | 2026-05-14 |  |
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-09-28 | 2024-03-01 |
 | [Stuck In a Car With You](https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Stuck In a Car With You](https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t) | 3:59 | 2023-09-28 | 2023-11-24 |
 | [Stuck on You](https://open.spotify.com/track/4itaZ1FLykardSo2xfrVtU) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [Stuck on You](https://open.spotify.com/album/4jxWewF9wV0XiqJb0ic8qX) | 3:11 | 2024-02-15 | 2024-03-29 |

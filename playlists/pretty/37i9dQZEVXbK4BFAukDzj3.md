@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,934 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,936 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jij Hebt Mij](https://open.spotify.com/track/5AIvCO5v2mYxM3EtkxKz4T) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Jij Hebt Mij](https://open.spotify.com/album/4FxPsDCcI7HZFW4GPoDypr) | 2:05 |
 | 2 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI) | 2:57 |
 | 3 | [Punta cana \(feat\. ADF Antje, Trapmoneybiggie & Carel\)](https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP), [Trapmoneybiggie](https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX) | [Punta cana \(feat\. ADF Antje, Trapmoneybiggie & Carel\)](https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf) | 2:26 |
-| 4 | [Cheerio](https://open.spotify.com/track/2FkLUk8woeuqqmVADmxsDn) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/4KvVW8CGca1BNCr6zmLPq2) | 2:28 |
+| 4 | [Cheerio](https://open.spotify.com/track/6dqoVIfcrW0QNr8BP8LlBo) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/0Bw7kwF2e4IpPIQcQc8VjT) | 2:28 |
 | 5 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 |
 | 6 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 |
 | 7 | [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [Baila de Gasolina](https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina](https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G) | 2:20 |
 | 50 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 
-Snapshot ID: `MZft0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MZk/UAAAAAAAAAAAAAAAAAAAAAAAAGVu`

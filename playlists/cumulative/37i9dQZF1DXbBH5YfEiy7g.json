@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 273097,
       "name": "Khona Manje - Live",
       "url": "https://open.spotify.com/track/0cFHMKhfyX4z2ke0VebYgk"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 404875,
       "name": "Kuzohlatshelelwa",
       "url": "https://open.spotify.com/track/6ZNIVO8AGu1Pyhemi5LI1Y"
@@ -2548,6 +2548,24 @@
       "duration_ms": 403769,
       "name": "Ndiyakudinga Njalo",
       "url": "https://open.spotify.com/track/5zfrwU2SH4pERwcyrUKXsX"
+    },
+    {
+      "album": {
+        "name": "Ngegama Lakho/ Themba Lethu",
+        "url": "https://open.spotify.com/album/4wBUn5NnLNZ6B3YSRAPgXX"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Ngegama Lakho - Live at the Durban ICC/ 2025",
+      "url": "https://open.spotify.com/track/7lzUhnLMAJ6I0wZYUQQJJ6"
     },
     {
       "album": {
@@ -3541,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "Ngegama Lakho/ Themba Lethu",
+        "url": "https://open.spotify.com/album/4wBUn5NnLNZ6B3YSRAPgXX"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497625,
+      "name": "Themba Lethu - Live at the Durban ICC/ 2025",
+      "url": "https://open.spotify.com/track/0EAZbdLRr4ATJugP2Wg3cu"
+    },
+    {
+      "album": {
         "name": "Thula Moya Wam (Live At Krugersdorp)",
         "url": "https://open.spotify.com/album/5BJ86o3emSIdj42OdWcaTX"
       },
@@ -3882,7 +3918,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 580053,
       "name": "Umsebenzi",
       "url": "https://open.spotify.com/track/5WvhqTI1PunZtoLu7sF4GA"
@@ -4100,7 +4136,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 400763,
       "name": "Uya Mangadza Yeso - Live",
       "url": "https://open.spotify.com/track/2Sq6Dz0ARNawM0tQFKGh7X"
@@ -4672,7 +4708,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 549660,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/4yl9nPWqJnGC2CjFjguCok"
@@ -4720,7 +4756,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 538000,
       "name": "Zion (Live at Heartfelt Arena, December 2025) (feat. Oncemore Six)",
       "url": "https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav"

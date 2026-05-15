@@ -3987,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "KM2 De Luxo (Faixa a Faixa)",
+        "url": "https://open.spotify.com/album/2gVnBElQuN9NM1kqqYmoWj"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68063,
+      "name": "Dona de Casa",
+      "url": "https://open.spotify.com/track/21HI2SdE0gKyzMX3ge45If"
+    },
+    {
+      "album": {
         "name": "Donos do Torro",
         "url": "https://open.spotify.com/album/2jj5EcURhCwLQkVW1eXmwx"
       },

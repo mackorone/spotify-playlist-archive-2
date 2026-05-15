@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 205382,
       "name": "Alveg farinn",
       "url": "https://open.spotify.com/track/1jGqqFrSgtknDJCcrpeyBz"
@@ -12844,7 +12844,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 280753,
       "name": "Dirty Diana - 2012 Remaster",
       "url": "https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"
@@ -23180,6 +23180,28 @@
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "album": {
+        "name": "HART INN",
+        "url": "https://open.spotify.com/album/0xrA5bQRdTYJKGHsyGbnAf"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/0VItUwSmAQ1d05ktT1S2gp"
+        },
+        {
+          "name": "PAPP\u00cdR",
+          "url": "https://open.spotify.com/artist/7pncPEtkLZcPC8a7BRTf15"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "HART INN",
+      "url": "https://open.spotify.com/track/7jpCBhvUVZSn583YjKnG0X"
     },
     {
       "album": {
@@ -33860,7 +33882,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 212520,
       "name": "LXS",
       "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
@@ -53174,7 +53196,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -64336,7 +64358,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 176896,
       "name": "\u00d3L MIG UPP",
       "url": "https://open.spotify.com/track/1PduuZuK8Js8TCfZBweYoM"

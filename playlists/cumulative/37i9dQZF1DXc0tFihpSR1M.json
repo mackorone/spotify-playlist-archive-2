@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Kyle Alessandro",
+  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Astrid S",
   "name": "Ny Pop (3)",
   "tracks": [
     {
@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Bare en mann",
+        "url": "https://open.spotify.com/album/05CY5GMnpJdfRzmmCDaOhJ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid V\u00e5rvik",
+          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136071,
+      "name": "Bare en mann",
+      "url": "https://open.spotify.com/track/7ngCzgebGb7Cpq1LsB4tYk"
+    },
+    {
+      "album": {
         "name": "Beat Yourself Up",
         "url": "https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN"
       },
@@ -822,7 +840,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 168557,
       "name": "Better Than Me",
       "url": "https://open.spotify.com/track/2aFTwiRhQf2MuNXnnaSPuC"
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 222834,
       "name": "Closet Disco Queen",
       "url": "https://open.spotify.com/track/6XJ5vjfwHJ9yJwJRCCQMTB"
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 184761,
       "name": "Dream Out Loud",
       "url": "https://open.spotify.com/track/1Tcsmov8MTNdZGXShRiviQ"
@@ -2940,6 +2958,24 @@
       "duration_ms": 168774,
       "name": "Friskis",
       "url": "https://open.spotify.com/track/7v9T6N0q35ZwpqdN7Ln2xs"
+    },
+    {
+      "album": {
+        "name": "Full og fin",
+        "url": "https://open.spotify.com/album/4K6f6JJkOP39Mu45mzo2kX"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164563,
+      "name": "Full og fin",
+      "url": "https://open.spotify.com/track/0y2tHwQOJkG9hXyefQdpyJ"
     },
     {
       "album": {
@@ -3789,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "Hold meg fast",
+        "url": "https://open.spotify.com/album/34kOPRp9nbCjr4WY2809BU"
+      },
+      "artists": [
+        {
+          "name": "Tomine Harket",
+          "url": "https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163529,
+      "name": "Hold meg fast",
+      "url": "https://open.spotify.com/track/6b2fs2oz4U93R04fyz40on"
+    },
+    {
+      "album": {
         "name": "Hold ut",
         "url": "https://open.spotify.com/album/27V8eibnHQyrU0FcJr33Bq"
       },
@@ -3898,7 +3952,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 196012,
       "name": "HOME TO MOTHER",
       "url": "https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut"
@@ -4560,7 +4614,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 150000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/6PpJ7gIAckwYRLwpSWgi0U"
@@ -4886,6 +4940,42 @@
       "duration_ms": 156521,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
+    },
+    {
+      "album": {
+        "name": "I\u2019m your girl right?",
+        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169059,
+      "name": "I\u2019m your girl right?",
+      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
+    },
+    {
+      "album": {
+        "name": "Ja, vi elsker",
+        "url": "https://open.spotify.com/album/3lk68Op8fiiIrdL1VLoHcp"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74210,
+      "name": "Ja, vi elsker",
+      "url": "https://open.spotify.com/track/0HaPdi5GYozLWaF9RWOnC2"
     },
     {
       "album": {
@@ -5668,7 +5758,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 181550,
       "name": "Lucky Again",
       "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
@@ -6141,6 +6231,28 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6D0rdf5w5EcWmQJtT8vcXy"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138200,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4aZM99V0pPCxOpHd092oZI"
+    },
+    {
+      "album": {
         "name": "Mot deg",
         "url": "https://open.spotify.com/album/5yXHUmhpZxKXc1QYybeV8Q"
       },
@@ -6206,7 +6318,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 152440,
       "name": "MS. SEROTONIN",
       "url": "https://open.spotify.com/track/2O4pTk8kn0xondvTW43qSH"
@@ -6563,6 +6675,24 @@
     },
     {
       "album": {
+        "name": "Nystemten (Udsigter fra Ulriken)",
+        "url": "https://open.spotify.com/album/1KY9IsTN45hQ8rAUEtghpm"
+      },
+      "artists": [
+        {
+          "name": "Bendik",
+          "url": "https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143266,
+      "name": "Nystemten",
+      "url": "https://open.spotify.com/track/2jiVHM6UARSZhZZ9c1URPb"
+    },
+    {
+      "album": {
         "name": "N\u00e5r du danser",
         "url": "https://open.spotify.com/album/5V67Skny8ULBD2FqElik5h"
       },
@@ -6780,7 +6910,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 154566,
       "name": "ORIGAMI!",
       "url": "https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7"
@@ -9230,7 +9360,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 178600,
       "name": "Tiny Raisin",
       "url": "https://open.spotify.com/track/1mSO89SOD17R1dFyrxdSBT"
@@ -9382,6 +9512,24 @@
       "duration_ms": 166291,
       "name": "Toscana",
       "url": "https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81"
+    },
+    {
+      "album": {
+        "name": "Absolute B-Boy Music 2.0",
+        "url": "https://open.spotify.com/album/6Etlw9YvXNt3mHjkMwOC5t"
+      },
+      "artists": [
+        {
+          "name": "B-Boy Myhre",
+          "url": "https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/3UbjY7EEYesXpn8t9I6sm4"
     },
     {
       "album": {
@@ -10152,6 +10300,24 @@
       "duration_ms": 169041,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+    },
+    {
+      "album": {
+        "name": "Wide Eyed Wonder",
+        "url": "https://open.spotify.com/album/1vV7ZSJBt4UISLoiwv5584"
+      },
+      "artists": [
+        {
+          "name": "RABO",
+          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232253,
+      "name": "Wide Eyed Wonder",
+      "url": "https://open.spotify.com/track/6P0rezCGppMh7sepISsCUq"
     },
     {
       "album": {

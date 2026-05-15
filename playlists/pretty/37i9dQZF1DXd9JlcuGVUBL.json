@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: Kacey Musgraves",
-  "num_followers": 43348,
+  "num_followers": 43357,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-04-17 10:59:38",
       "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 169331,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
-    },
-    {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
         "name": "Stay in Your Lane",
         "url": "https://open.spotify.com/album/3ukNtDUlpfzDwFXiZFAGsh"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 209417,
       "name": "Stay in Your Lane",
       "url": "https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 169331,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
     },
     {
       "added_at": "2026-04-17 10:59:38",

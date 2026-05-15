@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4606,
+  "num_followers": 4607,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAABD4LIVDAE2PTB2bK+qKtNY",
+  "snapshot_id": "agO/AAAAAAA+IQBvVqqGQSk8IK1X507D",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Send My Regards",
-        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
       "artists": [
-        {
-          "name": "Anthony da Costa",
-          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Send My Regards",
-      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
+      "duration_ms": 194226,
+      "name": "Trouble Found Me",
+      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+        "name": "Send My Regards",
+        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
       },
       "artists": [
+        {
+          "name": "Anthony da Costa",
+          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 194226,
-      "name": "Trouble Found Me",
-      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
+      "duration_ms": 247893,
+      "name": "Send My Regards",
+      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 197972,
-      "name": "Who Are You Now",
-      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 228013,
       "name": "L.A. (Looking Alive)",
       "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 197972,
+      "name": "Who Are You Now",
+      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
     },
     {
       "added_at": null,
@@ -811,6 +811,26 @@
       "duration_ms": 221181,
       "name": "Guardians",
       "url": "https://open.spotify.com/track/2KX0OVjpyfXO8vRwxVTj2F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 166135,
+      "name": "Arrow Through Me",
+      "url": "https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL"
     },
     {
       "added_at": null,

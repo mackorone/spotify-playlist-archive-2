@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: LDA e Aka 7even",
+  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Cate Lumina",
   "name": "GENERAZIONE Z",
   "tracks": [
+    {
+      "album": {
+        "name": "Dicono che tutte le cose belle poi finiscono",
+        "url": "https://open.spotify.com/album/0GvR494NESoa7lpDgsB4ql"
+      },
+      "artists": [
+        {
+          "name": "Alex Wyse",
+          "url": "https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148183,
+      "name": "+LOVE",
+      "url": "https://open.spotify.com/track/6nB7LNZAhKUy21dLYyxLwa"
+    },
     {
       "album": {
         "name": "100 Sigarette",
@@ -3029,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "CAPELLO DEL SUD",
+        "url": "https://open.spotify.com/album/6UJAbbHaZCT05Vln1fm7fP"
+      },
+      "artists": [
+        {
+          "name": "Tatho",
+          "url": "https://open.spotify.com/artist/0bgj9f9ouLbHcYd870bUkV"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127809,
+      "name": "CAPELLO DEL SUD",
+      "url": "https://open.spotify.com/track/7JRdApFcZWZwm9Ll5lzodG"
+    },
+    {
+      "album": {
         "name": "CAPOLAVORO",
         "url": "https://open.spotify.com/album/7uQQpjGiucTujRmX6uc5TM"
       },
@@ -3618,7 +3654,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 147786,
       "name": "Chiara",
       "url": "https://open.spotify.com/track/25NzuGg3C1MaXhZ8sTe25J"
@@ -4677,6 +4713,24 @@
     },
     {
       "album": {
+        "name": "crush crush crush",
+        "url": "https://open.spotify.com/album/4lCGW2td1XhYSUQxn5MyUY"
+      },
+      "artists": [
+        {
+          "name": "LYSA",
+          "url": "https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "crush crush crush",
+      "url": "https://open.spotify.com/track/2jAwAFDyL9kwvfWhvhNri4"
+    },
+    {
+      "album": {
         "name": "CTRL Z",
         "url": "https://open.spotify.com/album/2O5It6LoUxAxV9detnvjKA"
       },
@@ -4794,6 +4848,24 @@
       "duration_ms": 180480,
       "name": "D'ESTATE",
       "url": "https://open.spotify.com/track/3caUtLzVVcNRIbi4TKtLNc"
+    },
+    {
+      "album": {
+        "name": "Da Dio",
+        "url": "https://open.spotify.com/album/1XjzMjgg0ktZSGrUv3j1bs"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173415,
+      "name": "Da Dio",
+      "url": "https://open.spotify.com/track/7pzx95tPu1njhmM6IoR6Al"
     },
     {
       "album": {
@@ -6036,7 +6108,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 151458,
       "name": "EMIGRATO (ITALIANO)",
       "url": "https://open.spotify.com/track/2Ih6H7UyQv146EQ6wnHHMC"
@@ -6411,6 +6483,24 @@
     },
     {
       "album": {
+        "name": "FARSI MALE",
+        "url": "https://open.spotify.com/album/1cGbNpLAGFpp4oksjE1u2N"
+      },
+      "artists": [
+        {
+          "name": "Lil Busso",
+          "url": "https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191750,
+      "name": "FARSI MALE",
+      "url": "https://open.spotify.com/track/1PkAzcX3aCixzMB2JoOFid"
+    },
+    {
+      "album": {
         "name": "Favole all'alba",
         "url": "https://open.spotify.com/album/1Ibtmefy3hsMJYJjB9jiOE"
       },
@@ -6458,7 +6548,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 155520,
       "name": "Felice nella media",
       "url": "https://open.spotify.com/track/0b5XYBv0mZuYbnlnrn65LR"
@@ -7474,7 +7564,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 201182,
       "name": "Girasole (feat. Rkomi)",
       "url": "https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2"
@@ -8196,7 +8286,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 151571,
       "name": "i ragazzi non piangono",
       "url": "https://open.spotify.com/track/4xXdUqdwmOSPGUohtXky0b"
@@ -9268,7 +9358,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 221714,
       "name": "LA MIA NATURA",
       "url": "https://open.spotify.com/track/1X9EPxwDC2jmAG9W6E8JNe"
@@ -12044,7 +12134,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 182500,
       "name": "NATURALE",
       "url": "https://open.spotify.com/track/4pvQiqOrowCEHeCpIDKQyP"
@@ -12142,7 +12232,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 160745,
       "name": "Nessuno qui \u00e9 chi dovrebbe essere",
       "url": "https://open.spotify.com/track/3U4UsEENKPvawZnV4mjcWW"
@@ -13472,7 +13562,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 191600,
       "name": "Oh, Maria!",
       "url": "https://open.spotify.com/track/76AUGMgXgac6mPBF2gvjlb"
@@ -13901,6 +13991,28 @@
     },
     {
       "album": {
+        "name": "CATALINA",
+        "url": "https://open.spotify.com/album/7fqG8FHvN56MVDBZy08u1F"
+      },
+      "artists": [
+        {
+          "name": "Cate Lumina",
+          "url": "https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf"
+        },
+        {
+          "name": "PRACI",
+          "url": "https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "Para\u00edso (feat. PRACI)",
+      "url": "https://open.spotify.com/track/3oFDugsZh7LccP3xzhOvYe"
+    },
+    {
+      "album": {
         "name": "Parcheggio a ore",
         "url": "https://open.spotify.com/album/0UOu5Bp9LL93TvfDYUEnys"
       },
@@ -14062,6 +14174,24 @@
       "duration_ms": 187461,
       "name": "PARTE DI ME",
       "url": "https://open.spotify.com/track/5Q6Et6BStxlPl2Vv1bhJGD"
+    },
+    {
+      "album": {
+        "name": "Passaporti e Caramelle",
+        "url": "https://open.spotify.com/album/0rpZXCQ01PbchYq2cdIzzR"
+      },
+      "artists": [
+        {
+          "name": "Lil Jolie",
+          "url": "https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184670,
+      "name": "Passaporti e Caramelle",
+      "url": "https://open.spotify.com/track/7vy8zrm4dUdnpO0CCtwPI6"
     },
     {
       "album": {
@@ -18887,6 +19017,24 @@
     },
     {
       "album": {
+        "name": "Tipo strano",
+        "url": "https://open.spotify.com/album/7qyU6NI5P4GtiuPUF6Ae6t"
+      },
+      "artists": [
+        {
+          "name": "Sairo",
+          "url": "https://open.spotify.com/artist/38ghVFP8xwyGcMQET8kA7L"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Tipo strano",
+      "url": "https://open.spotify.com/track/69A6bIBWsOhSNkR3STnZgS"
+    },
+    {
+      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/2NVlFPygfMDfSxlcFXUAKu"
       },
@@ -19420,7 +19568,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 175624,
       "name": "Tutto Apposto",
       "url": "https://open.spotify.com/track/1ngpzaCSbgF9U51xOgA3KL"

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402161,
+  "num_followers": 402159,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Avril 2026",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "American Dream",
-        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "Forever Ends Someday",
         "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Chase Your Tail",
-        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
       },
       "artists": [
         {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 193915,
-      "name": "Chase Your Tail",
-      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
+      "duration_ms": 267693,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -343,6 +327,22 @@
       "duration_ms": 153045,
       "name": "Boys In Blue",
       "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "Chase Your Tail",
+        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 193915,
+      "name": "Chase Your Tail",
+      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Moi",
-        "url": "https://open.spotify.com/album/6nTICAZHGjKVtB3krnlHEe"
-      },
-      "artists": [
-        {
-          "name": "Yoa",
-          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
-        }
-      ],
-      "duration_ms": 183576,
-      "name": "Moi",
-      "url": "https://open.spotify.com/track/5xBznzl74AmnZsmhqME24s"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "Champagne en canette",
         "url": "https://open.spotify.com/album/1us9LOlrL2I6jySgwAJ21N"
       },
@@ -511,22 +495,18 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "mind be so numb",
-        "url": "https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg"
+        "name": "Moi",
+        "url": "https://open.spotify.com/album/6nTICAZHGjKVtB3krnlHEe"
       },
       "artists": [
         {
-          "name": "u.r.trax",
-          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
-        },
-        {
-          "name": "BEA1991",
-          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
         }
       ],
-      "duration_ms": 195428,
-      "name": "mind be so numb",
-      "url": "https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw"
+      "duration_ms": 183576,
+      "name": "Moi",
+      "url": "https://open.spotify.com/track/5xBznzl74AmnZsmhqME24s"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -543,6 +523,26 @@
       "duration_ms": 173658,
       "name": "Sesi",
       "url": "https://open.spotify.com/track/3Ov8MLsFdrNDcSp4KzdLhi"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "mind be so numb",
+        "url": "https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg"
+      },
+      "artists": [
+        {
+          "name": "u.r.trax",
+          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
+        },
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "mind be so numb",
+      "url": "https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
+        "name": "Les monstres",
+        "url": "https://open.spotify.com/album/4w8l9RgrnoYB6EvRkZhmdo"
+      },
+      "artists": [
+        {
+          "name": "Sheldon",
+          "url": "https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "\u00catre une fille",
+      "url": "https://open.spotify.com/track/6s7PgvBT8yKRtoogdwZzna"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
         "name": "FRAGMENT EXHIBITION",
         "url": "https://open.spotify.com/album/44rTVSiLrSOu1o3wIBHTFN"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 184506,
       "name": "ALL WIN",
       "url": "https://open.spotify.com/track/28Hl41hlf9LDVqg4zoy7gE"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
-        "name": "Les monstres",
-        "url": "https://open.spotify.com/album/4w8l9RgrnoYB6EvRkZhmdo"
-      },
-      "artists": [
-        {
-          "name": "Sheldon",
-          "url": "https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "\u00catre une fille",
-      "url": "https://open.spotify.com/track/6s7PgvBT8yKRtoogdwZzna"
     },
     {
       "added_at": "2026-04-30 22:03:34",

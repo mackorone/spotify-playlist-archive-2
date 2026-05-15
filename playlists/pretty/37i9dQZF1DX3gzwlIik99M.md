@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,773 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,753 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 24 | [En la Jaula](https://open.spotify.com/track/4gTmUJIVkIBKIhuWcepu7q) | [Horcas](https://open.spotify.com/artist/0R0FEEepfDr3js3lsGPykq) | [Por Tu Honor](https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12) | 3:57 |
 | 25 | [Policia](https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Blood\-Rooted](https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG) | 1:47 |
 | 26 | [Nuevo Orden Mundial](https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Nuevo Orden Mundial](https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r) | 3:51 |
-| 27 | [Vida Eterna](https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv) | [Lörihen](https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx) | [Bajo la Cruz](https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj) | 4:55 |
-| 28 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
+| 27 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
+| 28 | [Vida Eterna](https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv) | [Lörihen](https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx) | [Bajo la Cruz](https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj) | 4:55 |
 | 29 | [En la Eternidad](https://open.spotify.com/track/1qdL50KCmGmGjKTT0bT8Kd) | [Plan 4](https://open.spotify.com/artist/1MDbZWN49HRGDTkcIKTT54) | [Lleva Tu Mente al Limite](https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H) | 3:09 |
 | 30 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 |
 | 31 | [Pueblos erguidos](https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:18 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 44 | [Strong as Hell](https://open.spotify.com/track/30QNaLNk7w1eOV8HeiATZr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Death Based Illusions](https://open.spotify.com/album/3srYoLcpQ2m6oDMyvJQ5af) | 4:19 |
 | 45 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
 | 46 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 |
-| 47 | [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 |
+| 47 | [Privación Ilegítima de la Libertad](https://open.spotify.com/track/1KpwCqOkdPfI3iXtqOHtHE) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Privación Ilegítima de la Libertad](https://open.spotify.com/album/3T1bucft30F8GeAa9mlECc) | 4:48 |
 | 48 | [No Olvido de Donde Soy](https://open.spotify.com/track/42f1zC2QXFIrnuIvrgZgnv) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Lanza en Mano](https://open.spotify.com/album/40tqGOnfjUC2oaZwiOjmmN) | 4:16 |
 | 49 | [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 |
 | 50 | [Outsider God Creation \(O.G.C\)](https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [The Beginning of the End](https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM) | 3:43 |

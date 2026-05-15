@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest dance hits! Cover: Bebe Rexha",
+  "description": "Today's biggest dance hits! Cover: ANOTR",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -539,6 +539,32 @@
     },
     {
       "album": {
+        "name": "A Thousand Lies",
+        "url": "https://open.spotify.com/album/1Pr9UwNTdIvqhb4Q7kKfR3"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        },
+        {
+          "name": "Saidah",
+          "url": "https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284037,
+      "name": "A Thousand Lies",
+      "url": "https://open.spotify.com/track/1rinB6g47GjC1NlJj5NKHq"
+    },
+    {
+      "album": {
         "name": "Actin' Tough",
         "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
       },
@@ -902,7 +928,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 161982,
       "name": "Alive - Alok Remix",
       "url": "https://open.spotify.com/track/2Pe2GeYteFLUHrCPTihWmE"
@@ -2575,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Blame It",
+        "url": "https://open.spotify.com/album/4Yf1Ps5AiNyqc6p0kJhCe9"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222608,
+      "name": "Blame It",
+      "url": "https://open.spotify.com/track/5LB3N8fVFSH8IaXn7WSLPA"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5HHocvYdlIP6aEJZ6SDtkn"
       },
@@ -3569,6 +3613,28 @@
     },
     {
       "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/3s8sK4o6jwSbPGtm6mRJ9g"
+      },
+      "artists": [
+        {
+          "name": "POOLCLVB",
+          "url": "https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL"
+        },
+        {
+          "name": "LUPO.THEBOY",
+          "url": "https://open.spotify.com/artist/1syxKeEMdMzXsF2Cq6v62w"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224149,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/0mkQ0izYmDZUE5JuAPfmfh"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
       },
@@ -4080,7 +4146,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187279,
       "name": "Contact",
       "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
@@ -4778,7 +4844,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 288159,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
@@ -6012,7 +6078,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 193103,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
@@ -6554,7 +6620,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 184085,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz"
@@ -7414,6 +7480,28 @@
       "duration_ms": 163200,
       "name": "Fuck The Pain Away",
       "url": "https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0"
+    },
+    {
+      "album": {
+        "name": "Full Send (Pirapus Remix)",
+        "url": "https://open.spotify.com/album/4gV4HOBRlFXbW5klfnocAU"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216551,
+      "name": "Full Send - Pirapus Remix",
+      "url": "https://open.spotify.com/track/70OmUSMPq9H1BYdO0gmlde"
     },
     {
       "album": {
@@ -18014,7 +18102,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 210454,
       "name": "Sun Shines On Me",
       "url": "https://open.spotify.com/track/4Eezm3ccqImtLMsz8qzd8q"
@@ -19203,6 +19291,32 @@
     },
     {
       "album": {
+        "name": "Men Machine EP",
+        "url": "https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Men Machine",
+          "url": "https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "The Past, The Present, The Future",
+      "url": "https://open.spotify.com/track/1Cp8mfSFvYo7ddTy7NkmpL"
+    },
+    {
+      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
       },
@@ -20380,6 +20494,28 @@
       "duration_ms": 119314,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg"
+    },
+    {
+      "album": {
+        "name": "Way You Move",
+        "url": "https://open.spotify.com/album/1VXxVBe6lWpwPc5PojIbfj"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333428,
+      "name": "Way You Move",
+      "url": "https://open.spotify.com/track/6IumdpGce37viyxSOrkxOL"
     },
     {
       "album": {

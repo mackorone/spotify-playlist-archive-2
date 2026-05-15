@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,510 likes - 114 songs - 6 hr 21 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,511 likes - 114 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

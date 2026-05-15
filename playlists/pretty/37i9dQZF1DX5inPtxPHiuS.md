@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Superlitio
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,861 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,859 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 33 | [¿Qué se yo?](https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M) | [No Hay Tiempo Que Perder](https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy) | 2:57 |
 | 34 | [Cherokee](https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z) | [La Ramona](https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW) | [Cherokee](https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx) | 3:51 |
 | 35 | [LVRBOY](https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [LVRBOY](https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE) | 4:09 |
-| 36 | [El Beat de Mi Corazón](https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt) | [Ciegossordomudos](https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk) | [En Paz](https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw) | 3:22 |
-| 37 | [Campesino](https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt) | [La Doble A](https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ) | [Campesino](https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ) | 4:38 |
-| 38 | [Frágil](https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Frágil](https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR) | 4:23 |
+| 36 | [Frágil](https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Frágil](https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR) | 4:23 |
+| 37 | [El Beat de Mi Corazón](https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt) | [Ciegossordomudos](https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk) | [En Paz](https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw) | 3:22 |
+| 38 | [Campesino](https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt) | [La Doble A](https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ) | [Campesino](https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ) | 4:38 |
 | 39 | [Nadie Es Inocente \(feat\. Dilson Diaz & Nicolai Fella\)](https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5), [Dilson Diaz](https://open.spotify.com/artist/72UArPUG7xctUaf3iXf59r), [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:30 |
 | 40 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 |
 | 41 | [Lockdownska](https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Lockdownska](https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P) | 3:39 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 50 | [Dallas](https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Dallas](https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI) | 3:46 |
 | 51 | [El Silencio](https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [El Silencio](https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE) | 5:40 |
 | 52 | [Puede Que](https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Puede Que](https://open.spotify.com/album/33GOVpEps8cyXvauikKcmw) | 4:51 |
-| 53 | [Corriente](https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Juan Amaya](https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu) | [Corriente](https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY) | 5:01 |
+| 53 | [Madre Tierra](https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Sebastián Panesso](https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf) | [Madre Tierra](https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF) | 3:32 |
 | 54 | [Todo Se Olvida](https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj) | [Todo Se Olvida](https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU) | 4:32 |
-| 55 | [Rock the Casbah](https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Rock the Casbah](https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir) | 3:30 |
+| 55 | [A](https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj) | [The Kitsch](https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2) | [Los Kitsch de Colombia Presentan: 1/3](https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ) | 2:35 |
 | 56 | [Diciembre](https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [Diciembre](https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt) | 4:38 |
-| 57 | [Perfecto Error](https://open.spotify.com/track/5diqHYqIz4JfsbDztdeuJI) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Perfecto Error](https://open.spotify.com/album/0PM4dmS8vkPgSQbIN2WJrT) | 3:55 |
-| 58 | [Madre Tierra](https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Sebastián Panesso](https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf) | [Madre Tierra](https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF) | 3:32 |
-| 59 | [A](https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj) | [The Kitsch](https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2) | [Los Kitsch de Colombia Presentan: 1/3](https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ) | 2:35 |
+| 57 | [Rock the Casbah](https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Rock the Casbah](https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir) | 3:30 |
+| 58 | [Corriente](https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Juan Amaya](https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu) | [Corriente](https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY) | 5:01 |
+| 59 | [Perfecto Error](https://open.spotify.com/track/5diqHYqIz4JfsbDztdeuJI) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Perfecto Error](https://open.spotify.com/album/0PM4dmS8vkPgSQbIN2WJrT) | 3:55 |
 | 60 | [Drowned](https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi) | [Stallone](https://open.spotify.com/artist/5dyXLmBp985ILm6bRqxQ68) | [Stallone](https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ) | 5:40 |
 
 Snapshot ID: `AAAAAL3SDFaZMou+roasCW3xbHUS9M/c`

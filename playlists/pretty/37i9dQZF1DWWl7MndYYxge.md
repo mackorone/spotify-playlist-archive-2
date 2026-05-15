@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,703 likes - 80 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,757 likes - 80 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 37 | [L'aventurier](https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'aventurier](https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6) | 3:51 |
 | 38 | [Karma Chameleon](https://open.spotify.com/track/3XDeeP9wBZzGhIPZmLfEEx) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers](https://open.spotify.com/album/0VgBqlPrvUQsOqSwzA0fET) | 4:12 |
 | 39 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [The Essential Kenny Loggins](https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect) | 3:46 |
-| 40 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
-| 41 | [Partenaire Particulier](https://open.spotify.com/track/0S4dVpqBLnBFj4wdB4UDMd) | [Partenaire Particulier](https://open.spotify.com/artist/5jsIYrxcANUkZQPfCdfEWe) | [Le son des années 80](https://open.spotify.com/album/4cQIJjzFnwSFIQjz3MFkol) | 4:06 |
+| 40 | [Partenaire Particulier](https://open.spotify.com/track/0S4dVpqBLnBFj4wdB4UDMd) | [Partenaire Particulier](https://open.spotify.com/artist/5jsIYrxcANUkZQPfCdfEWe) | [Le son des années 80](https://open.spotify.com/album/4cQIJjzFnwSFIQjz3MFkol) | 4:06 |
+| 41 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
 | 42 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:08 |
 | 43 | [It's Raining Men](https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:32 |
 | 44 | [Plus près des étoiles](https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le train de mes souvenirs](https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9) | 3:57 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 53 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 |
 | 54 | [Sunday Bloody Sunday \- Remastered 2008](https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4Saua162eaEOksYc8TrB74) | 4:39 |
 | 55 | [When the Rain Begins to Fall](https://open.spotify.com/track/030RDC2ayPOUM32F9IH7eE) | [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P), [Pia Zadora](https://open.spotify.com/artist/4xOk8sG1KBfhKhR4BOq7Mc) | [Greatest Hits](https://open.spotify.com/album/5Qc9yw34BRN9n8pi5YKZ2D) | 4:03 |
-| 56 | [On the Beach](https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [On the Beach](https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m) | 5:02 |
-| 57 | [Confidence pour confidence \- Version originale 1981](https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3) | [Jean Schultheis](https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W) | [Abracadabra](https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD) | 4:46 |
+| 56 | [Confidence pour confidence \- Version originale 1981](https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3) | [Jean Schultheis](https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W) | [Abracadabra](https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD) | 4:46 |
+| 57 | [On the Beach](https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [On the Beach](https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m) | 5:02 |
 | 58 | [Au bout de mes rêves](https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Quand la musique est bonne](https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ) | 3:54 |
 | 59 | [Femme libérée](https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj) | [Cookie Dingler](https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG) | [Femme Libérée](https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi) | 3:41 |
 | 60 | [Ella, elle l'a](https://open.spotify.com/track/3XM3TD08DSAzl84yasWP1x) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Évidemment](https://open.spotify.com/album/4zvdx4wNv0IZiQmVKIODRN) | 4:51 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 70 | [L'amour à la plage](https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:23 |
 | 71 | [Maniac \- From "Flashdance" Soundtrack](https://open.spotify.com/track/4jqCold0GXW9c40QyOGD8S) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:07 |
 | 72 | [Part\-Time Lover](https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:12 |
-| 73 | [She Works Hard For The Money \- Single Version](https://open.spotify.com/track/0WfSc8grEKeHrgxo3stsat) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Summer: The Original Hits](https://open.spotify.com/album/2TNGyJVlzMUsD5mry6qsw2) | 4:33 |
-| 74 | [I'm So Excited](https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:48 |
+| 73 | [I'm So Excited](https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:48 |
+| 74 | [She Works Hard For The Money \- Single Version](https://open.spotify.com/track/0WfSc8grEKeHrgxo3stsat) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Summer: The Original Hits](https://open.spotify.com/album/2TNGyJVlzMUsD5mry6qsw2) | 4:33 |
 | 75 | [Histoire d'1 soir \(Bye bye les galères\) \- Version originale 1983](https://open.spotify.com/track/5JAGMln9Bd4xrHkjS4jMf2) | [Bibi Flash](https://open.spotify.com/artist/3ey9lZapAq5kQ9A5d65LBO) | [Best of Bibi Flash Collector \(Le meilleur des années 80\)](https://open.spotify.com/album/5sGSZA5uBz4a8JZy5fhfJg) | 4:36 |
 | 76 | [Bleu comme toi \- Single Edit](https://open.spotify.com/track/0RX7zew3vhJLHJKK9LBcAd) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Bleu Comme Toi](https://open.spotify.com/album/27eI27JBAFlbnBhvRf1h2s) | 3:24 |
 | 77 | [Sans contrefaçon](https://open.spotify.com/track/2WT5SeljRZ4zBP5Inc6Gs9) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Ainsi Soit Je](https://open.spotify.com/album/2Y4MGWQ2mCJ9Fr7gcEd8S0) | 4:06 |

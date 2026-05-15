@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-345 songs - 20 hr 51 min
+347 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-17 | 2025-12-06 |
 | [Nada De Vos](https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Nada De Vos](https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6) | 3:04 | 2026-03-12 | 2026-04-15 |
 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 | 2025-12-05 |  |
+| [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 | 2026-05-14 |  |
 | [No One Speaks](https://open.spotify.com/track/06JSOvLBhf9SKSL9hx8ETx) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Off to the Happy Place](https://open.spotify.com/album/5nJbbVazM8PySnmkj64vvR) | 2:29 | 2026-01-19 | 2026-02-25 |
 | [No Proof](https://open.spotify.com/track/0Jb6JopsRsmUeaDgiWEgGx) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:03 | 2026-04-20 |  |
 | [No puedes saber](https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3) | [Decode](https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r) | [No puedes saber](https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf) | 4:57 | 2026-03-05 |  |
@@ -217,6 +218,7 @@
 | [One More Time](https://open.spotify.com/track/65DXx4MjmlPwm1RlWtuPvZ) | [Stopgap Solution](https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb) | [One More Time](https://open.spotify.com/album/3QUosDhdcGqOSgxXxagaFo) | 3:10 | 2026-02-16 | 2026-03-27 |
 | [One of a Kind](https://open.spotify.com/track/3E0wt0y6e6lNaX2fsyhAop) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Invisible People](https://open.spotify.com/album/2Ll9ZEs3ab6t1apPx4Oj5g) | 3:59 | 2026-02-08 | 2026-03-05 |
 | [One Shot](https://open.spotify.com/track/2uQ5bMY5E0cflJbbGQcpgJ) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [One Shot](https://open.spotify.com/album/21nnXiPD8UoiWD4c6ydkAo) | 2:34 | 2025-08-31 | 2026-01-05 |
+| [Ordinary People](https://open.spotify.com/track/1oCwhlhRkPd5dCmS22o6jY) | [Lotus Grove](https://open.spotify.com/artist/26mBaP2fnwi2GnYNRWn9vR) | [Ordinary People](https://open.spotify.com/album/1SGIESobBCifLw8vs4Bnor) | 2:56 | 2026-05-14 |  |
 | [ostracized myself](https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [ostracized myself](https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm) | 2:50 | 2025-12-03 | 2026-01-05 |
 | [Our Path](https://open.spotify.com/track/0wLvmx2XhFfSipYnbsnSYL) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7) | [3AM Thoughts](https://open.spotify.com/album/3QlI5crNjxyuTbNMXSEEPm) | 3:56 | 2025-09-02 |  |
 | [Over](https://open.spotify.com/track/0OP5S6UqR2haqJdIR1YY1x) | [By Million Wires](https://open.spotify.com/artist/4QoLD4kvqh88dZF1VpDMSm) | [Over](https://open.spotify.com/album/3gG2TMhM8GUz3zbufRsYvv) | 5:09 | 2026-04-16 |  |

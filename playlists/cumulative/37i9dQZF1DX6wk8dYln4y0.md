@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: grentperez
 
-711 songs - 1 day 14 hr 15 min
+713 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 | 2026-04-09 |  |
 | [Bottle Blonde](https://open.spotify.com/track/49k0czI5y5CFTB2P6tcxVS) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Bottle Blonde](https://open.spotify.com/album/6iV7cJxPKSyVwa1chM61FH) | 2:51 | 2024-08-27 | 2024-10-04 |
 | [Bowling alley](https://open.spotify.com/track/47I8eRmRwU4EUX3HUqhFfp) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Bowling alley](https://open.spotify.com/album/3d9Fsp7MNINAFJDTdQ5x4k) | 2:34 | 2025-06-26 | 2025-08-22 |
-| [Boy](https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Boy](https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl) | 3:06 | 2026-04-23 |  |
+| [Boy](https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Boy](https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl) | 3:06 | 2026-04-23 | 2026-05-15 |
 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 | 2026-04-30 |  |
 | [boy that's loving you](https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [boy that's loving you](https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW) | 3:04 | 2026-04-23 |  |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-16 | 2024-02-09 |
@@ -282,7 +282,7 @@
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-11-30 | 2024-11-22 |
 | [High Alone](https://open.spotify.com/track/2YuGT66twMIc52dUKHUi3c) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [High Alone](https://open.spotify.com/album/1hMH4Fc48tr5MtNRzX7xXi) | 3:15 | 2025-02-20 | 2025-04-13 |
 | [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 | 2025-02-13 | 2026-01-15 |
-| [High On Heaven](https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [High On Heaven](https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n) | 3:19 | 2026-01-16 |  |
+| [High On Heaven](https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [High On Heaven](https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n) | 3:19 | 2026-01-16 | 2026-05-15 |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-05-29 | 2024-07-10 |
 | [Hocus Pocus](https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Hocus Pocus](https://open.spotify.com/album/5IJCDI2kPavM9i8x3P8bET) | 3:13 | 2024-10-24 | 2024-12-06 |
 | [Hold On You](https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Hold On You](https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM) | 2:32 | 2025-07-03 | 2025-08-01 |
@@ -537,6 +537,7 @@
 | [Snow On The Beach \(feat\. More Lana Del Rey\)](https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:49 | 2023-06-03 | 2023-07-08 |
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-03-21 | 2024-06-19 |
 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-11-21 | 2025-07-04 |
+| [So Dumb](https://open.spotify.com/track/2AH4vccgqHx4Pzg9UoPm8J) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [So Dumb](https://open.spotify.com/album/1pSQenjKMZb4qBd9PrdEnP) | 2:37 | 2026-05-14 |  |
 | [So Long, London](https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 4:22 | 2024-04-19 | 2024-04-26 |
 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 | 2024-04-04 | 2024-08-28 |
 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 | 2024-09-13 | 2025-08-08 |
@@ -551,6 +552,7 @@
 | [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2024-06-11 | 2025-02-21 |
 | [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-26 | 2025-04-01 |
 | [SOS](https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [SOS](https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt) | 2:51 | 2025-05-15 | 2025-06-06 |
+| [Space Cowboy](https://open.spotify.com/track/3kCsmGqOUWUtZgJLtZfIMS) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Space Cowboy](https://open.spotify.com/album/5YoCQrs2MTZcMbVxN9Qp0k) | 3:44 | 2026-05-14 |  |
 | [space girl](https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [space girl](https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD) | 3:51 | 2024-09-26 | 2025-03-28 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2023-03-16 | 2023-09-05 |
 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 | 2025-11-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 9558,
+  "num_followers": 9565,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAClh8MHOXsiH9ZhdWzJJC6+",
+  "snapshot_id": "agO/AAAAAAANzoY1SLlZpPlzmObfx0HF",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reclusive",
-        "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 186416,
-      "name": "Reclusive",
-      "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crystal Tears",
         "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 231532,
       "name": "Mad At Fire",
       "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sounds for someone",
+        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 186416,
+      "name": "Reclusive",
+      "url": "https://open.spotify.com/track/2E3c3APiNL1g2syAGwBHCP"
     },
     {
       "added_at": null,
@@ -254,15 +254,11 @@
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 234469,
-      "name": "Light By The Window",
-      "url": "https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN"
+      "duration_ms": 165703,
+      "name": "Time Doesn\u2019t Heal",
+      "url": "https://open.spotify.com/track/0QSXeOV9rQEU00Itu2RI0F"
     },
     {
       "added_at": null,
@@ -326,11 +322,15 @@
         {
           "name": "Elmiene",
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 165703,
-      "name": "Time Doesn\u2019t Heal",
-      "url": "https://open.spotify.com/track/0QSXeOV9rQEU00Itu2RI0F"
+      "duration_ms": 234469,
+      "name": "Light By The Window",
+      "url": "https://open.spotify.com/track/4aUYeJamvtDTfj2jxIvZrN"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "sounds for someone",
-        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
+        "name": "Anyways",
+        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 87609,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/0gJwsdQIZVfGmNLPXIFWMG"
+      "duration_ms": 176888,
+      "name": "Anyways",
+      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways",
-        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Anyways",
-      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The Deported",
         "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
       },
@@ -543,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Dark Out (Season of Thieves)",
-      "url": "https://open.spotify.com/track/1SPFL35pZpYPMKyelBR0tB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From 525",
         "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 192520,
       "name": "Untitled (How Does It Feel?) - Live From 525",
       "url": "https://open.spotify.com/track/2YJnUBbDDQ83tPEfAxcVOu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Dark Out (Season of Thieves)",
+      "url": "https://open.spotify.com/track/1SPFL35pZpYPMKyelBR0tB"
     },
     {
       "added_at": null,

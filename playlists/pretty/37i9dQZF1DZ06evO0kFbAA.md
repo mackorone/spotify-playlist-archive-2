@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 
 > This is Stan Getz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,543 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,549 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 8 | [Saudade Vem Correndo](https://open.spotify.com/track/5AdLmvd90okvVu2CtjCxSj) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG) | 3:39 |
 | 9 | [Para Machuchar Meu Coracao](https://open.spotify.com/track/5UaJ4zxtCIi5WZomhoZIeq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:07 |
 | 10 | [Samba Triste](https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 4:43 |
-| 11 | [Nobody Else But Me](https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 4:11 |
-| 12 | [Melinda](https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 5:04 |
+| 11 | [Melinda](https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 5:04 |
+| 12 | [Nobody Else But Me](https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 4:11 |
 | 13 | [Vivo Sohando \- Stereo Version](https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:56 |
 | 14 | [I Don't Stand A Ghost Of A Chance With You](https://open.spotify.com/track/1U40ZDyutQGASuOrNlVM2S) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:48 |
 | 15 | [I Was Doing All Right](https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 4:06 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 42 | [Samba Dees Days](https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 3:32 |
 | 43 | [Chega De Saudade \(Too Much Longing\)](https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Big Band Bossa Nova](https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY) | 4:11 |
 | 44 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 |
-| 45 | [O Morro Nao Tem Vez](https://open.spotify.com/track/1NF8RxcyP6qWaipOfusQp2) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG) | 6:53 |
-| 46 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 |
+| 45 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 |
+| 46 | [O Morro Nao Tem Vez](https://open.spotify.com/track/1NF8RxcyP6qWaipOfusQp2) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/0ZUAmrO9WtF8yQLZdC9raG) | 6:53 |
 | 47 | [Manha De Carnaval \(Morning of Carnaval\)](https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Big Band Bossa Nova](https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY) | 5:49 |
 | 48 | [Aguas de Marco](https://open.spotify.com/track/4xroH3U7ukASe2U5xiJPvI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Jazz Moods \- Cool](https://open.spotify.com/album/4lORlHfONAF7M3pVUZMpLk) | 4:42 |
 | 49 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
 | 50 | [Detour Ahead](https://open.spotify.com/track/4VQjBT1aLYvEIdirwxxjvo) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf) | 3:38 |
 
-Snapshot ID: `agJtgAAAAACPXFUC8I/O/J0R1g/hQgl9`
+Snapshot ID: `agO/AAAAAAAs0zRoVNMTi3CGGlJt3HK+`

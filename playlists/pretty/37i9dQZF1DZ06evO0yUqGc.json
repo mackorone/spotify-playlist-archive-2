@@ -1,18 +1,18 @@
 {
   "description": "This is Lily Allen. The essential tracks, all in one playlist.",
-  "num_followers": 95671,
+  "num_followers": 95678,
   "original_name": "This Is Lily Allen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADJLerUUBi4tvJmdrwqCK8x",
+  "snapshot_id": "agO/AAAAAABzZzWl8dEsIw33TIZfw+UG",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Alright, Still (Deluxe)",
-        "url": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
+        "name": "Alright, Still",
+        "url": "https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 196893,
       "name": "Smile",
-      "url": "https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0"
+      "url": "https://open.spotify.com/track/3NK28cXAkO5JIM7YOiCQAx"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Shame",
-        "url": "https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "Come on Then",
-      "url": "https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 215253,
       "name": "Oh My God (feat. Lily Allen)",
       "url": "https://open.spotify.com/track/0G2BtoIda45xgezQGQn8JS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Shame",
+        "url": "https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "Come on Then",
+      "url": "https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alright, Still",
-        "url": "https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs"
+        "name": "Alright, Still (Deluxe)",
+        "url": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 246026,
-      "name": "Take What You Take",
-      "url": "https://open.spotify.com/track/7xyvMaJZA7thwtPQv6OCbc"
+      "duration_ms": 179693,
+      "name": "Nan You're a Window Shopper",
+      "url": "https://open.spotify.com/track/0Bf2zCGV0yUNSxMC5gpxkJ"
     },
     {
       "added_at": null,

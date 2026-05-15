@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,820 likes - 333 songs - 18 hr 13 min
+[](https://open.spotify.com/user/null) - 4,822 likes - 333 songs - 18 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,8 +175,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 165 | [16 Again](https://open.spotify.com/track/3qrTracLJmTz2XaJDkSiEN) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [16 Again](https://open.spotify.com/album/7x7AQEl511oMbhjVkBc2Lq) | 3:15 |
 | 166 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 |
 | 167 | [Fingertips](https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5GeJw5dsJDahd3DLjPT3MJ) | 4:15 |
-| 168 | [EASY ON ME](https://open.spotify.com/track/5PvDkxIW9DoKLEJu0F1upY) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:22 |
-| 169 | [Headache](https://open.spotify.com/track/6LYFeW0kFfq673sEbVtGLm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 2:44 |
+| 168 | [Headache](https://open.spotify.com/track/6LYFeW0kFfq673sEbVtGLm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 2:44 |
+| 169 | [EASY ON ME](https://open.spotify.com/track/5PvDkxIW9DoKLEJu0F1upY) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:22 |
 | 170 | [Time](https://open.spotify.com/track/5HURgdoecQUfOxXPLHnTje) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Homeward Bound](https://open.spotify.com/album/4dnV2SIeaxSpNqNY2TC9QZ) | 3:46 |
 | 171 | [Don't Know About You \(feat\. Becky Hill & JME\)](https://open.spotify.com/track/5fHAZKWoCWC5lzDqWw49e6) | [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Don't Know About You \(feat\. Becky Hill & JME\)](https://open.spotify.com/album/07qE5bujJguS4BK8Ah3l09) | 2:50 |
 | 172 | [Make It Hard To Love You](https://open.spotify.com/track/0cJ19SMVX83SJnNfIjmX8c) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:19 |
@@ -233,8 +233,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 223 | [Today](https://open.spotify.com/track/0rkOrVDaEZFjYh0s2ncz3l) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:42 |
 | 224 | [Away From You](https://open.spotify.com/track/3iejIQUlBfS5J1SudBYPmu) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [Away From You](https://open.spotify.com/album/3ZnOiFVmxrDBUxMWIPoJXk) | 3:46 |
 | 225 | [Darkest Hour](https://open.spotify.com/track/0rX4zPMMpg8IhCKElJp8lp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 3:17 |
-| 226 | [WHAT'S REALLY GOOD?](https://open.spotify.com/track/3BpV4X96v59dXv5bucIgXL) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [22 MINUTES LATER](https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7) | 4:04 |
-| 227 | [Mamacitas](https://open.spotify.com/track/5tus0rguJsYmiQEIL221uf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:26 |
+| 226 | [Mamacitas](https://open.spotify.com/track/5tus0rguJsYmiQEIL221uf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:26 |
+| 227 | [WHAT'S REALLY GOOD?](https://open.spotify.com/track/3BpV4X96v59dXv5bucIgXL) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [22 MINUTES LATER](https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7) | 4:04 |
 | 228 | [In Your Clouds](https://open.spotify.com/track/5vx016WUYcrXIHZ9h0JxTy) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:58 |
 | 229 | [Critical](https://open.spotify.com/track/5OzECzDAbZ4BUKenQB11q2) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [From My Sleeve To The World](https://open.spotify.com/album/5B9nB3l4Ge5AOiBz4jEs2o) | 3:14 |
 | 230 | [WORRY TOO MUCH \- EDIT](https://open.spotify.com/track/6uuqMnJ49QOfToEqTObu7B) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [S'natra](https://open.spotify.com/artist/6ejpB7JpUhE7XHXAIStcsv), [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X) | [CHAPTER 23 \(THE EDITS\)](https://open.spotify.com/album/57gwOGPtX7vOYJgH9faPFk) | 3:14 |
@@ -342,4 +342,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 332 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 | 333 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `AcRavAAAAAD3sx4/8E7qqcNvJ1vfY+ev`
+Snapshot ID: `AcRgXAAAAACsfEXMsd76RXiUt/6kPnGj`

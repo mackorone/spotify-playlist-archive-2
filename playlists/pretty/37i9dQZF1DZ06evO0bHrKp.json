@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 213771,
+  "num_followers": 213796,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACQdDbz+sLY/2zJrQV3L3he",
+  "snapshot_id": "agO/AAAAAAARJtnSWnic+KzW2BGWYvvy",
   "tracks": [
     {
       "added_at": null,
@@ -655,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+        "name": "Last Day On Earth",
+        "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
       },
       "artists": [
+        {
+          "name": "SK8",
+          "url": "https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish"
+        },
         {
           "name": "Sum 41",
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 202071,
-      "name": "Goddamn I'm Dead Again",
-      "url": "https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM"
+      "duration_ms": 138086,
+      "name": "Shooting Star (feat. Sum 41)",
+      "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
     },
     {
       "added_at": null,
@@ -687,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day On Earth",
-        "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
       },
       "artists": [
-        {
-          "name": "SK8",
-          "url": "https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish"
-        },
         {
           "name": "Sum 41",
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 138086,
-      "name": "Shooting Star (feat. Sum 41)",
-      "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
+      "duration_ms": 202071,
+      "name": "Goddamn I'm Dead Again",
+      "url": "https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM"
     },
     {
       "added_at": null,

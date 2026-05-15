@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Shye \(Singapore\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,665 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,681 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [UFO](https://open.spotify.com/track/7nUCrjYiberecjvOxVHYF6) | [ZIN CHOI](https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b) | [UFO](https://open.spotify.com/album/35bk0ltkEVLGSAzONbbpw5) | 3:33 |
 | 100 | [朝日呻吟](https://open.spotify.com/track/4G2EJU7FKZzIltd0S7dnVg) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [朝日呻吟](https://open.spotify.com/album/0aJ3yRcgYotmov6aqKUuF7) | 3:35 |
 
-Snapshot ID: `AAAAAP0wxNtzWJH5hyYNrCuN3mXrAwcF`
+Snapshot ID: `AAAAABxMyMIr3IzAWj+EsdBEopfujr5C`

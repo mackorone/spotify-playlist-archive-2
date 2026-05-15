@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Maria Beth\u00e2nia",
-  "num_followers": 1039251,
+  "num_followers": 1039089,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-05-06 11:15:56",
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/4I5mHJeEcs9QcTfxHUwWfk"
+      },
+      "artists": [
+        {
+          "name": "Samar Tarik",
+          "url": "https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU"
+    },
+    {
+      "added_at": "2026-05-06 11:15:56",
+      "album": {
         "name": "VERSATILE",
         "url": "https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2026-05-06 11:15:56",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/4I5mHJeEcs9QcTfxHUwWfk"
+        "name": "\u6df1\u5bb5\u4fbf\u5229\u611b",
+        "url": "https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ"
       },
       "artists": [
         {
-          "name": "Samar Tarik",
-          "url": "https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0"
+          "name": "sica",
+          "url": "https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5"
         }
       ],
-      "duration_ms": 198240,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU"
+      "duration_ms": 199338,
+      "name": "\u6df1\u5bb5\u4fbf\u5229\u611b",
+      "url": "https://open.spotify.com/track/1PVmRq1h6juqGicSQFCfSf"
     },
     {
       "added_at": "2026-05-06 11:15:56",
@@ -535,18 +551,18 @@
     {
       "added_at": "2026-05-06 11:15:56",
       "album": {
-        "name": "\u6df1\u5bb5\u4fbf\u5229\u611b",
-        "url": "https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ"
+        "name": "I Wish You Well",
+        "url": "https://open.spotify.com/album/3LvKwWsV65kw0zBuNaChoA"
       },
       "artists": [
         {
-          "name": "sica",
-          "url": "https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5"
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
         }
       ],
-      "duration_ms": 199338,
-      "name": "\u6df1\u5bb5\u4fbf\u5229\u611b",
-      "url": "https://open.spotify.com/track/1PVmRq1h6juqGicSQFCfSf"
+      "duration_ms": 200253,
+      "name": "I Wish You Well",
+      "url": "https://open.spotify.com/track/62MQQhu3ljO21zGvjWEJYV"
     },
     {
       "added_at": "2026-05-06 11:15:56",
@@ -581,20 +597,20 @@
       "url": "https://open.spotify.com/track/7Ei6t0vqP6QsuEEok9oxZJ"
     },
     {
-      "added_at": "2026-05-06 11:15:56",
+      "added_at": "2026-05-08 15:35:54",
       "album": {
-        "name": "I Wish You Well",
-        "url": "https://open.spotify.com/album/3LvKwWsV65kw0zBuNaChoA"
+        "name": "Isa, Dalawa, Tatlo, Cha",
+        "url": "https://open.spotify.com/album/6ratSC6J0LoJZx6LegrqOE"
       },
       "artists": [
         {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+          "name": "Yeng Constantino",
+          "url": "https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ"
         }
       ],
-      "duration_ms": 200253,
-      "name": "I Wish You Well",
-      "url": "https://open.spotify.com/track/62MQQhu3ljO21zGvjWEJYV"
+      "duration_ms": 169285,
+      "name": "Isa, Dalawa, Tatlo, Cha",
+      "url": "https://open.spotify.com/track/2RBTnmRliLzyXmTapebwEH"
     },
     {
       "added_at": "2026-05-06 11:15:56",
@@ -611,22 +627,6 @@
       "duration_ms": 96000,
       "name": "schlaflied",
       "url": "https://open.spotify.com/track/19NYiWCaRQ1JHTWu3FfCJb"
-    },
-    {
-      "added_at": "2026-05-08 15:35:54",
-      "album": {
-        "name": "Isa, Dalawa, Tatlo, Cha",
-        "url": "https://open.spotify.com/album/6ratSC6J0LoJZx6LegrqOE"
-      },
-      "artists": [
-        {
-          "name": "Yeng Constantino",
-          "url": "https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "Isa, Dalawa, Tatlo, Cha",
-      "url": "https://open.spotify.com/track/2RBTnmRliLzyXmTapebwEH"
     },
     {
       "added_at": "2026-05-06 11:15:56",

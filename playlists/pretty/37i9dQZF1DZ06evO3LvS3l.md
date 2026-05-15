@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,992 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,006 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 7 | [Jack Daniel's, If You Please](https://open.spotify.com/track/5IWb5kwXz1UgsXVyrMvpKi) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 3:17 |
 | 8 | [Cocaine Carolina](https://open.spotify.com/track/35kvOewUqIxHMf8Djyk4IC) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Just Divorced](https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ) | 2:46 |
 | 9 | [Living on the Run](https://open.spotify.com/track/27Xzsz1vWsBn1Nq9PZy9hO) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 2:32 |
-| 10 | [Willie, Waylon And Me](https://open.spotify.com/track/6Vy2FPaOj394TAPZU2wrNr) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Greatest Hits](https://open.spotify.com/album/0VYmJzCaXoph0JfVXGNNos) | 3:12 |
-| 11 | [Ride 'Em Cowboy](https://open.spotify.com/track/3WYx2qPwxhtSP1vKTEpRyg) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 3:34 |
+| 10 | [Ride 'Em Cowboy](https://open.spotify.com/track/3WYx2qPwxhtSP1vKTEpRyg) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 3:34 |
+| 11 | [Willie, Waylon And Me](https://open.spotify.com/track/6Vy2FPaOj394TAPZU2wrNr) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Greatest Hits](https://open.spotify.com/album/0VYmJzCaXoph0JfVXGNNos) | 3:12 |
 | 12 | [Tennessee Whiskey](https://open.spotify.com/track/6x6xWn1AQYWekIDREExqgN) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Biggest Hits](https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1) | 2:58 |
 | 13 | [Spotlight](https://open.spotify.com/track/5D9GKjpvU4xbw4Y2sreLXB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 3:06 |
 | 14 | [If That Ain't Country \(I'll Kiss Your Sss\)](https://open.spotify.com/track/39rA3myJ7a5I6HuDoL1IpX) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [The Ride](https://open.spotify.com/album/1D2Tyth49AQiDb7SpWivEn) | 5:02 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 37 | [The Fish Aren't Bitin' Today](https://open.spotify.com/track/1bYzoLz1GonUYnrqjMppKc) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Compass Point](https://open.spotify.com/album/1tEXpuNhfMIPwxOxPO59kr) | 3:08 |
 | 38 | [Mona Lisa Lost Her Smile](https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 3:39 |
 | 39 | [Ain't Worth the Powder](https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 3:12 |
-| 40 | [This Bottle \(In My Hand\)](https://open.spotify.com/track/2eeK8aAZy6o7iyQhvhg5n0) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [I've Got Something to Say](https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN) | 2:50 |
-| 41 | [Southern Star](https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Crazy Daddy](https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8) | 2:40 |
-| 42 | [Death Row](https://open.spotify.com/track/7dKaRbNb32MdumLtkuXGhp) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Penitentiary Blues](https://open.spotify.com/album/5JUypDy65MfWOtZTaVUQGE) | 2:43 |
-| 43 | [Cheap Thrills](https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Castles in the Sand](https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib) | 2:42 |
+| 40 | [Southern Star](https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Crazy Daddy](https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8) | 2:40 |
+| 41 | [This Bottle \(In My Hand\)](https://open.spotify.com/track/2eeK8aAZy6o7iyQhvhg5n0) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [I've Got Something to Say](https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN) | 2:50 |
+| 42 | [Cheap Thrills](https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Castles in the Sand](https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib) | 2:42 |
+| 43 | [Death Row](https://open.spotify.com/track/7dKaRbNb32MdumLtkuXGhp) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Penitentiary Blues](https://open.spotify.com/album/5JUypDy65MfWOtZTaVUQGE) | 2:43 |
 | 44 | [\(If I Could Climb\) The Walls of the Bottle](https://open.spotify.com/track/29mXFLxchnrdvlCA1QrcfT) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [The Mysterious Rhinestone Cowboy](https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi) | 2:15 |
 | 45 | [Drank My Wife Away](https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV) | 3:17 |
 | 46 | [Hank Williams Junior\-Junior](https://open.spotify.com/track/0QyYeOUHzncpaWhP7ESx1p) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Biggest Hits](https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1) | 2:41 |
 | 47 | [Sweet Vibrations \(Some Folks Call It Love\)](https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 3:02 |
-| 48 | [Human Emotions](https://open.spotify.com/track/72bCNd02AUSuuR1YICoswh) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 4:28 |
-| 49 | [It's Great to Be Single Again](https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Just Divorced](https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ) | 2:19 |
+| 48 | [It's Great to Be Single Again](https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Just Divorced](https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ) | 2:19 |
+| 49 | [Human Emotions](https://open.spotify.com/track/72bCNd02AUSuuR1YICoswh) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 4:28 |
 | 50 | [Whiskey, Whiskey \(Take My Mind\)](https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [D.A.C.](https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1) | 2:30 |
 
-Snapshot ID: `agJtgAAAAABsDqgPAS/Z/dPrfXaljFpw`
+Snapshot ID: `agO/AAAAAABH0FXn2iLCScRS1HZbXYWr`

@@ -4967,6 +4967,32 @@
     },
     {
       "album": {
+        "name": "COX",
+        "url": "https://open.spotify.com/album/2NNEffGqalM2BE7TnZHCGP"
+      },
+      "artists": [
+        {
+          "name": "DJ Lalo",
+          "url": "https://open.spotify.com/artist/4BPiDIdCGWgKy8UzVS1a4S"
+        },
+        {
+          "name": "Alexanderz",
+          "url": "https://open.spotify.com/artist/59kIrWI1P1fjbEYwvOmA8p"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119509,
+      "name": "COX",
+      "url": "https://open.spotify.com/track/5GqlZNIZKbK8K3rW3ZezdL"
+    },
+    {
+      "album": {
         "name": "Crazy QLO",
         "url": "https://open.spotify.com/album/4hQ5eG0JZNRChJIaUzQT32"
       },
@@ -5610,7 +5636,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 207600,
       "name": "De Lejitos",
       "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
@@ -7496,7 +7522,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -7518,7 +7544,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -15290,7 +15316,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
@@ -27334,7 +27360,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 198153,
       "name": "YO y T\u00da",
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"

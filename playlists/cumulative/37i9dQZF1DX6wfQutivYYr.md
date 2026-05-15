@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Juli e Olly sulla cover della playlist più grande in Italia 🔥
+> Serena Brancale, Levante e Delia al loro paese e anche sulla cover della playlist più grande in Italia 🔥
 
-325 songs - 16 hr 57 min
+327 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-26 | 2026-03-13 |
 | [APNEA](https://open.spotify.com/track/3qyidNdb5QNHLxAFJzTn6P) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [APNEA](https://open.spotify.com/album/0YMrslSUc1TClPK7b1SVBa) | 3:00 | 2024-06-28 | 2024-07-05 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-24 | 2025-03-28 |
+| [Atlantide \(from the Netflix film “Non abbiam bisogno di parole”\)](https://open.spotify.com/track/12MJ5fijk343STCNRQAM2e) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4qrGkDZq7DRqE93ysemRts) | 2:44 | 2026-05-14 |  |
 | [Attacchi di panico](https://open.spotify.com/track/6kcW7rUXA5zL4RlnrwJp0P) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:32 | 2025-10-24 | 2025-11-07 |
 | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/track/6Ajvu1afirjocbZK934qqh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/album/5HQUIQmVxiUwZ8975mSIMH) | 3:07 | 2025-01-07 | 2025-02-21 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-03 | 2025-08-29 |
@@ -190,7 +191,7 @@
 | [MAI PER SEMPRE](https://open.spotify.com/track/7u4Y70JYM5AO3Q45whDJbB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [MAI PER SEMPRE](https://open.spotify.com/album/4OwHctFxCYeak7VrPSLXjV) | 3:40 | 2024-11-21 | 2025-01-19 |
 | [Mal di te](https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mal di te](https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA) | 2:59 | 2025-01-18 | 2025-03-14 |
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-06-28 | 2024-12-06 |
-| [MALE NECESSARIO](https://open.spotify.com/track/4kK4uxstY0lTdun71200Al) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [MALE NECESSARIO](https://open.spotify.com/album/2bewKhlwZYgeHhXPf7xyqs) | 3:07 | 2026-02-25 |  |
+| [MALE NECESSARIO](https://open.spotify.com/track/4kK4uxstY0lTdun71200Al) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [MALE NECESSARIO](https://open.spotify.com/album/2bewKhlwZYgeHhXPf7xyqs) | 3:07 | 2026-02-25 | 2026-05-15 |
 | [Maledetta Rabbia](https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Maledetta Rabbia](https://open.spotify.com/album/5hJ80aNRyLVqXoQhN4qMmy) | 2:35 | 2025-06-26 | 2025-12-16 |
 | [MAMMAMÌ](https://open.spotify.com/track/5ewubv7hwvNzi43bQ191Ix) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/4GQgb01NvO5hV7qgLe5Bc9) | 3:03 | 2024-06-28 | 2024-09-21 |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-11-06 | 2026-04-24 |
@@ -270,6 +271,7 @@
 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 | 2024-11-07 | 2025-09-07 |
 | [SCELTE STUPIDE](https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [SCELTE STUPIDE](https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3) | 2:59 | 2025-05-08 | 2025-11-28 |
 | [Se t'innamori muori](https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Se t'innamori muori](https://open.spotify.com/album/0dmBgbxifl9HI6bTHoFwx8) | 3:10 | 2025-02-17 | 2025-05-23 |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-05-14 |  |
 | [Serenamente](https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:16 | 2026-04-29 |  |
 | [SERENATA](https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [SERENATA](https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz) | 3:08 | 2025-06-05 | 2026-02-26 |
 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2rMhztfOqEt00j47vpCfKl) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/album/3QDP4EG7nlyN38o7720rye) | 2:47 | 2024-06-28 | 2024-11-15 |
@@ -316,7 +318,7 @@
 | [Tutti i giorni](https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:18 | 2025-01-17 | 2025-02-21 |
 | [Umore marea](https://open.spotify.com/track/2PhXWpXhWg61SdUO44FIUk) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Umore marea](https://open.spotify.com/album/5XExZ9o16FjbQ9kgp3Muvh) | 2:38 | 2025-05-15 | 2026-02-03 |
 | [Un mondo a parte](https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Il corpo umano VOL\. 1](https://open.spotify.com/album/5GElpFAAm9NuWFau9h9Oj9) | 4:00 | 2025-02-27 | 2025-07-01 |
-| [uomo che cade](https://open.spotify.com/track/3vwObRd71oUa145riRt42O) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [uomo che cade](https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj) | 3:37 | 2026-03-05 |  |
+| [uomo che cade](https://open.spotify.com/track/3vwObRd71oUa145riRt42O) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [uomo che cade](https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj) | 3:37 | 2026-03-05 | 2026-05-15 |
 | [Vai!](https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Vai!](https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL) | 2:36 | 2024-06-28 | 2024-07-19 |
 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 | 2024-09-05 | 2024-10-12 |
 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 | 2024-06-28 | 2024-08-23 |

@@ -2404,10 +2404,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 381626,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ"
+    },
+    {
+      "album": {
+        "name": "Who Are You (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7qGnKtZPJMP3LFgEl2WM4r"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382733,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/4XTjaXaGmPh8ys1BzFdjdL"
     },
     {
       "album": {

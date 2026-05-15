@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Big Heart",
+      "url": "https://open.spotify.com/track/2ZmeqptEtIdfGTxRByHMqz"
+    },
+    {
+      "album": {
         "name": "Songs For Humanity",
         "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
       },
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 141973,
       "name": "No Stopping Us",
       "url": "https://open.spotify.com/track/6LL7k9NYdw4niljdYF7Pg9"

@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 339478,
+  "num_followers": 339712,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "its never enough",
-        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
-      },
-      "artists": [
-        {
-          "name": "les",
-          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
-        }
-      ],
-      "duration_ms": 98196,
-      "name": "its never enough",
-      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "the hardest part",
         "url": "https://open.spotify.com/album/5FejFrtgFBHiHsH3bULuAz"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 101052,
       "name": "the hardest part",
       "url": "https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "its never enough",
+        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
+      },
+      "artists": [
+        {
+          "name": "les",
+          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
+        }
+      ],
+      "duration_ms": 98196,
+      "name": "its never enough",
+      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Mat\u00e8l (original motion picture soundtrack)",
-        "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
-      },
-      "artists": [
-        {
-          "name": "Ginevra Nervi",
-          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
-        }
-      ],
-      "duration_ms": 204043,
-      "name": "Mat\u00e8l",
-      "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "4AM ambient version",
         "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 112826,
       "name": "4AM ambient version",
       "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Mat\u00e8l (original motion picture soundtrack)",
+        "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "duration_ms": 204043,
+      "name": "Mat\u00e8l",
+      "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "The Importance of Birds",
-        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "From a Convenient Grass",
-      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "PHANTOM BRICKWORKS (LP II)",
         "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 325320,
       "name": "DOROTHEA\u2019S BED",
       "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "The Importance of Birds",
+        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "From a Convenient Grass",
+      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Weighing Souls With Sand",
-        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
-      },
-      "artists": [
-        {
-          "name": "The Angelic Process",
-          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
-        }
-      ],
-      "duration_ms": 572189,
-      "name": "The Promise of Snakes",
-      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "losing",
         "url": "https://open.spotify.com/album/5OQdqJJbbUlzw4ugElm7nR"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 90861,
       "name": "losing",
       "url": "https://open.spotify.com/track/6VbCeNW181BuuT1ZymXxQG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Weighing Souls With Sand",
+        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
+      },
+      "artists": [
+        {
+          "name": "The Angelic Process",
+          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
+        }
+      ],
+      "duration_ms": 572189,
+      "name": "The Promise of Snakes",
+      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "CROW! (after the snowfall)",
+        "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "antihistamine. - instrumental",
+      "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "haunted, but it's ambient",
         "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 136800,
       "name": "haunted, but it's ambient",
       "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "CROW! (after the snowfall)",
-        "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
-      },
-      "artists": [
-        {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "antihistamine. - instrumental",
-      "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "skies",
-        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
-      },
-      "artists": [
-        {
-          "name": "Blut Own",
-          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
-        },
-        {
-          "name": "Riversilvers",
-          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
-        }
-      ],
-      "duration_ms": 129998,
-      "name": "skies",
-      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 279935,
       "name": "searching",
       "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "skies",
+        "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
+      },
+      "artists": [
+        {
+          "name": "Blut Own",
+          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
+        },
+        {
+          "name": "Riversilvers",
+          "url": "https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa"
+        }
+      ],
+      "duration_ms": 129998,
+      "name": "skies",
+      "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Love Is Colder Than Death",
-        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
-      },
-      "artists": [
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
-        }
-      ],
-      "duration_ms": 213832,
-      "name": "Out Of The Past",
-      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "no service",
         "url": "https://open.spotify.com/album/17wnWBr68OQoLFULf9uVXD"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 170181,
       "name": "no service",
       "url": "https://open.spotify.com/track/2JfoV8oR2kQH5Zy2YWzIZx"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Love Is Colder Than Death",
+        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
+      },
+      "artists": [
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+        }
+      ],
+      "duration_ms": 213832,
+      "name": "Out Of The Past",
+      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
     },
     {
       "added_at": "2026-03-20 04:00:38",

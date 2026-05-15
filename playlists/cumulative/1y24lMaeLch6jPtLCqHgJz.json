@@ -10309,6 +10309,24 @@
     },
     {
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/5sBh2Aa30g4T3TfraUPpoW"
+      },
+      "artists": [
+        {
+          "name": "Joey Dale",
+          "url": "https://open.spotify.com/artist/3QjbhhPrW6clls3VPRGkXu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226312,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4PM5otDH7pMuVn33kph35B"
+    },
+    {
+      "album": {
         "name": "You Protect Me",
         "url": "https://open.spotify.com/album/7LBSAJMn87qjqjF8eoima4"
       },

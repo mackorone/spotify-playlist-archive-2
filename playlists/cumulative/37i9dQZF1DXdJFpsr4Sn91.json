@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "110%",
+        "url": "https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW"
+      },
+      "artists": [
+        {
+          "name": "Frans Harju",
+          "url": "https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181985,
+      "name": "110%",
+      "url": "https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi"
+    },
+    {
+      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/623gXbUqzeIY6nxr3nKMdA"
       },
@@ -600,6 +618,24 @@
       "duration_ms": 182883,
       "name": "Aina",
       "url": "https://open.spotify.com/track/0uBQFamFpphOS27wIXPeiT"
+    },
+    {
+      "album": {
+        "name": "Ainakaa s\u00e4",
+        "url": "https://open.spotify.com/album/5vAe47FkhAtoa18aE3HbkY"
+      },
+      "artists": [
+        {
+          "name": "LEFT",
+          "url": "https://open.spotify.com/artist/7wBs3TAGVfLOV094RVMWiG"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "Ainakaa s\u00e4",
+      "url": "https://open.spotify.com/track/4xssjWxaVGboNtqXbtZRqV"
     },
     {
       "album": {
@@ -8315,6 +8351,24 @@
     },
     {
       "album": {
+        "name": "Juhannusvalssi",
+        "url": "https://open.spotify.com/album/6FUG0ajVmHL4lhSn0omaWc"
+      },
+      "artists": [
+        {
+          "name": "helmi marleena",
+          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224313,
+      "name": "Juhannusvalssi",
+      "url": "https://open.spotify.com/track/0lvrxwyl1PwFPrqjtQ7MPH"
+    },
+    {
+      "album": {
         "name": "Jumalat juhlivat \u00f6isin",
         "url": "https://open.spotify.com/album/2oj7x1lNyktgT53TG3eJdv"
       },
@@ -8628,7 +8682,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 260869,
       "name": "Kaksi lensi yli k\u00e4enpes\u00e4n",
       "url": "https://open.spotify.com/track/3ZHJj8COm4waKlogKExd3H"
@@ -8990,7 +9044,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 195770,
       "name": "kerro kerro kuvastin",
       "url": "https://open.spotify.com/track/7H93gPvGL8uwKZkUB6zVDH"
@@ -12739,6 +12793,28 @@
     },
     {
       "album": {
+        "name": "Mustat sunnuntait",
+        "url": "https://open.spotify.com/album/5nEHG9euDNk3K0sXmbKUKA"
+      },
+      "artists": [
+        {
+          "name": "Jemina",
+          "url": "https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA"
+        },
+        {
+          "name": "Aatulove",
+          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183461,
+      "name": "Mustat sunnuntait",
+      "url": "https://open.spotify.com/track/5WXY2UveEaXUtJhVEXDpD0"
+    },
+    {
+      "album": {
         "name": "Muuttunut",
         "url": "https://open.spotify.com/album/4d9ofVE4V24sPux4vl5hMU"
       },
@@ -15746,7 +15822,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 172969,
       "name": "Radio p\u00e4\u00e4lle",
       "url": "https://open.spotify.com/track/3BnuOAB4vQY2v7wB2ObAea"
@@ -15800,7 +15876,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 242640,
       "name": "Rakastan teit\u00e4 kaikkia",
       "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
@@ -17797,6 +17873,24 @@
     },
     {
       "album": {
+        "name": "Smuutti (Johanna) [feat. Nector Vordis]",
+        "url": "https://open.spotify.com/album/3SPRyuO4bSlbO1HEH1jbfi"
+      },
+      "artists": [
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/1yahk94j3shgcXKUyYk0Na"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217802,
+      "name": "Smuutti (Johanna) [feat. Nector Vordis]",
+      "url": "https://open.spotify.com/track/3aBSChTFXVBcAMN8pEbVRW"
+    },
+    {
+      "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
@@ -19208,7 +19302,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 168906,
       "name": "Takas sun luo",
       "url": "https://open.spotify.com/track/24AvVcuQHJg5EkTwOGqkHk"
@@ -19456,6 +19550,28 @@
       "duration_ms": 159255,
       "name": "Teatterii",
       "url": "https://open.spotify.com/track/7unJcils43dvDrUjadoyI5"
+    },
+    {
+      "album": {
+        "name": "Tee Mulle Mit\u00e4 Vaan",
+        "url": "https://open.spotify.com/album/5J5jLCfdxzp2fqbDUzW3Dj"
+      },
+      "artists": [
+        {
+          "name": "Aston Kalmari",
+          "url": "https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ"
+        },
+        {
+          "name": "Johanna von Hertzen",
+          "url": "https://open.spotify.com/artist/1vXWdiJwy9Lk0I4MKpRISB"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228852,
+      "name": "Tee Mulle Mit\u00e4 Vaan",
+      "url": "https://open.spotify.com/track/225v95FOaSABtxkvndBTzk"
     },
     {
       "album": {
@@ -21836,7 +21952,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 201341,
       "name": "Viimeiseen hengenvetoon",
       "url": "https://open.spotify.com/track/4t3vRAfFDA9vuXE6iFAT7q"

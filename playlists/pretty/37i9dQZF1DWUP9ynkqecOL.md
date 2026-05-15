@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,207 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,210 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 49 | [DUALQ](https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [DUALQ](https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ) | 3:55 |
 | 50 | [Zamba para Olvidar](https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Los Pasos Labrados](https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS) | 5:05 |
 | 51 | [Suéltalo](https://open.spotify.com/track/2GduMjneBXAVXwnwkgrxCh) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [AMA](https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI) | 4:11 |
-| 52 | [Atahualpa](https://open.spotify.com/track/19d9NJpNn4ZGYxcqzCrM7K) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym) | [La Danza](https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL) | 4:05 |
+| 52 | [Como la Cigarra](https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como la Cigarra](https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH) | 4:09 |
 | 53 | [Lupuna](https://open.spotify.com/track/5LTk1XzBCaTz20Ofd60KTC) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Claudio Reche](https://open.spotify.com/artist/6kfpY9G6unVKEBsr8CdqQJ) | [Lupuna](https://open.spotify.com/album/19nZKevjR88xBmIl8qXv0F) | 7:13 |
 | 54 | [Que Bailen](https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Que Bailen](https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP) | 5:14 |
 | 55 | [Antiguos Dueños de las Flechas](https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Tonolec](https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc) | 4:24 |
 | 56 | [A la Mañanita](https://open.spotify.com/track/5zNvRx6WBrZu2aYm6oY2Yc) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Gozar Hasta Que Me Ausente](https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP) | 4:37 |
-| 57 | [Como la Cigarra](https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como la Cigarra](https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH) | 4:09 |
+| 57 | [Atahualpa](https://open.spotify.com/track/19d9NJpNn4ZGYxcqzCrM7K) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym) | [La Danza](https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL) | 4:05 |
 | 58 | [Caracol](https://open.spotify.com/track/6xwFHo1JqCygt44XjshESr) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/57QX9cwsgpXluNSKfytRvm) | 4:10 |
 | 59 | [Susurro \- Matanza Remix](https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Susurro \(Matanza Remix\)](https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD) | 5:02 |
 | 60 | [CUMBIA ORIENTAL](https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [La Montaña Sin Nombre II](https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs) | 6:02 |

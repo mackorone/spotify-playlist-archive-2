@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: goethe
 
-1,783 songs - 4 day 11 hr 40 min
+1,784 songs - 4 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,7 +821,7 @@
 | [あの娘の胸に飛びこんで！](https://open.spotify.com/track/6Wsnt2TWCmyio1saGNJqg2) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [あの娘の胸に飛びこんで！](https://open.spotify.com/album/5uMfIrYbKHnMjLnMTN4TbM) | 2:13 | 2024-01-18 | 2024-06-01 |
 | [あの月にかかる雲のような](https://open.spotify.com/track/1bQIU5eyQ4m3vm2EHztpRK) | [ammo](https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx) | [あの月にかかる雲のような](https://open.spotify.com/album/77MoVmdRPOFy0c71vIbRw9) | 3:33 | 2025-05-27 | 2025-07-13 |
 | [あむりた](https://open.spotify.com/track/1A1kuWhja283UavUrcwc4l) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [あむりた](https://open.spotify.com/album/2qaI39PDmsIbE4p62Tl3eC) | 4:00 | 2026-02-11 | 2026-05-13 |
-| [ありがとう、ロックンロール](https://open.spotify.com/track/5IXlFGg8M1JD1j0l4DP7wo) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [ありがとう、ロックンロール](https://open.spotify.com/album/0NDKp63QJVSLEoNpbMyVMP) | 5:18 | 2026-03-03 |  |
+| [ありがとう、ロックンロール](https://open.spotify.com/track/5IXlFGg8M1JD1j0l4DP7wo) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [ありがとう、ロックンロール](https://open.spotify.com/album/0NDKp63QJVSLEoNpbMyVMP) | 5:18 | 2026-03-03 | 2026-05-15 |
 | [ありふれた日常](https://open.spotify.com/track/24b1Aq38e9rGAqxDHrScLB) | [明くる夜の羊](https://open.spotify.com/artist/0a6W3KiBwHJQwCbh5blGwi) | [ありふれた日常](https://open.spotify.com/album/0OoHqZ68DAwpnVsQhypGjk) | 4:07 | 2026-02-11 | 2026-03-11 |
 | [あんなつぁ](https://open.spotify.com/track/4uHm18zMsbT9e8vukQUlEd) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [ROMANTIC LOVE](https://open.spotify.com/album/7E0ksEexysVceoijCZfooz) | 5:15 | 2023-07-27 | 2023-08-17 |
 | [いけないサンタ](https://open.spotify.com/track/0BpocnVyMNs8DWgnGQGcjs) | [Adult family](https://open.spotify.com/artist/7o35FqTWnBakLsDuwp3poA) | [いけないサンタ](https://open.spotify.com/album/2uFRmKBA9gh0d0yVxtsqxj) | 3:17 | 2024-12-17 | 2025-03-08 |
@@ -1463,6 +1463,7 @@
 | [忘れてしまいそう](https://open.spotify.com/track/7ANRDMXL1yKnJ5pGwuvXAU) | [Trooper Salute](https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL) | [Trooper Salute 2](https://open.spotify.com/album/5r9Ysu2h2WSv26ArIAzX5j) | 6:27 | 2025-12-16 | 2026-01-24 |
 | [忘愛](https://open.spotify.com/track/1a5xbhxEtN3Iz0CIgJPBgA) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [忘愛](https://open.spotify.com/album/1zyInbeCTglw09GThsJMps) | 3:24 | 2025-04-22 | 2025-11-05 |
 | [忠犬ボク公](https://open.spotify.com/track/161T1ZEi6tvZgNL1GvKG01) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [忠犬ボク公](https://open.spotify.com/album/070QDEVBG8huAaUesEaUUo) | 4:37 | 2024-12-17 | 2025-03-26 |
+| [思い出はまだ死なない](https://open.spotify.com/track/3tM6Sg35DNgitCchWVhxWX) | [Ayllton](https://open.spotify.com/artist/6pZ4Cwi0ZENOIima6QgoGH) | [思い出はまだ死なない](https://open.spotify.com/album/40VgsiLFuO6Y4Z5PwSaC6Q) | 3:26 | 2026-05-13 |  |
 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 | 2023-11-14 | 2024-12-18 |
 | [怪獣ブーム](https://open.spotify.com/track/6NWcnGF1S26WmSIwg25umo) | [うたのじかん](https://open.spotify.com/artist/2f4r1lxt80NK2wyZlR44sy) | [怪獣ブーム](https://open.spotify.com/album/0m9Ox8Byh4F6qDYAc01K5P) | 3:18 | 2024-02-22 | 2024-02-24 |
 | [怪盗](https://open.spotify.com/track/2SA6Z068OdiCJDx1VBLAXR) | [DeNeel](https://open.spotify.com/artist/4Z4FrPA5tZFztkxVw4XfdX) | [怪盗](https://open.spotify.com/album/6IKHqw31Kt0EkH4vVPeiE0) | 3:41 | 2024-07-02 | 2024-07-24 |

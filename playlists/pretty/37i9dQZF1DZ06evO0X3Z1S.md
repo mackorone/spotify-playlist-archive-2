@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,157 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,163 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 14 | [Rise](https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:14 |
 | 15 | [Mountains](https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Mountains](https://open.spotify.com/album/2pgyKAkm9xy1CtxjLusURR) | 2:58 |
 | 16 | [Mama \- Acoustic](https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl) | 3:12 |
-| 17 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 |
+| 17 | [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [EYLR](https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 |
 | 18 | [By Your Side](https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:21 |
-| 19 | [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [EYLR](https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 |
+| 19 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 |
 | 20 | [My Head & My Heart \- Jonas Blue Remix](https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Head & My Heart \(Jonas Blue Remix\)](https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe) | 2:59 |
 | 21 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 |
 | 22 | [Polaroid](https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 49 | [Angles](https://open.spotify.com/track/1YIhmgvi4tTDD1VAiWQsIP) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Angles](https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro) | 2:45 |
 | 50 | [Billboard](https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW) | [Billboard](https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr) | 2:52 |
 
-Snapshot ID: `agJtgAAAAAC9p1UNLrEvmThAFDFjSmHw`
+Snapshot ID: `agO/AAAAAAD/aq5a9Uuthn8DY7C0LSg0`

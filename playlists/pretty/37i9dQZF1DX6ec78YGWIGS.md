@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Juliana Gattas & Juana Rozas
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,423 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,383 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 3 | [Girl's Girl \- Girls Trip](https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:15 |
 | 4 | [Me Gusta](https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Gusta](https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg) | 2:37 |
 | 5 | [90s](https://open.spotify.com/track/4JVmGFR0Qfx2XzF2pNg46Z) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [TURR4ZO](https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU) | 2:49 |
-| 6 | [Crimen](https://open.spotify.com/track/7siEBBuqbnAsWx54YRD6sx) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [Crimen](https://open.spotify.com/album/60fSjEV31g6aydYD0QffR8) | 3:05 |
-| 7 | [otro beso](https://open.spotify.com/track/1HJ2gcYoSL1pXDQRXJKRO2) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [otro beso](https://open.spotify.com/album/6GxesR7ZNlURvWfbp0uxMy) | 3:34 |
-| 8 | [Soy Increíble](https://open.spotify.com/track/62j9HqMqmQZNjW2GtaAhXg) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 3:09 |
-| 9 | [DOS HORAS](https://open.spotify.com/track/2exXEndpd1LniGNwCA2Ea3) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [DOS HORAS](https://open.spotify.com/album/0zOZ3ubXanRAlG2AnXM6ec) | 2:17 |
-| 10 | [MEJOR QUE VOS](https://open.spotify.com/track/36x1AGih4bK9cnPjbbChgG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA I](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 2:46 |
-| 11 | [FIFA](https://open.spotify.com/track/6vCJt3yr9ww6EtnaSnx1Mg) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FIFA](https://open.spotify.com/album/213uunndQ2NsIwSA6ryD3e) | 3:27 |
-| 12 | [Amor de contrabando](https://open.spotify.com/track/2KaRzWbOaNe2IFDMAB6UiH) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [Amor de contrabando](https://open.spotify.com/album/4ZbVuroyQU6o49wEEU6MHI) | 2:51 |
-| 13 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
-| 14 | [SANTO](https://open.spotify.com/track/4aNc07b8Fklka1TwNtQjEL) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [SANTO](https://open.spotify.com/album/7DSxMZEpdZ1fkOO2ghdjwt) | 2:54 |
-| 15 | [Tu Misterioso Alguien](https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop, Vol\. 2](https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl) | 4:04 |
-| 16 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 |
+| 6 | [DAME CALOR](https://open.spotify.com/track/1dnuSENzX9bX0ARx0QPyM5) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i) | [DAME CALOR](https://open.spotify.com/album/6p2xnAkfDVOWL9xXeff1aL) | 2:26 |
+| 7 | [Crimen](https://open.spotify.com/track/7siEBBuqbnAsWx54YRD6sx) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [Crimen](https://open.spotify.com/album/60fSjEV31g6aydYD0QffR8) | 3:05 |
+| 8 | [otro beso](https://open.spotify.com/track/1HJ2gcYoSL1pXDQRXJKRO2) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [otro beso](https://open.spotify.com/album/6GxesR7ZNlURvWfbp0uxMy) | 3:34 |
+| 9 | [Soy Increíble](https://open.spotify.com/track/62j9HqMqmQZNjW2GtaAhXg) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 3:09 |
+| 10 | [DOS HORAS](https://open.spotify.com/track/2exXEndpd1LniGNwCA2Ea3) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [DOS HORAS](https://open.spotify.com/album/0zOZ3ubXanRAlG2AnXM6ec) | 2:17 |
+| 11 | [MEJOR QUE VOS](https://open.spotify.com/track/36x1AGih4bK9cnPjbbChgG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA I](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 2:46 |
+| 12 | [FIFA](https://open.spotify.com/track/6vCJt3yr9ww6EtnaSnx1Mg) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FIFA](https://open.spotify.com/album/213uunndQ2NsIwSA6ryD3e) | 3:27 |
+| 13 | [Amor de contrabando](https://open.spotify.com/track/2KaRzWbOaNe2IFDMAB6UiH) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [Amor de contrabando](https://open.spotify.com/album/4ZbVuroyQU6o49wEEU6MHI) | 2:51 |
+| 14 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
+| 15 | [SANTO](https://open.spotify.com/track/4aNc07b8Fklka1TwNtQjEL) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [SANTO](https://open.spotify.com/album/7DSxMZEpdZ1fkOO2ghdjwt) | 2:54 |
+| 16 | [Tu Misterioso Alguien](https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop, Vol\. 2](https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl) | 4:04 |
 | 17 | [CHIKA HIPPIE](https://open.spotify.com/track/45ib6YOsvuza6oIgt7r5d8) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [CHIKA HIPPIE](https://open.spotify.com/album/0RuXEY51QnPg4iqZBo886a) | 2:25 |
 | 18 | [crazy dance](https://open.spotify.com/track/6w9RN1SWsNEuCvG8HrA3SS) | [soffyy](https://open.spotify.com/artist/2mX8G9cpmx2u2EqorBZtDr) | [crazy dance](https://open.spotify.com/album/04wM2pMxP5MDXHmEXbQuLY) | 2:39 |
 | 19 | [Avión a Madrid](https://open.spotify.com/track/3i4fuDPACqqQJkzoymalcu) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Avión a Madrid](https://open.spotify.com/album/27HCN7UHjsGX424Ev68llq) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [La Puerta](https://open.spotify.com/track/3UM9iZ2kRmxMlXGAheVq4k) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [La Puerta](https://open.spotify.com/album/073fIVU5FAaX5VTW2TUBlk) | 2:46 |
 | 100 | [Te Arrepentiste](https://open.spotify.com/track/5UzLrVHOCQjBQN75pA5wEu) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Te Arrepentiste](https://open.spotify.com/album/6eR0hd0liviKVTLwUH5hei) | 1:57 |
 
-Snapshot ID: `AAAAACve3iauPCIfh+Z+uvIp4W1tD5TW`
+Snapshot ID: `AAAAAPgwmucoaWUGYkj+wgzIBElZsHi7`

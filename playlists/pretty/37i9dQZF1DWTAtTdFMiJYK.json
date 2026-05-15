@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Janisht Joshi",
-  "num_followers": 192283,
+  "num_followers": 192293,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -21,7 +21,7 @@
         },
         {
           "name": "KBIR",
-          "url": "https://open.spotify.com/artist/2BYoB76uqCsFYW2kTd3tBc"
+          "url": "https://open.spotify.com/artist/2RZbND58xGDCauWbim26Ef"
         }
       ],
       "duration_ms": 203434,
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-05-11 07:11:22",
       "album": {
+        "name": "TERA PATA",
+        "url": "https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "TERA PATA",
+      "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
+    },
+    {
+      "added_at": "2026-05-11 07:11:22",
+      "album": {
         "name": "Woh",
         "url": "https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2026-05-11 07:11:22",
       "album": {
-        "name": "TERA PATA",
-        "url": "https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "TERA PATA",
-      "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
-    },
-    {
-      "added_at": "2026-05-11 07:11:22",
-      "album": {
         "name": "Uljhan",
         "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
       },
@@ -719,26 +719,6 @@
     {
       "added_at": "2026-05-11 07:11:22",
       "album": {
-        "name": "Patang (From \"UR Debut\")",
-        "url": "https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O"
-      },
-      "artists": [
-        {
-          "name": "Abeer Chopra",
-          "url": "https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF"
-        },
-        {
-          "name": "Arav",
-          "url": "https://open.spotify.com/artist/1S7onr5TrZWAXIWUO2BhNG"
-        }
-      ],
-      "duration_ms": 178222,
-      "name": "Patang (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda"
-    },
-    {
-      "added_at": "2026-05-11 07:11:22",
-      "album": {
         "name": "Aasmaan Jaley",
         "url": "https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 166615,
       "name": "Aasmaan Jaley",
       "url": "https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6"
+    },
+    {
+      "added_at": "2026-05-11 07:11:22",
+      "album": {
+        "name": "Patang (From \"UR Debut\")",
+        "url": "https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O"
+      },
+      "artists": [
+        {
+          "name": "Abeer Chopra",
+          "url": "https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF"
+        },
+        {
+          "name": "Arav",
+          "url": "https://open.spotify.com/artist/1S7onr5TrZWAXIWUO2BhNG"
+        }
+      ],
+      "duration_ms": 178222,
+      "name": "Patang (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda"
     },
     {
       "added_at": "2026-05-11 07:11:22",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-11 07:11:22",
       "album": {
-        "name": "Udd Chala",
-        "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 286181,
-      "name": "Udd Chala",
-      "url": "https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I"
-    },
-    {
-      "added_at": "2026-05-11 07:11:22",
-      "album": {
         "name": "Jaadugari",
         "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 153882,
       "name": "Jaadugari",
       "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
+    },
+    {
+      "added_at": "2026-05-11 07:11:22",
+      "album": {
+        "name": "Udd Chala",
+        "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 286181,
+      "name": "Udd Chala",
+      "url": "https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I"
     },
     {
       "added_at": "2026-05-11 07:11:22",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-11 07:11:22",
       "album": {
-        "name": "Kahani",
-        "url": "https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 245711,
-      "name": "Kahani",
-      "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
-    },
-    {
-      "added_at": "2026-05-11 07:11:22",
-      "album": {
         "name": "Jee Na Paaye",
         "url": "https://open.spotify.com/album/7ddSBdRGiFibkVZsqEztuL"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 232918,
       "name": "Jee Na Paaye",
       "url": "https://open.spotify.com/track/1IGvo9KLLTHiW35zisOi8I"
+    },
+    {
+      "added_at": "2026-05-11 07:11:22",
+      "album": {
+        "name": "Kahani",
+        "url": "https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 245711,
+      "name": "Kahani",
+      "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
     },
     {
       "added_at": "2026-05-11 07:11:22",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2026-05-11 07:11:22",
       "album": {
+        "name": "Saanware Aijaiyo",
+        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "duration_ms": 234713,
+      "name": "Saanware Aijaiyo",
+      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
+    },
+    {
+      "added_at": "2026-05-11 07:11:22",
+      "album": {
         "name": "Zarii",
         "url": "https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS"
       },
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2026-05-11 07:11:22",
       "album": {
-        "name": "Saanware Aijaiyo",
-        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
-      },
-      "artists": [
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        },
-        {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
-        }
-      ],
-      "duration_ms": 234713,
-      "name": "Saanware Aijaiyo",
-      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
-    },
-    {
-      "added_at": "2026-05-11 07:11:22",
-      "album": {
         "name": "Bhaage Naina",
         "url": "https://open.spotify.com/album/7MNqgKxMEZmaxN0AECvXSl"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-05-11 07:11:22",
       "album": {
-        "name": "Saanjh",
-        "url": "https://open.spotify.com/album/2eselSZqVzpUQXp2SYcamV"
-      },
-      "artists": [
-        {
-          "name": "Kartik Raman",
-          "url": "https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc"
-        }
-      ],
-      "duration_ms": 240870,
-      "name": "Saanjh",
-      "url": "https://open.spotify.com/track/73HnMlPFhxQ4jqvqUWS0qO"
-    },
-    {
-      "added_at": "2026-05-11 07:11:22",
-      "album": {
         "name": "Sahaare",
         "url": "https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 188860,
       "name": "Sahaare",
       "url": "https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0"
+    },
+    {
+      "added_at": "2026-05-11 07:11:22",
+      "album": {
+        "name": "Saanjh",
+        "url": "https://open.spotify.com/album/2eselSZqVzpUQXp2SYcamV"
+      },
+      "artists": [
+        {
+          "name": "Kartik Raman",
+          "url": "https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc"
+        }
+      ],
+      "duration_ms": 240870,
+      "name": "Saanjh",
+      "url": "https://open.spotify.com/track/73HnMlPFhxQ4jqvqUWS0qO"
     },
     {
       "added_at": "2026-05-11 07:11:22",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-11 07:11:22",
       "album": {
-        "name": "badlaan di chhaan",
-        "url": "https://open.spotify.com/album/6stiQqK1O1bjc2TGXRssAo"
-      },
-      "artists": [
-        {
-          "name": "Anmol Singh",
-          "url": "https://open.spotify.com/artist/4ty54Szfs0rCovzY1bqNek"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "badlaan di chhaan",
-      "url": "https://open.spotify.com/track/7n2wOwh937U0lEOuVjw6Ym"
-    },
-    {
-      "added_at": "2026-05-11 07:11:22",
-      "album": {
         "name": "Tanhaiyaan",
         "url": "https://open.spotify.com/album/0C8ZC5kcAPqOPJzW9DWfRl"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 189729,
       "name": "Tanhaiyaan",
       "url": "https://open.spotify.com/track/6i4mVSCgUPbpNQxtQnKqe1"
+    },
+    {
+      "added_at": "2026-05-11 07:11:22",
+      "album": {
+        "name": "badlaan di chhaan",
+        "url": "https://open.spotify.com/album/6stiQqK1O1bjc2TGXRssAo"
+      },
+      "artists": [
+        {
+          "name": "Anmol Singh",
+          "url": "https://open.spotify.com/artist/4ty54Szfs0rCovzY1bqNek"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "badlaan di chhaan",
+      "url": "https://open.spotify.com/track/7n2wOwh937U0lEOuVjw6Ym"
     },
     {
       "added_at": "2026-05-11 07:11:22",

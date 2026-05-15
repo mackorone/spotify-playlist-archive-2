@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-243 songs - 15 hr 18 min
+244 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bye 3x](https://open.spotify.com/track/7q2fWxTVz2g6ZERBlfs5ow) | [Mika Yusay](https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx) | [Bye 3x](https://open.spotify.com/album/17UjsMHzFxuETWRC7mkpon) | 2:56 | 2025-11-10 | 2025-11-25 |
 | [Catriona](https://open.spotify.com/track/4YMfE4r1JWADFw2Fn74XW2) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw) | [Catriona](https://open.spotify.com/album/6epJqGK57I0W0PMN2kyTso) | 3:24 | 2023-10-20 | 2024-06-14 |
 | [Cavite's Poison](https://open.spotify.com/track/0HDHCK3IGLgSFZpE8hvsa9) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Cavite's Poison](https://open.spotify.com/album/297iyjwfkLaZ9AAqceG1lj) | 3:31 | 2024-05-08 | 2024-07-18 |
+| [CHANGES](https://open.spotify.com/track/5qKnJc96mwaWTEz9L98Lv0) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [CHANGES](https://open.spotify.com/album/1eGZ7rDg2zkUvXDT1boMDH) | 2:44 | 2026-05-12 |  |
 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 | 2024-02-07 | 2025-02-13 |
 | [COMEBACK \(Pabalik sa'yo\)](https://open.spotify.com/track/1FQ3irBgqkO1nq9pP08z2y) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [COMEBACK \(Pabalik sa'yo\)](https://open.spotify.com/album/7rSkioqg7ymbzKCzjTdZvT) | 3:24 | 2026-02-02 | 2026-02-19 |
 | [Could Be Something](https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Could Be Something](https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI) | 3:16 | 2023-10-20 | 2025-01-15 |
@@ -194,7 +195,7 @@
 | [Sa'yo](https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Monodramatic](https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib) | 4:13 | 2023-10-25 | 2024-04-19 |
 | [Saan\-saan](https://open.spotify.com/track/63gFonBTMqMR8BRJz0qVXp) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [LUXEMBOURG](https://open.spotify.com/album/7kZMLlLjTEFwJ7NNmjxYcj) | 4:13 | 2026-03-30 | 2026-04-09 |
 | [Sabihin Lang \(Kung Ayaw Mo\)](https://open.spotify.com/track/56SW6kPw7xMoFt7kBoegP5) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Sabihin Lang \(Kung Ayaw Mo\)](https://open.spotify.com/album/1qkSx3ukJSeCnHqQlnLVsa) | 3:31 | 2025-08-08 | 2025-11-08 |
-| [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 | 2023-10-25 |  |
+| [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 | 2023-10-25 | 2026-05-15 |
 | [Sakote](https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d) | [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v) | [Sakote](https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy) | 4:49 | 2024-02-27 | 2025-02-26 |
 | [Samahan Mo Ako](https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Samahan Mo Ako](https://open.spotify.com/album/3cQnZJpy16sCjo52KUiEDL) | 3:32 | 2024-02-27 | 2024-12-09 |
 | [Sampung Mga Daliri](https://open.spotify.com/track/2MHg2BVPaTgiCUDWp2jZqf) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy), [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [Sampung Mga Daliri](https://open.spotify.com/album/0mcwOiM8mrg5UGnZE02nWv) | 3:39 | 2025-02-12 | 2025-08-14 |

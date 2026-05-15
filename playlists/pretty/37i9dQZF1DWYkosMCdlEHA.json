@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 153926,
+  "num_followers": 153933,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2026-03-27 15:41:55",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+        "name": "Ao Vivo em Buenos Aires",
+        "url": "https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD"
       },
       "artists": [
         {
           "name": "Armandinho",
           "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        },
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
         }
       ],
-      "duration_ms": 205856,
-      "name": "Onda do Arraial - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y"
+      "duration_ms": 187199,
+      "name": "Versos Simples - Ao Vivo",
+      "url": "https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG"
     },
     {
       "added_at": "2026-03-27 15:41:55",
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2026-03-27 15:41:55",
       "album": {
-        "name": "Ao Vivo em Buenos Aires",
-        "url": "https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD"
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
       },
       "artists": [
         {
           "name": "Armandinho",
           "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        },
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
         }
       ],
-      "duration_ms": 187199,
-      "name": "Versos Simples - Ao Vivo",
-      "url": "https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG"
+      "duration_ms": 205856,
+      "name": "Onda do Arraial - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y"
     },
     {
       "added_at": "2026-03-27 15:41:55",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-03-27 15:41:55",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 287159,
-      "name": "A Ilha - Ao Vivo",
-      "url": "https://open.spotify.com/track/4Wls6Mo3QpCTnfa1kSEs6X"
-    },
-    {
-      "added_at": "2026-03-27 15:41:55",
-      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
         "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 211373,
       "name": "Voc\u00ea Me Encantou Demais - Ao Vivo",
       "url": "https://open.spotify.com/track/4bCcolgdC8YsXUiqRgEgRU"
+    },
+    {
+      "added_at": "2026-03-27 15:41:55",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 287159,
+      "name": "A Ilha - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Wls6Mo3QpCTnfa1kSEs6X"
     },
     {
       "added_at": "2026-03-27 15:41:55",

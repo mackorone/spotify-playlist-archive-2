@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Vidusan Kaneswaran
 
-780 songs - 1 day 20 hr 12 min
+782 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 | 2023-12-15 | 2024-01-03 |
 | [AntiDrugAnthem](https://open.spotify.com/track/17MWq7zp3NOgLO6Q6at59I) | [Gaana Vinoth](https://open.spotify.com/artist/7N1TA78vXJ1x66NWgSKMMB), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I) | [AntiDrugAnthem](https://open.spotify.com/album/39cUVaQfAHTSGOSZnu2OqB) | 1:51 | 2024-07-09 | 2024-08-11 |
 | [Arakkiye](https://open.spotify.com/track/1wAuEy3S7IMkb4e2z71TKk) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V) | [Arakkiye](https://open.spotify.com/album/2wz4GI1MXwXTZMtJFFBsp7) | 3:47 | 2024-09-20 | 2025-02-01 |
+| [Arasi](https://open.spotify.com/track/7F1LALzf4IhVQ7azvc9trG) | [Haakash](https://open.spotify.com/artist/4srKc15ZZzjnAbr6NYhju0) | [Arasi](https://open.spotify.com/album/5j4nerLGYSNhuVKaoPAGlh) | 3:12 | 2026-05-14 |  |
 | [Atha Mava](https://open.spotify.com/track/0Xq6zAQzmQTiBckOU4BSVA) | [Neon Kaathadi](https://open.spotify.com/artist/3wQhNdGTR70QKpK8LgHde1) | [Atha Mava](https://open.spotify.com/album/0A6W0ReWy6DnU5NmcqMyK9) | 3:03 | 2025-06-04 | 2026-01-15 |
 | [ATHIKAALAI MUDHAL](https://open.spotify.com/track/6OwohvcuvKdUl4vihhYvQf) | [KARKAY](https://open.spotify.com/artist/00YboNb94lHeYpUmmslkqU) | [ATHIKAALAI MUDHAL](https://open.spotify.com/album/4RZj9SVIJwOYgZjqQPcgDT) | 3:37 | 2024-02-14 | 2024-05-21 |
 | [ATMA](https://open.spotify.com/track/3TLUrerWmrfDo6CnxKwS4u) | [PAX DHARMA](https://open.spotify.com/artist/62QHD5zKMKEPataClvGpeJ) | [ATMA](https://open.spotify.com/album/5fgQTko22Vt1yXZ84yW6Sf) | 3:05 | 2025-11-03 | 2026-03-27 |
@@ -180,6 +181,7 @@
 | [i Aval](https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/5mA7g4MIR3WHIZVTiRyDsJ) | 2:49 | 2023-04-06 | 2023-10-07 |
 | [I Dont Know How I Feel](https://open.spotify.com/track/7to9BxAFZuACql3MzwJrkW) | [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [I Dont Know How I Feel](https://open.spotify.com/album/0PJeYQQnTBLlMxVfQsXBQe) | 3:21 | 2024-01-31 | 2024-02-22 |
 | [I Love You \- From "Think Indie"](https://open.spotify.com/track/6qLhGqkpNeCScdqW1vaXDK) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX), [A\-Gan](https://open.spotify.com/artist/3Npa3oPCYQ8BXQ9QzZsseH) | [I Love You \(From "Think Indie"\)](https://open.spotify.com/album/5yVaHl3QMFTJQelPDxhAbf) | 3:29 | 2024-05-16 | 2024-11-12 |
+| [I Love You MA](https://open.spotify.com/track/3ZfxwZtwbv4Lc8ew5V8HGN) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [I Love You MA](https://open.spotify.com/album/5HJchuj36N2O9QfzF6qcOI) | 3:33 | 2026-05-14 |  |
 | [I SEE / LIGHT](https://open.spotify.com/track/3RmQl1DaiK7Tfkpqv8sQX9) | [Akroniim](https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4), [JBE](https://open.spotify.com/artist/65QGjfyW0qmCA5710AfZIQ) | [I SEE / LIGHT](https://open.spotify.com/album/5j9W2g8zxIvWEquGIXWPsi) | 3:41 | 2023-08-29 | 2024-02-10 |
 | [I'm Just Fine](https://open.spotify.com/track/4zN6Dvjgmo9riaT7JgAKHF) | [Akira Da Rapwolf](https://open.spotify.com/artist/4xQxr2dCxTIZRWNTxF3Km4) | [I'm Just Fine](https://open.spotify.com/album/1RNC4DxSlo0Wgnx641pzTy) | 3:38 | 2024-06-05 | 2024-08-11 |
 | [I'm Single](https://open.spotify.com/track/6XuF9uDYJDwhoEBFR9naeq) | [L.V\. Muthukumarasamy](https://open.spotify.com/artist/1bLTExC3vBstps2u92ae6J), [Harish Kalyan](https://open.spotify.com/artist/6BcKl9CndKi18aLEvJa51D) | [I'm Single](https://open.spotify.com/album/7fkCBHxm28G7NVZdE39l4x) | 3:24 | 2025-05-16 | 2026-01-15 |

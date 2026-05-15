@@ -2851,6 +2851,28 @@
     },
     {
       "album": {
+        "name": "BUNGYJUMP",
+        "url": "https://open.spotify.com/album/6jW0jjwQ8zitdN40l3X1II"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146290,
+      "name": "BUNGYJUMP",
+      "url": "https://open.spotify.com/track/3Y2yYaPE9UT8cgtuuLXBvF"
+    },
+    {
+      "album": {
         "name": "YEMAYA",
         "url": "https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx"
       },
@@ -9838,7 +9860,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 129230,
       "name": "Jag & Du",
       "url": "https://open.spotify.com/track/5TWaVJ43j0saiCIrlYJdPe"
@@ -16038,7 +16060,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -19374,6 +19396,28 @@
       "duration_ms": 167550,
       "name": "Verktygsl\u00e5dan",
       "url": "https://open.spotify.com/track/6z1PzNtoUQG2SjWpxb6USn"
+    },
+    {
+      "album": {
+        "name": "Bl\u00e5 Minnen",
+        "url": "https://open.spotify.com/album/13ByjiUBq9febVMy4Vv1vx"
+      },
+      "artists": [
+        {
+          "name": "Von Disco",
+          "url": "https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv"
+        },
+        {
+          "name": "ayaga",
+          "url": "https://open.spotify.com/artist/3lQGBiydiKJ5OyHp9BwpEO"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/6ZLneg9qoP8A6y8dviALMf"
     },
     {
       "album": {

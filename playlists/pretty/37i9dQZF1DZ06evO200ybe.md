@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,183 likes - 49 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,191 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 4 | [Neapolitan Phantasy](https://open.spotify.com/track/20xmXGsOL7nGsFyUxHszm2) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Smog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5v9yUH4MkbT7Wovdz8Y54o) | 3:54 |
 | 5 | [I Fall In Love Too Easily](https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:21 |
 | 6 | [How High The Moon](https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 3:38 |
-| 7 | [Let's Get Lost](https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:43 |
-| 8 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 |
+| 7 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 |
+| 8 | [Let's Get Lost](https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:43 |
 | 9 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 |
 | 10 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 |
 | 11 | [Stardust](https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 4:46 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 48 | [I Remember You \- Remastered 2004](https://open.spotify.com/track/6FYeRy9LuMYTEMXOVCRCJ5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:15 |
 | 49 | [Along In A Crowd](https://open.spotify.com/track/3bb4NlMrZx2oi75KlY4TJ4) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Along In A Crowd](https://open.spotify.com/album/6I9TfOGN2qv1XrkAZpMDgC) | 4:54 |
 
-Snapshot ID: `agJtgAAAAAC+RA2W4OcAiGftmUmityJf`
+Snapshot ID: `agO/AAAAAADKIYgMzBJety9KRD6IEn2i`

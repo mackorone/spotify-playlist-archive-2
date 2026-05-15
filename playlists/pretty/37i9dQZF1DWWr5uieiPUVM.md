@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > e aí tue, como foi o show?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546,845 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,835 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 47 | [Me Deixe Leve](https://open.spotify.com/track/2FY5SkFDjOBqhtNg2ehtz2) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:54 |
 | 48 | [CAM](https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [CAM](https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38) | 2:47 |
 | 49 | [Santo](https://open.spotify.com/track/3LHuL8QHNLs5xJYLha2sxd) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Lucchini](https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3) | [!mortal](https://open.spotify.com/album/2lWpiz4yw5I8VLIQ1dKRdR) | 2:17 |
-| 50 | [Fortal Não Tem Neve](https://open.spotify.com/track/53pmi3jzjIl3Hsikv8qXNG) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [Fortal Não Tem Neve](https://open.spotify.com/album/5fFWAbkfM2gur5ihfN5gJy) | 2:36 |
+| 50 | [FORTAL NÃO TEM NEVE](https://open.spotify.com/track/53pmi3jzjIl3Hsikv8qXNG) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [FORTAL NÃO TEM NEVE](https://open.spotify.com/album/5fFWAbkfM2gur5ihfN5gJy) | 2:36 |
 
 Snapshot ID: `AAAAAHsuHSO1z3BPyjeyfQzbwTQCAkQS`

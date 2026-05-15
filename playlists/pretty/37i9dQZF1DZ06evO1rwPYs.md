@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,399 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,400 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [Azúcar, Azúcar](https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Etc\. Etc\. Etc.](https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv) | 3:00 |
 | 50 | [Amores De Un Día](https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Azúcar Negra](https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt) | 3:50 |
 
-Snapshot ID: `agJtgAAAAACT0BmLCgQZc+NkYJ/b/iTe`
+Snapshot ID: `agO/AAAAAAA2fda+dYJtaYlVaouuHoV+`

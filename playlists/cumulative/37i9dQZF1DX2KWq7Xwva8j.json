@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Gara Dur\u00e1n.",
+  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Alcal\u00e1 Norte.",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -3326,6 +3326,24 @@
       "duration_ms": 198674,
       "name": "los chicos no lloran",
       "url": "https://open.spotify.com/track/2jD6X6gSLtynew2xj6qHRt"
+    },
+    {
+      "album": {
+        "name": "Los Llamados Pitag\u00f3ricos",
+        "url": "https://open.spotify.com/album/6FsxcuAF5nouopLZ5ZE6Kz"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242065,
+      "name": "Los Llamados Pitag\u00f3ricos",
+      "url": "https://open.spotify.com/track/7ydaxAURHTlX3JGOo7JEsW"
     },
     {
       "album": {

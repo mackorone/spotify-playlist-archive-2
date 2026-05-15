@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,229 likes - 70 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,253 likes - 70 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 32 | [Laika.](https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Laika.](https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP) | 3:00 |
 | 33 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 34 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
-| 35 | [Moss](https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Moss](https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc) | 2:51 |
-| 36 | [Carry On \- EarthLife Remix](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Carry On \(EarthLife Remix\)](https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4) | 3:38 |
+| 35 | [Carry On \- EarthLife Remix](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Carry On \(EarthLife Remix\)](https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4) | 3:38 |
+| 36 | [Moss](https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Moss](https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc) | 2:51 |
 | 37 | [Heartless](https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Heartless](https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J) | 4:19 |
 | 38 | [Peg](https://open.spotify.com/track/5aFf1Ubp9V5Ws9p1JIM69V) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [David Bergmüller](https://open.spotify.com/artist/3ft977utbcwtn9thhB5JGw) | [Peg](https://open.spotify.com/album/70lowxiBGWlxk9iI9sEGbg) | 4:11 |
 | 39 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 62 | [Eyes Alive](https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Eyes Alive](https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5) | 6:05 |
 | 63 | [Shades of You \(feat\. Henry Green\) \- Tim Engelhardt Remix](https://open.spotify.com/track/0YXbPIuXsDyRFpA7rLwz3m) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Hiraeth Remixes](https://open.spotify.com/album/5ma5FaYh586UIRYpQihkqC) | 6:37 |
 | 64 | [Oh, Lover \- NTO Remix](https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Oh, Lover \(NTO Remix\)](https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N) | 5:16 |
-| 65 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 |
-| 66 | [Polar](https://open.spotify.com/track/26928XsDiGoSxtYvrGGccl) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Polar](https://open.spotify.com/album/7MlDY9XBpz12WgZP8mG4fI) | 4:21 |
+| 65 | [Polar](https://open.spotify.com/track/26928XsDiGoSxtYvrGGccl) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Polar](https://open.spotify.com/album/7MlDY9XBpz12WgZP8mG4fI) | 4:21 |
+| 66 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 |
 | 67 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
 | 68 | [Ve](https://open.spotify.com/track/5HngP2bVbIcEC4tHVkCgNc) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Ve](https://open.spotify.com/album/1yEmW3JlHzrmKNoheAyYNA) | 5:04 |
 | 69 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |

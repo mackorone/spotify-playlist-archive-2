@@ -2,9 +2,9 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: F3miii
+> New tunes from Ireland for your discovery\. Cover: THEATRE
 
-442 songs - 1 day 0 hr 19 min
+443 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2 Be Mine](https://open.spotify.com/track/02HC54rBCIgeJ8rpDUO8sp) | [REIMOND](https://open.spotify.com/artist/7z955zaSIBYtTHEOql7BL5) | [2 Be Mine](https://open.spotify.com/album/0er1h4ROpxoQTypU2tAmKz) | 3:00 | 2024-08-16 | 2025-02-28 |
 | [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 | 2024-02-02 | 2024-08-03 |
 | [2000SEVEN](https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [2000SEVEN](https://open.spotify.com/album/2hwa7JPhA6ZFPBKuLKIHD1) | 2:41 | 2024-07-19 | 2025-02-01 |
-| [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 | 2025-11-14 |  |
+| [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 | 2025-11-14 | 2026-05-15 |
 | [21](https://open.spotify.com/track/19DYo3z33u99Ic14HbqUDC) | [NAOMI JEREMIAH](https://open.spotify.com/artist/4mhXKME7vxoBUyjO7uIU5h) | [21](https://open.spotify.com/album/07fOd3xbSXCr0sd16Mtkk2) | 3:01 | 2024-02-02 | 2024-02-16 |
 | [25BAG](https://open.spotify.com/track/6gTr4jaNiIUCz8pwA4UrYN) | [Kurtis](https://open.spotify.com/artist/1ZV5RU7ViRwlv7vqWuOHRf) | [25BAG](https://open.spotify.com/album/79JXoGgUwWV1QnGO6B8rnc) | 2:13 | 2024-07-19 | 2025-01-10 |
 | [2gether4ever](https://open.spotify.com/track/3Jkc22l04XEYYHZBEh3kbI) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [2gether4ever](https://open.spotify.com/album/2s0G1l2d6DKZrdBkK9kVGG) | 3:30 | 2025-11-14 | 2026-04-24 |
@@ -87,6 +87,7 @@
 | [cigarette chokehold](https://open.spotify.com/track/6VR11ug53Ni5IO8iyFFWZI) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [the story after they're gone](https://open.spotify.com/album/1pFN6A3Rx1tMgF3TQGaBuj) | 3:53 | 2024-10-10 | 2025-05-31 |
 | [Clay Pigeons](https://open.spotify.com/track/4DaMcMLXVzMsOVznW9R6Kl) | [Muireann Bradley](https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl) | [Clay Pigeons](https://open.spotify.com/album/4TQJvGY0IVCuUltUFlclPX) | 3:44 | 2025-10-10 | 2026-03-18 |
 | [Cold](https://open.spotify.com/track/20d5r7dJunyrLNXZlv7jP5) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Cold](https://open.spotify.com/album/6Xq14tixwMMTX84gTGuyIP) | 4:08 | 2024-06-13 | 2024-12-07 |
+| [Come & See](https://open.spotify.com/track/2cnvQj0VrdbjQnDbj3tF3D) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH), [Solocoan](https://open.spotify.com/artist/6mXsXWRSwL3TDPk5sxNuXX) | [Come & See](https://open.spotify.com/album/0DuP3lkParVjOhuhBiGuV9) | 3:42 | 2026-05-14 |  |
 | [Come And See](https://open.spotify.com/track/2XGRM9Z3mg71Gsq5saAtbP) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 5:27 | 2024-09-12 | 2025-04-24 |
 | [Comedy Jam](https://open.spotify.com/track/0BJiQ5rBPpIEanpZCWumAV) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [WHAT WAS THE QUESTION \(Deluxe'd\)](https://open.spotify.com/album/2PDLo9TCl6ecDQTHlBXy9U) | 1:43 | 2024-11-15 | 2025-06-20 |
 | [Compliment Strike](https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Compliment Strike](https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC) | 3:24 | 2024-05-09 | 2024-09-06 |

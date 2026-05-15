@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-513 songs - 1 day 7 hr 5 min
+514 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 | 2026-02-13 |  |
 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 | 2022-11-25 | 2023-02-22 |
 | [Just for Tonight](https://open.spotify.com/track/3f2MxvJB9kQYSJFADpwE0A) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Skin & Bone](https://open.spotify.com/album/1m4YyZeN2OxQPguJoCcJRW) | 2:43 | 2025-06-20 | 2025-11-08 |
+| [Karaoke Bar](https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Karaoke Bar](https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa) | 3:24 | 2026-05-14 |  |
 | [keep my head down](https://open.spotify.com/track/5dspUfbKWu1IoKZwQ5zX4h) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [keep my head down](https://open.spotify.com/album/6dA3pcAClcZPbEnKajxiuC) | 4:11 | 2025-02-14 | 2025-02-28 |
 | [KIKI](https://open.spotify.com/track/0pW6oqHyCPIxwxWzTumzGZ) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [KIKI](https://open.spotify.com/album/6S1h8bRrNu5yS3gngQJO4K) | 2:41 | 2025-01-23 | 2025-03-15 |
 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 | 2022-11-25 |  |
@@ -386,7 +387,7 @@
 | [rotting with the moon](https://open.spotify.com/track/5R9Z8vCzqgtaqwEvlzi5EZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [rotting with the moon](https://open.spotify.com/album/0TTYZz6VfZb0mb9YJfmEqM) | 2:26 | 2025-11-06 | 2026-01-17 |
 | [Rupture \- Version acoustique](https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [Rupture \(Version acoustique\)](https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun) | 2:30 | 2024-10-25 | 2025-10-05 |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-10-04 | 2025-03-02 |
-| [safe & sound](https://open.spotify.com/track/6fWZFYQ1EMQz0JaOMqG6qV) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [safe & sound](https://open.spotify.com/album/6RBQXB0TaQI3JfQINmZYzs) | 4:31 | 2026-04-02 |  |
+| [safe & sound](https://open.spotify.com/track/6fWZFYQ1EMQz0JaOMqG6qV) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [safe & sound](https://open.spotify.com/album/6RBQXB0TaQI3JfQINmZYzs) | 4:31 | 2026-04-02 | 2026-05-15 |
 | [Safe & Sound \- from The Hunger Games Soundtrack](https://open.spotify.com/track/0z9UVN8VBHJ9HdfYsOuuNf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Hunger Games: Songs From District 12 And Beyond](https://open.spotify.com/album/45nqVXRAW0xv0wpU9JljPN) | 4:00 | 2022-11-25 | 2023-01-28 |
 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 | 2025-01-23 | 2025-03-15 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-25 | 2023-09-29 |

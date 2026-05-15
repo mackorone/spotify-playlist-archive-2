@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1980s.
 
-334 songs - 23 hr 10 min
+335 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Funkytown \- Single Version](https://open.spotify.com/track/5Q6GRDSFdRwE7H37dQop9u) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [ドライブが楽しくなる洋楽ヒッツ！70年代 DISCO](https://open.spotify.com/album/47crNzkjCwR3zb6c5lFhLm) | 3:54 | 2021-01-07 | 2024-04-19 |
 | [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 | 2021-01-07 | 2023-06-02 |
 | [Get Down On It \- Single Version](https://open.spotify.com/track/4yKZACkuudvfd600H2dQie) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:32 | 2021-01-07 |  |
-| [Get Outta My Dreams, Get Into My Car](https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 4:44 | 2021-09-08 |  |
+| [Get Outta My Dreams, Get Into My Car](https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 4:44 | 2021-09-08 | 2026-05-15 |
 | [Ghostbusters \- From Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 | 2021-01-07 | 2025-11-19 |
 | [Gimme Hope Jo'anna](https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [The Biggest Reggae Hits](https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a) | 4:03 | 2021-09-08 | 2026-01-24 |
 | [Girl You Know It's True](https://open.spotify.com/track/0C7dYeCLF6ukChtW64UNge) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Girl You Know It's True \- The Best Of Milli Vanilli](https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL) | 3:18 | 2021-09-08 |  |
@@ -244,6 +244,7 @@
 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 | 2021-01-07 |  |
 | [Running In The Family \- 7" Version](https://open.spotify.com/track/1pTqpcvO02DUSzdN85loMZ) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Level Best](https://open.spotify.com/album/43lw3eUmzsmn3YSxUiMY9x) | 3:56 | 2021-09-08 | 2022-07-23 |
 | [Safety Dance](https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rock Of The 80's](https://open.spotify.com/album/2avyCubWluhpGqAbYYbmph) | 2:45 | 2021-09-08 | 2022-11-13 |
+| [Say Say Say](https://open.spotify.com/track/2iwhqrveOYC8XLB7GZm63G) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [All The Best \(UK Version\)](https://open.spotify.com/album/0jXLd4eGxSh8TIGEdRbdH4) | 3:54 | 2024-07-09 |  |
 | [Say Say Say \- Remastered 2015](https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Pipes Of Peace](https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb) | 3:55 | 2021-09-08 | 2024-04-19 |
 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 | 2021-01-07 |  |
 | [Shakedown](https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits 2](https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j) | 4:01 | 2021-09-08 | 2022-06-03 |

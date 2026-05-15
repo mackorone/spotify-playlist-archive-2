@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best pop music right now ft. Charli xcx",
+  "description": "The best pop music right now ft. Gracie Abrams",
   "name": "The Pop List",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-16",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "A Couple Minutes",
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
+    },
+    {
+      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 162379,
       "name": "BITCH",
       "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
@@ -2607,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "Crisco",
+        "url": "https://open.spotify.com/album/70GWxgdMF8ybDcY4JX9SEE"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Crisco",
+      "url": "https://open.spotify.com/track/5pnWECOdwXO5tIyx1DqAeP"
+    },
+    {
+      "album": {
         "name": "Cruel World",
         "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
       },
@@ -2817,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Dance No More",
+      "url": "https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e"
+    },
+    {
+      "album": {
         "name": "Dancing In The Flames",
         "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
       },
@@ -2900,7 +2954,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 230787,
       "name": "Dashboard",
       "url": "https://open.spotify.com/track/6rlU0kRQNjMZ7t5I92yCIi"
@@ -3560,7 +3614,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 234015,
       "name": "Door",
       "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
@@ -3918,6 +3972,24 @@
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+    },
+    {
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196218,
+      "name": "End Of An Era",
+      "url": "https://open.spotify.com/track/1YrY0vjHWp672gt0crtj5A"
     },
     {
       "album": {
@@ -5042,7 +5114,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 251035,
       "name": "Glamorous Life",
       "url": "https://open.spotify.com/track/20BMd1ZXqpdL6ssLndH5Su"
@@ -6013,6 +6085,24 @@
     },
     {
       "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
+    },
+    {
+      "album": {
         "name": "Hold Me In The Dark",
         "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
       },
@@ -6302,7 +6392,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
@@ -7121,6 +7211,24 @@
     },
     {
       "album": {
+        "name": "Infinity (123)",
+        "url": "https://open.spotify.com/album/5QzDHoPIyHsaD0XgnMwnKH"
+      },
+      "artists": [
+        {
+          "name": "December 10",
+          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139778,
+      "name": "Infinity (123)",
+      "url": "https://open.spotify.com/track/0hxm1fqvdrGLRbf1RF6wID"
+    },
+    {
+      "album": {
         "name": "Internet Girl",
         "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
       },
@@ -7302,6 +7410,24 @@
       "duration_ms": 179666,
       "name": "I\u2019m Good - From The Movie \u201cGOAT\u201d",
       "url": "https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28"
+    },
+    {
+      "album": {
+        "name": "I\u2019m your girl right?",
+        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169059,
+      "name": "I\u2019m your girl right?",
+      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
     },
     {
       "album": {
@@ -12106,7 +12232,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -12146,6 +12272,24 @@
       "duration_ms": 171014,
       "name": "So Sad So Hot",
       "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
+    },
+    {
+      "album": {
+        "name": "So What?",
+        "url": "https://open.spotify.com/album/7dyhn0rKw6tYDlV2vyDiB9"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168383,
+      "name": "So What?",
+      "url": "https://open.spotify.com/track/7pPlYTyclR6CKwf7sxVl3U"
     },
     {
       "album": {
@@ -12868,7 +13012,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 251200,
       "name": "Superbloom",
       "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
@@ -15296,7 +15440,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"

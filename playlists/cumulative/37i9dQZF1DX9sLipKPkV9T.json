@@ -935,6 +935,28 @@
     },
     {
       "album": {
+        "name": "\u05e4\u05d5\u05e8\u05d8\u05e8\u05d8",
+        "url": "https://open.spotify.com/album/2MhUxT7m7p42hU4qCHX8DW"
+      },
+      "artists": [
+        {
+          "name": "Eldad Zitrin",
+          "url": "https://open.spotify.com/artist/4NNomCVl1n5hhBBk2h8aNk"
+        },
+        {
+          "name": "\u05d0\u05d3\u05e8 \u05d2\u05d5\u05dc\u05d3",
+          "url": "https://open.spotify.com/artist/6WiGrFvPpFCdYQuQipCrvC"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211084,
+      "name": "Portrait",
+      "url": "https://open.spotify.com/track/2Qi6IZEofas9eUwrL6y2pD"
+    },
+    {
+      "album": {
         "name": "Purple Rose",
         "url": "https://open.spotify.com/album/6oLlZ8EqxISZdsZMTEEZHK"
       },
@@ -3939,6 +3961,28 @@
     },
     {
       "album": {
+        "name": "\u05d2\u05dd \u05d1\u05e0\u05d9\u05dd \u05d1\u05d5\u05db\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4xVfYSnE09BGmM2FXWnOrN"
+      },
+      "artists": [
+        {
+          "name": "\u05e2\u05d9\u05dc\u05d9 \u05d1\u05d5\u05d8\u05e0\u05e8 \u05d5\u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d4\u05d7\u05d3\u05e9\u05d9\u05dd",
+          "url": "https://open.spotify.com/artist/2ay7ZW0Db7z4d4Oo9ZBQli"
+        },
+        {
+          "name": "Elai Botner",
+          "url": "https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183558,
+      "name": "\u05d2\u05dd \u05d1\u05e0\u05d9\u05dd \u05d1\u05d5\u05db\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6H7CFVpRPfVBRCNEeAx5DW"
+    },
+    {
+      "album": {
         "name": "\u05d2\u05e8\u05dd \u05e9\u05de\u05d7\u05d4",
         "url": "https://open.spotify.com/album/26N9gdqWMkTvyVnS6jkQ7w"
       },
@@ -4671,6 +4715,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05db\u05e9\u05d8\u05e2\u05d9\u05dd \u05dc\u05da",
+        "url": "https://open.spotify.com/album/3sSrK5k0odF4g5UMxlVwXr"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147519,
+      "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05db\u05e9\u05d8\u05e2\u05d9\u05dd \u05dc\u05da",
+      "url": "https://open.spotify.com/track/5lF6rogyJvyd6psqdkHfoP"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05db\u05dc \u05d1\u05e1\u05d3\u05e8",
         "url": "https://open.spotify.com/album/6pemosj7J7gapGPWOevLWd"
       },
@@ -4958,6 +5020,28 @@
       "duration_ms": 204300,
       "name": "\u05d4\u05e0\u05d4 \u05d1\u05d0\u05d5 \u05d4\u05d9\u05de\u05d9\u05dd",
       "url": "https://open.spotify.com/track/2s1PM8EQ6E6cwNyXaRbFgh"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05e0\u05e1\u05d9\u05da \u05e9\u05dc \u05e8\u05de\u05ea \u05d2\u05df",
+        "url": "https://open.spotify.com/album/61gK7GfIgBNtVCSAXMkwjw"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d7\u05e8 \u05d8\u05d1\u05d5\u05da",
+          "url": "https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC"
+        },
+        {
+          "name": "Maya Dadon",
+          "url": "https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147647,
+      "name": "\u05d4\u05e0\u05e1\u05d9\u05da \u05e9\u05dc \u05e8\u05de\u05ea \u05d2\u05df",
+      "url": "https://open.spotify.com/track/1bFCbq38ThdOZMXOTtTRVR"
     },
     {
       "album": {
@@ -5989,7 +6073,7 @@
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 138897,
+      "duration_ms": 138425,
       "name": "\u05d9\u05dc\u05d3 \u05e9\u05de\u05e0\u05ea",
       "url": "https://open.spotify.com/track/0AvWqHb864dO1QEeMSZ6Ml"
     },
@@ -8340,7 +8424,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 178893,
       "name": "\u05de\u05db\u05ea\u05d1 \u05de\u05d4\u05e2\u05d5\u05e8\u05e3",
       "url": "https://open.spotify.com/track/7t6ndViqu6UrZ6FXVIluys"
@@ -9730,7 +9814,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 152380,
       "name": "\u05e2\u05d5\u05d3 \u05e9\u05d5\u05d8",
       "url": "https://open.spotify.com/track/6nJMbThVjq86Rzna1VHWiw"
@@ -11436,7 +11520,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 219750,
       "name": "\u05e9\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5mGt4S5M9epG7md6Dr8tXl"
@@ -11820,7 +11904,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 195000,
       "name": "\u2060\u05d0\u05d5\u05e7\u05e1\u05d9\u05d8\u05d5\u05e6\u05d9\u05df",
       "url": "https://open.spotify.com/track/7DjA5GXNzgA1SKVRtXuQXY"

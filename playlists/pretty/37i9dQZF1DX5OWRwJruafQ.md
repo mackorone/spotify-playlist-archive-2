@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,056 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,106 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Agg](https://open.spotify.com/track/5q6w7VtiWgn2QM7hqbPKTN) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC) | [Agg](https://open.spotify.com/album/0Okv1CfnPJKMSlM9tey6IC) | 3:02 |
 | 100 | [Thinking](https://open.spotify.com/track/33R3qS9Gsq6ig289ZxiHFx) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [Thinking](https://open.spotify.com/album/2i5azk8pvUowCWqhRN1t4X) | 2:40 |
 
-Snapshot ID: `AAAAAFtR/1EJvcbW3vYw8xb1yEi7KBKK`
+Snapshot ID: `AAAAAPYFNHFlhiFOL04yrq3cCrxJnSsV`

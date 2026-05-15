@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,308 songs - 2 day 8 hr 26 min
+1,310 songs - 2 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Don't Worry](https://open.spotify.com/track/47xY6YRnUzumNo244NH5I3) | [Menza](https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7), [Moving Castles](https://open.spotify.com/artist/0me4iIJvYbOevaJMMtUPC8) | [Don't Worry](https://open.spotify.com/album/5QgWdxtc2RwxKr9tPJPufl) | 2:54 | 2025-06-01 | 2025-06-30 |
 | [Don’t Let Your Mama Down](https://open.spotify.com/track/6W1vp1KKV0WsXDsx25v9en) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Don’t Let Your Mama Down](https://open.spotify.com/album/6nExJSSnOdEIwkVG8UGRfV) | 2:20 | 2024-07-08 | 2024-07-22 |
 | [Down](https://open.spotify.com/track/7AHCNmBI4SZdrhYxPLBWOP) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Timmy Commerford](https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO) | [Down](https://open.spotify.com/album/2U50dkgIGQOGeNWCRZYvVA) | 2:09 | 2023-11-26 | 2024-10-27 |
+| [down by the river](https://open.spotify.com/track/3Z4WBD0GDUyGSIEk4OtVni) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [down by the river](https://open.spotify.com/album/2BlngcHjr2DBpcRFGs1ALa) | 2:13 | 2026-05-14 |  |
 | [Down By The Sea](https://open.spotify.com/track/2dDgge1UdY2sM9YWNoe2wz) | [Sainte Barbe](https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ), [Jan Aygün](https://open.spotify.com/artist/2wM1D4UgaScEg2LkYHm1Oe) | [Down By The Sea](https://open.spotify.com/album/3JhLHFIX35VHWwa1cNAF7G) | 2:31 | 2026-05-01 |  |
 | [Down For You](https://open.spotify.com/track/5HAvxGYX1l1n5WHSiBWcnL) | [Chill Gull](https://open.spotify.com/artist/0oF2AmTrkEWD7JvK1CH1Lw), [Ruxolf](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1), [Cal.Cherry](https://open.spotify.com/artist/0KHlUOhZXCRwHD3KVyl4nq) | [Down For You](https://open.spotify.com/album/1Pe0eS9ISfMipmA1gA4SrQ) | 2:05 | 2024-12-15 | 2025-01-13 |
 | [Drag Me Down \- Masove Remix](https://open.spotify.com/track/5ziSP5i9oWEkvjPmJfmPB6) | [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8), [Kasper Juul](https://open.spotify.com/artist/09qLJAC6XDikDesDujWEQb), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR) | [Drag Me Down \(Masove Remix\)](https://open.spotify.com/album/3wyjhR9QR44DY3cO6JbvlN) | 2:54 | 2023-09-22 | 2025-04-24 |
@@ -455,6 +456,7 @@
 | [Hold Me Close](https://open.spotify.com/track/0IwKgvLvEpZWLvuHKTyuzH) | [Nofsky](https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC) | [Hold Me Close](https://open.spotify.com/album/0L1HeQ5H5ut6lfOGt8PUVo) | 2:30 | 2026-03-09 |  |
 | [Hold Me Close](https://open.spotify.com/track/7CcHekzCRzibYwCYn2WKgc) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Hold Me Close](https://open.spotify.com/album/1b1CiWm3Psfi4US4Ec5d4h) | 2:10 | 2023-12-30 | 2024-03-04 |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2023-09-22 | 2024-06-01 |
+| [Hold Me Closer](https://open.spotify.com/track/4P0tt15aEBAFWf47zH3dnc) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Hold Me Closer](https://open.spotify.com/album/1cI75wjZllvBLaHnIPY8Ui) | 2:13 | 2026-05-14 |  |
 | [Hold Me Down](https://open.spotify.com/track/0hdRaXColEX1JGmEn9C4BD) | [B\-Rain](https://open.spotify.com/artist/3hWT3bsPOSKsJkR30Z9xQr), [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Ema Feud](https://open.spotify.com/artist/2rPtbgOmhSJcV7GenHKwPd) | [Hold Me Down](https://open.spotify.com/album/7MenaK1jRxJWDC5aBTKvAh) | 2:28 | 2025-06-13 | 2025-09-22 |
 | [Hold Me Now](https://open.spotify.com/track/5ZHcuIlAiJOiVBOj4iW1cT) | [Sevenkey](https://open.spotify.com/artist/7qsMABBiWRUKCVR1NihLoT) | [Hold Me Now](https://open.spotify.com/album/3yCBHo9PxGLNacQcN50D7k) | 2:29 | 2026-04-10 |  |
 | [Hold Me Tight](https://open.spotify.com/track/1dHWwuRihXyoVjLYhlvF31) | [D3EPANK](https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ), [Xiam](https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84), [Rukid](https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a) | [Hold Me Tight](https://open.spotify.com/album/5wyNnufWsVXI2DVLobBqCh) | 2:16 | 2023-09-22 | 2024-04-19 |

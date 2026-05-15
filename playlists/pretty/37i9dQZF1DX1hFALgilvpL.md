@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 
 > Cuddle up and relax with these country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,208 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,260 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 63 | [Jesus, Take the Wheel](https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:46 |
 | 64 | [Most People Are Good](https://open.spotify.com/track/79LAFAkR1ATb4iIQvZuCL0) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What Makes You Country](https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy) | 3:41 |
 | 65 | [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 |
-| 66 | [Beautiful Things](https://open.spotify.com/track/6WjwYL2tzzci2pvpv50rS4) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Beautiful Things](https://open.spotify.com/album/1vIdJxr4T63IHA5ex4rHEv) | 3:55 |
-| 67 | [Your Place At My Place](https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 3:36 |
+| 66 | [Your Place At My Place](https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 3:36 |
+| 67 | [Beautiful Things](https://open.spotify.com/track/6WjwYL2tzzci2pvpv50rS4) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Beautiful Things](https://open.spotify.com/album/1vIdJxr4T63IHA5ex4rHEv) | 3:55 |
 | 68 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 |
 | 69 | [I'm Gonna Love You](https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I'm Gonna Love You](https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9) | 3:08 |
 | 70 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,709 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,708 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 12 | [Você é Precioso](https://open.spotify.com/track/12yoDN22yFACeVgyz9XQuN) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Você é Precioso](https://open.spotify.com/album/3luf1k9pVj09Xbe8YYExQr) | 4:22 |
 | 13 | [Identidade](https://open.spotify.com/track/0TCO41XDSOqMDC5Q1g7rDe) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Anderson Freire e Amigos](https://open.spotify.com/album/3MhRDO1ySLk4zInakHyvw9) | 4:26 |
 | 14 | [Eu Sei que Não Estou Só](https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:38 |
-| 15 | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 |
-| 16 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 |
+| 15 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 |
+| 16 | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 |
 | 17 | [Deixar a Lágrima Rolar](https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:19 |
 | 18 | [Eu Te Ouvi \- Ao Vivo](https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Te Ouvi \(Ao Vivo\)](https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt) | 4:03 |
 | 19 | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW) | 5:15 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 39 | [Se Deus É Por Mim \- Ao Vivo](https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Se Deus É Por Mim \(Ao Vivo\)](https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f) | 7:47 |
 | 40 | [Jamais Deixarei Você](https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:51 |
 | 41 | [Com os Olhos da Fé](https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:47 |
-| 42 | [Porque Creio em Ti \- Ao Vivo](https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj) | [Quatro por Um](https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Quatro por Um Forever \(Ao Vivo\)](https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs) | 5:00 |
-| 43 | [Eu Creio Nos Planos de Deus \- Ao Vivo](https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv) | 4:04 |
+| 42 | [Eu Creio Nos Planos de Deus \- Ao Vivo](https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv) | 4:04 |
+| 43 | [Porque Creio em Ti \- Ao Vivo](https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj) | [Quatro por Um](https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Quatro por Um Forever \(Ao Vivo\)](https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs) | 5:00 |
 | 44 | [Deus Tremendo](https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Alegria Real](https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp) | 5:08 |
-| 45 | [Debaixo da Nuvem](https://open.spotify.com/track/6hkuCiWjyqkaWmPBI6xpwJ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Debaixo da Nuvem \(Ao Vivo\)](https://open.spotify.com/album/40haqMQAqyWCXcBvUqKhLu) | 4:44 |
-| 46 | [Toca\-me, Pai](https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:38 |
-| 47 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 |
+| 45 | [Toca\-me, Pai](https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:38 |
+| 46 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 |
+| 47 | [Debaixo da Nuvem](https://open.spotify.com/track/6hkuCiWjyqkaWmPBI6xpwJ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Debaixo da Nuvem \(Ao Vivo\)](https://open.spotify.com/album/40haqMQAqyWCXcBvUqKhLu) | 4:44 |
 | 48 | [Apaixonado Coração](https://open.spotify.com/track/5trNycknDFgdGosv98UeRc) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:08 |
 | 49 | [Meu Viver \- Ao Vivo](https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Meu Viver \(Ao Vivo\)](https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM) | 5:10 |
 | 50 | [Uma Mulher, Um Milagre](https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:04 |
 
-Snapshot ID: `agJtgAAAAADTbRThL1F5FBGLapTYMo3e`
+Snapshot ID: `agO/AAAAAAAsiwmmssNi75KvRitNSExx`

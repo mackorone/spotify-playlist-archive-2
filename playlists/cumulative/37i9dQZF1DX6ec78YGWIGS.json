@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "DAME CALOR",
+        "url": "https://open.spotify.com/album/6p2xnAkfDVOWL9xXeff1aL"
+      },
+      "artists": [
+        {
+          "name": "Malena Narvay",
+          "url": "https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146277,
+      "name": "DAME CALOR",
+      "url": "https://open.spotify.com/track/1dnuSENzX9bX0ARx0QPyM5"
+    },
+    {
+      "album": {
         "name": "Dame Chance (Rayuela)",
         "url": "https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL"
       },
@@ -5364,7 +5382,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"

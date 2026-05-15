@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Kenny Chesney, Koe Wetzel, Ashley McBryde and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,937 likes - 68 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,033 likes - 68 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,469 likes - 50 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,478 likes - 50 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 20 | [Amen](https://open.spotify.com/track/75sGkbnu0fhIX5r5Setmd5) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Amen](https://open.spotify.com/album/7tour33WTvp9sK9CZ1Fh5F) | 7:02 |
 | 21 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
 | 22 | [In His Presence](https://open.spotify.com/track/6aVzbWZbaPfeFdjfW4c7As) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [In His Presence](https://open.spotify.com/album/4Fclvtrk9ChYATotxBjXtQ) | 10:29 |
-| 23 | [Owawani](https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Owawani](https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq) | 2:38 |
-| 24 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 |
+| 23 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 |
+| 24 | [Owawani](https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Owawani](https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq) | 2:38 |
 | 25 | [Show Them](https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz) | [Ewura Abena](https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ) | [REBIRTH \(Mary's Child\)](https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t) | 4:19 |
 | 26 | [Nya Gyidi](https://open.spotify.com/track/2gzifUVRtwtwyoe3SzsN87) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Nya Gyidi](https://open.spotify.com/album/5E115qCQUZjWEIztqVtjDc) | 6:54 |
 | 27 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 41 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 |
 | 42 | [Se Mekume Ho](https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Golden Oil](https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm) | 4:34 |
 | 43 | [Borborbor Gospel Medley](https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Borborbor Gospel Medley](https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189) | 8:37 |
-| 44 | [Believe](https://open.spotify.com/track/6tTwVPhMIgzCsQlHullPO2) | [David Dvnks](https://open.spotify.com/artist/3jGgIlufVEHOF3Ckyb2L2R), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL), [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Believe](https://open.spotify.com/album/5AhyxOO5MvwHZDx0E1S5KP) | 3:44 |
-| 45 | [Ghana Local Praise Medley](https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Shadrach Mensah Kwesi](https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e) | [Ghana Local Praise Medley](https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw) | 9:26 |
+| 44 | [Ghana Local Praise Medley](https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Shadrach Mensah Kwesi](https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e) | [Ghana Local Praise Medley](https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw) | 9:26 |
+| 45 | [Believe](https://open.spotify.com/track/6tTwVPhMIgzCsQlHullPO2) | [David Dvnks](https://open.spotify.com/artist/3jGgIlufVEHOF3Ckyb2L2R), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL), [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Believe](https://open.spotify.com/album/5AhyxOO5MvwHZDx0E1S5KP) | 3:44 |
 | 46 | [Sometin](https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Sometin](https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP) | 3:41 |
 | 47 | [Yesu Meda Wase](https://open.spotify.com/track/3HS6eorSIugQE3oyXanSOJ) | [Esther Smith](https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8) | [Yesu Meda Wase](https://open.spotify.com/album/1gLEBofnKav2fJEDenAx7M) | 5:19 |
 | 48 | [Me Dan Wo \(feat\. Kweku Teye\)](https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Kweku Teye](https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp) | [Me Dan Wo \(feat\. Kweku Teye\)](https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5) | 6:12 |

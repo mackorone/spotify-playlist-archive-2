@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Zélia Duncan
 
-1,178 songs - 2 day 20 hr 42 min
+1,179 songs - 2 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A arte de não morrer](https://open.spotify.com/track/491TwNe5sWUi1fSXmRAJIw) | [Jards Macalé](https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg) | [A Arte de Não Morrer](https://open.spotify.com/album/6b6EFmzBxSfWfrvCW6lJxs) | 3:44 | 2023-03-24 | 2023-05-13 |
 | [A Base do Supremo](https://open.spotify.com/track/6yZy45I46hYld3eTr7RoF5) | [Beatriz Azevedo](https://open.spotify.com/artist/4fIGoIA5oaJn3HorAEQFNG), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [Jaques Morelembaum](https://open.spotify.com/artist/365uE1jZ3ELR4hcJJupiMS) | [A Base do Supremo](https://open.spotify.com/album/6QgYSLufjQmI87Y4KiOnbb) | 2:49 | 2025-04-11 | 2025-04-29 |
 | [A Bela é a Fera](https://open.spotify.com/track/5ih4tXFZQWtshcsRmpKljo) | [Mãeana](https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE), [Tainá](https://open.spotify.com/artist/1y3yZ6EkHPMyEOFTGl2TNT), [Tori](https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS) | [A Bela é a Fera](https://open.spotify.com/album/3v2NIqWIvTDOKl59wX9Eip) | 3:33 | 2023-04-28 | 2023-05-13 |
+| [A Beleza De Ser](https://open.spotify.com/track/77KUT4cGoNZZwatCZii61P) | [Muca](https://open.spotify.com/artist/0B530ZeLXBaPt7AN3wHNcM), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Ilessi](https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va) | [A Beleza De Ser](https://open.spotify.com/album/35MiCztNYMVMlVYlifBCzc) | 3:26 | 2026-05-08 |  |
 | [A Calma Acalma](https://open.spotify.com/track/40D0bFvyl9ypjQvhjlZ5w4) | [JØY Brandt](https://open.spotify.com/artist/2YRTxRv98WvCsjK4wXtgxk) | [A Calma Acalma](https://open.spotify.com/album/1wMB5ZetaZy8rKtzM0yx4c) | 3:17 | 2024-09-01 | 2025-07-05 |
 | [A Chave](https://open.spotify.com/track/3zyGnvvjexBjoE2Q8K0uMh) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Uma](https://open.spotify.com/album/1oCCHl2dwVAXtODMA14oDZ) | 4:27 | 2024-07-26 | 2024-09-21 |
 | [A Chuva Sem Gal](https://open.spotify.com/track/51n8FkiDdHnpdCpWceridp) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [A Chuva Sem Gal](https://open.spotify.com/album/6wLGkIhbIdCXVxUSMwQCxx) | 3:44 | 2022-12-24 | 2023-01-14 |

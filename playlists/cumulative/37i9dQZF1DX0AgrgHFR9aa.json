@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Zek",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Kemmler",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 211388,
       "name": "5 Minutes",
       "url": "https://open.spotify.com/track/0vMrqcmN7VkuG3SmSzNpRL"
@@ -1711,6 +1711,28 @@
     },
     {
       "album": {
+        "name": "Civilis\u00e9, Pt. III",
+        "url": "https://open.spotify.com/album/4O12LgQbABuaxgrj0HUHze"
+      },
+      "artists": [
+        {
+          "name": "Misa",
+          "url": "https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Civilis\u00e9, Pt. III",
+      "url": "https://open.spotify.com/track/6LUlBqmoTEldzJ5RSA1KKP"
+    },
+    {
+      "album": {
         "name": "J.000.$",
         "url": "https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w"
       },
@@ -2388,6 +2410,24 @@
       "duration_ms": 199850,
       "name": "D\u00e9fil\u00e9 de mots",
       "url": "https://open.spotify.com/track/69p51DcIenizcU1d5WExxE"
+    },
+    {
+      "album": {
+        "name": "D\u00e9posez vos armes",
+        "url": "https://open.spotify.com/album/6MpSlngR96rdJfKranyRCh"
+      },
+      "artists": [
+        {
+          "name": "Anarchie",
+          "url": "https://open.spotify.com/artist/5Mhk8zISlnacYDs23FsTk6"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234062,
+      "name": "D\u00e9posez vos armes",
+      "url": "https://open.spotify.com/track/4vmzo4oNgXckV1RoyKKzd2"
     },
     {
       "album": {
@@ -3406,7 +3446,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 127252,
       "name": "Ikebukuro",
       "url": "https://open.spotify.com/track/2QzH9YaI3DzvFMeC9U9Tlm"
@@ -4409,6 +4449,28 @@
     },
     {
       "album": {
+        "name": "La o\u00f9 ils ne vivent pas",
+        "url": "https://open.spotify.com/album/3eDUW1lOz3UBv2Jbtsd9m7"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Miklo",
+          "url": "https://open.spotify.com/artist/4ZKVDoSZmED2oG5XpABWeB"
+        },
+        {
+          "name": "Relo",
+          "url": "https://open.spotify.com/artist/5BFtEJBJahei6oC8llF8sf"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169959,
+      "name": "La o\u00f9 ils ne vivent pas",
+      "url": "https://open.spotify.com/track/3kwMLmLzbHYja01IeFs8ad"
+    },
+    {
+      "album": {
         "name": "Les 11 \u00e0 suivre 2026",
         "url": "https://open.spotify.com/album/316y2Syts5IHMvJMVTdxsA"
       },
@@ -4583,6 +4645,44 @@
     },
     {
       "album": {
+        "name": "Le D\u00e9luge",
+        "url": "https://open.spotify.com/album/0o2oObjHzo7LyAmuFVCZGA"
+      },
+      "artists": [
+        {
+          "name": "Ul'team Atom",
+          "url": "https://open.spotify.com/artist/5Ob7h4rayQncR9oPFp56hz"
+        },
+        {
+          "name": "L'uzine",
+          "url": "https://open.spotify.com/artist/7BeihcnNgK5Md6ORbMEqwf"
+        },
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
+        },
+        {
+          "name": "Gr\u00f6dash",
+          "url": "https://open.spotify.com/artist/5UkzlzLr46wmFHyqFJXjSu"
+        },
+        {
+          "name": "Templar",
+          "url": "https://open.spotify.com/artist/04fzYkCptltCeyBAjpQ5fd"
+        },
+        {
+          "name": "Fik's Niavo",
+          "url": "https://open.spotify.com/artist/1VDrL37bOiywI6db78fLAo"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399005,
+      "name": "Le D\u00e9luge",
+      "url": "https://open.spotify.com/track/4ykCrN6StkWboJdGelDZB9"
+    },
+    {
+      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/1M9xeYOH14JBvZ3lb2aG1M"
       },
@@ -4704,7 +4804,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 175522,
       "name": "LE PENSEUR",
       "url": "https://open.spotify.com/track/5i4E1MvTF4sziMMdDNw3hu"
@@ -7283,6 +7383,24 @@
     },
     {
       "album": {
+        "name": "Quincy P",
+        "url": "https://open.spotify.com/album/10Uzu6H80gQ1W8XeUIM6AL"
+      },
+      "artists": [
+        {
+          "name": "Falcko",
+          "url": "https://open.spotify.com/artist/0U4UrgHYuU5CiuJoMZf4fl"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138580,
+      "name": "Quincy P",
+      "url": "https://open.spotify.com/track/0dtoAKd76z1oXVvNmXV1aT"
+    },
+    {
+      "album": {
         "name": "R.A.P",
         "url": "https://open.spotify.com/album/67zNwWM049qwffckBDIzPY"
       },
@@ -7615,6 +7733,24 @@
     },
     {
       "album": {
+        "name": "Rouge et noir",
+        "url": "https://open.spotify.com/album/3eHyY3IXKxEZWaLGFnWJgK"
+      },
+      "artists": [
+        {
+          "name": "Kemmler",
+          "url": "https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Rouge et noir",
+      "url": "https://open.spotify.com/track/7pkMiyznBjnJyIlklKvvYX"
+    },
+    {
+      "album": {
         "name": "Rualit\u00e9",
         "url": "https://open.spotify.com/album/67BIYJNQVaAQs771uhyZzR"
       },
@@ -7774,7 +7910,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 196071,
       "name": "Script (feat. 2L)",
       "url": "https://open.spotify.com/track/6pSjIMSllXgPs9EDP6lHAD"
@@ -7884,6 +8020,24 @@
       "duration_ms": 258072,
       "name": "SHABAN",
       "url": "https://open.spotify.com/track/3FMM8cY9p85IxEoedWYG9U"
+    },
+    {
+      "album": {
+        "name": "si seulement",
+        "url": "https://open.spotify.com/album/26h8d1yrM8gIefySp2NEew"
+      },
+      "artists": [
+        {
+          "name": "nash",
+          "url": "https://open.spotify.com/artist/3yoDs6sqTCOYJXa8T7LGmb"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "si seulement",
+      "url": "https://open.spotify.com/track/3c7oBQRnzj0RmOpnJtzjZR"
     },
     {
       "album": {
@@ -8070,7 +8224,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 174000,
       "name": "Sortil\u00e8ge",
       "url": "https://open.spotify.com/track/1TByap60sCfhT1mTzRI9tU"
@@ -8088,7 +8242,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 177938,
       "name": "sous les pav\u00e9s, la plage",
       "url": "https://open.spotify.com/track/3jnOtKDAhnyKN4AccnN82n"
@@ -8110,7 +8264,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 185806,
       "name": "Sous ma paire",
       "url": "https://open.spotify.com/track/5ue4hl5DFR1QFD9BDzrpWQ"
@@ -8966,6 +9120,28 @@
       "duration_ms": 158000,
       "name": "ZZ",
       "url": "https://open.spotify.com/track/7tj0Qb4cKubWEkfrCcERsG"
+    },
+    {
+      "album": {
+        "name": "Z\u00c9NITH",
+        "url": "https://open.spotify.com/album/3iUwzx9RU5uR7lLmTmEWhz"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        },
+        {
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306613,
+      "name": "Z\u00c9NITH",
+      "url": "https://open.spotify.com/track/62BnSCmNcTZRXlWuEHllG8"
     },
     {
       "album": {

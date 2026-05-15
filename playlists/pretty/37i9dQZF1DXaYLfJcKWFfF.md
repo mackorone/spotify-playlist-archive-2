@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Dumama
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,675 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,692 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 23 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
 | 24 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
 | 25 | [Honey](https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP), [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s), [Tatum Tides](https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY) | [Honey](https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O) | 2:20 |
-| 26 | [Pour Some More](https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [Pour Some More](https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF) | 3:27 |
+| 26 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
 | 27 | [candlelight](https://open.spotify.com/track/5aBqHxTL1XmW4KtH47SXIf) | [meelu](https://open.spotify.com/artist/2deayPInIeJYpH3mf60duo) | [candlelight](https://open.spotify.com/album/3N3NZeApBVtfALz0oKrP8E) | 3:12 |
-| 28 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
+| 28 | [Pour Some More](https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [Pour Some More](https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF) | 3:27 |
 | 29 | [tash](https://open.spotify.com/track/1odjQdCmmGsTKKhgRMX1P5) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [christine](https://open.spotify.com/album/1zepD5qFpsXDS0sr6JxrBw) | 3:03 |
 | 30 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 31 | [Lighten My Heart](https://open.spotify.com/track/6pn4vgkxx4XzhA0X0P9OzO) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq) | [Lighten My Heart](https://open.spotify.com/album/3AwsRLBiUlqFba7IhPjnNt) | 3:03 |
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 66 | [In My Heart \(The Rent is Free\)](https://open.spotify.com/track/51dLHrDvojeebhJQglTEpe) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/5H1A6BJ9XyBMD3OgWzsfiB) | 4:33 |
 | 67 | [Ordinary](https://open.spotify.com/track/0Dyc3YFggv7hi2Atndeuqr) | [Kaiya Gamble](https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU), [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Ordinary](https://open.spotify.com/album/2W5j0AdIbhTOiu1faWcCMV) | 2:46 |
 | 68 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
-| 69 | [Charmeur à Gage Mission Ines](https://open.spotify.com/track/5oD6GjkYj5CyGn7KysNhT8) | [Hen's](https://open.spotify.com/artist/1fDdKygXaQ6LMEYTZPb1P4) | [Charmeur à Gage Mission Ines](https://open.spotify.com/album/4QHzgZ1X7pIdzCXayYU8UK) | 3:04 |
-| 70 | [Glimmer](https://open.spotify.com/track/4kHcI3XNsXJFGufUTTILvQ) | [Jade Olivia](https://open.spotify.com/artist/3MT3DL78VvKp2bg8eRRIej) | [Glimmer](https://open.spotify.com/album/5ECkpEj7EWC4x24qUBBPFZ) | 3:28 |
+| 69 | [Glimmer](https://open.spotify.com/track/4kHcI3XNsXJFGufUTTILvQ) | [Jade Olivia](https://open.spotify.com/artist/3MT3DL78VvKp2bg8eRRIej) | [Glimmer](https://open.spotify.com/album/5ECkpEj7EWC4x24qUBBPFZ) | 3:28 |
+| 70 | [Charmeur à Gage Mission Ines](https://open.spotify.com/track/5oD6GjkYj5CyGn7KysNhT8) | [Hen's](https://open.spotify.com/artist/1fDdKygXaQ6LMEYTZPb1P4) | [Charmeur à Gage Mission Ines](https://open.spotify.com/album/4QHzgZ1X7pIdzCXayYU8UK) | 3:04 |
 | 71 | [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/track/0ZXbCEygGWkT2UGDqGgiV2) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/album/4y3fj7IPS9d5lWuKxDcI2f) | 2:50 |
 | 72 | [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 |
 | 73 | [Old Days](https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Akanbi](https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3) | 2:24 |
 | 74 | [PUFF PUFF](https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [PUFF PUFF](https://open.spotify.com/album/31PqWyE2sNdjg83d5YKIhm) | 2:44 |
-| 75 | [Light in Darkest Night](https://open.spotify.com/track/7c81879sor33GdZ2Qx4ris) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Light in Darkest Night](https://open.spotify.com/album/1RxBMM4vbJeC8PPfbTjNy3) | 2:48 |
-| 76 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
+| 75 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
+| 76 | [Light in Darkest Night](https://open.spotify.com/track/7c81879sor33GdZ2Qx4ris) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Light in Darkest Night](https://open.spotify.com/album/1RxBMM4vbJeC8PPfbTjNy3) | 2:48 |
 | 77 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |
 | 78 | [Broda Kevwe](https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Detox](https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z) | 4:12 |
-| 79 | [Hallelujah](https://open.spotify.com/track/2qfvNOYckP2GKN81TKDgfg) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Hallelujah](https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz) | 3:19 |
-| 80 | [Goodbyes](https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT) | 3:38 |
+| 79 | [Goodbyes](https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT) | 3:38 |
+| 80 | [Hallelujah](https://open.spotify.com/track/2qfvNOYckP2GKN81TKDgfg) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Hallelujah](https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz) | 3:19 |
 
 Snapshot ID: `AAAAAGB7aqYPPqMA8dsdkbD3SASi+eTn`

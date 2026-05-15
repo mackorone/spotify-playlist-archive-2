@@ -4,12 +4,13 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-233 songs - 14 hr 31 min
+235 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [188](https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [188](https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx) | 3:09 | 2026-05-02 |  |
 | [7 De Octubre](https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [7 De Octubre](https://open.spotify.com/album/7bpLNnIZpr6w0CKGCzPJi7) | 2:50 | 2026-01-03 | 2026-02-02 |
+| [90 Seconds for Panic](https://open.spotify.com/track/3JUfZLz6ONsDcW6CbYucwG) | [CIRCUS](https://open.spotify.com/artist/3mpN9JFZx0JdZvr4ZWvvf9) | [A Kiss Before Dying](https://open.spotify.com/album/43HQW7GQUlQEvisvnaT2dJ) | 4:34 | 2026-05-14 |  |
 | [A Perfect Lie](https://open.spotify.com/track/4p9PHyzfGtugOfdbik0i8b) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL) | [A Perfect Lie](https://open.spotify.com/album/2rvHji4MrQC3S397HaUIRc) | 3:40 | 2026-01-11 | 2026-02-23 |
 | [Abandono](https://open.spotify.com/track/067BUqecd8VIUSQV3wBeTK) | [Beta Surf](https://open.spotify.com/artist/3yIfgsG4NczWN3DjwXI9Ws) | [Tiempos De Caos](https://open.spotify.com/album/2MWM1cKyInGYbi1JAzQcNL) | 2:43 | 2025-11-11 | 2025-12-28 |
 | [Abuse Me](https://open.spotify.com/track/6pXlghlS89h0rKaOTFV6MD) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Abuse Me](https://open.spotify.com/album/4mUsCsrkgTdmleGkxP8EH1) | 3:24 | 2025-11-04 | 2025-12-28 |
@@ -23,6 +24,7 @@
 | [Another Road](https://open.spotify.com/track/240unn2aJKGurliwi6lJF2) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7), [Erim Ahmet](https://open.spotify.com/artist/2PmZza7fj5zPBKqLAchsjv) | [Another Road](https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB) | 4:13 | 2025-10-02 |  |
 | [April Breaking Down](https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 4:20 | 2025-12-20 | 2026-01-21 |
 | [Away](https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:32 | 2025-12-25 | 2026-01-21 |
+| [bad lover](https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [bad lover](https://open.spotify.com/album/0M4u625Q69qPri1148zoe3) | 4:57 | 2026-05-14 |  |
 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 | 2026-05-04 |  |
 | [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 | 2025-12-13 | 2026-01-21 |
 | [Bestia](https://open.spotify.com/track/6UYOETNWbvmNKpl07sjPpu) | [Décum](https://open.spotify.com/artist/2nlYRGKyaJpzquLbtpCguk) | [Bestia](https://open.spotify.com/album/2ozT91COp1GUchj542jq44) | 2:45 | 2025-12-13 | 2026-01-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Who. The essential tracks, all in one playlist.",
-  "num_followers": 214877,
+  "num_followers": 214876,
   "original_name": "This Is The Who",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADzPlhrgGAY5LDmRsIXf+/b",
+  "snapshot_id": "agO/AAAAAAB9UZyK8vVeYytEoElyYSQB",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+        "name": "Who Are You (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7qGnKtZPJMP3LFgEl2WM4r"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 381626,
+      "duration_ms": 382733,
       "name": "Who Are You",
-      "url": "https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ"
+      "url": "https://open.spotify.com/track/4XTjaXaGmPh8ys1BzFdjdL"
     },
     {
       "added_at": null,

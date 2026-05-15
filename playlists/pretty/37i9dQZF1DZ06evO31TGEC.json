@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 55017,
+  "num_followers": 55038,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADjvlZVPkZe0OGDlGWT5ZHG",
+  "snapshot_id": "agO/AAAAAACpXxj+5Aw/7wHG0m6Ud3fu",
   "tracks": [
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        },
-        {
-          "name": "Frank Velasquez",
-          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "Le Dire Que Me Gusta",
-      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cristaleros Michoacanos",
         "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
       },
@@ -615,6 +595,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "Frank Velasquez",
+          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Le Dire Que Me Gusta",
+      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos Tatuados",
+        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 188836,
+      "name": "Besos Tatuados",
+      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Perdido",
         "url": "https://open.spotify.com/album/1CeEMvyWBAL4SObCiwOHke"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos Tatuados",
-        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 188836,
-      "name": "Besos Tatuados",
-      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Derrito",
-        "url": "https://open.spotify.com/album/5052x1jXmFYTo0osSMcwxh"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Me Derrito",
-      "url": "https://open.spotify.com/track/1JmUlAs1cphQKPgh2hL61s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 205213,
       "name": "Mayor de Edad (Banda)",
       "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Derrito",
+        "url": "https://open.spotify.com/album/5052x1jXmFYTo0osSMcwxh"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Me Derrito",
+      "url": "https://open.spotify.com/track/1JmUlAs1cphQKPgh2hL61s"
     },
     {
       "added_at": null,

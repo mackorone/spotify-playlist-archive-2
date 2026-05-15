@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212313,
+  "num_followers": 212298,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "Red House Painters I",
         "url": "https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 234813,
       "name": "Tugboat",
       "url": "https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH"
-      },
-      "artists": [
-        {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt"
     },
     {
       "added_at": "2025-08-07 23:00:59",

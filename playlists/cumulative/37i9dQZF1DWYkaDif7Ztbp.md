@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: Uncle Waffles
+> The tracks heating up the continent right now!  Cover: Sarz x BNXN
 
 688 songs - 1 day 17 hr 13 min
 

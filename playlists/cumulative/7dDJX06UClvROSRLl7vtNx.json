@@ -5857,6 +5857,28 @@
     },
     {
       "album": {
+        "name": "down by the river",
+        "url": "https://open.spotify.com/album/2BlngcHjr2DBpcRFGs1ALa"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "clarity.",
+          "url": "https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133142,
+      "name": "down by the river",
+      "url": "https://open.spotify.com/track/3Z4WBD0GDUyGSIEk4OtVni"
+    },
+    {
+      "album": {
         "name": "Down By The Sea",
         "url": "https://open.spotify.com/album/3JhLHFIX35VHWwa1cNAF7G"
       },
@@ -10200,6 +10222,24 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/1cI75wjZllvBLaHnIPY8Ui"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/4P0tt15aEBAFWf47zH3dnc"
     },
     {
       "album": {

@@ -1,15 +1,31 @@
 {
-  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Gara Dur\u00e1n.",
-  "num_followers": 29757,
+  "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Alcal\u00e1 Norte.",
+  "num_followers": 29756,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFxNQo5mcS5sTCAmwqqXXH4v+aX/",
+  "snapshot_id": "AAAAALzB1RWaJmQrjsk65QSnhrz3wR9S",
   "tracks": [
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
+      "album": {
+        "name": "Los Llamados Pitag\u00f3ricos",
+        "url": "https://open.spotify.com/album/6FsxcuAF5nouopLZ5ZE6Kz"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "duration_ms": 242065,
+      "name": "Los Llamados Pitag\u00f3ricos",
+      "url": "https://open.spotify.com/track/7ydaxAURHTlX3JGOo7JEsW"
+    },
+    {
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Placer de vivir",
         "url": "https://open.spotify.com/album/2GjY9NfZdA8glT6Mzd26C3"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/148LN4dJOFg4Y6G2Ezqnpu"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "EL TASER DE MAM\u00c1 (REMIX)",
         "url": "https://open.spotify.com/album/4I7qJNZaCBSR6mGKU4HxD1"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/2SINilxUbNWB55Tcl6UFK5"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Que no seas de nadie",
         "url": "https://open.spotify.com/album/3aReeY5pwXOg0cb533n6NU"
@@ -85,23 +101,7 @@
       "url": "https://open.spotify.com/track/07Gs0ryBZ4iU0pkzGbmuYN"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
-      "album": {
-        "name": "El Hombre Planeta",
-        "url": "https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8"
-      },
-      "artists": [
-        {
-          "name": "Alcal\u00e1 Norte",
-          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
-        }
-      ],
-      "duration_ms": 232255,
-      "name": "El Hombre Planeta",
-      "url": "https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d"
-    },
-    {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Demian",
         "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/1vCsE1kvMsPLUk4WJ1ELaa"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "CHATO",
         "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
@@ -137,7 +137,23 @@
       "url": "https://open.spotify.com/track/2O9Dv1K2zHwF4j6jSApQLr"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
+      "album": {
+        "name": "Mi loco cowboy",
+        "url": "https://open.spotify.com/album/55FFc3Qs71UsBrKSaA5PQj"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 188256,
+      "name": "Mi loco cowboy",
+      "url": "https://open.spotify.com/track/5XiFK0lqhOUlGPXFyfrIbc"
+    },
+    {
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Lip Combo",
         "url": "https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT"
@@ -161,23 +177,7 @@
       "url": "https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
-      "album": {
-        "name": "Mi loco cowboy",
-        "url": "https://open.spotify.com/album/55FFc3Qs71UsBrKSaA5PQj"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 188256,
-      "name": "Mi loco cowboy",
-      "url": "https://open.spotify.com/track/5XiFK0lqhOUlGPXFyfrIbc"
-    },
-    {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Haci\u00e9ndome ilusiones",
         "url": "https://open.spotify.com/album/4N653iEm1amXAAtPL3QFuc"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/2iJwU9xQ3zYUCTfTYa2pcB"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Alcal\u00e1 Norte",
         "url": "https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/3ktWmFzt95zM8b4kLjvM4V"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Canci\u00f3n En Murcia",
         "url": "https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C"
@@ -225,23 +225,7 @@
       "url": "https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
-      "album": {
-        "name": "Neofita",
-        "url": "https://open.spotify.com/album/711kCEcjlE8DucV3Z7b2fp"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "TOTO DE LOCA",
-      "url": "https://open.spotify.com/track/1BHscyZF6ZHx534gxTsjPe"
-    },
-    {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "ALKIMIA",
         "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
@@ -257,7 +241,23 @@
       "url": "https://open.spotify.com/track/5vPJFif5AA5whBJvhPvHGM"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
+      "album": {
+        "name": "Neofita",
+        "url": "https://open.spotify.com/album/711kCEcjlE8DucV3Z7b2fp"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "TOTO DE LOCA",
+      "url": "https://open.spotify.com/track/1BHscyZF6ZHx534gxTsjPe"
+    },
+    {
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "El Mundo Nadie",
         "url": "https://open.spotify.com/album/2ebXa37CytU1fUkMucOhWN"
@@ -273,10 +273,10 @@
       "url": "https://open.spotify.com/track/2drLIPJ3A7yJgsUnbJc1UI"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
-        "name": "Alcal\u00e1 Norte",
-        "url": "https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR"
+        "name": "El Hombre Planeta",
+        "url": "https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8"
       },
       "artists": [
         {
@@ -284,12 +284,12 @@
           "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
         }
       ],
-      "duration_ms": 210850,
-      "name": "La Calle Elfo",
-      "url": "https://open.spotify.com/track/0lxSWjuNF9jLkL41wgpTZy"
+      "duration_ms": 232255,
+      "name": "El Hombre Planeta",
+      "url": "https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "TROYA",
         "url": "https://open.spotify.com/album/7f9VUTJqqXjMWJl8Sa8xQI"
@@ -309,27 +309,7 @@
       "url": "https://open.spotify.com/track/5Lb0zm6G95Ckud7xi7CObX"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
-      "album": {
-        "name": "JANE DOE IN THE DREAM HOUSE",
-        "url": "https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
-        }
-      ],
-      "duration_ms": 135019,
-      "name": "UNA BIMBO POR MADRID",
-      "url": "https://open.spotify.com/track/6ccAIVGiwh5DsVMEdc14oS"
-    },
-    {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Demian",
         "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
@@ -349,7 +329,27 @@
       "url": "https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
+      "album": {
+        "name": "JANE DOE IN THE DREAM HOUSE",
+        "url": "https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        }
+      ],
+      "duration_ms": 135019,
+      "name": "UNA BIMBO POR MADRID",
+      "url": "https://open.spotify.com/track/6ccAIVGiwh5DsVMEdc14oS"
+    },
+    {
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Tu no est\u00e1s sola",
         "url": "https://open.spotify.com/album/769d4Of1bYO5Pt3m1YLkpp"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/5kJJUScriQ6h6k3yIQfCgR"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Alcal\u00e1 Norte",
         "url": "https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR"
@@ -380,12 +380,12 @@
           "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
         }
       ],
-      "duration_ms": 198010,
-      "name": "La Sangre del Pobre",
-      "url": "https://open.spotify.com/track/7K7Qu4nsIF5YN14M4zElp2"
+      "duration_ms": 210850,
+      "name": "La Calle Elfo",
+      "url": "https://open.spotify.com/track/0lxSWjuNF9jLkL41wgpTZy"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "ALKIMIA",
         "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
@@ -401,7 +401,23 @@
       "url": "https://open.spotify.com/track/18zzzdkP3Ns1JNR0764nNY"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
+      "album": {
+        "name": "Beatrice",
+        "url": "https://open.spotify.com/album/1eLk3Z1aBVgPaIMH3JhqDr"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 138150,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/60soEK2W8RM0Yo4mg9Arbm"
+    },
+    {
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "T\u00da Y YO",
         "url": "https://open.spotify.com/album/0kh1590sccSWKaAD5KeQcm"
@@ -425,23 +441,7 @@
       "url": "https://open.spotify.com/track/28DaYAyVnQwCIszMqi5FCV"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
-      "album": {
-        "name": "Beatrice",
-        "url": "https://open.spotify.com/album/1eLk3Z1aBVgPaIMH3JhqDr"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 138150,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/60soEK2W8RM0Yo4mg9Arbm"
-    },
-    {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Esto del Amor Nada",
         "url": "https://open.spotify.com/album/4eTy6HIxG2V7hE70TgVjTh"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/2BvsXvXXWMxnCYNG8CwgTP"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Alcal\u00e1 Norte",
         "url": "https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR"
@@ -468,12 +468,12 @@
           "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
         }
       ],
-      "duration_ms": 204286,
-      "name": "No Llores, Dr G",
-      "url": "https://open.spotify.com/track/3dm8ExUF8GZa6EXN7kKAZR"
+      "duration_ms": 198010,
+      "name": "La Sangre del Pobre",
+      "url": "https://open.spotify.com/track/7K7Qu4nsIF5YN14M4zElp2"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "ALKIMIA",
         "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
@@ -489,7 +489,23 @@
       "url": "https://open.spotify.com/track/6PlRV8KcMYSuS4p3tkSlow"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
+      "album": {
+        "name": "Abraxas!",
+        "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 249124,
+      "name": "Abraxas!",
+      "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
+    },
+    {
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "JANE DOE IN THE DREAM HOUSE",
         "url": "https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2"
@@ -509,23 +525,7 @@
       "url": "https://open.spotify.com/track/7i1FtYA6fHykC4CiHY1Ift"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
-      "album": {
-        "name": "Abraxas!",
-        "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 249124,
-      "name": "Abraxas!",
-      "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
-    },
-    {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "La Ruleta",
         "url": "https://open.spotify.com/album/1EOtjk5NtQAAFWayhbCB2a"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/6Bmtn6pCBjK8jea8HoouQg"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Alcal\u00e1 Norte",
         "url": "https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR"
@@ -552,12 +552,12 @@
           "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
         }
       ],
-      "duration_ms": 184726,
-      "name": "El Rey De Los Jud\u00edos (Un Cosquilleo)",
-      "url": "https://open.spotify.com/track/0rpWNeRBXnHPIaHBplGJW3"
+      "duration_ms": 204286,
+      "name": "No Llores, Dr G",
+      "url": "https://open.spotify.com/track/3dm8ExUF8GZa6EXN7kKAZR"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Demian",
         "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/5N8fN1KXVJ4py0xKeeKr0D"
     },
     {
-      "added_at": "2026-04-24 13:58:46",
+      "added_at": "2026-05-14 22:01:53",
       "album": {
         "name": "Sea como Sea",
         "url": "https://open.spotify.com/album/4XxPjsotbbdjY4T4iDG5pP"
@@ -587,6 +587,22 @@
       "duration_ms": 163109,
       "name": "Sea como Sea",
       "url": "https://open.spotify.com/track/0P4VuDVzqrZMXGpgl8T20C"
+    },
+    {
+      "added_at": "2026-05-14 22:01:53",
+      "album": {
+        "name": "Alcal\u00e1 Norte",
+        "url": "https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "duration_ms": 184726,
+      "name": "El Rey De Los Jud\u00edos (Un Cosquilleo)",
+      "url": "https://open.spotify.com/track/0rpWNeRBXnHPIaHBplGJW3"
     }
   ],
   "unique_name": "RADAR Espa\u00f1a",

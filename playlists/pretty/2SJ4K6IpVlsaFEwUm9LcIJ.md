@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,332 likes - 21 songs - 1 hr 19 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,330 likes - 22 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,5 +29,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 19 | [If Lady Does It](https://open.spotify.com/track/4cEIOH8zQJRUNt9TGZGQ2Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:12 |
 | 20 | [Half a Million Miles from Home](https://open.spotify.com/track/047PqVwCAmSuowUYFD5ger) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 3:25 |
 | 21 | [The Turnaround Road](https://open.spotify.com/track/5bK3tLaBVX7lSfGavEm2VH) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 5:19 |
+| 22 | [Fatale](https://open.spotify.com/track/3G2qTBALAKtJoheQOMXBpx) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [+3](https://open.spotify.com/album/5u171dsX9oQuhzIQBXfkFl) | 3:19 |
 
-Snapshot ID: `AAAOVZSWjgVBE5hQRWRC4r5ftQTY9G1O`
+Snapshot ID: `AAAOViL49Pn7fXB8M4YtXAR7BC2Dgxh9`

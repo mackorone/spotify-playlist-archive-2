@@ -2,12 +2,13 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🎂 Lagkagehuset freeestyling 🎂 @MichaelxWilliams
+> Cizzo Europa Favela 👀
 
-537 songs - 22 hr 54 min
+542 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [!os to](https://open.spotify.com/track/60ki3T3r0j50PsHn316qEO) | [lesliecph](https://open.spotify.com/artist/3iSL8E9gd8BN8qpxqmX4VE) | [!os to](https://open.spotify.com/album/4wT4QCQhqQVbosxexgcbXU) | 2:19 | 2026-05-14 |  |
 | [$AMMEN](https://open.spotify.com/track/2eEUhbrrR7ZwYkOKDIO9oh) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [$AMMEN](https://open.spotify.com/album/7C2AQA02ZhqeKf8UPYDcTD) | 3:02 | 2026-04-07 |  |
 | [007](https://open.spotify.com/track/00EfuUUB0p9I4Ilq72WmYT) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [007](https://open.spotify.com/album/1QltDJCPYys8wTwNOFxTvo) | 2:24 | 2024-08-15 | 2024-11-08 |
 | [02:34](https://open.spotify.com/track/73OdVr9HsrpRpbdXvqxHYm) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [02:34](https://open.spotify.com/album/0BbICx4813rb9ZUpKP29Eg) | 2:57 | 2025-04-17 | 2025-10-03 |
@@ -108,6 +109,7 @@
 | [CHECK](https://open.spotify.com/track/2xVSw3PoyrVPWXbiWf0oqx) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [CHECK](https://open.spotify.com/album/1hd3Qp6u1bJ0K7cNH938tb) | 1:54 | 2025-03-06 | 2025-06-13 |
 | [Chicagenhagen](https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:33 | 2024-06-20 | 2025-04-18 |
 | [Chocola](https://open.spotify.com/track/0ZtqiH3Law79itqfAzHApC) | [Sleiman](https://open.spotify.com/artist/2HTE5rhkzmNb4IiGrop13q), [AWADA](https://open.spotify.com/artist/08Mi8yWtTfL2aWlZIG135P) | [Chocola](https://open.spotify.com/album/6OEqU0UOYKlqn099nLP1oM) | 2:12 | 2023-11-10 | 2024-04-26 |
+| [Chris Rock](https://open.spotify.com/track/10gpiwqeHRT2tA5tshcu4n) | [YAWO](https://open.spotify.com/artist/2djIkthTh1g6Pu2mVCEHdZ) | [Chris Rock](https://open.spotify.com/album/2H6Py3pxD3UoVUEJdcCmdd) | 2:10 | 2026-05-14 |  |
 | [Christopher Nolan](https://open.spotify.com/track/1grqsdlUGsZTWZtCWkFwlc) | [Cezar](https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK) | [Christopher Nolan](https://open.spotify.com/album/1c5G0v0IQRGziB4LpatXyx) | 2:43 | 2025-08-07 | 2025-08-22 |
 | [CHU CHU CHA](https://open.spotify.com/track/3EfyNPxKn8PmM6ivb29yvf) | [NS Gang](https://open.spotify.com/artist/7dqU1R2GEszJk2C0ScnwQW) | [CHU CHU CHA](https://open.spotify.com/album/7pxcGrZXxHn8ihWZKcrHHZ) | 2:30 | 2025-04-24 | 2025-05-30 |
 | [Cinema](https://open.spotify.com/track/0uvfJzdcz7rKBlDshVco6M) | [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Cinema](https://open.spotify.com/album/5mtaGoCppxoFcyZ7B02wiV) | 2:54 | 2024-12-05 | 2025-04-18 |
@@ -220,6 +222,7 @@
 | [Glem Nu](https://open.spotify.com/track/7vWbMVQqpqvP20o6eQMSvo) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Glem Nu](https://open.spotify.com/album/23cZsSmIkjeqU3pdqCxGeM) | 2:46 | 2024-09-27 | 2024-11-01 |
 | [GO](https://open.spotify.com/track/3ZhAJ9vOYKeaeo8m2OtKlh) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [GO](https://open.spotify.com/album/445LOHJRfwq4dR3f77oWBF) | 2:34 | 2024-05-30 | 2025-01-10 |
 | [Gone](https://open.spotify.com/track/64uzNBLwjR0ZkSS3R8xKe1) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Gone](https://open.spotify.com/album/6pUqW06fBNLb6cmPg7cw8D) | 2:30 | 2026-02-26 |  |
+| [gossip](https://open.spotify.com/track/7xJEerUJU59Qr0OD2SMo5I) | [madsemil](https://open.spotify.com/artist/4gD8XuLJ3JfZXjxwK5b34u) | [gossip](https://open.spotify.com/album/1lGaCN7SRImdRZa68qvIHQ) | 2:33 | 2026-05-14 |  |
 | [Graffiti](https://open.spotify.com/track/2KpulNb5RWB2flro8HYm3K) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Graffiti](https://open.spotify.com/album/01aGurolrsjwZJbQ6V7KuH) | 2:13 | 2024-01-18 | 2024-02-23 |
 | [Grim Verden](https://open.spotify.com/track/6AIAWHWftd6fwVd9wbwPkv) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Grim Verden](https://open.spotify.com/album/50oFS5rbWDpPodUYOV3Ewv) | 3:45 | 2024-04-18 | 2024-04-26 |
 | [Guld](https://open.spotify.com/track/11etqbG118JJvJGMS5Rtv7) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [OG SÅ VIDERE](https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3) | 3:13 | 2024-03-08 | 2024-04-05 |
@@ -313,6 +316,7 @@
 | [Lagkagehuset Freestyle](https://open.spotify.com/track/3klUfjdR7eOQ1ugy82Mio9) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE) | [Bag Gardinerne S1+S2](https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R) | 2:31 | 2026-05-05 |  |
 | [Langsom](https://open.spotify.com/track/5kGceOsJc3EP5BZ7a7OrvQ) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0), [Asta Brix](https://open.spotify.com/artist/7jdou2ayaa86lDotGOCwpg) | [HØJERE](https://open.spotify.com/album/1vhjwh1XoAqwaqQ2AMn0QO) | 2:59 | 2025-06-26 | 2026-04-10 |
 | [Langt Væk](https://open.spotify.com/track/29wJ4iomPWiJLXaXYhowRu) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Langt Væk](https://open.spotify.com/album/21xYB9rpuvfWagpQkuAxdV) | 2:09 | 2024-10-10 | 2024-11-01 |
+| [LAOSGØRD](https://open.spotify.com/track/3U7XMqWkOE7tGNVbnzuwmT) | [Samz](https://open.spotify.com/artist/08kBUnps81JVmjynn2MDUH) | [LAOSGØRD](https://open.spotify.com/album/6direo09OW76rIpA69QNPw) | 2:43 | 2026-05-14 |  |
 | [Lean Back](https://open.spotify.com/track/3C5GTbN0DjMWqoW8MrfsaS) | [LEE](https://open.spotify.com/artist/0tQ5b76y1jrXNQ63299Sgv) | [Lean Back](https://open.spotify.com/album/2X19I3nqDmmzm0bhxS4ww0) | 1:55 | 2023-11-10 | 2023-12-14 |
 | [LEV I NUET](https://open.spotify.com/track/5fHydJvKwLenrvyczUqXBq) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [LEV I NUET](https://open.spotify.com/album/217rsfZFitLn1ris3ZjEEJ) | 2:16 | 2024-01-11 | 2024-09-13 |
 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-21 | 2024-05-14 |
@@ -439,6 +443,7 @@
 | [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 | 2023-11-16 | 2024-01-04 |
 | [Skarpt Lys](https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:03 | 2023-12-21 | 2024-02-10 |
 | [Skarpt Lys](https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Skarpt Lys](https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y) | 3:04 | 2023-10-05 | 2024-09-13 |
+| [Skorpion](https://open.spotify.com/track/5WPobSQHnXB29oWKu4jc0j) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Skorpion](https://open.spotify.com/album/5spYdYlOsZpIPHnvxx6hcW) | 2:17 | 2026-05-14 |  |
 | [Skrue Løs](https://open.spotify.com/track/7ARkCctaMpssbrBp8J4w8C) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Skrue Løs](https://open.spotify.com/album/6dPL421VFL9pfJOgk3BXjm) | 2:04 | 2024-05-03 | 2024-11-01 |
 | [Skyder](https://open.spotify.com/track/6qIOKgsEwl2BePj9EMRvK1) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Skyder](https://open.spotify.com/album/7qlFcCOByEoRi66IVAD2Fc) | 1:59 | 2025-09-18 | 2025-10-10 |
 | [SkyLL](https://open.spotify.com/track/4MJG5WsX0iZPnSsToLXiqh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:56 | 2024-09-19 | 2025-03-14 |

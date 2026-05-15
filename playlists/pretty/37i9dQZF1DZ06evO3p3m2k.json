@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5721,
+  "num_followers": 5723,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAAV+Ad+2I13WdBxs23XY3p8",
+  "snapshot_id": "agO/AAAAAABS4mWL7JjD3iNMUeqseHfS",
   "tracks": [
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 187805,
-      "name": "Paciente",
-      "url": "https://open.spotify.com/track/2x6RrcueNTLQuloTnR1ULz"
+      "duration_ms": 171000,
+      "name": "Submarino",
+      "url": "https://open.spotify.com/track/458HEdjsqtvw5x7QXmFNL6"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Submarino",
-      "url": "https://open.spotify.com/track/458HEdjsqtvw5x7QXmFNL6"
+      "duration_ms": 187805,
+      "name": "Paciente",
+      "url": "https://open.spotify.com/track/2x6RrcueNTLQuloTnR1ULz"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Primera Vez",
-        "url": "https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS"
-      },
-      "artists": [
-        {
-          "name": "Opa!",
-          "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
-        },
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 305898,
-      "name": "La Primera Vez",
-      "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
         "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 218460,
       "name": "La Primera Vez - Remix",
       "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Primera Vez",
+        "url": "https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS"
+      },
+      "artists": [
+        {
+          "name": "Opa!",
+          "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 305898,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: \u00c5ret Var",
+  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Sylvie\u00b4s Head",
   "name": "Indie Highlights",
   "tracks": [
     {
@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "at least this far",
+        "url": "https://open.spotify.com/album/6uM4SwL7OGzJrh3orlTpke"
+      },
+      "artists": [
+        {
+          "name": "lucca",
+          "url": "https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166243,
+      "name": "at least this far",
+      "url": "https://open.spotify.com/track/0TH76Cwoi9kiQu55CiTgMr"
+    },
+    {
+      "album": {
         "name": "At My Best",
         "url": "https://open.spotify.com/album/7yDkhM5joo3A3aDa3OJgI5"
       },
@@ -2310,6 +2328,24 @@
       "duration_ms": 175555,
       "name": "Black Lake",
       "url": "https://open.spotify.com/track/4jQsY9gkKNevXHvdXS16aI"
+    },
+    {
+      "album": {
+        "name": "black shore",
+        "url": "https://open.spotify.com/album/5mkLiF2fLFsSZ8H9JdbgmP"
+      },
+      "artists": [
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "black shore",
+      "url": "https://open.spotify.com/track/4gIZZZ6RMXQXTRZliQaLS9"
     },
     {
       "album": {
@@ -7113,6 +7149,24 @@
     },
     {
       "album": {
+        "name": "gentle",
+        "url": "https://open.spotify.com/album/6vuU89yWqmZxNtCsVamLRm"
+      },
+      "artists": [
+        {
+          "name": "Venus Anon",
+          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168374,
+      "name": "gentle",
+      "url": "https://open.spotify.com/track/2a6vbPZqTMfbiMCW3Y4RYa"
+    },
+    {
+      "album": {
         "name": "Get down / Lovin you",
         "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
       },
@@ -9538,6 +9592,24 @@
       "duration_ms": 318493,
       "name": "I \u00d6gats Ljus",
       "url": "https://open.spotify.com/track/09SFbnSumIiYo69krgCBTH"
+    },
+    {
+      "album": {
+        "name": "I'd love to be a star, but I'm tired as fuck",
+        "url": "https://open.spotify.com/album/1eBcNO07bb58jDOx4UJ9oi"
+      },
+      "artists": [
+        {
+          "name": "Mercedess",
+          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215454,
+      "name": "I'd love to be a star",
+      "url": "https://open.spotify.com/track/1iSXI8IPkPMxtITODa0mTg"
     },
     {
       "album": {
@@ -18813,6 +18885,46 @@
     },
     {
       "album": {
+        "name": "Everything Is Free",
+        "url": "https://open.spotify.com/album/5rfn2Yf5PQgtmEgeKMTuOB"
+      },
+      "artists": [
+        {
+          "name": "Sylvie's Head",
+          "url": "https://open.spotify.com/artist/6Re2HYnIxbLkNiAY5QqPDa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331440,
+      "name": "Stop Dreaming",
+      "url": "https://open.spotify.com/track/63Bbwme1KUESI8bwTq5GoM"
+    },
+    {
+      "album": {
+        "name": "storm",
+        "url": "https://open.spotify.com/album/2f5Y9qfe3ec2bdGPTh48Wr"
+      },
+      "artists": [
+        {
+          "name": "boerd",
+          "url": "https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff"
+        },
+        {
+          "name": "ABY iO",
+          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204202,
+      "name": "storm",
+      "url": "https://open.spotify.com/track/7A2mil3VNQu3R9F2ElS1zL"
+    },
+    {
+      "album": {
         "name": "STORM",
         "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
       },
@@ -19573,6 +19685,24 @@
     },
     {
       "album": {
+        "name": "The Arms Of You",
+        "url": "https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170302,
+      "name": "The Arms Of You",
+      "url": "https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY"
+    },
+    {
+      "album": {
         "name": "The artist is absent",
         "url": "https://open.spotify.com/album/7egg349kHYANI2fdTjQXSk"
       },
@@ -20189,6 +20319,24 @@
     },
     {
       "album": {
+        "name": "The Space Between",
+        "url": "https://open.spotify.com/album/6DEoFmTsmNZDQRI1tSuMj9"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161100,
+      "name": "The Space Between",
+      "url": "https://open.spotify.com/track/6A86oMRy0oUi9XU4K84H4o"
+    },
+    {
+      "album": {
         "name": "I quit (deluxe)",
         "url": "https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu"
       },
@@ -20558,6 +20706,24 @@
       "duration_ms": 260407,
       "name": "Thrown Around",
       "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
+    },
+    {
+      "album": {
+        "name": "Tiden",
+        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242641,
+      "name": "Tiden",
+      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
     },
     {
       "album": {
@@ -20946,6 +21112,24 @@
       "duration_ms": 239748,
       "name": "Took the Train 'til the End",
       "url": "https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL"
+    },
+    {
+      "album": {
+        "name": "I'm Fine",
+        "url": "https://open.spotify.com/album/0KrkqXQ7SfG1siefSnXPUo"
+      },
+      "artists": [
+        {
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 13",
+      "url": "https://open.spotify.com/track/6sJEtAvb5P0Q2NII6ynUNa"
     },
     {
       "album": {

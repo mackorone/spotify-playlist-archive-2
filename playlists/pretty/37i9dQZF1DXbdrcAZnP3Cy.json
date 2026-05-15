@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 215711,
+  "num_followers": 215758,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Botella Tras Botella",
-        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Botella Tras Botella",
-      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
+      "duration_ms": 180733,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -259,18 +255,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Arriba Huentitan",
-        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+        "name": "Botella Tras Botella",
+        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 180733,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+      "duration_ms": 197333,
+      "name": "Botella Tras Botella",
+      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Aceptalo Ya !",
-        "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
-      },
-      "artists": [
-        {
-          "name": "Los Canarios De Michoacan",
-          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "El Wiri Wiri Aka El Guiri Guiri",
-      "url": "https://open.spotify.com/track/1fYwFiuLGzGuXRiwvHqqjl"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Mi Colecci\u00f3n",
         "url": "https://open.spotify.com/album/28iH8QQN9CbafK21M0BebE"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 225906,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/3fbALzbCtA459yOAJ2FChx"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Aceptalo Ya !",
+        "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
+      },
+      "artists": [
+        {
+          "name": "Los Canarios De Michoacan",
+          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "El Wiri Wiri Aka El Guiri Guiri",
+      "url": "https://open.spotify.com/track/1fYwFiuLGzGuXRiwvHqqjl"
     },
     {
       "added_at": "2024-08-30 08:25:49",

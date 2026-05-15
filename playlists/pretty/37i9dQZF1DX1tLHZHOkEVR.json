@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers to soundtrack the happiest day of your life.",
-  "num_followers": 362282,
+  "num_followers": 362347,
   "original_name": "Wedding Party",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
-        "name": "Simply the Best",
-        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 255936,
-      "name": "The Best - Edit",
-      "url": "https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F"
-    },
-    {
-      "added_at": "2024-03-18 17:00:39",
-      "album": {
         "name": "The Essential Billy Joel",
         "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 198294,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV"
+    },
+    {
+      "added_at": "2024-03-18 17:00:39",
+      "album": {
+        "name": "Simply the Best",
+        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 255936,
+      "name": "The Best - Edit",
+      "url": "https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F"
     },
     {
       "added_at": "2024-03-18 17:00:39",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Get Busy",
-      "url": "https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr"
-    },
-    {
-      "added_at": "2024-03-18 17:00:39",
-      "album": {
         "name": "Talk That Talk (Deluxe)",
         "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/5uImkHXfTLkNYwemtGH7kB"
+    },
+    {
+      "added_at": "2024-03-18 17:00:39",
+      "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr"
     },
     {
       "added_at": "2024-03-18 17:00:39",
@@ -1567,6 +1567,42 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4nAIqmKELnBEXEkYg1pMic"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 284733,
+      "name": "American Boy (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/41on8RwRh22IHcChAN2gm8"
+    },
+    {
+      "added_at": "2024-03-18 17:00:39",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 250306,
+      "name": "Livin' On A Prayer",
+      "url": "https://open.spotify.com/track/2tyW1uBUnYMKAFEfKDKi9B"
+    },
+    {
+      "added_at": "2024-03-18 17:00:39",
+      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/3nxlM2DFwij3JVP55yNRya"
       },
@@ -1603,42 +1639,6 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "Livin' On A Prayer",
-      "url": "https://open.spotify.com/track/2tyW1uBUnYMKAFEfKDKi9B"
-    },
-    {
-      "added_at": "2024-03-18 17:00:39",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4nAIqmKELnBEXEkYg1pMic"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 284733,
-      "name": "American Boy (feat. Kanye West)",
-      "url": "https://open.spotify.com/track/41on8RwRh22IHcChAN2gm8"
-    },
-    {
-      "added_at": "2024-03-18 17:00:39",
-      "album": {
         "name": "Tango In The Night",
         "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
       },
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
-        "name": "Rhino Hi-Five: A-Ha",
-        "url": "https://open.spotify.com/album/2nvTm82RzlrbX0yhb7Tsbn"
+        "name": "Let's Dance (1999 Remaster)",
+        "url": "https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR"
       },
       "artists": [
         {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 227146,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/1nbMkRhfldXcmCyB83x8lK"
+      "duration_ms": 457133,
+      "name": "Let's Dance - 1999 Remaster",
+      "url": "https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm"
     }
   ],
   "unique_name": "Wedding Party",

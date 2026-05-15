@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,680 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,689 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 33 | [Hip Shakin' Baby](https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Rock & Roll Is Everywhere](https://open.spotify.com/album/74UQcWKIYIRoZHGjczEXvU) | 2:09 |
 | 34 | [Let's Have A Party](https://open.spotify.com/track/4BdwYhbBITL4fytlFSwv9o) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Ultimate Collection](https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI) | 2:07 |
 | 35 | [Teased UP!](https://open.spotify.com/track/70b1gvXV3nWne0s9tyWoSP) | [AT's Roots & Ramblin'](https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O) | [Teased UP!](https://open.spotify.com/album/2n5vYkijDHBRHnxgygqp7a) | 2:05 |
-| 36 | [Promised Land](https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Promised Land](https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo) | 3:08 |
-| 37 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
+| 36 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
+| 37 | [Promised Land](https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Promised Land](https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo) | 3:08 |
 | 38 | [Far Too Far Away](https://open.spotify.com/track/26LN2TRg48VT6qKVo5O7Wt) | [Cat Lee King & His Cocks](https://open.spotify.com/artist/0TW61xr4ymSp2KxgiBXRJT) | [Cock Tales](https://open.spotify.com/album/0R9uSz4xu1Vxqpxp5sK52O) | 2:37 |
 | 39 | [My Little Sister Gotta Motorbike](https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Our Own Way Of Rockin'](https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO) | 2:45 |
 | 40 | [Keep On Loving Me Baby \- The original live recordings](https://open.spotify.com/track/6sQjLATFOYyHE61ZW0xBkE) | [Bluebirds](https://open.spotify.com/artist/2tSCSRIiOya3O652PDmu3S) | [You Take My Blues Away \(The original live recordings\)](https://open.spotify.com/album/5OEyHOsTdKftIsSbzKl8Ci) | 3:38 |

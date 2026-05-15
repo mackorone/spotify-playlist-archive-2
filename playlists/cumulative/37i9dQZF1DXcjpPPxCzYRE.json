@@ -60,7 +60,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 198351,
       "name": "(pablo)",
       "url": "https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo"
@@ -856,6 +856,24 @@
       "duration_ms": 125046,
       "name": "Aunque no quiera te amar\u00e9",
       "url": "https://open.spotify.com/track/07oIpKa4ecuirknaJezKXi"
+    },
+    {
+      "album": {
+        "name": "Ave de Paso",
+        "url": "https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230588,
+      "name": "Ave de Paso",
+      "url": "https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA"
     },
     {
       "album": {
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 186178,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw"
@@ -3373,6 +3391,24 @@
     },
     {
       "album": {
+        "name": "girlhood",
+        "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231910,
+      "name": "girlhood",
+      "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
+    },
+    {
+      "album": {
         "name": "Gothic Babe Tendencies (feat. blackbear)",
         "url": "https://open.spotify.com/album/28jYKoBBu4hjMUPBU5cL6n"
       },
@@ -3862,7 +3898,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 212017,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
@@ -4654,7 +4690,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 328960,
       "name": "La jugada maestra",
       "url": "https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A"
@@ -7809,6 +7845,24 @@
     },
     {
       "album": {
+        "name": "Los problemas se frotan",
+        "url": "https://open.spotify.com/album/4ahZcKacaiTXLIuHOJoUOL"
+      },
+      "artists": [
+        {
+          "name": "Lorea",
+          "url": "https://open.spotify.com/artist/1MDkDwsmewnWgu5bS7k149"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Se me va la cabeza",
+      "url": "https://open.spotify.com/track/13EH3kAXsKW4JsV0VXUqHP"
+    },
+    {
+      "album": {
         "name": "The Wild Swan",
         "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
       },
@@ -8306,7 +8360,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 214120,
       "name": "Srs Ice",
       "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"

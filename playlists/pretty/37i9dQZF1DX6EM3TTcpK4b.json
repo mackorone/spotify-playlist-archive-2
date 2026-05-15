@@ -1,6 +1,6 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Lola Beltr\u00e1n",
-  "num_followers": 472188,
+  "num_followers": 472259,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 167897,
-      "name": "Le Hace Falta Un Beso",
-      "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Mi Mexico",
         "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 288160,
       "name": "Mi Talism\u00e1n",
       "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 167897,
+      "name": "Le Hace Falta Un Beso",
+      "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Mi Persona Preferida",
-        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 272866,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Mi Persona Preferida",
+        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Lo Mejor De Nosotros",
-        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 260829,
-      "name": "Me Vas A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 229200,
       "name": "T\u00fa Lo Decidiste",
       "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Lo Mejor De Nosotros",
+        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 260829,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "No Entiendo",
+      "url": "https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 222760,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "No Entiendo",
-      "url": "https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
       },
       "artists": [
         {
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 166533,
-      "name": "Que Seas Muy Feliz",
-      "url": "https://open.spotify.com/track/57FK6Fq03tJjZbphA0Fjwd"
+      "duration_ms": 208266,
+      "name": "Tantita Pena",
+      "url": "https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Pa' Todo el A\u00f1o",
-      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Con Mariachi",
         "url": "https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF"
       },
@@ -1179,8 +1163,24 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Pa' Todo el A\u00f1o",
+      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Tantita Pena",
-      "url": "https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0"
+      "duration_ms": 166533,
+      "name": "Que Seas Muy Feliz",
+      "url": "https://open.spotify.com/track/57FK6Fq03tJjZbphA0Fjwd"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 144706,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
         "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 128400,
       "name": "Libro Abierto",
       "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 144706,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2051,8 +2051,8 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Dos Mundos Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
+        "name": "Caballero",
+        "url": "https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C"
       },
       "artists": [
         {
@@ -2060,9 +2060,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 195906,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/2NLAraJgphfdy2sWQ4LWm4"
+      "duration_ms": 228506,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2131,8 +2131,8 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Caballero",
-        "url": "https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C"
+        "name": "Dos Mundos Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
       "artists": [
         {
@@ -2140,9 +2140,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9"
+      "duration_ms": 195906,
+      "name": "Estuve",
+      "url": "https://open.spotify.com/track/2NLAraJgphfdy2sWQ4LWm4"
     },
     {
       "added_at": "2024-07-03 18:18:42",

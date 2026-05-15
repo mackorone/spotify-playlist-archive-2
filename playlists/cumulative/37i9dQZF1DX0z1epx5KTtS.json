@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "AMBIANCE",
+        "url": "https://open.spotify.com/album/4BnNZLG5DbxQmi5s5o7OEh"
+      },
+      "artists": [
+        {
+          "name": "VDA",
+          "url": "https://open.spotify.com/artist/5KFQVUUJceKqUAjdtMD4D0"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248633,
+      "name": "AMBIANCE",
+      "url": "https://open.spotify.com/track/7uK6bcUf92yoNy1CmBhAXZ"
+    },
+    {
+      "album": {
         "name": "Ambiance Mopacho",
         "url": "https://open.spotify.com/album/5QgIL8XeuoJgyqUeXEx1g6"
       },
@@ -958,7 +976,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140571,
       "name": "C'est G\u00e2t\u00e9 partout",
       "url": "https://open.spotify.com/track/7D9dBLIcRVVaflhhPJtSaX"

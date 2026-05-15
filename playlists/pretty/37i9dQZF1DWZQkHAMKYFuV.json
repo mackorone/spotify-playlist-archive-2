@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 161453,
+  "num_followers": 161464,
   "original_name": "Los 10s",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
+        "name": "H\u00e1blate de M\u00ed",
+        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 211021,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
         "name": "Motivan2",
         "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
@@ -311,38 +327,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "H\u00e1blate de M\u00ed",
-        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 211021,
-      "name": "Beso",
-      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 240092,
-      "name": "Encantadora",
-      "url": "https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 200586,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 240092,
+      "name": "Encantadora",
+      "url": "https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Amorfoda",
-        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 153887,
-      "name": "Amorfoda",
-      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "Don Omar Presents MTO2: New Generation",
         "url": "https://open.spotify.com/album/7vyVMX83PJNulUZUgbKfuY"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 285333,
       "name": "Dutty Love",
       "url": "https://open.spotify.com/track/2oJH69cuNyWpCmZyTmvrEN"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
+        "name": "Amorfoda",
+        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 153887,
+      "name": "Amorfoda",
+      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -939,22 +939,42 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+        "name": "Climaxxx",
+        "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         },
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Rafa Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+      "duration_ms": 360960,
+      "name": "Pa M\u00ed (Remix)",
+      "url": "https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz"
     }
   ],
   "unique_name": "Los 10s",

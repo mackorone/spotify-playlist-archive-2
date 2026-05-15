@@ -2,9 +2,9 @@
 
 ### [mint Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in Africa\. Cover: Goldmax
+> The best dance hits in Africa\. Cover: Muzi
 
-1,473 songs - 5 day 10 hr 33 min
+1,474 songs - 5 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,6 +668,7 @@
 | [Khanyisela](https://open.spotify.com/track/2sRp8X8zJsx46EpP3hY2Q3) | [Kuthathu](https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh), [Luna Iyana](https://open.spotify.com/artist/7zZTs3aNJQrlgtK9tHFF83) | [Khanyisela](https://open.spotify.com/album/1EoDtq53w8HuMAGqiqm8CE) | 6:04 | 2025-07-17 | 2025-07-23 |
 | [Khawuleza](https://open.spotify.com/track/6sb5w4sI7vGz8eTGJeo14o) | [AfroTura](https://open.spotify.com/artist/3vvjmN7sqoO42Wsusz4wBS), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8) | [Khawuleza](https://open.spotify.com/album/2hLZ0Cbiky9LtRz36BAcZz) | 7:37 | 2022-05-12 | 2022-08-06 |
 | [Khetha](https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf) | [Khetha](https://open.spotify.com/album/20qljRtdrfq1pY4UL7xI8Z) | 7:39 | 2025-12-05 | 2026-04-10 |
+| [Khethile](https://open.spotify.com/track/4v8WbXi1doI5lRV6fko2Yq) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Electric Zululand](https://open.spotify.com/album/1w7SHy1Zu84K4jFRHV8bmr) | 5:22 | 2026-05-14 |  |
 | [Khoisan](https://open.spotify.com/track/2rnvcSb0Of5nxK6nNW0EPX) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT) | [Africa Gets Physical, Vol\. 4](https://open.spotify.com/album/3EYT5rRhfYfz4ttOl2ILEr) | 4:23 | 2025-04-29 | 2025-05-30 |
 | [Khoisan](https://open.spotify.com/track/4GxlpHNFEyzzdNJre3r2Tw) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT) | [Africa Gets Physical, Vol\. 4](https://open.spotify.com/album/3dAuIqHo6q9ObSes44dB4V) | 4:23 | 2022-01-20 | 2022-05-13 |
 | [Khuleka](https://open.spotify.com/track/1nZpZvtIMQL1SOyKOoeXob) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh) | [Khuleka](https://open.spotify.com/album/4xQ2PrekjHsGjAO7I8hAMF) | 4:56 | 2025-11-13 | 2026-03-20 |
@@ -1080,7 +1081,7 @@
 | [Selimathunzi](https://open.spotify.com/track/40AnkG0nuRI9rvyuSqM9qF) | [Mmthi Junior](https://open.spotify.com/artist/6YV6ti9QL77iI3rX40QMZd), [Cnethemba Gonelo](https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg) | [Selimathunzi](https://open.spotify.com/album/5t1EwXmFT2rnXL3aQD6Xcm) | 6:33 | 2022-07-28 | 2022-08-06 |
 | [Senake \- Radio Edit](https://open.spotify.com/track/4gmKpWRZydgXOMqhhMNEGU) | [Manyelo Dafro](https://open.spotify.com/artist/6QdNEtg0uYiaC4zmgjHbIk) | [Senake](https://open.spotify.com/album/46CfT3q6cqJ0f5DilFkDiV) | 3:10 | 2023-10-16 | 2023-12-02 |
 | [Send Me \- Doug Gomez Remix](https://open.spotify.com/track/0ohYSVz0ASuPOJETQZdEmO) | [Danyel Irsina](https://open.spotify.com/artist/7mBymFgUnzjX7m6Zt6RE1d), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Doug Gomez](https://open.spotify.com/artist/4yITT4lWMZ6Dmb5hQvyFZc) | [Send Me \(Doug Gomez Remix\)](https://open.spotify.com/album/77aajLlLL3GaEnyM4r9BUv) | 3:36 | 2024-10-24 | 2025-02-21 |
-| [Sensational](https://open.spotify.com/track/35DzYSdOBggQOkMWAc99i1) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Sensational](https://open.spotify.com/album/4IvxCQ4Lsg3yCEqo40ic2F) | 2:50 | 2026-01-08 |  |
+| [Sensational](https://open.spotify.com/track/35DzYSdOBggQOkMWAc99i1) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Sensational](https://open.spotify.com/album/4IvxCQ4Lsg3yCEqo40ic2F) | 2:50 | 2026-01-08 | 2026-05-15 |
 | [Sense](https://open.spotify.com/track/37JqKJnCVvvYugc8CoSgmD) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Nothing To Lose](https://open.spotify.com/album/0X4VSasL7jR0Pr3qnVdhvM) | 5:39 | 2026-02-05 |  |
 | [Sentir Le Rhythme \- Original Mix](https://open.spotify.com/track/2nLhP17Nur3rLWup9SEdWe) | [Master A](https://open.spotify.com/artist/2rF7w74yNMrFXlu8hChz1W) | [Sentir Le Rhythme \(Original Mix\)](https://open.spotify.com/album/4DukStzhipZkEhFCc1trAg) | 6:16 | 2022-03-17 | 2022-03-25 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-01-19 | 2023-02-03 |

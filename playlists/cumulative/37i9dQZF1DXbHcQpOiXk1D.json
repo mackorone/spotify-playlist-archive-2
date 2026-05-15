@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Knats",
+  "description": "The best from Britain's vibrant scene. Cover: corto.alto",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 301810,
       "name": "Call to the Void",
       "url": "https://open.spotify.com/track/0ncPxlgGwoVH4CkPrpviIq"
@@ -2502,6 +2502,24 @@
       "duration_ms": 236186,
       "name": "Checkpoint (Violence)",
       "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
+    },
+    {
+      "album": {
+        "name": "Chi Ave/A Love Letter To Salvador",
+        "url": "https://open.spotify.com/album/2i4B2yQ4EOv0xjjNAwNUww"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281520,
+      "name": "Chi Ave/A Love Letter To Salvador",
+      "url": "https://open.spotify.com/track/1LWMeSQAQwxQMU5iliTVWc"
     },
     {
       "album": {
@@ -3064,7 +3082,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 267140,
       "name": "Dance In Praise",
       "url": "https://open.spotify.com/track/7wx3mx0HSQ9u1xLBquLX0n"
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 286733,
       "name": "Deep Space",
       "url": "https://open.spotify.com/track/1xZztngs1PHjcqWVo2ftiQ"
@@ -12321,6 +12339,24 @@
     },
     {
       "album": {
+        "name": "Where Light Settles",
+        "url": "https://open.spotify.com/album/12zXswD56NoDPTM8zlR9Co"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350640,
+      "name": "Some Rain Must Fall",
+      "url": "https://open.spotify.com/track/7bXGshtzy2q4qfndkageDQ"
+    },
+    {
+      "album": {
         "name": "Something Blues",
         "url": "https://open.spotify.com/album/2hWRAC4tDLgUskaJAu8kex"
       },
@@ -14314,6 +14350,24 @@
       "duration_ms": 206517,
       "name": "Thermae",
       "url": "https://open.spotify.com/track/6gtaS2D03P8xr3iMiAHdrq"
+    },
+    {
+      "album": {
+        "name": "THIEF",
+        "url": "https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182248,
+      "name": "THIEF",
+      "url": "https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII"
     },
     {
       "album": {

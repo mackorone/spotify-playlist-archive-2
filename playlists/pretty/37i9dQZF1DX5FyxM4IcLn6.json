@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166618,
+  "num_followers": 166615,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Hard Fought Hallelujah (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 316002,
+      "name": "Hard Fought Hallelujah (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
@@ -1023,22 +1043,34 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Hard Fought Hallelujah (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 316002,
-      "name": "Hard Fought Hallelujah (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1083,38 +1115,6 @@
       "duration_ms": 314906,
       "name": "I Lied to You",
       "url": "https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Mixteip",
-        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "TGIF",
-        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "PATTERNS Commentary Album",
-        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Baggage",
-      "url": "https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 183990,
       "name": "Soft Spine",
       "url": "https://open.spotify.com/track/4bkPAARkDov1lV05emEF7a"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "PATTERNS Commentary Album",
+        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Baggage",
+      "url": "https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Dollar A Day",
-        "url": "https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 209256,
-      "name": "Crucified Son",
-      "url": "https://open.spotify.com/track/6GniZoAv7dAL3djoMjxVZa"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Songs Of A Lost World",
         "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 408690,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Dollar A Day",
+        "url": "https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 209256,
+      "name": "Crucified Son",
+      "url": "https://open.spotify.com/track/6GniZoAv7dAL3djoMjxVZa"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2171,26 +2171,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Oh What A Beautiful World",
-        "url": "https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Oh What A Beautiful World - feat. Rodney Crowell",
-      "url": "https://open.spotify.com/track/7ml1acXUTiwSm2WjtXYFbZ"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Cancionera",
         "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
       },
@@ -2207,6 +2187,26 @@
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/5gGOOM1oDSQ59lcGOXIvZL"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Oh What A Beautiful World",
+        "url": "https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Oh What A Beautiful World - feat. Rodney Crowell",
+      "url": "https://open.spotify.com/track/7ml1acXUTiwSm2WjtXYFbZ"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Heart & Soul",
+        "url": "https://open.spotify.com/album/5WvviNYHAOcmqqk2MYhXw3"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/3qnLz54EYonvJ3Ty1tN3MD"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "The Secret Of Life: Partners, Volume 2",
         "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 296071,
       "name": "Letter To My 13 Year Old Self",
       "url": "https://open.spotify.com/track/7zOjSNTAUdwu3JK6Yt8uxF"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Heart & Soul",
-        "url": "https://open.spotify.com/album/5WvviNYHAOcmqqk2MYhXw3"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/3qnLz54EYonvJ3Ty1tN3MD"
     },
     {
       "added_at": "2025-11-12 17:50:29",

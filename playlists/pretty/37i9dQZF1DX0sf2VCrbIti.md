@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,850 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,851 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 45 | [El Mono](https://open.spotify.com/track/5L8xWjak06ON5UdfSDYLBj) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Baile](https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC) | 4:35 |
 | 46 | [El Chucu Chucu](https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Chucu Chucu](https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu) | 2:43 |
 | 47 | [La Fiesta de Pilito](https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 3:57 |
-| 48 | [Tú Con El](https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:01 |
-| 49 | [Arranca en Fá](https://open.spotify.com/track/4IQeMjVi0BzCeTyP280ZGx) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 3:36 |
+| 48 | [Arranca en Fá](https://open.spotify.com/track/4IQeMjVi0BzCeTyP280ZGx) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 3:36 |
+| 49 | [Tú Con El](https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:01 |
 | 50 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
 | 51 | [Los Sabanales 3.0](https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Los Sabanales 3.0](https://open.spotify.com/album/2blRzFXYdX7EVTReawNzUt) | 3:08 |
 | 52 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 |

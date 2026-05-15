@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Wang",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Arab, DJ Stephan, BeTaf Beats",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 120000,
       "name": "Alo",
       "url": "https://open.spotify.com/track/1L8KUoyAkVUyjrOFds519l"
@@ -3545,6 +3545,24 @@
     },
     {
       "album": {
+        "name": "Demon Vol 2",
+        "url": "https://open.spotify.com/album/3eJgxf2Resm0webThEkgIV"
+      },
+      "artists": [
+        {
+          "name": "ATC Nico",
+          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Demon Vol 2",
+      "url": "https://open.spotify.com/track/4tFXFf7AglvnEwEZ8jzWaf"
+    },
+    {
+      "album": {
         "name": "DEMONS",
         "url": "https://open.spotify.com/album/35l8x1YscSwxF8S6cKWL4A"
       },
@@ -5391,6 +5409,28 @@
     },
     {
       "album": {
+        "name": "FOREVER RICH DELUXE",
+        "url": "https://open.spotify.com/album/2rmS4kn1agG4geVVS3Tppo"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "FUCK LOVE",
+      "url": "https://open.spotify.com/track/4ArBFP1logojblsR2c3r4d"
+    },
+    {
+      "album": {
         "name": "Fuck Polizei",
         "url": "https://open.spotify.com/album/3g38F8rqHsOqZ5ik8OK6ba"
       },
@@ -5506,7 +5546,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 140869,
       "name": "GAMATA",
       "url": "https://open.spotify.com/track/3E2BHHIrNZV3O8B8V4HJ9I"
@@ -7712,7 +7752,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 130285,
       "name": "KIDNAP",
       "url": "https://open.spotify.com/track/593IDXEqWzQXcIL2WzOycV"
@@ -8851,6 +8891,28 @@
     },
     {
       "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/1AOCd1stI4eenrCF0Vm615"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144022,
+      "name": "MANIA",
+      "url": "https://open.spotify.com/track/2fYuOtA4evJWi6PzGdTj6M"
+    },
+    {
+      "album": {
         "name": "MANSON",
         "url": "https://open.spotify.com/album/7xvvdbJMMemW3p8CMnwwl3"
       },
@@ -8988,7 +9050,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 153933,
       "name": "MARADONA",
       "url": "https://open.spotify.com/track/3hcsY2faewmbNAjFUTW5Et"
@@ -10044,7 +10106,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 101250,
       "name": "Napoli",
       "url": "https://open.spotify.com/track/2GCbAJVtQp9lp7CTq8cPXS"
@@ -11807,6 +11869,32 @@
     },
     {
       "album": {
+        "name": "PES TI THELEIS KSA",
+        "url": "https://open.spotify.com/album/3YcVwOv07X532NtzJJleaH"
+      },
+      "artists": [
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "DJ Stephan",
+          "url": "https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "PES TI THELEIS KSA",
+      "url": "https://open.spotify.com/track/6dXB0KFc9qcf1J7FriTcI1"
+    },
+    {
+      "album": {
         "name": "PETSHOP",
         "url": "https://open.spotify.com/album/4QVeYl7ATmseCwPHggjnn8"
       },
@@ -12142,6 +12230,28 @@
       "duration_ms": 153214,
       "name": "POLICIA",
       "url": "https://open.spotify.com/track/0uAPYmZsrCRxmDj7wPFaBG"
+    },
+    {
+      "album": {
+        "name": "Ponos",
+        "url": "https://open.spotify.com/album/61ailhMnfxvnPm1l8GGdXJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Koni",
+          "url": "https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Ponos",
+      "url": "https://open.spotify.com/track/7i3mSKbkuw2q4bLpwAxttw"
     },
     {
       "album": {

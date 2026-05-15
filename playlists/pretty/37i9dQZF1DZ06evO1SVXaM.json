@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3280058,
+  "num_followers": 3287336,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAABTKj14EhJg1Y30B1H2IYRm",
+  "snapshot_id": "agO/AAAAAACM+tBUxQknIzavnnXaiHLA",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michael",
-        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
       },
       "artists": [
         {
           "name": "Michael Jackson",
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Hold My Hand (with Akon)",
-      "url": "https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb"
+      "duration_ms": 253826,
+      "name": "Blue Gangsta",
+      "url": "https://open.spotify.com/track/36lVpg8hgy37iZEazTOJBb"
     },
     {
       "added_at": null,
@@ -707,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "XSCAPE",
-        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
       },
       "artists": [
         {
           "name": "Michael Jackson",
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 335133,
-      "name": "A Place With No Name",
-      "url": "https://open.spotify.com/track/35SI5zFEhOeo4XDBMwS41S"
+      "duration_ms": 212226,
+      "name": "Hold My Hand (with Akon)",
+      "url": "https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
       "duration_ms": 165160,
       "name": "Ben - Single Version",
       "url": "https://open.spotify.com/track/3vZMkLS1jP7NdNhzqGfUSW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 335133,
+      "name": "A Place With No Name",
+      "url": "https://open.spotify.com/track/35SI5zFEhOeo4XDBMwS41S"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XSCAPE",
-        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 253826,
-      "name": "Blue Gangsta",
-      "url": "https://open.spotify.com/track/36lVpg8hgy37iZEazTOJBb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Michael",
         "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 296560,
-      "name": "Whatever Happens",
-      "url": "https://open.spotify.com/track/4fK6bgzyKt4EIv3R1wrUtl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XSCAPE",
         "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 255493,
       "name": "Slave to the Rhythm",
       "url": "https://open.spotify.com/track/4h5KB1btt2aZBq9EJHmWF4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 296560,
+      "name": "Whatever Happens",
+      "url": "https://open.spotify.com/track/4fK6bgzyKt4EIv3R1wrUtl"
     }
   ],
   "unique_name": "This Is Michael Jackson",

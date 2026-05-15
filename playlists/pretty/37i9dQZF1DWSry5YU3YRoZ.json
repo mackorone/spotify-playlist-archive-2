@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 11652,
+  "num_followers": 11657,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-04-27 02:46:25",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/7Ht7kJByAKQhnnqZSqLxzO"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 199714,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/6h7pTcDLNo5Pc8Lu1w2Qo9"
-    },
-    {
-      "added_at": "2026-04-27 02:46:25",
-      "album": {
         "name": "When I stop thinking",
         "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 282453,
       "name": "Dear love",
       "url": "https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF"
+    },
+    {
+      "added_at": "2026-04-27 02:46:25",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/7Ht7kJByAKQhnnqZSqLxzO"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 199714,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/6h7pTcDLNo5Pc8Lu1w2Qo9"
     },
     {
       "added_at": "2026-04-27 02:46:25",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-04-27 02:46:25",
       "album": {
-        "name": "The Little",
-        "url": "https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM"
-      },
-      "artists": [
-        {
-          "name": "Yeon seo",
-          "url": "https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "The Little",
-      "url": "https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt"
-    },
-    {
-      "added_at": "2026-04-27 02:46:25",
-      "album": {
         "name": "First Snow",
         "url": "https://open.spotify.com/album/5u51hTYLdODB8t2Rt4QlCF"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 246976,
       "name": "First Snow",
       "url": "https://open.spotify.com/track/00wkRxiuNBLBFPHvxkg2PI"
+    },
+    {
+      "added_at": "2026-04-27 02:46:25",
+      "album": {
+        "name": "The Little",
+        "url": "https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM"
+      },
+      "artists": [
+        {
+          "name": "Yeon seo",
+          "url": "https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "The Little",
+      "url": "https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt"
     },
     {
       "added_at": "2026-04-27 02:46:25",

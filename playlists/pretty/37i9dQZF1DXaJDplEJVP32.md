@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 
 > Spotify music editors' choice for the best Christian & Gospel songs of 2010s\. Cover: MercyMe
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,647 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,652 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 34 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
 | 35 | [Every Praise \- \(album edit\)](https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd) | [Azusa The Next Generation](https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1) | 7:21 |
 | 36 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
-| 37 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [God's Not Dead](https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX) | 4:18 |
-| 38 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
+| 37 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
+| 38 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [God's Not Dead](https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX) | 4:18 |
 | 39 | [Hills and Valleys \(The Valleys Version\)](https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 4:09 |
 | 40 | [I Won't Let You Go](https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [I Won't Let You Go](https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R) | 4:07 |
 | 41 | [Where I Belong](https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Listen To The Sound](https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD) | 3:20 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 54 | [You Are More](https://open.spotify.com/track/72VNLbfQELdPaKMTNjT2eB) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [The Light Meets The Dark](https://open.spotify.com/album/2c9nNyXr5tQu37gqH480Hq) | 3:37 |
 | 55 | [Fierce \- Studio Version](https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Fierce \(Studio Version\)](https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW) | 3:42 |
 | 56 | [Change Me](https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [One Way](https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB) | 6:06 |
-| 57 | [Love Theory](https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Love Theory](https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5) | 4:11 |
-| 58 | [Starry Night](https://open.spotify.com/track/7C1UfKbTHSjLOvufnfdWbl) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [No Far Away](https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA) | 3:23 |
+| 57 | [Starry Night](https://open.spotify.com/track/7C1UfKbTHSjLOvufnfdWbl) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [No Far Away](https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA) | 3:23 |
+| 58 | [Love Theory](https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Love Theory](https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5) | 4:11 |
 | 59 | [Till I Found You](https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:00 |
 | 60 | [Your Love](https://open.spotify.com/track/56ZNyOHknU78LEwq4IWMJ7) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Leaving Eden](https://open.spotify.com/album/6LVll9TMx884kBnA9AcMtZ) | 3:35 |
 | 61 | [Let The Church Say Amen \- Radio Edit](https://open.spotify.com/track/66mi3OKkrYHZkV9T62Ytyy) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [Let The Church Say Amen \(Radio Edit\)](https://open.spotify.com/album/7in33XBpTwwyVMMHGJKZT3) | 4:54 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 91 | [Way Maker \- Live](https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII) | 8:23 |
 | 92 | [My Hope Is In You](https://open.spotify.com/track/5m0IsXTsXWxSbdltKmsKlI) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe](https://open.spotify.com/album/0VppFHYSXdcjX05v4ZrWhn) | 4:14 |
 | 93 | [Manolo](https://open.spotify.com/track/5QKG74VmetNQybSi4Hli9B) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Rise](https://open.spotify.com/album/7uJRbzmSGkzrDW7sT5SSWA) | 4:08 |
-| 94 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
-| 95 | [Light Up the Sky](https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Light Up the Sky](https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale) | 3:38 |
+| 94 | [Light Up the Sky](https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Light Up the Sky](https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale) | 3:38 |
+| 95 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
 | 96 | [Is He Worthy?](https://open.spotify.com/track/5CTN5yokyAcrCoShGJmlJn) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [Resurrection Letters, Vol\. 1](https://open.spotify.com/album/1VBQLRJF7FcTaJITKgqvBO) | 4:33 |
 | 97 | [Different](https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch) | 3:17 |
 | 98 | [Make Room](https://open.spotify.com/track/3psx3u5uPAG6BH3k6l8gre) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 5:40 |

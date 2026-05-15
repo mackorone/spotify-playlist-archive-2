@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 319837,
       "name": "Amen",
       "url": "https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 209878,
       "name": "Hale mpona",
       "url": "https://open.spotify.com/track/15v5RzYbJv9mp9Sc2WYZ9Y"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 341053,
       "name": "Jehova Retshepile Wena",
       "url": "https://open.spotify.com/track/3NIngZRxMFF6OX4um51JMB"
@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 324231,
       "name": "Ke Nale Modisa - Remix",
       "url": "https://open.spotify.com/track/1sTIGlXxkxnnIAwpoWktEK"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 404875,
       "name": "Kuzohlatshelelwa",
       "url": "https://open.spotify.com/track/6ZNIVO8AGu1Pyhemi5LI1Y"
@@ -4705,6 +4705,24 @@
     },
     {
       "album": {
+        "name": "Ngegama Lakho/ Themba Lethu",
+        "url": "https://open.spotify.com/album/4wBUn5NnLNZ6B3YSRAPgXX"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Ngegama Lakho - Live at the Durban ICC/ 2025",
+      "url": "https://open.spotify.com/track/7lzUhnLMAJ6I0wZYUQQJJ6"
+    },
+    {
+      "album": {
         "name": "Ngegama Lakho Jesu (Live at Goshen City Church 2023)",
         "url": "https://open.spotify.com/album/4NkqciMpps60RHj9ZDAnpD"
       },
@@ -5440,7 +5458,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 363706,
       "name": "Nxa ngimbona (Live at Goshen City Church 2023)",
       "url": "https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL"
@@ -5994,7 +6012,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 375146,
       "name": "Sengiyacela - Live",
       "url": "https://open.spotify.com/track/3UMgV8iwG3h3zOAi5dPNMc"
@@ -6240,7 +6258,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 281678,
       "name": "Sinomlilo",
       "url": "https://open.spotify.com/track/1zvBqJgbDWBjx4nc96LdYz"
@@ -6667,6 +6685,24 @@
     },
     {
       "album": {
+        "name": "Ngegama Lakho/ Themba Lethu",
+        "url": "https://open.spotify.com/album/4wBUn5NnLNZ6B3YSRAPgXX"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497625,
+      "name": "Themba Lethu - Live at the Durban ICC/ 2025",
+      "url": "https://open.spotify.com/track/0EAZbdLRr4ATJugP2Wg3cu"
+    },
+    {
+      "album": {
         "name": "Atamelang Ho Jehova",
         "url": "https://open.spotify.com/album/6Z5wKbRXQ4RuqkImPGocXY"
       },
@@ -6880,7 +6916,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 583508,
       "name": "Ubonakalise - Live at State Theatre Pretoria",
       "url": "https://open.spotify.com/track/49YNFxhVD9AcUSQbXSAPC6"
@@ -7382,7 +7418,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 580053,
       "name": "Umsebenzi",
       "url": "https://open.spotify.com/track/5WvhqTI1PunZtoLu7sF4GA"
@@ -7896,7 +7932,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 400763,
       "name": "Uya Mangadza Yeso - Live",
       "url": "https://open.spotify.com/track/2Sq6Dz0ARNawM0tQFKGh7X"
@@ -8962,7 +8998,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 465172,
       "name": "YOU ARE EVERYTHING TO ME",
       "url": "https://open.spotify.com/track/0CjeHeCPyQbNVKLfcxlUJE"

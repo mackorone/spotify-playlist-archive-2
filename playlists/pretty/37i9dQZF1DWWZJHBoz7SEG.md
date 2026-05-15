@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Celebrando a mamá toda la semana con lo mejor de la semana en compañía de Máximo Grado, Victor Mendivil y Amilkar Galaviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,198 likes - 96 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,195 likes - 96 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

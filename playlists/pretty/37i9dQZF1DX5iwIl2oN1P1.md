@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,291 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,332 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 3 | [We Join Them \- Live](https://open.spotify.com/track/2xX6ZweQwcLFxsdTQxYI6L) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5), [Wa'ti](https://open.spotify.com/artist/3WyUPzwuGu4toJZTDC9quX) | [We Join Them \(Live\)](https://open.spotify.com/album/1lumjiuhBFjFBDWgVIlrtO) | 10:40 |
 | 4 | [Living Proof \- Radio Edit](https://open.spotify.com/track/4PZuDlp6yKAo6kDABpHsAR) | [Island Tribe Collective](https://open.spotify.com/artist/4OWWKBlYzeviqQ5HmDkJzY), [Marc Isaacs](https://open.spotify.com/artist/3G3rtsVtA1PrTrebRnH6RK), [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW), [Alicia Taylor](https://open.spotify.com/artist/7dxylSiPgz8dKVE0MGFJgC) | [Living Proof \(Radio Edit\)](https://open.spotify.com/album/1VQfHGAefolisjXkE1sboI) | 4:48 |
 | 5 | [Holy](https://open.spotify.com/track/3TrTkrfeF7FrgJ0Apcpz5t) | [Judah Band](https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV) | [Holy](https://open.spotify.com/album/70inSkGQfCHnKIXFgFjLHZ) | 7:07 |
-| 6 | [Halleluyahweh \- Live](https://open.spotify.com/track/4iag769m0Ayuh005HwJ7zT) | [CCC Collective](https://open.spotify.com/artist/1IKvoVXgyeixSHxoJvE9yV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Breaking News \(Live\)](https://open.spotify.com/album/3NkbQCklKXnDH9yOyyIEFg) | 9:26 |
+| 6 | [HalleluYHWH \- Live](https://open.spotify.com/track/4iag769m0Ayuh005HwJ7zT) | [CCC Collective](https://open.spotify.com/artist/1IKvoVXgyeixSHxoJvE9yV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Breaking News \(Live\)](https://open.spotify.com/album/3NkbQCklKXnDH9yOyyIEFg) | 9:26 |
 | 7 | [Send Your Rain](https://open.spotify.com/track/56Vp47ZiSejDdbhDqHRn5x) | [Earnest Pugh](https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt), [Nate Bean](https://open.spotify.com/artist/2aSKcf8QBWlmatZdLbnr1j), [4\-Given](https://open.spotify.com/artist/5OiGmK4gj5Uxw9CPLljlez) | [Send Your Rain](https://open.spotify.com/album/1I2HjS6YQkeYXYK5HjjMXX) | 2:22 |
 | 8 | [I Hear The Music In The Air \- Live](https://open.spotify.com/track/2hiFSA7x9EKeTcbwxmlzEC) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Hear The Music In The Air \(Live\)](https://open.spotify.com/album/5WnPjqybNAxkNyIohoYMPQ) | 3:33 |
 | 9 | [This Year](https://open.spotify.com/track/4omnYsoOhYFIVPg3a3H7f9) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [This Year](https://open.spotify.com/album/4KCAVGCDc6aaAv2VcgZ2LE) | 5:10 |

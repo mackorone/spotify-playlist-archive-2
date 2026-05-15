@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 196335,
+  "num_followers": 196453,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADlsBYCaUI5lNuN3NO4WZ+e",
+  "snapshot_id": "agO/AAAAAAAu4gC5Qoo3Fu6eXuJTqQgo",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "California Cowboy",
-        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
+        "name": "OKAY!",
+        "url": "https://open.spotify.com/album/3i6UnjFI76QC3zakPBApV7"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         }
       ],
-      "duration_ms": 180000,
-      "name": "NO LONGER BOUND",
-      "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
+      "duration_ms": 274693,
+      "name": "OKAY!",
+      "url": "https://open.spotify.com/track/3AqhSTSYYOm8EVMkD8tRaW"
     },
     {
       "added_at": null,
@@ -315,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OKAY!",
-        "url": "https://open.spotify.com/album/3i6UnjFI76QC3zakPBApV7"
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         }
       ],
-      "duration_ms": 274693,
-      "name": "OKAY!",
-      "url": "https://open.spotify.com/track/3AqhSTSYYOm8EVMkD8tRaW"
+      "duration_ms": 180000,
+      "name": "NO LONGER BOUND",
+      "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
     },
     {
       "added_at": null,

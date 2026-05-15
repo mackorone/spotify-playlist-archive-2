@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes ](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> PH vibin' cover: DEMI, Illest Morena
+> PH vibin' cover: Earl Generao
 
-489 songs - 1 day 2 hr 39 min
+491 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Blackout](https://open.spotify.com/track/670D5GXUpwrTugYxiBpomp) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH) | [Mixed Signals](https://open.spotify.com/album/1Tnc1piIaq0raoIc613uyW) | 2:12 | 2026-03-09 |  |
 | [Bodies](https://open.spotify.com/track/0sqBr3CLU0kcWiWbOHN6RB) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Bodies](https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt) | 3:17 | 2023-08-16 | 2024-01-16 |
 | [Bounce that](https://open.spotify.com/track/6n96W9LX01FU9igJpSKX3O) | [Billy Crawford](https://open.spotify.com/artist/43CiK1548VVp2DT95joswS) | [Bounce that](https://open.spotify.com/album/7flE1Q207y0if6jMh1foXX) | 2:50 | 2026-02-02 | 2026-05-02 |
-| [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 | 2024-08-07 |  |
+| [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 | 2024-08-07 | 2026-05-15 |
 | [bum 2 me](https://open.spotify.com/track/6lKn8JoOM1Rgob6ebmAaGD) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bum 2 me](https://open.spotify.com/album/1TRVM0jgIiI8Sv61MGHPjM) | 2:18 | 2023-05-02 | 2023-10-03 |
 | [BURN](https://open.spotify.com/track/3I15kjOXZ5BWoNyGEhMV9B) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [BURN](https://open.spotify.com/album/5UinUFeyhjArW24gIKT9PN) | 2:42 | 2023-06-13 | 2023-09-07 |
 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 | 2023-09-21 | 2024-03-30 |
@@ -129,6 +129,7 @@
 | [EL CHAPO](https://open.spotify.com/track/2DbrW7nxlnFEPTPB1rEsbr) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [EL CHAPO](https://open.spotify.com/album/5UTVGVCRmc1DU24M5Fu93Q) | 2:56 | 2024-07-19 | 2024-11-09 |
 | [ELLE](https://open.spotify.com/track/0jjpbUlU6kI8v0eKvJGmcc) | [Ron David](https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa) | [ELLE](https://open.spotify.com/album/4E4FdXz2Z8kEdYNkWa1dfL) | 2:29 | 2025-11-21 | 2025-12-04 |
 | [ever](https://open.spotify.com/track/4U7ADjYjMEpvzrjh2i3fho) | [Dani Zam](https://open.spotify.com/artist/0bJM4Kl0INlyoFuQvAVjgq) | [Ever](https://open.spotify.com/album/2kbBsgPXqNn82HUS3CV5XP) | 2:56 | 2024-06-03 | 2024-10-12 |
+| [FACE CARD](https://open.spotify.com/track/0fE8rVTWeUG86ch2VTEVkP) | [Earl Generao](https://open.spotify.com/artist/37gpPWUw01BXkRl4zg8hkk) | [FACE CARD](https://open.spotify.com/album/4La9N88QGqJizcCy6D7ubV) | 2:30 | 2026-05-15 |  |
 | [Faded \(Raw\)](https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Faded \(Raw\)](https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb) | 2:55 | 2024-01-26 | 2025-01-17 |
 | [fall season](https://open.spotify.com/track/5vxwjQ10ojO3SI8WEc0XqO) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [fall season](https://open.spotify.com/album/7oG4oc3CMH6o10T0QIoIlR) | 3:31 | 2025-09-19 | 2025-12-04 |
 | [Fallin](https://open.spotify.com/track/064sICng1UknPZvos5SLNs) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Fallin](https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21) | 2:51 | 2023-07-13 | 2023-10-14 |
@@ -409,7 +410,7 @@
 | [Sigurado](https://open.spotify.com/track/4RuwsMJHRsB4gIzLBnnjqo) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5) | [Sigurado](https://open.spotify.com/album/28TgQT58FujmQoZ796M4Ma) | 3:32 | 2023-08-16 | 2024-02-10 |
 | [Silent Treatment](https://open.spotify.com/track/0BgSx63sdmzqSsP4zEW9WI) | [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Silent Treatment](https://open.spotify.com/album/3OhiO7r9vLYMnFLaITRSCb) | 3:41 | 2022-10-12 | 2023-07-29 |
 | [Simula](https://open.spotify.com/track/4ItjaAW8vi55Ne4Jrw0qJk) | [Emman](https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG), [Awi Columna](https://open.spotify.com/artist/1xWBSa1TYo94akyvwYs45r), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Simula](https://open.spotify.com/album/35BXvmX3MeFe1iUM1yKiOD) | 5:35 | 2022-10-12 | 2023-07-29 |
-| [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-06-08 |  |
+| [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-06-08 | 2026-05-15 |
 | [Sinungaling](https://open.spotify.com/track/7EchZq7Pg2h9e8IhFM6kPu) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw) | [Sinungaling](https://open.spotify.com/album/4hx8NuNU0uHFxWxI2MziaM) | 3:31 | 2024-07-01 | 2024-10-12 |
 | [Sinungaling](https://open.spotify.com/track/38if6aDHxB3HIzmMKpRM5C) | [Samsara 304](https://open.spotify.com/artist/7iDnmQrHjOaihg0RLOp4RQ) | [Sinungaling](https://open.spotify.com/album/3m0sk4kgBEphytLUt6JMhq) | 3:12 | 2026-01-28 |  |
 | [Skywalker](https://open.spotify.com/track/15IoTmtaBamQBIP6l7RAYg) | [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB), [Kris Krisla](https://open.spotify.com/artist/5cA9hnXUcnuR0IXaaHMkNJ) | [Skywalker](https://open.spotify.com/album/6Q82e0VopBmYOBICsd6jHM) | 3:41 | 2022-10-12 | 2023-07-29 |
@@ -419,6 +420,7 @@
 | [so fire](https://open.spotify.com/track/48laemm4yRLl6OAAUoAPiJ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [so fire](https://open.spotify.com/album/3fSD8ylQNPfUx1fGEAZLb8) | 2:35 | 2023-05-17 | 2023-10-03 |
 | [So Safe](https://open.spotify.com/track/0j0Uk6ji6v9SKUyRUH6kaj) | [Elise Huang](https://open.spotify.com/artist/7BpTHJjMVI0B2WFeO2UYTi), [Malli](https://open.spotify.com/artist/6JVJESuLVa8SUHrX9IxCOC) | [So Safe](https://open.spotify.com/album/1ylEcD3jgYvmWEHtzvTfm5) | 3:22 | 2025-07-12 | 2025-12-04 |
 | [SONG 4 U](https://open.spotify.com/track/5uNqALZBRhu9y8lQjwBWCG) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [ivan G.](https://open.spotify.com/artist/0S1iKltXNxlw9vCv4bCUY9) | [SONG 4 U](https://open.spotify.com/album/6f5sqRBMgqYNZVdjl0wDQE) | 4:01 | 2023-09-06 | 2023-10-28 |
+| [Spell It Out](https://open.spotify.com/track/0eeQJzdeppwBUhUphmH0V6) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Spell It Out](https://open.spotify.com/album/1TcPBkyRs4buC8NxiKIJ3s) | 2:40 | 2026-05-15 |  |
 | [Stay](https://open.spotify.com/track/7iHFyFiyd2Iebl1Cle2AFi) | [Kacee Cortes](https://open.spotify.com/artist/0TJNUEzHtlI9OKM4i9QXts) | [Solace](https://open.spotify.com/album/1YFp4JQZ2cAUREbNQna9d7) | 3:57 | 2022-10-12 | 2023-05-18 |
 | [Stay With Me](https://open.spotify.com/track/2vFWFoKYCZnayFsPKuqz86) | [kyleaux](https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M) | [Stay With Me](https://open.spotify.com/album/0JHhmeAUt9YXvZbpEXnvVc) | 2:36 | 2024-11-08 | 2026-02-14 |
 | [Staying On My Phone Tonight](https://open.spotify.com/track/3Ok8zKZ039wgZkXzwagnmP) | [L•Y](https://open.spotify.com/artist/6TX5wo8K752OtN0iDcTPs3), [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Staying On My Phone Tonight](https://open.spotify.com/album/715iMxdVwD4JYpx99Axge0) | 4:26 | 2022-10-12 | 2023-05-03 |

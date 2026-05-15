@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 168565,
+  "num_followers": 168579,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAACF9GTPj/SBCF6Qzmfz1Wrp",
+  "snapshot_id": "agO/AAAAAACQtlYkzinkUJOvky2pqdDf",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Session (Deluxe Edition / Remastered 2024)",
-        "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 360363,
-      "name": "Pride And Joy - Remastered 2024",
-      "url": "https://open.spotify.com/track/5QuJllZAhhDbFTlUp2q4Nw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 459453,
       "name": "Match Box Blues",
       "url": "https://open.spotify.com/track/73XHbBJYj2cOoa7Z9qweVr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Session (Deluxe Edition / Remastered 2024)",
+        "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 360363,
+      "name": "Pride And Joy - Remastered 2024",
+      "url": "https://open.spotify.com/track/5QuJllZAhhDbFTlUp2q4Nw"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "Shake 'N Bake",
+      "url": "https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 490006,
       "name": "Born Under A Bad Sign - Remastered 2024",
       "url": "https://open.spotify.com/track/2ngzPgN0cg71BHiRrhglgq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "Shake 'N Bake",
-      "url": "https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 539741,
       "name": "Call It Stormy Monday - Remastered 2024",
       "url": "https://open.spotify.com/track/52R32bbwif6bUHBwnmYQkn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "So Excited",
-      "url": "https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 133840,
+      "name": "Boot Hill - 1989 Version",
+      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 294614,
       "name": "Ask Me No Questions - Remastered 2024",
       "url": "https://open.spotify.com/track/4UKaGgbGyCMJSg6HhfVCvL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 133840,
-      "name": "Boot Hill - 1989 Version",
-      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 75711,
       "name": "Old Times - Remastered 2024",
       "url": "https://open.spotify.com/track/10jdo4Vs80PeuDHzWQUirD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Session (Deluxe Edition / Remastered 2024)",
-        "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 58716,
-      "name": "Pep Talk - Remastered 2024",
-      "url": "https://open.spotify.com/track/2wdvPx55QXWSr3wHkT8r1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 500586,
       "name": "Overall Junction",
       "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Session (Deluxe Edition / Remastered 2024)",
+        "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 58716,
+      "name": "Pep Talk - Remastered 2024",
+      "url": "https://open.spotify.com/track/2wdvPx55QXWSr3wHkT8r1Q"
     },
     {
       "added_at": null,

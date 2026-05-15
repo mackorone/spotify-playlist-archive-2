@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-121 songs - 7 hr 49 min
+127 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Apolitico](https://open.spotify.com/track/1bBKdkkz0ohLg1ACo17kl7) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Apolitico / Io E Lady G](https://open.spotify.com/album/3hXH3LEE8bXIugvTFgsuqc) | 5:08 | 2025-12-07 | 2026-02-07 |
 | [Are We Dreaming?](https://open.spotify.com/track/0DeP3IiS666gBlTv6mT9NX) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Low Fidelity](https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE) | 2:49 | 2026-01-01 | 2026-02-07 |
 | [Ascent](https://open.spotify.com/track/07jLXJM0cPtkusSIsggBPx) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:39 | 2025-12-10 | 2026-02-07 |
+| [Ballerina's Dilemma](https://open.spotify.com/track/7LTciIxPjON8ttlOOI1Ue5) | [Jocelyn Stewart](https://open.spotify.com/artist/3ACUC6ruZ4IiXDpFDLZhXK), [Mike Hamilton](https://open.spotify.com/artist/1NImbJcYPrIMmEDpDSskX3) | [Our Little Lives](https://open.spotify.com/album/7mmmpaae8BEEBYMnGXkP7a) | 3:17 | 2026-05-14 |  |
 | [Be Right Here](https://open.spotify.com/track/5bb4mLHW4JaJjLB7z9Pu38) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Be Right Here](https://open.spotify.com/album/5jjjFyrWKTaATTx3P4UtHs) | 4:09 | 2025-11-12 | 2025-12-08 |
 | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/track/0cpEflaylHIzMmKy3DgjMj) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/album/0COY3QqIEM0exOOJTqanVc) | 4:10 | 2025-10-05 |  |
 | [Better Not Be Late](https://open.spotify.com/track/2LwjOPIjBi6pzeIEZzHKE0) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Better Not Be Late](https://open.spotify.com/album/62zlN0T8PV7TnGcbm7FZj5) | 3:40 | 2025-05-04 |  |
@@ -59,6 +60,7 @@
 | [Hey Man](https://open.spotify.com/track/3DytEPUq0s7HzcGJjqOStu) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB) | [Hey Man](https://open.spotify.com/album/3zyGmKSkXfCtB6AWzTqQUh) | 2:37 | 2025-05-04 |  |
 | [High Above It All](https://open.spotify.com/track/4FjhfRrrORgaP854fQG9q3) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:56 | 2026-01-13 |  |
 | [Hold On](https://open.spotify.com/track/7wkcfdfG847di04Osh9GM8) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [Hold On](https://open.spotify.com/album/2iavwGaGxWpePayenFpKRG) | 3:07 | 2026-01-19 | 2026-02-07 |
+| [I Hate That I Don't Hate You](https://open.spotify.com/track/3bJOzfEj1SYMYf5FKezNHY) | [Lighten Up, Francis](https://open.spotify.com/artist/53Ff651JKd4ooOWJ51qkGU) | [Store Brand Talent](https://open.spotify.com/album/2P76VKyK1AUTSrf6oHiTcD) | 4:24 | 2026-05-14 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2025-05-04 |  |
 | [I Was Scared](https://open.spotify.com/track/3ro11J4E4vuzZxWE4S0llJ) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Life Hurts You Without Asking](https://open.spotify.com/album/35k58F7hpZIe0uqTprPIVI) | 5:02 | 2026-01-14 | 2026-02-07 |
 | [In Chains](https://open.spotify.com/track/5QSOhaJsSyhPeV7RHCi21L) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 7:20 | 2025-07-31 | 2026-02-07 |
@@ -71,8 +73,10 @@
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-05-04 |  |
 | [La Decisión](https://open.spotify.com/track/0bWu8JSfxwEJMGL91qnWK3) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 5:12 | 2026-04-04 |  |
 | [Lady](https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf) | [Decade](https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi) | [Lady](https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex) | 3:24 | 2025-12-11 |  |
+| [Lost & Found](https://open.spotify.com/track/2BWoxn24Y3TCo6S3YAyJNx) | [Roy Aharon](https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc), [Sapir J\. Fox](https://open.spotify.com/artist/574DPDIpkGHROQN4fgCOek) | [Zen Project](https://open.spotify.com/album/336ZUWQwHQrwtVD2w71YC1) | 5:13 | 2026-05-14 |  |
 | [Mad People](https://open.spotify.com/track/3QVIGA3R10hucV3BTehZTU) | [Supersonic Boy](https://open.spotify.com/artist/6LnpFqRCx2Mmq6ceDatTj3) | [Mad People](https://open.spotify.com/album/3i5bIj8w0fzi5gvc7j1RMV) | 3:04 | 2026-01-19 | 2026-02-07 |
 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 | 2026-01-14 | 2026-02-07 |
+| [Man in the Dark](https://open.spotify.com/track/5EDgFxvKmS798AQYHaoWJ0) | [The Magenta](https://open.spotify.com/artist/7LSEWrAltP8MRqpYwjrc4s) | [May Cause Addiction](https://open.spotify.com/album/0PqmnazU9h1RqTNiNcUnUo) | 3:25 | 2026-05-14 |  |
 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 | 2025-11-04 | 2025-12-08 |
 | [Medo](https://open.spotify.com/track/1Pzo6BtYmAvLYo4yyCZBgd) | [Journey to Equilibrium](https://open.spotify.com/artist/7EFpZ2zSH7KTR1PtOIgpjT) | [An Open Window](https://open.spotify.com/album/0ytewcDY7woiqooEiKMt5a) | 4:42 | 2025-11-24 | 2026-02-07 |
 | [Meet me tomorrow right here](https://open.spotify.com/track/32OiHXGmtRTR5sSDuknMV2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Cultural Static](https://open.spotify.com/album/4ZidajWJsxbkvrKcK95Jbx) | 4:47 | 2025-11-04 | 2025-12-08 |
@@ -111,6 +115,7 @@
 | [Terrestrial](https://open.spotify.com/track/1gkS2fy9B3j8puwIS22DmR) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [The Kingdom of Trees](https://open.spotify.com/album/6rUJAze2ADreCV5kLqWmea) | 4:33 | 2025-10-19 |  |
 | [Tesla](https://open.spotify.com/track/6iJSBzhwuo10snNpJPlT6o) | [Errant Shadow](https://open.spotify.com/artist/32yImafufTQRCNtMvD4YSN) | [Tesla](https://open.spotify.com/album/7fPZmtfCwbZfbMZNk5o4KG) | 4:44 | 2025-11-02 |  |
 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-04-04 |  |
+| [The Party Is Over](https://open.spotify.com/track/5O69OUizv8L6SElL2O7bjx) | [Atomium](https://open.spotify.com/artist/0KZxq71zg8JWEP22q0Qwff) | [The Party Is Over](https://open.spotify.com/album/4FKtBBuGUFTwsLAF4s219I) | 3:57 | 2026-05-14 |  |
 | [The Puppeteer](https://open.spotify.com/track/1EnSsLEzo4LuQRJ12kl9kn) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [The Puppeteer](https://open.spotify.com/album/5TsaiTsFKvWIEWa2VTsABH) | 3:48 | 2026-02-06 | 2026-04-05 |
 | [The Rage I Felt](https://open.spotify.com/track/0OoZTTSWWtFsUuAsBB6QCz) | [Between Two Winters](https://open.spotify.com/artist/1QICrr5xzMMZtjPs9tr2gd) | [Lorenzo](https://open.spotify.com/album/54G9cItsqKUXnpSA8bIElt) | 4:25 | 2025-11-24 | 2026-02-07 |
 | [The Way Home](https://open.spotify.com/track/7GBDijcXyrWjPQFCRXIFa4) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [The Way Home](https://open.spotify.com/album/6sRUbrTeWIcthehsanQUkl) | 2:44 | 2025-12-17 | 2026-02-07 |
@@ -119,6 +124,7 @@
 | [Time](https://open.spotify.com/track/17x3IQEhf9Xshdh1CEP9B3) | [SCHANZ](https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8) | [AD/2](https://open.spotify.com/album/42WFK8KBG1Vvj25YvuTN93) | 4:13 | 2025-07-31 |  |
 | [TIME, A precious thing](https://open.spotify.com/track/29aBAdsMAxisxLOjDIGfE8) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [TIME, A precious thing](https://open.spotify.com/album/2CfhRG7iIcQGYLYBmTsT2X) | 3:50 | 2025-11-09 | 2025-12-08 |
 | [Transmission\_0](https://open.spotify.com/track/4JO3DqM7nvWtu2t2sb2VLP) | [VANYRA X](https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z) | [Transmission\_0](https://open.spotify.com/album/1evIDHQNSM5U6KJtLsfib7) | 1:53 | 2025-11-04 | 2025-12-08 |
+| [Trouble](https://open.spotify.com/track/6z9MnDXCKOfD7Bh1RU0odl) | [Tidal Rave](https://open.spotify.com/artist/1cLwEvonj7L34lEucivmLv) | [Trouble](https://open.spotify.com/album/6MfJwwwL5PuAQTnKmOK3RE) | 3:15 | 2026-05-14 |  |
 | [Two Friends](https://open.spotify.com/track/5cdSszu0zZI6lepZYCs6WC) | [Collateral Trip](https://open.spotify.com/artist/6YeKawSIhTJT2iiEcOC2eS) | [Two Friends](https://open.spotify.com/album/68NbLI8e5fBpYWciYosQB4) | 3:10 | 2025-11-02 |  |
 | [Velvet Blue](https://open.spotify.com/track/7y2htsY1MqNozMvmxzHLSi) | [MXSDLR](https://open.spotify.com/artist/2U0IlUZodXZVX0WULhygOB) | [Velvet Blue](https://open.spotify.com/album/5HUXNBVOaPfkcN0yHcJcIz) | 4:03 | 2025-11-04 | 2025-12-08 |
 | [Voidbound // Toward the Infinite Silence](https://open.spotify.com/track/50xtUVDCFqzTNnquM31Y3N) | [Terrestrial Animal](https://open.spotify.com/artist/75UDNIKbXLmpIGyEuuunjT) | [Laniakea](https://open.spotify.com/album/7CGCSLsTvaj8tlKv3iXjAR) | 6:26 | 2025-05-04 |  |

@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Alt for Norge",
+        "url": "https://open.spotify.com/album/0NYaHC8iCvZ8iCbpdC9xLj"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "Alt for Norge",
+      "url": "https://open.spotify.com/track/2uKYghzaxzNWhJ3s3vbb2C"
+    },
+    {
+      "album": {
         "name": "Ayia Napa 2024",
         "url": "https://open.spotify.com/album/6VjOZApRj8SshfhTx82HYQ"
       },
@@ -3086,7 +3104,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 156030,
       "name": "F\u00f8dt i nord",
       "url": "https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja"

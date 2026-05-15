@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [boldogság 4rush](https://open.spotify.com/track/4Oygi0fF5ESGak5ymKhXYd) | [CARI](https://open.spotify.com/artist/109sAHLhblz2Xq0YcJhyVb), [cibi](https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf) | [boldogság 4rush](https://open.spotify.com/album/6UfWOtHWCjAmuhDvJyPufh) | 3:23 |
 | 50 | [Good Without You](https://open.spotify.com/track/6hFimNJZNOdCuYqjOues9G) | [Tolvai Reni](https://open.spotify.com/artist/1o3h9A8UXmaPyz7nEXdJD4) | [Good Without You](https://open.spotify.com/album/5EkAFGRtMaae6pFSLtJGl2) | 2:10 |
 
-Snapshot ID: `AAAAANAJj6UmR7bIBdX0DIZ5UISvGo71`
+Snapshot ID: `AAAAAMKX9RLRkXbTUM0aqIyf0cps+khW`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Introducing RADAR Singapore & Malaysia Class of 2026. Cover: NO TIME FOR SILENCE",
+  "description": "Introducing RADAR Singapore & Malaysia Class of 2026. Cover: J308",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -1866,6 +1866,24 @@
       "duration_ms": 142489,
       "name": "Future Somebody",
       "url": "https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M"
+    },
+    {
+      "album": {
+        "name": "Gelato",
+        "url": "https://open.spotify.com/album/5IwZQK5NNKr4O2Vh7HKYYM"
+      },
+      "artists": [
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168048,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/5QTLkIBuxqpEXE4gm7IKCX"
     },
     {
       "album": {
@@ -5930,6 +5948,24 @@
       "duration_ms": 194940,
       "name": "\u5c08\u5c6c\u6d6a\u6f2b",
       "url": "https://open.spotify.com/track/0ZpPrBnYV401be2ZyHS5eR"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5011\u90fd\u4e0d\u5c6c\u65bc\u9019\u500b\u6642\u4ee3",
+        "url": "https://open.spotify.com/album/7s3kMcHIqME1bUbNZVQsiz"
+      },
+      "artists": [
+        {
+          "name": "J308",
+          "url": "https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243402,
+      "name": "\u6211\u5011\u90fd\u4e0d\u5c6c\u65bc\u9019\u500b\u6642\u4ee3",
+      "url": "https://open.spotify.com/track/2j2EnUvN3tGTRAcxJJe7uP"
     },
     {
       "album": {

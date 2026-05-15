@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,350 likes - 275 songs - 17 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,351 likes - 275 songs - 17 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 111 | [If I Had a Heart](https://open.spotify.com/track/6T2aFIrJZm33z6Ft3gwWrh) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 4:04 |
 | 112 | [Lesson in Survival](https://open.spotify.com/track/7xwfpNrGASMYhLaCf6CZfM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/39ehhJZ21SnOepT4RoNgmO) | 3:11 |
 | 113 | [Shadows and Light](https://open.spotify.com/track/1ERoCMfEtN8cs9Yru9leRi) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 4:17 |
-| 114 | [Shine](https://open.spotify.com/track/4pVMxYJkzPxNOTmadzmsvE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 7:29 |
-| 115 | [Soul Is A Star](https://open.spotify.com/track/4ICqFn2E5X7wINlmXNrVGj) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/0pi649ICghmlm3qNFddjRv) | 3:17 |
+| 114 | [Soul Is A Star](https://open.spotify.com/track/4ICqFn2E5X7wINlmXNrVGj) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/0pi649ICghmlm3qNFddjRv) | 3:17 |
+| 115 | [Shine](https://open.spotify.com/track/4pVMxYJkzPxNOTmadzmsvE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 7:29 |
 | 116 | [My Secret Place](https://open.spotify.com/track/0pFQm6WGgNB2Sg9RjTpZ7m) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:00 |
 | 117 | [Sex Kills](https://open.spotify.com/track/7t5K5BG9Z7wIDVHKihrYAX) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 3:57 |
 | 118 | [The Pirate of Penance](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Song to a Seagull](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) | 2:44 |
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 213 | [What's The Story Mr\. Blue \- Live at The 2nd Fret, Philadelphia, PA, 11/1966](https://open.spotify.com/track/2lm5FQJRHvc3rUN5YHpEWj) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:03 |
 | 214 | [Brandy Eyes \- Live at The 2nd Fret, Philadelphia, PA, 11/1966](https://open.spotify.com/track/26g4FBGTB9YEj7q4HlblFf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:27 |
 | 215 | [Another Melody \- Chelsea Recording](https://open.spotify.com/track/5AjaRRdrIlY8yrggDbxVO5) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 4:56 |
-| 216 | [Intro To The Circle Game](https://open.spotify.com/track/4Ev24mtCjqgLyNQgV23au0) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 1:00 |
-| 217 | [Winter Lady \(Live at The 2nd Fret, Philadelphia, PA, 3/17/1967\) \- 3rd Set](https://open.spotify.com/track/0LlRnLyYkBESTII2Zt6qoU) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:08 |
+| 216 | [Winter Lady \(Live at The 2nd Fret, Philadelphia, PA, 3/17/1967\) \- 3rd Set](https://open.spotify.com/track/0LlRnLyYkBESTII2Zt6qoU) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:08 |
+| 217 | [Intro To The Circle Game](https://open.spotify.com/track/4Ev24mtCjqgLyNQgV23au0) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 1:00 |
 | 218 | [Jeremy \- Song To A Seagull Session](https://open.spotify.com/track/0n8kcXmx4hD2JKzOkCQ1Qb) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 3:34 |
 | 219 | [Gemini Twin](https://open.spotify.com/track/3FTFtR632UsVfqZLAvxbpz) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:53 |
 | 220 | [A Melody In Your Name](https://open.spotify.com/track/4aKd15A5WYys9PpMUPscml) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:59 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 274 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 275 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AcRa0AAAAADKIsdOkaVuihHZeJUuN1gK`
+Snapshot ID: `AcRgNAAAAAAnRJ/SPe8bBNnTR454Yq5t`

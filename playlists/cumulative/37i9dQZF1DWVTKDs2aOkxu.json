@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Paris Paloma",
+  "description": "The best indie music of the moment. Cover: Fat Dog",
   "name": "The Indie List",
   "tracks": [
     {
@@ -1988,6 +1988,24 @@
       "duration_ms": 201960,
       "name": "Bitter Everyday",
       "url": "https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg"
+    },
+    {
+      "album": {
+        "name": "Black Sage",
+        "url": "https://open.spotify.com/album/1zp3RHhnnu3lZcxCG31or9"
+      },
+      "artists": [
+        {
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293026,
+      "name": "Black Sage",
+      "url": "https://open.spotify.com/track/3yGEqQ4yeo2pIHP93pf2vV"
     },
     {
       "album": {
@@ -5097,6 +5115,24 @@
     },
     {
       "album": {
+        "name": "Falling out of Love",
+        "url": "https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381293,
+      "name": "Falling out of Love",
+      "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
+    },
+    {
+      "album": {
         "name": "Far Out",
         "url": "https://open.spotify.com/album/0ywPmzfGXuZFHoOnlzHNVJ"
       },
@@ -5999,6 +6035,24 @@
     },
     {
       "album": {
+        "name": "Go Fuck Urself",
+        "url": "https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185998,
+      "name": "Go Fuck Urself",
+      "url": "https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP"
+    },
+    {
+      "album": {
         "name": "House With The Blue Door",
         "url": "https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93"
       },
@@ -6082,7 +6136,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 261747,
       "name": "Going Shopping",
       "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
@@ -6302,7 +6356,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 147272,
       "name": "Grey Mullet",
       "url": "https://open.spotify.com/track/717tRuYfcGM29jDCzDt2hy"
@@ -6576,6 +6630,28 @@
       "duration_ms": 162317,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx"
+    },
+    {
+      "album": {
+        "name": "Hardy (feat. Clairo)",
+        "url": "https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233160,
+      "name": "Hardy (feat. Clairo)",
+      "url": "https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy"
     },
     {
       "album": {
@@ -8497,6 +8573,24 @@
     },
     {
       "album": {
+        "name": "Knifefish",
+        "url": "https://open.spotify.com/album/00PbPT6noUQpRC9bWXXJu4"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146788,
+      "name": "Knifefish",
+      "url": "https://open.spotify.com/track/1KiWQFbHX5VPg41EEErqXh"
+    },
+    {
+      "album": {
         "name": "Koya",
         "url": "https://open.spotify.com/album/0XjWU0ZXEr2sVK33LUSpFy"
       },
@@ -9234,6 +9328,24 @@
       "duration_ms": 140812,
       "name": "lovedrunk",
       "url": "https://open.spotify.com/track/73HM4oXqEBDbeKn8GexF3c"
+    },
+    {
+      "album": {
+        "name": "Easy EP",
+        "url": "https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154562,
+      "name": "lts here",
+      "url": "https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL"
     },
     {
       "album": {
@@ -10320,7 +10432,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 189583,
       "name": "My House Divides",
       "url": "https://open.spotify.com/track/3aFrduOAwamwGOiyRkIP0T"
@@ -10378,6 +10490,24 @@
       "duration_ms": 187433,
       "name": "Nack Nostalgia",
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+    },
+    {
+      "album": {
+        "name": "Leaving The House Is A Performance",
+        "url": "https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs"
+      },
+      "artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221717,
+      "name": "Naked Chess",
+      "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
     },
     {
       "album": {
@@ -12445,6 +12575,24 @@
     },
     {
       "album": {
+        "name": "Rotting",
+        "url": "https://open.spotify.com/album/7ps98sDD62TGLNgWO3O377"
+      },
+      "artists": [
+        {
+          "name": "Pixie McCann",
+          "url": "https://open.spotify.com/artist/2JT4el59Lvkj4FrhbzdBSu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253540,
+      "name": "Rotting",
+      "url": "https://open.spotify.com/track/2JgO5KBmsglXqory65ZYJT"
+    },
+    {
+      "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
@@ -13066,7 +13214,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 216250,
       "name": "Shame",
       "url": "https://open.spotify.com/track/32k9JAtqO9h7zUHYMiLJ3O"
@@ -13196,7 +13344,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 216933,
       "name": "Sick Of Love",
       "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
@@ -13636,7 +13784,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 220000,
       "name": "Sometimes I believe in God (Sometimes I believe in Me)",
       "url": "https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve"
@@ -13852,7 +14000,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 128012,
       "name": "Spring summer",
       "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
@@ -17402,7 +17550,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 227242,
       "name": "Witching Hour",
       "url": "https://open.spotify.com/track/2wRv8M3xboX9UHlkyvpn8l"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAC7nnw/IGuFRl/5vWQOsUZa",
+  "snapshot_id": "agO/AAAAAADoaPMN64vdHh5SiRbgxdp0",
   "tracks": [
     {
       "added_at": null,
@@ -871,30 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive (with Offset & 2 Chainz)",
-        "url": "https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2"
-      },
-      "artists": [
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 235897,
-      "name": "Alive (with Offset & 2 Chainz)",
-      "url": "https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Huncho Jack, Jack Huncho",
         "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
       },
@@ -919,6 +895,30 @@
       "duration_ms": 228431,
       "name": "Dubai Shit",
       "url": "https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive (with Offset & 2 Chainz)",
+        "url": "https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 235897,
+      "name": "Alive (with Offset & 2 Chainz)",
+      "url": "https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz"
     },
     {
       "added_at": null,
@@ -1051,26 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JEALOUSY (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "JEALOUSY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 160320,
       "name": "Disrespectful",
       "url": "https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     }
   ],
   "unique_name": "This Is Offset",

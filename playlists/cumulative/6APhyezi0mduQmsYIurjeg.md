@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-549 songs - 1 day 9 hr 9 min
+551 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Explosion of Love](https://open.spotify.com/track/0KPjxnvRP2RWSs25W8tD7u) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Explosion of Love](https://open.spotify.com/album/4EAdIj9MGAO4EWsp8O1NI9) | 3:19 | 2025-11-05 |  |
 | [Eye of the Storm](https://open.spotify.com/track/7nxkZOfVWHFChKc3XH1izB) | [Jonathan Young](https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Eye of the Storm](https://open.spotify.com/album/79sF7He6Rk5vVbkYidm7Oq) | 3:34 | 2023-03-19 |  |
 | [Feel What It's Like](https://open.spotify.com/track/29GL0d0DsFuryqAEmPvmv7) | [Kristopher Battilana](https://open.spotify.com/artist/5w555IMji6PTHL2m9dUK3n) | [Feel What It's Like](https://open.spotify.com/album/1EZ4mviQwITtr3yo0cQr3g) | 2:45 | 2023-02-22 |  |
+| [Feeling \- Radio Edit](https://open.spotify.com/track/0G1Lbe5QtkLlSYSGCE1S9B) | [Chavez Cartel](https://open.spotify.com/artist/6xOc7vQz5A564U7xBlP4e4) | [Feeling](https://open.spotify.com/album/419aOHm534nssVUrGdDr7U) | 4:20 | 2026-05-14 |  |
 | [FFS I'm in Love](https://open.spotify.com/track/4HmViZoyrKHEmIY4QdFnM4) | [Sugarglass](https://open.spotify.com/artist/0gt5TC7w5vFBiGNlLWykR8) | [FFS I'm in Love](https://open.spotify.com/album/7oyntLiTcBIE1WYeBAObe9) | 3:26 | 2025-03-08 |  |
 | [Fields of Confusion](https://open.spotify.com/track/057Z4fxcBusBO0HlmrWyQ7) | [Burton Badman](https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm) | [Fields of Confusion](https://open.spotify.com/album/1aKyJQNeavv0NnYkWdTYMT) | 2:37 | 2023-03-08 |  |
 | [Finale bellissimo \(with Luca Cavazzana\)](https://open.spotify.com/track/3Dprysp6z0dLVIxBxYnHE0) | [Maurizio Ghidini](https://open.spotify.com/artist/0gTuNESt4Q4y3sGdpOEZPE) | [Esule](https://open.spotify.com/album/2gKaZWPXq5UTWKO9WQJ4ie) | 3:31 | 2025-02-20 |  |
@@ -339,6 +340,7 @@
 | [Nuvens](https://open.spotify.com/track/2JxjXp07kpFEzUoOCJoDJ0) | [Felipe Roth](https://open.spotify.com/artist/4fLMGUYffJu0m5W20zKMqh) | [Nuvens](https://open.spotify.com/album/3C1HY9c0kkV56ByTlKf3Wq) | 2:59 | 2025-03-31 |  |
 | [Náufrago en el Mar](https://open.spotify.com/track/5Q73dKAkaDlvsaSWz1XAtE) | [Carlos frias & Circulo Social](https://open.spotify.com/artist/685vc5M8paQhjzonRPcea7), [Genilda Arvelo](https://open.spotify.com/artist/5czB8ftMpapBRL5hSL9kTN) | [Aprendiz de Poeta](https://open.spotify.com/album/05Xbp1Ln8yK7NGTHIKRAmr) | 5:36 | 2025-03-31 |  |
 | [O Porquê da Gente](https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [O Porquê da Gente](https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW) | 3:54 | 2025-11-03 |  |
+| [O Tanto Que Eu Vi](https://open.spotify.com/track/3KA0P8blih3jzimdZqrI0j) | [Thiago Martins](https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof) | [O Tanto Que Eu Vi](https://open.spotify.com/album/1aUb5WUyk5oVNwzj9i8fNr) | 4:09 | 2026-05-14 |  |
 | [Oh My](https://open.spotify.com/track/2Ha8mt7gvGYB4rGxPRFoT5) | [JAXL](https://open.spotify.com/artist/1XVAQjGPOTYKTfqiHWIEpe) | [Oh My](https://open.spotify.com/album/5heoBj6Z0Y9K13JZKildWA) | 3:40 | 2023-02-22 |  |
 | [On the Stage again](https://open.spotify.com/track/7fScxdVOkhl7vXf31yupSB) | [Ammo](https://open.spotify.com/artist/63iPZS104AdQkY0DuMxWHS) | [Ghost](https://open.spotify.com/album/3m5Q127n55pwDMcoREJEcQ) | 4:00 | 2024-12-20 |  |
 | [One More Second](https://open.spotify.com/track/7GMHFVwsXtccxFVa90ORkY) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Alice Gerschpacher](https://open.spotify.com/artist/5S2264Wy4QpAv1NEXn2Boy) | [One More Second](https://open.spotify.com/album/4w7qh1fyGEA7fSwAK39NMk) | 5:20 | 2023-04-19 |  |

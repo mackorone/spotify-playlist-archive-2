@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 73569,
+  "num_followers": 73664,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADBAOhkR+0q2s3uxwXNdq3n",
+  "snapshot_id": "agO/AAAAAAD/aQh4+400FShwGu2J6CjZ",
   "tracks": [
     {
       "added_at": null,
@@ -396,13 +396,13 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Estevan Plazola",
-          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 212773,
-      "name": "Cocaine",
-      "url": "https://open.spotify.com/track/6d0EpYdqnZlfbbaDqgGA8A"
+      "duration_ms": 173618,
+      "name": "Boneless",
+      "url": "https://open.spotify.com/track/38rXAquFQN5OwsWA1oo6ps"
     },
     {
       "added_at": null,
@@ -480,13 +480,13 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
         }
       ],
-      "duration_ms": 173618,
-      "name": "Boneless",
-      "url": "https://open.spotify.com/track/38rXAquFQN5OwsWA1oo6ps"
+      "duration_ms": 212773,
+      "name": "Cocaine",
+      "url": "https://open.spotify.com/track/6d0EpYdqnZlfbbaDqgGA8A"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 180656,
-      "name": "WHISKEY DE PI\u00d1A",
-      "url": "https://open.spotify.com/track/5cjJ5r52UvOaDaJ0dClY5B"
+      "duration_ms": 159212,
+      "name": "KAMIKAZE",
+      "url": "https://open.spotify.com/track/3aQQ6AAzsyaEf6RowEPX7Z"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 159212,
-      "name": "KAMIKAZE",
-      "url": "https://open.spotify.com/track/3aQQ6AAzsyaEf6RowEPX7Z"
+      "duration_ms": 180656,
+      "name": "WHISKEY DE PI\u00d1A",
+      "url": "https://open.spotify.com/track/5cjJ5r52UvOaDaJ0dClY5B"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Benjamines",
-        "url": "https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 166284,
-      "name": "Los Benjamines",
-      "url": "https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL RELOJITO",
         "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 189027,
       "name": "EL RELOJITO",
       "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Benjamines",
+        "url": "https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 166284,
+      "name": "Los Benjamines",
+      "url": "https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b"
     },
     {
       "added_at": null,

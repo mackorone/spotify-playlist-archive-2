@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,500 likes - 287 songs - 15 hr 5 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,503 likes - 294 songs - 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -295,5 +295,12 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 285 | [Dance of Your Dreams \- Radio Mix](https://open.spotify.com/track/2Y5VbO4wrP27dLEzWJcB2g) | [SynchroStar](https://open.spotify.com/artist/14IBroICIBkXGCcqIrP1Xn), [Jodie Poye](https://open.spotify.com/artist/6CclapVC4PKNda06Rjrprv) | [Dance of Your Dreams \(Radio Mix\)](https://open.spotify.com/album/5yNDDzHKaVulBgK5eqXW8V) | 3:11 |
 | 286 | [One More Time](https://open.spotify.com/track/65DXx4MjmlPwm1RlWtuPvZ) | [Stopgap Solution](https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb) | [One More Time](https://open.spotify.com/album/3QUosDhdcGqOSgxXxagaFo) | 3:10 |
 | 287 | [Perfect Day](https://open.spotify.com/track/2sNKfZR08usw4sbAG1iYK6) | [Cliff Aßmann](https://open.spotify.com/artist/4n6MLracjcDsz8eSdB367c) | [Perfect Day](https://open.spotify.com/album/3Tcgl2kfgEgJYlB4V5Dete) | 3:45 |
+| 288 | [Here's To](https://open.spotify.com/track/09arw3m3mE6nv5YgzryEAj) | [Pien](https://open.spotify.com/artist/0M3W0VPiLEjryaAfMEoP8z) | [Here's To](https://open.spotify.com/album/3vqFuUP7NzGfacTikiemri) | 3:01 |
+| 289 | [You Woke My Soul](https://open.spotify.com/track/3belJHRaollUNJq4dBtyIf) | [MILA \- Canto del Alma](https://open.spotify.com/artist/4VmxZmDwgWQcE9t9FLqJMH) | [You Woke My Soul](https://open.spotify.com/album/5Nq8Tng44zNXBgM8DLZhuw) | 3:29 |
+| 290 | [Painted](https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Painted](https://open.spotify.com/album/1VIkQ3jdOIyFvqbMXmFNFO) | 3:05 |
+| 291 | [Till i die](https://open.spotify.com/track/6r88GA7ct5UQQNAw7Cpu1X) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [Till i die](https://open.spotify.com/album/2VLenjFE6X34XheGOSKfHo) | 2:16 |
+| 292 | [Flattered](https://open.spotify.com/track/06PLRhppzQIhQ5VRFkDtvF) | [Big Little Lavender](https://open.spotify.com/artist/3GX3MouMORVyAphrgn8rEi) | [Flattered](https://open.spotify.com/album/5MwY1mOI8m6rtkYP973X7P) | 3:22 |
+| 293 | [Skimming stones](https://open.spotify.com/track/5d7lKC9rNskbkpOOnaAz69) | [Treetunnels](https://open.spotify.com/artist/7nlrtDTZoeoxdtsXWeAgyk) | [Skimming stones](https://open.spotify.com/album/7FkKOBkPuKSO3Dfh0tCemg) | 3:17 |
+| 294 | [Blue Screen, Half\-Dream](https://open.spotify.com/track/7s6tUZIowZBSVBSmOUtXRN) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Shenanigansia Vol.1](https://open.spotify.com/album/02WORhFZN1F14E2dTBUXau) | 4:09 |
 
-Snapshot ID: `AAA4L3pdychugDmg/oOFOU0ce4XIeYAv`
+Snapshot ID: `AAA4Nt+NX+sNdSM0gFi/hScmmaO43eOf`

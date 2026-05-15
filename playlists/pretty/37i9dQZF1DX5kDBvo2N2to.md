@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,014 likes - 87 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,008 likes - 87 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
+| 1 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 |
 | 2 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 3 | [Räddare i nöden](https://open.spotify.com/track/1yHJl9qbcH58PEHLiRlywQ) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Förr nu & forever](https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC) | 4:01 |
 | 4 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
-| 5 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 |
+| 5 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
 | 6 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 7 | [Tiden läker alla sår](https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tiden läker alla sår](https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q) | 3:03 |
-| 8 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
-| 9 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 8 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
+| 9 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 10 | [Fuck ditt liv](https://open.spotify.com/track/53goqbb9AgYdeUgH9y60h1) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Where Strippers Go To Die](https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf) | 2:43 |
-| 11 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
+| 11 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 12 | [Sommarkatt](https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Sommarkatt](https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD) | 3:28 |
-| 13 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
+| 13 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
 | 14 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
 | 15 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 | 16 | [Hos dig är jag stark](https://open.spotify.com/track/0L7nPD6GbbEGI5KdN2scId) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [Hos dig är jag stark](https://open.spotify.com/album/71CzIZ2fzyriXJf5kVI9Tj) | 3:07 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 29 | [Nightingale Lane.](https://open.spotify.com/track/5TCpeSXHkTEUJmCXlxhESv) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:02 |
 | 30 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
 | 31 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
-| 32 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
+| 32 | [Viva L’Amor](https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Viva L’Amor](https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7) | 3:01 |
 | 33 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
-| 34 | [Viva L’Amor](https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Viva L’Amor](https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7) | 3:01 |
+| 34 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 35 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
 | 36 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
 | 37 | [Blue Moon](https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:02 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 52 | [Barfotabarn](https://open.spotify.com/track/318Y9u8zsQfV0G9ToH4JUB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Min vän och jag](https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K) | 2:45 |
 | 53 | [Ta Mig Aldrig Härifrån](https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Ta Mig Aldrig Härifrån](https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ) | 3:07 |
 | 54 | [Störd](https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Störd](https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV) | 2:53 |
-| 55 | [Dansa med mig själv](https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Dansa med mig själv](https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc) | 3:30 |
-| 56 | [Iris](https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Iris](https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd) | 3:00 |
+| 55 | [Iris](https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Iris](https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd) | 3:00 |
+| 56 | [Dansa med mig själv](https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Dansa med mig själv](https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc) | 3:30 |
 | 57 | [Göteborg](https://open.spotify.com/track/7pFOZqgnaKfwxcPnGTEWXw) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 3:48 |
 | 58 | [Mimosa](https://open.spotify.com/track/1mYHXcfv89s3NfqYUKdqMW) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 3:12 |
 | 59 | [VEM VET?](https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:05 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 86 | [Cocaine](https://open.spotify.com/track/0tRPNdNeJnL55hd1faw1W2) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Dandelion](https://open.spotify.com/album/1hrKM25ZbJnGWOnMWpUT7a) | 2:55 |
 | 87 | [Allt jag har](https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz) | 2:52 |
 
-Snapshot ID: `AAAAANEZcJfIYeZaUBkgDvo572yz6HJg`
+Snapshot ID: `AAAAAKf5/7uq8C+yZw1g2hJqWKM1QvsE`

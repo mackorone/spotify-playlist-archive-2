@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-413 songs - 1 day 0 hr 50 min
+415 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-25 | 2025-09-11 |
 | [Hav mot strand](https://open.spotify.com/track/1yrP9fz8noZrp2stygkrKU) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 3:46 | 2022-06-09 | 2026-02-03 |
 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 | 2024-02-01 | 2025-03-22 |
-| [Heights](https://open.spotify.com/track/2YSNNFTzq9vWHCyAZIW6xw) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Heights](https://open.spotify.com/album/1bu1eXnsPH9H98wEtt4d22) | 2:51 | 2025-03-20 |  |
+| [Heights](https://open.spotify.com/track/2YSNNFTzq9vWHCyAZIW6xw) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Heights](https://open.spotify.com/album/1bu1eXnsPH9H98wEtt4d22) | 2:51 | 2025-03-20 | 2026-05-15 |
 | [Here Comes The Sun](https://open.spotify.com/track/3qDlYd3hhaWo1xg6AgbzhQ) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Here Comes The Sun](https://open.spotify.com/album/1Uqnmck9tbT6OSQMrW5Stw) | 3:12 | 2023-12-21 | 2024-05-24 |
 | [Hey Judy](https://open.spotify.com/track/4iCE97DfG7KbiVbiXFQUt2) | [Beth McBride](https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73) | [Hey Judy](https://open.spotify.com/album/0pMk1n2uuRifp4jla352aJ) | 3:41 | 2025-10-09 | 2026-05-06 |
 | [Hindsight](https://open.spotify.com/track/1oNhUK7wYAITgmDiAFoKYZ) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Hindsight](https://open.spotify.com/album/60H5w2fXHEJX2gQjoCCjaQ) | 3:24 | 2024-01-18 | 2024-04-28 |
@@ -197,6 +197,7 @@
 | [If We Were Vampires](https://open.spotify.com/track/1GffRISfxWmLTwWlN13qLE) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Four Little Songs](https://open.spotify.com/album/6Ds0b3VYhaYtxztw5hh5pJ) | 3:25 | 2025-10-02 |  |
 | [Imogen](https://open.spotify.com/track/5AMPtDJZdL1Ox7SJpd5Eyb) | [Embla and the Karidotters](https://open.spotify.com/artist/1n3qjPEPKXcQjHVwlfcagR) | [Imogen](https://open.spotify.com/album/1sFFl6mCPNcoT4Bd33UHin) | 3:30 | 2026-01-15 | 2026-02-27 |
 | [Imposter](https://open.spotify.com/track/7aqZhafy8ORlgO7wHYixFO) | [Tommy Tokyo](https://open.spotify.com/artist/5s3vQbwoPdhIvMffVJbOya) | [Imposter](https://open.spotify.com/album/3cer7gQMvhKVZKcMc45sbA) | 3:57 | 2022-07-07 | 2022-12-24 |
+| [In a Dream](https://open.spotify.com/track/77Ez9vfUm0Hyb4BbCJOG6I) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [In a Dream](https://open.spotify.com/album/5uPxm7BWG7FTtih1lcS8MO) | 3:16 | 2026-05-14 |  |
 | [In The Silence](https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y) | [Everything We're Not](https://open.spotify.com/artist/55aF2K7WSCptXLM1vmObKz), [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [In The Silence](https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL) | 2:47 | 2023-06-08 | 2024-01-12 |
 | [Indigo](https://open.spotify.com/track/24kGDYThFy7mvzB5pjtYqE) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Indigo](https://open.spotify.com/album/3BTsko3eP7ONxcyTT1ott4) | 3:18 | 2024-05-23 | 2025-02-28 |
 | [Innocent](https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Innocent](https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u) | 2:36 | 2024-03-04 | 2025-05-11 |
@@ -320,8 +321,9 @@
 | [Tangerine](https://open.spotify.com/track/321CAPcR4HTnaaxR0dus2e) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Tangerine](https://open.spotify.com/album/4yJnsynVnA85f4GcZkZaKg) | 3:05 | 2023-01-05 | 2023-02-21 |
 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 | 2022-02-03 | 2024-01-26 |
 | [Tell Me Something True](https://open.spotify.com/track/5Qz3uuOwAOe8gK36J11VUr) | [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [Tell Me Something True](https://open.spotify.com/album/0OZ6vbt3LimtMq25vui5iS) | 3:22 | 2025-08-21 | 2025-09-26 |
-| [Tennessee](https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Tennessee](https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s) | 2:39 | 2025-05-08 |  |
+| [Tennessee](https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Tennessee](https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s) | 2:39 | 2025-05-08 | 2026-05-15 |
 | [Tennessee](https://open.spotify.com/track/3srDr6WrS76aa0fjbLZdhr) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [My Roots](https://open.spotify.com/album/6u0GjfYg4KepFzTXgOuXes) | 2:39 | 2026-02-13 | 2026-04-16 |
+| [The Arms Of You](https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [The Arms Of You](https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43) | 2:50 | 2026-05-14 |  |
 | [The Call is Coming From Inside The House](https://open.spotify.com/track/2lXJCd5rmWww7o8TRSp6eC) | [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA), [Rachel Gonzalez](https://open.spotify.com/artist/63VWVmNJRT50AnblZm24U7), [Julia Gartha](https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs) | [The Call is Coming From Inside The House](https://open.spotify.com/album/5IH0cLLusgDP2H2lRs6M3y) | 3:04 | 2025-04-10 | 2025-09-19 |
 | [The Devil's Tongue](https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 2:13 | 2022-07-14 | 2023-08-06 |
 | [The Devil's Tongue](https://open.spotify.com/track/3yhRyEojpXrExN24ypYPET) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 2:13 | 2021-12-02 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Guembri, rhythmic krakebs and soulful chants.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,065 likes - 50 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,123 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 9 | [Bouhali](https://open.spotify.com/track/6IEDKu0MAwj1qZ8cznuzkp) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Roots & Plugged](https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn) | 5:20 |
 | 10 | [Ya lil](https://open.spotify.com/track/5HT5SUVxHOG3cCCjnorj45) | [Saad Tiouly](https://open.spotify.com/artist/6u7nvgtDtB0CG3vra0mBfB) | [Ya lil](https://open.spotify.com/album/515pzLELLkIv2VuxqlWv7S) | 4:12 |
 | 11 | [La Ilaha Illa Allah](https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf) | [Maalem Said Damir & Gnawa Allstars](https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS) | [Gnawa or Never](https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT) | 10:17 |
-| 12 | [Sandiya](https://open.spotify.com/track/0dOrMZUgxBpT2SlKT2dTcp) | [Karim Ziad](https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8) | [Ifrikya](https://open.spotify.com/album/4ZxEG0vF1yh3EPoO7BWmUw) | 4:37 |
-| 13 | [Guembrified](https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Guembrified](https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY) | 3:54 |
+| 12 | [Guembrified](https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Guembrified](https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY) | 3:54 |
+| 13 | [Sandiya](https://open.spotify.com/track/0dOrMZUgxBpT2SlKT2dTcp) | [Karim Ziad](https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8) | [Ifrikya](https://open.spotify.com/album/4ZxEG0vF1yh3EPoO7BWmUw) | 4:37 |
 | 14 | [Hamdouchia](https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 4:09 |
 | 15 | [Lalla Mira](https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live in Casablanca](https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR) | 9:29 |
 | 16 | [Soudani Manayou](https://open.spotify.com/track/2erBxmWBvqxXqQiGo4Sp8q) | [Maalem Said Damir & Gnawa Allstars](https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS) | [Gnawa or Never](https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT) | 4:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 46 | [Bilaji](https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv) | [The Sons of the Moon\-Ouled Kamar](https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl) | [Marrakech Undermoon: The Black Album, Vol\. 2b](https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP) | 9:29 |
 | 47 | [Arabiato](https://open.spotify.com/track/2THND2AOdM0UKRIi5RJNZk) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK) | [Africa Soyo](https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx) | 6:28 |
 | 48 | [Mister X](https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK) | [Ray Lema](https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD), [Tyour Gnaoua](https://open.spotify.com/artist/6R0UQ6lFMkmTIsVz5pGvCL) | [Safi](https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z) | 5:09 |
-| 49 | [Fangara Fangarié \- Ouled Bambara](https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9) | [Maalem Si Mohamed Chaouqi](https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr) | [Les Gnawa du Maroc \(Ouled El' Abdi\)](https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK) | 3:21 |
-| 50 | [Baba Arabi](https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN) | [Gnawa Njoum Experience](https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l) | [Gnawa Njoum Experience](https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh) | 6:15 |
+| 49 | [Baba Arabi](https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN) | [Gnawa Njoum Experience](https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l) | [Gnawa Njoum Experience](https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh) | 6:15 |
+| 50 | [Fangara Fangarié \- Ouled Bambara](https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9) | [Maalem Si Mohamed Chaouqi](https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr) | [Les Gnawa du Maroc \(Ouled El' Abdi\)](https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK) | 3:21 |
 
 Snapshot ID: `AAAAAOl+zLyU6udJhRIJ+YonkJp3ssO0`

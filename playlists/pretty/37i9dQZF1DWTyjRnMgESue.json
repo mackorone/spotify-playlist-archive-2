@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 88815,
+  "num_followers": 88827,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-05-08 17:20:32",
       "album": {
-        "name": "Getting Killed",
-        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 210945,
-      "name": "Au Pays du Cocaine",
-      "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
-    },
-    {
-      "added_at": "2026-05-08 17:20:32",
-      "album": {
         "name": "At The Beach, In Every Life",
         "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 237809,
       "name": "At The Beach, In Every Life",
       "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
+    },
+    {
+      "added_at": "2026-05-08 17:20:32",
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 210945,
+      "name": "Au Pays du Cocaine",
+      "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
     },
     {
       "added_at": "2026-05-08 17:20:32",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-05-08 17:20:32",
       "album": {
-        "name": "Walking Through The Water",
-        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 301376,
-      "name": "Walking Through The Water",
-      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
-    },
-    {
-      "added_at": "2026-05-08 17:20:32",
-      "album": {
         "name": "The Hudson",
         "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
+    },
+    {
+      "added_at": "2026-05-08 17:20:32",
+      "album": {
+        "name": "Walking Through The Water",
+        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 301376,
+      "name": "Walking Through The Water",
+      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
     },
     {
       "added_at": "2026-05-08 17:20:32",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-05-08 17:20:32",
       "album": {
+        "name": "Nostalgic for Nothing",
+        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 205484,
+      "name": "Nostalgic for Nothing",
+      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
+    },
+    {
+      "added_at": "2026-05-08 17:20:32",
+      "album": {
         "name": "I Talk About You",
         "url": "https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv"
       },
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2026-05-08 17:20:32",
       "album": {
-        "name": "Nostalgic for Nothing",
-        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
       },
       "artists": [
         {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
         }
       ],
-      "duration_ms": 205484,
-      "name": "Nostalgic for Nothing",
-      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
+      "duration_ms": 249069,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
     },
     {
       "added_at": "2026-05-08 17:20:32",
@@ -1347,22 +1363,6 @@
       "duration_ms": 161931,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu"
-    },
-    {
-      "added_at": "2026-05-08 17:20:32",
-      "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 249069,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
     },
     {
       "added_at": "2026-05-08 17:20:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: 6LACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,081 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,079 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 21 | [IT'S OK](https://open.spotify.com/track/7uADhlog5IlihImt0ypJq6) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [IT'S OK](https://open.spotify.com/album/58ESrwQBQHLys9cC5qd6uE) | 2:19 |
 | 22 | [Bed of Roses \(with Wale\)](https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bed of Roses \(with Wale\)](https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3) | 3:05 |
 | 23 | [For The Gig](https://open.spotify.com/track/1KNjdLUsAeaP02NgXb7o8c) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [For The Gig](https://open.spotify.com/album/6yaXs1mAkeUE3Ina5gf2nI) | 2:54 |
-| 24 | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
+| 24 | [GEEKIN](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
 | 25 | [Paparazzi](https://open.spotify.com/track/5hmxAHWDIaZJ3iuLsk5NY7) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [GAMAN](https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe) | 2:59 |
 | 26 | [Go](https://open.spotify.com/track/4wawkdxKg4bWajdn28Obst) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Go](https://open.spotify.com/album/7eBEI7DmvyUC9loMP0FlPN) | 2:24 |
 | 27 | [B2B](https://open.spotify.com/track/3KCiK63O5FkjAknCT76I1N) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [B2B](https://open.spotify.com/album/4uVNs4KwGn7qgcVNrzqUWR) | 2:23 |

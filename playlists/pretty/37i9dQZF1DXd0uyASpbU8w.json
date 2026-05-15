@@ -1,12 +1,12 @@
 {
   "description": "New music from Uncle Waffles, The Big Hash & Kabza De Small, FLO,  Chris Brown and more.",
-  "num_followers": 178211,
+  "num_followers": 178294,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIBBuXW7NpoOSJj4av+EznHMhcHa",
+  "snapshot_id": "AAAAAKrFl4FpqjX2+kCmyeS/N/N9zI4a",
   "tracks": [
     {
       "added_at": "2026-05-07 22:02:00",
@@ -263,7 +263,7 @@
     {
       "added_at": "2026-05-07 22:02:00",
       "album": {
-        "name": "GEEKIN (feat. Lil Yachty)",
+        "name": "GEEKIN",
         "url": "https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG"
       },
       "artists": [
@@ -277,7 +277,7 @@
         }
       ],
       "duration_ms": 152533,
-      "name": "GEEKIN (feat. Lil Yachty)",
+      "name": "GEEKIN",
       "url": "https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q"
     },
     {
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-05-07 22:02:00",
       "album": {
+        "name": "Hlala Nami",
+        "url": "https://open.spotify.com/album/32I6xhTRR5SDGXhOL9c7uM"
+      },
+      "artists": [
+        {
+          "name": "Okwanda",
+          "url": "https://open.spotify.com/artist/3CUkDwGba5GzzVyw5fZ2SM"
+        },
+        {
+          "name": "Janesh",
+          "url": "https://open.spotify.com/artist/1oK1EnI3oWOsRKlV4e6L5L"
+        }
+      ],
+      "duration_ms": 302033,
+      "name": "Hlala Nami",
+      "url": "https://open.spotify.com/track/5bERzEbt9TwdKBGXHNBaUx"
+    },
+    {
+      "added_at": "2026-05-07 22:02:00",
+      "album": {
         "name": "linknb",
         "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
       },
@@ -1185,7 +1205,7 @@
         }
       ],
       "duration_ms": 196482,
-      "name": "Shot Caller - Shuga's Edit",
+      "name": "Shot Caller (Shuga's Edit)",
       "url": "https://open.spotify.com/track/7lJsZIS9Z0uekFXmEVIywH"
     },
     {

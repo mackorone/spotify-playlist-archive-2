@@ -2,9 +2,9 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: guncharlie
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: BABYMONSTER
 
-257 songs - 15 hr 25 min
+258 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-19 | 2025-07-05 |
 | [Dirty Work](https://open.spotify.com/track/1ImRS2KtSaDZcj9vQTxwFA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN) | 3:00 | 2025-07-04 | 2025-07-26 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 | 2024-11-09 |
+| [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 | 2026-05-14 |  |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-04 | 2024-12-17 |
 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-17 |  |
 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-13 | 2025-05-09 |
@@ -159,7 +160,7 @@
 | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/track/0cvETHNq3ZkPHdYCqRXhzk) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/album/7allI9XRc8YqcO1TO3Gsyi) | 2:46 | 2024-10-30 | 2025-01-04 |
 | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/track/4GMsgN54SdPxMamKu9qQam) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/album/5Y9UBuDr9YrjFoRvfuO6fb) | 3:56 | 2026-02-27 |  |
 | [ข้อความรูปยิ้ม :\)](https://open.spotify.com/track/3ZajpwGfKsToCEAuLTtoxF) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ข้อความรูปยิ้ม :\)](https://open.spotify.com/album/3LenjO4Dj5si5mCrFVWaen) | 3:47 | 2024-09-07 | 2025-02-07 |
-| [ครองโลก](https://open.spotify.com/track/76j0uitplft5gODYnoQ62V) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:41 | 2026-04-03 |  |
+| [ครองโลก](https://open.spotify.com/track/76j0uitplft5gODYnoQ62V) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:41 | 2026-04-03 | 2026-05-15 |
 | [ครั้งหนึ่ง](https://open.spotify.com/track/3ImxRQnfrCXFrBFxJIvJuR) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ครั้งหนึ่ง](https://open.spotify.com/album/06qIplvukzO5NyH9UwJG45) | 3:51 | 2026-04-10 |  |
 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 | 2024-11-22 | 2025-04-29 |
 | [ความคาดหวัง](https://open.spotify.com/track/4n8TKmRLfD82RWnhb6HMNw) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [ตูน BODYSLAM](https://open.spotify.com/artist/4fJPoRaV3IZGDVFIMQ3EWw), [ปั๊บ Potato](https://open.spotify.com/artist/2tm6jmamokqIxFSaOEEyRz) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:23 | 2024-11-22 | 2024-12-17 |

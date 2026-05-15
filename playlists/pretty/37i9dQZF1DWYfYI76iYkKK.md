@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,264 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,265 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 40 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
 | 41 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:41 |
 | 42 | [側臉](https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [嵌入生長](https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN) | 3:53 |
-| 43 | [苦的甜](https://open.spotify.com/track/323RJytTPp4AccggWcXxlf) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [苦的甜](https://open.spotify.com/album/35DgQzfiv3IvX57XWMaMWE) | 4:15 |
-| 44 | [怎麼能這樣](https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [謎之音](https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp) | 5:01 |
+| 43 | [怎麼能這樣](https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [謎之音](https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp) | 5:01 |
+| 44 | [苦的甜](https://open.spotify.com/track/323RJytTPp4AccggWcXxlf) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [苦的甜](https://open.spotify.com/album/35DgQzfiv3IvX57XWMaMWE) | 4:15 |
 | 45 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
 | 46 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
 | 47 | [君](https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [君](https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed) | 2:48 |

@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1580460,
+  "num_followers": 1580648,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -435,30 +435,6 @@
     {
       "added_at": "2026-05-08 04:00:31",
       "album": {
-        "name": "Metaphorical Music",
-        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Substantial",
-          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
-        },
-        {
-          "name": "Pase Rock",
-          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
-      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
-    },
-    {
-      "added_at": "2026-05-08 04:00:31",
-      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 353346,
       "name": "Children Of The Internet - Ezra Collective Remix",
       "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
+    },
+    {
+      "added_at": "2026-05-08 04:00:31",
+      "album": {
+        "name": "Metaphorical Music",
+        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        },
+        {
+          "name": "Pase Rock",
+          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
+      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
     },
     {
       "added_at": "2026-05-08 04:00:31",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-05-08 04:00:31",
       "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
+    },
+    {
+      "added_at": "2026-05-08 04:00:31",
+      "album": {
         "name": "Saturday Mornings (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 262573,
       "name": "Saturday Mornings (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
-    },
-    {
-      "added_at": "2026-05-08 04:00:31",
-      "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
     },
     {
       "added_at": "2026-05-08 04:00:31",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-05-08 04:00:31",
       "album": {
-        "name": "Drive Slow",
-        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Drive Slow",
-      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
-    },
-    {
-      "added_at": "2026-05-08 04:00:31",
-      "album": {
         "name": "Jagged Tooth Crook",
         "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 224374,
       "name": "Feeling High",
       "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
+    },
+    {
+      "added_at": "2026-05-08 04:00:31",
+      "album": {
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
     },
     {
       "added_at": "2026-05-08 04:00:31",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-05-08 04:00:31",
       "album": {
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+      },
+      "artists": [
+        {
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Memories Live",
+      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
+    },
+    {
+      "added_at": "2026-05-08 04:00:31",
+      "album": {
         "name": "Chapter 7",
         "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 287320,
       "name": "Chapter 7 (feat. Ty)",
       "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
-    },
-    {
-      "added_at": "2026-05-08 04:00:31",
-      "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
-      },
-      "artists": [
-        {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Memories Live",
-      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
     },
     {
       "added_at": "2026-05-08 04:00:31",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-05-08 04:00:31",
       "album": {
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+    },
+    {
+      "added_at": "2026-05-08 04:00:31",
+      "album": {
         "name": "What Am I to Do?",
         "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 244733,
       "name": "What Am I to Do?",
       "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
-    },
-    {
-      "added_at": "2026-05-08 04:00:31",
-      "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2026-05-08 04:00:31",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-05-08 04:00:31",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2026-05-08 04:00:31",
-      "album": {
         "name": "You Don\u2019t Know",
         "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 250450,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
+    },
+    {
+      "added_at": "2026-05-08 04:00:31",
+      "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2026-05-08 04:00:31",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2026-05-08 04:00:31",
       "album": {
-        "name": "PRiNCE GEORGE",
-        "url": "https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "PRiNCE GEORGE",
-      "url": "https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ"
-    },
-    {
-      "added_at": "2026-05-08 04:00:31",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2026-05-08 04:00:31",
       "album": {
+        "name": "PRiNCE GEORGE",
+        "url": "https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "PRiNCE GEORGE",
+      "url": "https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ"
+    },
+    {
+      "added_at": "2026-05-08 04:00:31",
+      "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-05-08 04:00:31",
       "album": {
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
+        }
+      ],
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2026-05-08 04:00:31",
+      "album": {
         "name": "Life Is Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 216386,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
-    },
-    {
-      "added_at": "2026-05-08 04:00:31",
-      "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
     },
     {
       "added_at": "2026-05-08 04:00:31",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2026-05-08 04:00:31",
       "album": {
-        "name": "Dos Uvas (PJ's Flip)",
-        "url": "https://open.spotify.com/album/6uPTpysbCOXLo0aEwtEtwI"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "Dos Uvas - PJ's Flip",
-      "url": "https://open.spotify.com/track/5czfp4hTYMr0W7JFTjAKrZ"
-    },
-    {
-      "added_at": "2026-05-08 04:00:31",
-      "album": {
         "name": "COLLECTION PLATES (feat. Young Chris)",
         "url": "https://open.spotify.com/album/5QVcCcyJJVeH1qiw5maq1Z"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 270604,
       "name": "COLLECTION PLATES (feat. Young Chris)",
       "url": "https://open.spotify.com/track/2yMsHFOcZy9m7Tcjc0gaer"
+    },
+    {
+      "added_at": "2026-05-08 04:00:31",
+      "album": {
+        "name": "Dos Uvas (PJ's Flip)",
+        "url": "https://open.spotify.com/album/6uPTpysbCOXLo0aEwtEtwI"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "Dos Uvas - PJ's Flip",
+      "url": "https://open.spotify.com/track/5czfp4hTYMr0W7JFTjAKrZ"
     },
     {
       "added_at": "2026-05-08 04:00:31",

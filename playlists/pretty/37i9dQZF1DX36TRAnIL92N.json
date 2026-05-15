@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 486687,
+  "num_followers": 486877,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,26 @@
     {
       "added_at": "2026-05-08 15:13:24",
       "album": {
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 372293,
+      "name": "Amor (feat. CERES)",
+      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
+    },
+    {
+      "added_at": "2026-05-08 15:13:24",
+      "album": {
         "name": "Voices In My Head (Amelie Lens Remix)",
         "url": "https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 192011,
       "name": "Voices In My Head - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54"
-    },
-    {
-      "added_at": "2026-05-08 15:13:24",
-      "album": {
-        "name": "Amor EP",
-        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 372293,
-      "name": "Amor (feat. CERES)",
-      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
     },
     {
       "added_at": "2026-05-08 15:13:24",

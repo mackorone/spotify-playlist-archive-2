@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,266 likes - 89 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,291 likes - 89 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 30 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 |
 | 31 | [Oyelo](https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 3:08 |
 | 32 | [Viento](https://open.spotify.com/track/7teQAzSEf3wAM4VMI4jBxW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Viento](https://open.spotify.com/album/3XS34tvsxuuFBAATKDndML) | 4:54 |
-| 33 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
+| 33 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
 | 34 | [Cobarde](https://open.spotify.com/track/0fWn5iIK7sEc5RBnvae5am) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Cobarde](https://open.spotify.com/album/0xH8xw2DnHv4o6geSurULr) | 2:37 |
 | 35 | [Pupilas Lejanas \(En Vivo\)](https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:00 |
-| 36 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
+| 36 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
 | 37 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 38 | [Luz y Compañía](https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:57 |
-| 39 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
+| 39 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 |
 | 40 | [Inmortal](https://open.spotify.com/track/6WbGHInGORCidaQqH2wenx) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Inmortal](https://open.spotify.com/album/2rwM15WeZLvxQL5r974CSX) | 3:51 |
-| 41 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 |
+| 41 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
 | 42 | [Mundo de Cristal](https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mundo de Cristal](https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL) | 3:30 |
 | 43 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |
 | 44 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 83 | [Cool and Calm](https://open.spotify.com/track/4b99UsjZul6cpWAHRfAqnq) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v) | [Cool and Calm](https://open.spotify.com/album/1SrHyPTxUtvtrVd2vHJ24U) | 2:58 |
 | 84 | [Bebamos de las Copas Lindas](https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Bebamos de las Copas Lindas](https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV) | 3:27 |
 | 85 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 |
-| 86 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 |
-| 87 | [Casita](https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Casita](https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n) | 3:25 |
+| 86 | [Casita](https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Casita](https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n) | 3:25 |
+| 87 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 |
 | 88 | [Arde](https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Arde](https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7) | 3:06 |
 | 89 | [Multipartisme](https://open.spotify.com/track/5BPCKdURYUk6lXrzHcId3x) | [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0) | [Multipartisme](https://open.spotify.com/album/06WOEIneztsCs9nYGfmyYW) | 4:10 |
 

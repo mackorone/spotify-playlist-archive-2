@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,444 songs - 9 day 20 hr 57 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,446 songs - 9 day 21 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4413,7 +4413,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4403 | [Thank You God for the Stars](https://open.spotify.com/track/3IONN7D7JMLQEEBoFyWdT9) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 5:14 |
 | 4404 | [Reverie](https://open.spotify.com/track/6vGIi3Q9QbHzg06Euz8reI) | [Next Day Shakes](https://open.spotify.com/artist/3Hui4dXaUeoSTeAOYMP8FH) | [Reverie](https://open.spotify.com/album/4dgvgT6dq2hQy5vg3C9jhh) | 3:38 |
 | 4405 | [Coffee in London](https://open.spotify.com/track/42HKbul3bRLL5O6SSGRS7f) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in London](https://open.spotify.com/album/2OaaFpOndRjfF4HELPL3OR) | 3:18 |
-| 4406 | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 |
+| 4406 | [Fire on the Black Flags](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Fire on the Black Flags](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 |
 | 4407 | [Tuko Pamoja](https://open.spotify.com/track/6pW2PSRYIQRMzeQikBTGct) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Tuko Pamoja](https://open.spotify.com/album/6HvrHdtTFSvPV1kEVs42rt) | 2:57 |
 | 4408 | [Quiet Saloon](https://open.spotify.com/track/2aKqg2MIauQD7F4xbq4RRU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Quiet Saloon](https://open.spotify.com/album/2meMt3MT71KqnIDpNLYLqB) | 3:06 |
 | 4409 | [Baila Sin Final](https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Sin Final](https://open.spotify.com/album/5vwVcXxmIBVLtxnB1IENtm) | 3:08 |
@@ -4452,5 +4452,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4442 | [Heaven is Lying Down](https://open.spotify.com/track/02Io4cV8WNNfnf81UWciem) | [DOUG ROCKS](https://open.spotify.com/artist/2SYkdo95tZe0avloQNzGSV) | [Heaven is Lying Down](https://open.spotify.com/album/3tz842t9Z72OBYoG8f4d3k) | 3:24 |
 | 4443 | [Shakin'](https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Shakin'](https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ) | 3:05 |
 | 4444 | [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 |
+| 4445 | [Black or White](https://open.spotify.com/track/4tok7s1cquoHTxgHPIv8Xe) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Black or White](https://open.spotify.com/album/6jAQM6dV7PLwD05KnDotSk) | 6:05 |
+| 4446 | [Where you and music meet](https://open.spotify.com/track/3KxEFfyYA4gYbpqouqxZgx) | [Patrick van Bergen](https://open.spotify.com/artist/0iIsumYuMvo8U1dfOVuGXY) | [Where you and music meet](https://open.spotify.com/album/1BCGjd7MKvuxSi5LoMS90O) | 4:22 |
 
-Snapshot ID: `AAAIm/d/UH6T4o5jE7wz/aoVsa2/pVlR`
+Snapshot ID: `AAAInVRF3V8F+WN01+al8+zl1Otymdwg`

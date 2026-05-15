@@ -1,6 +1,6 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 165666,
+  "num_followers": 165714,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Random Access Memories",
-        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Doin' it Right (feat. Panda Bear)",
-      "url": "https://open.spotify.com/track/36c4JohayB9qd64eidQMBi"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "The Best of 2Pac",
         "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 268960,
       "name": "Changes",
       "url": "https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Doin' it Right (feat. Panda Bear)",
+      "url": "https://open.spotify.com/track/36c4JohayB9qd64eidQMBi"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Jack Your Body (S&S Reloaded)",
-        "url": "https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT"
-      },
-      "artists": [
-        {
-          "name": "Steve \"Silk\" Hurley",
-          "url": "https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP"
-        }
-      ],
-      "duration_ms": 306231,
-      "name": "Jack Your Body - 1986 Club Mix",
-      "url": "https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "Girl You Know It's True - The Best Of Milli Vanilli",
         "url": "https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Born To Mack",
-        "url": "https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei"
+        "name": "Jack Your Body (S&S Reloaded)",
+        "url": "https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT"
       },
       "artists": [
         {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+          "name": "Steve \"Silk\" Hurley",
+          "url": "https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP"
         }
       ],
-      "duration_ms": 573066,
-      "name": "Freaky Tales",
-      "url": "https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY"
+      "duration_ms": 306231,
+      "name": "Jack Your Body - 1986 Club Mix",
+      "url": "https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -695,6 +679,22 @@
       "duration_ms": 254066,
       "name": "I'm Not the One",
       "url": "https://open.spotify.com/track/6eRLUjHubf9tlO7ZCc04Da"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "Born To Mack",
+        "url": "https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 573066,
+      "name": "Freaky Tales",
+      "url": "https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY"
     },
     {
       "added_at": "2024-07-10 08:31:19",

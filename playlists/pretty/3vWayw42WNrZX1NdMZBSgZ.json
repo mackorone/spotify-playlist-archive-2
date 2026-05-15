@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro and more!!! Cover: Shakira &amp; Be\u00e9le",
-  "num_followers": 52458,
+  "num_followers": 52448,
   "original_name": "Pop Latin Hits 2026",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAUpoYO2hU2hD8uVa3ELqxn9tvyjcwh",
+  "snapshot_id": "AAAUpzJ2NIKhZ0hhCIxJO3U3rwLvStSg",
   "tracks": [
     {
       "added_at": "2026-01-20 21:20:39",
@@ -103,6 +103,26 @@
       "duration_ms": 161285,
       "name": "Te hacen falta dos",
       "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
+    },
+    {
+      "added_at": "2026-05-15 00:42:00",
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "added_at": "2026-01-29 22:24:34",

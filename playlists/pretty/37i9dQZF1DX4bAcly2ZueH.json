@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 54937,
+  "num_followers": 54946,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "Shin",
-        "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 225152,
-      "name": "Shin",
-      "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "Dreamwave",
         "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 145454,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "Shin",
+        "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 225152,
+      "name": "Shin",
+      "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "Pockets",
-        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
-      },
-      "artists": [
-        {
-          "name": "Aso",
-          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
-        }
-      ],
-      "duration_ms": 200489,
-      "name": "Pockets",
-      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 228196,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "Pockets",
+        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
+      },
+      "artists": [
+        {
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+        }
+      ],
+      "duration_ms": 200489,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
+        "name": "fresh",
+        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
+      },
+      "artists": [
+        {
+          "name": "sukima",
+          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
+        }
+      ],
+      "duration_ms": 263341,
+      "name": "fresh",
+      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
         "name": "Abbot Kinney",
         "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "fresh",
-        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
       },
       "artists": [
         {
-          "name": "sukima",
-          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
         }
       ],
-      "duration_ms": 263341,
-      "name": "fresh",
-      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -911,18 +927,18 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "SHIBUYA 246",
-        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+        "name": "The Color and the Light",
+        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
       },
       "artists": [
         {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
         }
       ],
-      "duration_ms": 171851,
-      "name": "SHIBUYA 246",
-      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
+      "duration_ms": 295058,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -939,22 +955,6 @@
       "duration_ms": 55226,
       "name": "hakubo",
       "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
-        "name": "The Color and the Light",
-        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
-      },
-      "artists": [
-        {
-          "name": "Jesse Blake",
-          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
-        }
-      ],
-      "duration_ms": 295058,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
+        "name": "When We Were Small",
+        "url": "https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm"
+      },
+      "artists": [
+        {
+          "name": "Naomi Eno",
+          "url": "https://open.spotify.com/artist/3ggj8CCCXXL0C9n6CLzifo"
+        },
+        {
+          "name": "mahiro iska",
+          "url": "https://open.spotify.com/artist/68hHRIEDCPLajRFRa9J3fo"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "When We Were Small",
+      "url": "https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
         "name": "Jetty (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD"
       },
@@ -1047,26 +1067,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "When We Were Small",
-        "url": "https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm"
-      },
-      "artists": [
-        {
-          "name": "Naomi Eno",
-          "url": "https://open.spotify.com/artist/3ggj8CCCXXL0C9n6CLzifo"
-        },
-        {
-          "name": "mahiro iska",
-          "url": "https://open.spotify.com/artist/68hHRIEDCPLajRFRa9J3fo"
-        }
-      ],
-      "duration_ms": 133953,
-      "name": "When We Were Small",
-      "url": "https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "Touch the Sky",
         "url": "https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 222985,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
-        "name": "C.itosakura f.ascendens (synfilums rework)",
-        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
-      },
-      "artists": [
-        {
-          "name": "synfilums",
-          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "C.itosakura f.ascendens - synfilums rework",
-      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
+        "name": "C.itosakura f.ascendens (synfilums rework)",
+        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
+      },
+      "artists": [
+        {
+          "name": "synfilums",
+          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "C.itosakura f.ascendens - synfilums rework",
+      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
         "name": "flowingtime",
         "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
       },
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
+        "name": "Blue Notes",
+        "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
+      },
+      "artists": [
+        {
+          "name": "Sol Rising",
+          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+        },
+        {
+          "name": "Max Ribner",
+          "url": "https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY"
+        }
+      ],
+      "duration_ms": 198369,
+      "name": "Blue Notes",
+      "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB"
       },
@@ -1191,22 +1211,22 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "Blue Notes",
-        "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
       },
       "artists": [
         {
-          "name": "Sol Rising",
-          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
         },
         {
-          "name": "Max Ribner",
-          "url": "https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY"
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
         }
       ],
-      "duration_ms": 198369,
-      "name": "Blue Notes",
-      "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
+      "duration_ms": 169090,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1227,26 +1247,6 @@
       "duration_ms": 306000,
       "name": "cycling break",
       "url": "https://open.spotify.com/track/0oR80EdfVbRs0gJgNMEsq4"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1387,30 +1387,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "Ghost in the Clocks",
-        "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
-      },
-      "artists": [
-        {
-          "name": "Anoice",
-          "url": "https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb"
-        },
-        {
-          "name": "Takahiro Kido",
-          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
-        },
-        {
-          "name": "Yuki Murata",
-          "url": "https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
-      "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "Generic",
         "url": "https://open.spotify.com/album/0YTqkKm4WdDeCARIrHQ3BS"
       },
@@ -1447,6 +1423,30 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
+        "name": "Ghost in the Clocks",
+        "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
+      },
+      "artists": [
+        {
+          "name": "Anoice",
+          "url": "https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb"
+        },
+        {
+          "name": "Takahiro Kido",
+          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
+        },
+        {
+          "name": "Yuki Murata",
+          "url": "https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
+      "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
         "name": "Continue",
         "url": "https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1"
       },
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "Introspect",
-        "url": "https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV"
-      },
-      "artists": [
-        {
-          "name": "mndbd",
-          "url": "https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci"
-        },
-        {
-          "name": "Minthaze",
-          "url": "https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v"
-        }
-      ],
-      "duration_ms": 67062,
-      "name": "Muse",
-      "url": "https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE"
-    },
-    {
-      "added_at": "2026-05-09 04:00:17",
-      "album": {
         "name": "falling asleep.",
         "url": "https://open.spotify.com/album/4tKFwi75AtxxN1EaGC87gK"
       },
@@ -1519,22 +1499,22 @@
     {
       "added_at": "2026-05-09 04:00:17",
       "album": {
-        "name": "Snow Magic",
-        "url": "https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi"
+        "name": "Introspect",
+        "url": "https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV"
       },
       "artists": [
         {
-          "name": "Grey October Sound",
-          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+          "name": "mndbd",
+          "url": "https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci"
         },
         {
-          "name": "GOODSHIT",
-          "url": "https://open.spotify.com/artist/1IMKwKbUaQp1JbSXwWDr4v"
+          "name": "Minthaze",
+          "url": "https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v"
         }
       ],
-      "duration_ms": 182684,
-      "name": "Snow Magic",
-      "url": "https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE"
+      "duration_ms": 67062,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE"
     },
     {
       "added_at": "2026-05-09 04:00:17",
@@ -1551,6 +1531,26 @@
       "duration_ms": 203479,
       "name": "last winter",
       "url": "https://open.spotify.com/track/3yx1fT4YAHSWqrSuDGTrxz"
+    },
+    {
+      "added_at": "2026-05-09 04:00:17",
+      "album": {
+        "name": "Snow Magic",
+        "url": "https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi"
+      },
+      "artists": [
+        {
+          "name": "Grey October Sound",
+          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+        },
+        {
+          "name": "GOODSHIT",
+          "url": "https://open.spotify.com/artist/1IMKwKbUaQp1JbSXwWDr4v"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "Snow Magic",
+      "url": "https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE"
     },
     {
       "added_at": "2026-05-09 04:00:17",

@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 276702,
+  "num_followers": 276760,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
         "name": "R\u00e9gate",
         "url": "https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 284415,
       "name": "R\u00e9gate",
       "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Kof\u016b",
-        "url": "https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s"
-      },
-      "artists": [
-        {
-          "name": "MEITEI",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 66061,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "Pantano Lontano",
         "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 341621,
       "name": "Sin\u00fa",
       "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "Kof\u016b",
+        "url": "https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s"
+      },
+      "artists": [
+        {
+          "name": "MEITEI",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 66061,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Smoke Rings",
-        "url": "https://open.spotify.com/album/0C78B0ZoYWpfbNll4f8Wum"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 486000,
-      "name": "Smoke Rings",
-      "url": "https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "sunrise mtn",
         "url": "https://open.spotify.com/album/0I0Wpet0SNMfo0hgcwzsQB"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 151714,
       "name": "sunrise mtn",
       "url": "https://open.spotify.com/track/39fB9kG8siVbe6cOOtVliL"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "Smoke Rings",
+        "url": "https://open.spotify.com/album/0C78B0ZoYWpfbNll4f8Wum"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 486000,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Good Places",
-        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 266526,
-      "name": "Good Places",
-      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0Hy3urqOl5IArDdoycKlJP"
+        "name": "Good Places",
+        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
       },
       "artists": [
         {
-          "name": "Wilson Tanner",
-          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
         }
       ],
-      "duration_ms": 211320,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/3WdPwK49grEfkW5cw9C3Lo"
+      "duration_ms": 266526,
+      "name": "Good Places",
+      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1275,6 +1259,38 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0Hy3urqOl5IArDdoycKlJP"
+      },
+      "artists": [
+        {
+          "name": "Wilson Tanner",
+          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/3WdPwK49grEfkW5cw9C3Lo"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "@0",
+        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "duration_ms": 454576,
+      "name": "Another Dream",
+      "url": "https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
         "name": "ocean tales",
         "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "@0",
-        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
+        "name": "Articulation",
+        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 454576,
-      "name": "Another Dream",
-      "url": "https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp"
+      "duration_ms": 219820,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1331,6 +1347,22 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
+        "name": "Ten Tales For The MTV Generation",
+        "url": "https://open.spotify.com/album/6Ro7MgoEuwxYLbafgwnGbU"
+      },
+      "artists": [
+        {
+          "name": "Colin McSloy",
+          "url": "https://open.spotify.com/artist/4l1job1otNmcXIkSN3oVNy"
+        }
+      ],
+      "duration_ms": 168210,
+      "name": "Instrumental",
+      "url": "https://open.spotify.com/track/3Hxes5uYUnKwT7CVAiL2Zm"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
         "name": "Aves del Sur",
         "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
       },
@@ -1351,34 +1383,18 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Ten Tales For The MTV Generation",
-        "url": "https://open.spotify.com/album/6Ro7MgoEuwxYLbafgwnGbU"
+        "name": "Hoshi No Koe",
+        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
       },
       "artists": [
         {
-          "name": "Colin McSloy",
-          "url": "https://open.spotify.com/artist/4l1job1otNmcXIkSN3oVNy"
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
         }
       ],
-      "duration_ms": 168210,
-      "name": "Instrumental",
-      "url": "https://open.spotify.com/track/3Hxes5uYUnKwT7CVAiL2Zm"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
+      "duration_ms": 103360,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1395,22 +1411,6 @@
       "duration_ms": 172563,
       "name": "Nature Calling",
       "url": "https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
-        "name": "Hoshi No Koe",
-        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
-      },
-      "artists": [
-        {
-          "name": "Nobukazu Takemura",
-          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
-        }
-      ],
-      "duration_ms": 103360,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
     },
     {
       "added_at": "2026-03-31 07:20:55",

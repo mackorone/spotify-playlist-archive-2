@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 696179,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 279000,
       "name": "Do It Now (Agbanilagbatan)",
       "url": "https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD"
@@ -2718,6 +2718,24 @@
       "duration_ms": 144840,
       "name": "Dumije",
       "url": "https://open.spotify.com/track/0jYCGKF8WaWIAVgNDEC3Na"
+    },
+    {
+      "album": {
+        "name": "DWBH",
+        "url": "https://open.spotify.com/album/03DVFZWCYMV7t1TuRocMeC"
+      },
+      "artists": [
+        {
+          "name": "Da Voice",
+          "url": "https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164780,
+      "name": "DWBH",
+      "url": "https://open.spotify.com/track/6HxDWFDA6MCRjqx7VNFflk"
     },
     {
       "album": {
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 446730,
       "name": "Enough for Me",
       "url": "https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ"
@@ -3930,7 +3948,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 267337,
       "name": "Fragrance (feat. GGTQ All Stars)",
       "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
@@ -5040,7 +5058,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 242790,
       "name": "Heart of Worship",
       "url": "https://open.spotify.com/track/24nHidYHfPkAkdhFvv9tKL"
@@ -5312,7 +5330,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 219469,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/6U2QzcexhOvb7Lxw8RaWsR"
@@ -9198,7 +9216,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 159155,
       "name": "No Gwede",
       "url": "https://open.spotify.com/track/3GifJIm5c9vMIStEDztuEb"
@@ -9882,6 +9900,24 @@
       "duration_ms": 155371,
       "name": "Odimafo (Defender)",
       "url": "https://open.spotify.com/track/3tpJBR2KkjeXIJ3I8Bs35P"
+    },
+    {
+      "album": {
+        "name": "Aanu Ni",
+        "url": "https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET"
+      },
+      "artists": [
+        {
+          "name": "BisiManuel",
+          "url": "https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258741,
+      "name": "Ogbon Mi O Gbe",
+      "url": "https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt"
     },
     {
       "album": {
@@ -11090,7 +11126,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 176037,
       "name": "Praise The Lord",
       "url": "https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj"
@@ -11196,7 +11232,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
@@ -12363,6 +12399,28 @@
     },
     {
       "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/2qimjNmCRmRkDuuvWu7ujC"
+      },
+      "artists": [
+        {
+          "name": "StraTeGee",
+          "url": "https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR"
+        },
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170013,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Or3593BvZrIhmXBGaw6wG"
+    },
+    {
+      "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
@@ -13176,7 +13234,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 310378,
       "name": "This Year",
       "url": "https://open.spotify.com/track/4omnYsoOhYFIVPg3a3H7f9"
@@ -14014,7 +14072,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 286742,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08"

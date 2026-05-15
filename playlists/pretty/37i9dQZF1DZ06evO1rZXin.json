@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7330,
+  "num_followers": 7331,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAA+1eS8KNRDmH2g4R9tIDup",
+  "snapshot_id": "agO/AAAAAAC83qXK+z3GOaPnmDFGNy7f",
   "tracks": [
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
+        "name": "35 A\u00f1os de Fiesta",
+        "url": "https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Donde Andara",
-      "url": "https://open.spotify.com/track/5ljCJFL7Xm01KHh6SKlJiu"
+      "duration_ms": 235158,
+      "name": "La M\u00facura",
+      "url": "https://open.spotify.com/track/5rTkYoLnbOFZTEagYSAEzb"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "35 A\u00f1os de Fiesta",
-        "url": "https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6"
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
       },
       "artists": [
         {
@@ -556,25 +556,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 235158,
-      "name": "La M\u00facura",
-      "url": "https://open.spotify.com/track/5rTkYoLnbOFZTEagYSAEzb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
+      "duration_ms": 128000,
+      "name": "Donde Andara",
+      "url": "https://open.spotify.com/track/5ljCJFL7Xm01KHh6SKlJiu"
     },
     {
       "added_at": null,
@@ -595,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "35 A\u00f1os de Fiesta",
         "url": "https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6"
       },
@@ -627,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La V\u00edbora Peligrosa",
-        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
       "artists": [
         {
@@ -636,9 +604,25 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 149084,
-      "name": "La V\u00edbora Peligrosa",
-      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+      "duration_ms": 137000,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
     },
     {
       "added_at": null,
@@ -659,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "El Mero Mero",
-      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "35 A\u00f1os de Fiesta",
         "url": "https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6"
       },
@@ -687,6 +655,38 @@
       "duration_ms": 156832,
       "name": "No Sigas Llorando",
       "url": "https://open.spotify.com/track/3xPqutXnfGurimsUi02CQj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La V\u00edbora Peligrosa",
+        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 149084,
+      "name": "La V\u00edbora Peligrosa",
+      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
     },
     {
       "added_at": null,

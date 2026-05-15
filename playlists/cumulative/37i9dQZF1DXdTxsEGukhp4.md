@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: セカンドバッカー
 
-586 songs - 1 day 9 hr 22 min
+587 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,6 +535,7 @@
 | [完璧だ](https://open.spotify.com/track/6g8l6gJv0a8IKH6g8tjeQ1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Original](https://open.spotify.com/album/41lYxB0nIApx4nWMCTJBlh) | 2:30 | 2025-11-25 |  |
 | [居酒屋](https://open.spotify.com/track/27sWCidpvRQsFQUZmUHHLn) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [徳利](https://open.spotify.com/artist/3sbcL5Cfgo2VkJTvzaNvuY) | [Transform \-Charcoal side\-](https://open.spotify.com/album/4nXqGulRXqM99NDche7Qkt) | 3:14 | 2024-04-18 | 2024-05-17 |
 | [平成の乙女 feat.KENTY‐GROSS](https://open.spotify.com/track/0N1NEvQDYmG433dDJvIX3c) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3), [KENTY GROSS](https://open.spotify.com/artist/1FTagLQhl5cBi1focddx1e) | [MOTHER](https://open.spotify.com/album/1vXRAcEl2fOXHdjjwbTz0f) | 5:32 | 2023-03-30 | 2023-06-16 |
+| [幸せって。](https://open.spotify.com/track/5qPW4tQpwbrasMVde5bW1j) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [For You](https://open.spotify.com/album/437Kmqhu3cM3NMCcY5JeHo) | 4:19 | 2026-05-14 |  |
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-05-09 | 2025-08-22 |
 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-10-02 | 2024-11-01 |
 | [忘れっぽいんだ](https://open.spotify.com/track/4CVSEhpfVizwsj6xMJEhwV) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [忘れっぽいんだ](https://open.spotify.com/album/1yxGeNRH02oKEP5IZTxrM7) | 4:17 | 2023-08-17 | 2023-09-15 |
@@ -583,7 +584,7 @@
 | [裸足のチェッコリー](https://open.spotify.com/track/6jAvoParpWFORg8pqmbMdz) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [裸足のチェッコリー](https://open.spotify.com/album/6UL3yCiubdnXZXBjp1YyAI) | 3:01 | 2025-08-01 | 2025-09-01 |
 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-04-13 | 2023-06-23 |
 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 | 2023-04-27 | 2023-11-11 |
-| [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 | 2025-06-05 |  |
+| [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 | 2025-06-05 | 2026-05-15 |
 | [通り雨](https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [通り雨](https://open.spotify.com/album/6PS8k0M1Qlme23JTA1bhXE) | 3:01 | 2023-12-07 | 2024-05-01 |
 | [野良猫](https://open.spotify.com/track/208BzJ6J8QKcmvRt77hOtv) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/6LOKVxFzL25htq0rK4z1oI) | 4:01 | 2025-06-12 |  |
 | [鎌倉STYLE](https://open.spotify.com/track/7uuGRrAHErHkzp51tFzcd7) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [鎌倉STYLE](https://open.spotify.com/album/0hJnHL8N0cRUKPSLeEWS6W) | 3:20 | 2024-08-01 | 2024-11-08 |

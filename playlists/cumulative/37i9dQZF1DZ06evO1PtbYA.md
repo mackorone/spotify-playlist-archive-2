@@ -66,6 +66,6 @@
 | [What's Up My G](https://open.spotify.com/track/2LjZYCOYldHWhzQ1G5XJ81) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:50 | 2025-09-20 |  |
 | [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 | 2025-07-12 | 2026-05-04 |
 | [Worldwide](https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:02 | 2025-07-12 |  |
-| [WORSHIP](https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [WORSHIP](https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi) | 2:43 | 2026-03-22 |  |
+| [WORSHIP](https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [WORSHIP](https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi) | 2:43 | 2026-03-22 | 2026-05-15 |
 
 \*This playlist was first scraped on 2025-07-12. Prior content cannot be recovered.

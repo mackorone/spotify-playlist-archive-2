@@ -2,9 +2,9 @@
 
 ### [Oyster](https://open.spotify.com/playlist/37i9dQZF1DX2Wvd8VINtcF)
 
-> pearl of the week ✨Namasenda✨
+> pearl of the week ✨Smerz✨
 
-2,397 songs - 5 day 9 hr 37 min
+2,402 songs - 5 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-04-11 | 2024-04-19 |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-13 | 2024-08-16 |
 | [Circles](https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Circles](https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1) | 2:41 | 2022-12-23 | 2023-03-03 |
+| [CITY BOY](https://open.spotify.com/track/77jsGvu5t2fr2r9RypWUFO) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [Teyma](https://open.spotify.com/artist/3eGGoF2Ci63jAPBFfpMG9h) | [CITY BOY](https://open.spotify.com/album/5pCzEIkWihqhOGIRsvw1s2) | 2:03 | 2026-05-14 |  |
 | [CLASH \- Edit](https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [CLASH](https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv) | 3:30 | 2023-02-16 | 2023-04-14 |
 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-05-08 | 2024-07-27 |
 | [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 | 2026-02-12 |  |
@@ -809,6 +810,7 @@
 | [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 | 2025-06-12 | 2026-01-15 |
 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 | 2024-07-25 | 2024-09-13 |
 | [GENESIS](https://open.spotify.com/track/0Ogri7fAmd2BXhGGoTshgj) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [GENESIS](https://open.spotify.com/album/6Lb6psaHMHp89a0cLnVViJ) | 3:19 | 2025-12-11 |  |
+| [gentle](https://open.spotify.com/track/2a6vbPZqTMfbiMCW3Y4RYa) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [gentle](https://open.spotify.com/album/6vuU89yWqmZxNtCsVamLRm) | 2:48 | 2026-05-14 |  |
 | [Get Away](https://open.spotify.com/track/1cZCvmW4b4DGpiZhgwvb5j) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Get Away](https://open.spotify.com/album/64iH7iS9FsuhcYC5A4FAZ2) | 3:41 | 2025-04-17 | 2025-06-20 |
 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Lovin you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 | 2024-08-08 | 2024-11-22 |
 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-12 |  |
@@ -1283,6 +1285,7 @@
 | [Loving You](https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Loving You](https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx) | 3:14 | 2023-04-13 | 2023-04-28 |
 | [Loving You](https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H) | 2:32 | 2024-11-07 | 2025-03-07 |
 | [Low Again \(miss my dog\)](https://open.spotify.com/track/1e5SBnMu0FdtQ6PGXmRDE8) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [Low Again \(miss my dog\)](https://open.spotify.com/album/4hoTPpQU43DVwmt8WgaOyl) | 3:00 | 2026-03-12 |  |
+| [lts here](https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:34 | 2026-05-14 |  |
 | [Lucky](https://open.spotify.com/track/0MuGa3SwwVYIeOpOzTOxzj) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lucky](https://open.spotify.com/album/58UHfHzT9zqjvSWbC06Bcn) | 3:24 | 2024-01-11 | 2024-06-07 |
 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 | 2026-02-12 |  |
 | [Lucky Luke](https://open.spotify.com/track/77p3eNLgFo8DG11y4ozW3R) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Lucky Luke](https://open.spotify.com/album/6Iy1RcAXrBKYZLVqRMEkFA) | 6:24 | 2023-06-22 | 2023-08-25 |
@@ -1331,6 +1334,7 @@
 | [Mary Cookins](https://open.spotify.com/track/5UM3vYLQuMrlouoKmqeEHr) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Mary Cookins](https://open.spotify.com/album/1zFUtQ4gxN5wkrrJKQmB4r) | 3:11 | 2023-03-09 | 2023-05-12 |
 | [Mary's Lifestyle \(pbeatgirl version\)](https://open.spotify.com/track/2eBbYbvZhTdEnH1BcOyOnz) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t), [pbeatgirl](https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3) | [Mary's Lifestyle \(pbeatgirl version\)](https://open.spotify.com/album/34mBMKQEpltIkQYDK1XkmE) | 2:54 | 2025-06-26 | 2026-01-15 |
 | [Masego’s Interlude](https://open.spotify.com/track/6CiOWFRE5AaF3H1yQHWeyq) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego’s Interlude](https://open.spotify.com/album/74uSNVth7Fl2J18RbFLqaH) | 2:06 | 2023-09-14 | 2024-01-05 |
+| [Massacre](https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Massacre](https://open.spotify.com/album/2z3jdGl1joL7e7yhJLi9Nr) | 2:55 | 2026-05-14 |  |
 | [MATTHEW](https://open.spotify.com/track/0xSNFXf3E6U8C7JcrckLdi) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [IN LOVING MEMORY+](https://open.spotify.com/album/50alsNS5T7VD1pcpt1NGhy) | 2:11 | 2024-12-05 | 2025-02-07 |
 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-02-22 | 2024-06-14 |
 | [maybe it's u](https://open.spotify.com/track/2K0onXEr9iCUSYonEf0Bl4) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [maybe it's u](https://open.spotify.com/album/5tDwbRikZ6n4A1EN2fJPHZ) | 3:57 | 2024-05-30 | 2024-08-02 |
@@ -1964,6 +1968,7 @@
 | [Stoner](https://open.spotify.com/track/3Cr1VDxAsrPbkldz1eUUMm) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Stoner](https://open.spotify.com/album/1RPzqHEjhx6ZG2XlaVYoY2) | 2:17 | 2025-01-30 | 2025-05-09 |
 | [Stones Throw](https://open.spotify.com/track/1RsbQnbk4ZFYDhfgp3IAYY) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stones Throw](https://open.spotify.com/album/7fa2eM6t127lSiQwSbJXID) | 3:33 | 2025-01-30 | 2025-02-28 |
 | [Stop Calling](https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stop Calling](https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q) | 2:58 | 2024-10-31 | 2025-01-31 |
+| [Stop Dreaming](https://open.spotify.com/track/63Bbwme1KUESI8bwTq5GoM) | [Sylvie's Head](https://open.spotify.com/artist/6Re2HYnIxbLkNiAY5QqPDa) | [Everything Is Free](https://open.spotify.com/album/5rfn2Yf5PQgtmEgeKMTuOB) | 5:31 | 2026-05-14 |  |
 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 | 2026-04-23 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-07 | 2023-12-01 |
 | [Stray Dog](https://open.spotify.com/track/1qyZweacop2nG30Ng6wqt0) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Forget In Mass](https://open.spotify.com/album/0yyMJ8gsghOX71XTvV2pAP) | 2:50 | 2025-08-07 | 2026-01-15 |

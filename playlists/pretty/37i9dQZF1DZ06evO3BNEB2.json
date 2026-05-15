@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40420,
+  "num_followers": 40429,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAAGaiOAP6xK+MusaW0pfR6s",
+  "snapshot_id": "agO/AAAAAACZZoHsb4dIBIQTjXT5It0d",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N.W.A",
-        "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
+        "name": "Bed of Roses (with Wale)",
+        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 230413,
-      "name": "N.W.A",
-      "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
+      "duration_ms": 185531,
+      "name": "Bed of Roses (with Wale)",
+      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
     },
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N.W.A",
+        "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 230413,
+      "name": "N.W.A",
+      "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 277970,
       "name": "Change",
       "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bed of Roses (with Wale)",
-        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 185531,
-      "name": "Bed of Roses (with Wale)",
-      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
     },
     {
       "added_at": null,
@@ -1047,22 +1047,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+        "name": "Coffee (F***ing) (feat. Wale)",
+        "url": "https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 206693,
-      "name": "Stories In Motion (with Wale)",
-      "url": "https://open.spotify.com/track/6gvhqnL1MUehL9g5mp1A0I"
+      "duration_ms": 314053,
+      "name": "Coffee (F***ing) (feat. Wale)",
+      "url": "https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW"
     }
   ],
   "unique_name": "This Is Wale",

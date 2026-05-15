@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 980 likes - 105 songs - 6 hr 20 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 986 likes - 110 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,10 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 103 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 |
 | 104 | [Pizza Feet](https://open.spotify.com/track/2lGhyNxLY05052wtN66sfK) | [Giant DeNiro](https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY) | [Pizza Feet](https://open.spotify.com/album/6wQj0bkUwhOl3YV3pzRWTa) | 4:35 |
 | 105 | [Artificial Intelligence](https://open.spotify.com/track/4Q4dia1Ln26H29TrcsyuBY) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Artificial Intelligence](https://open.spotify.com/album/0qEV9qVrOfS2HtWSXNBpJS) | 3:02 |
+| 106 | [Broken \(Goodbye\)](https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Broken \(Goodbye\)](https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B) | 3:45 |
+| 107 | [Below](https://open.spotify.com/track/7EN56vFE3dTbkuzaIBkplR) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Below](https://open.spotify.com/album/3PazqcjJO7Kyz3BUJMXxuL) | 3:06 |
+| 108 | [The Road Less Travelled](https://open.spotify.com/track/343vOMd6pDa254603WoQlV) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [The Road Less Travelled](https://open.spotify.com/album/4hKhTfDR48nGOzM7uNSeTQ) | 4:54 |
+| 109 | [Loophole](https://open.spotify.com/track/7bGqHpMXZK7EO2193SDGiz) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Loophole](https://open.spotify.com/album/4Gd7KgDAfgJ7tU9PirJXfU) | 4:13 |
+| 110 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 |
 
-Snapshot ID: `AAAGCPcQ1y77fMdD7Nq812asOz+Auu+W`
+Snapshot ID: `AAAGDY118z1b/pm1EMhmVivuhcAkjMc9`

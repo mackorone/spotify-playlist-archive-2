@@ -1,6 +1,6 @@
 {
   "description": "Latin music bangers for your gaming session! PEDRO SAMPAIO & El Bogueto on cover",
-  "num_followers": 611860,
+  "num_followers": 611845,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
@@ -523,42 +523,6 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
-        "name": "Tutankamon",
-        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "Me Paseo",
-      "url": "https://open.spotify.com/track/2XQnrr8gsvuGcJmPfk18iE"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 214125,
-      "name": "T\u00fa No Lo Amas",
-      "url": "https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
         "name": "La Ocasi\u00f3n",
         "url": "https://open.spotify.com/album/3CgogddksNmKJrnAATIMFG"
       },
@@ -591,6 +555,42 @@
       "duration_ms": 336149,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 214125,
+      "name": "T\u00fa No Lo Amas",
+      "url": "https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
+        "name": "Tutankamon",
+        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 217959,
+      "name": "Me Paseo",
+      "url": "https://open.spotify.com/track/2XQnrr8gsvuGcJmPfk18iE"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
-        "name": "G-LATINA",
-        "url": "https://open.spotify.com/album/7mogv95UWW5yloGmZwiILr"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "G-LATINA",
-      "url": "https://open.spotify.com/track/3Q0jBRz944gYpMXiYfODjN"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
         "name": "De Vuelta a las Andadas",
         "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 221583,
       "name": "Mi Clero",
       "url": "https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
+        "name": "G-LATINA",
+        "url": "https://open.spotify.com/album/7mogv95UWW5yloGmZwiILr"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "G-LATINA",
+      "url": "https://open.spotify.com/track/3Q0jBRz944gYpMXiYfODjN"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
-        "name": "T O M A !",
-        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "T O M A !",
-      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 176590,
       "name": "VAMPIROS",
       "url": "https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
+        "name": "T O M A !",
+        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "T O M A !",
+      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
+        "name": "Cuando Ella Se Va",
+        "url": "https://open.spotify.com/album/3NHoaNSKaPIejGHLwaXKDP"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        }
+      ],
+      "duration_ms": 163527,
+      "name": "Cuando Ella Se Va",
+      "url": "https://open.spotify.com/track/5d2NpYRSedleVRVzQUxCNI"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
         "name": "AY LILY",
         "url": "https://open.spotify.com/album/1tWSPmWmZHpcvsYq6SPps5"
       },
@@ -2219,18 +2235,18 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
-        "name": "Cuando Ella Se Va",
-        "url": "https://open.spotify.com/album/3NHoaNSKaPIejGHLwaXKDP"
+        "name": "PUNTO G",
+        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
       },
       "artists": [
         {
-          "name": "Cano",
-          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 163527,
-      "name": "Cuando Ella Se Va",
-      "url": "https://open.spotify.com/track/5d2NpYRSedleVRVzQUxCNI"
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -2251,22 +2267,6 @@
       "duration_ms": 163809,
       "name": "Teka (with Peso Pluma)",
       "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
-        "name": "PUNTO G",
-        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -2447,30 +2447,6 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
-        "name": "Chulx",
-        "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
-      },
-      "artists": [
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Toni Anzis",
-          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Chulx",
-      "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
         "name": "Cero (Remix)",
         "url": "https://open.spotify.com/album/79Usl5b5h3j61HtLWaiWd2"
       },
@@ -2491,6 +2467,30 @@
       "duration_ms": 171162,
       "name": "Cero - Remix",
       "url": "https://open.spotify.com/track/1d2yY2RDleLOkYxEpMuy1Y"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
+        "name": "Chulx",
+        "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
+      },
+      "artists": [
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Chulx",
+      "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
     },
     {
       "added_at": "2026-05-04 03:43:18",
@@ -2695,22 +2695,6 @@
     {
       "added_at": "2026-05-04 03:43:18",
       "album": {
-        "name": "ATORRANTE",
-        "url": "https://open.spotify.com/album/0NilRVKhvokI2BJAVx564Y"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 181673,
-      "name": "ATORRANTE",
-      "url": "https://open.spotify.com/track/3G5jq3h1jqx5kcvx6aalwK"
-    },
-    {
-      "added_at": "2026-05-04 03:43:18",
-      "album": {
         "name": "THE ROOF IS ON FIRE",
         "url": "https://open.spotify.com/album/5Lh6deL25P04PXzmG4UJT4"
       },
@@ -2723,6 +2707,22 @@
       "duration_ms": 112331,
       "name": "THE ROOF IS ON FIRE",
       "url": "https://open.spotify.com/track/6wZJCPyhix2WOglxGWlIfb"
+    },
+    {
+      "added_at": "2026-05-04 03:43:18",
+      "album": {
+        "name": "ATORRANTE",
+        "url": "https://open.spotify.com/album/0NilRVKhvokI2BJAVx564Y"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 181673,
+      "name": "ATORRANTE",
+      "url": "https://open.spotify.com/track/3G5jq3h1jqx5kcvx6aalwK"
     },
     {
       "added_at": "2026-05-04 03:43:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,032 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,072 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 14 | [Pork And Beans](https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ) | 3:09 |
 | 15 | [My Name Is Jonas](https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:24 |
 | 16 | [Why Bother?](https://open.spotify.com/track/43Qr1YBCY3vSVCvZuR0PCb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:08 |
-| 17 | [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 |
-| 18 | [Perfect Situation](https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 4:14 |
+| 17 | [Perfect Situation](https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 4:14 |
+| 18 | [All My Favorite Songs \(feat\. AJR\)](https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [All My Favorite Songs \(feat\. AJR\)](https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H) | 2:50 |
 | 19 | [The World Has Turned And Left Me Here](https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:19 |
 | 20 | [Falling For You](https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 3:47 |
-| 21 | [All My Favorite Songs \(feat\. AJR\)](https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [All My Favorite Songs \(feat\. AJR\)](https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H) | 2:50 |
+| 21 | [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 |
 | 22 | [Africa](https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:58 |
 | 23 | [In The Garage](https://open.spotify.com/track/3If9Idk1rglOqubIsJcpmv) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:55 |
 | 24 | [The Good Life](https://open.spotify.com/track/5CjwXdq5Z73Va0XCPFG5Aq) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 4:17 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 43 | [Knockdown Dragout](https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:08 |
 | 44 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 |
 | 45 | [Keep Fishin'](https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:52 |
-| 46 | [Ain't Got Nobody](https://open.spotify.com/track/1dTschRbSqaIDXBQDfVQS2) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:21 |
-| 47 | [Waiting On You](https://open.spotify.com/track/3ovTVlWIAzB1XGG8dWPtFl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 4:11 |
+| 46 | [Waiting On You](https://open.spotify.com/track/3ovTVlWIAzB1XGG8dWPtFl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 4:11 |
+| 47 | [Ain't Got Nobody](https://open.spotify.com/track/1dTschRbSqaIDXBQDfVQS2) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:21 |
 | 48 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 |
 | 49 | [Do You Wanna Get High?](https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:27 |
-| 50 | [Eulogy For A Rock Band](https://open.spotify.com/track/1gIMETJ85nrrvmqUgkpLXt) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:24 |
+| 50 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 |
 
-Snapshot ID: `agJtgAAAAACkX2ZIHoJ7pxSz6D3ng8u9`
+Snapshot ID: `agO/AAAAAAD8CSLYKrWrr9VR7s7MYc6Y`

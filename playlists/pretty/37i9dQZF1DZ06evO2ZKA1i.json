@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 302648,
+  "num_followers": 302661,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADmd9lfQbQBwsMDNUq27bV0",
+  "snapshot_id": "agO/AAAAAACq0lSuuTHAXnKJOMAqecS+",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 218693,
       "name": "Throw My Bones",
       "url": "https://open.spotify.com/track/4W1SllpK1wf1I2YeW3tG0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrogant Boy",
+        "url": "https://open.spotify.com/album/1wJdMIwV0E1mLfUIFU3cRz"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Arrogant Boy",
+      "url": "https://open.spotify.com/track/2QPiL5LlygrICCkb1CHwzZ"
     },
     {
       "added_at": null,
@@ -59,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stormbringer (Remastered)",
-        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Soldier Of Fortune - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/60ifqqPhbselSwXyGrGyMK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head - 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/3XXboc1gvm976jCATDdunA"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 212493,
       "name": "When A Blind Man Cries (1997 Remix)",
       "url": "https://open.spotify.com/track/1KYLDfzlWrcBlAbwi4DDLN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Soldier Of Fortune - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/60ifqqPhbselSwXyGrGyMK"
     },
     {
       "added_at": null,
@@ -731,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Taste The Band: 35th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 218173,
+      "name": "Gettin' Tighter - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deep Purple",
         "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
       },
@@ -763,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Taste The Band: 35th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 218173,
-      "name": "Gettin' Tighter - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 287906,
       "name": "You Fool No One - Remastered 2004",
       "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
     }
   ],
   "unique_name": "This Is Deep Purple",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,425 likes - 48 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,472 likes - 48 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 47 | [Trouble](https://open.spotify.com/track/1LObsSST3unPBZ9UF3IQvD) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [A Decade of Destruction](https://open.spotify.com/album/0KFH39kcCnrev1ZDrEID0c) | 3:12 |
 | 48 | [Dot Your Eyes](https://open.spotify.com/track/6qI0YQuno6szt5p6CycUH1) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy) | 3:15 |
 
-Snapshot ID: `agJtgAAAAACBUotWkGghHNyShkc/hhnv`
+Snapshot ID: `agO/AAAAAADG+TBUfxWCUzQfnGkvWumt`

@@ -4753,6 +4753,24 @@
     },
     {
       "album": {
+        "name": "RIVER FLOW (Live)",
+        "url": "https://open.spotify.com/album/5Lb0gOpbCIBXzU6MtRPe89"
+      },
+      "artists": [
+        {
+          "name": "Esther Jonathan",
+          "url": "https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 647967,
+      "name": "RIVER FLOW - Live",
+      "url": "https://open.spotify.com/track/08odXNEvezN6ztXa6XZyId"
+    },
+    {
+      "album": {
         "name": "Rohi (The Good Shepherd) [Live]",
         "url": "https://open.spotify.com/album/3XBKLHisNTmO1CYf4M4sxJ"
       },
@@ -6438,7 +6456,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 321999,
       "name": "Zion - Live",
       "url": "https://open.spotify.com/track/62mOMfOyGULp9302XwMCI1"

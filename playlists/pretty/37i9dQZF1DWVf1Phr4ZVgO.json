@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1197759,
+  "num_followers": 1197817,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
-        "name": "The Legendary Bobby Darin",
-        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 145933,
-      "name": "More - Remastered 2004",
-      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
-    },
-    {
-      "added_at": "2026-02-09 08:20:39",
-      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
         "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 181440,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
+    },
+    {
+      "added_at": "2026-02-09 08:20:39",
+      "album": {
+        "name": "The Legendary Bobby Darin",
+        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 145933,
+      "name": "More - Remastered 2004",
+      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
     },
     {
       "added_at": "2026-02-09 08:20:39",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
-        "name": "I Wanna Be Around",
-        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
-    },
-    {
-      "added_at": "2026-02-09 08:20:39",
-      "album": {
         "name": "Michael Bubl\u00e9",
         "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 153533,
       "name": "For Once in My Life",
       "url": "https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq"
+    },
+    {
+      "added_at": "2026-02-09 08:20:39",
+      "album": {
+        "name": "I Wanna Be Around",
+        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
     },
     {
       "added_at": "2026-02-09 08:20:39",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
-    },
-    {
-      "added_at": "2026-02-09 08:20:39",
-      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 144266,
       "name": "Putting on the Ritz",
       "url": "https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y"
+    },
+    {
+      "added_at": "2026-02-09 08:20:39",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
     },
     {
       "added_at": "2026-02-09 08:20:39",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Two Sleepy People",
-      "url": "https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V"
-    },
-    {
-      "added_at": "2026-02-09 08:20:39",
-      "album": {
         "name": "Manilow Sings Sinatra",
         "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 175866,
       "name": "Qu'est-ce que tu crois ?",
       "url": "https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1"
+    },
+    {
+      "added_at": "2026-02-09 08:20:39",
+      "album": {
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Two Sleepy People",
+      "url": "https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V"
     },
     {
       "added_at": "2026-02-09 08:20:39",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/1WzKyOIFW45U8ZSuLVHGLq"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 229973,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/1tTOZjvzrkQSSf6XZFS2AY"
-    },
-    {
-      "added_at": "2026-02-09 08:20:39",
-      "album": {
         "name": "Manilow Sings Sinatra",
         "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 179493,
       "name": "You Make Me Feel So Young",
       "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"
+    },
+    {
+      "added_at": "2026-02-09 08:20:39",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/1WzKyOIFW45U8ZSuLVHGLq"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 229973,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/1tTOZjvzrkQSSf6XZFS2AY"
     },
     {
       "added_at": "2026-02-09 08:20:39",

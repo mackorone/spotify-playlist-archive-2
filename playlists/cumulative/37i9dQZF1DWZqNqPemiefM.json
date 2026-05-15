@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-31",
-  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: Yoal (Satomimagae & Euan Alexander Millar-McMeeken)",
+  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: tamanaramen",
   "name": "Sora Ambient",
   "tracks": [
     {
@@ -3053,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "CITY OF RESONANCE: DISTORTION",
+        "url": "https://open.spotify.com/album/5f1NjTQUxu0qICL9V6VGSc"
+      },
+      "artists": [
+        {
+          "name": "Exportion",
+          "url": "https://open.spotify.com/artist/0brCtEXtI0eniWvODW8s2q"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315573,
+      "name": "CITY OF RESONANCE: DISTORTION",
+      "url": "https://open.spotify.com/track/66CeQAzfUXlwHpAXKfMPNR"
+    },
+    {
+      "album": {
         "name": "Musique Hydromantique",
         "url": "https://open.spotify.com/album/5E0k5vGQnBgo392vUclstZ"
       },
@@ -5734,6 +5752,28 @@
       "duration_ms": 275217,
       "name": "GBTC",
       "url": "https://open.spotify.com/track/51IUGiz8ZOcujHlQuuTszO"
+    },
+    {
+      "album": {
+        "name": "Gekk\u014d (feat. Bby Eco)",
+        "url": "https://open.spotify.com/album/2DRi6z7y5UbAjfGgoM8W7f"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        },
+        {
+          "name": "Bby Eco",
+          "url": "https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Gekk\u014d (feat. Bby Eco)",
+      "url": "https://open.spotify.com/track/5oCfnlVUIXwiT6atQL1lRB"
     },
     {
       "album": {
@@ -17216,6 +17256,24 @@
       "duration_ms": 215573,
       "name": "Variation\u30fbIII",
       "url": "https://open.spotify.com/track/0dDeU6XmLrWgqsLqZU3lpZ"
+    },
+    {
+      "album": {
+        "name": "VEIL",
+        "url": "https://open.spotify.com/album/5TwXTHMrZCagd0Rlo8wgW8"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109573,
+      "name": "VEIL",
+      "url": "https://open.spotify.com/track/2dKuPGmF2uZVlehFKcoTT8"
     },
     {
       "album": {

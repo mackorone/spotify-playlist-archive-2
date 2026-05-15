@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 
 > This is Ayra Starr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,245 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,262 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 | 12 | [Love Don't Cost A Dime \- Re\-Up](https://open.spotify.com/track/7mOQnTNnEGVAjI0OF49GMj) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/52085LvRgtzPvV4wWps54A) | 2:27 |
 | 13 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 |
 | 14 | [Escaladizzy II](https://open.spotify.com/track/02f69ZvOxhR4Uo6xXsicfT) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 3:33 |
-| 15 | [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 |
-| 16 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 |
+| 15 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 |
+| 16 | [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 |
 | 17 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 |
 | 18 | [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 |
 | 19 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 | 45 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
 | 46 | [Take It To The Top \(Becky G & Ayra Starr\)](https://open.spotify.com/track/4mKUfMSg0geJFVscFdaMcQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION\)](https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx) | 2:05 |
 | 47 | [Amina](https://open.spotify.com/track/6n30D6vK0xN4XjA8u64F5E) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B) | [Chapter X](https://open.spotify.com/album/7u1jkHWcxmUL7lbNDNyMRY) | 3:41 |
-| 48 | [On A Low](https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [On A Low](https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs) | 2:16 |
-| 49 | [Cast \(Gen Z Anthem\)](https://open.spotify.com/track/39mBggiTIKDRf67oAAoSUx) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:45 |
+| 48 | [Cast \(Gen Z Anthem\)](https://open.spotify.com/track/39mBggiTIKDRf67oAAoSUx) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:45 |
+| 49 | [On A Low](https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [On A Low](https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs) | 2:16 |
 | 50 | [Le Show](https://open.spotify.com/track/2oxmZ8DBGlQK1gLBCDuDKD) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [A.W.A.M.](https://open.spotify.com/album/26Q4esPJ7U0noOyhSCxb1S) | 3:36 |
 
-Snapshot ID: `agJtgAAAAACw7y+ai0K6vEy1uzIryVuR`
+Snapshot ID: `agO/AAAAAACWpBTQRmX5sHkHKgfjrM3R`

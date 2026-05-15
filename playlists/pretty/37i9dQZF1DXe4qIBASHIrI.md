@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,347 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,376 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 77 | [24 Horas](https://open.spotify.com/track/4rPPEiwF4MlBHEVMokts8v) | [60 Tigres](https://open.spotify.com/artist/0peet3zSweSxBCXSaGedVV) | [Animal](https://open.spotify.com/album/6Xs7IL8Aljl4uslAKzA5M1) | 4:15 |
 | 78 | [Marginado](https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Marginado](https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF) | 3:24 |
 | 79 | [Todo](https://open.spotify.com/track/5fAArZM8ZLQPTwIvJLYacv) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Todo](https://open.spotify.com/album/5noph1AdprfKF6MZuLJyVO) | 3:39 |
-| 80 | [Eres](https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:50 |
-| 81 | [Curse the Space](https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95) | [Hey Chica!](https://open.spotify.com/artist/0YmDnVrTRCTPHYkOyK5m7T) | [Antología](https://open.spotify.com/album/5UDoOYylqlJqoitSCg2Cps) | 3:11 |
-| 82 | [Mi Chica](https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [La Fiesta de la Forma](https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey) | 6:51 |
+| 80 | [Curse the Space](https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95) | [Hey Chica!](https://open.spotify.com/artist/0YmDnVrTRCTPHYkOyK5m7T) | [Antología](https://open.spotify.com/album/5UDoOYylqlJqoitSCg2Cps) | 3:11 |
+| 81 | [Mi Chica](https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [La Fiesta de la Forma](https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey) | 6:51 |
+| 82 | [Eres](https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:50 |
 | 83 | [Won't Say Anything](https://open.spotify.com/track/36VnkzPXKbrqCgbF0avbpp) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Hoy A Las Ocho](https://open.spotify.com/album/6cc1X2dYcd8yTutYZsPAv1) | 4:09 |
 | 84 | [A la Distancia](https://open.spotify.com/track/6lyOVxJw4WwJRmbSwzr2tQ) | [La Banderville](https://open.spotify.com/artist/5bHvEzZCBiHrBWMiwXFLgD) | [El Seminuevo de Manzana](https://open.spotify.com/album/4c8flSsuzU1QEYBMIoCQWd) | 3:15 |
 | 85 | [Copycat](https://open.spotify.com/track/1PK1LcF9pKYurDjOA17WmR) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Out of Place](https://open.spotify.com/album/4FW4QtvN7lDWxiKAjWIe7k) | 3:05 |
 | 86 | [Robot](https://open.spotify.com/track/0meIJ6nBSVW3UqX1O96EN3) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Cassette](https://open.spotify.com/album/5BS5LJXuEvSkOhznZ6gqhS) | 3:43 |
-| 87 | [No Coke](https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 3](https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es) | 2:53 |
-| 88 | [Alexander](https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [The Future Sugar](https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt) | 3:30 |
+| 87 | [Alexander](https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [The Future Sugar](https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt) | 3:30 |
+| 88 | [No Coke](https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 3](https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es) | 2:53 |
 | 89 | [Natural](https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c) | [Sol Flamingo](https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr) | [Natural](https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X) | 3:38 |
 | 90 | [Muchacho Satanico \- 2002 version](https://open.spotify.com/track/2W6y3hTo9bC2ptXAr5yjCl) | [Mario\*](https://open.spotify.com/artist/6LuoxHz3XHf2nh6UHM2tZB) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 3:03 |
 | 91 | [Agua De Coco](https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2) | [Salvador y el Unicornio](https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm) | [Madre Mía](https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9) | 3:46 |

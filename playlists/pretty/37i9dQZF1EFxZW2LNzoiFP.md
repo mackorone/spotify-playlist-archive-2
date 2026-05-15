@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135 likes - 283 songs - 16 hr 7 min
+[](https://open.spotify.com/user/null) - 135 likes - 283 songs - 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,15 +161,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 151 | [Spinning Around](https://open.spotify.com/track/351gVsgUdQGkWk1RdlvB9S) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:22 |
 | 152 | [In My Head](https://open.spotify.com/track/6UQy3o1wtZP4LUBhG1dCFQ) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [In My Head](https://open.spotify.com/album/4cgbsjwhZDUJPSMQsUX0EP) | 3:51 |
 | 153 | [Twelvemonth](https://open.spotify.com/track/06Szv3oSZ2KINnzvjM2lCd) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:08 |
-| 154 | [Thief](https://open.spotify.com/track/0eHWxFk3UOYVGMti6sehBV) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:34 |
-| 155 | [Silly Rabbit](https://open.spotify.com/track/7xEl5JBUiuEmaMxRCFkFGs) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The French Girl Effect](https://open.spotify.com/album/6hg7Mo8TilEHqwclUD8q9O) | 2:39 |
+| 154 | [Silly Rabbit](https://open.spotify.com/track/7xEl5JBUiuEmaMxRCFkFGs) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The French Girl Effect](https://open.spotify.com/album/6hg7Mo8TilEHqwclUD8q9O) | 2:39 |
+| 155 | [Thief](https://open.spotify.com/track/0eHWxFk3UOYVGMti6sehBV) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:34 |
 | 156 | [Blunder](https://open.spotify.com/track/5jM41owzkVBcCnDKAn9vc8) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:35 |
 | 157 | [Hi](https://open.spotify.com/track/5HtswmywLW6N0oDiKafPWw) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Album II: The Land Of The Twisted Tree](https://open.spotify.com/album/6oKdKdacgWZBqmeqvp0thB) | 3:42 |
 | 158 | [Summer Sadness](https://open.spotify.com/track/4C75bptwmKumfNf655piPr) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:29 |
 | 159 | [Paranoid](https://open.spotify.com/track/2tf2kksnra9pqQfZ0ZPsaI) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Album II: The Land Of The Twisted Tree](https://open.spotify.com/album/6oKdKdacgWZBqmeqvp0thB) | 3:20 |
 | 160 | [How'd It Get So Real?](https://open.spotify.com/track/4uMLXkEuzsRTcHd4JjwaqX) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 |
-| 161 | [Safe Space](https://open.spotify.com/track/1w0COwGOGeLdh00Ntiylvl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:28 |
-| 162 | [Charlie](https://open.spotify.com/track/7fkPjpfCAMudsbluRgWXXG) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Charlie](https://open.spotify.com/album/6VqHNOtp3CJlj9ZBDTN9ZU) | 3:40 |
+| 161 | [Charlie](https://open.spotify.com/track/7fkPjpfCAMudsbluRgWXXG) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Charlie](https://open.spotify.com/album/6VqHNOtp3CJlj9ZBDTN9ZU) | 3:40 |
+| 162 | [Safe Space](https://open.spotify.com/track/1w0COwGOGeLdh00Ntiylvl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:28 |
 | 163 | [Jackie](https://open.spotify.com/track/1pwDBJXeVPRUpdmaHbbV0I) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [No Summer](https://open.spotify.com/album/7L8R8rNEPbdgW4IT2MlBJR) | 3:01 |
 | 164 | [Hayley](https://open.spotify.com/track/1orYYQ1EhYMfCGVr6p5cGZ) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:40 |
 | 165 | [Who Do You Love?!](https://open.spotify.com/track/755IXb7BtCjg75SdrMRor7) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Who Do You Love?! // Insecure](https://open.spotify.com/album/5F61DPyTgH4BYALUawqUVD) | 3:31 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 282 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
 | 283 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AcRavAAAAADky7UcbZ7C/bHTKHdFFMOj`
+Snapshot ID: `AcRgXAAAAADJ5X8BqMfmvYKAurvYZkRw`

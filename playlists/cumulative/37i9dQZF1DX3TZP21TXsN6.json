@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Nieuw: Giegs, Harry Femer, Dammie, DV en meer..",
+  "description": "Nieuw: Suilju, Adfbigga, SKEEKS, Dv, JR, Highguest en meer..",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -696,7 +696,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 157524,
       "name": "Akra",
       "url": "https://open.spotify.com/track/2cLyTplobCeuuLRmgFLz2g"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187034,
       "name": "Amulet",
       "url": "https://open.spotify.com/track/7oRqmboo66Tk4VtelXw4tr"
@@ -1022,6 +1022,24 @@
       "duration_ms": 127346,
       "name": "Atleet",
       "url": "https://open.spotify.com/track/0vMWBdPTJuosPekJtunkZu"
+    },
+    {
+      "album": {
+        "name": "Audemars Piguet",
+        "url": "https://open.spotify.com/album/7tqtNw72lDnknEn5838rcc"
+      },
+      "artists": [
+        {
+          "name": "Dv",
+          "url": "https://open.spotify.com/artist/4MgUht9kRLFmS5uNiycgeC"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175536,
+      "name": "Audemars Piguet",
+      "url": "https://open.spotify.com/track/5gA49eaLpmPKPkWbLAp64m"
     },
     {
       "album": {
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 147322,
       "name": "BLAADJE",
       "url": "https://open.spotify.com/track/75izVMsTfq3Zp9rKMwYULQ"
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 174720,
       "name": "By pasowa\u0107 do Was",
       "url": "https://open.spotify.com/track/73fifdFT9YwyMGGfbg8ISE"
@@ -2794,7 +2812,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 176901,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4fttKLb5Y7RJHi18Q3rNpk"
@@ -2918,6 +2936,28 @@
       "duration_ms": 159130,
       "name": "Digits",
       "url": "https://open.spotify.com/track/7nw6gwzh0k7OXIDZYpXJYu"
+    },
+    {
+      "album": {
+        "name": "Dillemas",
+        "url": "https://open.spotify.com/album/4FyejwrgubiRT6frn5Ixj8"
+      },
+      "artists": [
+        {
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN"
+        },
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "Dillemas",
+      "url": "https://open.spotify.com/track/2x6l3h76dFbsdnmMyUEeHc"
     },
     {
       "album": {
@@ -3431,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "Facilite",
+        "url": "https://open.spotify.com/album/54GpPAeABO2QML3GhwNKiv"
+      },
+      "artists": [
+        {
+          "name": "Clep N Flyy",
+          "url": "https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Facilite",
+      "url": "https://open.spotify.com/track/0bBPWZ39zGtQFSakKoVZYQ"
+    },
+    {
+      "album": {
         "name": "Fake",
         "url": "https://open.spotify.com/album/1RMKxBxrdRPR3MZk73oSgE"
       },
@@ -3756,6 +3814,28 @@
       "duration_ms": 145193,
       "name": "Gaan Naar",
       "url": "https://open.spotify.com/track/3UyT6U96QsbcbyxMqx79n7"
+    },
+    {
+      "album": {
+        "name": "Gangster Party",
+        "url": "https://open.spotify.com/album/6Qee5bCiMlKeAx3US3vWKJ"
+      },
+      "artists": [
+        {
+          "name": "Parsa",
+          "url": "https://open.spotify.com/artist/7zq4HhXQ1Tp9LRE7MtEN9m"
+        },
+        {
+          "name": "Dario Santana",
+          "url": "https://open.spotify.com/artist/0y14WanKsCSjfqVk18HoFk"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135997,
+      "name": "Gangster Party",
+      "url": "https://open.spotify.com/track/6A0jKYRrBmE0YcwqFtl6GS"
     },
     {
       "album": {
@@ -4338,7 +4418,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 170333,
       "name": "Gunshots",
       "url": "https://open.spotify.com/track/5DGpysvC5hqdj2skMl7SNN"
@@ -4850,7 +4930,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 100273,
       "name": "Hoog/Laag",
       "url": "https://open.spotify.com/track/4AwrOdC9XTLEq7lJlU3VnG"
@@ -4920,6 +5000,28 @@
       "duration_ms": 164819,
       "name": "HUNT VOOR DIE STACKS",
       "url": "https://open.spotify.com/track/3FMlpWtnv2cg33jeX0GPBp"
+    },
+    {
+      "album": {
+        "name": "Hustle",
+        "url": "https://open.spotify.com/album/5bI1CL3MR4ZTrxuz4eEL9D"
+      },
+      "artists": [
+        {
+          "name": "Jama MW",
+          "url": "https://open.spotify.com/artist/6NaZ5cHB2rJbBB2NU3T9VX"
+        },
+        {
+          "name": "Jea",
+          "url": "https://open.spotify.com/artist/5or8yHJVELOiVcb4FaraKJ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129305,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/6qtZOCjlGGtwlZC7yMYqjJ"
     },
     {
       "album": {
@@ -5052,6 +5154,28 @@
       "duration_ms": 142262,
       "name": "Ik wil allang met je zijn",
       "url": "https://open.spotify.com/track/34wC52eKnmWzuUmuvIWUo7"
+    },
+    {
+      "album": {
+        "name": "In Het Frans",
+        "url": "https://open.spotify.com/album/5Unyp1XZlWq2jUWE9a1RQU"
+      },
+      "artists": [
+        {
+          "name": "Marou",
+          "url": "https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5"
+        },
+        {
+          "name": "Massin",
+          "url": "https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111468,
+      "name": "In Het Frans",
+      "url": "https://open.spotify.com/track/1uMozq4mDofCm2uaMDGNCb"
     },
     {
       "album": {
@@ -5778,7 +5902,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 166956,
       "name": "Laat Me Effe",
       "url": "https://open.spotify.com/track/2Ln4QO2cHWJbMxYoPtuAhP"
@@ -6342,6 +6466,24 @@
       "duration_ms": 109016,
       "name": "LVD (Leef voor dit)",
       "url": "https://open.spotify.com/track/42ocYfSEVV1IiDruAurOOC"
+    },
+    {
+      "album": {
+        "name": "Lyca & Slammers",
+        "url": "https://open.spotify.com/album/6vaLcRaqbe90A4GdLMO9Yf"
+      },
+      "artists": [
+        {
+          "name": "SKEEKS",
+          "url": "https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148222,
+      "name": "Lyca & Slammers",
+      "url": "https://open.spotify.com/track/1TCvXAJ0PZAimDMi6hyFvv"
     },
     {
       "album": {
@@ -6941,6 +7083,24 @@
     },
     {
       "album": {
+        "name": "Minimaal",
+        "url": "https://open.spotify.com/album/24RKfzm8uBP62RhuuEVO3h"
+      },
+      "artists": [
+        {
+          "name": "Ezzie",
+          "url": "https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149987,
+      "name": "Minimaal",
+      "url": "https://open.spotify.com/track/1S1cjiIxxgSzpxlUeZrm8L"
+    },
+    {
+      "album": {
         "name": "Minimaal 5m",
         "url": "https://open.spotify.com/album/32exJzhormqKITdYBX2U3E"
       },
@@ -7070,7 +7230,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 158964,
       "name": "Moete Doen",
       "url": "https://open.spotify.com/track/2KlhWRehUl8XHuhdLN6PhA"
@@ -7779,6 +7939,24 @@
     },
     {
       "album": {
+        "name": "No One Else",
+        "url": "https://open.spotify.com/album/2Ma5ZgMYlT3fDw6HZ4o7lM"
+      },
+      "artists": [
+        {
+          "name": "Tur-G",
+          "url": "https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180742,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/3ziNgV9biq2UMn0H5GWnoI"
+    },
+    {
+      "album": {
         "name": "Nog Vast",
         "url": "https://open.spotify.com/album/2xbmMr0Esw71HsIhlc7I2g"
       },
@@ -8078,7 +8256,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 157197,
       "name": "One Season Wonder",
       "url": "https://open.spotify.com/track/2yFRo16te5UUwEopM06uQo"
@@ -8364,6 +8542,24 @@
       "duration_ms": 181714,
       "name": "PARXS/LONDXN",
       "url": "https://open.spotify.com/track/3CoDcewtoJNZVfr2g0WUJ8"
+    },
+    {
+      "album": {
+        "name": "Patronen in de Chaos",
+        "url": "https://open.spotify.com/album/0t2PyIgPSEiFWWzqiIKJMC"
+      },
+      "artists": [
+        {
+          "name": "Skaffa",
+          "url": "https://open.spotify.com/artist/24RkW6OmQCTvgvwZM89nMG"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Patronen in de Chaos",
+      "url": "https://open.spotify.com/track/3Y4quDKVUDuQCCW3jfleYr"
     },
     {
       "album": {
@@ -8956,7 +9152,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 197916,
       "name": "Ruwe Diamanten",
       "url": "https://open.spotify.com/track/2PZGfm10TbgBD0FW12jNCJ"
@@ -9509,6 +9705,28 @@
     },
     {
       "album": {
+        "name": "STRAAT RATJE",
+        "url": "https://open.spotify.com/album/2FqymWDxldNrgQpcBFpid5"
+      },
+      "artists": [
+        {
+          "name": "Suilju",
+          "url": "https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j"
+        },
+        {
+          "name": "Adfbigga",
+          "url": "https://open.spotify.com/artist/2fmH8PNMuggFPiFQAm5x9l"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128759,
+      "name": "STRAAT RATJE",
+      "url": "https://open.spotify.com/track/5EaCVgDPfpN3NG9aEVzSzR"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/2m9rOIqTyA3TfK52fVDA38"
       },
@@ -9925,6 +10143,24 @@
     },
     {
       "album": {
+        "name": "Tijdsbesef",
+        "url": "https://open.spotify.com/album/0knfeJEu8FayHqWu8H9j9L"
+      },
+      "artists": [
+        {
+          "name": "VL Disappear",
+          "url": "https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153824,
+      "name": "Tijdsbesef",
+      "url": "https://open.spotify.com/track/7eWWWlXpM2W1lu2PmAwdUk"
+    },
+    {
+      "album": {
         "name": "Timer",
         "url": "https://open.spotify.com/album/4zxv4eGHsswITqChUq2jPa"
       },
@@ -10052,7 +10288,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 197333,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/0uACfFXQKm8MCnAiQ2TC4H"
@@ -10198,7 +10434,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 145531,
       "name": "Tranen van geluk",
       "url": "https://open.spotify.com/track/69simOdMpHxNHZbzUCVr1V"
@@ -10224,6 +10460,24 @@
       "duration_ms": 170624,
       "name": "Trap & Dance 12 (Alors Bonne Chance)",
       "url": "https://open.spotify.com/track/4nPtJJKJSvQFbA1gWA7k5l"
+    },
+    {
+      "album": {
+        "name": "Traplife",
+        "url": "https://open.spotify.com/album/464tsROrSTXXFYU08wB5xp"
+      },
+      "artists": [
+        {
+          "name": "Neske",
+          "url": "https://open.spotify.com/artist/4OsGg6dkEB3nVwLl1ey2rs"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Traplife",
+      "url": "https://open.spotify.com/track/3xqOeWoEqpBSZBcWdeVL0U"
     },
     {
       "album": {
@@ -10282,6 +10536,24 @@
       "duration_ms": 145454,
       "name": "Traumatized",
       "url": "https://open.spotify.com/track/6CvhcbW0krT8ysiSG9EQOH"
+    },
+    {
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/6EbL6KZi2O1PrCEPGRfA6B"
+      },
+      "artists": [
+        {
+          "name": "Elliven",
+          "url": "https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166555,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/68GBhskSJbuoEg8f9A7yCG"
     },
     {
       "album": {
@@ -10360,7 +10632,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 255086,
       "name": "TRUESTORY Cypher - Zonamo Cyphers",
       "url": "https://open.spotify.com/track/1ruIWanUy5wZTUQIEdKrng"
@@ -10920,7 +11192,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 138556,
       "name": "Voor Jou",
       "url": "https://open.spotify.com/track/3yamR27kpy526yTNwrMpgm"
@@ -11022,10 +11294,28 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 157500,
       "name": "VUURGEVECHT",
       "url": "https://open.spotify.com/track/00eGkNQGDHQbmcL9qqYKUo"
+    },
+    {
+      "album": {
+        "name": "Waardeer De Tijd",
+        "url": "https://open.spotify.com/album/0EFk7jK7hF3rkwbJo6T3PV"
+      },
+      "artists": [
+        {
+          "name": "NDD",
+          "url": "https://open.spotify.com/artist/0wXZFUIlCxAi0Y49ZjCuMV"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Waardeer De Tijd",
+      "url": "https://open.spotify.com/track/3Uf9fe7QBqPVZPwWZlcBZ7"
     },
     {
       "album": {
@@ -11092,7 +11382,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 129600,
       "name": "Wachten op mij",
       "url": "https://open.spotify.com/track/6SxEZJ1joxe8oZ1j7bgQxN"
@@ -11720,7 +12010,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 184186,
       "name": "Zonder Jou (feat. Lindi)",
       "url": "https://open.spotify.com/track/3Cy7MTWV4Sqh0zB2SF7Wjp"
@@ -11800,7 +12090,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 236620,
       "name": "\u00c7A DIT QUOI?",
       "url": "https://open.spotify.com/track/0g58B4xPC7OMlfuPaRtxui"

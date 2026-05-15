@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 69509,
+  "num_followers": 69511,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADdVOwpzvUMVkaEvDtBH+VN",
+  "snapshot_id": "agO/AAAAAACLbcrV8gJl0+Lq7kW0iIxF",
   "tracks": [
     {
       "added_at": null,
@@ -358,11 +358,15 @@
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Si Dios Fuera Poeta",
-      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
+      "duration_ms": 188412,
+      "name": "La Falta",
+      "url": "https://open.spotify.com/track/3ButIE6y5SSxmpI5y6rOaP"
     },
     {
       "added_at": null,
@@ -438,15 +442,11 @@
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 188412,
-      "name": "La Falta",
-      "url": "https://open.spotify.com/track/3ButIE6y5SSxmpI5y6rOaP"
+      "duration_ms": 147000,
+      "name": "Si Dios Fuera Poeta",
+      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
     },
     {
       "added_at": null,

@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "AL Madhi",
+        "url": "https://open.spotify.com/album/7En7seOI2dlQTl9CfAQCct"
+      },
+      "artists": [
+        {
+          "name": "Nawaf Fraih",
+          "url": "https://open.spotify.com/artist/5yl3BFzx0O1yOA06WCWWGj"
+        }
+      ],
+      "date_added": "2026-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109792,
+      "name": "AL Madhi",
+      "url": "https://open.spotify.com/track/2U4qvP2oIGcsYgSHLkxKm5"
+    },
+    {
+      "album": {
         "name": "Al Oyoun Al Sod",
         "url": "https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X"
       },

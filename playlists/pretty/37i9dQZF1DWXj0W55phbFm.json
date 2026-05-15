@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 86475,
+  "num_followers": 86510,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Earfood",
-        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Strasbourg / St. Denis",
-      "url": "https://open.spotify.com/track/62VWmsNoDmqT0Mj9oHHFVh"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Volume 3",
         "url": "https://open.spotify.com/album/63pHpN0nqkNbaeP2UEexY0"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 429040,
       "name": "I Remember Clifford - Rudy Van Gelder Edition / Remastered 2007",
       "url": "https://open.spotify.com/track/6KawDsALZTY6FA8CE1NLZK"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Earfood",
+        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Strasbourg / St. Denis",
+      "url": "https://open.spotify.com/track/62VWmsNoDmqT0Mj9oHHFVh"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 395560,
-      "name": "Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "The Sidewinder (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 625293,
       "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 395560,
+      "name": "Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 352666,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Number Five",
         "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 394506,
       "name": "Journey to the Stars",
       "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 352666,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 409133,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "The Best Of Art Tatum",
         "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 367600,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 409133,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "Groovin' High",
+        "url": "https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie Sextet",
+          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/2mjlWBSR9NAyQVVhxRTgpt"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "Diane",
         "url": "https://open.spotify.com/album/0FNrlhmr94IAOIFCNCvoDp"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 436426,
       "name": "If I should lose you",
       "url": "https://open.spotify.com/track/37YN6evH0mNQjgyvKPXJcy"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Groovin' High",
-        "url": "https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie Sextet",
-          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/2mjlWBSR9NAyQVVhxRTgpt"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "The Touch Of Your Lips",
-        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 520173,
-      "name": "Blue room",
-      "url": "https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Introducing Nat Adderley",
         "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 267560,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "The Touch Of Your Lips",
+        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 520173,
+      "name": "Blue room",
+      "url": "https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Goin' Up",
-        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 419600,
-      "name": "Blues For Brenda - 1997 Remastered",
-      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Work Song",
         "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 255720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Goin' Up",
+        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 419600,
+      "name": "Blues For Brenda - 1997 Remastered",
+      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -767,26 +767,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Fats Navarro Memorial Album",
-        "url": "https://open.spotify.com/album/3clL5Ml3ZB7v4T4AYwRprQ"
-      },
-      "artists": [
-        {
-          "name": "Fats Navarro",
-          "url": "https://open.spotify.com/artist/0w2MvntXz3P5Ko3oslGJoG"
-        },
-        {
-          "name": "Tadd Dameron Sextet",
-          "url": "https://open.spotify.com/artist/7kJFzwZwq2B88RzIY3rfJe"
-        }
-      ],
-      "duration_ms": 171123,
-      "name": "Lady Bird",
-      "url": "https://open.spotify.com/track/1vefcOBRQ83aE7tMO33njz"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Clifford Brown And Max Roach At Basin Street (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 453146,
       "name": "What Is This Thing Called Love",
       "url": "https://open.spotify.com/track/3zqVCujN4nNryzTCwLGO3G"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Fats Navarro Memorial Album",
+        "url": "https://open.spotify.com/album/3clL5Ml3ZB7v4T4AYwRprQ"
+      },
+      "artists": [
+        {
+          "name": "Fats Navarro",
+          "url": "https://open.spotify.com/artist/0w2MvntXz3P5Ko3oslGJoG"
+        },
+        {
+          "name": "Tadd Dameron Sextet",
+          "url": "https://open.spotify.com/artist/7kJFzwZwq2B88RzIY3rfJe"
+        }
+      ],
+      "duration_ms": 171123,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/1vefcOBRQ83aE7tMO33njz"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "The Happy Horns Of Clark Terry",
-        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "High Towers",
-      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "The Cooker",
         "url": "https://open.spotify.com/album/4qHvDIHdLQfX0aZr7MrGDw"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 560080,
       "name": "A Night In Tunisia - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/2nHFS2Ia5BZRS9X6zzlURI"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "The Happy Horns Of Clark Terry",
+        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "High Towers",
+      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Moving Picture",
-        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 312313,
-      "name": "Apple House",
-      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Payton's Place",
         "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+        "name": "Moving Picture",
+        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
       },
       "artists": [
         {
-          "name": "Jon Faddis",
-          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
         }
       ],
-      "duration_ms": 285800,
-      "name": "Instigator",
-      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
+      "duration_ms": 312313,
+      "name": "Apple House",
+      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1271,6 +1255,22 @@
       "duration_ms": 479266,
       "name": "Jacob's Ladder",
       "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+      },
+      "artists": [
+        {
+          "name": "Jon Faddis",
+          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "Instigator",
+      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
     },
     {
       "added_at": "2025-09-10 12:53:12",

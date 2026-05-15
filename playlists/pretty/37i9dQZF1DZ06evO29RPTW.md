@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,927 likes - 47 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,941 likes - 47 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 13 | [Demonoid Phenomenon](https://open.spotify.com/track/5sbydPPvDB7fJ1uDo8X6nB) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 4:11 |
 | 14 | [Iron Head](https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 4:11 |
 | 15 | [Helter Skelter](https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Helter Skelter](https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e) | 3:35 |
-| 16 | [Who Am I?](https://open.spotify.com/track/2XLKWMfTb2IEI0hddWfFlD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 0:34 |
+| 16 | [Tarantula](https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:02 |
 | 17 | [Meet The Creeper](https://open.spotify.com/track/64J18bwOzZAUmuFxn5l6Ss) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:13 |
 | 18 | [Scum Of The Earth](https://open.spotify.com/track/2qrxKk3y85UpaNcI07LPn9) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 2:55 |
 | 19 | [What?](https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 2:47 |
-| 20 | [Tarantula](https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:02 |
+| 20 | [Who Am I?](https://open.spotify.com/track/2XLKWMfTb2IEI0hddWfFlD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 0:34 |
 | 21 | [Call Of The Zombie](https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 0:30 |
 | 22 | [Dead City Radio And The New Gods Of Supertown](https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:28 |
 | 23 | [The Satanic Rites of Blacula](https://open.spotify.com/track/1JeGX4cixemJfBJl6XGQES) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 2:18 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 33 | [We’re An American Band](https://open.spotify.com/track/52XSq4ZU4Wu3IZ2wcaBhhD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:29 |
 | 34 | [In The Age Of The Consecrated Vampire We All Get High](https://open.spotify.com/track/3yZulDilluz9V8sJTs9VB8) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:15 |
 | 35 | [The Devil's Rejects](https://open.spotify.com/track/4MnDhacMb3iXUlPth1MTc1) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:54 |
-| 36 | [Shake Your Ass\-Smoke Your Grass](https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:10 |
+| 36 | [Get Loose](https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:27 |
 | 37 | [Ging Gang Gong De Do Gong De Laga Raga](https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 |
 | 38 | [The Life And Times Of A Teenage Rock God](https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:54 |
 | 39 | [Blitzkrieg Bop](https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 2:43 |
-| 40 | [Get Loose](https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:27 |
+| 40 | [Shake Your Ass\-Smoke Your Grass](https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:10 |
 | 41 | [Let It All Bleed Out](https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 4:09 |
 | 42 | [Teenage Nosferatu Pussy](https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 4:33 |
 | 43 | [Brick House 2003](https://open.spotify.com/track/45s7brWN56HC9xzQz8hHuR) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:48 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 46 | [The Girl Who Loved The Monsters](https://open.spotify.com/track/4rtzNf8AcFARJf7wv6AfyP) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:56 |
 | 47 | [Girl On Fire](https://open.spotify.com/track/4d8rLkF805Bv2HlFlPHmpo) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:29 |
 
-Snapshot ID: `agJtgAAAAADELklAnNIlfmrJ8ni3Xn1X`
+Snapshot ID: `agO/AAAAAACY15QLDXUFUuS2xlZJ5x6R`

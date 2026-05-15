@@ -4,7 +4,7 @@
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 22 min
+82 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [EN GUERRA](https://open.spotify.com/track/7s6QEYNAsZIdSoHFInfaL4) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [GRAN MAESTRE II](https://open.spotify.com/album/2bf3cDWnJakqDGVCawuUlF) | 3:33 | 2026-03-22 |  |
 | [En Una De Pista](https://open.spotify.com/track/0e2sClDxK89Jsomfg1FQNZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:01 | 2024-01-29 | 2025-03-11 |
 | [Evítame La Pena](https://open.spotify.com/track/1WE0odV2NK2PvdpIAJ7CB9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:14 | 2026-05-14 |  |
+| [Faltó El Querer](https://open.spotify.com/track/35qJOOHS4ADVAFpmNokiPh) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:32 | 2026-05-15 |  |
 | [Flotando En El Aire](https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Flotando En El Aire](https://open.spotify.com/album/35vp7QOXsyTnlOFmWLgetW) | 3:04 | 2025-03-15 |  |
 | [Flotando En El Aire](https://open.spotify.com/track/31ALhJGk2ocTcRypwmoHiK) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Flotando En El Aire](https://open.spotify.com/album/2obg4V6U48NHQ8ytR6MrQu) | 3:04 | 2024-01-29 | 2025-03-15 |
 | [Gabachas](https://open.spotify.com/track/2R0ElsGmqt2dWLHWcRMbeN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [Gabachas](https://open.spotify.com/album/4TOQI9fuLr1WOpJ1GSFrJJ) | 2:07 | 2024-03-23 | 2025-12-08 |
@@ -64,7 +65,7 @@
 | [Olvídame Tú](https://open.spotify.com/track/66IMXYjOUbJcImGLpyC2Ka) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/2tSsIQp0KZgCOl99gCC5Is) | 3:40 | 2025-03-17 |  |
 | [Olvídame Tú](https://open.spotify.com/track/2KwsKHfXagurEXkTPpWGEN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06) | 3:41 | 2024-01-29 | 2025-03-17 |
 | [Pachamama](https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:20 | 2026-05-10 |  |
-| [Parque De Diversiones](https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NLIEC 2 \(LIVE SESSION\)](https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle) | 3:18 | 2025-03-02 |  |
+| [Parque De Diversiones](https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NLIEC 2 \(LIVE SESSION\)](https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle) | 3:18 | 2025-03-02 | 2026-05-15 |
 | [QuesoXte](https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [QuesoXte](https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n) | 2:31 | 2024-08-11 | 2024-10-30 |
 | [QuesoXte](https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [X Amor II](https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM) | 2:31 | 2024-10-30 | 2026-05-10 |
 | [Relojito Adiamantado](https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Niño De Oro](https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ) | 2:57 | 2025-03-13 |  |

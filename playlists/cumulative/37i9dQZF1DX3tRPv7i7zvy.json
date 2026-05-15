@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "5:30",
+        "url": "https://open.spotify.com/album/5o6irrqosnuRimxVpkokv5"
+      },
+      "artists": [
+        {
+          "name": "Tripcy",
+          "url": "https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "5:30",
+      "url": "https://open.spotify.com/track/2QNi1aSK4TnQBqn7ZZvNEp"
+    },
+    {
+      "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 160800,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
@@ -268,7 +286,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 148000,
       "name": "Genie Baby",
       "url": "https://open.spotify.com/track/3uI4pCvoglYfqg0kmlSaOb"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 147911,
       "name": "Money Makes The World Go Round (MMTWGR)",
       "url": "https://open.spotify.com/track/6Z4XuIm4CoQM7r4cMH9n6l"
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 186429,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ"
@@ -1568,6 +1586,24 @@
       "duration_ms": 249999,
       "name": "ROOTS",
       "url": "https://open.spotify.com/track/78i4GOdyumIDNV5gVSB1ra"
+    },
+    {
+      "album": {
+        "name": "Rotation",
+        "url": "https://open.spotify.com/album/3iyvH9o2nOjTLLJinOObnj"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/3kd7SEgutk0Dkp3S6VnasJ"
     },
     {
       "album": {
@@ -1696,7 +1732,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 184583,
       "name": "SAILOR (with Oxlade)",
       "url": "https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW"
@@ -1874,6 +1910,28 @@
       "duration_ms": 175148,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3ttyIYcR7OfQn7fzrdLJrM"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219310,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3CZgDqy9Tmt0LOyfKX6Qqt"
     },
     {
       "album": {
@@ -2160,7 +2218,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 160288,
       "name": "Ye Dede (feat. DarkoVibes)",
       "url": "https://open.spotify.com/track/3n0PQFnAzLsPbIQdu8ns7q"

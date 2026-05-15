@@ -1,6 +1,6 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 177127,
+  "num_followers": 177180,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,38 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
+        "name": "Ki & Ka",
+        "url": "https://open.spotify.com/album/3sKetZJ9cmRj54AIWXOWSv"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Jaz Dhami",
+          "url": "https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr"
+        },
+        {
+          "name": "Aditi Singh Sharma",
+          "url": "https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 212115,
+      "name": "High Heels Te Nachche",
+      "url": "https://open.spotify.com/track/1bAa1OyefOhXdqnL8dlxFt"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
         "name": "Paan Ki Dukaan (From \"O' Romeo\")",
         "url": "https://open.spotify.com/album/6m4lwXygiCmc8PL2XWCZXq"
       },
@@ -851,38 +883,6 @@
       "duration_ms": 173400,
       "name": "Choli Ke Peeche (From \"Crew\")",
       "url": "https://open.spotify.com/track/1ErMeReQpwGuroEk5zekr3"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Ki & Ka",
-        "url": "https://open.spotify.com/album/3sKetZJ9cmRj54AIWXOWSv"
-      },
-      "artists": [
-        {
-          "name": "Meet Bros.",
-          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
-        },
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Jaz Dhami",
-          "url": "https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr"
-        },
-        {
-          "name": "Aditi Singh Sharma",
-          "url": "https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 212115,
-      "name": "High Heels Te Nachche",
-      "url": "https://open.spotify.com/track/1bAa1OyefOhXdqnL8dlxFt"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
+        "name": "Dhadak (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ft8PMmwkMtZon38iyN8bA"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        }
+      ],
+      "duration_ms": 226501,
+      "name": "Zingaat",
+      "url": "https://open.spotify.com/track/6rDCSTANJ05fi9nDoEYRFu"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
         "name": "Ginny Weds Sunny (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0uV4f6bZkuwb6BW1dZ3EPC"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 226615,
       "name": "Sawan Mein Lag Gayi Aag",
       "url": "https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Dhadak (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5ft8PMmwkMtZon38iyN8bA"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        }
-      ],
-      "duration_ms": 226501,
-      "name": "Zingaat",
-      "url": "https://open.spotify.com/track/6rDCSTANJ05fi9nDoEYRFu"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
+        "name": "Bad Newz",
+        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tauba Tauba",
+      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
         "name": "Judwaa 2",
         "url": "https://open.spotify.com/album/5s5nSyhQFpoXZeqqTXQ16J"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 261004,
       "name": "Chalti Hai Kya 9 Se 12",
       "url": "https://open.spotify.com/track/06wmFmUzR15wlWpjTYwVTr"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Bad Newz",
-        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tauba Tauba",
-      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1631,34 +1631,6 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Naagin",
-        "url": "https://open.spotify.com/album/1qvwPj7hWoVYJ0S5z5mbag"
-      },
-      "artists": [
-        {
-          "name": "Vayu",
-          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
-        },
-        {
-          "name": "Aastha Gill",
-          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
-        },
-        {
-          "name": "AKASA",
-          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
-        },
-        {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Naagin",
-      "url": "https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
         "name": "Junooniyat",
         "url": "https://open.spotify.com/album/3rOUlh3cVzmQBB8c7EAke1"
       },
@@ -1683,6 +1655,34 @@
       "duration_ms": 251513,
       "name": "Nachange Saari Raat",
       "url": "https://open.spotify.com/track/1iF6lrJludTZmfgMgXPqSe"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Naagin",
+        "url": "https://open.spotify.com/album/1qvwPj7hWoVYJ0S5z5mbag"
+      },
+      "artists": [
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        },
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Naagin",
+      "url": "https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1730,6 +1730,18 @@
         {
           "name": "Ikka",
           "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
       ],
       "duration_ms": 184432,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd frisse hits! Cover: Trobi, KA & Yade Lauren",
+  "description": "Altijd frisse hits! Cover: Martin Garrix & Ed Sheeran",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -4744,7 +4744,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
@@ -5347,6 +5347,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -5840,6 +5862,24 @@
       "duration_ms": 174957,
       "name": "De Laatste Keer Dat Ik Huil",
       "url": "https://open.spotify.com/track/1IFzQTzO3M8TFkGEX8NxtR"
+    },
+    {
+      "album": {
+        "name": "De Leeuw Komt Eraan",
+        "url": "https://open.spotify.com/album/2cYpryI2g6eu20whof2VI8"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134692,
+      "name": "De Leeuw Komt Eraan",
+      "url": "https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7"
     },
     {
       "album": {
@@ -7803,6 +7843,28 @@
     },
     {
       "album": {
+        "name": "Ewa Safi",
+        "url": "https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143265,
+      "name": "Ewa Safi",
+      "url": "https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx"
+    },
+    {
+      "album": {
         "name": "exes",
         "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
       },
@@ -8360,7 +8422,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 187423,
       "name": "FINE PLACE TO DIE",
       "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
@@ -10523,6 +10585,24 @@
     },
     {
       "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
+    },
+    {
+      "album": {
         "name": "HJB",
         "url": "https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D"
       },
@@ -10780,7 +10860,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 158666,
       "name": "Hoog",
       "url": "https://open.spotify.com/track/60p06WUwnHKy4vB1QzVIog"
@@ -12560,7 +12640,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 125586,
       "name": "Jij Hebt Mij",
       "url": "https://open.spotify.com/track/5AIvCO5v2mYxM3EtkxKz4T"
@@ -14131,6 +14211,28 @@
     },
     {
       "album": {
+        "name": "Like It",
+        "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266923,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -15038,7 +15140,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 177205,
       "name": "Maak Me Nou Niet Gek",
       "url": "https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW"
@@ -15286,7 +15388,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
@@ -18468,7 +18570,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 131437,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
@@ -19060,7 +19162,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 146666,
       "name": "Punta cana (feat. ADF Antje, Trapmoneybiggie & Carel)",
       "url": "https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH"
@@ -19584,6 +19686,28 @@
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "album": {
@@ -21770,7 +21894,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 142950,
       "name": "STARLIFE",
       "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
@@ -24038,7 +24162,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 151282,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
@@ -27000,6 +27124,36 @@
       "duration_ms": 152727,
       "name": "Ze Komt Uit Amsterdam",
       "url": "https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp"
+    },
+    {
+      "album": {
+        "name": "Zeg Het Meteen (feat. Yung Felix, Kleine John & Bartofso)",
+        "url": "https://open.spotify.com/album/0WD0XInsjB8yxdSQn2vGUm"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "Zeg Het Meteen (feat. Yung Felix, Kleine John & Bartofso)",
+      "url": "https://open.spotify.com/track/73375slBm9kry1CSwgfkvg"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: SIO",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Mi\u010di",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 241584,
       "name": "222",
       "url": "https://open.spotify.com/track/7cCYXwe0HnQjVIHKX9IBdg"
+    },
+    {
+      "album": {
+        "name": "A.I.E.",
+        "url": "https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g"
+      },
+      "artists": [
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        },
+        {
+          "name": "Alejandro Garrido",
+          "url": "https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166707,
+      "name": "A.I.E.",
+      "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
     },
     {
       "album": {
@@ -146,6 +168,36 @@
       "duration_ms": 306829,
       "name": "Almaza",
       "url": "https://open.spotify.com/track/19rX0UU1oRCZ5hbqiwW5ZT"
+    },
+    {
+      "album": {
+        "name": "Ama Cup (feat. Thukuthela)",
+        "url": "https://open.spotify.com/album/7bRfCC6oOk0v8WQjhs4hD8"
+      },
+      "artists": [
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398675,
+      "name": "Ama Cup (feat. Thukuthela)",
+      "url": "https://open.spotify.com/track/7LUGphbGEbXJKbLuREzocI"
     },
     {
       "album": {
@@ -4375,6 +4427,36 @@
     },
     {
       "album": {
+        "name": "Ngiphuma Khona (feat. Cnethemba Gonelo & Frank Mabeat)",
+        "url": "https://open.spotify.com/album/4GsbcohSWwigqQpMtqavZ7"
+      },
+      "artists": [
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        },
+        {
+          "name": "Wesley Keys",
+          "url": "https://open.spotify.com/artist/2OGYdhAxnbigwUW9Be2b6C"
+        },
+        {
+          "name": "Cnethemba Gonelo",
+          "url": "https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg"
+        },
+        {
+          "name": "Frank Mabeat",
+          "url": "https://open.spotify.com/artist/6UMibn1aMdn9ZYFwgycomA"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283340,
+      "name": "Ngiphuma Khona (feat. Cnethemba Gonelo & Frank Mabeat)",
+      "url": "https://open.spotify.com/track/0C9tlyhcLJtbC1sdFfVRkc"
+    },
+    {
+      "album": {
         "name": "Sacred Steps",
         "url": "https://open.spotify.com/album/5eThCbdRN6T8MulQgtwq73"
       },
@@ -5698,6 +5780,24 @@
       "duration_ms": 375087,
       "name": "The Oracle",
       "url": "https://open.spotify.com/track/1ZKUeb4VShKVUSmf9EQTT9"
+    },
+    {
+      "album": {
+        "name": "The Road Before You",
+        "url": "https://open.spotify.com/album/7stxae1ApXmRDNfXuYpMLO"
+      },
+      "artists": [
+        {
+          "name": "Mi\u010di",
+          "url": "https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333559,
+      "name": "The Road Before You",
+      "url": "https://open.spotify.com/track/3atKTgUQQqg3qb61mXxksS"
     },
     {
       "album": {

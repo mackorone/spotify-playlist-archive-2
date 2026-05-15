@@ -1,6 +1,6 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. Oscar Maydon y Victor Mendivil en portada",
-  "num_followers": 213360,
+  "num_followers": 213384,
   "original_name": "Flow Tranqui",
   "owner": {
     "name": "Spotify",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2026-05-08 06:00:47",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/6slcxJSXyA96hAUiaABZW2"
+        "name": "Wapa",
+        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
         }
       ],
-      "duration_ms": 189176,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw"
+      "duration_ms": 159776,
+      "name": "Wapa",
+      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
     },
     {
       "added_at": "2026-05-08 06:00:47",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2026-05-08 06:00:47",
       "album": {
-        "name": "Wapa",
-        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/6slcxJSXyA96hAUiaABZW2"
       },
       "artists": [
         {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 159776,
-      "name": "Wapa",
-      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
+      "duration_ms": 189176,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw"
     },
     {
       "added_at": "2026-05-08 06:00:47",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2026-05-08 06:00:47",
       "album": {
-        "name": "A Veces A Besos (Remix)",
-        "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "A Veces A Besos - Remix",
-      "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
-    },
-    {
-      "added_at": "2026-05-08 06:00:47",
-      "album": {
         "name": "Si Me Dices Que S\u00ed",
         "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
       },
@@ -1459,22 +1439,22 @@
     {
       "added_at": "2026-05-08 06:00:47",
       "album": {
-        "name": "M\u00edrame Baby",
-        "url": "https://open.spotify.com/album/64Pzm1AlNSImt1DcCUuR3d"
+        "name": "A Veces A Besos (Remix)",
+        "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 239628,
-      "name": "M\u00edrame Baby",
-      "url": "https://open.spotify.com/track/0BTrUnm5ssK7MbC29xdIl1"
+      "duration_ms": 216146,
+      "name": "A Veces A Besos - Remix",
+      "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
     },
     {
       "added_at": "2026-05-08 06:00:47",
@@ -1507,6 +1487,26 @@
       "duration_ms": 188386,
       "name": "Rio",
       "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
+    },
+    {
+      "added_at": "2026-05-08 06:00:47",
+      "album": {
+        "name": "M\u00edrame Baby",
+        "url": "https://open.spotify.com/album/64Pzm1AlNSImt1DcCUuR3d"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 239628,
+      "name": "M\u00edrame Baby",
+      "url": "https://open.spotify.com/track/0BTrUnm5ssK7MbC29xdIl1"
     },
     {
       "added_at": "2026-05-08 06:00:47",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2026-05-08 06:00:47",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "duration_ms": 182496,
+      "name": "AM",
+      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
+    },
+    {
+      "added_at": "2026-05-08 06:00:47",
+      "album": {
         "name": "Portate Bonito",
         "url": "https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 209541,
       "name": "Portate Bonito",
       "url": "https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi"
-    },
-    {
-      "added_at": "2026-05-08 06:00:47",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 182496,
-      "name": "AM",
-      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
     },
     {
       "added_at": "2026-05-08 06:00:47",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2026-05-08 06:00:47",
       "album": {
-        "name": "Tu Boca",
-        "url": "https://open.spotify.com/album/5tvGfWbjX9JknJp9ig1CXt"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Tu Boca",
-      "url": "https://open.spotify.com/track/4wtOpbBoX1O3ClP6W7OEPz"
-    },
-    {
-      "added_at": "2026-05-08 06:00:47",
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+    },
+    {
+      "added_at": "2026-05-08 06:00:47",
+      "album": {
+        "name": "Tu Boca",
+        "url": "https://open.spotify.com/album/5tvGfWbjX9JknJp9ig1CXt"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Tu Boca",
+      "url": "https://open.spotify.com/track/4wtOpbBoX1O3ClP6W7OEPz"
     },
     {
       "added_at": "2026-05-08 06:00:47",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2026-05-08 06:00:47",
       "album": {
+        "name": "S\u00cdSIFO / NADIE M\u00c1S!",
+        "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "NADIE M\u00c1S!",
+      "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
+    },
+    {
+      "added_at": "2026-05-08 06:00:47",
+      "album": {
         "name": "HASTA QUE ME ENAMORO",
         "url": "https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 180881,
       "name": "HASTA QUE ME ENAMORO",
       "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
-    },
-    {
-      "added_at": "2026-05-08 06:00:47",
-      "album": {
-        "name": "S\u00cdSIFO / NADIE M\u00c1S!",
-        "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "NADIE M\u00c1S!",
-      "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
     },
     {
       "added_at": "2026-05-08 06:00:47",

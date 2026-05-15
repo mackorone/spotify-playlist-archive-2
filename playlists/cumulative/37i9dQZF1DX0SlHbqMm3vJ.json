@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover:  Falana",
+  "description": "Sweet afro melodies. Cover:  ",
   "name": "Ginja",
   "tracks": [
     {
@@ -1043,6 +1043,28 @@
     },
     {
       "album": {
+        "name": "The Game Needs Us",
+        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/4c0l2xJLaY8PBS7yi37Ry3"
+    },
+    {
+      "album": {
         "name": "Already Won",
         "url": "https://open.spotify.com/album/1BypTkXe5D3rNWZVwGzHDx"
       },
@@ -1062,6 +1084,28 @@
       "duration_ms": 170000,
       "name": "Already Won",
       "url": "https://open.spotify.com/track/5N5JTHckZoTCvhjESdaMxK"
+    },
+    {
+      "album": {
+        "name": "Always You (feat. Nana Fofie)",
+        "url": "https://open.spotify.com/album/0DSm2orZYnmb7haccz5hsj"
+      },
+      "artists": [
+        {
+          "name": "EAN",
+          "url": "https://open.spotify.com/artist/2R6fMantwd4zJz4s07Wpnm"
+        },
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189243,
+      "name": "Always You (feat. Nana Fofie)",
+      "url": "https://open.spotify.com/track/5pVj3RmUQkAFgAsWhZa4zd"
     },
     {
       "album": {
@@ -3941,6 +3985,24 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/75yZELVuJuLN67uBEYxn6y"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155744,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0Z1NN59C1dt9NSpSR4xwMC"
+    },
+    {
+      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/5rO5Egb0HA6eYwU5aCq1eZ"
       },
@@ -4430,7 +4492,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 135671,
       "name": "Day By Day (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5EYUc3dFDqstN3WU1EJlwV"
@@ -4914,7 +4976,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 198260,
       "name": "Don't Go Far",
       "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
@@ -7474,6 +7536,28 @@
       "duration_ms": 161086,
       "name": "hell and back",
       "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
     },
     {
       "album": {
@@ -16301,6 +16385,28 @@
     },
     {
       "album": {
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193672,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
+    },
+    {
+      "album": {
         "name": "Spell",
         "url": "https://open.spotify.com/album/3qRmPWSuZQtt6ntNr3i7Zd"
       },
@@ -17082,7 +17188,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 227533,
       "name": "Tanko (feat. Terry G)",
       "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
@@ -18560,7 +18666,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 180000,
       "name": "What They Want?",
       "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"
@@ -19260,7 +19366,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"

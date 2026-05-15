@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,726 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,729 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 30 | [Disappear](https://open.spotify.com/track/4PDQYHp5YzHFcfoxDMIDPY) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:15 |
 | 31 | [Hura\-Haru](https://open.spotify.com/track/14uNVm8P3giMT9e5cGln7I) | [Feel Koplo](https://open.spotify.com/artist/1I7J7ZNNQne6VhffsSECR4) | [A Culture A 6](https://open.spotify.com/album/4Q7bvzlWs5CRy6fWCqZSHL) | 4:35 |
 | 32 | [Kalam](https://open.spotify.com/track/0m0ZGGpcLSR074LZHmwygB) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Kalam](https://open.spotify.com/album/2LqkY37FJu6Vs0Tjeju2NR) | 1:58 |
-| 33 | [Violet](https://open.spotify.com/track/6PjgY0Sfp9RWCtlNXoUoKf) | [Rrag](https://open.spotify.com/artist/6tTVXxmZWe3xiWFNl2l1eV) | [Violet](https://open.spotify.com/album/5aRbnZd7V7Z7cJQ3tijjrF) | 2:48 |
-| 34 | [pizza pepperoni](https://open.spotify.com/track/57S5BHScJunq9w9Z5Aa0Df) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [pizza pepperoni](https://open.spotify.com/album/5UfIQx3mYTyOslGlsPotyL) | 2:20 |
+| 33 | [pizza pepperoni](https://open.spotify.com/track/57S5BHScJunq9w9Z5Aa0Df) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [pizza pepperoni](https://open.spotify.com/album/5UfIQx3mYTyOslGlsPotyL) | 2:20 |
+| 34 | [Violet](https://open.spotify.com/track/6PjgY0Sfp9RWCtlNXoUoKf) | [Rrag](https://open.spotify.com/artist/6tTVXxmZWe3xiWFNl2l1eV) | [Violet](https://open.spotify.com/album/5aRbnZd7V7Z7cJQ3tijjrF) | 2:48 |
 | 35 | [Tennessee Whiskey](https://open.spotify.com/track/1JSdMw0R2EIFpxMWX2ImNA) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Tennessee Whiskey](https://open.spotify.com/album/0WNnkenw79b5b9KWSuwXj7) | 4:08 |
 | 36 | [Kelana](https://open.spotify.com/track/7kAhOXTPVwKODIWUzSosi1) | [Mooner](https://open.spotify.com/artist/3Nq3ERFOZXkIxMjESQxrWL) | [O\. M.](https://open.spotify.com/album/1q2oM4KRamlQUldy9Zcf6W) | 3:42 |
 | 37 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 |

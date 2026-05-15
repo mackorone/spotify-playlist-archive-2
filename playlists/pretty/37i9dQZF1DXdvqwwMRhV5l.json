@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 00's! Cover: Dinand Woesthoff (Kane)",
-  "num_followers": 74672,
+  "num_followers": 74684,
   "original_name": "00's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
+        "name": "All That We Needed",
+        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
         "name": "The Time Of Our Lives (International Version)",
         "url": "https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "All That We Needed",
-        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
       "artists": [
         {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+      "duration_ms": 230760,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
         "name": "31 Minutes to Takeoff",
         "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 213293,
       "name": "Cooler Than Me - Single Mix",
       "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Sing When You're Winning",
-        "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Rock DJ",
-      "url": "https://open.spotify.com/track/4pbyDPjFgfPqFTcIMC8xpK"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "I AM...SASHA FIERCE - Platinum Edition",
         "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 249866,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Sing When You're Winning",
+        "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Rock DJ",
+      "url": "https://open.spotify.com/track/4pbyDPjFgfPqFTcIMC8xpK"
     },
     {
       "added_at": "2024-07-19 06:48:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,163 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,194 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 16 | [New Speedway Boogie \- 2013 Remaster](https://open.spotify.com/track/3YPBV5DacTbhgh7vharn6w) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 4:06 |
 | 17 | [Box of Rain \- 2013 Remaster](https://open.spotify.com/track/7x2xjJV3YAPeLQJ7u3Kjet) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 5:18 |
 | 18 | [Jack Straw \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/0TtuYAtUBFlF3ylF57Qwyg) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 6:29 |
-| 19 | [Estimated Prophet \- 2014 Remaster](https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Terrapin Station \(2014 Remaster\)](https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98) | 5:36 |
-| 20 | [Cassidy \- Live](https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Reckoning \(Live\)](https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD) | 4:34 |
+| 19 | [Cassidy \- Live](https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Reckoning \(Live\)](https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD) | 4:34 |
+| 20 | [Estimated Prophet \- 2014 Remaster](https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Terrapin Station \(2014 Remaster\)](https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98) | 5:36 |
 | 21 | [Brokedown Palace \- 2013 Remaster](https://open.spotify.com/track/362CS15hE1upuTKoWApzLn) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 4:09 |
 | 22 | [Dire Wolf \- 2013 Remaster](https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 3:14 |
 | 23 | [Deal \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/0pPvu1AGxIj7pvESvSg4wi) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 6:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 49 | [Wharf Rat \- Live at Fillmore East, New York, NY, April 26, 1971](https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 8:31 |
 | 50 | [Slow Train \- Live at Sullivan Stadium, Foxborough, MA \- July 1987](https://open.spotify.com/track/6kpqaDEznzrlLFhPDwjNNY) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Dylan & The Dead \(Live\)](https://open.spotify.com/album/2H8oXIOkww0RuVckCa6Scw) | 4:56 |
 
-Snapshot ID: `agJtgAAAAAAmuORXB3ly69m9XKW/FV6p`
+Snapshot ID: `agO/AAAAAAC1VWzLnJFKlBrWfx9F97AR`

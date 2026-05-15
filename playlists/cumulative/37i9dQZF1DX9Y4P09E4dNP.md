@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: KiDi & Lasmid
 
-341 songs - 20 hr 41 min
+342 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 | 2020-02-20 | 2024-03-05 |
 | [Yewo Nyame](https://open.spotify.com/track/4lzhsMF2TUWC2EOcjcJOPi) | [Nana Acheampong](https://open.spotify.com/artist/4cXlKyzDbtIT2IXX4zcHN1), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Yewo Nyame](https://open.spotify.com/album/6jLXI6n0xkgCQ6OTDCozWr) | 4:00 | 2024-04-26 | 2024-05-03 |
 | [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 | 2025-09-01 |  |
+| [Yire \(Fanfooler\)](https://open.spotify.com/track/1390ovzn0DCki8MOIUJ185) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [TORCHER II](https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD) | 2:30 | 2026-05-15 |  |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-09-07 |
 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 | 2023-02-23 | 2024-03-05 |
 

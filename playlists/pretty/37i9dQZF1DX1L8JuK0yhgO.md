@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,396 likes - 120 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,397 likes - 120 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 70 | [風のうわさ](https://open.spotify.com/track/0srU6oks9gcU5nESdR4Q0a) | [冬にわかれて](https://open.spotify.com/artist/06FS2FSQELsX1CXpUxyR9d) | [forgotten](https://open.spotify.com/album/4mZBI7MDXXqJNjXkQdqC9v) | 3:21 |
 | 71 | [はためく](https://open.spotify.com/track/2QZLB47GieV6z41upyQesJ) | [ゆうさり](https://open.spotify.com/artist/5maAP01A7kSizjklOLYNa8) | [はためきのしくみ](https://open.spotify.com/album/0NOGNbo0tf6yFwfC9VwPAd) | 3:05 |
 | 72 | [午前2時のハイウェイ](https://open.spotify.com/track/62ZFy37NVoPW9nkZZYlJdp) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [午前2時のハイウェイ](https://open.spotify.com/album/2VnZRx1v6opvRsi8k6W4UW) | 4:17 |
-| 73 | [昨日の約束 \(feat\. 奇妙礼太郎\)](https://open.spotify.com/track/1VJ2MVBxNE3yz8un4nIQ7I) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9), [奇妙礼太郎](https://open.spotify.com/artist/0mLNWhTYNuT4iUNTQi86Wg) | [昨日の約束 \(feat\. 奇妙礼太郎\)](https://open.spotify.com/album/0gQVkfVV4LMDJi5KCSCG9G) | 3:31 |
+| 73 | [昨日の約束 \(feat\. 奇妙礼太郎\)](https://open.spotify.com/track/1VJ2MVBxNE3yz8un4nIQ7I) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9), [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4) | [昨日の約束 \(feat\. 奇妙礼太郎\)](https://open.spotify.com/album/0gQVkfVV4LMDJi5KCSCG9G) | 3:31 |
 | 74 | [春眠](https://open.spotify.com/track/6xjWRdPWtvXXGAmv32aI5s) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [春眠](https://open.spotify.com/album/43HpeBKITnvl7031kv9Sda) | 2:59 |
 | 75 | [All You Want](https://open.spotify.com/track/0nyUpiLGUve5lmoX1LmiTd) | [AZUL](https://open.spotify.com/artist/1SNSajkOkQROLdPnDzF9SB), [sulysalt](https://open.spotify.com/artist/017y6GCHLZdEdiHukbof0B) | [Starfish](https://open.spotify.com/album/0VLsdfxrB4rG8TjSenPJlv) | 4:28 |
 | 76 | [WIL:D](https://open.spotify.com/track/67Z4nAGa3KOKw7h9eLbCUz) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2), [babyMINT粼粼](https://open.spotify.com/artist/2AfDGAOUPXeleCgCWqRTvu), [babyMINT Vikky](https://open.spotify.com/artist/3WvOCbEjwaHhNtUP7I1XUv), [babyMINT熙妍](https://open.spotify.com/artist/4EWIF2ypb6ULu7YNzzuQjc), [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [WIL:D](https://open.spotify.com/album/17SqnuWR3giTcQ3npVOQ1U) | 2:43 |

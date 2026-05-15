@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 
 > 
 
-[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 16 songs - 47 min 19 sec
+[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 17 songs - 50 min 45 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,5 +24,6 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 | 14 | [Toy With Me](https://open.spotify.com/track/2Eq390T7NpfucDvN7G8RIt) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:14 |
 | 15 | [Shimmer](https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:47 |
 | 16 | [Crush \- Girls Trip](https://open.spotify.com/track/3s0VYrnOnSNURobwyQvVw3) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Crush \(Girls Trip\)](https://open.spotify.com/album/4SFv3EvdXLT9lurh4tupyJ) | 3:21 |
+| 17 | [Hot & Sexy \- Girls Trip](https://open.spotify.com/track/56XRMsd36CU26THxIrVRJG) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Hot & Sexy \(Girls Trip\)](https://open.spotify.com/album/7cn2d24DspmyMMe5j2nLuf) | 3:26 |
 
-Snapshot ID: `AAABryoBAFbMOtE9rV4hrMewlHDWUa0z`
+Snapshot ID: `AAABsNUQwa+cvczo0Lr2hASuFs73Owwk`

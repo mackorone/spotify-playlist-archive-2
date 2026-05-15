@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 514136,
+  "num_followers": 514142,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 412133,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Meetings",
         "url": "https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 369797,
       "name": "Suave",
       "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Tatomania",
-        "url": "https://open.spotify.com/album/2DphcE8z7lMDmGzYBcwqf9"
+        "name": "Big Band Urban Folktales",
+        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
       },
       "artists": [
         {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        },
-        {
-          "name": "Royal Quartet",
-          "url": "https://open.spotify.com/artist/3ahem2BMD7mqwGTwKjS1LD"
+          "name": "Bobby Sanabria",
+          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
         }
       ],
-      "duration_ms": 258281,
-      "name": "Tatomania",
-      "url": "https://open.spotify.com/track/3cl6XYDzDz99aCSGPhKRMI"
+      "duration_ms": 440600,
+      "name": "El Lider",
+      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1359,38 +1355,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Big Band Urban Folktales",
-        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
-      },
-      "artists": [
-        {
-          "name": "Bobby Sanabria",
-          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
-        }
-      ],
-      "duration_ms": 440600,
-      "name": "El Lider",
-      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Yesun",
-        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
-      },
-      "artists": [
-        {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "Aggua",
-      "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "El Suelo Mio",
         "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
       },
@@ -1403,6 +1367,26 @@
       "duration_ms": 209760,
       "name": "El Suelo Mio",
       "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Tatomania",
+        "url": "https://open.spotify.com/album/2DphcE8z7lMDmGzYBcwqf9"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        },
+        {
+          "name": "Royal Quartet",
+          "url": "https://open.spotify.com/artist/3ahem2BMD7mqwGTwKjS1LD"
+        }
+      ],
+      "duration_ms": 258281,
+      "name": "Tatomania",
+      "url": "https://open.spotify.com/track/3cl6XYDzDz99aCSGPhKRMI"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Yesun",
+        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Aggua",
+      "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Todas Las Voces",
         "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 220800,
       "name": "S\u00f3lo Le Pido a Dios",
       "url": "https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Indigenous",
-        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
-      },
-      "artists": [
-        {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
-        }
-      ],
-      "duration_ms": 243944,
-      "name": "Sombras Del Pasado",
-      "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Indigenous",
+        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
+      },
+      "artists": [
+        {
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+        }
+      ],
+      "duration_ms": 243944,
+      "name": "Sombras Del Pasado",
+      "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
       },
@@ -1491,26 +1491,6 @@
       "duration_ms": 245866,
       "name": "Martinez",
       "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Yesun",
-        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
-      },
-      "artists": [
-        {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
-        },
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 251445,
-      "name": "Kachucha",
-      "url": "https://open.spotify.com/track/0Ym5f839BECkv2WthRG26s"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1531,6 +1511,26 @@
       "duration_ms": 230550,
       "name": "Te Escucho",
       "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Yesun",
+        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        },
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 251445,
+      "name": "Kachucha",
+      "url": "https://open.spotify.com/track/0Ym5f839BECkv2WthRG26s"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
       "artists": [
         {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
         }
       ],
-      "duration_ms": 432617,
-      "name": "Chucho\u2019s Mood",
-      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
+      "duration_ms": 269480,
+      "name": "I'll Call You Later",
+      "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1607,54 +1607,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
       },
       "artists": [
         {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 269480,
-      "name": "I'll Call You Later",
-      "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Coral Way",
-        "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        }
-      ],
-      "duration_ms": 219999,
-      "name": "Coral Way",
-      "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Raise up off Me",
-        "url": "https://open.spotify.com/album/49qisly3p7r0M8olieO1D8"
-      },
-      "artists": [
-        {
-          "name": "Ralph Peterson",
-          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
-        },
-        {
-          "name": "Eguie Castrillo",
-          "url": "https://open.spotify.com/artist/2o8Ic3nnJg47sAw7xcxEW4"
-        }
-      ],
-      "duration_ms": 354049,
-      "name": "Blue Hughes",
-      "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
+      "duration_ms": 432617,
+      "name": "Chucho\u2019s Mood",
+      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1699,6 +1663,42 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Raise up off Me",
+        "url": "https://open.spotify.com/album/49qisly3p7r0M8olieO1D8"
+      },
+      "artists": [
+        {
+          "name": "Ralph Peterson",
+          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
+        },
+        {
+          "name": "Eguie Castrillo",
+          "url": "https://open.spotify.com/artist/2o8Ic3nnJg47sAw7xcxEW4"
+        }
+      ],
+      "duration_ms": 354049,
+      "name": "Blue Hughes",
+      "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Coral Way",
+        "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        }
+      ],
+      "duration_ms": 219999,
+      "name": "Coral Way",
+      "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Dear Diz (Every Day I Think Of You)",
         "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
       },
@@ -1711,30 +1711,6 @@
       "duration_ms": 408920,
       "name": "Salt Peanuts! (Mani Salado)",
       "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/00Omo2fyZ3yWOPuHYJhU8U"
-      },
-      "artists": [
-        {
-          "name": "Samuel Torres",
-          "url": "https://open.spotify.com/artist/534PyMqeIHt7rLR4cdpKnw"
-        },
-        {
-          "name": "Marshall Gilkes",
-          "url": "https://open.spotify.com/artist/1dTkq7rRkNoklaRTVWMylE"
-        },
-        {
-          "name": "Luis Perdomo",
-          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
-        }
-      ],
-      "duration_ms": 397860,
-      "name": "Salsa, Jazz y Choke",
-      "url": "https://open.spotify.com/track/6FswmOfZgnEha9XVPCTNnE"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1775,6 +1751,58 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/00Omo2fyZ3yWOPuHYJhU8U"
+      },
+      "artists": [
+        {
+          "name": "Samuel Torres",
+          "url": "https://open.spotify.com/artist/534PyMqeIHt7rLR4cdpKnw"
+        },
+        {
+          "name": "Marshall Gilkes",
+          "url": "https://open.spotify.com/artist/1dTkq7rRkNoklaRTVWMylE"
+        },
+        {
+          "name": "Luis Perdomo",
+          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
+        }
+      ],
+      "duration_ms": 397860,
+      "name": "Salsa, Jazz y Choke",
+      "url": "https://open.spotify.com/track/6FswmOfZgnEha9XVPCTNnE"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "The Dreamer Is The Dream",
+        "url": "https://open.spotify.com/album/6Nyc37jV5GlyqeGJ9EN75j"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "David Virelles",
+          "url": "https://open.spotify.com/artist/2yHMWN7OFCTJ9ZiGSVU0F8"
+        },
+        {
+          "name": "Joe Martin",
+          "url": "https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "duration_ms": 334746,
+      "name": "Sonic Anomaly",
+      "url": "https://open.spotify.com/track/4oW5TZR1ommlrPipe5R7g2"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -1787,26 +1815,6 @@
       "duration_ms": 395117,
       "name": "Chacafrik",
       "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Que Ser\u00e1",
-        "url": "https://open.spotify.com/album/4fx7ZSz7u8CQYVvJMdphUd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Munir Hossn",
-          "url": "https://open.spotify.com/artist/2kVJGn28aUoTlI1Oq2SGKt"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Que Ser\u00e1",
-      "url": "https://open.spotify.com/track/0qkWBfjH6DtB55RcQnM43Q"
     },
     {
       "added_at": "2025-08-07 16:57:48",

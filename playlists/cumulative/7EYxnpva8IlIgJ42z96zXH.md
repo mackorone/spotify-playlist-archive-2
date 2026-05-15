@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
 
-1,101 songs - 2 day 9 hr 49 min
+1,102 songs - 2 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1109,5 +1109,6 @@
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2021-01-15 | 2021-05-29 |
 | [Your Love Is My Drug](https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:07 | 2025-06-16 |  |
 | [Zeros \(feat\. Headie One\)](https://open.spotify.com/track/1V0HauTAFl7CnslORPhAzB) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Zeros \(feat\. Headie One\)](https://open.spotify.com/album/3EXGGB0DAQEUbvzOuaSJub) | 2:13 | 2024-06-17 | 2024-07-19 |
+| [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF) | 2:56 | 2026-05-14 |  |
 
 \*This playlist was first scraped on 2020-11-03. Prior content cannot be recovered.

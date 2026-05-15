@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,436 likes - 159 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,439 likes - 159 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 60 | [F You I Love You \(feat\. Teyana Taylor\)](https://open.spotify.com/track/27aGlicHJKf5QY20looYlR) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Light of Mine \(Deluxe\)](https://open.spotify.com/album/4UYc2CKvpyr2e1moEY6TL0) | 3:56 |
 | 61 | [move!](https://open.spotify.com/track/5w0zeX3eITqzFU2U112T6Q) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/4hOt0i0gET0PSwVyNYy25j) | 2:36 |
 | 62 | [Wishful Thinking](https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:40 |
-| 63 | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 |
-| 64 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
+| 63 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
+| 64 | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 |
 | 65 | [Need Someone](https://open.spotify.com/track/0e6HwIMqkDwr80TmH1mdt3) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:57 |
 | 66 | [Happy When I'm Sad](https://open.spotify.com/track/6DibqiBTKMob2SjBwKqRfS) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:38 |
 | 67 | [NEVER GONNA LIKE YOU](https://open.spotify.com/track/3XxSZNlQkwiWeiCpqxEUuW) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [NEVER GONNA LIKE YOU](https://open.spotify.com/album/4tKCfPRuOgYm9qnIrW3RcS) | 3:26 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 158 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 159 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `AcRavAAAAABAPgRYVVYUL61I0QKda7O0`
+Snapshot ID: `AcRgXAAAAAAxIQdlw2LqV286JKn1eKbQ`

@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "ALLT JAG VILL HA",
+        "url": "https://open.spotify.com/album/3PMhwzU8vxTJkQNcPSAcai"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131677,
+      "name": "ALLT JAG VILL HA",
+      "url": "https://open.spotify.com/track/5SQnjFE3jfSrmGMbwG16Xw"
+    },
+    {
+      "album": {
         "name": "ALLTID NAKEN",
         "url": "https://open.spotify.com/album/2KQJPHN2N2NkqsdUpteBER"
       },
@@ -2256,6 +2274,28 @@
       "duration_ms": 171519,
       "name": "BARA TA MIG",
       "url": "https://open.spotify.com/track/0hCsQLQ2AUjU1VfXgqfsZK"
+    },
+    {
+      "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/3qXCJqTzQdr7LqbO2oE6sP"
+      },
+      "artists": [
+        {
+          "name": "BEK & Moberg",
+          "url": "https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X"
+        },
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99609,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/5HQRWczU0yknvThOfFfRC2"
     },
     {
       "album": {
@@ -6778,7 +6818,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 117818,
       "name": "DUNKA",
       "url": "https://open.spotify.com/track/6hr5yCAsvJVSWWVtC8hVCk"
@@ -8076,6 +8116,28 @@
       "duration_ms": 118075,
       "name": "EN TJEI I MITT LIV",
       "url": "https://open.spotify.com/track/5RKaSx9Erfsvr0MlJTKy8f"
+    },
+    {
+      "album": {
+        "name": "EN \u00d6L BLEV TILL FEM",
+        "url": "https://open.spotify.com/album/0rlmdJ9xSwYRwyjOLBWdwH"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108536,
+      "name": "EN \u00d6L BLEV TILL FEM",
+      "url": "https://open.spotify.com/track/0w38yV4brbnWp5gllJo528"
     },
     {
       "album": {
@@ -11714,7 +11776,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 143085,
       "name": "Gikk en tur p\u00e5 stien",
       "url": "https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz"
@@ -15367,6 +15429,28 @@
     },
     {
       "album": {
+        "name": "Ingen annan r\u00f6r mig som du",
+        "url": "https://open.spotify.com/album/3MGIskQdNoxtw6wljVzlBo"
+      },
+      "artists": [
+        {
+          "name": "10.2%",
+          "url": "https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH"
+        },
+        {
+          "name": "Kenneth Svensson",
+          "url": "https://open.spotify.com/artist/4ChUBIVdqsR82ZDAjdUvy6"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125892,
+      "name": "Ingen annan r\u00f6r mig som du",
+      "url": "https://open.spotify.com/track/2g3JH1Ms2esXmXXPg3R7bl"
+    },
+    {
+      "album": {
         "name": "INGEN ANNAN R\u00d6R MIG SOM DU",
         "url": "https://open.spotify.com/album/0gP1yJC7YOSQtDyZwTDKZa"
       },
@@ -16570,7 +16654,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 114466,
       "name": "J\u00c4VLA SNUT!",
       "url": "https://open.spotify.com/track/283oCOGssu64MJ4WcN9Iym"
@@ -18748,7 +18832,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 175234,
       "name": "Ljabrur Provisjon",
       "url": "https://open.spotify.com/track/2HPJLOJc86dQ4TkdezsU4o"
@@ -20410,7 +20494,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 135660,
       "name": "Mr. Junkie",
       "url": "https://open.spotify.com/track/0nPnZ3TziobKlxyXu44Ux4"
@@ -21102,7 +21186,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 150978,
       "name": "NORRLANDS CASANOVA",
       "url": "https://open.spotify.com/track/4qlxYCuEJ4Fl2nnWgb4HXX"
@@ -23720,7 +23804,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 189000,
       "name": "RAGGARBIL",
       "url": "https://open.spotify.com/track/2ueF9mv57FNsabUrYprQY8"
@@ -26534,6 +26618,24 @@
       "duration_ms": 169658,
       "name": "Sista flaskan",
       "url": "https://open.spotify.com/track/2SuATJjKTbCxHFCLE10Gmh"
+    },
+    {
+      "album": {
+        "name": "Sista P\u00f6ket Med G\u00e4nget",
+        "url": "https://open.spotify.com/album/4wAs2cOvlh3NClBnqNIbqd"
+      },
+      "artists": [
+        {
+          "name": "Ronny & Ragge",
+          "url": "https://open.spotify.com/artist/5pyF7nerLdGc4ZV3U72tdQ"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204519,
+      "name": "Sista P\u00f6ket Med G\u00e4nget",
+      "url": "https://open.spotify.com/track/3w3fqdQrxTOuDfDjk5ugSE"
     },
     {
       "album": {
@@ -33130,7 +33232,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 138278,
       "name": "VI \u00c4R GUL OCH BL\u00c5 - VM L\u00c5T 2026",
       "url": "https://open.spotify.com/track/3Wr0BBDDsetzCM6qFcQ0TF"

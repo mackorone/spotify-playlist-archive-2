@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22152,
+  "num_followers": 22151,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAAbC1RmMYzet2yMXwzN5Jqi",
+  "snapshot_id": "agO/AAAAAABfYi+N9ZeLp6pUFRtC2p/u",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 438653,
+      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 395773,
       "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 438653,
-      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293617,
+      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) [Ao Vivo]",
         "url": "https://open.spotify.com/album/29esCOFDzflMjWCvfmXoGg"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 516000,
       "name": "Seguran\u00e7a / Canta Minh'alma (Blessed Assurance) - Ao Vivo",
       "url": "https://open.spotify.com/track/2eNd4rkmkFUZK0E1SDUqEB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293617,
-      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
     },
     {
       "added_at": null,

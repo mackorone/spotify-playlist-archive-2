@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9330,
+  "num_followers": 9337,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAADe0Q4zGGwyxAUYzr4V54Bq",
+  "snapshot_id": "agO/AAAAAAA8HCxsCMf6I7aL5FHBcUKZ",
   "tracks": [
     {
       "added_at": null,
@@ -907,6 +907,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outro Som de Sacanagem",
+        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        }
+      ],
+      "duration_ms": 115275,
+      "name": "Outro Som de Sacanagem",
+      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosmo e Wanda",
         "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
       },
@@ -935,46 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outro Som de Sacanagem",
-        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
       },
       "artists": [
         {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
-        }
-      ],
-      "duration_ms": 115275,
-      "name": "Outro Som de Sacanagem",
-      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MONTE RUSH+",
-        "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
-      },
-      "artists": [
-        {
-          "name": "Big Rush",
-          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 135521,
-      "name": "O PAPO",
-      "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
     },
     {
       "added_at": null,
@@ -999,22 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
+        "name": "MONTE RUSH+",
+        "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
       },
       "artists": [
         {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
+      "duration_ms": 135521,
+      "name": "O PAPO",
+      "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
     },
     {
       "added_at": null,

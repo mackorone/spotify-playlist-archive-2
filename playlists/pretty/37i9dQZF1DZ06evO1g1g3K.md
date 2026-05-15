@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,150 likes - 39 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,155 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 34 | [Melody](https://open.spotify.com/track/0cc4hNDMidsGNzAZ2jFw71) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 4:42 |
 | 35 | [Get Paid \(feat\. Durand Bernarr\)](https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Humo en la Trampa 3](https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci) | 2:41 |
 | 36 | [Neutral](https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:27 |
-| 37 | [Collide](https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:42 |
-| 38 | [H.I\. \(feat\. Devin Tracy\)](https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:59 |
+| 37 | [H.I\. \(feat\. Devin Tracy\)](https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:59 |
+| 38 | [Collide](https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:42 |
 | 39 | [Relocate](https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 3:33 |
+| 40 | [ETA?](https://open.spotify.com/track/2KvySb5FNxG0cZWsllmoeM) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 2:16 |
 
-Snapshot ID: `agJtgAAAAAAL1MFNuf73NTy1VoBYM+kl`
+Snapshot ID: `agO/AAAAAAD/ow1VvC0brepP3NFSquFY`

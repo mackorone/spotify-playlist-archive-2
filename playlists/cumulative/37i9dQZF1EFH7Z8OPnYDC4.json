@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -6518,10 +6518,28 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 152373,
       "name": "Some Enchanted Evening",
       "url": "https://open.spotify.com/track/6PYTpG0kZyUU2V9ynjeErs"
+    },
+    {
+      "album": {
+        "name": "Essential Masters",
+        "url": "https://open.spotify.com/album/6mwOeeFn7jRKPAAaJr9pYp"
+      },
+      "artists": [
+        {
+          "name": "The Castells",
+          "url": "https://open.spotify.com/artist/6DkVBNgQMSVLTQa7OUhMno"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154573,
+      "name": "Some Enchanted Evening",
+      "url": "https://open.spotify.com/track/0ktwrpGSIxU66A1EtXMWCo"
     },
     {
       "album": {

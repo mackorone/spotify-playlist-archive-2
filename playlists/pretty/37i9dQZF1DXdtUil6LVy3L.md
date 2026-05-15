@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,087 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,080 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 35 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
 | 36 | [My Favourite Time of Year](https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 4:02 |
 | 37 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
-| 38 | [A Night To Remember](https://open.spotify.com/track/2rNZgCXOKKQQh70tYCtPkS) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [A Night To Remember](https://open.spotify.com/album/09K85uBFteuPunRZw3z0HQ) | 3:20 |
-| 39 | [Meet Me Under the Mistletoe](https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Meet Me Under the Mistletoe](https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc) | 3:24 |
+| 38 | [Meet Me Under the Mistletoe](https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Meet Me Under the Mistletoe](https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc) | 3:24 |
+| 39 | [A Night To Remember](https://open.spotify.com/track/2rNZgCXOKKQQh70tYCtPkS) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [A Night To Remember](https://open.spotify.com/album/09K85uBFteuPunRZw3z0HQ) | 3:20 |
 | 40 | [We Three Kings](https://open.spotify.com/track/220q8pjM8CL42cIGT1jSBj) | [Augustus Step](https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M) | [We Three Kings](https://open.spotify.com/album/1Q2yEQkTcFH0O7wp5tA1bH) | 2:59 |
 | 41 | [Angels We Have Heard on High](https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [Angels We Have Heard on High](https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF) | 2:40 |
 | 42 | [What Are You Doing New Years Eve?](https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [What Are You Doing New Years Eve?](https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c) | 4:41 |

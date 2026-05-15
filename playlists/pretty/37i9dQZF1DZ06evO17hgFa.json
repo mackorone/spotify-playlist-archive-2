@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 149302,
+  "num_followers": 149311,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAAXUUuB6sPlc4zU6VDEkQOY",
+  "snapshot_id": "agO/AAAAAADMGp5JuS2YNyVP93uH1EIm",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lady Sings",
-        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -447,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+        "name": "The Lady Sings",
+        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
       },
       "artists": [
         {
@@ -456,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 196346,
-      "name": "Fine And Mellow",
-      "url": "https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA"
+      "duration_ms": 188160,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
       "duration_ms": 243440,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "Fine And Mellow",
+      "url": "https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA"
     },
     {
       "added_at": null,
@@ -571,54 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "I Cover The Waterfront",
-      "url": "https://open.spotify.com/track/2ACx6c851YfpUQygrASE6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs For Distingu\u00e9 Lovers",
-        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 333200,
-      "name": "Just One Of Those Things - Take 8 - Master Take",
-      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia - Vol. 2",
         "url": "https://open.spotify.com/album/61OLLuUN2R0ZO24IrS3W2T"
       },
@@ -639,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
       },
       "artists": [
         {
@@ -648,9 +600,41 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 173920,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
+      "duration_ms": 248813,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "I Cover The Waterfront",
+      "url": "https://open.spotify.com/track/2ACx6c851YfpUQygrASE6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs For Distingu\u00e9 Lovers",
+        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 333200,
+      "name": "Just One Of Those Things - Take 8 - Master Take",
+      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
       "duration_ms": 264373,
       "name": "Come Rain Or Come Shine",
       "url": "https://open.spotify.com/track/20lPX0g0lacr7c72M8A0OR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "East Of The Sun (West Of The Moon)",
-      "url": "https://open.spotify.com/track/1zE0JZiHOBPlHwLsf4wBld"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 174320,
+      "name": "East Of The Sun (West Of The Moon)",
+      "url": "https://open.spotify.com/track/1zE0JZiHOBPlHwLsf4wBld"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Billie Holiday's Greatest Hits",
         "url": "https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl"
       },
@@ -747,26 +747,6 @@
       "duration_ms": 165933,
       "name": "No More",
       "url": "https://open.spotify.com/track/75yWDS1C4ZXKoJscUK1cdg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blues Are Brewin'",
-        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Billy Kyle and His Trio",
-          "url": "https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "Baby, I Don't Cry Over You",
-      "url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
     },
     {
       "added_at": null,
@@ -791,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Evening With Billie Holiday",
-        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
+        "name": "The Blues Are Brewin'",
+        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
       },
       "artists": [
         {
           "name": "Billie Holiday",
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Billy Kyle and His Trio",
+          "url": "https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q"
         }
       ],
-      "duration_ms": 190480,
-      "name": "He's Funny That Way",
-      "url": "https://open.spotify.com/track/3jG6okC06hzdqzIRcEzs7H"
+      "duration_ms": 193053,
+      "name": "Baby, I Don't Cry Over You",
+      "url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 186560,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An Evening With Billie Holiday",
+        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "He's Funny That Way",
+      "url": "https://open.spotify.com/track/3jG6okC06hzdqzIRcEzs7H"
     },
     {
       "added_at": null,

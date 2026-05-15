@@ -2157,6 +2157,28 @@
     },
     {
       "album": {
+        "name": "Meddle In The Mold - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1oxmCSj84JdBiTPj5OxPiI"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187188,
+      "name": "Meddle In The Mold - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0AcMtOeAyk6ugKtQeqo69K"
+    },
+    {
+      "album": {
         "name": "Messiah",
         "url": "https://open.spotify.com/album/3oDCT5J0RlH4eGNFX51szn"
       },

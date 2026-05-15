@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62927,
+  "num_followers": 62935,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "PM6:\u221e\u300c\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
+        "url": "https://open.spotify.com/album/193HSvLV9U3ruKbDAEju5l"
+      },
+      "artists": [
+        {
+          "name": "PM6:\u221e",
+          "url": "https://open.spotify.com/artist/2GvcPHWg5MaQk9s3RPKiFv"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 225202,
+      "name": "\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac",
+      "url": "https://open.spotify.com/track/7LrGUS1U2GIkbk4Akth9XF"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
         "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
       },
@@ -427,22 +447,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "PM6:\u221e\u300c\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
-        "url": "https://open.spotify.com/album/193HSvLV9U3ruKbDAEju5l"
+        "name": "null\u300c\u305d\u308c\u306f\u6b8b\u50cf\u306e\u6d88\u5931\u70b9\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
+        "url": "https://open.spotify.com/album/5XaAyKXoY3YK1xsYVSwHQ1"
       },
       "artists": [
         {
-          "name": "PM6:\u221e",
-          "url": "https://open.spotify.com/artist/2GvcPHWg5MaQk9s3RPKiFv"
+          "name": "null",
+          "url": "https://open.spotify.com/artist/0O8h8CnTakLhV6Jh7KGKub"
         },
         {
           "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
           "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
-      "duration_ms": 225202,
-      "name": "\u3089\u3073\u3085&\u30d4\u30fc\u30b9\u4f1d\u8aac",
-      "url": "https://open.spotify.com/track/7LrGUS1U2GIkbk4Akth9XF"
+      "duration_ms": 223542,
+      "name": "\u305d\u308c\u306f\u6b8b\u50cf\u306e\u6d88\u5931\u70b9",
+      "url": "https://open.spotify.com/track/0Lgflklr9PxS0DfESpU7Zo"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -463,26 +483,6 @@
       "duration_ms": 379772,
       "name": "\u661f\u306e\u9cf4\u52d5\u97ff\u304d\u3057\u6642\u306b",
       "url": "https://open.spotify.com/track/4HfzaFfOFv2zIAzXT37LC6"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "null\u300c\u305d\u308c\u306f\u6b8b\u50cf\u306e\u6d88\u5931\u70b9\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
-        "url": "https://open.spotify.com/album/5XaAyKXoY3YK1xsYVSwHQ1"
-      },
-      "artists": [
-        {
-          "name": "null",
-          "url": "https://open.spotify.com/artist/0O8h8CnTakLhV6Jh7KGKub"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 223542,
-      "name": "\u305d\u308c\u306f\u6b8b\u50cf\u306e\u6d88\u5931\u70b9",
-      "url": "https://open.spotify.com/track/0Lgflklr9PxS0DfESpU7Zo"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Switch\u300cWish upon a MUSIC!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/5AZolT2qgm76KwEncevfgK"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 219170,
-      "name": "Wish upon a MUSIC!!",
-      "url": "https://open.spotify.com/track/5OlrGFzpu4cCfPZF0voF2b"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "Lancetta\u300c\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
         "url": "https://open.spotify.com/album/0lDNCSOC8fLuIKSMq6vD7I"
       },
@@ -707,22 +687,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01Bright me up!!\u300f\u30a2\u30d7\u30ea\u4e3b\u984c\u6b4c\u300cBRIGHTEST STARS!!\u300d",
-        "url": "https://open.spotify.com/album/5Ctyhj2QjC7DhCikMYdrNt"
+        "name": "Switch\u300cWish upon a MUSIC!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/5AZolT2qgm76KwEncevfgK"
       },
       "artists": [
         {
-          "name": "ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/4MCDJV5XahmKPes1Ccc7YO"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK"
         },
         {
           "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
           "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
-      "duration_ms": 188639,
-      "name": "BRIGHTEST STARS!! (ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba ver.)",
-      "url": "https://open.spotify.com/track/6goODWB6IHzU96zSBLZEbf"
+      "duration_ms": 219170,
+      "name": "Wish upon a MUSIC!!",
+      "url": "https://open.spotify.com/track/5OlrGFzpu4cCfPZF0voF2b"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -743,6 +723,26 @@
       "duration_ms": 227477,
       "name": "OVERFLOW LIGHT UP!!!!!",
       "url": "https://open.spotify.com/track/2w9L5XKjmscu51QsSmimOb"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01Bright me up!!\u300f\u30a2\u30d7\u30ea\u4e3b\u984c\u6b4c\u300cBRIGHTEST STARS!!\u300d",
+        "url": "https://open.spotify.com/album/5Ctyhj2QjC7DhCikMYdrNt"
+      },
+      "artists": [
+        {
+          "name": "ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/4MCDJV5XahmKPes1Ccc7YO"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 188639,
+      "name": "BRIGHTEST STARS!! (ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba ver.)",
+      "url": "https://open.spotify.com/track/6goODWB6IHzU96zSBLZEbf"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u5927\u795e \u6643\u7259\u300cSCAB\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/5gMJg7a3uezBjYUweV4rBz"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u795e \u6643\u7259(CV.\u5c0f\u91ce \u53cb\u6a39)",
-          "url": "https://open.spotify.com/artist/1M6bWEqikQdJtnFb0sxjTu"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 208201,
-      "name": "SCAB",
-      "url": "https://open.spotify.com/track/5anTMMp6mxWV8lkhSnM6Gg"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u98a8\u65e9 \u5dfd\u300c\u4e16\u754c\u306e\u7247\u9685\u304b\u3089\u541b\u3078\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
         "url": "https://open.spotify.com/album/51fUEWprZ7HCEqoDmzVz5o"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 214749,
       "name": "\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b",
       "url": "https://open.spotify.com/track/2clRZ276jPbCuE9kedTkxX"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u5927\u795e \u6643\u7259\u300cSCAB\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/5gMJg7a3uezBjYUweV4rBz"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u795e \u6643\u7259(CV.\u5c0f\u91ce \u53cb\u6a39)",
+          "url": "https://open.spotify.com/artist/1M6bWEqikQdJtnFb0sxjTu"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 208201,
+      "name": "SCAB",
+      "url": "https://open.spotify.com/track/5anTMMp6mxWV8lkhSnM6Gg"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
-        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
-      },
-      "artists": [
-        {
-          "name": "\u702c\u540d\u6cc9(CV.\u4f0a\u85e4\u30de\u30b5\u30df)",
-          "url": "https://open.spotify.com/artist/1dU0QhfWX3xNS0HYugINlY"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Ironic Blue",
-      "url": "https://open.spotify.com/track/3lFRXoGPlpHoaUyWiH6SwK"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (vol.02)",
         "url": "https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 206933,
       "name": "Crush of Judgment",
       "url": "https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+      },
+      "artists": [
+        {
+          "name": "\u702c\u540d\u6cc9(CV.\u4f0a\u85e4\u30de\u30b5\u30df)",
+          "url": "https://open.spotify.com/artist/1dU0QhfWX3xNS0HYugINlY"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Ironic Blue",
+      "url": "https://open.spotify.com/track/3lFRXoGPlpHoaUyWiH6SwK"
     },
     {
       "added_at": "2026-04-21 15:00:41",

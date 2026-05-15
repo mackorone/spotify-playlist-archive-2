@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1122354,
+  "num_followers": 1122238,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Canci\u00f3n Animal (Remastered)",
-        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 226920,
-      "name": "Sueles Dejarme Solo - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/51M33m6vHnkJ9SJPES3Lu4"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 206240,
       "name": "Milonga del marinero y el capit\u00e1n",
       "url": "https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 226920,
+      "name": "Sueles Dejarme Solo - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/51M33m6vHnkJ9SJPES3Lu4"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Mensajes Del Alma",
-        "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
+        "name": "Seru Giran 92",
+        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
         }
       ],
-      "duration_ms": 362240,
-      "name": "Los Salieris De Charly",
-      "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
+      "duration_ms": 238400,
+      "name": "Nos Veremos Otra Vez",
+      "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Seru Giran 92",
-        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
+        "name": "Mensajes Del Alma",
+        "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
       },
       "artists": [
         {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Nos Veremos Otra Vez",
-      "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
+      "duration_ms": 362240,
+      "name": "Los Salieris De Charly",
+      "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
     },
     {
       "added_at": "2024-11-11 16:58:11",

@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 125183,
+  "num_followers": 125191,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAC+RA2W4OcAiGftmUmityJf",
+  "snapshot_id": "agO/AAAAAADKIYgMzBJety9KRD6IEn2i",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baker's Holiday",
         "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 197426,
       "name": "That Ole Devil Called Love",
       "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3"
     },
     {
       "added_at": null,

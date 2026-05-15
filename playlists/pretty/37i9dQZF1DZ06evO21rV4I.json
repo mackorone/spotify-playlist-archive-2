@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 172396,
+  "num_followers": 172446,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAB5ywuE8YlNsV4zXslCp9s3",
+  "snapshot_id": "agO/AAAAAACzeT2TNq2i32+DfVd+eVC+",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 174253,
       "name": "Bad Girl (feat. Asake)",
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
     },
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Energy (Stay Far Away)",
+        "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 199521,
+      "name": "Energy (Stay Far Away)",
+      "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 250685,
       "name": "Sweet One",
       "url": "https://open.spotify.com/track/7BxWEstQxXtjczBE7ErYrE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Energy (Stay Far Away)",
-        "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 199521,
-      "name": "Energy (Stay Far Away)",
-      "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
     },
     {
       "added_at": null,

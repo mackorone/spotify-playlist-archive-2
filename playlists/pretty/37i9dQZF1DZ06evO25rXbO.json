@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1240555,
+  "num_followers": 1240641,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAC5OxaleJDG3JlX3Hv1fGHL",
+  "snapshot_id": "agO/AAAAAADbHOjKNQMt20WdiQx0OyLb",
   "tracks": [
     {
       "added_at": null,
@@ -560,29 +560,21 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Dennis Hopper",
-          "url": "https://open.spotify.com/artist/2Ibi8QzB7uhtYXWtOboAgv"
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
         },
         {
-          "name": "Ajay Prasanna",
-          "url": "https://open.spotify.com/artist/0UcnzmNyNnUpA3RJNoUQ3H"
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
         },
         {
           "name": "Anoushka Shankar",
           "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
-        },
-        {
-          "name": "Amaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
-        },
-        {
-          "name": "Ayaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
         }
       ],
-      "duration_ms": 290621,
-      "name": "The Mountain (feat. Dennis Hopper, Ajay Prasanna, Anoushka Shankar, Amaan Ali Bangash and Ayaan Ali Bangash)",
-      "url": "https://open.spotify.com/track/3MebYJnEDK4XdnCj3VMLjL"
+      "duration_ms": 340874,
+      "name": "The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar)",
+      "url": "https://open.spotify.com/track/5FH7DTLl8WQNkZs00Cb3EM"
     },
     {
       "added_at": null,
@@ -792,13 +784,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 180973,
-      "name": "The Valley of The Pagans (feat. Beck)",
-      "url": "https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp"
+      "duration_ms": 333053,
+      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
+      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
     },
     {
       "added_at": null,
@@ -864,13 +856,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 333053,
-      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
-      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
+      "duration_ms": 180973,
+      "name": "The Valley of The Pagans (feat. Beck)",
+      "url": "https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp"
     },
     {
       "added_at": null,

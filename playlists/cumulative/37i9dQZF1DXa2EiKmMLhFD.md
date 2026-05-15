@@ -2,9 +2,9 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari enau, Ari Lesmana, BTS, Sal Priadi, Bruno Mars serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari enau, Ari Lesmana, Idigtaf, Sal Priadi, Bruno Mars serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-388 songs - 1 day 0 hr 2 min
+389 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aku Yang Jatuh Cinta](https://open.spotify.com/track/2JqsSFo6HqOxnmxBtHfNY6) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Aku Yang Jatuh Cinta](https://open.spotify.com/album/3JyJQxbVR1nCUdNn1aXYTX) | 3:16 | 2024-05-23 | 2025-03-22 |
 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 | 2025-10-06 |  |
 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 | 2023-04-20 | 2024-02-21 |
-| [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-05 |  |
+| [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-05 | 2026-05-15 |
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2023-03-30 | 2024-02-21 |
 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 | 2025-03-21 | 2025-06-06 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-03-23 | 2023-05-13 |
@@ -374,6 +374,7 @@
 | [Trauma](https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p) | [Trauma](https://open.spotify.com/album/6H3lJJCLJjrKAKfm7KaE3Z) | 3:38 | 2023-08-03 | 2024-02-27 |
 | [Trauma](https://open.spotify.com/track/6bOW2X3ffFoOpMfDoz91Q6) | [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p), [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk) | [Trauma](https://open.spotify.com/album/6X4KUt8RZEuJnlXXX04JC9) | 3:38 | 2023-06-01 | 2023-08-04 |
 | [Tresno Tekan Mati New Version \- Remastered 2023](https://open.spotify.com/track/5JJ6JB7fKygWoKAcBZKxNo) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \(New Version\)](https://open.spotify.com/album/5rjrUoQokVq8SKhvhatF2U) | 4:31 | 2025-01-24 | 2025-03-22 |
+| [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2026-05-15 |  |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-10-16 | 2025-06-14 |
 | [Tunjukkan Cintamu](https://open.spotify.com/track/3ScPXAJUcWHeJFuY1PC1Cc) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Tunjukkan Cintamu](https://open.spotify.com/album/471UN0LAKx502jYoNdmaaD) | 2:19 | 2024-02-20 | 2024-05-17 |
 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 | 2023-03-23 | 2023-06-28 |

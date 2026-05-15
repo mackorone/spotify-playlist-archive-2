@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1193561,
+  "num_followers": 1193700,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-05-08 06:00:38",
       "album": {
-        "name": "Diva (Platinum Edition)",
-        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
-    },
-    {
-      "added_at": "2026-05-08 06:00:38",
-      "album": {
         "name": "Me Reclama",
         "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 187492,
       "name": "Me Reclama",
       "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
+    },
+    {
+      "added_at": "2026-05-08 06:00:38",
+      "album": {
+        "name": "Diva (Platinum Edition)",
+        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
     },
     {
       "added_at": "2026-05-08 06:00:38",
@@ -819,42 +819,6 @@
     {
       "added_at": "2026-05-08 06:00:38",
       "album": {
-        "name": "LATINA FOREVA",
-        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "LATINA FOREVA",
-      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
-    },
-    {
-      "added_at": "2026-05-08 06:00:38",
-      "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "TOMMY & PAMELA",
-      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
-    },
-    {
-      "added_at": "2026-05-08 06:00:38",
-      "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
       },
@@ -883,6 +847,42 @@
       "duration_ms": 249520,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "added_at": "2026-05-08 06:00:38",
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "TOMMY & PAMELA",
+      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
+    },
+    {
+      "added_at": "2026-05-08 06:00:38",
+      "album": {
+        "name": "LATINA FOREVA",
+        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 159452,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
     },
     {
       "added_at": "2026-05-08 06:00:38",
@@ -1579,42 +1579,6 @@
     {
       "added_at": "2026-05-08 06:00:38",
       "album": {
-        "name": "La Hermandad",
-        "url": "https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK"
-      },
-      "artists": [
-        {
-          "name": "La Vendicion",
-          "url": "https://open.spotify.com/artist/0Yp8VHUZMjHleknMfdBsyh"
-        },
-        {
-          "name": "La Obsesion",
-          "url": "https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y"
-        },
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        },
-        {
-          "name": "Novato El Flow",
-          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
-        },
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        },
-        {
-          "name": "Viglezz",
-          "url": "https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "YA NO SIENTO NADA",
-      "url": "https://open.spotify.com/track/2MFrGeRWUnIsZpSkoGn2N5"
-    },
-    {
-      "added_at": "2026-05-08 06:00:38",
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -1655,6 +1619,42 @@
       "duration_ms": 234103,
       "name": "QU\u00cdTENME EL TEL\u00c9FONO (feat. Yandel, Jay Wheeler)",
       "url": "https://open.spotify.com/track/41XmmKJHx1ZAH0Iykgjxfx"
+    },
+    {
+      "added_at": "2026-05-08 06:00:38",
+      "album": {
+        "name": "La Hermandad",
+        "url": "https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK"
+      },
+      "artists": [
+        {
+          "name": "La Vendicion",
+          "url": "https://open.spotify.com/artist/0Yp8VHUZMjHleknMfdBsyh"
+        },
+        {
+          "name": "La Obsesion",
+          "url": "https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Novato El Flow",
+          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
+        },
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Viglezz",
+          "url": "https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "YA NO SIENTO NADA",
+      "url": "https://open.spotify.com/track/2MFrGeRWUnIsZpSkoGn2N5"
     },
     {
       "added_at": "2026-05-08 06:00:38",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2026-05-08 06:00:38",
       "album": {
-        "name": "THANK YOU BB",
-        "url": "https://open.spotify.com/album/0unKULX7KuJFIwyXGm6DRa"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "THANK YOU BB",
-      "url": "https://open.spotify.com/track/5AmmZXncdHhO7FGPIL6Vm8"
-    },
-    {
-      "added_at": "2026-05-08 06:00:38",
-      "album": {
         "name": "Guay",
         "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
       },
@@ -1795,22 +1775,22 @@
     {
       "added_at": "2026-05-08 06:00:38",
       "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+        "name": "THANK YOU BB",
+        "url": "https://open.spotify.com/album/0unKULX7KuJFIwyXGm6DRa"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         },
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 203529,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/3G0KI415vuf6TJ2YWA73S3"
+      "duration_ms": 206666,
+      "name": "THANK YOU BB",
+      "url": "https://open.spotify.com/track/5AmmZXncdHhO7FGPIL6Vm8"
     },
     {
       "added_at": "2026-05-08 06:00:38",
@@ -1831,6 +1811,26 @@
       "duration_ms": 215172,
       "name": "PICARD\u00cdA",
       "url": "https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF"
+    },
+    {
+      "added_at": "2026-05-08 06:00:38",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 203529,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/3G0KI415vuf6TJ2YWA73S3"
     },
     {
       "added_at": "2026-05-08 06:00:38",
@@ -1875,38 +1875,6 @@
     {
       "added_at": "2026-05-08 06:00:38",
       "album": {
-        "name": "Pa las girlas (con DJ Urba) [Remix]",
-        "url": "https://open.spotify.com/album/74nPXmgXFFSdwKsX0Ty6c9"
-      },
-      "artists": [
-        {
-          "name": "Mattei",
-          "url": "https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "DJ Urba",
-          "url": "https://open.spotify.com/artist/0F0qHLgO0rPrxKUjv19N7z"
-        }
-      ],
-      "duration_ms": 260254,
-      "name": "Pa las girlas (con DJ Urba) - Remix",
-      "url": "https://open.spotify.com/track/2kvSCKwcdYB8CaBoZm7sa9"
-    },
-    {
-      "added_at": "2026-05-08 06:00:38",
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -1943,6 +1911,38 @@
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
+    },
+    {
+      "added_at": "2026-05-08 06:00:38",
+      "album": {
+        "name": "Pa las girlas (con DJ Urba) [Remix]",
+        "url": "https://open.spotify.com/album/74nPXmgXFFSdwKsX0Ty6c9"
+      },
+      "artists": [
+        {
+          "name": "Mattei",
+          "url": "https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "DJ Urba",
+          "url": "https://open.spotify.com/artist/0F0qHLgO0rPrxKUjv19N7z"
+        }
+      ],
+      "duration_ms": 260254,
+      "name": "Pa las girlas (con DJ Urba) - Remix",
+      "url": "https://open.spotify.com/track/2kvSCKwcdYB8CaBoZm7sa9"
     },
     {
       "added_at": "2026-05-08 06:00:38",
@@ -2047,30 +2047,6 @@
     {
       "added_at": "2026-05-08 06:00:38",
       "album": {
-        "name": "Persia (Remix)",
-        "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        },
-        {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
-        },
-        {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
-        }
-      ],
-      "duration_ms": 250906,
-      "name": "Persia - Remix",
-      "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
-    },
-    {
-      "added_at": "2026-05-08 06:00:38",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -2119,6 +2095,30 @@
       "duration_ms": 164455,
       "name": "\u00d1ero Session 23",
       "url": "https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G"
+    },
+    {
+      "added_at": "2026-05-08 06:00:38",
+      "album": {
+        "name": "Persia (Remix)",
+        "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Persia - Remix",
+      "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
     },
     {
       "added_at": "2026-05-08 06:00:38",

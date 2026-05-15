@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 103579,
+  "num_followers": 103592,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,26 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
+        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 252720,
+      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
+      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "The Sound / How To Play Our Music",
         "url": "https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 408404,
       "name": "The Sound - Extended Mix",
       "url": "https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
-        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 252720,
-      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
-      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Faith, Hope & Clarity",
-        "url": "https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7"
-      },
-      "artists": [
-        {
-          "name": "The Reese Project",
-          "url": "https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d"
-        }
-      ],
-      "duration_ms": 346413,
-      "name": "The Color of Love - Reese Deep Mix",
-      "url": "https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Tronic D",
         "url": "https://open.spotify.com/album/5cPdg1ikgGzGbaqYU5MFBe"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 467520,
       "name": "A Cocktail or Two",
       "url": "https://open.spotify.com/track/5A5Y2BrzLzZ5NIZp4nze0z"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Faith, Hope & Clarity",
+        "url": "https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7"
+      },
+      "artists": [
+        {
+          "name": "The Reese Project",
+          "url": "https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d"
+        }
+      ],
+      "duration_ms": 346413,
+      "name": "The Color of Love - Reese Deep Mix",
+      "url": "https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Legendary Adventures Of A Filter King",
-        "url": "https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6"
-      },
-      "artists": [
-        {
-          "name": "69",
-          "url": "https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg"
-        }
-      ],
-      "duration_ms": 387371,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 341106,
       "name": "Tedra",
       "url": "https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Legendary Adventures Of A Filter King",
+        "url": "https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6"
+      },
+      "artists": [
+        {
+          "name": "69",
+          "url": "https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg"
+        }
+      ],
+      "duration_ms": 387371,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/505rV6smETxuNFTgRphph7"
-      },
-      "artists": [
-        {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
-        }
-      ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/4aZXoNpqXVZ8tAyoaLNrPh"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 383706,
       "name": "Q",
       "url": "https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/505rV6smETxuNFTgRphph7"
+      },
+      "artists": [
+        {
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+        }
+      ],
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/4aZXoNpqXVZ8tAyoaLNrPh"
     },
     {
       "added_at": "2025-08-29 04:00:36",

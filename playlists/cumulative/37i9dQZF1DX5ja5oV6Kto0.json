@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "MEGAPHUNK",
+        "url": "https://open.spotify.com/album/4aPlsCZksh87iYXvqQCUKb"
+      },
+      "artists": [
+        {
+          "name": "3CB",
+          "url": "https://open.spotify.com/artist/5jVohQzVOMNwP5ao5J1vk5"
+        },
+        {
+          "name": "Luwa.Mp4",
+          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112116,
+      "name": "4 LIF3",
+      "url": "https://open.spotify.com/track/6ln56LeB7NsVaeCiS4t5lL"
+    },
+    {
+      "album": {
         "name": "Make E No Cause Fight 3",
         "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
       },
@@ -1042,7 +1064,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 166384,
       "name": "Almost Famous",
       "url": "https://open.spotify.com/track/4h58Iqv6QvNAasM5ePA2or"
@@ -6138,7 +6160,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 211636,
       "name": "Emefa's Revenge",
       "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
@@ -7224,7 +7246,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 168000,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/2bbMeEUhF9uiFSONDUBMWr"
@@ -7780,6 +7802,28 @@
       "duration_ms": 253685,
       "name": "Gone Girl",
       "url": "https://open.spotify.com/track/5InfSqyrnWkRMvrynG52I6"
+    },
+    {
+      "album": {
+        "name": "Gorilla",
+        "url": "https://open.spotify.com/album/4a0B0u4XNJ80uqh3k7lmKf"
+      },
+      "artists": [
+        {
+          "name": "BANTU",
+          "url": "https://open.spotify.com/artist/2FIlpbCgw3KsywBZzuPU1H"
+        },
+        {
+          "name": "Jesse Jagz",
+          "url": "https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249812,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/4aVaZe9w1fWrGERmJKPzsk"
     },
     {
       "album": {
@@ -14759,6 +14803,28 @@
     },
     {
       "album": {
+        "name": "Out The Mud",
+        "url": "https://open.spotify.com/album/2zUbYr0EsC9FcatnR2AT3A"
+      },
+      "artists": [
+        {
+          "name": "Kwartengg",
+          "url": "https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194307,
+      "name": "Out The Mud",
+      "url": "https://open.spotify.com/track/0ew3fsc3ljIZlb46OeTKJs"
+    },
+    {
+      "album": {
         "name": "OUTSIDE",
         "url": "https://open.spotify.com/album/2cx1ovrveOy0Av1WTMfek1"
       },
@@ -15264,7 +15330,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 194400,
       "name": "Phenomenal",
       "url": "https://open.spotify.com/track/4k0UPBR76jiRbErJ7ZHbnB"
@@ -19328,6 +19394,28 @@
       "duration_ms": 178003,
       "name": "SUV",
       "url": "https://open.spotify.com/track/2PeErwVrlNWQe9rUuNH7CN"
+    },
+    {
+      "album": {
+        "name": "Suya",
+        "url": "https://open.spotify.com/album/6kjoVlKVnGyOuAolftBJks"
+      },
+      "artists": [
+        {
+          "name": "Gloccboy",
+          "url": "https://open.spotify.com/artist/7IdFjpPARqjAqn2as4AUFQ"
+        },
+        {
+          "name": "dayo",
+          "url": "https://open.spotify.com/artist/3cRMY8ZYaVkHbKyR0aCt5Q"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141834,
+      "name": "Suya",
+      "url": "https://open.spotify.com/track/7tyyz6kEEoazUPEu11j4Fh"
     },
     {
       "album": {

@@ -1,13 +1,45 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Societeit de Harmonie, Natasya Elvira",
-  "num_followers": 115060,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: gabsav",
+  "num_followers": 115071,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLp0ihaSIDBMT8eZdwd29G/9Ril",
+  "snapshot_id": "AAAAADAuddc0OKwpDoo4HARzNULvTLWR",
   "tracks": [
+    {
+      "added_at": "2026-05-14 18:00:03",
+      "album": {
+        "name": "tangled",
+        "url": "https://open.spotify.com/album/0UIHSmA4B2ykgZ9hSGqegw"
+      },
+      "artists": [
+        {
+          "name": "gabsav",
+          "url": "https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ"
+        }
+      ],
+      "duration_ms": 271500,
+      "name": "tangled",
+      "url": "https://open.spotify.com/track/4ZBaoNXFFIyR2Ce9LdHEYO"
+    },
+    {
+      "added_at": "2026-05-14 18:00:03",
+      "album": {
+        "name": "Lepas Kendali",
+        "url": "https://open.spotify.com/album/6VtQV89IlZM0UlFYkhFNZL"
+      },
+      "artists": [
+        {
+          "name": "Jo Soegono",
+          "url": "https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p"
+        }
+      ],
+      "duration_ms": 190805,
+      "name": "Lepas Kendali",
+      "url": "https://open.spotify.com/track/11LEQn7G7zBIRnZhW3FnDA"
+    },
     {
       "added_at": "2026-04-30 18:00:40",
       "album": {
@@ -27,6 +59,58 @@
       "duration_ms": 187668,
       "name": "Rasa-Rasanya",
       "url": "https://open.spotify.com/track/34lfGTcKx5HUff5WflAtY4"
+    },
+    {
+      "added_at": "2026-05-14 18:00:03",
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/1a0V8SN1IbXPWMa8ojUgjQ"
+      },
+      "artists": [
+        {
+          "name": "Jundy Salut",
+          "url": "https://open.spotify.com/artist/630LcUjYXp9RxxvnU9fUkP"
+        }
+      ],
+      "duration_ms": 434032,
+      "name": "Migration",
+      "url": "https://open.spotify.com/track/1YKaLjf8T6uct1drEULZ8R"
+    },
+    {
+      "added_at": "2026-05-14 18:00:03",
+      "album": {
+        "name": "Fainted Light",
+        "url": "https://open.spotify.com/album/5KmRjLkfAdzK9dXMIJyBJ6"
+      },
+      "artists": [
+        {
+          "name": "Indra Lesmana",
+          "url": "https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7"
+        },
+        {
+          "name": "Maurice Mobetta Brown",
+          "url": "https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ"
+        }
+      ],
+      "duration_ms": 407910,
+      "name": "Fainted Light",
+      "url": "https://open.spotify.com/track/5XAilDhslmDyV1iCXJAblR"
+    },
+    {
+      "added_at": "2026-05-14 18:00:03",
+      "album": {
+        "name": "Semua Akan Berlalu",
+        "url": "https://open.spotify.com/album/7Cg6rRTHY37AKeBEgE5bYe"
+      },
+      "artists": [
+        {
+          "name": "Avalokiteshvara",
+          "url": "https://open.spotify.com/artist/5maaciTj4rHBn2xOGxcPM2"
+        }
+      ],
+      "duration_ms": 209892,
+      "name": "Semua Akan Berlalu",
+      "url": "https://open.spotify.com/track/37AQUaxHCyCpdMV53BWrLX"
     },
     {
       "added_at": "2026-04-30 18:00:40",
@@ -573,22 +657,6 @@
       "url": "https://open.spotify.com/track/6p12a8y5vpkcp7PZa8FFvo"
     },
     {
-      "added_at": "2025-10-10 03:51:13",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/1S4NVEP5rW8KI2PoRQ4oQi"
-      },
-      "artists": [
-        {
-          "name": "Eddy Syakroni",
-          "url": "https://open.spotify.com/artist/0Wr9S2380PfX0wC3OTmTmX"
-        }
-      ],
-      "duration_ms": 221877,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/2ioFniiBnm3HeMji8iHBx7"
-    },
-    {
       "added_at": "2025-10-09 17:00:21",
       "album": {
         "name": "Trouble",
@@ -799,22 +867,6 @@
     {
       "added_at": "2025-07-17 17:28:37",
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/4Hb05ZxIwiPsWUSPqA8WI3"
-      },
-      "artists": [
-        {
-          "name": "Aditya Ong Trio",
-          "url": "https://open.spotify.com/artist/4kkP9EmggHO2TIDcSOOZI4"
-        }
-      ],
-      "duration_ms": 300999,
-      "name": "World : Against, Changed, Educate",
-      "url": "https://open.spotify.com/track/6B1tdAqKADoEdn9Y4q9ulj"
-    },
-    {
-      "added_at": "2025-07-17 17:28:37",
-      "album": {
         "name": "As Falsas",
         "url": "https://open.spotify.com/album/1wXWG6BuyyS9oQMHMvSg9t"
       },
@@ -887,26 +939,6 @@
       "duration_ms": 199875,
       "name": "From Friendship to Lovers",
       "url": "https://open.spotify.com/track/36rsfY9ByznHgeKPucXBQH"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Snakes & Ladders",
-        "url": "https://open.spotify.com/album/3YZtiYIwDMveS0c7M4zWSO"
-      },
-      "artists": [
-        {
-          "name": "Littlefingers",
-          "url": "https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU"
-        },
-        {
-          "name": "Emma Volard",
-          "url": "https://open.spotify.com/artist/2dNnJIEECfh07bv1jwmfTL"
-        }
-      ],
-      "duration_ms": 258510,
-      "name": "Essence",
-      "url": "https://open.spotify.com/track/43P2BUpH7mWjOx9nLZpC8C"
     },
     {
       "added_at": "2025-06-26 17:47:30",
@@ -1219,22 +1251,6 @@
       "duration_ms": 170700,
       "name": "Fly Me To The Moon (From \"Fly Me To The Moon\" Movie)",
       "url": "https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Perasa",
-        "url": "https://open.spotify.com/album/6aOJTpyar68TCZy6XAZ65i"
-      },
-      "artists": [
-        {
-          "name": "Satrio Rachmadi",
-          "url": "https://open.spotify.com/artist/6ijmsL08ScEX44davlIGV5"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Tanya",
-      "url": "https://open.spotify.com/track/2OF4WQCcU0j99WWVjyj9UL"
     },
     {
       "added_at": "2025-06-26 17:47:30",
@@ -1631,34 +1647,6 @@
       "duration_ms": 264340,
       "name": "Love In Peace",
       "url": "https://open.spotify.com/track/3BguNO1FHJs4KRqNp1hC2K"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Some Of My Best Friends Are Jazz Cats!",
-        "url": "https://open.spotify.com/album/5BB5CTtsdEqsPTIZE3b1zu"
-      },
-      "artists": [
-        {
-          "name": "Dua Empat",
-          "url": "https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L"
-        },
-        {
-          "name": "Hansen Arief",
-          "url": "https://open.spotify.com/artist/7446uGOrQeWwCLpw4L6DHA"
-        },
-        {
-          "name": "Joshua Alexander",
-          "url": "https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr"
-        },
-        {
-          "name": "Audrey Wijaya",
-          "url": "https://open.spotify.com/artist/3cFklqULuJyxg1gu8u2XlW"
-        }
-      ],
-      "duration_ms": 297600,
-      "name": "Destination Moon",
-      "url": "https://open.spotify.com/track/6ZcfZ8dyYySA6xXdykEItF"
     },
     {
       "added_at": "2025-06-26 17:47:30",

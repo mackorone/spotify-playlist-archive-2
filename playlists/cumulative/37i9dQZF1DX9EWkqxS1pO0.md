@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Umur Erdem
 
-399 songs - 20 hr 23 min
+400 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Beni de Kendine Benzettin](https://open.spotify.com/track/2ZbYaf7AzESGpVd3yjcKeD) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Beni de Kendine Benzettin](https://open.spotify.com/album/4FrcDo79Wu0sZkhPPnOw6F) | 2:58 | 2024-08-08 | 2024-10-10 |
 | [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 | 2024-06-20 | 2025-03-01 |
 | [Beni Seviyo](https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP) | [Alara Serena](https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu) | [Beni Seviyo](https://open.spotify.com/album/131EG59oUCxBSezj1EDY11) | 2:41 | 2024-06-20 | 2024-08-09 |
+| [beni şimdi tut](https://open.spotify.com/track/7aiYP5XhEoqgVEJkao1GRo) | [Kasaba](https://open.spotify.com/artist/1ZmmLufXGorZFwKJ4RqQ4S) | [beni şimdi tut](https://open.spotify.com/album/10UmyAXDh5jF4WllGQG2C5) | 5:06 | 2026-05-08 |  |
 | [Beyaz Kum](https://open.spotify.com/track/4RN39GJuWHbuGqA0JmWxzu) | [Centi](https://open.spotify.com/artist/1JNuVpWdpPdriPu7Yatk8O) | [Beyaz Kum](https://open.spotify.com/album/7MlCsMOV18sY50emZpYsEf) | 2:32 | 2025-05-29 | 2025-06-23 |
 | [Beşer](https://open.spotify.com/track/1iw4uB80AAM4dIpc8rcylb) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB) | [Beşer](https://open.spotify.com/album/2KoA1TjuegruChoecNXGWV) | 3:37 | 2025-03-06 | 2025-03-26 |
 | [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-08-29 |  |
@@ -382,7 +383,7 @@
 | [Yunan Heykeli](https://open.spotify.com/track/0ufMlrEZiD9BcHRrFtKM1D) | [Seçil](https://open.spotify.com/artist/1KENVuHY82mq5AaP9fGPqB) | [Yunan Heykeli](https://open.spotify.com/album/0iYe4Y4Iezyp5qFgTRrfeJ) | 2:28 | 2024-12-19 | 2025-03-10 |
 | [Yâr](https://open.spotify.com/track/4Nf2sawApBOhPTGEjkvikS) | [Den Ze](https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY) | [Yâr](https://open.spotify.com/album/1wDvmE3kDUHrU4fhIBioS2) | 3:31 | 2025-03-06 |  |
 | [Zalim](https://open.spotify.com/track/78N3HcoPjz0idDWTxL2IUl) | [Abça](https://open.spotify.com/artist/3yjZOoxgn0zU3JrJbGMSny) | [Zalim](https://open.spotify.com/album/2oufZmDygE7vVqgQ0TImjt) | 4:05 | 2025-09-04 | 2025-11-01 |
-| [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 | 2024-08-01 |  |
+| [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 | 2024-08-01 | 2026-05-15 |
 | [Zamansızdık](https://open.spotify.com/track/7q2LhclL7UGS2yiL6QYRki) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Zamansızdık](https://open.spotify.com/album/6PI0ZfIq5UV3kLlpA5RkXE) | 2:49 | 2025-02-06 |  |
 | [Zifiri Karanlık](https://open.spotify.com/track/06T8BSxEa9WR7lXoLeSCIC) | [Çağın](https://open.spotify.com/artist/7rsySRY2k3zuplBFX14KvT) | [Zifiri Karanlık](https://open.spotify.com/album/38g4DB9QTTvAYOaXRzEuqM) | 2:54 | 2024-11-21 | 2025-03-08 |
 | [Zilli](https://open.spotify.com/track/4UKyuJy0GqMDrcg3IkddDi) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Zilli](https://open.spotify.com/album/0Qjs9wm0hCo0MKA6b8RYnX) | 2:12 | 2025-02-27 | 2025-05-02 |

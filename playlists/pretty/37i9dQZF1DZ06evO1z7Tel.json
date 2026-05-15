@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 39345,
+  "num_followers": 39354,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAAD7DNhTtLMOB9DBOrBemoF+",
+  "snapshot_id": "agO/AAAAAABRBLgigTgZKLGjPaoCrVpV",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "Cielo Azul, Cielo Nublado",
-      "url": "https://open.spotify.com/track/2odo6Lq6sOadOslMxzkGMw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos de Coleccion",
         "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 207673,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/3FJjpxv95LLjQPIVrPhntF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "Cielo Azul, Cielo Nublado",
+      "url": "https://open.spotify.com/track/2odo6Lq6sOadOslMxzkGMw"
     },
     {
       "added_at": null,

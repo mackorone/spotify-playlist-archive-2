@@ -8187,6 +8187,28 @@
     },
     {
       "album": {
+        "name": "If This Is It",
+        "url": "https://open.spotify.com/album/4EQ1QONy2hsmWHFdxOB7gm"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243702,
+      "name": "If This Is It",
+      "url": "https://open.spotify.com/track/71vkCMFohC2QD94tlyIGln"
+    },
+    {
+      "album": {
         "name": "If U Get Lost",
         "url": "https://open.spotify.com/album/1fmQ63djQBOt6M2XscCL1D"
       },
@@ -13746,6 +13768,24 @@
       "duration_ms": 166158,
       "name": "PLACE IN MY MIND (feat. shy martin)",
       "url": "https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N"
+    },
+    {
+      "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/3OaGy8eYfBTE8QQO3PyZbu"
+      },
+      "artists": [
+        {
+          "name": "Estremo",
+          "url": "https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250781,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/1yWRP5rFvqJwsEFO6jgYxp"
     },
     {
       "album": {

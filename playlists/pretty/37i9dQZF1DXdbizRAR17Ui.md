@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,887 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,901 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 15 | [at the wheel](https://open.spotify.com/track/7DGHxfw67pmv0mX6bqd4hP) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [at the wheel](https://open.spotify.com/album/3ErLSH0Zm5mNXftzdBn0WV) | 2:41 |
 | 16 | [Alone](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Alone](https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh) | 2:57 |
 | 17 | [The Path Less Travelled](https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 3:44 |
-| 18 | [More To Life](https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [More To Life](https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm) | 3:24 |
-| 19 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
+| 18 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
+| 19 | [More To Life](https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [More To Life](https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm) | 3:24 |
 | 20 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 21 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Eric Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
 | 22 | [Dance With Me](https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [Dance With Me](https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0) | 3:21 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 35 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 | 36 | [ineedu](https://open.spotify.com/track/5v35hxyNPToBxF5vx737U8) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [ineedu](https://open.spotify.com/album/4CSGs0uGFhhmXsXOa4s2ms) | 2:25 |
 | 37 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |
-| 38 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 |
-| 39 | [STOP \(what if you fly?\)](https://open.spotify.com/track/4SWxEClkfSvYJcaJmoJByj) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [STOP \(what if you fly?\)](https://open.spotify.com/album/4eMJ14ilC3DC0CjIJaJJFR) | 3:17 |
+| 38 | [STOP \(what if you fly?\)](https://open.spotify.com/track/4SWxEClkfSvYJcaJmoJByj) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [STOP \(what if you fly?\)](https://open.spotify.com/album/4eMJ14ilC3DC0CjIJaJJFR) | 3:17 |
+| 39 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 |
 | 40 | [All My Friends](https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [All My Friends](https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco) | 3:20 |
 | 41 | [SOLD MY SOUL](https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [SOLD MY SOUL](https://open.spotify.com/album/61bHizZ5lcUniZrI15U7WW) | 3:19 |
 | 42 | [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 |

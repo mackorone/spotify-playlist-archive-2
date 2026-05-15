@@ -4,7 +4,7 @@
 
 > Songs from LGBTQIA+ artists\. Cover: JJ
 
-1,801 songs - 4 day 1 hr 38 min
+1,803 songs - 4 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Aladim](https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Aladim](https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj) | 2:25 | 2023-09-12 | 2023-09-26 |
 | [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck) | [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If) | 2:21 | 2022-10-07 | 2022-12-01 |
 | [Alien Cowboy](https://open.spotify.com/track/56nZzIw3sUhEgXfQlAeYAh) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Alien Cowboy](https://open.spotify.com/album/37ZKOlHdhP8r4LyHRqXka3) | 2:50 | 2025-02-11 | 2025-03-12 |
+| [Alineación Antelada](https://open.spotify.com/track/0tWRaJmrTk5HyPelnNpG8P) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Alineación Antelada](https://open.spotify.com/album/25IzTYcDzNw43oUrJYIdYw) | 2:48 | 2026-05-15 |  |
 | [Alinhamento Milenar](https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:21 | 2024-03-12 | 2024-04-10 |
 | [All Eyes On The Revolution](https://open.spotify.com/track/2XKTrFzgr9pAV89oGpiUqC) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [All Eyes On The Revolution](https://open.spotify.com/album/4KbRV9iJNt4JeWty6F9MqN) | 3:20 | 2023-03-07 | 2023-04-01 |
 | [All For Love](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [All For Love](https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX) | 2:46 | 2023-06-01 | 2024-01-11 |
@@ -144,7 +145,7 @@
 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 | 2022-11-30 | 2023-01-25 |
 | [Baggage](https://open.spotify.com/track/1mQN7wV7P7UTzLhpBhOOZ2) | [Autumn Nicholas](https://open.spotify.com/artist/4WBJACqzmZ1BkWHyyPbRJ6) | [Baggage](https://open.spotify.com/album/6gvLq9TwxePLHCVcAyB6lH) | 2:58 | 2024-04-09 | 2024-06-06 |
 | [BAILE NO RXOTA](https://open.spotify.com/track/3ll1oyrd95gYrzerOoBDod) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Gambiarra Chic, Pt\. 2](https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi) | 3:35 | 2025-06-05 | 2025-07-09 |
-| [Ballerina](https://open.spotify.com/track/4e7vjOrdM6uMm9tRZQA414) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Ballerina](https://open.spotify.com/album/7aAuZXSEFbOa9reM4U7eX7) | 3:43 | 2026-04-10 |  |
+| [Ballerina](https://open.spotify.com/track/4e7vjOrdM6uMm9tRZQA414) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Ballerina](https://open.spotify.com/album/7aAuZXSEFbOa9reM4U7eX7) | 3:43 | 2026-04-10 | 2026-05-15 |
 | [Bamboo](https://open.spotify.com/track/7aJGnriGYMhFONUgC4yDFh) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Bamboo](https://open.spotify.com/album/5nbiNNINR828Q0QWmZ0pxK) | 4:50 | 2022-01-28 | 2022-07-14 |
 | [band practice](https://open.spotify.com/track/5oGw5Q8f87PPAo4bNYJvly) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Pulp](https://open.spotify.com/album/2TaGJWosHw4FfLOV560vuK) | 3:56 | 2025-08-12 | 2025-11-12 |
 | [Bandiera Bianca \(feat\. Schiuma\)](https://open.spotify.com/track/4OuN0P20LGrI0glXatZqTs) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt), [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Bandiera Bianca \(feat\. Schiuma\)](https://open.spotify.com/album/0etE8FFEYUrvMnxDKNohy9) | 2:54 | 2024-01-10 | 2024-02-14 |
@@ -1643,6 +1644,7 @@
 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 | 2025-05-16 | 2025-08-13 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-11-30 | 2024-01-11 |
 | [Universo](https://open.spotify.com/track/3jEB4jnVr3ExApgjlPI21c) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Universo](https://open.spotify.com/album/3cW83FmkNbfV2vUBF0teDH) | 3:15 | 2023-09-12 | 2023-10-11 |
+| [Unknown](https://open.spotify.com/track/3Cx5IpdNPOwWI4NLhxqu1a) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Into the Unknown](https://open.spotify.com/album/4699kse7rNREr17U1DCubS) | 2:57 | 2026-05-15 |  |
 | [unruly](https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [unruly](https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT) | 2:24 | 2024-06-12 | 2024-06-27 |
 | [Untidy Creature](https://open.spotify.com/track/5iFAQbY63p9Wbpc8XGU84a) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Untidy Creature](https://open.spotify.com/album/7iB1U6TK6DtjX7Jt69SEPB) | 3:28 | 2024-01-10 | 2024-03-13 |
 | [Urban Legend](https://open.spotify.com/track/11PgMaGaPDVfitNJqH5lzm) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Urban Legend](https://open.spotify.com/album/3CzL5fWwa4XO0rL3K6pU7w) | 2:56 | 2025-12-03 | 2026-01-15 |
@@ -1712,7 +1714,7 @@
 | [WHY SO SENSITIVE?](https://open.spotify.com/track/03wFiQ9QKoTtmAgQ2tNsQx) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [Vol\. 2 If You Don't Laugh, You'll Cry](https://open.spotify.com/album/7N14Rkinb2eJlvV2URn46A) | 2:39 | 2026-03-17 | 2026-05-12 |
 | [wiggy](https://open.spotify.com/track/1jwXn7H1UDANmEvw6bfDr6) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:24 | 2024-12-04 | 2025-05-14 |
 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 | 2023-07-25 | 2023-09-13 |
-| [WILLOW](https://open.spotify.com/track/76WojoiVDSps8cOeryX2mV) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [HEARTLAND \(Deluxe Version\)](https://open.spotify.com/album/5GypL86F6MPlTnrPbc04AL) | 3:01 | 2026-03-10 |  |
+| [WILLOW](https://open.spotify.com/track/76WojoiVDSps8cOeryX2mV) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [HEARTLAND \(Deluxe Version\)](https://open.spotify.com/album/5GypL86F6MPlTnrPbc04AL) | 3:01 | 2026-03-10 | 2026-05-15 |
 | [Winston Red](https://open.spotify.com/track/4ZMcZU0dHJXXefaVrvWLb1) | [Maura Margol](https://open.spotify.com/artist/0LP7cT2bJGCveprlbSA48j) | [Winston Red](https://open.spotify.com/album/1OVx6jRXXAy1YKyNqcb6lW) | 2:58 | 2026-02-10 | 2026-03-11 |
 | [Wish That I Could Tell Me](https://open.spotify.com/track/2KIaV1i6atL8QHTGNhhPHu) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [Wish That I Could Tell Me](https://open.spotify.com/album/2BgA7q06Jq8dgK9bphiBsm) | 4:09 | 2023-03-07 | 2023-04-01 |
 | [Wishes](https://open.spotify.com/track/203two1At4kMewDcqlWMEv) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Wishes](https://open.spotify.com/album/0H827J0CQa5apQsW5xcc0M) | 3:05 | 2023-06-01 | 2023-07-12 |

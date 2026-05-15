@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jang Soo Bin(\uc7a5\uc218\ube48))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Kuonechan(\uad6c\uc6d0\ucc2c))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 168374,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/7hC8QyyY9RqvgBUDAFf39R"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 194754,
       "name": "Chocolate Baby",
       "url": "https://open.spotify.com/track/7jfdsPSaIFH9B9NDrMfwhP"
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 165646,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1ztEBbjfuyvOnJ0lEdre3e"
@@ -2971,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/29tlrQQCnBGwX6YwUgR3xw"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194625,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/2KVIe3JZWBKj8lUvicHERa"
+    },
+    {
+      "album": {
         "name": "dlTwksgdk",
         "url": "https://open.spotify.com/album/6qC7XYjWzqYmdLjjtzTmNB"
       },
@@ -3308,6 +3326,24 @@
       "duration_ms": 183125,
       "name": "easy love",
       "url": "https://open.spotify.com/track/41DVmQcacIUuujHOUyZwRQ"
+    },
+    {
+      "album": {
+        "name": "echo / dark k-pop",
+        "url": "https://open.spotify.com/album/32PeIolYQtbCd5WGEc3fpx"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154287,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/3EY9EQ8Kmk5QLrviXMc77V"
     },
     {
       "album": {
@@ -4593,6 +4629,24 @@
     },
     {
       "album": {
+        "name": "HATE",
+        "url": "https://open.spotify.com/album/0jUfuFRVWVwptdpGlOm3I5"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "HATE",
+      "url": "https://open.spotify.com/track/1278Ufm0ord3EY1Kmwj9Gs"
+    },
+    {
+      "album": {
         "name": "Emotional Train",
         "url": "https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59"
       },
@@ -4670,7 +4724,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 212349,
       "name": "Have I Asked You",
       "url": "https://open.spotify.com/track/6ntNYbDZwSmYiQAaqTYo01"
@@ -5267,6 +5321,24 @@
     },
     {
       "album": {
+        "name": "I Like You",
+        "url": "https://open.spotify.com/album/44HkHTwWNpy6GQNRbCMUmn"
+      },
+      "artists": [
+        {
+          "name": "E.ul",
+          "url": "https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158555,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/1jOak5evUCcD9YQqzi3Hkd"
+    },
+    {
+      "album": {
         "name": "I think of you",
         "url": "https://open.spotify.com/album/1asXPr9rARumSLFN48o7bw"
       },
@@ -5514,6 +5586,24 @@
       "duration_ms": 180000,
       "name": "Is It Fine? (Feat. Cha Woo Joo, Joob A)",
       "url": "https://open.spotify.com/track/0ha7YfBJddjubCa4y9xoug"
+    },
+    {
+      "album": {
+        "name": "Is Loving You a Crime?",
+        "url": "https://open.spotify.com/album/0e5p2EfbP66Uw40dywCOq7"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170412,
+      "name": "Is Loving You a Crime?",
+      "url": "https://open.spotify.com/track/1yUl4saYSE6LTdEMua6pMp"
     },
     {
       "album": {
@@ -6418,7 +6508,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 211083,
       "name": "Lost in Paradise",
       "url": "https://open.spotify.com/track/6tmtcjvQSrE1BNLr287pEj"
@@ -6680,7 +6770,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 263589,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/44EYN37LzbbMWan3rdstuu"
@@ -6876,7 +6966,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 184000,
       "name": "Me, Myself & I",
       "url": "https://open.spotify.com/track/1xvZEUFAyzQcphDpMrjDs9"
@@ -7328,7 +7418,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 185339,
       "name": "NAKED",
       "url": "https://open.spotify.com/track/2a6vMQiclAa0ZcBy6zFn4H"
@@ -8284,7 +8374,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 160586,
       "name": "PATIO",
       "url": "https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP"
@@ -8773,6 +8863,28 @@
     },
     {
       "album": {
+        "name": "REM sleep (Feat. g0nny)",
+        "url": "https://open.spotify.com/album/0t1Bn1aRwsyy8GogimxUyH"
+      },
+      "artists": [
+        {
+          "name": "Kuonechan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265909,
+      "name": "REM sleep (Feat. g0nny)",
+      "url": "https://open.spotify.com/track/50NicUJDfUkXeHcdkAvS5m"
+    },
+    {
+      "album": {
         "name": "Remained scent",
         "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
       },
@@ -8788,6 +8900,32 @@
       "duration_ms": 186755,
       "name": "Remained scent",
       "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
+    },
+    {
+      "album": {
+        "name": "Rest Stop (feat. Gist, JUNE)",
+        "url": "https://open.spotify.com/album/5biZ0WAzvOhF3dCOxHmAoy"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Rest Stop (feat. Gist, JUNE)",
+      "url": "https://open.spotify.com/track/59zW0xXCeITloNERL3ELB4"
     },
     {
       "album": {
@@ -9238,7 +9376,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 145000,
       "name": "SERENADE (feat. Joh!)",
       "url": "https://open.spotify.com/track/526zFinjNDJtpZwbe6EtnW"
@@ -9572,7 +9710,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 195092,
       "name": "Somethin\u2032s True",
       "url": "https://open.spotify.com/track/3KVRvgah5akIezdgLoSviO"
@@ -9870,7 +10008,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 188404,
       "name": "Strawberries & Champagne (feat. Deondre)",
       "url": "https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ"
@@ -10023,6 +10161,28 @@
     },
     {
       "album": {
+        "name": "summer border",
+        "url": "https://open.spotify.com/album/3GTHzjJXhjSG2JV4nPcu3W"
+      },
+      "artists": [
+        {
+          "name": "J.BASS",
+          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
+        },
+        {
+          "name": "sido",
+          "url": "https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145519,
+      "name": "summer border",
+      "url": "https://open.spotify.com/track/4Soxu2ZhWrQR82RRYTglfB"
+    },
+    {
+      "album": {
         "name": "Summer Film",
         "url": "https://open.spotify.com/album/2c3oSnPNFVp5c6mPk4AiDM"
       },
@@ -10060,6 +10220,24 @@
       "duration_ms": 181280,
       "name": "Summer Night (feat. Pat Kiloran)",
       "url": "https://open.spotify.com/track/4NiAxrhROAd0aZ4XkNUDv3"
+    },
+    {
+      "album": {
+        "name": "Summer's Not Over",
+        "url": "https://open.spotify.com/album/2aJNRTu27bAwJVB57PVIaA"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Young",
+          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Summer's Not Over",
+      "url": "https://open.spotify.com/track/3GbhQ6P8bp2L5w41fH8TiB"
     },
     {
       "album": {
@@ -10990,7 +11168,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 188000,
       "name": "unsaid",
       "url": "https://open.spotify.com/track/52KCHvo4qZRGqiu3W7hk17"

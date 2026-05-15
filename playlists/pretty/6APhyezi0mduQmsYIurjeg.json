@@ -1,12 +1,12 @@
 {
   "description": "Submit your song: https:&#x2F;&#x2F;dailyplaylists.com&#x2F;playlists&#x2F;6APhyezi0mduQmsYIurjeg",
-  "num_followers": 1281,
+  "num_followers": 1282,
   "original_name": "Rock Frequency",
   "owner": {
     "name": "RADIO PLUG PRO",
     "url": "https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e"
   },
-  "snapshot_id": "AAACwGM1K06g2RXUXkkXadzR4OvuKxMJ",
+  "snapshot_id": "AAACwolQ+dRA4gR9aoMVijn7vDH58F2E",
   "tracks": [
     {
       "added_at": "2023-08-20 17:59:56",
@@ -9095,6 +9095,38 @@
       "duration_ms": 136486,
       "name": "Till i die",
       "url": "https://open.spotify.com/track/6r88GA7ct5UQQNAw7Cpu1X"
+    },
+    {
+      "added_at": "2026-05-14 16:07:09",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/419aOHm534nssVUrGdDr7U"
+      },
+      "artists": [
+        {
+          "name": "Chavez Cartel",
+          "url": "https://open.spotify.com/artist/6xOc7vQz5A564U7xBlP4e4"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/0G1Lbe5QtkLlSYSGCE1S9B"
+    },
+    {
+      "added_at": "2026-05-14 16:07:29",
+      "album": {
+        "name": "O Tanto Que Eu Vi",
+        "url": "https://open.spotify.com/album/1aUb5WUyk5oVNwzj9i8fNr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Martins",
+          "url": "https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof"
+        }
+      ],
+      "duration_ms": 249069,
+      "name": "O Tanto Que Eu Vi",
+      "url": "https://open.spotify.com/track/3KA0P8blih3jzimdZqrI0j"
     }
   ],
   "unique_name": "Rock Frequency (2)",

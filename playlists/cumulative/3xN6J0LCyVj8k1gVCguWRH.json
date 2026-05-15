@@ -718,7 +718,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 177196,
       "name": "20",
       "url": "https://open.spotify.com/track/09Sx8zvif6LpQU43c1NiPf"
@@ -1323,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "4EVA",
+        "url": "https://open.spotify.com/album/4c06Ih5GBbtgV3hTnEyWKC"
+      },
+      "artists": [
+        {
+          "name": "Rhyma",
+          "url": "https://open.spotify.com/artist/1j1fZpqk1Rov3O8bLIxvGL"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162385,
+      "name": "4EVA",
+      "url": "https://open.spotify.com/track/2lvUoammqOE3R8OuGfgUVA"
+    },
+    {
+      "album": {
         "name": "514 Denim",
         "url": "https://open.spotify.com/album/4AVl6WOtqKyR1gTp8s8stw"
       },
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 366960,
       "name": "8AM - DARK PULSE REMIX",
       "url": "https://open.spotify.com/track/7CEPXdsY4EJEqHHsVG9TJi"
@@ -2634,6 +2652,24 @@
       "duration_ms": 139673,
       "name": "Acacia",
       "url": "https://open.spotify.com/track/2ZHscelef9Qa0ySiod0eNK"
+    },
+    {
+      "album": {
+        "name": "Accidental Cowgirl",
+        "url": "https://open.spotify.com/album/3dYfQyV35DLAveaW74igZz"
+      },
+      "artists": [
+        {
+          "name": "Caryn Dixon",
+          "url": "https://open.spotify.com/artist/7d5yvvfks2BlUHUhIJfOqu"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165797,
+      "name": "Accidental Cowgirl",
+      "url": "https://open.spotify.com/track/3OjMghvSTVAJwyh8OHYL9N"
     },
     {
       "album": {
@@ -5654,6 +5690,24 @@
       "duration_ms": 301506,
       "name": "Anansi",
       "url": "https://open.spotify.com/track/2eamE5xO4rhJf6hh1814Vw"
+    },
+    {
+      "album": {
+        "name": "Ancient Fire (Tiv Ancestral Roots)",
+        "url": "https://open.spotify.com/album/0X4LqxvPhDT3Unzglmiv7z"
+      },
+      "artists": [
+        {
+          "name": "Biggypablo",
+          "url": "https://open.spotify.com/artist/2JDXzKgQ5XfBYxCPnURp5y"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313120,
+      "name": "Ancient Fire (Tiv Ancestral Roots)",
+      "url": "https://open.spotify.com/track/2qXCn3aYG1skMN9OkT8y8p"
     },
     {
       "album": {
@@ -12634,6 +12688,28 @@
       "duration_ms": 240254,
       "name": "BODYGUARD",
       "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
+    },
+    {
+      "album": {
+        "name": "BOGO Bodega",
+        "url": "https://open.spotify.com/album/37SByWcngj4Iu3IaJzXmEo"
+      },
+      "artists": [
+        {
+          "name": "dummy co.",
+          "url": "https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF"
+        },
+        {
+          "name": "Kool Karlo",
+          "url": "https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198947,
+      "name": "BOGO Bodega",
+      "url": "https://open.spotify.com/track/3TepkxGAUbD2KgxeePeSjP"
     },
     {
       "album": {
@@ -20579,6 +20655,24 @@
     },
     {
       "album": {
+        "name": "Guarda o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/47d5wHWnx6SjjTbn0r1aEC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Corr\u00eaa da Costa",
+          "url": "https://open.spotify.com/artist/0MdhKnpqUrggbSMf4lIzT7"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199879,
+      "name": "Contentamento",
+      "url": "https://open.spotify.com/track/4bs7fUxKvhlIEuYSHwikrh"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6OizTmTNsBVBP1G87ZOSuT"
       },
@@ -21057,6 +21151,24 @@
     },
     {
       "album": {
+        "name": "Counting Sheep",
+        "url": "https://open.spotify.com/album/6djLmCKuOXm5uJAuSXy8Kq"
+      },
+      "artists": [
+        {
+          "name": "Lucille Two",
+          "url": "https://open.spotify.com/artist/0fHke0FX5RQOe0E5nPpeRI"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/6wJF8cFNKt0wEF7X6mmSPl"
+    },
+    {
+      "album": {
         "name": "Bad Bad News",
         "url": "https://open.spotify.com/album/5jDAA2redW0JxKjvWUrWet"
       },
@@ -21206,6 +21318,24 @@
       "duration_ms": 196437,
       "name": "Cowbell",
       "url": "https://open.spotify.com/track/1oIijKeTcAfU5TdTYlf1Dc"
+    },
+    {
+      "album": {
+        "name": "Cowboy Love Me",
+        "url": "https://open.spotify.com/album/1JwhYqsZwNTh0XcGaySJsi"
+      },
+      "artists": [
+        {
+          "name": "Lucie Tiger",
+          "url": "https://open.spotify.com/artist/7kpz1LLc30Bw6zId3wst3e"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169480,
+      "name": "Cowboy Love Me",
+      "url": "https://open.spotify.com/track/5l9lCwJqZX3atwpnaqbhPJ"
     },
     {
       "album": {
@@ -21648,6 +21778,24 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "album": {
+        "name": "Crickets",
+        "url": "https://open.spotify.com/album/2Zcvf3KtSJd2VNbdj1Spn8"
+      },
+      "artists": [
+        {
+          "name": "really regular",
+          "url": "https://open.spotify.com/artist/6umYiOD7qTOmW5zpZEV89K"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213584,
+      "name": "Crickets",
+      "url": "https://open.spotify.com/track/3r4RLatTFPxANHpxkl1pjJ"
     },
     {
       "album": {
@@ -30254,7 +30402,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 178750,
       "name": "Error Intencional",
       "url": "https://open.spotify.com/track/5mNbapq5Pn9RD8T01fIQzq"
@@ -30418,6 +30566,24 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
+        "name": "Esquec\u00edvel",
+        "url": "https://open.spotify.com/album/4d4DoCyttxERhErscOyNAG"
+      },
+      "artists": [
+        {
+          "name": "Impius",
+          "url": "https://open.spotify.com/artist/7fTS2027gmTUYlBlxTUSDa"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Esquec\u00edvel",
+      "url": "https://open.spotify.com/track/0tnYLeQ1MuUS6ADZDKEujb"
     },
     {
       "album": {
@@ -42434,7 +42600,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 181562,
       "name": "heathrow",
       "url": "https://open.spotify.com/track/7xdOfyLOPbfyNWH6AsznbQ"
@@ -53460,7 +53626,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 157719,
       "name": "Koh Samui - Alternative",
       "url": "https://open.spotify.com/track/50maIp5jBDfUPzz5f7pbwf"
@@ -80640,7 +80806,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 161908,
       "name": "Reloj ingrato",
       "url": "https://open.spotify.com/track/1KRf748aWoBHXgSUmO4iY4"
@@ -83042,6 +83208,24 @@
       "duration_ms": 179555,
       "name": "RUN!",
       "url": "https://open.spotify.com/track/0bM09wrsJLZmxEGDdLctIu"
+    },
+    {
+      "album": {
+        "name": "Rungs of Love",
+        "url": "https://open.spotify.com/album/7Al2QLFJLKoLvDxvty75iM"
+      },
+      "artists": [
+        {
+          "name": "Jenny Gillespie Mason",
+          "url": "https://open.spotify.com/artist/5WmF84RwF0BT6LpPabfWPN"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206780,
+      "name": "Rungs of Love",
+      "url": "https://open.spotify.com/track/2hFDtKeoLcoSSfTyIzjfyx"
     },
     {
       "album": {

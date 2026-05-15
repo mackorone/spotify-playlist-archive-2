@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 86278,
+  "num_followers": 86295,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The Rip Tide",
         "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 254386,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "29 #Strafford APTS",
-      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Rocket",
         "url": "https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 222817,
       "name": "Bobby",
       "url": "https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Love Songs For Robots",
-        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 217606,
-      "name": "Love Songs For Robots",
-      "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Love Songs For Robots",
+        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 217606,
+      "name": "Love Songs For Robots",
+      "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Delta Spirit",
-        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "California",
-      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "After Rain",
         "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 294000,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Delta Spirit",
+        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 264320,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Not Nearly Dark",
         "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 251960,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 264320,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Metals",
-        "url": "https://open.spotify.com/album/3vxiBAlJUDqePZboDhd3I5"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 284506,
-      "name": "The Bad In Each Other",
-      "url": "https://open.spotify.com/track/5YlhFrPeFdcpfwND0sSKQR"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 346493,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Metals",
+        "url": "https://open.spotify.com/album/3vxiBAlJUDqePZboDhd3I5"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 284506,
+      "name": "The Bad In Each Other",
+      "url": "https://open.spotify.com/track/5YlhFrPeFdcpfwND0sSKQR"
     },
     {
       "added_at": "2024-08-28 14:05:36",

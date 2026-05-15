@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : MIK L",
+  "description": "Les hits zouk & kompa du moment. Photo : SA\u00cfK",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -426,7 +426,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 232840,
       "name": "Ba ba bakshot",
       "url": "https://open.spotify.com/track/5L5nECGuHCwJXtSHUlbyqu"
@@ -1657,6 +1657,28 @@
     },
     {
       "album": {
+        "name": "Difficile",
+        "url": "https://open.spotify.com/album/5rLekbzXkckSlPGgmBWYyv"
+      },
+      "artists": [
+        {
+          "name": "Klowdy",
+          "url": "https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY"
+        },
+        {
+          "name": "DJ MiMi",
+          "url": "https://open.spotify.com/artist/0nM2p46IFFB8f3NQxspjG5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Difficile",
+      "url": "https://open.spotify.com/track/4KYoyDke6jhrCXFUHKZq5w"
+    },
+    {
+      "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/67C9O2mvhwm5IzinjXT3ns"
       },
@@ -1792,7 +1814,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 217500,
       "name": "Donne Le Moi",
       "url": "https://open.spotify.com/track/0uVgGwKhDbjkcgjGBiFr6E"
@@ -3220,7 +3242,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 181524,
       "name": "Je veux",
       "url": "https://open.spotify.com/track/4I6YvRIzin2wFyWh1ibyCB"
@@ -3890,6 +3912,24 @@
       "duration_ms": 161426,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/6JDyyg3IqwKHv4CpAZgmcc"
+    },
+    {
+      "album": {
+        "name": "L\u00e9 Nou Pati",
+        "url": "https://open.spotify.com/album/438KPmyT583TZUsbrPIZ8V"
+      },
+      "artists": [
+        {
+          "name": "SA\u00cfK",
+          "url": "https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158348,
+      "name": "L\u00e9 Nou Pati",
+      "url": "https://open.spotify.com/track/2JvVG5sZtbEC6tLwLRNKWn"
     },
     {
       "album": {
@@ -7604,6 +7644,28 @@
       "duration_ms": 176423,
       "name": "Trahison",
       "url": "https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9"
+    },
+    {
+      "album": {
+        "name": "Trop bien pour moi",
+        "url": "https://open.spotify.com/album/4RM0HTBqUmOVOVBiMPniIG"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Emboul\u00e9",
+          "url": "https://open.spotify.com/artist/7BLv95GIAewL8GOsIM8qN4"
+        },
+        {
+          "name": "YSN",
+          "url": "https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "Trop bien pour moi",
+      "url": "https://open.spotify.com/track/1DiaIGmVgNZj9gPmJYX51w"
     },
     {
       "album": {

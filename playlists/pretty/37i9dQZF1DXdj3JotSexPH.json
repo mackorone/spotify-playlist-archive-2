@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36058,
+  "num_followers": 36057,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "LUNA BALA",
         "url": "https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 124110,
       "name": "LUNA BALA - Slowed",
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -523,6 +523,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Goosebumps (Remix)",
+        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 162802,
+      "name": "Goosebumps - Remix",
+      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "NUNCA MUDA?",
         "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 81500,
       "name": "NUNCA MUDA?",
       "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2135,8 +2135,8 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "G\u00cdRIA",
-        "url": "https://open.spotify.com/album/4LPcwAvRQ5GxCd9SzBdJM8"
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
       },
       "artists": [
         {
@@ -2144,21 +2144,17 @@
           "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "RHR",
-          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+          "name": "Starrah",
+          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
         },
         {
-          "name": "Me Jesmay",
-          "url": "https://open.spotify.com/artist/1p3gsovsSOdWucOGKaMEFv"
-        },
-        {
-          "name": "Lucas Swatch",
-          "url": "https://open.spotify.com/artist/23IdyGJLgKTvopNrHG3XfF"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 147428,
-      "name": "SYRINX",
-      "url": "https://open.spotify.com/track/0pg7eUl5LaCOXN3F5jdF18"
+      "duration_ms": 195937,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2239,8 +2235,8 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
+        "name": "G\u00cdRIA",
+        "url": "https://open.spotify.com/album/4LPcwAvRQ5GxCd9SzBdJM8"
       },
       "artists": [
         {
@@ -2248,17 +2244,21 @@
           "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "Starrah",
-          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
         },
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Me Jesmay",
+          "url": "https://open.spotify.com/artist/1p3gsovsSOdWucOGKaMEFv"
+        },
+        {
+          "name": "Lucas Swatch",
+          "url": "https://open.spotify.com/artist/23IdyGJLgKTvopNrHG3XfF"
         }
       ],
-      "duration_ms": 195937,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
+      "duration_ms": 147428,
+      "name": "SYRINX",
+      "url": "https://open.spotify.com/track/0pg7eUl5LaCOXN3F5jdF18"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "on our own",
-        "url": "https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf"
-      },
-      "artists": [
-        {
-          "name": "Ordley",
-          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "on our own",
-      "url": "https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Halo (feat. Shibui)",
         "url": "https://open.spotify.com/album/7sZooyvXa18fr9wa8YHyqd"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 156000,
       "name": "Halo (feat. Shibui)",
       "url": "https://open.spotify.com/track/7ELMkdmYhcknPvzn0CydAJ"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "on our own",
+        "url": "https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf"
+      },
+      "artists": [
+        {
+          "name": "Ordley",
+          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "on our own",
+      "url": "https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "CLONED VOL.1",
-        "url": "https://open.spotify.com/album/37oUYWWioeyUoHeosrU1Sl"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Error 303",
-      "url": "https://open.spotify.com/track/2rmh0nTshhsiKvHfUm1C1S"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Welcome To My Crib",
         "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 228750,
       "name": "Slam It",
       "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "CLONED VOL.1",
+        "url": "https://open.spotify.com/album/37oUYWWioeyUoHeosrU1Sl"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Error 303",
+      "url": "https://open.spotify.com/track/2rmh0nTshhsiKvHfUm1C1S"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -3011,6 +3011,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Funk of Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
+      },
+      "artists": [
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "Funk of Gal\u00e1ctico",
+      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Astronaut In The Ocean (Alok Remix)",
         "url": "https://open.spotify.com/album/3DMIESlogCaK0E3W0awobM"
       },
@@ -3027,22 +3043,6 @@
       "duration_ms": 128371,
       "name": "Astronaut In The Ocean - Alok Remix",
       "url": "https://open.spotify.com/track/25dOYUvTT4wyw7r3vS37ca"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Funk of Gal\u00e1ctico",
-        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
-      },
-      "artists": [
-        {
-          "name": "SXID",
-          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "Funk of Gal\u00e1ctico",
-      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
     },
     {
       "added_at": "2026-04-13 15:38:24",

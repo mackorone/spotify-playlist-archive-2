@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1006246,
+  "num_followers": 1006210,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "23 Preguntas",
+        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 251221,
+      "name": "23 Preguntas",
+      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "NUBES",
         "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 271801,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "23 Preguntas",
-        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 251221,
-      "name": "23 Preguntas",
-      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 193435,
+      "name": "Cuando Me Acerco A Ti",
+      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 193435,
-      "name": "Cuando Me Acerco A Ti",
-      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 227220,
       "name": "ULTRA SOLO",
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1819,42 +1819,6 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "Desnudarte",
-        "url": "https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Desnudarte",
-      "url": "https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
         "name": "D\u00e9jala Que Vuelva",
         "url": "https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a"
       },
@@ -1875,18 +1839,38 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "Desnudarte",
+        "url": "https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Desnudarte",
+      "url": "https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1915,6 +1899,42 @@
       "duration_ms": 207248,
       "name": "Dime Cuantas Veces (Remix) [feat. Justin Quiles]",
       "url": "https://open.spotify.com/track/4MWb6mltydQn84NrTm7Gpl"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "Los Cachos",
+        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Los Cachos",
+      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1955,22 +1975,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "Los Cachos",
-        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
+        "name": "Demasiado Tarde",
+        "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         },
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 212304,
-      "name": "Los Cachos",
-      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
+      "duration_ms": 271548,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1991,26 +2011,6 @@
       "duration_ms": 234984,
       "name": "BILLBOARD",
       "url": "https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "Demasiado Tarde",
-        "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 271548,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
     }
   ],
   "unique_name": "perrear y llorar \ud83e\udd72",

@@ -6903,6 +6903,24 @@
     },
     {
       "album": {
+        "name": "TORCHER II",
+        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150535,
+      "name": "Yire (Fanfooler)",
+      "url": "https://open.spotify.com/track/1390ovzn0DCki8MOIUJ185"
+    },
+    {
+      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk"
       },

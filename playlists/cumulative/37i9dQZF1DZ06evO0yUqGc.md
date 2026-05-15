@@ -4,7 +4,7 @@
 
 > This is Lily Allen\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 54 min
+68 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 | 2025-10-28 |  |
 | [Madeline](https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:55 | 2025-10-28 |  |
 | [My One](https://open.spotify.com/track/3Tjv3QLlH9FPQx35ljStp7) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 2:58 | 2025-10-28 | 2025-11-02 |
-| [Nan You're a Window Shopper](https://open.spotify.com/track/0Bf2zCGV0yUNSxMC5gpxkJ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 2:59 | 2026-04-25 | 2026-05-10 |
+| [Nan You're a Window Shopper](https://open.spotify.com/track/0Bf2zCGV0yUNSxMC5gpxkJ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 2:59 | 2026-04-25 |  |
 | [Naïve \- BBC Radio 1's Jo Whiley's Live Lounge](https://open.spotify.com/track/6mM3zAPOuNkNDytJCDGz96) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:46 | 2025-10-28 |  |
 | [Nonmonogamummy](https://open.spotify.com/track/0dBRiasmDpHou4JmNBe8cq) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Specialist Moss](https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:42 | 2025-10-28 | 2026-02-18 |
 | [Not Big](https://open.spotify.com/track/0XBrb617vdvlC4oo9rrslt) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 3:16 | 2026-05-06 |  |
@@ -62,13 +62,14 @@
 | [Roll The Dice \(feat\. Stamina MC & Lily Allen\)](https://open.spotify.com/track/0gO2I7dgwORBIys7ZtIYw8) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Stamina MC](https://open.spotify.com/artist/4Dj3ahDCFjotIV1O5Ung6o) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 3:28 | 2025-10-28 |  |
 | [Shame for You](https://open.spotify.com/track/2sRCL7XSiyN29CX9fIefq5) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 4:06 | 2026-04-17 | 2026-05-06 |
 | [Sleepwalking](https://open.spotify.com/track/0k6CuggnRkJAem9XowL1Zc) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:57 | 2025-10-28 |  |
-| [Smile](https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:16 | 2025-10-28 |  |
+| [Smile](https://open.spotify.com/track/3NK28cXAkO5JIM7YOiCQAx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 3:16 | 2026-05-15 |  |
+| [Smile](https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:16 | 2025-10-28 | 2026-05-15 |
 | [Smile \- Acoustic](https://open.spotify.com/track/47Y2E9HfyU7diW5WES6vKb) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Smile](https://open.spotify.com/album/07z5Rc3vzqteBidAcjMmku) | 3:20 | 2025-10-28 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:28 | 2025-10-28 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47) | 3:28 | 2025-12-21 | 2026-01-15 |
 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 | 2025-10-28 |  |
 | [Straight To Hell](https://open.spotify.com/track/6QcYppr9Ns573Qju5LEwWw) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX) | [War Child Presents Heroes Vol\. 1](https://open.spotify.com/album/3CexvRERthb6hU86Npa7e2) | 5:21 | 2025-12-08 | 2026-01-15 |
-| [Take What You Take](https://open.spotify.com/track/7xyvMaJZA7thwtPQv6OCbc) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 4:06 | 2026-04-08 |  |
+| [Take What You Take](https://open.spotify.com/track/7xyvMaJZA7thwtPQv6OCbc) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 4:06 | 2026-04-08 | 2026-05-15 |
 | [Tennis](https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:30 | 2025-10-28 |  |
 | [The Fear](https://open.spotify.com/track/49BCXWSHGd4UumM9w17BvS) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:27 | 2025-10-28 |  |
 | [Trigger Bang \(feat\. Giggs\)](https://open.spotify.com/track/28TwQfUt2pJbmHLwoR281y) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:32 | 2025-10-28 |  |

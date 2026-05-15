@@ -1529,6 +1529,32 @@
     },
     {
       "album": {
+        "name": "Bagages en Zoot",
+        "url": "https://open.spotify.com/album/3CFHHaBTLdfNKBkEu4BiDD"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Codjia",
+          "url": "https://open.spotify.com/artist/5wVgCCd9Tjas35KQdNOHlG"
+        },
+        {
+          "name": "Zoot Big Band",
+          "url": "https://open.spotify.com/artist/5Eupc2S2LWYueTTxNJBRIY"
+        },
+        {
+          "name": "Zoot Collectif",
+          "url": "https://open.spotify.com/artist/42J8D311zCRXThjHHo1z90"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327840,
+      "name": "Bagages en Zoot",
+      "url": "https://open.spotify.com/track/5mtHHTmsMADB4iQYgBvh1K"
+    },
+    {
+      "album": {
         "name": "Bahia Sketches",
         "url": "https://open.spotify.com/album/4Wgkz13aBCDcwm97nZnX7m"
       },
@@ -4576,7 +4602,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 676374,
       "name": "Don't Look Down",
       "url": "https://open.spotify.com/track/1E3HMV57VwDkqQq9beSSUD"
@@ -9480,7 +9506,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 389559,
       "name": "Lady Day & John Coltrane - 12\" Version",
       "url": "https://open.spotify.com/track/4iSi6VQl5LfU4m1PgW2cF4"
@@ -15392,6 +15418,24 @@
       "duration_ms": 233874,
       "name": "SOeuR FeLiX aka BeeHive",
       "url": "https://open.spotify.com/track/4BTm4UH5qHLEMtdAtEhDCr"
+    },
+    {
+      "album": {
+        "name": "Soften",
+        "url": "https://open.spotify.com/album/0bDHHs74NH4n7Ta8TwfzlP"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251041,
+      "name": "Soften",
+      "url": "https://open.spotify.com/track/3X9yLXt2yAbeCwTUc6dyVU"
     },
     {
       "album": {

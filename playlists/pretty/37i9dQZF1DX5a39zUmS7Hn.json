@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: The Rolling Stones",
-  "num_followers": 615885,
+  "num_followers": 616038,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 309053,
+      "name": "The Adults Are Talking",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
+    },
+    {
+      "added_at": "2026-05-07 23:00:24",
+      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
-    },
-    {
-      "added_at": "2026-05-07 23:00:24",
-      "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 309053,
-      "name": "The Adults Are Talking",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
-        "name": "Days We Left Behind",
-        "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 198235,
-      "name": "Days We Left Behind",
-      "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
-    },
-    {
-      "added_at": "2026-05-07 23:00:24",
-      "album": {
         "name": "(What's The Story) Morning Glory? [Remastered]",
         "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
+    },
+    {
+      "added_at": "2026-05-07 23:00:24",
+      "album": {
+        "name": "Days We Left Behind",
+        "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 198235,
+      "name": "Days We Left Behind",
+      "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
     },
     {
       "added_at": "2026-05-07 23:00:24",

@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: 1-800 GIRLS",
-  "num_followers": 43402,
+  "num_followers": 43406,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,18 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "The Nightlife",
-        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
       },
       "artists": [
         {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
         }
       ],
-      "duration_ms": 244708,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -347,22 +343,22 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "mangetout (The Dare remix)",
-        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         },
         {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
         }
       ],
-      "duration_ms": 200192,
-      "name": "mangetout - The Dare remix",
-      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
+      "duration_ms": 244708,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -383,18 +379,22 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "Take My Space",
-        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
+        "name": "mangetout (The Dare remix)",
+        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
       },
       "artists": [
         {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
         }
       ],
-      "duration_ms": 143473,
-      "name": "Take My Space",
-      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
+      "duration_ms": 200192,
+      "name": "mangetout - The Dare remix",
+      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -695,6 +695,42 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
+        "name": "See It As A Sign",
+        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 174204,
+      "name": "See It As A Sign",
+      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 151763,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
         "name": "THE THING",
         "url": "https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI"
       },
@@ -719,22 +755,6 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "All Your Love",
-        "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 151763,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 165388,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
-        "name": "See It As A Sign",
-        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 174204,
-      "name": "See It As A Sign",
-      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "Ebb + Flow",
-        "url": "https://open.spotify.com/album/5hMxgKbuFVSUfvu3JL1aPq"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 240769,
-      "name": "Ebb + Flow",
-      "url": "https://open.spotify.com/track/40zauhSW2YyiCBoZvYhtg7"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 211653,
       "name": "GIRL I WANT YOU",
       "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
+        "name": "Ebb + Flow",
+        "url": "https://open.spotify.com/album/5hMxgKbuFVSUfvu3JL1aPq"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 240769,
+      "name": "Ebb + Flow",
+      "url": "https://open.spotify.com/track/40zauhSW2YyiCBoZvYhtg7"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        }
-      ],
-      "duration_ms": 154979,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
         "name": "DJ-Kicks: Sofia Kourtesis",
         "url": "https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj"
       },
@@ -1083,22 +1067,6 @@
       "duration_ms": 302362,
       "name": "Make Me Feel Better",
       "url": "https://open.spotify.com/track/37Udv1XxXBOjmAgTr6n2f6"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
-        "name": "TRUTH",
-        "url": "https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 123979,
-      "name": "TRUTH",
-      "url": "https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -1119,6 +1087,38 @@
       "duration_ms": 330456,
       "name": "Makwande",
       "url": "https://open.spotify.com/track/2R1HELgpU9wWWGDkM4upw5"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2jjwe9UvqCRov75gWn7w5R"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 154979,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/39NtLFOy3CVoceN9DH8Znc"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
+        "name": "TRUTH",
+        "url": "https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 123979,
+      "name": "TRUTH",
+      "url": "https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb"
     },
     {
       "added_at": "2026-05-08 12:31:41",

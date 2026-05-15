@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 10191,
+  "num_followers": 10196,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Advantage",
-        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
+        "name": "My Future",
+        "url": "https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw"
       },
       "artists": [
         {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+          "name": "Greylan James",
+          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
         }
       ],
-      "duration_ms": 205813,
-      "name": "Advantage",
-      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
+      "duration_ms": 155468,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "My Future",
-        "url": "https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw"
+        "name": "Advantage",
+        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
       },
       "artists": [
         {
-          "name": "Greylan James",
-          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
         }
       ],
-      "duration_ms": 155468,
-      "name": "My Future",
-      "url": "https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe"
+      "duration_ms": 205813,
+      "name": "Advantage",
+      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "hewantscoffeebutiamtea",
-        "url": "https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U"
-      },
-      "artists": [
-        {
-          "name": "Numcha",
-          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "afterglow",
-      "url": "https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Raining Tomorrow",
         "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 228484,
       "name": "Raining Tomorrow",
       "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "hewantscoffeebutiamtea",
+        "url": "https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U"
+      },
+      "artists": [
+        {
+          "name": "Numcha",
+          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "afterglow",
+      "url": "https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "The CARR Show",
-        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "Spiral City",
-      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "blue dream",
         "url": "https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 178826,
       "name": "Funny Black Lines",
       "url": "https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "The CARR Show",
+        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "Spiral City",
+      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7"
-      },
-      "artists": [
-        {
-          "name": "Dot.",
-          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
-        }
-      ],
-      "duration_ms": 200724,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "styrofoam",
         "url": "https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 184221,
       "name": "styrofoam",
       "url": "https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "duration_ms": 200724,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Eurostar",
-        "url": "https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m"
-      },
-      "artists": [
-        {
-          "name": "Swank Mami",
-          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
-        }
-      ],
-      "duration_ms": 91080,
-      "name": "Bad B*tch",
-      "url": "https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "A Bowl of Unripe Fruit",
         "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 234500,
       "name": "Big Songbirds Don't Cry",
       "url": "https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Eurostar",
+        "url": "https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "duration_ms": 91080,
+      "name": "Bad B*tch",
+      "url": "https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Is It Me",
-        "url": "https://open.spotify.com/album/3I3vADoXrs50CCHvOtJ2f4"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 194638,
-      "name": "Is It Me",
-      "url": "https://open.spotify.com/track/3HoWMvZthFR2Ymbm1YaSgh"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Level Up",
         "url": "https://open.spotify.com/album/1wUqEJDUw7VOlPrt01lGdY"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 180636,
       "name": "Express",
       "url": "https://open.spotify.com/track/49ST93zDICBoe4noumugsa"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Is It Me",
+        "url": "https://open.spotify.com/album/3I3vADoXrs50CCHvOtJ2f4"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 194638,
+      "name": "Is It Me",
+      "url": "https://open.spotify.com/track/3HoWMvZthFR2Ymbm1YaSgh"
     },
     {
       "added_at": "2024-01-10 16:06:35",

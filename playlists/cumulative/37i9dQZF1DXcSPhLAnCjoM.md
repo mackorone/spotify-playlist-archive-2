@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Le petit pêcheur" de Manon Lisa  est le Grand Hit de la semaine.
+> "Dis moi où" de Julien Lieb & OTTA  est le Grand Hit de la semaine.
 
-333 songs - 17 hr 2 min
+334 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Je pars mais je reste](https://open.spotify.com/track/6XZpJESt5Hb0GM6BpAJGN4) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Je pars mais je reste](https://open.spotify.com/album/0kDJiwDaDXUhhmXAFL06qu) | 3:20 | 2025-06-26 | 2025-10-10 |
 | [Je partirai](https://open.spotify.com/track/3qdffH7BqUr4kOxaenMkiZ) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:15 | 2023-09-28 | 2023-11-11 |
 | [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 | 2024-05-09 | 2025-05-23 |
+| [Je pense à vous](https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Je pense à vous](https://open.spotify.com/album/7nYETPT6MTJ1UcIn1x4MFF) | 2:52 | 2026-05-14 |  |
 | [Je reste calme](https://open.spotify.com/track/3Or4BEBgd0TSlQWqqxFYHR) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Je reste calme](https://open.spotify.com/album/3nYlOopDy3IUXx1fV3YQQy) | 2:52 | 2023-10-19 | 2023-12-09 |
 | [Je suis fou](https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:46 | 2023-12-07 | 2024-09-06 |
 | [Je t'ai cherché](https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je t'ai cherché](https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O) | 3:36 | 2024-11-21 | 2025-01-17 |
@@ -298,7 +299,7 @@
 | [Soirée mondaine](https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Soirée mondaine](https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m) | 3:18 | 2026-02-26 |  |
 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2025-01-09 | 2025-03-07 |
 | [Soleil](https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Soleil](https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw) | 2:11 | 2026-04-23 |  |
-| [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 | 2025-06-26 |  |
+| [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 | 2025-06-26 | 2026-05-15 |
 | [Sommet](https://open.spotify.com/track/471PmO82n752rs6DpZQ2fk) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Sommet](https://open.spotify.com/album/6VWhALAzgz7YTr8FUVPrVF) | 2:27 | 2024-07-18 | 2024-09-06 |
 | [Stigmate \- Radio Edit](https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Stigmate \(Radio Edit\)](https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf) | 2:25 | 2024-01-25 | 2024-02-09 |
 | [Summer Body](https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Pas de seum pour le summer](https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA) | 2:59 | 2024-07-04 | 2025-01-10 |

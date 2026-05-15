@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Agnes Nunes",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Melli",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -782,7 +782,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 221333,
       "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
       "url": "https://open.spotify.com/track/7FNZlKNZxb25CzGDiFU7FC"
@@ -5631,6 +5631,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
+        "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
+      },
+      "artists": [
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211295,
+      "name": "Doente",
+      "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
+    },
+    {
+      "album": {
         "name": "Doideira",
         "url": "https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN"
       },
@@ -8925,6 +8943,24 @@
     },
     {
       "album": {
+        "name": "Manh\u00e3",
+        "url": "https://open.spotify.com/album/2m7i3kmIZC7pjr9O02cOXL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Manh\u00e3",
+      "url": "https://open.spotify.com/track/7AyQAbzZlZHisAmnomfToV"
+    },
+    {
+      "album": {
         "name": "Manh\u00e3 de Sol",
         "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
       },
@@ -9392,6 +9428,24 @@
       "duration_ms": 133212,
       "name": "ME LIGA",
       "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
+    },
+    {
+      "album": {
+        "name": "Me Livra De Todo Mal",
+        "url": "https://open.spotify.com/album/1moh2bRsNZH5aOsP3jGYnZ"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192192,
+      "name": "Me Livra De Todo Mal",
+      "url": "https://open.spotify.com/track/2731kmDfNfoTqJ3WW5K5TF"
     },
     {
       "album": {
@@ -13058,7 +13112,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 145079,
       "name": "P\u00f4r Do Sol Avisa",
       "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
@@ -16824,7 +16878,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 192494,
       "name": "um dia tudo acaba",
       "url": "https://open.spotify.com/track/1ER2UcRQEIxghQsAcmd9bP"

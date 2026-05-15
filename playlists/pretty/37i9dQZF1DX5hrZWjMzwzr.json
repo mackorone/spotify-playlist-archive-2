@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11810,
+  "num_followers": 11808,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "BANGKOK2025",
+        "url": "https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk"
+      },
+      "artists": [
+        {
+          "name": "Bardal",
+          "url": "https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR"
+        },
+        {
+          "name": "r\u00f3w babicze",
+          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
+        }
+      ],
+      "duration_ms": 198865,
+      "name": "BANGKOK2025",
+      "url": "https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Po\u0142\u0105czenia 2",
         "url": "https://open.spotify.com/album/2feprtPOCyMVM6HW7j3taF"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 166285,
       "name": "Ruchy",
       "url": "https://open.spotify.com/track/267Idgd3aoiep1efGLZIRC"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "BANGKOK2025",
-        "url": "https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk"
-      },
-      "artists": [
-        {
-          "name": "Bardal",
-          "url": "https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR"
-        },
-        {
-          "name": "r\u00f3w babicze",
-          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
-        }
-      ],
-      "duration_ms": 198865,
-      "name": "BANGKOK2025",
-      "url": "https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW"
     },
     {
       "added_at": "2026-04-09 22:12:46",

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 46097,
+  "num_followers": 46105,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 239635,
+      "name": "7am On Bridle Path",
+      "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 350533,
       "name": "Nothing Even Matters (feat. D'Angelo)",
       "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 239635,
-      "name": "7am On Bridle Path",
-      "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
     },
     {
       "added_at": "2022-10-01 16:00:00",

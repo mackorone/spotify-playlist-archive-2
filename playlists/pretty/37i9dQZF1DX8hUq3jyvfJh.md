@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:3f5VCwd57gZsqMad28jyLV">Maria Bethânia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,391 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,403 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 24 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
 | 25 | [Xote Destino](https://open.spotify.com/track/6T1CDe3leBfSnWK1fvr1Bx) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Xote Destino](https://open.spotify.com/album/48k0NmZpRSAlrqgcMeFHbn) | 3:42 |
 | 26 | [Manha De Carnaval](https://open.spotify.com/track/1IF4NYiVd71yfaPicrYkMn) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [Black Orpheus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b2ozEvPDWvXiq98K3whfc) | 2:57 |
-| 27 | [Tatuagem](https://open.spotify.com/track/2vmXFXcr44JSrZ1MpgWLRa) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:22 |
-| 28 | [Outra Ladeira](https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT) | [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Outra Ladeira](https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im) | 3:48 |
+| 27 | [Outra Ladeira](https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT) | [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Outra Ladeira](https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im) | 3:48 |
+| 28 | [Tatuagem](https://open.spotify.com/track/2vmXFXcr44JSrZ1MpgWLRa) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:22 |
 | 29 | [Meu Poeta](https://open.spotify.com/track/5KUKKu3icCNFq4VnzxC0hH) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Ópera Grunkie](https://open.spotify.com/album/1W3vMj7OmKb8SwdiHwpHfK) | 3:43 |
 | 30 | [Coração Melão](https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 4:18 |
 | 31 | [Último desejo \(Participação especial de Francisco Sérgio e sua orquestra\)](https://open.spotify.com/track/0bWJu08ZYR14s2MT7ezN7D) | [Aracy de Almeida](https://open.spotify.com/artist/4dUyAH3f2lQ4QCXrUtJ778), [Francisco Sérgio e sua Orquestra](https://open.spotify.com/artist/3zTP7PA0jhORYttUqAX0MG) | [Sambas de Noel Rosa](https://open.spotify.com/album/4GBnrfMHbLji4DcNelwuFR) | 3:09 |

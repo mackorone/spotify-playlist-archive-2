@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,615 likes - 146 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,622 likes - 146 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 66 | [Winter Woman.](https://open.spotify.com/track/78RbVzmxF51GURFpCNRvz2) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:20 |
 | 67 | [Edge of Saturday Night](https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:26 |
 | 68 | [Not In Love](https://open.spotify.com/track/6zN256SHzVljMn5i3SCitv) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [Not In Love](https://open.spotify.com/album/0lw6II357NuP1I9Jk8f1Gm) | 3:35 |
-| 69 | [On My Way](https://open.spotify.com/track/7H9YC7hkicuj0ASDn3Aati) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [PRETTYMUCH an EP](https://open.spotify.com/album/2rmcMZwrpFewSPsoaC6Dvc) | 3:52 |
-| 70 | [The WhatsApp Shakespeare.](https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 3:55 |
+| 69 | [The WhatsApp Shakespeare.](https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 3:55 |
+| 70 | [On My Way](https://open.spotify.com/track/7H9YC7hkicuj0ASDn3Aati) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [PRETTYMUCH an EP](https://open.spotify.com/album/2rmcMZwrpFewSPsoaC6Dvc) | 3:52 |
 | 71 | [I Feel Ya](https://open.spotify.com/track/0rwZuDEc2rj3lgxu3zSjMg) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Danny Quest](https://open.spotify.com/artist/3F3uRvVluLsFqBrGaeJP3p), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [I Feel Ya](https://open.spotify.com/album/7G0Nq4QZmmoOhOx2yifG6t) | 2:49 |
 | 72 | [Terms and Conditions](https://open.spotify.com/track/0gR8uAS5TNzsuWzWw9OR8C) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:29 |
 | 73 | [Life Boat.](https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:15 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 78 | [Mary Jane.](https://open.spotify.com/track/3PLTYnLCus4KHeCyW2jsee) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:52 |
 | 79 | [Joy.](https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:23 |
 | 80 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
-| 81 | [Proud](https://open.spotify.com/track/3oYTZa4MFZLQQMEjDqveWR) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Proud](https://open.spotify.com/album/1kmTJmV4YO6Du6zEBq061c) | 3:30 |
-| 82 | [Midnight Cowboy](https://open.spotify.com/track/4zrnaKcJWGYVfGZqmCOELM) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:31 |
-| 83 | [I Will Overcome.](https://open.spotify.com/track/4VnLKvKQQcWnZagNedFSF9) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:54 |
+| 81 | [I Will Overcome.](https://open.spotify.com/track/4VnLKvKQQcWnZagNedFSF9) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:54 |
+| 82 | [Proud](https://open.spotify.com/track/3oYTZa4MFZLQQMEjDqveWR) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Proud](https://open.spotify.com/album/1kmTJmV4YO6Du6zEBq061c) | 3:30 |
+| 83 | [Midnight Cowboy](https://open.spotify.com/track/4zrnaKcJWGYVfGZqmCOELM) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:31 |
 | 84 | [Crew](https://open.spotify.com/track/31MUzJRDoberNLCXSISodO) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 3:56 |
 | 85 | [Goodbye Henry\. \(feat\. Al Green\)](https://open.spotify.com/track/5lBL8xRTXIDpPDJcuPL9UH) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:20 |
 | 86 | [Default](https://open.spotify.com/track/5AEJyckUMzLqIyBxZNmGFW) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 1:56 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 145 | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/track/3aXsMhbTt3SQTD4iz3ptcc) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/album/20fw7LGasmONYZDICD2cUD) | 2:49 |
 | 146 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `AcRavAAAAABzv4VZ5rAS5zi3igqNwGXA`
+Snapshot ID: `AcRgXAAAAADbqFpfsml5IB3mHPuq/HV/`

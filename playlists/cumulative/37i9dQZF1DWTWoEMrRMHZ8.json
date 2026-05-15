@@ -147,6 +147,32 @@
     },
     {
       "album": {
+        "name": "A Beleza De Ser",
+        "url": "https://open.spotify.com/album/35MiCztNYMVMlVYlifBCzc"
+      },
+      "artists": [
+        {
+          "name": "Muca",
+          "url": "https://open.spotify.com/artist/0B530ZeLXBaPt7AN3wHNcM"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Ilessi",
+          "url": "https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "A Beleza De Ser",
+      "url": "https://open.spotify.com/track/77KUT4cGoNZZwatCZii61P"
+    },
+    {
+      "album": {
         "name": "A Calma Acalma",
         "url": "https://open.spotify.com/album/1wMB5ZetaZy8rKtzM0yx4c"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The voices shaping R&B. Cover: Mack Keane",
+  "description": "The voices shaping R&B. Cover: AMARIA BB",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -1460,6 +1460,24 @@
       "duration_ms": 172506,
       "name": "Break Me In",
       "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
+    },
+    {
+      "album": {
+        "name": "Break Me Off",
+        "url": "https://open.spotify.com/album/6dQRJLvQNiDEOdH7rri6NS"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174465,
+      "name": "Break Me Off",
+      "url": "https://open.spotify.com/track/01nqAnr8UmgLjgKSjhLGLF"
     },
     {
       "album": {
@@ -7992,7 +8010,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 256615,
       "name": "Out The Window",
       "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
@@ -8887,6 +8905,24 @@
     },
     {
       "album": {
+        "name": "Rivers End",
+        "url": "https://open.spotify.com/album/4GejwOc0Vi6eRZJzw05i6X"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209107,
+      "name": "Rivers End",
+      "url": "https://open.spotify.com/track/4iU6dFUo07jr6jBuwaUUk8"
+    },
+    {
+      "album": {
         "name": "RM. 143 (RM112 Remix)",
         "url": "https://open.spotify.com/album/6rRZCZwQU02DKN6EfCrGi2"
       },
@@ -9590,7 +9626,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-15",
       "duration_ms": 183750,
       "name": "Smoov",
       "url": "https://open.spotify.com/track/5Yj6xkBg6LQ6zOWrpjIPUO"

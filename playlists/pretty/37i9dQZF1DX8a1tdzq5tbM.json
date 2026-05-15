@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1789383,
+  "num_followers": 1789553,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Nervous Nitelife: Vegas",
+        "url": "https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62"
+      },
+      "artists": [
+        {
+          "name": "Leonid Rudenko",
+          "url": "https://open.spotify.com/artist/5bnTVmuQXiWky1U1Taw58a"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Summerfish - Scandall Sunset On Ibiza Instrumental",
+      "url": "https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Nervous Nitelife: Vegas",
-        "url": "https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62"
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
       },
       "artists": [
         {
-          "name": "Leonid Rudenko",
-          "url": "https://open.spotify.com/artist/5bnTVmuQXiWky1U1Taw58a"
+          "name": "Velvet",
+          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
         }
       ],
-      "duration_ms": 357160,
-      "name": "Summerfish - Scandall Sunset On Ibiza Instrumental",
-      "url": "https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi"
+      "duration_ms": 224640,
+      "name": "Chemistry - Radio Edit",
+      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1247,22 +1263,6 @@
       "duration_ms": 371493,
       "name": "Star 69 - Timo Maas Mix",
       "url": "https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
-      },
-      "artists": [
-        {
-          "name": "Velvet",
-          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chemistry - Radio Edit",
-      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Better Off Alone (Laidback Luke Remix)",
         "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 215246,
       "name": "Better Off Alone - 1999 Original Hit Radio",
       "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
         "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 189388,
       "name": "Believer (feat. Wynter Gordon) - Radio Edit",
       "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Further",
         "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 365080,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pacha Ibiza - The House Collection (2000-2009)",
-        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 281516,
-      "name": "Day 'N' Night - Club Mix",
-      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "The Longest Road",
         "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
       },
@@ -1719,6 +1699,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Pacha Ibiza - The House Collection (2000-2009)",
+        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 281516,
+      "name": "Day 'N' Night - Club Mix",
+      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ"
       },
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Put Your Hands Up For Detroit",
+        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 393333,
+      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
+      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
       },
@@ -1747,6 +1763,22 @@
       "duration_ms": 190426,
       "name": "Take Me Away - Vocal Radio Mix",
       "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Back 2 House",
+        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1771,22 +1803,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Put Your Hands Up For Detroit",
-        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 393333,
-      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
-      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Elements of Life",
         "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 420546,
       "name": "Everything (feat. JES)",
       "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Back 2 House",
-        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
-      },
-      "artists": [
-        {
-          "name": "Modjo",
-          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Elements of Life",
         "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 276093,
       "name": "In The Dark (feat. Christian Burns)",
       "url": "https://open.spotify.com/track/2UBYNTJKvk9feVfW9f2ACK"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/5bHsXOMd0ZOo2GrQa7ZPkM"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 203212,
+      "name": "Crush - Radio Dance Edit",
+      "url": "https://open.spotify.com/track/2tPyQNtMIrHN1OuYVIGFE9"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "The Sound of Goodbye (Part 2)",
         "url": "https://open.spotify.com/album/1zeeCufb1Zo17cWRXBSDmP"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 404320,
       "name": "Nyana",
       "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/5bHsXOMd0ZOo2GrQa7ZPkM"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 203212,
-      "name": "Crush - Radio Dance Edit",
-      "url": "https://open.spotify.com/track/2tPyQNtMIrHN1OuYVIGFE9"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2048,9 +2048,9 @@
           "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
         }
       ],
-      "duration_ms": 271586,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
+      "duration_ms": 354613,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3xV1sUd6aTE6Z98X1MtjC8"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2128,9 +2128,9 @@
           "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
         }
       ],
-      "duration_ms": 354613,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3xV1sUd6aTE6Z98X1MtjC8"
+      "duration_ms": 271586,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
     },
     {
       "added_at": "2024-07-12 15:40:20",

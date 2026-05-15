@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 94973,
+  "num_followers": 95103,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agJtgAAAAABsOrpk0srjNkDS/0VuECSg",
+  "snapshot_id": "agO/AAAAAAAm1pfSwihn0kwdwUEjgeFE",
   "tracks": [
     {
       "added_at": null,
@@ -572,13 +572,29 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Girl Like Me + Oklou",
-      "url": "https://open.spotify.com/track/5FuHvT4gCAx3DS1USi8jBm"
+      "duration_ms": 178217,
+      "name": "Tonight + JADE",
+      "url": "https://open.spotify.com/track/1gcSjWz47sNWKws2uk5Wry"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 123821,
+      "name": "Angel (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
       "duration_ms": 245826,
       "name": "Wild And Alone (feat. PinkPantheress)",
       "url": "https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 123821,
-      "name": "Angel (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
     },
     {
       "added_at": null,
@@ -648,13 +648,13 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
         }
       ],
-      "duration_ms": 178217,
-      "name": "Tonight + JADE",
-      "url": "https://open.spotify.com/track/1gcSjWz47sNWKws2uk5Wry"
+      "duration_ms": 162352,
+      "name": "Girl Like Me + Oklou",
+      "url": "https://open.spotify.com/track/5FuHvT4gCAx3DS1USi8jBm"
     },
     {
       "added_at": null,

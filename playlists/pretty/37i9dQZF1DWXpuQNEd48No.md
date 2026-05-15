@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: DG IMMORTALS
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,885 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,900 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 19 | [Desi Hood](https://open.spotify.com/track/1ytkL95GzG5FfFHozezQFx) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl) | [Desi Hood](https://open.spotify.com/album/36B93HW3IYVWNVZH0qPaCR) | 2:28 |
 | 20 | [Not Like You](https://open.spotify.com/track/4N1ExTZqjnU5D2sfiK8Xvj) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Not Like You](https://open.spotify.com/album/27eYgmQwzC3JT6FbCsIYlF) | 2:21 |
 | 21 | [Sabhi Khaas](https://open.spotify.com/track/5KHVVqnqVgIKDrZtNRcXA9) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Sabhi Khaas](https://open.spotify.com/album/10EEfkiWhyjxdL9oINNWvY) | 2:26 |
-| 22 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 |
+| 22 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 |
 | 23 | [Dupatta Drill](https://open.spotify.com/track/6wwwaMSY04xYhDpU7IKzz3) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Dupatta Drill](https://open.spotify.com/album/545u6lIVWOfi58QE5I3feD) | 2:30 |
 | 24 | [Tag Awara Ke](https://open.spotify.com/track/1mViqhbN5IInzI6EKkD9NN) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Shivani Yadav](https://open.spotify.com/artist/5VPZgqsssxw1jqnvADuJU0) | [Tag Awara Ke](https://open.spotify.com/album/5wwSTO05dAdgaXdUrhNtlX) | 3:01 |
 | 25 | [Fire Spit](https://open.spotify.com/track/2zJx7a2mnrXAyExxm5WmYe) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [3rd Eye](https://open.spotify.com/artist/318a6U8piaVqh1qyTD5sqZ) | [F1](https://open.spotify.com/album/3AqhupPmnUNCvvNEx0F61s) | 2:40 |

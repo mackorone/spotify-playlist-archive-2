@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de mayo 2026\. Cover: Alvaro Diaz & LATIN MAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,557,547 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,557,549 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 35 | [Me & U](https://open.spotify.com/track/7bA4pw66AARPLFVi14O7G4) | [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Me & U](https://open.spotify.com/album/5a8WNzwGYttrWURsqdzbuu) | 3:09 |
 | 36 | [pecos](https://open.spotify.com/track/1U4gvn7EQFC2RQgaYEthVa) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [pecos](https://open.spotify.com/album/52UqQdtl1tkSGMiSM7d8OV) | 3:07 |
 | 37 | [\(ENAMORADA\)](https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(enamorada\)](https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7) | 4:01 |
-| 38 | [no me importa](https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [no me importa](https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL) | 3:20 |
+| 38 | [dame luz](https://open.spotify.com/track/0neuCXxllFo1Vw4kfd5PIP) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [dame luz](https://open.spotify.com/album/4rxpOM6DZEs3W21Q758omg) | 3:09 |
 | 39 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
 | 40 | [ENCONTREMOS UNA MANERA](https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [ENCONTREMOS UNA MANERA](https://open.spotify.com/album/6f1tNlGmy7U1rIn9Ye94RC) | 2:14 |
-| 41 | [el silencio](https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [el silencio](https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL) | 3:38 |
-| 42 | [D U L C E](https://open.spotify.com/track/5wJyNrj7pygsFIwqsO5jjX) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [D U L C E](https://open.spotify.com/album/6L9ASSKb4Y5vRmNTJqRfMV) | 3:12 |
-| 43 | [dame luz](https://open.spotify.com/track/0neuCXxllFo1Vw4kfd5PIP) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [dame luz](https://open.spotify.com/album/4rxpOM6DZEs3W21Q758omg) | 3:09 |
-| 44 | [Nueva Era](https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Belleza De Las Flores](https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE) | 3:17 |
+| 41 | [Nueva Era](https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Belleza De Las Flores](https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE) | 3:17 |
+| 42 | [el silencio](https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [el silencio](https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL) | 3:38 |
+| 43 | [no me importa](https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [no me importa](https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL) | 3:20 |
+| 44 | [D U L C E](https://open.spotify.com/track/5wJyNrj7pygsFIwqsO5jjX) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [D U L C E](https://open.spotify.com/album/6L9ASSKb4Y5vRmNTJqRfMV) | 3:12 |
 | 45 | [\(pablo\)](https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [\(pablo\)](https://open.spotify.com/album/0IYvugDtQZMtKmePc4N2UZ) | 3:18 |
 | 46 | [La Teoría](https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [La Teoría](https://open.spotify.com/album/1mu6jH9g2iTjOLVrE51fpm) | 3:33 |
 | 47 | [monumento..](https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Cocó](https://open.spotify.com/artist/7wO9ayWlYsOX16S5xa3EXi) | [monumento..](https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl) | 2:50 |

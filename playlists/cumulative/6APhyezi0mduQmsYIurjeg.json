@@ -2599,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/419aOHm534nssVUrGdDr7U"
+      },
+      "artists": [
+        {
+          "name": "Chavez Cartel",
+          "url": "https://open.spotify.com/artist/6xOc7vQz5A564U7xBlP4e4"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260600,
+      "name": "Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/0G1Lbe5QtkLlSYSGCE1S9B"
+    },
+    {
+      "album": {
         "name": "FFS I'm in Love",
         "url": "https://open.spotify.com/album/7oyntLiTcBIE1WYeBAObe9"
       },
@@ -6104,6 +6122,24 @@
       "duration_ms": 234415,
       "name": "O Porqu\u00ea da Gente",
       "url": "https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2"
+    },
+    {
+      "album": {
+        "name": "O Tanto Que Eu Vi",
+        "url": "https://open.spotify.com/album/1aUb5WUyk5oVNwzj9i8fNr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Martins",
+          "url": "https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249069,
+      "name": "O Tanto Que Eu Vi",
+      "url": "https://open.spotify.com/track/3KA0P8blih3jzimdZqrI0j"
     },
     {
       "album": {
