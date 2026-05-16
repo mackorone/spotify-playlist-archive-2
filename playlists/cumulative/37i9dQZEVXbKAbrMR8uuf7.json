@@ -4429,6 +4429,24 @@
     },
     {
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293802,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
+    },
+    {
+      "album": {
         "name": "BIM BIM",
         "url": "https://open.spotify.com/album/42DF6QgKuMRl0bpmiyVnGv"
       },
@@ -12561,6 +12579,28 @@
     },
     {
       "album": {
+        "name": "El Sultan",
+        "url": "https://open.spotify.com/album/2v4XazZcpTLdAc2vYWgfJI"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "Alofoke Music",
+          "url": "https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125610,
+      "name": "El Sultan",
+      "url": "https://open.spotify.com/track/5xqYr8nQrffPIoAFRJWpNF"
+    },
+    {
+      "album": {
         "name": "Mis Exitos",
         "url": "https://open.spotify.com/album/7BbQ2lq3LcsdNGp6vI3CUu"
       },
@@ -16560,7 +16600,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 114407,
       "name": "Hagan De To Meno Da\u00f1o",
       "url": "https://open.spotify.com/track/708q7FVfLLHwipRUYeKTbD"
@@ -19548,7 +19588,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -19622,6 +19662,24 @@
       "duration_ms": 119280,
       "name": "La Casa de Alofoke 2",
       "url": "https://open.spotify.com/track/4s3vKG8pImhaN5T01dKQZb"
+    },
+    {
+      "album": {
+        "name": "La Chica Que Me Gusta",
+        "url": "https://open.spotify.com/album/1cMw4PZMXJ71SNBJWpXlIY"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139949,
+      "name": "La Chica Que Me Gusta",
+      "url": "https://open.spotify.com/track/3iPj7xZE0Rq0WsiHILB6HX"
     },
     {
       "album": {
@@ -23918,7 +23976,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 105091,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/2WNPfZJA4tUJw4FF47YTl4"
@@ -38165,7 +38223,7 @@
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160000,
+      "duration_ms": 159999,
       "name": "Skokka",
       "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
     },

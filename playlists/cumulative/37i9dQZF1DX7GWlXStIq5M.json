@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 152521,
       "name": "amanh\u00e3 de manh\u00e3",
       "url": "https://open.spotify.com/track/7re1atoPYsUFVx2Kv6mOqK"
@@ -2914,6 +2914,24 @@
       "duration_ms": 151807,
       "name": "Batom Vermelho",
       "url": "https://open.spotify.com/track/6SxNVigLtUeoXKTYH5iicx"
+    },
+    {
+      "album": {
+        "name": "Baunilha",
+        "url": "https://open.spotify.com/album/5FQpFAn13w2MoL370CkkkV"
+      },
+      "artists": [
+        {
+          "name": "Sofia Oliveira",
+          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189054,
+      "name": "Baunilha",
+      "url": "https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk"
     },
     {
       "album": {

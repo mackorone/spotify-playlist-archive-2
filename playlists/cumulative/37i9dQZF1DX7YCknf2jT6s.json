@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Nduduzo Makhathini",
+  "description": "New jazz for open minds. Cover: Yussef Dayes",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 496560,
       "name": "All Blues",
       "url": "https://open.spotify.com/track/7a1HnCoNpHjzWEeXX0hedX"
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 389682,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/5cq0SJYbVoV8uWsenQPbod"
@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 407552,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/0A1BAZGroEdUY7XiokOuWe"
@@ -4413,6 +4413,28 @@
     },
     {
       "album": {
+        "name": "Beyond The Dawn",
+        "url": "https://open.spotify.com/album/1dkOD4wEFe4Y0tuHS1vrXn"
+      },
+      "artists": [
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        },
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334800,
+      "name": "Beyond The Dawn",
+      "url": "https://open.spotify.com/track/0UyGgJdVrIlktu6ybISlft"
+    },
+    {
+      "album": {
         "name": "A STORY ABOUT YOU",
         "url": "https://open.spotify.com/album/6YB2R3p6K2X6Slkiq1w4t2"
       },
@@ -6400,7 +6422,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 281169,
       "name": "Canarin Da Alemanha",
       "url": "https://open.spotify.com/track/7a31mnCt4m4sJ7ugn7H0c6"
@@ -6997,6 +7019,24 @@
     },
     {
       "album": {
+        "name": "CHASING LIGHT / ZERO",
+        "url": "https://open.spotify.com/album/3vuDWBhPlyIsj0hxV1EH6x"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180978,
+      "name": "CHASING LIGHT",
+      "url": "https://open.spotify.com/track/4wtek4oeUWTz0Rmsg2eeAr"
+    },
+    {
+      "album": {
         "name": "Chasing Shadows",
         "url": "https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg"
       },
@@ -7140,6 +7180,24 @@
       "duration_ms": 264880,
       "name": "Chemical X",
       "url": "https://open.spotify.com/track/3nHQOFh1evDtoyrprDHLih"
+    },
+    {
+      "album": {
+        "name": "Chi Ave/A Love Letter To Salvador",
+        "url": "https://open.spotify.com/album/2i4B2yQ4EOv0xjjNAwNUww"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281520,
+      "name": "Chi Ave/A Love Letter To Salvador",
+      "url": "https://open.spotify.com/track/1LWMeSQAQwxQMU5iliTVWc"
     },
     {
       "album": {
@@ -7980,6 +8038,36 @@
       "duration_ms": 193342,
       "name": "Conga a la Americana",
       "url": "https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH"
+    },
+    {
+      "album": {
+        "name": "Congregation",
+        "url": "https://open.spotify.com/album/2pboJ3IteRNoLzOqHDn5az"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "Asante Santi Debriano",
+          "url": "https://open.spotify.com/artist/1AdgjVEMk6jR2OA3Mc5QT3"
+        },
+        {
+          "name": "Will Calhoun",
+          "url": "https://open.spotify.com/artist/03Fr2b89fbLWKq5skHknPV"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335942,
+      "name": "Congregation",
+      "url": "https://open.spotify.com/track/3pZudU7jNsXF9s1bHtmNd1"
     },
     {
       "album": {
@@ -11852,7 +11940,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 203230,
       "name": "Everyday Words",
       "url": "https://open.spotify.com/track/3hxax15bX4YjgMEDhcDGYc"
@@ -12560,6 +12648,32 @@
       "duration_ms": 130912,
       "name": "feel",
       "url": "https://open.spotify.com/track/0FpWFfW0yqpCIfgw4QCuuL"
+    },
+    {
+      "album": {
+        "name": "Feeling The Pressure",
+        "url": "https://open.spotify.com/album/3yTWu72o649wrgt33VT3eq"
+      },
+      "artists": [
+        {
+          "name": "Fel Mont",
+          "url": "https://open.spotify.com/artist/2u9EuWRv2cyDO5L3T5SuCO"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Delia Li",
+          "url": "https://open.spotify.com/artist/7tlRw4KWHqV3GqL8bVfJ9b"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160586,
+      "name": "Feeling The Pressure",
+      "url": "https://open.spotify.com/track/2jwqf5LH5a3jHMN5oXZYcf"
     },
     {
       "album": {
@@ -14937,6 +15051,24 @@
     },
     {
       "album": {
+        "name": "Good Kid",
+        "url": "https://open.spotify.com/album/32QN9B8UTaw1XT9mrna9eL"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Good Kid",
+      "url": "https://open.spotify.com/track/1AoNFXIVVR0j4aTO28Wxuw"
+    },
+    {
+      "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/2jRRxTkUcl6dNjsbSCHByO"
       },
@@ -15446,6 +15578,40 @@
       "duration_ms": 288000,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/5QwPTrz8MBmCxsR3NOfbc0"
+    },
+    {
+      "album": {
+        "name": "Happy Today",
+        "url": "https://open.spotify.com/album/3skYxKUaW4eEybNFSfpcK8"
+      },
+      "artists": [
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        },
+        {
+          "name": "ETA IVtet",
+          "url": "https://open.spotify.com/artist/3uZdiO7Irq5xyxDGjElwCw"
+        },
+        {
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+        },
+        {
+          "name": "Jay Bellerose",
+          "url": "https://open.spotify.com/artist/6zksXzSSmpDaX1eN4Kx6sf"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1249790,
+      "name": "Happy Today (feat. Anna Butterss, Jay Bellerose & Josh Johnson)",
+      "url": "https://open.spotify.com/track/0xYBwpDYK1psI9TS9Kua43"
     },
     {
       "album": {
@@ -18143,6 +18309,32 @@
     },
     {
       "album": {
+        "name": "Intrepid Traveller",
+        "url": "https://open.spotify.com/album/65L6ZPuO7WChBvYNmBsSEI"
+      },
+      "artists": [
+        {
+          "name": "Simon Phillips",
+          "url": "https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy"
+        },
+        {
+          "name": "Phillip Whack",
+          "url": "https://open.spotify.com/artist/4lnvZfKIPepTetpaKdBn86"
+        },
+        {
+          "name": "Alex Sill",
+          "url": "https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467114,
+      "name": "Intrepid Traveller",
+      "url": "https://open.spotify.com/track/3tb1taUkDZMWb0zqF9SSY1"
+    },
+    {
+      "album": {
         "name": "Intrigue",
         "url": "https://open.spotify.com/album/23IbC5tPasCb239xGjuTQB"
       },
@@ -20574,7 +20766,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 235999,
       "name": "Lee\u2019s Greenhouse (feat. Mei Semones)",
       "url": "https://open.spotify.com/track/21tmsyOELNT4ZAjR4vAr3K"
@@ -21088,7 +21280,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 561266,
       "name": "Like Swimwear (part one)",
       "url": "https://open.spotify.com/track/1ttks5ebqr2Ghk3RoTEHqX"
@@ -29285,6 +29477,28 @@
     },
     {
       "album": {
+        "name": "Pursuance",
+        "url": "https://open.spotify.com/album/7nCIpXXl5aa0nZLbguWyNf"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322813,
+      "name": "Pursuance",
+      "url": "https://open.spotify.com/track/0adIBPfUdFtCT2cEuHt0px"
+    },
+    {
+      "album": {
         "name": "Familiar Places",
         "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
       },
@@ -33492,7 +33706,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 212306,
       "name": "Soundcheck",
       "url": "https://open.spotify.com/track/7DcknLWWblOGskMOoaKtDe"
@@ -36623,6 +36837,32 @@
     },
     {
       "album": {
+        "name": "The Earl of Essex County",
+        "url": "https://open.spotify.com/album/6L4cqEyxQaTFsoo7PTkIpU"
+      },
+      "artists": [
+        {
+          "name": "Sam Barsh",
+          "url": "https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Mark Guiliana",
+          "url": "https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302400,
+      "name": "The Earl of Essex County",
+      "url": "https://open.spotify.com/track/2PZWcfquopNgSaOSQBRd2x"
+    },
+    {
+      "album": {
         "name": "Motions",
         "url": "https://open.spotify.com/album/6VcLyA6KkelIAWkmmyQhuh"
       },
@@ -39146,7 +39386,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 393535,
       "name": "Todd 4",
       "url": "https://open.spotify.com/track/5p9SieepTChWGS2INF3htP"
@@ -41764,7 +42004,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 326946,
       "name": "We Dream",
       "url": "https://open.spotify.com/track/3Vm6ZcXBungAt8Dc18PqIg"

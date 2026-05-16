@@ -4,7 +4,7 @@
 
 > time to strike a couple of poses\. cover: Chloe Qisha
 
-84 songs - 4 hr 14 min
+86 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [I Always Knew](https://open.spotify.com/track/3795oPflx7wwOBKJC462ao) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [I Always Knew](https://open.spotify.com/album/7zFrN4PbAIWP85Atr17wvi) | 3:42 | 2026-03-05 | 2026-03-27 |
 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 | 2026-03-05 |  |
 | [I could be your indie darling](https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [I could be your indie darling](https://open.spotify.com/album/6D9J3eZhFYkbV4wVdYsluH) | 3:17 | 2026-03-05 | 2026-03-27 |
+| [INDULGENCE](https://open.spotify.com/track/36Z5hs5XSo6ByQkjCmEp6i) | [EFI](https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw) | [INDULGENCE](https://open.spotify.com/album/2tsyh7W220NtU1qFueIax0) | 3:00 | 2026-05-14 |  |
 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 | 2026-05-01 |  |
 | [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 | 2026-03-05 | 2026-03-27 |
 | [KARMA](https://open.spotify.com/track/6L23msZhO3PhVhnzImb0M1) | [DREAMGALS](https://open.spotify.com/artist/7ofbBBTVmWRRkg9T9sUB0L), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [KARMA](https://open.spotify.com/album/0n05dFgYuxRUVyT5pjgF1s) | 3:10 | 2026-04-09 | 2026-05-02 |
@@ -70,6 +71,7 @@
 | [So Cute](https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [So Cute](https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI) | 3:35 | 2026-04-09 |  |
 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 | 2026-03-05 |  |
 | [SOUR GRAPE](https://open.spotify.com/track/2GgBQrVEjRoIvJO1SFaUA3) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [SOUR GRAPE](https://open.spotify.com/album/66CaiDuiDrxLpIiFKwEueS) | 1:56 | 2026-03-05 | 2026-03-27 |
+| [STARSTRUCK](https://open.spotify.com/track/25bsd4PQd6kFL0bE7xqY9M) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [STARSTRUCK](https://open.spotify.com/album/2cRQtKWMhcmoRwWR7IwnnP) | 2:57 | 2026-05-14 |  |
 | [Stranger's Funeral](https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Stranger's Funeral](https://open.spotify.com/album/5n9BwlAdpF815L01sIed5l) | 3:43 | 2026-04-09 | 2026-05-02 |
 | [substack girl](https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [substack girl](https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl) | 2:40 | 2026-03-05 | 2026-05-02 |
 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2026-03-05 | 2026-03-27 |

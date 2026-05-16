@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-579 songs - 1 day 8 hr 35 min
+580 songs - 1 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 | 2022-09-09 | 2024-04-19 |
 | [Mentirosa](https://open.spotify.com/track/5l84vnSjoeOeMFNVbyRKVH) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:14 | 2022-11-04 | 2022-11-13 |
 | [Mentirosa](https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm) | 3:15 | 2022-01-21 | 2022-09-11 |
+| [Mi Eterno Rencor](https://open.spotify.com/track/3Llp96sHplgFKMJkAWPxpU) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Mi Eterno Rencor](https://open.spotify.com/album/0CVPHpC8xuslIkbI7L1Hke) | 2:58 | 2026-05-15 |  |
 | [Mi Figurita](https://open.spotify.com/track/0e1ZHxouYIXP1XaxdTEO7V) | [Como Suena](https://open.spotify.com/artist/6mMF00MGSqk8MT3c31YRSg), [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe) | [Mi Figurita](https://open.spotify.com/album/3qIZHzb0e132TyVGJQtTxd) | 3:04 | 2022-02-04 | 2022-07-12 |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O) | 3:24 | 2023-10-06 | 2024-11-02 |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs) | 4:55 | 2024-06-14 |  |
@@ -379,7 +380,7 @@
 | [Perdida en Ti](https://open.spotify.com/track/2e80JiBWajKMkPOIeDw4Kp) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Un Dia sin ti / Perdida en ti / Digale](https://open.spotify.com/album/1HPGcouk9Hex12Hs9G2foR) | 3:06 | 2023-06-02 | 2023-06-10 |
 | [Perdoname](https://open.spotify.com/track/6CBqiWLSkGN7szUkaxKRFx) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Perdoname](https://open.spotify.com/album/6r0KL8RMANGN9gyiSetBrz) | 3:51 | 2022-01-21 | 2022-04-20 |
 | [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 | 2024-05-24 |  |
-| [Pero No Puedo Vol.2](https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Pero No Puedo Vol.2](https://open.spotify.com/album/3ne9oJyuZbSjtlACDhzc7L) | 3:06 | 2025-05-02 |  |
+| [Pero No Puedo Vol.2](https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Pero No Puedo Vol.2](https://open.spotify.com/album/3ne9oJyuZbSjtlACDhzc7L) | 3:06 | 2025-05-02 | 2026-05-16 |
 | [Pideme la Luna](https://open.spotify.com/track/69dck8DkCQr45RNexlWZq0) | [Ke Aparato](https://open.spotify.com/artist/6wIYNVaeKZpSC4asngCp6M), [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Pideme la luna](https://open.spotify.com/album/0O4nyQIKiBo9JaDBzkY94W) | 2:51 | 2023-10-20 | 2023-12-09 |
 | [Piel y Huesos](https://open.spotify.com/track/4xtRpCuA9EHceVZKERguSt) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Piel y Huesos](https://open.spotify.com/album/2Cl7E7XTjxzsYBEiTQqsxw) | 3:18 | 2024-05-10 | 2024-06-22 |
 | [Piensame](https://open.spotify.com/track/3DnSi9XRkcqEOHPaYcMeHr) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Ep N\-Blq 33](https://open.spotify.com/album/5h61fNKIiR3eleB74l8xCv) | 2:57 | 2022-04-01 | 2022-07-14 |

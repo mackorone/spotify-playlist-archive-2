@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Wilhelmine
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,699 likes - 90 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,623 likes - 90 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/5t201vMU4MTLtWeCBOBNRZ) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [nur Mut](https://open.spotify.com/album/0R0MoBwi0gobIp6s1Nybrd) | 0:00 |
+| 1 | [ich gebe alles](https://open.spotify.com/track/5t201vMU4MTLtWeCBOBNRZ) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [nur Mut](https://open.spotify.com/album/0R0MoBwi0gobIp6s1Nybrd) | 3:10 |
 | 2 | [Seelenruhig](https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Seelenruhig](https://open.spotify.com/album/2agvFxxjA2iS17SNoAnWTZ) | 2:42 |
 | 3 | [NIE WIEDER](https://open.spotify.com/track/7MLQqu5BcNGO78I4ozefEv) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [NIE WIEDER](https://open.spotify.com/album/5GSAR1jAcRlCAHLr5g1Rza) | 2:14 |
-| 4 | [Track 2](https://open.spotify.com/track/5ZatvuoTuGsOUj4DqCR6xH) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [TESTPHASE LIEBE](https://open.spotify.com/album/2nYaZhXmzgIGGV6plCUjD0) | 0:00 |
+| 4 | [WIE GEHT FLIEGEN](https://open.spotify.com/track/5ZatvuoTuGsOUj4DqCR6xH) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [TESTPHASE LIEBE](https://open.spotify.com/album/2nYaZhXmzgIGGV6plCUjD0) | 2:33 |
 | 5 | [Merci Chérie \- Eine Hommage an Udo Jürgens](https://open.spotify.com/track/1xm3ihvK0g2eKBdOqHUjOG) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Merci Chérie \(Eine Hommage an Udo Jürgens\)](https://open.spotify.com/album/6RuUX1qqcSqaSTcXxdhvyW) | 2:16 |
 | 6 | [tanz aus der reihe.](https://open.spotify.com/track/01p61G93AOoD9Msb9pdBfP) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tanz aus der reihe.](https://open.spotify.com/album/2dwI089I2sUSZt8T1qUuK2) | 2:03 |
 | 7 | [Highlightmensch](https://open.spotify.com/track/0GJzrvLzIXyALPh4qNszSL) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX), [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [Highlightmensch](https://open.spotify.com/album/6iQTySWAj92CH2vWjKZoRK) | 3:08 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 13 | [Komet](https://open.spotify.com/track/35GKgDcswCvp0569VYbcVi) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Udo Lindenberg](https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Komet](https://open.spotify.com/album/11pxsHHLazYNScW5mz9GSN) | 3:36 |
 | 14 | [VERMISS DICH](https://open.spotify.com/track/4r6Aws9aiJdYpG4cS1vrJ1) | [CHRIS](https://open.spotify.com/artist/5KFGB68TTW3x2GFT8o00rL) | [VERMISS DICH](https://open.spotify.com/album/2Iv9uGJkD15qyUDhKxvVvh) | 2:08 |
 | 15 | [Zuhause](https://open.spotify.com/track/0UOrDOuL0LMoBABdhS2aFe) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Zuhause](https://open.spotify.com/album/1Oah8D3dVIvryOs4nQRQ3V) | 3:15 |
-| 16 | [Track 7](https://open.spotify.com/track/07NhhkTJgIFS0ZrC847dEb) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [eine kleine nacht ep](https://open.spotify.com/album/77idFTs70HXrdab52Enr8A) | 0:00 |
+| 16 | [spieglein](https://open.spotify.com/track/07NhhkTJgIFS0ZrC847dEb) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [eine kleine nacht ep](https://open.spotify.com/album/77idFTs70HXrdab52Enr8A) | 2:21 |
 | 17 | [zufrieden](https://open.spotify.com/track/5H9Zad8uqdWkfKygwYjZvv) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [zufrieden](https://open.spotify.com/album/5ajFVeGBHKkocRlrGCOWAx) | 2:16 |
 | 18 | [f u 4ever](https://open.spotify.com/track/0SMBlIwsSoMEAjOjRXcJbV) | [Anne West](https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP) | [f u 4ever](https://open.spotify.com/album/4YEZmC5rMKbKcUsTathsbu) | 2:35 |
 | 19 | [Stolz auf dich](https://open.spotify.com/track/63DlZ36ns5cwDmPgeDXqjB) | [ENKAY](https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j) | [Stolz auf dich](https://open.spotify.com/album/7l4ntqUQwfmoocsbY5DDMB) | 3:07 |

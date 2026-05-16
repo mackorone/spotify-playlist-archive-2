@@ -1,13 +1,41 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Mayukh Velagapudi",
-  "num_followers": 44084,
+  "num_followers": 44090,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANn0mF/vVKQHHj/6d9SdJQlg6H5e",
+  "snapshot_id": "AAAAAN6iIYtGY4ZapEH03+aId8wa1IOX",
   "tracks": [
+    {
+      "added_at": "2026-05-15 06:15:24",
+      "album": {
+        "name": "Nee Kalle",
+        "url": "https://open.spotify.com/album/4OmUsM5RJoTh9JOcwRcWXo"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Srirag Vadlakonda",
+          "url": "https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        }
+      ],
+      "duration_ms": 193697,
+      "name": "Nee Kalle",
+      "url": "https://open.spotify.com/track/1VYwiZpCXmsUvgkAhKn66o"
+    },
     {
       "added_at": "2026-05-01 00:31:27",
       "album": {
@@ -31,6 +59,38 @@
       "duration_ms": 227666,
       "name": "Ee Premanthaa Neeve",
       "url": "https://open.spotify.com/track/1QFEtarIwjZapBf7PMxKMM"
+    },
+    {
+      "added_at": "2026-05-01 00:31:27",
+      "album": {
+        "name": "Cheliya",
+        "url": "https://open.spotify.com/album/1GX7iRuOaLtEb5NJ4oWYOD"
+      },
+      "artists": [
+        {
+          "name": "Uday Kiran UK",
+          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
+        }
+      ],
+      "duration_ms": 228837,
+      "name": "Cheliya",
+      "url": "https://open.spotify.com/track/2UnjIOmRH41lHXX0vLSa97"
+    },
+    {
+      "added_at": "2026-05-15 06:15:24",
+      "album": {
+        "name": "Amma",
+        "url": "https://open.spotify.com/album/45WmiWqunnT90rWWOwBcqB"
+      },
+      "artists": [
+        {
+          "name": "G.M. Sathish",
+          "url": "https://open.spotify.com/artist/0m9blwcUpRErTUJSNVn7Mb"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Amma",
+      "url": "https://open.spotify.com/track/4o7tPAJ4vDbBHzM8pJZOyr"
     },
     {
       "added_at": "2026-05-04 09:49:26",
@@ -97,6 +157,22 @@
       "url": "https://open.spotify.com/track/01bofO4sNrsVWuBUb3jNh9"
     },
     {
+      "added_at": "2026-05-15 06:15:24",
+      "album": {
+        "name": "Goddamn Beauty",
+        "url": "https://open.spotify.com/album/16Fxgm4g53UomKgFxHaFMP"
+      },
+      "artists": [
+        {
+          "name": "C Shor",
+          "url": "https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR"
+        }
+      ],
+      "duration_ms": 125802,
+      "name": "Goddamn Beauty",
+      "url": "https://open.spotify.com/track/0jJZjXt0xaUvQZ8nqvNrYW"
+    },
+    {
       "added_at": "2026-05-04 06:27:21",
       "album": {
         "name": "Will You Be Mine (Telugu)",
@@ -139,22 +215,6 @@
       "duration_ms": 196768,
       "name": "Marichaaney",
       "url": "https://open.spotify.com/track/2aMgUQuRWPbJhpkhlZMeDG"
-    },
-    {
-      "added_at": "2026-05-01 00:31:27",
-      "album": {
-        "name": "Cheliya",
-        "url": "https://open.spotify.com/album/1GX7iRuOaLtEb5NJ4oWYOD"
-      },
-      "artists": [
-        {
-          "name": "Uday Kiran UK",
-          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
-        }
-      ],
-      "duration_ms": 228837,
-      "name": "Cheliya",
-      "url": "https://open.spotify.com/track/2UnjIOmRH41lHXX0vLSa97"
     },
     {
       "added_at": "2026-05-01 00:31:27",

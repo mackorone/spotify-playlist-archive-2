@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 216662,
       "name": "Chicago Baby",
       "url": "https://open.spotify.com/track/2AkcyJ8tQtyrGfkWa6GKed"
@@ -10702,6 +10702,32 @@
       "duration_ms": 225307,
       "name": "Into My Ocean",
       "url": "https://open.spotify.com/track/5zEaK6zFSxlNwzBlKRQm9z"
+    },
+    {
+      "album": {
+        "name": "Into The Stars",
+        "url": "https://open.spotify.com/album/243ZRYVPo3ii4Lx9ZypDtD"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127179,
+      "name": "Into The Stars",
+      "url": "https://open.spotify.com/track/2lKdBuGfTlNrvro3ZtIOeG"
     },
     {
       "album": {
@@ -18111,6 +18137,28 @@
     },
     {
       "album": {
+        "name": "Fuego LP",
+        "url": "https://open.spotify.com/album/0M0zqlR3a0ZmxkFs7NuE5K"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Safe To Say",
+      "url": "https://open.spotify.com/track/6zjP0YVZnncoPd4uUzACMv"
+    },
+    {
+      "album": {
         "name": "Satisfaction Skank",
         "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
       },
@@ -23156,7 +23204,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 210014,
       "name": "whatever you do",
       "url": "https://open.spotify.com/track/7tYkpOOHN2YB5RhFkLPs6R"

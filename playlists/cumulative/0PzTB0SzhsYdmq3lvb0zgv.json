@@ -4755,6 +4755,24 @@
     },
     {
       "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/3sPCy4N4lU9SjrFmkLoRwF"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219451,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7mHTdjUQLBfnVVCio5xMyy"
+    },
+    {
+      "album": {
         "name": "Letters From The Day",
         "url": "https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP"
       },

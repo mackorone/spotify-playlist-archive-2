@@ -7097,6 +7097,24 @@
     },
     {
       "album": {
+        "name": "Fuzzy Bear",
+        "url": "https://open.spotify.com/album/30lW4A4g8PQHytRhKVLTEI"
+      },
+      "artists": [
+        {
+          "name": "Fukuro III",
+          "url": "https://open.spotify.com/artist/3TBOE0UjXKefc1CTMLqH6V"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88134,
+      "name": "Fuzzy Bear",
+      "url": "https://open.spotify.com/track/5T5yI7ACqowUmguehQb4gP"
+    },
+    {
+      "album": {
         "name": "Fuzzy Blanket",
         "url": "https://open.spotify.com/album/7bCYGWUWkA1BT8C1m2UH7F"
       },
@@ -9671,6 +9689,24 @@
     },
     {
       "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/5COalTp61HhoLqgQYy9Qww"
+      },
+      "artists": [
+        {
+          "name": "Leon North",
+          "url": "https://open.spotify.com/artist/6BYZLRIZ4j5SpLVRvAXH3f"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116062,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/3jFQwRfCzyYmPAtfP1A7Wa"
+    },
+    {
+      "album": {
         "name": "In The Arms Of The Night",
         "url": "https://open.spotify.com/album/5OIO61QnNmibGVmA3xy3pb"
       },
@@ -10546,7 +10582,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 81151,
       "name": "Lavender's Blue",
       "url": "https://open.spotify.com/track/7qPHRvDQPLUOM5JAGZAose"
@@ -11342,6 +11378,24 @@
       "duration_ms": 99909,
       "name": "Little Snuggles",
       "url": "https://open.spotify.com/track/2VHOHZjbuGaK3gGnFDrhW2"
+    },
+    {
+      "album": {
+        "name": "Little Star",
+        "url": "https://open.spotify.com/album/5bdUQk9DQ5bhmjq7gg9eeP"
+      },
+      "artists": [
+        {
+          "name": "Anna Florar",
+          "url": "https://open.spotify.com/artist/0TkhpiDAHT4xAaGOZfu3ea"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109856,
+      "name": "Little Star",
+      "url": "https://open.spotify.com/track/6fb38gZ2wUzxVPo7kIjJC0"
     },
     {
       "album": {
@@ -13775,6 +13829,24 @@
     },
     {
       "album": {
+        "name": "My Middle Pony",
+        "url": "https://open.spotify.com/album/0cHK6skSFUqi362WCz8DsS"
+      },
+      "artists": [
+        {
+          "name": "Gurona",
+          "url": "https://open.spotify.com/artist/5eVDdGwUmH8sPYmHRA1xsJ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135125,
+      "name": "My Middle Pony",
+      "url": "https://open.spotify.com/track/5tmJilLMAMjWI68ulTcFxY"
+    },
+    {
+      "album": {
         "name": "My Moonlight",
         "url": "https://open.spotify.com/album/3mPWcoL9GJPDUFZqHcWNfS"
       },
@@ -15712,7 +15784,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 116500,
       "name": "Princess Slumber",
       "url": "https://open.spotify.com/track/0h7okODqU0eBJTi9z1R5An"
@@ -19949,6 +20021,24 @@
     },
     {
       "album": {
+        "name": "Teddy\u2019s Goodnight",
+        "url": "https://open.spotify.com/album/20QpDUUqNMpSwuzU3ELywJ"
+      },
+      "artists": [
+        {
+          "name": "Leon Archer",
+          "url": "https://open.spotify.com/artist/3WyWYz0cGQQ0LPVHGgdE47"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118991,
+      "name": "Teddy\u2019s Goodnight",
+      "url": "https://open.spotify.com/track/25GsfpupLgLuTQFCmWL1tG"
+    },
+    {
+      "album": {
         "name": "Teeny Tiny Baby Birds",
         "url": "https://open.spotify.com/album/6y0oN1tnfkvaq7gp5Sm9bL"
       },
@@ -20392,7 +20482,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 79670,
       "name": "The Ever So Elegant Elephant",
       "url": "https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm"
@@ -21004,7 +21094,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 123682,
       "name": "The Sleepy Sea",
       "url": "https://open.spotify.com/track/0JRJX4a3919BlxqSivKrko"
@@ -21044,6 +21134,24 @@
       "duration_ms": 100317,
       "name": "The Slow Swing of the Sea",
       "url": "https://open.spotify.com/track/5tfFLj6oYEsmiewGDilnvT"
+    },
+    {
+      "album": {
+        "name": "The Soft Echo of Baby Stars",
+        "url": "https://open.spotify.com/album/5oXHmWZr8ZT49ap2H98W5O"
+      },
+      "artists": [
+        {
+          "name": "Sussan Hann",
+          "url": "https://open.spotify.com/artist/07CXGJ8MCWEmCJ5ZWlN0M0"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103296,
+      "name": "The Soft Echo of Baby Stars",
+      "url": "https://open.spotify.com/track/4E8gR69oyeFMGiV3vuP1v5"
     },
     {
       "album": {
@@ -22660,7 +22768,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 129750,
       "name": "Under a Tall Tree",
       "url": "https://open.spotify.com/track/7wwhe5wyWF23B9kkQR2SXS"
@@ -23326,7 +23434,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 134334,
       "name": "When Dreams Fly",
       "url": "https://open.spotify.com/track/2hQ7sJDUL9zA3JmimT3Syv"

@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-194 songs - 9 hr 29 min
+195 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Window to the Past](https://open.spotify.com/track/1PPTlPJqKuL0fdoTmzwXJy) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 3:54 | 2024-09-10 |  |
 | [Abendruhe](https://open.spotify.com/track/78rnp2gjXUMTxTCL546pWY) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Zauchensee](https://open.spotify.com/album/4G5j00B5FgozGgqpgyA0Ay) | 2:48 | 2022-06-03 | 2022-11-09 |
 | [Adam and Meshell](https://open.spotify.com/track/2lkuN8OSDJ1EnVPPsHdMOc) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Adam and Meshell](https://open.spotify.com/album/1idAqCkBhL5Ijhp76BEwfX) | 2:47 | 2022-05-20 | 2022-11-09 |
+| [Adulta](https://open.spotify.com/track/20HkJbvVcpramHwwMg6gr3) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Adulta](https://open.spotify.com/album/4DDy87wXTLUIJGmkoGGpSd) | 1:41 | 2026-05-15 |  |
 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 | 2022-03-09 | 2022-11-09 |
 | [Alicia's Noir](https://open.spotify.com/track/47CFKKFp99Wjk3QIyVJnVo) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Alicia's Noir](https://open.spotify.com/album/3y5m3gy0dxv10z5czMmcWH) | 3:19 | 2022-07-29 | 2022-11-09 |
 | [All Must Choose](https://open.spotify.com/track/71g5Rk5G0FAj0Y1hcfjaXq) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 4:44 | 2024-08-23 |  |

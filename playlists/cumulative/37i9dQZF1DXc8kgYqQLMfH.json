@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 139000,
       "name": "Coral",
       "url": "https://open.spotify.com/track/4KTacnNgzYUSjzPfmqqrQZ"
@@ -5916,6 +5916,24 @@
       "duration_ms": 108007,
       "name": "Drifts",
       "url": "https://open.spotify.com/track/6dVh5O3D90UCCHQdiecG6H"
+    },
+    {
+      "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/2NHKDzAbt6fl01Wvj7KE67"
+      },
+      "artists": [
+        {
+          "name": "nat boyce",
+          "url": "https://open.spotify.com/artist/3YGcEAKWOuLol94NCdOspi"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125806,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/731zwJtUsukNZwsucOSI1c"
     },
     {
       "album": {
@@ -7892,7 +7910,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 110438,
       "name": "Folded Rhythm",
       "url": "https://open.spotify.com/track/7vvBoOT2L8QrXB5LY1beo1"
@@ -24458,6 +24476,32 @@
       "duration_ms": 164000,
       "name": "Whiskey on the rocks",
       "url": "https://open.spotify.com/track/55XFlOD8d0N5tw4ab6CmKB"
+    },
+    {
+      "album": {
+        "name": "whisper me home",
+        "url": "https://open.spotify.com/album/6uUj9ck0xb3D3IBn8ojlM7"
+      },
+      "artists": [
+        {
+          "name": "alhivi",
+          "url": "https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P"
+        },
+        {
+          "name": "L\u00f3rien Loops",
+          "url": "https://open.spotify.com/artist/4obNM3Q6nZn9zpmlzsSdCR"
+        },
+        {
+          "name": "forever dreaming",
+          "url": "https://open.spotify.com/artist/7sFBr3PEjRa5qVSD75VAFZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "whisper me home",
+      "url": "https://open.spotify.com/track/5Xf0awOgjwqBTyRd2PHtUw"
     },
     {
       "album": {

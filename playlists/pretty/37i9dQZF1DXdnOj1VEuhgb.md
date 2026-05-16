@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Laçin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,357 likes - 48 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,307 likes - 48 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CADDEBOSTAN](https://open.spotify.com/track/3SYOo45VXHJyoacpLQVEfb) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BABAYLA ZOR YARIŞIRLAR](https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij) | 2:02 |
-| 2 | [Track 5](https://open.spotify.com/track/4pm0Eh3rW3pSbVnUqU08Nj) | [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [DIVA/NE EP pt.1](https://open.spotify.com/album/6wb7KX8SDspzJzbREsBO8S) | 0:00 |
+| 2 | [Oyna](https://open.spotify.com/track/4pm0Eh3rW3pSbVnUqU08Nj) | [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa), [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [DIVA/NE EP pt.1](https://open.spotify.com/album/6wb7KX8SDspzJzbREsBO8S) | 3:15 |
 | 3 | [\#işbirliği](https://open.spotify.com/track/7pY0EgXq4SAl0dHjtkxdUe) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [valiz](https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7) | 1:59 |
 | 4 | [ADIMIZ TÜRKİYE](https://open.spotify.com/track/5ZDrQKObDyXFG9M0KdqmT4) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [ADIMIZ TÜRKİYE](https://open.spotify.com/album/4fDP4hSPHW85yIctaiaL6S) | 3:02 |
 | 5 | [alışmak zor](https://open.spotify.com/track/76vHk22vx3DI1StPdIgN10) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Waxy](https://open.spotify.com/artist/6vHGyEavhmG06FNpoUPUMi) | [alışmak zor](https://open.spotify.com/album/1hIt5OIABG2HuN9UhaYaxQ) | 2:12 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 13 | [bir kez sarılamadık](https://open.spotify.com/track/6HZzubfsNVFcu9jma4c25c) | [Arda Gezer](https://open.spotify.com/artist/1fCfko2pBGowIzqjakqxF8), [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw), [SALİ](https://open.spotify.com/artist/6ppkNaM5kypGlnXcDhgU5n), [Archie](https://open.spotify.com/artist/1hFmJ0sdTBcAQpjq2fx6Ky) | [bir kez sarılamadık](https://open.spotify.com/album/0tbwLwdFgFiaX0Yq4ARxX6) | 2:46 |
 | 14 | [Sevdin mi en berbat halimi?](https://open.spotify.com/track/2hsJGGz9VifPmGvYX5lDIa) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Duru](https://open.spotify.com/artist/30f7VIGbxoWl9QzGj9HJql) | [Sevdin mi en berbat halimi?](https://open.spotify.com/album/0Kqwg92cX4pSxVvmVxfjKE) | 2:45 |
 | 15 | [Geceleri Yak](https://open.spotify.com/track/0hZsxXnrkDzPQjGvxsyN39) | [Özgür Can Öney](https://open.spotify.com/artist/0mdkoEXJCZJnotvhLzy459), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Geceleri Yak](https://open.spotify.com/album/03Ca6kSiAXwj4XIy1vJFIg) | 3:31 |
-| 16 | [Track 1](https://open.spotify.com/track/4yu1f3GuaWDW8oLWmzuLX7) | [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [DIVA/NE EP pt.1](https://open.spotify.com/album/6wb7KX8SDspzJzbREsBO8S) | 0:00 |
+| 16 | [Üstünde Adın Var](https://open.spotify.com/track/4yu1f3GuaWDW8oLWmzuLX7) | [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa), [akca](https://open.spotify.com/artist/1OBAc1CshCapEzN3cfmNtc) | [DIVA/NE EP pt.1](https://open.spotify.com/album/6wb7KX8SDspzJzbREsBO8S) | 2:29 |
 | 17 | [Bana Zaman Ver](https://open.spotify.com/track/5w7kRSCo1Ay0eEnUB5lzYd) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Sen Uyurken](https://open.spotify.com/album/6g6KEbsHtgo7uesoYPxxhK) | 1:34 |
 | 18 | [muamma \- ulubatlı](https://open.spotify.com/track/6NA2roNRPCo9k2Oprh0zGQ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [muamma \(ulubatlı\)](https://open.spotify.com/album/6eZNFmDx1hVjp3mweyiTEO) | 3:08 |
 | 19 | [ZAMAN DARALIYO](https://open.spotify.com/track/1HuerSLYwbPmmgyvaz3iEu) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [ZAMAN DARALIYO](https://open.spotify.com/album/4jxXEGt2JliUC5RAB6fCcU) | 2:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: DJ Seinfeld
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,797 likes - 174 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,817 likes - 174 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 4 | [Take Me To The Moon \- Gerd Edit](https://open.spotify.com/track/4ygJ9RuE16fnMJby8yHJPg) | [Niccolò Turini](https://open.spotify.com/artist/0IIrOJQvItukEOcCFGNOtA), [Gerd](https://open.spotify.com/artist/29IzCNDrWGPFXMmtCY3N83) | [Cutting Sound](https://open.spotify.com/album/4Om2Mioj52kbYTYeU3xXro) | 5:13 |
 | 5 | [Endlessly \(feat\. BEA1991\)](https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v) | [Jump Source](https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Fold](https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1) | 5:57 |
 | 6 | [Dance Floor DNA](https://open.spotify.com/track/37mHvuXH3cz2Dkl23ypqbc) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [People Like Us](https://open.spotify.com/artist/1eoZqCJaXrv0twvlZ1ddx6) | [Dance Floor DNA](https://open.spotify.com/album/1NB9rSzY8QhpqZuUQN1WFj) | 3:17 |
-| 7 | [Track 4](https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Shake Down EP](https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1) | 0:00 |
+| 7 | [Alex](https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Shake Down EP](https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1) | 4:41 |
 | 8 | [Insane](https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Insane](https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp) | 3:44 |
 | 9 | [Real, You Know?!](https://open.spotify.com/track/5sjsIBzfE5cfRj8XBkk5B8) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Real, You Know?!](https://open.spotify.com/album/3Y6tmTccFgBNu3OxrA61Yk) | 3:56 |
 | 10 | [Elktorn](https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Elktorn / All I Could Think Of](https://open.spotify.com/album/3BxXWUYHyBQUpEwuXYCaqw) | 2:38 |

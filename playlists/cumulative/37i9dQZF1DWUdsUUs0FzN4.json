@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "bailando en el antro con Nana Nina hasta el amanecer ",
+  "description": "bailando en el antro con Fito Silva, Cachirula y LOOJAN hasta el amanecer ",
   "name": "ANTRO ",
   "tracks": [
     {
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 165934,
       "name": "Bellakeras",
       "url": "https://open.spotify.com/track/48X4uznQyqCkklQ9278oj6"
@@ -3841,6 +3841,28 @@
     },
     {
       "album": {
+        "name": "Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/2nJGIhn24efI0YQVCvAxDp"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
+        {
+          "name": "PBJ",
+          "url": "https://open.spotify.com/artist/4dkYg7BkqHtFtAYb5JsDsP"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162980,
+      "name": "Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/3EmPNpenfX19hm2eIBIsoe"
+    },
+    {
+      "album": {
         "name": "OCHO",
         "url": "https://open.spotify.com/album/4xepSQ2OnZ016EBmHQg9W9"
       },
@@ -5998,7 +6020,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 196800,
       "name": "m robas un bso",
       "url": "https://open.spotify.com/track/0Yejy8iWEi1z50qo5X1A1S"
@@ -6622,6 +6644,32 @@
       "duration_ms": 141030,
       "name": "Mi Plan",
       "url": "https://open.spotify.com/track/5OLKpFQjpjS0mNzr23wvh4"
+    },
+    {
+      "album": {
+        "name": "Millonari",
+        "url": "https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio"
+      },
+      "artists": [
+        {
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Millonari",
+      "url": "https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb"
     },
     {
       "album": {
@@ -7410,6 +7458,28 @@
       "duration_ms": 189437,
       "name": "NO PUEDO CONTROLARME",
       "url": "https://open.spotify.com/track/3iE3Ljkww9IrzbhEpyyj4S"
+    },
+    {
+      "album": {
+        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
+      },
+      "artists": [
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
     },
     {
       "album": {
@@ -11060,7 +11130,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 145918,
       "name": "techno s3x!",
       "url": "https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe"

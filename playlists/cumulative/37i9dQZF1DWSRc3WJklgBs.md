@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,584 songs - 3 day 19 hr 16 min
+1,586 songs - 3 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [All My Loving \- Madism Remix](https://open.spotify.com/track/6iW66aukghrIFDU1uqLZYf) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [All My Loving \(Madism Remix\)](https://open.spotify.com/album/2rG9uRu9tDlroe32vss7oM) | 2:57 | 2022-07-15 | 2022-11-19 |
 | [All Night Long](https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All Night Long](https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ) | 3:26 | 2020-06-04 | 2021-09-11 |
 | [All Of Me](https://open.spotify.com/track/07H6zHibXp6CkzTiRoc5Nh) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [All Of Me](https://open.spotify.com/album/2yPbsIMTxSlmO4AW2w89Yd) | 3:17 | 2023-03-07 | 2025-02-01 |
+| [All Of Me](https://open.spotify.com/track/2hsXsfcHY8bTeRIaIu7K8B) | [MONOH](https://open.spotify.com/artist/0xfOTzXdixCID1LumtAMVf), [Jazmine Johnson](https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz) | [All Of Me](https://open.spotify.com/album/4BAfkyLALdxdeqdcsmQcJ1) | 2:13 | 2026-05-15 |  |
 | [All On Me \(feat\. Dotter\)](https://open.spotify.com/track/7nulK6AZKACR2dxLCbQz6S) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [All On Me \(feat\. Dotter\)](https://open.spotify.com/album/4MLtwTrYUpZ0eGlHYMXG3y) | 2:48 | 2022-10-14 | 2023-06-17 |
 | [All Over U](https://open.spotify.com/track/0IVi2eh3bjsKAX4orriJsi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [All Over U](https://open.spotify.com/album/02D8opkfiKNVET7BVsMFCV) | 3:08 | 2021-11-27 | 2022-05-14 |
 | [All That I Know](https://open.spotify.com/track/7v4fNtT3QBY7xqZS9rVbbx) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [All That I Know](https://open.spotify.com/album/3zjy3bGwnaQDXVFdbxwqs6) | 3:02 | 2020-09-07 | 2021-09-25 |
@@ -1105,6 +1106,7 @@
 | [Remains of the Day](https://open.spotify.com/track/1bih91Y06qt9xHgEDK9Euj) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [8\-track](https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC) | 5:25 | 2019-08-20 | 2020-10-30 |
 | [Remedy](https://open.spotify.com/track/1T7VGyEbMeuZmfQQIPT51S) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Annie Schindel](https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP) | [Remedy](https://open.spotify.com/album/2EoUxf3hXes48bCKVnVtJk) | 3:40 | 2021-05-08 | 2022-05-14 |
 | [Remember \(feat\. The Presets\)](https://open.spotify.com/track/72jiydG3N7NadujPr47IpF) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [Wild Youth](https://open.spotify.com/album/0FGMLe5JF4VhDScDLODz7x) | 5:34 | 2019-08-09\* | 2019-08-27 |
+| [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 | 2026-05-15 |  |
 | [Resonate](https://open.spotify.com/track/0BeR2mw32K0N5PrtRxWrZl) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [The Journey](https://open.spotify.com/album/1R8SYFomn8PdIAYlGgzwjr) | 4:19 | 2021-06-16 | 2022-05-14 |
 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 | 2024-01-19 | 2025-08-30 |
 | [Restart](https://open.spotify.com/track/5uFFA1KyAntOLo0WYmzNFF) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Restart EP](https://open.spotify.com/album/2vQkBAkvDqzJND57bwMEMr) | 2:32 | 2020-12-05 | 2021-09-25 |

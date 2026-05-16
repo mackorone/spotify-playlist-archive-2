@@ -2,7 +2,7 @@
 
 ### [DIM MAK: IN ROTATION](https://open.spotify.com/playlist/6Gp3E89xD6vRQtuAKFizMo)
 
-> Brand new music from Steve Aoki’s Dim Mak Records, updated every Friday!
+> Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
 560 songs - 1 day 2 hr 44 min
 

@@ -2,9 +2,9 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\. Cover: Chris Brown
+> A melting pot of Caribbean culture\. Cover: Drake
 
-349 songs - 17 hr 9 min
+351 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 | 2025-06-06 | 2025-07-05 |
 | [All Ova](https://open.spotify.com/track/2bWbdWDaMidmc5HH1CVK26) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [All Ova](https://open.spotify.com/album/7xI7n70CruBpMwrekWFHhG) | 2:43 | 2025-07-18 | 2025-07-26 |
 | [All Over the World \(with Protoje\)](https://open.spotify.com/track/24l2QCibtKyZa5ZoUg6tcw) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [All Over the World \(with Protoje\)](https://open.spotify.com/album/4Bw9pphblZoZOKwpTIJFjT) | 2:51 | 2025-08-01 | 2025-08-23 |
+| [Amazing Shape \(feat\. Popcaan\)](https://open.spotify.com/track/6hFjD546JTuTsUS6GawtVF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 2:56 | 2026-05-15 |  |
 | [Anything 4 U](https://open.spotify.com/track/4jnbeBNQaWiS1bkSPCzfz2) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Anything 4 U](https://open.spotify.com/album/5wvxS3sw17xOei0FDvDGYv) | 3:12 | 2026-02-06 | 2026-04-18 |
 | [Anyting](https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Anyting](https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo) | 2:02 | 2025-06-20 |  |
 | [Anywhere \(feat\. Ty Dolla $ign & Major Lazer\)](https://open.spotify.com/track/0aP5QW8XQk0Vd3H02ApHhQ) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [International](https://open.spotify.com/album/1WvTvj9a1elVPeUgKlzNmF) | 2:24 | 2025-08-08 | 2025-08-17 |
@@ -104,7 +105,7 @@
 | [Dreams Are Made Of](https://open.spotify.com/track/5OgGzWwwZUnIai4iXpIRrZ) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Viking \(Vybz Is King\) : 10th Year Anniversary](https://open.spotify.com/album/3sNbgXyN0nDNinBvlowOkQ) | 1:55 | 2025-01-31 | 2025-03-01 |
 | [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 | 2024-08-29 |  |
 | [Dudu](https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 2:55 | 2025-04-04 |  |
-| [Egyptian Musk](https://open.spotify.com/track/6pWBJcgaNcW5xEVL9RbCgd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Egyptian Musk](https://open.spotify.com/album/1ilqhT6re7DWrMLFSKj0Gy) | 3:31 | 2026-03-20 |  |
+| [Egyptian Musk](https://open.spotify.com/track/6pWBJcgaNcW5xEVL9RbCgd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Egyptian Musk](https://open.spotify.com/album/1ilqhT6re7DWrMLFSKj0Gy) | 3:31 | 2026-03-20 | 2026-05-16 |
 | [Eh](https://open.spotify.com/track/3pg4tQGG58DvyEI2PlCoYt) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Kman 6ixx](https://open.spotify.com/artist/5np2XqLanbxQzpEVFG0big) | [Eh](https://open.spotify.com/album/2Cib8n91qqK0FthCEE1NOX) | 2:47 | 2025-10-03 |  |
 | [Eleven](https://open.spotify.com/track/0vflrL6EJuhAqEt6Xuxw12) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Eleven](https://open.spotify.com/album/3jaWzpLFRTs7YDmHuciErC) | 2:30 | 2025-04-11 | 2025-05-17 |
 | [Emoji Pêche](https://open.spotify.com/track/258OblSwifjdaXY6Br7vak) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Queen](https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ) | 2:18 | 2025-10-24 | 2025-11-15 |
@@ -175,9 +176,10 @@
 | [LIFESTYLE](https://open.spotify.com/track/50v9IKJoA8b1Qqx7wwdZzf) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [LIFESTYLE](https://open.spotify.com/album/7MQy2VfgrtsZz4hXvsQOz4) | 2:51 | 2024-08-29 | 2025-01-17 |
 | [Light Of Mine](https://open.spotify.com/track/27OJkWLoSTF6JcQXUoiJw1) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Light Of Mine](https://open.spotify.com/album/3tXhyhTgxoF5s4PrBajFla) | 3:42 | 2025-03-28 | 2025-04-05 |
 | [Like That](https://open.spotify.com/track/4df0O8eGWBUvW73DPVCoqY) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Like That](https://open.spotify.com/album/0XF5pY3GW1x5DASvQE0aPK) | 2:25 | 2025-09-19 | 2025-09-27 |
-| [Like We](https://open.spotify.com/track/5ys4jU7yYOhaa3hdefdz9s) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn) | [Pool Party 2.0](https://open.spotify.com/album/5OUHXhY3Po1CqT2LpljHkB) | 2:55 | 2026-05-08 |  |
+| [Like We](https://open.spotify.com/track/5ys4jU7yYOhaa3hdefdz9s) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn) | [Pool Party 2.0](https://open.spotify.com/album/5OUHXhY3Po1CqT2LpljHkB) | 2:55 | 2026-05-08 | 2026-05-16 |
 | [Looking for It](https://open.spotify.com/track/3RUzc2zCcZBaGUdXfOPBrw) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [Looking for It](https://open.spotify.com/album/2VxXWMvK1VWv6QoAshbDIg) | 2:56 | 2024-08-29 | 2024-09-14 |
 | [LOSE YOUR LOVE](https://open.spotify.com/track/0VzK5DdLKWDHbBuUHmIxx9) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [THE IMPACT](https://open.spotify.com/album/4MEhltzG4SeDGwDNGgVQ36) | 2:21 | 2025-12-12 | 2025-12-20 |
+| [Lottery \(feat\. Jeremih\)](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 | 2026-05-15 |  |
 | [Love Sick Crazy](https://open.spotify.com/track/0owbHldQEENBOUXpl0QEIj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Agaba Romantic](https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P) | 2:35 | 2026-03-20 |  |
 | [Love The Way \(feat\. Yung Bredda & Lejuh\)](https://open.spotify.com/track/53gGQCk5uReMXdupVwi54T) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Love The Way \(Feat\. Yung Bredda & Lejuh\)](https://open.spotify.com/album/4i4Dxw2Wie4ejyjvL73crN) | 2:17 | 2025-11-21 | 2026-01-31 |
 | [Mad Out](https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Mad Out](https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67) | 2:33 | 2024-08-29 | 2025-02-22 |

@@ -3463,6 +3463,32 @@
     },
     {
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/2Ny0KwjIuUXwUWEzTiJedo"
+      },
+      "artists": [
+        {
+          "name": "FLOTE",
+          "url": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+        },
+        {
+          "name": "Fendy Cisneros",
+          "url": "https://open.spotify.com/artist/2LwuboX4U5ljjdoDmuMRc2"
+        },
+        {
+          "name": "Luxtides",
+          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/784DsuZ2P86jqOmhzYTkdv"
+    },
+    {
+      "album": {
         "name": "DELTA",
         "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
       },

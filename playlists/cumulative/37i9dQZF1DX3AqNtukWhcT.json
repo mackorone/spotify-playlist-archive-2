@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Airwaves",
+        "url": "https://open.spotify.com/album/4JQi7ZVg7yLWVp6IAGxeUd"
+      },
+      "artists": [
+        {
+          "name": "weightless minutes",
+          "url": "https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120063,
+      "name": "Airwaves",
+      "url": "https://open.spotify.com/track/7zYFxN4pPMXiyQyOM3HYDq"
+    },
+    {
+      "album": {
         "name": "Ajna",
         "url": "https://open.spotify.com/album/1XwOL2xWqSy7zeFlajSFWL"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 154714,
       "name": "Blume",
       "url": "https://open.spotify.com/track/3grDCNoz10P59lIs1JLbvi"
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 160714,
       "name": "Deep",
       "url": "https://open.spotify.com/track/1AIRo8fm2HRBijyK2R9tTv"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 134117,
       "name": "Iris",
       "url": "https://open.spotify.com/track/3DnFuL77hB7zIe1PTviSCi"
@@ -2340,6 +2358,50 @@
       "duration_ms": 134400,
       "name": "Last Dream",
       "url": "https://open.spotify.com/track/5SBOxgMvsWuWyZQPjXEqAA"
+    },
+    {
+      "album": {
+        "name": "lasts forever",
+        "url": "https://open.spotify.com/album/0nMx2IP3orcBKR7ISFJLTj"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "lasts forever",
+      "url": "https://open.spotify.com/track/1jqxOucd4DQPF4PvfYn5q7"
+    },
+    {
+      "album": {
+        "name": "left behind",
+        "url": "https://open.spotify.com/album/4baeFGkwxGeCWFOilNpVgU"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        },
+        {
+          "name": "alcinous",
+          "url": "https://open.spotify.com/artist/5exJeWiFSaSkGtUAThzDB2"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "left behind",
+      "url": "https://open.spotify.com/track/4y4DDo47fpa1i2952fWVoB"
     },
     {
       "album": {
@@ -2534,7 +2596,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 157333,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/1GQXqg0SnrggG9fHvmYW6q"
@@ -2783,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "missed call",
+        "url": "https://open.spotify.com/album/5bLEKyyF1BJzcUzMS1srdm"
+      },
+      "artists": [
+        {
+          "name": "Beats on 21st",
+          "url": "https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142653,
+      "name": "missed call",
+      "url": "https://open.spotify.com/track/6UhYs7pfrh2JrKloQRVPoT"
+    },
+    {
+      "album": {
         "name": "Mooladhar",
         "url": "https://open.spotify.com/album/2B8JZ6liGrgzNXXg7a5vLQ"
       },
@@ -2996,7 +3076,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 152658,
       "name": "Nightshade",
       "url": "https://open.spotify.com/track/3eC7K8UmwloTRJRom3huLr"
@@ -3198,6 +3278,28 @@
       "duration_ms": 132765,
       "name": "Pay the price",
       "url": "https://open.spotify.com/track/1Z6BuZkYjqHj9YeQBvU6f6"
+    },
+    {
+      "album": {
+        "name": "peace in the chaos",
+        "url": "https://open.spotify.com/album/4ihKVcbmIPtBs9f65DYm1D"
+      },
+      "artists": [
+        {
+          "name": "pete castle",
+          "url": "https://open.spotify.com/artist/30iN8zR9kklIfdH9dL8qOn"
+        },
+        {
+          "name": "AC",
+          "url": "https://open.spotify.com/artist/57wYqpfSos9R8uxfvfkMAG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "peace in the chaos",
+      "url": "https://open.spotify.com/track/2F9Rk8Wl7KbkHX2kAPR3jx"
     },
     {
       "album": {
@@ -4177,6 +4279,24 @@
     },
     {
       "album": {
+        "name": "spindles",
+        "url": "https://open.spotify.com/album/5xfRbg5MSbRsCUSYrRezlX"
+      },
+      "artists": [
+        {
+          "name": "shawn pink",
+          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146649,
+      "name": "spindles",
+      "url": "https://open.spotify.com/track/3kVVAA4ebps67EurjLg54S"
+    },
+    {
+      "album": {
         "name": "Spirit of Suvidha",
         "url": "https://open.spotify.com/album/0Tcd5uwUY29RRqbLVjeF0m"
       },
@@ -4224,7 +4344,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 127741,
       "name": "spirulina",
       "url": "https://open.spotify.com/track/6RTXsP4KJKDhBSATyR4ZSB"
@@ -5023,6 +5143,32 @@
     },
     {
       "album": {
+        "name": "whisper me home",
+        "url": "https://open.spotify.com/album/6uUj9ck0xb3D3IBn8ojlM7"
+      },
+      "artists": [
+        {
+          "name": "alhivi",
+          "url": "https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P"
+        },
+        {
+          "name": "L\u00f3rien Loops",
+          "url": "https://open.spotify.com/artist/4obNM3Q6nZn9zpmlzsSdCR"
+        },
+        {
+          "name": "forever dreaming",
+          "url": "https://open.spotify.com/artist/7sFBr3PEjRa5qVSD75VAFZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "whisper me home",
+      "url": "https://open.spotify.com/track/5Xf0awOgjwqBTyRd2PHtUw"
+    },
+    {
+      "album": {
         "name": "Whispered Memories",
         "url": "https://open.spotify.com/album/5kUUikE5OCvC2OwDTPEl2A"
       },
@@ -5154,7 +5300,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 153962,
       "name": "Wunderkind",
       "url": "https://open.spotify.com/track/2JiKSNdbGmiRSeHgglHkTq"

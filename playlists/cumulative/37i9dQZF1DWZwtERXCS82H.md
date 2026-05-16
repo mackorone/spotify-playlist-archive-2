@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-877 songs - 1 day 13 hr 50 min
+883 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Admission](https://open.spotify.com/track/6mliqnzcZMDNv8xwbeIA54) | [James Homard](https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY) | [Admission](https://open.spotify.com/album/75ypcTRAOyHzCGHHkEle8a) | 1:44 | 2024-01-05 | 2025-04-05 |
 | [After a Visit](https://open.spotify.com/track/3rKSpzc4iNd7kiihS6V7ZY) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [After a Visit](https://open.spotify.com/album/17wW4OptqVkAC4xNZLWM7H) | 2:01 | 2022-11-18 | 2024-11-20 |
 | [After Everything](https://open.spotify.com/track/1oBoHVBfw2E4WlV706LFgJ) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [After Everything](https://open.spotify.com/album/2RXqgmdddhg1Qu7SAiXBuR) | 2:20 | 2026-03-20 |  |
+| [After Everything](https://open.spotify.com/track/5ysSZFdbEH1dZWemGixdYG) | [Solvaen](https://open.spotify.com/artist/3MnAxd630Net7OBynwqSP2) | [After Everything](https://open.spotify.com/album/6oNmwowB6pCsNpkkg3Md7N) | 2:46 | 2026-05-15 |  |
 | [After You](https://open.spotify.com/track/5q2e0d0VSn56TotgKbQvaW) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [After You](https://open.spotify.com/album/073NqGkD4cWeDwWlREHGv1) | 2:53 | 2026-05-08 |  |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2022-04-15 | 2022-04-23 |
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-15 | 2024-04-04 |
@@ -136,6 +137,7 @@
 | [Consolatoriae](https://open.spotify.com/track/2VvMDGoouwpUmVGoR5EUzh) | [8th Floor Wide](https://open.spotify.com/artist/3SIHBhzxgzWiGL8ZzZMhwr) | [Consolatoriae](https://open.spotify.com/album/3WeFRGDZAP2H3UWWkWsPzA) | 2:41 | 2024-02-27 | 2025-07-09 |
 | [Contemplation](https://open.spotify.com/track/2EAPaYvSuOQd4zCUTIyJc1) | [A Howard](https://open.spotify.com/artist/4Wn0X2hBSyW6qZNbOFztcO) | [Contemplation](https://open.spotify.com/album/2jG0rJUN43JPLZJdPuqoCf) | 2:25 | 2026-03-27 |  |
 | [Contemplation](https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Contemplation](https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx) | 2:24 | 2022-04-15 | 2022-11-19 |
+| [Contemplation](https://open.spotify.com/track/4q9DTZS8mztBetrir5OR5t) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Contemplation](https://open.spotify.com/album/00EjTUjejjrxLMPu4yKKzf) | 2:09 | 2026-05-15 |  |
 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 | 2022-04-15 | 2024-04-04 |
 | [Cotton Tale](https://open.spotify.com/track/3p4mrh87pFZu0w2WdNK7bZ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Cotton Tale](https://open.spotify.com/album/5g6VsUEKvMkDNMqzvLJ9CT) | 2:07 | 2022-04-15 | 2024-01-05 |
 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-04-15 | 2024-04-10 |
@@ -217,6 +219,7 @@
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2022-04-15 | 2023-08-08 |
 | [Etc...](https://open.spotify.com/track/5h4x9rXrsUALN1eYzY611B) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Hymnus Faunus](https://open.spotify.com/album/3jKzoIOYPUKxduucDofbCh) | 2:42 | 2022-04-15 | 2022-12-24 |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2022-04-15 | 2024-03-19 |
+| [Eva's Dance](https://open.spotify.com/track/1xfQ2CX32z3J198U25aht7) | [Darkuro](https://open.spotify.com/artist/5kdikzk6FOGKJkOJY1Pzrh) | [Eva's Dance](https://open.spotify.com/album/5lY0RMJgMxz5nfuXvMrDIX) | 2:11 | 2026-05-15 |  |
 | [Evening Breeze](https://open.spotify.com/track/7tprazZON3rZewH5u0UBfn) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [Evening Breeze](https://open.spotify.com/album/37Zu37uyM3Yve7ys41qn47) | 2:20 | 2026-02-17 |  |
 | [Evergreen Valley](https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 2:56 | 2022-04-15 | 2022-05-27 |
 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 | 2022-08-09 | 2022-11-19 |
@@ -485,6 +488,7 @@
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-04-15 | 2022-05-27 |
 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-04-15 | 2024-03-26 |
 | [No One Knows](https://open.spotify.com/track/5Rmd8TQOc2hrM81Rvm1gpB) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 4:08 | 2022-04-15 | 2022-04-23 |
+| [Noctivian No.6](https://open.spotify.com/track/3zEXUQbEUAAzVwpuR076zb) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [Noctivian No.6](https://open.spotify.com/album/6nNufLkeT2EwfjAPaMluWL) | 2:49 | 2026-05-15 |  |
 | [Nocturnal Hours](https://open.spotify.com/track/6CftXEFIa8MozfOe9ydrw6) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Nocturnal Hours](https://open.spotify.com/album/6xNrSPsqE5dPmUJtsxnA4T) | 2:34 | 2026-04-10 | 2026-05-09 |
 | [Nocturne](https://open.spotify.com/track/6rotz7JFg3WMGt3fRBewPo) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Nocturne](https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A) | 2:25 | 2022-04-15 | 2022-05-14 |
 | [Noémie](https://open.spotify.com/track/05raSLFPEXgJTZ3PZPxXD0) | [Mikki Jenkins](https://open.spotify.com/artist/352pMjHoDyILGhOoYMMWYi) | [Noémie](https://open.spotify.com/album/6ESd1pP4cH03zETvAiNISE) | 2:00 | 2022-04-15 | 2022-04-23 |
@@ -604,6 +608,7 @@
 | [Rhodonite](https://open.spotify.com/track/1d12NcFHsjUTkdms3r3xxq) | [alsterdalen](https://open.spotify.com/artist/685rsCKdiUjx2eOyLlHd06) | [Rhodonite](https://open.spotify.com/album/0Uz6QiIIOBBmLuo5UQil8j) | 2:09 | 2025-09-24 |  |
 | [Riding the wind](https://open.spotify.com/track/4msrNRwWXkGX3qdgOgD0nJ) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Riding the wind](https://open.spotify.com/album/7n2aLPN7oTJNDQ01UexRBn) | 3:21 | 2023-08-29 | 2025-05-22 |
 | [Ritual Prayer](https://open.spotify.com/track/71LketImAmTZXKccg04CtY) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Ritual Prayer](https://open.spotify.com/album/5rXcNbiGrq1O6YNySdatIQ) | 2:19 | 2023-02-13 | 2025-03-19 |
+| [River Rocks](https://open.spotify.com/track/6mPAF03hrs8NdHbTLk9r7W) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [River Rocks](https://open.spotify.com/album/41P0tSMn24ajeEezTSRBT9) | 2:54 | 2026-05-15 |  |
 | [Rivière](https://open.spotify.com/track/1DwfVWRVFTIwJxWGgzJo8b) | [Julien Trevant](https://open.spotify.com/artist/1hbSId3a071gC1M9PtyrLO) | [Rivière](https://open.spotify.com/album/4muqR8HL7uD33p8yYGbNS2) | 2:29 | 2026-03-20 |  |
 | [Rouen Les Essarts](https://open.spotify.com/track/6OX9snpHRUGnlkSJVGXlR7) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Rouen Les Essarts](https://open.spotify.com/album/3RasxYrFEVVaksJttCTXMf) | 3:31 | 2022-04-15 | 2023-08-15 |
 | [Route To Peace](https://open.spotify.com/track/7BXUSLKKirrMhg1gH80cnT) | [Enrico Giaretta](https://open.spotify.com/artist/4sUR1rcNQemMzHyAtW1lyS) | [Route To Peace](https://open.spotify.com/album/1FyOg03sU6C3dmZdPXsfwn) | 4:27 | 2022-05-13 | 2024-02-14 |
@@ -851,6 +856,7 @@
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2022-04-15 | 2022-04-23 |
 | [When it drizzles](https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [When it drizzles](https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4) | 2:28 | 2022-04-22 | 2025-03-19 |
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2022-04-15 | 2023-05-04 |
+| [When You Go](https://open.spotify.com/track/4GisKzPibWBZumwEoe6yV3) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [When You Go](https://open.spotify.com/album/2RraZIbc5VB8AhtRGBpMSs) | 2:28 | 2026-05-15 |  |
 | [Where I Let Go](https://open.spotify.com/track/1TI6PSd5CaHNHf5ZCiqK9I) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Where I Let Go](https://open.spotify.com/album/5ZaEFFcjbyob4xGMOIYrGS) | 2:23 | 2026-05-08 |  |
 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-04-15 | 2024-09-04 |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-04-15 | 2024-08-21 |

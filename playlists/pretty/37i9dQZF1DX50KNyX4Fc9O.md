@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: George Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,534 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,547 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 7 | [TROCADERO](https://open.spotify.com/track/06lCYcTxYoEUa3DiqHCoYn) | [Ricky Neil Jr.](https://open.spotify.com/artist/0A2mG8WA35tWAjbSV5UISn) | [TROCADERO](https://open.spotify.com/album/3liMfrWNN1v3NivrT0wog7) | 2:42 |
 | 8 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 |
 | 9 | [Roll](https://open.spotify.com/track/6940UlXrJBISV4WfNQzgQA) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Paraglider](https://open.spotify.com/album/3cVnrjdKcNZuHqY3diBud7) | 2:10 |
-| 10 | [Track 17](https://open.spotify.com/track/0PJQf8ZYjyzaMhLNrX6qIW) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [Orchid](https://open.spotify.com/album/01LvAlFKjTUzdQcjcUXOyG) | 0:00 |
+| 10 | [Orchid](https://open.spotify.com/track/0PJQf8ZYjyzaMhLNrX6qIW) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [Orchid](https://open.spotify.com/album/01LvAlFKjTUzdQcjcUXOyG) | 3:12 |
 | 11 | [So Dumb](https://open.spotify.com/track/2AH4vccgqHx4Pzg9UoPm8J) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [So Dumb](https://open.spotify.com/album/1pSQenjKMZb4qBd9PrdEnP) | 2:37 |
 | 12 | [Look At You](https://open.spotify.com/track/3WQJSRxr74NVU2nAGKbux9) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Look At You](https://open.spotify.com/album/3SWFOeoHqdcJTbQ6xuVWuv) | 2:34 |
 | 13 | [blurryeyed](https://open.spotify.com/track/2776bsBjEj4JUxYgAITctU) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [blurryeyed](https://open.spotify.com/album/7msW3OFbywcAwuLpyfQbK6) | 3:12 |

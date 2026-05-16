@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: CHANMINA ちゃんみな
 
-1,131 songs - 2 day 16 hr 49 min
+1,132 songs - 2 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1137,6 +1137,7 @@
 | [魔性の女A](https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [魔性の女A](https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn) | 3:40 | 2024-05-30 | 2025-01-17 |
 | [麗春花](https://open.spotify.com/track/6mXdow7DePBCa8nn24zv7q) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [be noble](https://open.spotify.com/album/7JLS5rWIw8FP2VQg8C5KHF) | 3:24 | 2024-05-23 | 2024-06-07 |
 | [黄色信号](https://open.spotify.com/track/6oActeQQvrK8TzNkapQ18W) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [黄色信号](https://open.spotify.com/album/1eAFQT1Id9vkiVyT8SKK03) | 3:31 | 2025-04-08 | 2025-05-23 |
+| [黎明Compass](https://open.spotify.com/track/2OYoDq2WkF8g2i1WxrsgrT) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [黎明Compass](https://open.spotify.com/album/4SQX5uyepgRkDDb6hUUCRB) | 3:24 | 2026-05-14 |  |
 | [＆SPRINT\(Reverse\) ft.KAF](https://open.spotify.com/track/0FC5xVOB5k7D7oP1mi8VzN) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [&SPRINT \(Deluxe ver.\)](https://open.spotify.com/album/77StVOdnNzsN4BAU98cuir) | 3:29 | 2024-01-30 | 2024-02-14 |
 | [＆疾走\(Reverse\) ft.花譜](https://open.spotify.com/track/0G2X34hx1ks0LRf2Zwa9NT) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [＆疾走 \(Deluxe ver.\)](https://open.spotify.com/album/4VQgTffnaflvIgx2jFz0IE) | 3:29 | 2024-01-30 | 2024-02-01 |
 

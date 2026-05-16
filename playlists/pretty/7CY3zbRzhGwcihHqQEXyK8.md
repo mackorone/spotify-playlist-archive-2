@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 755 songs - 1 day 13 hr 54 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 763 songs - 1 day 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -763,5 +763,13 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 753 | [Unmasked Emotions](https://open.spotify.com/track/3jXN0VoTdkaLToxG8mEjgd) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 1:35 |
 | 754 | [Love?](https://open.spotify.com/track/2K7zRud1XevQe5NOyk1APz) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 7:40 |
 | 755 | [The Undying](https://open.spotify.com/track/1zbaRXsfoRGAvzlASLsujq) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 4:02 |
+| 756 | [Gasoline Rainbow](https://open.spotify.com/track/4l1Doozj2E5Iq2rcqDzoOQ) | [Un Chien](https://open.spotify.com/artist/2x91QqwZbX6pVlXV2kZI4f) | [Un Chien](https://open.spotify.com/album/3CvTKI8o9FBzMKPMpbRyAe) | 6:31 |
+| 757 | [The Priest and The Poet](https://open.spotify.com/track/3fW4FRZFLZpbGV5ZPL4ndV) | [Un Chien](https://open.spotify.com/artist/2x91QqwZbX6pVlXV2kZI4f) | [Un Chien](https://open.spotify.com/album/3CvTKI8o9FBzMKPMpbRyAe) | 4:24 |
+| 758 | [Stars / Streetlights](https://open.spotify.com/track/7hWOzNmzK1GrJjJRilKEV9) | [Un Chien](https://open.spotify.com/artist/2x91QqwZbX6pVlXV2kZI4f) | [Un Chien](https://open.spotify.com/album/3CvTKI8o9FBzMKPMpbRyAe) | 4:18 |
+| 759 | [A Heavy Hand](https://open.spotify.com/track/6sZN7tp6OZNHL078d19Mip) | [Un Chien](https://open.spotify.com/artist/2x91QqwZbX6pVlXV2kZI4f) | [Un Chien](https://open.spotify.com/album/3CvTKI8o9FBzMKPMpbRyAe) | 6:49 |
+| 760 | [Hey, You](https://open.spotify.com/track/1V2NzdXs4NnqvxBzk4ryPN) | [Un Chien](https://open.spotify.com/artist/2x91QqwZbX6pVlXV2kZI4f) | [Un Chien](https://open.spotify.com/album/3CvTKI8o9FBzMKPMpbRyAe) | 6:06 |
+| 761 | [Against Love](https://open.spotify.com/track/2zKoKBAxF5uG9qtODbiqD7) | [Un Chien](https://open.spotify.com/artist/2x91QqwZbX6pVlXV2kZI4f) | [Un Chien](https://open.spotify.com/album/3CvTKI8o9FBzMKPMpbRyAe) | 3:51 |
+| 762 | [The Dreamer](https://open.spotify.com/track/2JrSoXWDawggpETPlRTGm8) | [Un Chien](https://open.spotify.com/artist/2x91QqwZbX6pVlXV2kZI4f) | [Un Chien](https://open.spotify.com/album/3CvTKI8o9FBzMKPMpbRyAe) | 4:18 |
+| 763 | [Speak Slowly](https://open.spotify.com/track/6gD5RXQvnasbRDWXwd0JhB) | [Un Chien](https://open.spotify.com/artist/2x91QqwZbX6pVlXV2kZI4f) | [Un Chien](https://open.spotify.com/album/3CvTKI8o9FBzMKPMpbRyAe) | 6:33 |
 
-Snapshot ID: `AAABte7Kw9m7J9BbfKUiAMdeQFGXzR0w`
+Snapshot ID: `AAABth9yY0tzIcJWYV9UqS0v0aUzLvdB`

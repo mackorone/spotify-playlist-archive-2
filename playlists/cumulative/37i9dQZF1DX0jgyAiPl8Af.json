@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 190746,
       "name": "AM Sunset",
       "url": "https://open.spotify.com/track/06ZwqZmTvUVclp1a7a1Wka"
@@ -1630,6 +1630,24 @@
       "duration_ms": 141251,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/6DamCHDP65dAx5X9xkiqoQ"
+    },
+    {
+      "album": {
+        "name": "Bojnice",
+        "url": "https://open.spotify.com/album/3Ppsj2fwtrhde1l20KtdYb"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162057,
+      "name": "Bojnice",
+      "url": "https://open.spotify.com/track/6qCoa4l9VvZWFg9C81PkUt"
     },
     {
       "album": {
@@ -4572,7 +4590,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 127250,
       "name": "Fairplex",
       "url": "https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo"
@@ -5544,7 +5562,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 140477,
       "name": "Graceful Embrace",
       "url": "https://open.spotify.com/track/71C5Yne2c8gXWNREZCaco7"
@@ -6588,7 +6606,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 258823,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM"
@@ -11607,6 +11625,24 @@
     },
     {
       "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/4xmw7v7Eq6H4lQHyFBrS8A"
+      },
+      "artists": [
+        {
+          "name": "Suno Light",
+          "url": "https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162353,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/61uE2LiVVNOHpIfwkPIEPm"
+    },
+    {
+      "album": {
         "name": "Red Lava",
         "url": "https://open.spotify.com/album/3hv5Apc4dgS9cVVKmmDqQH"
       },
@@ -12014,7 +12050,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 182733,
       "name": "River's Edge",
       "url": "https://open.spotify.com/track/7lcpqrRdvs8komIL2UI1e6"

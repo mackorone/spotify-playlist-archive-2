@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'t Gele strand",
+        "url": "https://open.spotify.com/album/0bVSCXkYMa03DuFfT1bQ95"
+      },
+      "artists": [
+        {
+          "name": "Whoop Agency",
+          "url": "https://open.spotify.com/artist/1BFDYoi7txEZcpvXMsTqaj"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296999,
+      "name": "'t Gele strand",
+      "url": "https://open.spotify.com/track/5uRPYnTsA2IJY1yicGBOkV"
+    },
+    {
+      "album": {
         "name": "Started",
         "url": "https://open.spotify.com/album/46sgVlfE4GLSGJlzob6k8x"
       },
@@ -5471,7 +5489,7 @@
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 153131,
+      "duration_ms": 151000,
       "name": "Canto da Sereia",
       "url": "https://open.spotify.com/track/3avEyTvbscuFpmrSLIvx2Q"
     },
@@ -7564,6 +7582,24 @@
       "duration_ms": 124285,
       "name": "Daddy's Girl",
       "url": "https://open.spotify.com/track/0YPjYknsamXB9bEUeeR9kP"
+    },
+    {
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/06AG0fmXUeImnkqEgVnVjI"
+      },
+      "artists": [
+        {
+          "name": "Punch 11",
+          "url": "https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166370,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/3d5hWEKuetJFGns4axVWoV"
     },
     {
       "album": {
@@ -22197,6 +22233,24 @@
     },
     {
       "album": {
+        "name": "Lov Lov",
+        "url": "https://open.spotify.com/album/7p6LhF7FSKnWTwaqTr0uul"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125280,
+      "name": "Lov Lov",
+      "url": "https://open.spotify.com/track/4fEVCH8VsgLXOWRI9B8mbE"
+    },
+    {
+      "album": {
         "name": "Capable",
         "url": "https://open.spotify.com/album/6HyQzerNjdV5xwPmqjb5Zk"
       },
@@ -22432,6 +22486,24 @@
       "duration_ms": 242223,
       "name": "Loved You Well",
       "url": "https://open.spotify.com/track/726B5SsK89Kb35fjLnUAbJ"
+    },
+    {
+      "album": {
+        "name": "Ghost Games",
+        "url": "https://open.spotify.com/album/05C49td5PHly4WfgJEaLXI"
+      },
+      "artists": [
+        {
+          "name": "NAPOCK",
+          "url": "https://open.spotify.com/artist/77ED2nkxoyZuvzbrFqbjqG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287100,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/3eLwumm3ieQzPeFtVPTO5p"
     },
     {
       "album": {
@@ -23261,6 +23333,24 @@
     },
     {
       "album": {
+        "name": "Memphis",
+        "url": "https://open.spotify.com/album/6r3PjsrksR537vEPgAqKHF"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Curses",
+          "url": "https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189966,
+      "name": "Memphis",
+      "url": "https://open.spotify.com/track/6WNHo42aEret1BEMr0MygY"
+    },
+    {
+      "album": {
         "name": "Black Velvet Burn Rumble Edition",
         "url": "https://open.spotify.com/album/6zMI0xFLVn7607QjxNIrtt"
       },
@@ -23496,6 +23586,28 @@
       "duration_ms": 262696,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/0dKyXfU3qrhOA7x7TQfw7w"
+    },
+    {
+      "album": {
+        "name": "Miedo a Morir",
+        "url": "https://open.spotify.com/album/19yeHVAOSaEf15IfwB6nh5"
+      },
+      "artists": [
+        {
+          "name": "Mounts",
+          "url": "https://open.spotify.com/artist/0OO0O97YjnKAlWpv5tTJpv"
+        },
+        {
+          "name": "JNull",
+          "url": "https://open.spotify.com/artist/6n4XUJWTCbESSDDmeomYDn"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154879,
+      "name": "Miedo a Morir",
+      "url": "https://open.spotify.com/track/4aBQOoMb2cQY20yFXG3Z8c"
     },
     {
       "album": {
@@ -26148,6 +26260,24 @@
       "duration_ms": 242790,
       "name": "Nothing Makes Sense Anymore",
       "url": "https://open.spotify.com/track/5QnkCQB6PZdkqphfGoMWt9"
+    },
+    {
+      "album": {
+        "name": "Nothing Stays the Same",
+        "url": "https://open.spotify.com/album/7JgbfgQaPsYqQwxsFaojHH"
+      },
+      "artists": [
+        {
+          "name": "Silver Harbour",
+          "url": "https://open.spotify.com/artist/49T3G8iqq5PE2lo49Lpslr"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222277,
+      "name": "Nothing Stays the Same",
+      "url": "https://open.spotify.com/track/40kkdgYKd9hYFSFAnkfGZJ"
     },
     {
       "album": {
@@ -32016,6 +32146,24 @@
       "duration_ms": 199687,
       "name": "Si t'es pas l\u00e0",
       "url": "https://open.spotify.com/track/42zPCJhPE4zcogEaEuVDWJ"
+    },
+    {
+      "album": {
+        "name": "Ecos de mi historia",
+        "url": "https://open.spotify.com/album/48GHcieUeSGjf2o7q67ENS"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Alberto",
+          "url": "https://open.spotify.com/artist/2dzulanNWznWKEoNaZuh0O"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250489,
+      "name": "Si tu no me quieres",
+      "url": "https://open.spotify.com/track/61Cg5IIYjOYDxN82j22FEE"
     },
     {
       "album": {

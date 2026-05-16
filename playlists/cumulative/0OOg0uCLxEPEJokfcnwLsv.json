@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "The Lure",
+        "url": "https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku"
+      },
+      "artists": [
+        {
+          "name": "Neal Hooks & The Pocomoke Sound",
+          "url": "https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210826,
+      "name": "Baby Face",
+      "url": "https://open.spotify.com/track/3bRmQElmc3Pk37dcGOdlp3"
+    },
+    {
+      "album": {
         "name": "Back on the Chain Gang",
         "url": "https://open.spotify.com/album/1TtpRhlOogrGGRaf1Zr2wV"
       },
@@ -7498,6 +7516,24 @@
       "duration_ms": 211576,
       "name": "The Runaround",
       "url": "https://open.spotify.com/track/0ORTqNtEa0vnT28dUYgGEq"
+    },
+    {
+      "album": {
+        "name": "Juliette & Clyde",
+        "url": "https://open.spotify.com/album/52SHYtUn7d7MDfU8rHWBlD"
+      },
+      "artists": [
+        {
+          "name": "Neal Hooks",
+          "url": "https://open.spotify.com/artist/6eZaaqFRF8cESVVjN2TlyH"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198813,
+      "name": "The Seam",
+      "url": "https://open.spotify.com/track/4TlAo4IKVYjlulx8kfJee1"
     },
     {
       "album": {

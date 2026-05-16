@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=EJUgcVxJSkS3O9JphShRhg>Judikay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,822 likes - 100 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,926 likes - 100 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [Living Water \- Live](https://open.spotify.com/track/1qzGNhKEjKDqZuK5IO5gyp) | [LaKendria Ujah](https://open.spotify.com/artist/6W9EZhC63QLxDCmOYmDYzb) | [Living Water \(Live\)](https://open.spotify.com/album/4WVc8QgPdL4HX9v3ijsBY7) | 6:24 |
 | 100 | [Holy Spirit](https://open.spotify.com/track/6U2QzcexhOvb7Lxw8RaWsR) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Holy Spirit](https://open.spotify.com/album/7s4KFFw83SK8KLoNKJ6D1p) | 3:39 |
 
-Snapshot ID: `AAAAAMorm9rbZ2JQl5HnqmQfe4rEzNaS`
+Snapshot ID: `AAAAAEjK+ZIA55eDsEi+2U9tfEYJnhyC`

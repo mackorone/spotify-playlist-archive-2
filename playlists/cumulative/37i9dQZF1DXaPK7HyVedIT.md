@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Vintage Culture, Volkoder
 
-929 songs - 2 day 3 hr 22 min
+929 songs - 2 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 | 2024-03-01 | 2024-06-08 |
 | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 | 2024-05-17 | 2024-08-17 |
 | [My Fears \(Intro Tomorrowland\)](https://open.spotify.com/track/4KqTJGX3Au0Bl8XchaUPE5) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [AXXE](https://open.spotify.com/artist/0vBCz39lYB7vyoNRUNTc3i), [Ventura](https://open.spotify.com/artist/3mC5nyIRazFjQsmaIeS7nC) | [My Fears \(Intro Tomorrowland\)](https://open.spotify.com/album/7KIKDc8uvlVZxH4SkPA7dk) | 3:30 | 2024-03-22 | 2024-06-15 |
+| [My Friend](https://open.spotify.com/track/2wjJc5f7Xy4EksJvv40qUv) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Friends](https://open.spotify.com/album/5jm2SNw5FX4YUVeB8qCXOI) | 4:34 | 2026-05-15 |  |
 | [My Heart](https://open.spotify.com/track/6dJUsLrcm679OZld1wZIGH) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [ETTA](https://open.spotify.com/artist/7CUhs4JfIPg1zFs3BTvKTn) | [My Heart](https://open.spotify.com/album/0MT17WhlXQzq4J8aI6SHZy) | 2:10 | 2025-05-02 | 2025-08-15 |
 | [My Mind](https://open.spotify.com/track/0KWLQWjOKpyCziaEpb1nbi) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Avsten](https://open.spotify.com/artist/3Q7ITfAujief9tMSciw9rq) | [My Mind](https://open.spotify.com/album/1kY5pJbnsqMO1rN8DTdOhI) | 3:44 | 2024-03-29 | 2024-06-15 |
 | [My Neck, My Back](https://open.spotify.com/track/37zAxyf8mkOLjNBIMFZQUd) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [My Neck, My Back](https://open.spotify.com/album/5GW2S5DnOKOVUkgvhK2aHr) | 3:06 | 2023-07-21 | 2023-09-16 |
@@ -853,7 +854,6 @@
 | [Too Much](https://open.spotify.com/track/415lA2XhW5cHc9qnzQ62s4) | [nocapz.](https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT), [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT) | [Too Much](https://open.spotify.com/album/2lb0y0VAXYrZUHOfEXEVAN) | 2:51 | 2026-03-06 |  |
 | [Top Of The Crowd](https://open.spotify.com/track/2NcKDnBIn0bxeSUrJabAys) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Black Box](https://open.spotify.com/artist/7IHGC6y8NjBwwWhWCF2lKR) | [Top Of The Crowd](https://open.spotify.com/album/0RE22Tf6vjOTz8hLgFrCaD) | 2:34 | 2024-11-15 | 2025-03-18 |
 | [Toxic](https://open.spotify.com/track/3XV0uZdvAS0feYbJOEfC4U) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Toxic](https://open.spotify.com/album/09tF1xi5z2C8J7uzynH2xX) | 3:56 | 2023-12-22 | 2024-01-20 |
-| [Track 1](https://open.spotify.com/track/2wjJc5f7Xy4EksJvv40qUv) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Friends](https://open.spotify.com/album/5jm2SNw5FX4YUVeB8qCXOI) | 0:00 | 2026-05-15 |  |
 | [Trajadão](https://open.spotify.com/track/3DNROV85RpzdQP7E1Erpa0) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Trajadão / Everybody](https://open.spotify.com/album/5vXC2kXKghDQeXT33Sv3Au) | 3:08 | 2026-04-24 |  |
 | [Trapped](https://open.spotify.com/track/4c1t2huQZh2Q2wddgJ6wMB) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Trapped](https://open.spotify.com/album/2lkHOBwCKdKX2SveShtSji) | 2:27 | 2024-02-09 | 2024-05-25 |
 | [Treme](https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Treme](https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P) | 3:30 | 2024-10-25 | 2024-11-16 |

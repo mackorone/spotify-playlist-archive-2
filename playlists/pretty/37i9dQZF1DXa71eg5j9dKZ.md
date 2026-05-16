@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Overmono
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,553 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,564 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 43 | [Caramel](https://open.spotify.com/track/54WHA1qaKJrNRGrhbOveKB) | [Fold](https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8), [cu.rve](https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32) | [Caramel](https://open.spotify.com/album/5u5f5jwN14P3edE3INcGpj) | 4:23 |
 | 44 | [Lonely](https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:58 |
 | 45 | [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
-| 46 | [hellooooo????](https://open.spotify.com/track/2WZLYyOKdZnhQFbVQ3BafF) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Funkywhat](https://open.spotify.com/artist/4TJJXS1c48aAOf4XcClVYG) | [hellooooo????](https://open.spotify.com/album/1qyEI9052S3uscyTLNa6n1) | 4:08 |
+| 46 | [hellooooo????](https://open.spotify.com/track/2WZLYyOKdZnhQFbVQ3BafF) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Funkywhat](https://open.spotify.com/artist/4TJJXS1c48aAOf4XcClVYG), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [hellooooo????](https://open.spotify.com/album/1qyEI9052S3uscyTLNa6n1) | 4:08 |
 | 47 | [Gimme A Break A Second](https://open.spotify.com/track/43MpbqyVNmucjUDki9eoS6) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [Gimme A Break A Second](https://open.spotify.com/album/28x8w3eJyDGmZFLAMSXZZQ) | 3:28 |
 | 48 | [Smile](https://open.spotify.com/track/4c6oQExNCvICqbqJ6M7qnP) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Smile](https://open.spotify.com/album/1zercnI49MHDOiogvQqCA8) | 3:50 |
 | 49 | [Unprompted](https://open.spotify.com/track/4tONntu1kA3rfKIL6l4Ybd) | [⌭ IceMorph ⌬](https://open.spotify.com/artist/5L1J00k5wzxqYK5u2ieZ2z) | [Unprompted](https://open.spotify.com/album/6B8IEciTHoqXFtrYnD6znt) | 3:50 |

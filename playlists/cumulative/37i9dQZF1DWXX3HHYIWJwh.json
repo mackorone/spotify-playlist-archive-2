@@ -4889,6 +4889,24 @@
     },
     {
       "album": {
+        "name": "STARSTRUCK",
+        "url": "https://open.spotify.com/album/2cRQtKWMhcmoRwWR7IwnnP"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177587,
+      "name": "STARSTRUCK",
+      "url": "https://open.spotify.com/track/25bsd4PQd6kFL0bE7xqY9M"
+    },
+    {
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },

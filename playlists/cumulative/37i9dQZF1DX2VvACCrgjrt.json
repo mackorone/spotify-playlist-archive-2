@@ -1183,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "ARGENT",
+        "url": "https://open.spotify.com/album/5tDn5znMgDuE3hCLVFCLIe"
+      },
+      "artists": [
+        {
+          "name": "Zimoh",
+          "url": "https://open.spotify.com/artist/6csdmQJdDw9vh7L1AQAYB4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ARGENT",
+      "url": "https://open.spotify.com/track/1lOETo1gQw2cMywPHuC0Tp"
+    },
+    {
+      "album": {
         "name": "Armageddon",
         "url": "https://open.spotify.com/album/6aDDd2jtcs4rPodWsAdliA"
       },
@@ -5924,7 +5942,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 162399,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/5deXnyAyuJ4fyRIFEtAwIC"
@@ -8288,7 +8306,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 191818,
       "name": "F*CK THAT",
       "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
@@ -9408,7 +9426,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 136615,
       "name": "Freak With Me",
       "url": "https://open.spotify.com/track/2xQ6qQ0o2JvoTOXB3UX7qt"
@@ -12707,6 +12725,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/7CnlupDtx0fe7Z1ZZ9MbqR"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183998,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
+    },
+    {
+      "album": {
         "name": "I WANNA ROCK",
         "url": "https://open.spotify.com/album/2kBgMc24A5LcfS8an3u6SM"
       },
@@ -15556,7 +15592,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 138716,
       "name": "Man Up",
       "url": "https://open.spotify.com/track/59cw0bgS0NB2DKEaUtZCP7"
@@ -16388,6 +16424,28 @@
       "duration_ms": 153230,
       "name": "Move Yo Feet",
       "url": "https://open.spotify.com/track/1QGl7VLbqHDdBK81ccUflR"
+    },
+    {
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/3ZkDP7wAhnIXLH6MJilErr"
+      },
+      "artists": [
+        {
+          "name": "G-POL",
+          "url": "https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM"
+        },
+        {
+          "name": "Arta (AE)",
+          "url": "https://open.spotify.com/artist/3LV6hrvnTleA3GdzN8RHsM"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/3HH2w8W7uaauucUTOYcoAW"
     },
     {
       "album": {
@@ -17412,7 +17470,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 142400,
       "name": "No Excuse",
       "url": "https://open.spotify.com/track/1KnwXtahsZjwX6HTYZliEE"
@@ -17478,7 +17536,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 225346,
       "name": "NO ID",
       "url": "https://open.spotify.com/track/0BlU2gwg8AhtqYFweasXss"
@@ -18845,6 +18903,28 @@
     },
     {
       "album": {
+        "name": "Oye Manita",
+        "url": "https://open.spotify.com/album/1c7WyeBcYxMaSBwz4isThL"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "Haxhia",
+          "url": "https://open.spotify.com/artist/0pRaEEq4Vd95gC39v8Pg27"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Oye Manita",
+      "url": "https://open.spotify.com/track/2TdF6zvbYsehxKHh7hgkn9"
+    },
+    {
+      "album": {
         "name": "Pa Pa Pa (feat. MC Maromba)",
         "url": "https://open.spotify.com/album/7epfRuG2KTrdbUrVUGyMhR"
       },
@@ -19375,6 +19455,24 @@
     },
     {
       "album": {
+        "name": "Pop Dat",
+        "url": "https://open.spotify.com/album/5TULbAF1TNhKX98ZzLk8Zt"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153488,
+      "name": "Pop Dat",
+      "url": "https://open.spotify.com/track/6w2BnU0fGlcCZPrgwhk62A"
+    },
+    {
+      "album": {
         "name": "Pop It",
         "url": "https://open.spotify.com/album/4pKYJWhPJJ3P4AKfjOCGTO"
       },
@@ -19560,7 +19658,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 153467,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7CQNd8MKfv1CDDgn3JH8xk"
@@ -23754,7 +23852,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 213750,
       "name": "Taka Taka",
       "url": "https://open.spotify.com/track/72BJos9sh1LYO8zt57OH0a"
@@ -24965,6 +25063,32 @@
     },
     {
       "album": {
+        "name": "Men Machine EP",
+        "url": "https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "Men Machine",
+          "url": "https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "The Past, The Present, The Future",
+      "url": "https://open.spotify.com/track/1Cp8mfSFvYo7ddTy7NkmpL"
+    },
+    {
+      "album": {
         "name": "The Players Anthem",
         "url": "https://open.spotify.com/album/0xwquOj4FyO51teiVjtpkL"
       },
@@ -25536,7 +25660,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 169687,
       "name": "To The Groove",
       "url": "https://open.spotify.com/track/0bYREe71kefV9ZO8RtOm34"
@@ -25982,6 +26106,32 @@
       "duration_ms": 133846,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/0xWJdTcTxw1aJ1vqQwOlzp"
+    },
+    {
+      "album": {
+        "name": "Turn Up The Bass",
+        "url": "https://open.spotify.com/album/2CgkofuvzaeVcTd0e13dgE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        },
+        {
+          "name": "Tyree Cooper",
+          "url": "https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "Turn Up The Bass",
+      "url": "https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c"
     },
     {
       "album": {

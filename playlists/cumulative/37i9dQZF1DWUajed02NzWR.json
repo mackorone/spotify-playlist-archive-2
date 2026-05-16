@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/3WXXGWcMiVsri5wgvsuEGT"
+      },
+      "artists": [
+        {
+          "name": "Kenji Takahashi",
+          "url": "https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108379,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/5fVXEeKxmXJiP7cyvdGEz5"
+    },
+    {
+      "album": {
         "name": "Vissi d'Arte - Opera for Orchestra",
         "url": "https://open.spotify.com/album/2vjEH5WILR6M71LdCI3Umv"
       },

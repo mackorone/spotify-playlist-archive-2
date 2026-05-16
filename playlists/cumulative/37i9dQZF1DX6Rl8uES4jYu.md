@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-490 songs - 1 day 3 hr 18 min
+491 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Lionel Richie](https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 4:27 | 2022-10-28 | 2024-04-19 |
 | [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 | 2022-10-14 | 2025-05-31 |
 | [Little Bit Of Love](https://open.spotify.com/track/4IlZ2afqEfOgAtHBbtkQhg) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Little Bit Of Love](https://open.spotify.com/album/4Vn0Or9ZlSlXv34n9lF0x7) | 4:18 | 2024-09-13 |  |
-| [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-12 |  |
+| [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-12 | 2026-05-16 |
 | [Live It Up \(High Tide\)](https://open.spotify.com/track/1NQerA4L5VGpEtL9j7P7Xb) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Live It Up \(High Tide\)](https://open.spotify.com/album/4WSj8yr6mN3vxGSku9pyv3) | 2:34 | 2023-10-06 |  |
 | [Long Way Home](https://open.spotify.com/track/23VdpjPPUgWscU45SAZFIM) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Long Way Home](https://open.spotify.com/album/2wTI2Oc4lMH7NEPeAx6mRo) | 3:21 | 2020-11-13 | 2022-03-17 |
 | [Lost & Alive](https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR) | [Lost & Alive](https://open.spotify.com/album/6DKdIrezZM0dA2zC8KrAPP) | 3:01 | 2022-01-28 | 2022-11-13 |
@@ -302,6 +302,7 @@
 | [No News No Blues](https://open.spotify.com/track/3dI1uxPuy9SwEMveMwpDJn) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:53 | 2022-01-21 | 2023-05-01 |
 | [No News No Blues](https://open.spotify.com/track/7bxogppnXd6dJB2rSCjegk) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [No News No Blues](https://open.spotify.com/album/1KIeBsHpINXrAEUWKtli8E) | 3:53 | 2022-01-14 | 2022-05-25 |
 | [No News No Blues](https://open.spotify.com/track/4uvUEE8EtbiJxBcB45XURq) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR) | 3:53 | 2022-01-21 | 2024-01-27 |
+| [No Pressure](https://open.spotify.com/track/6DDhqr1EvvlijbuRpXKlFv) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Retrospect](https://open.spotify.com/album/3vGrwRFReSB2XMcb6fA24L) | 3:18 | 2026-05-15 |  |
 | [Noa Noa](https://open.spotify.com/track/27OctETisMkxIypWYruUUG) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Emilia Anastazja](https://open.spotify.com/artist/0cKNOYRTUF2PeSXJCb3jOr) | [Noa Noa](https://open.spotify.com/album/6j5P4RVziXXAql965dFXCp) | 4:08 | 2021-09-21 | 2022-07-20 |
 | [Nobody Like You](https://open.spotify.com/track/5kX95xAwtGRyaUZ7tA8667) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Aeti](https://open.spotify.com/artist/50bfLCs5ENl8mBrCoLm1db), [Lazy Rabbit](https://open.spotify.com/artist/2uNxuo3RX8KvYxkLRX0zey), [Mia Maxima](https://open.spotify.com/artist/2kWiNS9kFVYMvtt3DyPkDH) | [Everybody Falls in the Summer \(Radio Edit\)](https://open.spotify.com/album/59tSHK2znJI63MbIKR5726) | 3:22 | 2020-11-13 | 2022-03-26 |
 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 | 2020-11-13 | 2022-03-26 |

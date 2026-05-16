@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/2nMsv9V69rHdbNINLJuPWw"
+      },
+      "artists": [
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550000,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/5yxLHZnfVldRA7Gj9BtzOw"
+    },
+    {
+      "album": {
         "name": "Amazing Grace (Always)",
         "url": "https://open.spotify.com/album/4iESmBCklPuETbVUW7yenz"
       },
@@ -1096,6 +1114,24 @@
     {
       "album": {
         "name": "At The Cross",
+        "url": "https://open.spotify.com/album/7IYkLgcSw21e6uBRiXJKHI"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219729,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/1IAhLdE6jDVfLyV10b68cG"
+    },
+    {
+      "album": {
+        "name": "At The Cross",
         "url": "https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE"
       },
       "artists": [
@@ -1110,6 +1146,24 @@
       "duration_ms": 219729,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN"
+    },
+    {
+      "album": {
+        "name": "At The Meeting (Live)",
+        "url": "https://open.spotify.com/album/54u5pNTZ0EiWYLk7H1CuVE"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "At The Meeting - Live",
+      "url": "https://open.spotify.com/track/0VWCrhsetldDoFNWDLuD8n"
     },
     {
       "album": {
@@ -1248,6 +1302,24 @@
       "duration_ms": 533500,
       "name": "Be Glad - Live",
       "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
+    },
+    {
+      "album": {
+        "name": "Be Glorified (Live)",
+        "url": "https://open.spotify.com/album/5garyHJSQ63BUEJbj5AaYT"
+      },
+      "artists": [
+        {
+          "name": "Darwin Hobbs",
+          "url": "https://open.spotify.com/artist/6zhrnjTFJFS6bWzFtRm7aH"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311075,
+      "name": "Be Glorified - Live",
+      "url": "https://open.spotify.com/track/3HpKWCHaol4rSmx7K2DmHA"
     },
     {
       "album": {
@@ -1772,7 +1844,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 540000,
       "name": "Broken Pieces",
       "url": "https://open.spotify.com/track/4Go1h3lxxvLvQAu0VH2APR"
@@ -2499,6 +2571,28 @@
     },
     {
       "album": {
+        "name": "Deliver Us",
+        "url": "https://open.spotify.com/album/4LYVyDDjlgHwtLYtgzgGhM"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "David Wilford",
+          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335411,
+      "name": "Deliver Us",
+      "url": "https://open.spotify.com/track/0uL61cbO5vQ6hA5IXH6PMd"
+    },
+    {
+      "album": {
         "name": "Dependable",
         "url": "https://open.spotify.com/album/2aWYCoqfzCRIpRizerkBW4"
       },
@@ -3188,7 +3282,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 261185,
       "name": "Faith In The Fire",
       "url": "https://open.spotify.com/track/4qDiX7JyQgqhEAcLWlnfKT"
@@ -6298,7 +6392,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 505584,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/2AX7wGgTBg3C6yiFNcoyXz"
@@ -8784,7 +8878,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 196665,
       "name": "Love Never Fails",
       "url": "https://open.spotify.com/track/0O1wMWJUGcXe0PcnVwXtOX"
@@ -9952,7 +10046,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 394499,
       "name": "No Condemnation (Live)",
       "url": "https://open.spotify.com/track/1inkQISPf33OAFbeoi0nCK"

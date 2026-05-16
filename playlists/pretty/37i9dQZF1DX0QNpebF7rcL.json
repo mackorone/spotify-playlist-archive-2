@@ -1,13 +1,61 @@
 {
   "description": "The best in blues right now. Cover: Joe Bonamassa",
-  "num_followers": 151452,
+  "num_followers": 151483,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc",
+  "snapshot_id": "AAAAAMTBkCjWZ0t+jZwcDyeyuC7hKnGj",
   "tracks": [
+    {
+      "added_at": "2026-05-15 04:00:51",
+      "album": {
+        "name": "Fastlane",
+        "url": "https://open.spotify.com/album/6fR4Kppt8yCNKP5tZ9jUqH"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Fastlane",
+      "url": "https://open.spotify.com/track/0r4RAtWeSOx9lGRegJjG3T"
+    },
+    {
+      "added_at": "2026-05-15 04:00:51",
+      "album": {
+        "name": "In My America",
+        "url": "https://open.spotify.com/album/6F0DG9c6Kp1t9TJsycYoFW"
+      },
+      "artists": [
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "duration_ms": 322373,
+      "name": "In My America",
+      "url": "https://open.spotify.com/track/5BM6FplSkbfROQI8qfLVIa"
+    },
+    {
+      "added_at": "2026-05-15 04:00:51",
+      "album": {
+        "name": "Daisy Wake Up",
+        "url": "https://open.spotify.com/album/2I1wRvWmOiQp3MxGHNqw8c"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "duration_ms": 165945,
+      "name": "Daisy Wake Up",
+      "url": "https://open.spotify.com/track/6xulabyMlnkc50eL8a2Rtd"
+    },
     {
       "added_at": "2026-05-01 04:00:41",
       "album": {
@@ -27,22 +75,6 @@
       "duration_ms": 198118,
       "name": "You Put The Whammy On Me",
       "url": "https://open.spotify.com/track/4XlNoEYn3C5o4o44B3PCe5"
-    },
-    {
-      "added_at": "2026-05-01 04:00:41",
-      "album": {
-        "name": "Sideways Thru Time",
-        "url": "https://open.spotify.com/album/3iiePPL0vgb1ami7FO05xY"
-      },
-      "artists": [
-        {
-          "name": "Amani Burnham",
-          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Sideways Thru Time",
-      "url": "https://open.spotify.com/track/5LpsFUdIjEKmee8OOH3r4e"
     },
     {
       "added_at": "2026-05-01 04:00:41",
@@ -227,22 +259,6 @@
       "duration_ms": 216653,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/4uJlaPIHej7EJPg4QwewhI"
-    },
-    {
-      "added_at": "2026-03-20 04:00:30",
-      "album": {
-        "name": "Sweet Little Caroline",
-        "url": "https://open.spotify.com/album/1D5q1fkeVkuZil5oEpL4eX"
-      },
-      "artists": [
-        {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
-        }
-      ],
-      "duration_ms": 194458,
-      "name": "Sweet Little Caroline",
-      "url": "https://open.spotify.com/track/43W4M7GNQaWS2l7b5oQhvA"
     },
     {
       "added_at": "2026-02-06 05:00:24",
@@ -1671,30 +1687,6 @@
       "duration_ms": 255600,
       "name": "99 And 1/2 Won't Do",
       "url": "https://open.spotify.com/track/6SCLPf6RTXCwvYEhF5a2ME"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "You Can\u2019t Judge a Book By the Cover",
-        "url": "https://open.spotify.com/album/5EanQoKPT2EZ2HBIM5tDig"
-      },
-      "artists": [
-        {
-          "name": "Albert Castiglia",
-          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
-        },
-        {
-          "name": "Rayne Castiglia",
-          "url": "https://open.spotify.com/artist/1QPQ9prc4vsQsLI6xlqBwt"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 274453,
-      "name": "You Can't Judge A Book By The Cover",
-      "url": "https://open.spotify.com/track/1xhhf7JXO9lq5FBdXfu2GR"
     },
     {
       "added_at": "2024-06-28 04:00:00",

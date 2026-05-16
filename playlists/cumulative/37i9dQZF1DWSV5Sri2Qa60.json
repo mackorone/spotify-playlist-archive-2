@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: THEATRE",
+  "description": "Where your new favourite bands are discovered. Cover: Little Grandad",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 178320,
       "name": "Falling Posture",
       "url": "https://open.spotify.com/track/7xoDYHccYoi09Y2qv7dvk3"
@@ -2651,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "father's daughter",
+        "url": "https://open.spotify.com/album/5BZKnxCJgUXCgFdvtcfaI1"
+      },
+      "artists": [
+        {
+          "name": "Bottle Rockets",
+          "url": "https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "home",
+      "url": "https://open.spotify.com/track/2ZeJ0RpQVGoFSYx59KKIFh"
+    },
+    {
+      "album": {
         "name": "Home Ground",
         "url": "https://open.spotify.com/album/5jq1y0ryj6SZcEnGYlhSXS"
       },
@@ -3076,7 +3094,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 238631,
       "name": "It Comes Creeping",
       "url": "https://open.spotify.com/track/4JGkHDbL8ojXnhXufybIPk"
@@ -3897,6 +3915,24 @@
     },
     {
       "album": {
+        "name": "Bleech 9:3",
+        "url": "https://open.spotify.com/album/6LnK2cmnchsy0iSsLJE9ib"
+      },
+      "artists": [
+        {
+          "name": "Bleech 9:3",
+          "url": "https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191432,
+      "name": "No Surprise",
+      "url": "https://open.spotify.com/track/5vZw0zHPkxMYr8cHleEf9k"
+    },
+    {
+      "album": {
         "name": "Not Ideal",
         "url": "https://open.spotify.com/album/66N0dtqwchNl09eMvKpOR3"
       },
@@ -4474,7 +4510,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 239853,
       "name": "Rome (in progress)",
       "url": "https://open.spotify.com/track/6zbFB1wkb0QQRSbfuuMpag"
@@ -4820,6 +4856,24 @@
       "duration_ms": 260173,
       "name": "Skins",
       "url": "https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT"
+    },
+    {
+      "album": {
+        "name": "Sleepwalking / Unmasked",
+        "url": "https://open.spotify.com/album/1eXBgy3E6jqC1sLoDiSpCZ"
+      },
+      "artists": [
+        {
+          "name": "Little Grandad",
+          "url": "https://open.spotify.com/artist/1Mgr4JJnFwPk3FHbu09wAl"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235628,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/2nf5llRG3J5ZEkeGL4JSjA"
     },
     {
       "album": {
@@ -5500,7 +5554,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 144286,
       "name": "The Wahs",
       "url": "https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE"
@@ -5788,7 +5842,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 209760,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/6d1Zurp6nbAdUztdtu3XEF"
@@ -6173,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "\u5186\u76f8 \uff5cEnso",
+        "url": "https://open.spotify.com/album/5YSZ50mLBYO7yUTPUesWno"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "\u5186\u76f8 \uff5cEnso",
+      "url": "https://open.spotify.com/track/38POEFYokzqLItJQpaBZx5"
+    },
+    {
+      "album": {
         "name": "\u80aa \uff5cBo",
         "url": "https://open.spotify.com/album/2en4aIjPUvlolSAAXWStDy"
       },
@@ -6184,7 +6256,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 196000,
       "name": "\u80aa \uff5cBo",
       "url": "https://open.spotify.com/track/71J6B49V8UJAhbAB3FZpgB"

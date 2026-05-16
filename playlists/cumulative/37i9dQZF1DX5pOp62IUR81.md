@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love\. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.
 
-252 songs - 10 hr 59 min
+253 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Humans Arrive](https://open.spotify.com/track/2B9KpbnMLY75pMyFr36a6T) | [Daniel Rojas](https://open.spotify.com/artist/1Z655SWPPTWDNgktUY19JR) | [Hit\-Monkey \(Original Soundtrack\)](https://open.spotify.com/album/24b6PR1lDSPnH9Z85spTfT) | 1:24 | 2024-01-05 | 2025-01-31 |
 | [I Am Vision](https://open.spotify.com/track/1ZcxP37FbhEiAdodj3CyaF) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 9 \(Original Soundtrack\)](https://open.spotify.com/album/30qYpobFEwki8Vy202a8Oi) | 3:07 | 2024-01-05 | 2026-04-15 |
 | [I Am Who I Am](https://open.spotify.com/track/0v19Z17NOuQgmSDEQAaU3T) | [Samantha J\. Powell](https://open.spotify.com/artist/3Id8OBZnurFgLVQ743f500), [Marvel’s Moon Girl and Devil Dinosaur \- Cast](https://open.spotify.com/artist/5ziHQJ5duPlNgarkw4pmzV) | [Marvel's Moon Girl and Devil Dinosaur: Season 2 \- Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/45kuhHfvZJ1P3IrG54cSil) | 3:20 | 2025-02-21 | 2026-04-15 |
-| [I Love You Guys](https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:15 | 2024-01-05 |  |
+| [I Love You Guys](https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:15 | 2024-01-05 | 2026-05-16 |
 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:41 | 2024-01-05 | 2026-04-15 |
 | [Infinity War](https://open.spotify.com/track/51Amo7fyI2jL3sf2UgX75i) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Infinity War \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/6Ltf5m1jvSomNQ0bhfuj5O) | 2:35 | 2024-01-05 |  |
 | [Iron Man \(1966 Theme\) \- 2024 Stereo Remaster](https://open.spotify.com/track/6aptHccREaN8qfxJBQFrCx) | [Marvel Chorus](https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln) | [Iron Man \(1966 Theme\) \[2024 Stereo Remaster\]](https://open.spotify.com/album/4GbxSvZN0SkeulVJY3XBf9) | 0:56 | 2024-09-05 | 2025-01-31 |
@@ -216,6 +216,7 @@
 | [The Lord Near My Shadows](https://open.spotify.com/track/6yyvfHWTmLkHs38vUtKdMF) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [Marvel's Daredevil: Born Again \- Vol\. 2 \(Episodes 5\-9\) \[Original Soundtrack\]](https://open.spotify.com/album/6aEAmDEDpZc4WaNZqdyccx) | 1:17 | 2025-04-21 | 2026-04-15 |
 | [The Mind Stone](https://open.spotify.com/track/5QWpMTowF8po4JgIpJxOKV) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 8 \(Original Soundtrack\)](https://open.spotify.com/album/5n0jcupsCMSOjt8K7vq555) | 2:29 | 2024-01-05 | 2025-11-05 |
 | [The Punisher Main Title](https://open.spotify.com/track/0rSJtqCSAkhKORRpJlk7pL) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [The Punisher \(Original Soundtrack\)](https://open.spotify.com/album/4z7w3IoSFgysP7iNpDgUqu) | 1:15 | 2024-01-05 | 2026-02-04 |
+| [The Punisher: One Last Kill](https://open.spotify.com/track/0FloDfbM8ifR0uARY24gNL) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [The Punisher: One Last Kill \(Original Soundtrack\)](https://open.spotify.com/album/55GpbjrB6e50qnvB9HHU1n) | 2:17 | 2026-05-15 |  |
 | [The Real Hero](https://open.spotify.com/track/3KHrXuByzDnDOaVR15rZH7) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Endgame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8) | 5:54 | 2024-01-05 | 2026-02-04 |
 | [Theme](https://open.spotify.com/track/0ldqqFB8HUQCxuAhGIwlQG) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Luke Cage](https://open.spotify.com/album/3YQGCWFtg6mh8S6x6JxdgB) | 1:09 | 2024-01-05 |  |
 | [Theme \(from "Spider Man"\) \[Original Television Series\]](https://open.spotify.com/track/1tzj2vY4twkNmZ5K3DUOPp) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Homecoming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Aao9FYpxQXuNrAPjJnud1) | 0:39 | 2024-01-05 | 2026-02-04 |

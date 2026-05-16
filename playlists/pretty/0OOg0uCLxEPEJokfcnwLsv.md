@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 986 likes - 110 songs - 6 hr 40 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 989 likes - 112 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,5 +118,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 108 | [The Road Less Travelled](https://open.spotify.com/track/343vOMd6pDa254603WoQlV) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [The Road Less Travelled](https://open.spotify.com/album/4hKhTfDR48nGOzM7uNSeTQ) | 4:54 |
 | 109 | [Loophole](https://open.spotify.com/track/7bGqHpMXZK7EO2193SDGiz) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Loophole](https://open.spotify.com/album/4Gd7KgDAfgJ7tU9PirJXfU) | 4:13 |
 | 110 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 |
+| 111 | [Baby Face](https://open.spotify.com/track/3bRmQElmc3Pk37dcGOdlp3) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:30 |
+| 112 | [The Seam](https://open.spotify.com/track/4TlAo4IKVYjlulx8kfJee1) | [Neal Hooks](https://open.spotify.com/artist/6eZaaqFRF8cESVVjN2TlyH) | [Juliette & Clyde](https://open.spotify.com/album/52SHYtUn7d7MDfU8rHWBlD) | 3:18 |
 
-Snapshot ID: `AAAGDY118z1b/pm1EMhmVivuhcAkjMc9`
+Snapshot ID: `AAAGDy9pPLupQax7Vz1dLGXWC9Ll2WYl`

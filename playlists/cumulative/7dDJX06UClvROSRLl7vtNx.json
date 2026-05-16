@@ -1441,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/44ttbL2Fz4egisPoRcNnkk"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Anywhere You Go",
+      "url": "https://open.spotify.com/track/6OzdWQeYMHqXsINla4BgP8"
+    },
+    {
+      "album": {
         "name": "Apocalypse",
         "url": "https://open.spotify.com/album/7BYqCGw7DKKUr1EGy4tvEB"
       },
@@ -5514,6 +5532,28 @@
       "duration_ms": 145871,
       "name": "do u still feel me",
       "url": "https://open.spotify.com/track/0h6rciZzFHcmy56lSTtYGE"
+    },
+    {
+      "album": {
+        "name": "Do We Learn (From Broken Dreams)",
+        "url": "https://open.spotify.com/album/2ZwR7z75mFflCws9HqnbyT"
+      },
+      "artists": [
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        },
+        {
+          "name": "Josh Brown",
+          "url": "https://open.spotify.com/artist/0jOxvhQ47VZNeS4XPLyTNj"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178643,
+      "name": "Do We Learn (From Broken Dreams)",
+      "url": "https://open.spotify.com/track/3vmmSqgA61Ow0c4GFEpg7F"
     },
     {
       "album": {
@@ -27228,6 +27268,28 @@
       "duration_ms": 157201,
       "name": "Waiting For A Better Day",
       "url": "https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY"
+    },
+    {
+      "album": {
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/4rmXQjXfK8CyPtAcYxO8VJ"
+      },
+      "artists": [
+        {
+          "name": "Steam Phunk",
+          "url": "https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135737,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/2NAxj0kJqrYswoMPLWcnwt"
     },
     {
       "album": {

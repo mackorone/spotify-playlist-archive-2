@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Zulia is bringing the heat this week. Tap in every Thursday for a new Fuego mixtape.",
+  "description": "Jimmy Guzman is bringing the heat this week. Tap in every Thursday for a new Fuego mixtape.",
   "name": "Fuego",
   "tracks": [
     {
@@ -3104,7 +3104,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 206340,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/7ojNFDRPCH9gIpDtdCjl9W"
@@ -13093,6 +13093,24 @@
     },
     {
       "album": {
+        "name": "CUANDO NOS BA\u00d1AMOS",
+        "url": "https://open.spotify.com/album/56uWu01DmOq6JNhvaEF9X3"
+      },
+      "artists": [
+        {
+          "name": "Rowma",
+          "url": "https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "CUANDO NOS BA\u00d1AMOS",
+      "url": "https://open.spotify.com/track/55jJi3Or9rhLuVZApElz8S"
+    },
+    {
+      "album": {
         "name": "Cuando Prendo",
         "url": "https://open.spotify.com/album/1IhUqxjmStJjQNWtGPEoUF"
       },
@@ -13928,6 +13946,28 @@
       "duration_ms": 170624,
       "name": "De Chamaquito",
       "url": "https://open.spotify.com/track/3Ftr6NITDE2yTPCpT5A1Nr"
+    },
+    {
+      "album": {
+        "name": "De chinga yo",
+        "url": "https://open.spotify.com/album/07XfcCqMdFLwvsIYOpUYxq"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185744,
+      "name": "De chinga yo",
+      "url": "https://open.spotify.com/track/7vH6GrGpmvLafCshfutzcb"
     },
     {
       "album": {
@@ -17182,6 +17222,28 @@
       "duration_ms": 224391,
       "name": "El Carnaval",
       "url": "https://open.spotify.com/track/3WoInfouCx0DmDeDbzxKbu"
+    },
+    {
+      "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155039,
+      "name": "EL CIELO",
+      "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
     },
     {
       "album": {
@@ -36081,6 +36143,24 @@
     },
     {
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4Fp1nBSbGKwYIwbz1PMPVH"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172110,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/06UhL9hBWpgH8CbFLyPtif"
+    },
+    {
+      "album": {
         "name": "SATIROLOG\u00cdA (DELUXE EDITION)",
         "url": "https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE"
       },
@@ -37884,6 +37964,24 @@
       "duration_ms": 195320,
       "name": "NEW MAGIC WAND",
       "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "album": {
+        "name": "El Amante",
+        "url": "https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG"
+      },
+      "artists": [
+        {
+          "name": "Dariel Amant",
+          "url": "https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181628,
+      "name": "New Things",
+      "url": "https://open.spotify.com/track/031ZcJo8TyET61X2gdghf5"
     },
     {
       "album": {
@@ -42519,6 +42617,24 @@
     },
     {
       "album": {
+        "name": "PARTY ALL DAY",
+        "url": "https://open.spotify.com/album/5eHFQQjgy6FzxAnkC0lH3S"
+      },
+      "artists": [
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144544,
+      "name": "PARTY ALL DAY",
+      "url": "https://open.spotify.com/track/2NsPRU3huaZ8O1R010evAl"
+    },
+    {
+      "album": {
         "name": "Party Amanecio",
         "url": "https://open.spotify.com/album/7LFYQ2BkndbXAjUNpR1VVi"
       },
@@ -45060,6 +45176,32 @@
       "duration_ms": 217226,
       "name": "Pose",
       "url": "https://open.spotify.com/track/7MmVXDISr1AEsJTjNiAlMG"
+    },
+    {
+      "album": {
+        "name": "MIDEVIL TIMES",
+        "url": "https://open.spotify.com/album/5njAlj6cTCaQroD6NeBmp3"
+      },
+      "artists": [
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "Pose\u00edda",
+      "url": "https://open.spotify.com/track/5sAwSZoR7zlpUsngHu9yKm"
     },
     {
       "album": {
@@ -51965,7 +52107,7 @@
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160000,
+      "duration_ms": 159999,
       "name": "Skokka",
       "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
     },
@@ -57293,6 +57435,24 @@
     },
     {
       "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/5YH266XRF5JlrgqzvwIiGX"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145737,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/7LzX77WnqqHO9OFzJqWljT"
+    },
+    {
+      "album": {
         "name": "WLGS",
         "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
       },
@@ -60442,7 +60602,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 265833,
       "name": "WHAT U NEED? (SexPlaylist 2)",
       "url": "https://open.spotify.com/track/7jnSlMG2jKJmKvAWxufk2I"

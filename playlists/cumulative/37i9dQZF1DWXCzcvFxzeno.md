@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-377 songs - 1 day 1 hr 29 min
+378 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Massive Attack](https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Massive Attack](https://open.spotify.com/album/2RmsWUdkRKEIrcQhSVFCLF) | 4:06 | 2024-04-09 | 2024-07-27 |
 | [Masterclass](https://open.spotify.com/track/08KQZbwrjvdXQrnzv9gxG6) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:19 | 2024-07-18 | 2024-11-12 |
 | [Maxillary](https://open.spotify.com/track/5AmuUxZMohX4OID3qErMhM) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I) | [Maxillary Marble](https://open.spotify.com/album/3Hn6c5CEHBiaWbeGQ75xuX) | 4:08 | 2024-04-09 | 2025-07-21 |
+| [Medication](https://open.spotify.com/track/5xiIzjYM9C7zM40Q4jB6Wm) | [DØMINA](https://open.spotify.com/artist/2SaPpXmlY9agJpvlEbLMKD) | [Medication](https://open.spotify.com/album/1IdQJt6AVL8VJ5J3yIb8XL) | 3:58 | 2026-05-07 |  |
 | [Meet Her At The Love Parade \- Mixed Cut](https://open.spotify.com/track/5KcrlmHmiVV6tzmP8k2W1R) | [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [OneSeventy: The Annual II](https://open.spotify.com/album/6qcw68pT9kM1qQWnyzmZev) | 2:44 | 2024-04-09 | 2024-08-06 |
 | [Meet Me In São Paulo \(Grelinho De Diamante\)](https://open.spotify.com/track/2uWlcCQw3nbQosOPkiLHQt) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv), [Mc Baby Perigosa](https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6) | [Meet Me In São Paulo \(Grelinho De Diamante\) \(feat\. Heavy Baile, Baby Perigosa & MC Tchelinho\)](https://open.spotify.com/album/6d0oiamRHpnu65xFI2jNax) | 5:09 | 2024-06-18 | 2025-04-25 |
 | [Merit](https://open.spotify.com/track/5xZ5zNCk56HRnxV3rq7eWh) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Mattia Trani](https://open.spotify.com/artist/0eQjVfBtEcSZ16oAq0V4mk) | [Merit](https://open.spotify.com/album/3Gni6oclkI5Iu9aKsUzyhk) | 3:48 | 2025-11-27 | 2026-01-30 |
@@ -343,7 +344,7 @@
 | [The Engine](https://open.spotify.com/track/1IBCEPkcHokY2BrIllHJOg) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [The Engine](https://open.spotify.com/album/0d4z3tpFIzaY0KCUweU1EB) | 4:54 | 2025-02-14 | 2025-02-21 |
 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 | 2024-04-09 | 2024-09-07 |
 | [The Kickdrum](https://open.spotify.com/track/7ukXlDcPOZKz7lMMWSkahM) | [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [The Kickdrum](https://open.spotify.com/album/7htNx91SOyDqjQofDpYfdh) | 2:19 | 2024-04-09 | 2024-10-29 |
-| [The Last Airbender \(VIP\)](https://open.spotify.com/track/2UkJVFIbRG9FyqHG4E3Dje) | [SLVL](https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf) | [The Last Airbender \(VIP\)](https://open.spotify.com/album/020oO7QSGs7zx64ryNe67n) | 2:30 | 2025-09-19 |  |
+| [The Last Airbender \(VIP\)](https://open.spotify.com/track/2UkJVFIbRG9FyqHG4E3Dje) | [SLVL](https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf) | [The Last Airbender \(VIP\)](https://open.spotify.com/album/020oO7QSGs7zx64ryNe67n) | 2:30 | 2025-09-19 | 2026-05-16 |
 | [The Moment That Matters](https://open.spotify.com/track/6lAVsz9nWf7NXF7hMXa1gS) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [The Moment That Matters](https://open.spotify.com/album/4rVV1wCzENUR6s0MHyxioo) | 6:00 | 2024-05-22 | 2025-02-14 |
 | [The Show Never Ends](https://open.spotify.com/track/2zPMafxpOc4IGB79uZLjtD) | [Joey Risdon](https://open.spotify.com/artist/1TAVfsRR0xQIcI6OxpCten) | [D.U.R.V.A.0.0.1](https://open.spotify.com/album/0QY39P2s5FpjMZFlFMQYRs) | 6:18 | 2024-04-09 | 2024-11-29 |
 | [The Ultimate Acid Track](https://open.spotify.com/track/14Lh8Rpav17MCMSd1yOazU) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Ultimate Acid Track](https://open.spotify.com/album/3lAw4H1pzLOCCDBfkNqOXu) | 4:00 | 2026-01-29 |  |

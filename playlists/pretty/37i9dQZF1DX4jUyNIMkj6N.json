@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 222802,
+  "num_followers": 222812,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-05-14 22:00:27",
       "album": {
+        "name": "Simpler Times",
+        "url": "https://open.spotify.com/album/4uZZKroW4sf3973ravoU6s"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "duration_ms": 236375,
+      "name": "End of July",
+      "url": "https://open.spotify.com/track/6ag0v6PX7xlKu1RqmU6dm4"
+    },
+    {
+      "added_at": "2026-05-14 22:00:27",
+      "album": {
         "name": "Never Gonna Last",
         "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 187800,
       "name": "member",
       "url": "https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh"
-    },
-    {
-      "added_at": "2026-05-14 22:00:27",
-      "album": {
-        "name": "Simpler Times",
-        "url": "https://open.spotify.com/album/4uZZKroW4sf3973ravoU6s"
-      },
-      "artists": [
-        {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
-        }
-      ],
-      "duration_ms": 236375,
-      "name": "End of July",
-      "url": "https://open.spotify.com/track/6ag0v6PX7xlKu1RqmU6dm4"
     },
     {
       "added_at": "2026-05-14 22:00:27",

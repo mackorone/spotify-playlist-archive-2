@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > @gabriele in cover + tutto il meglio delle novità indie 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,716 likes - 115 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,727 likes - 115 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 28 | [Passaporti e Caramelle](https://open.spotify.com/track/7vy8zrm4dUdnpO0CCtwPI6) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Passaporti e Caramelle](https://open.spotify.com/album/0rpZXCQ01PbchYq2cdIzzR) | 3:04 |
 | 29 | [Buio](https://open.spotify.com/track/2T76HuSVoibUcNEmpOOjxr) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Buio](https://open.spotify.com/album/0gZ8BwQYMp9m7teQVNeG1Q) | 3:27 |
 | 30 | [Mondiali ‘26](https://open.spotify.com/track/7fnIeno5sjRQhmxRmKMCjV) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [Mondiali ‘26](https://open.spotify.com/album/3fIiDtMdaf1tiFTBwGhLEk) | 2:55 |
-| 31 | [come aggia fa \(feat\. giav.\)](https://open.spotify.com/track/2dOTnf2aR9QQVq2C1ByrWI) | [Falsetti](https://open.spotify.com/artist/1U0t9ehO7sK0r9GKDun7bJ), [giav.](https://open.spotify.com/artist/3goKDb7ot4fpZ5VI02ZcZ4) | [come aggia fa \(feat\. giav.\)](https://open.spotify.com/album/6PmYu51duRb9YSzONUHn92) | 2:52 |
+| 31 | [come aggia fa](https://open.spotify.com/track/2dOTnf2aR9QQVq2C1ByrWI) | [Falsetti](https://open.spotify.com/artist/1U0t9ehO7sK0r9GKDun7bJ), [giav.](https://open.spotify.com/artist/3goKDb7ot4fpZ5VI02ZcZ4) | [come aggia fa](https://open.spotify.com/album/6PmYu51duRb9YSzONUHn92) | 2:52 |
 | 32 | [Democracy Killed Romance](https://open.spotify.com/track/7tbXrJjRoyJz8D0iiJNffy) | [Il Nemico](https://open.spotify.com/artist/3akHRSGt7WDU8cuzmwbZTY) | [Democracy Killed Romance](https://open.spotify.com/album/1HSKKzGK330h7Cf0QDY4pC) | 3:40 |
 | 33 | [Maledizione](https://open.spotify.com/track/3PIFOW1UKwebiblSzb0Quk) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:19 |
 | 34 | [Bene \(da sola\)](https://open.spotify.com/track/5NPY05T2iSHZpGnK5f6tmS) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [SENZA FIATO](https://open.spotify.com/album/0gZdzP3fDtPZmxZbf3iX6Z) | 2:17 |

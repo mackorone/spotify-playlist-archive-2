@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
+  "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
   "name": "Latin House",
   "tracks": [
     {
@@ -4382,7 +4382,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 197209,
       "name": "Explotar",
       "url": "https://open.spotify.com/track/5tSyrzENPa8nPI0UigRsaV"
@@ -7679,6 +7679,28 @@
     },
     {
       "album": {
+        "name": "Oye Manita",
+        "url": "https://open.spotify.com/album/1c7WyeBcYxMaSBwz4isThL"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "Haxhia",
+          "url": "https://open.spotify.com/artist/0pRaEEq4Vd95gC39v8Pg27"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Oye Manita",
+      "url": "https://open.spotify.com/track/2TdF6zvbYsehxKHh7hgkn9"
+    },
+    {
+      "album": {
         "name": "Pa Lante",
         "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
       },
@@ -8524,6 +8546,24 @@
       "duration_ms": 214959,
       "name": "Que Pasa",
       "url": "https://open.spotify.com/track/7CN0ZjQErfJD4wJatYcpH9"
+    },
+    {
+      "album": {
+        "name": "King Of Groove EP",
+        "url": "https://open.spotify.com/album/0tujiN8DryUYPcnIo8Ebd3"
+      },
+      "artists": [
+        {
+          "name": "LUMC (VE)",
+          "url": "https://open.spotify.com/artist/5SSESx4C4giqEdBz0i6bOM"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/6B4BItXLcr8RngJqKLL9ps"
     },
     {
       "album": {
@@ -11210,7 +11250,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 152903,
       "name": "Vida",
       "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"

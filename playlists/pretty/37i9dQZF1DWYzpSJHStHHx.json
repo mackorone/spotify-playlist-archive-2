@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484315,
+  "num_followers": 484314,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "What's Next",
-        "url": "https://open.spotify.com/album/1lowgh5rAXOT26cMX6NXaj"
-      },
-      "artists": [
-        {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
-        }
-      ],
-      "duration_ms": 158085,
-      "name": "What's Next",
-      "url": "https://open.spotify.com/track/204AwF6xWxX2OakSgEyICI"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Santino Surfers",
         "url": "https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 377556,
       "name": "Sun Rise Swell",
       "url": "https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "What's Next",
+        "url": "https://open.spotify.com/album/1lowgh5rAXOT26cMX6NXaj"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 158085,
+      "name": "What's Next",
+      "url": "https://open.spotify.com/track/204AwF6xWxX2OakSgEyICI"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
+        "name": "Playful Sins",
+        "url": "https://open.spotify.com/album/5LtWxH19vd7sBZUJXzozII"
       },
       "artists": [
         {
-          "name": "Offthewally",
-          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
+          "name": "Camino Gold",
+          "url": "https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi"
         }
       ],
-      "duration_ms": 171884,
-      "name": "Riding the Wind",
-      "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
+      "duration_ms": 222380,
+      "name": "Playful Sins",
+      "url": "https://open.spotify.com/track/0FODuQjDLbTaqNIYZrEE5K"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Playful Sins",
-        "url": "https://open.spotify.com/album/5LtWxH19vd7sBZUJXzozII"
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
       },
       "artists": [
         {
-          "name": "Camino Gold",
-          "url": "https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi"
+          "name": "Offthewally",
+          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
         }
       ],
-      "duration_ms": 222380,
-      "name": "Playful Sins",
-      "url": "https://open.spotify.com/track/0FODuQjDLbTaqNIYZrEE5K"
+      "duration_ms": 171884,
+      "name": "Riding the Wind",
+      "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Recycle",
-        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
-      },
-      "artists": [
-        {
-          "name": "loren north",
-          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Recycle",
-      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Small Fry",
         "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 206260,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+      },
+      "artists": [
+        {
+          "name": "loren north",
+          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Can You See The Sunshine? (EP)",
-        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
-      },
-      "artists": [
-        {
-          "name": "Gerf",
-          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
-        }
-      ],
-      "duration_ms": 205376,
-      "name": "Couch Sex",
-      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "LCD",
         "url": "https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 211705,
       "name": "LCD",
       "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Can You See The Sunshine? (EP)",
+        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
+      },
+      "artists": [
+        {
+          "name": "Gerf",
+          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
+        }
+      ],
+      "duration_ms": 205376,
+      "name": "Couch Sex",
+      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
+        "name": "Floating By",
+        "url": "https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT"
       },
       "artists": [
         {
-          "name": "Lavalove",
-          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
+          "name": "Dawson James",
+          "url": "https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL"
         }
       ],
-      "duration_ms": 187345,
-      "name": "Keep on",
-      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
+      "duration_ms": 160703,
+      "name": "Floating By",
+      "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

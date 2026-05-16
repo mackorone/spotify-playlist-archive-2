@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. Oscar Maydon y Victor Mendivil en portada",
+  "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. Gera MX y Kapo en portada",
   "name": "Flow Tranqui",
   "tracks": [
     {
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 151967,
       "name": "CANAIMA",
       "url": "https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs"
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 166734,
       "name": "COCO LOCO",
       "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
@@ -3140,7 +3140,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 153500,
       "name": "delao'",
       "url": "https://open.spotify.com/track/5bg14hdHcbSqEBv1g2bYjC"
@@ -5318,7 +5318,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 189473,
       "name": "Kizuna",
       "url": "https://open.spotify.com/track/1BDu3wehPUw4gETakYUGIK"
@@ -6342,7 +6342,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 124705,
       "name": "los a\u00f1os",
       "url": "https://open.spotify.com/track/436LTpsw2YQKGwb2kcOJuT"
@@ -7189,6 +7189,28 @@
     },
     {
       "album": {
+        "name": "MI EX",
+        "url": "https://open.spotify.com/album/4qQzvBTaaFB3ZGPZzG8TFv"
+      },
+      "artists": [
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "MI EX",
+      "url": "https://open.spotify.com/track/363f2yu0W2nJZPRqCh7i5P"
+    },
+    {
+      "album": {
         "name": "Mi Funeral",
         "url": "https://open.spotify.com/album/6HM2LoolkUwkGW0lZR7GY1"
       },
@@ -7332,6 +7354,28 @@
       "duration_ms": 192006,
       "name": "Miami",
       "url": "https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka"
+    },
+    {
+      "album": {
+        "name": "X Amor al Arte",
+        "url": "https://open.spotify.com/album/4p7prXOtCEjiwU0iWb62fP"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Mira Como Me Tienes",
+      "url": "https://open.spotify.com/track/1A6uHSqJuqFPZX9RSAbfr0"
     },
     {
       "album": {
@@ -9318,7 +9362,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"

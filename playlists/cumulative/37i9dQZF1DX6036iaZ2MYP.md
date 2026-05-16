@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover:  Didi B x Young John
 
-1,212 songs - 2 day 8 hr 43 min
+1,212 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 | 2025-02-06 | 2025-02-21 |
 | [Labadi](https://open.spotify.com/track/0UP371eP3lmySxTUF79jLK) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [Labadi](https://open.spotify.com/album/7tlYleJ9w1xTOa8WX94K31) | 2:16 | 2023-06-22 | 2023-09-29 |
 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 | 2025-05-29 | 2025-07-18 |
+| [Lakute](https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 2:19 | 2026-05-14 |  |
 | [Lalala](https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:58 | 2025-11-20 | 2026-02-20 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-13 | 2023-01-13 |
 | [LE MONDE EST À NOUS](https://open.spotify.com/track/2wQcGUV3Tfz9mMlNuVrjfo) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [LE MONDE EST À NOUS](https://open.spotify.com/album/3tlXVWWuJAUlXwNl6JVysL) | 3:21 | 2025-08-28 | 2025-11-21 |
@@ -1121,7 +1122,6 @@
 | [TOUT DROIT](https://open.spotify.com/track/6IKWFt2x3R7szTflWaeQiC) | [La Synesia](https://open.spotify.com/artist/1xAkr1syMoClC66pHMk2Eq) | [TOUT DROIT](https://open.spotify.com/album/0TD72f1ncze2skY9yu6kfi) | 2:43 | 2025-05-15 | 2025-06-27 |
 | [Toxic Love](https://open.spotify.com/track/7gldh8ogRFJliHUvVxJYho) | [Masquraid](https://open.spotify.com/artist/6FUddiIO2kIjYz2yvNfz6q), [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Toxic Love](https://open.spotify.com/album/5CnL5be3oL7LLwlR0mK6rm) | 2:28 | 2022-12-08 | 2023-05-19 |
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-12-01 | 2023-06-09 |
-| [Track 4](https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 0:00 | 2026-05-14 |  |
 | [Tragedy](https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:50 | 2024-11-14 | 2025-01-24 |
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-04-24 | 2025-05-16 |
 | [Treasure Island \(feat\. Monique Lawz, Joey B & Wes7ar 22\)](https://open.spotify.com/track/294RbcQMqf9cbFelweoVMB) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Monique Lawz](https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [WES7AR 22](https://open.spotify.com/artist/59CCuGR6B2a60Qrp3Wwsm8) | [Treasure Island \(feat\. Monique Lawz, Joey B & Wes7ar 22\)](https://open.spotify.com/album/3ATu4GjZWHIEfldJduxQ4g) | 5:01 | 2023-06-22 | 2023-08-25 |

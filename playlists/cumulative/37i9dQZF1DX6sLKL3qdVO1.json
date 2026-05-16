@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. J Balvin y Ryan Castro en portada",
+  "description": "Shawty lo que necesitas es darle flow. $HUPE e Ian Cordova en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -2282,6 +2282,28 @@
       "duration_ms": 153870,
       "name": "BLINGBLING",
       "url": "https://open.spotify.com/track/446cLutodT8bidqRX8vf3q"
+    },
+    {
+      "album": {
+        "name": "Bolsita Cara",
+        "url": "https://open.spotify.com/album/3RVp9B94uoddtDyGUtJcIg"
+      },
+      "artists": [
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        },
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176810,
+      "name": "Bolsita Cara",
+      "url": "https://open.spotify.com/track/63RoO5slbFtgk6lPGZkgbC"
     },
     {
       "album": {
@@ -5088,7 +5110,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 194815,
       "name": "Dispuesta",
       "url": "https://open.spotify.com/track/1dS0SXE49xmnfnmJTg8yca"
@@ -6626,6 +6648,36 @@
       "duration_ms": 254152,
       "name": "Falso Amigo",
       "url": "https://open.spotify.com/track/6amOXXKvvM8GsqkhLDm0pT"
+    },
+    {
+      "album": {
+        "name": "Belladonna",
+        "url": "https://open.spotify.com/album/279QwBqCJMO7irKwrB7024"
+      },
+      "artists": [
+        {
+          "name": "Xiyo",
+          "url": "https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ"
+        },
+        {
+          "name": "Fernandezz",
+          "url": "https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Raul Clyde",
+          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/2cu9stofbXbOFmaIFJzItd"
     },
     {
       "album": {
@@ -10312,7 +10364,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 179516,
       "name": "Loco",
       "url": "https://open.spotify.com/track/5luZ8xH6spkxFIH9dMenlp"
@@ -15646,7 +15698,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 150783,
       "name": "Presidente",
       "url": "https://open.spotify.com/track/379EbsgApFcHYHvv6vrKgD"
@@ -18460,7 +18512,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 154342,
       "name": "SMHQEB",
       "url": "https://open.spotify.com/track/7iHUcI22QnlURjP6a0B0dL"
@@ -20326,6 +20378,24 @@
       "duration_ms": 156521,
       "name": "TURRA & BANDIDA",
       "url": "https://open.spotify.com/track/68RJWlNTd1cj61yBYGJVOJ"
+    },
+    {
+      "album": {
+        "name": "SECHO GANG",
+        "url": "https://open.spotify.com/album/2Fk1qxzc8hy0JXVUConpxn"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138795,
+      "name": "TUS AMIGAS",
+      "url": "https://open.spotify.com/track/1k3WX4cLH6umPTPuZdsqiX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,105 likes - 808 songs - 1 day 20 hr 44 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,104 likes - 808 songs - 1 day 20 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,15 +93,15 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 83 | [Innocence](https://open.spotify.com/track/425U43GeYDutgF4fNEeiiO) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [Innocence](https://open.spotify.com/album/2nK3gdDP00hBQq6A95e3w3) | 2:10 |
 | 84 | [Skin 2 Skin](https://open.spotify.com/track/21fIsLrnYfJnzVoN9luEDR) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Skin 2 Skin](https://open.spotify.com/album/0mclvOXYO7qb7jefYYdZLr) | 2:46 |
 | 85 | [Won't Wait](https://open.spotify.com/track/7JHw2wKuRbJYuCSNHfmXFa) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Won't Wait](https://open.spotify.com/album/0Sq6v0yTUEzRpeD1xPbHPB) | 2:35 |
-| 86 | [Perhaps Somehow](https://open.spotify.com/track/6rV6BXWH7q3PuvwHihZFco) | [Les Poissons](https://open.spotify.com/artist/7KwOEm0raHThiwz9sW0XwQ) | [Perhaps Somehow](https://open.spotify.com/album/4RutqFVljtq7mNPJHrIkCp) | 3:28 |
-| 87 | [Wrong Answers Only](https://open.spotify.com/track/2wd4xFnp38Hp4UQw20gePU) | [Blush.](https://open.spotify.com/artist/6Mi2MX6hNszWST5izwFr39) | [In the Grey](https://open.spotify.com/album/2dgbAWyi4EaNSzxYl10OZV) | 2:51 |
-| 88 | [Dead Weight](https://open.spotify.com/track/0gW6J1iMY8drqCiTOQTssM) | [Apacalda](https://open.spotify.com/artist/7G8qJFWUYe3bsBN1cGjSq1) | [There’s a Shadow in My Room and It Isn’t Mine](https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6) | 3:41 |
-| 89 | [Microwave](https://open.spotify.com/track/0SoQ2gUP2PSihlOJiyIgd0) | [Tory Silver](https://open.spotify.com/artist/0U2aWJuykTMzEpKRyxoYLQ) | [Microwave](https://open.spotify.com/album/2ncgswmPyxpuczzliKPAnd) | 3:31 |
-| 90 | [just the thing](https://open.spotify.com/track/4FLYlVXuuBaZV5qaDdYrAw) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [rECKless dRIVing](https://open.spotify.com/album/4jmpWqFslUYVAQugv2bYhJ) | 4:03 |
-| 91 | [Good Dog](https://open.spotify.com/track/29P5a5IB6EflCqCaFr9BAC) | [Pearla](https://open.spotify.com/artist/79z2QxbhjUYyMqCOfvta7P) | [Song Room](https://open.spotify.com/album/5SUZHTPLu9N9fGhfUM38Fu) | 3:37 |
-| 92 | [Hollow Tips](https://open.spotify.com/track/0zTz1FG7FdI28aZ8Glokmc) | [Sukpatch](https://open.spotify.com/artist/1dzPRTT4kCwfyJqV35Un9I) | [Thin Skin Diver \(1991\-1996\)](https://open.spotify.com/album/6OxYjoJgUePCO1cXe3eky5) | 2:46 |
-| 93 | [oh god am i](https://open.spotify.com/track/1jBCvX0hstSxd9DqFB6Ye3) | [big long sun](https://open.spotify.com/artist/7KghaMsYBI5iWt1nAPgJM2) | [love songs and spiritual recollections](https://open.spotify.com/album/4e71xvTlO6laycmF9Xx1Hv) | 3:30 |
-| 94 | [86](https://open.spotify.com/track/2n2oNATPYI3rtGzLZs7mEw) | [Tracey Nelson](https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J) | [86](https://open.spotify.com/album/3g4bCLXT8iLIoZPiaINxul) | 3:52 |
+| 86 | [86](https://open.spotify.com/track/2n2oNATPYI3rtGzLZs7mEw) | [Tracey Nelson](https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J) | [86](https://open.spotify.com/album/3g4bCLXT8iLIoZPiaINxul) | 3:52 |
+| 87 | [Perhaps Somehow](https://open.spotify.com/track/6rV6BXWH7q3PuvwHihZFco) | [Les Poissons](https://open.spotify.com/artist/7KwOEm0raHThiwz9sW0XwQ) | [Perhaps Somehow](https://open.spotify.com/album/4RutqFVljtq7mNPJHrIkCp) | 3:28 |
+| 88 | [Wrong Answers Only](https://open.spotify.com/track/2wd4xFnp38Hp4UQw20gePU) | [Blush.](https://open.spotify.com/artist/6Mi2MX6hNszWST5izwFr39) | [In the Grey](https://open.spotify.com/album/2dgbAWyi4EaNSzxYl10OZV) | 2:51 |
+| 89 | [Dead Weight](https://open.spotify.com/track/0gW6J1iMY8drqCiTOQTssM) | [Apacalda](https://open.spotify.com/artist/7G8qJFWUYe3bsBN1cGjSq1) | [There’s a Shadow in My Room and It Isn’t Mine](https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6) | 3:41 |
+| 90 | [Microwave](https://open.spotify.com/track/0SoQ2gUP2PSihlOJiyIgd0) | [Tory Silver](https://open.spotify.com/artist/0U2aWJuykTMzEpKRyxoYLQ) | [Microwave](https://open.spotify.com/album/2ncgswmPyxpuczzliKPAnd) | 3:31 |
+| 91 | [just the thing](https://open.spotify.com/track/4FLYlVXuuBaZV5qaDdYrAw) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [rECKless dRIVing](https://open.spotify.com/album/4jmpWqFslUYVAQugv2bYhJ) | 4:03 |
+| 92 | [Good Dog](https://open.spotify.com/track/29P5a5IB6EflCqCaFr9BAC) | [Pearla](https://open.spotify.com/artist/79z2QxbhjUYyMqCOfvta7P) | [Song Room](https://open.spotify.com/album/5SUZHTPLu9N9fGhfUM38Fu) | 3:37 |
+| 93 | [Hollow Tips](https://open.spotify.com/track/0zTz1FG7FdI28aZ8Glokmc) | [Sukpatch](https://open.spotify.com/artist/1dzPRTT4kCwfyJqV35Un9I) | [Thin Skin Diver \(1991\-1996\)](https://open.spotify.com/album/6OxYjoJgUePCO1cXe3eky5) | 2:46 |
+| 94 | [oh god am i](https://open.spotify.com/track/1jBCvX0hstSxd9DqFB6Ye3) | [big long sun](https://open.spotify.com/artist/7KghaMsYBI5iWt1nAPgJM2) | [love songs and spiritual recollections](https://open.spotify.com/album/4e71xvTlO6laycmF9Xx1Hv) | 3:30 |
 | 95 | [Dragging](https://open.spotify.com/track/3wC8ElvoI1he2vwBtvhAGW) | [Trader](https://open.spotify.com/artist/1i0Add0rJDkz2TwcYKxUx2) | [Hoodie](https://open.spotify.com/album/2M91QCP4oa55kALyn2G431) | 3:19 |
 | 96 | [I'll See You Around](https://open.spotify.com/track/2qeUWcXKxu8QbLk9MOT2eq) | [Stephen Becker](https://open.spotify.com/artist/7FCkbxma6Ih561lCVJIrlq) | [Gravity Blanket](https://open.spotify.com/album/48tvQv9SHP33KdbpWgPAvy) | 3:05 |
 | 97 | [The End](https://open.spotify.com/track/6By1JcMioeX4y6KkLXMsY5) | [Sans Merit](https://open.spotify.com/artist/6ArU4k8PS1STHehmWH770a), [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Trolley Polly](https://open.spotify.com/album/0qdyAG2arpiVHC2hsGAn4I) | 3:12 |
@@ -817,4 +817,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 807 | [Not A Phase](https://open.spotify.com/track/36ZQiXMIYRyu9cuFJOxsCc) | [Communions](https://open.spotify.com/artist/0R8TAmoXJnoB6ro5cp1XdI) | [Not A Phase](https://open.spotify.com/album/5vjMV5LhVU5VaXjvLITt6v) | 3:48 |
 | 808 | [Beating Heart](https://open.spotify.com/track/6vVsJ7c7o264KMs6lGuOdo) | [Casey Wells](https://open.spotify.com/artist/4cyCbBq7o628A5NX4mEcD5) | [Beating Heart](https://open.spotify.com/album/1NNLlui1KhXPI4MCnalK0F) | 2:58 |
 
-Snapshot ID: `AAA9DhkaL0/IMhGyVDUO47BD8pXafjh5`
+Snapshot ID: `AAA9D1ei5c8YZ+asNnTKsaahyNQ5HBdZ`

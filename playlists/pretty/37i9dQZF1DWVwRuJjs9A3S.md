@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Sylvie´s Head
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,165 likes - 259 songs - 14 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,172 likes - 259 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 2 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
 | 3 | [Babycake](https://open.spotify.com/track/51wGa9a97WhBQZxMGRnnlm) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Babycake](https://open.spotify.com/album/40vt0NOKvzkoFMXZRcnuX3) | 2:28 |
 | 4 | [at least this far](https://open.spotify.com/track/0TH76Cwoi9kiQu55CiTgMr) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [at least this far](https://open.spotify.com/album/6uM4SwL7OGzJrh3orlTpke) | 2:46 |
-| 5 | [Track 13](https://open.spotify.com/track/6sJEtAvb5P0Q2NII6ynUNa) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [I'm Fine](https://open.spotify.com/album/0KrkqXQ7SfG1siefSnXPUo) | 0:00 |
+| 5 | [I'm Fine](https://open.spotify.com/track/6sJEtAvb5P0Q2NII6ynUNa) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [I'm Fine](https://open.spotify.com/album/0KrkqXQ7SfG1siefSnXPUo) | 3:16 |
 | 6 | [Är du nöjd nu?](https://open.spotify.com/track/4Bf5kuudRY7GO9QL0HIztF) | [Året Var](https://open.spotify.com/artist/1IuIAS0zkKRpITz8IMNa3i) | [Är du nöjd nu?](https://open.spotify.com/album/3ElRtgXl0OEiAWjObOb2tH) | 4:26 |
 | 7 | [The Arms Of You](https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [The Arms Of You](https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43) | 2:50 |
 | 8 | [Miss Congeniality](https://open.spotify.com/track/7DENQnNlSFhL4YicOetm5m) | [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza) | [Miss Congeniality](https://open.spotify.com/album/6nxPuN7A0UsGIpPcUpVrIU) | 3:37 |

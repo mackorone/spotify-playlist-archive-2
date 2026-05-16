@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXL5bWfnjoIL.md) - [plain]
 
 > Enjoy music from "CHIBI MARUKO CHAN"! ©SAKURA PRODUCTION/NIPPON ANIMATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,600 likes - 28 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,629 likes - 28 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXL5bWfnjoIL.md) - [plain]
 | 27 | [ゆめいっぱい \- Cover](https://open.spotify.com/track/6LBsaxjOkXIkzliEt4YFid) | [有馬ゆみこ](https://open.spotify.com/artist/1oSTnOvEeh8zxbSBvtUYbw) | [ゆめいっぱい \(Cover\)](https://open.spotify.com/album/51AxOHsHEfEOlk9QfXl9GU) | 3:13 |
 | 28 | [おどるポンポコリン～ちびまる子ちゃん 誕生 25th Version～](https://open.spotify.com/track/5wRcS2hS5C97vBgr5ga4nG) | [B.B.QUEENS](https://open.spotify.com/artist/4JqWbQDxluABEUVJ3bLVQ1) | [ROYAL STRAIGHT B.B.QUEENS](https://open.spotify.com/album/714trjyhZ51pqjDbpkeFu2) | 3:09 |
 
-Snapshot ID: `AAAAAK0G1u9tuo2WBqS3ag8GcDbvBhSk`
+Snapshot ID: `AAAAAMBJLUN8Czs4fF1aNXE9AatCWivi`

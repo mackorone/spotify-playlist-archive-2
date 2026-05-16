@@ -6152,7 +6152,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 181196,
       "name": "El Youm",
       "url": "https://open.spotify.com/track/0mjDJiXyG83w6EdKUWU867"
@@ -6178,7 +6178,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 177560,
       "name": "El Youm El Helw Dah",
       "url": "https://open.spotify.com/track/2Psyh5GwECKX8AGUNfW8BJ"
@@ -7470,7 +7470,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 281311,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4ofC30d8eYzGt8vMALEM4M"
@@ -8240,7 +8240,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 219663,
       "name": "Hafla (Yalla)",
       "url": "https://open.spotify.com/track/48ShKXg6qKMFpZ3c4YL10p"
@@ -9308,7 +9308,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 222540,
       "name": "I Just Want You To Smile",
       "url": "https://open.spotify.com/track/26jWskVc8NRVYeP2C3noTv"
@@ -9492,7 +9492,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 205864,
       "name": "I'm Here",
       "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
@@ -17246,7 +17246,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 230322,
       "name": "Raiz Brasileira",
       "url": "https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3"
@@ -18311,6 +18311,24 @@
     },
     {
       "album": {
+        "name": "SARU",
+        "url": "https://open.spotify.com/album/4DW1KYVKmVEPoWc2ttzebu"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138425,
+      "name": "SARU",
+      "url": "https://open.spotify.com/track/2iKf7dqfmgp1cIoZOrroCw"
+    },
+    {
+      "album": {
         "name": "Sauti vs. Diplomatico",
         "url": "https://open.spotify.com/album/1t6JcECahFzvbZPVJAZggQ"
       },
@@ -18334,7 +18352,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 208770,
       "name": "Sauti vs. Diplomatico",
       "url": "https://open.spotify.com/track/1ZPt3HF5BxLb2gVZue2tkb"
@@ -18900,6 +18918,24 @@
       "duration_ms": 396610,
       "name": "Shimova",
       "url": "https://open.spotify.com/track/7uVSGwfkpnOJP3SLkg8Rxc"
+    },
+    {
+      "album": {
+        "name": "Shine A Light",
+        "url": "https://open.spotify.com/album/7CpdsRPLqRo2GZ5NKFVpG3"
+      },
+      "artists": [
+        {
+          "name": "Kitty Amor",
+          "url": "https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255737,
+      "name": "Shine A Light - Edit",
+      "url": "https://open.spotify.com/track/7yPLswWaozPXqZCcz0Dcp9"
     },
     {
       "album": {
@@ -21109,6 +21145,32 @@
     },
     {
       "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/1xj0AHYzc0hxmAKHW1vuHS"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        },
+        {
+          "name": "Karl Williams",
+          "url": "https://open.spotify.com/artist/6F7RlpNDeVEeiwt5EaA6fE"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308852,
+      "name": "The Only One - Radio Edit",
+      "url": "https://open.spotify.com/track/3eEdbkAYt1mYKDoHYzc4Ig"
+    },
+    {
+      "album": {
         "name": "This Is SH\u00c8N",
         "url": "https://open.spotify.com/album/0BuCz58hOxBFXmfocz8eWU"
       },
@@ -23202,7 +23264,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 208166,
       "name": "Wale Wale (feat. Sofiya Nzau)",
       "url": "https://open.spotify.com/track/3gf2xwSXTOTnvVz7VjzbgE"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Himesh Reshammiya,  Varun Jain, Arijit Singh and more.",
+  "description": "Latest music from Sachet-Parampara, Darshan Raval, Adnan Sami and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -5072,7 +5072,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 157142,
       "name": "Besharam Dil",
       "url": "https://open.spotify.com/track/7qV33Xqhd4ZDUMAEYCMGz7"
@@ -5634,6 +5634,28 @@
       "duration_ms": 202526,
       "name": "Blues",
       "url": "https://open.spotify.com/track/5BlMlztUom9NDQc8qJqlIh"
+    },
+    {
+      "album": {
+        "name": "Body Roll",
+        "url": "https://open.spotify.com/album/3ugkKVg0G2mpNfQbso8fvL"
+      },
+      "artists": [
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+        },
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228245,
+      "name": "Body Roll",
+      "url": "https://open.spotify.com/track/448nUxDzhJJiYDGgISvs7p"
     },
     {
       "album": {
@@ -7212,7 +7234,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 147750,
       "name": "Chitthi",
       "url": "https://open.spotify.com/track/5VaMdYBY1TKv168OKvV789"
@@ -8320,7 +8342,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 219283,
       "name": "Dhaage",
       "url": "https://open.spotify.com/track/2XFpn8m8FHeWhDfmH2SAFi"
@@ -9655,6 +9677,32 @@
     },
     {
       "album": {
+        "name": "My Name Is AK74",
+        "url": "https://open.spotify.com/album/5JzUgixvs49SV6n15kCLrz"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Saga Sounds",
+          "url": "https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN"
+        },
+        {
+          "name": "Vinder Nathu Majra",
+          "url": "https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "Diljaniya",
+      "url": "https://open.spotify.com/track/2IQKY8RIh8G1T9gpL2bvdg"
+    },
+    {
+      "album": {
         "name": "Dilnasheen",
         "url": "https://open.spotify.com/album/7vGhsJdLLyevYqYVgs14RS"
       },
@@ -10350,7 +10398,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 232771,
       "name": "Dosti",
       "url": "https://open.spotify.com/track/67L5pbi8qYQg3KKxroat6g"
@@ -17699,6 +17747,36 @@
     },
     {
       "album": {
+        "name": "Kaamil",
+        "url": "https://open.spotify.com/album/2TzFTRHjVU6enl9hw67Nqs"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        },
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255059,
+      "name": "Kaamil",
+      "url": "https://open.spotify.com/track/2lzQOaqyfyX7x32P9K899T"
+    },
+    {
+      "album": {
         "name": "Kaari",
         "url": "https://open.spotify.com/album/6daQiMjPyMjA91IpMW4UDS"
       },
@@ -20243,6 +20321,32 @@
     },
     {
       "album": {
+        "name": "Koi Baat Nahin",
+        "url": "https://open.spotify.com/album/4AOTFor4TJyr3z53NK86KF"
+      },
+      "artists": [
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Parivesh Singh",
+          "url": "https://open.spotify.com/artist/0dK5WT1bTpvfNi8EoKp20I"
+        },
+        {
+          "name": "Vishal Vats",
+          "url": "https://open.spotify.com/artist/5Fdlm8xI0qRmaow141A2KH"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Koi Baat Nahin",
+      "url": "https://open.spotify.com/track/7epzIz1DYiaIyO3SE4pUYA"
+    },
+    {
+      "album": {
         "name": "Koi Koi Karda",
         "url": "https://open.spotify.com/album/2t0gaEh2nupaTcQgvOhhxw"
       },
@@ -21548,6 +21652,24 @@
       "duration_ms": 192000,
       "name": "Lil Bunty",
       "url": "https://open.spotify.com/track/1MGvSryQcSR7zsNG4lQOjN"
+    },
+    {
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/0Er7ooOWYFB7pTei1XBsxc"
+      },
+      "artists": [
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207321,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/0xRhcXysPd2bx9ZsRnDrvH"
     },
     {
       "album": {
@@ -23184,7 +23306,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 212713,
       "name": "Maza Pyaar Karne Mein (feat. Kumar Sanu)",
       "url": "https://open.spotify.com/track/3ndIeDXqi9MDgxu0HuSBg7"
@@ -24568,6 +24690,28 @@
       "duration_ms": 235856,
       "name": "Mujhe Pyaar Ho Gaya Hain",
       "url": "https://open.spotify.com/track/5ZGCjZ8JQJBVcxgRjknsSc"
+    },
+    {
+      "album": {
+        "name": "Mujhe Rok Lo",
+        "url": "https://open.spotify.com/album/6fUWtUSFqdugvj0VOb3OF5"
+      },
+      "artists": [
+        {
+          "name": "Farhan Khan",
+          "url": "https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy"
+        },
+        {
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224769,
+      "name": "Mujhe Rok Lo",
+      "url": "https://open.spotify.com/track/5q68Sjztv6bnxgbj9bwHll"
     },
     {
       "album": {
@@ -26584,6 +26728,32 @@
       "duration_ms": 222222,
       "name": "Oh Meri Heeriye",
       "url": "https://open.spotify.com/track/2nSQ2MhvJAHlL0mFlZ4P0e"
+    },
+    {
+      "album": {
+        "name": "Only Mine",
+        "url": "https://open.spotify.com/album/48kqvgSfWWEnIxG0WZK9W8"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Siddharth Amit Bhavsar",
+          "url": "https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "Only Mine",
+      "url": "https://open.spotify.com/track/6r4G2AMRsntft5zHTrCUf2"
     },
     {
       "album": {
@@ -28980,7 +29150,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 168428,
       "name": "Rab Se",
       "url": "https://open.spotify.com/track/0MqOGFgCdGlFhCJwFyP4UY"
@@ -31118,6 +31288,28 @@
       "duration_ms": 168083,
       "name": "Sajan Re",
       "url": "https://open.spotify.com/track/4IY2T284jwbMvcff8LhNXi"
+    },
+    {
+      "album": {
+        "name": "Sajan Sajan",
+        "url": "https://open.spotify.com/album/0F48thkzLEljIHJ5Mu3rNh"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Raja Hasan",
+          "url": "https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206842,
+      "name": "Sajan Sajan",
+      "url": "https://open.spotify.com/track/34uyouEOf7xf5HZWIkAPwC"
     },
     {
       "album": {
@@ -35824,7 +36016,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 180217,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE"
@@ -39696,7 +39888,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 273469,
       "name": "Yahin Guzaar Doon",
       "url": "https://open.spotify.com/track/581QL3x7Cfw1RNqZe0OPfC"

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,379 songs - 9 day 17 hr 42 min
+4,386 songs - 9 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | ['O bbene 'e chesta vita](https://open.spotify.com/track/6TBieVb4PhIh12HAxDEjf0) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | ['O bbene 'e chesta vita](https://open.spotify.com/album/08sQSKlEk8tnwMP0kGQ9UX) | 3:22 | 2025-07-01 |  |
 | ['O Core Mio](https://open.spotify.com/track/4b1HfiEX5XJCnrpizx8xZd) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 3:05 | 2025-05-27 |  |
 | ['O Core Mio \(another\)](https://open.spotify.com/track/6ATVRrXgoIDFLP9uVyVLSj) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 2:50 | 2025-09-18 |  |
+| [\(Ghost track\)](https://open.spotify.com/track/4LpeXM0YGS6IRr1Lb15paF) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:55 | 2026-05-15 |  |
 | [\(Like a\) Dandy Warhol](https://open.spotify.com/track/0ioeSwEh7824IZ30X1x6s6) | [Soul Jacker](https://open.spotify.com/artist/6RWpDKMgURQqMiZOZJIFxa) | [Fantasmagoria USA Edition](https://open.spotify.com/album/1yoLAramuCAq4E2gLUth64) | 3:42 | 2025-11-26 |  |
 | [\(Love Is\) Corrupted Code](https://open.spotify.com/track/3eO2ad5IkMC97DodASyBPQ) | [Peepall](https://open.spotify.com/artist/0aYT6hZTd5p8g0qWhuZPyX) | [\(Love Is\) Corrupted Code](https://open.spotify.com/album/532XswazKaWQqmgBuq7CFm) | 3:24 | 2025-08-15 |  |
 | [\(You’ve Been a\) Shit To Me](https://open.spotify.com/track/34X4KcxVMjC844cSAPeij0) | [The Lovely Eggs](https://open.spotify.com/artist/4DO9uZBipcWHEfMXo87yhS) | [Bin Juice](https://open.spotify.com/album/23O2GkJX92vYDabrLwdzVe) | 2:52 | 2025-11-04 |  |
@@ -1065,6 +1066,7 @@
 | [Dreams \(another\)](https://open.spotify.com/track/43qz8YmIwXWO0X0SbqGS9o) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Techno Dance](https://open.spotify.com/album/3ED2oQ4TpT78BCuGQxnwRz) | 3:43 | 2025-06-04 |  |
 | [Dreams in the Neon](https://open.spotify.com/track/2DdT2YCfmE0vYJ0PGYzka6) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Dance Futuristic Elettropop](https://open.spotify.com/album/0awZvFqMXHLqpRRpzMeFfW) | 3:33 | 2025-09-18 |  |
 | [Dreams in the Neon \(another\)](https://open.spotify.com/track/0nBkAxYQCikOkmEtffBf54) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Dance Futuristic Elettropop](https://open.spotify.com/album/0awZvFqMXHLqpRRpzMeFfW) | 3:17 | 2025-09-18 |  |
+| [Dreams mobilia](https://open.spotify.com/track/7varKXqsq43mXl8iV9Lmfq) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Dreams mobilia](https://open.spotify.com/album/4rKIxNKvsm4OUlZ4OwhoJJ) | 3:14 | 2026-05-15 |  |
 | [Dreams of Light](https://open.spotify.com/track/1On1j8RU7UTumAz8zQzEar) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Mystic Mistic Pop Music](https://open.spotify.com/album/13eNKYe77sZpdlvrkepF5P) | 2:41 | 2025-05-27 |  |
 | [Dreams of Light \(another\)](https://open.spotify.com/track/4C2aljKad5mh5Ol45m9f61) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Mystic Mistic Pop Music](https://open.spotify.com/album/13eNKYe77sZpdlvrkepF5P) | 2:31 | 2025-09-18 |  |
 | [Dreamver](https://open.spotify.com/track/5xrMdI4QjZ3KPPTWb9RcEf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 3:07 | 2025-09-17 |  |
@@ -1646,6 +1648,7 @@
 | [Guardian Angel](https://open.spotify.com/track/2XfTuQyZzXly0ePdx8InVt) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 5:00 | 2025-03-30 |  |
 | [Guardian Angel](https://open.spotify.com/track/3pV4Gcf0LZTDBmxOijiIkq) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [Guardian Angel](https://open.spotify.com/album/219hl0Mo9jyPdoS8iBSFbz) | 5:00 | 2025-03-30 |  |
 | [Guardian Angel](https://open.spotify.com/track/6sKkW70KTibHfIm4hrTNHo) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Guardian Angel](https://open.spotify.com/album/2OhC8p8sr3Q0Lxc17FKXpL) | 4:21 | 2025-07-16 |  |
+| [Guardian angel](https://open.spotify.com/track/1dwM6OWrnxTC9f37XLPZdn) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:57 | 2026-05-15 |  |
 | [Guerriera Silenziosa](https://open.spotify.com/track/0Zw80mdCSZs75m0xcUG4tp) | [Raffaele Tremante](https://open.spotify.com/artist/4d8ojEqg8n52KpP8TA7hLv) | [Guerriera Silenziosa](https://open.spotify.com/album/7oT5zgP1QdvbWp7xo7dWWF) | 3:41 | 2025-06-04 |  |
 | [Gunpowder](https://open.spotify.com/track/0CcYWOqDWiKHDljReMLU7P) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Gunpowder](https://open.spotify.com/album/7spH3TQAK7W69Qun8OnP0A) | 2:17 | 2025-10-22 |  |
 | [Gustos](https://open.spotify.com/track/5SJkReFshWHiW1FAKn5bP1) | [El Ñuki](https://open.spotify.com/artist/2m93z7IZZIxu1ctqfGQh1m) | [Gustos](https://open.spotify.com/album/0jprnlBuR2jYuYA2ZUZslC) | 3:01 | 2025-06-10 |  |
@@ -1897,6 +1900,7 @@
 | [In the rain](https://open.spotify.com/track/6wEdQ3tq7D7VbAX8qjc1yw) | [Flint Gun](https://open.spotify.com/artist/0nFSX6ZMek8s4Adewf1B3F) | [In the rain](https://open.spotify.com/album/0kMllBMTHHKlLa6AvswTwm) | 4:10 | 2025-10-15 |  |
 | [In un mondo dopo il mondo](https://open.spotify.com/track/0T3v3wLYR85rDTWWI8GhOG) | [Massimo Volume](https://open.spotify.com/artist/24GE8PrrmxG6XocV1UQPmP) | [Cattive abitudini](https://open.spotify.com/album/24wUrxEOINZfcfJF2eJ6O2) | 5:09 | 2025-11-12 |  |
 | [Inaffondabile](https://open.spotify.com/track/0xFqxzQpAqfR8aptswwEbg) | [Kronberg](https://open.spotify.com/artist/5E8bDmNrytK8smJiycYFxC), [Ian](https://open.spotify.com/artist/67jmOUMmXY6qY19JcTpBoO), [Antonio Scarola](https://open.spotify.com/artist/5rJ3KiQdDHdC9zY665qvvt) | [Inaffondabile](https://open.spotify.com/album/6QLf25RnPCKBMGwv4wT5wi) | 4:05 | 2025-09-26 |  |
+| [Inbox folder](https://open.spotify.com/track/5u5cZwsUCcKI5u93hLO7ql) | [Sunglasses](https://open.spotify.com/artist/5w6Xd09yAf8hmzTF363zV4) | [Inbox folder](https://open.spotify.com/album/6jho4gWOQn84V0gghWkD9P) | 4:42 | 2026-05-15 |  |
 | [Incipit! \- Instrumental Version](https://open.spotify.com/track/6LdsM3LBiGEgFUXoPPzeSq) | [Menervah](https://open.spotify.com/artist/2aiGy5FSWy22PUb03v0qSU) | [Hard Times](https://open.spotify.com/album/4tDfAiPRA9WeZpZmXars8U) | 2:00 | 2025-05-27 |  |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-10-15 |  |
 | [Indietro](https://open.spotify.com/track/65OBTczmZH41Y0PG5YFd0L) | [Alessia Brightly](https://open.spotify.com/artist/5TCSLH5N1fkEbZmXerjINv) | [Senti\-Menti](https://open.spotify.com/album/7aTSmhAZwj0e0Mh1uwWRcY) | 3:55 | 2025-06-02 |  |
@@ -2051,6 +2055,7 @@
 | [L'Incredibileromantico \- Remastered](https://open.spotify.com/track/2LKdogm2fuvpN2fdgGiT3y) | [Carducci](https://open.spotify.com/artist/2THb3si9v6rQ2uqBAp8ZMf) | [Le vie del Cercatore](https://open.spotify.com/album/2RprCD6Thm9yNUx86vWxeC) | 3:01 | 2025-05-28 |  |
 | [L'orologio](https://open.spotify.com/track/40qjk81JFCtfHHCi1QIY3N) | [Simone Magnani](https://open.spotify.com/artist/5KXkiYrdBO06mQKTdIojtV) | [L'orologio](https://open.spotify.com/album/3SYNEKOO2kwbBQgGwHrMsl) | 2:56 | 2025-06-28 |  |
 | [L'ultimo respiro](https://open.spotify.com/track/02YRw852WILWVYa8ohXjoI) | [Raffaele Tremante](https://open.spotify.com/artist/4d8ojEqg8n52KpP8TA7hLv) | [L'ultimo respiro](https://open.spotify.com/album/1E1MzAJBkrGw0vLbeu2jaV) | 4:17 | 2025-06-04 |  |
+| [L\. \- Demo Version](https://open.spotify.com/track/63cBVtluSwFYpkN7mlhxno) | [Sunglasses](https://open.spotify.com/artist/5w6Xd09yAf8hmzTF363zV4) | [L\. \(Demo Version\)](https://open.spotify.com/album/7cBEzuDQckINm2KoUIJAFl) | 3:08 | 2026-05-15 |  |
 | [La Barca di Carta](https://open.spotify.com/track/2wlov7eejGYcFolQYkNjNF) | [Cow Lee](https://open.spotify.com/artist/3WM2c0I49ITR5o3BeXeBQe) | [La Barca di Carta](https://open.spotify.com/album/3nwwk9sgPJtnAyPEZL8qIq) | 4:26 | 2025-07-03 |  |
 | [LA CADUTA DI ICARO](https://open.spotify.com/track/0CutG7jNSXkTeowjtHBDN7) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [di sirene](https://open.spotify.com/album/6Tlfu8XHQgn058q8vBYPig) | 6:53 | 2026-02-01 |  |
 | [LA CADUTA DI ICARO \- 2023 Remastered Version](https://open.spotify.com/track/5oF8sAXwyjaTQvTlv9syvM) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [LA CADUTA DI ICARO \(2023 Remastered Version\)](https://open.spotify.com/album/6RjZtdBul4rmXNABVmX2eJ) | 6:53 | 2026-02-01 |  |
@@ -2631,6 +2636,7 @@
 | [Night Vibes Luxury](https://open.spotify.com/track/3RUsxsTFozJf1KfDGpeV3d) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 3:14 | 2026-01-31 |  |
 | [Nightlight Groove](https://open.spotify.com/track/01gjOCijZ0xsjvLILJWVbm) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vibe Funky Disco](https://open.spotify.com/album/556G6A4l9E9cEJQOBGUmBW) | 3:24 | 2025-09-19 |  |
 | [Nightlight Groove \(another\)](https://open.spotify.com/track/3Yii2McoVIHRMZ97Srk6H4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vibe Funky Disco](https://open.spotify.com/album/556G6A4l9E9cEJQOBGUmBW) | 3:59 | 2025-09-19 |  |
+| [Nighttrippin](https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH) | [Dance Commander](https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl) | [Nighttrippin](https://open.spotify.com/album/21g866EGYrGD8zbuP9cvF8) | 3:25 | 2026-05-15 |  |
 | [Nihurumie](https://open.spotify.com/track/3EWHWtZGEBptCjWbT3b3xd) | [Clizzoh Kheed](https://open.spotify.com/artist/03XiEfRCt8pG6GqCcz47jh), [Leken Est](https://open.spotify.com/artist/0UOitNDihCcbrzS6SWnbkA) | [Nihurumie](https://open.spotify.com/album/592mm4m7LW87wPmAFkbO50) | 3:09 | 2025-03-03 |  |
 | [Nikey](https://open.spotify.com/track/3HY4PJXfqVUuazDMdUfmGc) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Nikey](https://open.spotify.com/album/17REJyp3KXhgb4RQ1m1UCd) | 1:48 | 2025-05-08 |  |
 | [nine](https://open.spotify.com/track/2XhBU1yb8vRiP025TS7BYO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:08 | 2025-08-20 |  |
@@ -2998,6 +3004,7 @@
 | [Quietly Grateful \(Piano Ballad\) ana's loveone](https://open.spotify.com/track/79Jkv8rYadCAueiQjZCoTf) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 5:18 | 2026-04-29 |  |
 | [Qué bonita era La Habana](https://open.spotify.com/track/02AZmqZRqgzs0v1E7H4LpB) | [CAPITÁN MOSCÚ](https://open.spotify.com/artist/2lsoOFuNDdLyToS0R3M05p) | [Qué bonita era La Habana](https://open.spotify.com/album/7LnZ1gBKDGZwKFs5dSmRpj) | 4:10 | 2025-06-25 |  |
 | [Qué te Pasó](https://open.spotify.com/track/5oxUwWuZGG0DbQI1YefvHm) | [El Mr.](https://open.spotify.com/artist/0UTWj8L8tNSJ2DC9E1by91) | [Qué te Pasó](https://open.spotify.com/album/6Dmm45j5gHI85rG6AbE6U0) | 3:31 | 2025-12-29 |  |
+| [R.I.P.](https://open.spotify.com/track/23i0tPsziYDQHC7xjMaQzb) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 4:26 | 2026-05-15 |  |
 | [Rabbia Dolce](https://open.spotify.com/track/7xLNh8pMM8z1vd9A47xn34) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano, Vol\. 2](https://open.spotify.com/album/4Yp8DTiAygh1xmsyajQFeo) | 3:02 | 2025-09-14 |  |
 | [Rabbia Dolce \(another\)](https://open.spotify.com/track/3wEhOGps9QE2vlTRIRKkeQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano, Vol\. 2](https://open.spotify.com/album/4Yp8DTiAygh1xmsyajQFeo) | 2:25 | 2025-09-14 |  |
 | [Rabbia e Fuoco](https://open.spotify.com/track/1KLqaZOb1k4CPKtWbZNiY7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 3:03 | 2025-09-18 |  |

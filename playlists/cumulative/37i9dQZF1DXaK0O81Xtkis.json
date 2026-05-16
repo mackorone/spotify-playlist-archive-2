@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Daniel Seavey",
+  "description": "a little indie, a little pop, soda featuring MICO",
   "name": "soda",
   "tracks": [
     {
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 186461,
       "name": "All Of It Now",
       "url": "https://open.spotify.com/track/3exzGjyEWjVfHvqKgclPwE"
@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 185318,
       "name": "Blame it on You",
       "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
@@ -3125,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "Bluish",
+        "url": "https://open.spotify.com/album/49CGtCKtpP9F9lJ2TjVq1u"
+      },
+      "artists": [
+        {
+          "name": "Father Of Peace",
+          "url": "https://open.spotify.com/artist/27nYMwQ6QyHV76mzwXarkO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151555,
+      "name": "Bluish",
+      "url": "https://open.spotify.com/track/4z6uxjuQNiEHfBiPGbqqJ8"
+    },
+    {
+      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
       },
@@ -3446,6 +3464,24 @@
       "duration_ms": 162453,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/6VkIPm8ow14mZ7QCUJSqSe"
+    },
+    {
+      "album": {
+        "name": "American Teenage Prophecy",
+        "url": "https://open.spotify.com/album/7fqBTbPzWkCfuTvWenODfg"
+      },
+      "artists": [
+        {
+          "name": "Kid Sistr",
+          "url": "https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210750,
+      "name": "Boys in Skirts",
+      "url": "https://open.spotify.com/track/1viohmE5vdwuD6DKdb4CZH"
     },
     {
       "album": {
@@ -3814,7 +3850,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 209841,
       "name": "Buy Me A Car",
       "url": "https://open.spotify.com/track/0F4FEE1cOzkp8tysmHfidR"
@@ -4712,6 +4748,24 @@
       "duration_ms": 205254,
       "name": "Chloe (feat. Jutes)",
       "url": "https://open.spotify.com/track/0XtBf7rln64ml07ElJcd2d"
+    },
+    {
+      "album": {
+        "name": "Chloe Showed Me",
+        "url": "https://open.spotify.com/album/1iN809Rv6ca7WOfJvuAmlr"
+      },
+      "artists": [
+        {
+          "name": "Sofia D'Angelo",
+          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150797,
+      "name": "Chloe Showed Me",
+      "url": "https://open.spotify.com/track/5XQTbbeLLN5WYvye53LApg"
     },
     {
       "album": {
@@ -6308,7 +6362,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 243760,
       "name": "Dancing On The Wall",
       "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
@@ -6998,7 +7052,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 228168,
       "name": "Do You Really Love Her",
       "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
@@ -7402,7 +7456,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 204557,
       "name": "down under",
       "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
@@ -8704,7 +8758,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 189898,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
@@ -8740,7 +8794,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 165057,
       "name": "Feelin' Myself",
       "url": "https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ"
@@ -9822,7 +9876,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 170181,
       "name": "Go For Broke",
       "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
@@ -10897,6 +10951,24 @@
     },
     {
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/7M6orDmP97kOxy7Evuf2d5"
+      },
+      "artists": [
+        {
+          "name": "The Wldlfe",
+          "url": "https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192356,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/6EUSY6w1esfVEorLKpZbLZ"
+    },
+    {
+      "album": {
         "name": "WHERE DID ALL THE BUTTERFLIES GO?",
         "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
       },
@@ -11752,7 +11824,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 174097,
       "name": "Hot Commodity",
       "url": "https://open.spotify.com/track/44LRPhsLKNtWQvuIuAzfdk"
@@ -11796,6 +11868,24 @@
       "duration_ms": 185166,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n"
+    },
+    {
+      "album": {
+        "name": "Housekeeping",
+        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205841,
+      "name": "Housekeeping",
+      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
     },
     {
       "album": {
@@ -11936,7 +12026,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 175272,
       "name": "How the Fire Started",
       "url": "https://open.spotify.com/track/6muc6qsSWXopaIhitb7Elb"
@@ -15353,6 +15443,24 @@
     },
     {
       "album": {
+        "name": "Like you mean it",
+        "url": "https://open.spotify.com/album/798jmpqSH0IYejKbp7mtRd"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147300,
+      "name": "Like you mean it",
+      "url": "https://open.spotify.com/track/4DCz1jb9Me9dn12CqqFk6N"
+    },
+    {
+      "album": {
         "name": "MARCO!",
         "url": "https://open.spotify.com/album/012M45feGa1rFDG0iiywJA"
       },
@@ -15764,7 +15872,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 192372,
       "name": "Loretta's Last Call",
       "url": "https://open.spotify.com/track/3bm0yuIdIcyh5XCTxa7Ee8"
@@ -17199,6 +17307,24 @@
     },
     {
       "album": {
+        "name": "MISS U",
+        "url": "https://open.spotify.com/album/2ZCGxJ2LtsOmIyIhIrwV24"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151145,
+      "name": "MISS U",
+      "url": "https://open.spotify.com/track/48FfsXjz8rd8CLhnIwWQNw"
+    },
+    {
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/7h32RpEtJz3qqo4a4AjPet"
       },
@@ -17282,7 +17408,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 152720,
       "name": "moment",
       "url": "https://open.spotify.com/track/1F5G0Au0xfNSYnX7NCDnqC"
@@ -17534,7 +17660,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 180000,
       "name": "moving on",
       "url": "https://open.spotify.com/track/56kplWYajG9mIypjY8cVn4"
@@ -19404,7 +19530,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 138462,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/4pnbLZ74D1KUCqDHwe2CXn"
@@ -20884,6 +21010,24 @@
       "duration_ms": 160500,
       "name": "Room 421",
       "url": "https://open.spotify.com/track/4R4Ha6DCyGFP30FjWwrkZl"
+    },
+    {
+      "album": {
+        "name": "round and round",
+        "url": "https://open.spotify.com/album/7fNSHWi4EJ3RHygITurjog"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167770,
+      "name": "round and round",
+      "url": "https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH"
     },
     {
       "album": {
@@ -22686,7 +22830,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 223306,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/73YAQ6CwxG7UwHOJEviF52"
@@ -25332,7 +25476,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 149137,
       "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
       "url": "https://open.spotify.com/track/29rXj5xHh7tGAA8H5Zqrxy"
@@ -25462,7 +25606,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 189107,
       "name": "the punisher",
       "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
@@ -26126,7 +26270,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 192941,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/2lXi0eQYkj5eLLLWYfG6rh"
@@ -28099,6 +28243,24 @@
     },
     {
       "album": {
+        "name": "Growing Pains (Deluxe)",
+        "url": "https://open.spotify.com/album/4ZSJ4RcSnjccnx3LhZ35uA"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167523,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/1N54JSlyPD0YriuRhantnh"
+    },
+    {
+      "album": {
         "name": "Where Did You Go?",
         "url": "https://open.spotify.com/album/6fWj5aZpuvjVEIIdTaNDNi"
       },
@@ -28535,6 +28697,24 @@
     },
     {
       "album": {
+        "name": "Word Vomit",
+        "url": "https://open.spotify.com/album/4f675l51sEciftAWInTtKB"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166439,
+      "name": "Word Vomit",
+      "url": "https://open.spotify.com/track/29XRcFuqT5quAetizfP8d4"
+    },
+    {
+      "album": {
         "name": "OK ORCHESTRA",
         "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
       },
@@ -28914,7 +29094,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 189913,
       "name": "You Always Liked Me Better When I Was Stoned",
       "url": "https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN"

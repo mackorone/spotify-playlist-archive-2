@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: אנה זק
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,692 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,711 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 27 | [הייתי נער](https://open.spotify.com/track/0CkLBzuD4HI9eWnT9BwKoz) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [כאן גימל](https://open.spotify.com/artist/4WQlIWFXTbWSeWLfEqXYhx) | [הייתי נער](https://open.spotify.com/album/3dQanWnZAnj3QRL9bLqSc7) | 3:45 |
 | 28 | [כמה שלא ניסיתי](https://open.spotify.com/track/5wnRXrylrkG2sn1LRsHrGk) | [עידו מלכה](https://open.spotify.com/artist/2UAEpEEwnaFVjWZGwxHWL3) | [כמה שלא ניסיתי](https://open.spotify.com/album/5iLUZ6TqDLHg0PlCez6EKk) | 3:24 |
 | 29 | [איפה שהכל נגמר](https://open.spotify.com/track/4JIMAsCy3gojK0m15shtvm) | [דניאלה גלבוע](https://open.spotify.com/artist/0mtQ6YIrQZqKDsNvSYvfIy) | [איפה שהכל נגמר](https://open.spotify.com/album/6KP5KxyrpIlouzPpct6y50) | 2:57 |
-| 30 | [Portrait](https://open.spotify.com/track/2Qi6IZEofas9eUwrL6y2pD) | [Eldad Zitrin](https://open.spotify.com/artist/4NNomCVl1n5hhBBk2h8aNk), [אדר גולד](https://open.spotify.com/artist/6WiGrFvPpFCdYQuQipCrvC) | [פורטרט](https://open.spotify.com/album/2MhUxT7m7p42hU4qCHX8DW) | 3:31 |
+| 30 | [Portrait](https://open.spotify.com/track/2Qi6IZEofas9eUwrL6y2pD) | [Eldad Zitrin](https://open.spotify.com/artist/4NNomCVl1n5hhBBk2h8aNk), [Adar Gold](https://open.spotify.com/artist/0q7VehOO4cRZhlDafqypaI) | [פורטרט](https://open.spotify.com/album/2MhUxT7m7p42hU4qCHX8DW) | 3:31 |
 | 31 | [גידי](https://open.spotify.com/track/3kOAD0dzflV5XlAaiKHvbM) | [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa) | [גידי](https://open.spotify.com/album/5wocMnwC2UJglNehOB5aQz) | 3:49 |
 | 32 | [לא לחינם](https://open.spotify.com/track/58AttoRTaSvsAtHLmvknqB) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [לא לחינם](https://open.spotify.com/album/1HhYxpCEC7fcbNPbLOTJeu) | 3:29 |
 | 33 | [עוד שבוע](https://open.spotify.com/track/4EgWYjTBAl3xtlq8h2gikw) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw), [Liron Amram](https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ) | [עוד שבוע](https://open.spotify.com/album/35pgU2HJcSllTvipdgmrh5) | 3:03 |

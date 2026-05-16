@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "a state of mind. Cover: Charley Crockett",
+  "description": "a state of mind. Cover: Ryan Bingham",
   "name": "Outlaw ",
   "tracks": [
     {
@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 220796,
       "name": "Bonfire At Tina's",
       "url": "https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z"
@@ -1296,10 +1296,32 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 275520,
       "name": "Keep The Wolves Away",
       "url": "https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV"
+    },
+    {
+      "album": {
+        "name": "They Call Us The Lucky Ones",
+        "url": "https://open.spotify.com/album/3DZjgdx3sRIqhPDgz16A7B"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        },
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211907,
+      "name": "Let the Big Dog Eat",
+      "url": "https://open.spotify.com/track/6ElsMCwZ6b7uc7niDLHMn8"
     },
     {
       "album": {
@@ -2592,7 +2614,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 188998,
       "name": "Why You Been Gone so Long",
       "url": "https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL"

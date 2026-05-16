@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Finest collection of Tamil Music from the past 10 years\nCover : Bhumi",
+  "description": "Finest collection of Tamil Music from the past 10 years\nCover : Dude",
   "name": "Kollywood Cream",
   "tracks": [
     {
@@ -3377,6 +3377,28 @@
     },
     {
       "album": {
+        "name": "Raavana Mavandaa (From \"Jana Nayagan\")",
+        "url": "https://open.spotify.com/album/6rkRdUGexViTQYuk2XkqhC"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107036,
+      "name": "Raavana Mavandaa (From \"Jana Nayagan\")",
+      "url": "https://open.spotify.com/track/7MP6jngkoEGUXKdpVeTXAT"
+    },
+    {
+      "album": {
         "name": "Blue Star (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/056Bmd8V35Hm8WrMGYDFaN"
       },
@@ -3556,7 +3578,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 303203,
       "name": "Rekka Rekka",
       "url": "https://open.spotify.com/track/7irQXVDibbl9ijrLajUVap"

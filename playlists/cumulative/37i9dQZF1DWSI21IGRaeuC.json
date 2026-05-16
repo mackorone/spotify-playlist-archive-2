@@ -746,7 +746,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 219692,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/0hI0tjl8fLB6UqpTq8SFCs"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 223091,
       "name": "Bassline Drop",
       "url": "https://open.spotify.com/track/7CkpWSctl5f8PPCB8Tazbm"
@@ -2351,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "BOTTLE IT",
+        "url": "https://open.spotify.com/album/7FDTCk6V3pkmcWmrKbLu2P"
+      },
+      "artists": [
+        {
+          "name": "House Of Molly",
+          "url": "https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "BOTTLE IT",
+      "url": "https://open.spotify.com/track/18Pa7snKXnwhYPyzrosIxO"
+    },
+    {
+      "album": {
         "name": "Bounce / Round & Round",
         "url": "https://open.spotify.com/album/5PEDhOH88uzMzXJXtA09hk"
       },
@@ -2673,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Burndown",
+        "url": "https://open.spotify.com/album/292deENqlmZt1cWA0gFn9W"
+      },
+      "artists": [
+        {
+          "name": "JACK MARLOW",
+          "url": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Burndown",
+      "url": "https://open.spotify.com/track/0nWX5MYxTp2z0bCPfqdahA"
+    },
+    {
+      "album": {
         "name": "winter '23",
         "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
       },
@@ -2974,7 +3010,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 402879,
       "name": "Certi",
       "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
@@ -3126,7 +3162,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 187817,
       "name": "Chlo\u00e9's Theme",
       "url": "https://open.spotify.com/track/0KPzSjXsnVhPrddxA5C0Jq"
@@ -5300,7 +5336,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 173684,
       "name": "Electro",
       "url": "https://open.spotify.com/track/0MlZydbIcFuhWMI88PRcc3"
@@ -5622,7 +5658,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 205454,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f"
@@ -5915,6 +5951,24 @@
     },
     {
       "album": {
+        "name": "Feel it in your soul",
+        "url": "https://open.spotify.com/album/0IZQrHqWbo1I5NcdVs17Vb"
+      },
+      "artists": [
+        {
+          "name": "ESCE",
+          "url": "https://open.spotify.com/artist/3xVvJGFXPlg9vcRkNB6BGk"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217218,
+      "name": "Feel it in your soul",
+      "url": "https://open.spotify.com/track/6SdRmI5tJPG4zIZxBYhOkX"
+    },
+    {
+      "album": {
         "name": "Feel The Bass EP",
         "url": "https://open.spotify.com/album/3Ch9ksgJ5kbuqeSeZx21XZ"
       },
@@ -5930,6 +5984,24 @@
       "duration_ms": 377142,
       "name": "Feel The Bass",
       "url": "https://open.spotify.com/track/5oHvb2k4wbH2BnaI7GeUEn"
+    },
+    {
+      "album": {
+        "name": "The Funk EP",
+        "url": "https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206412,
+      "name": "Feel The Funk",
+      "url": "https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE"
     },
     {
       "album": {
@@ -6662,7 +6734,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 241406,
       "name": "Fun Girls",
       "url": "https://open.spotify.com/track/4etnfIthrMVn4l0p4oI6UQ"
@@ -8438,7 +8510,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 194545,
       "name": "Home",
       "url": "https://open.spotify.com/track/6jRnVj43WWW3rsDa5iIsjM"
@@ -9493,6 +9565,24 @@
     },
     {
       "album": {
+        "name": "Is It You (Or Is It Me)",
+        "url": "https://open.spotify.com/album/240i6UmyYLhmTXxB4j31AX"
+      },
+      "artists": [
+        {
+          "name": "ADR (UK)",
+          "url": "https://open.spotify.com/artist/3IMrOdTFlakSWfVl6DKMub"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "Is It You (Or Is It Me)",
+      "url": "https://open.spotify.com/track/4VjGuOdMtLmjVvySSwYwc1"
+    },
+    {
+      "album": {
         "name": "It Gets Better (Chris Stussy Remix)",
         "url": "https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2"
       },
@@ -9700,6 +9790,24 @@
       "duration_ms": 146793,
       "name": "Joint Enterprise",
       "url": "https://open.spotify.com/track/66whG5JgiFSP4YJai6v5IE"
+    },
+    {
+      "album": {
+        "name": "Journey EP",
+        "url": "https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181108,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
     },
     {
       "album": {
@@ -12992,6 +13100,24 @@
       "duration_ms": 186299,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
+    },
+    {
+      "album": {
+        "name": "Non Stop",
+        "url": "https://open.spotify.com/album/07vh38TMCsVcaahSyrpecs"
+      },
+      "artists": [
+        {
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/6z0Zc6uf2ofI2KkUupFepg"
     },
     {
       "album": {
@@ -19144,7 +19270,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 225230,
       "name": "This Is Jungle",
       "url": "https://open.spotify.com/track/5NYHUgdlNzSoe6XIRNvncF"
@@ -20003,6 +20129,24 @@
     },
     {
       "album": {
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/0h54TisQPST6n9GEvY8pTL"
+      },
+      "artists": [
+        {
+          "name": "dalto",
+          "url": "https://open.spotify.com/artist/6F3yTcy1FfAM0TKUMEjtYP"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/2hj0FP9FmUV3UVZias8pxZ"
+    },
+    {
+      "album": {
         "name": "Un Beso",
         "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
       },
@@ -20160,6 +20304,24 @@
       "duration_ms": 265468,
       "name": "Unknown Track",
       "url": "https://open.spotify.com/track/0iFxLdKp3KNbl3TPziqcB0"
+    },
+    {
+      "album": {
+        "name": "Unless You Wanna (Uh Uh)",
+        "url": "https://open.spotify.com/album/3uoo2B8buepUOirzHxrcYm"
+      },
+      "artists": [
+        {
+          "name": "JOSSA",
+          "url": "https://open.spotify.com/artist/13X34zKdY9gaYUEb2Jnsm9"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Unless You Wanna (Uh Uh)",
+      "url": "https://open.spotify.com/track/7dLRmh16YMIr7BpO4DmkHQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-241 songs - 10 hr 12 min
+243 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,9 +61,11 @@
 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 | 2023-09-05 |  |
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2023-05-09 | 2025-02-27 |
 | [Echidna](https://open.spotify.com/track/66IOe8PcQPacJ3D3MtGLMS) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Echidna](https://open.spotify.com/album/28l69Lzo3apBK4Os1PDh7Y) | 2:24 | 2024-04-03 |  |
+| [Edge of Memory](https://open.spotify.com/track/4dhZj1I53BfHXNB4hrzEnc) | [Pacífico](https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33) | [Edge of Memory](https://open.spotify.com/album/7zHETteWzFOXQSXNjmb8pp) | 2:48 | 2026-05-15 |  |
 | [Elysian Fields](https://open.spotify.com/track/3JcpgyK7eflknAKNHyo8HF) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Elysian Fields](https://open.spotify.com/album/5Ye5ytPLhrW457eaALFpdW) | 2:03 | 2023-05-09 |  |
 | [Emberline](https://open.spotify.com/track/6NG7PoE0dcstZY4cdM7McF) | [Nivellea](https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f) | [Emberline](https://open.spotify.com/album/2SR68CyFVSf66b8JTGU65f) | 2:32 | 2025-09-24 |  |
 | [Embrace](https://open.spotify.com/track/7uEqmFdTgsMNjW6H2GrwGv) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Embrace](https://open.spotify.com/album/4hw5Kyj5CkPnJ5RtiajIfc) | 2:38 | 2024-02-13 |  |
+| [Empty Swing](https://open.spotify.com/track/1bYdA7qyXmu69peXktv9n3) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Empty Swing](https://open.spotify.com/album/4DyIpF3OartOxALirhcqBu) | 2:25 | 2026-05-15 |  |
 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 | 2023-05-09 | 2024-04-04 |
 | [En las cuevas](https://open.spotify.com/track/3aGrQQSWIje187XqHwvrIw) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [En las cuevas](https://open.spotify.com/album/52iNXS6WdhkgY3zErTiL0V) | 2:26 | 2024-10-01 |  |
 | [Entranced](https://open.spotify.com/track/7l3b9ZibmTp34ZSAmSvC0t) | [Thom Nelson](https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1) | [Entranced](https://open.spotify.com/album/1BAFS0pfZU4UrYrcp5b9eb) | 2:05 | 2025-03-07 | 2025-09-18 |

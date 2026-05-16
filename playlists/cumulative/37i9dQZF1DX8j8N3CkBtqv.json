@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Ronit Vinta, Rahgir, Aneesh  and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Sanjeeta Bhattacharya, Sagar Verma,  Sobit Tamang and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -4266,8 +4266,8 @@
           "url": "https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2"
         },
         {
-          "name": "Kritin Kay",
-          "url": "https://open.spotify.com/artist/37qiYtCn1lU5lF35H4lBOQ"
+          "name": "Krtin Kay",
+          "url": "https://open.spotify.com/artist/7rDecvyiaWrph8fExUQLG1"
         },
         {
           "name": "Jackswan",
@@ -4504,6 +4504,24 @@
       "duration_ms": 168447,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4sqsDAAadc1jBXYeMIl54g"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/6BlYYjKLjE1FzoJFaftbXh"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186533,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/56Rdvp163gJ4Bn9v1UqMC2"
     },
     {
       "album": {
@@ -5782,7 +5800,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 207315,
       "name": "Dastaann",
       "url": "https://open.spotify.com/track/4ku46HBsZXqNDx8b7Q6UYh"
@@ -5968,6 +5986,24 @@
       "duration_ms": 200319,
       "name": "Dekho Beta",
       "url": "https://open.spotify.com/track/1rAJ8s39Lwvsdx9evr7oTz"
+    },
+    {
+      "album": {
+        "name": "Dekho Na",
+        "url": "https://open.spotify.com/album/4K9xegFgmuSTMcc8EGts0B"
+      },
+      "artists": [
+        {
+          "name": "Sobit Tamang",
+          "url": "https://open.spotify.com/artist/5NuIxtRrRTJMaTn3oCZgyn"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227773,
+      "name": "Dekho Na",
+      "url": "https://open.spotify.com/track/1tBFMrlbCnJIglzG9xroRp"
     },
     {
       "album": {
@@ -7640,7 +7676,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 234000,
       "name": "Ek Haath Mein Teen Kangan",
       "url": "https://open.spotify.com/track/1K9bB7nZUVwd5EOrwJjHSK"
@@ -12543,6 +12579,32 @@
     },
     {
       "album": {
+        "name": "Kaha Kuch",
+        "url": "https://open.spotify.com/album/3r186Hdu1gvAWzp2DIsspx"
+      },
+      "artists": [
+        {
+          "name": "Himanshu Pareek",
+          "url": "https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2"
+        },
+        {
+          "name": "Sid Paul",
+          "url": "https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF"
+        },
+        {
+          "name": "Pratap Singh",
+          "url": "https://open.spotify.com/artist/3UMGMuWd3GeqKxffCljs5c"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171157,
+      "name": "Kaha Kuch",
+      "url": "https://open.spotify.com/track/1C1HDkMpnIOPlPluHgWqPd"
+    },
+    {
+      "album": {
         "name": "Kaha Mera",
         "url": "https://open.spotify.com/album/2Ypsn4ZvmcydxfWLMfR4sI"
       },
@@ -12730,7 +12792,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 151153,
       "name": "Kahani",
       "url": "https://open.spotify.com/track/6zSti5bE1NnAZ27t00ITr5"
@@ -21295,6 +21357,28 @@
     },
     {
       "album": {
+        "name": "Sunset Bar",
+        "url": "https://open.spotify.com/album/0p5pFnejbDd7lfeTZYclM9"
+      },
+      "artists": [
+        {
+          "name": "rohh",
+          "url": "https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf"
+        },
+        {
+          "name": "Mr. Doss",
+          "url": "https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Qasme",
+      "url": "https://open.spotify.com/track/6YB33jnfmeILkLx5p9vxqP"
+    },
+    {
+      "album": {
         "name": "Qissa",
         "url": "https://open.spotify.com/album/0xMq75IL6dwy0eDgUNRlR6"
       },
@@ -23840,7 +23924,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 183124,
       "name": "Sanjha Ko Ghaam",
       "url": "https://open.spotify.com/track/4WTaogqXfnHw9DA1R8IIHE"
@@ -24202,6 +24286,28 @@
       "duration_ms": 174000,
       "name": "Saza",
       "url": "https://open.spotify.com/track/31Te83jO3QZeAti9ZI8MV1"
+    },
+    {
+      "album": {
+        "name": "Saza",
+        "url": "https://open.spotify.com/album/6qI2m8VHBk6sA9eWEn0gFl"
+      },
+      "artists": [
+        {
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+        },
+        {
+          "name": "Sagar Verma",
+          "url": "https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "Saza",
+      "url": "https://open.spotify.com/track/4WGdNExMWFLM24OFhVnYTx"
     },
     {
       "album": {
@@ -29468,7 +29574,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 89839,
       "name": "WWYD?",
       "url": "https://open.spotify.com/track/07dpv49QO8Dg6Dm1SWQkqB"

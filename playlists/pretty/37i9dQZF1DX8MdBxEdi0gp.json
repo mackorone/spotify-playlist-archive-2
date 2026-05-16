@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 176108,
+  "num_followers": 176115,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -723,18 +723,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+        "name": "Mariposa Traicionera",
+        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
       "artists": [
         {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+      "duration_ms": 243307,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -755,22 +759,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Mariposa Traicionera",
-        "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
         }
       ],
-      "duration_ms": 243307,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "En un rinc\u00f3n del alma",
-      "url": "https://open.spotify.com/track/6tg8tJPrrFuofADSiZPsWw"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "15 Exitos En Espanol",
         "url": "https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
       },
       "artists": [
         {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
         }
       ],
-      "duration_ms": 259866,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
+      "duration_ms": 189666,
+      "name": "En un rinc\u00f3n del alma",
+      "url": "https://open.spotify.com/track/6tg8tJPrrFuofADSiZPsWw"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1159,6 +1143,22 @@
       "duration_ms": 190840,
       "name": "Tri\u00e1ngulo",
       "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "\u00c9xitos Eternos",
+        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+      },
+      "artists": [
+        {
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Tal Como Eramos",
-        "url": "https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A"
-      },
-      "artists": [
-        {
-          "name": "Sergio Y Estibaliz",
-          "url": "https://open.spotify.com/artist/3MWGlOeCsA70Lu9eURTzlV"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "La Llamada",
-      "url": "https://open.spotify.com/track/6PzPUgspUxbCoH5z7a9VVl"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/29PMfhdMAXdqGOXok1jQ3k"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 232040,
       "name": "Me Muero por Estar Contigo",
       "url": "https://open.spotify.com/track/2rmlXDjM5bV6yL2mhljg7K"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Tal Como Eramos",
+        "url": "https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A"
+      },
+      "artists": [
+        {
+          "name": "Sergio Y Estibaliz",
+          "url": "https://open.spotify.com/artist/3MWGlOeCsA70Lu9eURTzlV"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/6PzPUgspUxbCoH5z7a9VVl"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Solo Por Ti",
         "url": "https://open.spotify.com/album/3WwQkMGD0RviYHhRV8GQZd"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 215280,
       "name": "Qu\u00e9 Es La Libertad",
       "url": "https://open.spotify.com/track/56izv6YwNBNErqnCpglZLF"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Hoy Te Confieso",
-      "url": "https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Leo Dan",
         "url": "https://open.spotify.com/album/2mIvaxQyw5981NkX8EsiSY"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 183133,
       "name": "Esa Pared",
       "url": "https://open.spotify.com/track/5YrA2ybLaKSQmfvnVTCz16"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Hoy Te Confieso",
+      "url": "https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Marisol (1976) [Remasterizado 2022]",
-        "url": "https://open.spotify.com/album/1NpMIQUpPephDPD92I77jg"
-      },
-      "artists": [
-        {
-          "name": "Marisol",
-          "url": "https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n"
-        }
-      ],
-      "duration_ms": 131120,
-      "name": "Tu Nombre Me Sabe A Yerba - Remasterizado",
-      "url": "https://open.spotify.com/track/6IzGkgxvQUxwqlNv15VOeb"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Lo Mejor de Leo Dan Ahora con Mariachi",
         "url": "https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 192546,
       "name": "Mary Es Mi Amor",
       "url": "https://open.spotify.com/track/4nSFJLuvWnrsUd12ylpj2m"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Marisol (1976) [Remasterizado 2022]",
+        "url": "https://open.spotify.com/album/1NpMIQUpPephDPD92I77jg"
+      },
+      "artists": [
+        {
+          "name": "Marisol",
+          "url": "https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n"
+        }
+      ],
+      "duration_ms": 131120,
+      "name": "Tu Nombre Me Sabe A Yerba - Remasterizado",
+      "url": "https://open.spotify.com/track/6IzGkgxvQUxwqlNv15VOeb"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Lo Mejor De",
-        "url": "https://open.spotify.com/album/3ZZ58IiyV1tioHIkvhYAlu"
-      },
-      "artists": [
-        {
-          "name": "Nydia Caro",
-          "url": "https://open.spotify.com/artist/7GP8u0rf1IMKqhaBvjOgzo"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Por Si el Amor",
-      "url": "https://open.spotify.com/track/6I8M7biJ2PouHIIOnQfK09"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "P\u00f3kar De Ases -4 Grandes Favoritos De Argentina",
         "url": "https://open.spotify.com/album/7laIVs28MIpyeT80M4Nzkz"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 194040,
       "name": "Ni\u00f1a Qu\u00e9 Tienen Tus Ojos",
       "url": "https://open.spotify.com/track/4U4HYzNWCl3PljsIFId8YR"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Lo Mejor De",
+        "url": "https://open.spotify.com/album/3ZZ58IiyV1tioHIkvhYAlu"
+      },
+      "artists": [
+        {
+          "name": "Nydia Caro",
+          "url": "https://open.spotify.com/artist/7GP8u0rf1IMKqhaBvjOgzo"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Por Si el Amor",
+      "url": "https://open.spotify.com/track/6I8M7biJ2PouHIIOnQfK09"
     },
     {
       "added_at": "2024-07-11 01:42:53",

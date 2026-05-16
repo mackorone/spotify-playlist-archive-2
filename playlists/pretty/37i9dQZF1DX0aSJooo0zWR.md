@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: CASIOPEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,217 likes - 135 songs - 12 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,233 likes - 135 songs - 12 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Andromeda](https://open.spotify.com/track/0A1BAZGroEdUY7XiokOuWe) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Andromeda](https://open.spotify.com/album/6nUR3QC705LwJ23xe3xGou) | 6:47 |
+| 1 | [Intrepid Traveller](https://open.spotify.com/track/3tb1taUkDZMWb0zqF9SSY1) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Phillip Whack](https://open.spotify.com/artist/4lnvZfKIPepTetpaKdBn86), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs) | [Intrepid Traveller](https://open.spotify.com/album/65L6ZPuO7WChBvYNmBsSEI) | 7:47 |
 | 2 | [blue](https://open.spotify.com/track/495YLDmUD0s9rRjfeLeKwx) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [1000](https://open.spotify.com/album/4ErALntKQwa4uxLpMUWzVi) | 5:05 |
 | 3 | [Thrust](https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Thrust](https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz) | 4:27 |
 | 4 | [Flurf](https://open.spotify.com/track/2HFu3HNNnPiGr58jKY4paW) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Flurf](https://open.spotify.com/album/4yAcVFgtMNOfEl9wbUaN2b) | 5:23 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 134 | [\#7](https://open.spotify.com/track/65dEGtv5Yb6WjxBIGdNEXg) | [Volkan Öktem](https://open.spotify.com/artist/2CKKVhnXg0a9sw0DOXmwLK) | [\#7](https://open.spotify.com/album/5g6wIyqWZk0c2YJ4NpHd1a) | 6:15 |
 | 135 | [VHS Fireplace Love \- Live](https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [SmokeFace](https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf), [Gabe Jones](https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP) | [VHS Fireplace Love \(Live\)](https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy) | 2:44 |
 
-Snapshot ID: `AAAAAF6wi4AZaYLlQ/4kVC2qc/h/NGFF`
+Snapshot ID: `AAAAAKwfIh+A8RdlJmBGVQH5iBqGftRs`

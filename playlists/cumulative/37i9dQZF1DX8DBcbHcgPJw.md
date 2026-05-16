@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Valentino Merlo & Marama
 
-716 songs - 1 day 11 hr 13 min
+717 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [LA NOCHE ME LLAMA](https://open.spotify.com/track/2QAlRJvK7NxJkVAC6YrhHX) | [El Mala](https://open.spotify.com/artist/1LSYfRidvKN3sUXOg8HDWC) | [LA NOCHE ME LLAMA](https://open.spotify.com/album/7yeSnlrZhNYnX1qixjnxXI) | 1:53 | 2024-05-10 | 2024-06-08 |
 | [La Noche No Es para Dormir](https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Cumbia Baby!](https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG) | 3:19 | 2022-07-22 | 2024-04-19 |
 | [La Noche No Es para Dormir](https://open.spotify.com/track/3gEebOzxHpEwElicl1XBy0) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [La Noche No Es para Dormir \- Single](https://open.spotify.com/album/0u1mCu9Ka7zyTx2lWbyntW) | 3:19 | 2021-12-23 | 2022-07-29 |
+| [La Quiero a Ella Vol.2](https://open.spotify.com/track/3yMmAeP2i8OxD1IzJE3uAU) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [La Quiero a Ella Vol.2](https://open.spotify.com/album/7GCWeywKYnY0A2QW4GBAY4) | 3:12 | 2026-05-15 |  |
 | [La Ruidosa](https://open.spotify.com/track/4IAfTVYUNOwogrxgGPz8b8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [La Ruidosa](https://open.spotify.com/album/5eegG0ChJmw88ORtM2P6ws) | 2:44 | 2023-10-13 | 2023-10-21 |
 | [La Seca](https://open.spotify.com/track/212atzdChxRykS70unZwOK) | [Marito Davila](https://open.spotify.com/artist/1YCxEcWL2M3zamrQzFOsCJ), [Favio Donoban](https://open.spotify.com/artist/6iyMMyLle9Vh0ldfQcZ7pn) | [La Seca](https://open.spotify.com/album/2WrKmtnD25tbOPpEzVIoNM) | 2:52 | 2022-01-07 | 2022-04-21 |
 | [La Sensación del Bloque](https://open.spotify.com/track/2lYRFlKo2J8qZxzU87h82s) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [La Sensación del Bloque](https://open.spotify.com/album/3I5AkiyrtP9nGRCiLDXfB3) | 3:07 | 2021-12-23 | 2022-07-29 |
@@ -372,7 +373,7 @@
 | [Messirve mix 5](https://open.spotify.com/track/5piFBPcOsr6OWbBvNjJRuF) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Messirve mix 5](https://open.spotify.com/album/7pw9Do4aXAbWamX4ZcKLoF) | 5:12 | 2024-03-19 | 2024-04-19 |
 | [Mi Corazón](https://open.spotify.com/track/0ODI7RMIbX8XFMos7JnMa7) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Mi Corazón](https://open.spotify.com/album/33dMDftJA5fKYj5StW5iPH) | 2:20 | 2025-06-20 | 2026-02-07 |
 | [Mi cuerito](https://open.spotify.com/track/7sXobLTbBGKQvhh7dYiMra) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Fran Bruzzi](https://open.spotify.com/artist/1xYVNpldCpBGyduWrmR0t9) | [Mi cuerito](https://open.spotify.com/album/3LZbfp2Q33SoHuYh91B5HV) | 2:22 | 2024-03-08 | 2024-03-30 |
-| [Mi Ex](https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB) | [Mi Ex](https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj) | 2:21 | 2025-06-27 |  |
+| [Mi Ex](https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB) | [Mi Ex](https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj) | 2:21 | 2025-06-27 | 2026-05-16 |
 | [Mi Ex Tenia Razon](https://open.spotify.com/track/7FG9RnwCypE1CLrOIwNlwy) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Mi Ex Tenia Razon](https://open.spotify.com/album/7MevxBgpWi1QLOxK2x6q7O) | 3:08 | 2023-09-08 | 2023-09-16 |
 | [Mi Único Amor](https://open.spotify.com/track/6d0Ozgo4us31i3yDsEtO9Y) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [La Silver Chance](https://open.spotify.com/artist/3pt4SBQDDGMWhR1YNakp9Q) | [Sesión Random](https://open.spotify.com/album/3zrcH2txB7IaVPjCDRBc16) | 1:22 | 2025-04-18 | 2025-07-05 |
 | [Miami](https://open.spotify.com/track/1LuqstBVnS4IwAo4a7TdNC) | [El Amante](https://open.spotify.com/artist/2rFznqF1juLuKmA0h11u2Z), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Miami](https://open.spotify.com/album/3q1SjcqWvya39AHe1ScQuE) | 2:28 | 2023-10-27 | 2023-11-16 |

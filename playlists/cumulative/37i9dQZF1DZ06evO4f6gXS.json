@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Black Soul Explosion",
+        "url": "https://open.spotify.com/album/5bR86gp44joAmGDZzb4qqx"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189906,
+      "name": "My Own Special Way",
+      "url": "https://open.spotify.com/track/4zJuEUFZG2gkiHtuOKhPc8"
+    },
+    {
+      "album": {
         "name": "Good to the Last Drop",
         "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
       },

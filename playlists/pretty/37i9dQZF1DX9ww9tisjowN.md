@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: CHANMINA ちゃんみな
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,067 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,095 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 72 | [ギジコイ](https://open.spotify.com/track/5LXD7Ku7PHYwDMifr7aGnw) | [浜野はるき](https://open.spotify.com/artist/5sx4iy6FarYtWbiChpFOZp) | [LovE ToXic](https://open.spotify.com/album/0wElNMjbAwFUePPz5fOzh0) | 3:35 |
 | 73 | [スターダスト](https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [スターダスト](https://open.spotify.com/album/4wXR68a3kHWi9uusIZDRZ0) | 4:48 |
 | 74 | [Execution Clap](https://open.spotify.com/track/4ImjstkvWuxK1eElOJYd6R) | [TRAP CHICK](https://open.spotify.com/artist/5d63a938ANvt7YsZMEXMdp), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [Execution Clap](https://open.spotify.com/album/2P0mGhoqrmXp5K0LM3Ql22) | 3:11 |
+| 75 | [黎明Compass](https://open.spotify.com/track/2OYoDq2WkF8g2i1WxrsgrT) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [黎明Compass](https://open.spotify.com/album/4SQX5uyepgRkDDb6hUUCRB) | 3:24 |
 
 Snapshot ID: `AAAAAOhCv03TGF7l9kIqOXFzn10tKgLJ`

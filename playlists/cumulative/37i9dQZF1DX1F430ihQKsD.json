@@ -3666,6 +3666,24 @@
     {
       "album": {
         "name": "Demain",
+        "url": "https://open.spotify.com/album/6Tg3NlHsu4ePOVoxVDACU1"
+      },
+      "artists": [
+        {
+          "name": "maudit vincent",
+          "url": "https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171523,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/40dDHnGYFkSOsfrnUTPgTZ"
+    },
+    {
+      "album": {
+        "name": "Demain",
         "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
       },
       "artists": [
@@ -12756,6 +12774,24 @@
       "duration_ms": 323480,
       "name": "Rome",
       "url": "https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr"
+    },
+    {
+      "album": {
+        "name": "Something More",
+        "url": "https://open.spotify.com/album/09TCXjNpzMmadwJdLw0x3w"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235768,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/1YDMR9mA86CqY7uBMsitXF"
     },
     {
       "album": {

@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\. Cover: Chris Brown
+> A melting pot of Caribbean culture\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,732 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,490 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fuck and Party \(feat\. Vybz Kartel\)](https://open.spotify.com/track/36mxQSO07EQkGEshyiWPsL) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 4:37 |
-| 2 | [Panic](https://open.spotify.com/track/3n9KcMNRaUluDxwKzZAVA8) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Panic](https://open.spotify.com/album/7zMSm96aaWBxtUGNbl6RkZ) | 2:06 |
-| 3 | [Like We](https://open.spotify.com/track/5ys4jU7yYOhaa3hdefdz9s) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn) | [Pool Party 2.0](https://open.spotify.com/album/5OUHXhY3Po1CqT2LpljHkB) | 2:55 |
-| 4 | [OUTSIDE](https://open.spotify.com/track/3Ibz41D18EEpiYv07FYea6) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [OUTSIDE](https://open.spotify.com/album/7ikYsPo0JfYjHwnSPESIvr) | 1:58 |
-| 5 | [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 |
-| 6 | [TUN UP](https://open.spotify.com/track/4VT38McOaMAZRJfMZnk5hQ) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [THE IMPACT \(Deluxe\): PGLA Edition](https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF) | 2:59 |
-| 7 | [Egyptian Musk](https://open.spotify.com/track/6pWBJcgaNcW5xEVL9RbCgd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Egyptian Musk](https://open.spotify.com/album/1ilqhT6re7DWrMLFSKj0Gy) | 3:31 |
+| 1 | [Amazing Shape \(feat\. Popcaan\)](https://open.spotify.com/track/6hFjD546JTuTsUS6GawtVF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 2:56 |
+| 2 | [Fuck and Party \(feat\. Vybz Kartel\)](https://open.spotify.com/track/36mxQSO07EQkGEshyiWPsL) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 4:37 |
+| 3 | [Lottery \(feat\. Jeremih\)](https://open.spotify.com/track/2OnUdiHZubHopRLkS63MVT) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 2:47 |
+| 4 | [Panic](https://open.spotify.com/track/3n9KcMNRaUluDxwKzZAVA8) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Panic](https://open.spotify.com/album/7zMSm96aaWBxtUGNbl6RkZ) | 2:06 |
+| 5 | [OUTSIDE](https://open.spotify.com/track/3Ibz41D18EEpiYv07FYea6) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [OUTSIDE](https://open.spotify.com/album/7ikYsPo0JfYjHwnSPESIvr) | 1:58 |
+| 6 | [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 |
+| 7 | [TUN UP](https://open.spotify.com/track/4VT38McOaMAZRJfMZnk5hQ) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [THE IMPACT \(Deluxe\): PGLA Edition](https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF) | 2:59 |
 | 8 | [Knock It](https://open.spotify.com/track/6bfKyXysd54p5f4rMZmcvI) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo) | [Knock It](https://open.spotify.com/album/2PqnmqLv4GWTvHCbVlM1aT) | 3:13 |
 | 9 | [The Locusts \(with Pressure Busspipe\)](https://open.spotify.com/track/5MTwwtAnAHeqr4xuWOqMOC) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [The Locusts \(with Pressure Busspipe\)](https://open.spotify.com/album/1l85rEizeqiixFdZdzB4iL) | 4:34 |
 | 10 | [Island](https://open.spotify.com/track/39T2baXCpfKXLHPBOFVwEW) | [Sharon Marley](https://open.spotify.com/artist/081UsY9atZJbUyBYEHadxh), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O), [Rica Newell](https://open.spotify.com/artist/1oTeZP0Oo5eHtti5LVtmLJ) | [Island](https://open.spotify.com/album/4xB2w87UUJ8UsfAdQT89UQ) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 99 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 |
 | 100 | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/track/03jGFqmsLt2BLWcbA4Vx5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/album/1bD4ne7GGkyeViaNBFg5Z2) | 3:05 |
 
-Snapshot ID: `AAAAANG7Ti+H7ghwLGhulGZmNxMONjWi`
+Snapshot ID: `AAAAANa1xVWTILgm71OsUS0GQDRwONtB`

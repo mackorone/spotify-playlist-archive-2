@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Zoë Livay & Aaron Blommaert
+> Frisse Nederlandse pop\. Cover: Sabien
 
-1,322 songs - 2 day 15 hr 6 min
+1,323 songs - 2 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,9 +179,10 @@
 | [Beter Kon Het Niet](https://open.spotify.com/track/43rcATuC2d2u4KiRbqyyiN) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Beter Kon Het Niet](https://open.spotify.com/album/5p46NqXnDWs3AXWFuZK5GF) | 2:29 | 2026-02-19 | 2026-04-24 |
 | [Beter Met Z’n Tweeën](https://open.spotify.com/track/2716GiYd36LugxNYZB047Y) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Beter Met Z’n Tweeën](https://open.spotify.com/album/4mujtLSSs7gvBRs50JE4t0) | 3:10 | 2024-05-30 | 2024-06-28 |
 | [Beter Zo](https://open.spotify.com/track/1cmlKpj4lsVChWhXRl3ALm) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [Beter Zo](https://open.spotify.com/album/1XVHFlBZXGz6dBzH1PnlLI) | 3:04 | 2026-03-19 | 2026-05-08 |
+| [Bewaren](https://open.spotify.com/track/2FgCaGJ6rES2dyK5HajLmw) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Eindelijk Eerlijk](https://open.spotify.com/album/5LgZAUOTk6N6fWaOqSNYxp) | 2:40 | 2026-05-14 |  |
 | [Bij Deze](https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Bij Deze](https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek) | 2:48 | 2024-11-21 | 2025-02-28 |
 | [Bij Jou Voel Ik Me Thuis](https://open.spotify.com/track/2zpyzN6xxDwgNVFogR0s63) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Bij Jou Voel Ik Me Thuis](https://open.spotify.com/album/6FkGLWXQjDAbOVWfzDEc9l) | 2:49 | 2025-09-04 | 2025-11-28 |
-| [Bij Mij Zijn](https://open.spotify.com/track/61gJZi8r1UjFYw5VmZ875X) | [Kaya](https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01) | [Bij Mij Zijn](https://open.spotify.com/album/7DJAavMV4mY9EpcAvGWNvU) | 3:18 | 2026-03-12 |  |
+| [Bij Mij Zijn](https://open.spotify.com/track/61gJZi8r1UjFYw5VmZ875X) | [Kaya](https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01) | [Bij Mij Zijn](https://open.spotify.com/album/7DJAavMV4mY9EpcAvGWNvU) | 3:18 | 2026-03-12 | 2026-05-16 |
 | [Bijna Vergeten](https://open.spotify.com/track/1IHtQNtU0zjsEzxi5Or1Ik) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Bijna Vergeten](https://open.spotify.com/album/6GjSdIu502JeX82VWzfdRE) | 3:04 | 2025-02-22 | 2025-05-09 |
 | [Bijna Vergeten](https://open.spotify.com/track/2jxhCxeCc7pdWUkKaMx81n) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Bijna Vergeten](https://open.spotify.com/album/0QCaSYScrUx2UNQIHNH7xE) | 3:04 | 2025-02-20 | 2025-02-23 |
 | [Birkin](https://open.spotify.com/track/3290xz17jucVOEtGhgEHyi) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Birkin](https://open.spotify.com/album/6JBwSQvRHF3HEmifjSWG3W) | 2:06 | 2023-11-16 | 2024-02-16 |
@@ -791,6 +792,7 @@
 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 | 2025-05-29 | 2025-10-10 |
 | [Meteoriet](https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Klop Klop](https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o) | 2:47 | 2023-02-23 | 2023-03-18 |
 | [Metronoom](https://open.spotify.com/track/3W5Oaik0KYTd4xc2VLxSO7) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Metronoom](https://open.spotify.com/album/2e0CEHEOyn9wcYw8xkSOQ3) | 2:06 | 2024-06-06 | 2024-08-30 |
+| [Mi Lobi Yu](https://open.spotify.com/track/703eJAh3Xl39wQpDyGSMHI) | [Gordon](https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Mi Lobi Yu](https://open.spotify.com/album/7HukpmRU3XyJhU0qi76U1L) | 3:10 | 2026-05-15 |  |
 | [Midnight Cruiser](https://open.spotify.com/track/26JzuZWfTUNxnzyNoqtVHC) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Midnight Cruiser](https://open.spotify.com/album/5gb6H1SM0TusFvuu92iOZG) | 2:51 | 2026-01-08 | 2026-03-27 |
 | [Mijn Amsterdam](https://open.spotify.com/track/0g1315hg3X5St8hBlydASA) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Mijn Amsterdam](https://open.spotify.com/album/31ky7zsR9bDcsRwqVfoIJE) | 2:12 | 2024-10-24 | 2024-11-22 |
 | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq) | 2:42 | 2024-11-04 | 2024-12-13 |
@@ -1103,7 +1105,6 @@
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-22 |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-30 | 2025-12-19 |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-05-29 | 2025-07-11 |
-| [Track 10](https://open.spotify.com/track/2FgCaGJ6rES2dyK5HajLmw) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Eindelijk Eerlijk](https://open.spotify.com/album/5LgZAUOTk6N6fWaOqSNYxp) | 0:00 | 2026-05-14 |  |
 | [Tranen Om Te Lachen](https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Tranen Om Te Lachen](https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp) | 2:44 | 2023-03-16 | 2023-04-21 |
 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 | 2023-09-14 | 2023-10-06 |
 | [Tranen Van Goud](https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb), [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Tranen Van Goud](https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB) | 2:21 | 2026-05-07 |  |

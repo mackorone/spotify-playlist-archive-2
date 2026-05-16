@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,360 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,389 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 38 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/3xFOkAI6aNreOFejqwvv28) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Nursery Rhymes](https://open.spotify.com/album/7fsYuOn9XETjbWNNcOP6cG) | 1:58 |
 | 39 | [Frère Jacques](https://open.spotify.com/track/0iHDnCbFMopN23ru3qqY9j) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Favourite Things: Songs And Nursery Rhymes From Play School](https://open.spotify.com/album/0UMnJAijTolDnJWgaiVE0i) | 1:12 |
 | 40 | [Wheels on the Bus \(All Through the Town\)](https://open.spotify.com/track/6SHCXhux6u4DxIiy77E2al) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum](https://open.spotify.com/album/3WM68FwyD2PzaRrHUToEqZ) | 2:10 |
-| 41 | [Who Took the Cookie?](https://open.spotify.com/track/54sVu0zGDVMTC1NSA84v1a) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Do You Like Broccoli Ice Cream & More Kids Songs](https://open.spotify.com/album/0Zcrl2L2Y5cpIZuIhAQbqV) | 1:58 |
+| 41 | [Shoo\-Fly](https://open.spotify.com/track/69u6Wps4uQfwd2Jl4Jd3Ij) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Favorite Classic Kids' Songs](https://open.spotify.com/album/6q0jz3n3Hk7XAir2AaqaaC) | 2:58 |
 | 42 | [This Is the Song That Never Ends](https://open.spotify.com/track/0ukPjtaTzUNwkdKju0IPz8) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Fun Sing\-Along Songs for Kids](https://open.spotify.com/album/0yZG70i1dnNtw2UX6koJGt) | 1:46 |
 | 43 | [Apples And Bananas](https://open.spotify.com/track/6DbFSjja7kE0lcAM4vNw8r) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [We're All Fruit Salad!: The Wiggles' Greatest Hits](https://open.spotify.com/album/6tUysAmatHIVl8dOSnfBoO) | 1:55 |
-| 44 | [Shoo\-Fly](https://open.spotify.com/track/69u6Wps4uQfwd2Jl4Jd3Ij) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Favorite Classic Kids' Songs](https://open.spotify.com/album/6q0jz3n3Hk7XAir2AaqaaC) | 2:58 |
+| 44 | [Who Took the Cookie?](https://open.spotify.com/track/54sVu0zGDVMTC1NSA84v1a) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Do You Like Broccoli Ice Cream & More Kids Songs](https://open.spotify.com/album/0Zcrl2L2Y5cpIZuIhAQbqV) | 1:58 |
 | 45 | [BINGO](https://open.spotify.com/track/7l4EYTzxQM4Z3e4VYPRTwI) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs and Nursery Rhymes for Children, Vol\. 1 \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/51624I5t3Uc6N89pHQw6CF) | 1:56 |
 | 46 | [Old MacDonald](https://open.spotify.com/track/5vaqWdV3UsR0tgmf82wRkW) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum](https://open.spotify.com/album/3WM68FwyD2PzaRrHUToEqZ) | 1:59 |
 | 47 | [If You're Happy and You Know It](https://open.spotify.com/track/62pjp2SjPEGn0frGFVCJoV) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Nursery Rhymes](https://open.spotify.com/album/7fsYuOn9XETjbWNNcOP6cG) | 1:32 |

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,058 songs - 2 day 13 hr 58 min
+1,061 songs - 2 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [...and mama was a belly dancer \- Remastered 2023](https://open.spotify.com/track/4oGRS78FLKzY1yVdEedoXk) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 5:14 | 2023-11-16 | 2025-11-29 |
 | [10 Sigarette](https://open.spotify.com/track/0f09Wn1gJUHs4JUwYAFGoy) | [Kaloxs](https://open.spotify.com/artist/50A5Zuva0s41d68bc5hkSQ) | [10 Sigarette](https://open.spotify.com/album/6k3uPQNLNclVrU5v3sXsQM) | 2:54 | 2026-01-20 | 2026-02-20 |
 | [12 Am Lunch with Mayor](https://open.spotify.com/track/15hoZhFK5LO9XUvhsDIOyV) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su) | [12 Am Lunch with Mayor](https://open.spotify.com/album/5cGBSHDbt9P79JmESAjbrD) | 3:40 | 2024-04-27 | 2025-12-28 |
+| [2 Souls](https://open.spotify.com/track/2CX2M3xjYsztZ0jN5LfL8S) | [Kanak Pandey](https://open.spotify.com/artist/2W2dbTuAZi3xnyVaQ3lRVW), [Jorji](https://open.spotify.com/artist/05mUVwDPrCAq1FgKvtG3i5) | [2 Souls](https://open.spotify.com/album/3nmkNOHhjyYlGE4cIYAY1m) | 4:16 | 2026-05-15 |  |
 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 | 2026-01-30 | 2026-02-28 |
 | [24](https://open.spotify.com/track/0auAhRNjTNd5rzOEnpLFqX) | [Sush 28](https://open.spotify.com/artist/2VSNYqXIGA7Sr8XyIDMczK) | [24](https://open.spotify.com/album/3sVAjWg3oST76Lb1xxgQhv) | 2:12 | 2026-02-11 | 2026-03-15 |
 | [2805](https://open.spotify.com/track/6OkThCextlbfDydfSO4cHp) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [2805](https://open.spotify.com/album/3AqgwXEQaDCS5awPbA1vk8) | 2:41 | 2026-03-10 | 2026-04-12 |
@@ -403,6 +404,7 @@
 | [I Want You Back](https://open.spotify.com/track/7q4Iqyw5CAs1aNKDpoIPrn) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06) | [I Want You Back](https://open.spotify.com/album/1aiRCxVwHHvX14A8RtAD2D) | 1:40 | 2026-03-03 | 2026-03-25 |
 | [I'll Be OK](https://open.spotify.com/track/5fMsoHcyvFOSURtJF4TOXf) | [The Last Light](https://open.spotify.com/artist/7KWkGqTZIDX12N4Atp8IPl) | [I'll Be OK](https://open.spotify.com/album/5IVbzLtCTRyti6RxCMwUEs) | 3:40 | 2026-02-27 | 2026-04-12 |
 | [I'm alive and babe I feel just fine](https://open.spotify.com/track/6v5QIehM9nnneicMSAg4hk) | [nickoko](https://open.spotify.com/artist/6wObq7MdbtGkGoUtwjCf98) | [I'm alive and babe I feel just fine](https://open.spotify.com/album/3dXXfCpwn5gmnP7si8RmAH) | 3:24 | 2026-01-06 | 2026-02-03 |
+| [I'm not running your way](https://open.spotify.com/track/6kSHJIf22grZZSsIn1aRzQ) | [Kindred Morning](https://open.spotify.com/artist/69pU7Fz84uEcxa7YlcfAAC) | [I'm not running your way](https://open.spotify.com/album/0Rf9y4El4wdhgZGQqu4u1D) | 3:50 | 2026-05-15 |  |
 | [I'm on My Way to Say Goodbye](https://open.spotify.com/track/0rnDS05Uz4sVAdb7PUh29m) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [My House Is on Fire](https://open.spotify.com/album/2J0H3g4HxlRKPRv2DpHDFN) | 2:45 | 2026-01-01 | 2026-02-03 |
 | [If I Should Lose You](https://open.spotify.com/track/5Z9VzbROuJ1jyt8KLxz0gE) | [Mikey Sovereign](https://open.spotify.com/artist/6s6EknLmFnL0AxRtnaexIJ) | [If I Should Lose You](https://open.spotify.com/album/1QHITqv4KPeSbtBnFcqGIP) | 4:26 | 2025-12-15 | 2026-01-15 |
 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-02-09 | 2026-03-07 |
@@ -583,6 +585,7 @@
 | [Missed Calls](https://open.spotify.com/track/50VTmqNLyAXwYYEdh2KCRi) | [BlvckRxps](https://open.spotify.com/artist/5WDAZVk9StpnQCSiuhyrxF), [OwzA](https://open.spotify.com/artist/0JEsKWALln7rmGs7ObjVzy) | [Missed Calls](https://open.spotify.com/album/6n7EEwr3SPFplknmlsc4UW) | 3:10 | 2025-12-17 | 2026-01-05 |
 | [Mitch](https://open.spotify.com/track/4ywimcJa2DVRV4WYX4FJq7) | [Older Future](https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa) | [The Captains](https://open.spotify.com/album/0FzNiMxsvNVX9TXpQL4oMZ) | 2:58 | 2025-12-20 | 2026-01-27 |
 | [Moon Dance](https://open.spotify.com/track/0A8ioyDhryFjhSjJbGoqyp) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2), [Gianluca Urbano](https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG) | [Moon Dance](https://open.spotify.com/album/3A9Ui4JbhRTsynnWPB6B8q) | 4:07 | 2024-08-09 | 2025-12-28 |
+| [Moonflower](https://open.spotify.com/track/6wAvK9FzNE8yZUd6YLJSk8) | [Kiabits](https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg), [Solrakmi](https://open.spotify.com/artist/5XGMQDMtmKNgCPrQ9FqUfL) | [Moonflower](https://open.spotify.com/album/3Hi85tgw6Br7k9Cpdk8D4j) | 2:10 | 2026-05-16 |  |
 | [Moonlight](https://open.spotify.com/track/54FrWbWsjclNiCTUbWrUsU) | [Craig Cordwell](https://open.spotify.com/artist/1LGKYIglmZVkinGQyFftre) | [Changes](https://open.spotify.com/album/6WOWq0jUHVn5PNicgdQNlr) | 3:27 | 2026-01-22 | 2026-02-20 |
 | [Moonlight](https://open.spotify.com/track/0Mo5Ew2MjIgmjCKl1gzqS8) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Moonlight](https://open.spotify.com/album/4X4zHAPSmIQKbq3jIALsD4) | 5:04 | 2025-12-22 | 2026-01-24 |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2026-04-23 |  |

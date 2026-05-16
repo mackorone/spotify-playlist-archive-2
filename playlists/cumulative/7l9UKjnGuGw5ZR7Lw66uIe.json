@@ -113,6 +113,28 @@
     },
     {
       "album": {
+        "name": "G\u00f6zlerin Laz\u0131m",
+        "url": "https://open.spotify.com/album/0Ll45DLQRvuqeJtMmag0a9"
+      },
+      "artists": [
+        {
+          "name": "\u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        },
+        {
+          "name": "Mavi Gri",
+          "url": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "G\u00f6zlerin Laz\u0131m",
+      "url": "https://open.spotify.com/track/61WXoK5Lu4xI9fjXkWlL70"
+    },
+    {
+      "album": {
         "name": "G\u00fczelimden",
         "url": "https://open.spotify.com/album/33XqJ0Ris5B2aQUua7t5Vz"
       },
@@ -222,6 +244,24 @@
       "duration_ms": 168948,
       "name": "\u0130zleri Belli",
       "url": "https://open.spotify.com/track/2dxXmAftbqWGxsxYdMkmS3"
+    },
+    {
+      "album": {
+        "name": "Kim \u00d6zleyecek",
+        "url": "https://open.spotify.com/album/5GT9iBUJHUUVC4Y3BEvKuQ"
+      },
+      "artists": [
+        {
+          "name": "\u0130rem Derici",
+          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Kim \u00d6zleyecek",
+      "url": "https://open.spotify.com/track/4CRdavZLSgH4oiUZxGx6lD"
     },
     {
       "album": {

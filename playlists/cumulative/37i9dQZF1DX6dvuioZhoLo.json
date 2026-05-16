@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 181270,
       "name": "All The Way Back",
       "url": "https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ"
@@ -450,6 +450,24 @@
       "duration_ms": 202368,
       "name": "Cabin By The Sea",
       "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
+    },
+    {
+      "album": {
+        "name": "California Blues",
+        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258645,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
     },
     {
       "album": {
@@ -1768,6 +1786,24 @@
       "duration_ms": 239803,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/6IYqvk4buGbKUpnfFdhQy9"
+    },
+    {
+      "album": {
+        "name": "Movin\u2019 Shoes",
+        "url": "https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249734,
+      "name": "Home With My Dog",
+      "url": "https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG"
     },
     {
       "album": {
@@ -3406,7 +3442,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 209198,
       "name": "Oporto-Madrid Blvd",
       "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"

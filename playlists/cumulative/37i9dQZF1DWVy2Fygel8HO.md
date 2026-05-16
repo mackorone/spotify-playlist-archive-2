@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-205 songs - 8 hr 30 min
+206 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A burnished stone](https://open.spotify.com/track/0F8SuamdgugyK1UWMM2clz) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A burnished stone](https://open.spotify.com/album/002uBgCwLK0STGuPGxnsWj) | 1:52 | 2023-06-20 | 2025-04-09 |
 | [A love Diary](https://open.spotify.com/track/6wHoQBzV27mxCxj6O6ZiEt) | [Eleonora Pellegrino](https://open.spotify.com/artist/2qNDbSCROm7CktKpY3tRto) | [A love Diary](https://open.spotify.com/album/4iMXEYAl0NcvMEUtoK1qu2) | 2:27 | 2023-05-09 | 2025-03-05 |
 | [A Lovely Night](https://open.spotify.com/track/1gzHpUQjiXvBW5cagVuWVm) | [Ana Grieg](https://open.spotify.com/artist/31I6JRMXs6v6lUnvUdbi5H) | [A Lovely Night](https://open.spotify.com/album/48GIB3aaGt1tuNMSt6pK7m) | 2:12 | 2024-11-25 | 2025-09-16 |
-| [A New Way](https://open.spotify.com/track/4TRXMFAueWQN9HwW1FsCnU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A New Way](https://open.spotify.com/album/6dPptur5yYY6trtGjccIFo) | 2:33 | 2023-05-09 |  |
+| [A New Way](https://open.spotify.com/track/4TRXMFAueWQN9HwW1FsCnU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A New Way](https://open.spotify.com/album/6dPptur5yYY6trtGjccIFo) | 2:33 | 2023-05-09 | 2026-05-16 |
 | [A Quiet Path](https://open.spotify.com/track/4nioqnMP8Y69o4N9NkJBKR) | [Joseph Pichon](https://open.spotify.com/artist/1e8hr3rVp1diUWI9mXkHhD) | [A Quiet Path](https://open.spotify.com/album/3NzE9tdT3FRMCJrxXEeCNO) | 2:15 | 2025-09-15 |  |
 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 | 2023-05-09 | 2025-03-05 |
 | [Abundant Ground](https://open.spotify.com/track/6UquSbo53JtYCpvh2KCwdN) | [Melvin Hull](https://open.spotify.com/artist/634GUifoC5N8X7DNM4M8Mz) | [Abundant Ground](https://open.spotify.com/album/2ejB68NFuj4A9M7yTnqQ1f) | 2:33 | 2026-05-08 |  |
@@ -57,7 +57,7 @@
 | [Different To Our Daily Lives](https://open.spotify.com/track/6zB9GWgc3mjxnqGgHAwvpU) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Different To Our Daily Lives](https://open.spotify.com/album/4j3t73htSViFibVCVBpLr5) | 2:26 | 2023-05-09 | 2025-04-26 |
 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-05-09 | 2025-04-26 |
 | [Dreams Dissolving](https://open.spotify.com/track/2AELjtwYU4p7sTQRj8DSTl) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Dreams Dissolving](https://open.spotify.com/album/7xgVCevJx9seIFAWz8JjtB) | 1:36 | 2023-05-09 | 2025-04-09 |
-| [Dreams of Us](https://open.spotify.com/track/6I1qp1q6iTtOCNUXfziWpn) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Dreams of Us](https://open.spotify.com/album/3JX3J9PAtEMfo7RtFork94) | 2:25 | 2023-05-09 |  |
+| [Dreams of Us](https://open.spotify.com/track/6I1qp1q6iTtOCNUXfziWpn) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Dreams of Us](https://open.spotify.com/album/3JX3J9PAtEMfo7RtFork94) | 2:25 | 2023-05-09 | 2026-05-16 |
 | [Drøm](https://open.spotify.com/track/2wD4uaLNl9DZrBmRC87a3W) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Drøm](https://open.spotify.com/album/2KOmdQ7vwCdf8An8sKO7ex) | 1:49 | 2023-05-09 | 2025-04-09 |
 | [Dwell in Possibility](https://open.spotify.com/track/0ZFdTxzFR0RRN1TifSPAxm) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Dwell in Possibility](https://open.spotify.com/album/3PT6wXsxMWdWcEIJUjqdoD) | 2:12 | 2023-05-09 |  |
 | [Echoes in the Rain](https://open.spotify.com/track/4SHc8k6K4KEviFqdI7VoHU) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Echoes in the Rain](https://open.spotify.com/album/0NVJMgNWPnUFPKOQBlYUPg) | 2:26 | 2025-01-17 | 2025-05-21 |
@@ -164,7 +164,7 @@
 | [Solenne Heartwake](https://open.spotify.com/track/0MOn8fbmJVOXn5GoAqRFEW) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Solenne Heartwake](https://open.spotify.com/album/6CqTNCHJ3TEpidPeFaqygp) | 2:28 | 2025-03-28 | 2025-09-16 |
 | [Solumn](https://open.spotify.com/track/6NTynu96oI1nXRWHm10Agr) | [Franz Ville](https://open.spotify.com/artist/6hQXyaaHszf1oLCq4KYRhn) | [Solumn](https://open.spotify.com/album/208hv2rYgpKJjxh9wrMPXz) | 2:27 | 2024-09-24 | 2026-05-09 |
 | [Somewhere](https://open.spotify.com/track/6jR3xidOqwlv86dmqTtvte) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Somewhere](https://open.spotify.com/album/2Hr2y7y5blJuP0afa4hBix) | 1:58 | 2025-02-28 | 2025-04-09 |
-| [Sommeil du matin](https://open.spotify.com/track/48iJJJ9TGZQAbcdu5B05Xh) | [Aiden Kelly](https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3) | [Sommeil du matin](https://open.spotify.com/album/4e3yaL5e7v46uCWo7SAqu5) | 2:29 | 2023-05-09 |  |
+| [Sommeil du matin](https://open.spotify.com/track/48iJJJ9TGZQAbcdu5B05Xh) | [Aiden Kelly](https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3) | [Sommeil du matin](https://open.spotify.com/album/4e3yaL5e7v46uCWo7SAqu5) | 2:29 | 2023-05-09 | 2026-05-16 |
 | [Sonance](https://open.spotify.com/track/3kiImZNbUBxXLpKnsqd5rx) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Sonance](https://open.spotify.com/album/0Brn57yRLPwJZasUZ1Zukt) | 2:16 | 2025-04-23 |  |
 | [Soothing Solitude](https://open.spotify.com/track/7j2sPZ3tWJilkCZM8MnIGN) | [Alisa Moon](https://open.spotify.com/artist/73wq226FP4G1SgFEhIDib3) | [Soothing Solitude](https://open.spotify.com/album/1IebMfL6xlMbRogxNY8UvO) | 2:19 | 2025-02-18 | 2025-04-26 |
 | [Sophie's Dream](https://open.spotify.com/track/0NuArIxWB7jwUpukJX48cb) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Stars over Salzburg](https://open.spotify.com/album/1OuTfuGjS8KZaoX8geI1gx) | 2:21 | 2023-05-09 | 2025-02-19 |
@@ -185,6 +185,7 @@
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-08-15 | 2025-04-26 |
 | [The Sound of Light](https://open.spotify.com/track/23BuLC49RZuPbIGZriYDNI) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [The Sound of Light](https://open.spotify.com/album/3IdvazfYUOel4zSdILAHcF) | 2:33 | 2025-05-13 |  |
 | [The tree that I don't forget](https://open.spotify.com/track/239W1Z795G2xYOqdrVLirv) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [The tree that I don't forget](https://open.spotify.com/album/6dT2UTUh4rYKFdakQ01sBc) | 3:18 | 2023-05-09 | 2025-04-26 |
+| [Then](https://open.spotify.com/track/270OCC0kwyqVCNClfwb3If) | [John Othmar](https://open.spotify.com/artist/7J3MgxBFbSLYv0Q0Viy5v2) | [Then](https://open.spotify.com/album/2qRkGyL0xi2xfZorqvR49R) | 2:42 | 2026-05-15 |  |
 | [Through The Fields](https://open.spotify.com/track/73eFWqvfD6zbttdkmydJ2z) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Through The Fields](https://open.spotify.com/album/1edcP1iOeSvZTFg4PxMZhB) | 2:20 | 2023-05-09 | 2025-02-19 |
 | [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 | 2023-05-09 | 2025-03-05 |
 | [true love](https://open.spotify.com/track/2miVNPUhCCc5VFAOQkqWay) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [true love](https://open.spotify.com/album/4rCi6bXfa3WWXtDKSLA1Oq) | 3:16 | 2023-05-09 | 2024-07-31 |

@@ -981,6 +981,28 @@
     },
     {
       "album": {
+        "name": "Grieg: Holberg Suite, Op. 40 (Arr. for guitar quartet by Mark Eden): III. Gavotte-Musette-Gavotte",
+        "url": "https://open.spotify.com/album/5C47FG1RxqTg0CFsAKGUMX"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "VIDA Guitar Quartet",
+          "url": "https://open.spotify.com/artist/1QCVZsfw88UyyE4XQkmYFB"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194918,
+      "name": "Holberg Suite, Op. 40 (Arr. for guitar quartet by Mark Eden): III. Gavotte-Musette-Gavotte",
+      "url": "https://open.spotify.com/track/4tj739KwJkROcWQ30JBgkA"
+    },
+    {
+      "album": {
         "name": "Grieg: Holberg Suite; Lyric Suite",
         "url": "https://open.spotify.com/album/1svqZTOGQ1yT4t3p5IRDZX"
       },

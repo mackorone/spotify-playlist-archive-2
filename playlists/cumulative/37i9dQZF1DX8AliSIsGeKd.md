@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Nihil Young, Dirty Doering, Unseen.
 
-6,977 songs - 23 day 18 hr 50 min
+6,977 songs - 23 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Aldeapolis](https://open.spotify.com/track/1HSLxCm2XQJKeeUidwcVeK) | [Bonfante](https://open.spotify.com/artist/0hKk2DCpmmWR348mAcRe0p) | [Aldeapolis](https://open.spotify.com/album/7otxLp1aUVPOwsO5FXhqEG) | 7:15 | 2022-05-12 | 2022-06-03 |
 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2022-12-09 | 2023-01-06 |
 | [Aleric](https://open.spotify.com/track/6dtBKjXV20uqfSLZoo0t2h) | [Baime](https://open.spotify.com/artist/1BhpnaiATjhNtIjTjSHLz4), [Jepe](https://open.spotify.com/artist/5ejwp8bnIfkstS6zPBSrzO) | [Aleric](https://open.spotify.com/album/4bDsAQ5PwqUJmJY8xdRDv5) | 6:18 | 2024-07-18 | 2024-08-02 |
+| [Alex](https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Shake Down EP](https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1) | 4:41 | 2026-05-14 |  |
 | [Alien \- Single Version](https://open.spotify.com/track/1tuLl0CH4kPMU7XLTcW20k) | [Dina Summer](https://open.spotify.com/artist/0s4dIi02iAv3SiJfBrNhHo), [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0), [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Alien](https://open.spotify.com/album/3mFws9BvwWKAWJ0d6rGK5S) | 3:40 | 2024-07-25 | 2024-08-09 |
 | [Alien Talk](https://open.spotify.com/track/5OoZsvd2L3tRPuP1OQEEGM) | [Fifty Five](https://open.spotify.com/artist/2sWTgm6qQXV3Ebyg3T9FD2) | [Alien Talk](https://open.spotify.com/album/2CskztcHlrs5Ljn3K4WrLI) | 4:36 | 2025-02-06 | 2025-02-21 |
 | [Align](https://open.spotify.com/track/0WzUmwAR7G2W1koRExYWCF) | [Innēr Sense \(ofc\)](https://open.spotify.com/artist/4TQYeGRT2Hvu4rcJ8HpZAv) | [Align](https://open.spotify.com/album/0Q1fz1vzWIDnqOWR7vnxPT) | 4:07 | 2025-06-05 | 2025-06-27 |
@@ -6279,7 +6280,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 4](https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Shake Down EP](https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1) | 0:00 | 2026-05-14 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 | 2026-01-29 | 2026-02-20 |

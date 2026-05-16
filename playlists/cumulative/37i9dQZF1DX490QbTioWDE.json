@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 139465,
       "name": "En otra vida - En Vivo",
       "url": "https://open.spotify.com/track/07IixpZJQJZSvNAWiLOfck"
@@ -12336,6 +12336,28 @@
       "duration_ms": 165546,
       "name": "\u00bfQui\u00e9n te dijo?",
       "url": "https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n te dijo? (En Vivo)",
+        "url": "https://open.spotify.com/album/26oGC4bZV0LAAClH9Tnc9Y"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160510,
+      "name": "\u00bfQui\u00e9n te dijo? - En Vivo",
+      "url": "https://open.spotify.com/track/4BjYX4xJUmU2Xw4hHT74vu"
     },
     {
       "album": {

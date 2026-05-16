@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 664,
+  "num_followers": 665,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADb8wwnGmRFnhPTc6YL3KJOHKbG8q8",
+  "snapshot_id": "AAADcSP2S6xqbJlJqnPlVKmVqNbV827i",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1891,6 +1891,38 @@
       "duration_ms": 205936,
       "name": "Nie mehr halbe Wege",
       "url": "https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K"
+    },
+    {
+      "added_at": "2026-05-15 16:30:59",
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2"
+      },
+      "artists": [
+        {
+          "name": "Summoners",
+          "url": "https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn"
+        }
+      ],
+      "duration_ms": 201184,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD"
+    },
+    {
+      "added_at": "2026-05-15 16:37:32",
+      "album": {
+        "name": "Different Doors",
+        "url": "https://open.spotify.com/album/47kTyebjcjYRNLHdE6YwDT"
+      },
+      "artists": [
+        {
+          "name": "Nick Wallisch",
+          "url": "https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Different Doors",
+      "url": "https://open.spotify.com/track/6xUa1e4JfZtC7OfEu4Pb8X"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

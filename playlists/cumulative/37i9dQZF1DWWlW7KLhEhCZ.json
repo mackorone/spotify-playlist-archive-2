@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: kouth",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Pluck D, TheJovemJota, Lenco",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -8836,7 +8836,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 127773,
       "name": "Ciee - Ciee",
       "url": "https://open.spotify.com/track/5phjecZrVLg9be4p0i7ZNC"
@@ -14903,6 +14903,32 @@
     },
     {
       "album": {
+        "name": "Esnobe",
+        "url": "https://open.spotify.com/album/6ERXlHgjLkyPoqXqyBOEpO"
+      },
+      "artists": [
+        {
+          "name": "Gbz7n",
+          "url": "https://open.spotify.com/artist/4xiCCbD6CSA3nm8LFMVzZE"
+        },
+        {
+          "name": "Rz Oficial",
+          "url": "https://open.spotify.com/artist/233ruFAAEuyk91yJJTsflV"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187013,
+      "name": "Esnobe",
+      "url": "https://open.spotify.com/track/0WOhMYMetmg66pBy9nWeAf"
+    },
+    {
+      "album": {
         "name": "Espelho",
         "url": "https://open.spotify.com/album/3IgXYKwChmFSzuQQwWmJ8J"
       },
@@ -18136,7 +18162,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 132421,
       "name": "F\u00e1cil, F\u00e1cil",
       "url": "https://open.spotify.com/track/4kJVyf4VgqNwiGh6VGXGwl"
@@ -21474,6 +21500,36 @@
       "duration_ms": 114784,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/4TrKCg0oc48gSXKJLnblmK"
+    },
+    {
+      "album": {
+        "name": "King Von",
+        "url": "https://open.spotify.com/album/1oxNOwtEETbB2G5H5xZFRC"
+      },
+      "artists": [
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        },
+        {
+          "name": "Lenco",
+          "url": "https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif"
+        },
+        {
+          "name": "Woozy",
+          "url": "https://open.spotify.com/artist/0xmZfohNff4z8f3xmDRX4K"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "King Von",
+      "url": "https://open.spotify.com/track/16JogsIEmXqMlP9aV1ce0E"
     },
     {
       "album": {
@@ -32266,7 +32322,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 150000,
       "name": "PodPah",
       "url": "https://open.spotify.com/track/6KDcgbMtparavEjp9N0lCB"
@@ -40236,6 +40292,40 @@
       "duration_ms": 129440,
       "name": "Tira Uma Foto",
       "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
+    },
+    {
+      "album": {
+        "name": "Tiro no Alvo",
+        "url": "https://open.spotify.com/album/6dTH5rpT5mtpNkigTLZTmS"
+      },
+      "artists": [
+        {
+          "name": "Dracko Studios",
+          "url": "https://open.spotify.com/artist/2X5bJxzOJfycWiqYGKlC5U"
+        },
+        {
+          "name": "AnjO 005",
+          "url": "https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3"
+        },
+        {
+          "name": "JIRAYA",
+          "url": "https://open.spotify.com/artist/66HNyGlf150V83GQlgwNgQ"
+        },
+        {
+          "name": "Cassiano Franco",
+          "url": "https://open.spotify.com/artist/29bHvBNqGzhD2axXzvOQuA"
+        },
+        {
+          "name": "GaVieira",
+          "url": "https://open.spotify.com/artist/5a1vFkrDZKvjuMepv4WEgm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210642,
+      "name": "Tiro no Alvo",
+      "url": "https://open.spotify.com/track/6Y4neXtnsu6R64YG2ccfsN"
     },
     {
       "album": {

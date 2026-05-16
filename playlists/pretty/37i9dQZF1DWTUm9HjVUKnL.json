@@ -1,13 +1,29 @@
 {
-  "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 239954,
+  "description": "The full collection of Spotify Singles recordings. Cover: Mack Keane",
+  "num_followers": 239952,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOiVQyhlB73rjUWhZDFmPIfTc4Sy",
+  "snapshot_id": "AAAAAAaLOEIlKGiRwcqd3Ku2KqYPWoCv",
   "tracks": [
+    {
+      "added_at": "2026-03-05 20:08:28",
+      "album": {
+        "name": "Frontin\u2019 - Spotify Singles",
+        "url": "https://open.spotify.com/album/7BrAgVmrrrXtFq9Jp6pUA0"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 236052,
+      "name": "Frontin\u2019 - Spotify Singles",
+      "url": "https://open.spotify.com/track/3ugbJvYqKD5nsmgYBrJ8Uj"
+    },
     {
       "added_at": "2026-05-13 00:39:47",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 180061,
       "name": "The Best of Both Worlds - Spotify Singles",
       "url": "https://open.spotify.com/track/0G72xBHu2lXcEAAbzo1Ehf"
-    },
-    {
-      "added_at": "2026-03-05 20:08:28",
-      "album": {
-        "name": "Frontin\u2019 - Spotify Singles",
-        "url": "https://open.spotify.com/album/7BrAgVmrrrXtFq9Jp6pUA0"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 236052,
-      "name": "Frontin\u2019 - Spotify Singles",
-      "url": "https://open.spotify.com/track/3ugbJvYqKD5nsmgYBrJ8Uj"
     },
     {
       "added_at": "2026-03-05 20:08:28",

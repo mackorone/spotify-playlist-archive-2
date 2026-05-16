@@ -1,12 +1,12 @@
 {
   "description": "sweet. sharp. unbothered - Bea Miller on the cover",
-  "num_followers": 525576,
+  "num_followers": 525563,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANZ5sKVW30fBldx3RMv1jqFOEXbj",
+  "snapshot_id": "AAAAALc6MZ8+6IGusBSuO7sIAy/Z0slh",
   "tracks": [
     {
       "added_at": "2026-05-08 04:04:30",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ"
     },
     {
+      "added_at": "2026-05-15 04:03:24",
+      "album": {
+        "name": "So Much To Say",
+        "url": "https://open.spotify.com/album/0BHG5a6UgUxxOFX9Dh51kc"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 155664,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/7rT2Y4ax4Wm7PulKRe8juC"
+    },
+    {
       "added_at": "2026-05-08 04:04:30",
       "album": {
         "name": "What's the Point!",
@@ -39,6 +55,42 @@
       "duration_ms": 163754,
       "name": "What's the Point!",
       "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
+    },
+    {
+      "added_at": "2026-05-15 04:03:24",
+      "album": {
+        "name": "FEED",
+        "url": "https://open.spotify.com/album/65IipWudxgR60faq3AJbtH"
+      },
+      "artists": [
+        {
+          "name": "Suzy Clue",
+          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "FEED",
+      "url": "https://open.spotify.com/track/2eXh5UwalI7ybBJrUj9PKe"
+    },
+    {
+      "added_at": "2026-05-15 04:03:24",
+      "album": {
+        "name": "I LOVE YOU (feat. Armani White)",
+        "url": "https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 191950,
+      "name": "I LOVE YOU (feat. Armani White)",
+      "url": "https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh"
     },
     {
       "added_at": "2026-04-17 04:02:49",
@@ -87,6 +139,22 @@
       "duration_ms": 180347,
       "name": "Ribcage",
       "url": "https://open.spotify.com/track/7d89dqmZGIqYmybxPEYywJ"
+    },
+    {
+      "added_at": "2026-05-15 04:03:24",
+      "album": {
+        "name": "TRAUMACORE (RAW AND UNCUT) (DELUXE)",
+        "url": "https://open.spotify.com/album/2n0tnH0kjV3nwSRumMClSu"
+      },
+      "artists": [
+        {
+          "name": "SkyDxddy",
+          "url": "https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx"
+        }
+      ],
+      "duration_ms": 151841,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/3MgGFYHiG7pDtEJeTDS3Zp"
     },
     {
       "added_at": "2026-05-08 04:04:30",
@@ -689,22 +757,6 @@
       "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
     },
     {
-      "added_at": "2026-02-13 05:00:48",
-      "album": {
-        "name": "BANG BANG",
-        "url": "https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 178046,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
-    },
-    {
       "added_at": "2026-02-23 17:18:33",
       "album": {
         "name": "GAME ON",
@@ -723,38 +775,6 @@
     {
       "added_at": "2026-01-23 05:11:43",
       "album": {
-        "name": "Love Bombs",
-        "url": "https://open.spotify.com/album/3JGRQFGZS9j3GzhpHAzcZs"
-      },
-      "artists": [
-        {
-          "name": "Precious Pepala",
-          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
-        }
-      ],
-      "duration_ms": 155540,
-      "name": "Love Bombs",
-      "url": "https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5"
-    },
-    {
-      "added_at": "2026-02-13 20:24:20",
-      "album": {
-        "name": "I Am Obsessed",
-        "url": "https://open.spotify.com/album/3h3st9zgM3t7tPqmeZZzCz"
-      },
-      "artists": [
-        {
-          "name": "PUNCHBAG",
-          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
-        }
-      ],
-      "duration_ms": 203970,
-      "name": "I Am Obsessed",
-      "url": "https://open.spotify.com/track/423SNW35e6XTZMMVXda3K8"
-    },
-    {
-      "added_at": "2026-01-23 05:11:43",
-      "album": {
         "name": "PAPERCUT",
         "url": "https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo"
       },
@@ -767,22 +787,6 @@
       "duration_ms": 194028,
       "name": "PAPERCUT",
       "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
-    },
-    {
-      "added_at": "2026-01-23 05:11:43",
-      "album": {
-        "name": "BAD IDEA",
-        "url": "https://open.spotify.com/album/6onkLsxds6BIAt1CJcqHpH"
-      },
-      "artists": [
-        {
-          "name": "Lana Lubany",
-          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "BAD IDEA",
-      "url": "https://open.spotify.com/track/2tv9f6TI6N2YodNZznGX9u"
     },
     {
       "added_at": "2025-12-19 05:00:39",

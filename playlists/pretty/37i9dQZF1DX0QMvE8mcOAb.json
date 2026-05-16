@@ -1,6 +1,6 @@
 {
   "description": "lo-fi bedroom jams",
-  "num_followers": 54983,
+  "num_followers": 54977,
   "original_name": "fuzzy",
   "owner": {
     "name": "Spotify",
@@ -416,12 +416,12 @@
       },
       "artists": [
         {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        },
-        {
           "name": "Melody's Echo Chamber",
           "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        },
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
         }
       ],
       "duration_ms": 125893,

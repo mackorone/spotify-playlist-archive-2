@@ -6478,8 +6478,8 @@
           "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
         },
         {
-          "name": "BAD BAY MONO",
-          "url": "https://open.spotify.com/artist/2ghuEMDDecKO832y2q2pTh"
+          "name": "Badbay Mono",
+          "url": "https://open.spotify.com/artist/057IZtL2EQtspbfn8zIe4w"
         },
         {
           "name": "ZOE LUCY",
@@ -18281,24 +18281,6 @@
     },
     {
       "album": {
-        "name": "Maille Caf\u00e9",
-        "url": "https://open.spotify.com/album/4PfG9prIV24m90Rm5dtVWp"
-      },
-      "artists": [
-        {
-          "name": "Goldn.B",
-          "url": "https://open.spotify.com/artist/4gGacdwZmUxzVWDOoGMomn"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/7f4RRMTyrE3Tvy2oeTK08i"
-    },
-    {
-      "album": {
         "name": "Tremor",
         "url": "https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU"
       },
@@ -18790,6 +18772,24 @@
       "duration_ms": 138883,
       "name": "VALHALLA",
       "url": "https://open.spotify.com/track/7o8YOKE4hL0jb9Cuqlbv8j"
+    },
+    {
+      "album": {
+        "name": "Maille Caf\u00e9",
+        "url": "https://open.spotify.com/album/4PfG9prIV24m90Rm5dtVWp"
+      },
+      "artists": [
+        {
+          "name": "Goldn.B",
+          "url": "https://open.spotify.com/artist/4gGacdwZmUxzVWDOoGMomn"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130989,
+      "name": "VDMM",
+      "url": "https://open.spotify.com/track/7f4RRMTyrE3Tvy2oeTK08i"
     },
     {
       "album": {

@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "freedom",
+        "url": "https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc"
+      },
+      "artists": [
+        {
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218389,
+      "name": "freedom",
+      "url": "https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM"
+    },
+    {
+      "album": {
         "name": "Sprint!",
         "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
       },
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 194699,
       "name": "Islands in the Stream",
       "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
@@ -5375,6 +5393,24 @@
     },
     {
       "album": {
+        "name": "Les mots que tu chantes",
+        "url": "https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm"
+      },
+      "artists": [
+        {
+          "name": "Ian Kelly",
+          "url": "https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178208,
+      "name": "Les mots que tu chantes",
+      "url": "https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX"
+    },
+    {
+      "album": {
         "name": "Les mots qui nous manquent",
         "url": "https://open.spotify.com/album/1eyswuwRnpxBj4nPBItxdg"
       },
@@ -6748,7 +6784,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 273933,
       "name": "M\u00e8res",
       "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
@@ -8548,7 +8584,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 166266,
       "name": "S'il te pla\u00eet, fais-moi danser",
       "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
@@ -9246,6 +9282,28 @@
       "duration_ms": 253090,
       "name": "Taimangalimaaq (Time After Time)",
       "url": "https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW"
+    },
+    {
+      "album": {
+        "name": "Cicada",
+        "url": "https://open.spotify.com/album/2gWBjcvwjEUALOhl1PKYwQ"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157350,
+      "name": "Talk of the town (feat. Sophia Bel)",
+      "url": "https://open.spotify.com/track/7cnJEGjMIKOSxcpFnENxZJ"
     },
     {
       "album": {

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Adulta",
+        "url": "https://open.spotify.com/album/4DDy87wXTLUIJGmkoGGpSd"
+      },
+      "artists": [
+        {
+          "name": "Suena",
+          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101632,
+      "name": "Adulta",
+      "url": "https://open.spotify.com/track/20HkJbvVcpramHwwMg6gr3"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1"
       },

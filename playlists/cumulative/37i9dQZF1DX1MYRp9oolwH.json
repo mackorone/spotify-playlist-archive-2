@@ -5094,7 +5094,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 214545,
       "name": "Modhale Modhale (From \"Vishnu Vinyasam\")",
       "url": "https://open.spotify.com/track/2syjEtsoZQ5INZdB3Mi88P"
@@ -8223,6 +8223,36 @@
     },
     {
       "album": {
+        "name": "Ramani Kalyanam (Title Track) (From \"Ramani Kalyanam\")",
+        "url": "https://open.spotify.com/album/06FDiBZWU473HJHu5u7ZI0"
+      },
+      "artists": [
+        {
+          "name": "Sooraj S. Kurup",
+          "url": "https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216166,
+      "name": "Ramani Kalyanam (Title Track) (From \"Ramani Kalyanam\")",
+      "url": "https://open.spotify.com/track/5hfimPpFZAfoXDuZ7pqh4x"
+    },
+    {
+      "album": {
         "name": "Rambai Neemeeda Naku (From \"Raju Weds Rambai\")",
         "url": "https://open.spotify.com/album/0HiQMHutk9Yhy8stZpd3vw"
       },
@@ -9524,7 +9554,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 190083,
       "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
       "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
@@ -9658,6 +9688,32 @@
       "duration_ms": 255445,
       "name": "Vennello Aadapilla (From \"Bedurulanka 2012\")",
       "url": "https://open.spotify.com/track/7nNZTyhbJcS3hx9Ecx3w8f"
+    },
+    {
+      "album": {
+        "name": "Vesangi Vellalo (From \"Papam Prathap\")",
+        "url": "https://open.spotify.com/album/2LjIz3iXJqzE1iPYIRT3Xu"
+      },
+      "artists": [
+        {
+          "name": "K M Radhakrishnan",
+          "url": "https://open.spotify.com/artist/579pH2PjdCVSkAyFBv2Z8g"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283547,
+      "name": "Vesangi Vellalo (From \"Papam Prathap\")",
+      "url": "https://open.spotify.com/track/2kKV713YpQnd4Exqg68T9Y"
     },
     {
       "album": {

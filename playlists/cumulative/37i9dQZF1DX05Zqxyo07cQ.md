@@ -2,7 +2,7 @@
 
 ### [Hora de Dormir](https://open.spotify.com/playlist/37i9dQZF1DX05Zqxyo07cQ)
 
-> A trilha perfeita pra embalar seu sono / Música perfecta para dormir
+> A trilha perfeita pra embalar seu sono.
 
 1,036 songs - 2 day 1 hr 30 min
 

@@ -415,6 +415,28 @@
     },
     {
       "album": {
+        "name": "Airport Jazz",
+        "url": "https://open.spotify.com/album/2yiO3yPYgsNYk38Bjgg5An"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "J Fletch",
+          "url": "https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Airport Jazz",
+      "url": "https://open.spotify.com/track/1nlAC5HB6cUxjImG1PcIB4"
+    },
+    {
+      "album": {
         "name": "all i ever wanted",
         "url": "https://open.spotify.com/album/5ImmrUceRa6fuaU93s7esc"
       },
@@ -4148,7 +4170,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 199077,
       "name": "Energy",
       "url": "https://open.spotify.com/track/6ijeqkil8ev7zEBOln6gEs"
@@ -5930,7 +5952,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 116571,
       "name": "Harlem Sunset",
       "url": "https://open.spotify.com/track/6pVFlYayukwmovbJHC3S3Z"
@@ -6800,7 +6822,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 136500,
       "name": "Indigo Skies",
       "url": "https://open.spotify.com/track/3Lp1uLJFj8V8tsxtftZRqf"
@@ -6998,6 +7020,28 @@
       "duration_ms": 118518,
       "name": "Jazz for the Kids",
       "url": "https://open.spotify.com/track/6EYsN9cxLUQNGElsAglsCI"
+    },
+    {
+      "album": {
+        "name": "Jazz in the City",
+        "url": "https://open.spotify.com/album/0kZmzvaMQ7k1Kp84rBM4nq"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "J Fletch",
+          "url": "https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92530,
+      "name": "Jazz in the City",
+      "url": "https://open.spotify.com/track/2vvUluydEO7LbSLWbQtLuB"
     },
     {
       "album": {
@@ -8315,6 +8359,32 @@
     },
     {
       "album": {
+        "name": "Lounge Zone",
+        "url": "https://open.spotify.com/album/4XCUoKlokBBlr1or2k8nLv"
+      },
+      "artists": [
+        {
+          "name": "B\u01b1BBLE",
+          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
+        },
+        {
+          "name": "GaetDown",
+          "url": "https://open.spotify.com/artist/0DQLwNtbo0nXQjg80Ca2Pm"
+        },
+        {
+          "name": "lightheart",
+          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115036,
+      "name": "Lounge Zone",
+      "url": "https://open.spotify.com/track/3KfLQTndZsp3bn9PgA9rbx"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/3XBjXhBMft2KXJGw7dkbTt"
       },
@@ -9347,6 +9417,24 @@
     },
     {
       "album": {
+        "name": "Mistral",
+        "url": "https://open.spotify.com/album/3lkf9CWSTjsdqU5eOQtj36"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132040,
+      "name": "Mistral",
+      "url": "https://open.spotify.com/track/2iy6lPyumWlSqXcjFb09B4"
+    },
+    {
+      "album": {
         "name": "Mocuba",
         "url": "https://open.spotify.com/album/77okibn84VPQ1fJ2bYBAgc"
       },
@@ -9428,7 +9516,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 152465,
       "name": "Momentum Flow",
       "url": "https://open.spotify.com/track/06SUlIhPXkbxHB0Wg7Mnzi"
@@ -12592,7 +12680,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 109151,
       "name": "Robes",
       "url": "https://open.spotify.com/track/7ufEmdLwZhE0MB1ZSHduzh"
@@ -14324,7 +14412,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 126513,
       "name": "Subside",
       "url": "https://open.spotify.com/track/5Y05MijWM2CxVjJkQheRpv"
@@ -17284,7 +17372,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 111000,
       "name": "Warmth",
       "url": "https://open.spotify.com/track/5xcse24DCIYJeRr5lTZPTR"
@@ -17438,6 +17526,28 @@
       "duration_ms": 134709,
       "name": "What's Good",
       "url": "https://open.spotify.com/track/3VDfWzstfrPQSnDirjhBsk"
+    },
+    {
+      "album": {
+        "name": "What's your story",
+        "url": "https://open.spotify.com/album/1CiP3LDYcPGUkgCY0MeVsz"
+      },
+      "artists": [
+        {
+          "name": "\u00d8NEMOR3",
+          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
+        },
+        {
+          "name": "Bomshi",
+          "url": "https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141349,
+      "name": "What's your story",
+      "url": "https://open.spotify.com/track/3zoOiAPoKQkMwEqNjY5Frt"
     },
     {
       "album": {

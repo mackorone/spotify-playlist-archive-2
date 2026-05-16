@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,986 likes - 90 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,022 likes - 90 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 33 | [El Gaucho Gil](https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg) | [Emiliano Cardozo Y Los Cardocitos](https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j) | [Corazón Chamamecero](https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ) | 3:28 |
 | 34 | [Añoranzas](https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq) | [María Ofelia](https://open.spotify.com/artist/5arJEBdYZb8ZOQmZzsMcVf), [Los Hermanos Barrios](https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw) | [Consagración del Chamamé](https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1) | 2:43 |
 | 35 | [Taipero Poriahu](https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci) | [Antonio Tarragó Ros](https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI) | [Taipero Poriahu](https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE) | 3:09 |
-| 36 | [Mi Primer Amor \- Versión Chamamé](https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor \- Version Chamamé](https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE) | 2:43 |
-| 37 | [Refugio de Soñadores](https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km) | [Rudi y Nini Flores](https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt), [Miguel Ángel Porra](https://open.spotify.com/artist/5CBXXNsH8GqhdfEttuMXTN) | [Refugio de Soñadores](https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2) | 3:22 |
+| 36 | [Refugio de Soñadores](https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km) | [Rudi y Nini Flores](https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt), [Miguel Ángel Porra](https://open.spotify.com/artist/5CBXXNsH8GqhdfEttuMXTN) | [Refugio de Soñadores](https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2) | 3:22 |
+| 37 | [Mi Primer Amor \- Versión Chamamé](https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor \- Version Chamamé](https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE) | 2:43 |
 | 38 | [Neique Chamigo](https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 2:26 |
 | 39 | [La Calandria](https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ) | [Cuarteto Santa Ana](https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu) | [20 Superexitos Originales](https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx) | 2:55 |
 | 40 | [Por Tus Besos](https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr) | [Hermanos Barrios](https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X) | [Las Nuevas Estrellas del Chamamé](https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW) | 2:47 |

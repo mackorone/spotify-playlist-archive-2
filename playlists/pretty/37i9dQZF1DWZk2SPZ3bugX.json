@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf7e",
-  "num_followers": 287959,
+  "num_followers": 287986,
   "original_name": "Ap\u00e9ro !",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,26 @@
       "duration_ms": 184133,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
+    },
+    {
+      "added_at": "2026-05-14 22:00:19",
+      "album": {
+        "name": "Like It",
+        "url": "https://open.spotify.com/album/4Nt5y1U7xts2pRHobWBOis"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 266923,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/0nm3gH1gu9bN2GzCdWwyUQ"
     },
     {
       "added_at": "2026-05-14 22:00:19",

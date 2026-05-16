@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-447 songs - 1 day 19 hr 48 min
+448 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Box Groove \- Live](https://open.spotify.com/track/2z4fO8KcFzRJfOTd1lB5Ky) | [Saytek](https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD) | [Twenty \(Live\)](https://open.spotify.com/album/7lIIQ36oaMlRPMOLStAqRy) | 5:47 | 2023-12-15 | 2024-02-28 |
 | [Bring It](https://open.spotify.com/track/5S3v8Zviu1elntqT5zAGHt) | [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj) | [Party Started EP](https://open.spotify.com/album/1qv2QeH9DOUCbGv8dwwlb1) | 4:55 | 2022-08-15 | 2023-02-14 |
 | [Bring It Back](https://open.spotify.com/track/4AbXMTMcXbnJ9YDYHFcDpo) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 4:05 | 2023-02-13 | 2023-08-04 |
+| [Burn Tonight](https://open.spotify.com/track/7rET0ECdQK6UVbrFMDvHxv) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD) | [Burn Tonight](https://open.spotify.com/album/71LmEhiOz3TpmiJ1O34v31) | 3:34 | 2026-05-15 |  |
 | [Butoh](https://open.spotify.com/track/44nO3IZH64y0gSNoOPOlXb) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F) | [Catharsis](https://open.spotify.com/album/6FJwU5sRNThNol3w2NDARx) | 7:59 | 2022-08-15 | 2023-02-14 |
 | [Can't Feel My Body](https://open.spotify.com/track/5GRxThDbBZDUz9nM0v84IE) | [Michele Conte](https://open.spotify.com/artist/5Ua2M4hhWcm1y2ADgGp92q) | [100](https://open.spotify.com/album/43HoJzIVxNKZsHR09CJjNs) | 6:00 | 2024-11-20 | 2025-11-18 |
 | [Chasing Ghosts](https://open.spotify.com/track/1uQyGmWaMEgsGlhWKjGKHs) | [Carlo Lio](https://open.spotify.com/artist/51NwQz5MA32kigUGYjdA3z), [M.I.T.A.](https://open.spotify.com/artist/21z6y3SBHItI8CjIJzPdlo) | [Chasing Ghosts](https://open.spotify.com/album/0SjSS81VVQREwIeBaTd5ar) | 6:18 | 2025-04-07 |  |

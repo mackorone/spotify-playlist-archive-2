@@ -8079,6 +8079,24 @@
     },
     {
       "album": {
+        "name": "Chicago Hottie",
+        "url": "https://open.spotify.com/album/4bq6VggF6t96gceetuQu1t"
+      },
+      "artists": [
+        {
+          "name": "Nay Speaks",
+          "url": "https://open.spotify.com/artist/3kYoVeuo1kVavmhDwBD8Xx"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129240,
+      "name": "Chicago Hottie",
+      "url": "https://open.spotify.com/track/7bedCq0gOVCOMZNwYw6c7y"
+    },
+    {
+      "album": {
         "name": "chicken & waffles",
         "url": "https://open.spotify.com/album/2eoM8NJPV8kHTvkpmz551R"
       },
@@ -9292,6 +9310,24 @@
       "duration_ms": 125054,
       "name": "CUT UP",
       "url": "https://open.spotify.com/track/7JEvphBBcnSXxxAmcTGCpX"
+    },
+    {
+      "album": {
+        "name": "N0rth4evr",
+        "url": "https://open.spotify.com/album/1jkEEeWKAJiR0LQyOvtM7b"
+      },
+      "artists": [
+        {
+          "name": "North West",
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124001,
+      "name": "D!e",
+      "url": "https://open.spotify.com/track/3gYooEplCRXeXofWYrVjpG"
     },
     {
       "album": {

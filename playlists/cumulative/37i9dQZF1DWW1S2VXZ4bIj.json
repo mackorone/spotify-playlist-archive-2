@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Dept",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LANDOKMAI",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -586,7 +586,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
@@ -2124,6 +2124,24 @@
       "duration_ms": 201000,
       "name": "HIT ME UP",
       "url": "https://open.spotify.com/track/5WsRYZQa2VvJjWEfxipXKi"
+    },
+    {
+      "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
       "album": {
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 213560,
       "name": "STAR",
       "url": "https://open.spotify.com/track/3WETUFdaYSkZQSNwlnPGkr"
@@ -5227,6 +5245,28 @@
     },
     {
       "album": {
+        "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+        "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
+    },
+    {
+      "album": {
         "name": "We are Only Monday",
         "url": "https://open.spotify.com/album/6D9cH8OcpPzCIpuPuT9Y84"
       },
@@ -5412,6 +5452,24 @@
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "album": {
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/3YVcnSip7lg8IrtgpueVt9"
+      },
+      "artists": [
+        {
+          "name": "SVRN",
+          "url": "https://open.spotify.com/artist/2d4QIH8IXzqoWwHp4zy18G"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/2qbOKuUAeJs7MSqw2XRFBh"
     },
     {
       "album": {
@@ -6981,6 +7039,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e04\u0e07\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e23\u0e32 [Farewell]",
+        "url": "https://open.spotify.com/album/2yMgZeBiXjehbn50YTqXep"
+      },
+      "artists": [
+        {
+          "name": "AYLA's",
+          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271008,
+      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e04\u0e07\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e23\u0e32 [Farewell]",
+      "url": "https://open.spotify.com/track/2bHIphJV9Tg2SSiEQlnZAy"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e32\u0e07\u0e2b\u0e32\u0e22",
         "url": "https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ"
       },
@@ -7238,7 +7314,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 224000,
       "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e27\u0e38\u0e48\u0e19\u0e27\u0e32\u0e22 (What the...) [feat. HEARTROCKER]",
       "url": "https://open.spotify.com/track/0y3CxY3NY7oA2KL0Jv6HX6"
@@ -7578,6 +7654,24 @@
       "duration_ms": 240000,
       "name": "\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27 \u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32 (I\u2019m Good)",
       "url": "https://open.spotify.com/track/3sbTe6C4kfaGoGSKmDCqY5"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (happy)",
+        "url": "https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293831,
+      "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (happy)",
+      "url": "https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk"
     },
     {
       "album": {
@@ -8006,7 +8100,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 209605,
       "name": "\u0e17\u0e33\u0e43\u0e08\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/1UeX4ufgrSzP70ZREmsgJO"
@@ -8278,6 +8372,28 @@
       "duration_ms": 196187,
       "name": "\u0e19\u0e04\u0e23\u0e14\u0e32\u0e23\u0e32",
       "url": "https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e2d\u0e19\u0e19\u0e35\u0e48 (Zzz.) [Bonus Track]",
+        "url": "https://open.spotify.com/album/1x1qL65pIRqDQ5k8Et6aT9"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        },
+        {
+          "name": "MUON",
+          "url": "https://open.spotify.com/artist/0d1vrnqp46IM9Tz6E88PtU"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "\u0e19\u0e2d\u0e19\u0e19\u0e35\u0e48 (Zzz.) - Bonus Track",
+      "url": "https://open.spotify.com/track/1gyGLofOECzdg9t8X3s78C"
     },
     {
       "album": {
@@ -8686,7 +8802,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 174895,
       "name": "\u0e1c\u0e34\u0e14\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30 (Off Beat)",
       "url": "https://open.spotify.com/track/0iLTFTrTcXlIO9EjSgPCGl"
@@ -9170,6 +9286,24 @@
       "duration_ms": 215040,
       "name": "\u0e21\u0e35\u0e1f\u0e35\u0e25 (ME FEEL)",
       "url": "https://open.spotify.com/track/6UCNG99CJkQri5xZnfRKaz"
+    },
+    {
+      "album": {
+        "name": "Angel Energy",
+        "url": "https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt"
+      },
+      "artists": [
+        {
+          "name": "ALIE BLACKCOBRA",
+          "url": "https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217058,
+      "name": "\u0e21\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 (PUT THE GUN DOWN)",
+      "url": "https://open.spotify.com/track/0bHItXcLtqCnlVx6dlflQi"
     },
     {
       "album": {
@@ -9876,7 +10010,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 190476,
       "name": "\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27\u0e2d\u0e35\u0e01\u0e17\u0e35",
       "url": "https://open.spotify.com/track/7kiPXq1mQ8yakcIYmqrw6t"
@@ -11180,7 +11314,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 239059,
       "name": "\u0e2d\u0e39\u0e49\u0e1a\u0e48\u0e08\u0e49\u0e32\u0e07",
       "url": "https://open.spotify.com/track/5RhEVajyRoOtks0txRnCke"
@@ -11448,6 +11582,24 @@
       "duration_ms": 205434,
       "name": "\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e2a\u0e48\u0e07 - BYE",
       "url": "https://open.spotify.com/track/7jq0O5rfrzEIqNOsc7v9JT"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
+        "url": "https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239656,
+      "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
+      "url": "https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998"
     },
     {
       "album": {

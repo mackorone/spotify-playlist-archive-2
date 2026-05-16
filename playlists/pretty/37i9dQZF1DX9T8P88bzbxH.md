@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One Night Only\. Cover: Masdo
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,132 likes - 20 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,118 likes - 20 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 19 | [Dinda \(Versi Akustik\)](https://open.spotify.com/track/2LcBjF1JMn2HPsLJJrxzYr) | [MASDO](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda \(Versi Akustik\)](https://open.spotify.com/album/7uOi9x1FgfCiGo8KQ79FjL) | 3:26 |
 | 20 | [Janji Manis \(Versi Akustik\)](https://open.spotify.com/track/4w3ZBVBBfCIcBkpbXIPlWR) | [MASDO](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Janji Manis \(Versi Akustik\)](https://open.spotify.com/album/33QRotTNdItLLK08bshigX) | 3:13 |
 
-Snapshot ID: `AAAAALsMdqvfIlhqo1ryx3xv5jTyXvRG`
+Snapshot ID: `AAAAADFvy+9xplj3yFwwol9eBuT3h2pM`

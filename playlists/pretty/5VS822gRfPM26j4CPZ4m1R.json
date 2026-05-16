@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 18036,
+  "num_followers": 18037,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMfcW1MsJxI72Bm2w94DtGmjZjPtfi",
+  "snapshot_id": "AAAMf8fLcaWDdZWzxR/xeNLkDzKR6UbO",
   "tracks": [
+    {
+      "added_at": "2026-05-15 09:30:58",
+      "album": {
+        "name": "Back in the Valley",
+        "url": "https://open.spotify.com/album/6avarjaIMnNNnszdJOWa3m"
+      },
+      "artists": [
+        {
+          "name": "Golf Trip",
+          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
+        }
+      ],
+      "duration_ms": 192372,
+      "name": "Back in the Valley",
+      "url": "https://open.spotify.com/track/42ifli02Y5C3OFZOIPDZ1m"
+    },
     {
       "added_at": "2026-04-26 09:55:47",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Playground",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e14\u0e32\u0e27 (I Miss You)",
+        "url": "https://open.spotify.com/album/06pq31DFHEiGPh0ozdNKFk"
+      },
+      "artists": [
+        {
+          "name": "Stoondio",
+          "url": "https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J"
+        },
+        {
+          "name": "Praewa (Yellow Fang)",
+          "url": "https://open.spotify.com/artist/7qBqfl2bJ7aD56MWacFHED"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e14\u0e32\u0e27 (I Miss You)",
+      "url": "https://open.spotify.com/track/5YbeQOGH0uQhB5lzSlXW0C"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e43\u0e2b\u0e49\u0e01\u0e2d\u0e14 (deserved)",
         "url": "https://open.spotify.com/album/4bmOGGTtXBr5Iw4aeqKNNP"
       },
@@ -750,7 +772,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 248366,
       "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e1a\u0e19\u0e42\u0e25\u0e01(U)",
       "url": "https://open.spotify.com/track/2rcDi4sIkOPg102RWc3dmy"
@@ -973,6 +995,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e04\u0e07\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e23\u0e32 [Farewell]",
+        "url": "https://open.spotify.com/album/2yMgZeBiXjehbn50YTqXep"
+      },
+      "artists": [
+        {
+          "name": "AYLA's",
+          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271008,
+      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e04\u0e07\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e23\u0e32 [Farewell]",
+      "url": "https://open.spotify.com/track/2bHIphJV9Tg2SSiEQlnZAy"
+    },
+    {
+      "album": {
         "name": "\u0e09\u0e31\u0e19\u0e04\u0e37\u0e2d\u0e19\u0e31\u0e01\u0e2a\u0e30\u0e2a\u0e21\u0e04\u0e27\u0e32\u0e21\u0e40\u0e28\u0e23\u0e49\u0e32",
         "url": "https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC"
       },
@@ -1046,7 +1086,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 231473,
       "name": "\u0e0a\u0e32\u0e15\u0e34\u0e2b\u0e19\u0e49\u0e32\u0e0a\u0e49\u0e32\u0e44\u0e1b (K.O.)",
       "url": "https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft"
@@ -1068,6 +1108,24 @@
       "duration_ms": 219081,
       "name": "\u0e0a\u0e38\u0e48\u0e21\u0e09\u0e48\u0e33 (ChumCham)",
       "url": "https://open.spotify.com/track/5l6uO5TPKSzO8JdgY8Z32Y"
+    },
+    {
+      "album": {
+        "name": "\u0e0b\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e19\u0e31\u0e49\u0e19 ( Hide & Seek )",
+        "url": "https://open.spotify.com/album/5aY6Oq8K1ooeV6KijIpfXs"
+      },
+      "artists": [
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269040,
+      "name": "\u0e0b\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e19\u0e31\u0e49\u0e19 ( Hide & Seek )",
+      "url": "https://open.spotify.com/track/6cc9helVHMrKWF0rJ2Dd57"
     },
     {
       "album": {
@@ -1143,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e44\u0e14\u0e49\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/4g1fCj4DX9L8JCptDEbYVW"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277263,
+      "name": "\u0e14\u0e35\u0e43\u0e08\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e44\u0e14\u0e49\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/5kQmnmvaRqdOvrHXcwdBrN"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e36\u0e07 (Tension)",
         "url": "https://open.spotify.com/album/5CvAyfpneNWmsBodEmZ1kX"
       },
@@ -1190,7 +1266,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 194000,
       "name": "\u0e15\u0e01\u0e01\u0e30\u0e43\u0e08\u0e17\u0e33\u0e44\u0e14\u0e49\u0e25\u0e07 (Oops.)",
       "url": "https://open.spotify.com/track/7s9HxP7Oi2S5RpnEdQ3E6v"
@@ -1208,7 +1284,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 244632,
       "name": "\u0e15\u0e25\u0e2d\u0e14\u0e0a\u0e35\u0e27\u0e34\u0e15 (Away)",
       "url": "https://open.spotify.com/track/2FqSkgOFT3zWQXwjfP80Ds"
@@ -1428,7 +1504,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 243697,
       "name": "\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/4zQNXqaOsprULnmPpJzthQ"
@@ -2390,6 +2466,24 @@
       "duration_ms": 349032,
       "name": "\u0e40\u0e08\u0e49\u0e32\u0e01\u0e23\u0e23\u0e21\u0e19\u0e32\u0e22\u0e40\u0e27\u0e23",
       "url": "https://open.spotify.com/track/63BVOFtSCNqC8g4w7HDZim"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
+        "url": "https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239656,
+      "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
+      "url": "https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998"
     },
     {
       "album": {

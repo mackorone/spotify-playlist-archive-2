@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 30,702 likes - 45 songs - 2 hr 19 min
+[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 30,703 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 | 44 | [Els ulls que et mirin](https://open.spotify.com/track/3QMHVZiRo6PKSTY8bAqH6t) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [Els ulls que et mirin](https://open.spotify.com/album/1XsnXQGHn8w6GFfLFd5fUn) | 2:42 |
 | 45 | [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 |
 
-Snapshot ID: `AABCBA3R1jMbCOZXpv2s3CqOuEUj0sIa`
+Snapshot ID: `AABCBmTU5Tz0e9g3c6C0eYhmaHk/iUQi`

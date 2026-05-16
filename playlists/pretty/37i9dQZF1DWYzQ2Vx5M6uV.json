@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143514,
+  "num_followers": 143522,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-05-13 15:09:57",
       "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 135998,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
-    },
-    {
-      "added_at": "2026-05-13 15:09:57",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2026-05-13 15:09:57",
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 135998,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
     },
     {
       "added_at": "2026-05-13 15:09:57",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2026-05-13 15:09:57",
       "album": {
-        "name": "Loba",
-        "url": "https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3"
+        "name": "El Problema (2020)",
+        "url": "https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
         }
       ],
-      "duration_ms": 257187,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk"
+      "duration_ms": 150865,
+      "name": "El Problema (2020)",
+      "url": "https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp"
     },
     {
       "added_at": "2026-05-13 15:09:57",
@@ -1419,38 +1419,18 @@
     {
       "added_at": "2026-05-13 15:09:57",
       "album": {
-        "name": "El Problema (2020)",
-        "url": "https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG"
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3"
       },
       "artists": [
         {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 150865,
-      "name": "El Problema (2020)",
-      "url": "https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp"
-    },
-    {
-      "added_at": "2026-05-13 15:09:57",
-      "album": {
-        "name": "Tengo Un Plan (Remix)",
-        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
-      },
-      "artists": [
-        {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 215448,
-      "name": "Tengo Un Plan - Remix",
-      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
+      "duration_ms": 257187,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk"
     },
     {
       "added_at": "2026-05-13 15:09:57",
@@ -1475,18 +1455,22 @@
     {
       "added_at": "2026-05-13 15:09:57",
       "album": {
-        "name": "coletera",
-        "url": "https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9"
+        "name": "Tengo Un Plan (Remix)",
+        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
       },
       "artists": [
         {
-          "name": "Akos",
-          "url": "https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy"
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 97507,
-      "name": "coletera",
-      "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
+      "duration_ms": 215448,
+      "name": "Tengo Un Plan - Remix",
+      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
     },
     {
       "added_at": "2026-05-13 15:09:57",
@@ -1503,6 +1487,22 @@
       "duration_ms": 145405,
       "name": "WAYO :(",
       "url": "https://open.spotify.com/track/2tPFQ2c5qhizm20bfYoTnP"
+    },
+    {
+      "added_at": "2026-05-13 15:09:57",
+      "album": {
+        "name": "coletera",
+        "url": "https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9"
+      },
+      "artists": [
+        {
+          "name": "Akos",
+          "url": "https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy"
+        }
+      ],
+      "duration_ms": 97507,
+      "name": "coletera",
+      "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
     },
     {
       "added_at": "2026-05-13 15:09:57",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-05-13 15:09:57",
       "album": {
+        "name": "AKI KIKI",
+        "url": "https://open.spotify.com/album/0TRDYgmb52CerzhhgiQGLF"
+      },
+      "artists": [
+        {
+          "name": "RICCII",
+          "url": "https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf"
+        }
+      ],
+      "duration_ms": 127256,
+      "name": "AKI KIKI",
+      "url": "https://open.spotify.com/track/62QghWWjNMx29kAl33WJkz"
+    },
+    {
+      "added_at": "2026-05-13 15:09:57",
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 131022,
       "name": "Normal",
       "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
-    },
-    {
-      "added_at": "2026-05-13 15:09:57",
-      "album": {
-        "name": "AKI KIKI",
-        "url": "https://open.spotify.com/album/0TRDYgmb52CerzhhgiQGLF"
-      },
-      "artists": [
-        {
-          "name": "RICCII",
-          "url": "https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf"
-        }
-      ],
-      "duration_ms": 127256,
-      "name": "AKI KIKI",
-      "url": "https://open.spotify.com/track/62QghWWjNMx29kAl33WJkz"
     },
     {
       "added_at": "2026-05-13 15:09:57",

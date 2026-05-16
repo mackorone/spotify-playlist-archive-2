@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > Playlist artwork by: @mun15h on Instagram
 
-[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,115 likes - 528 songs - 1 day 7 hr 33 min
+[Frutfield](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,114 likes - 528 songs - 1 day 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -281,7 +281,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 271 | [Thinking Of You Thinking Of Me](https://open.spotify.com/track/7fZyvqMiAR2Mvuys7ehQPD) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [Thinking Of You](https://open.spotify.com/album/6jinOqO2cOGHIZWfSQPCAy) | 0:59 |
 | 272 | [혼자 남은 지금 꼴이](https://open.spotify.com/track/6KLkeu4ATlq0p5spHTiwzR) | [death's dynamic shroud](https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c) | [I'll Try Living Like This](https://open.spotify.com/album/1BVQ0iqg1mFg3Q48OLlwOT) | 6:33 |
 | 273 | [ʅ͡͡͡͡͡͡͡͡͡͡͡\(ƟӨ\)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ\(ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧✧✧✧✧✧ළඕั࿃ूੂ࿃ूੂ](https://open.spotify.com/track/2SJo1P387WJHJx1uFbyrRj) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [ʅ͡͡͡͡͡͡͡͡͡͡͡\(ƟӨ\)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ\(ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧ළඕั࿃ूੂ࿃ूੂੂ࿃ूੂළඕั✧ı̴̴̡ ̡̡͡\|̲̲̲͡ ̲̲̲͡͡π̲̲͡͡ ɵੂ≢࿃ूੂ೧ູఠీੂ ඊູཀ ꐑ\(ʅ͡͡͡͡͡͡͡͡͡͡͡\(ƟӨ\)ʃ͡͡͡͡͡͡͡͡͡͡](https://open.spotify.com/album/6TRvxALhGHTGM1AjCd61SU) | 4:38 |
-| 274 | [心太野](https://open.spotify.com/track/4XqfXZnuwhbHSGafyPSXPj) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [ECO PACK\-王菲\-迷](https://open.spotify.com/album/4fsh0w3YDQFNLXg4VsF2oM) | 5:00 |
+| 274 | [心太野](https://open.spotify.com/track/4XqfXZnuwhbHSGafyPSXPj) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [迷](https://open.spotify.com/album/4fsh0w3YDQFNLXg4VsF2oM) | 5:00 |
 | 275 | [Water Lvl](https://open.spotify.com/track/28AFlPCSjw7b7TZmjZKw7S) | [Yawning Portal](https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC) | [Heart & Earth](https://open.spotify.com/album/5xUXTsAmp50Z2G6jdC90dE) | 4:56 |
 | 276 | [No Hate Is A Cold Star](https://open.spotify.com/track/4kDgdqL7yg3XfJ3JhgqLfk) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [No Hate Is A Cold Star](https://open.spotify.com/album/5wEkjTYHqaXXb0hGxbPbFE) | 5:58 |
 | 277 | [Alura](https://open.spotify.com/track/17MZ4bEFnfxbA8g0wYSHsy) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Alura \(Expanded Edition\)](https://open.spotify.com/album/60EJsHurhYI3QVeeoEDlu1) | 9:39 |

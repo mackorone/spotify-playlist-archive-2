@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 144988,
       "name": "Aligned",
       "url": "https://open.spotify.com/track/2RdMDlEQQLUna9XenWZsJN"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 108679,
       "name": "arcade",
       "url": "https://open.spotify.com/track/4ZymE7jNv6VRPHdhL1OYIf"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 117735,
       "name": "beyond dreams",
       "url": "https://open.spotify.com/track/0zD0i0X1am7R2vpPuN8Lsj"
@@ -1832,6 +1832,28 @@
       "duration_ms": 96000,
       "name": "Bring Me Back Home",
       "url": "https://open.spotify.com/track/4glCiMR5agMNxQGZdhdZfw"
+    },
+    {
+      "album": {
+        "name": "brushed into evening",
+        "url": "https://open.spotify.com/album/3sDSB6gifuOGOZImHNLJoE"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131538,
+      "name": "brushed into evening",
+      "url": "https://open.spotify.com/track/7av1BcUw5UAE87kKUOiStM"
     },
     {
       "album": {
@@ -3270,6 +3292,28 @@
       "duration_ms": 124556,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/6AmPCKcsVYNXZhTI4BFcAI"
+    },
+    {
+      "album": {
+        "name": "where time moves slowly",
+        "url": "https://open.spotify.com/album/4FNH1dGprE7dREGVfT3e3S"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Tah.",
+          "url": "https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "daydreams",
+      "url": "https://open.spotify.com/track/35QjrKE7VRh0VTK6CqmVpO"
     },
     {
       "album": {
@@ -7483,6 +7527,28 @@
     },
     {
       "album": {
+        "name": "just a blur",
+        "url": "https://open.spotify.com/album/5yMdSWF37g75cooQ43GEdu"
+      },
+      "artists": [
+        {
+          "name": "alcinous",
+          "url": "https://open.spotify.com/artist/5exJeWiFSaSkGtUAThzDB2"
+        },
+        {
+          "name": "Siaman",
+          "url": "https://open.spotify.com/artist/2mteWbvZrm4QtXq4ecOv65"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "just a blur",
+      "url": "https://open.spotify.com/track/43jH4NG2rOWPpQc6O2U8CX"
+    },
+    {
+      "album": {
         "name": "Kanto",
         "url": "https://open.spotify.com/album/0qmxDXFHv4Mck22uyBoAuk"
       },
@@ -8030,6 +8096,28 @@
       "duration_ms": 150000,
       "name": "lazy nap",
       "url": "https://open.spotify.com/track/7ceWC1unY3ull9IafRchhV"
+    },
+    {
+      "album": {
+        "name": "left behind",
+        "url": "https://open.spotify.com/album/4baeFGkwxGeCWFOilNpVgU"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        },
+        {
+          "name": "alcinous",
+          "url": "https://open.spotify.com/artist/5exJeWiFSaSkGtUAThzDB2"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "left behind",
+      "url": "https://open.spotify.com/track/4y4DDo47fpa1i2952fWVoB"
     },
     {
       "album": {
@@ -8864,7 +8952,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 148846,
       "name": "Lumie",
       "url": "https://open.spotify.com/track/5S6QvSxqCMnylZUBiqojp7"
@@ -9470,6 +9558,28 @@
       "duration_ms": 142317,
       "name": "midnight was a shape",
       "url": "https://open.spotify.com/track/1rcmY0e0QweyXVkUlE8yW6"
+    },
+    {
+      "album": {
+        "name": "mindless",
+        "url": "https://open.spotify.com/album/3jGoWEV4ZAMM7etZuVEoQR"
+      },
+      "artists": [
+        {
+          "name": "silentsoul",
+          "url": "https://open.spotify.com/artist/59EsiJImULPYPQiqnGCbXM"
+        },
+        {
+          "name": "Lumxn",
+          "url": "https://open.spotify.com/artist/4UtKhV89cLrSsE74YgQow8"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108679,
+      "name": "mindless",
+      "url": "https://open.spotify.com/track/0DhHFjM378O1ZpjJtsQ4ye"
     },
     {
       "album": {
@@ -13801,6 +13911,28 @@
     },
     {
       "album": {
+        "name": "so what.",
+        "url": "https://open.spotify.com/album/7mVyodW2MEYqBsHlMs0qE6"
+      },
+      "artists": [
+        {
+          "name": "Hillscus",
+          "url": "https://open.spotify.com/artist/4tbdlX0ZxIbaUlA7U9qoBc"
+        },
+        {
+          "name": "Symoo",
+          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "so what.",
+      "url": "https://open.spotify.com/track/03T8YOyjM7RI68NLCq2xTU"
+    },
+    {
+      "album": {
         "name": "Soft again",
         "url": "https://open.spotify.com/album/71mqo1FeVSpwXLfZuhihhH"
       },
@@ -15354,6 +15486,24 @@
       "duration_ms": 140338,
       "name": "The Voices Inside My Head",
       "url": "https://open.spotify.com/track/3TDGtYl8mwPkRsbAYw9olD"
+    },
+    {
+      "album": {
+        "name": "The Way Life Goes",
+        "url": "https://open.spotify.com/album/0Q6iVx66wa0JiZg9OGluvr"
+      },
+      "artists": [
+        {
+          "name": "so.tired",
+          "url": "https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "The Way Life Goes",
+      "url": "https://open.spotify.com/track/4m6hsPFQ8QVG7sCKHFUSPl"
     },
     {
       "album": {

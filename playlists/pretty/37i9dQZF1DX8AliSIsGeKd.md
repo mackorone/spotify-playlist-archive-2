@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Nihil Young, Dirty Doering, Unseen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,874 likes - 90 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,996 likes - 90 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 32 | [Lockup](https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Lockup](https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7) | 4:31 |
 | 33 | [I Wanna Feel Alive](https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [I Wanna Feel Alive](https://open.spotify.com/album/0h6CgBHJzlN4HsGgaK5g3m) | 3:33 |
 | 34 | [Tears](https://open.spotify.com/track/5AlW61qXL3VAUM3zsBEODT) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Tears](https://open.spotify.com/album/5UIQojvjbw2YtrY1YgcG8E) | 2:11 |
-| 35 | [Track 4](https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Shake Down EP](https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1) | 0:00 |
+| 35 | [Alex](https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Shake Down EP](https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1) | 4:41 |
 | 36 | [Relax](https://open.spotify.com/track/3dDOw3W5eynDqs0bqVqYm0) | [Kymono](https://open.spotify.com/artist/3buhK3VSUZh2f3a7YGdWtn) | [Kymonosound](https://open.spotify.com/album/63wW6zy0D2FeUmoJ8mkEp4) | 4:27 |
 | 37 | [Higher Function](https://open.spotify.com/track/2ECHLVc9yoQ9cq8JzLUOxP) | [Norf Tech](https://open.spotify.com/artist/0wW07cHtqgZLDSXo4zK1bh) | [Higher Function](https://open.spotify.com/album/5tAD7P8jiMdAMYUnZ1sdSH) | 3:41 |
 | 38 | [Seek](https://open.spotify.com/track/7GcsNkRat0EsmY85eBvBmt) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5) | [Seek](https://open.spotify.com/album/63s987VXb56UCNcl0hbCZF) | 5:33 |

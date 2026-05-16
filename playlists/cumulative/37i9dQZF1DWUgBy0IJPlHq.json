@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 227441,
       "name": "August",
       "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
@@ -1188,6 +1188,28 @@
       "duration_ms": 314480,
       "name": "Ballad Of Lost",
       "url": "https://open.spotify.com/track/4xSBlVA2y2bGbpgmZDzGWM"
+    },
+    {
+      "album": {
+        "name": "Ballad of The Texas Gentlemen",
+        "url": "https://open.spotify.com/album/6hwWxOmvoyJgekms5Ppwh3"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        },
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209535,
+      "name": "Ballad of The Texas Gentlemen",
+      "url": "https://open.spotify.com/track/7nG4lfE9RnpqxZcXmsTZza"
     },
     {
       "album": {
@@ -1648,6 +1670,24 @@
       "duration_ms": 201541,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+    },
+    {
+      "album": {
+        "name": "Blue Around You",
+        "url": "https://open.spotify.com/album/08YMKapsgqvqI1Plv7AUpR"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224946,
+      "name": "Blue Around You",
+      "url": "https://open.spotify.com/track/7r97Xk8EGDq0nJWg2rBrH0"
     },
     {
       "album": {
@@ -2262,7 +2302,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 218650,
       "name": "Can't Figure It Out",
       "url": "https://open.spotify.com/track/33uC94sIVN2LYAI2gZ9nqh"
@@ -2614,7 +2654,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 284757,
       "name": "Cherokee County",
       "url": "https://open.spotify.com/track/2sIgxINMmXpDNsclC74NKT"
@@ -4422,7 +4462,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 192713,
       "name": "Finally Complete",
       "url": "https://open.spotify.com/track/1LNSC5mQxjZClcoMA32t26"
@@ -5166,7 +5206,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 184985,
       "name": "Going to Water",
       "url": "https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl"
@@ -7447,6 +7487,28 @@
     },
     {
       "album": {
+        "name": "Last American Waltz",
+        "url": "https://open.spotify.com/album/40A6hlhnfHuO6YvwF0iZF3"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272693,
+      "name": "Last American Waltz",
+      "url": "https://open.spotify.com/track/7ijGJUmmEqKoE0GyfMKQhH"
+    },
+    {
+      "album": {
         "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
@@ -7584,7 +7646,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 235146,
       "name": "Left Unsaid",
       "url": "https://open.spotify.com/track/2wmFhfdhECfZlbZQiA4YHm"
@@ -7982,6 +8044,24 @@
       "duration_ms": 188400,
       "name": "Longneck Way To Go",
       "url": "https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz"
+    },
+    {
+      "album": {
+        "name": "Look at Miss Ohio",
+        "url": "https://open.spotify.com/album/4yDLU9ats6AAljkHFjZ8jJ"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224800,
+      "name": "Look at Miss Ohio",
+      "url": "https://open.spotify.com/track/5T9JsWZt27Hihw3JdWsdfz"
     },
     {
       "album": {
@@ -9114,7 +9194,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 257372,
       "name": "No One Else Like Me",
       "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
@@ -9512,6 +9592,24 @@
       "duration_ms": 258480,
       "name": "Other Than That",
       "url": "https://open.spotify.com/track/3YlHvC8fJhnQdbCbeEPsS2"
+    },
+    {
+      "album": {
+        "name": "Ouachita Woods",
+        "url": "https://open.spotify.com/album/1Z5hNOQBUwlVCPUikDTRdO"
+      },
+      "artists": [
+        {
+          "name": "Dasher The Band",
+          "url": "https://open.spotify.com/artist/5IEGhfMgzofovjCJq9jalr"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "Ouachita Woods",
+      "url": "https://open.spotify.com/track/2nfWM85aomohgkF0FNCB9K"
     },
     {
       "album": {
@@ -9941,6 +10039,28 @@
     },
     {
       "album": {
+        "name": "(Re) Planting by the Signs",
+        "url": "https://open.spotify.com/album/4nxiqzjRT2HKMdgt6nJYrB"
+      },
+      "artists": [
+        {
+          "name": "Senora May",
+          "url": "https://open.spotify.com/artist/5zHAQHBRNMEqG5Of2CM0cD"
+        },
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "Planting by the Signs",
+      "url": "https://open.spotify.com/track/7qB8Pvr0oWnO92MXnv8t8V"
+    },
+    {
+      "album": {
         "name": "American Son",
         "url": "https://open.spotify.com/album/55hUNhmc66JpXUMZ3xMD8I"
       },
@@ -10312,7 +10432,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 293836,
       "name": "Rattlesnake (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
@@ -10797,6 +10917,24 @@
     },
     {
       "album": {
+        "name": "Same Boat",
+        "url": "https://open.spotify.com/album/7aVCR5oqU6KIjV2hIPpfpt"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191627,
+      "name": "Same Boat",
+      "url": "https://open.spotify.com/track/2KLopwL757aSIWjiMeeYL1"
+    },
+    {
+      "album": {
         "name": "Sarah's Place (feat. Noah Kahan)",
         "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
       },
@@ -10816,6 +10954,24 @@
       "duration_ms": 214056,
       "name": "Sarah's Place (feat. Noah Kahan)",
       "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
+    },
+    {
+      "album": {
+        "name": "Planting by the Signs",
+        "url": "https://open.spotify.com/album/38zMhd9RDzHVfklw3BKM7t"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222016,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5IodG133GLQOej5DsbXS8G"
     },
     {
       "album": {
@@ -11235,6 +11391,24 @@
     },
     {
       "album": {
+        "name": "Smoke on the Breeze",
+        "url": "https://open.spotify.com/album/787MsxoBwJSXr8Z9y658g3"
+      },
+      "artists": [
+        {
+          "name": "Rob Baird",
+          "url": "https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225506,
+      "name": "Smoke on the Breeze",
+      "url": "https://open.spotify.com/track/5eeI35qxPyO741RtfRQErm"
+    },
+    {
+      "album": {
         "name": "Sober Sundays",
         "url": "https://open.spotify.com/album/1UYX5uec1lJJMf01haehiZ"
       },
@@ -11250,7 +11424,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 250768,
       "name": "Sober Sundays",
       "url": "https://open.spotify.com/track/0RINbw97uN5KZ1BFprCNDj"

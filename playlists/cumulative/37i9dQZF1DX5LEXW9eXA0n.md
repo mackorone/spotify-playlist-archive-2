@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 소수빈\(So Soo Bin\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 씨야\(SeeYa\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,752 songs - 4 day 17 hr 48 min
+1,755 songs - 4 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [7년을 하루만에 다 끝낼수 있구나](https://open.spotify.com/track/5hyZmODpZeWdPUJ1W1q8Pl) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [7년을 하루만에 다 끝낼수 있구나](https://open.spotify.com/album/61GllWt4vh9OKCrSJguTVQ) | 4:06 | 2022-03-24 | 2022-04-17 |
 | [99](https://open.spotify.com/track/0NVc9dRJa7IqBbOPvuDqwq) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [99](https://open.spotify.com/album/1RLCUlVVaSoATwOUI6CihR) | 3:32 | 2022-01-03 | 2022-06-03 |
 | [A Beautiful Farewell](https://open.spotify.com/track/4HUTkkunfNOZln319JnVKj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:19 | 2023-09-18 | 2023-12-14 |
+| [A Boy From The Moon \(2026\)](https://open.spotify.com/track/0FaGZXOCUU9i6PGIi9dV4r) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [A Boy From The Moon \(2026\)](https://open.spotify.com/album/4n2V8q8ehlxh9RLwppg8vA) | 4:42 | 2026-05-15 |  |
 | [A Common Excuse](https://open.spotify.com/track/7GpmCt7ZY3BEjs5O2SSGS9) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [A Common Excuse](https://open.spotify.com/album/0rTkLfgMbdLpBilQ273zSW) | 3:57 | 2022-07-04 | 2022-10-08 |
 | [A Day](https://open.spotify.com/track/7KxDaaCFPOm6p8Hg4CIhQ6) | [Jong Ho](https://open.spotify.com/artist/5gecqU5FZgxVdz1AtLumT0) | [Lovely Runner, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/65AEs9BXA3RiN3hJEe7SbY) | 3:52 | 2024-05-17 | 2024-09-14 |
 | [A Day](https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [EXchange4, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI) | 2:57 | 2025-11-02 | 2026-05-01 |
@@ -946,6 +947,7 @@
 | [Missing You](https://open.spotify.com/track/0nrajlDiEVcM02yBE1QfPp) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Missing You](https://open.spotify.com/album/1wr58bJGrqTDI8iQTqHXaE) | 4:17 | 2023-11-02 | 2024-02-02 |
 | [Missing You](https://open.spotify.com/track/3EfLupv3P84xtYl8t5O81J) | [Lee Ye Ji](https://open.spotify.com/artist/7lxQNSuiUoDOW1sIb5MgdB), [Choi Eunbin](https://open.spotify.com/artist/43G5ZdUybeKCmf5Qh9uORC) | [Ballad of Us Radio Episode 3](https://open.spotify.com/album/0qNzM2fVJovYkWBHbWw9XR) | 4:26 | 2026-01-29 | 2026-04-20 |
 | [Missing You](https://open.spotify.com/track/0A2ACmUVc888pTMWoEuudH) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Missing You](https://open.spotify.com/album/0lWZLCo1EjB8gTL3KHAwun) | 4:11 | 2025-08-08 | 2025-12-03 |
+| [Missing You Today](https://open.spotify.com/track/0Ff92HzBXO9ObM3K69zDI0) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Missing You Today \(from Sold Out On You \(Original Soundtrack\) part 9\)](https://open.spotify.com/album/0SoLdg4qgh5DuryS79etj2) | 3:25 | 2026-05-15 |  |
 | [Mom](https://open.spotify.com/track/7bGQ0dO8Phe5kcx6HkwwuT) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Mom](https://open.spotify.com/album/4TNELYnbl0wPEg81pTQimm) | 5:40 | 2022-07-26 | 2022-10-27 |
 | [Moment](https://open.spotify.com/track/1c457YjuGKkjZluzd6zLuf) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Moment](https://open.spotify.com/album/2q3PlEyPPjONpuZPh83XWz) | 4:03 | 2025-03-31 | 2025-08-27 |
 | [Moments of Our Love](https://open.spotify.com/track/4QZwV8ynbo8u2HVGLWR8fU) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [End of a Day](https://open.spotify.com/album/6LJAXPvSt6UYHogAWJPCMr) | 4:13 | 2024-04-15 | 2024-08-11 |
@@ -1287,6 +1289,7 @@
 | [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-23 | 2022-07-05 |
 | [Stay](https://open.spotify.com/track/2OZe3pjwHDXQmH2NKPnEa1) | [MIGYO](https://open.spotify.com/artist/6MMlmK7TkMzkyMfWXoIkFS) | [STAY](https://open.spotify.com/album/4Trq0y85JqraCEqDxAcvYs) | 4:00 | 2023-01-20 | 2023-03-28 |
 | [Stay](https://open.spotify.com/track/3MyKAA6J1bkyeFig45sPmk) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Jirisan \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/22bajKywj9pBWoiYFayx64) | 3:40 | 2022-01-17 | 2022-07-07 |
+| [Stay](https://open.spotify.com/track/3Lw1wzUyNmf9LyEKYYfLxe) | [SeeYa](https://open.spotify.com/artist/3Mbxr8TL0Sny7dUNicKWm2) | [First, Again](https://open.spotify.com/album/37st4NLgjFpBjbWoIK4zPE) | 3:24 | 2026-05-15 |  |
 | [Stay](https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Stay](https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju) | 3:44 | 2025-11-03 | 2026-03-16 |
 | [Stay here with me](https://open.spotify.com/track/14CBiz2JfZUOVWINmQJSnO) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Stay here with me](https://open.spotify.com/album/4i9kZ248naIF315HIh8mrA) | 3:04 | 2026-02-27 |  |
 | [Stay Still](https://open.spotify.com/track/6LRCAvUYnKJlUqvohbyufh) | [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [Stay Still](https://open.spotify.com/album/0ZZVwLn0DKyz0UOPF3nVJ6) | 3:46 | 2023-03-08 | 2023-06-23 |

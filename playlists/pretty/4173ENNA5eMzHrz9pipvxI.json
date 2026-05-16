@@ -1,13 +1,37 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: POLTERGST",
-  "num_followers": 118318,
+  "num_followers": 118316,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAhdQzwF59N2CuKDpB6vDSYwvB8pNWK",
+  "snapshot_id": "AAAhdr4B8rNTQ9uZ3CBRpiVCxMfFhvgB",
   "tracks": [
+    {
+      "added_at": "2026-05-15 09:15:19",
+      "album": {
+        "name": "PENSIERO STUPENDO",
+        "url": "https://open.spotify.com/album/7IP4guV5mNoJH0ZtMDkQKX"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Roccasalvo",
+          "url": "https://open.spotify.com/artist/1MAoAQKtM0Dhz1SjvtabT7"
+        },
+        {
+          "name": "JOE ROK",
+          "url": "https://open.spotify.com/artist/78OT3nPLhfTE5QDVSzDLzP"
+        },
+        {
+          "name": "BENZATO",
+          "url": "https://open.spotify.com/artist/6Ht2FYYLzR6Mvs7AuIG1x4"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "PENSIERO STUPENDO",
+      "url": "https://open.spotify.com/track/6dl5xUOJL67D5eBUobLKq7"
+    },
     {
       "added_at": "2026-05-14 23:52:39",
       "album": {

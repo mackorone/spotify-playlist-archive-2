@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1345,
+  "num_followers": 1346,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAPU19cjXtg1JebvHQlxOzu6TvxuzGd",
+  "snapshot_id": "AAAPW7sGYrksRozktNbH/uURck1LQl50",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -155,6 +155,54 @@
       "duration_ms": 181333,
       "name": "Brave",
       "url": "https://open.spotify.com/track/0fnFRIU30fd7hyEmTajgoh"
+    },
+    {
+      "added_at": "2026-05-15 11:58:16",
+      "album": {
+        "name": "If you didn't want to talk, you could've just said so",
+        "url": "https://open.spotify.com/album/5WdbaXaxnhliVkMxNT2nIx"
+      },
+      "artists": [
+        {
+          "name": "The Sun Sets West",
+          "url": "https://open.spotify.com/artist/0xwRKbc6fbnlh0AdFfGGKq"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "If you didn't want to talk, you could've just said so",
+      "url": "https://open.spotify.com/track/6vzbaNWXcykEyUu0tcNw8E"
+    },
+    {
+      "added_at": "2026-05-15 05:28:11",
+      "album": {
+        "name": "C U L8R (alligator)",
+        "url": "https://open.spotify.com/album/45y52f5tWD9e3zjX1g5RUF"
+      },
+      "artists": [
+        {
+          "name": "Victories",
+          "url": "https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA"
+        }
+      ],
+      "duration_ms": 197968,
+      "name": "C U L8R (alligator)",
+      "url": "https://open.spotify.com/track/25UQb7E2Av5uo5x5fjQ6xA"
+    },
+    {
+      "added_at": "2026-05-15 04:53:56",
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/7x4wZZcgg1MTmdQ5mfxv8Z"
+      },
+      "artists": [
+        {
+          "name": "Karnage",
+          "url": "https://open.spotify.com/artist/33OEwted4AyVi1LBUzqhRP"
+        }
+      ],
+      "duration_ms": 159692,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/6awudIm5jMGZxtO3cdqwUx"
     },
     {
       "added_at": "2026-05-14 23:18:21",
@@ -4597,6 +4645,22 @@
       "url": "https://open.spotify.com/track/0cKOqTzo6lbenkZ6FuxWgi"
     },
     {
+      "added_at": "2026-05-15 20:53:54",
+      "album": {
+        "name": "i miss new york",
+        "url": "https://open.spotify.com/album/5PsY6FBG81Ijz2a8hEXBQ1"
+      },
+      "artists": [
+        {
+          "name": "Quentin",
+          "url": "https://open.spotify.com/artist/4GpI0u4lFwCzzYnwNlglbi"
+        }
+      ],
+      "duration_ms": 157047,
+      "name": "i miss new york",
+      "url": "https://open.spotify.com/track/3QaUYQibC31fY3LL5YnKl1"
+    },
+    {
       "added_at": "2026-05-12 03:03:38",
       "album": {
         "name": "Drink Fuck Live",
@@ -4835,6 +4899,70 @@
       "duration_ms": 223255,
       "name": "Static",
       "url": "https://open.spotify.com/track/4rcJTwQgT22ZGRnIRjv2PM"
+    },
+    {
+      "added_at": "2026-05-15 20:56:25",
+      "album": {
+        "name": "Torment",
+        "url": "https://open.spotify.com/album/61O2VVhR4vsxIUb6jq6bhe"
+      },
+      "artists": [
+        {
+          "name": "couraged.",
+          "url": "https://open.spotify.com/artist/65Rxv2UfR2wsi1MX0j75bz"
+        }
+      ],
+      "duration_ms": 197458,
+      "name": "Torment",
+      "url": "https://open.spotify.com/track/0FeTEADZjNegtrSgyqlPA2"
+    },
+    {
+      "added_at": "2026-05-15 20:57:11",
+      "album": {
+        "name": "Revolt in the Dystopia: Run Wild",
+        "url": "https://open.spotify.com/album/2j2KkvsxJcpUjKw0XDzgng"
+      },
+      "artists": [
+        {
+          "name": "Ape Bucket",
+          "url": "https://open.spotify.com/artist/18wqhsjlZgcc68jrcsum08"
+        }
+      ],
+      "duration_ms": 106080,
+      "name": "Revolt in the Dystopia: Run Wild",
+      "url": "https://open.spotify.com/track/6efpw0pSS6QTtnVPk19U6E"
+    },
+    {
+      "added_at": "2026-05-15 20:57:31",
+      "album": {
+        "name": "mon chat doma",
+        "url": "https://open.spotify.com/album/0ejCO9lq8NEai7ZoVH86qh"
+      },
+      "artists": [
+        {
+          "name": "Kougan",
+          "url": "https://open.spotify.com/artist/2GqwbBnNZavsdxQe3TlyEA"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "mon chat doma",
+      "url": "https://open.spotify.com/track/67YryEjrB7N61WxcQX0SHo"
+    },
+    {
+      "added_at": "2026-05-15 20:58:10",
+      "album": {
+        "name": "Let's Do It Again",
+        "url": "https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "duration_ms": 268933,
+      "name": "Let's Do It Again",
+      "url": "https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO"
     }
   ],
   "unique_name": "Shuffle Roulette",

@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Shake Down EP",
+        "url": "https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281046,
+      "name": "Alex",
+      "url": "https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5aK3kj5zTtgm3zAhIXjOOD"
       },
@@ -16887,6 +16905,24 @@
     },
     {
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5jm2SNw5FX4YUVeB8qCXOI"
+      },
+      "artists": [
+        {
+          "name": "Bauhouse",
+          "url": "https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274032,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/2wjJc5f7Xy4EksJvv40qUv"
+    },
+    {
+      "album": {
         "name": "My Love (2024)",
         "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
       },
@@ -25872,42 +25908,6 @@
       "duration_ms": 305780,
       "name": "Tough Love - Hunter/Game Remix",
       "url": "https://open.spotify.com/track/0pWSyACzINkKD5cR1GTTGW"
-    },
-    {
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5jm2SNw5FX4YUVeB8qCXOI"
-      },
-      "artists": [
-        {
-          "name": "Bauhouse",
-          "url": "https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2wjJc5f7Xy4EksJvv40qUv"
-    },
-    {
-      "album": {
-        "name": "Shake Down EP",
-        "url": "https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1"
-      },
-      "artists": [
-        {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Viral în România](https://open.spotify.com/playlist/37i9dQZF1DX2Q2OspJqwwG)
 
-> România  în semi\-finala Eurovision 🇷🇴  Succes Alexandra Căpitănescu!
+> România  în finala Eurovision 🇷🇴  Succes Alexandra Căpitănescu!
 
 495 songs - 1 day 0 hr 48 min
 

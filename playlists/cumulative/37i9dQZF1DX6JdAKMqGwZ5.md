@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Tanxugueiras.
 
-819 songs - 1 day 18 hr 16 min
+819 songs - 1 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [PERRA AVENTURERA \(with Fiah\)](https://open.spotify.com/track/3OBBs8QGypNM4AzSxC1mFK) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [Fiah](https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5) | [PERRA AVENTURERA \(with Fiah\)](https://open.spotify.com/album/6yzqdsvbPv8PwXj1r2SVIN) | 3:18 | 2025-11-06 | 2025-11-28 |
 | [Perro de Pavlov](https://open.spotify.com/track/5obec7ZQ16Z6rkYsAaU9cC) | [GRISO](https://open.spotify.com/artist/6Ut8S3cOeO9Z8t9TBx0xub) | [Lunático](https://open.spotify.com/album/3aNXQJIjlsR7D0sDnPsw0I) | 3:21 | 2025-05-01 | 2025-05-23 |
 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [BLAYA](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 | 2025-11-27 | 2026-02-20 |
+| [Pido perdón](https://open.spotify.com/track/1RA4w3uISppCKLm5oiSmY9) | [Emilia, Pardo y Bazán](https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j) | [Qué ha sido de los planes que hicimos anoche cuando estábamos borrachos](https://open.spotify.com/album/2rBEnYmhKJNtoR0USzLOCV) | 2:51 | 2026-05-14 |  |
 | [Pienso En Ti](https://open.spotify.com/track/6JrampDbMp4AM7R0TyLGtN) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Pienso En Ti](https://open.spotify.com/album/3h9y40Uj7jkoEVbn0TvgKb) | 3:23 | 2025-05-29 |  |
 | [Pikete repetido](https://open.spotify.com/track/4Fcw2wlblAwaSEVmdJ8HgC) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Pikete repetido](https://open.spotify.com/album/0tTcg1zipWDJal7jqFE303) | 2:18 | 2025-04-10 | 2025-05-02 |
 | [PING PONG \- atentamente luis](https://open.spotify.com/track/45bt9wlTagixn7uaP1bxvz) | [Luichi Boy](https://open.spotify.com/artist/6AEb1VaxB7NPoSSIvQZ8XD) | [PING PONG \(atentamente luis\)](https://open.spotify.com/album/1ex4nlTsFP7RDCwr0FJkcf) | 2:57 | 2026-04-02 | 2026-04-24 |
@@ -743,7 +744,6 @@
 | [Todos menos tú](https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [I\-Ace](https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0) | [Todos menos tú](https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S) | 2:50 | 2024-06-27 | 2024-09-20 |
 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-01-30 | 2025-03-28 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-10-31 |
-| [Track 9](https://open.spotify.com/track/1RA4w3uISppCKLm5oiSmY9) | [Emilia, Pardo y Bazán](https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j) | [Qué ha sido de los planes que hicimos anoche cuando estábamos borrachos](https://open.spotify.com/album/2rBEnYmhKJNtoR0USzLOCV) | 0:00 | 2026-05-14 |  |
 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 | 2024-06-27 | 2025-03-28 |
 | [Trámite](https://open.spotify.com/track/4AnbZ70nxY05G30ZRqdXLZ) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Trámite](https://open.spotify.com/album/6as7JjgjSDm2R44zkMYsOR) | 3:08 | 2025-04-10 | 2025-04-18 |
 | [Tu Buen Chaval](https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Nuevos Lemas](https://open.spotify.com/album/0f4weFEnA91MfjYF61UfOU) | 2:25 | 2024-06-27 | 2024-11-15 |

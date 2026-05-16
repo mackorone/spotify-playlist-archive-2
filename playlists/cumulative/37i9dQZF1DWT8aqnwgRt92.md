@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,616 songs - 6 day 17 hr 35 min
+2,617 songs - 6 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2624,5 +2624,6 @@
 | [黄色信号](https://open.spotify.com/track/6oActeQQvrK8TzNkapQ18W) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [黄色信号](https://open.spotify.com/album/1eAFQT1Id9vkiVyT8SKK03) | 3:31 | 2025-04-08 | 2025-07-09 |
 | [黄金の彼方 \- Golden Horizon](https://open.spotify.com/track/4FB6P63qFpPPnZN9fVw7F8) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [黄金の彼方 \- Golden Horizon](https://open.spotify.com/album/74F9XqQ4eSg3zdu4O9dvKu) | 2:54 | 2025-10-07 | 2026-01-15 |
 | [黎\-ray\-](https://open.spotify.com/track/5KwXjedXY6FmxoxnfNMBPS) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [黎\-ray\-](https://open.spotify.com/album/4rvpDCoNDWQR2k8KJTCrpK) | 4:03 | 2022-05-28 | 2022-07-06 |
+| [黎明Compass](https://open.spotify.com/track/2OYoDq2WkF8g2i1WxrsgrT) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [黎明Compass](https://open.spotify.com/album/4SQX5uyepgRkDDb6hUUCRB) | 3:24 | 2026-05-14 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

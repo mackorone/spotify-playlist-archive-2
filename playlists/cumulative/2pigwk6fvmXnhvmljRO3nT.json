@@ -5054,7 +5054,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 209613,
       "name": "Above The Law",
       "url": "https://open.spotify.com/track/5oEgPvhTZ4CFjeuuLfmMsI"
@@ -16828,7 +16828,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 162984,
       "name": "Black Tux, White Collar",
       "url": "https://open.spotify.com/track/0ssVSd3juASNuehS9LWMFW"
@@ -32664,7 +32664,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 140142,
       "name": "Distorted Records",
       "url": "https://open.spotify.com/track/57q6BgYP4gN6hPQViCB3um"
@@ -81999,6 +81999,28 @@
     },
     {
       "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/42PtdVSLGaaNJvr5hMW3EB"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        },
+        {
+          "name": "Laura Brehm",
+          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247339,
+      "name": "MAYDAY",
+      "url": "https://open.spotify.com/track/7dvPVoZHsfkZR46CvbiKHT"
+    },
+    {
+      "album": {
         "name": "THE SIDE EFFECTS",
         "url": "https://open.spotify.com/album/1BGWyz8x5J2qChX1X0r60e"
       },
@@ -84962,6 +84984,28 @@
       "duration_ms": 200240,
       "name": "Monks",
       "url": "https://open.spotify.com/track/0msrDPXxZpts4FRnoX0bFr"
+    },
+    {
+      "album": {
+        "name": "Unity - 10th Anniversary Compilation",
+        "url": "https://open.spotify.com/album/2xUuNCIEvxpGwxHH4nq0Op"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        },
+        {
+          "name": "Laura Brehm",
+          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290467,
+      "name": "Monody",
+      "url": "https://open.spotify.com/track/2PLMiHYcVixnjsG8QPiHFo"
     },
     {
       "album": {
@@ -92500,7 +92544,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 265026,
       "name": "Nutmeg (feat. RZA)",
       "url": "https://open.spotify.com/track/3NVAemUSBZ4aBuNViXOMWs"
@@ -92898,7 +92942,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 155885,
       "name": "OG Beeper",
       "url": "https://open.spotify.com/track/5TX0mfUkpGlU6j2xa00ERx"
@@ -135916,7 +135960,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 290511,
       "name": "UMA IN AMERICA",
       "url": "https://open.spotify.com/track/4tZR89owOggD7KD3sj7BQl"
@@ -136542,6 +136586,24 @@
       "duration_ms": 255377,
       "name": "United In Grief",
       "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
+    },
+    {
+      "album": {
+        "name": "Unity - 10th Anniversary Compilation",
+        "url": "https://open.spotify.com/album/2xUuNCIEvxpGwxHH4nq0Op"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249285,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/2FpEXjGqe2dJJ9oB8c8Io2"
     },
     {
       "album": {

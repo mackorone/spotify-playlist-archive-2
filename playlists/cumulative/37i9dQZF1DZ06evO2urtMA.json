@@ -384,6 +384,24 @@
     {
       "album": {
         "name": "Far Removed",
+        "url": "https://open.spotify.com/album/2TPomhhSrg4HHy4rONuWjo"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242160,
+      "name": "Make It Hurt",
+      "url": "https://open.spotify.com/track/6YEkc8Qbh9FwTequP5Rz6i"
+    },
+    {
+      "album": {
+        "name": "Far Removed",
         "url": "https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a"
       },
       "artists": [
@@ -394,7 +412,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 242196,
       "name": "Make It Hurt",
       "url": "https://open.spotify.com/track/69jVsEla1GaZYEzinH4kDb"

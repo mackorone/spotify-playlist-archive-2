@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Amenazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,280 likes - 90 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,333 likes - 90 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Se Jodió](https://open.spotify.com/track/235mVsqziBNPXuCuvCAM9h) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Se Jodió](https://open.spotify.com/album/7t5KKxga8kR6ZiOMNjwKik) | 2:26 |
 | 2 | [OTRO SISTEMA](https://open.spotify.com/track/6Z3FEo2Q2rF6CwWXl3iCAJ) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [OTRO SISTEMA](https://open.spotify.com/album/3CXBq0m4ywCu5JS5I9vlL0) | 2:24 |
 | 3 | [Su Lazzy](https://open.spotify.com/track/5w6ZSz4JzB17e3LBmDOLus) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L), [Mapa Negro](https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO) | [Scorpion](https://open.spotify.com/album/0KsQrzX7cMKjoFNhWh1bR0) | 2:13 |
-| 4 | [Skokka](https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Skokka](https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX) | 2:40 |
+| 4 | [Skokka](https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Skokka](https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX) | 2:39 |
 | 5 | [Lean](https://open.spotify.com/track/1IhDSbT5Ey2iryw3OuARik) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Lean](https://open.spotify.com/album/46sNKIHcKawOCdqgbvMIFT) | 2:23 |
 | 6 | [Pa Tripea](https://open.spotify.com/track/2NKe3jG4Tsdarixp87OnCE) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Pa Tripea](https://open.spotify.com/album/4fiGhiTmulEqM9vuw3VrZL) | 2:13 |
 | 7 | [1/1](https://open.spotify.com/track/16CgEHkJE7g4l6NDcnP3Yo) | [TRAPPSTARS TS](https://open.spotify.com/artist/43cWxMn47HxNLmfP53TyWb), [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [1/1](https://open.spotify.com/album/3pO7f6ljs1eTr3PrgwyAQu) | 2:20 |

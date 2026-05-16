@@ -1,13 +1,33 @@
 {
-  "description": "The sweetest bops. Cover: BINI",
-  "num_followers": 72556,
+  "description": "The sweetest bops. Cover: aespa",
+  "num_followers": 72555,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMFpAf4r85fYHzz171UNpsGVhprk",
+  "snapshot_id": "AAAAAKUy2lHKbaFlLE9muD2D4Etfi2rP",
   "tracks": [
+    {
+      "added_at": "2026-05-15 04:41:57",
+      "album": {
+        "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+        "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
+    },
     {
       "added_at": "2026-04-10 14:20:23",
       "album": {

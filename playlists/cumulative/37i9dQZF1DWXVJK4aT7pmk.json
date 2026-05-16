@@ -24,7 +24,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 132334,
       "name": "0008",
       "url": "https://open.spotify.com/track/5C3caQlYqE3Z6jcyRTtfME"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 154105,
       "name": "5-7",
       "url": "https://open.spotify.com/track/6PRFDCNAMLeSZimkPGrKMG"
@@ -1712,6 +1712,28 @@
       "duration_ms": 173333,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8"
+    },
+    {
+      "album": {
+        "name": "Eyes on Me",
+        "url": "https://open.spotify.com/album/2kjlMkUMIX8WvRSEH5ZNzW"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154172,
+      "name": "Eyes on Me",
+      "url": "https://open.spotify.com/track/041jCU9PMkrksVubpD0p1A"
     },
     {
       "album": {
@@ -4424,6 +4446,28 @@
       "duration_ms": 288000,
       "name": "Top Class / Overseas",
       "url": "https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI"
+    },
+    {
+      "album": {
+        "name": "Top Fella",
+        "url": "https://open.spotify.com/album/2cMd5j7BCLo7xnZwVpzq3D"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201081,
+      "name": "Top Fella",
+      "url": "https://open.spotify.com/track/4x8JsInrhf0yWYFRpF4vRz"
     },
     {
       "album": {

@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Edge of Memory",
+        "url": "https://open.spotify.com/album/7zHETteWzFOXQSXNjmb8pp"
+      },
+      "artists": [
+        {
+          "name": "Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168376,
+      "name": "Edge of Memory",
+      "url": "https://open.spotify.com/track/4dhZj1I53BfHXNB4hrzEnc"
+    },
+    {
+      "album": {
         "name": "Elysian Fields",
         "url": "https://open.spotify.com/album/5Ye5ytPLhrW457eaALFpdW"
       },
@@ -1010,6 +1028,24 @@
       "duration_ms": 158500,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/7uEqmFdTgsMNjW6H2GrwGv"
+    },
+    {
+      "album": {
+        "name": "Empty Swing",
+        "url": "https://open.spotify.com/album/4DyIpF3OartOxALirhcqBu"
+      },
+      "artists": [
+        {
+          "name": "Silvenna",
+          "url": "https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145043,
+      "name": "Empty Swing",
+      "url": "https://open.spotify.com/track/1bYdA7qyXmu69peXktv9n3"
     },
     {
       "album": {

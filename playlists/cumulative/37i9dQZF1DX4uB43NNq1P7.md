@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-147 songs - 6 hr 34 min
+149 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Gracious in the Rain](https://open.spotify.com/track/0kou2NW1WSyo1sxzyzBHLj) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Teardrops on the doorstep](https://open.spotify.com/album/6xgL3nF6MXq3x55rOMB4pv) | 2:41 | 2023-03-13 |  |
 | [Granule](https://open.spotify.com/track/15eLDTgjl98PPmvGYoXoQc) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Granule](https://open.spotify.com/album/2OLmcPx7BdwI0QVxPwNj1x) | 2:24 | 2023-03-13 | 2024-08-14 |
 | [Happy Mornings](https://open.spotify.com/track/5U0cxOqpl3ONvRpqeLzvOf) | [Miss Brooke's Cottage](https://open.spotify.com/artist/6wYWLz4TZvuTTtSI2HCcsj) | [Rainy Sunday at the Cottage](https://open.spotify.com/album/75xGNJ1qnFvoJdx8JtS3WI) | 3:08 | 2023-03-13 |  |
+| [Hide and Seek \(in the Rain\)](https://open.spotify.com/track/7ycUMyZqNAdT4ZnhMTYUmQ) | [Nils Olov](https://open.spotify.com/artist/1dgIBgGAPHKb49Cao2Z5U9) | [Hide and Seek](https://open.spotify.com/album/1pi15qy5OnbfSASsE8KXyX) | 2:42 | 2026-05-15 |  |
 | [Hideaway](https://open.spotify.com/track/6MvnBogCA38SRdKQIUWQ0X) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Hideaway](https://open.spotify.com/album/0DGxp25pUmsM3uqPxL71sH) | 1:54 | 2023-08-02 | 2023-10-20 |
 | [Hiemal](https://open.spotify.com/track/5bzH6IfpBdo8JZgabohbc2) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Hiemal](https://open.spotify.com/album/6cC1ItSieMCt6ekRYtNXxG) | 1:57 | 2023-03-13 | 2023-10-20 |
 | [Humble Present](https://open.spotify.com/track/4Vi9xSebHSxKK7LArcVcYU) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Humble Present](https://open.spotify.com/album/0hpfhie8BPcA0okirMROQB) | 3:32 | 2023-03-13 |  |
@@ -65,6 +66,7 @@
 | [May We Meet Again](https://open.spotify.com/track/7zn6XN9BFYtjLm730WuDov) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Echoes of Rain](https://open.spotify.com/album/5MhZf2tjvfGklglbYHiPH3) | 2:03 | 2023-03-13 | 2025-01-30 |
 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 | 2023-03-13 |  |
 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 | 2023-03-13 | 2025-08-23 |
+| [Mid Air Mirage](https://open.spotify.com/track/1oFsk31Tp2mzvW3nHdQYWr) | [Drawn](https://open.spotify.com/artist/5IAzABJNf8u0gB0y3KDhAp) | [Mid Air Mirage](https://open.spotify.com/album/0Cf6J55pbCGNCz7p0MWn1a) | 2:30 | 2026-05-15 |  |
 | [Midnight Moon \(Rain\)](https://open.spotify.com/track/1ZncqbnwCe7myD7JvsypVb) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Midnight Moon \(Rain\)](https://open.spotify.com/album/0VML9T2n1CMZ5428r8MUMV) | 2:18 | 2024-03-20 |  |
 | [miru \(with rain\)](https://open.spotify.com/track/10tpukUJbtWxgHjNVCXSTD) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [mar](https://open.spotify.com/album/636T4AzmCWkvbzEIHmuCFj) | 2:17 | 2023-08-18 | 2024-01-10 |
 | [Mitternacht \(Rain\)](https://open.spotify.com/track/2iRGKPnnIdjAet42QjwXdN) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Filtered Light \(Rain\)](https://open.spotify.com/album/49nE3LTRvdivTulr4oenOs) | 2:50 | 2023-03-13 |  |
@@ -151,7 +153,7 @@
 | [Vivid \(rain\)](https://open.spotify.com/track/65vtpgVu9L3brLPAIFHhLQ) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Vivid \(rain\)](https://open.spotify.com/album/5bfwIagQQosmKHVYnTh9I6) | 2:08 | 2025-05-14 |  |
 | [wading birds \(in the Rain\)](https://open.spotify.com/track/5UGBKcAJDhS8v46nmOBJel) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [wading birds \(in the rain\)](https://open.spotify.com/album/7yJRrU8dhZaHkllqiNthTT) | 2:24 | 2025-03-27 |  |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-13 | 2024-01-10 |
-| [Whispers of Dawn \(in the Rain\)](https://open.spotify.com/track/3tnGrx6JehRtt1Ew0q5DUa) | [Beau Shepherd](https://open.spotify.com/artist/4dROKap2sx0B4xC1QGBoNR) | [Soft and Still \(in the Rain\)](https://open.spotify.com/album/2H9zCYJkCoVtRceIMCi1hE) | 2:33 | 2025-11-05 |  |
+| [Whispers of Dawn \(in the Rain\)](https://open.spotify.com/track/3tnGrx6JehRtt1Ew0q5DUa) | [Beau Shepherd](https://open.spotify.com/artist/4dROKap2sx0B4xC1QGBoNR) | [Soft and Still \(in the Rain\)](https://open.spotify.com/album/2H9zCYJkCoVtRceIMCi1hE) | 2:33 | 2025-11-05 | 2026-05-16 |
 | [Windbreaker \(Rain\)](https://open.spotify.com/track/1bqD3jJD72M3vzc9ruQnxo) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Windbreaker \(Rain\)](https://open.spotify.com/album/1ZbhnNqhMIgQLwyCUJWpqd) | 3:20 | 2024-02-05 |  |
 | [Without Words & Gentle Rain](https://open.spotify.com/track/2RvsS6T2zbRyR7cmD6FFy1) | [Leo Zimmerman](https://open.spotify.com/artist/3Uk07vGqLuEYgADQThimsJ) | [Piano & Rain, vol\. I](https://open.spotify.com/album/4qSrjBWuIczggbNAifFfL8) | 2:17 | 2023-03-13 |  |
 | [You're My Favorite Song](https://open.spotify.com/track/1VivWZ7QS8igflqDXZHlCF) | [Oliver Suttcliffe](https://open.spotify.com/artist/4JaYzqOa5URlU6EiMxdlXn) | [See You in a Dream](https://open.spotify.com/album/1c4oQCA62N9ROFj5x97ClR) | 2:36 | 2023-03-13 |  |

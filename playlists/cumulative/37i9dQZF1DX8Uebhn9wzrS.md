@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,499 songs - 3 day 23 hr 7 min
+2,502 songs - 3 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Bravado](https://open.spotify.com/track/7sBADAbyjri5eDaU8qtCOK) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Feeling Something](https://open.spotify.com/album/4NQa8HcFQvWCheoZlMzMAc) | 2:07 | 2022-04-15 | 2022-04-22 |
 | [Bread & Butter](https://open.spotify.com/track/5MMoO7EoigWtou55ex6E9F) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Bread & Butter](https://open.spotify.com/album/6n8P5Kc8jHe75JUCuaSr9A) | 1:24 | 2023-04-11 | 2025-11-26 |
 | [Break Of Dawn](https://open.spotify.com/track/412vyUC3xYk6NtHvscmgXl) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx), [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Break Of Dawn](https://open.spotify.com/album/3Ywf3SRxZZaNoxHY1Hxtuc) | 2:32 | 2022-05-13 | 2022-11-12 |
-| [breathe in](https://open.spotify.com/track/2pe4uQh4EnCeBhY9Uo9t5D) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [breathe in](https://open.spotify.com/album/4uJhMUFubB150feJh9cNYl) | 2:28 | 2024-02-02 |  |
+| [breathe in](https://open.spotify.com/track/2pe4uQh4EnCeBhY9Uo9t5D) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [breathe in](https://open.spotify.com/album/4uJhMUFubB150feJh9cNYl) | 2:28 | 2024-02-02 | 2026-05-16 |
 | [Breeze](https://open.spotify.com/track/4t73es0R4IkXujsn8Mm2Ry) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Breeze](https://open.spotify.com/album/4ySIUffu45EVKJH20DokXQ) | 3:29 | 2023-11-24 | 2025-03-08 |
 | [Brief Stack](https://open.spotify.com/track/2aJ4q1Y7Ks5NMKcLr3DUrZ) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Brief Stack](https://open.spotify.com/album/4eFJkuboRVGp7xYylyRgNQ) | 2:27 | 2022-09-23 | 2025-07-11 |
 | [Bright Encounters](https://open.spotify.com/track/5sNMW4UPPJ8Zosu9elP9dj) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Bright Encounters](https://open.spotify.com/album/1OxZx87VNTRNnMoZFmSYPQ) | 2:05 | 2022-10-07 | 2023-11-17 |
@@ -370,6 +370,7 @@
 | [Cave Canem](https://open.spotify.com/track/4F2UTof7NX6a3TddZ54HWf) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Cave Canem](https://open.spotify.com/album/1FNz4XIjm2VPQ1ELnIxNra) | 1:35 | 2024-08-30 | 2025-01-10 |
 | [caverns](https://open.spotify.com/track/08egHY6Qs39w86pcbyiMAD) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [caverns](https://open.spotify.com/album/2WvNmEjP4AQBUQIl5Jl2Qb) | 2:38 | 2022-12-09 | 2023-09-16 |
 | [caviar](https://open.spotify.com/track/3y6KYivzMqOZDscUH2Cn9N) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [laugh at the balance](https://open.spotify.com/album/6VrZDk65XkMRuk9IW4tudW) | 2:08 | 2022-04-15 | 2022-09-09 |
+| [celeca](https://open.spotify.com/track/1q0FlllkAl9iWdeCNTiKkX) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [celeca](https://open.spotify.com/album/0jCf4PU39yftfpS70SBn9T) | 2:20 | 2026-05-15 |  |
 | [Cerulean](https://open.spotify.com/track/7FKsMtxwEwX1FObrXB8puk) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Cerulean](https://open.spotify.com/album/4LVcOGl1yV59xdG6hvJmRE) | 1:34 | 2022-10-14 | 2023-01-13 |
 | [chamomile](https://open.spotify.com/track/4n8PIPGIm5s0E9J4adZLiA) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [botaniist](https://open.spotify.com/artist/3Xa1468e8rkfjUmbUtdg3B) | [chamomile](https://open.spotify.com/album/7vRfGQokmeheUuPluiRmuE) | 2:25 | 2024-08-23 | 2025-07-26 |
 | [Chang](https://open.spotify.com/track/2HgAzyBHR3TGJBpksx3I6L) | [AN99](https://open.spotify.com/artist/6ufkUF0S5027zUcnMvQq0I) | [Chang](https://open.spotify.com/album/7ckxYovGXDYUTtGfgzkKbU) | 1:45 | 2024-03-01 | 2024-09-21 |
@@ -862,7 +863,7 @@
 | [Gentle Shore](https://open.spotify.com/track/4XPCGhCvkLHjByEVsWNdY6) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Gentle Shore](https://open.spotify.com/album/7r9en8Xo1JxfJQu92R2C6D) | 2:15 | 2026-02-27 |  |
 | [Get Off Your Horse](https://open.spotify.com/track/0M0toTLY69gmI8ddjadJnt) | [Fox and Hounds](https://open.spotify.com/artist/1SSyBpR4c7ItGstC9MR3s3) | [Get Off Your Horse](https://open.spotify.com/album/1XPQ8nrf1I19sLHhN6IbGo) | 2:08 | 2022-08-05 | 2023-03-09 |
 | [getaway](https://open.spotify.com/track/6zdCEe4Iep9WWC1UDHz0Yq) | [home grown](https://open.spotify.com/artist/3HItQVgl9wuiGIluHnIfTS) | [getaway](https://open.spotify.com/album/45f73w814mrcZuvtmSbfZw) | 2:10 | 2022-06-24 | 2022-11-26 |
-| [Getting There](https://open.spotify.com/track/6WuRi1AJsdOcfWEddjaD1W) | [Plaxon](https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM) | [Getting There](https://open.spotify.com/album/2qskPgr72MeWhSSwYh5lAu) | 2:22 | 2026-02-06 |  |
+| [Getting There](https://open.spotify.com/track/6WuRi1AJsdOcfWEddjaD1W) | [Plaxon](https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM) | [Getting There](https://open.spotify.com/album/2qskPgr72MeWhSSwYh5lAu) | 2:22 | 2026-02-06 | 2026-05-16 |
 | [Ghost](https://open.spotify.com/track/7KUtNeIY8MfD9cK76wAXFQ) | [Jmss](https://open.spotify.com/artist/36SBg8t2alILgIBtN5V2Jb), [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Ghost](https://open.spotify.com/album/2GOi87XhX2YpT1CopW9XoY) | 2:04 | 2024-11-15 | 2024-12-07 |
 | [Ghosting](https://open.spotify.com/track/5vrt91IhW5lQW6fUUFV2hW) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Ghosting](https://open.spotify.com/album/7uqNftaPHWWHpsuikVidsS) | 2:17 | 2022-09-16 | 2023-01-07 |
 | [Giant Emoji](https://open.spotify.com/track/2bbujVEjRsJFvKnzlzhbpQ) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [In Due Time](https://open.spotify.com/album/13sb8AYLDP6VK75wwvpPEm) | 3:18 | 2022-04-15 | 2022-05-27 |
@@ -1583,6 +1584,7 @@
 | [Oonga Boonga](https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Oonga Boonga](https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk) | 2:05 | 2023-10-13 | 2025-07-26 |
 | [Open All Night](https://open.spotify.com/track/6Dt6AytHdXimlTCONkV95z) | [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF) | [Open All Night](https://open.spotify.com/album/1QcHc5DY3LS2MZNMhlgjCz) | 2:50 | 2022-09-16 | 2023-01-07 |
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2022-04-15 | 2022-05-27 |
+| [Open Sky](https://open.spotify.com/track/3Ks3mEDB1j2BVT7Ui3Wcv7) | [Muroki](https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n) | [Open Sky](https://open.spotify.com/album/6m5jEICAaEiCg9J18H12lp) | 2:07 | 2026-05-15 |  |
 | [Opportunities](https://open.spotify.com/track/6wRCnTbFzIVyQaKT0r8cG9) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Opportunities](https://open.spotify.com/album/1f8V9aKTFhKyeomRpxoyuc) | 1:58 | 2025-05-09 | 2025-05-17 |
 | [Opulence](https://open.spotify.com/track/5Lau1jCQPlGK5lS2gSW0cu) | [Leonard Hudgens](https://open.spotify.com/artist/6WpmWIpXTW0N63IGUFqIlT) | [Opulence](https://open.spotify.com/album/6aDX3sTyPUTeECzsKDbgt3) | 2:15 | 2024-03-22 | 2024-04-30 |
 | [Opus II](https://open.spotify.com/track/47U6UBCMwwXkf7saw2VAW3) | [Terrence Woods](https://open.spotify.com/artist/68OTfPEEVauMj9rWCFSz1k) | [Opus II](https://open.spotify.com/album/11uGd9Tqjc2tfZJXY8UCx1) | 2:15 | 2022-04-15 | 2022-09-09 |
@@ -2076,6 +2078,7 @@
 | [Stronger Together](https://open.spotify.com/track/6qM40RhvwLCbib0oflXBz1) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [New Life EP](https://open.spotify.com/album/2XG9Odg88Io1LmaGKEKzfG) | 1:55 | 2024-10-11 | 2025-11-26 |
 | [Struggling With Potential](https://open.spotify.com/track/4UmxUGBDyV2l4XK0cnuAga) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Struggling With Potential](https://open.spotify.com/album/09PAe79tahB3JQvLP3JHKx) | 2:02 | 2024-01-05 | 2024-08-09 |
 | [Study Buddy](https://open.spotify.com/track/0MU3ceLzNHemxgS5HiOPNY) | [UniqeCorn](https://open.spotify.com/artist/6TTcb6j1m5qnVjdSvpEHcC) | [Study Buddy](https://open.spotify.com/album/3sOCnVfTISO2Z0vI3HzrdT) | 2:25 | 2022-04-15 | 2022-09-02 |
+| [study session](https://open.spotify.com/track/1p1f3ht50aBz49MkaUVQjj) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [study session](https://open.spotify.com/album/26zT9ZL4VVi1i41T13CRTq) | 2:25 | 2026-05-15 |  |
 | [Study To This](https://open.spotify.com/track/0AItApfAxK5MvCDBBYIeXR) | [pen & paper](https://open.spotify.com/artist/5YH8nf5dmqrTJh1gy6jJrp) | [Study To This](https://open.spotify.com/album/6mg53SgDrMGuPtVgma3jQc) | 2:09 | 2024-10-04 | 2024-11-02 |
 | [Substance](https://open.spotify.com/track/341POrHqTpGFPGywCKy9Tk) | [brokebwoy](https://open.spotify.com/artist/6W5OElrV4G52kaVSV0CLXv) | [Psyche](https://open.spotify.com/album/3S6cmiz60kdbon1Bj8BMRI) | 1:45 | 2022-07-08 | 2022-11-26 |
 | [suede life](https://open.spotify.com/track/06SMLmQLGOBTNhgJQ29akJ) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [suede life](https://open.spotify.com/album/5tmpy42Tvi02Csz9RhZWot) | 3:10 | 2024-08-16 | 2024-10-24 |
@@ -2375,7 +2378,7 @@
 | [volume 2](https://open.spotify.com/track/4sf3dg5AfMRjVjCkWHyMZl) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [volume 2](https://open.spotify.com/album/3uLQRyDao4BVvwPU9eiF6Z) | 1:55 | 2025-04-11 | 2025-06-14 |
 | [Vortex](https://open.spotify.com/track/5gUG9ivCY3V5DRW8301SbS) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Vortex](https://open.spotify.com/album/5a9qEcg5nTzr7ZIPVO8FQk) | 2:04 | 2024-08-23 |  |
 | [Voyager I](https://open.spotify.com/track/5jBUgazLXovmLGbaMaBXAz) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Voyager I](https://open.spotify.com/album/0xMT2wIw012AXByuwmumtx) | 2:08 | 2022-04-15 | 2022-08-12 |
-| [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2023-10-06 |  |
+| [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2023-10-06 | 2026-05-16 |
 | [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2022-12-02 | 2024-11-09 |
 | [Waiting Room](https://open.spotify.com/track/5MAwrPj271eyVtlgNRrveQ) | [Brian Ward](https://open.spotify.com/artist/50cS50JU7y7f697pwo1qsw), [Shane Savala](https://open.spotify.com/artist/478Gr4jHvTgsWEYNUu1jJx) | [Waiting Room](https://open.spotify.com/album/5mdBUhiWj4IbsRYQt0Fv2W) | 2:52 | 2022-06-24 | 2022-11-26 |
 | [Waitress service](https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Waitress service](https://open.spotify.com/album/6EYqvlu2EjsRqQ9VmKuDSR) | 1:50 | 2023-07-13 | 2024-08-31 |

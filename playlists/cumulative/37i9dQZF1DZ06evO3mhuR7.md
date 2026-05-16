@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-181 songs - 20 hr 56 min
+182 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Captain Korma](https://open.spotify.com/track/1OH8yc7uDg4pz8CINxrpVz) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 5:18 | 2024-11-15 | 2024-11-22 |
 | [Centre of the Triangle](https://open.spotify.com/track/4prpxysBAaFArGqhqTg0Rc) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:35 | 2023-06-18 | 2026-01-30 |
 | [Close Encounters](https://open.spotify.com/track/1aeZX0loVCwqh1x9k7SpVw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 10:27 | 2022-05-29 | 2026-04-15 |
-| [Close Encounters](https://open.spotify.com/track/01e9vOxxbGE396iabjwXIp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 10:27 | 2026-04-15 |  |
+| [Close Encounters](https://open.spotify.com/track/01e9vOxxbGE396iabjwXIp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 10:27 | 2026-04-15 | 2026-05-16 |
 | [Compass I Fell in Love](https://open.spotify.com/track/6LTwNUukpNh8cDJQ26QnGZ) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:11 | 2023-06-18 | 2025-10-20 |
 | [Cracking Kraken](https://open.spotify.com/track/3A54uGQbcX3t2KNamtpXPP) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Cracking Kraken](https://open.spotify.com/album/08trvlLPSmKliNZQpWYixq) | 3:10 | 2023-04-13 | 2023-07-22 |
 | [Cracking Kraken](https://open.spotify.com/track/4Efodyxl4cArh5Pflk1LUX) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 3:10 | 2023-07-21 | 2026-05-14 |
@@ -144,7 +144,7 @@
 | [Rush Hill Road](https://open.spotify.com/track/0pk2tbLN4rVB0fKTTW9VYL) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 5:55 | 2022-06-02 | 2022-08-27 |
 | [Rush Hill Road \- Radio Edit](https://open.spotify.com/track/1UCDwYAZJ0QiUx66iA8Xc7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 3:56 | 2024-12-06 | 2025-01-14 |
 | [S.A.L.T.](https://open.spotify.com/track/4eomwbntm6d0REzt44cEIJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 7:54 | 2022-06-15 | 2022-08-22 |
-| [Saragossa Wells](https://open.spotify.com/track/5fwL8bx0RRneEbkNuQmPrQ) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:38 | 2023-06-18 | 2026-05-15 |
+| [Saragossa Wells](https://open.spotify.com/track/5fwL8bx0RRneEbkNuQmPrQ) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:38 | 2023-06-18 |  |
 | [Say Cheese \- Siberian Tiger Cookie Mix](https://open.spotify.com/track/6aWUSS1czLVNMASHk84XNV) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia](https://open.spotify.com/album/1euwyciwux1oVmj4r1Rf3X) | 5:27 | 2022-09-15 | 2022-10-11 |
 | [Secrets](https://open.spotify.com/track/26G57zuEtPi7YuUsW5fQwP) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 5:32 | 2022-05-30 | 2024-11-10 |
 | [Sex \(Panoramic Sex Heal\)](https://open.spotify.com/track/09NyXR4PBVY1kyHjWLqMmI) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 1:39 | 2022-05-29 |  |
@@ -175,7 +175,8 @@
 | [Tiger](https://open.spotify.com/track/4hanvMjJILXxnWY7XO9VpI) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 4:32 | 2023-04-30 | 2023-11-11 |
 | [Tiger](https://open.spotify.com/track/5npFs7QRQZysAjOa5EBf59) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 4:32 | 2023-12-18 | 2026-05-12 |
 | [Toi 1338b \- Edit](https://open.spotify.com/track/5Cyl770vOUPdfxSTBPOdJ8) | [Sedibus](https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Heavens](https://open.spotify.com/album/2bTeiXCBjfsKnGnezvw7DB) | 5:20 | 2022-05-29 |  |
-| [Towers Of Dub](https://open.spotify.com/track/3pNjlSAs2YVvx5dAY68ObX) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 15:00 | 2022-05-29 |  |
+| [Towers Of Dub](https://open.spotify.com/track/4g7tpAwxu52GnEGWm05NkW) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 15:00 | 2026-05-16 |  |
+| [Towers Of Dub](https://open.spotify.com/track/3pNjlSAs2YVvx5dAY68ObX) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 15:00 | 2022-05-29 | 2026-05-16 |
 | [Toxygene \- 7" Edit](https://open.spotify.com/track/2GPIAfzDdgLv1UKC6afaCn) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Toxygene](https://open.spotify.com/album/1bMEqz5MZsrevRk56AuoAD) | 3:37 | 2022-05-29 |  |
 | [U.F.Orb](https://open.spotify.com/track/7FSFWlgDvExyvuVfjzhc9B) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 6:08 | 2026-03-08 |  |
 | [U.F.Orb](https://open.spotify.com/track/7M7UsilKcShcDMcuuU4ylD) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 6:09 | 2022-05-29 | 2026-03-08 |

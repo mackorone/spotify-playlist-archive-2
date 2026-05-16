@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> Buffalo Traffic Jam on the cover <3
+> Jobi Riccio on the cover <3
 
-805 songs - 2 day 0 hr 36 min
+807 songs - 2 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 | 2024-02-10 |
 | [4 foot 2](https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [4 foot 2](https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz) | 2:34 | 2024-07-08 | 2024-08-10 |
 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 | 2025-04-04 | 2025-11-08 |
+| [A Little at a Time](https://open.spotify.com/track/29tZfTb09xQTjo7zMpVPj7) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Face The Feeling](https://open.spotify.com/album/0nbOE96i0mvngykkXaQew0) | 4:16 | 2026-05-15 |  |
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-01-05 | 2025-05-10 |
 | [a million](https://open.spotify.com/track/33IjsGyaereLETeWa5NcbL) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [a million](https://open.spotify.com/album/6kf8tzKyYQufZu0SHRmthA) | 2:46 | 2026-03-20 |  |
 | [A Song For You](https://open.spotify.com/track/744zwLqGKbOZW3RnxkRfHE) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:37 | 2025-07-04 | 2025-07-19 |
@@ -590,6 +591,7 @@
 | [satellite](https://open.spotify.com/track/106Dycnmmllhx8knNXpltf) | [phin](https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN) | [satellite](https://open.spotify.com/album/41PeMllILU3ersYRvWmLp8) | 3:03 | 2025-05-16 | 2025-06-21 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-12 | 2025-01-18 |
 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2023-10-13 | 2026-02-21 |
+| [scratch](https://open.spotify.com/track/73W3LkcxKvzCJ2vthJXk7M) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [Pigeons & Planes Presents: See You Next Year 3](https://open.spotify.com/album/1LjkpcxdrqE8mSDghyhlwu) | 2:43 | 2026-05-15 |  |
 | [Secrets](https://open.spotify.com/track/6HVr7aL6ZqGMO2gknTCZf7) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Secrets](https://open.spotify.com/album/4xXu2XeAwIcAUIRcd2Fj1U) | 4:12 | 2023-10-06 | 2024-03-16 |
 | [See You Later, I'm Gone](https://open.spotify.com/track/79jGv17PjfApMbrMCrZ0OV) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [See You Later, I'm Gone](https://open.spotify.com/album/4shbHhHop8TtPbbZAnfyeZ) | 4:31 | 2026-05-08 |  |
 | [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 | 2023-10-06 | 2024-03-16 |

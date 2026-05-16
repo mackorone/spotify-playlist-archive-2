@@ -295,6 +295,32 @@
     },
     {
       "album": {
+        "name": "Bad Man",
+        "url": "https://open.spotify.com/album/0A8ckcHDO1WbbfrBCUNW8F"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Cutty Ranks",
+          "url": "https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/7DVBNud2HvZ4C4Mfcw3v8w"
+    },
+    {
+      "album": {
         "name": "Bajo Abajo",
         "url": "https://open.spotify.com/album/1L7y7KsSRCtadMmimBqHXo"
       },
@@ -328,7 +354,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 157367,
       "name": "Ballerz",
       "url": "https://open.spotify.com/track/1wjTV6JrkSJWIIeDjHf8yQ"
@@ -754,7 +780,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 211874,
       "name": "Change The Music",
       "url": "https://open.spotify.com/track/7oj6LlNiA8GurBIxWAl3EC"
@@ -812,7 +838,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 200000,
       "name": "Coco",
       "url": "https://open.spotify.com/track/5C6gFpZkq1GsDVj7LHTbB1"
@@ -1198,7 +1224,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 202741,
       "name": "Don Dadda",
       "url": "https://open.spotify.com/track/36umETHgZmiWrhyZdvLiPU"
@@ -1264,7 +1290,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 179996,
       "name": "Edge of Desire - Franky Rizardo Remix",
       "url": "https://open.spotify.com/track/6w1z9aGsflx9cMHWl8d5eB"
@@ -1428,7 +1454,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 138750,
       "name": "Feel The Rush",
       "url": "https://open.spotify.com/track/1sWN2UbugfuyXwGFDj0ewb"
@@ -1996,7 +2022,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 178815,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/2nto3uwHdsC2XQIBePrpDT"
@@ -2164,7 +2190,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 161904,
       "name": "House Of Strings",
       "url": "https://open.spotify.com/track/4dBW39MSEaonsiWBI1NzJk"
@@ -2302,7 +2328,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 190258,
       "name": "I'm Watching You (So Many Times)",
       "url": "https://open.spotify.com/track/6KzhSkI5PAP0F2qL8ASGlP"
@@ -2616,6 +2642,36 @@
       "duration_ms": 178110,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/01UTKNFPC5tyXu0XNI3X3d"
+    },
+    {
+      "album": {
+        "name": "La La Land",
+        "url": "https://open.spotify.com/album/2IBPM3ympEL7o5vkWYEJfv"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "ESSENTIA",
+          "url": "https://open.spotify.com/artist/5rb6FcIQ3BjkenWBCHii1k"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "La La Land",
+      "url": "https://open.spotify.com/track/5hYSsLVQ6Isk6YZrnsBj4E"
     },
     {
       "album": {
@@ -3266,7 +3322,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 175119,
       "name": "Okay",
       "url": "https://open.spotify.com/track/3vQRZJn8OnOpzO1ZNfg6WY"
@@ -3350,7 +3406,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 210161,
       "name": "Only God",
       "url": "https://open.spotify.com/track/5D6jYyeh4Ow7ITHzoYHcyD"
@@ -3500,6 +3556,24 @@
       "duration_ms": 210489,
       "name": "Pedal To The Floor",
       "url": "https://open.spotify.com/track/4zd6hhBMwLvMUgXntkO9qc"
+    },
+    {
+      "album": {
+        "name": "People In The Back",
+        "url": "https://open.spotify.com/album/1DmAplTeujkGgcgFo1cV5L"
+      },
+      "artists": [
+        {
+          "name": "Kells",
+          "url": "https://open.spotify.com/artist/1qPxzxbjMfN86Vi96ceKgx"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305413,
+      "name": "People In The Back",
+      "url": "https://open.spotify.com/track/19OScDYAG1hMgNzRAdq2Yg"
     },
     {
       "album": {
@@ -4188,6 +4262,32 @@
       "duration_ms": 163064,
       "name": "So True",
       "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
+    },
+    {
+      "album": {
+        "name": "Something Something",
+        "url": "https://open.spotify.com/album/6QzMUvYUW1gcQpw2dJJH7X"
+      },
+      "artists": [
+        {
+          "name": "Syncia",
+          "url": "https://open.spotify.com/artist/4Qo2ASkp9NWJsYllhc4S7i"
+        },
+        {
+          "name": "Cash Only",
+          "url": "https://open.spotify.com/artist/3YCvK0FOrGJifQmDc12PVE"
+        },
+        {
+          "name": "Elj\u00e9",
+          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170675,
+      "name": "Something Something",
+      "url": "https://open.spotify.com/track/3PnFGZAj3YvVLLCRYiEAaW"
     },
     {
       "album": {

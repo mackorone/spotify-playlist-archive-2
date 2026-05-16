@@ -139,6 +139,32 @@
     },
     {
       "album": {
+        "name": "Schumann: Adagio and Allegro, Op. 70 (Version for Cello and Piano)",
+        "url": "https://open.spotify.com/album/4biSCFPvDH4KSCEEPjoFRh"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Massimiliano Martinelli",
+          "url": "https://open.spotify.com/artist/2MzhhBOG6VmhpWkQAmbZmB"
+        },
+        {
+          "name": "Jonathan Floril",
+          "url": "https://open.spotify.com/artist/2QJUwWM7ZzdnKEvsrdN0GH"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580580,
+      "name": "Adagio and Allegro, Op. 70 - Version for Cello and Piano",
+      "url": "https://open.spotify.com/track/0lTOmUv5eRnbiOkca8irrX"
+    },
+    {
+      "album": {
         "name": "Casals Encores \u2013 A Cello Tribute to Pablo Casals",
         "url": "https://open.spotify.com/album/5i3AgdbsM8h3yYdpvbJEAx"
       },
@@ -162,6 +188,28 @@
       "duration_ms": 195520,
       "name": "Apr\u00e8s un r\u00eave, Op. 7 No. 1 (Arr. Casals for Cello & Piano)",
       "url": "https://open.spotify.com/track/6zXy9tfsHjSir2RJagEqZi"
+    },
+    {
+      "album": {
+        "name": "Avant la suite",
+        "url": "https://open.spotify.com/album/0TdulPsHLP3fq97XGbnyE0"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217288,
+      "name": "Avant la suite",
+      "url": "https://open.spotify.com/track/0ZEQiY8Hdz3GzheX22C9Bh"
     },
     {
       "album": {
@@ -2480,6 +2528,28 @@
       "duration_ms": 371746,
       "name": "On the Nature of Daylight",
       "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
+    },
+    {
+      "album": {
+        "name": "OUTREMER (PIANO&CELLO)",
+        "url": "https://open.spotify.com/album/2KqgP95d7vq7GcsaNw89Ca"
+      },
+      "artists": [
+        {
+          "name": "David Grumel",
+          "url": "https://open.spotify.com/artist/36Sgkyc7kU3NRspCbSHakS"
+        },
+        {
+          "name": "Olivier Koundouno",
+          "url": "https://open.spotify.com/artist/61NyOOVAag8NTfwgeFLwzC"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163198,
+      "name": "Outremer - Piano & Cello",
+      "url": "https://open.spotify.com/track/5HgVSOKMsSe5QwVgKydeK2"
     },
     {
       "album": {

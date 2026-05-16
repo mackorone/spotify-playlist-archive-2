@@ -344,7 +344,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 192266,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/6txjv1bYloEaQ65SainV1Y"
@@ -2131,6 +2131,28 @@
     },
     {
       "album": {
+        "name": "eyes like water (Electronic)",
+        "url": "https://open.spotify.com/album/1Wtt3gxNn9QARQtg0Vw12Y"
+      },
+      "artists": [
+        {
+          "name": "Maple Sun",
+          "url": "https://open.spotify.com/artist/6QOiy6NKq4zYh9PTGEwqGJ"
+        },
+        {
+          "name": "Holly Jones",
+          "url": "https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237706,
+      "name": "eyes like water - Electronic",
+      "url": "https://open.spotify.com/track/2y66rNip2EyZb7ukk10XkY"
+    },
+    {
+      "album": {
         "name": "Faber / Faber Sanctum",
         "url": "https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk"
       },
@@ -2312,6 +2334,24 @@
       "duration_ms": 109249,
       "name": "Falls Of Avich",
       "url": "https://open.spotify.com/track/4YplGCsYN7vpdtceKPPa32"
+    },
+    {
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/63dO4swITp5LzUobGBXQ8W"
+      },
+      "artists": [
+        {
+          "name": "Omfeel",
+          "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/43GQkvgYGm6x4fW3UwUX8N"
     },
     {
       "album": {
@@ -4822,7 +4862,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 182320,
       "name": "Melody Electronics",
       "url": "https://open.spotify.com/track/5a6IshJRj5fnmCrrCNirNk"

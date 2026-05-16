@@ -4473,6 +4473,32 @@
     },
     {
       "album": {
+        "name": "Dracula (JENNIE Remix - Boys Noize Disko Version)",
+        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240318,
+      "name": "Dracula - JENNIE Remix - Boys Noize Disko Version",
+      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
+    },
+    {
+      "album": {
         "name": "DREAM SLOW",
         "url": "https://open.spotify.com/album/4i8IUJfnIZfz217lwVEiyq"
       },
@@ -4940,7 +4966,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 195692,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
@@ -7266,7 +7292,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 144006,
       "name": "Hope You're Happy",
       "url": "https://open.spotify.com/track/1sdjksfgXUmc6FQI73Ksjc"
@@ -10121,6 +10147,32 @@
     },
     {
       "album": {
+        "name": "LuvBug (feat. Lynsey Moore)",
+        "url": "https://open.spotify.com/album/2876t8q19vIgcnT5kFVoG8"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "Ramsey & Fen",
+          "url": "https://open.spotify.com/artist/5rBBAjkUV1bF89nr9AGpEu"
+        },
+        {
+          "name": "Lynsey Moore",
+          "url": "https://open.spotify.com/artist/31RLNDGi0or2K3mJDBlfjV"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "LuvBug (feat. Lynsey Moore)",
+      "url": "https://open.spotify.com/track/2AG8USCIiL1rhnejTfa1Rw"
+    },
+    {
+      "album": {
         "name": "M.I.A.",
         "url": "https://open.spotify.com/album/525tF5HcFtUr2k0tHVcI4t"
       },
@@ -10794,7 +10846,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 132666,
       "name": "MINISKIRT",
       "url": "https://open.spotify.com/track/7ClDf2wywGCTrjeUzcBgpj"
@@ -11290,6 +11342,24 @@
       "duration_ms": 198357,
       "name": "NEEDED YOU.",
       "url": "https://open.spotify.com/track/4o2mbgBqY583LXw6zz21Ad"
+    },
+    {
+      "album": {
+        "name": "Neon Soul",
+        "url": "https://open.spotify.com/album/6HnQIxrBh3JMlsd4P3F8X3"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Neon Soul",
+      "url": "https://open.spotify.com/track/5ONOXYgmiuLZk8oxy2zr0X"
     },
     {
       "album": {
@@ -17366,7 +17436,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 144698,
       "name": "UP2NIGHT",
       "url": "https://open.spotify.com/track/4uKTKJeEojDysqpqAVWEvC"
@@ -18904,6 +18974,28 @@
       "duration_ms": 195452,
       "name": "Your Mother",
       "url": "https://open.spotify.com/track/2ICEB6VvX5OAGTxwo6F55t"
+    },
+    {
+      "album": {
+        "name": "Zone (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/5HBTCoQOw75m5huue8nkBl"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176274,
+      "name": "Zone (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/0opSDloCLZOuKbO968zLH5"
     },
     {
       "album": {

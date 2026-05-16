@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Charlie Lim
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,220 likes - 84 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,221 likes - 84 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 2 | [我們沒有以後](https://open.spotify.com/track/5FkDo3pWKNl9gsKtgGXw0c) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [我們沒有以後](https://open.spotify.com/album/6DVpKsmXiqpEMQPwwJZDkB) | 3:56 |
 | 3 | [tomatoes](https://open.spotify.com/track/1rpI2jUuX92lJw4Dn99q54) | [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [tomatoes](https://open.spotify.com/album/0uqD5K89odStpa8PApjeIO) | 4:10 |
 | 4 | [forget me](https://open.spotify.com/track/5v2fBtaHK0d8AdnOSl3PFu) | [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [forget me](https://open.spotify.com/album/6cAUfiv9U6LHlhuFTE71SZ) | 2:44 |
-| 5 | [hYperSAD](https://open.spotify.com/track/4yedtyS1vNhbYjvOceAYya) | [AARCADE](https://open.spotify.com/artist/7FcsmP4uqRlBKh2Y7Q9kd0) | [hYperSAD](https://open.spotify.com/album/0dSQBPo6lQNOsOYz2O6bZM) | 3:32 |
+| 5 | [hYperSAD](https://open.spotify.com/track/4yedtyS1vNhbYjvOceAYya) | [AARCADE](https://open.spotify.com/artist/7FcsmP4uqRlBKh2Y7Q9kd0), [Viticz](https://open.spotify.com/artist/40Wl4GtvkAK0CdUwVQ17CP) | [hYperSAD](https://open.spotify.com/album/0dSQBPo6lQNOsOYz2O6bZM) | 3:32 |
 | 6 | [Therapy](https://open.spotify.com/track/6zgCl5XVE6f42DCkE7VvG5) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Therapy](https://open.spotify.com/album/2707lP65KqxNVyp1I2lifw) | 3:04 |
 | 7 | [IMAYE](https://open.spotify.com/track/5PL0PtPlaSjH6eQdA9WfFS) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S) | [IMAYE](https://open.spotify.com/album/6l9QzVbtnlN4BTrO7ZQZ3O) | 3:22 |
 | 8 | [POV: Pray to God 神](https://open.spotify.com/track/0ggKgMJVLqxyibJxYH7cr8) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [POV: Pray to God 神](https://open.spotify.com/album/202iOfvO8rF3M40f2qg6og) | 1:50 |

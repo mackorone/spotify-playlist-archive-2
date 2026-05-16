@@ -3402,7 +3402,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 253703,
       "name": "Muzyka pop",
       "url": "https://open.spotify.com/track/5R0i3UmUiz7dQjzECeFPwt"
@@ -3954,6 +3954,28 @@
       "duration_ms": 188181,
       "name": "Nie znam tego miejsca",
       "url": "https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt"
+    },
+    {
+      "album": {
+        "name": "nieIDEALNA",
+        "url": "https://open.spotify.com/album/47mg7IYp2fKI5mdAX9r8S8"
+      },
+      "artists": [
+        {
+          "name": "Darya",
+          "url": "https://open.spotify.com/artist/0JlbJC6VCC4dN9kCcjG8g1"
+        },
+        {
+          "name": "Fabija\u0144ski",
+          "url": "https://open.spotify.com/artist/6RmeN8ILZDTIKsaoQnYCT2"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192993,
+      "name": "nieIDEALNA",
+      "url": "https://open.spotify.com/track/1jYNQmlVwdUp4vXpSNQZsK"
     },
     {
       "album": {

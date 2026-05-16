@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "Hear me vent",
+        "url": "https://open.spotify.com/album/3sAfU8HtLEbFcsoBUL88BJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Zino",
+          "url": "https://open.spotify.com/artist/7AUV18vpujVWJKIDZtFfWS"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162306,
+      "name": "12am in Milan",
+      "url": "https://open.spotify.com/track/3nP7GDxbWL9UqT5vkAqZb7"
+    },
+    {
+      "album": {
         "name": "Independence Day",
         "url": "https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK"
       },
@@ -43206,24 +43224,6 @@
       "duration_ms": 194089,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
-    },
-    {
-      "album": {
-        "name": "Hear me vent",
-        "url": "https://open.spotify.com/album/3sAfU8HtLEbFcsoBUL88BJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Zino",
-          "url": "https://open.spotify.com/artist/7AUV18vpujVWJKIDZtFfWS"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3nP7GDxbWL9UqT5vkAqZb7"
     },
     {
       "album": {

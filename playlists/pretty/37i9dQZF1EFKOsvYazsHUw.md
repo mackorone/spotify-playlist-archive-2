@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566 likes - 142 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 567 likes - 142 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,13 +142,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 132 | [Patience Siren](https://open.spotify.com/track/0ddYwI8j2FZ1nOtuFpHiih) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-MISSION](https://open.spotify.com/album/0P3zCjuDblXamnXhoACNFm) | 3:19 |
 | 133 | [The Quiet Pulse](https://open.spotify.com/track/6GYJ8lQnnUWscHSKEVOmST) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-MISSION](https://open.spotify.com/album/0P3zCjuDblXamnXhoACNFm) | 5:15 |
 | 134 | [Looping Resolutions](https://open.spotify.com/track/43fFbchqnweY5Dk6EWLhre) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-MISSION](https://open.spotify.com/album/0P3zCjuDblXamnXhoACNFm) | 4:19 |
-| 135 | [Iridescence](https://open.spotify.com/track/1t11UmX4Pf4BRhdnZrnxmq) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/3IZmOO3hiBzAuCiqLfyfpg) | 3:11 |
-| 136 | [A Breath Between Stars](https://open.spotify.com/track/7MUIaEw9cXun3syhl0qUHc) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-MISSION](https://open.spotify.com/album/0P3zCjuDblXamnXhoACNFm) | 2:17 |
-| 137 | [Atelier](https://open.spotify.com/track/3WP6O7Chbf3ClWMCa2YH5m) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/3IZmOO3hiBzAuCiqLfyfpg) | 3:21 |
-| 138 | [In The End](https://open.spotify.com/track/1wMJAXWBnU4ppq1UnfdtR4) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/3IZmOO3hiBzAuCiqLfyfpg) | 3:23 |
+| 135 | [A Breath Between Stars](https://open.spotify.com/track/7MUIaEw9cXun3syhl0qUHc) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-MISSION](https://open.spotify.com/album/0P3zCjuDblXamnXhoACNFm) | 2:17 |
+| 136 | [Iridescence](https://open.spotify.com/track/1t11UmX4Pf4BRhdnZrnxmq) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/3IZmOO3hiBzAuCiqLfyfpg) | 3:11 |
+| 137 | [In The End](https://open.spotify.com/track/1wMJAXWBnU4ppq1UnfdtR4) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/3IZmOO3hiBzAuCiqLfyfpg) | 3:23 |
+| 138 | [Atelier](https://open.spotify.com/track/3WP6O7Chbf3ClWMCa2YH5m) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/3IZmOO3hiBzAuCiqLfyfpg) | 3:21 |
 | 139 | [Washing Through](https://open.spotify.com/track/2N5OUmDOpEeQbB7UCrQjy4) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/3IZmOO3hiBzAuCiqLfyfpg) | 3:28 |
 | 140 | [Avant Garde](https://open.spotify.com/track/44xIxRUoRN4ZAcCgHJPhoG) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/3IZmOO3hiBzAuCiqLfyfpg) | 3:58 |
 | 141 | [Aquatic Reflections](https://open.spotify.com/track/5Fav2DgDeP46Ea3TTZhIrs) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/3IZmOO3hiBzAuCiqLfyfpg) | 3:03 |
 | 142 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 
-Snapshot ID: `AcRgNAAAAADXTzpvjvaMkLPyJA5Bu4IU`
+Snapshot ID: `AcRl1AAAAACBt09IWqndp6nMvvvSP5p0`

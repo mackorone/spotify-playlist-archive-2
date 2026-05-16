@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-198 songs - 9 hr 43 min
+199 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Heartaches](https://open.spotify.com/track/0mL4IE9hu1WJEQ85msC57V) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [Heartaches](https://open.spotify.com/album/2zWoYmJNYJe5TBv69BgDuN) | 2:54 | 2025-05-23 | 2026-01-15 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2023-08-07 |  |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-02-02 |  |
+| [Hell Without You](https://open.spotify.com/track/0pXsWaDk9qwUUPnW43ca4i) | [Hi\-Rez](https://open.spotify.com/artist/7CWvyZsjuJlxfM8Le6B9nP), [Jordan Meyer](https://open.spotify.com/artist/6UMKNNn0C2p1b95NenVcMq) | [Hell Without You](https://open.spotify.com/album/6tuFDArQSC2JOF7rVpGlBA) | 4:26 | 2026-05-15 |  |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-08-07 | 2024-04-19 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2024-02-23 | 2026-01-15 |
 | [Hollywood's Bleeding](https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:36 | 2023-08-07 | 2026-01-15 |
@@ -133,7 +134,7 @@
 | [M.I.A](https://open.spotify.com/track/1ZbqMOwnekdRTgN7HIN72l) | [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH), [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [M.I.A](https://open.spotify.com/album/6zYX2mLmLR7ro7eEX4lKGU) | 2:08 | 2025-02-14 | 2025-04-12 |
 | [Make You Stay](https://open.spotify.com/track/27nrdUSV3A2FmnXUUvPnbM) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Some Sad Songs](https://open.spotify.com/album/1ds7LPYGFxM5U8AUA62qp9) | 2:30 | 2025-11-07 | 2026-04-11 |
 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 | 2023-08-07 | 2026-01-15 |
-| [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2023-08-07 |  |
+| [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2023-08-07 | 2026-05-16 |
 | [Me and My Guitar](https://open.spotify.com/track/6cZH4rX1KTt1aJ3Ql6Ynja) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:41 | 2024-02-23 |  |
 | [meant to be](https://open.spotify.com/track/7jkFQSEaJGfteJFj3UdGop) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [meant to be](https://open.spotify.com/album/5Y97acfZ6ZxXQ1WNw2Sivp) | 2:50 | 2025-01-17 |  |
 | [misery loves company](https://open.spotify.com/track/2tOnGO7Nfjp3xRLkQ1STYT) | [GAWNE](https://open.spotify.com/artist/7matqk3epcmZaikm34GB3T) | [misery loves company](https://open.spotify.com/album/6RRgVHVUjIb8XPbyxCKow4) | 2:44 | 2025-01-31 | 2026-01-15 |

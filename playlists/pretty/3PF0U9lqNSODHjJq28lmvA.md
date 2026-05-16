@@ -4,25 +4,24 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,612 likes - 16 songs - 52 min 42 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,613 likes - 15 songs - 58 min 48 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [COP KILLER BLUES](https://open.spotify.com/track/37CYHmTBdTP7LCxDyI46TS) | [Mejeristerna](https://open.spotify.com/artist/27P0zwyOk3CLx4sTBwj1ha) | [COP KILLER BLUES](https://open.spotify.com/album/35qsioaWHuIM1GwYeR0t9o) | 2:23 |
-| 2 | [Hell Of A Ride](https://open.spotify.com/track/7kuUICbKSqSmE6ywfbmoYD) | [Anders Ekblad](https://open.spotify.com/artist/5B4gH5IO4IAyAHag75iNyE) | [Hell Of A Ride](https://open.spotify.com/album/3TSNTBlOElGS2yA3tsFljN) | 3:30 |
-| 3 | [Logging Out](https://open.spotify.com/track/0oP8FltduLiseJu6Fnz6JD) | [Dinner Time](https://open.spotify.com/artist/4wlyzfgVJHCbF3LXiQAjCm) | [DINNER TIME 2](https://open.spotify.com/album/2fJXKVi2gVaCP3s2Zo3NhT) | 3:34 |
-| 4 | [Keep Cool](https://open.spotify.com/track/0odMOfkgQOv9IEYQViviJi) | [Eva sur Seine](https://open.spotify.com/artist/0i67aNTXibb7XIqWuMCmHb) | [Keep Cool](https://open.spotify.com/album/35esutB0p9Cj0rWLUyST01) | 3:20 |
-| 5 | [Sunset](https://open.spotify.com/track/1gM4nlChUuUO45M5eUYPBU) | [Aurealis Reverie](https://open.spotify.com/artist/6sPVGiqmimkAtdAIb7nmXO) | [Sunset](https://open.spotify.com/album/5IsK2UujXwL5dUCzbLOqK6) | 2:56 |
-| 6 | [Whatchuar](https://open.spotify.com/track/3tV0ilRey5A8WcRCtnXuRZ) | [Moni](https://open.spotify.com/artist/2eoOB2sKb3K3RZsiMZ1FJF), [Strascha](https://open.spotify.com/artist/4TCqWEnZeRS8JpCrIn3P4f), [Adelina IV](https://open.spotify.com/artist/7slUYUdnInsJPJQmsSz3Gt) | [Whatchuar](https://open.spotify.com/album/5oNCighYSXbSVKUl0PH61Y) | 2:38 |
-| 7 | [Show Timing](https://open.spotify.com/track/6FXPq0mZidp01CKuyRl9bP) | [Gimme Flo](https://open.spotify.com/artist/2MvrPknmEhCLes2geBDTcV) | [The I \(Red\)](https://open.spotify.com/album/475L1SlExdlk5dthqUoyTL) | 2:31 |
-| 8 | [Not Enough](https://open.spotify.com/track/5GLvp0CIuudVhS5zQn0hF0) | [Fredrik Olén](https://open.spotify.com/artist/4sj8U5GLXlKvAo0BhDqe1O) | [Not Enough](https://open.spotify.com/album/2S7W4OQkTpMfYgl1p96zGp) | 4:13 |
-| 9 | [Comes Love](https://open.spotify.com/track/3BwtF6fRCkJuJYmtit5cxK) | [Ulla Fluur](https://open.spotify.com/artist/3jLzatCzHIGYop5o0pTbTr) | [SECOND TIME AROUND](https://open.spotify.com/album/5GUFC5oEybmycQg0sbTPAJ) | 5:04 |
-| 10 | [Svět bolí](https://open.spotify.com/track/0YqSuOM9QsKbsU6E9xYJBe) | [Claire The Moon](https://open.spotify.com/artist/2lSfNKBvBeqWBFQh4H6vk2), [Andre The Sun](https://open.spotify.com/artist/6uXRimFckTsyuyJfH6Kboz) | [Svět bolí](https://open.spotify.com/album/2Pu2AOv34OHLboic38mqdJ) | 2:35 |
-| 11 | [Four Years Of Ghosts](https://open.spotify.com/track/4eP2dYTBdPWboqobr2KSb6) | [Wild Women Of Wongo](https://open.spotify.com/artist/1fiOQUjxT2JS4LJvSGdKVZ) | [Four Years Of Ghosts](https://open.spotify.com/album/6z10r8qRBy9Y9OGQ4KHHeE) | 3:16 |
-| 12 | [Kun on turva Jumalassa \(Virsi 397\)](https://open.spotify.com/track/3xB1LBjIo705KiUNSMArFG) | [SRK Musiikki](https://open.spotify.com/artist/6z6Xk10dEhbuqo4OcuBuoa) | [Nooan arkki – Musiikki](https://open.spotify.com/album/1DeXCJ64cfTYT0QE3SqLjQ) | 1:33 |
-| 13 | [Violently Silent](https://open.spotify.com/track/4pypuKmebscsVA8CaikDGp) | [Gadget](https://open.spotify.com/artist/0kKZER84faGrJPHtH8NdqH) | [Coerced](https://open.spotify.com/album/0e6A0P4WIe5WajEuAkWXv6) | 2:37 |
-| 14 | [FLYING](https://open.spotify.com/track/5HjoTqLZrZS0AbOCaJiaK3) | [IO/NIC](https://open.spotify.com/artist/0EXL14OfjW0JzFTI42k73z), [SEBRA](https://open.spotify.com/artist/4ZPzM9wehttAnQVn0IG4mY), [Cherie Cherokee](https://open.spotify.com/artist/3aPeVJ4DrzSnzxx3cQfGUp) | [FLYING](https://open.spotify.com/album/4ULcNDrwrmz0ceVHt2mlS7) | 4:13 |
-| 15 | [Screaming Warr](https://open.spotify.com/track/5sThOSBY0pnmsE4Q7410Zr) | [Andre The Sun](https://open.spotify.com/artist/6uXRimFckTsyuyJfH6Kboz) | [Screaming Warr](https://open.spotify.com/album/6nIol9I5XImZCro5gtZ7na) | 4:42 |
-| 16 | [No Limit](https://open.spotify.com/track/1FIVVf836MTzyZ05rmN3x2) | [Gurt](https://open.spotify.com/artist/38LrfVECpYDXHJ1i5FzgAW), [The Hell](https://open.spotify.com/artist/0R7j6Y7EFJ8AcWMjI4XjRb) | [No Limit](https://open.spotify.com/album/5MvsFfNdwEZcOQM86NXSEY) | 3:31 |
+| 1 | [Gas Station](https://open.spotify.com/track/0c7qlP1qMfsO6otTyG4vQJ) | [James C\. Harris](https://open.spotify.com/artist/5wuXurOcFpIo5MSPvI2zLd) | [Gas Station](https://open.spotify.com/album/5kQFDqnngz3YTkHpsZ5l8o) | 5:46 |
+| 2 | [SRL Rhythm \- Reimagined](https://open.spotify.com/track/7mIdPcI2gGjs0ehUD3JsbA) | [loveoleglove](https://open.spotify.com/artist/5M8cwMyfjCKE53X3hdqzB7) | [SRL Rhythm \(Reimagined\)](https://open.spotify.com/album/3mxZkHgJNKhuAVMUSG5acb) | 4:32 |
+| 3 | [Brother of my Enemy](https://open.spotify.com/track/6Z4HOSAVqt61K4gGORuRjE) | [Parallax](https://open.spotify.com/artist/4E5QqPeWrE1H2ecxBzqXR2) | [Karna](https://open.spotify.com/album/7BPMWDWInVYGEeJSbuhr0t) | 6:13 |
+| 4 | [Lizard king \(aldrig för varann\)](https://open.spotify.com/track/6rnvU7mY2VjZpblRup5Gd9) | [Odessa K](https://open.spotify.com/artist/6hunLtgmo7i5cX2QGsQjR7) | [Lizard king \(aldrig för varann\)](https://open.spotify.com/album/2Mjqej3aByKplmfkW6uBGZ) | 3:25 |
+| 5 | [Duvor](https://open.spotify.com/track/5jGS3k5hAu6Yv2VhI6j1iy) | [Nils Albin](https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi) | [Duvor](https://open.spotify.com/album/7HTn5rx1TnAZaiKr2StHiu) | 2:29 |
+| 6 | [Blues Till Vänner](https://open.spotify.com/track/3EeabFRD1osWSP0o2zLHs5) | [Landsväg 76](https://open.spotify.com/artist/26Cv4eMR5XUQWY1xZVjMd1) | [Blues Till Vänner](https://open.spotify.com/album/3zZNjZClSR86pVBypuliuB) | 3:21 |
+| 7 | [Lavender Breeze](https://open.spotify.com/track/3NRuvs5FVWoknhO2mFRKwz) | [Valeria Frattini](https://open.spotify.com/artist/5RkNVwHWnEpdI5vnIcC1P9) | [Lavender Breeze](https://open.spotify.com/album/4O15CkNPSiU4DL7QBr0Vtl) | 3:03 |
+| 8 | [City Boy](https://open.spotify.com/track/7qJ8QEnQBA7NEfcBHYaFtS) | [Timothy Jacob Brown](https://open.spotify.com/artist/0MUBMhxBd1044UUw6dg5mX) | [City Boy](https://open.spotify.com/album/7kAzy6KYvHxdwJa9oRWuAs) | 3:19 |
+| 9 | [Dawn](https://open.spotify.com/track/69noY9i5oUQjaj35il0t7c) | [Dracinda](https://open.spotify.com/artist/2E22V5h9X6XRXbPfLYh20b) | [Dawn](https://open.spotify.com/album/3IEYBmcwi0yU7AlZDzdjzc) | 3:18 |
+| 10 | [One Cold Afternoon](https://open.spotify.com/track/647KYP2Ly6mBao93WVAMfI) | [The Night Parrots](https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo) | [One Cold Afternoon](https://open.spotify.com/album/6Dx2hOvksBd2fFyKqovKhS) | 3:23 |
+| 11 | [SHAKESUM](https://open.spotify.com/track/0fnx8fSv9qtNZhkEBaATs3) | [PWEKEH](https://open.spotify.com/artist/6B8pOmiTugPlGpxmX0JmGn) | [SHAKESUM](https://open.spotify.com/album/33ZBrEAsc5wwwZsUdefFSi) | 3:01 |
+| 12 | [Hiding out](https://open.spotify.com/track/3ovEm5WUG6anjKlVG3uKiU) | [Phil Tindall](https://open.spotify.com/artist/2fRgWrVJxPg4DFEeqNnKIG) | [Hold On, Little Me](https://open.spotify.com/album/211X3GyZTCRYibelxcaGq5) | 4:26 |
+| 13 | [Hylife Soul](https://open.spotify.com/track/3es6i9I5v1l2M87rDrTjPE) | [Hylife Soul](https://open.spotify.com/artist/2d1EyHjkqzCcQCKRH02D6u) | [Message for the Future Generation](https://open.spotify.com/album/2sKzZ1K6t8lChUxro4ENGi) | 4:33 |
+| 14 | [Alas](https://open.spotify.com/track/1TSqTgiMPOgrwhJrImxrkJ) | [Eetee](https://open.spotify.com/artist/5xQ7nhU8bjzlJi1Lfyn1tG), [Paleface](https://open.spotify.com/artist/5CNgBVZXUEEGqyzgjUAgDj), [Laineen Kasperi](https://open.spotify.com/artist/5tZ4tk3tuZXAafP4ColDmA), [Kissa U](https://open.spotify.com/artist/6UH6mjgzvofWA6vKlhZtb2), [Tommy Lindgren](https://open.spotify.com/artist/5zOhiw5KZ3NFfCRZQmCKf3) | [Alas](https://open.spotify.com/album/31ycYIMx8d6a2z8nVzbEF1) | 4:38 |
+| 15 | [UNHOLY](https://open.spotify.com/track/25Y4aovRJnguEVBJ9MRwAQ) | [MOTHER](https://open.spotify.com/artist/436LWqzQmrcjN6iI1WsYJg) | [UNHOLY](https://open.spotify.com/album/5qQIU10DR32QwxlJV7rbLu) | 3:17 |
 
-Snapshot ID: `AAAFn28Ef9xlvdzQCDzmPt15mRS1u9m6`
+Snapshot ID: `AAAFvrmg22eUF+WCGDzLInWs4/LT9qMH`

@@ -4,7 +4,7 @@
 
 > SUMMER SONIC 2026 TOKYOにてSpotify Stageが登場！出演アーティストをプレイリストでチェック。
 
-423 songs - 23 hr 19 min
+425 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [July](https://open.spotify.com/track/4cs68fKzmJPTerjUvumIGl) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [MAKTUB](https://open.spotify.com/album/1VJhOQJIMs0eARPnI2UTyr) | 3:32 | 2024-08-18 | 2025-01-10 |
 | [junkie](https://open.spotify.com/track/4ey3mwkvUkUfssLTX6s3P6) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/0H9sVdN2THowMRs9z4IkeS) | 2:28 | 2025-05-08 | 2026-01-15 |
 | [just try it](https://open.spotify.com/track/0n3Rguk23WlAf4HpYMyyOs) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [the outside wind](https://open.spotify.com/album/39xIFAMfalUllex8wpOkqN) | 4:17 | 2025-08-16 | 2026-01-15 |
+| [Kellogg Means](https://open.spotify.com/track/4cAt0QVSWzZguBTxRtGDHH) | [Dungeoneering](https://open.spotify.com/artist/1cO8gmAHjMQi8OqeNVSZDK) | [Where 2? EP](https://open.spotify.com/album/3wABfYCaNrbWACVgpcCP5O) | 4:46 | 2026-05-15 |  |
 | [Kick Up \(feat\. ralph\)](https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up \(feat\. ralph\)](https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT) | 3:07 | 2024-08-18 | 2025-01-10 |
 | [Kids](https://open.spotify.com/track/6rZYUi0y0gtXTTMUd40B0A) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 2:58 | 2025-08-16 | 2026-01-15 |
 | [Kids](https://open.spotify.com/track/5dhMEDu00uyzUxm17ISNaZ) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Kids](https://open.spotify.com/album/58XUjSZ9pcuH3PaiMiijIl) | 3:03 | 2025-01-09 | 2025-03-19 |
@@ -149,6 +150,7 @@
 | [Love you still](https://open.spotify.com/track/53rDQxTvkfii6736nW2SLz) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 4:23 | 2026-03-19 | 2026-04-25 |
 | [Magnet](https://open.spotify.com/track/7z2eIJkQ1OLkTf1Ga303VK) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Frontier](https://open.spotify.com/album/6q1nEC2UBlCSkaUXCblGyN) | 4:07 | 2025-08-17 | 2026-01-15 |
 | [Meant to Be](https://open.spotify.com/track/3mPJqwKbOikvV9lqng2DJh) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 3:46 | 2026-01-14 | 2026-04-25 |
+| [Mental Water Proof](https://open.spotify.com/track/763Fcep5X7TBgeYBGzmTCk) | [Dungeoneering](https://open.spotify.com/artist/1cO8gmAHjMQi8OqeNVSZDK) | [Where 2? EP](https://open.spotify.com/album/3wABfYCaNrbWACVgpcCP5O) | 5:12 | 2026-05-15 |  |
 | [MINT](https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [MINT](https://open.spotify.com/album/2IpHpoP8dF0bbcvajoe3p3) | 2:21 | 2025-08-17 | 2026-01-15 |
 | [Mirror feat\. JJJ](https://open.spotify.com/track/4Lr07uoYjnqSuKkYfEzceC) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Mirror feat\. JJJ](https://open.spotify.com/album/5zfe2KcqmYnUgB9nE7skjN) | 3:04 | 2024-05-16 | 2025-01-10 |
 | [Miss Luxury](https://open.spotify.com/track/2pPZuMAbrKIxxRCYhhOojm) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Dark Hero](https://open.spotify.com/album/4XbABQzmrgrArI8oHY65Lm) | 4:33 | 2025-08-17 | 2026-01-15 |
@@ -180,7 +182,7 @@
 | [Once Upon a Night](https://open.spotify.com/track/5tu4MtskI177URpGVNJQ7P) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:43 | 2025-01-09 | 2026-01-15 |
 | [Once Upon a Night](https://open.spotify.com/track/6NTOH3wfwoKreU8NNVFoGm) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Once Upon a Night](https://open.spotify.com/album/4gkEIUc6Cph9qvuqCIiZyp) | 3:43 | 2025-01-23 | 2025-03-20 |
 | [One Day](https://open.spotify.com/track/2cIptZ008X2ef7No6g54Px) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Ammolite](https://open.spotify.com/album/4TelhTcG92OqIhegkAFu9w) | 3:42 | 2024-08-18 | 2025-01-10 |
-| [Open Wide](https://open.spotify.com/track/3FyeVXkDnkVem3Oh0To4eq) | [Tokyo Community Radio](https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig), [Albino Sound](https://open.spotify.com/artist/5MK0l7qvi1LxeXOhyUx8m0) | [SESSIONS COLLECTION VOL.3](https://open.spotify.com/album/0D7FhraZXPvUjXjv7BnZfd) | 4:58 | 2026-04-24 |  |
+| [Open Wide](https://open.spotify.com/track/3FyeVXkDnkVem3Oh0To4eq) | [Tokyo Community Radio](https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig), [Albino Sound](https://open.spotify.com/artist/5MK0l7qvi1LxeXOhyUx8m0) | [SESSIONS COLLECTION VOL.3](https://open.spotify.com/album/0D7FhraZXPvUjXjv7BnZfd) | 4:58 | 2026-04-24 | 2026-05-16 |
 | [Organic Thing](https://open.spotify.com/track/3aEKl0iu55SV9TYVXf6yM6) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/6LOKVxFzL25htq0rK4z1oI) | 2:50 | 2025-08-17 | 2026-01-15 |
 | [Overdose](https://open.spotify.com/track/7b4fxkOA4NDr4tDylrb10K) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 3:14 | 2024-05-16 | 2025-01-10 |
 | [P.M\. Sunset](https://open.spotify.com/track/76brxOZ261tmgK6VzMfnYb) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 4:02 | 2025-08-17 | 2026-01-15 |
@@ -254,7 +256,7 @@
 | [Unknown](https://open.spotify.com/track/6gDMRzxKY333Ac85qt3v6i) | [Verses GT](https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Verses GT](https://open.spotify.com/album/312yGi77egGyM5mx9eCyRa) | 4:00 | 2026-04-24 |  |
 | [Unlucky!!](https://open.spotify.com/track/2iJ4eV4mpv7umwdGl1zX8y) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 3:34 | 2026-04-24 |  |
 | [UP](https://open.spotify.com/track/6IJWQxtDgA8KOKHyxFw7JO) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori \- 上り](https://open.spotify.com/album/1o9zSOMYbKWv48zUb50MfY) | 2:01 | 2024-08-18 | 2025-01-10 |
-| [VI](https://open.spotify.com/track/0RtrRjzA7CYyl3qTJDOtmj) | [Daigos](https://open.spotify.com/artist/2E1k7NNNu4SJcMKrGPVVLO) | [桃源郷 \(Tougen\-Kyo\)](https://open.spotify.com/album/4qqMm9s4OGM647BFDVw8yK) | 2:48 | 2026-04-24 |  |
+| [VI](https://open.spotify.com/track/0RtrRjzA7CYyl3qTJDOtmj) | [Daigos](https://open.spotify.com/artist/2E1k7NNNu4SJcMKrGPVVLO) | [桃源郷 \(Tougen\-Kyo\)](https://open.spotify.com/album/4qqMm9s4OGM647BFDVw8yK) | 2:48 | 2026-04-24 | 2026-05-16 |
 | [Visitor](https://open.spotify.com/track/4pblFz5wpV1BIM16fUVfVY) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [TIMELESS](https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg) | 2:42 | 2026-04-24 |  |
 | [WAVEBODY \(feat\. OZworld & LEX\)](https://open.spotify.com/track/4KDuAbtpteWI4a3flG5gMM) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [WAVY TAPE 2](https://open.spotify.com/album/3fKoyG8UntFiwSDWcrRswK) | 3:04 | 2025-05-08 | 2026-01-15 |
 | [What is ×？](https://open.spotify.com/track/7y2ovHbWCiD84HJ5Cg70Ie) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [What is ×？](https://open.spotify.com/album/6MwhfUQaPtzG6Y4G4eTStn) | 3:20 | 2026-03-19 | 2026-04-25 |

@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,150 songs - 3 day 11 hr 8 min
+2,152 songs - 3 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [biddu](https://open.spotify.com/track/0okNWcPCeRw7zO6cuRC9PQ) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [biddu](https://open.spotify.com/album/2zgOy9ngkMQhmJjRJvik3j) | 2:31 | 2023-05-19 | 2023-09-22 |
 | [Big Blue](https://open.spotify.com/track/6gwWEPNLpFAYSvoYVInVqx) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Big Blue](https://open.spotify.com/album/58TIAmKLPN65rfmYejJuDm) | 3:02 | 2023-02-07 | 2023-09-22 |
 | [big buddha](https://open.spotify.com/track/3ctgxH0ZpE50qscnZYBY1H) | [Max Hayward](https://open.spotify.com/artist/7BYvlfn9FHd6YH5eTY93zP) | [big buddha](https://open.spotify.com/album/7o1tcY2UDb2b8ZxHQnSRN5) | 2:28 | 2024-01-05 | 2025-06-07 |
-| [Big Fish](https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Big Fish](https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT) | 2:35 | 2024-09-06 |  |
+| [Big Fish](https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Big Fish](https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT) | 2:35 | 2024-09-06 | 2026-05-16 |
 | [big hoodie](https://open.spotify.com/track/5PwvjbDR69nxBozGgXkz19) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [big hoodie](https://open.spotify.com/album/7aa9V8oczMUeLjINhkBtGd) | 2:26 | 2023-09-01 | 2025-03-01 |
 | [bikerides](https://open.spotify.com/track/5kkqw91HaImxRqwjOpXv5w) | [Mathssiah](https://open.spotify.com/artist/4Qm8xoP2jEHarmxmbX0IVe) | [bikerides](https://open.spotify.com/album/1IgmHfcOWWrXejVQ4lFT4d) | 2:20 | 2022-09-09 | 2024-04-13 |
 | [Bingo](https://open.spotify.com/track/3MZgCaNZZzk3jl4m0k5AsK) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1) | [Currents](https://open.spotify.com/album/1blPnl6EZOKznld3FTN9WS) | 2:25 | 2022-07-29 | 2022-09-30 |
@@ -539,6 +539,7 @@
 | [Driftin' Blues](https://open.spotify.com/track/1fjPX6GXvJ7OQMuIk9jW83) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [Driftin' Blues](https://open.spotify.com/album/3WV5TzmUJ4xuccEY9qOHYB) | 1:49 | 2022-12-23 | 2023-11-11 |
 | [Drifting](https://open.spotify.com/track/6sQEOXvW9JyMiihWyCZv1E) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Drifting](https://open.spotify.com/album/00mz7xgsCHhPWtpJmHmr9U) | 2:00 | 2023-01-13 | 2025-05-24 |
 | [Drifting Minds](https://open.spotify.com/track/2YHRPVJUbhGiBE3y3A9idu) | [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl) | [Drifting Minds](https://open.spotify.com/album/2qSNwcC6V1w0oXAPSHTvYj) | 2:22 | 2022-09-02 | 2022-12-03 |
+| [Driftwood](https://open.spotify.com/track/731zwJtUsukNZwsucOSI1c) | [nat boyce](https://open.spotify.com/artist/3YGcEAKWOuLol94NCdOspi) | [Driftwood](https://open.spotify.com/album/2NHKDzAbt6fl01Wvj7KE67) | 2:05 | 2026-05-15 |  |
 | [Driftwood, Joshua](https://open.spotify.com/track/7LaODCkvOqa2UhpF4ikvlh) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS), [Daniel Mayer](https://open.spotify.com/artist/4WghUXiYqQQdd0yl8VoHL5) | [Nature Between](https://open.spotify.com/album/2dkVr1RCjuPdgOUppIxvqK) | 2:13 | 2022-07-08 | 2022-11-26 |
 | [dripp](https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [dripp](https://open.spotify.com/album/51XMKMY21TwNOv44FS4ZxR) | 2:14 | 2021-12-07 | 2022-09-10 |
 | [Drizzle](https://open.spotify.com/track/4PZ8Fe2fuS7MDn8f8ggnSC) | [silkwürm](https://open.spotify.com/artist/1TkPBaPShLazfcQ6NpRolZ) | [Drizzle](https://open.spotify.com/album/64maOckWHM1t0ofXunnq8o) | 1:38 | 2025-02-14 |  |
@@ -2108,6 +2109,7 @@
 | [wherever you go](https://open.spotify.com/track/4BihRR1aNqljFZ2kVYS6Xq) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [wherever you go](https://open.spotify.com/album/2SGlbnB45alvXoKJ35Lt3M) | 2:27 | 2025-09-18 | 2025-11-15 |
 | [Whiskey For The Night](https://open.spotify.com/track/287jF7I4jnNooiqVh5E2ZU) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Whiskey For The Night](https://open.spotify.com/album/5G51BR88FI4vSSrMHWtQpU) | 1:55 | 2022-05-20 | 2022-09-23 |
 | [Whiskey Ginger](https://open.spotify.com/track/01odH3pfNq6NeksGK1iwbi) | [Tedette](https://open.spotify.com/artist/789CEG7mUkpeQyWvzq8dX8) | [Taz](https://open.spotify.com/album/4I5oLwvVJ8PZMULjDkLvGZ) | 3:51 | 2021-12-07 | 2022-06-03 |
+| [whisper me home](https://open.spotify.com/track/5Xf0awOgjwqBTyRd2PHtUw) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [Lórien Loops](https://open.spotify.com/artist/4obNM3Q6nZn9zpmlzsSdCR), [forever dreaming](https://open.spotify.com/artist/7sFBr3PEjRa5qVSD75VAFZ) | [whisper me home](https://open.spotify.com/album/6uUj9ck0xb3D3IBn8ojlM7) | 1:43 | 2026-05-15 |  |
 | [Whispers](https://open.spotify.com/track/5vwKx1lJxuXNj0j3krceff) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Whispers](https://open.spotify.com/album/2mV7WOez73u5gqldiqZGoA) | 2:04 | 2022-10-07 | 2022-12-24 |
 | [Whispers of the Wind](https://open.spotify.com/track/3E6NfnkawOsv6QEHDVqdlV) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Whispers of the Wind](https://open.spotify.com/album/4vxhhrJEaboZh47GyEfZ00) | 2:13 | 2025-03-21 | 2025-10-09 |
 | [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 | 2023-10-06 | 2025-01-11 |
@@ -2123,7 +2125,7 @@
 | [Windowsills](https://open.spotify.com/track/6flksSGb0Z9WZYXzaRIQaM) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Windowsills & Green Falls](https://open.spotify.com/album/5eAKZzEsLhsiekgFbwONAW) | 2:35 | 2021-12-07 | 2023-02-18 |
 | [Winds of Okinawa](https://open.spotify.com/track/3WqvjDT9Ocf0KbYB3pMdkP) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Winds of Okinawa](https://open.spotify.com/album/5OBsGhwD8uZG6LjwuYdZDB) | 2:12 | 2023-04-20 | 2023-09-08 |
 | [Windy Hill](https://open.spotify.com/track/2gWavxidHzDrRIau3c0K7V) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Windy Hill](https://open.spotify.com/album/2NWxEUFt9lSCHueFaPAfHM) | 2:02 | 2023-02-17 | 2024-08-10 |
-| [Winter Artifacts](https://open.spotify.com/track/3J82z7LudT4vCsgj7GfPVV) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Winter Artifacts](https://open.spotify.com/album/0SFPkBCpXGMR5QshHhvnOI) | 2:39 | 2024-03-01 |  |
+| [Winter Artifacts](https://open.spotify.com/track/3J82z7LudT4vCsgj7GfPVV) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Winter Artifacts](https://open.spotify.com/album/0SFPkBCpXGMR5QshHhvnOI) | 2:39 | 2024-03-01 | 2026-05-16 |
 | [Winter Bossa](https://open.spotify.com/track/4XBqQW5gB7wNfBDgDpnERi) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Winter Bossa](https://open.spotify.com/album/0yDuf6nR3I94uzi9NRsDYJ) | 1:39 | 2022-12-16 | 2023-10-20 |
 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 | 2021-12-07 | 2022-09-10 |
 | [Within](https://open.spotify.com/track/2NJ5taHGDfPkt4OXdGNXO9) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u) | [Within](https://open.spotify.com/album/7qFhXXa7FJTzqgtVrrFAAU) | 1:52 | 2022-07-29 | 2022-09-30 |

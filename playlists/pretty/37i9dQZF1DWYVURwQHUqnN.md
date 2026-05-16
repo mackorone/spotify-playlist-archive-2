@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Jul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,390 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,354 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [J'ai pas d'associé](https://open.spotify.com/track/4KS9smSoCP1EnxWBvMnotT) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Kakouprod](https://open.spotify.com/artist/6g75synhG2eMd0j2228MPR) | [Oubliez\-moi](https://open.spotify.com/album/75ymIEBQv8zZhnKtabtB9C) | 3:55 |
+| 1 | [J'ai pas d'associé](https://open.spotify.com/track/4KS9smSoCP1EnxWBvMnotT) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Oubliez\-moi](https://open.spotify.com/album/75ymIEBQv8zZhnKtabtB9C) | 3:55 |
 | 2 | [Pineapple](https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Pineapple](https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx) | 2:40 |
 | 3 | [Avion de chasse](https://open.spotify.com/track/3dDTJbtHZhsbe426l5Msk1) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Avion de chasse](https://open.spotify.com/album/6oyWoLRcGvrLpjo1BFqAT9) | 2:16 |
 | 4 | [RENÉ CAOVILLA](https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [RENÉ CAOVILLA](https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR) | 2:17 |

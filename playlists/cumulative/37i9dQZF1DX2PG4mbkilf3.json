@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Kuzi Cee from Calgary, AB.",
+  "description": "Your guide to R&B in Canada, with Adria Kain from Toronto, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 145573,
       "name": "365",
       "url": "https://open.spotify.com/track/5Ym0YP8v6OsUFhaBj5fcUL"
@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Always Knew",
+        "url": "https://open.spotify.com/album/0nh2SwG40EW5Tc9uKjCZPa"
+      },
+      "artists": [
+        {
+          "name": "City Fidelia",
+          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134394,
+      "name": "Always Knew",
+      "url": "https://open.spotify.com/track/5uhVaXrNbsQ09kSasfy6mI"
+    },
+    {
+      "album": {
         "name": "Am I Still",
         "url": "https://open.spotify.com/album/2ZE6bfMY4TYQdxivSWMOEp"
       },
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 180000,
       "name": "Away",
       "url": "https://open.spotify.com/track/0bwuidTGMZyJ1XGELGSFjl"
@@ -4893,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "HABIBTI",
+        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179074,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl"
+    },
+    {
+      "album": {
         "name": "claymore",
         "url": "https://open.spotify.com/album/7mLCu2UGDtYKn7T2OMx688"
       },
@@ -5820,7 +5856,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 209323,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/2eVvWWghhpZ4AYynqTX3nl"
@@ -5968,6 +6004,24 @@
       "duration_ms": 161567,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/3UZwtzQHB7OIHBdgaD3sWZ"
+    },
+    {
+      "album": {
+        "name": "D.I.L",
+        "url": "https://open.spotify.com/album/1GYKeOPJqrO00VinLCX9rY"
+      },
+      "artists": [
+        {
+          "name": "RIZ",
+          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163378,
+      "name": "D.I.L",
+      "url": "https://open.spotify.com/track/1OZsDBaniEdJPl2GMMyMxH"
     },
     {
       "album": {
@@ -7195,6 +7249,24 @@
     },
     {
       "album": {
+        "name": "Don't Touch",
+        "url": "https://open.spotify.com/album/744OJG4uYGilk6WU91g7eH"
+      },
+      "artists": [
+        {
+          "name": "Haley Smalls",
+          "url": "https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126780,
+      "name": "Don't Touch",
+      "url": "https://open.spotify.com/track/0dTDi62zZ0fGsCYgJvRdnK"
+    },
+    {
+      "album": {
         "name": "Don't Walk Away",
         "url": "https://open.spotify.com/album/6pjgZeaZ44JQ7fkRCODDHh"
       },
@@ -7550,6 +7622,24 @@
       "duration_ms": 162500,
       "name": "Drive Me Crazy",
       "url": "https://open.spotify.com/track/1pPIpBWyQu3gI2FSkyRiz7"
+    },
+    {
+      "album": {
+        "name": "This Feels Like Home",
+        "url": "https://open.spotify.com/album/7l82loEHQnCq3r8ALghTkS"
+      },
+      "artists": [
+        {
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259540,
+      "name": "Driving Miss Daisy",
+      "url": "https://open.spotify.com/track/5Pw1JjIwTA5pG2M9B8sGOB"
     },
     {
       "album": {
@@ -9002,6 +9092,28 @@
     {
       "album": {
         "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/5TytvTgPl1hJzCwNQJjwLo"
+      },
+      "artists": [
+        {
+          "name": "ROME",
+          "url": "https://open.spotify.com/artist/4hrz9OhxBfTmyNTZmqxm2q"
+        },
+        {
+          "name": "Prod. Dior",
+          "url": "https://open.spotify.com/artist/5QLOODQPj9ibFM4ZwhKY94"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165087,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/1V21CgxQoBxfNJQvgLLnd1"
+    },
+    {
+      "album": {
+        "name": "Figure It Out",
         "url": "https://open.spotify.com/album/4KM1PhBa0e4oYkn3qQ3xGt"
       },
       "artists": [
@@ -9526,7 +9638,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 215586,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/7f78ElYdkfOULTaKV68RLu"
@@ -9574,6 +9686,28 @@
       "duration_ms": 186464,
       "name": "FORTUNATE",
       "url": "https://open.spotify.com/track/4n2y2jCJpQwy1Ywa85oLmA"
+    },
+    {
+      "album": {
+        "name": "HABIBTI",
+        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231879,
+      "name": "Fortworth (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/0F1rlXkOcI1Iqfz9Y3BdO4"
     },
     {
       "album": {
@@ -10384,7 +10518,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 128534,
       "name": "Great Expectations",
       "url": "https://open.spotify.com/track/6pQJTKEbTazGQGGutE3GT6"
@@ -11572,7 +11706,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 239979,
       "name": "Holy",
       "url": "https://open.spotify.com/track/3xGnAOGh61nIxhJlw4M2JL"
@@ -13838,7 +13972,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 170199,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/3RSX7OgnB1vOj0bhxLwnhB"
@@ -21005,6 +21139,24 @@
     },
     {
       "album": {
+        "name": "Playing Games In My Face",
+        "url": "https://open.spotify.com/album/0DWEuAupnl7I5Z42ucjECW"
+      },
+      "artists": [
+        {
+          "name": "OVI WOOD",
+          "url": "https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156603,
+      "name": "Playing Games In My Face",
+      "url": "https://open.spotify.com/track/0zelABkv52ToDhMwl5zsYB"
+    },
+    {
+      "album": {
         "name": "BROKEN",
         "url": "https://open.spotify.com/album/51Sk4Q6DEdE7TgMc1U2nio"
       },
@@ -23006,7 +23158,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 225870,
       "name": "Running From Nothing",
       "url": "https://open.spotify.com/track/5xYGysFGDhSt2775wubs6Z"
@@ -23266,7 +23418,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 152132,
       "name": "Sans voix",
       "url": "https://open.spotify.com/track/7CMwXnkXyHgqcIGNzqOM5q"
@@ -23888,7 +24040,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 196054,
       "name": "Shadows of My Trauma",
       "url": "https://open.spotify.com/track/671m9jOM4sxoNoz5K0Odr6"
@@ -24584,7 +24736,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 205373,
       "name": "Slow (feat. Ana\u00efs Cardot)",
       "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
@@ -24842,7 +24994,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 182150,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/7cdtujPSnz9q2OEOfpaDXj"
@@ -26300,7 +26452,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 186671,
       "name": "Strangers & Lovers",
       "url": "https://open.spotify.com/track/32qStoL8bgahluG1ZbS9EY"
@@ -26358,6 +26510,24 @@
       "duration_ms": 190344,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1HeMmzT6i53MTYFiMODEBD"
+    },
+    {
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/0q3zbKFteQq0ALLU97dZeT"
+      },
+      "artists": [
+        {
+          "name": "Gordon",
+          "url": "https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111585,
+      "name": "STW",
+      "url": "https://open.spotify.com/track/0JyuTdkZdx0uUUS2a0A8O5"
     },
     {
       "album": {
@@ -28572,7 +28742,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 163291,
       "name": "TOO LATE",
       "url": "https://open.spotify.com/track/1lfQeVezs2zGqPUWrVhQ8c"
@@ -31130,6 +31300,24 @@
       "duration_ms": 198058,
       "name": "World In My Hands",
       "url": "https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ"
+    },
+    {
+      "album": {
+        "name": "World's Best Attraction",
+        "url": "https://open.spotify.com/album/0VAhInSzRHidsL3Rn2nzMs"
+      },
+      "artists": [
+        {
+          "name": "Puma June",
+          "url": "https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190078,
+      "name": "World's Best Attraction",
+      "url": "https://open.spotify.com/track/6Dz3iCj5eGFUdq16KiDHvD"
     },
     {
       "album": {

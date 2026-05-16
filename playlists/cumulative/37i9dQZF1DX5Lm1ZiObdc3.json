@@ -2549,6 +2549,40 @@
     },
     {
       "album": {
+        "name": "Muhly: This Other Spring",
+        "url": "https://open.spotify.com/album/3YANTig6NvYbFrf6JztGtZ"
+      },
+      "artists": [
+        {
+          "name": "Nico Muhly",
+          "url": "https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc"
+        },
+        {
+          "name": "Thomas Traherne",
+          "url": "https://open.spotify.com/artist/3me7rdAtfYNykZdzLMWrkz"
+        },
+        {
+          "name": "The Choir of Magdalen College, Oxford",
+          "url": "https://open.spotify.com/artist/1iZZQ9LJg4rERzOzLwjkRW"
+        },
+        {
+          "name": "Drew Sellis",
+          "url": "https://open.spotify.com/artist/40aDgxMZei4ISJVe9a2Gv2"
+        },
+        {
+          "name": "Mark Williams",
+          "url": "https://open.spotify.com/artist/4U0UzHswio6o97a43Feadz"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293346,
+      "name": "This Other Spring",
+      "url": "https://open.spotify.com/track/6V4sQStuJGM3OgRg2kuFyr"
+    },
+    {
+      "album": {
         "name": "Squid Game Music - Classical",
         "url": "https://open.spotify.com/album/21rvDMzF2MPVciUk6jEWby"
       },

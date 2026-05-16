@@ -3379,6 +3379,24 @@
     },
     {
       "album": {
+        "name": "\u0130yile\u015fece\u011fim",
+        "url": "https://open.spotify.com/album/00v0CYn3iF7QsvIE98cqT7"
+      },
+      "artists": [
+        {
+          "name": "Ezgi Ey\u00fcbo\u011flu",
+          "url": "https://open.spotify.com/artist/6kjMT9B9HENP9YDIYXrzpa"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215967,
+      "name": "\u0130yile\u015fece\u011fim",
+      "url": "https://open.spotify.com/track/02758HG3FuHb9YadfpaKge"
+    },
+    {
+      "album": {
         "name": "\u0130zlerim",
         "url": "https://open.spotify.com/album/0Ytzk1Gaw628FXQR4tJOn1"
       },
@@ -4548,7 +4566,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 183151,
       "name": "Sana De\u011fen Ellerim",
       "url": "https://open.spotify.com/track/1aYBSPmq9ORPj1cGCejlUU"

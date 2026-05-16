@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Igor
 
-366 songs - 19 hr 49 min
+368 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Altijd Zo Geweest](https://open.spotify.com/track/4PdGpIDpf6HYwUp0zqG3ij) | [geosy](https://open.spotify.com/artist/3nS38ibeuCXkxnkUiQ3ne5) | [Altijd Zo Geweest](https://open.spotify.com/album/1QmypkSJqw08Y8Mp2loG9d) | 2:57 | 2024-07-01 | 2024-09-17 |
 | [And sleeple$$ night$](https://open.spotify.com/track/7f801V8AjQlIzPs685kvYC) | [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [And sleeple$$ night$](https://open.spotify.com/album/7KvvAU1rN3AfhaqlA6zH9V) | 2:17 | 2025-05-07 | 2025-05-09 |
 | [April](https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk) | [RubinCarter](https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn) | [Still In The Race](https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj) | 2:43 | 2026-05-11 |  |
-| [Are You Still Sad?](https://open.spotify.com/track/1KRdjt2jijCnRj7HjvuPmd) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [Are You Still Sad?](https://open.spotify.com/album/5CbSQeKzlBtgSQN8NUOshS) | 3:57 | 2026-05-11 |  |
+| [Are You Still Sad?](https://open.spotify.com/track/1KRdjt2jijCnRj7HjvuPmd) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [Are You Still Sad?](https://open.spotify.com/album/5CbSQeKzlBtgSQN8NUOshS) | 3:57 | 2026-05-11 | 2026-05-16 |
 | [Autofellatio](https://open.spotify.com/track/5g2gu1yzJ3jYQuIdEfWD3P) | [Fellatio](https://open.spotify.com/artist/6ZZjX94x3t55GigdSiidr4) | [Autofellatio](https://open.spotify.com/album/6obAqJ7a59OwnG9TcYnusf) | 2:44 | 2025-05-07 | 2026-05-12 |
 | [Aşkım Benim](https://open.spotify.com/track/45nk1gm67eO6KZimMZyFzK) | [Kemal](https://open.spotify.com/artist/1p3p2Usiclg9GN1OE13td5) | [Aşkım Benim](https://open.spotify.com/album/20ZtTOtyoQCE9XJnatqIKI) | 3:08 | 2025-05-07 | 2026-05-12 |
 | [BAD CHI \- Single Version](https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK) | [Kidd Nebula](https://open.spotify.com/artist/3ub4ZKV3rL12fXn8LzIhk4) | [BAD CHI](https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW) | 3:43 | 2026-05-11 |  |
@@ -84,7 +84,7 @@
 | [Digital Prison](https://open.spotify.com/track/5kzyEwUCdjtLu7I8sefDu3) | [Eyesores](https://open.spotify.com/artist/1ZX6BVHmO2euWv2YrcHPks) | [They Want To See You Fall](https://open.spotify.com/album/0FRCYsUqmSaPQfCzmxWxOM) | 2:22 | 2026-05-11 |  |
 | [Dimes To Call](https://open.spotify.com/track/0lGqDniVUCQvNJ2ufF3QBd) | [Moon Jacky Jane](https://open.spotify.com/artist/0T7wdpMq0CIzTJBdTOCaov) | [Dimes To Call](https://open.spotify.com/album/23JcDLSvzBp7JMDwA4DFWS) | 3:12 | 2025-05-07 | 2025-09-05 |
 | [Dit Gaat Pijn Doen](https://open.spotify.com/track/2CTfVMR4Uayoge0b2gl60g) | [BERBER](https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP) | [Dit Gaat Pijn Doen](https://open.spotify.com/album/1Gt7ItM4BmcpjupLhMahcv) | 3:15 | 2025-09-16 | 2026-05-12 |
-| [DND](https://open.spotify.com/track/0qEVPzmM6ObwAVx7US2hCR) | [Nyarko](https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM) | [DND](https://open.spotify.com/album/4okBJjcENmo4UG8IoDTRif) | 2:58 | 2026-05-11 |  |
+| [DND](https://open.spotify.com/track/0qEVPzmM6ObwAVx7US2hCR) | [Nyarko](https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM) | [DND](https://open.spotify.com/album/4okBJjcENmo4UG8IoDTRif) | 2:58 | 2026-05-11 | 2026-05-16 |
 | [Do It Again](https://open.spotify.com/track/1dXuxe3An6KGPlItvzPSKw) | [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks) | [Do It Again](https://open.spotify.com/album/0eVsCtQAuxLdQNvnDCcgm9) | 4:45 | 2025-09-30 | 2026-05-12 |
 | [Dom Doen](https://open.spotify.com/track/6fWOe3X6TtsOcBjmE38bSk) | [Hiltje](https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8) | [Dom Doen](https://open.spotify.com/album/2WMtQfA6ZHRhdVTYL904tq) | 2:06 | 2025-07-16 | 2025-11-29 |
 | [Don't Lie](https://open.spotify.com/track/0EAlSRLB5OFIlkb7gQ0uNG) | [Ruby Mus](https://open.spotify.com/artist/4vrrj171i0T2GiOxopjLp5) | [Don't Lie](https://open.spotify.com/album/432UUkz71P3s8Ab78zhyzg) | 2:03 | 2025-09-30 | 2026-05-12 |
@@ -151,6 +151,7 @@
 | [I Can't See You Cry](https://open.spotify.com/track/13ygd4WBVxsQBgSz3yVX5j) | [Baba Pen & The Bim Bam Band](https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9) | [I Can't See You Cry](https://open.spotify.com/album/4woyrDlazhtMd3HRTTPkw0) | 2:46 | 2025-05-07 | 2025-07-17 |
 | [I Don't See You Anymore](https://open.spotify.com/track/2fy3i79pKzIAfuagk7lHPj) | [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks), [Chris Sigl](https://open.spotify.com/artist/5bo6pQQsgmpE3dB7ZxtXot) | [I Don't See You Anymore](https://open.spotify.com/album/3IrIOwX7joYPa1AAP6HmJG) | 2:12 | 2025-05-07 | 2025-09-05 |
 | [I Don’t Want To!](https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I Don’t Want To!](https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1) | 2:59 | 2024-10-21 | 2025-05-08 |
+| [I Never Wanna Be In Love](https://open.spotify.com/track/0qQ5LD2CBmsGYbGFMXHr9h) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [I Never Wanna Be In Love](https://open.spotify.com/album/2hZg4yKNAzAVIPJZmBhMtz) | 3:27 | 2026-05-15 |  |
 | [I Won't Back Down](https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF) | [Lisa Ploeger](https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh) | [I Won't Back Down](https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu) | 3:19 | 2025-05-07 | 2026-05-12 |
 | [Iemand Anders](https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Iemand Anders](https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL) | 3:50 | 2025-05-07 | 2026-05-12 |
 | [If/When](https://open.spotify.com/track/3mhKG8cpVd13TWOlhixHUa) | [Flora Sophi](https://open.spotify.com/artist/6uQxXBGiZTiuUJm0oFd4LS) | [If/When](https://open.spotify.com/album/2BpntQ9nmdqzdx5qLM7ncM) | 4:36 | 2025-05-07 | 2026-05-12 |
@@ -356,6 +357,7 @@
 | [WAS DIT ALLES?](https://open.spotify.com/track/2Aw00zuz5TT0etL5L8rKuO) | [GIB](https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h) | [WAS DIT ALLES?](https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn) | 2:12 | 2026-05-11 |  |
 | [Way Out](https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt) | [Wilson A.](https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2) | [Way Out](https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8) | 3:11 | 2026-05-11 |  |
 | [Way Too Deep](https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Way Too Deep](https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV) | 2:37 | 2024-07-01 | 2025-05-08 |
+| [Wele Wele](https://open.spotify.com/track/4t4P6Gq8EUHlFpC5PpgJnq) | [Nyarko](https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM) | [Wele Wele](https://open.spotify.com/album/330AsVNPy0sX1QlX77bEe9) | 2:33 | 2026-05-15 |  |
 | [What a Wonderful World](https://open.spotify.com/track/1hnXiW3Lh7SPqcH3MeEJcp) | [Mara Mandeau](https://open.spotify.com/artist/6KAZIEBYwN4L1GIQdxN0AZ) | [One Night Off \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/43FSaLI1u2FKReuoCWN2ew) | 2:55 | 2025-05-07 | 2025-09-05 |
 | [Where To Go](https://open.spotify.com/track/6xKKBbIWCnWB0SYcFrNCGY) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Dream Big](https://open.spotify.com/album/4wWjPHLH59SIBcjKj48FED) | 3:05 | 2024-10-21 | 2025-05-08 |
 | [Who Cares](https://open.spotify.com/track/2vo7TmDTMByXd7iDCOmxLl) | [Zoë Low](https://open.spotify.com/artist/7suO7fpI2Z4B1Ok40mvkec) | [Out of My Head](https://open.spotify.com/album/77YE28SfKqKjMdAOC9ubkm) | 3:20 | 2024-07-01 | 2024-09-17 |

@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 196899,
       "name": "About You",
       "url": "https://open.spotify.com/track/2ssYQKMqVUkoQgi02PmDPB"
@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 147786,
       "name": "Aces High (feat. Serayah)",
       "url": "https://open.spotify.com/track/06gkJcXenvimOD3Bme9nFA"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 185645,
       "name": "All I Want - From \u201cStar\u201d Season 2",
       "url": "https://open.spotify.com/track/3DXhdfi3qt6Mn8OAojIezA"
@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 293733,
       "name": "All Things Go",
       "url": "https://open.spotify.com/track/1lW62Z2BOtL2xl3PR68AEk"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 149528,
       "name": "Alone (From \"Songland\")",
       "url": "https://open.spotify.com/track/6k3uSJ2OsGr0tQAIPhXNkS"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 206746,
       "name": "Always",
       "url": "https://open.spotify.com/track/1MVP32Lab4ANXONxtGxOL2"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 268626,
       "name": "Always Be Together",
       "url": "https://open.spotify.com/track/37kFlpLhkRrPA1AQ8ZAyqb"
@@ -242,7 +242,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 208689,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/0AOEd0Zw22aTE8LzsS4EMg"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 238288,
       "name": "At Night (feat. Liz Elias and Akon)",
       "url": "https://open.spotify.com/track/2rkkvOdTrl3IY4ma1OqjeU"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 228714,
       "name": "Be Nice",
       "url": "https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 194328,
       "name": "Be Somebody (From \"Songland\")",
       "url": "https://open.spotify.com/track/0IZORaeeYTMFfGEPe6allf"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 227320,
       "name": "Beautiful Sinner",
       "url": "https://open.spotify.com/track/7rckdz1lRk0xXOlm2W2DCi"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 214826,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5UCNw4KXrmL86EWZyfR7wL"
@@ -384,10 +384,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 172371,
       "name": "Better Luck Next Time",
       "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/18r1yGUJUNHXYj1DQU0qIE"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Sheryl Lee Ralph",
+          "url": "https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222866,
+      "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/3Etazu3419JUzA1TbIRdm7"
     },
     {
       "album": {
@@ -424,7 +446,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 185069,
       "name": "Champagne Night - From Songland",
       "url": "https://open.spotify.com/track/48F2xnWq3LuzYWML327Z2r"
@@ -464,7 +486,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 231986,
       "name": "Come & Get It",
       "url": "https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF"
@@ -518,7 +540,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 219598,
       "name": "Crazy Youngsters - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/4epaMtVDYg7MMVBGzEjkmh"
@@ -536,7 +558,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 150759,
       "name": "Crowded Places (\"From Songland\")",
       "url": "https://open.spotify.com/track/2Z8LY7VxDOwm3lPvTOE2kR"
@@ -558,7 +580,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 160031,
       "name": "Crush (From \"Songland\")",
       "url": "https://open.spotify.com/track/5cDK6gZ5E7OUfI3Sl1DIgs"
@@ -576,7 +598,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 223040,
       "name": "Dancing In The Dark - From The \"Home\" Soundtrack",
       "url": "https://open.spotify.com/track/3nlVjrlLMJHC7Flf9impf9"
@@ -612,7 +634,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Dis Old Man",
       "url": "https://open.spotify.com/track/52AnLt1VOB8Ocofefs03V1"
@@ -630,7 +652,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 151316,
       "name": "Do You Think Of Me? (From \"Songland\")",
       "url": "https://open.spotify.com/track/3vYIHk7odRFC7VNGjvF61G"
@@ -704,7 +726,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 122147,
       "name": "Everything But You",
       "url": "https://open.spotify.com/track/7fQ84OSpGmPr4ioneo8B82"
@@ -722,7 +744,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 187534,
       "name": "Everything I Did to Get to You (from Songland)",
       "url": "https://open.spotify.com/track/7jnHuJ0HDcAYt7Anv77h4X"
@@ -740,7 +762,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 256506,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/7dBwdlk3s6BSEtm2GuijHO"
@@ -776,7 +798,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 158779,
       "name": "Flame",
       "url": "https://open.spotify.com/track/4menArgtu2QyKU36ngRguV"
@@ -802,7 +824,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 90829,
       "name": "Flick of the Wrist",
       "url": "https://open.spotify.com/track/0A5oSPQs2rBBfrz871OqAc"
@@ -820,7 +842,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 255853,
       "name": "Fool In Love",
       "url": "https://open.spotify.com/track/6ikk2CSM0lLh4WpY3qH7IA"
@@ -838,7 +860,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 204290,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/2g7Ey0Cm30PLdrU6FbUX1f"
@@ -856,7 +878,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 162653,
       "name": "Forever",
       "url": "https://open.spotify.com/track/61GDVFUzCG4U85dZ8trvEc"
@@ -896,7 +918,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 173613,
       "name": "Get My Dough",
       "url": "https://open.spotify.com/track/5HnbGdPRLGBJmq6tPlXHIv"
@@ -918,7 +940,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 158776,
       "name": "Getting Started (Hobbs & Shaw)",
       "url": "https://open.spotify.com/track/1IEH2N8txrWCakbVBy2jcY"
@@ -936,7 +958,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 213213,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5TI9vxJAI5K069uic9AmTq"
@@ -954,7 +976,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 195317,
       "name": "Girls Like Me (From Songland)",
       "url": "https://open.spotify.com/track/7mAEhhFuvOYmPhIUPrPeSo"
@@ -972,7 +994,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 135443,
       "name": "Give It To You (from Songland)",
       "url": "https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov"
@@ -1016,7 +1038,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 116013,
       "name": "Gooder Than A Mother - From \u201cStar (Season 1)\" Soundtrack",
       "url": "https://open.spotify.com/track/10JigDWurMYwXpbtGOrZzd"
@@ -1064,7 +1086,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 234013,
       "name": "Gotta Get Up",
       "url": "https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1"
@@ -1082,7 +1104,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 259105,
       "name": "Grand Piano",
       "url": "https://open.spotify.com/track/70CYAL35X3T73qVStJNpZ2"
@@ -1100,7 +1122,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 180400,
       "name": "Greenlight - From \"Songland\"",
       "url": "https://open.spotify.com/track/5HgbcQFIHjNcn46w8ORwhu"
@@ -1118,7 +1140,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 168133,
       "name": "Hands All Over You",
       "url": "https://open.spotify.com/track/3y0gDviUH3fKqAiGdK7lCf"
@@ -1136,7 +1158,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 217106,
       "name": "He Like That",
       "url": "https://open.spotify.com/track/7IQwT5VzrCo7UcMRljkkmR"
@@ -1190,7 +1212,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 109226,
       "name": "Hero (From \"Songland\")",
       "url": "https://open.spotify.com/track/28mZvKQkRIRsC4rov4eMqo"
@@ -1220,7 +1242,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 192560,
       "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
       "url": "https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm"
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 148506,
       "name": "Hit It From The Back",
       "url": "https://open.spotify.com/track/68Ghe54c1dBAD3ygRW5IKR"
@@ -1296,7 +1318,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 167488,
       "name": "HOW COULD YOU NOT KNOW",
       "url": "https://open.spotify.com/track/6zteHvoa7AnyI9gjeRT49R"
@@ -1314,7 +1336,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 200655,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY"
@@ -1408,7 +1430,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 304146,
       "name": "I Lied",
       "url": "https://open.spotify.com/track/6pdIwUDwQzoz9ENNsPKqDM"
@@ -1444,7 +1466,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 246120,
       "name": "I Love You This Big",
       "url": "https://open.spotify.com/track/3wtKovRRtvu6wbTjeKA26Q"
@@ -1462,7 +1484,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 211733,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/32rbXXATG6keHt8tcVieuX"
@@ -1480,7 +1502,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 227005,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/6GciucEjChWvkyxUGlN09o"
@@ -1516,7 +1538,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 240440,
       "name": "I'm Falling",
       "url": "https://open.spotify.com/track/4CT2U94uViftUjk9Rbi6CX"
@@ -1538,7 +1560,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 198053,
       "name": "I'm Legit",
       "url": "https://open.spotify.com/track/11a6GzsfPoLY1bVw3IFeMs"
@@ -1560,7 +1582,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 220853,
       "name": "In My City",
       "url": "https://open.spotify.com/track/2Ry6arkPobqjO7skQBJoUb"
@@ -1604,7 +1626,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 185733,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/1zBBo7indT2foQGQUoloWj"
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 300373,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0gFB5H3pHN13ERt2FyMuWi"
@@ -1640,7 +1662,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 228346,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/4efkPzvYnjnJeVHYlCErmS"
@@ -1658,7 +1680,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 162725,
       "name": "Judgements (From \"Songland\")",
       "url": "https://open.spotify.com/track/2RLKK69LfFac9PUPLUGu32"
@@ -1720,7 +1742,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 242773,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/5ONSnkCFCdVP7Xh1CQAg95"
@@ -1750,7 +1772,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 197813,
       "name": "Let It Grow - From \"Dr. Seuss' The Lorax\"",
       "url": "https://open.spotify.com/track/5BWbhDZB3TJgF7hb2TlTIG"
@@ -1794,7 +1816,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 240480,
       "name": "Letter To My Son",
       "url": "https://open.spotify.com/track/1ztp8ohDWKgTq8rdhAlcHi"
@@ -1842,7 +1864,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 225616,
       "name": "Light My Body Up (feat. Nicki Minaj & Lil Wayne)",
       "url": "https://open.spotify.com/track/3vgNmjuRDnGLxUFGCLkwpm"
@@ -1882,7 +1904,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 195081,
       "name": "Long & Lost",
       "url": "https://open.spotify.com/track/55zTc30BLHsy3HJOspZ96K"
@@ -1926,7 +1948,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 167269,
       "name": "Long Way Home - The Voice Performance",
       "url": "https://open.spotify.com/track/5pzz0LCOW7mGghYDCRDA6H"
@@ -1944,7 +1966,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 161967,
       "name": "Lookin' Up (From \"Songland\")",
       "url": "https://open.spotify.com/track/0gJHtHSwr5VgA1EXbVT177"
@@ -1980,7 +2002,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 215413,
       "name": "Lost In Paradise",
       "url": "https://open.spotify.com/track/0coJqb1j6Ym9OMz2i2MuyC"
@@ -2002,7 +2024,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 215173,
       "name": "Love And War",
       "url": "https://open.spotify.com/track/4EmF2ApQBf996DrHIi2OGp"
@@ -2046,7 +2068,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 178515,
       "name": "love gang (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/3jjUphDBlbPzWD3Ft3tya1"
@@ -2064,7 +2086,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 128215,
       "name": "Love Struck (From Songland)",
       "url": "https://open.spotify.com/track/5bXNCPNdgTSYbA9NECTOLk"
@@ -2104,7 +2126,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 221453,
       "name": "Lovin' So Hard",
       "url": "https://open.spotify.com/track/5EnCFISDzoIMWMaicJxxX9"
@@ -2140,7 +2162,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 148092,
       "name": "Lying (Next To You) (From \"Songland\")",
       "url": "https://open.spotify.com/track/1Af0BvG8ATUwOuONIvXgFs"
@@ -2194,7 +2216,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 152379,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2"
@@ -2212,7 +2234,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 232520,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/7CHIJREUYyM7vndBQE6iMy"
@@ -2282,7 +2304,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "No Money No Love (feat. Elliphant & Ms. Dynamite)",
       "url": "https://open.spotify.com/track/5I1QXv0dEydyRIPOo2MO9l"
@@ -2362,7 +2384,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 219648,
       "name": "Perfect Skin (From \"Songland\")",
       "url": "https://open.spotify.com/track/7oUvdezBuPiU9Ohpp2aiZH"
@@ -2384,7 +2406,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 154893,
       "name": "PICK ME UP",
       "url": "https://open.spotify.com/track/7xzFF439eBRpYKrMuDhiRL"
@@ -2402,7 +2424,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 173653,
       "name": "Pill for This (from Songland)",
       "url": "https://open.spotify.com/track/7IQlF0sWkkztpejeIKnftW"
@@ -2420,7 +2442,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 268000,
       "name": "Pills N Potions",
       "url": "https://open.spotify.com/track/0nnRUsgfm4uQUYTCIH9NZy"
@@ -2456,7 +2478,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 251373,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/4kvX7vpWzQ2dsLkpDKFxXA"
@@ -2504,7 +2526,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 181626,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/42Ow7PS3YtCWplolUUigDo"
@@ -2540,7 +2562,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 193250,
       "name": "Right to Fall",
       "url": "https://open.spotify.com/track/3f4JF1zg5YHta5qnfGwU53"
@@ -2558,7 +2580,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 209266,
       "name": "Roc Me Out",
       "url": "https://open.spotify.com/track/2V4mS5qU1zIrlL9IdpTeJA"
@@ -2594,7 +2616,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 183893,
       "name": "Same Blood",
       "url": "https://open.spotify.com/track/6no2TiaMDBkI5Mo6yssV4X"
@@ -2612,7 +2634,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Second Guessing - From Songland",
       "url": "https://open.spotify.com/track/08IV5RiD02METcqtfzDeqj"
@@ -2652,7 +2674,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 177965,
       "name": "Shadow (feat. IRO) - From Songland",
       "url": "https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB"
@@ -2692,7 +2714,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 189080,
       "name": "She Lovin It",
       "url": "https://open.spotify.com/track/1jQjQZXwyPfwimdPRMm7MB"
@@ -2732,7 +2754,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 203960,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3qk4wRMDlaeagZGjSYbsOV"
@@ -2780,7 +2802,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 172813,
       "name": "Solo Quiero (Somebody To Love) - From Songland",
       "url": "https://open.spotify.com/track/0eXEFvCwPFyGNo8SOSn0fB"
@@ -2798,7 +2820,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 181408,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/2z8S9ARUXOXWT9h0PdF4yP"
@@ -2816,7 +2838,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 217600,
       "name": "Something New (From \"Songland\")",
       "url": "https://open.spotify.com/track/50Bj5QzuSCCVK5RQVTZ1lq"
@@ -2834,7 +2856,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 164783,
       "name": "Somewhere in Vegas",
       "url": "https://open.spotify.com/track/305JUOn2scJ85yXmf2zT2G"
@@ -2892,7 +2914,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 210285,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/1SZ5EEmCQ03fRAHnFNYW8N"
@@ -2950,7 +2972,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 147360,
       "name": "Sway - From Songland",
       "url": "https://open.spotify.com/track/0GGlWxiq7PLzAFlqDvbuvh"
@@ -2972,7 +2994,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Talk That Talk",
       "url": "https://open.spotify.com/track/4MPEYbqv4tAuLagNNmukjy"
@@ -2994,7 +3016,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 147386,
       "name": "That Girl (feat. Saweetie)",
       "url": "https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP"
@@ -3016,7 +3038,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 194164,
       "name": "That High (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/0zbAkytd9gbRmWpmri6BbF"
@@ -3034,7 +3056,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 144841,
       "name": "That Old Man",
       "url": "https://open.spotify.com/track/1R49uUrptd2LP3VGern97l"
@@ -3060,7 +3082,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 238762,
       "name": "That's How I'm Feelin' (feat. Pitbull & Missy Elliott)",
       "url": "https://open.spotify.com/track/6VKCyfMweQ2qQqNWOgUjU0"
@@ -3114,7 +3136,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 227560,
       "name": "The Night Is Still Young",
       "url": "https://open.spotify.com/track/75u9uswC5UMdtv4SQ3xSYf"
@@ -3172,7 +3194,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 228559,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/594trlRjNdTyYLwIlcDaJM"
@@ -3194,7 +3216,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 207272,
       "name": "This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)",
       "url": "https://open.spotify.com/track/46NBoIAHrmR7qcUGCIFEjR"
@@ -3212,7 +3234,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 188653,
       "name": "This Time",
       "url": "https://open.spotify.com/track/015u66hoqqhwIPyKGGFItg"
@@ -3252,7 +3274,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 192106,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
@@ -3270,7 +3292,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 199580,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/1Vv0MPcooEoQzVZYfKMgKW"
@@ -3306,7 +3328,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 157080,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
@@ -3324,7 +3346,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 183560,
       "name": "Va Va Voom",
       "url": "https://open.spotify.com/track/2jATUzETZL49e6SywauZKE"
@@ -3360,7 +3382,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 242080,
       "name": "Voir la nuit s'emballer",
       "url": "https://open.spotify.com/track/7n3FfSmWKuzeStLNzSqL7g"
@@ -3378,7 +3400,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 237013,
       "name": "We All Want Love",
       "url": "https://open.spotify.com/track/18YSXhCY2w86t7yK1Hp7YB"
@@ -3396,7 +3418,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 189386,
       "name": "We Are - From \"Ice Age: Continental Drift\"/Theme",
       "url": "https://open.spotify.com/track/6ackm07YejQB4DwuSRjFvR"
@@ -3414,7 +3436,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 205573,
       "name": "We Got The Power",
       "url": "https://open.spotify.com/track/6MW4ahXNEHaIUZ2cdSaslK"
@@ -3432,7 +3454,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "We Got Us (From \"Songland\")",
       "url": "https://open.spotify.com/track/0atHkREVqo4abF3jq0Zpi6"
@@ -3450,7 +3472,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 159346,
       "name": "We Need Love - from Songland",
       "url": "https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI"
@@ -3512,7 +3534,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 160236,
       "name": "When You Fall In Love (From \"Songland\")",
       "url": "https://open.spotify.com/track/60CYf9qYZKMlvTTPDhZmap"
@@ -3530,7 +3552,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 242680,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/1uN0f4NqMDcReSwXO6PLuG"
@@ -3552,7 +3574,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 153786,
       "name": "Wide Open (feat. Ester Dean)",
       "url": "https://open.spotify.com/track/6ovEssKNR2OuwFdFMgNWWA"
@@ -3570,7 +3592,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 218596,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/1EW5E4ZXhoQTUBV7gjttJL"
@@ -3610,7 +3632,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 197727,
       "name": "Wrong Places (from Songland)",
       "url": "https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS"
@@ -3628,7 +3650,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 200013,
       "name": "You Da One",
       "url": "https://open.spotify.com/track/4FJ50kkBvVzJte01d6Gtt8"
@@ -3646,7 +3668,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 185933,
       "name": "Young - From \"Songland\"",
       "url": "https://open.spotify.com/track/7nzxQacflIozCTLTiBl4JB"

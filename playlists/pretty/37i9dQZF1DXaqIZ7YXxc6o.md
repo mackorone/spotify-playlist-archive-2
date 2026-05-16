@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Mell Hall
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,066 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,080 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 15 | [Forever](https://open.spotify.com/track/1ymIM4nUVE2IDbmMjgBWoT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Forever](https://open.spotify.com/album/6MAjiisN6QMWW8lHbsyIb3) | 3:31 |
 | 16 | [Cool Star \- FILLY & atlgrandma Remix](https://open.spotify.com/track/2R4CB3nlmQz6im1McbJegz) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR), [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [atlgrandma](https://open.spotify.com/artist/359MsXnylhLWcIP444SEAu) | [Cool Star \(FILLY & atlgrandma Remix\)](https://open.spotify.com/album/4cfiqAFHc5zMc6nQFTy5pU) | 2:43 |
 | 17 | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg) | 2:23 |
-| 18 | [Dracula \- JENNIE Remix \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(JENNIE Remix \- Boys Noize Disko Version\)](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:01 |
+| 18 | [Dracula \- JENNIE Remix \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(JENNIE Remix \- Boys Noize Disko Version\)](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 |
 | 19 | [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 |
 | 20 | [Another Life](https://open.spotify.com/track/2JFuRLC2Og0YaMAB2Lq47u) | [Kaikobad](https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az) | [Another Life](https://open.spotify.com/album/2iLBIRq4QOWhSz2kSxSPGD) | 2:48 |
 | 21 | [Nirvana](https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [sadMONTH](https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9) | [Nirvana](https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI) | 3:00 |

@@ -21595,6 +21595,24 @@
     },
     {
       "album": {
+        "name": "\u9ece\u660eCompass",
+        "url": "https://open.spotify.com/album/4SQX5uyepgRkDDb6hUUCRB"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204466,
+      "name": "\u9ece\u660eCompass",
+      "url": "https://open.spotify.com/track/2OYoDq2WkF8g2i1WxrsgrT"
+    },
+    {
+      "album": {
         "name": "&SPRINT (Deluxe ver.)",
         "url": "https://open.spotify.com/album/77StVOdnNzsN4BAU98cuir"
       },

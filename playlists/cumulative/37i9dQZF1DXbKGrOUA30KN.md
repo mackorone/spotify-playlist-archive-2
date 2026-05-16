@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Wilhelmine
 
-522 songs - 23 hr 26 min
+522 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Hätte nie gedacht](https://open.spotify.com/track/5LBYCl7c7B8T57zXDlrYnx) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Hätte nie gedacht](https://open.spotify.com/album/3auZbOiuGozCgxz1NM81M0) | 2:47 | 2026-02-05 | 2026-03-20 |
 | [ich brauch dich.](https://open.spotify.com/track/1s4T9OQo5ffusLx3KEN1Sq) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [ich brauch dich.](https://open.spotify.com/album/0uH1HmKWnNiFsSmcoPCEkg) | 2:26 | 2025-11-06 | 2026-01-30 |
 | [ich dich auch <3](https://open.spotify.com/track/28yuOJf8EYSpW17tYeDvBD) | [Charlotte Kudella](https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg) | [ich dich auch <3](https://open.spotify.com/album/1djXO1sknHyZvQ4oMEUx6D) | 2:45 | 2026-01-22 | 2026-02-13 |
+| [ich gebe alles](https://open.spotify.com/track/5t201vMU4MTLtWeCBOBNRZ) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [nur Mut](https://open.spotify.com/album/0R0MoBwi0gobIp6s1Nybrd) | 3:10 | 2026-05-14 |  |
 | [ICH HAB'S GUT, ICH HAB DICH](https://open.spotify.com/track/4YRZjTbW4ZKJvlKkxDNSZm) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [ICH HAB'S GUT, ICH HAB DICH](https://open.spotify.com/album/0HwmC3bl3rmAWjUh2yevdm) | 2:25 | 2025-10-24 | 2026-01-30 |
 | [Ich hoff](https://open.spotify.com/track/1taMWidwpvYK54tseGqXcH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Ich hoff](https://open.spotify.com/album/5AQKC9RMfb6b0KSI6GbhQy) | 2:26 | 2025-10-24 | 2025-11-07 |
 | [ich hör dir immer zu](https://open.spotify.com/track/7atmNWMSMx9IGAxIjpfmTD) | [Nico Onur](https://open.spotify.com/artist/1HCkDfRlNOYkLntyxtwyDI) | [alles geht vorbei und wird erinnerung](https://open.spotify.com/album/6ca7678c0jYtjRRmWSHYJF) | 2:49 | 2025-11-13 | 2025-12-19 |
@@ -416,6 +417,7 @@
 | [Sonntag](https://open.spotify.com/track/7hYLmwd4kC6ubbggdNMtEB) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Sonntag](https://open.spotify.com/album/7tIPudUGi1a7cjPiHCR7py) | 3:21 | 2025-10-24 | 2025-11-28 |
 | [SOS](https://open.spotify.com/track/55Jya1xLHDYLvqLjej3SOu) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [SOS](https://open.spotify.com/album/5kP2NaqCVPs5xuQCEPfkRy) | 2:13 | 2025-11-13 | 2026-01-02 |
 | [Spiegelbild](https://open.spotify.com/track/5s9NBtJ9iBoXdxNpt8b95w) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Spiegelbild](https://open.spotify.com/album/1dz0p7G7H5J6emAIVll695) | 2:37 | 2025-10-30 | 2025-12-05 |
+| [spieglein](https://open.spotify.com/track/07NhhkTJgIFS0ZrC847dEb) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [eine kleine nacht ep](https://open.spotify.com/album/77idFTs70HXrdab52Enr8A) | 2:21 | 2026-05-14 |  |
 | [Spielchen](https://open.spotify.com/track/7vYd0jI4jdiYYfjrkjtLfh) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Spielchen](https://open.spotify.com/album/4otgoFuUQLG7t2WQNdeGJz) | 3:16 | 2025-12-18 | 2026-01-23 |
 | [Splitter](https://open.spotify.com/track/1TwpkmtFwTcGW7Wu7I90ef) | [Xavi](https://open.spotify.com/artist/0ZCbxUPZReHqmDsGmiRvL1) | [Manchmal sing' ich das was ich nicht sagen kann](https://open.spotify.com/album/60pGjTzDBv8apN0hEfDKoD) | 2:39 | 2026-04-23 | 2026-05-08 |
 | [spür dich nicht](https://open.spotify.com/track/6ogOeP39FvJXi92FtcTAAu) | [PAUL FALC](https://open.spotify.com/artist/0ryxCmymTyz0myAGR4WnC1) | [spür dich nicht](https://open.spotify.com/album/3sK7SB5RiSbBnqnYwIggeE) | 2:18 | 2026-02-05 | 2026-02-27 |
@@ -433,9 +435,6 @@
 | [Ti amo, Italiano!](https://open.spotify.com/track/5NWiaNjrJl0l3R89nOo4Vd) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Ti amo, Italiano!](https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn) | 3:21 | 2026-01-08 | 2026-01-30 |
 | [tief](https://open.spotify.com/track/1lrJdYH1peRMrRpHTEoM6H) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [tief](https://open.spotify.com/album/5q9jI0shsu9ZVPbOHcDGbg) | 3:01 | 2026-05-07 |  |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 | 2026-03-06 |
-| [Track 2](https://open.spotify.com/track/5ZatvuoTuGsOUj4DqCR6xH) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [TESTPHASE LIEBE](https://open.spotify.com/album/2nYaZhXmzgIGGV6plCUjD0) | 0:00 | 2026-05-14 |  |
-| [Track 5](https://open.spotify.com/track/5t201vMU4MTLtWeCBOBNRZ) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [nur Mut](https://open.spotify.com/album/0R0MoBwi0gobIp6s1Nybrd) | 0:00 | 2026-05-14 |  |
-| [Track 7](https://open.spotify.com/track/07NhhkTJgIFS0ZrC847dEb) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [eine kleine nacht ep](https://open.spotify.com/album/77idFTs70HXrdab52Enr8A) | 0:00 | 2026-05-14 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 | 2026-05-15 |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |
@@ -505,6 +504,7 @@
 | [Wer wir sind](https://open.spotify.com/track/6qcEMiN7OvfOiw7dzwjuGZ) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [Wer wir sind](https://open.spotify.com/album/1LrKBpuzw2lRatwsVcT1u9) | 3:15 | 2025-10-24 | 2025-12-19 |
 | [Wie Du Bist](https://open.spotify.com/track/28ajZtAbEf8OyWzMd4gEfZ) | [CIVAN](https://open.spotify.com/artist/2DkBug60LT1v2RHGTgbo0g) | [Wie Du Bist](https://open.spotify.com/album/7tA88HjuaeEq5pRf8cvo4w) | 2:49 | 2026-02-19 | 2026-03-27 |
 | [Wie ein Geschenk](https://open.spotify.com/track/76S6tqT05hxIz1hEQP8OKy) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE) | [Wie ein Geschenk](https://open.spotify.com/album/7H0J251bRSSNXc2CNE8Sq6) | 2:30 | 2026-03-26 | 2026-04-24 |
+| [WIE GEHT FLIEGEN](https://open.spotify.com/track/5ZatvuoTuGsOUj4DqCR6xH) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [TESTPHASE LIEBE](https://open.spotify.com/album/2nYaZhXmzgIGGV6plCUjD0) | 2:33 | 2026-05-14 |  |
 | [WIE LIEBE GEHT](https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt), [Romero](https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU) | [WIE LIEBE GEHT](https://open.spotify.com/album/3O6GezOQBYoVUm6fX9wW8k) | 2:26 | 2026-01-29 | 2026-02-27 |
 | [wie schön](https://open.spotify.com/track/0tGmUBMkkICi049JU5rm18) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wie schön](https://open.spotify.com/album/0P3z0tHi2hTipd3h2Kgupn) | 2:49 | 2026-03-12 | 2026-04-03 |
 | [Wiedersehen](https://open.spotify.com/track/7LZvsZk28oH1cgy9ANw3cM) | [Frida Gold](https://open.spotify.com/artist/1Q229kIsASlkUb3VBeQmIL) | [Wiedersehen](https://open.spotify.com/album/1K7mFTIOOih9CiRk06j5zB) | 3:14 | 2026-05-07 |  |

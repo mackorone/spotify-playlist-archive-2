@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover: Angelique Kidjo",
+  "description": "Catching flights and going global. Cover: Tayc and Rnboi",
   "name": "Gone Abroad ",
   "tracks": [
     {
@@ -480,7 +480,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 202035,
       "name": "AIN'T NOBODY",
       "url": "https://open.spotify.com/track/4RdjHvdr7EsLJndFQk1ak9"
@@ -6524,7 +6524,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 194736,
       "name": "HANDOUT - Remix",
       "url": "https://open.spotify.com/track/0YYiKtYpWLa4FPtkzjqEQ1"
@@ -9819,6 +9819,28 @@
     },
     {
       "album": {
+        "name": "JO\u0178A",
+        "url": "https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222151,
+      "name": "MAMAN PRIE",
+      "url": "https://open.spotify.com/track/6oojgcW5Ffo7GkB54vARCh"
+    },
+    {
+      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -12550,6 +12572,28 @@
       "duration_ms": 212520,
       "name": "Paranoid (feat. Fridayy)",
       "url": "https://open.spotify.com/track/6axRsq4QvWQOyKfPfzgMCc"
+    },
+    {
+      "album": {
+        "name": "Partie de moi",
+        "url": "https://open.spotify.com/album/4j1tBPeKf7yunv5zjMAm09"
+      },
+      "artists": [
+        {
+          "name": "Ferre Gola",
+          "url": "https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI"
+        },
+        {
+          "name": "Neven",
+          "url": "https://open.spotify.com/artist/5hTIFwXF6tZRBXeCYvFVWM"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163835,
+      "name": "Partie de moi",
+      "url": "https://open.spotify.com/track/6Gw8arVtOR7xqz1BwP4pkB"
     },
     {
       "album": {
@@ -16211,6 +16255,28 @@
     },
     {
       "album": {
+        "name": "Super Woman",
+        "url": "https://open.spotify.com/album/0Nqwx5p51hPWe2zQ3YGbKQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "Super Woman",
+      "url": "https://open.spotify.com/track/0Vf5YS7dS9xABKnfvzGf1T"
+    },
+    {
+      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -18516,7 +18582,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 170097,
       "name": "Who Dat Girl?",
       "url": "https://open.spotify.com/track/3Zz5hcsLts6s0nHRA0BqQW"

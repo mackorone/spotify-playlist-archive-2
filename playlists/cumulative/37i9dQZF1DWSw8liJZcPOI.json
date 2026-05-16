@@ -2335,6 +2335,36 @@
     },
     {
       "album": {
+        "name": "Echoes of My Childhood",
+        "url": "https://open.spotify.com/album/6ai0nV9VXMGrcZVhrEcfBb"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Daniel M\u00fcller-Schott",
+          "url": "https://open.spotify.com/artist/3Pj3DNujNHiZMlqZiamzPS"
+        },
+        {
+          "name": "Irina Zahharenkova",
+          "url": "https://open.spotify.com/artist/7BnCDrzq4rSSyMg4UXQ4ns"
+        },
+        {
+          "name": "Anderson Fiorelli",
+          "url": "https://open.spotify.com/artist/1WuVBhSw7dm1HTiG1Uu5Tv"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239115,
+      "name": "Cello Sonata in A Minor, RV 43: III. Largo",
+      "url": "https://open.spotify.com/track/5hf9rPXyPHPT36JQPJLk0O"
+    },
+    {
+      "album": {
         "name": "Cervero",
         "url": "https://open.spotify.com/album/0spP0WxHvPdUhlx3qQ64Ib"
       },
@@ -4341,6 +4371,24 @@
     },
     {
       "album": {
+        "name": "Flutter",
+        "url": "https://open.spotify.com/album/6beiSrm5tTbjDw9gCRhQZj"
+      },
+      "artists": [
+        {
+          "name": "Barry Hudson-Taylor",
+          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202164,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/7DDIm4sSWlhqL9bYnDETSF"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/21S1no2FqbupgnCnoURMk8"
       },
@@ -4542,7 +4590,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 202706,
       "name": "Fractured Light",
       "url": "https://open.spotify.com/track/4XUGZJBkx8OQSayvUfRasb"
@@ -6283,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/6DrYfzWOrRTIV2FNZmDJVl"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187535,
+      "name": "L'\u00eele",
+      "url": "https://open.spotify.com/track/3FYUVdbHjh4OAL6dOPHJTt"
+    },
+    {
+      "album": {
         "name": "Yo No Soy Marinero",
         "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
       },
@@ -6945,6 +7011,24 @@
     },
     {
       "album": {
+        "name": "L\u2019\u00c9cho de Bretagne",
+        "url": "https://open.spotify.com/album/23CAbU9VyT6KHbXYbAVOmc"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266298,
+      "name": "March\u00e9",
+      "url": "https://open.spotify.com/track/01KdUivtE3z0BltKpVNmMv"
+    },
+    {
+      "album": {
         "name": "By the Deep Sea",
         "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
       },
@@ -7050,6 +7134,24 @@
       "duration_ms": 137213,
       "name": "Memory of Water",
       "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
+    },
+    {
+      "album": {
+        "name": "Midnight Sessions II (Unravel)",
+        "url": "https://open.spotify.com/album/1tkOBnwD2ALUpFIEh4KFiL"
+      },
+      "artists": [
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441186,
+      "name": "Midnight Sessions II (Unravel)",
+      "url": "https://open.spotify.com/track/3zIfvADMdPnvBekThZgo9m"
     },
     {
       "album": {
@@ -7442,7 +7544,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 126000,
       "name": "M\u00f3an\u00f3ra",
       "url": "https://open.spotify.com/track/2E6xqTEmNBquHWnQwx5ii3"
@@ -8533,6 +8635,32 @@
     },
     {
       "album": {
+        "name": "Path to Meiji Shrine",
+        "url": "https://open.spotify.com/album/53dJTfPCJ91BEDQuM9KY9a"
+      },
+      "artists": [
+        {
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+        },
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        },
+        {
+          "name": "tokyo tapes",
+          "url": "https://open.spotify.com/artist/246O0CmlqprfAlZko91K6F"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457714,
+      "name": "Path to Meiji Shrine",
+      "url": "https://open.spotify.com/track/4gwJ9OgxKir03mvWtkJybZ"
+    },
+    {
+      "album": {
         "name": "Pathos (Reworked by Leo Einaudi)",
         "url": "https://open.spotify.com/album/10WWMcGLk960Ou80s08Mux"
       },
@@ -8596,7 +8724,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 258053,
       "name": "Pause",
       "url": "https://open.spotify.com/track/6rUSYRNKQG15LBs24DxH5p"
@@ -8662,6 +8790,24 @@
       "duration_ms": 166958,
       "name": "Peaceful Music (Three)",
       "url": "https://open.spotify.com/track/2hQQSxIxbJyiLSsDvrLJmp"
+    },
+    {
+      "album": {
+        "name": "In a Cabin in the Snow",
+        "url": "https://open.spotify.com/album/4UYND0pegwV0JEpoMjIPP2"
+      },
+      "artists": [
+        {
+          "name": "Late Era",
+          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Perfect Radiance",
+      "url": "https://open.spotify.com/track/0lDYR7vZ0xV6cxY25xOwwB"
     },
     {
       "album": {
@@ -9749,6 +9895,24 @@
     },
     {
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/6E12EzdChnxBwqxbzOOzrk"
+      },
+      "artists": [
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265704,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/1t3iSz5DgT4akQyleuMzWx"
+    },
+    {
+      "album": {
         "name": "Henosis",
         "url": "https://open.spotify.com/album/6Al9dg8G1lwIq4KwBnTdiG"
       },
@@ -9946,7 +10110,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 229877,
       "name": "Solitude I",
       "url": "https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU"
@@ -10652,7 +10816,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 210240,
       "name": "Stillness - Reworked",
       "url": "https://open.spotify.com/track/38e2GidL9UTv430biHt3a5"
@@ -10844,7 +11008,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 320000,
       "name": "Surges (variation)",
       "url": "https://open.spotify.com/track/7mWOySuZCM1exU4WVdBdDe"
@@ -11724,7 +11888,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 195019,
       "name": "The Young Weaver",
       "url": "https://open.spotify.com/track/7hcHSv7pAIW6T9qOIaPMDW"
@@ -12054,7 +12218,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 159000,
       "name": "Triptych 1 for Piano",
       "url": "https://open.spotify.com/track/2YAjAXgl0GVtuZ6uDH6aWl"

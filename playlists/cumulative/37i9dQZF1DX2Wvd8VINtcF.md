@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Smerz✨
 
-2,402 songs - 5 day 9 hr 53 min
+2,403 songs - 5 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [bleeder](https://open.spotify.com/track/5q3mmZ2MpbykOjZejtZDVR) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [bleeder](https://open.spotify.com/album/0pLT2hTEf7WOC0QhvJX2l6) | 2:45 | 2025-02-13 | 2025-03-14 |
 | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/track/2HGSNTGF7iHWe3jDVJFRtN) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/album/645zTMEqAie03KrgBvhJxa) | 2:36 | 2022-10-28 | 2022-11-11 |
 | [Blind](https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:30 | 2023-01-12 | 2023-04-21 |
+| [Blondie](https://open.spotify.com/track/4lwO2ry2YOH3DwRsixjl7h) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Blondie](https://open.spotify.com/album/6H79OvWsiK17wkuwoz7dKj) | 3:08 | 2026-05-14 |  |
 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 | 2024-03-28 | 2024-07-27 |
 | [Blow My Mind](https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Blow My Mind](https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w) | 2:57 | 2026-03-12 |  |
 | [Blow My Mind \- CA7RIEL & Paco Amoroso Version](https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [Blow My Mind \(CA7RIEL & Paco Amoroso Version\)](https://open.spotify.com/album/7pOzBulb4xSuKLGHekguEk) | 2:49 | 2026-04-30 |  |

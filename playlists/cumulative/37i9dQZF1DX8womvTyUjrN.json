@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Marcelo Rubio",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Kidd Voodoo",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 198351,
       "name": "(pablo)",
       "url": "https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo"
@@ -5781,6 +5781,24 @@
     },
     {
       "album": {
+        "name": "Desconectado",
+        "url": "https://open.spotify.com/album/4rDEoVpf2mTtkPOwbmAATn"
+      },
+      "artists": [
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207599,
+      "name": "Desconectado",
+      "url": "https://open.spotify.com/track/42WCujGerdQ4TuVfFjZFou"
+    },
+    {
+      "album": {
         "name": "ES SOLO M\u00daSICA",
         "url": "https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE"
       },
@@ -6394,7 +6412,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 198466,
       "name": "D\u00edas Tristes",
       "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
@@ -6594,6 +6612,28 @@
       "duration_ms": 177225,
       "name": "EL D\u00cdA QUE ME MUERA",
       "url": "https://open.spotify.com/track/0TcBoNDYHV2OmWNGowR2Td"
+    },
+    {
+      "album": {
+        "name": "nada importa tanto",
+        "url": "https://open.spotify.com/album/5QN7qOP75TeueeRP70Eo0V"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204051,
+      "name": "el d\u00eda que te marchaste",
+      "url": "https://open.spotify.com/track/6hHa0trfXd5xLLzBqC59wG"
     },
     {
       "album": {
@@ -7008,7 +7048,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 151500,
       "name": "ella y yo (suficiente)",
       "url": "https://open.spotify.com/track/2TQ3YUrrJNPRoszM8qWeAJ"
@@ -7945,6 +7985,24 @@
     },
     {
       "album": {
+        "name": "EVEREST",
+        "url": "https://open.spotify.com/album/6v1GNmOG4ZjoVHtdYW7X4S"
+      },
+      "artists": [
+        {
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156829,
+      "name": "EVEREST",
+      "url": "https://open.spotify.com/track/4IES6uQhwuNyHGL2SUuPfx"
+    },
+    {
+      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -8088,6 +8146,24 @@
       "duration_ms": 201836,
       "name": "Faltas T\u00fa",
       "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
+    },
+    {
+      "album": {
+        "name": "FANTASMA",
+        "url": "https://open.spotify.com/album/2Wt7ny0ioVAj7yG9m51YfK"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210447,
+      "name": "FANTASMA",
+      "url": "https://open.spotify.com/track/2WwWSOTnmtN1Xc3ic5xiXU"
     },
     {
       "album": {
@@ -8660,6 +8736,24 @@
       "duration_ms": 226052,
       "name": "Fuckin' Cupido </3",
       "url": "https://open.spotify.com/track/0LsoBe7x8VCHCdgPFxe7db"
+    },
+    {
+      "album": {
+        "name": "Fuego Lento",
+        "url": "https://open.spotify.com/album/5WrwT1WPlErysGUdzUIS03"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161081,
+      "name": "Fuego Lento",
+      "url": "https://open.spotify.com/track/5pdypynAfak1VmG5AXSDHD"
     },
     {
       "album": {
@@ -9812,7 +9906,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 172669,
       "name": "IMPOSIBLE",
       "url": "https://open.spotify.com/track/4zOuYOEuQUeinQOZXGOzBs"
@@ -9838,6 +9932,28 @@
       "duration_ms": 208548,
       "name": "IMPOSIBLE",
       "url": "https://open.spotify.com/track/3vHn11WvOcv3vYG0ZpQd3I"
+    },
+    {
+      "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256911,
+      "name": "Incondicional",
+      "url": "https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA"
     },
     {
       "album": {
@@ -10665,6 +10781,24 @@
     },
     {
       "album": {
+        "name": "La Mala",
+        "url": "https://open.spotify.com/album/7mpDCS3CqxlDWLbkxpvbDI"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137479,
+      "name": "La Mala",
+      "url": "https://open.spotify.com/track/5YckAHqUVvw9Xcgn5N2AH4"
+    },
+    {
+      "album": {
         "name": "la mexicana",
         "url": "https://open.spotify.com/album/0nOehCw2widLGFPYBw8j7N"
       },
@@ -10734,7 +10868,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 154912,
       "name": "La M\u00e1quina",
       "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
@@ -12568,7 +12702,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 180720,
       "name": "MARAT\u00d3N",
       "url": "https://open.spotify.com/track/0RXaOOXgnJEggNryOdyOOj"
@@ -14776,7 +14910,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 200767,
       "name": "no me importa",
       "url": "https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD"
@@ -15976,7 +16110,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 182231,
       "name": "Palabras",
       "url": "https://open.spotify.com/track/05QdnHIp9ismzFt7giASsJ"
@@ -16430,7 +16564,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 187114,
       "name": "pecos",
       "url": "https://open.spotify.com/track/1U4gvn7EQFC2RQgaYEthVa"
@@ -16470,6 +16604,24 @@
       "duration_ms": 211084,
       "name": "pelinegra",
       "url": "https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x"
+    },
+    {
+      "album": {
+        "name": "Pendiente De M\u00ed",
+        "url": "https://open.spotify.com/album/7FtFzQYSse2kL2b5cZ4hJK"
+      },
+      "artists": [
+        {
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242848,
+      "name": "Pendiente De M\u00ed",
+      "url": "https://open.spotify.com/track/1GiP9p80DQOgYs6CJre3Ok"
     },
     {
       "album": {
@@ -21215,6 +21367,24 @@
     },
     {
       "album": {
+        "name": "track 1",
+        "url": "https://open.spotify.com/album/36bWqtnkyFILCbvuneTDzh"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191944,
+      "name": "track 1",
+      "url": "https://open.spotify.com/track/7yMOTDtSpeg6maMYYvy046"
+    },
+    {
+      "album": {
         "name": "Trago Al Pecho",
         "url": "https://open.spotify.com/album/1ZgHIkKZSnxj0DbBKmOdv4"
       },
@@ -23228,6 +23398,24 @@
       "duration_ms": 182654,
       "name": "Zumo de Manzana",
       "url": "https://open.spotify.com/track/5z7M3lkaVpDxiPTadkDtQ9"
+    },
+    {
+      "album": {
+        "name": "\u00a1\u00a1\u00a1FELIZ ANIVERSARIO!!!",
+        "url": "https://open.spotify.com/album/0vcdtP4nkqi8S3hJXFQMwr"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "\u00a1\u00a1\u00a1FELIZ ANIVERSARIO!!!",
+      "url": "https://open.spotify.com/track/1fbMf6ddxF3g2rcTJSEupE"
     },
     {
       "album": {

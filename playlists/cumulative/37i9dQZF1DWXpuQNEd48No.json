@@ -913,6 +913,28 @@
     },
     {
       "album": {
+        "name": "Asamajik",
+        "url": "https://open.spotify.com/album/2AnKlzPui0EVcinLieDQGZ"
+      },
+      "artists": [
+        {
+          "name": "NJ Nindaniya",
+          "url": "https://open.spotify.com/artist/1YDHNg4ktw5sY6bLsZ2L4V"
+        },
+        {
+          "name": "Shaitan",
+          "url": "https://open.spotify.com/artist/3p486QTcZzNDrForILESQ3"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Asamajik",
+      "url": "https://open.spotify.com/track/4x8JjtgKPgl56esMfB9e3Z"
+    },
+    {
+      "album": {
         "name": "Aukaat",
         "url": "https://open.spotify.com/album/16kXtvyn9yBOxFxn2M1SFO"
       },
@@ -972,6 +994,32 @@
       "duration_ms": 133411,
       "name": "Baat Kaam Ki",
       "url": "https://open.spotify.com/track/2NYxPgTsdLGvB2gX7B4xhc"
+    },
+    {
+      "album": {
+        "name": "Bacchi Ke Bhai",
+        "url": "https://open.spotify.com/album/6YrSRq50SFgqmk2Deh0RNc"
+      },
+      "artists": [
+        {
+          "name": "Its Aghori",
+          "url": "https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr"
+        },
+        {
+          "name": "Divesh Khatana",
+          "url": "https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX"
+        },
+        {
+          "name": "Guru Gera",
+          "url": "https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Bacchi Ke Bhai",
+      "url": "https://open.spotify.com/track/1G1kXmNBlH2XMWAxhJ16vY"
     },
     {
       "album": {
@@ -1168,7 +1216,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 146782,
       "name": "Badmashi",
       "url": "https://open.spotify.com/track/74Cwgcktpr4kXbO8FvpLiT"
@@ -2250,7 +2298,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 169846,
       "name": "Chelli",
       "url": "https://open.spotify.com/track/1Of0F7MwJUpXlRp4hDAJ1q"
@@ -7069,6 +7117,24 @@
     },
     {
       "album": {
+        "name": "Khadya Baal Hai Ke",
+        "url": "https://open.spotify.com/album/2kXDgTnx6w78xah8o7tgx0"
+      },
+      "artists": [
+        {
+          "name": "RB Gujjar",
+          "url": "https://open.spotify.com/artist/2scdOxmJM6OYHj16gjaEl0"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242444,
+      "name": "Khadya Baal Hai Ke",
+      "url": "https://open.spotify.com/track/3nqtx5lVZ3RbUIqQ8k0ozD"
+    },
+    {
+      "album": {
         "name": "Khokhe",
         "url": "https://open.spotify.com/album/741btlmnE7U65ffP3S1xFf"
       },
@@ -7967,6 +8033,24 @@
     },
     {
       "album": {
+        "name": "MARWADI SAAND",
+        "url": "https://open.spotify.com/album/4QhqBQtcJ6wlMq40ZNlz89"
+      },
+      "artists": [
+        {
+          "name": "RJ47",
+          "url": "https://open.spotify.com/artist/6CReXsbhHy14JjEhUFouNE"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219125,
+      "name": "MARWADI SAAND",
+      "url": "https://open.spotify.com/track/6MxIQZC2yQ45Le5TN42xAk"
+    },
+    {
+      "album": {
         "name": "Mashooka",
         "url": "https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc"
       },
@@ -8000,7 +8084,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 185554,
       "name": "Matador",
       "url": "https://open.spotify.com/track/0gS7d5TiiD5HhBCG7CLqGK"
@@ -9361,6 +9445,24 @@
     },
     {
       "album": {
+        "name": "Omniscient",
+        "url": "https://open.spotify.com/album/2bEaGE0R051j2odaNJCnd6"
+      },
+      "artists": [
+        {
+          "name": "Dean Nayak",
+          "url": "https://open.spotify.com/artist/0LCLOXReDG8cVSYJwuNWs0"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131263,
+      "name": "Omniscient",
+      "url": "https://open.spotify.com/track/6Jfr1n24FVMNJPB2r3VQHC"
+    },
+    {
+      "album": {
         "name": "ON MY OWN",
         "url": "https://open.spotify.com/album/2n0YUx9pVR9qytcTfFUEJy"
       },
@@ -9554,7 +9656,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 163373,
       "name": "Paap Punya",
       "url": "https://open.spotify.com/track/0KJTZWEnfGMDkeG1KV6aRl"
@@ -9658,7 +9760,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 164400,
       "name": "Pakke Pakke Yaadi",
       "url": "https://open.spotify.com/track/58k1LJQuMKpHalf5Zm6Qd8"
@@ -10024,6 +10126,28 @@
       "duration_ms": 212307,
       "name": "Quality",
       "url": "https://open.spotify.com/track/1BtOqx2PbYwhrFRFdo4Ldc"
+    },
+    {
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/7HLF4eat26E1B5j8TYH7zV"
+      },
+      "artists": [
+        {
+          "name": "Dc",
+          "url": "https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU"
+        },
+        {
+          "name": "Sukki",
+          "url": "https://open.spotify.com/artist/3mwwoRoH5cpXktunHY0Ecn"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/3ZNGh5716m6NwcxfFMzWnC"
     },
     {
       "album": {
@@ -10532,6 +10656,28 @@
       "duration_ms": 170736,
       "name": "Ruffian",
       "url": "https://open.spotify.com/track/3w2UMPNhlpyHjf4g4YxhmX"
+    },
+    {
+      "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/1engvlXZKWU0kxruiLno0I"
+      },
+      "artists": [
+        {
+          "name": "Sahil Dahiya",
+          "url": "https://open.spotify.com/artist/5MkBHy3MaCPSX0XkH3PD3j"
+        },
+        {
+          "name": "Tarun Haritas",
+          "url": "https://open.spotify.com/artist/2nYjdyBBeLWFuKaqfUWStD"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/2A1Lz9rUJ1QuoMb5SQQMiK"
     },
     {
       "album": {
@@ -12296,7 +12442,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 184077,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/20E7FINSgjiDL1u5u91Qd9"
@@ -12654,7 +12800,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 180416,
       "name": "WDYM",
       "url": "https://open.spotify.com/track/6UAIRuK4m5UpdVw9RQHLoF"

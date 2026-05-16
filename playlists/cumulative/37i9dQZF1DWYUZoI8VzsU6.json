@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-06",
-  "description": "back roads up loud with Fox N' Vead",
+  "description": "back roads up loud with 49 Winchester",
   "name": "GRAVEL",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 210950,
       "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "album": {
+        "name": "Change Of Plans",
+        "url": "https://open.spotify.com/album/2B4mYUeondysGay1mXFm9M"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236602,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/1u4dMSzBUN1oHPKQqnGrR5"
     },
     {
       "album": {

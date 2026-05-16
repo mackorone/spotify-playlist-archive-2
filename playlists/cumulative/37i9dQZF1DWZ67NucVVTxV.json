@@ -16293,24 +16293,6 @@
     },
     {
       "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "date_added": "2026-05-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/4NEUbXrOcrd72Lpjy8lj5N"
-    },
-    {
-      "album": {
         "name": "Trap",
         "url": "https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59"
       },
@@ -17528,6 +17510,28 @@
       "duration_ms": 284879,
       "name": "Wombom",
       "url": "https://open.spotify.com/track/3ITbQtBxqUfMnDKUPxtNTo"
+    },
+    {
+      "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119901,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/4NEUbXrOcrd72Lpjy8lj5N"
     },
     {
       "album": {

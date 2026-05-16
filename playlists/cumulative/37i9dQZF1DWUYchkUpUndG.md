@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Godfrey Gad
 
-8,046 songs - 24 day 19 hr 26 min
+8,046 songs - 24 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6089,6 +6089,7 @@
 | [Sare Wa Ka Jo](https://open.spotify.com/track/0nmoAialWTUbzyoGk48pUJ) | [Hydee Anie](https://open.spotify.com/artist/0kr2Yb76U8VwvUQi9UJ1uA) | [Sare Wa Ka Jo](https://open.spotify.com/album/1B9FPNe058HFzI8C0Lq4re) | 3:01 | 2024-07-26 | 2024-08-09 |
 | [Satisfaction](https://open.spotify.com/track/0CMc04Rm7XZWjT1DwdYoHD) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Satisfaction](https://open.spotify.com/album/2SyQwAaiJD1F2jx3mRZcpQ) | 3:38 | 2024-08-02 | 2024-08-16 |
 | [Satisfy](https://open.spotify.com/track/2n2UqNsBAK4GkD5vwh4sGE) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Ola'sage](https://open.spotify.com/artist/7sOMk7p7RRSkNw7nBSitlH) | [The Chosen](https://open.spotify.com/album/2usFGJHiYjTGmv1IrGZZlS) | 2:26 | 2024-05-10 | 2024-05-24 |
+| [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 | 2026-05-15 |  |
 | [Satisfy](https://open.spotify.com/track/3qC6SvXKfc4Q7GJQzkzdaF) | [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca) | [Satisfy](https://open.spotify.com/album/2lfjDYddbz2V0coDQbO6KC) | 2:10 | 2025-09-05 | 2025-09-19 |
 | [Satisfy \- Remix](https://open.spotify.com/track/1OGV0JzujcsDuniVSt2hBO) | [Bene Bliss](https://open.spotify.com/artist/73aQ6cspS8tYWSXEPGuJlR), [Annie Shine](https://open.spotify.com/artist/2o0rwOnD3Y6lOJnC245fmS) | [Love N' Redemption](https://open.spotify.com/album/57EZuQMiH25TZ6hiPrSVtk) | 4:05 | 2025-02-14 | 2025-02-21 |
 | [Sau Dari](https://open.spotify.com/track/1RsaOCrxfp53UDmuvcj025) | [Mr Yels](https://open.spotify.com/artist/6NpdLK2Iz3GsyZiz9Ur0Pr), [David Jones David](https://open.spotify.com/artist/32aoqiqeUQo0SYPWRdwGg9) | [Sau Dari](https://open.spotify.com/album/0h29g6O0QKZsvXfVPnGa6N) | 1:10 | 2023-10-20 | 2023-11-03 |
@@ -7042,7 +7043,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 4](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 0:00 | 2026-05-15 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |

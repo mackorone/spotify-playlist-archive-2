@@ -1,28 +1,36 @@
 {
   "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: CASIOPEA",
-  "num_followers": 218217,
+  "num_followers": 218233,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF6wi4AZaYLlQ/4kVC2qc/h/NGFF",
+  "snapshot_id": "AAAAAKwfIh+A8RdlJmBGVQH5iBqGftRs",
   "tracks": [
     {
-      "added_at": "2026-05-01 04:00:25",
+      "added_at": "2026-05-15 04:00:33",
       "album": {
-        "name": "Andromeda",
-        "url": "https://open.spotify.com/album/6nUR3QC705LwJ23xe3xGou"
+        "name": "Intrepid Traveller",
+        "url": "https://open.spotify.com/album/65L6ZPuO7WChBvYNmBsSEI"
       },
       "artists": [
         {
           "name": "Simon Phillips",
           "url": "https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy"
+        },
+        {
+          "name": "Phillip Whack",
+          "url": "https://open.spotify.com/artist/4lnvZfKIPepTetpaKdBn86"
+        },
+        {
+          "name": "Alex Sill",
+          "url": "https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs"
         }
       ],
-      "duration_ms": 407552,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/0A1BAZGroEdUY7XiokOuWe"
+      "duration_ms": 467114,
+      "name": "Intrepid Traveller",
+      "url": "https://open.spotify.com/track/3tb1taUkDZMWb0zqF9SSY1"
     },
     {
       "added_at": "2026-05-08 04:00:27",

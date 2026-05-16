@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ?si=1ks8jsdKTNKHVTC78WiC2Q"> Jovie Jovv</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,328 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,339 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hate](https://open.spotify.com/track/3WA3AqXHYpKdF9RWa21g9J) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Hate](https://open.spotify.com/album/2H0s4tSGKNK4z0Dvo3tFmo) | 3:25 |
 | 2 | [LAST DANCE](https://open.spotify.com/track/3D7wEIwqXryatRi2xeFM3j) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [LAST DANCE](https://open.spotify.com/album/6bewDYyU8AYegfvIARuaLr) | 3:20 |
 | 3 | [Hallelujah \(Washwash\)](https://open.spotify.com/track/4l43H3GIY1HQ9gMOArHPpj) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Hallelujah \(Washwash\)](https://open.spotify.com/album/6Q9LLJEQ2HRWbyzJO73MER) | 4:05 |
-| 4 | [Track 4](https://open.spotify.com/track/4gsJE7EY6Ugolq6ObjsmMS) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ) | [Street Mathematics](https://open.spotify.com/album/4yrgJMdk4vpvYIFN3NABDL) | 0:00 |
+| 4 | [Nachizi](https://open.spotify.com/track/4gsJE7EY6Ugolq6ObjsmMS) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di) | [Street Mathematics](https://open.spotify.com/album/4yrgJMdk4vpvYIFN3NABDL) | 1:52 |
 | 5 | [GENJE SANA](https://open.spotify.com/track/64n1TOe9NxsNoNKyyKiwN7) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [GENJE SANA](https://open.spotify.com/album/6hnSRzBdC44V77fIMsEc7U) | 4:09 |
 | 6 | [moccasins](https://open.spotify.com/track/5a14LjwlzD0DD86WkjkYI4) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [moccasins](https://open.spotify.com/album/4wO69tZeMudvacH8NTwlrP) | 1:48 |
 | 7 | [Very Bad](https://open.spotify.com/track/2eghpMUR7JXx8WxyN7eACl) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Kayvo Kforce](https://open.spotify.com/artist/1fPPCBsDEGE70rXGO1mMyC) | [Very Bad](https://open.spotify.com/album/3ULMmUg9PuiEJTrwRe18s4) | 3:37 |

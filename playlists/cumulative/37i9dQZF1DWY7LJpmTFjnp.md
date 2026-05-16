@@ -4,7 +4,7 @@
 
 > Una dosis con lo más chingón pa'l gusto mexicano,  Son Rompe Pera en portada.
 
-373 songs - 23 hr 8 min
+374 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A la luz de las farolas](https://open.spotify.com/track/4EOuhYHIS0plpNtxEILZxs) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [A la luz de las farolas / Tren a Marte](https://open.spotify.com/album/1ohvPS2kkidpR6gvYVXahA) | 3:45 | 2023-06-02 | 2023-07-01 |
 | [A Todos Los Rumberos](https://open.spotify.com/track/0xWjrm5J1Gn6DEECqAG0uo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A Todos Los Rumberos](https://open.spotify.com/album/52frB9GrrklsmChI5bwCEI) | 4:29 | 2023-12-12 | 2024-04-06 |
 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 | 2022-01-14 |  |
+| [Acidez Brutal](https://open.spotify.com/track/1OXb7hh8QUvxodVC7Orrtg) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4), [Machingon](https://open.spotify.com/artist/2mCpnIB9hVbqLCi3Y35suE) | [Acidez Brutal](https://open.spotify.com/album/7ucgbJzxtrPUTUvFhEu10M) | 2:58 | 2026-05-15 |  |
 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 | 2023-03-31 | 2024-07-08 |
 | [Agradecido](https://open.spotify.com/track/5DDWBueBTOGjx4mYVKh4qp) | [Ritmo Peligroso](https://open.spotify.com/artist/7lrWd6DfBEWnFSerEh4n2d) | [Pachanga Peligrosa](https://open.spotify.com/album/7HqDgPdVdHV803b46eQBkZ) | 3:59 | 2023-05-12 | 2023-05-20 |
 | [Al Mal Paso Darle Prisa](https://open.spotify.com/track/7LKjqTzl7odiaRUJC5eIwn) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Al Mal Paso Darle Prisa](https://open.spotify.com/album/7olyrrnzqmK9DPN7sMmb9D) | 2:32 | 2025-07-18 | 2025-08-23 |
@@ -46,7 +47,7 @@
 | [Canción De Reflexión](https://open.spotify.com/track/5y0KY2Q6lbQk6vw4pAKlcz) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Canción De Reflexión](https://open.spotify.com/album/7Lm5gUqxWt5oaOADoTz3zH) | 3:13 | 2023-05-12 | 2023-05-20 |
 | [Cara de nada](https://open.spotify.com/track/3tSwimmFBswsAvpFNB3Xh0) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Puertas](https://open.spotify.com/album/0YyiLprwcLOytMKd4ES5tq) | 3:42 | 2025-09-19 |  |
 | [Cerca De Ti](https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS) | 3:06 | 2024-05-03 | 2024-05-15 |
-| [Chale](https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn) | [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Maria Barracuda](https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9) | 3:21 | 2022-04-19 |  |
+| [Chale](https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn) | [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Maria Barracuda](https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9) | 3:21 | 2022-04-19 | 2026-05-16 |
 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 | 2022-01-14 | 2023-07-01 |
 | [Chubaca Tiene Un Secreto](https://open.spotify.com/track/3JuDbZIk7XPCo9hgXQCYbs) | [Happy\-Fi](https://open.spotify.com/artist/78WB7fSDXbE5BjzXuHYoJe) | [Chubaca Tiene Un Secreto](https://open.spotify.com/album/2I0swHbSXG9I5UY0NLiRvr) | 3:58 | 2025-10-03 | 2025-10-18 |
 | [Combinamos Bien](https://open.spotify.com/track/33Vcny4oWoN2OtKMlK9mkb) | [CorpusKlan](https://open.spotify.com/artist/4Mx9BuIDXVVkQwKL0hH8B0), [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Combinamos Bien](https://open.spotify.com/album/2eX3tciXLyPnzOBleGRKsa) | 3:34 | 2026-05-01 | 2026-05-09 |

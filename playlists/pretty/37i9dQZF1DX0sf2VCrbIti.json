@@ -1,6 +1,6 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos.",
-  "num_followers": 2851,
+  "num_followers": 2852,
   "original_name": "\u00a1Felices Fiestas!",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2eDs8NuigDls3kImG3u2yM"
+      },
+      "artists": [
+        {
+          "name": "Willie Colon Y Ruben Blades",
+          "url": "https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO"
+        }
+      ],
+      "duration_ms": 401786,
+      "name": "Plastico",
+      "url": "https://open.spotify.com/track/0iHzbGak1CdbDBCu8VDwNU"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
         "name": "Hector Lavoe El Cantante -The Originals",
         "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 174240,
       "name": "Gaita Onomatopeyica",
       "url": "https://open.spotify.com/track/0HAoMv4QDZ52UCiCSWwLyy"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
-        "name": "Merengue Navide\u00f1o",
-        "url": "https://open.spotify.com/album/723wthgUpMymoNyzovCz5e"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 275018,
-      "name": "En Estas Navidades",
-      "url": "https://open.spotify.com/track/710cHHvEWf2gBkCzXnjnww"
     }
   ],
   "unique_name": "\u00a1Felices Fiestas!",

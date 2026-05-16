@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2010. Cover: Gorillaz",
-  "num_followers": 359401,
+  "num_followers": 359504,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -663,18 +663,18 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA"
+        "name": "Star of Love",
+        "url": "https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
         }
       ],
-      "duration_ms": 239120,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/7k7lT4K4hTJc3eEAX7euuk"
+      "duration_ms": 230480,
+      "name": "Plage",
+      "url": "https://open.spotify.com/track/6y4sVRatVOlBRref1xUqTO"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Star of Love",
-        "url": "https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq"
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA"
       },
       "artists": [
         {
-          "name": "Crystal Fighters",
-          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 230480,
-      "name": "Plage",
-      "url": "https://open.spotify.com/track/6y4sVRatVOlBRref1xUqTO"
+      "duration_ms": 239120,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/7k7lT4K4hTJc3eEAX7euuk"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Infinite Arms",
         "url": "https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 275360,
       "name": "Factory",
       "url": "https://open.spotify.com/track/3wNti9PJJPrP9nF2ccsQvw"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2025-03-14 11:46:42",

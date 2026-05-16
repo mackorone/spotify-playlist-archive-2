@@ -6,8 +6,244 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "AAAGkMToy8YIijYfOghJ1z/YNfm5zZa/",
+  "snapshot_id": "AAAGllr9vA6LFCwLRFevvcrahTdS6ZM2",
   "tracks": [
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/7rizIQ92WmYsc7FCqqYFza"
+      },
+      "artists": [
+        {
+          "name": "RDGO",
+          "url": "https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/659s54y5uxe7rlhbE4pnhZ"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "Blame It",
+        "url": "https://open.spotify.com/album/4Yf1Ps5AiNyqc6p0kJhCe9"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "duration_ms": 222608,
+      "name": "Blame It",
+      "url": "https://open.spotify.com/track/5LB3N8fVFSH8IaXn7WSLPA"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/01iF3laxtzi2hp6oj015uO"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/0SxxzaJOsMAo4eqqCqZtQk"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "Miseducated EP",
+        "url": "https://open.spotify.com/album/7JS9N176kH7ed8QqHyqXei"
+      },
+      "artists": [
+        {
+          "name": "Body Ocean",
+          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 175781,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/1HeFpo3J6sKZYhN8sAtR0A"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "LuvBug (feat. Lynsey Moore)",
+        "url": "https://open.spotify.com/album/2876t8q19vIgcnT5kFVoG8"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "Ramsey & Fen",
+          "url": "https://open.spotify.com/artist/5rBBAjkUV1bF89nr9AGpEu"
+        },
+        {
+          "name": "Lynsey Moore",
+          "url": "https://open.spotify.com/artist/31RLNDGi0or2K3mJDBlfjV"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "LuvBug (feat. Lynsey Moore)",
+      "url": "https://open.spotify.com/track/2AG8USCIiL1rhnejTfa1Rw"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 195188,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "Remixed",
+        "url": "https://open.spotify.com/album/5K585VojjQhYjisJxGuPBc"
+      },
+      "artists": [
+        {
+          "name": "Frits Wentink",
+          "url": "https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D"
+        },
+        {
+          "name": "Prince Palmer",
+          "url": "https://open.spotify.com/artist/18yoJQsG7nDMqKC7x0OFJk"
+        }
+      ],
+      "duration_ms": 386188,
+      "name": "Intentions - Prince Palmer Remix",
+      "url": "https://open.spotify.com/track/1eWknlipVWVO8hRX5CbwCu"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "Got U Groovin'",
+        "url": "https://open.spotify.com/album/7j5ZOWo6Ac7tutkk4gIlxe"
+      },
+      "artists": [
+        {
+          "name": "Entasia",
+          "url": "https://open.spotify.com/artist/4hhSH03TjHXI2OcnRzBDll"
+        },
+        {
+          "name": "SHUFFA",
+          "url": "https://open.spotify.com/artist/3tosID3SunySdhOUdzmO8E"
+        }
+      ],
+      "duration_ms": 304847,
+      "name": "Got U Groovin'",
+      "url": "https://open.spotify.com/track/3UfINIRVE4hK3fTAcfa6lg"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/6ydHXb3ditAe3I5Dzd31DD"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 147522,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/5ju2pmFVB4DTK0FoxiHAbI"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "back together",
+        "url": "https://open.spotify.com/album/4Ky0izg255MXVlzeQ31eC6"
+      },
+      "artists": [
+        {
+          "name": "Jimmi King",
+          "url": "https://open.spotify.com/artist/3ekb7bNGfNhTTcWClGgVHV"
+        }
+      ],
+      "duration_ms": 214318,
+      "name": "back together",
+      "url": "https://open.spotify.com/track/1Mu31xsS4kVaXByJhf9M0A"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "Do It Good",
+        "url": "https://open.spotify.com/album/0szSFlA2EQTPomFZllgfAq"
+      },
+      "artists": [
+        {
+          "name": "geods sor\u00e8d",
+          "url": "https://open.spotify.com/artist/3yq3xSfD0oy9BH1QZACETw"
+        }
+      ],
+      "duration_ms": 200322,
+      "name": "Do It Good",
+      "url": "https://open.spotify.com/track/2P98SxpOdxEZhX3DgcDr9v"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "Misbehaving",
+        "url": "https://open.spotify.com/album/0mspOYfZZuaz36jQDzUUJy"
+      },
+      "artists": [
+        {
+          "name": "Reece Ros\u00e9",
+          "url": "https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5"
+        },
+        {
+          "name": "Capri Everitt",
+          "url": "https://open.spotify.com/artist/6EFNRnIRbAh7pHV1FgCQaB"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Misbehaving",
+      "url": "https://open.spotify.com/track/67OdVBb2cMjuhYBP7P0fSo"
+    },
+    {
+      "added_at": "2026-05-15 04:21:56",
+      "album": {
+        "name": "Mess Up The Rave",
+        "url": "https://open.spotify.com/album/4u6PU6Gu1HMEPnddP69fai"
+      },
+      "artists": [
+        {
+          "name": "Hutcher",
+          "url": "https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI"
+        }
+      ],
+      "duration_ms": 249044,
+      "name": "Mess Up The Rave",
+      "url": "https://open.spotify.com/track/0cs5pHV6JJ1IGPqFRg2XTH"
+    },
     {
       "added_at": "2026-02-27 16:51:32",
       "album": {

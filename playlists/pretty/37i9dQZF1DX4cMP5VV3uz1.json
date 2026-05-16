@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166525,
+  "num_followers": 166523,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        },
-        {
-          "name": "Stush",
-          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
-        }
-      ],
-      "duration_ms": 212671,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 176614,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        }
+      ],
+      "duration_ms": 212671,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "What Ya Got 4 Me",
-        "url": "https://open.spotify.com/album/2XSkX0vlcgxhUQ34vH6eHw"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        },
-        {
-          "name": "Signum",
-          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
-        }
-      ],
-      "duration_ms": 224163,
-      "name": "What Ya Got 4 Me",
-      "url": "https://open.spotify.com/track/0fx132zL9MIJW1ZlhhMqcg"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/0VLtqQTq8jknSNAHmWPeog"
       },
@@ -687,22 +667,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Onslaught",
-        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
+        "name": "What Ya Got 4 Me",
+        "url": "https://open.spotify.com/album/2XSkX0vlcgxhUQ34vH6eHw"
       },
       "artists": [
         {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
         },
         {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+          "name": "Signum",
+          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
         }
       ],
-      "duration_ms": 181718,
-      "name": "Onslaught",
-      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
+      "duration_ms": 224163,
+      "name": "What Ya Got 4 Me",
+      "url": "https://open.spotify.com/track/0fx132zL9MIJW1ZlhhMqcg"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -727,6 +707,26 @@
       "duration_ms": 228000,
       "name": "Higher than Heaven",
       "url": "https://open.spotify.com/track/6CJuuNkd3c1Mzat7Xhhmn8"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
+        "name": "Onslaught",
+        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 181718,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Full Power",
-        "url": "https://open.spotify.com/album/2B8BsCBkGXwypoKCHP4kzq"
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
       },
       "artists": [
         {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Emz",
-          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Full Power",
-      "url": "https://open.spotify.com/track/5FNNKh2Aw0RCWwrMPF8DBn"
+      "duration_ms": 180689,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1243,6 +1239,26 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Full Power",
+        "url": "https://open.spotify.com/album/2B8BsCBkGXwypoKCHP4kzq"
+      },
+      "artists": [
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Emz",
+          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Full Power",
+      "url": "https://open.spotify.com/track/5FNNKh2Aw0RCWwrMPF8DBn"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "Disguise",
         "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
       },
@@ -1263,18 +1279,34 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
+        "name": "Excalibur - EP",
+        "url": "https://open.spotify.com/album/7gCJWtzX4A83C6lPwxfCvh"
       },
       "artists": [
         {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+          "name": "Audit",
+          "url": "https://open.spotify.com/artist/2mdUxq6jvOoW7CMsoffuVJ"
         }
       ],
-      "duration_ms": 180689,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+      "duration_ms": 219428,
+      "name": "Excalibur",
+      "url": "https://open.spotify.com/track/0mNgHk38nt7ikBi3lunV9b"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
+        "name": "Anti/Thesis: Vol. 2",
+        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "duration_ms": 233083,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1295,22 +1327,6 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Excalibur - EP",
-        "url": "https://open.spotify.com/album/7gCJWtzX4A83C6lPwxfCvh"
-      },
-      "artists": [
-        {
-          "name": "Audit",
-          "url": "https://open.spotify.com/artist/2mdUxq6jvOoW7CMsoffuVJ"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Excalibur",
-      "url": "https://open.spotify.com/track/0mNgHk38nt7ikBi3lunV9b"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/5TyHRHPKoow6PMO0nzHGjS"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 200228,
       "name": "Rush",
       "url": "https://open.spotify.com/track/7t4la9AACH1mc9MBCUzJrw"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Anti/Thesis: Vol. 2",
-        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
-      },
-      "artists": [
-        {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
-        }
-      ],
-      "duration_ms": 233083,
-      "name": "Grindhouse",
-      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Machine Learning",
-        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "Techno",
-      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/6c2lgEoa6569HdwpGghy5C"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Machine Learning",
+        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "Reaper (feat. Comma Dee)",
         "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
@@ -1435,6 +1435,26 @@
       "duration_ms": 213793,
       "name": "Reaper (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
+        "name": "Skanka",
+        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Jaybee (UK)",
+          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
+        }
+      ],
+      "duration_ms": 190689,
+      "name": "Skanka",
+      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1467,26 +1487,6 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Corner",
-        "url": "https://open.spotify.com/album/7LIdJo9owJofjVeNaF8ig4"
-      },
-      "artists": [
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        },
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Corner",
-      "url": "https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
         "name": "Axiom / Intuition",
         "url": "https://open.spotify.com/album/34WMLUUQVe28cku9U7rRO4"
       },
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Skanka",
-        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
+        "name": "Corner",
+        "url": "https://open.spotify.com/album/7LIdJo9owJofjVeNaF8ig4"
       },
       "artists": [
         {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
         },
         {
-          "name": "Jaybee (UK)",
-          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
         }
       ],
-      "duration_ms": 190689,
-      "name": "Skanka",
-      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
+      "duration_ms": 136551,
+      "name": "Corner",
+      "url": "https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Voicenote Violence",
+        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 166714,
+      "name": "Voicenote Violence",
+      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "Northern Step",
         "url": "https://open.spotify.com/album/7EdYM83jeKrr2h8lT6dGIA"
       },
@@ -1763,18 +1779,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Voicenote Violence",
-        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
       },
       "artists": [
         {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
         }
       ],
-      "duration_ms": 166714,
-      "name": "Voicenote Violence",
-      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
+      "duration_ms": 192000,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1795,26 +1815,6 @@
       "duration_ms": 157714,
       "name": "Yard Shop",
       "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Let Me Down",
-        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Let Me Down",
-      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Do This",
+        "url": "https://open.spotify.com/album/3JxzLywrw84nF4jqBqktf8"
+      },
+      "artists": [
+        {
+          "name": "Majistrate",
+          "url": "https://open.spotify.com/artist/7Kmqpu1E2yI5ijuB1dcNTg"
+        },
+        {
+          "name": "Weejii",
+          "url": "https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Do This",
+      "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "DAY ONE (Edits)",
         "url": "https://open.spotify.com/album/5jG7UTE2ugocI8hbKXejuT"
       },
@@ -1903,26 +1923,6 @@
       "duration_ms": 211885,
       "name": "CHARGIE - Rendah Edit",
       "url": "https://open.spotify.com/track/4IEoKCEWcLCwsIhW2d3mxA"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Do This",
-        "url": "https://open.spotify.com/album/3JxzLywrw84nF4jqBqktf8"
-      },
-      "artists": [
-        {
-          "name": "Majistrate",
-          "url": "https://open.spotify.com/artist/7Kmqpu1E2yI5ijuB1dcNTg"
-        },
-        {
-          "name": "Weejii",
-          "url": "https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Do This",
-      "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
     },
     {
       "added_at": "2026-04-23 23:01:11",

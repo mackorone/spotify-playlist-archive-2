@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,319 songs - 2 day 2 hr 28 min
+1,321 songs - 2 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Cool Off](https://open.spotify.com/track/6fbviP6rquoNzsbYndjrEQ) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [Cool Off](https://open.spotify.com/album/6tAHkBRI9qX4BJqSKQV4Yp) | 2:11 | 2025-07-15 |  |
 | [Cool Veranda](https://open.spotify.com/track/6Tz3BXjsmOdMMMZ5z5wj4J) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Last Memories](https://open.spotify.com/artist/3UHYSVL2r6kB0niINk2097) | [Cool Veranda](https://open.spotify.com/album/0Oim64ZqmSmNXnp9JT3ppf) | 2:38 | 2022-07-08 | 2023-09-22 |
 | [Cooldown](https://open.spotify.com/track/7F1LFRHNnaAG14SxhRVJ9i) | [Sorsele](https://open.spotify.com/artist/2tTcT2ddh1bHSEsdLjLfpw) | [Slowly](https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej) | 2:26 | 2023-03-01 | 2024-07-13 |
-| [Coral](https://open.spotify.com/track/4KTacnNgzYUSjzPfmqqrQZ) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Coral](https://open.spotify.com/album/1CtmsVkkERDvQVUEbDU7bQ) | 2:19 | 2026-02-06 |  |
+| [Coral](https://open.spotify.com/track/4KTacnNgzYUSjzPfmqqrQZ) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Coral](https://open.spotify.com/album/1CtmsVkkERDvQVUEbDU7bQ) | 2:19 | 2026-02-06 | 2026-05-16 |
 | [Corduroy](https://open.spotify.com/track/4pPAER0KcKtRCMnCHWEEVj) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30) | [Corduroy](https://open.spotify.com/album/4SLKIYowg7nmsYylxIhWmB) | 1:52 | 2022-08-19 | 2023-03-18 |
 | [cosmic](https://open.spotify.com/track/4oYH2FzH0vV1R3Df7MtaLi) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:36 | 2021-11-10 | 2022-06-10 |
 | [Cosmos](https://open.spotify.com/track/00TdtTQPE8qA8wprZHfHLo) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:06 | 2023-03-01 | 2026-04-25 |
@@ -319,6 +319,7 @@
 | [Drifting Away](https://open.spotify.com/track/0WejHNxPNp7yenziyF8pqN) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u) | [Drifting Away](https://open.spotify.com/album/5ngdtd2IOVku7OWA5q4V9G) | 2:15 | 2022-10-28 | 2023-04-28 |
 | [drifting off](https://open.spotify.com/track/3elkSUQWmn03kSG3XPeNfD) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [drifting off](https://open.spotify.com/album/2ZLP133AYzEGgrxXJrUgED) | 2:34 | 2026-02-20 | 2026-04-10 |
 | [Drifts](https://open.spotify.com/track/6dVh5O3D90UCCHQdiecG6H) | [Dee\-Bee](https://open.spotify.com/artist/1XGiDqRs3GlALVKBFMyeeJ), [Calmas Records](https://open.spotify.com/artist/3xHHNJkwyots8LoDMxGD9k) | [Drifts](https://open.spotify.com/album/549V4q9YaZzdC1yVwuf1j6) | 1:48 | 2022-04-15 | 2023-09-16 |
+| [Driftwood](https://open.spotify.com/track/731zwJtUsukNZwsucOSI1c) | [nat boyce](https://open.spotify.com/artist/3YGcEAKWOuLol94NCdOspi) | [Driftwood](https://open.spotify.com/album/2NHKDzAbt6fl01Wvj7KE67) | 2:05 | 2026-05-15 |  |
 | [Driving to the sea](https://open.spotify.com/track/1nwqimbDdHpaVy2W3lHjeA) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [LE MAZ](https://open.spotify.com/artist/0yITOpZhxV9Ln8l3oMsSei) | [Driving to the sea](https://open.spotify.com/album/7fBQeFWNd5QAPW3aIR5oPm) | 2:09 | 2022-04-08 | 2022-12-10 |
 | [Drop By Drop](https://open.spotify.com/track/0LIIItEvBkt2hX1joyUhId) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Drop By Drop](https://open.spotify.com/album/6u73tNaUCEZhKPLOCdQYcq) | 2:05 | 2023-03-24 | 2023-10-06 |
 | [drop out](https://open.spotify.com/track/6E1GLFsZxTc55k53t6Jb8k) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [drop out](https://open.spotify.com/album/7oCcqUni4v2fxMi55duN7U) | 2:29 | 2025-09-24 | 2025-10-05 |
@@ -422,7 +423,7 @@
 | [foam](https://open.spotify.com/track/11j0qQhHzDxOiItPenCc7e) | [new vibe](https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo) | [foam](https://open.spotify.com/album/3O7iHjbCvoe1Oc2kzjvTxE) | 2:18 | 2025-09-19 |  |
 | [foggy afternoons](https://open.spotify.com/track/29aEQCuc0s6E0kcFreV46L) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [foggy afternoons](https://open.spotify.com/album/3VWXOXYNIiomNfJREmxUMf) | 2:02 | 2021-11-10 | 2025-07-16 |
 | [Folded Notes](https://open.spotify.com/track/4cowhth7bG7PZRuYnlGhSH) | [Pastblink](https://open.spotify.com/artist/6aXm62k9vCjNBALspldTxL) | [Pieces of Earth](https://open.spotify.com/album/0l5EuQZVdOANozH7Vu6f4v) | 2:39 | 2021-11-10 | 2022-08-19 |
-| [Folded Rhythm](https://open.spotify.com/track/7vvBoOT2L8QrXB5LY1beo1) | [weightless minutes](https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN) | [Folded Rhythm](https://open.spotify.com/album/0s2MKyjmIwBY8OKH9T9AM9) | 1:50 | 2026-03-11 |  |
+| [Folded Rhythm](https://open.spotify.com/track/7vvBoOT2L8QrXB5LY1beo1) | [weightless minutes](https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN) | [Folded Rhythm](https://open.spotify.com/album/0s2MKyjmIwBY8OKH9T9AM9) | 1:50 | 2026-03-11 | 2026-05-16 |
 | [Foley](https://open.spotify.com/track/3zF7rEUNOekwcFdspyZ2by) | [Luigi Valentino](https://open.spotify.com/artist/5we8GkSvBODzF7t0TLaiOS) | [Outlines](https://open.spotify.com/album/3nf6Yp27qmRCzusFEEgChh) | 1:36 | 2021-11-10 | 2023-03-02 |
 | [Follow Me](https://open.spotify.com/track/0hBg3ymrkGMAghPlk2L7ii) | [fox](https://open.spotify.com/artist/2SXuNJWv9RZcRjUc7zIsHy) | [Follow Me](https://open.spotify.com/album/5yaEujGFm7dEg8WnIongAO) | 1:42 | 2021-11-10 | 2022-12-10 |
 | [Follow Me](https://open.spotify.com/track/0bB5Z3RMKb4XdCwdD6VNSI) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa) | [Follow Me](https://open.spotify.com/album/7E1e6LoisUa8eGajBw1Ewd) | 2:15 | 2023-04-03 | 2023-09-29 |
@@ -1294,6 +1295,7 @@
 | [where were u](https://open.spotify.com/track/4lPug66ovwaHAqWJ1lUFLW) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [where were u](https://open.spotify.com/album/2HAjfWz1lAJFKhGdO7QJ15) | 2:12 | 2022-06-24 | 2023-01-20 |
 | [wherever you go](https://open.spotify.com/track/4BihRR1aNqljFZ2kVYS6Xq) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [wherever you go](https://open.spotify.com/album/2SGlbnB45alvXoKJ35Lt3M) | 2:27 | 2025-09-19 | 2025-10-05 |
 | [Whiskey on the rocks](https://open.spotify.com/track/55XFlOD8d0N5tw4ab6CmKB) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Whiskey on the rocks](https://open.spotify.com/album/4k3uNMBvvXrAhuJHajf8SJ) | 2:44 | 2023-01-13 | 2025-07-16 |
+| [whisper me home](https://open.spotify.com/track/5Xf0awOgjwqBTyRd2PHtUw) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [Lórien Loops](https://open.spotify.com/artist/4obNM3Q6nZn9zpmlzsSdCR), [forever dreaming](https://open.spotify.com/artist/7sFBr3PEjRa5qVSD75VAFZ) | [whisper me home](https://open.spotify.com/album/6uUj9ck0xb3D3IBn8ojlM7) | 1:43 | 2026-05-15 |  |
 | [Who's who's](https://open.spotify.com/track/5Q8LCJkKHAK6GmZ1U5Dl8R) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [From Atlanta](https://open.spotify.com/album/0DFDuubdw9JMF7C3ruiQuA) | 1:34 | 2023-02-17 | 2025-05-07 |
 | [whoops i'm napping](https://open.spotify.com/track/5Wxany1ffEA1DxkRBvnLJ0) | [Pistachio](https://open.spotify.com/artist/1zj6sjoit7AFmmBfozJX1H) | [whoops i'm napping](https://open.spotify.com/album/7rqTIV0hWHwjxCchxWWlg6) | 2:54 | 2023-07-13 | 2023-09-29 |
 | [Wild Mallow](https://open.spotify.com/track/7Ed0zQz9cAArGzWbxrmhiS) | [The Lofi Big Band](https://open.spotify.com/artist/0A63pWT1p5WGcJfyiSAEkc) | [Wild Mallow](https://open.spotify.com/album/2XUqR0rvvEPpSHRG1ATe4h) | 2:57 | 2023-04-11 | 2023-10-06 |

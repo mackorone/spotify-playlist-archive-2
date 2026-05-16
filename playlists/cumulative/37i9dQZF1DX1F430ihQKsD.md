@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal\. Photo: Thierry Larose
 
-873 songs - 2 day 1 hr 30 min
+875 songs - 2 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Days With You](https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Days With You](https://open.spotify.com/album/4o8nsp5Yjks4EEtZgqYS41) | 2:49 | 2022-03-25 | 2022-07-09 |
 | [DDB](https://open.spotify.com/track/1VmLzoCqA75Ev6ENxV0bbe) | [Adib Alkhalidey](https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L) | [Plexus lunaire](https://open.spotify.com/album/4ZKMEVg1Cf4m0b5VzCnwVG) | 3:13 | 2025-11-28 | 2025-12-04 |
 | [De la perspective d'un vieil homme \- P'tit Belliveau Remix](https://open.spotify.com/track/6VNas98Qy7GSduZoQeW9LY) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt), [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Perspectives](https://open.spotify.com/album/12AkIdAo8bCIpjFHLEKSPb) | 3:36 | 2022-03-25 | 2022-05-20 |
+| [Demain](https://open.spotify.com/track/40dDHnGYFkSOsfrnUTPgTZ) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Demain](https://open.spotify.com/album/6Tg3NlHsu4ePOVoxVDACU1) | 2:51 | 2026-05-15 |  |
 | [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 | 2026-01-23 |  |
 | [Demain je pars](https://open.spotify.com/track/4bcBIZQBBmIhbVUoA5RSxO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Demain je pars](https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi) | 3:29 | 2025-11-07 | 2025-12-04 |
 | [Demi\-tour](https://open.spotify.com/track/6DT34THRmULPtWwgm3GFDd) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Demi\-tour](https://open.spotify.com/album/140MQvVxZZdLbbnziE4LpF) | 3:52 | 2026-03-27 |  |
@@ -683,6 +684,7 @@
 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 | 2022-06-17 | 2022-08-27 |
 | [Romance ESL](https://open.spotify.com/track/2xN2QDZPQxJNmWHatPfjOc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Romance ESL / The Heavy Loop](https://open.spotify.com/album/2yOvmxluAqK5EaIuVcSHdk) | 3:16 | 2024-08-02 | 2024-10-05 |
 | [Rome](https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rome](https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW) | 5:23 | 2022-04-08 | 2023-05-13 |
+| [Roses](https://open.spotify.com/track/1YDMR9mA86CqY7uBMsitXF) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Something More](https://open.spotify.com/album/09TCXjNpzMmadwJdLw0x3w) | 3:55 | 2026-05-15 |  |
 | [Rouge Blanc](https://open.spotify.com/track/3lgz1irr7pyERou6uA1g4i) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Rouge Blanc](https://open.spotify.com/album/6bfCe5L8ncyo5vbGat4o3Z) | 3:19 | 2025-03-21 | 2025-10-11 |
 | [Rouge Blanc](https://open.spotify.com/track/4tYVss0uEh28hQ3pctrTmd) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Ravaru](https://open.spotify.com/album/5fZrcTaLGCfiv7ccQjOreZ) | 3:19 | 2025-12-03 | 2026-02-21 |
 | [Royallll](https://open.spotify.com/track/3JU2yOzNqsD5Q38pOcZU5o) | [Naïma Frank](https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23), [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Royallll](https://open.spotify.com/album/0g870ZOEdpau7kZB8woENc) | 2:38 | 2025-12-03 | 2026-01-17 |

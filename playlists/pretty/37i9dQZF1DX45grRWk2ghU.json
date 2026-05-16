@@ -1,12 +1,12 @@
 {
   "description": "Pinky up!",
-  "num_followers": 835857,
+  "num_followers": 836235,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMuLl+acgpspHAzDkC3nVkmBvK1",
+  "snapshot_id": "AAAAAInRnwS3DW29HcVSGxUqWi/v31P9",
   "tracks": [
     {
       "added_at": "2025-05-30 04:00:19",
@@ -25,24 +25,20 @@
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
-      "added_at": "2026-05-01 04:00:42",
+      "added_at": "2026-05-15 04:01:10",
       "album": {
-        "name": "Midnight Sun: Girls Trip",
-        "url": "https://open.spotify.com/album/3SJU0Tncb0yXItHnxRWzY6"
+        "name": "Poser",
+        "url": "https://open.spotify.com/album/4jSSgjHPTpw3x6jnNbVD1d"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "ilykimchi",
+          "url": "https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb"
         }
       ],
-      "duration_ms": 185721,
-      "name": "Puss Puss - Girls Trip",
-      "url": "https://open.spotify.com/track/3SI1ESntI5Fv9BtXShVtZQ"
+      "duration_ms": 119338,
+      "name": "Poser",
+      "url": "https://open.spotify.com/track/5YandKtJP8NChZW4CDSFj1"
     },
     {
       "added_at": "2026-04-12 06:15:07",

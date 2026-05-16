@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie en español, con Jaze en portada.
 
-7,394 songs - 16 day 21 hr 10 min
+7,395 songs - 16 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2533,6 +2533,7 @@
 | [Fall in Love Again](https://open.spotify.com/track/2MW6Yui61LO7dLjakQHN2C) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [Fall in Love Again](https://open.spotify.com/album/7EmZg8OHcqPeofIuV3bPFa) | 2:17 | 2024-06-14 | 2024-06-29 |
 | [FALLA](https://open.spotify.com/track/1Nkf4hyVktCoWyoJt0N8Ap) | [caracazador](https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca) | [FALLA](https://open.spotify.com/album/5zgyQN62tJBbXD3fv3D7ZY) | 3:24 | 2024-03-22 | 2024-03-30 |
 | [Fallé](https://open.spotify.com/track/68ldiwb2lQUH1ky1PBVW7s) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Fallé](https://open.spotify.com/album/4FdQTvmVrkknQbLePxpZHc) | 2:15 | 2024-11-22 | 2024-11-30 |
+| [Fama](https://open.spotify.com/track/0E956hCtqDXRjJH22FnkVz) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Dreams Of Love](https://open.spotify.com/album/4rTTcxnbeBiOGXS9wrYJdR) | 3:13 | 2026-05-15 |  |
 | [Fama Mundial](https://open.spotify.com/track/7lXvcJi3nGs2NKcaaO78lS) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Paradisco](https://open.spotify.com/album/6weAvHZk1RgwzGKWYYmOk3) | 3:20 | 2024-10-11 | 2024-10-26 |
 | [Famagusta Port](https://open.spotify.com/track/1iJuO3EHGlZO91i1Maz92b) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Famagusta Port](https://open.spotify.com/album/6jX03XyIsmm6oGk0K6OCuH) | 1:58 | 2023-06-23 | 2023-07-01 |
 | [Famara \(feat\. Depedro\)](https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx), [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [El Porvenir](https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH) | 3:52 | 2024-05-10 | 2024-05-18 |
@@ -5264,6 +5265,7 @@
 | [Pez en el Agua](https://open.spotify.com/track/104uszqTee1FngKRkSgZAz) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Inmersión](https://open.spotify.com/album/7GzlsTZ6h5tURFxCZ2DFc0) | 3:09 | 2025-04-25 | 2025-05-09 |
 | [Picor](https://open.spotify.com/track/1CL4KsBWs2vm3xPlrr7flj) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Picor](https://open.spotify.com/album/7a6t6jn2rm43eY8FOYXVHW) | 3:37 | 2024-05-17 | 2024-05-25 |
 | [Pide un deseo ✩](https://open.spotify.com/track/5kNot3Gv6xhoSn8Ek7OkvA) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Pide un deseo ✩](https://open.spotify.com/album/0rhlwixsHgSD2xJY493GaM) | 4:18 | 2025-06-20 | 2025-06-28 |
+| [Pido perdón](https://open.spotify.com/track/1RA4w3uISppCKLm5oiSmY9) | [Emilia, Pardo y Bazán](https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j) | [Qué ha sido de los planes que hicimos anoche cuando estábamos borrachos](https://open.spotify.com/album/2rBEnYmhKJNtoR0USzLOCV) | 2:51 | 2026-05-15 |  |
 | [Piedad](https://open.spotify.com/track/4vYFrN4yxgUF3mzccFYAIs) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [Avena](https://open.spotify.com/album/3y2tTCdRWCM3VqKQpKEsVt) | 2:20 | 2023-07-21 | 2023-07-29 |
 | [Piedra Azul](https://open.spotify.com/track/629o04HmSqoVW9hpEIRmsq) | [Kalfu](https://open.spotify.com/artist/1WpF9eHbFZ1v8e5BwFHFun), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Piedra Azul](https://open.spotify.com/album/0nQbrC4PIYecGn5hPHX9H7) | 3:14 | 2022-07-22 | 2022-07-30 |
 | [Piel de Chocolate](https://open.spotify.com/track/5XQh4vwyqX76llZj3rC3wr) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Piel de Chocolate](https://open.spotify.com/album/5g1fEzk22bhr46WFzg7pRw) | 3:37 | 2022-07-01 | 2022-07-09 |
@@ -6659,7 +6661,6 @@
 | [tqm <3](https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [tqm <3](https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ) | 2:36 | 2025-10-17 | 2025-11-08 |
 | [tquiero](https://open.spotify.com/track/1qrVVl2xV3gBkMzNtEOIRW) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [tquiero](https://open.spotify.com/album/7jHQGXyamGThrpeUlhlBzk) | 2:33 | 2026-02-20 | 2026-02-28 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-08-30 |
-| [Track 9](https://open.spotify.com/track/1RA4w3uISppCKLm5oiSmY9) | [Emilia, Pardo y Bazán](https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j) | [Qué ha sido de los planes que hicimos anoche cuando estábamos borrachos](https://open.spotify.com/album/2rBEnYmhKJNtoR0USzLOCV) | 0:00 | 2026-05-15 |  |
 | [Track Track](https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Track](https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL) | 3:24 | 2023-03-31 | 2023-04-15 |
 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 | 2024-09-06 | 2024-09-14 |
 | [Traición](https://open.spotify.com/track/36ra3hMPRvKXvxRGwKwZSW) | [Barbacius](https://open.spotify.com/artist/6ammhQoFZnVNk5n8qqagyv), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Big Apple](https://open.spotify.com/artist/0A47yBLunNeq5dA5WYUjBe) | [3 Pasos Para Sanar un Corazón Roto](https://open.spotify.com/album/1tDZPLGY1uTtON1SLq8PHO) | 2:33 | 2026-02-27 | 2026-03-07 |

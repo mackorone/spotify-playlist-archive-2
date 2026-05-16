@@ -322,7 +322,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 139760,
       "name": "Alleen Met Mij",
       "url": "https://open.spotify.com/track/7qBnso24ioY5e2paJWFKTL"
@@ -399,6 +399,28 @@
     },
     {
       "album": {
+        "name": "Always You (feat. Nana Fofie)",
+        "url": "https://open.spotify.com/album/0DSm2orZYnmb7haccz5hsj"
+      },
+      "artists": [
+        {
+          "name": "EAN",
+          "url": "https://open.spotify.com/artist/2R6fMantwd4zJz4s07Wpnm"
+        },
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189243,
+      "name": "Always You (feat. Nana Fofie)",
+      "url": "https://open.spotify.com/track/5pVj3RmUQkAFgAsWhZa4zd"
+    },
+    {
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/3GsMcFluyo0t8Bt7godgzV"
       },
@@ -454,7 +476,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 155783,
       "name": "Ayaya",
       "url": "https://open.spotify.com/track/11hQ4ru2zeb5rN0QTVhzr1"
@@ -840,7 +862,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 155753,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
@@ -1074,6 +1096,28 @@
       "duration_ms": 151807,
       "name": "Canvas",
       "url": "https://open.spotify.com/track/32pZXiV8O9r7WNFhjDj9Tm"
+    },
+    {
+      "album": {
+        "name": "Chain",
+        "url": "https://open.spotify.com/album/5gsJwLoXPhgngGBTYiskJM"
+      },
+      "artists": [
+        {
+          "name": "YVES",
+          "url": "https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ"
+        },
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "Chain",
+      "url": "https://open.spotify.com/track/3e7cxssFrV847TSd57Zca3"
     },
     {
       "album": {
@@ -1494,6 +1538,28 @@
       "duration_ms": 145920,
       "name": "ELLE VOULAIT",
       "url": "https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9"
+    },
+    {
+      "album": {
+        "name": "The Game Needs Us",
+        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202027,
+      "name": "Emotional High",
+      "url": "https://open.spotify.com/track/0wCK6mBuDPJpNUFBK6HfRE"
     },
     {
       "album": {
@@ -2066,7 +2132,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 232424,
       "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
       "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
@@ -3064,7 +3130,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 213306,
       "name": "Lay it On Me",
       "url": "https://open.spotify.com/track/66AJdZhZxuUZgESo6Y8ScD"
@@ -3286,7 +3352,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 117913,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/26YbomQpTqANapbSD17N8a"
@@ -3742,7 +3808,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 158400,
       "name": "Nan Zetwal",
       "url": "https://open.spotify.com/track/2pj8Zu8Qe2osPJ7GjcEvDF"
@@ -4008,7 +4074,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 160000,
       "name": "No stress zone",
       "url": "https://open.spotify.com/track/1Atd9ieir1NXGz9rTBiG5c"
@@ -4256,7 +4322,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 170769,
       "name": "Ongelukkig In De Club",
       "url": "https://open.spotify.com/track/1nqnulkTwokImQ5Iuwf3QL"
@@ -4380,7 +4446,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 114582,
       "name": "Party & Bullshit",
       "url": "https://open.spotify.com/track/5MQi0TlGBa0DZ8OsoDXV8c"
@@ -4536,6 +4602,24 @@
       "duration_ms": 178854,
       "name": "PIJNSTILLER",
       "url": "https://open.spotify.com/track/6AmRGd8UlazU7NnPirJYTA"
+    },
+    {
+      "album": {
+        "name": "PISSED OFF",
+        "url": "https://open.spotify.com/album/7LncZpc3XqXysm3uRIFZ6D"
+      },
+      "artists": [
+        {
+          "name": "Trxnz",
+          "url": "https://open.spotify.com/artist/1u2RwK9C55BTgbGB0LARNm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175287,
+      "name": "PISSED OFF",
+      "url": "https://open.spotify.com/track/6BBFnzQwHnLyxaCws9HSjl"
     },
     {
       "album": {
@@ -5018,6 +5102,42 @@
       "duration_ms": 226666,
       "name": "Secondhand (feat. Rema)",
       "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188722,
+      "name": "Shabang",
+      "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
+    },
+    {
+      "album": {
+        "name": "Shot O' Clock",
+        "url": "https://open.spotify.com/album/6Jl0jYaDfNosxLXm8Q3jYt"
+      },
+      "artists": [
+        {
+          "name": "PHV",
+          "url": "https://open.spotify.com/artist/56SBY6GxBYwmi6ovHzWZg2"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117772,
+      "name": "Shot O' Clock",
+      "url": "https://open.spotify.com/track/6VZaqGRJtyb87jUt1gHqk0"
     },
     {
       "album": {
@@ -5694,7 +5814,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 155428,
       "name": "That Way",
       "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
@@ -6003,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "Used to be us",
+        "url": "https://open.spotify.com/album/0yhmrzjt0hMcvvwy9Uqw63"
+      },
+      "artists": [
+        {
+          "name": "Pearl Ramos",
+          "url": "https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137691,
+      "name": "Used to be us",
+      "url": "https://open.spotify.com/track/2wnt1RSq1UFg7oip9FdW7b"
+    },
+    {
+      "album": {
         "name": "VANAVOND",
         "url": "https://open.spotify.com/album/0jjeqbkOEZShK1Ob4AdAbW"
       },
@@ -6292,7 +6430,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 198894,
       "name": "Waiting For You (feat. Reggie Dartey)",
       "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"

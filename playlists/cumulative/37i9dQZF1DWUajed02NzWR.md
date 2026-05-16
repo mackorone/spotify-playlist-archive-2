@@ -4,7 +4,7 @@
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 
-111 songs - 8 hr 49 min
+112 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Harpsichord Concerto No\. 5 in F Minor, BWV 1056: II\. Largo \- Arr\. for Solo Piano by Wilhelm Kempff](https://open.spotify.com/track/0q8tzHmi8QUtjY8iss0xmw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Vadim Chaimovich](https://open.spotify.com/artist/5EfeuEtilmCk8J49T35rqb) | [Bach: Harpsichord Concerto No\. 5 in F Minor, BWV 1056: II\. Largo \(Arr\. for Solo Piano by Wilhelm Kempff\)](https://open.spotify.com/album/4L0W0mJYu2l7Hnud2ZSKgl) | 4:00 | 2025-12-22 |  |
 | [Händel: Tema con Variazioni](https://open.spotify.com/track/7qgQ7VV7DGXZ0CTUHeW6GC) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Unfolding Lines](https://open.spotify.com/album/6t5pw5WCiQlpmo0aIkejXk) | 5:07 | 2026-04-10 |  |
 | [Jesu, Joy of Man's Desiring, BWV 147/X \(Arr\. Figueroa for Chamber Orchestra\)](https://open.spotify.com/track/2XNpCyO5ER63K0yAjDlefv) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Orpheus Chamber Orchestra](https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX) | [Orpheus Chamber Orchestra \- Baroque Highlights](https://open.spotify.com/album/2e0FIWorD7mcJNs573R4Zq) | 3:28 | 2020-09-04 |  |
+| [Komorebi](https://open.spotify.com/track/5fVXEeKxmXJiP7cyvdGEz5) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Komorebi](https://open.spotify.com/album/3WXXGWcMiVsri5wgvsuEGT) | 1:48 | 2026-05-15 |  |
 | [Lakmé / Act 1: "Sous le dôme épais" \(Flower Duet\)](https://open.spotify.com/track/2YWM7FYspCbkM6xfo1v6gO) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) | [Vissi d'Arte \- Opera for Orchestra](https://open.spotify.com/album/2vjEH5WILR6M71LdCI3Umv) | 4:57 | 2020-09-04 | 2025-06-26 |
 | [Le tombeau de Couperin \(version for orchestra\): No\. 3\. Menuet](https://open.spotify.com/track/5ATGY2d2oulmn7eZQ1EIUu) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: Orchestral Works, Vol\. 2](https://open.spotify.com/album/26uix8RvkE257KT3AYuiDO) | 4:25 | 2020-09-04 | 2024-04-19 |
 | [Le tombeau de Couperin: 3\. Menuet \(version for orchestra\)](https://open.spotify.com/track/2iILF0acS8qp3HfFAchDcS) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: Orchestral Works, Vol\. 2](https://open.spotify.com/album/4KGCAHgoTqRjM7RaoUQDSD) | 4:25 | 2020-09-04 |  |

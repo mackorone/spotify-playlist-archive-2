@@ -2241,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Ulfat Ke Naray",
+        "url": "https://open.spotify.com/album/066AaPaN1kZ80FIlK2C6cg"
+      },
+      "artists": [
+        {
+          "name": "malick",
+          "url": "https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256900,
+      "name": "Baawra",
+      "url": "https://open.spotify.com/track/0adEHsMF8T6yePkbSHtqjR"
+    },
+    {
+      "album": {
         "name": "political pollution",
         "url": "https://open.spotify.com/album/6DvoAkju3axxF6zsEWOvhU"
       },
@@ -3984,6 +4002,24 @@
       "duration_ms": 186000,
       "name": "CAUTION",
       "url": "https://open.spotify.com/track/479onSsxtxNSlN0jLGyzdl"
+    },
+    {
+      "album": {
+        "name": "Chaand Aur Tara",
+        "url": "https://open.spotify.com/album/42mJtXNx0NUbPSMlyt6IWA"
+      },
+      "artists": [
+        {
+          "name": "Asad Khan Niazi",
+          "url": "https://open.spotify.com/artist/2T8BuDSqvUjuRS8izP483m"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224400,
+      "name": "Chaand Aur Tara",
+      "url": "https://open.spotify.com/track/0fLwwQHbTzvrxLsGXXZYZY"
     },
     {
       "album": {
@@ -7018,7 +7054,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 134400,
       "name": "Duur",
       "url": "https://open.spotify.com/track/5cRapTOc34KHJ9PHEUj57O"
@@ -11922,7 +11958,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 149397,
       "name": "Kaise Jiye",
       "url": "https://open.spotify.com/track/7CWKkd6B2hrvWLIk1dlYNa"
@@ -12364,6 +12400,28 @@
       "duration_ms": 245517,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/04sLEAGtV57PwAAi1IxVqF"
+    },
+    {
+      "album": {
+        "name": "Khayaal",
+        "url": "https://open.spotify.com/album/6j2rTciEA9FGnWhsGm96ZZ"
+      },
+      "artists": [
+        {
+          "name": "Hassaan Shaheer",
+          "url": "https://open.spotify.com/artist/6WPtkGlueETTYhoz0FSyHi"
+        },
+        {
+          "name": "Sonny$",
+          "url": "https://open.spotify.com/artist/1I16Q6dCWupPDIdKNsXkOU"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Khayaal",
+      "url": "https://open.spotify.com/track/7hIpGJXUWIhsgHXYKYGHYU"
     },
     {
       "album": {
@@ -20964,7 +21022,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 196297,
       "name": "Serab",
       "url": "https://open.spotify.com/track/4yyfOawseQL90rRuPl04Hg"
@@ -22316,6 +22374,36 @@
       "duration_ms": 195647,
       "name": "Surgical Bars",
       "url": "https://open.spotify.com/track/2YQLvlF5ZrqYopkuT3M3H7"
+    },
+    {
+      "album": {
+        "name": "Sway (feat. Peter Corser)",
+        "url": "https://open.spotify.com/album/4kwZU9X4SBkgnAFOEa8qni"
+      },
+      "artists": [
+        {
+          "name": "Humnava",
+          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
+        },
+        {
+          "name": "Elijah Solo",
+          "url": "https://open.spotify.com/artist/5fvPSWjzyFrwn0vJKscrEL"
+        },
+        {
+          "name": "Joshua Bwalya",
+          "url": "https://open.spotify.com/artist/1Uu9xr2gXTTVw4i3BI32kU"
+        },
+        {
+          "name": "Peter Corser",
+          "url": "https://open.spotify.com/artist/2ffiYNdtpHA2hCVMl3znQx"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318820,
+      "name": "Sway (feat. Peter Corser)",
+      "url": "https://open.spotify.com/track/3I10WagQ7sTXueaZh9zcE9"
     },
     {
       "album": {
@@ -23970,7 +24058,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 174953,
       "name": "Tor De",
       "url": "https://open.spotify.com/track/1IiwbssV6lyjdlL9RmhbeM"

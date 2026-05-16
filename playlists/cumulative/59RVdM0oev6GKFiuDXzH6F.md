@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,142 songs - 2 day 10 hr 46 min
+1,143 songs - 2 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Always on My Mind \(feat\. Nelson Elle\)](https://open.spotify.com/track/11z8WBKMnjcD3nwoAmybJm) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU), [Nelson Elle](https://open.spotify.com/artist/2CAfNbxL6yeb9oQMhAWolr) | [Always on My Mind \(feat\. Nelson Elle\)](https://open.spotify.com/album/53A1vLUDmTn8143cTIRXXv) | 2:44 | 2024-12-05 | 2025-03-14 |
 | [Amanecida](https://open.spotify.com/track/1VgMz97YYZNFHYdvxTqDQy) | [Taao](https://open.spotify.com/artist/00I4wKx2BvStGK00Y3Kw5k), [Mr\. Wilson](https://open.spotify.com/artist/54X7AMGcwAWFpngMGlc2jt) | [Amanecida](https://open.spotify.com/album/6OgsKSPKoiESyv58MrTJxj) | 4:35 | 2024-05-13 | 2025-01-09 |
 | [Amantra](https://open.spotify.com/track/5Eb2rzbBJvBgP7caI8qbof) | [OTIOT](https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF) | [Sahara \- Amantra](https://open.spotify.com/album/2WCSeTLfIkOHavqjNXVZPN) | 3:55 | 2025-11-07 |  |
+| [Another Level](https://open.spotify.com/track/1IYeYlx97SN8jcXQebII4U) | [Kilder](https://open.spotify.com/artist/7DvSsGJcVuhweaoQu7nta0) | [Another Level](https://open.spotify.com/album/2J9oTNo3mbMOLWiISR7PIr) | 2:27 | 2026-05-15 |  |
 | [Another Love](https://open.spotify.com/track/3XoNXct7zTtKFoExkw2yhw) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Another Love](https://open.spotify.com/album/22YNnuYYZs7nPNjk6N4JYu) | 2:05 | 2024-12-05 | 2025-03-14 |
 | [Another Night Without You](https://open.spotify.com/track/23gkaxfqOnOufnK5he7sTW) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Another Night Without You](https://open.spotify.com/album/6QchvniTJsy6Je3qpzmXvJ) | 3:31 | 2026-04-23 |  |
 | [Antidote](https://open.spotify.com/track/3p7dgKyS7tZcSbmXJmQSxz) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Antidote](https://open.spotify.com/album/00IGSwcvchaCcTLxNFP6u4) | 2:45 | 2026-01-22 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de J Balvin y Ryan Castro.",
+  "description": "Latinoam\u00e9rica baila al ritmo de DFZM y Blessd.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 183761,
       "name": "\"EMHDM\"",
       "url": "https://open.spotify.com/track/5NbIHx26LyFkW2oSNSCYBV"
@@ -3721,6 +3721,28 @@
     },
     {
       "album": {
+        "name": "Bolsita Cara",
+        "url": "https://open.spotify.com/album/3RVp9B94uoddtDyGUtJcIg"
+      },
+      "artists": [
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        },
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176810,
+      "name": "Bolsita Cara",
+      "url": "https://open.spotify.com/track/63RoO5slbFtgk6lPGZkgbC"
+    },
+    {
+      "album": {
         "name": "BOMB\u00d3N",
         "url": "https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF"
       },
@@ -5484,7 +5506,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 207984,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
@@ -14546,7 +14568,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 148253,
       "name": "la patadita",
       "url": "https://open.spotify.com/track/2B4kxkpv5OuB5b23XlZYTt"
@@ -16014,6 +16036,28 @@
       "duration_ms": 132146,
       "name": "LOS HOMBRES NO LLORAN",
       "url": "https://open.spotify.com/track/4zBe0FyeYWAHZwBCUzefuF"
+    },
+    {
+      "album": {
+        "name": "Loco X Volver",
+        "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207851,
+      "name": "Los poderes",
+      "url": "https://open.spotify.com/track/5ku5dYXFm1okB4AYkKmZyC"
     },
     {
       "album": {
@@ -17779,6 +17823,28 @@
     },
     {
       "album": {
+        "name": "MI EX",
+        "url": "https://open.spotify.com/album/4qQzvBTaaFB3ZGPZzG8TFv"
+      },
+      "artists": [
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "MI EX",
+      "url": "https://open.spotify.com/track/363f2yu0W2nJZPRqCh7i5P"
+    },
+    {
+      "album": {
         "name": "Mi Fresa",
         "url": "https://open.spotify.com/album/644EyIl7yerhNx5j7gNx5f"
       },
@@ -18088,6 +18154,28 @@
       "duration_ms": 186277,
       "name": "MIONCA",
       "url": "https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY"
+    },
+    {
+      "album": {
+        "name": "X Amor al Arte",
+        "url": "https://open.spotify.com/album/4p7prXOtCEjiwU0iWb62fP"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Mira Como Me Tienes",
+      "url": "https://open.spotify.com/track/1A6uHSqJuqFPZX9RSAbfr0"
     },
     {
       "album": {
@@ -19386,6 +19474,28 @@
       "duration_ms": 173960,
       "name": "No Es Normal (con Jay Wheeler)",
       "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
+    },
+    {
+      "album": {
+        "name": "NO ES OFICIAL",
+        "url": "https://open.spotify.com/album/19SbxZbGhu1AMRx4QIxDnV"
+      },
+      "artists": [
+        {
+          "name": "Lorduy",
+          "url": "https://open.spotify.com/artist/69W4dBFtMrTWYHEHwbpHhC"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207550,
+      "name": "NO ES OFICIAL",
+      "url": "https://open.spotify.com/track/4XYneWABtdeIpSaahk3x2j"
     },
     {
       "album": {
@@ -21312,7 +21422,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 244713,
       "name": "Ozono",
       "url": "https://open.spotify.com/track/4acvrfbXrDPFQNNDnFZnpC"
@@ -21728,7 +21838,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 279685,
       "name": "PANTI Y COLALE 2.0",
       "url": "https://open.spotify.com/track/11mDIi9MNeOXoeSqiYQnWI"
@@ -26499,6 +26609,32 @@
     },
     {
       "album": {
+        "name": "Loco X Volver",
+        "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202457,
+      "name": "Sornero",
+      "url": "https://open.spotify.com/track/3oNfwopqvtOSQjg8Fhrt5W"
+    },
+    {
+      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp"
       },
@@ -27992,7 +28128,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 160000,
       "name": "TOKAME",
       "url": "https://open.spotify.com/track/2HaCAbeCYkzPllSGWVfppM"
@@ -31674,6 +31810,40 @@
       "duration_ms": 170863,
       "name": "\u00d1ero Session 17",
       "url": "https://open.spotify.com/track/28sOcy3NXj7ga0JMEHauIU"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 20 (feat. Dulz\u00f3n y Nasty Vato)",
+        "url": "https://open.spotify.com/album/3g3J97mgKGsmu03q7V34pB"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        },
+        {
+          "name": "Novato El Flow",
+          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
+        },
+        {
+          "name": "Dulz\u00f3n",
+          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
+        },
+        {
+          "name": "Nasty Vato",
+          "url": "https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201205,
+      "name": "\u00d1ero Session 20 (feat. Dulz\u00f3n y Nasty Vato)",
+      "url": "https://open.spotify.com/track/5NriHT6oCyVRnVughoqxey"
     },
     {
       "album": {

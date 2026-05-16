@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-186 songs - 10 hr 27 min
+187 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [The Jedi Steps and Finale](https://open.spotify.com/track/3fdY6ZVYtiHcrArNdvK3Ux) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 8:51 | 2024-05-03 |  |
 | [The Last Jedi](https://open.spotify.com/track/69qAhQ1p5kGzRpcVctqlgK) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:03 | 2021-05-14 | 2026-05-02 |
 | [The Mandalorian](https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:18 | 2021-05-14 |  |
+| [The Mandalorian and Grogu](https://open.spotify.com/track/2soMoQzD2HlsVmys7Se3Pq) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Star Wars: The Mandalorian and Grogu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn) | 3:07 | 2026-05-15 |  |
 | [The Mandalorian and Grogu \(Boys Noize Remix\) \- From "Star Wars: The Mandalorian and Grogu"](https://open.spotify.com/track/6V1xKmyXJaXbZu2NXBYRrW) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [The Mandalorian and Grogu \(Boys Noize Remix\) \[From "Star Wars: The Mandalorian and Grogu"\]](https://open.spotify.com/album/3fpVPuogIVyXmsQa3c5Gpu) | 5:54 | 2026-05-01 |  |
 | [The Moisture Farm](https://open.spotify.com/track/2D9uc4pL6wor8560PWMj8h) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars Episode IV: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39vpWS7vrC4Pz33bNafjva) | 2:25 | 2021-05-14 | 2022-07-29 |
 | [The Moisture Farm \- From "Star Wars: A New Hope"](https://open.spotify.com/track/3U2qtOplwv1pPSW5ZSXtA0) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars Sampler](https://open.spotify.com/album/0FFKU6tUqBwgANE5DGLA3c) | 2:25 | 2022-06-28 | 2026-05-02 |

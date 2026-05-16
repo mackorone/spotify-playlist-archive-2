@@ -1751,6 +1751,36 @@
     },
     {
       "album": {
+        "name": "Black Butterfly",
+        "url": "https://open.spotify.com/album/1GkzK7mBYbn0meWabTAJkG"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Alison Limerick",
+          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
+        },
+        {
+          "name": "Ebba \u00c5sman",
+          "url": "https://open.spotify.com/artist/1SJBWUlS5p1YPnH64h8e3O"
+        },
+        {
+          "name": "Jessica Pina",
+          "url": "https://open.spotify.com/artist/04EJnspkz18wjkvzC0qZWP"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215835,
+      "name": "Come Back 4 Real Love",
+      "url": "https://open.spotify.com/track/52k63jGk5MTmNwnaLqY8x8"
+    },
+    {
+      "album": {
         "name": "Come Over",
         "url": "https://open.spotify.com/album/0oHUs3J4ctv827KteZGkI0"
       },
@@ -9404,7 +9434,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 186388,
       "name": "Try (Rework)",
       "url": "https://open.spotify.com/track/6QlbAS3CdT8IgvFMUs5A04"

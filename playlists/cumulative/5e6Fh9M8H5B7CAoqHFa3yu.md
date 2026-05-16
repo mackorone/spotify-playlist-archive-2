@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,212 songs - 5 day 10 hr 55 min
+2,215 songs - 5 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,6 +678,7 @@
 | [Freedom from no tomorrow](https://open.spotify.com/track/4fWkcMaxDkRfqhLGV6WhBf) | [Cosmic Tikis](https://open.spotify.com/artist/3FgOxm7zjtZfsgLhSrCmDR), [Tatiana](https://open.spotify.com/artist/4DwDwWkbgmARkYrx6P2uFj) | [Freedom from no tomorrow](https://open.spotify.com/album/4BPdqSTglo6yeL7HGY5TG3) | 4:12 | 2025-07-06 |  |
 | [Frequency Rising](https://open.spotify.com/track/2Ixz3zGp3oSOz0XaCwKQzG) | [VANYRA X](https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z) | [Frequency Rising](https://open.spotify.com/album/7h1P6bCGqQYfrpu6kNGLfJ) | 3:09 | 2026-03-23 |  |
 | [Friend or Foe](https://open.spotify.com/track/3eUSlj01gJ2nShurvYZBuu) | [Roommates](https://open.spotify.com/artist/1oTSwH7yL7aKe4qPQ0yCuF), [Nick Oliveri](https://open.spotify.com/artist/5WCFj64gXT7nJwOEEzc0Wf), [Diego Cavallotti](https://open.spotify.com/artist/2qWU822VKf3lBUnxiROnXW) | [Friend or Foe](https://open.spotify.com/album/0rnZ4lLmWmfO1W4IIedLHQ) | 4:18 | 2024-06-02 |  |
+| [Friends](https://open.spotify.com/track/1qw1zLMAay6JWNdJQsYxzN) | [Dror](https://open.spotify.com/artist/31BRzHwH9Ayqp5AbRDk9kO) | [Friends](https://open.spotify.com/album/73VF9EoEhaCk3Yl5ViqnBx) | 3:24 | 2026-05-15 |  |
 | [Fright Nights](https://open.spotify.com/track/5RDslJNl9VYwb8yomdDieO) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 3:07 | 2026-02-05 |  |
 | [From Genesis To Revelation](https://open.spotify.com/track/14F59VzWzE14qIPFuBSkwP) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [From Genesis To Revelation](https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU) | 5:40 | 2024-05-04 |  |
 | [From Genesis To Revelation \- Dub](https://open.spotify.com/track/0WmvboUvVUUGofH297wShV) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [From Genesis To Revelation](https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU) | 5:38 | 2024-05-04 |  |
@@ -1096,6 +1097,7 @@
 | [Lifted Up](https://open.spotify.com/track/6yRnWR0p1lYBCTOK4Kqs1u) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Zacheous Jackson](https://open.spotify.com/artist/5UdtdI2aqCEAoUizwEgGvz), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [From Genesis To Revelation](https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU) | 4:21 | 2024-05-04 |  |
 | [Light Groove On The Bus](https://open.spotify.com/track/3hkTT5MONpcq5iGAOuN0JM) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/5AsykpYGStzUL2uPQwiRtA) | 4:31 | 2026-03-16 |  |
 | [Light Groove on the Bus](https://open.spotify.com/track/6riNH1yaMKa4yAxya3KrMx) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 4:31 | 2025-06-16 |  |
+| [Light of the Angels](https://open.spotify.com/track/4Aa9uXRXo1WVXbRQ1nll6N) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [Light of the Angels](https://open.spotify.com/album/3a3TpxB3nygVF9wcj4YyBA) | 2:14 | 2026-05-15 |  |
 | [Light of This Dub](https://open.spotify.com/track/6YF8KIlSSvgWIzJX4T6dB6) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Dangerous Discomixes](https://open.spotify.com/album/6gMtNJyVlKsMQSexWFyb4H) | 5:46 | 2024-05-01 |  |
 | [Lights Off](https://open.spotify.com/track/4ZTj4DkrGKYTXU1RsO3NHH) | [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Full Circle](https://open.spotify.com/album/11w3N6BlPCKYZqC394rMOj) | 4:13 | 2025-08-02 |  |
 | [Lights On](https://open.spotify.com/track/06MPxTd7A7dLJtxeh2CN08) | [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Full Circle](https://open.spotify.com/album/11w3N6BlPCKYZqC394rMOj) | 4:11 | 2025-08-02 |  |
@@ -1282,6 +1284,7 @@
 | [My Lady](https://open.spotify.com/track/0KHQElj1JILxKETVSGXwgN) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [My Lady](https://open.spotify.com/album/7Cc8L93z6dE4Jxe4LuJIyS) | 3:06 | 2024-09-24 |  |
 | [My last song for you](https://open.spotify.com/track/4bpODX6WMCmdohiQNUYxfd) | [RAWRITO](https://open.spotify.com/artist/69kJaVwMWBJF2ncss4pvqV) | [My last song for you](https://open.spotify.com/album/4ZoXUCQKkfr5jmC1MrDy4A) | 3:01 | 2026-02-20 |  |
 | [My Life](https://open.spotify.com/track/1kO0nC4VnEjMBeJZI7g2T2) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:35 | 2025-02-15 |  |
+| [My Life](https://open.spotify.com/track/22it1yLanqga1DevYiSPz8) | [Slimeytee23](https://open.spotify.com/artist/1hiy2ZLpsXqRLuF7s92RDU), [Oscar Ken](https://open.spotify.com/artist/18NBt7ThpqpvlMkCMIeCA1), [Lookey](https://open.spotify.com/artist/1HXBbllMhhBO6EftHA8DtZ), [Real YUNG\-J](https://open.spotify.com/artist/0AKep9NdQTcR7rLgWxdQOE) | [My Life](https://open.spotify.com/album/7cIW5b100TSmzjzh9WHBHo) | 2:53 | 2026-05-15 |  |
 | [my little star](https://open.spotify.com/track/0AaT0gUUPA9do3tVWlPKUi) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 2:42 | 2025-10-28 |  |
 | [My Lost Love](https://open.spotify.com/track/2oK4Y2MEBo9OL2k9bDf5ou) | [Dianna Keys](https://open.spotify.com/artist/2ukR4XZO8Gw4IyT0CNWh6x) | [My Lost Love](https://open.spotify.com/album/1f8HIiS7mtm1FoyD79U1uZ) | 3:52 | 2025-07-09 |  |
 | [My Soul](https://open.spotify.com/track/4uCyYwu4f7iFlEqAgCeNce) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [My Soul](https://open.spotify.com/album/2QpG4iF6jTCTPbFFDTJCcl) | 2:15 | 2026-03-03 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Featuring From Dave. Curated by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring Delilah. Curated by human Spotify editors. \n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -20749,6 +20749,28 @@
     },
     {
       "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr"
+      },
+      "artists": [
+        {
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
+        },
+        {
+          "name": "Dr\u00e9ya Mac",
+          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "Fino",
+      "url": "https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA"
+    },
+    {
+      "album": {
         "name": "FIRE",
         "url": "https://open.spotify.com/album/1R3LPEARw1RFuAPTLNv097"
       },
@@ -30294,7 +30316,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 216785,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/0QfHRJwzVFgNLQwZmMpUfz"
@@ -31841,6 +31863,24 @@
     },
     {
       "album": {
+        "name": "Journey EP",
+        "url": "https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181108,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
+    },
+    {
+      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/60NF294giBRiw4EqtX1mhr"
       },
@@ -32648,7 +32688,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 233333,
       "name": "Kinesis - Short Mix",
       "url": "https://open.spotify.com/track/2JiASV4tYTbbB45lUJySdq"
@@ -37786,7 +37826,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 208782,
       "name": "Mi Gentee",
       "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
@@ -40325,6 +40365,24 @@
     },
     {
       "album": {
+        "name": "Need Some Fun",
+        "url": "https://open.spotify.com/album/48dHXF7ZT5ndX4yzJSz8K3"
+      },
+      "artists": [
+        {
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Need Some Fun",
+      "url": "https://open.spotify.com/track/3zSZUO1ZFIkwC4CdV7Rzls"
+    },
+    {
+      "album": {
         "name": "Need To Talk (Kordz Remix)",
         "url": "https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go"
       },
@@ -41452,6 +41510,24 @@
       "duration_ms": 282791,
       "name": "Nogueira",
       "url": "https://open.spotify.com/track/2RJItWtvRHnixZvNEeX4yb"
+    },
+    {
+      "album": {
+        "name": "Non Stop",
+        "url": "https://open.spotify.com/album/07vh38TMCsVcaahSyrpecs"
+      },
+      "artists": [
+        {
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/6z0Zc6uf2ofI2KkUupFepg"
     },
     {
       "album": {
@@ -57140,7 +57216,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 180299,
       "name": "the benefactor",
       "url": "https://open.spotify.com/track/53cBYaLXJTXOA9jtSIW6Ka"

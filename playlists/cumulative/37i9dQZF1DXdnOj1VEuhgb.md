@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Laçin
 
-991 songs - 1 day 20 hr 14 min
+991 songs - 1 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,6 +679,7 @@
 | [OST](https://open.spotify.com/track/4IDC1c78V4dpNn4y9CxrvD) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [OST](https://open.spotify.com/album/7eqcwjZpJakjR0clvZdh1M) | 2:33 | 2026-01-22 | 2026-02-06 |
 | [Ou](https://open.spotify.com/track/78k5J6sk3N1dBmWXGovrxV) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 3:12 | 2026-01-26 | 2026-04-28 |
 | [OU LA LA](https://open.spotify.com/track/24FZ92GqBPpb0mGjxFGFm3) | [Ero](https://open.spotify.com/artist/1MeqFJRoXLAjOdqXlJaPwQ) | [OU LA LA](https://open.spotify.com/album/442jC8YPEqRlSceqb9hQiD) | 2:14 | 2023-03-30 | 2023-04-14 |
+| [Oyna](https://open.spotify.com/track/4pm0Eh3rW3pSbVnUqU08Nj) | [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa), [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [DIVA/NE EP pt.1](https://open.spotify.com/album/6wb7KX8SDspzJzbREsBO8S) | 3:15 | 2026-05-14 |  |
 | [Oynar](https://open.spotify.com/track/1PLLIhyhOlnZvaxFPEQYsN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Oynar](https://open.spotify.com/album/5FjxfxLLRpI9f7UrRFolpm) | 2:47 | 2023-06-15 | 2023-07-28 |
 | [OZLEMEM, SORRY](https://open.spotify.com/track/307mzDqUDbzw4ZY1xbPnWH) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [Mobench](https://open.spotify.com/artist/2mIMJ28uekjZP98huB079t) | [OZLEMEM, SORRY](https://open.spotify.com/album/2UlxlMrsV0cjba4DIQue9k) | 1:58 | 2026-04-09 | 2026-04-24 |
 | [PA$$$A VIBES V](https://open.spotify.com/track/5zjHGCU8Zq6X8bx7gmqYC1) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI) | [PA$$$A VIBES V](https://open.spotify.com/album/36h6r9fxJXD9keKaDZi0rw) | 1:41 | 2023-09-07 | 2023-09-22 |
@@ -864,8 +865,6 @@
 | [TIRMANDIM](https://open.spotify.com/track/7ozaiwhvK7n71jNoJF2v6y) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [TIRMANDIM](https://open.spotify.com/album/7fI8MrZfCWgds0YnnRVdPg) | 2:13 | 2025-12-11 | 2025-12-26 |
 | [TİKTOK](https://open.spotify.com/track/3ic4P54j8y17su29vAGYD5) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TİKTOK](https://open.spotify.com/album/22kL0LjMCNE6ssXseUGuGY) | 1:56 | 2025-10-02 | 2025-11-21 |
 | [Tom&Jerry \- Walk And Flow](https://open.spotify.com/track/3xo2UqVRVmjSXtlN83y2Ty) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk) | [Tom&Jerry \- Walk And Flow](https://open.spotify.com/album/6HccvGrEfTb01BHTDTlel7) | 1:34 | 2024-09-19 | 2024-10-04 |
-| [Track 1](https://open.spotify.com/track/4yu1f3GuaWDW8oLWmzuLX7) | [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [DIVA/NE EP pt.1](https://open.spotify.com/album/6wb7KX8SDspzJzbREsBO8S) | 0:00 | 2026-05-14 |  |
-| [Track 5](https://open.spotify.com/track/4pm0Eh3rW3pSbVnUqU08Nj) | [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [DIVA/NE EP pt.1](https://open.spotify.com/album/6wb7KX8SDspzJzbREsBO8S) | 0:00 | 2026-05-14 |  |
 | [Trap House](https://open.spotify.com/track/24jJv0eMKXT4MvGKRP70QS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 3:06 | 2026-01-22 |  |
 | [TrapLordz](https://open.spotify.com/track/7gxLEjoKdbRVVobMAzzOsQ) | [Zizzy](https://open.spotify.com/artist/70F9edYyvSgjhSByO9Vwp1), [aspi](https://open.spotify.com/artist/3xkZhfJeT4MB8w7pGhjKGw) | [TrapLordz](https://open.spotify.com/album/69MOoECLlmu7uwOTCe7qaZ) | 3:12 | 2026-01-08 | 2026-01-23 |
 | [Trip attım](https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Trip attım](https://open.spotify.com/album/6AjvqUlpE0M92AH3cTJIAU) | 2:01 | 2023-10-05 | 2024-02-06 |
@@ -990,6 +989,7 @@
 | [Öteki](https://open.spotify.com/track/5jUJx7g6WbQoChHHMnzlUJ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Öteki](https://open.spotify.com/album/0XvMqA0pq9o5WogJfeD0ge) | 3:38 | 2025-02-20 | 2025-03-14 |
 | [Özlesen Beni](https://open.spotify.com/track/7ET0F8bXWsF8glyEwMDeli) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Özlesen Beni](https://open.spotify.com/album/1ii0DgIUp0k3VPCpEUU6c7) | 2:18 | 2023-07-13 | 2023-08-11 |
 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 | 2023-01-31 | 2024-02-02 |
+| [Üstünde Adın Var](https://open.spotify.com/track/4yu1f3GuaWDW8oLWmzuLX7) | [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa), [akca](https://open.spotify.com/artist/1OBAc1CshCapEzN3cfmNtc) | [DIVA/NE EP pt.1](https://open.spotify.com/album/6wb7KX8SDspzJzbREsBO8S) | 2:29 | 2026-05-14 |  |
 | [Ütopik](https://open.spotify.com/track/7g7zbnLW2JNvhBy3Xa1uAo) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Botan](https://open.spotify.com/artist/0apMJftj0fhlCxT8Asyz2f), [Serhat Özen](https://open.spotify.com/artist/2Qpgh2xmjneIAyBWCKLVdJ) | [Ütopik](https://open.spotify.com/album/7f4zLJwHtuvW8YPZfsRYhe) | 3:41 | 2024-10-03 | 2024-10-19 |
 | [şaka mısın knk \(merdobingo flip\)](https://open.spotify.com/track/6rjGsaXcgH7cCvy5Fe58kr) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq), [merdo](https://open.spotify.com/artist/4zj3JQTMbo8zJOWexFTuz3) | [DINAMIK MOD](https://open.spotify.com/album/4RqzSPxGa8YPMEvNyjYoY1) | 2:07 | 2026-04-30 |  |
 | [Şans & Para](https://open.spotify.com/track/1ygSfFq5dgWAsAZ9n6cmFR) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [Şans & Para](https://open.spotify.com/album/2XZAoFvyOlZhm43rHwFqXH) | 2:36 | 2026-03-13 | 2026-03-27 |

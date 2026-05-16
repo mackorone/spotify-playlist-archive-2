@@ -629,6 +629,28 @@
     },
     {
       "album": {
+        "name": "The World Meets Los Mirlos",
+        "url": "https://open.spotify.com/album/0WDu5tUg69jIZRrIy9dsLx"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185051,
+      "name": "De Jueves a Jueves",
+      "url": "https://open.spotify.com/track/69eH4RW7DqhhOo1zhlGwRG"
+    },
+    {
+      "album": {
         "name": "Expreso Tropical Parada 1",
         "url": "https://open.spotify.com/album/5uoW9SUUtQ17G3pLHwdmV9"
       },
@@ -1370,7 +1392,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 218101,
       "name": "La Caballita",
       "url": "https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P"

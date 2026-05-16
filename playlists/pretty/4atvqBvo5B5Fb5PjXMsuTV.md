@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4atvqBvo5B5Fb5PjXMsuTV.md) - [plain]
 
 > Playlist abandoned\. More info in r&\#x2F;Listige
 
-[Listige](https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis) - 104 likes - 50 songs - 2 hr 34 min
+[Listige](https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis) - 103 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

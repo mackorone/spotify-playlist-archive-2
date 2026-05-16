@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Luhh Dyl",
+  "description": "The Midwest is always on time. Cover: LUCKI",
   "name": "CST",
   "tracks": [
     {
@@ -596,7 +596,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 147000,
       "name": "2v2 (with EBK Jaaybo)",
       "url": "https://open.spotify.com/track/7rGDpPYmXZ9JcWtizej9JE"
@@ -4549,6 +4549,28 @@
     },
     {
       "album": {
+        "name": "Buncha Crunch (with 1900Rugrat)",
+        "url": "https://open.spotify.com/album/7uC0mNgg5aSjFvGA6lUMlj"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        },
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186153,
+      "name": "Buncha Crunch (with 1900Rugrat)",
+      "url": "https://open.spotify.com/track/11JxCtqkx7imFb3vA7kivF"
+    },
+    {
+      "album": {
         "name": "7220 (Deluxe)",
         "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
       },
@@ -6049,6 +6071,24 @@
     },
     {
       "album": {
+        "name": "Conqueror",
+        "url": "https://open.spotify.com/album/5QZ0jmUyc4hol2BwdJSN9O"
+      },
+      "artists": [
+        {
+          "name": "Big Ro6",
+          "url": "https://open.spotify.com/artist/4Jucp7VkE23J0DndVXzJGM"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127824,
+      "name": "Conqueror",
+      "url": "https://open.spotify.com/track/5ikJhytCK05sBa5v3fQvhD"
+    },
+    {
+      "album": {
         "name": "Ladies Free 'Til Midnight",
         "url": "https://open.spotify.com/album/4VMDkV6sk3YLotNfPkMrhg"
       },
@@ -6760,7 +6800,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 182282,
       "name": "Decisions - Remix",
       "url": "https://open.spotify.com/track/0Pxug7GU6Def6Vuibf6fAq"
@@ -6862,7 +6902,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 145321,
       "name": "Dialect",
       "url": "https://open.spotify.com/track/6D3g1KZXFrwwJ9H3Q1fhxe"
@@ -8493,6 +8533,36 @@
     },
     {
       "album": {
+        "name": "Back To The Basics",
+        "url": "https://open.spotify.com/album/5tylmoH5FIqwbFj7TQskB5"
+      },
+      "artists": [
+        {
+          "name": "ShittyBoyz",
+          "url": "https://open.spotify.com/artist/0ztFqsZLzjkKU2aRyeqQ9S"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "StanWill",
+          "url": "https://open.spotify.com/artist/0fvPHeXr0H4AMsxvO62DdX"
+        },
+        {
+          "name": "Trdee",
+          "url": "https://open.spotify.com/artist/48BxYnkFMs8KAXg23YTWXi"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Fetty, Mula, Gwalla",
+      "url": "https://open.spotify.com/track/4z5fUVKzFrcvqlCFJ1cXqS"
+    },
+    {
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
       },
@@ -8750,7 +8820,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 166452,
       "name": "Focus on Music (feat. FattMack)",
       "url": "https://open.spotify.com/track/3S7b0oRY7CfB2GJLsuDSl0"
@@ -9738,6 +9808,24 @@
       "duration_ms": 131368,
       "name": "Get Dangerous",
       "url": "https://open.spotify.com/track/43GoEZsawcNzDxSzSYu11s"
+    },
+    {
+      "album": {
+        "name": "Get Geeked",
+        "url": "https://open.spotify.com/album/6RFyFR5JY3H2gnRbulcNzD"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177235,
+      "name": "Get Geeked",
+      "url": "https://open.spotify.com/track/6siwX3kCcPSVpVipT5jkqa"
     },
     {
       "album": {
@@ -11083,6 +11171,24 @@
     },
     {
       "album": {
+        "name": "GYSM",
+        "url": "https://open.spotify.com/album/7bMuZOYAqEW9GQIuMZwr5q"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159271,
+      "name": "GYSM",
+      "url": "https://open.spotify.com/track/4yubdvC6YyC2KGXJEiQXia"
+    },
+    {
+      "album": {
         "name": "2 Effortless",
         "url": "https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz"
       },
@@ -11506,6 +11612,24 @@
       "duration_ms": 237413,
       "name": "Head Shot / Gas In The Truck",
       "url": "https://open.spotify.com/track/369I51M6XDujuwDlj3GW6R"
+    },
+    {
+      "album": {
+        "name": "Head Turner",
+        "url": "https://open.spotify.com/album/3L9dCHlOpiyjQHpjLRDCPQ"
+      },
+      "artists": [
+        {
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94702,
+      "name": "Head Turner",
+      "url": "https://open.spotify.com/track/3vgHXXOYNm2dydVn8pYbWs"
     },
     {
       "album": {
@@ -15772,7 +15896,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 107462,
       "name": "Literally Doe",
       "url": "https://open.spotify.com/track/4Apwb0CmqWn00TMzjqMyaA"
@@ -21779,6 +21903,24 @@
     },
     {
       "album": {
+        "name": "RAMBO",
+        "url": "https://open.spotify.com/album/7ijg5BRj15OUSEX1iLHzeV"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164154,
+      "name": "RAMBO",
+      "url": "https://open.spotify.com/track/66GGhX3SJmgrsaVKaNtIDN"
+    },
+    {
+      "album": {
         "name": "Rambo",
         "url": "https://open.spotify.com/album/5f4G7z7WnhVKWhOgrHILG1"
       },
@@ -23646,7 +23788,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 253545,
       "name": "Sex Mula / Pete",
       "url": "https://open.spotify.com/track/3GYHuDB41dr237iGsj6jQ8"
@@ -25240,7 +25382,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 122502,
       "name": "Speaking French (feat. Babyfxce E & 1up Tee)",
       "url": "https://open.spotify.com/track/1jRpdTKZHbT2DGRf1fuXTB"
@@ -27214,7 +27356,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 108741,
       "name": "The Crib",
       "url": "https://open.spotify.com/track/24Ym3gRXhvOSfkwgij676L"
@@ -29531,6 +29673,24 @@
     },
     {
       "album": {
+        "name": "Dr*gs R Bad",
+        "url": "https://open.spotify.com/album/0w31mbjD6bT4eckeQFWDt3"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108017,
+      "name": "UR A VET!",
+      "url": "https://open.spotify.com/track/3qpZN0QHjQygK8nUSdnYe5"
+    },
+    {
+      "album": {
         "name": "Flint 2 Detroit",
         "url": "https://open.spotify.com/album/2ip3X3OPt0lDI56vgnjk0Z"
       },
@@ -30334,7 +30494,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 137701,
       "name": "West to East (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/7wbEwA6nnbdZA2QESPFdea"

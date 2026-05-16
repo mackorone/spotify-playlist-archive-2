@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  Santamarea in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,281 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,282 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 59 | [ULTRANCE](https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [ULTRANCE](https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv) | 5:39 |
 | 60 | [Cambiare l’acqua ai fiori](https://open.spotify.com/track/3hiWaxuxemFaqShQZwga4C) | [Mavie](https://open.spotify.com/artist/30GaJAaSibzoE6iOBSO9N7), [SƏDD](https://open.spotify.com/artist/6UmF8CLM8rEIIioHBpqbrs) | [Cambiare l’acqua ai fiori](https://open.spotify.com/album/3Q0PzrJz8h1svqQgOLMpQk) | 3:29 |
 
-Snapshot ID: `AAAAAOaXO5byqbt39ord5sUWZBpEoknC`
+Snapshot ID: `AAAAAJxCNTk/ldweT53UMoutp8FDaNX1`

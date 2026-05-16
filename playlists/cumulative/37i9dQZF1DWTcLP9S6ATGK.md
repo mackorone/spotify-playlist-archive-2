@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: DIKTA
 
-913 songs - 2 day 11 hr 32 min
+914 songs - 2 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Izinkan Hatimu Bicara](https://open.spotify.com/track/5ZxoU3xRM3bx55bb3VZTT8) | [Segara](https://open.spotify.com/artist/0WjyOvIkQBnivAPEMLRMIC) | [Izinkan Hatimu Bicara](https://open.spotify.com/album/1UhNjlBNxHOdUY9euNqyVj) | 4:29 | 2025-09-11 | 2025-11-07 |
 | [Jadi Tuan Putri](https://open.spotify.com/track/0Gm4kBHqEQjRfZdxyQE34L) | [Asila Maisa](https://open.spotify.com/artist/0RdcUOv3TaCqZYuzOY8gRd) | [Jadi Tuan Putri](https://open.spotify.com/album/707IGnRDU5iD3sNGnz6DXU) | 4:03 | 2025-06-26 | 2025-09-26 |
 | [Jahat Sekali](https://open.spotify.com/track/2CazsQWcpzxqTq1sjHiV6x) | [Kezia](https://open.spotify.com/artist/2CcuEDxpgMLXTjNf1sci2b) | [Jahat Sekali](https://open.spotify.com/album/7uGeYMbJ1fAcPRywmZbVFv) | 3:32 | 2024-06-27 | 2024-07-27 |
+| [Jakarta Ku dan Kau](https://open.spotify.com/track/6Z7wKOSgezQygxbsAAdnza) | [BOBSMAN X](https://open.spotify.com/artist/2TLLtFn3oshIGqGID493Gn) | [Jakarta Ku dan Kau](https://open.spotify.com/album/5xU6H9OszL31vhyJL0mQNS) | 4:37 | 2026-05-15 |  |
 | [Jalan Cinta \(Original Soundtrack From “Assalamualaikum Baitullah"\)](https://open.spotify.com/track/27KhyqAvZqTqYlD0aRUqSE) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Jalan Cinta \(Original Soundtrack From “Assalamualaikum Baitullah"\)](https://open.spotify.com/album/4lZ41YXIm8xnJZ2qQp7OjX) | 4:34 | 2025-05-29 | 2025-06-27 |
 | [Jalan Lain](https://open.spotify.com/track/2fdzJZLSEr6t5TxAi0ZeK2) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Jalan Lain](https://open.spotify.com/album/2wxWEZmV1vACyuz7iWCJj5) | 4:08 | 2025-10-30 | 2025-11-28 |
 | [Jangan Cepat Tua](https://open.spotify.com/track/43eBFRxyPAAphGaFKznWHF) | [Mirabeth](https://open.spotify.com/artist/3Xpap1vsMoPjVutjOxevPc) | [Jangan Cepat Tua](https://open.spotify.com/album/4568SX5ckiLdN1oVb5ZV6r) | 3:20 | 2025-05-08 | 2025-06-27 |

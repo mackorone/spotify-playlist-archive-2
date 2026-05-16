@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Din\u00e1micos Jrs en portada.",
-  "num_followers": 529840,
+  "num_followers": 529867,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -347,38 +347,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Evolucionando",
-        "url": "https://open.spotify.com/album/2rntMI420qF9TIyX7is9aQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 167552,
-      "name": "Evolucionando",
-      "url": "https://open.spotify.com/track/1XW5OWtjaJ3NqZtbADTop0"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
-        "name": "Porte Fino",
-        "url": "https://open.spotify.com/album/3j4U4t9SGuYRL5RXg7FOGV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fernandez",
-          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Porte Fino",
-      "url": "https://open.spotify.com/track/0HASNzmL0ZNhtqTuNqny9y"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "De Los Dientes Pa Fuera",
         "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
       },
@@ -399,6 +367,38 @@
       "duration_ms": 168664,
       "name": "De Los Dientes Pa Fuera",
       "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Porte Fino",
+        "url": "https://open.spotify.com/album/3j4U4t9SGuYRL5RXg7FOGV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fernandez",
+          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Porte Fino",
+      "url": "https://open.spotify.com/track/0HASNzmL0ZNhtqTuNqny9y"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Evolucionando",
+        "url": "https://open.spotify.com/album/2rntMI420qF9TIyX7is9aQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "duration_ms": 167552,
+      "name": "Evolucionando",
+      "url": "https://open.spotify.com/track/1XW5OWtjaJ3NqZtbADTop0"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Hoy La Vi Pasar",
-        "url": "https://open.spotify.com/album/5pYF9PIn9tJmZB6Vk9qTmW"
-      },
-      "artists": [
-        {
-          "name": "Geru y Su Legion 7",
-          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Hoy La Vi Pasar",
-      "url": "https://open.spotify.com/track/5sdP4Y32tdclTWN9bIwKn0"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Fuera Mas Feliz",
         "url": "https://open.spotify.com/album/1sEAPhutMLCyyChH05Moru"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 141285,
       "name": "Fuera Mas Feliz",
       "url": "https://open.spotify.com/track/03hxCxEXYvCBtoLizpPIzT"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Hoy La Vi Pasar",
+        "url": "https://open.spotify.com/album/5pYF9PIn9tJmZB6Vk9qTmW"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Hoy La Vi Pasar",
+      "url": "https://open.spotify.com/track/5sdP4Y32tdclTWN9bIwKn0"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -623,26 +623,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "Dos Pa\u2019 Llevar",
-        "url": "https://open.spotify.com/album/3nxYz2EnMw30nlKEapESez"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        },
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Dos Pa\u2019 Llevar",
-      "url": "https://open.spotify.com/track/6cJEM8mVrQhP00Z5D49XsR"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Nomas Pa Que Sepan",
         "url": "https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 169830,
       "name": "Nomas Pa Que Sepan",
       "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "Dos Pa\u2019 Llevar",
+        "url": "https://open.spotify.com/album/3nxYz2EnMw30nlKEapESez"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Dos Pa\u2019 Llevar",
+      "url": "https://open.spotify.com/track/6cJEM8mVrQhP00Z5D49XsR"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
+        "name": "Tokio",
+        "url": "https://open.spotify.com/album/413VfZS0gDZw3pXhMEmzoT"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        }
+      ],
+      "duration_ms": 140145,
+      "name": "Tokio",
+      "url": "https://open.spotify.com/track/5McvNcl1jvckdcGc5I316i"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
         "name": "Fondo de Pantalla",
         "url": "https://open.spotify.com/album/3p0BZHZ4TAqS5TMWOf0bcn"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 148504,
       "name": "Fondo de Pantalla",
       "url": "https://open.spotify.com/track/2kB7CPK1WlijXjrzeK58Gk"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
-        "name": "Tokio",
-        "url": "https://open.spotify.com/album/413VfZS0gDZw3pXhMEmzoT"
-      },
-      "artists": [
-        {
-          "name": "Al Tiro de Armando Ramos",
-          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
-        }
-      ],
-      "duration_ms": 140145,
-      "name": "Tokio",
-      "url": "https://open.spotify.com/track/5McvNcl1jvckdcGc5I316i"
     },
     {
       "added_at": "2026-05-08 06:00:22",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-08 06:00:22",
       "album": {
-        "name": "IMPERIO",
-        "url": "https://open.spotify.com/album/1BTjfD9iXvnGQxUBuUPOKS"
-      },
-      "artists": [
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        }
-      ],
-      "duration_ms": 238463,
-      "name": "Las Drzl",
-      "url": "https://open.spotify.com/track/01JKMAdkL6PAG0F4SFYL0E"
-    },
-    {
-      "added_at": "2026-05-08 06:00:22",
-      "album": {
         "name": "Amor Sin Contrato",
         "url": "https://open.spotify.com/album/2oZipBuWHNLi1D3tECdRpx"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 183352,
       "name": "Amor Sin Contrato",
       "url": "https://open.spotify.com/track/093oUp7Hi7hY7bcjIjqTN6"
+    },
+    {
+      "added_at": "2026-05-08 06:00:22",
+      "album": {
+        "name": "IMPERIO",
+        "url": "https://open.spotify.com/album/1BTjfD9iXvnGQxUBuUPOKS"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "duration_ms": 238463,
+      "name": "Las Drzl",
+      "url": "https://open.spotify.com/track/01JKMAdkL6PAG0F4SFYL0E"
     },
     {
       "added_at": "2026-05-08 06:00:22",

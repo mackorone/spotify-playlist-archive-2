@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new, contemporary Ambient, Atmospheric & Neo-Classical \ud83e\ude90 Cover: Lara Somogyi",
+  "description": "The cutting edge in new, contemporary Ambient, Atmospheric & Neo-Classical \ud83e\ude90 Cover: KROY",
   "name": "New Ambient",
   "tracks": [
     {
@@ -2349,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Amherst",
+        "url": "https://open.spotify.com/album/0yXgnrMt1E2ZDHFAnZofQa"
+      },
+      "artists": [
+        {
+          "name": "EMBA Soundsystem",
+          "url": "https://open.spotify.com/artist/7xfw80kRsT94FJ5fcE2YYM"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317379,
+      "name": "Amherst",
+      "url": "https://open.spotify.com/track/396XXgXNBrJuck7NV9rgLa"
+    },
+    {
+      "album": {
         "name": "Amidst the Tall Grass",
         "url": "https://open.spotify.com/album/6dzkzzPE3wnRWaFdVjg098"
       },
@@ -2866,10 +2884,32 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 171109,
       "name": "Around the Lake, as Time Slows",
       "url": "https://open.spotify.com/track/17B4wddBzQfJFR4t8LZRBS"
+    },
+    {
+      "album": {
+        "name": "Arp Angels",
+        "url": "https://open.spotify.com/album/7ERxaYlFTnLGN5r5gxSzrJ"
+      },
+      "artists": [
+        {
+          "name": "Discovery Zone",
+          "url": "https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt"
+        },
+        {
+          "name": "World Brain",
+          "url": "https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362366,
+      "name": "Arp Angels",
+      "url": "https://open.spotify.com/track/0yHU14vhz98spCJzaKHdK7"
     },
     {
       "album": {
@@ -3160,7 +3200,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 360000,
       "name": "Ascent (Live)",
       "url": "https://open.spotify.com/track/3EseQWuQF7oqOdLBk7o0x8"
@@ -6658,6 +6698,24 @@
       "duration_ms": 403980,
       "name": "City Of Red Sand",
       "url": "https://open.spotify.com/track/5pQI4osudR5207IiprBP7J"
+    },
+    {
+      "album": {
+        "name": "CITY OF RESONANCE: DISTORTION",
+        "url": "https://open.spotify.com/album/5f1NjTQUxu0qICL9V6VGSc"
+      },
+      "artists": [
+        {
+          "name": "Exportion",
+          "url": "https://open.spotify.com/artist/0brCtEXtI0eniWvODW8s2q"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315573,
+      "name": "CITY OF RESONANCE: DISTORTION",
+      "url": "https://open.spotify.com/track/66CeQAzfUXlwHpAXKfMPNR"
     },
     {
       "album": {
@@ -10843,6 +10901,28 @@
     },
     {
       "album": {
+        "name": "everything to me",
+        "url": "https://open.spotify.com/album/1AG9Fwu6kj9NvIMdQ4Wav7"
+      },
+      "artists": [
+        {
+          "name": "no.way.out",
+          "url": "https://open.spotify.com/artist/4gIqPf7TvdoSFkmr8Fzw4D"
+        },
+        {
+          "name": "LochHaven",
+          "url": "https://open.spotify.com/artist/5u9yfFjiKlQJft9MBAcRcr"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142627,
+      "name": "everything to me",
+      "url": "https://open.spotify.com/track/0nlSFoSsBpZFCl7IHlbdis"
+    },
+    {
+      "album": {
         "name": "on my new piano",
         "url": "https://open.spotify.com/album/4a63M6pks1EnuhO60gXb6P"
       },
@@ -11610,6 +11690,24 @@
       "duration_ms": 434696,
       "name": "Flesh",
       "url": "https://open.spotify.com/track/5fFk95hDPNBF3UQkwSOim3"
+    },
+    {
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/34DkjvJal7ulo7847rSsDN"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97983,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/6dg1ihQ3Ev02yTqwdxA9OH"
     },
     {
       "album": {
@@ -12893,6 +12991,24 @@
     },
     {
       "album": {
+        "name": "Music To Watch Seeds By 007: Brian D'Souza (Sunflowers)",
+        "url": "https://open.spotify.com/album/1Vn0pbpGBUL3jeg1m6GRut"
+      },
+      "artists": [
+        {
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306520,
+      "name": "Germination",
+      "url": "https://open.spotify.com/track/1agDeqh9KRbHxTSFqnZb27"
+    },
+    {
+      "album": {
         "name": "Rediscovered Works",
         "url": "https://open.spotify.com/album/6hkFBHpsump1QSxT5wicb0"
       },
@@ -13162,6 +13278,28 @@
       "duration_ms": 245909,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/2RYROnuy9hCQh9P8L21Whg"
+    },
+    {
+      "album": {
+        "name": "goethite",
+        "url": "https://open.spotify.com/album/5qkPyxH9elarvGHnxPFo3M"
+      },
+      "artists": [
+        {
+          "name": "coulou's cafe",
+          "url": "https://open.spotify.com/artist/5EHMIshG4dQaW4MrIj9cHa"
+        },
+        {
+          "name": "COULOU",
+          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "goethite",
+      "url": "https://open.spotify.com/track/0ctAcnpjdaB29zyziKkVWT"
     },
     {
       "album": {
@@ -14314,7 +14452,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 613980,
       "name": "Hill Blocks View",
       "url": "https://open.spotify.com/track/3uOW5j1bSslTwy0ajoFhfc"
@@ -18469,6 +18607,24 @@
     },
     {
       "album": {
+        "name": "Loop the Pause",
+        "url": "https://open.spotify.com/album/4aRPj6DPFDFmCXdAYKtpjy"
+      },
+      "artists": [
+        {
+          "name": "Gint\u0117 Preisait\u0117",
+          "url": "https://open.spotify.com/artist/5D33eNZh5iFRm3tIJf3Zit"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343894,
+      "name": "Loop the Pause",
+      "url": "https://open.spotify.com/track/1XImDkD0AST4TqFNANi4Ow"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/4A6GPQTSjb6qoNCYDuanwl"
       },
@@ -18592,7 +18748,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 167500,
       "name": "Love Particles",
       "url": "https://open.spotify.com/track/0VRMa5Q2BJYfOwY5R3geui"
@@ -19568,7 +19724,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 248238,
       "name": "Memory Garden",
       "url": "https://open.spotify.com/track/3uDlFdakzc4b7oyrmnFkiY"
@@ -20944,7 +21100,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 200088,
       "name": "My Reflection, Glimmering",
       "url": "https://open.spotify.com/track/6uB2Q2p5diBhlNCvcXhRyw"
@@ -24152,7 +24308,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 212093,
       "name": "Perfect Radiance",
       "url": "https://open.spotify.com/track/0lDYR7vZ0xV6cxY25xOwwB"
@@ -24170,7 +24326,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 384000,
       "name": "periferi",
       "url": "https://open.spotify.com/track/3ytorOvPTZGJr0padwLgLv"
@@ -27030,7 +27186,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 169714,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/18CuNIwshz1KXVOlUH5CIG"
@@ -28650,7 +28806,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 227167,
       "name": "Sketched",
       "url": "https://open.spotify.com/track/6xqO3HX2wIbVIv58XaXRIK"
@@ -29288,6 +29444,32 @@
       "duration_ms": 232073,
       "name": "solari",
       "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
+    },
+    {
+      "album": {
+        "name": "The Tingbjerg Experiment",
+        "url": "https://open.spotify.com/album/5QZWD9BC4MdDhVwBpDVlcO"
+      },
+      "artists": [
+        {
+          "name": "Jonas Colstrup",
+          "url": "https://open.spotify.com/artist/5ZRR9BnCZ89uKNgkvnwCJ2"
+        },
+        {
+          "name": "Rutger Hoedemaekers",
+          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
+        },
+        {
+          "name": "Anders Banke",
+          "url": "https://open.spotify.com/artist/5K2BbiCn4tfY1gZuyWZM0g"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204410,
+      "name": "Solgavl",
+      "url": "https://open.spotify.com/track/7wK4vNtAdUdvkOWziQo9No"
     },
     {
       "album": {
@@ -30755,6 +30937,24 @@
     },
     {
       "album": {
+        "name": "Counting Sunsets",
+        "url": "https://open.spotify.com/album/0tA6nSLBJ02G274Py3mhGz"
+      },
+      "artists": [
+        {
+          "name": "SUSS",
+          "url": "https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219920,
+      "name": "Sunset III",
+      "url": "https://open.spotify.com/track/6BcjbcG9pcOVdt44WNvd8s"
+    },
+    {
+      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
       },
@@ -31434,6 +31634,24 @@
       "duration_ms": 342173,
       "name": "The Aurae Loops",
       "url": "https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF"
+    },
+    {
+      "album": {
+        "name": "Cliff Workshop",
+        "url": "https://open.spotify.com/album/4jJIVJfrCQWDA6gUdpCB7t"
+      },
+      "artists": [
+        {
+          "name": "Euan Dalgarno",
+          "url": "https://open.spotify.com/artist/6GOLDCwwSXikefMKiGz0Ry"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207269,
+      "name": "The Bealach",
+      "url": "https://open.spotify.com/track/2NmXDcG2Qabe2qRf9fXlvx"
     },
     {
       "album": {
@@ -35934,7 +36152,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 185144,
       "name": "What It's Like to Be a Bat 16",
       "url": "https://open.spotify.com/track/3lhGeC6bgKU8tGLzLTGjpq"
@@ -36626,7 +36844,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 265073,
       "name": "With Little Left To Say",
       "url": "https://open.spotify.com/track/1iZAq3Po0LNyeZgWPneiGP"
@@ -37348,6 +37566,28 @@
       "duration_ms": 233786,
       "name": "\u00e9tude03 . C O L L I D E R . AMII.0-RW003",
       "url": "https://open.spotify.com/track/7z2E2HFkKIsMUnnZq3dsIo"
+    },
+    {
+      "album": {
+        "name": "\u00e9tude05 . R O A M E R . AMII.0-RW005",
+        "url": "https://open.spotify.com/album/1vLeV6L7TCvHZHOihsJx6k"
+      },
+      "artists": [
+        {
+          "name": "KROY",
+          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
+        },
+        {
+          "name": "Sevendeaths",
+          "url": "https://open.spotify.com/artist/2w2KeI4G39Cn8m24ZpgIJW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251226,
+      "name": "\u00e9tude05 . R O A M E R . AMII.0-RW005",
+      "url": "https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR"
     },
     {
       "album": {

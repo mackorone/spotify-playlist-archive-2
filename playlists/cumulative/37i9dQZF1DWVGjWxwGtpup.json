@@ -6693,6 +6693,24 @@
     },
     {
       "album": {
+        "name": "PA' LO BONITO",
+        "url": "https://open.spotify.com/album/5mGAa5FK8KBXgx8YNULGZg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184217,
+      "name": "PA' LO BONITO",
+      "url": "https://open.spotify.com/track/4CwjBJDjhjYeGTzajJe0qP"
+    },
+    {
+      "album": {
         "name": "Pal Agua",
         "url": "https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt"
       },

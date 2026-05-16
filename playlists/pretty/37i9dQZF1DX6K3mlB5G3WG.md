@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Gracie Abrams in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,274 likes - 137 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,283 likes - 137 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 14 | [Serenamente](https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:16 |
 | 15 | [Aranciata](https://open.spotify.com/track/6Ytq1UqEa7M6JU3viWheCO) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Aranciata](https://open.spotify.com/album/58oNEAAdQ2eFvX2GZNBL8x) | 3:32 |
 | 16 | [VOLEVO CAPIRE CON MARRACASH](https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 2:37 |
-| 17 | [Cabana](https://open.spotify.com/track/0mky62869TYpIcvQ9NmOtY) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Cabana](https://open.spotify.com/album/6jZqXuGjnCopndMocQFEcm) | 2:47 |
+| 17 | [Cabana](https://open.spotify.com/track/0mky62869TYpIcvQ9NmOtY) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Cabana](https://open.spotify.com/album/6jZqXuGjnCopndMocQFEcm) | 2:41 |
 | 18 | [EPA](https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [EPA](https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ) | 3:22 |
 | 19 | [Paraíso \(feat\. PRACI\)](https://open.spotify.com/track/3oFDugsZh7LccP3xzhOvYe) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [CATALINA](https://open.spotify.com/album/7fqG8FHvN56MVDBZy08u1F) | 2:34 |
 | 20 | [Gatti](https://open.spotify.com/track/7HdVSBG6fqXYyEbizxIQwJ) | [Rareș](https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8) | [Gatti](https://open.spotify.com/album/0nbeL6zELxhyONSkTosGqA) | 2:58 |

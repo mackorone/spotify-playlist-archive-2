@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-180 songs - 9 hr 28 min
+181 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Shot Me Alive](https://open.spotify.com/track/0p4i3IVz9DMiSs2yq4LiQP) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Shot Me Alive](https://open.spotify.com/album/0JeH0Zusi2x59hwWik9Za9) | 3:06 | 2023-03-17 | 2026-02-28 |
 | [Sinner Like Me](https://open.spotify.com/track/01sSGVKLUffTpikbdvjEwl) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Certified Savage](https://open.spotify.com/album/0bM7pyWrF2NRJmqppf09hY) | 2:28 | 2023-03-17 |  |
 | [Sippin Country](https://open.spotify.com/track/04uX1QLFvK4AnJTiPsh2Jq) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Sippin Country](https://open.spotify.com/album/4tWkV00ldGSxSwCBrCrvZd) | 2:39 | 2025-08-15 |  |
+| [Solitary Sunrise](https://open.spotify.com/track/0FnrYTWJGIV4Z4RG12awmn) | [Big Mo](https://open.spotify.com/artist/6p0IWgx77UVIe3OBcaSgdA), [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Solitary Sunrise](https://open.spotify.com/album/5YIj0UkyEwheTooHZXT7SO) | 2:17 | 2026-05-15 |  |
 | [Son Of The Dirty South](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [So Help Me God](https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL) | 2:59 | 2023-03-17 | 2024-04-19 |
 | [Son Of The Dirty South](https://open.spotify.com/track/6e5zD3UWwZmbae4jN3qibs) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Son Of The Dirty South](https://open.spotify.com/album/4GLrwjbdcgzlW3MGWJFarS) | 2:59 | 2024-04-19 |  |
 | [Southern Land](https://open.spotify.com/track/2bX3Cb6QE8OetYBwJKnd0o) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Southern Land](https://open.spotify.com/album/06O3dxp8QBUjimf94haj4q) | 3:42 | 2023-03-17 |  |

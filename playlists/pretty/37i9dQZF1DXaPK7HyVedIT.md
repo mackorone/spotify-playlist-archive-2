@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Vintage Culture, Volkoder
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,960 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,030 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 9 | [Set Me Free \- Rádio Edit](https://open.spotify.com/track/3240jnbMK07ufMoL8kxtar) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [ALL GOOD](https://open.spotify.com/artist/5qwY84ciZLx403sJ6Mra5M) | [Set Me Free \(Radio Edit\)](https://open.spotify.com/album/4RMQLwmXPmoO8HLVeJVfTH) | 2:50 |
 | 10 | [Machine](https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Machine](https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio) | 2:33 |
 | 11 | [Baile Lotadão](https://open.spotify.com/track/0EBJmDpmMlHwioc5OEyNd8) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Baile Lotadão](https://open.spotify.com/album/4nmXTGDefT5zsdDv1GqwaC) | 3:00 |
-| 12 | [Track 1](https://open.spotify.com/track/2wjJc5f7Xy4EksJvv40qUv) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Friends](https://open.spotify.com/album/5jm2SNw5FX4YUVeB8qCXOI) | 0:00 |
+| 12 | [My Friend](https://open.spotify.com/track/2wjJc5f7Xy4EksJvv40qUv) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Friends](https://open.spotify.com/album/5jm2SNw5FX4YUVeB8qCXOI) | 4:34 |
 | 13 | [Pa Ca](https://open.spotify.com/track/5CWPDL3gvV8xq3VBwjNrTR) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Pa Ca](https://open.spotify.com/album/4EBRbhLcGhOjIMfeMv5UoP) | 3:05 |
 | 14 | [Saturn Storm](https://open.spotify.com/track/3hTphn9Yj76uUJe3mZDbq0) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Nana Torres](https://open.spotify.com/artist/3Y7qOams3aO2VkPvq3Xz1S) | [Saturn Storm](https://open.spotify.com/album/1U19xKKGgUTdIx4ITVB7cG) | 3:08 |
 | 15 | [Groove In](https://open.spotify.com/track/6HNDqY2aY9L7UuRGzA9gw5) | [Tough Art](https://open.spotify.com/artist/6XiVEatJ4Bq46wONrrSJwA) | [Groove In](https://open.spotify.com/album/6p0dxT8vJNybsgPWDwUYXO) | 3:32 |

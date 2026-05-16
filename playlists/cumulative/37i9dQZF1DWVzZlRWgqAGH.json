@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "PJ Morton and music for your soul.",
+  "description": "Tone Stith and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -464,6 +464,24 @@
       "duration_ms": 195000,
       "name": "5 Minutes",
       "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
+    },
+    {
+      "album": {
+        "name": "6 Years",
+        "url": "https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "6 Years",
+      "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
     },
     {
       "album": {
@@ -8514,7 +8532,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 165081,
       "name": "Douwannabwitastar!?",
       "url": "https://open.spotify.com/track/3de4w5RMotY7NBXG7vtP4O"
@@ -12706,6 +12724,24 @@
       "duration_ms": 224465,
       "name": "Gone [Feat. YBN Cordae, Bilal, Herbie Hancock]",
       "url": "https://open.spotify.com/track/5Dc2XqowT9KluHHGTA8nIN"
+    },
+    {
+      "album": {
+        "name": "The Understudy",
+        "url": "https://open.spotify.com/album/5sEuEM1OXuOWFP01dqICQs"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Waddell",
+          "url": "https://open.spotify.com/artist/5VicbscvXlAJafb1vdsCSY"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/7kVG1avM3wAm5nd19Mpamj"
     },
     {
       "album": {
@@ -23591,6 +23627,24 @@
     },
     {
       "album": {
+        "name": "THE EDGE",
+        "url": "https://open.spotify.com/album/0OeCOxmJZPbLdSZYSmHYg8"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172605,
+      "name": "PAGEANT STAGE",
+      "url": "https://open.spotify.com/track/18xbuNAEvWdiJpFMLgyRHj"
+    },
+    {
+      "album": {
         "name": "Pain, no Percocet",
         "url": "https://open.spotify.com/album/21NMZv3MRj4nw6O75v5hha"
       },
@@ -24766,6 +24820,24 @@
       "duration_ms": 244088,
       "name": "Pressed, Vol. 2",
       "url": "https://open.spotify.com/track/1Gj9GvOJjBle9RhhF5BUNr"
+    },
+    {
+      "album": {
+        "name": "Pressha",
+        "url": "https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256855,
+      "name": "Pressha",
+      "url": "https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM"
     },
     {
       "album": {

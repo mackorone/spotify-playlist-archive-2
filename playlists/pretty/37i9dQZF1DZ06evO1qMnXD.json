@@ -1,12 +1,12 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 298801,
+  "num_followers": 298818,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agO/AAAAAAB4dh8r5E1OwIEHsMzvkNwg",
+  "snapshot_id": "agUQgAAAAAD8tqmueA4wwpRE5+mJZsYa",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mitski on Audiotree Live",
-        "url": "https://open.spotify.com/album/5lbEsVQlcvV5tT8KBllPdh"
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
       },
       "artists": [
         {
           "name": "Mitski",
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        },
-        {
-          "name": "Audiotree",
-          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
         }
       ],
-      "duration_ms": 131530,
-      "name": "Class of 2013 - Audiotree Live Version",
-      "url": "https://open.spotify.com/track/76l5r75wE5kvPdDsksAr62"
+      "duration_ms": 164226,
+      "name": "Last Words of a Shooting Star",
+      "url": "https://open.spotify.com/track/7gn3NdQez9Pwbqak4gspz5"
     },
     {
       "added_at": null,
@@ -383,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bury Me At Makeout Creek",
-        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
+        "name": "Mitski on Audiotree Live",
+        "url": "https://open.spotify.com/album/5lbEsVQlcvV5tT8KBllPdh"
       },
       "artists": [
         {
           "name": "Mitski",
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
         }
       ],
-      "duration_ms": 164226,
-      "name": "Last Words of a Shooting Star",
-      "url": "https://open.spotify.com/track/7gn3NdQez9Pwbqak4gspz5"
+      "duration_ms": 131530,
+      "name": "Class of 2013 - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/76l5r75wE5kvPdDsksAr62"
     },
     {
       "added_at": null,

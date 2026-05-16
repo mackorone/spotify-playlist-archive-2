@@ -2153,6 +2153,36 @@
     },
     {
       "album": {
+        "name": "Burgundy",
+        "url": "https://open.spotify.com/album/0kKAsVURzU5scFPBk5wU9p"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260144,
+      "name": "Burgundy",
+      "url": "https://open.spotify.com/track/5sgaaqksfnewIky3AUrYFI"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/7CnkndNymkN758nv4t7HQf"
       },
@@ -5226,7 +5256,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 322579,
       "name": "Get Out of Town",
       "url": "https://open.spotify.com/track/5974nBdPM0feVCxqOodh9a"
@@ -12830,7 +12860,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 308082,
       "name": "Purple",
       "url": "https://open.spotify.com/track/5KFe3NMgHSHLGZ6bYhP7iE"
@@ -14130,6 +14160,24 @@
       "duration_ms": 347173,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/13tBNWKIqlZwijZ9rFFS13"
+    },
+    {
+      "album": {
+        "name": "Something's Coming",
+        "url": "https://open.spotify.com/album/6D9DAFPfXNTWk6yC7uw7Rk"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217267,
+      "name": "Something's Coming",
+      "url": "https://open.spotify.com/track/7nYmZ9g27zZYXzLYrhcPvE"
     },
     {
       "album": {

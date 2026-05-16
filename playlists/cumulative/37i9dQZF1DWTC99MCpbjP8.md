@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-691 songs - 1 day 5 hr 54 min
+694 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Passage sombre](https://open.spotify.com/track/4w4Q3SAYzhKrHgfht808pu) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:14 | 2023-10-23 | 2023-11-20 |
 | [Passage sombre](https://open.spotify.com/track/5smttO5h6jZ8dQor21hMkE) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Obscur Chemin](https://open.spotify.com/album/055lgvZKUwKdN8LHpXBZJo) | 2:14 | 2023-11-13 | 2024-04-19 |
 | [Passeggiata Serale](https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Passeggiata Serale](https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS) | 2:12 | 2023-08-21 |  |
+| [Pavane for the Hopeful](https://open.spotify.com/track/3ineGTZI37fvfO6DHekqjO) | [Gustav Potter](https://open.spotify.com/artist/26s4OPUnJXERdx6o2KGIL6) | [Pavane for the Hopeful](https://open.spotify.com/album/5VEOX0fhugyP5O7lFRzFic) | 2:41 | 2026-05-15 |  |
 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2022-04-22 | 2024-02-14 |
 | [Peace flow](https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Peace flow](https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm) | 2:17 | 2023-11-06 |  |
 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-04-22 | 2023-03-29 |
@@ -473,6 +474,7 @@
 | [Purity \(Single\)](https://open.spotify.com/track/2BBaNuc6B84qcMe0Mg9teB) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Purity \(Single\)](https://open.spotify.com/album/3vfqfzS0R2fz02BlGOrfdq) | 1:53 | 2022-04-22 | 2023-05-04 |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2022-04-22 | 2022-09-16 |
 | [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 | 2023-02-27 |  |
+| [Quiet Horizon](https://open.spotify.com/track/1W6HdGbCDr27POMPFLT4Td) | [Ludovic Agnes](https://open.spotify.com/artist/4l07zQkuiR10PftXNbieYZ) | [Quiet Horizon](https://open.spotify.com/album/6LTkgc9DbSpW143pvDEZ1v) | 2:32 | 2026-05-15 |  |
 | [Quiet Night](https://open.spotify.com/track/7HtkSveAKjKlzZ2w2pgCwK) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Quiet Night](https://open.spotify.com/album/4ymiis43Mn78FYNVHlqI8P) | 2:25 | 2023-08-14 | 2025-05-15 |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2022-04-22 | 2024-02-14 |
 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 | 2022-04-22 | 2023-07-19 |
@@ -659,7 +661,7 @@
 | [Vilma](https://open.spotify.com/track/6M2N8fKC1Ik2rX6ZFW9QOf) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Vilma](https://open.spotify.com/album/7Hnxfd28t4evemd8q6oLKG) | 2:00 | 2022-04-22 | 2023-01-27 |
 | [Viva Valeriana](https://open.spotify.com/track/4k8AC9xUl0o7JG7qlVQBZi) | [Anaëlle Mei](https://open.spotify.com/artist/109jb0FywTHrzudz9XfX4L) | [Viva Valeriana](https://open.spotify.com/album/5c8qEdjduemMVmUxuMKp8n) | 1:52 | 2022-11-14 | 2023-08-15 |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-04-22 | 2024-11-07 |
-| [vox mundi](https://open.spotify.com/track/2DrG61dKwMGWSl4LSb1eOW) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [vox mundi](https://open.spotify.com/album/5ceBwV6WzFugP6cpWVr3w9) | 2:33 | 2025-04-16 |  |
+| [vox mundi](https://open.spotify.com/track/2DrG61dKwMGWSl4LSb1eOW) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [vox mundi](https://open.spotify.com/album/5ceBwV6WzFugP6cpWVr3w9) | 2:33 | 2025-04-16 | 2026-05-16 |
 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 | 2022-04-22 | 2023-01-27 |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2022-04-22 | 2024-03-20 |
 | [Waiting](https://open.spotify.com/track/3w4X2NJ2SOm7nj7OpeF0t9) | [Christopher Somnus Brooks](https://open.spotify.com/artist/2IAikbE8ZfcZX1sUZeka5v) | [Waiting](https://open.spotify.com/album/3jqA7xYzhaaSpOWIncGdIi) | 2:12 | 2024-11-06 |  |
@@ -679,6 +681,7 @@
 | [When Everything Is Calm](https://open.spotify.com/track/4haSmVvaqE5H7bHoH5Ji4N) | [Jon Thebur](https://open.spotify.com/artist/2Bhpy04Xbt9Vj0siuMXx3n) | [When Everything Is Calm](https://open.spotify.com/album/0x7gVCtQ16DwBB2G9GuKrD) | 2:44 | 2023-12-12 |  |
 | [When it Rains](https://open.spotify.com/track/0Rr4of1v5A9JqNmKGCNslQ) | [Sorellien](https://open.spotify.com/artist/6tskJzai4ETnMp76lomMzr) | [When it Rains](https://open.spotify.com/album/03ioutHDCdCK2Wpjwnynww) | 2:25 | 2026-03-20 |  |
 | [When It Rains It Pours](https://open.spotify.com/track/2Dasbncj88VgX5FKh2ZVzs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [A Drop in the Ocean](https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM) | 2:28 | 2022-04-22 | 2023-04-19 |
+| [When You Go](https://open.spotify.com/track/4GisKzPibWBZumwEoe6yV3) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [When You Go](https://open.spotify.com/album/2RraZIbc5VB8AhtRGBpMSs) | 2:28 | 2026-05-15 |  |
 | [When You Leave](https://open.spotify.com/track/45ZPmGvXAAxuebk3eXJE8v) | [Julius Sedlák](https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH) | [When You Leave](https://open.spotify.com/album/6JE7wFRA9OleazQwSF9B8A) | 2:46 | 2024-09-03 | 2025-02-27 |
 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 | 2022-04-22 | 2022-05-28 |
 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-04-22 | 2022-07-28 |

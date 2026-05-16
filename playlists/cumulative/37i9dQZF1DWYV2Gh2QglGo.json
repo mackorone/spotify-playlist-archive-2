@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Kalsey Kulyk",
+  "description": "The home of Canadian country music. Cover: Shania Twain",
   "name": "North Country",
   "tracks": [
     {
@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Bad Weather",
+        "url": "https://open.spotify.com/album/2XvglEycq8eGDXVs59s45L"
+      },
+      "artists": [
+        {
+          "name": "Sheri Marie Ptolemy",
+          "url": "https://open.spotify.com/artist/1FSvvr0FJTrRRqinxwzBH7"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219568,
+      "name": "Bad Weather",
+      "url": "https://open.spotify.com/track/0xTUAjetB5iZrm18btwJ5Z"
+    },
+    {
+      "album": {
         "name": "Band of Brothers",
         "url": "https://open.spotify.com/album/4Q7CLYpIjm8au0OGagIGAU"
       },
@@ -1208,6 +1226,24 @@
       "duration_ms": 225080,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/5JlE9BmDHmUq5Ghy2j6rBg"
+    },
+    {
+      "album": {
+        "name": "Buckin' Time",
+        "url": "https://open.spotify.com/album/3gJOBumSAiaKALhHh61BeJ"
+      },
+      "artists": [
+        {
+          "name": "The Wild Palominos",
+          "url": "https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211818,
+      "name": "Buckin' Time",
+      "url": "https://open.spotify.com/track/0vngx1kZ2Y38BPFYg0zE6O"
     },
     {
       "album": {
@@ -2416,6 +2452,24 @@
       "duration_ms": 202119,
       "name": "Dirty Hands, Clean Money",
       "url": "https://open.spotify.com/track/5xI0F5mOLBB2zOjygmmdJT"
+    },
+    {
+      "album": {
+        "name": "Dirty Rosie",
+        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166792,
+      "name": "Dirty Rosie",
+      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
     },
     {
       "album": {
@@ -3774,6 +3828,24 @@
       "duration_ms": 167386,
       "name": "Got It",
       "url": "https://open.spotify.com/track/1hJzdE1N69zSEmG5VIhEwy"
+    },
+    {
+      "album": {
+        "name": "got me good",
+        "url": "https://open.spotify.com/album/6R7PeFmfgKpSxgSGuoHw6j"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169309,
+      "name": "got me good",
+      "url": "https://open.spotify.com/track/6yPGzAdjpbOWz65bx2rbNX"
     },
     {
       "album": {
@@ -5189,6 +5261,24 @@
     },
     {
       "album": {
+        "name": "I've Got a Keg",
+        "url": "https://open.spotify.com/album/0AeFwdmKMfeCJVkicdIc1l"
+      },
+      "artists": [
+        {
+          "name": "Justin Fancy",
+          "url": "https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218947,
+      "name": "I've Got a Keg",
+      "url": "https://open.spotify.com/track/52XmxHMoAUSrkCZiD2OBWw"
+    },
+    {
+      "album": {
         "name": "I've Learned",
         "url": "https://open.spotify.com/album/0RSR5g34ZYX9i8XkVcuU8V"
       },
@@ -5276,6 +5366,24 @@
       "duration_ms": 184320,
       "name": "If I\u2019m Being Honest",
       "url": "https://open.spotify.com/track/2ETyJpJZg64ap9pdg8UiKM"
+    },
+    {
+      "album": {
+        "name": "If I\u2019m Still Here",
+        "url": "https://open.spotify.com/album/10nH45WSBMECJ16qs3hAbU"
+      },
+      "artists": [
+        {
+          "name": "Dylan Burk",
+          "url": "https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213461,
+      "name": "If I\u2019m Still Here",
+      "url": "https://open.spotify.com/track/4xPF37muZeLcYs8pf8CONc"
     },
     {
       "album": {
@@ -9021,6 +9129,24 @@
     },
     {
       "album": {
+        "name": "Small Town Livin'",
+        "url": "https://open.spotify.com/album/2HcA9JfsHF2g8AFnykVFC4"
+      },
+      "artists": [
+        {
+          "name": "Dallas Alexander",
+          "url": "https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160426,
+      "name": "Small Town Livin'",
+      "url": "https://open.spotify.com/track/75itNJKchO03eboJuCSiq3"
+    },
+    {
+      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/5dLEg3MZITafGfwzp65Qev"
       },
@@ -9112,6 +9238,24 @@
       "duration_ms": 219545,
       "name": "Smooth Like Vinyl",
       "url": "https://open.spotify.com/track/6mnA0MvgEeJTQVJ1QnOqPI"
+    },
+    {
+      "album": {
+        "name": "Smooth Runnin'",
+        "url": "https://open.spotify.com/album/4TUltZG7FSdsplQFTSjWYV"
+      },
+      "artists": [
+        {
+          "name": "Delta Sweet",
+          "url": "https://open.spotify.com/artist/50y7lUCZOffDQNaQ6QVlPx"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187150,
+      "name": "Smooth Runnin'",
+      "url": "https://open.spotify.com/track/2PeMkcxVPG0S8JBXZ04fEn"
     },
     {
       "album": {
@@ -9364,6 +9508,24 @@
       "duration_ms": 181168,
       "name": "Somewhere Tonight",
       "url": "https://open.spotify.com/track/5WKvFzLf56YHXBkHEhfNCB"
+    },
+    {
+      "album": {
+        "name": "Sorry (Country Version)",
+        "url": "https://open.spotify.com/album/5eBkSxZKyGprzAvaKe75wT"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197224,
+      "name": "Sorry - Country Version",
+      "url": "https://open.spotify.com/track/4zjJQpfb5fKRsRnXLrMy7G"
     },
     {
       "album": {

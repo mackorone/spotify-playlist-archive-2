@@ -4,35 +4,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,891,770 likes - 200 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,892,276 likes - 200 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Aphelion](https://open.spotify.com/track/1UodY3ilZxndiXxrQ0XKpR) | [Aetheria Solara](https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ) | [Aphelion](https://open.spotify.com/album/7bm6yf26WJab5t3Cmn8cch) | 2:24 |
-| 2 | [Resounding Hymn](https://open.spotify.com/track/7zTRBQY1gHajCzXVt7SuEG) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Resounding Hymn](https://open.spotify.com/album/2j10948U6dLGGwPpjWm0o4) | 2:29 |
-| 3 | [Holding on to You](https://open.spotify.com/track/4LnLPZ8gTTQeKHhc6oVuIt) | [Stellar Stones](https://open.spotify.com/artist/6JMVQlGI9IA50sFiGUp8VU) | [Holding on to You](https://open.spotify.com/album/6uQw2TDXc0dlgYhxc1QIKT) | 2:50 |
-| 4 | [Samudaya](https://open.spotify.com/track/46DNp5QTdfghwXQRZiNoWA) | [Ursae Minoris](https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo) | [Samudaya](https://open.spotify.com/album/6iR8usdP6ICnVhWYJSIrhE) | 2:29 |
-| 5 | [Nebel](https://open.spotify.com/track/7ssheUnbD7wyxWAlfaU7y3) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Nebel](https://open.spotify.com/album/0eWA3yg6uIYNmZkHTbzMZQ) | 2:45 |
-| 6 | [Prepere for Landing](https://open.spotify.com/track/19kFQ1yaNQcULBHwYqGN5o) | [Lasant](https://open.spotify.com/artist/2lScaQUr3aLAdDv8aQ73bD) | [Prepere for Landing](https://open.spotify.com/album/3SIZp0hM0SQGhyP353a72A) | 2:41 |
-| 7 | [Gaia](https://open.spotify.com/track/1bbvr6vVPiXvwVP82x4jDo) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Gaia](https://open.spotify.com/album/7tGvxePt2YTUFuPPoLdG0X) | 2:28 |
-| 8 | [Timeless](https://open.spotify.com/track/0IPrRmJtfhKFMSzPfKIO0z) | [EMIKO](https://open.spotify.com/artist/6ucAqkMiK3gtdXjcBjwZNx) | [Timeless](https://open.spotify.com/album/0lWxos5ZtTRtg8W1iKD6kb) | 2:22 |
-| 9 | [lighter](https://open.spotify.com/track/4tgl15lyP8zuvWz7wqbbyW) | [Obdormiam](https://open.spotify.com/artist/1oribWbIvS6aMLdzoAqRTy) | [lighter](https://open.spotify.com/album/72B06kmei8FdY9Z9tN3yBw) | 2:32 |
-| 10 | [Into the mist](https://open.spotify.com/track/6FNB2HTHmWL04ZQryx1dLL) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Into the mist](https://open.spotify.com/album/7pB6OnkiFhPwDjlNwy0DwL) | 2:55 |
-| 11 | [Meridian](https://open.spotify.com/track/7AooP6MplcgFyNEV2eHvpi) | [Ziraphine](https://open.spotify.com/artist/11GUbolCBySYUL4wIUv1Ex) | [Meridian](https://open.spotify.com/album/5Yptqti5yYf2y7jcfTKLV4) | 2:25 |
-| 12 | [Beleza](https://open.spotify.com/track/1OibVbUVn9ZRpPZAP2kjhg) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Beleza](https://open.spotify.com/album/77ASBtDs3SGEvja4wDi0Bq) | 2:32 |
-| 13 | [Align](https://open.spotify.com/track/1Aw3fKXwqgNoydu6AAcVRI) | [Prodigieux](https://open.spotify.com/artist/6YILY619DfWelHq35w4DRb) | [Align](https://open.spotify.com/album/4k3qcd5DlACFlRyn8bU6oJ) | 2:44 |
-| 14 | [Vila](https://open.spotify.com/track/6DN0rnPxkruABRJuNRnEIg) | [Moonhollow](https://open.spotify.com/artist/5TCX73zuagMTEspzIPo64v) | [Vila](https://open.spotify.com/album/6hfHASwbYBwgm8HbnobeCx) | 2:45 |
-| 15 | [Esoteric](https://open.spotify.com/track/4hM6zZNaebCwcyhon3lemg) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Esoteric](https://open.spotify.com/album/6H34MA8D4isFu36CbPt17U) | 2:33 |
-| 16 | [Polygon](https://open.spotify.com/track/5iFLdPssqJfdh28B28BMc1) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Polygon](https://open.spotify.com/album/3YnyGCanSDgbJXKPPBlpAY) | 2:29 |
-| 17 | [Northern Treasure](https://open.spotify.com/track/6hdCo4ZFJ6RC76pNttY4ah) | [Lush Lotus](https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq) | [Northern Treasure](https://open.spotify.com/album/49CVmkuUfg4ZGN88sYXxWB) | 2:49 |
-| 18 | [Midday](https://open.spotify.com/track/7J60faSsc1RtsxuaVTz12h) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Midday](https://open.spotify.com/album/19H2TKqPGoicu3iH6Q0Y0W) | 2:20 |
-| 19 | [Evidence of Light](https://open.spotify.com/track/7MRZ9beGeKCURYJPryjvNd) | [Tristan Wilde](https://open.spotify.com/artist/6xIYhnbWLOfDnbBlbQGX1Z) | [Evidence of Light](https://open.spotify.com/album/0OaGhlQnhH63cwtnNC4BOL) | 2:40 |
-| 20 | [Nocturnal](https://open.spotify.com/track/6LCYzaAK7Pn0kF8mL0fFXA) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Nocturnal](https://open.spotify.com/album/4X94J14vUqtA0ID229DdFP) | 2:29 |
-| 21 | [Aligned](https://open.spotify.com/track/2txO6nEx3Npjt6bn5KsLBm) | [Dronia](https://open.spotify.com/artist/5Z1hoAJ3HE5peZejeQP2as) | [Aligned](https://open.spotify.com/album/1O5Z2x5yMRxdmWKhTK9prQ) | 2:33 |
-| 22 | [Calm Current](https://open.spotify.com/track/3sKTHvgQztu24ZMymoPqBI) | [Marble Sky](https://open.spotify.com/artist/2awMBCWxb7gBGkxyC4QTRI) | [Calm Current](https://open.spotify.com/album/57eSKJkvIywj2qc90yBEFQ) | 2:48 |
-| 23 | [Calm Mind](https://open.spotify.com/track/370XBedOfLiax2dbAuuhKd) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Calm Mind](https://open.spotify.com/album/6GkwNcMTPpx7Zc0Cc3xRje) | 2:18 |
-| 24 | [Silent Sanctuary](https://open.spotify.com/track/3Tu7IMjLuD54GnjR4fMRz8) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Silent Sanctuary](https://open.spotify.com/album/4W4yi3HHLc1aVEDTviOBXP) | 2:29 |
-| 25 | [Calm Horizon](https://open.spotify.com/track/62caUSrD2QMvEhx2rI2MUr) | [Somnifera](https://open.spotify.com/artist/2AkFwZieZKlkDtvZxaOL2b) | [Calm Horizon](https://open.spotify.com/album/3N0UIudT2UIrnQE6jXmugt) | 2:22 |
+| 1 | [Calm Horizon](https://open.spotify.com/track/62caUSrD2QMvEhx2rI2MUr) | [Somnifera](https://open.spotify.com/artist/2AkFwZieZKlkDtvZxaOL2b) | [Calm Horizon](https://open.spotify.com/album/3N0UIudT2UIrnQE6jXmugt) | 2:22 |
+| 2 | [Aphelion](https://open.spotify.com/track/1UodY3ilZxndiXxrQ0XKpR) | [Aetheria Solara](https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ) | [Aphelion](https://open.spotify.com/album/7bm6yf26WJab5t3Cmn8cch) | 2:24 |
+| 3 | [Resounding Hymn](https://open.spotify.com/track/7zTRBQY1gHajCzXVt7SuEG) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Resounding Hymn](https://open.spotify.com/album/2j10948U6dLGGwPpjWm0o4) | 2:29 |
+| 4 | [Holding on to You](https://open.spotify.com/track/4LnLPZ8gTTQeKHhc6oVuIt) | [Stellar Stones](https://open.spotify.com/artist/6JMVQlGI9IA50sFiGUp8VU) | [Holding on to You](https://open.spotify.com/album/6uQw2TDXc0dlgYhxc1QIKT) | 2:50 |
+| 5 | [Samudaya](https://open.spotify.com/track/46DNp5QTdfghwXQRZiNoWA) | [Ursae Minoris](https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo) | [Samudaya](https://open.spotify.com/album/6iR8usdP6ICnVhWYJSIrhE) | 2:29 |
+| 6 | [Nebel](https://open.spotify.com/track/7ssheUnbD7wyxWAlfaU7y3) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Nebel](https://open.spotify.com/album/0eWA3yg6uIYNmZkHTbzMZQ) | 2:45 |
+| 7 | [Prepere for Landing](https://open.spotify.com/track/19kFQ1yaNQcULBHwYqGN5o) | [Lasant](https://open.spotify.com/artist/2lScaQUr3aLAdDv8aQ73bD) | [Prepere for Landing](https://open.spotify.com/album/3SIZp0hM0SQGhyP353a72A) | 2:41 |
+| 8 | [Gaia](https://open.spotify.com/track/1bbvr6vVPiXvwVP82x4jDo) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Gaia](https://open.spotify.com/album/7tGvxePt2YTUFuPPoLdG0X) | 2:28 |
+| 9 | [Timeless](https://open.spotify.com/track/0IPrRmJtfhKFMSzPfKIO0z) | [EMIKO](https://open.spotify.com/artist/6ucAqkMiK3gtdXjcBjwZNx) | [Timeless](https://open.spotify.com/album/0lWxos5ZtTRtg8W1iKD6kb) | 2:22 |
+| 10 | [lighter](https://open.spotify.com/track/4tgl15lyP8zuvWz7wqbbyW) | [Obdormiam](https://open.spotify.com/artist/1oribWbIvS6aMLdzoAqRTy) | [lighter](https://open.spotify.com/album/72B06kmei8FdY9Z9tN3yBw) | 2:32 |
+| 11 | [Into the mist](https://open.spotify.com/track/6FNB2HTHmWL04ZQryx1dLL) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Into the mist](https://open.spotify.com/album/7pB6OnkiFhPwDjlNwy0DwL) | 2:55 |
+| 12 | [Meridian](https://open.spotify.com/track/7AooP6MplcgFyNEV2eHvpi) | [Ziraphine](https://open.spotify.com/artist/11GUbolCBySYUL4wIUv1Ex) | [Meridian](https://open.spotify.com/album/5Yptqti5yYf2y7jcfTKLV4) | 2:25 |
+| 13 | [Beleza](https://open.spotify.com/track/1OibVbUVn9ZRpPZAP2kjhg) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Beleza](https://open.spotify.com/album/77ASBtDs3SGEvja4wDi0Bq) | 2:32 |
+| 14 | [Align](https://open.spotify.com/track/1Aw3fKXwqgNoydu6AAcVRI) | [Prodigieux](https://open.spotify.com/artist/6YILY619DfWelHq35w4DRb) | [Align](https://open.spotify.com/album/4k3qcd5DlACFlRyn8bU6oJ) | 2:44 |
+| 15 | [Vila](https://open.spotify.com/track/6DN0rnPxkruABRJuNRnEIg) | [Moonhollow](https://open.spotify.com/artist/5TCX73zuagMTEspzIPo64v) | [Vila](https://open.spotify.com/album/6hfHASwbYBwgm8HbnobeCx) | 2:45 |
+| 16 | [Esoteric](https://open.spotify.com/track/4hM6zZNaebCwcyhon3lemg) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Esoteric](https://open.spotify.com/album/6H34MA8D4isFu36CbPt17U) | 2:33 |
+| 17 | [Polygon](https://open.spotify.com/track/5iFLdPssqJfdh28B28BMc1) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Polygon](https://open.spotify.com/album/3YnyGCanSDgbJXKPPBlpAY) | 2:29 |
+| 18 | [Northern Treasure](https://open.spotify.com/track/6hdCo4ZFJ6RC76pNttY4ah) | [Lush Lotus](https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq) | [Northern Treasure](https://open.spotify.com/album/49CVmkuUfg4ZGN88sYXxWB) | 2:49 |
+| 19 | [Midday](https://open.spotify.com/track/7J60faSsc1RtsxuaVTz12h) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Midday](https://open.spotify.com/album/19H2TKqPGoicu3iH6Q0Y0W) | 2:20 |
+| 20 | [Evidence of Light](https://open.spotify.com/track/7MRZ9beGeKCURYJPryjvNd) | [Tristan Wilde](https://open.spotify.com/artist/6xIYhnbWLOfDnbBlbQGX1Z) | [Evidence of Light](https://open.spotify.com/album/0OaGhlQnhH63cwtnNC4BOL) | 2:40 |
+| 21 | [Nocturnal](https://open.spotify.com/track/6LCYzaAK7Pn0kF8mL0fFXA) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Nocturnal](https://open.spotify.com/album/4X94J14vUqtA0ID229DdFP) | 2:29 |
+| 22 | [Aligned](https://open.spotify.com/track/2txO6nEx3Npjt6bn5KsLBm) | [Dronia](https://open.spotify.com/artist/5Z1hoAJ3HE5peZejeQP2as) | [Aligned](https://open.spotify.com/album/1O5Z2x5yMRxdmWKhTK9prQ) | 2:33 |
+| 23 | [Calm Current](https://open.spotify.com/track/3sKTHvgQztu24ZMymoPqBI) | [Marble Sky](https://open.spotify.com/artist/2awMBCWxb7gBGkxyC4QTRI) | [Calm Current](https://open.spotify.com/album/57eSKJkvIywj2qc90yBEFQ) | 2:48 |
+| 24 | [Calm Mind](https://open.spotify.com/track/370XBedOfLiax2dbAuuhKd) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Calm Mind](https://open.spotify.com/album/6GkwNcMTPpx7Zc0Cc3xRje) | 2:18 |
+| 25 | [Silent Sanctuary](https://open.spotify.com/track/3Tu7IMjLuD54GnjR4fMRz8) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Silent Sanctuary](https://open.spotify.com/album/4W4yi3HHLc1aVEDTviOBXP) | 2:29 |
 | 26 | [Sound Mind](https://open.spotify.com/track/3kSfV1yDFnSyfOdVEiu1Sb) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Sound Mind](https://open.spotify.com/album/5WjRYkAUHPlMvlekgsQzFp) | 2:33 |
 | 27 | [Distant Traveler](https://open.spotify.com/track/5STjn9OmRoyVMKbaylokXp) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Distant Traveler](https://open.spotify.com/album/5788CHfxIjvMh7E9Rsr1Ij) | 2:17 |
 | 28 | [Dream Anticipation](https://open.spotify.com/track/2lHwb2kjA8lVJEVjgoa3LH) | [Dawnveil](https://open.spotify.com/artist/6CYkhlH8BegFF1PSBGT4fm) | [Dream Anticipation](https://open.spotify.com/album/4fIDT3yvHGfUVRDSolUitW) | 2:31 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 199 | [Enlightened Drift](https://open.spotify.com/track/58Fz9k3Fkh2mZwEjhBPqlu) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Enlightened Drift](https://open.spotify.com/album/1XHLTy2qK8p1hLE1mibEg0) | 3:16 |
 | 200 | [Abundant](https://open.spotify.com/track/13aO4GXU92PdB37eSOxvrp) | [Glass Dome](https://open.spotify.com/artist/4LWyiymtdWPzhflGcghaKh) | [Abundant](https://open.spotify.com/album/2cdSpHVhpKzp18ioT5tktw) | 2:30 |
 
-Snapshot ID: `AAAAAPjgKvNnu8d0zY4uyW/XMce+1Oop`
+Snapshot ID: `AAAAAChgi2U7DvYQtxJ5LgcmnGd23bQ8`

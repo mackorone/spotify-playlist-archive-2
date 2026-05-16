@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Dean Turnley",
-  "num_followers": 81863,
+  "num_followers": 81970,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAHTHnbxcFt7LKqOBXav/hwSz7Kk",
+  "snapshot_id": "AAAAAI6Bx+ZcLxpF5hKNZzIB9KhNu2t7",
   "tracks": [
     {
       "added_at": "2026-05-08 04:01:49",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/0t94CEbIDQZO99iP8Ibjr7"
     },
     {
+      "added_at": "2026-05-15 04:02:22",
+      "album": {
+        "name": "The Funk EP",
+        "url": "https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Feel The Funk",
+      "url": "https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE"
+    },
+    {
       "added_at": "2026-03-20 04:00:44",
       "album": {
         "name": "Shinjuku",
@@ -45,72 +61,20 @@
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
     },
     {
-      "added_at": "2026-05-01 04:01:14",
+      "added_at": "2026-05-15 04:02:22",
       "album": {
-        "name": "One Question",
-        "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
+        "name": "Journey EP",
+        "url": "https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
         }
       ],
-      "duration_ms": 184019,
-      "name": "One Question",
-      "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
-    },
-    {
-      "added_at": "2026-04-24 04:01:42",
-      "album": {
-        "name": "The Connection",
-        "url": "https://open.spotify.com/album/02N1bq4nfLRE1cfIBLOfnn"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "The Connection",
-      "url": "https://open.spotify.com/track/3dlkgNR829PMYY7yM9fMlP"
-    },
-    {
-      "added_at": "2026-05-08 04:01:49",
-      "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/5rUjBhXJovoVDNAeC7pr8H"
-      },
-      "artists": [
-        {
-          "name": "Beave",
-          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
-        }
-      ],
-      "duration_ms": 142669,
-      "name": "Once Again",
-      "url": "https://open.spotify.com/track/0mmErQGLOMb2UcKAZYPC4V"
-    },
-    {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "Bass Rider EP",
-        "url": "https://open.spotify.com/album/6iUxrJlvhNkFDyh1KTNNmE"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Bass Rider",
-      "url": "https://open.spotify.com/track/71lvGzvRiC58AeFffFmw3N"
+      "duration_ms": 181108,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -135,18 +99,122 @@
     {
       "added_at": "2026-05-08 04:01:49",
       "album": {
-        "name": "Bludz & Cripz",
-        "url": "https://open.spotify.com/album/4gbKRAMWJN9Q73TWbjUnTl"
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0S4W1NStyjziSiahGs1DHQ"
       },
       "artists": [
         {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+          "name": "Snooko",
+          "url": "https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx"
         }
       ],
-      "duration_ms": 149006,
-      "name": "Bludz & Cripz",
-      "url": "https://open.spotify.com/track/09N6zRXA3FuLciYUnDCM4q"
+      "duration_ms": 256615,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/6OVnACZ85MNWhGeJqOjwAX"
+    },
+    {
+      "added_at": "2026-05-15 17:09:33",
+      "album": {
+        "name": "Is It You (Or Is It Me)",
+        "url": "https://open.spotify.com/album/240i6UmyYLhmTXxB4j31AX"
+      },
+      "artists": [
+        {
+          "name": "ADR (UK)",
+          "url": "https://open.spotify.com/artist/3IMrOdTFlakSWfVl6DKMub"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Is It You (Or Is It Me)",
+      "url": "https://open.spotify.com/track/4VjGuOdMtLmjVvySSwYwc1"
+    },
+    {
+      "added_at": "2026-04-24 04:01:42",
+      "album": {
+        "name": "The Connection",
+        "url": "https://open.spotify.com/album/02N1bq4nfLRE1cfIBLOfnn"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "The Connection",
+      "url": "https://open.spotify.com/track/3dlkgNR829PMYY7yM9fMlP"
+    },
+    {
+      "added_at": "2026-05-01 04:01:14",
+      "album": {
+        "name": "One Question",
+        "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 184019,
+      "name": "One Question",
+      "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
+    },
+    {
+      "added_at": "2026-05-15 04:02:22",
+      "album": {
+        "name": "Unless You Wanna (Uh Uh)",
+        "url": "https://open.spotify.com/album/3uoo2B8buepUOirzHxrcYm"
+      },
+      "artists": [
+        {
+          "name": "JOSSA",
+          "url": "https://open.spotify.com/artist/13X34zKdY9gaYUEb2Jnsm9"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Unless You Wanna (Uh Uh)",
+      "url": "https://open.spotify.com/track/7dLRmh16YMIr7BpO4DmkHQ"
+    },
+    {
+      "added_at": "2026-05-08 18:22:08",
+      "album": {
+        "name": "Deep House Pumpin'",
+        "url": "https://open.spotify.com/album/6gVyhHNeM4YL0laLjgG5Uh"
+      },
+      "artists": [
+        {
+          "name": "Sapian",
+          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
+        },
+        {
+          "name": "AVIV SAB",
+          "url": "https://open.spotify.com/artist/4bAjlKHnoyqHLW1UU7T0w3"
+        }
+      ],
+      "duration_ms": 172153,
+      "name": "Deep House Pumpin'",
+      "url": "https://open.spotify.com/track/7q7qRayofPCxLoeUZ4Ng7p"
+    },
+    {
+      "added_at": "2026-05-08 04:01:49",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/5rUjBhXJovoVDNAeC7pr8H"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "duration_ms": 142669,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/0mmErQGLOMb2UcKAZYPC4V"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -185,24 +253,36 @@
       "url": "https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm"
     },
     {
-      "added_at": "2026-05-01 04:01:14",
+      "added_at": "2026-05-15 04:02:22",
       "album": {
-        "name": "Break It Down EP",
-        "url": "https://open.spotify.com/album/4HjIk35VK90hG0z00YsVS8"
+        "name": "Burndown",
+        "url": "https://open.spotify.com/album/292deENqlmZt1cWA0gFn9W"
       },
       "artists": [
         {
-          "name": "Chinonegro",
-          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
-        },
-        {
-          "name": "Rob The Bank",
-          "url": "https://open.spotify.com/artist/1eBcxIHWPHZT4Xczskhgcw"
+          "name": "JACK MARLOW",
+          "url": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3"
         }
       ],
-      "duration_ms": 344937,
-      "name": "Break It Down - Original Mix",
-      "url": "https://open.spotify.com/track/2B6mfpUuuYd2HOyrYpScRT"
+      "duration_ms": 186666,
+      "name": "Burndown",
+      "url": "https://open.spotify.com/track/0nWX5MYxTp2z0bCPfqdahA"
+    },
+    {
+      "added_at": "2026-05-08 04:01:49",
+      "album": {
+        "name": "Bludz & Cripz",
+        "url": "https://open.spotify.com/album/4gbKRAMWJN9Q73TWbjUnTl"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 149006,
+      "name": "Bludz & Cripz",
+      "url": "https://open.spotify.com/track/09N6zRXA3FuLciYUnDCM4q"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -221,24 +301,20 @@
       "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
     },
     {
-      "added_at": "2026-05-08 18:22:08",
+      "added_at": "2026-05-15 04:02:22",
       "album": {
-        "name": "Deep House Pumpin'",
-        "url": "https://open.spotify.com/album/6gVyhHNeM4YL0laLjgG5Uh"
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/0h54TisQPST6n9GEvY8pTL"
       },
       "artists": [
         {
-          "name": "Sapian",
-          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
-        },
-        {
-          "name": "AVIV SAB",
-          "url": "https://open.spotify.com/artist/4bAjlKHnoyqHLW1UU7T0w3"
+          "name": "dalto",
+          "url": "https://open.spotify.com/artist/6F3yTcy1FfAM0TKUMEjtYP"
         }
       ],
-      "duration_ms": 172153,
-      "name": "Deep House Pumpin'",
-      "url": "https://open.spotify.com/track/7q7qRayofPCxLoeUZ4Ng7p"
+      "duration_ms": 204545,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/2hj0FP9FmUV3UVZias8pxZ"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -281,6 +357,22 @@
       "url": "https://open.spotify.com/track/1TRXRI1BAk8vsZAa2mHLix"
     },
     {
+      "added_at": "2026-05-01 04:01:14",
+      "album": {
+        "name": "Bass Rider EP",
+        "url": "https://open.spotify.com/album/6iUxrJlvhNkFDyh1KTNNmE"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Bass Rider",
+      "url": "https://open.spotify.com/track/71lvGzvRiC58AeFffFmw3N"
+    },
+    {
       "added_at": "2026-04-17 04:04:08",
       "album": {
         "name": "Coming Home",
@@ -295,6 +387,22 @@
       "duration_ms": 262677,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/1hkC1aNdHsGsdM0O58JhEb"
+    },
+    {
+      "added_at": "2026-05-15 04:02:22",
+      "album": {
+        "name": "BOTTLE IT",
+        "url": "https://open.spotify.com/album/7FDTCk6V3pkmcWmrKbLu2P"
+      },
+      "artists": [
+        {
+          "name": "House Of Molly",
+          "url": "https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "BOTTLE IT",
+      "url": "https://open.spotify.com/track/18Pa7snKXnwhYPyzrosIxO"
     },
     {
       "added_at": "2026-04-17 04:04:08",
@@ -345,22 +453,6 @@
       "url": "https://open.spotify.com/track/0rS9f6pdy49rLBVzyGyQYv"
     },
     {
-      "added_at": "2026-05-08 04:01:49",
-      "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0S4W1NStyjziSiahGs1DHQ"
-      },
-      "artists": [
-        {
-          "name": "Snooko",
-          "url": "https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx"
-        }
-      ],
-      "duration_ms": 256615,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/6OVnACZ85MNWhGeJqOjwAX"
-    },
-    {
       "added_at": "2026-05-01 04:01:14",
       "album": {
         "name": "Madness",
@@ -381,6 +473,22 @@
       "url": "https://open.spotify.com/track/33jEV1SbyTihlHJQZ1WhXW"
     },
     {
+      "added_at": "2026-05-15 04:02:22",
+      "album": {
+        "name": "Non Stop",
+        "url": "https://open.spotify.com/album/07vh38TMCsVcaahSyrpecs"
+      },
+      "artists": [
+        {
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/6z0Zc6uf2ofI2KkUupFepg"
+    },
+    {
       "added_at": "2026-05-01 04:01:14",
       "album": {
         "name": "Our House (Ellis Garner Remix)",
@@ -399,6 +507,26 @@
       "duration_ms": 185454,
       "name": "Our House - Ellis Garner Remix",
       "url": "https://open.spotify.com/track/2825nvJcEiZLugLg06ovwU"
+    },
+    {
+      "added_at": "2026-05-01 04:01:14",
+      "album": {
+        "name": "Break It Down EP",
+        "url": "https://open.spotify.com/album/4HjIk35VK90hG0z00YsVS8"
+      },
+      "artists": [
+        {
+          "name": "Chinonegro",
+          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
+        },
+        {
+          "name": "Rob The Bank",
+          "url": "https://open.spotify.com/artist/1eBcxIHWPHZT4Xczskhgcw"
+        }
+      ],
+      "duration_ms": 344937,
+      "name": "Break It Down - Original Mix",
+      "url": "https://open.spotify.com/track/2B6mfpUuuYd2HOyrYpScRT"
     },
     {
       "added_at": "2026-04-17 04:04:08",
@@ -435,6 +563,22 @@
       "duration_ms": 211022,
       "name": "Gonna Let",
       "url": "https://open.spotify.com/track/5jkcTZjDj6V8NXX19bpRwH"
+    },
+    {
+      "added_at": "2026-05-15 04:02:22",
+      "album": {
+        "name": "Feel it in your soul",
+        "url": "https://open.spotify.com/album/0IZQrHqWbo1I5NcdVs17Vb"
+      },
+      "artists": [
+        {
+          "name": "ESCE",
+          "url": "https://open.spotify.com/artist/3xVvJGFXPlg9vcRkNB6BGk"
+        }
+      ],
+      "duration_ms": 217218,
+      "name": "Feel it in your soul",
+      "url": "https://open.spotify.com/track/6SdRmI5tJPG4zIZxBYhOkX"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -997,22 +1141,6 @@
       "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
     },
     {
-      "added_at": "2026-04-17 04:04:08",
-      "album": {
-        "name": "Chlo\u00e9's Theme",
-        "url": "https://open.spotify.com/album/6UpV6nNoZ1QYmqt34nFsRi"
-      },
-      "artists": [
-        {
-          "name": "Koen Groeneveld",
-          "url": "https://open.spotify.com/artist/1z62XaHX2iYbxLARSBLoua"
-        }
-      ],
-      "duration_ms": 187817,
-      "name": "Chlo\u00e9's Theme",
-      "url": "https://open.spotify.com/track/0KPzSjXsnVhPrddxA5C0Jq"
-    },
-    {
       "added_at": "2026-04-03 04:01:44",
       "album": {
         "name": "goes like this",
@@ -1139,22 +1267,6 @@
       "duration_ms": 146250,
       "name": "Don\u2019t Go (Don\u2019t Leave)",
       "url": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu"
-    },
-    {
-      "added_at": "2026-03-27 04:00:16",
-      "album": {
-        "name": "Electro",
-        "url": "https://open.spotify.com/album/45md8PcuVfwjfR0XiWca9x"
-      },
-      "artists": [
-        {
-          "name": "PAULY!",
-          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
-        }
-      ],
-      "duration_ms": 173684,
-      "name": "Electro",
-      "url": "https://open.spotify.com/track/0MlZydbIcFuhWMI88PRcc3"
     },
     {
       "added_at": "2026-03-06 05:00:09",
@@ -1341,42 +1453,6 @@
       "url": "https://open.spotify.com/track/2ohyMJx4ArUVno6mcczbN8"
     },
     {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "Fun Girls EP",
-        "url": "https://open.spotify.com/album/5ORsoHPtzVvnWQJzKxhBqe"
-      },
-      "artists": [
-        {
-          "name": "AJK",
-          "url": "https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm"
-        }
-      ],
-      "duration_ms": 241406,
-      "name": "Fun Girls",
-      "url": "https://open.spotify.com/track/4etnfIthrMVn4l0p4oI6UQ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:44",
-      "album": {
-        "name": "Another Night",
-        "url": "https://open.spotify.com/album/4nQM7hfaLIu3qRaVpfJucm"
-      },
-      "artists": [
-        {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
-        },
-        {
-          "name": "Chesster",
-          "url": "https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Another Night",
-      "url": "https://open.spotify.com/track/0hI0tjl8fLB6UqpTq8SFCs"
-    },
-    {
       "added_at": "2026-03-18 17:57:39",
       "album": {
         "name": "Was I Loved? (Dub Mix)",
@@ -1459,26 +1535,6 @@
       "duration_ms": 137769,
       "name": "Say What?",
       "url": "https://open.spotify.com/track/2cyqfeXRo1mijttR0Jp6CL"
-    },
-    {
-      "added_at": "2026-02-20 05:00:42",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/19mVyPaqtpi7RXLHz8xS6v"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        },
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6jRnVj43WWW3rsDa5iIsjM"
     },
     {
       "added_at": "2026-03-13 04:00:43",
@@ -1657,42 +1713,6 @@
       "url": "https://open.spotify.com/track/7B4QZy1BktlY4svxAZtow2"
     },
     {
-      "added_at": "2026-02-27 05:00:46",
-      "album": {
-        "name": "2C EP",
-        "url": "https://open.spotify.com/album/2xKQKNzYwXDFeiJJyyZLWD"
-      },
-      "artists": [
-        {
-          "name": "The BeatBoy's",
-          "url": "https://open.spotify.com/artist/1bnYQeMALHUg5i39ujDREE"
-        },
-        {
-          "name": "Samuele Scelfo",
-          "url": "https://open.spotify.com/artist/1Crlx3zUeYXCHoWEFm0E5H"
-        }
-      ],
-      "duration_ms": 223091,
-      "name": "Bassline Drop",
-      "url": "https://open.spotify.com/track/7CkpWSctl5f8PPCB8Tazbm"
-    },
-    {
-      "added_at": "2026-03-04 00:37:47",
-      "album": {
-        "name": "It's Good",
-        "url": "https://open.spotify.com/album/2KkO6eLijA8JFLaclKlVVi"
-      },
-      "artists": [
-        {
-          "name": "Juulz",
-          "url": "https://open.spotify.com/artist/7Cu7CKqzOXalKuKJpU8qOW"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "This Is Jungle",
-      "url": "https://open.spotify.com/track/5NYHUgdlNzSoe6XIRNvncF"
-    },
-    {
       "added_at": "2025-11-07 05:00:38",
       "album": {
         "name": "Positive",
@@ -1801,22 +1821,6 @@
       "url": "https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi"
     },
     {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "Certi EP",
-        "url": "https://open.spotify.com/album/0a7m6ALRJD2CLCwQZpqNLf"
-      },
-      "artists": [
-        {
-          "name": "Troxy",
-          "url": "https://open.spotify.com/artist/4FvNii3PAzHhNCbizclTjS"
-        }
-      ],
-      "duration_ms": 402879,
-      "name": "Certi",
-      "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
-    },
-    {
       "added_at": "2026-01-23 05:00:22",
       "album": {
         "name": "Ill Behaviour",
@@ -1923,26 +1927,6 @@
       "duration_ms": 176144,
       "name": "Freak Like Me - Ben Kim Remix",
       "url": "https://open.spotify.com/track/1s2ThwVZfmwizOxSxfwln6"
-    },
-    {
-      "added_at": "2025-09-05 04:00:16",
-      "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        },
-        {
-          "name": "Lustral",
-          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f"
     },
     {
       "added_at": "2025-08-20 19:16:02",

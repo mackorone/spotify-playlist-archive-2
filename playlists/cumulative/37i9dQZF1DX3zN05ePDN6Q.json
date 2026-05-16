@@ -134,7 +134,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 225942,
       "name": "10, Talvez 9",
       "url": "https://open.spotify.com/track/4DReOCtr2yXWD7w0wdu3YC"
@@ -15530,6 +15530,24 @@
       "duration_ms": 147548,
       "name": "Sedoma",
       "url": "https://open.spotify.com/track/1oL4ZqhZaerSTRjEWtTyT9"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Colhe Quem Planta",
+        "url": "https://open.spotify.com/album/2mlr6nOWx2Qp5w4fdEC0xb"
+      },
+      "artists": [
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/1DEDJGx9zG37eBxaQMdv9q"
     },
     {
       "album": {

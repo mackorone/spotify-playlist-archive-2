@@ -4,7 +4,7 @@
 
 > bright and cozy beats to watch the world bloom, focus, study, or chill to.
 
-80 songs - 2 hr 54 min
+83 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [bamboo](https://open.spotify.com/track/3o9ao7MVy70akFMeOLLRFG) | [raindrop delay](https://open.spotify.com/artist/34oewuGdY10tJVQxjq202Q) | [bamboo](https://open.spotify.com/album/6sz8MRA9amMmf2xPcESqVo) | 1:49 | 2026-02-27 |  |
 | [Bedside View](https://open.spotify.com/track/3UR0qTedMAFCS9OPpDy6mQ) | [Cold Mug](https://open.spotify.com/artist/6QKXNAdjm7qZifTM0y7wgn) | [Bedside View](https://open.spotify.com/album/32OtXSLi44eHu1jb1wNWHX) | 2:04 | 2026-04-24 |  |
 | [Beginnings](https://open.spotify.com/track/164ax96RIZvbBaf13Hbhxy) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Beginnings](https://open.spotify.com/album/1yBtq0ZqHLSJR4o4h3i9V6) | 2:17 | 2026-02-27 | 2026-03-21 |
+| [Beings](https://open.spotify.com/track/4Ypnczcao2JT7Bo3yyz7eL) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Beings](https://open.spotify.com/album/0cXvN1qyoN1iJsJE73GEd2) | 2:18 | 2026-05-15 |  |
 | [Beyond](https://open.spotify.com/track/1VBs6tCL0u31DngeDQvREG) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Beyond](https://open.spotify.com/album/4EhrkJX0ev0uXsevOhLvuh) | 2:09 | 2026-02-27 |  |
 | [Bloom Like Wildflowers](https://open.spotify.com/track/67gbIDheNB4I1kxR3Kp1XY) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Bloom Like Wildflowers](https://open.spotify.com/album/64187qcfIvJ7CPSq4WY2wS) | 2:42 | 2026-04-10 |  |
 | [Blossom](https://open.spotify.com/track/5SN2efcnmRW4c1mTpzS6kC) | [nemui](https://open.spotify.com/artist/7MBbsn99tzQos2ksbYhpwe) | [Blossom](https://open.spotify.com/album/5p3FjmKk6vAWwMtLqDZTco) | 1:59 | 2026-02-27 | 2026-03-21 |
@@ -48,6 +49,7 @@
 | [ladybugs](https://open.spotify.com/track/2rek75wQDqxmBFF8XAuq4i) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [no plans](https://open.spotify.com/album/00iZaf1EHA7eCtXMnHEVi5) | 2:14 | 2026-05-08 |  |
 | [Lagoon](https://open.spotify.com/track/7Iq4EiDVxmeqHmzXxZiTgk) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [Lagoon](https://open.spotify.com/album/14clPbiCe8QEjmMwhnHcn4) | 2:22 | 2026-02-27 |  |
 | [Late Night Café Whispers](https://open.spotify.com/track/15YGE1PvfG8pIJeaSgkunj) | [cloudoris](https://open.spotify.com/artist/4a7JNhX95vhAsZrSOVLjBF) | [Late Night Café Whispers](https://open.spotify.com/album/0zt1QZS4b93mkCnkkY7VtS) | 2:19 | 2026-04-03 | 2026-04-25 |
+| [Lemonade Skies](https://open.spotify.com/track/2QScYv7NtiUilhZEGO0HZi) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Lemonade Skies](https://open.spotify.com/album/4MPJfxUxGqHCrNI09jTgKF) | 1:48 | 2026-05-15 |  |
 | [letters never sent](https://open.spotify.com/track/79Nby6z1gEB3aK4CgPNLXd) | [Her Name is Sage](https://open.spotify.com/artist/6OVjImRqgRTTCRYi4vTHs9) | [letters never sent](https://open.spotify.com/album/2uUNzBZxFhDF0Ew0182lUw) | 2:20 | 2026-04-03 |  |
 | [Like Sunday](https://open.spotify.com/track/0NCadexlwl3x3JHqAHxPSW) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Maca](https://open.spotify.com/artist/5EKIGbuC1kMehBmQoY0nzj) | [Like Sunday](https://open.spotify.com/album/2kAIGTBS3Xlj3Oas6CersO) | 1:43 | 2026-04-10 |  |
 | [lotus lullaby](https://open.spotify.com/track/2hLnS47GXY6F7K1tRIeKQb) | [Reve brumeux](https://open.spotify.com/artist/2ZlVEhVqWhxjhWl8awyoDY) | [lotus lullaby](https://open.spotify.com/album/2fVgpha9xp7HSIws6hl3yh) | 2:19 | 2026-02-27 |  |
@@ -61,6 +63,7 @@
 | [Oaktree](https://open.spotify.com/track/5vLp5IrT62YgBOh2MxM5ZH) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Oaktree / When We Sleep](https://open.spotify.com/album/0F3fg3EB0pPrP5gg6OeZGO) | 1:53 | 2026-02-27 |  |
 | [off grid](https://open.spotify.com/track/2tT9LVtsqcNkeJYIfEItHA) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj) | [off grid](https://open.spotify.com/album/4T5i6Lb5AaM4MeJpWiXwlg) | 1:49 | 2026-02-27 |  |
 | [olive tree](https://open.spotify.com/track/3CxVdw3aHx8HonEJSnYfSG) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [olive tree](https://open.spotify.com/album/1NIEfmyFaOVnxfp2Wx3Ml5) | 2:04 | 2026-02-27 |  |
+| [one last day of spring](https://open.spotify.com/track/1hzEffa1AVckKDxPbAvUN6) | [flowray](https://open.spotify.com/artist/7apxuBS2y7E7Cs8ruOYhvd) | [one last day of spring](https://open.spotify.com/album/7aQ4JXcKgDX7WK91roxn1z) | 2:19 | 2026-05-15 |  |
 | [Petit cœur](https://open.spotify.com/track/7yzFraT9cokM2IzDPxsW1m) | [Muroki](https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n) | [Petit cœur](https://open.spotify.com/album/6PqNsrwBFdjwbHEbQgMEa5) | 1:32 | 2026-02-27 |  |
 | [Playing at the Quiet Hour](https://open.spotify.com/track/590o8NliZmWfGVyGwoiJ5b) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Time Lapse](https://open.spotify.com/album/5d8ao8OQLV1WRGBydWN0LI) | 2:59 | 2026-02-27 |  |
 | [Quiet Before Night](https://open.spotify.com/track/36MdYvf01Yb7yFZnWwHdgb) | [tomoko grey](https://open.spotify.com/artist/00BjgPB5YCiBQ1Qn7ZI3dZ) | [Quiet Before Night](https://open.spotify.com/album/06WQDkT3qWGvm8HPfLKbbh) | 2:13 | 2026-02-27 |  |

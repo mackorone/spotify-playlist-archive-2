@@ -5175,6 +5175,24 @@
     },
     {
       "album": {
+        "name": "Black Truck",
+        "url": "https://open.spotify.com/album/0XsUVI3tJBGjJtToBQxTuw"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169936,
+      "name": "Black Truck",
+      "url": "https://open.spotify.com/track/1yaNCXYlyWvFyJBvt3fvd5"
+    },
+    {
+      "album": {
         "name": "For Us",
         "url": "https://open.spotify.com/album/3qQkODMSwPDWNdDr9fLTjL"
       },
@@ -6860,7 +6878,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 217358,
       "name": "Candy Paint (feat. Shoreline Mafia)",
       "url": "https://open.spotify.com/track/73lMnUNdS4XloMIBYQI5qP"
@@ -8791,6 +8809,24 @@
     },
     {
       "album": {
+        "name": "Dinero. Dolores y Dios.",
+        "url": "https://open.spotify.com/album/7x47aW0kScJoKBdaEMzJOG"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164785,
+      "name": "Cuban Links",
+      "url": "https://open.spotify.com/track/6YL25OTQZrUzRC31e3eAty"
+    },
+    {
+      "album": {
         "name": "Cuban Links & Drug Habits",
         "url": "https://open.spotify.com/album/2E2XaelGPkXXJCQ1LDWOgD"
       },
@@ -10225,6 +10261,28 @@
     },
     {
       "album": {
+        "name": "Dogshit",
+        "url": "https://open.spotify.com/album/24exYgCHgxek76UsvUQZb4"
+      },
+      "artists": [
+        {
+          "name": "Peewee Longway",
+          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
+        },
+        {
+          "name": "HoodRich Pablo Juan",
+          "url": "https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Dogshit",
+      "url": "https://open.spotify.com/track/30fkvEGw8aFiLwlWN26v4v"
+    },
+    {
+      "album": {
         "name": "CM10: Free Game",
         "url": "https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT"
       },
@@ -10372,7 +10430,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 101893,
       "name": "Don\u2019t Blink Or Stare (feat. Bloodhound Lil Jeff & CEO Trayle)",
       "url": "https://open.spotify.com/track/5e2f1XLGX2Onj05lxiPfWJ"
@@ -15662,7 +15720,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 176875,
       "name": "Gretzky",
       "url": "https://open.spotify.com/track/2NGmome82QIdqVhcgHbMnh"
@@ -16002,6 +16060,24 @@
       "duration_ms": 148800,
       "name": "GWSM",
       "url": "https://open.spotify.com/track/4paoz218yUcjPcwhJt6mKA"
+    },
+    {
+      "album": {
+        "name": "GYSM",
+        "url": "https://open.spotify.com/album/7bMuZOYAqEW9GQIuMZwr5q"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159271,
+      "name": "GYSM",
+      "url": "https://open.spotify.com/track/4yubdvC6YyC2KGXJEiQXia"
     },
     {
       "album": {
@@ -16754,6 +16830,24 @@
       "duration_ms": 103571,
       "name": "Heaven Gates",
       "url": "https://open.spotify.com/track/6jRUBdaeGnZ60igqlQwY7L"
+    },
+    {
+      "album": {
+        "name": "Dinero. Dolores y Dios.",
+        "url": "https://open.spotify.com/album/7x47aW0kScJoKBdaEMzJOG"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169075,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/4IzdWeYb2jeMVLoCqTAsgV"
     },
     {
       "album": {
@@ -18358,7 +18452,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 157714,
       "name": "I Cant Feel My Face",
       "url": "https://open.spotify.com/track/5Mk5XJFLgQfWg84J9Vvi9o"
@@ -26782,7 +26876,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 168646,
       "name": "No Lettuce",
       "url": "https://open.spotify.com/track/4g6enN9RUpPnUK83daViw7"
@@ -30538,7 +30632,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 156368,
       "name": "Posed To Be An Intro",
       "url": "https://open.spotify.com/track/7FUrcWzo7AQ1bekPLSTMKz"
@@ -31084,6 +31178,24 @@
       "duration_ms": 116819,
       "name": "Punch Me in Again",
       "url": "https://open.spotify.com/track/7w9ev8Fmx4KJEP6VDivXVb"
+    },
+    {
+      "album": {
+        "name": "Punchin' Da Clock",
+        "url": "https://open.spotify.com/album/7mTQvRMmyqactSOWSSIoZc"
+      },
+      "artists": [
+        {
+          "name": "QUANTRELL",
+          "url": "https://open.spotify.com/artist/6dCvTKdEJbcoV2IAL0H0W0"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130821,
+      "name": "Punchin' Da Clock",
+      "url": "https://open.spotify.com/track/3w5ONjfHQioRM2iS8tqHxA"
     },
     {
       "album": {
@@ -38783,6 +38895,24 @@
     },
     {
       "album": {
+        "name": "Lost Files - The Collection",
+        "url": "https://open.spotify.com/album/74U2lRYy9rubW3Erm9x522"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166697,
+      "name": "Talk Hustle",
+      "url": "https://open.spotify.com/track/3BpeodBs6mPuhGicfNOfXH"
+    },
+    {
+      "album": {
         "name": "Mr Beat The Road",
         "url": "https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb"
       },
@@ -45340,6 +45470,28 @@
       "duration_ms": 172394,
       "name": "Young N Dumb",
       "url": "https://open.spotify.com/track/4dZTNKRngStyYNueXCO2FR"
+    },
+    {
+      "album": {
+        "name": "Until I Return",
+        "url": "https://open.spotify.com/album/7jokthk2oQAbIJ3nchddmf"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        },
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209140,
+      "name": "YSL Shoes",
+      "url": "https://open.spotify.com/track/00x26ITtxfKNeuxlN9hg0I"
     },
     {
       "album": {

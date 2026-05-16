@@ -5388,7 +5388,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 148455,
       "name": "breathe in",
       "url": "https://open.spotify.com/track/2pe4uQh4EnCeBhY9Uo9t5D"
@@ -6906,6 +6906,24 @@
       "duration_ms": 128750,
       "name": "caviar",
       "url": "https://open.spotify.com/track/3y6KYivzMqOZDscUH2Cn9N"
+    },
+    {
+      "album": {
+        "name": "celeca",
+        "url": "https://open.spotify.com/album/0jCf4PU39yftfpS70SBn9T"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140294,
+      "name": "celeca",
+      "url": "https://open.spotify.com/track/1q0FlllkAl9iWdeCNTiKkX"
     },
     {
       "album": {
@@ -16136,7 +16154,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 142485,
       "name": "Getting There",
       "url": "https://open.spotify.com/track/6WuRi1AJsdOcfWEddjaD1W"
@@ -29651,6 +29669,24 @@
     },
     {
       "album": {
+        "name": "Open Sky",
+        "url": "https://open.spotify.com/album/6m5jEICAaEiCg9J18H12lp"
+      },
+      "artists": [
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Open Sky",
+      "url": "https://open.spotify.com/track/3Ks3mEDB1j2BVT7Ui3Wcv7"
+    },
+    {
+      "album": {
         "name": "Opportunities",
         "url": "https://open.spotify.com/album/1f8V9aKTFhKyeomRpxoyuc"
       },
@@ -38881,6 +38917,24 @@
     },
     {
       "album": {
+        "name": "study session",
+        "url": "https://open.spotify.com/album/26zT9ZL4VVi1i41T13CRTq"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145893,
+      "name": "study session",
+      "url": "https://open.spotify.com/track/1p1f3ht50aBz49MkaUVQjj"
+    },
+    {
+      "album": {
         "name": "Study To This",
         "url": "https://open.spotify.com/album/6mg53SgDrMGuPtVgma3jQc"
       },
@@ -44514,7 +44568,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 129972,
       "name": "Wait For Spring",
       "url": "https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4"

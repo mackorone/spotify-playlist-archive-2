@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 664 likes - 116 songs - 6 hr 41 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 665 likes - 118 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,5 +124,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 114 | [Something Going Down](https://open.spotify.com/track/1IMz6vOVbR7r7GoIXruUYZ) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Something Going Down](https://open.spotify.com/album/0dybQYta1tbwwYKNusjGWm) | 2:11 |
 | 115 | [Ordinary People](https://open.spotify.com/track/1oCwhlhRkPd5dCmS22o6jY) | [Lotus Grove](https://open.spotify.com/artist/26mBaP2fnwi2GnYNRWn9vR) | [Ordinary People](https://open.spotify.com/album/1SGIESobBCifLw8vs4Bnor) | 2:56 |
 | 116 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 |
+| 117 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 |
+| 118 | [Different Doors](https://open.spotify.com/track/6xUa1e4JfZtC7OfEu4Pb8X) | [Nick Wallisch](https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk) | [Different Doors](https://open.spotify.com/album/47kTyebjcjYRNLHdE6YwDT) | 3:46 |
 
-Snapshot ID: `AAADb8wwnGmRFnhPTc6YL3KJOHKbG8q8`
+Snapshot ID: `AAADcSP2S6xqbJlJqnPlVKmVqNbV827i`

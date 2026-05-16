@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: Kim Petras",
-  "num_followers": 1792830,
+  "num_followers": 1792661,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABGJAAz6CLMX9qTPetut8OUznGKn",
+  "snapshot_id": "AAAAAOtAOWG9JIh8UU5srWqeMeQW1v5C",
   "tracks": [
     {
       "added_at": "2026-05-08 04:01:35",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2NePND1BuFcrVdrDFR2HsS"
     },
     {
+      "added_at": "2026-05-15 04:01:37",
+      "album": {
+        "name": "Too Busy Missing You",
+        "url": "https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "duration_ms": 205743,
+      "name": "Too Busy Missing You",
+      "url": "https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR"
+    },
+    {
       "added_at": "2026-05-08 04:01:35",
       "album": {
         "name": "locket deluxe",
@@ -39,6 +55,22 @@
       "duration_ms": 201294,
       "name": "lovergirl",
       "url": "https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7"
+    },
+    {
+      "added_at": "2026-05-15 04:01:37",
+      "album": {
+        "name": "Growing Pains (Deluxe)",
+        "url": "https://open.spotify.com/album/4ZSJ4RcSnjccnx3LhZ35uA"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 167523,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/1N54JSlyPD0YriuRhantnh"
     },
     {
       "added_at": "2026-05-08 04:01:35",
@@ -57,6 +89,22 @@
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
+      "added_at": "2026-05-15 04:01:37",
+      "album": {
+        "name": "Say It Baby",
+        "url": "https://open.spotify.com/album/0sQEWLuIVqu1gZsi6kcl9C"
+      },
+      "artists": [
+        {
+          "name": "Tanner Grigoli",
+          "url": "https://open.spotify.com/artist/1kq96hgs2sFG1Pp7595rPd"
+        }
+      ],
+      "duration_ms": 181278,
+      "name": "Say It Baby",
+      "url": "https://open.spotify.com/track/44aaJSJ7Is6mtw61i2Xebl"
+    },
+    {
       "added_at": "2026-01-09 05:00:49",
       "album": {
         "name": "Choosin' Texas",
@@ -73,6 +121,54 @@
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
+      "added_at": "2026-05-15 04:01:37",
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/01LvAlFKjTUzdQcjcUXOyG"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Orchid",
+      "url": "https://open.spotify.com/track/0PJQf8ZYjyzaMhLNrX6qIW"
+    },
+    {
+      "added_at": "2026-05-15 19:31:50",
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "added_at": "2026-05-15 04:01:37",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/5zXWAjUQ1Sv1aEF3HYLeuu"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 215850,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4k7lVsIunyMi4eHr4SmjDU"
+    },
+    {
       "added_at": "2026-05-08 04:01:35",
       "album": {
         "name": "Control / Dive",
@@ -87,6 +183,22 @@
       "duration_ms": 183230,
       "name": "Dive",
       "url": "https://open.spotify.com/track/3tWpj6eJQMW0Aq1L109VWe"
+    },
+    {
+      "added_at": "2026-05-15 04:01:37",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/2Agpx4O43voM4HbvPJZ6cv"
+      },
+      "artists": [
+        {
+          "name": "Kevin Jonas",
+          "url": "https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu"
+        }
+      ],
+      "duration_ms": 175961,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/5f0SfZp3LqbA1Ny6L4v15U"
     },
     {
       "added_at": "2026-05-08 04:01:35",
@@ -137,6 +249,22 @@
       "url": "https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw"
     },
     {
+      "added_at": "2026-05-15 04:01:37",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/6FWbNITIxlsMMbYKY0Rf4X"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/65v5jCRK3Pgac5GSlIRbzx"
+    },
+    {
       "added_at": "2026-05-08 04:01:35",
       "album": {
         "name": "Therapy at the Club",
@@ -167,6 +295,22 @@
       "duration_ms": 139672,
       "name": "Just A Man",
       "url": "https://open.spotify.com/track/38EJZ2NYDdLCSViiJkubRu"
+    },
+    {
+      "added_at": "2026-05-15 04:01:37",
+      "album": {
+        "name": "Dull Red",
+        "url": "https://open.spotify.com/album/3Csq54O7plAJKLxXwc2Elq"
+      },
+      "artists": [
+        {
+          "name": "Michele Lu",
+          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
+        }
+      ],
+      "duration_ms": 213407,
+      "name": "What A Bummer!",
+      "url": "https://open.spotify.com/track/4Lbmuaiif77RwGlLN4YSwp"
     },
     {
       "added_at": "2026-05-01 04:03:47",
@@ -817,22 +961,6 @@
       "url": "https://open.spotify.com/track/2cvuYoAarEwjOoNcTVOFxJ"
     },
     {
-      "added_at": "2026-03-13 04:00:45",
-      "album": {
-        "name": "Soft 2",
-        "url": "https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 230521,
-      "name": "When Did You Stop Loving Me?",
-      "url": "https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk"
-    },
-    {
       "added_at": "2026-04-10 04:01:32",
       "album": {
         "name": "Easy As Pie",
@@ -863,22 +991,6 @@
       "duration_ms": 167800,
       "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
       "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
-    },
-    {
-      "added_at": "2026-04-03 04:01:40",
-      "album": {
-        "name": "180",
-        "url": "https://open.spotify.com/album/1UA9keCcWY3lEOIKFFqYQg"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 191870,
-      "name": "180",
-      "url": "https://open.spotify.com/track/2f7zdx2sNebdcSyuR55LnD"
     },
     {
       "added_at": "2026-03-27 04:00:28",
@@ -1077,22 +1189,6 @@
       "url": "https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ"
     },
     {
-      "added_at": "2026-03-06 05:00:07",
-      "album": {
-        "name": "LOVE, LOVE, LOVE",
-        "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 242287,
-      "name": "LOVE, LOVE, LOVE",
-      "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
-    },
-    {
       "added_at": "2025-11-08 16:45:50",
       "album": {
         "name": "I Said I Love You First",
@@ -1147,22 +1243,6 @@
       "duration_ms": 206874,
       "name": "Aint It Such A Bitch",
       "url": "https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk"
-    },
-    {
-      "added_at": "2026-02-06 05:00:49",
-      "album": {
-        "name": "Don\u2019t Dream It\u2019s Over (From The Movie \u201cGOAT\u201d)",
-        "url": "https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf"
-      },
-      "artists": [
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 193012,
-      "name": "Don\u2019t Dream It\u2019s Over - From The Movie \u201cGOAT\u201d",
-      "url": "https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5"
     },
     {
       "added_at": "2025-11-08 16:45:50",
@@ -1329,26 +1409,6 @@
       "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
-      "added_at": "2026-02-27 18:35:08",
-      "album": {
-        "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
-        "url": "https://open.spotify.com/album/4QQj3QOSKqEEuJ1RdhJiAf"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        },
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 206504,
-      "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
-      "url": "https://open.spotify.com/track/3IC5qtXccheQyYw27oSSD4"
-    },
-    {
       "added_at": "2025-11-08 16:45:50",
       "album": {
         "name": "The Art of Loving",
@@ -1481,22 +1541,6 @@
       "url": "https://open.spotify.com/track/2aSLm1nQp9MmNwEqHyPerf"
     },
     {
-      "added_at": "2026-02-20 05:00:44",
-      "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/5yMdykRjtY0u6qOpmwuGu0"
-      },
-      "artists": [
-        {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
-        }
-      ],
-      "duration_ms": 162351,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/2TEysTPzmaFHWr9wdkurgS"
-    },
-    {
       "added_at": "2026-01-16 05:00:28",
       "album": {
         "name": "Melt",
@@ -1545,38 +1589,6 @@
       "url": "https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh"
     },
     {
-      "added_at": "2026-02-03 17:40:01",
-      "album": {
-        "name": "The Rain Isn't Over",
-        "url": "https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 182348,
-      "name": "The Rain Isn't Over",
-      "url": "https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0"
-    },
-    {
-      "added_at": "2026-01-16 16:26:57",
-      "album": {
-        "name": "2SIDED",
-        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "2SIDED",
-      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
-    },
-    {
       "added_at": "2026-01-23 05:00:24",
       "album": {
         "name": "Losing You",
@@ -1607,22 +1619,6 @@
       "duration_ms": 240308,
       "name": "Headphones On",
       "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "Dream As One (from Avatar: Fire and Ash)",
-        "url": "https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 199876,
-      "name": "Dream As One - from Avatar: Fire and Ash",
-      "url": "https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3"
     },
     {
       "added_at": "2025-11-08 16:45:50",

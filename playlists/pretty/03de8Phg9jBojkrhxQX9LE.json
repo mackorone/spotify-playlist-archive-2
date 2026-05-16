@@ -1,13 +1,685 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 22045,
+  "num_followers": 22047,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAKVzRqKo8d0u7g5A1dzcdr7ljoViqP",
+  "snapshot_id": "AAAKYGVGxufbP2P9JTQnCo4jagBbCe75",
   "tracks": [
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Neon Soul",
+        "url": "https://open.spotify.com/album/6HnQIxrBh3JMlsd4P3F8X3"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Neon Soul",
+      "url": "https://open.spotify.com/track/5ONOXYgmiuLZk8oxy2zr0X"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "I Feel So Free (Peggy Gou Energy Mix)",
+        "url": "https://open.spotify.com/album/1ceKmL44svlYzu0218VoPt"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 267508,
+      "name": "I Feel So Free - Peggy Gou Energy Mix",
+      "url": "https://open.spotify.com/track/5zZQc0Dgvz81P4BRt2jGE8"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "A Thousand Lies",
+        "url": "https://open.spotify.com/album/1Pr9UwNTdIvqhb4Q7kKfR3"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        },
+        {
+          "name": "Saidah",
+          "url": "https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU"
+        }
+      ],
+      "duration_ms": 284037,
+      "name": "A Thousand Lies",
+      "url": "https://open.spotify.com/track/1rinB6g47GjC1NlJj5NKHq"
+    },
+    {
+      "added_at": "2026-05-15 22:23:07",
+      "album": {
+        "name": "See-Line Woman (Mochakk Mix)",
+        "url": "https://open.spotify.com/album/5LlU02DzqhgFNDIbPfSxXV"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "duration_ms": 288021,
+      "name": "See-Line Woman - Mochakk Mix",
+      "url": "https://open.spotify.com/track/3kVHlBlzIZP2kuqWMYhv3B"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/4C7lqD1l78gnaMTLVA9JGW"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Taube",
+          "url": "https://open.spotify.com/artist/7CkJFCrOBweQ9bOL3C5MCu"
+        }
+      ],
+      "duration_ms": 212907,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/75LdIYSLqY9kBXZIHnqf9U"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Lift You Up (Baauer Remix)",
+        "url": "https://open.spotify.com/album/2Reld1i2j5EnnxL083GioF"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Lift You Up - Baauer Remix",
+      "url": "https://open.spotify.com/track/64N7fwM0u8T86K04eDUyqd"
+    },
+    {
+      "added_at": "2026-05-15 22:22:06",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/01X9f2F90XeGMi14hoFTpP"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Kate Morgan",
+          "url": "https://open.spotify.com/artist/48hiuLYhfSj1EYOrZPAuje"
+        }
+      ],
+      "duration_ms": 258204,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/08loBhbezM9ypYP2nbJQQd"
+    },
+    {
+      "added_at": "2026-05-15 22:24:35",
+      "album": {
+        "name": "Fuck The Whole World (Subtronics Remix)",
+        "url": "https://open.spotify.com/album/24kOcYxCPLESlexPHkM3Ct"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Fuck The Whole World - Subtronics Remix",
+      "url": "https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/0clTTK9wSXFKpTTtGq2sun"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "ANYTHING GOES",
+      "url": "https://open.spotify.com/track/4JZCJxqwRond3dcrywlNnz"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Rain Is Falling",
+        "url": "https://open.spotify.com/album/4CWfu90gA1ldOGF4xYt78m"
+      },
+      "artists": [
+        {
+          "name": "Fred V & Grafix",
+          "url": "https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena"
+        },
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Rain Is Falling",
+      "url": "https://open.spotify.com/track/7Lo3mb75tBVVXiW4UAWEo5"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "If This Is It",
+        "url": "https://open.spotify.com/album/4EQ1QONy2hsmWHFdxOB7gm"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        }
+      ],
+      "duration_ms": 243702,
+      "name": "If This Is It",
+      "url": "https://open.spotify.com/track/71vkCMFohC2QD94tlyIGln"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "GET UP! GET DOWN! (EVERYBODYYY)",
+        "url": "https://open.spotify.com/album/6CAkmTyIPUDpos74QpYEUb"
+      },
+      "artists": [
+        {
+          "name": "kimj",
+          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
+        },
+        {
+          "name": "Syzy",
+          "url": "https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL"
+        }
+      ],
+      "duration_ms": 148837,
+      "name": "GET UP! GET DOWN! (EVERYBODYYY)",
+      "url": "https://open.spotify.com/track/2nqn5XsYk0gsCGSAWbBFsR"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "What You Say (ft umru)",
+        "url": "https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        }
+      ],
+      "duration_ms": 219526,
+      "name": "What You Say - ft umru",
+      "url": "https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "On The Dash",
+        "url": "https://open.spotify.com/album/3SdEWk7nslVRxo1kxu1DTq"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "DLG.",
+          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
+        }
+      ],
+      "duration_ms": 171617,
+      "name": "On The Dash",
+      "url": "https://open.spotify.com/track/7LPTk9sGE5fe7h80tw3e1u"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 195188,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Lockup",
+        "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 271835,
+      "name": "Lockup",
+      "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Baby Come Back (feat. Mayer Hawthorne)",
+        "url": "https://open.spotify.com/album/5q3GgbDAc3ns0GLsZKuzRV"
+      },
+      "artists": [
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 193864,
+      "name": "Baby Come Back (feat. Mayer Hawthorne)",
+      "url": "https://open.spotify.com/track/5V7PUAfCy02UxXauMnN9T8"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Point Five E.P",
+        "url": "https://open.spotify.com/album/46uRExiS6E3FUd3ieqaAim"
+      },
+      "artists": [
+        {
+          "name": "Ivy Lab",
+          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+        }
+      ],
+      "duration_ms": 205094,
+      "name": "Point Five",
+      "url": "https://open.spotify.com/track/5fOWNQF6p3Naz4QwBO71cG"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Full Send (Pirapus Remix)",
+        "url": "https://open.spotify.com/album/4gV4HOBRlFXbW5klfnocAU"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "Full Send - Pirapus Remix",
+      "url": "https://open.spotify.com/track/70OmUSMPq9H1BYdO0gmlde"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "powerANTHEM / need (u)",
+        "url": "https://open.spotify.com/album/2OTkR8cOmqhBjSWya9fdPg"
+      },
+      "artists": [
+        {
+          "name": "No Signal",
+          "url": "https://open.spotify.com/artist/1aJGcBWhdgt1b8sEZ1Hupk"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        },
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "powerANTHEM",
+      "url": "https://open.spotify.com/track/0LHa2W53zFGGM6kJES1BoE"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "What You Want (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/6pTEOWVGMpx8keqO9xRhDC"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "What You Want - Fcukers Remix",
+      "url": "https://open.spotify.com/track/0vDEDfoMO57db8lb60xE2s"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Do 2 Me",
+        "url": "https://open.spotify.com/album/29wp5C6Glq9nGUoYIDl2Fc"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Do 2 Me",
+      "url": "https://open.spotify.com/track/2ZhMFXbpia6DJqn2IP52IH"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "SPECTRUM",
+        "url": "https://open.spotify.com/album/0efHSSeL9EvkNEAYwLW00N"
+      },
+      "artists": [
+        {
+          "name": "wev",
+          "url": "https://open.spotify.com/artist/1KpEYlQPQN64r0aRE9Wg6i"
+        },
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "SPECTRUM",
+      "url": "https://open.spotify.com/track/0roUYRFNX1yMzmuHQqjcwt"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "SPEAK",
+        "url": "https://open.spotify.com/album/66qFXca7WRZE6s70Zs3EUv"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "duration_ms": 169799,
+      "name": "SPEAK",
+      "url": "https://open.spotify.com/track/3D3WgzzVpqyoBp48yZAT9M"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Need Some Fun",
+        "url": "https://open.spotify.com/album/48dHXF7ZT5ndX4yzJSz8K3"
+      },
+      "artists": [
+        {
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Need Some Fun",
+      "url": "https://open.spotify.com/track/3zSZUO1ZFIkwC4CdV7Rzls"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "BURNER",
+        "url": "https://open.spotify.com/album/5xqMmQ9nkc6CDIVPrI56Op"
+      },
+      "artists": [
+        {
+          "name": "Hydraulix",
+          "url": "https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "BURNER",
+      "url": "https://open.spotify.com/track/3dYpLKcpiChHd8z5jHRdlb"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Blame It",
+        "url": "https://open.spotify.com/album/4Yf1Ps5AiNyqc6p0kJhCe9"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "duration_ms": 222608,
+      "name": "Blame It",
+      "url": "https://open.spotify.com/track/5LB3N8fVFSH8IaXn7WSLPA"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "BURST",
+        "url": "https://open.spotify.com/album/1VMOFZeTj6zosipVpjiCiT"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "PROP",
+          "url": "https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp"
+        }
+      ],
+      "duration_ms": 137960,
+      "name": "BURST",
+      "url": "https://open.spotify.com/track/57V2MhFR1RSbVrAsH2w5wN"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "DO AS I SAY",
+        "url": "https://open.spotify.com/album/0ldvzzs4B1TDj8kUPv5HLb"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "DO AS I SAY",
+      "url": "https://open.spotify.com/track/56NCLe3cAx4QCtHDhl6WD8"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "The Simple Life",
+        "url": "https://open.spotify.com/album/107TV5duwQmGHrzgC7ZP8y"
+      },
+      "artists": [
+        {
+          "name": "Keeno",
+          "url": "https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        },
+        {
+          "name": "Noppo",
+          "url": "https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Simple Life",
+      "url": "https://open.spotify.com/track/072Jqz7VTPV8m99hhaKToi"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Buried",
+        "url": "https://open.spotify.com/album/5WHD3YIEstB4zPNJNUOlz2"
+      },
+      "artists": [
+        {
+          "name": "Heimanu",
+          "url": "https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM"
+        }
+      ],
+      "duration_ms": 221176,
+      "name": "Buried",
+      "url": "https://open.spotify.com/track/6hrMYBhQsGpCDVsBSdMSne"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "Faded Over U",
+        "url": "https://open.spotify.com/album/1Rp1ED8zqKiUDgu3LNv5g1"
+      },
+      "artists": [
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Faded Over U",
+      "url": "https://open.spotify.com/track/45mf9x8dUwYTOyaVxwX1xc"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "raveHEART! (Wil OC Edit)",
+        "url": "https://open.spotify.com/album/7jN4al7uOtoA3mURX1Dh4T"
+      },
+      "artists": [
+        {
+          "name": "KERO",
+          "url": "https://open.spotify.com/artist/1buRQJUaOGTgp36hBMda6y"
+        },
+        {
+          "name": "Wil OC",
+          "url": "https://open.spotify.com/artist/47WyCWlwJXipFT1rGNeE8j"
+        }
+      ],
+      "duration_ms": 165948,
+      "name": "raveHEART! - Wil OC Edit",
+      "url": "https://open.spotify.com/track/2rw1tgpkcPUzUJdjX4RtqR"
+    },
+    {
+      "added_at": "2026-05-15 21:07:29",
+      "album": {
+        "name": "HELLDUST 88 (REFLEX)",
+        "url": "https://open.spotify.com/album/37ABF0kUGJ6QauLs4nRyzL"
+      },
+      "artists": [
+        {
+          "name": "KILLMATTER",
+          "url": "https://open.spotify.com/artist/7xG6JYqkApsbZBCeKs7cJ5"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "HELLDUST 88 (REFLEX)",
+      "url": "https://open.spotify.com/track/4ToS72AMzMZOFxBrp2DG3s"
+    },
     {
       "added_at": "2026-05-08 14:16:41",
       "album": {

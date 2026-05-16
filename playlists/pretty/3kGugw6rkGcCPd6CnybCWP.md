@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 92 songs - 5 hr 18 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 93 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 90 | [Seconds Of Neon](https://open.spotify.com/track/7y8IcDNbf1RJtD1QDjscuu) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Seconds Of Neon](https://open.spotify.com/album/0hxfW38i7HETPx1KNu9qtC) | 3:31 |
 | 91 | [All Over Again](https://open.spotify.com/track/4KvXKfrldA8J7d3mIFBXp5) | [Fruition](https://open.spotify.com/artist/3iUbju4Cu6cPX5llxZWMqA) | [Black Mariah](https://open.spotify.com/album/3m00qDdaAMsv3B1W6EIhBh) | 2:53 |
 | 92 | [Do You Care](https://open.spotify.com/track/7kY6QH8DKLM8yCI6nIjuNp) | [FL!P](https://open.spotify.com/artist/1Nhc1lmGw78IavLiBewZDU) | [Do You Care](https://open.spotify.com/album/5wV40igYpNvJ1RG9b3obV7) | 2:51 |
+| 93 | [Don't Play The Victim](https://open.spotify.com/track/2dO4SWMeHylOKCZ4FURomS) | [Crawford Mack](https://open.spotify.com/artist/6CKMgHCNRQ5bQTV0Nx4LuM) | [Don't Play The Victim](https://open.spotify.com/album/40BGz92PxQmrSKYoIAX4P7) | 3:31 |
 
-Snapshot ID: `AAAO405frzmFAj1GG5J5y6WobRHjiDFg`
+Snapshot ID: `AAAO5JzVbOERRp2R9xd/Qn9Z4PSnewLB`

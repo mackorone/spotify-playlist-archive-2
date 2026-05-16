@@ -1,6 +1,6 @@
 {
   "description": "The ultimate classical playlist for soothing stretching, practicing pli\u00e9s and point at the barre.",
-  "num_followers": 131713,
+  "num_followers": 131751,
   "original_name": "ballet class",
   "owner": {
     "name": "Spotify",
@@ -588,12 +588,12 @@
       },
       "artists": [
         {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        },
-        {
           "name": "Alis Huws",
           "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        },
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
         }
       ],
       "duration_ms": 219968,

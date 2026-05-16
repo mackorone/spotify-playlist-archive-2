@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-756 songs - 3 day 0 hr 42 min
+757 songs - 3 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Look At What The Blood Has Done \- Live](https://open.spotify.com/track/7i2ELDMeAw0I3HtFYbUmws) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Look At What The Blood Has Done \(Live\)](https://open.spotify.com/album/7zCjHQRVh97TQZFeD3yS0U) | 5:50 | 2025-03-20 |  |
 | [Look To The Lamb](https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Look To The Lamb](https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi) | 6:54 | 2026-03-04 |  |
 | [Look What The Lord Has Done](https://open.spotify.com/track/5NuR456SQe5Gic5qnsL48s) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Pelt](https://open.spotify.com/artist/4Bq682UCIDpgtfgVpvxMwh), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Look What The Lord Has Done](https://open.spotify.com/album/4nwrCIGItCekOhkEUyX2v7) | 4:24 | 2025-08-29 |  |
+| [Looking](https://open.spotify.com/track/3czGXdoslTCmd8IL7zPjyx) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 5:33 | 2026-05-15 |  |
 | [Lord I Need You \- Live](https://open.spotify.com/track/4fF4Bb4T3txIfsLlqLyKA9) | [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [The God You Are \(Live\)](https://open.spotify.com/album/28dezLJwS8FZrizFVqrUv2) | 3:48 | 2024-08-16 | 2026-02-07 |
 | [Lord Of The Harvest \- Live](https://open.spotify.com/track/7C9T43q7KGEYWkkQ2jFEcE) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Lord Of The Harvest \(Live\)](https://open.spotify.com/album/2MPWAjBXD0w7N8CCJ6OTBe) | 9:54 | 2022-05-06 | 2023-04-01 |
 | [Lord, I give You my heart \- from the studio](https://open.spotify.com/track/13g3YzqljC9Q0Eo20GozcY) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05), [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa) | [Lord, I give You my heart \(from the studio\)](https://open.spotify.com/album/0L4fhnfyYnaKfvElyUqxHe) | 4:08 | 2025-02-28 |  |

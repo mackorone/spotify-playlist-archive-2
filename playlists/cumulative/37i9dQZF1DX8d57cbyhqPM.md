@@ -4,7 +4,7 @@
 
 > Du Congo, au monde 🌍 avec Tonton Genezio.
 
-748 songs - 1 day 17 hr 52 min
+749 songs - 1 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Esta Tierra No Es Mia](https://open.spotify.com/track/1Zya4TzVUZNJ6pzMKZOqKn) | [Bopol Mansiamina](https://open.spotify.com/artist/1gDtb0bVDzQRhjPKJpkY6Q), [Nyboma](https://open.spotify.com/artist/4HT4UQebFlfxyaDLWkCHPT), [Nicoyembe](https://open.spotify.com/artist/1Wpficg8zYjq241dlVxz2D), [Caien Madoka](https://open.spotify.com/artist/5MIxiZifqGJen5N9tOScQ8), [Jean Bahdra](https://open.spotify.com/artist/3gCctwsCptwYgGPhYdnYu7), [Victor Hugo Rodriguez](https://open.spotify.com/artist/1Qch7AKxisqQNAzyF2FdFg) | [Esta Tierra No Es Mia](https://open.spotify.com/album/4kHso1HdhS6wMFhYMB5fNR) | 6:25 | 2025-12-19 | 2026-02-21 |
 | [Et c'est OK](https://open.spotify.com/track/0bbTMG9s4X03MF1Natlhkl) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Et c'est OK](https://open.spotify.com/album/6KynR7Ct0ckq0ikF0SRiUe) | 2:24 | 2026-02-06 | 2026-04-04 |
 | [Et si…](https://open.spotify.com/track/4AZdDYLJZzucv5k1rsa8AG) | [Kayson](https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV) | [Et si…](https://open.spotify.com/album/5Y9vOsCmJ9hxdH3L9nUB5j) | 3:03 | 2025-01-31 | 2025-06-28 |
-| [ETALIYÉ](https://open.spotify.com/track/0IXqlLVjUmlSbLBQGujAzk) | [Rebo](https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb) | [ETALIYÉ](https://open.spotify.com/album/6GxfnLdhKcMF9rSxnqvhy7) | 4:03 | 2026-02-27 |  |
+| [ETALIYÉ](https://open.spotify.com/track/0IXqlLVjUmlSbLBQGujAzk) | [Rebo](https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb) | [ETALIYÉ](https://open.spotify.com/album/6GxfnLdhKcMF9rSxnqvhy7) | 4:03 | 2026-02-27 | 2026-05-16 |
 | [Everyday](https://open.spotify.com/track/3hM1x8CJ6a8wT81J6z5d2T) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Gafacci](https://open.spotify.com/artist/72qc1S2CYJyPc1vpTBDJfG) | [Everyday](https://open.spotify.com/album/60OPQRWInY5VulEy78o3rk) | 2:51 | 2025-02-14 | 2025-03-01 |
 | [Eza pasi](https://open.spotify.com/track/1gBRdeta1oZasVAoxYYou1) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Eza pasi](https://open.spotify.com/album/6XrmF3AOmZzMPa1dTKwqM2) | 5:41 | 2024-08-09 | 2024-09-14 |
 | [Fais ça bien](https://open.spotify.com/track/7lTpq4P6yA8YbldQ7CgcDx) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Fais ça bien](https://open.spotify.com/album/478AuAkwWnCZ2fJb34Ai6N) | 3:04 | 2023-11-17 | 2024-08-24 |
@@ -610,6 +610,7 @@
 | [Rosé](https://open.spotify.com/track/0en5IGwGR7RTyUQ7JFZnOi) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Rosé](https://open.spotify.com/album/4QKKaaPThlr5XisdKK0kvQ) | 2:33 | 2026-04-17 |  |
 | [Run](https://open.spotify.com/track/2wu0PnQQt12He8L2pQUS7w) | [PVPI STRZ](https://open.spotify.com/artist/11Cznn5Yl5mmlY3WRNsuFk) | [Run](https://open.spotify.com/album/1lLdivmzyjNWRMos5ttRKa) | 3:29 | 2022-06-30 | 2023-02-18 |
 | [Répondeur](https://open.spotify.com/track/215HuX5KUiYvdfQ5cO33Xd) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Monument](https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI) | 3:16 | 2022-06-30 | 2022-11-19 |
+| [Sagacité](https://open.spotify.com/track/5eqe4prwlySZ1cpTasTuyH) | [Gloria Bash](https://open.spotify.com/artist/70C2n9dZRoXx2b5ANKbWjy) | [ZOSHI](https://open.spotify.com/album/7lJ4xNJv9I1NC0lzo6Kqi1) | 2:49 | 2026-05-15 |  |
 | [Sakwado](https://open.spotify.com/track/6wQzmZREyVEFT2LTWoK3jE) | [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR), [Gbandz](https://open.spotify.com/artist/3dq9mDztwPneAJs5bZkgWw), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU) | [Sakwado](https://open.spotify.com/album/1lXZ9T2DUQuxUnqtbiSL3W) | 2:40 | 2022-06-30 | 2023-09-30 |
 | [Sala Sala](https://open.spotify.com/track/4ds8dnIqgWtzuxrnFrkS7q) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY) | [Sala Sala](https://open.spotify.com/album/60M7cgeuKTmU3u9jMxRkAW) | 4:24 | 2023-02-10 | 2023-03-18 |
 | [SAMU KANI](https://open.spotify.com/track/4G9qKwAEHXctjKlyTOMpZj) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [BIG MAN](https://open.spotify.com/album/6c0EWZUJUXYI6OgdteIOyu) | 2:34 | 2024-10-25 | 2025-07-12 |

@@ -1,13 +1,33 @@
 {
   "description": "A new take on a classic sound. Cover: Dabeull",
-  "num_followers": 156644,
+  "num_followers": 156733,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGlP8Ja9W5jViIzn95KMht42DKeq",
+  "snapshot_id": "AAAAAH8zmaDzLjMJ94jJyrs6K0DMIPJo",
   "tracks": [
+    {
+      "added_at": "2026-05-15 04:00:56",
+      "album": {
+        "name": "New Highs",
+        "url": "https://open.spotify.com/album/0lwUMyyqQX3KxuTV8TdYyj"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 232195,
+      "name": "New Highs",
+      "url": "https://open.spotify.com/track/0S4JMWDEgUIhDVyhmoiNvB"
+    },
     {
       "added_at": "2026-04-17 04:01:11",
       "album": {
@@ -1795,22 +1815,6 @@
       "duration_ms": 326400,
       "name": "Disco Save My Life",
       "url": "https://open.spotify.com/track/0Rh5XomjOtIYabPhtZ1TyV"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/5bIjntlZiR3Zj36rLw2H27"
-      },
-      "artists": [
-        {
-          "name": "Netta",
-          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
-        }
-      ],
-      "duration_ms": 178134,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/7tZzYmYevSj9wVFS8rb6kT"
     },
     {
       "added_at": "2023-04-28 04:01:00",

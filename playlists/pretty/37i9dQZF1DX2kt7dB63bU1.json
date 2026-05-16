@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 169314,
+  "num_followers": 169355,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtTkbe/0C9qTgRplJ67OGjyZNrL",
+  "snapshot_id": "AAAAAMY6Mj0yXiyu5KbToCAgOQ8dkvWZ",
   "tracks": [
+    {
+      "added_at": "2026-05-15 04:00:32",
+      "album": {
+        "name": "Something's Coming",
+        "url": "https://open.spotify.com/album/6D9DAFPfXNTWk6yC7uw7Rk"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 217267,
+      "name": "Something's Coming",
+      "url": "https://open.spotify.com/track/7nYmZ9g27zZYXzLYrhcPvE"
+    },
     {
       "added_at": "2026-05-01 04:01:11",
       "album": {
@@ -79,6 +95,34 @@
       "duration_ms": 272240,
       "name": "Raindrops Keep Falling On My Head",
       "url": "https://open.spotify.com/track/0KA5ATfEnvljL6RS14WRnR"
+    },
+    {
+      "added_at": "2026-05-15 04:00:32",
+      "album": {
+        "name": "Burgundy",
+        "url": "https://open.spotify.com/album/0kKAsVURzU5scFPBk5wU9p"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 260144,
+      "name": "Burgundy",
+      "url": "https://open.spotify.com/track/5sgaaqksfnewIky3AUrYFI"
     },
     {
       "added_at": "2026-04-03 04:00:10",
@@ -601,34 +645,6 @@
       "url": "https://open.spotify.com/track/2vsGXgLPIq9FgZbgHkkUWC"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
-      "album": {
-        "name": "Purple",
-        "url": "https://open.spotify.com/album/4m4PdoGeXSukoI50zUlbOu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        },
-        {
-          "name": "Dezron Douglas",
-          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 308082,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/5KFe3NMgHSHLGZ6bYhP7iE"
-    },
-    {
       "added_at": "2025-09-26 04:00:27",
       "album": {
         "name": "Three Little Words",
@@ -1007,22 +1023,6 @@
       "duration_ms": 151854,
       "name": "Give Me The Simple Life",
       "url": "https://open.spotify.com/track/4XCqphsGzjEDkGrlygO5cm"
-    },
-    {
-      "added_at": "2025-05-23 04:00:36",
-      "album": {
-        "name": "Get Out of Town",
-        "url": "https://open.spotify.com/album/4fqNWJL8PQEt6eRX6AJ08Q"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 322579,
-      "name": "Get Out of Town",
-      "url": "https://open.spotify.com/track/5974nBdPM0feVCxqOodh9a"
     },
     {
       "added_at": "2025-05-02 04:00:17",

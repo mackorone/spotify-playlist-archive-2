@@ -6,8 +6,312 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABMRaA+BFEc4ah6EaK+UEe8zC13My8f",
+  "snapshot_id": "AABMZI6bm0/Rq6otnHmaycSkgJ9FOMeP",
   "tracks": [
+    {
+      "added_at": "2026-05-15 05:49:52",
+      "album": {
+        "name": "Dream Me A Dream",
+        "url": "https://open.spotify.com/album/5glOc1g7GuiIXfhhl5kh2v"
+      },
+      "artists": [
+        {
+          "name": "Tucker Zimmerman",
+          "url": "https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09"
+        }
+      ],
+      "duration_ms": 238035,
+      "name": "Dream Me A Dream",
+      "url": "https://open.spotify.com/track/0G2n7MxlDkWVFFeyUXE4ME"
+    },
+    {
+      "added_at": "2026-05-15 05:41:44",
+      "album": {
+        "name": "Mind Abandon",
+        "url": "https://open.spotify.com/album/0427KFQKixojSa4UseJoE2"
+      },
+      "artists": [
+        {
+          "name": "Ital Tek",
+          "url": "https://open.spotify.com/artist/6Auo6gEPwhb9aZindgVpZJ"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Memory Leak",
+      "url": "https://open.spotify.com/track/0fxFL886pQyQKBgfdJGouz"
+    },
+    {
+      "added_at": "2026-05-15 05:43:55",
+      "album": {
+        "name": "Drippin' EP",
+        "url": "https://open.spotify.com/album/7uyS7mf3qWKvQN4s2iH5GE"
+      },
+      "artists": [
+        {
+          "name": "Parris",
+          "url": "https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt"
+        }
+      ],
+      "duration_ms": 361826,
+      "name": "Got Me Feelin'",
+      "url": "https://open.spotify.com/track/2Iw91ZuVTIME3LhPfciWw7"
+    },
+    {
+      "added_at": "2026-05-15 05:50:04",
+      "album": {
+        "name": "The Answer Is The Question's Misfortune",
+        "url": "https://open.spotify.com/album/2hbBWlKnDZWfJpvkEHRmdz"
+      },
+      "artists": [
+        {
+          "name": "Air Max '97",
+          "url": "https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R"
+        }
+      ],
+      "duration_ms": 225636,
+      "name": "The Answer Is The Question's Misfortune",
+      "url": "https://open.spotify.com/track/5wY9RNzkFZhatq1LCc4pNA"
+    },
+    {
+      "added_at": "2026-05-15 06:02:06",
+      "album": {
+        "name": "Fire, Water, Earth, Air (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5mrjouiYLHZhCDKzu7A5k5"
+      },
+      "artists": [
+        {
+          "name": "Johan Car\u00f8e",
+          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
+        }
+      ],
+      "duration_ms": 131450,
+      "name": "Politics",
+      "url": "https://open.spotify.com/track/7zQ1NkoJPUdNfDwodhw7xD"
+    },
+    {
+      "added_at": "2026-05-15 05:53:26",
+      "album": {
+        "name": "Things We Did On Earth",
+        "url": "https://open.spotify.com/album/1y7xsilx8eVPMfdu5NAG77"
+      },
+      "artists": [
+        {
+          "name": "Kilbey Kennedy",
+          "url": "https://open.spotify.com/artist/7Jm3LVdYER2npWzVKXZpbw"
+        },
+        {
+          "name": "Steve Kilbey",
+          "url": "https://open.spotify.com/artist/73RfKk8YdbdXckjcMBCAd4"
+        },
+        {
+          "name": "Martin Kennedy",
+          "url": "https://open.spotify.com/artist/666m32FUwzKuxRpGkLkQf6"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "The Dryad",
+      "url": "https://open.spotify.com/track/4s1i4joWTBFCtVBaKClcLC"
+    },
+    {
+      "added_at": "2026-05-15 05:42:21",
+      "album": {
+        "name": "Pushin' Your Luck",
+        "url": "https://open.spotify.com/album/39Gm13EDbRsvpLKeP1IeBZ"
+      },
+      "artists": [
+        {
+          "name": "Bart and the Brats",
+          "url": "https://open.spotify.com/artist/6xykF5FaWMht3bvedspXi6"
+        }
+      ],
+      "duration_ms": 147809,
+      "name": "Pushin' Your Luck",
+      "url": "https://open.spotify.com/track/7B5As3EuaXMSbfyUxjTj7x"
+    },
+    {
+      "added_at": "2026-05-15 05:49:37",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1774mLDzZ1sUNnI7pcsVcG"
+      },
+      "artists": [
+        {
+          "name": "Stingray",
+          "url": "https://open.spotify.com/artist/79bUCYS1DFlGQ0Tm8pXgPL"
+        }
+      ],
+      "duration_ms": 191375,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/3foBGUWCpxadh9zOkGDAPK"
+    },
+    {
+      "added_at": "2026-05-15 06:00:00",
+      "album": {
+        "name": "Burnt Offerings",
+        "url": "https://open.spotify.com/album/0UH8qjpvRkbjIQ2NEsYZau"
+      },
+      "artists": [
+        {
+          "name": "Effigy",
+          "url": "https://open.spotify.com/artist/1fZ8dKLq67dRlclXEXJRSw"
+        }
+      ],
+      "duration_ms": 187157,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/7c0GkIDDPRB8mHyOe8zWak"
+    },
+    {
+      "added_at": "2026-05-15 05:59:45",
+      "album": {
+        "name": "Prendre Le Pouvoir Par La Force",
+        "url": "https://open.spotify.com/album/5x689q1qDucIsCe0v2q9Pc"
+      },
+      "artists": [
+        {
+          "name": "Prisonnier du temps",
+          "url": "https://open.spotify.com/artist/6Z8TRIeMpeFbnxvgmPp4Sr"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "L'Arm\u00e9e Des Ombres",
+      "url": "https://open.spotify.com/track/1uAMWzQbuXJUsigQymZJH4"
+    },
+    {
+      "added_at": "2026-05-15 06:01:43",
+      "album": {
+        "name": "The Idyllist (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6Hqlko9ptNYhxQLO4PCRIP"
+      },
+      "artists": [
+        {
+          "name": "Steve Kilbey",
+          "url": "https://open.spotify.com/artist/73RfKk8YdbdXckjcMBCAd4"
+        }
+      ],
+      "duration_ms": 335413,
+      "name": "Aero-space - Remastered 2026",
+      "url": "https://open.spotify.com/track/1jMYMUfvBSHSrT20DPwr0n"
+    },
+    {
+      "added_at": "2026-05-15 05:44:16",
+      "album": {
+        "name": "Fathom Tides",
+        "url": "https://open.spotify.com/album/2LEiUU8oFmDxXd6yht9VFF"
+      },
+      "artists": [
+        {
+          "name": "Werner Dafeldecker",
+          "url": "https://open.spotify.com/artist/5iZZY08wj2zJDYN8HTuNHn"
+        },
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        }
+      ],
+      "duration_ms": 347622,
+      "name": "Fathom Tides V",
+      "url": "https://open.spotify.com/track/1X720PQ3ZRSg5BH4ZYvVJi"
+    },
+    {
+      "added_at": "2026-05-15 05:48:03",
+      "album": {
+        "name": "The Best of Hefner",
+        "url": "https://open.spotify.com/album/3ePxWWpvEeKnEKSCSINJG8"
+      },
+      "artists": [
+        {
+          "name": "Hefner",
+          "url": "https://open.spotify.com/artist/6B4yZT4AZbcEH90zluBhTK"
+        },
+        {
+          "name": "Darren Hayman",
+          "url": "https://open.spotify.com/artist/7z1zIVirda43ep7aMRkXYH"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "The Greater London Radio",
+      "url": "https://open.spotify.com/track/5TAZ1GTL8moATHhhEgkZWH"
+    },
+    {
+      "added_at": "2026-05-15 05:48:16",
+      "album": {
+        "name": "Encounter with Aliens",
+        "url": "https://open.spotify.com/album/03mhkcJS3wUp8PlVS7K4ty"
+      },
+      "artists": [
+        {
+          "name": "Low Communication",
+          "url": "https://open.spotify.com/artist/2lGu1rS6eJD5Y2xYnjpYV9"
+        }
+      ],
+      "duration_ms": 362790,
+      "name": "Encounter With Aliens",
+      "url": "https://open.spotify.com/track/0zGlCxlTE2Sus6B3enk492"
+    },
+    {
+      "added_at": "2026-05-15 05:59:24",
+      "album": {
+        "name": "Doubtful Realm",
+        "url": "https://open.spotify.com/album/73Kc8OZE26pGpsudGCepKf"
+      },
+      "artists": [
+        {
+          "name": "Angels in America",
+          "url": "https://open.spotify.com/artist/3cnJ18nJFHcGBhmAIYnsn9"
+        }
+      ],
+      "duration_ms": 228940,
+      "name": "Doubtful Realm",
+      "url": "https://open.spotify.com/track/1d0U1qIpuI7RrJFlJBULgQ"
+    },
+    {
+      "added_at": "2026-05-15 06:02:26",
+      "album": {
+        "name": "Teenage Bomb",
+        "url": "https://open.spotify.com/album/1qqUSsGl1USrlxSUR1p3KX"
+      },
+      "artists": [
+        {
+          "name": "The Needles",
+          "url": "https://open.spotify.com/artist/5QhekguX2GVqYhwl4WCrH5"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Teenage Bomb",
+      "url": "https://open.spotify.com/track/7ipCKgxYRmos1ExvwdjLLI"
+    },
+    {
+      "added_at": "2026-05-15 06:04:37",
+      "album": {
+        "name": "Love And Trust",
+        "url": "https://open.spotify.com/album/6fCz0XqhXeT8JqXUoGfCj4"
+      },
+      "artists": [
+        {
+          "name": "The Explorers Club",
+          "url": "https://open.spotify.com/artist/1CR8qMZVkRSoIioetcA8u3"
+        }
+      ],
+      "duration_ms": 155335,
+      "name": "Love And Trust",
+      "url": "https://open.spotify.com/track/22eJ5ev5RDcLiuHMoFL2p0"
+    },
+    {
+      "added_at": "2026-05-15 06:04:57",
+      "album": {
+        "name": "I Don\u2019t Want To Go to Heaven",
+        "url": "https://open.spotify.com/album/1UnDAmZIDpgW5RIL0ZrIvw"
+      },
+      "artists": [
+        {
+          "name": "Doris Brendel",
+          "url": "https://open.spotify.com/artist/4pVeFYgp3ZMZDHvbQecxg5"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "I Don\u2019t Want To Go to Heaven",
+      "url": "https://open.spotify.com/track/7tYUb7MZgv7OOcF7oyDZ4K"
+    },
     {
       "added_at": "2026-05-08 07:46:26",
       "album": {
@@ -863,314 +1167,6 @@
       "duration_ms": 226696,
       "name": "First Reflex",
       "url": "https://open.spotify.com/track/5hbIVFS5X0oSw5eZCuZuLf"
-    },
-    {
-      "added_at": "2026-04-24 09:26:21",
-      "album": {
-        "name": "Geenipoolin Pohjimmainen",
-        "url": "https://open.spotify.com/album/1pkNB2t7rTgGYiv2pppOze"
-      },
-      "artists": [
-        {
-          "name": "Yleiset Syyt",
-          "url": "https://open.spotify.com/artist/77xJ3l102w1ehtQP7akp34"
-        }
-      ],
-      "duration_ms": 93572,
-      "name": "Geenipoolin Pohjimmainen",
-      "url": "https://open.spotify.com/track/5ihZrin2GtPutaTzQCdafL"
-    },
-    {
-      "added_at": "2026-04-24 09:26:40",
-      "album": {
-        "name": "\u5947\u3057\u304f\u71c3\u3048\u308b",
-        "url": "https://open.spotify.com/album/2tDPI1BXsufhRRwzphFyCb"
-      },
-      "artists": [
-        {
-          "name": "Raw Distractions",
-          "url": "https://open.spotify.com/artist/6QWjW6UwgwYyN9nvv3tQaP"
-        }
-      ],
-      "duration_ms": 150654,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/3dELI6nOgYObtTlpR63a5Q"
-    },
-    {
-      "added_at": "2026-04-24 09:26:53",
-      "album": {
-        "name": "Scimitarium II",
-        "url": "https://open.spotify.com/album/0vyFBJpjmFpzUhB6K4dfbJ"
-      },
-      "artists": [
-        {
-          "name": "Scimitar",
-          "url": "https://open.spotify.com/artist/2lRPu8oUFYyhLULof2mdIa"
-        }
-      ],
-      "duration_ms": 328238,
-      "name": "Lunacy Jewels",
-      "url": "https://open.spotify.com/track/1HYqRUHVh8zVPdLAti493h"
-    },
-    {
-      "added_at": "2026-04-24 09:27:18",
-      "album": {
-        "name": "Seastar",
-        "url": "https://open.spotify.com/album/1YaTaR52IPLCM6c8ZVnPXD"
-      },
-      "artists": [
-        {
-          "name": "Async Figure",
-          "url": "https://open.spotify.com/artist/4Xm5ZvCGNR1g5wWLLLpTfq"
-        }
-      ],
-      "duration_ms": 298762,
-      "name": "Seastar",
-      "url": "https://open.spotify.com/track/6V8uw8ck0oJcK3ERFhdq6R"
-    },
-    {
-      "added_at": "2026-04-24 09:27:05",
-      "album": {
-        "name": "An Antiphon after Hildegard",
-        "url": "https://open.spotify.com/album/1ZYOqWs9WearZgv18WlZz0"
-      },
-      "artists": [
-        {
-          "name": "Laura Cannell",
-          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "An Antiphon after Hildegard",
-      "url": "https://open.spotify.com/track/67TCsHqtTUDNbdvb3NDFZY"
-    },
-    {
-      "added_at": "2026-04-24 09:29:06",
-      "album": {
-        "name": "By Storm",
-        "url": "https://open.spotify.com/album/2UM4Jw9fQjm88vjBcL4BqC"
-      },
-      "artists": [
-        {
-          "name": "Robi Mitch",
-          "url": "https://open.spotify.com/artist/109H49pnmkDGwypTSRjliM"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "By Storm",
-      "url": "https://open.spotify.com/track/4wZ6CUKIw17VJN0X93qzpW"
-    },
-    {
-      "added_at": "2026-04-24 09:29:36",
-      "album": {
-        "name": "Looking 4 Love",
-        "url": "https://open.spotify.com/album/5AzudZ6tHdMdQZCeU45HFA"
-      },
-      "artists": [
-        {
-          "name": "Arborist",
-          "url": "https://open.spotify.com/artist/73NsXu8p63LKM2s24QwxAr"
-        }
-      ],
-      "duration_ms": 254211,
-      "name": "Looking 4 Love",
-      "url": "https://open.spotify.com/track/1JN74ZhOb4Qvl0sWwJOwid"
-    },
-    {
-      "added_at": "2026-04-24 09:30:14",
-      "album": {
-        "name": "Prayer For Peace (Daybreakers Remix x John Disco Edit)",
-        "url": "https://open.spotify.com/album/6amM1f1enVGYbrmgpYAzzH"
-      },
-      "artists": [
-        {
-          "name": "Essential Logic",
-          "url": "https://open.spotify.com/artist/1hJWecjPWroTl28fARuPd9"
-        },
-        {
-          "name": "Poly Styrene",
-          "url": "https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq"
-        },
-        {
-          "name": "Daybreakers",
-          "url": "https://open.spotify.com/artist/6KKlQJnmO661VFFG8f73P3"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Prayer For Peace - Daybreakers Remix x John Disco Edit",
-      "url": "https://open.spotify.com/track/57xhIxCRznrbmDWqOHN9zA"
-    },
-    {
-      "added_at": "2026-04-24 09:30:59",
-      "album": {
-        "name": "Falling Out",
-        "url": "https://open.spotify.com/album/1syioXJISJR7Q9xBVOXiZR"
-      },
-      "artists": [
-        {
-          "name": "Walrus Ghost",
-          "url": "https://open.spotify.com/artist/5QgeiWsaQIYY3KXXknUkw6"
-        }
-      ],
-      "duration_ms": 212395,
-      "name": "Falling Out",
-      "url": "https://open.spotify.com/track/6boW2ZDqVNMneZMHaoq35C"
-    },
-    {
-      "added_at": "2026-04-24 09:28:03",
-      "album": {
-        "name": "Jean-Luc Godard Directs",
-        "url": "https://open.spotify.com/album/5mdFoxlSHIiYQ2HLT1UAJS"
-      },
-      "artists": [
-        {
-          "name": "Simon Bromide",
-          "url": "https://open.spotify.com/artist/7s60UlgktLZK4L485TbPF3"
-        },
-        {
-          "name": "Bromide",
-          "url": "https://open.spotify.com/artist/7l4GWNPAIsXLRFSaCvC6pb"
-        }
-      ],
-      "duration_ms": 197381,
-      "name": "Jean-Luc Godard Directs",
-      "url": "https://open.spotify.com/track/7ItoBSeqxFhO574jXLeRCh"
-    },
-    {
-      "added_at": "2026-04-24 09:22:55",
-      "album": {
-        "name": "Around The Wrekin",
-        "url": "https://open.spotify.com/album/3AKIjSXZOJIgZjUlxhEuyn"
-      },
-      "artists": [
-        {
-          "name": "Fitzroy Holt",
-          "url": "https://open.spotify.com/artist/1h2pgx2gX9dvcPxfAjRu75"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Last Bastard",
-      "url": "https://open.spotify.com/track/70ksUuSxTL1QZB2THIXh2Y"
-    },
-    {
-      "added_at": "2026-04-17 08:28:23",
-      "album": {
-        "name": "Rose Of Sharon",
-        "url": "https://open.spotify.com/album/711zIJhXnjBJt8uov3DfEI"
-      },
-      "artists": [
-        {
-          "name": "Tucker Zimmerman",
-          "url": "https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09"
-        }
-      ],
-      "duration_ms": 144023,
-      "name": "Rose Of Sharon",
-      "url": "https://open.spotify.com/track/4S6oFLqEBcCmDRot7hjQER"
-    },
-    {
-      "added_at": "2026-04-17 08:29:34",
-      "album": {
-        "name": "Holy Island Baby",
-        "url": "https://open.spotify.com/album/0dLcUQukiB5rgSXzj3wvY0"
-      },
-      "artists": [
-        {
-          "name": "Sister Ray Davies",
-          "url": "https://open.spotify.com/artist/50KJjmnYuU4x8h6sXIyQM1"
-        },
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 292794,
-      "name": "Morning Bell - Pye Corner Audio Mix",
-      "url": "https://open.spotify.com/track/6Mg5YPrAh7qjevjtE6essW"
-    },
-    {
-      "added_at": "2026-04-17 08:21:21",
-      "album": {
-        "name": "Flatline",
-        "url": "https://open.spotify.com/album/2fU6VnrpB812Qz8y1JKXOF"
-      },
-      "artists": [
-        {
-          "name": "Loraine James",
-          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
-        },
-        {
-          "name": "Miho Hatori",
-          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
-        }
-      ],
-      "duration_ms": 192692,
-      "name": "Flatline",
-      "url": "https://open.spotify.com/track/4ApFHtgtpqPrvIVoAAWp6r"
-    },
-    {
-      "added_at": "2026-04-17 08:26:24",
-      "album": {
-        "name": "She Says",
-        "url": "https://open.spotify.com/album/33JbNp0tQis3vah6NXtwlA"
-      },
-      "artists": [
-        {
-          "name": "Heavenly",
-          "url": "https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2"
-        }
-      ],
-      "duration_ms": 276573,
-      "name": "She Says",
-      "url": "https://open.spotify.com/track/7yWyb76qCGBzrZu8wtskvf"
-    },
-    {
-      "added_at": "2026-04-17 08:25:12",
-      "album": {
-        "name": "Senderos",
-        "url": "https://open.spotify.com/album/6fRlCXwdlQc6OrYlcc77SF"
-      },
-      "artists": [
-        {
-          "name": "Suicidas",
-          "url": "https://open.spotify.com/artist/4MoecK3YNXhEB3Gu91S3kh"
-        }
-      ],
-      "duration_ms": 134249,
-      "name": "Senderos",
-      "url": "https://open.spotify.com/track/1bxiN4uiJBPmBgIoeDmIua"
-    },
-    {
-      "added_at": "2026-04-17 08:26:00",
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/3FvWodYMVd1fcmFmEikAeL"
-      },
-      "artists": [
-        {
-          "name": "Corpus Offal",
-          "url": "https://open.spotify.com/artist/5oTiGxsvylKbcdgLdwst7I"
-        }
-      ],
-      "duration_ms": 398837,
-      "name": "Epitomic Disembowelment",
-      "url": "https://open.spotify.com/track/0MWfa4UpmfmKZlm0V05tJg"
-    },
-    {
-      "added_at": "2026-04-17 08:25:25",
-      "album": {
-        "name": "Black Milk",
-        "url": "https://open.spotify.com/album/1B82NE1MVT5zfcQ7bYuDZN"
-      },
-      "artists": [
-        {
-          "name": "Stingray",
-          "url": "https://open.spotify.com/artist/79bUCYS1DFlGQ0Tm8pXgPL"
-        }
-      ],
-      "duration_ms": 154124,
-      "name": "Black Milk",
-      "url": "https://open.spotify.com/track/6aqJnOU53HG4ZiNcI0I9Ks"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

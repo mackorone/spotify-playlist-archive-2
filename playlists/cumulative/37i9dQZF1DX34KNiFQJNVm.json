@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Os lan\u00e7amentos dessa semana incluem Os Garotin, Shakira com Burna Boy, Ana Castela com PEDRO SAMPAIO, Felipe Amorim com WIU, MD Chefe com Duquesa e muito mais!",
+  "description": "Os lan\u00e7amentos dessa semana incluem Os Garotin, Shakira com Burna Boy,  Drake,  Ana Castela com PEDRO SAMPAIO,  MD Chefe com Duquesa e muito mais!",
   "name": "Novidades da Semana",
   "tracks": [
     {
@@ -14776,7 +14776,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 102857,
       "name": "Agora ou Nunca",
       "url": "https://open.spotify.com/track/0R4X9PN115BKt6iNzh1vQb"
@@ -28752,16 +28752,16 @@
           "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
         },
         {
-          "name": "MC Boladinho",
-          "url": "https://open.spotify.com/artist/4Ad9ThC3GmBlouZuQE1e7c"
-        },
-        {
           "name": "MC Rick",
           "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
         },
         {
           "name": "Real Puto",
           "url": "https://open.spotify.com/artist/60PxwENw4FITS4hdlc3P1g"
+        },
+        {
+          "name": "Boladin 211",
+          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
         },
         {
           "name": "Daav",
@@ -45777,7 +45777,7 @@
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 178181,
+      "duration_ms": 178153,
       "name": "Berimbau Mete na Filha da Tia",
       "url": "https://open.spotify.com/track/0FkJYAA4rcllqu7kpYQtXs"
     },
@@ -209297,7 +209297,7 @@
     },
     {
       "album": {
-        "name": "Me Livra De Todo Mal",
+        "name": "ME LIVRA DE TODO MAL",
         "url": "https://open.spotify.com/album/1moh2bRsNZH5aOsP3jGYnZ"
       },
       "artists": [
@@ -209310,7 +209310,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192192,
-      "name": "Me Livra De Todo Mal",
+      "name": "ME LIVRA DE TODO MAL",
       "url": "https://open.spotify.com/track/2731kmDfNfoTqJ3WW5K5TF"
     },
     {
@@ -243158,6 +243158,28 @@
       "duration_ms": 168000,
       "name": "NOVA | EP #01 - Energia",
       "url": "https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj"
+    },
+    {
+      "album": {
+        "name": "NOVA: Fala meu Nome",
+        "url": "https://open.spotify.com/album/76vt9bK4S7mGBl3ZWqyLLC"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89250,
+      "name": "NOVA: Fala meu Nome",
+      "url": "https://open.spotify.com/track/0yvtCcfvcD6LkMUPbqI6TX"
     },
     {
       "album": {
@@ -303845,6 +303867,32 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "album": {
         "name": "rancor",
         "url": "https://open.spotify.com/album/47OXiXtQd4ZIiDmYdGvwU6"
       },
@@ -308068,6 +308116,28 @@
       "duration_ms": 202245,
       "name": "Repare",
       "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
+    },
+    {
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "album": {
@@ -345902,16 +345972,16 @@
       },
       "artists": [
         {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
           "name": "DJ WILL TN",
           "url": "https://open.spotify.com/artist/7uVgmtaje8DlNep6BGuVgX"
         },
         {
           "name": "DJ Japa NK",
           "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
         }
       ],
       "date_added": "2026-05-15",
@@ -354728,6 +354798,28 @@
       "duration_ms": 141226,
       "name": "Tadalafila",
       "url": "https://open.spotify.com/track/3qQhmVPwqRLsQvTpOvsM7c"
+    },
+    {
+      "album": {
+        "name": "ALMA - PARTE 1",
+        "url": "https://open.spotify.com/album/6MxCEhK9taTuUO6Ephm983"
+      },
+      "artists": [
+        {
+          "name": "Raffa Torres",
+          "url": "https://open.spotify.com/artist/6jncnjvxMwbLIEYDhwsGlu"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231057,
+      "name": "TADINHA",
+      "url": "https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw"
     },
     {
       "album": {
@@ -373471,24 +373563,6 @@
     },
     {
       "album": {
-        "name": "ALMA - PARTE 1",
-        "url": "https://open.spotify.com/album/6MxCEhK9taTuUO6Ephm983"
-      },
-      "artists": [
-        {
-          "name": "Raffa Torres",
-          "url": "https://open.spotify.com/artist/6jncnjvxMwbLIEYDhwsGlu"
-        }
-      ],
-      "date_added": "2026-05-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw"
-    },
-    {
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -378929,7 +379003,7 @@
         },
         {
           "name": "Rafinha No Beat",
-          "url": "https://open.spotify.com/artist/5tzYYNpMP41qj1Ii3H2Cnu"
+          "url": "https://open.spotify.com/artist/6zM44V7R04R6uVZFvUkWWG"
         }
       ],
       "date_added": "2026-05-15",

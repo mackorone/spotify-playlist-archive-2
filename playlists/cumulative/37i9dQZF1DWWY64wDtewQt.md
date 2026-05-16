@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-881 songs - 1 day 7 hr 44 min
+882 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1) | 1:47 | 2024-10-04 |  |
 | [FUNK ESTRANHO](https://open.spotify.com/track/3uFuQuXyUpYOlVkPdVeCCh) | [ALXIKE](https://open.spotify.com/artist/4SbtvEgtu7QsmFjjBzyV8F) | [FUNK ESTRANHO](https://open.spotify.com/album/71m7v6UCb6PldBrt5AYJ0I) | 1:46 | 2024-04-05 | 2024-06-08 |
 | [FUNK INFERNAL](https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y) | [DYGO](https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7), [Mxng0](https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3) | [FUNK INFERNAL](https://open.spotify.com/album/3Iw0jAPzwgmuqSIWQa9i8W) | 1:30 | 2024-12-13 |  |
-| [Funk of Galáctico](https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l) | [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [Funk of Galáctico](https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA) | 1:30 | 2024-04-26 |  |
+| [Funk of Galáctico](https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l) | [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [Funk of Galáctico](https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA) | 1:30 | 2024-04-26 | 2026-05-16 |
 | [Funk of Suffering](https://open.spotify.com/track/3GbFWANaWI8VZf1AxqFeaN) | [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [Funk of Suffering](https://open.spotify.com/album/2B8qo6AA5g6iPR0DpkjrbB) | 1:17 | 2023-12-08 | 2024-05-04 |
 | [FUNK SERENO \- SLOWED](https://open.spotify.com/track/5Y5NUAnVqru8HUUx4Yrli0) | [ICEDMANE](https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj), [DYSMANE](https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z) | [FUNK SERENO](https://open.spotify.com/album/5rtythciasHcvQhwf2ubxv) | 2:25 | 2026-03-13 |  |
 | [FUNK SIGILO \- SLOWED](https://open.spotify.com/track/1ZPszVMluDbqsEx9MJTjJd) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 1:43 | 2025-06-30 | 2026-02-14 |
@@ -551,6 +551,7 @@
 | [MTG PATRONO](https://open.spotify.com/track/3NQOcWmMK1YDhcES2DRlQI) | [CHXSE WAVE](https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT) | [MTG PATRONO](https://open.spotify.com/album/1voYue1fOt5KXCqbxQsXCq) | 1:39 | 2023-10-06 | 2023-10-14 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-05-13 |  |
 | [MURDER PLOT](https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MURDER PLOT](https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv) | 2:06 | 2023-01-06 | 2024-04-20 |
+| [MUTILATOR \(SLOWED\)](https://open.spotify.com/track/0uYxQl1aLEhVBOEoMhF2tT) | [ZMAJOR](https://open.spotify.com/artist/4nzcYFR90Ep4i3P6mlZSkP) | [MUTILATOR](https://open.spotify.com/album/3cIfOF2VU2EpkZBhU7NHSR) | 1:49 | 2026-05-15 |  |
 | [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-08-12 | 2022-10-01 |
 | [MYSTIC STYLE](https://open.spotify.com/track/1DunAe7kfBcA7yC9KT7wOv) | [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [MYSTIC STYLE](https://open.spotify.com/album/39nKKqUus4Pb6gAhM1Vach) | 1:38 | 2021-11-12 | 2022-02-19 |
 | [NA KOLENI FUNK](https://open.spotify.com/track/7jNDR88oOEPt4NKRJNoRnx) | [INFXRNVM](https://open.spotify.com/artist/2cx6gOmSDTfLBddNLTuA0X), [Rage激怒](https://open.spotify.com/artist/2R2fkoleO3fPiFsOe2J86s) | [NA KOLENI FUNK](https://open.spotify.com/album/0hdCKZheQkaKA8DrVkA95g) | 1:15 | 2024-12-05 | 2024-12-14 |

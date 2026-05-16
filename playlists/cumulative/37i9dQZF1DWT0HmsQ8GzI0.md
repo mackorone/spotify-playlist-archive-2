@@ -4,7 +4,7 @@
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Héra Barnabás
 
-418 songs - 23 hr 30 min
+418 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Tell Me Why](https://open.spotify.com/track/1VoekyYrBqKrhgZHFsEKaJ) | [Aron Andras](https://open.spotify.com/artist/7JNJRhoNangEwIlZQYHIT0) | [Tell Me Why](https://open.spotify.com/album/4nxYIEJsAAE7YuSSzBbJLb) | 2:34 | 2025-04-18 | 2025-06-17 |
 | [The Last Thing On My Mind](https://open.spotify.com/track/5oPK2g4KYkMgQwIoTKPfGA) | [Aron Andras](https://open.spotify.com/artist/7JNJRhoNangEwIlZQYHIT0) | [The Last Thing On My Mind](https://open.spotify.com/album/2Vz3JBbfvUwPNUYuujEpsg) | 3:10 | 2025-03-28 | 2025-05-13 |
 | [TIK\-TAK](https://open.spotify.com/track/4QsWsbAEdYMsT8Z0JlTRVK) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [TIK\-TAK](https://open.spotify.com/album/0zKlCumrFYMC5lLVL42hRP) | 5:09 | 2024-06-28 | 2024-09-14 |
-| [Track 4](https://open.spotify.com/track/0YmC2RyX4YD1HVaJQ8F73G) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [Kezdetben Ketten](https://open.spotify.com/album/2IGoo8bL65FuJ8Vywy3RBG) | 0:00 | 2026-05-14 |  |
+| [Tomi Montana](https://open.spotify.com/track/0YmC2RyX4YD1HVaJQ8F73G) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [Kezdetben Ketten](https://open.spotify.com/album/2IGoo8bL65FuJ8Vywy3RBG) | 3:05 | 2026-05-14 |  |
 | [Társaságban](https://open.spotify.com/track/3vyz0Lh32tXc98nbzZgWat) | [L.A\. Suzi](https://open.spotify.com/artist/35T2TZNtaWwxTwld0U13k3), [Csaknekedkislány](https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ) | [Bátyám, Dodó \- A Film](https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5) | 2:54 | 2024-09-02 | 2026-01-16 |
 | [Télbe át](https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72) | [Télbe át](https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ) | 2:41 | 2025-12-04 |  |
 | [TÉLI SZÉL](https://open.spotify.com/track/1K4F6xaXorBQXxheyLRh6R) | [STAiR](https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai) | [TÉLI SZÉL](https://open.spotify.com/album/0T4G3upwAPwZvZoXKqA6Zr) | 3:08 | 2024-06-28 | 2025-01-25 |

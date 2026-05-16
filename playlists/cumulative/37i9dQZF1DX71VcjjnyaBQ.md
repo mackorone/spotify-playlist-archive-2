@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-261 songs - 22 hr 23 min
+262 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Rising Sun](https://open.spotify.com/track/4nYxNjXiOCl1QzjSu9H9ip) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz Impressions Of Japan](https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX) | 4:39 | 2025-11-21 | 2026-03-21 |
 | [Root of the Matter](https://open.spotify.com/track/08N0F5H3AsH3w0kh8qeBry) | [Roelofs](https://open.spotify.com/artist/6FMjIGodIpXfHq3X5Mfry4) | [Root of the Matter](https://open.spotify.com/album/0M1fHUbSgAwWO4OhlSITof) | 5:17 | 2023-11-22 | 2024-06-29 |
 | [Ruby My Dear](https://open.spotify.com/track/46BCpYx2ERUE5Rjk9dB1qh) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Diamond In The Rough](https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf) | 6:13 | 2025-11-21 | 2026-03-21 |
+| [Santa Fe Peanut Co.](https://open.spotify.com/track/4bc7tN8lGDAxpMRSkbipPs) | [Shane Sato](https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj), [Joy Guerrilla](https://open.spotify.com/artist/1wKZCBliNvp21MffTj35TE) | [Wavelength](https://open.spotify.com/album/014eKfZ7OMIMIU4ut3gfvG) | 2:32 | 2026-05-15 |  |
 | [Saving All My Love for You](https://open.spotify.com/track/67gegBlOgrRPHhfLfb3CEj) | [Atlantic Five Jazz Band](https://open.spotify.com/artist/2utgbFODWxZ6ZPLVhRaToA) | [The Pop Jazz Sessions](https://open.spotify.com/album/1bSsOP5q2aXB0TO2h6rKXg) | 5:23 | 2022-09-22 | 2025-06-14 |
 | [Sconsolato](https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM) | [Nathan Davis](https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO) | [Best of 1965\-76](https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv) | 3:28 | 2021-12-21 | 2024-01-18 |
 | [Sheikh Ali](https://open.spotify.com/track/0qfLFTSg1J0PuBQbUnXNNy) | [Yes! Trio](https://open.spotify.com/artist/2EzdAl58y2F3EYDlAYsBGL), [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma), [Omer Avital](https://open.spotify.com/artist/1ibLgDTHZc1KCkLPfOQr2g), [Ali Jackson](https://open.spotify.com/artist/5tFHD1Y400oLuqNwWYICkD) | [Sheikh Ali](https://open.spotify.com/album/4sdIATsvxo60JFkZDIqz0Y) | 4:29 | 2024-03-29 | 2025-03-22 |
@@ -260,7 +261,7 @@
 | [Where We Belong](https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI) | [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Paul Svanberg](https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX) | [Where We Belong](https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox) | 6:11 | 2021-12-21 | 2026-03-21 |
 | [Where We Used to Live](https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Tuesday Wonderland](https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y) | 4:27 | 2025-11-21 |  |
 | [Will You Still Be Mine?](https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ), [John Webber](https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5) | [A Drums Comes True](https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr) | 5:53 | 2021-12-21 | 2025-11-22 |
-| [Winter](https://open.spotify.com/track/0TY99mhZgjAT1Nv3b2fnZr) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Winter](https://open.spotify.com/album/6y81cvtV64YclRmmivCI8U) | 5:29 | 2022-08-29 |  |
+| [Winter](https://open.spotify.com/track/0TY99mhZgjAT1Nv3b2fnZr) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Winter](https://open.spotify.com/album/6y81cvtV64YclRmmivCI8U) | 5:29 | 2022-08-29 | 2026-05-16 |
 | [Winter](https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Cloud 10](https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun) | 5:29 | 2022-10-27 | 2024-04-19 |
 | [Without Deception](https://open.spotify.com/track/503UAqvRFIcoNaUYZM2WUZ) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Dave Holland Trio](https://open.spotify.com/artist/7fFLGyDMrSHUmuY6wdAcXe), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Without Deception](https://open.spotify.com/album/6LUlAvbrFf5GdxXAO0Fznc) | 6:35 | 2021-12-21 | 2022-11-16 |
 | [Wolves](https://open.spotify.com/track/6swC1FhShFOBw1WelyqIfZ) | [Foehn Trio](https://open.spotify.com/artist/71YdDTi8qnsYcgSEnTI3et) | [Highlines](https://open.spotify.com/album/0ONIe9ezp42TGsOjz7n9pF) | 6:02 | 2021-12-21 | 2022-06-01 |

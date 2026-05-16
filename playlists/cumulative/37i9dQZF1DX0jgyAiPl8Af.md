@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-932 songs - 1 day 16 hr 12 min
+934 songs - 1 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Am ende](https://open.spotify.com/track/60N406bCjmSX6Mwj0lR7dC) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Am ende](https://open.spotify.com/album/2a7ziC6igJV8XCrw9s2yeb) | 2:32 | 2022-10-07 | 2024-06-08 |
 | [Am Fuschlsee](https://open.spotify.com/track/3IQxXk7kjHO2YTaf0kDD7K) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Am Fuschlsee](https://open.spotify.com/album/1hrGVeNjcMuU0vne38brsd) | 3:50 | 2024-03-29 |  |
 | [am Marienplatz](https://open.spotify.com/track/6aChaZyAJMXGE1dv3Hl1Py) | [Alexander Wurzler](https://open.spotify.com/artist/25W6u2VnVVME6ZEMSn9Kfa) | [Morgenstund](https://open.spotify.com/album/2ni9DbZXvKnvHyr5UbYAo5) | 2:49 | 2021-12-08 | 2023-03-10 |
-| [AM Sunset](https://open.spotify.com/track/06ZwqZmTvUVclp1a7a1Wka) | [Ralph Couvert](https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa) | [AM Sunset](https://open.spotify.com/album/33beEdj4t72q8BLg2eZBOT) | 3:10 | 2023-09-08 |  |
+| [AM Sunset](https://open.spotify.com/track/06ZwqZmTvUVclp1a7a1Wka) | [Ralph Couvert](https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa) | [AM Sunset](https://open.spotify.com/album/33beEdj4t72q8BLg2eZBOT) | 3:10 | 2023-09-08 | 2026-05-16 |
 | [Amai Hi](https://open.spotify.com/track/39kKNitwwvn7Y0oH0NGN82) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Amai Hi](https://open.spotify.com/album/62Y6MiU9MICnsbetYyKizY) | 2:02 | 2022-10-07 | 2023-09-08 |
 | [Amarilla](https://open.spotify.com/track/3QW1G65bI9fplVMY1vvgWq) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Amarilla](https://open.spotify.com/album/7LvbQ7xAtrw2mzWZxzHuzk) | 2:27 | 2022-04-22 | 2023-03-25 |
 | [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 | 2022-05-13 | 2023-02-11 |
@@ -98,6 +98,7 @@
 | [Blue Something](https://open.spotify.com/track/0UmR5k7YxioGuU6V0XVPbZ) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Blue Something](https://open.spotify.com/album/5pnWzZFzYCFVcfDjx66JaC) | 3:04 | 2022-11-18 | 2023-10-13 |
 | [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 | 2023-04-21 | 2025-11-11 |
 | [Body And Soul](https://open.spotify.com/track/6DamCHDP65dAx5X9xkiqoQ) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA), [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Body And Soul](https://open.spotify.com/album/77myUuQ0VpoOpS9tnXcuu7) | 2:21 | 2021-12-08 | 2022-10-29 |
+| [Bojnice](https://open.spotify.com/track/6qCoa4l9VvZWFg9C81PkUt) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Bojnice](https://open.spotify.com/album/3Ppsj2fwtrhde1l20KtdYb) | 2:42 | 2026-05-15 |  |
 | [Bolero Del Sur](https://open.spotify.com/track/0KYaOK0iTCODMZBarRjRm4) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Bolero Del Sur](https://open.spotify.com/album/3q747zMG0IshIwdOYuMzkn) | 3:02 | 2021-12-08 | 2022-05-11 |
 | [bom futuro](https://open.spotify.com/track/77o3LZmP63pViKY4fPFeqF) | [Ilkay Lo](https://open.spotify.com/artist/4zSVCyUaupSJHF5sKlBIo3) | [Valdemossa](https://open.spotify.com/album/0cjTSUufuDFqDPvBA4O1ea) | 3:04 | 2021-12-08 | 2022-05-11 |
 | [Bonanza](https://open.spotify.com/track/3edohA9RKNNDPyKyAmc8tH) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Bonanza](https://open.spotify.com/album/7qtjwbttZC7u2JRg8y1cAO) | 2:48 | 2024-08-07 | 2025-04-30 |
@@ -260,7 +261,7 @@
 | [eye of the beholder](https://open.spotify.com/track/5qj92VufB9JpS83gJh73up) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [eye of the beholder](https://open.spotify.com/album/6Ml03ImtzdZLRHmb2pa3Yn) | 3:01 | 2022-07-15 | 2022-07-22 |
 | [Eyrie](https://open.spotify.com/track/7xsrSjvPQdbAjnjLbE123V) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Eyrie](https://open.spotify.com/album/0SijLea2cdL6yNX9d7R2i2) | 1:56 | 2022-10-28 | 2023-08-19 |
 | [Fairfield in my Heart](https://open.spotify.com/track/3HSSHkPfbgA6F7t5zVlYk3) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Fairfield in my Heart](https://open.spotify.com/album/2rxYviWjxKjrosSq8ezUBV) | 2:12 | 2022-11-18 | 2024-07-18 |
-| [Fairplex](https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Fairplex](https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu) | 2:07 | 2023-08-10 |  |
+| [Fairplex](https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Fairplex](https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu) | 2:07 | 2023-08-10 | 2026-05-16 |
 | [Fairytale](https://open.spotify.com/track/1nG96s85Zw3DVnG24onptC) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Fairytale](https://open.spotify.com/album/4f3CoCIOgJGOPgdZLu8ycA) | 2:28 | 2023-10-27 | 2026-03-05 |
 | [Faith Struggle](https://open.spotify.com/track/3rI9bQ7ilP4EKFsr7K9Xib) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [Faith Struggle](https://open.spotify.com/album/1nuRmtxWItculC0bP9doH8) | 2:56 | 2021-12-08 | 2022-05-11 |
 | [Falling For You](https://open.spotify.com/track/3Boy1B77i7P895663Fdl19) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Falling For You](https://open.spotify.com/album/4hYaErKM9hpfXWyCUf7INO) | 2:27 | 2022-12-23 | 2023-05-26 |
@@ -314,7 +315,7 @@
 | [Golden Bridge](https://open.spotify.com/track/5vU0QZZeSA0lGBZiF9ZH1T) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Golden Bridge](https://open.spotify.com/album/0DAwdikccXAqOXgQ04W6FZ) | 2:21 | 2025-02-24 |  |
 | [Golden Hour](https://open.spotify.com/track/0MaJRjqtDMKJ7F2ncrByDK) | [Carlo Castilla](https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR) | [Golden Hour](https://open.spotify.com/album/1vDAQZppgz27QWabAWGxzY) | 2:45 | 2023-08-10 | 2024-02-02 |
 | [Golden Leaves](https://open.spotify.com/track/0O7DTjLQPnKlcKlClATRps) | [Eijy Yamaguchi](https://open.spotify.com/artist/1I7G9utlEACklch0tHradH) | [Golden Leaves](https://open.spotify.com/album/5do8dNde8A1Lx6p4AyeW2T) | 3:06 | 2022-07-01 | 2022-07-08 |
-| [Graceful Embrace](https://open.spotify.com/track/71C5Yne2c8gXWNREZCaco7) | [Nisha Wilde](https://open.spotify.com/artist/7g9Jv4MoPYjOE4illPFYmN) | [Graceful Embrace](https://open.spotify.com/album/65MzPj8IVyE8eBJ2Ml55vS) | 2:20 | 2023-10-27 |  |
+| [Graceful Embrace](https://open.spotify.com/track/71C5Yne2c8gXWNREZCaco7) | [Nisha Wilde](https://open.spotify.com/artist/7g9Jv4MoPYjOE4illPFYmN) | [Graceful Embrace](https://open.spotify.com/album/65MzPj8IVyE8eBJ2Ml55vS) | 2:20 | 2023-10-27 | 2026-05-16 |
 | [Granada](https://open.spotify.com/track/2YRGpPruMS1BR0SDGzTmbB) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Granada](https://open.spotify.com/album/3lc6rC1cQkCWp0IXkFMyYj) | 2:52 | 2022-01-11 | 2022-09-09 |
 | [Grande Amor](https://open.spotify.com/track/6RcwhPdGVFmMQG8rhAfItJ) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Grande Amor](https://open.spotify.com/album/5xNGa1OwkG4fgP45uZ85Ys) | 3:02 | 2021-12-08 | 2022-06-10 |
 | [Grandpa's Old Guitar](https://open.spotify.com/track/2i2V6nxUsl9zDWrwDdwbEX) | [Mateo Morel](https://open.spotify.com/artist/6pzAMEBXNqLJF2lhG4lwgk) | [Grandpa's Old Guitar](https://open.spotify.com/album/471jyzEOUJypMMkcqpOIqo) | 2:22 | 2025-04-29 |  |
@@ -372,7 +373,7 @@
 | [im Schatten](https://open.spotify.com/track/7MdRyEmNfE5pvhw2LFZtmJ) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [im Schatten](https://open.spotify.com/album/77lQJQETCjlb36RzguOdSV) | 2:34 | 2021-12-08 | 2023-02-11 |
 | [Imagine](https://open.spotify.com/track/0JWLHBuJtbbR9ycmxVvmu7) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Imagine](https://open.spotify.com/album/4eXY3l7p4tlcSopoPBBUQ6) | 2:23 | 2023-02-10 | 2024-04-20 |
 | [Impermanence](https://open.spotify.com/track/0TzhOFlRohunMWFyBotAe7) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol.4](https://open.spotify.com/album/0cJUIhaY9bkUsCfVnWsH1W) | 3:13 | 2021-12-08 | 2022-04-06 |
-| [Impressions](https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Impressions](https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62) | 4:18 | 2023-06-22 |  |
+| [Impressions](https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Impressions](https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62) | 4:18 | 2023-06-22 | 2026-05-16 |
 | [in den Bergen](https://open.spotify.com/track/4q2wB8Fkc6R6V03oksaiaI) | [Mikkel Adler](https://open.spotify.com/artist/5m5x5QR8woru1deGCXghUD) | [Batur](https://open.spotify.com/album/7cHyo7vC3GRSFJHgCWs4Gw) | 3:59 | 2021-12-08 | 2022-02-02 |
 | [In due time](https://open.spotify.com/track/60oudaUU0seUx9WI4Dlgiz) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [In due time](https://open.spotify.com/album/5evrAlWRbv2cGh79NZeBzP) | 1:55 | 2023-05-26 | 2023-08-19 |
 | [In good company](https://open.spotify.com/track/2PmwATbeMAyIullNs55HJN) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [In good company](https://open.spotify.com/album/4RA2oHsVnCcQQYUnYaDBkc) | 2:25 | 2023-12-15 | 2024-08-21 |
@@ -651,6 +652,7 @@
 | [Raspberry Flavor](https://open.spotify.com/track/6tF6HFVA95mi7l17KCFAih) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Raspberry Flavor](https://open.spotify.com/album/6wQ6Mp0M9k0KX6Jy27T6Cm) | 2:36 | 2025-07-22 | 2025-11-11 |
 | [Rays in March](https://open.spotify.com/track/0dpDf1nbYcYhSDQLamQc2V) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Rays in March](https://open.spotify.com/album/6GWqI97c528sSrMwxIxnf1) | 2:15 | 2022-11-18 | 2024-07-30 |
 | [Recoleta](https://open.spotify.com/track/7EQttqyTbQugOvlRJA0CGE) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Recoleta](https://open.spotify.com/album/0vZ0mWdfR68MwqZVvEdGXa) | 2:05 | 2026-05-08 |  |
+| [Recovery](https://open.spotify.com/track/61uE2LiVVNOHpIfwkPIEPm) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Recovery](https://open.spotify.com/album/4xmw7v7Eq6H4lQHyFBrS8A) | 2:42 | 2026-05-15 |  |
 | [Red Lava](https://open.spotify.com/track/5WXMiX0oO7fOya8WTWlXda) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Red Lava](https://open.spotify.com/album/3hv5Apc4dgS9cVVKmmDqQH) | 2:54 | 2021-12-08 | 2022-07-22 |
 | [Reflected Dreams](https://open.spotify.com/track/4fn4Jx7ZrBn6r4h3vkGrkN) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Reflected Dreams](https://open.spotify.com/album/3ANuuSDn9UeoeTTqaEYGwZ) | 2:09 | 2025-03-05 |  |
 | [Regenbogen](https://open.spotify.com/track/5vxJG9LhA0Og1hUrXYLkV7) | [Marc Neuer](https://open.spotify.com/artist/78g28CYicu3HUg0nsmh9FV) | [Regenbogen](https://open.spotify.com/album/6PBEKfVOxMDYBO9pxD3daL) | 3:03 | 2021-12-08 | 2022-07-08 |
@@ -673,7 +675,7 @@
 | [Riso](https://open.spotify.com/track/0wijlfBBmTPzrE8DoClLKL) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Riso](https://open.spotify.com/album/2VmFSZrAeIXRHOO2oX0flG) | 3:20 | 2022-10-07 | 2023-06-09 |
 | [River crossing](https://open.spotify.com/track/1oaGPO8tK1VnTc6zBWzNkL) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [River crossing](https://open.spotify.com/album/2pj3W209MgHfvHu5bPclaQ) | 2:35 | 2024-05-03 | 2024-10-02 |
 | [River of Regisfield](https://open.spotify.com/track/02p0tuBNxqqaiveKZOXgDn) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [River of Regisfield](https://open.spotify.com/album/4ULQ5eDNyE3acU66R9YnqP) | 1:52 | 2022-09-09 | 2023-08-19 |
-| [River's Edge](https://open.spotify.com/track/7lcpqrRdvs8komIL2UI1e6) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [River's Edge](https://open.spotify.com/album/0nqR7HIHANllfef8LZt8NZ) | 3:02 | 2025-01-27 |  |
+| [River's Edge](https://open.spotify.com/track/7lcpqrRdvs8komIL2UI1e6) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [River's Edge](https://open.spotify.com/album/0nqR7HIHANllfef8LZt8NZ) | 3:02 | 2025-01-27 | 2026-05-16 |
 | [Road to Maine](https://open.spotify.com/track/6vLsqujwDzrEgZec3IIJ3H) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Road to Maine](https://open.spotify.com/album/2KTm6OEUp6KGp3gVHOg2XW) | 2:45 | 2025-11-10 |  |
 | [Rolling Hills](https://open.spotify.com/track/365aGwp7tIjLPorjrgjsUv) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Rolling Hills](https://open.spotify.com/album/3ATXMDroBKLW4VtUeLtEd8) | 1:57 | 2022-09-02 | 2023-08-19 |
 | [Romina](https://open.spotify.com/track/56dLWbtZzayZIl9OtXQQNI) | [Albert Kraus](https://open.spotify.com/artist/63ueGtFxRPWEhEqweSglrM) | [Romina](https://open.spotify.com/album/5cEsMVp5pTN5clLQYMj3sy) | 3:27 | 2021-12-08 | 2022-06-03 |

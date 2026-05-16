@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best club\-ready cuts from the underground 🧨 featuring Soul Mass Transit System 🧨
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,656 likes - 115 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,677 likes - 115 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

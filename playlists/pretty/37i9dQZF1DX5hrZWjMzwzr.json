@@ -631,6 +631,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "CERTYFIKAT",
+        "url": "https://open.spotify.com/album/4nNNcLFT17QWgHSSzQYwrb"
+      },
+      "artists": [
+        {
+          "name": "Eryk Moczko",
+          "url": "https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd"
+        }
+      ],
+      "duration_ms": 141386,
+      "name": "CERTYFIKAT",
+      "url": "https://open.spotify.com/track/4wqzjszg4AWKQoeY7swyci"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "KTO MA STYL",
         "url": "https://open.spotify.com/album/3jCqpBKAq0S52X0O2Bd0I4"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 136250,
       "name": "KTO MA STYL",
       "url": "https://open.spotify.com/track/4LeiikqM8SP6y943JAvrqy"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "CERTYFIKAT",
-        "url": "https://open.spotify.com/album/4nNNcLFT17QWgHSSzQYwrb"
-      },
-      "artists": [
-        {
-          "name": "Eryk Moczko",
-          "url": "https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd"
-        }
-      ],
-      "duration_ms": 141386,
-      "name": "CERTYFIKAT",
-      "url": "https://open.spotify.com/track/4wqzjszg4AWKQoeY7swyci"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "BANGKOK2025",
-        "url": "https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk"
-      },
-      "artists": [
-        {
-          "name": "Bardal",
-          "url": "https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR"
-        },
-        {
-          "name": "r\u00f3w babicze",
-          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
-        }
-      ],
-      "duration_ms": 198865,
-      "name": "BANGKOK2025",
-      "url": "https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Po\u0142\u0105czenia 2",
         "url": "https://open.spotify.com/album/2feprtPOCyMVM6HW7j3taF"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 166285,
       "name": "Ruchy",
       "url": "https://open.spotify.com/track/267Idgd3aoiep1efGLZIRC"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "BANGKOK2025",
+        "url": "https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk"
+      },
+      "artists": [
+        {
+          "name": "Bardal",
+          "url": "https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR"
+        },
+        {
+          "name": "r\u00f3w babicze",
+          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
+        }
+      ],
+      "duration_ms": 198865,
+      "name": "BANGKOK2025",
+      "url": "https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/22SiXjbw6WwEpXowkjl8zo"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        },
+        {
+          "name": "Kwiatek HAZE",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "duration_ms": 200354,
+      "name": "DAW",
+      "url": "https://open.spotify.com/track/5P4uwcftTRTxywyscGVfHJ"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Czwarta Rano",
         "url": "https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 160851,
       "name": "Czwarta Rano",
       "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/22SiXjbw6WwEpXowkjl8zo"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        },
-        {
-          "name": "Kwiatek HAZE",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
-        }
-      ],
-      "duration_ms": 200354,
-      "name": "DAW",
-      "url": "https://open.spotify.com/track/5P4uwcftTRTxywyscGVfHJ"
     },
     {
       "added_at": "2026-04-09 22:12:46",

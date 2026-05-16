@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 9876,
+  "num_followers": 9899,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agO/AAAAAAC+bT5AdkAoDwCciSLbetd1",
+  "snapshot_id": "agUQgAAAAABYDgOhthpFD+YT3/GuNjpM",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outgrown Things",
-        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+        "name": "Back in My Ways",
+        "url": "https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 237541,
-      "name": "Losing Fight",
-      "url": "https://open.spotify.com/track/5wwUo18ajQFtZnIsmZlblL"
+      "duration_ms": 243286,
+      "name": "Back in My Ways",
+      "url": "https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back in My Ways",
-        "url": "https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec"
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 243286,
-      "name": "Back in My Ways",
-      "url": "https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP"
+      "duration_ms": 237541,
+      "name": "Losing Fight",
+      "url": "https://open.spotify.com/track/5wwUo18ajQFtZnIsmZlblL"
     },
     {
       "added_at": null,

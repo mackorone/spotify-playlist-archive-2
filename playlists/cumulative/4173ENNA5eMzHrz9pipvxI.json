@@ -30277,6 +30277,32 @@
     },
     {
       "album": {
+        "name": "PENSIERO STUPENDO",
+        "url": "https://open.spotify.com/album/7IP4guV5mNoJH0ZtMDkQKX"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Roccasalvo",
+          "url": "https://open.spotify.com/artist/1MAoAQKtM0Dhz1SjvtabT7"
+        },
+        {
+          "name": "JOE ROK",
+          "url": "https://open.spotify.com/artist/78OT3nPLhfTE5QDVSzDLzP"
+        },
+        {
+          "name": "BENZATO",
+          "url": "https://open.spotify.com/artist/6Ht2FYYLzR6Mvs7AuIG1x4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "PENSIERO STUPENDO",
+      "url": "https://open.spotify.com/track/6dl5xUOJL67D5eBUobLKq7"
+    },
+    {
+      "album": {
         "name": "People Of The Night",
         "url": "https://open.spotify.com/album/0NknmmPDXQ7DWLcdNxMjy5"
       },

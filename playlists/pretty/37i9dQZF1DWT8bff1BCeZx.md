@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,330 likes - 120 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,342 likes - 120 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 103 | [Praise Da Lord](https://open.spotify.com/track/5iUseFgwQRMWfS42XLrAUQ) | [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7) | [Praise Da Lord](https://open.spotify.com/album/7CA9ykfrN2e63zYZnzpmaj) | 2:33 |
 | 104 | [Na Only Me Know](https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Na Only Me Know](https://open.spotify.com/album/6ESZpB5iJUCma2fBqJZzl3) | 6:10 |
 | 105 | [God of Miracles](https://open.spotify.com/track/2ajmaqCigP7vj66YOTPcf2) | [Dare David](https://open.spotify.com/artist/3iSjgaz8j7eDfSlsXqhx63) | [God of Miracles](https://open.spotify.com/album/7B3xMRNfxkDua1LcnQ0WmU) | 3:33 |
-| 106 | [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 |
+| 106 | [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Beulah Land Music](https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 |
 | 107 | [Call My Name](https://open.spotify.com/track/1WI5G7gvxfLanIVuWPxDrG) | [Ken erics](https://open.spotify.com/artist/5pSgNNjy7wnH4MF8PqTf7U) | [Call My Name](https://open.spotify.com/album/0QsiNQJW66Fnl7IeLzYkOs) | 2:46 |
 | 108 | [Baba Ese](https://open.spotify.com/track/2i7iAqgeHk0LmYytpiKYO0) | [Somy Ohuabunwa](https://open.spotify.com/artist/0ZnkUUTJvHkUpPRQJ9u1np) | [Baba Ese](https://open.spotify.com/album/5ozI82OxDbtsbtbnDtVyHm) | 3:23 |
 | 109 | [God Dey 2](https://open.spotify.com/track/4vsztLGXcb6rntiTMqT0J7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Gospel Force](https://open.spotify.com/artist/00M1UkoSlitGAaMN2ng5kh) | [God Dey 2](https://open.spotify.com/album/5DLvmyPdGCBK9MSTEm0yTR) | 7:12 |

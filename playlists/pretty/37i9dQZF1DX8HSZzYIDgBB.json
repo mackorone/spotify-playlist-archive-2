@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Rels B en portada.",
-  "num_followers": 40381,
+  "num_followers": 40388,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL3N9/uSyhVst34sbmYpZiIifz2E",
+  "snapshot_id": "AAAAAC/TlXm4fZSxDzlvxVwXaA8xtgI8",
   "tracks": [
     {
       "added_at": "2026-05-08 06:00:13",
@@ -315,26 +315,6 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
-        "name": "lo que pase",
-        "url": "https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO"
-      },
-      "artists": [
-        {
-          "name": "tatool",
-          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 152784,
-      "name": "lo que pase",
-      "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
         "name": "PIDA LO QUE QUIERA MAMI - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7Dlm8O7WcrSuY3OKtPE7BK"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 207035,
       "name": "PIDA LO QUE QUIERA MAMI - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0PAqSz4d5lJfAscDDmIxzX"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
+        "name": "lo que pase",
+        "url": "https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO"
+      },
+      "artists": [
+        {
+          "name": "tatool",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 152784,
+      "name": "lo que pase",
+      "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
         "name": "No me fui porque quise",
         "url": "https://open.spotify.com/album/0pbChddIjWWBWwEcI0CvB5"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
+      "duration_ms": 187430,
+      "name": "\u00d1e \u00d1e \u00d1\u00e9",
+      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -1087,22 +1103,6 @@
       "duration_ms": 179191,
       "name": "TANRiCO",
       "url": "https://open.spotify.com/track/6zHG7SW5ZfwcsaAEusL7sy"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 187430,
-      "name": "\u00d1e \u00d1e \u00d1\u00e9",
-      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
-        "name": "Tormenta Solar",
-        "url": "https://open.spotify.com/album/30lTmvLqiQOniFpRN5KGjK"
-      },
-      "artists": [
-        {
-          "name": "DUSU",
-          "url": "https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX"
-        },
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        },
-        {
-          "name": "MJ Baez",
-          "url": "https://open.spotify.com/artist/0Pror4vlY4kxMAStXy9faN"
-        }
-      ],
-      "duration_ms": 293739,
-      "name": "Tormenta Solar",
-      "url": "https://open.spotify.com/track/16pt6SWkfn0kPlL3cSHSaB"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
         "name": "El Pozo",
         "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
       },
@@ -1327,6 +1303,30 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
+        "name": "Tormenta Solar",
+        "url": "https://open.spotify.com/album/30lTmvLqiQOniFpRN5KGjK"
+      },
+      "artists": [
+        {
+          "name": "DUSU",
+          "url": "https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX"
+        },
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        },
+        {
+          "name": "MJ Baez",
+          "url": "https://open.spotify.com/artist/0Pror4vlY4kxMAStXy9faN"
+        }
+      ],
+      "duration_ms": 293739,
+      "name": "Tormenta Solar",
+      "url": "https://open.spotify.com/track/16pt6SWkfn0kPlL3cSHSaB"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
-        "name": "La Punta",
-        "url": "https://open.spotify.com/album/6vgWpAwr7V0XHMFZf4Mj1q"
-      },
-      "artists": [
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        },
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 238937,
-      "name": "La Punta",
-      "url": "https://open.spotify.com/track/4DYgUjM43h7LsCOGkT9XYr"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
         "name": "El arca de Mima",
         "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
+        "name": "La Punta",
+        "url": "https://open.spotify.com/album/6vgWpAwr7V0XHMFZf4Mj1q"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        },
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 238937,
+      "name": "La Punta",
+      "url": "https://open.spotify.com/track/4DYgUjM43h7LsCOGkT9XYr"
     }
   ],
   "unique_name": "tropic.alt",

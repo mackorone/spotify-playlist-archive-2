@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:5cnJFKwf0Uje2XQVsR9QrD">FMBLONGMONEY</a>
 
-2,327 songs - 4 day 2 hr 54 min
+2,329 songs - 4 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Check Fox 5](https://open.spotify.com/track/5cUn1fmjrCgWhrlkVrtR6f) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Check Fox 5](https://open.spotify.com/album/2vsciKzhQRI4ZSiuOGsGil) | 2:19 | 2025-01-31 | 2025-03-06 |
 | [Check Me](https://open.spotify.com/track/62QMGHCDxMsyFAwAKuf4ML) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Check Me](https://open.spotify.com/album/47ykXljyBCF6mgCpSaM5C1) | 1:52 | 2023-10-25 | 2023-11-30 |
 | [Chedda Cheese \(feat\. Babyface Ray\)](https://open.spotify.com/track/05a0oCC4u0uIwtHf2xgYGM) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Gift Of The Ghetto](https://open.spotify.com/album/3lr8MX7RXraKBsQjxxEDBc) | 2:50 | 2023-02-22 | 2023-04-13 |
+| [Chicago Hottie](https://open.spotify.com/track/7bedCq0gOVCOMZNwYw6c7y) | [Nay Speaks](https://open.spotify.com/artist/3kYoVeuo1kVavmhDwBD8Xx) | [Chicago Hottie](https://open.spotify.com/album/4bq6VggF6t96gceetuQu1t) | 2:09 | 2026-05-15 |  |
 | [chicken & waffles](https://open.spotify.com/track/6JWs2qW2P3p8R3YOe4yQfM) | [BRICK!](https://open.spotify.com/artist/4NGUeAdVk2KKuMpfYULR3v), [HARDR](https://open.spotify.com/artist/1rwrhFgnwwIuMFUHwAnN4k) | [chicken & waffles](https://open.spotify.com/album/2eoM8NJPV8kHTvkpmz551R) | 2:36 | 2024-08-28 | 2024-12-05 |
 | [CHICKEN GANG YMC](https://open.spotify.com/track/03z3nHwRY2DcLhUBzw1mI8) | [Lil Dre6o](https://open.spotify.com/artist/3HT9jbDp89eu9Dxi3vAZzG) | [CHICKEN GANG YMC](https://open.spotify.com/album/3yMJXSWoQDOn9aXxS4poli) | 2:00 | 2025-06-04 | 2025-10-23 |
 | [chicken noodle soup](https://open.spotify.com/track/0PuoK6BWDp2KMQci7bjKd9) | [Mati](https://open.spotify.com/artist/16nyx3S0mgSs2cGlw9Sol8) | [Berhane's Son](https://open.spotify.com/album/27YiMQggRT3R5RaD1gkrEH) | 3:05 | 2024-08-28 | 2024-09-19 |
@@ -485,6 +486,7 @@
 | [Cut & Paste](https://open.spotify.com/track/1cQWY7njTuPQ3Z9UIoVUB4) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX), [WowGr8](https://open.spotify.com/artist/07YZUR8pPljCvpxt15BsAc) | [Cut & Paste](https://open.spotify.com/album/00tAQiwOopsj6EyPJtM3AU) | 2:41 | 2024-03-13 | 2024-06-13 |
 | [CUT UP](https://open.spotify.com/track/5XlTNfXj1MdnrOXyBdRMj6) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [CUT UP](https://open.spotify.com/album/0dKJmsUf8pgf6HObLA7pDe) | 2:05 | 2024-10-02 | 2024-10-12 |
 | [CUT UP](https://open.spotify.com/track/7JEvphBBcnSXxxAmcTGCpX) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [KAST GOT WINGS](https://open.spotify.com/album/39wP7bJBE7c61XHR4Sgp1N) | 2:05 | 2025-02-26 | 2025-10-09 |
+| [D!e](https://open.spotify.com/track/3gYooEplCRXeXofWYrVjpG) | [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [N0rth4evr](https://open.spotify.com/album/1jkEEeWKAJiR0LQyOvtM7b) | 2:04 | 2026-05-15 |  |
 | [D's](https://open.spotify.com/track/4CwI0ZjiMaW3F7B70iE43Y) | [FLO](https://open.spotify.com/artist/4pTCQyWlbUGtha4sRPFqbY), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [D's](https://open.spotify.com/album/5usCGqChw84MfT09Un7kT1) | 2:42 | 2021-12-01 | 2022-01-14 |
 | [Daddy](https://open.spotify.com/track/0jdAgB8vt0ed8MYN7xnCep) | [Bodhi Bleu](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Daddy](https://open.spotify.com/album/2cC5JjuUqSW7eHSqnQf0Vx) | 2:35 | 2025-07-25 | 2025-08-28 |
 | [Dahmer Flow](https://open.spotify.com/track/0ENOeN6WwYsRm6463ZCi1h) | [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Dahmer Flow](https://open.spotify.com/album/6Pcer5D3yU879AaVqdl9nr) | 2:07 | 2022-10-26 | 2022-12-01 |

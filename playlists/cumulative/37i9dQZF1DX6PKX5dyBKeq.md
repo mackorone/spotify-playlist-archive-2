@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: AJ Tracey
 
-2,317 songs - 4 day 18 hr 13 min
+2,317 songs - 4 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [100X](https://open.spotify.com/track/7CI1s1t4yPJaPKdUYZRjeM) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU), [La Hasba22](https://open.spotify.com/artist/4lb9cT2fdVU8h1YDoBPy1o) | [100X](https://open.spotify.com/album/2vW8MqGR5BOZ1A2j1zBZQn) | 2:13 | 2025-08-28 | 2025-10-18 |
 | [10th Floor](https://open.spotify.com/track/245OHFpYqd3cvakVl7roVp) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [10th Floor](https://open.spotify.com/album/7GlhaF2tpBVuHcQpUOEKsM) | 2:45 | 2024-04-19 | 2024-06-14 |
 | [12 CAR CONVOY.](https://open.spotify.com/track/5sj2QAjQFAGWXDsIxVEhtP) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [12 CAR CONVOY.](https://open.spotify.com/album/5mjK8j5GD8IfzCyiqhDrWA) | 2:34 | 2025-11-28 | 2026-03-13 |
+| [12am in Milan](https://open.spotify.com/track/3nP7GDxbWL9UqT5vkAqZb7) | [Lil Zino](https://open.spotify.com/artist/7AUV18vpujVWJKIDZtFfWS) | [Hear me vent](https://open.spotify.com/album/3sAfU8HtLEbFcsoBUL88BJ) | 2:42 | 2026-05-14 |  |
 | [14 \(feat\. Potter Payper\)](https://open.spotify.com/track/7IEzHchpLMXAemfAsyiA3n) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Independence Day](https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK) | 2:12 | 2021-08-06 | 2021-09-11 |
 | [16 Eden](https://open.spotify.com/track/2FqnCosayR6UTyRyVHhymb) | [Damzz](https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4) | [16 Eden](https://open.spotify.com/album/5EUbD8c1aaQPPyaREQXRwB) | 2:30 | 2025-08-07 | 2025-11-21 |
 | [16 Shots](https://open.spotify.com/track/2169IKAivSUUFGcedGASXc) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [16 Shots](https://open.spotify.com/album/7fhtLker4wksK42E4hyhxK) | 3:44 | 2022-01-24 | 2022-01-29 |
@@ -2106,7 +2107,6 @@
 | [Toxic \(feat\. Bad Boy Chiller Crew\)](https://open.spotify.com/track/5igGT00gBoAj8FieNnUkjL) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Crop Circle 3](https://open.spotify.com/album/6SUtgIpgq9qxA3VfjzS0rq) | 2:58 | 2023-10-05 | 2023-11-17 |
 | [Toxic Minds \(feat\. AntsLive & joe unknown\)](https://open.spotify.com/track/5P9DssMSmpLDksnMsxdOXH) | [BlazeYL](https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs), [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Toxic Minds \(feat\. AntsLive & joe unknown\)](https://open.spotify.com/album/3rvXGITfqU8JBeEUxirgpf) | 3:04 | 2024-05-10 | 2024-06-14 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-22 | 2023-10-06 |
-| [Track 1](https://open.spotify.com/track/3nP7GDxbWL9UqT5vkAqZb7) | [Lil Zino](https://open.spotify.com/artist/7AUV18vpujVWJKIDZtFfWS) | [Hear me vent](https://open.spotify.com/album/3sAfU8HtLEbFcsoBUL88BJ) | 0:00 | 2026-05-14 |  |
 | [Training Day](https://open.spotify.com/track/5D5gxoqeVLsX0KN10FSEH8) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Training Day](https://open.spotify.com/album/3QyY7JuRAUb9TPTRL26ccs) | 3:06 | 2020-06-19 | 2020-07-18 |
 | [Trapway](https://open.spotify.com/track/2m6MzHbANhE3KlgJ2hKRwI) | [M'Way](https://open.spotify.com/artist/4a9smiC3FdklrSyh5akDHP) | [Trapway](https://open.spotify.com/album/2beCuZXvc2UM7ACFSRyiIw) | 3:46 | 2020-09-18 | 2020-10-16 |
 | [Traumatised](https://open.spotify.com/track/2L717z38Qgcs4XvmXXxjHL) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Traumatised](https://open.spotify.com/album/2ruzEAmfk6jx6hpcqJVna6) | 2:57 | 2023-01-06 | 2023-03-31 |

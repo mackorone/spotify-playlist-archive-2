@@ -1915,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "Daisy Wake Up",
+        "url": "https://open.spotify.com/album/2I1wRvWmOiQp3MxGHNqw8c"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165945,
+      "name": "Daisy Wake Up",
+      "url": "https://open.spotify.com/track/6xulabyMlnkc50eL8a2Rtd"
+    },
+    {
+      "album": {
         "name": "Daughter Of Zion [Feat. Joe Walsh]",
         "url": "https://open.spotify.com/album/73hDokQXIjjMe6AqzG5PuI"
       },
@@ -2758,6 +2776,24 @@
       "duration_ms": 167906,
       "name": "Evil No More",
       "url": "https://open.spotify.com/track/72nKlhl1q9s7yCuP5DixYc"
+    },
+    {
+      "album": {
+        "name": "Fastlane",
+        "url": "https://open.spotify.com/album/6fR4Kppt8yCNKP5tZ9jUqH"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Fastlane",
+      "url": "https://open.spotify.com/track/0r4RAtWeSOx9lGRegJjG3T"
     },
     {
       "album": {
@@ -5048,6 +5084,24 @@
       "duration_ms": 245930,
       "name": "In Blood",
       "url": "https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9"
+    },
+    {
+      "album": {
+        "name": "In My America",
+        "url": "https://open.spotify.com/album/6F0DG9c6Kp1t9TJsycYoFW"
+      },
+      "artists": [
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322373,
+      "name": "In My America",
+      "url": "https://open.spotify.com/track/5BM6FplSkbfROQI8qfLVIa"
     },
     {
       "album": {
@@ -7784,7 +7838,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 182200,
       "name": "Sideways Thru Time",
       "url": "https://open.spotify.com/track/5LpsFUdIjEKmee8OOH3r4e"
@@ -8578,7 +8632,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 194458,
       "name": "Sweet Little Caroline",
       "url": "https://open.spotify.com/track/43W4M7GNQaWS2l7b5oQhvA"
@@ -10554,7 +10608,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 274453,
       "name": "You Can't Judge A Book By The Cover",
       "url": "https://open.spotify.com/track/1xhhf7JXO9lq5FBdXfu2GR"

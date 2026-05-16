@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 134866,
       "name": "Escondidas",
       "url": "https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 158062,
       "name": "Falling Rain",
       "url": "https://open.spotify.com/track/2ccbSytqRFWAl5WSFZbZmC"
@@ -4652,7 +4652,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 204375,
       "name": "to god knows where - silence",
       "url": "https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS"
@@ -4947,6 +4947,24 @@
     },
     {
       "album": {
+        "name": "When Nothing Moves",
+        "url": "https://open.spotify.com/album/6H5koLQAJwPBa4MUB8Nhol"
+      },
+      "artists": [
+        {
+          "name": "Noelia Wren",
+          "url": "https://open.spotify.com/artist/70ntk5onraJMhsdQUE1Wc9"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115266,
+      "name": "When Nothing Moves",
+      "url": "https://open.spotify.com/track/1HYF6JEbHueXwdp2IS6pvW"
+    },
+    {
+      "album": {
         "name": "When the leaves start to fall",
         "url": "https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn"
       },
@@ -4962,6 +4980,24 @@
       "duration_ms": 140000,
       "name": "When the leaves start to fall",
       "url": "https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI"
+    },
+    {
+      "album": {
+        "name": "Where I Stay",
+        "url": "https://open.spotify.com/album/0IGGZTRFKIQ7qgijnkfC7w"
+      },
+      "artists": [
+        {
+          "name": "Andrea Neroli",
+          "url": "https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131612,
+      "name": "Where I Stay",
+      "url": "https://open.spotify.com/track/3n7zWrG2hPraSSvE5XWfrb"
     },
     {
       "album": {

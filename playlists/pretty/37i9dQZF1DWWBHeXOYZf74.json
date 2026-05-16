@@ -1,64 +1,88 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Kelela",
-  "num_followers": 1326308,
+  "description": "Genre-less. Quality first always. Cover: Nick Hakim",
+  "num_followers": 1326264,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWvin8nnHtz0xrX+ffpzxd8HzOR",
+  "snapshot_id": "AAAAAEqil7KbsVknTSl8Dn2vHHZk7RX7",
   "tracks": [
     {
-      "added_at": "2026-05-08 04:03:04",
+      "added_at": "2026-05-15 04:01:29",
       "album": {
-        "name": "linknb",
-        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
+        "name": "Real Here Now / Water",
+        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
         }
       ],
-      "duration_ms": 115160,
-      "name": "linknb",
-      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
+      "duration_ms": 300764,
+      "name": "Real Here Now",
+      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
     },
     {
-      "added_at": "2026-05-08 04:03:04",
+      "added_at": "2026-05-15 04:01:29",
       "album": {
-        "name": "stick to me like glue",
-        "url": "https://open.spotify.com/album/6OjkAqWGllXZAwcEqkfEqN"
+        "name": "Lockup",
+        "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
       },
       "artists": [
         {
-          "name": "MAX RAD",
-          "url": "https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z"
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
         }
       ],
-      "duration_ms": 203817,
-      "name": "stick to me like glue",
-      "url": "https://open.spotify.com/track/18PNwB15m5RdHri6nUofMc"
+      "duration_ms": 271835,
+      "name": "Lockup",
+      "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
     },
     {
-      "added_at": "2026-05-08 14:57:59",
+      "added_at": "2026-05-15 04:01:29",
       "album": {
-        "name": "Sugar Girl",
-        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
+        "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
+        "url": "https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
         },
         {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        },
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        },
+        {
+          "name": "Prentiss",
+          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
         }
       ],
-      "duration_ms": 207310,
-      "name": "Telephone (ft. 070 Shake)",
-      "url": "https://open.spotify.com/track/79anhf2dyUxmZaa2IBCqD8"
+      "duration_ms": 198666,
+      "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
+      "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
+    },
+    {
+      "added_at": "2026-05-15 04:01:29",
+      "album": {
+        "name": "But, Nvm",
+        "url": "https://open.spotify.com/album/2YZZlQUGlQgf2xIiimUGlN"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "But, Nvm",
+      "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
     },
     {
       "added_at": "2026-05-08 04:03:04",
@@ -79,6 +103,126 @@
       "duration_ms": 155039,
       "name": "EL CIELO",
       "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
+    },
+    {
+      "added_at": "2026-05-08 04:03:04",
+      "album": {
+        "name": "There\u2019s Something Here for Us Both",
+        "url": "https://open.spotify.com/album/2fly09UtlyJaGY4Tt1UaOM"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "There\u2019s Something Here for Us Both",
+      "url": "https://open.spotify.com/track/310bPg4gYgXqHKolfGS3Sr"
+    },
+    {
+      "added_at": "2026-05-15 04:01:29",
+      "album": {
+        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 216311,
+      "name": "BIG DOG",
+      "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
+    },
+    {
+      "added_at": "2026-05-01 04:02:50",
+      "album": {
+        "name": "IT'S BEEN AWFUL",
+        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 189964,
+      "name": "BOY IN RED",
+      "url": "https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf"
+    },
+    {
+      "added_at": "2026-05-15 04:01:29",
+      "album": {
+        "name": "tangerine!",
+        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "tangerine!",
+      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
+    },
+    {
+      "added_at": "2026-05-08 04:03:04",
+      "album": {
+        "name": "stick to me like glue",
+        "url": "https://open.spotify.com/album/6OjkAqWGllXZAwcEqkfEqN"
+      },
+      "artists": [
+        {
+          "name": "MAX RAD",
+          "url": "https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z"
+        }
+      ],
+      "duration_ms": 203817,
+      "name": "stick to me like glue",
+      "url": "https://open.spotify.com/track/18PNwB15m5RdHri6nUofMc"
+    },
+    {
+      "added_at": "2026-05-08 04:03:04",
+      "album": {
+        "name": "linknb",
+        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 115160,
+      "name": "linknb",
+      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
+    },
+    {
+      "added_at": "2026-05-08 14:57:59",
+      "album": {
+        "name": "Sugar Girl",
+        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 207310,
+      "name": "Telephone (ft. 070 Shake)",
+      "url": "https://open.spotify.com/track/79anhf2dyUxmZaa2IBCqD8"
     },
     {
       "added_at": "2026-05-08 04:03:04",
@@ -107,22 +251,6 @@
     {
       "added_at": "2026-05-08 04:03:04",
       "album": {
-        "name": "There\u2019s Something Here for Us Both",
-        "url": "https://open.spotify.com/album/2fly09UtlyJaGY4Tt1UaOM"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "There\u2019s Something Here for Us Both",
-      "url": "https://open.spotify.com/track/310bPg4gYgXqHKolfGS3Sr"
-    },
-    {
-      "added_at": "2026-05-08 04:03:04",
-      "album": {
         "name": "Rest of Your Life",
         "url": "https://open.spotify.com/album/1kqqUsAXIPd4gHNQnus7AY"
       },
@@ -135,26 +263,6 @@
       "duration_ms": 232373,
       "name": "Rest of Your Life",
       "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
-    },
-    {
-      "added_at": "2026-05-01 04:02:50",
-      "album": {
-        "name": "IT'S BEEN AWFUL",
-        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 189964,
-      "name": "BOY IN RED",
-      "url": "https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf"
     },
     {
       "added_at": "2026-05-01 04:02:50",
@@ -743,22 +851,6 @@
     {
       "added_at": "2026-04-17 14:48:46",
       "album": {
-        "name": "beach",
-        "url": "https://open.spotify.com/album/6yEaBoWxUwKXt22cSvAzgY"
-      },
-      "artists": [
-        {
-          "name": "duendita",
-          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
-        }
-      ],
-      "duration_ms": 88892,
-      "name": "beach",
-      "url": "https://open.spotify.com/track/09dAPp6oMjukGQsHHyOGpv"
-    },
-    {
-      "added_at": "2026-04-17 14:48:46",
-      "album": {
         "name": "Shake Down (Regrette Rien Mix)",
         "url": "https://open.spotify.com/album/1kFOuM0oYv7FgZwUtvazeS"
       },
@@ -1067,22 +1159,6 @@
       "duration_ms": 104354,
       "name": "ALENA(\u12a3\u1208\u1293)PARADISE LOST",
       "url": "https://open.spotify.com/track/2Y05SQlUbQSHsf6xKWerru"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Must Be",
-        "url": "https://open.spotify.com/album/1FUgbYn6lHaVS4RrpAEMSE"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Must Be",
-      "url": "https://open.spotify.com/track/5TJtMHbfSSHrWPcnMHdjUy"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1551,22 +1627,6 @@
     {
       "added_at": "2026-02-20 05:00:52",
       "album": {
-        "name": "CARE 4 U",
-        "url": "https://open.spotify.com/album/3Cmkd5zkmoQSxnxSgetpFg"
-      },
-      "artists": [
-        {
-          "name": "papa mbye",
-          "url": "https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "CARE 4 U",
-      "url": "https://open.spotify.com/track/39zv1ChIsgFhzk0h5j1Dvc"
-    },
-    {
-      "added_at": "2026-02-20 05:00:52",
-      "album": {
         "name": "Jump Shot",
         "url": "https://open.spotify.com/album/4C0Eo4wzTSL8PJwo3mLFnS"
       },
@@ -1617,22 +1677,6 @@
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
     },
     {
-      "added_at": "2026-02-20 05:00:52",
-      "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 136542,
-      "name": "Birds & the Bees",
-      "url": "https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V"
-    },
-    {
       "added_at": "2026-02-27 05:00:29",
       "album": {
         "name": "COMETA",
@@ -1663,22 +1707,6 @@
       "duration_ms": 234720,
       "name": "Shorty Out",
       "url": "https://open.spotify.com/track/7yURwIYzgtmVWK3LDoBja5"
-    },
-    {
-      "added_at": "2026-02-20 05:00:52",
-      "album": {
-        "name": "Manmade Manmaid",
-        "url": "https://open.spotify.com/album/6A5L4Z1m64rt3qMj5FAvYA"
-      },
-      "artists": [
-        {
-          "name": "the sound chalk makes",
-          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
-        }
-      ],
-      "duration_ms": 160408,
-      "name": "Manmade Manmaid",
-      "url": "https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie"
     },
     {
       "added_at": "2026-02-20 05:00:52",
@@ -1787,62 +1815,6 @@
       "duration_ms": 246853,
       "name": "A Thousand Steps",
       "url": "https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9"
-    },
-    {
-      "added_at": "2026-02-06 05:00:41",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 266129,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Soulseek",
-        "url": "https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "Soltera",
-          "url": "https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do"
-        }
-      ],
-      "duration_ms": 311666,
-      "name": "Soulseek",
-      "url": "https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV"
-    },
-    {
-      "added_at": "2026-02-06 05:00:41",
-      "album": {
-        "name": "Flood / Glow",
-        "url": "https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Flood (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
     }
   ],
   "unique_name": "POLLEN",

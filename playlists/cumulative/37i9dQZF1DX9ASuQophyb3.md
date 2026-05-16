@@ -4,7 +4,7 @@
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Göksel
 
-639 songs - 1 day 9 hr 6 min
+639 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,6 @@
 | [Teselli Pınarım](https://open.spotify.com/track/25lRCgouVFztOjjqc2WvGL) | [Can Kazaz](https://open.spotify.com/artist/4YLcK0MEyqFkdyyzbPTWrs) | [Teselli Pınarım](https://open.spotify.com/album/4EElJzc2mB278wYxmxuv53) | 3:18 | 2024-10-31 | 2024-11-08 |
 | [Toydum](https://open.spotify.com/track/6kcwVqUax4S8GJ4FJy2t40) | [Seda Eylül Tansık](https://open.spotify.com/artist/3QoWho8rukGcCzeQEPuZud), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Toydum](https://open.spotify.com/album/1Py2kc9VYdxVp7WmHodxzq) | 3:40 | 2025-06-12 | 2025-06-27 |
 | [TOZPEMBE](https://open.spotify.com/track/4OgyM015xx4c2NECTQlND2) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [TOZPEMBE](https://open.spotify.com/album/6kUsjDLFky1XSIs2PefSyQ) | 2:18 | 2025-10-30 | 2025-11-07 |
-| [Track 4](https://open.spotify.com/track/6o9OF2yk8aotpdC9BBQ8fx) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [DERBEND](https://open.spotify.com/album/6jNatVdXK6ET81G1OBhTb2) | 0:00 | 2026-05-14 |  |
 | [Tuttum Bırakmam](https://open.spotify.com/track/02xoSSypEzF5VFdjEiZb8s) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Tuttum Bırakmam](https://open.spotify.com/album/0FfpBYgMBioNgoQUyWkJDH) | 2:28 | 2025-08-28 | 2025-09-12 |
 | [Tuz](https://open.spotify.com/track/56XsrlnUH5aA3TKK0cTkq3) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s), [Ceylan Ertem](https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI), [Karsu](https://open.spotify.com/artist/0rRu3Co1oQ6Ce3yz7btJzB), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Sena Gül](https://open.spotify.com/artist/5M1xHbIWiKoI6sZpCmeFHq), [Safiye](https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP), [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc), [Chromas](https://open.spotify.com/artist/61hl6gWJtTmcffLcZJ0X0L) | [Tuz](https://open.spotify.com/album/3mpuuXe7GClX4wsGIQWfbl) | 4:57 | 2026-03-05 | 2026-04-17 |
 | [TÜRKLER GELİYOR](https://open.spotify.com/track/6rvuKL1E0PieqFPqL9dz8j) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx) | [TÜRKLER GELİYOR](https://open.spotify.com/album/2WJVAv15rHOy0gDkTtl7aB) | 2:52 | 2026-05-14 |  |
@@ -596,6 +595,7 @@
 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 | 2025-06-26 | 2026-01-23 |
 | [Yerine Sevemem](https://open.spotify.com/track/52YofYBLBIErQ8r8yhtesx) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM), [Galip Öztürk](https://open.spotify.com/artist/47EffAmIS4aq0q6yUyXiVt) | [Yerine Sevemem](https://open.spotify.com/album/54PlqcEztTsO9Dm5o1FFb6) | 2:44 | 2024-12-05 | 2024-12-20 |
 | [YILANA SARILDI](https://open.spotify.com/track/5xcx2tlWKLNMNb8X0L0VSL) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [YILANA SARILDI](https://open.spotify.com/album/2wA8kEacSbbH3RoaH0EZvk) | 3:34 | 2025-08-28 | 2025-09-12 |
+| [Yine Ayrılık](https://open.spotify.com/track/6o9OF2yk8aotpdC9BBQ8fx) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj), [DERBEND](https://open.spotify.com/artist/5HUa70pmGqPiOSu0lmT5mM) | [DERBEND](https://open.spotify.com/album/6jNatVdXK6ET81G1OBhTb2) | 4:30 | 2026-05-14 |  |
 | [Yine Seni Severdim](https://open.spotify.com/track/2euys2kJ6EgcLSXraEhKE8) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Yine Seni Severdim](https://open.spotify.com/album/4IIr6Fc5broTRT8M0UKk5k) | 3:35 | 2026-04-16 | 2026-05-15 |
 | [Yine Ölmem](https://open.spotify.com/track/0u14UiZ4t76LhOU1D16Xmc) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yine Ölmem](https://open.spotify.com/album/0kflPDxezDaMTQ18WonlXA) | 1:38 | 2024-12-19 | 2025-01-24 |
 | [Yo](https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:45 | 2024-07-02 | 2024-07-30 |

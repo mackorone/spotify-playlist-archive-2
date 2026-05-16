@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60105,
+  "num_followers": 60104,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA9DhkaL0/IMhGyVDUO47BD8pXafjh5",
+  "snapshot_id": "AAA9D1ei5c8YZ+asNnTKsaahyNQ5HBdZ",
   "tracks": [
     {
       "added_at": "2026-05-09 22:50:25",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-05-09 22:50:25",
       "album": {
+        "name": "86",
+        "url": "https://open.spotify.com/album/3g4bCLXT8iLIoZPiaINxul"
+      },
+      "artists": [
+        {
+          "name": "Tracey Nelson",
+          "url": "https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J"
+        }
+      ],
+      "duration_ms": 232277,
+      "name": "86",
+      "url": "https://open.spotify.com/track/2n2oNATPYI3rtGzLZs7mEw"
+    },
+    {
+      "added_at": "2026-05-09 22:50:25",
+      "album": {
         "name": "Perhaps Somehow",
         "url": "https://open.spotify.com/album/4RutqFVljtq7mNPJHrIkCp"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 210412,
       "name": "oh god am i",
       "url": "https://open.spotify.com/track/1jBCvX0hstSxd9DqFB6Ye3"
-    },
-    {
-      "added_at": "2026-05-09 22:50:25",
-      "album": {
-        "name": "86",
-        "url": "https://open.spotify.com/album/3g4bCLXT8iLIoZPiaINxul"
-      },
-      "artists": [
-        {
-          "name": "Tracey Nelson",
-          "url": "https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J"
-        }
-      ],
-      "duration_ms": 232277,
-      "name": "86",
-      "url": "https://open.spotify.com/track/2n2oNATPYI3rtGzLZs7mEw"
     },
     {
       "added_at": "2026-05-09 22:50:25",

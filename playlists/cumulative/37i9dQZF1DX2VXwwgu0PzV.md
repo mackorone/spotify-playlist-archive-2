@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Sal Ly
 
-1,696 songs - 3 day 18 hr 2 min
+1,696 songs - 3 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Ambition](https://open.spotify.com/track/2eaweMqkyPhueHZ9kRZXQV) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [RMNT](https://open.spotify.com/artist/5nBUMnjOu0TLZuiVkUWwSa) | [Ambition](https://open.spotify.com/album/5WuRUQsd7DOs088tNdlZeY) | 1:57 | 2023-05-19 | 2023-05-26 |
 | [Amen](https://open.spotify.com/track/6pUalEPGkHqKKegfmDWhio) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Amen](https://open.spotify.com/album/2HGdssMQiSR6YnBJaURu9K) | 2:30 | 2024-11-01 | 2025-03-28 |
 | [Amen](https://open.spotify.com/track/75dIEH8IaXunPeoGYAmQCh) | [Verchi](https://open.spotify.com/artist/1UWuKmI4QNLBfPTJeVVqU2) | [Amen](https://open.spotify.com/album/5u6XdPQwyi1PXG5Vb4XTRT) | 2:40 | 2024-04-26 | 2024-06-14 |
-| [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 | 2026-03-13 |  |
+| [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Beulah Land Music](https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 | 2026-03-13 |  |
 | [Anchor](https://open.spotify.com/track/32OEwId2uqL5jnsMWLGFij) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Mireya Harris](https://open.spotify.com/artist/1Gn0VXnnCAV6arEb4hjKK5) | [Anchor](https://open.spotify.com/album/7MpLsUUU9lzo5kwWsmxr8f) | 2:20 | 2024-04-12 | 2024-08-16 |
 | [Anchor of My Strength](https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY), [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [Anchor of My Strength](https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz) | 3:10 | 2025-11-14 |  |
 | [ANGELS](https://open.spotify.com/track/5kjPddNRxO0H4DkKfaZjNl) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [ANGELS](https://open.spotify.com/album/3Inj7Hu0KzqT2VImIrnLpL) | 2:57 | 2023-10-20 | 2023-11-17 |
@@ -1341,6 +1341,7 @@
 | [Salem](https://open.spotify.com/track/7CD0HthTp42ZoopBcfNa1O) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Salem](https://open.spotify.com/album/3bekqgrG1Syb162NEKz9ep) | 2:30 | 2023-11-10 | 2023-12-30 |
 | [Sandalili](https://open.spotify.com/track/6IsUcugTsURZJ5tZAUcBRt) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Sandalili](https://open.spotify.com/album/03yocg0eTr5QBmyOI0HWQd) | 2:35 | 2024-08-23 | 2024-10-18 |
 | [Satisfaction](https://open.spotify.com/track/0CMc04Rm7XZWjT1DwdYoHD) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Satisfaction](https://open.spotify.com/album/2SyQwAaiJD1F2jx3mRZcpQ) | 3:38 | 2024-08-02 | 2024-09-06 |
+| [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 | 2026-05-15 |  |
 | [Satisfy](https://open.spotify.com/track/3qC6SvXKfc4Q7GJQzkzdaF) | [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca) | [Satisfy](https://open.spotify.com/album/2lfjDYddbz2V0coDQbO6KC) | 2:10 | 2025-09-05 | 2025-11-14 |
 | [Say That I Love You](https://open.spotify.com/track/7zIey2GWC3a7dpRN9oVz70) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [My Beautiful Reality](https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1) | 2:00 | 2023-06-16 | 2024-07-27 |
 | [Scars & Healing \(My Mind\)](https://open.spotify.com/track/1cBFPFu0opvaDVGbyTL7dm) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Scars & Healing \(My Mind\)](https://open.spotify.com/album/0aRGWW2ezh8n8digEWFFeu) | 2:45 | 2025-08-15 | 2025-09-05 |
@@ -1526,7 +1527,6 @@
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
 | [Too Special](https://open.spotify.com/track/2Djud9ytT2Vopulu9UmKk7) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Too Special](https://open.spotify.com/album/737Yr1qi4z6hwtr93ULzl2) | 3:24 | 2023-07-14 | 2023-09-08 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 | 2026-04-10 |
-| [Track 4](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 0:00 | 2026-05-15 |  |
 | [Treasure](https://open.spotify.com/track/2tiJXvCCdGY2UbJOdrYe7M) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Treasure](https://open.spotify.com/album/1eTsRbUS7CUVHWMWHWYRBj) | 2:44 | 2023-02-02 | 2023-03-11 |
 | [Trinity](https://open.spotify.com/track/3j9mH5VzRe2mgaHWuvoccj) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Trinity](https://open.spotify.com/album/6RKJqNo6yI0e2vGXciN7oq) | 2:06 | 2025-04-04 | 2025-06-20 |
 | [Triumphant Entry](https://open.spotify.com/track/1Y0QKC3D9d4b7MvPhIlxls) | [GCAi](https://open.spotify.com/artist/7hXNvWwPypGDier2cVAKFw), [Dee Minor](https://open.spotify.com/artist/41wCdeBWGmu789VYulzdsV) | [Triumphant Entry](https://open.spotify.com/album/7rTPcD1q9nO5Vt5cAzueJg) | 3:00 | 2023-07-21 | 2023-07-28 |

@@ -8797,6 +8797,28 @@
     },
     {
       "album": {
+        "name": "EAT",
+        "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Jason Ingram",
+          "url": "https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333072,
+      "name": "Looking",
+      "url": "https://open.spotify.com/track/3czGXdoslTCmd8IL7zPjyx"
+    },
+    {
+      "album": {
         "name": "The God You Are (Live)",
         "url": "https://open.spotify.com/album/28dezLJwS8FZrizFVqrUv2"
       },

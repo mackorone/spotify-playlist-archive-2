@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[](https://open.spotify.com/user/null) - 164 likes - 307 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 164 likes - 307 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 173 | [Se o Passado Me Chamar](https://open.spotify.com/track/7aj4CYNDVPjaJi7ltyKvqx) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose](https://open.spotify.com/album/3DxLlWeIZ9hIiuxMnql19r) | 3:04 |
 | 174 | [Desliga o 4G](https://open.spotify.com/track/1R5R9bmARvU61lq6wubMUx) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Desliga o 4G](https://open.spotify.com/album/2xdYgBmo25C5qG4IKC7LA8) | 2:10 |
 | 175 | [Fica de Boaça \- Ao Vivo](https://open.spotify.com/track/4qOLteSkpoYeOgGLyecpJK) | [Thiago Martins](https://open.spotify.com/artist/6YC7cpdxB25jOfSXC8JQCd), [Jeito Moleque](https://open.spotify.com/artist/3V7U1x0TRBn7spzHDQiZhi) | [7550 Dias \(Ao Vivo no Rio de Janeiro, 2021\)](https://open.spotify.com/album/5TGrxqTiBPd02GE0OYoi3c) | 2:39 |
-| 176 | [Deus Me Livre Fofoca \- Ao Vivo](https://open.spotify.com/track/6TY4alyyexgbQGEKylCUkT) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [A Gente Acertou \(Ao Vivo\)](https://open.spotify.com/album/6aUGKhae1Sni6ruLYTCRFy) | 2:33 |
-| 177 | [Beijo Copiado \(Ao Vivo\)](https://open.spotify.com/track/36blJmFwv2kgydOpsmbLL4) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:38 |
+| 176 | [Beijo Copiado \(Ao Vivo\)](https://open.spotify.com/track/36blJmFwv2kgydOpsmbLL4) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:38 |
+| 177 | [Deus Me Livre Fofoca \- Ao Vivo](https://open.spotify.com/track/6TY4alyyexgbQGEKylCUkT) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [A Gente Acertou \(Ao Vivo\)](https://open.spotify.com/album/6aUGKhae1Sni6ruLYTCRFy) | 2:33 |
 | 178 | [Enrolando na Minha Boca](https://open.spotify.com/track/2BZ9CWThMSCxENNcA9syQR) | [Maria Clara](https://open.spotify.com/artist/2f7WgZUIxWzg5KRU5y0fVc) | [Enrolando na Minha Boca](https://open.spotify.com/album/1TfpB4LK36cjU848bPacUY) | 2:36 |
 | 179 | [SE ENROLOU \(Ao Vivo\)](https://open.spotify.com/track/1kD5rjmVqa5DugtWQSCmOB) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [SOM DE FACULDADE PRA VOCÊ \(Ao Vivo\)](https://open.spotify.com/album/6FnUBVHRvKPTk901s0JiR4) | 2:35 |
 | 180 | [Camisa do Mickey](https://open.spotify.com/track/2Gnul1YRjNB93nddpp2UfB) | [Rick & Ricardo](https://open.spotify.com/artist/3jpnyQAV5PANKxiyoZQYOZ) | [Na House](https://open.spotify.com/album/5kOeIgo4MdLhLggvyZKmo8) | 2:51 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 306 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 307 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcRgXAAAAAD7qoBDBAs/Dazq/oj9r3ZQ`
+Snapshot ID: `AcRl/AAAAABUPxF7oWyWLcJdlJ61X7JH`

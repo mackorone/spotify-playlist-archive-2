@@ -5971,6 +5971,24 @@
     },
     {
       "album": {
+        "name": "Jakarta Ku dan Kau",
+        "url": "https://open.spotify.com/album/5xU6H9OszL31vhyJL0mQNS"
+      },
+      "artists": [
+        {
+          "name": "BOBSMAN X",
+          "url": "https://open.spotify.com/artist/2TLLtFn3oshIGqGID493Gn"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277090,
+      "name": "Jakarta Ku dan Kau",
+      "url": "https://open.spotify.com/track/6Z7wKOSgezQygxbsAAdnza"
+    },
+    {
+      "album": {
         "name": "Jalan Cinta (Original Soundtrack From \u201cAssalamualaikum Baitullah\")",
         "url": "https://open.spotify.com/album/4lZ41YXIm8xnJZ2qQp7OjX"
       },

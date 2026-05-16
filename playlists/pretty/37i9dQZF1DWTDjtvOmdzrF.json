@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 563221,
+  "num_followers": 563201,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 240882,
-      "name": "Resah",
-      "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "Hari Baru",
         "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 268866,
       "name": "Dekat Di Hati",
       "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 240882,
+      "name": "Resah",
+      "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "I Just Couldn't Save You Tonight (Story of Kale - Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1AgPsLxdjTamc8dapjpdom"
-      },
-      "artists": [
-        {
-          "name": "Ardhito Pramono",
-          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
-        },
-        {
-          "name": "Aur\u00e9lie",
-          "url": "https://open.spotify.com/artist/2wGBQNmrYOrruN58zNdSuH"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "I Just Couldn't Save You Tonight - Story of Kale - Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/5AkV53fo1u01mi8r22JNeF"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "Saktenane (Acoustic Version)",
         "url": "https://open.spotify.com/album/23USEM1MKRCLJKVXJtr6qr"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 326000,
       "name": "Saktenane - Acoustic Version",
       "url": "https://open.spotify.com/track/04smuF7vPy6v2PQSdigGYV"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "I Just Couldn't Save You Tonight (Story of Kale - Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1AgPsLxdjTamc8dapjpdom"
+      },
+      "artists": [
+        {
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
+        },
+        {
+          "name": "Aur\u00e9lie",
+          "url": "https://open.spotify.com/artist/2wGBQNmrYOrruN58zNdSuH"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "I Just Couldn't Save You Tonight - Story of Kale - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/5AkV53fo1u01mi8r22JNeF"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Surat Cinta Untuk Starla",
-        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
-      },
-      "artists": [
-        {
-          "name": "Virgoun",
-          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
-        }
-      ],
-      "duration_ms": 308036,
-      "name": "Surat Cinta Untuk Starla",
-      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "Monokrom",
         "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 195914,
       "name": "Cahaya",
       "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "Surat Cinta Untuk Starla",
+        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
+      },
+      "artists": [
+        {
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        }
+      ],
+      "duration_ms": 308036,
+      "name": "Surat Cinta Untuk Starla",
+      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Tanpa Pamrih",
-        "url": "https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe"
-      },
-      "artists": [
-        {
-          "name": "Feby Putri",
-          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
-        }
-      ],
-      "duration_ms": 212968,
-      "name": "Tanpa Pamrih",
-      "url": "https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "Salahkah Aku Terlalu Mencintaimu",
         "url": "https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 232266,
       "name": "Salahkah Aku Terlalu Mencintaimu",
       "url": "https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "Tanpa Pamrih",
+        "url": "https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "duration_ms": 212968,
+      "name": "Tanpa Pamrih",
+      "url": "https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr"
     },
     {
       "added_at": "2026-02-27 14:15:13",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : BLOWSOM",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Dynamite Shakers",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -6261,6 +6261,24 @@
     },
     {
       "album": {
+        "name": "Pollen",
+        "url": "https://open.spotify.com/album/2D88YSSmZgwqyClOORleb0"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Pollen",
+      "url": "https://open.spotify.com/track/4DlYbKx9n2tyRyqaavWbYQ"
+    },
+    {
+      "album": {
         "name": "Pornstar",
         "url": "https://open.spotify.com/album/10i2f4W4eRzNUHvudx6Qyc"
       },
@@ -7732,7 +7750,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 152854,
       "name": "Tais-toi",
       "url": "https://open.spotify.com/track/3LwfbyO75PgkZ0xWE1vSZD"
@@ -8056,7 +8074,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 162537,
       "name": "Tout sauf la v\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/2WhOzOZmVXZDaMSzWvVKwa"
@@ -8114,6 +8132,24 @@
       "duration_ms": 208695,
       "name": "Travail Famille Connasse",
       "url": "https://open.spotify.com/track/4ruytwNYWTnvwEq3XNhv0l"
+    },
+    {
+      "album": {
+        "name": "Trop Instable",
+        "url": "https://open.spotify.com/album/4jguA0V4PC2mfYrBDXBkrE"
+      },
+      "artists": [
+        {
+          "name": "Blaame",
+          "url": "https://open.spotify.com/artist/40eNfkD7ZldjqnmTm4fbdl"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "Trop Instable",
+      "url": "https://open.spotify.com/track/3qglIdcFgSVNKMZw5UzzwR"
     },
     {
       "album": {

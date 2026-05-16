@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-610 songs - 1 day 16 hr 34 min
+610 songs - 1 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Amazing](https://open.spotify.com/track/3LPNm4v3yBQouZbLI3oqC5) | [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Debbiie](https://open.spotify.com/artist/6FyetlIUC4TsUoXLZYkct9) | [Amazing](https://open.spotify.com/album/7tIynKtMjFoojTrgk1ilKO) | 2:56 | 2025-07-04 | 2025-11-28 |
 | [Amazing Grace](https://open.spotify.com/track/6eBLUjX5ynH2UT3IdP2gdj) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [Amazing Grace](https://open.spotify.com/album/6Mr0UAJoXUjvQruBEs4qLb) | 2:35 | 2025-03-21 | 2025-05-23 |
 | [Amen](https://open.spotify.com/track/6pUalEPGkHqKKegfmDWhio) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Amen](https://open.spotify.com/album/2HGdssMQiSR6YnBJaURu9K) | 2:30 | 2024-11-08 | 2025-02-07 |
-| [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 | 2026-03-13 |  |
+| [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Beulah Land Music](https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 | 2026-03-13 |  |
 | [Anchor of My Strength](https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY), [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [Anchor of My Strength](https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz) | 3:10 | 2025-11-14 |  |
 | [Anointed](https://open.spotify.com/track/4CI322Awug5Uma3ynVJYLU) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Anointed](https://open.spotify.com/album/6TLuuArTrMIL83ySvRbyeV) | 3:01 | 2025-07-04 | 2025-08-08 |
 | [Anointed \(II\)](https://open.spotify.com/track/3J8xiSgYueHkxQeFkS8eWj) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Anointed \(II\)](https://open.spotify.com/album/7w1mi7r30eNP3QZe4ElEeK) | 3:23 | 2025-07-25 | 2025-09-26 |
@@ -487,6 +487,7 @@
 | [Rooted](https://open.spotify.com/track/06T6Pl96e1I83rtCFJYah9) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Rooted](https://open.spotify.com/album/7nO3M1Sty4NSZVpW4b2p1A) | 5:12 | 2025-11-28 |  |
 | [Sabi](https://open.spotify.com/track/18WjxjcdeaAtr3H6kjCNj9) | [Dr Roy](https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL), [Maio](https://open.spotify.com/artist/0uufu8f9gj5MoDOEtHrAc4) | [Sabi](https://open.spotify.com/album/6DkXidWBQQnTjiBd33XvkU) | 2:25 | 2025-10-10 | 2026-01-15 |
 | [Safe](https://open.spotify.com/track/7cw6wkeJueXPVjbEodK741) | [Akoji](https://open.spotify.com/artist/6sCiXcuwvIldFB4idVMsLP) | [Safe](https://open.spotify.com/album/76DkcLs9Zyvva7ghMGJscE) | 3:00 | 2025-11-07 | 2026-03-26 |
+| [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 | 2026-05-15 |  |
 | [Saves Me](https://open.spotify.com/track/5JZrrE7Azlre5rNugfZ8xg) | [Uchenna](https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC) | [Saves Me](https://open.spotify.com/album/4nWlOdwnZoXuT9xUlMhG1r) | 2:42 | 2024-10-25 | 2025-02-28 |
 | [Seen](https://open.spotify.com/track/0choVjlbcW5egLUqkPwOAe) | [Lola Ade](https://open.spotify.com/artist/1Dn5XPErF6q1w1sxxk8m6Y), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Seen](https://open.spotify.com/album/4B0oh0jk5PD3TfkyDls8pV) | 3:46 | 2025-11-21 | 2026-01-15 |
 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 | 2025-02-28 |
@@ -545,7 +546,6 @@
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-07-25 |
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 | 2026-03-13 |
-| [Track 4](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 0:00 | 2026-05-15 |  |
 | [Trust in You](https://open.spotify.com/track/1M9UdMIo63boWoCf4bJwo6) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ), [Steady Worship](https://open.spotify.com/artist/17ni7x7OVAYDsxQyKUp1DJ) | [Trust in You](https://open.spotify.com/album/6hTxgKcqFko2RnxpX30Xhi) | 3:32 | 2025-09-05 | 2025-11-14 |
 | [Tuale](https://open.spotify.com/track/6XgoCyZZtwChb0LiJvOXdc) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 5:05 | 2025-08-02 | 2025-11-07 |
 | [Under The Canopy](https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Under The Canopy](https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb) | 5:13 | 2024-09-27 | 2025-02-28 |

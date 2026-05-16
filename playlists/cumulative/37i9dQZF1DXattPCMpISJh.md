@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Dabeull
 
-346 songs - 21 hr 16 min
+347 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Energy](https://open.spotify.com/track/5Cmxgp6kvf2M0HoSyjbfjA) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Energy](https://open.spotify.com/album/0CLDP2n9sn9iTfoTKB6QfK) | 4:38 | 2025-03-07 |  |
 | [Entangle](https://open.spotify.com/track/5EHNdt9S4GdQqvVUlaqiv8) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Entangle](https://open.spotify.com/album/3FOcCZrrlOwVX52hOa5249) | 3:56 | 2022-09-09 | 2024-08-24 |
 | [Every Time You Touch Me \- Dave Lee Boogiefied Edit](https://open.spotify.com/track/0OnsBoK42EpZbZoPz2LkUC) | [OUTPUT / INPUT](https://open.spotify.com/artist/5fjPiBvBC5a4wAojDdT1iq), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Antonio Mclendon](https://open.spotify.com/artist/4NaYIELIYjb0N4snFg6NaB) | [Every Time You Touch Me \(Dave Lee Mixes\)](https://open.spotify.com/album/2HbBbsE0nzMSGGAx7jERIx) | 3:37 | 2025-11-07 |  |
-| [Everything](https://open.spotify.com/track/7tZzYmYevSj9wVFS8rb6kT) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Everything](https://open.spotify.com/album/5bIjntlZiR3Zj36rLw2H27) | 2:58 | 2023-06-30 |  |
+| [Everything](https://open.spotify.com/track/7tZzYmYevSj9wVFS8rb6kT) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Everything](https://open.spotify.com/album/5bIjntlZiR3Zj36rLw2H27) | 2:58 | 2023-06-30 | 2026-05-16 |
 | [Faces](https://open.spotify.com/track/39LJTkbl1WkvSni7zJ66tJ) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Cut Velvet](https://open.spotify.com/album/6d1QycrvQbPhpsWv4cBuiU) | 2:21 | 2022-03-11 | 2024-02-17 |
 | [Faces](https://open.spotify.com/track/5iWVOFjMWtDUx01SFIbQ61) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Faces](https://open.spotify.com/album/7FyL9XkXtnwJJREWDdcm0B) | 2:21 | 2022-03-11 | 2022-10-18 |
 | [Faces](https://open.spotify.com/track/7xJXzykZkjJLdIjTws8Piu) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Comedown](https://open.spotify.com/album/6dMQpXeo2FcdgPEItBtbGp) | 2:21 | 2022-03-11 | 2022-11-13 |
@@ -218,6 +218,7 @@
 | [Never Coming Down](https://open.spotify.com/track/196FDQyfrv7Al62xocxKk5) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Never Coming Down](https://open.spotify.com/album/0LtZsZ2jYhBG7kV6W5jRbU) | 5:56 | 2022-11-18 | 2023-04-01 |
 | [Never Enough](https://open.spotify.com/track/3SPR0vmGBKczy7976CLTQ6) | [DSCOSTU](https://open.spotify.com/artist/4vg4AC4wgDKwGNV1xemLr1), [Victor Perry](https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE) | [Never Enough](https://open.spotify.com/album/5LcrQlu6U8Y55Sv7NWXJOo) | 3:28 | 2022-05-06 | 2023-07-22 |
 | [Never Knew](https://open.spotify.com/track/5GwzmBgVwaS14JuB65ZMoQ) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [Never Knew](https://open.spotify.com/album/3KTdCe9WcP5b5SnXfL80UJ) | 3:41 | 2022-10-14 | 2024-08-24 |
+| [New Highs](https://open.spotify.com/track/0S4JMWDEgUIhDVyhmoiNvB) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [New Highs](https://open.spotify.com/album/0lwUMyyqQX3KxuTV8TdYyj) | 3:52 | 2026-05-15 |  |
 | [NIKKI](https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO) | [Joseph of Mercury](https://open.spotify.com/artist/7vahFRSKRiVDOejIMEBWvO) | [NIKKI](https://open.spotify.com/album/0oJ4yy7ZeZAT4aAfsd4kFU) | 3:18 | 2022-11-18 | 2024-01-27 |
 | [Not Today](https://open.spotify.com/track/1D7yD0chLEPc1Q73YV1hFt) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa, Vol\. 2: The Cookout Sessions](https://open.spotify.com/album/0ZIp0cXxUtDsc7FBWFqGSV) | 5:04 | 2024-09-06 |  |
 | [Nowhere To Run](https://open.spotify.com/track/7a64PMQuzeuPOlhdIKsCgM) | [Amira Jazeera](https://open.spotify.com/artist/336Q7pyfl5Ht2eaqhfQ6T6), [Papi Beatz](https://open.spotify.com/artist/1gigbUTiibYWCQybsJB5V1) | [Nowhere To Run](https://open.spotify.com/album/3xUlxGYaVSszKGre0kj1Il) | 2:57 | 2022-02-25 | 2023-01-28 |

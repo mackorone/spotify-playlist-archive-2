@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Mariybu",
-  "num_followers": 49257,
+  "num_followers": 49254,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC4KB7xKj4TCYrKxBML3MJ9255Yd",
+  "snapshot_id": "AAAAALgnPE1SUmmkdTD2vHR3MWzpmokr",
   "tracks": [
     {
       "added_at": "2026-05-05 22:00:31",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "fuego",
-        "url": "https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa"
-      },
-      "artists": [
-        {
-          "name": "Erda",
-          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
-        }
-      ],
-      "duration_ms": 140357,
-      "name": "fuego",
-      "url": "https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
         "name": "So wie sie",
         "url": "https://open.spotify.com/album/2yPQISpJIGw2OkkDyAbhfF"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 135409,
       "name": "So wie sie",
       "url": "https://open.spotify.com/track/2aa4pe8kQ68SVOYijZ8xTr"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "fuego",
+        "url": "https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "fuego",
+      "url": "https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "Ahogar",
+        "url": "https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Ahogar",
+      "url": "https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "watch me",
         "url": "https://open.spotify.com/album/7cGfQ7T20mmGgx0sCvsMuE"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 144857,
       "name": "watch me",
       "url": "https://open.spotify.com/track/43HETwsBf1TLoiNUjh1D9a"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "Ahogar",
-        "url": "https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q"
-      },
-      "artists": [
-        {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Ahogar",
-      "url": "https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "I Don't Wanna Go!",
-        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
+        "name": "Move",
+        "url": "https://open.spotify.com/album/0TmAvoXHWAGgzteBGHGVob"
       },
       "artists": [
         {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+          "name": "Anna Reusch",
+          "url": "https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh"
         }
       ],
-      "duration_ms": 159315,
-      "name": "I Don't Wanna Go!",
-      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
+      "duration_ms": 228387,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1XyO7zz6B4zMtUzVrP5G1C"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/0TmAvoXHWAGgzteBGHGVob"
+        "name": "I Don't Wanna Go!",
+        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
       },
       "artists": [
         {
-          "name": "Anna Reusch",
-          "url": "https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh"
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
         }
       ],
-      "duration_ms": 228387,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/1XyO7zz6B4zMtUzVrP5G1C"
+      "duration_ms": 159315,
+      "name": "I Don't Wanna Go!",
+      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "Also lass' ich es los",
-        "url": "https://open.spotify.com/album/66a6oOPUQdalx7DCaIepxP"
-      },
-      "artists": [
-        {
-          "name": "LILITH",
-          "url": "https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Also lass' ich es los",
-      "url": "https://open.spotify.com/track/7yfJjlAecJklc45OdRRooX"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "Samowar",
-        "url": "https://open.spotify.com/album/72Ehw8aD5ZX4h2oKXYuq4A"
+        "name": "Also lass' ich es los",
+        "url": "https://open.spotify.com/album/66a6oOPUQdalx7DCaIepxP"
       },
       "artists": [
         {
-          "name": "ZAVET",
-          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
+          "name": "LILITH",
+          "url": "https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ"
         }
       ],
-      "duration_ms": 173217,
-      "name": "Samowar",
-      "url": "https://open.spotify.com/track/0xoQSP1xVyu2DeSCCOWO8L"
+      "duration_ms": 151000,
+      "name": "Also lass' ich es los",
+      "url": "https://open.spotify.com/track/7yfJjlAecJklc45OdRRooX"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -647,6 +631,22 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "Samowar",
+        "url": "https://open.spotify.com/album/72Ehw8aD5ZX4h2oKXYuq4A"
+      },
+      "artists": [
+        {
+          "name": "ZAVET",
+          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
+        }
+      ],
+      "duration_ms": 173217,
+      "name": "Samowar",
+      "url": "https://open.spotify.com/track/0xoQSP1xVyu2DeSCCOWO8L"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "Call Me The Witch",
         "url": "https://open.spotify.com/album/0ONATOQHPwMWxvw3iqPhkv"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 219710,
       "name": "Magical Female Rage",
       "url": "https://open.spotify.com/track/0Egy1eNOg0VdAPfIkDuXri"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "SOMEBODY WHO LOVES",
-        "url": "https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "ONE HEART",
-      "url": "https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -695,6 +679,22 @@
       "duration_ms": 131384,
       "name": "Femi(ni)cide",
       "url": "https://open.spotify.com/track/70vKUWKhTH8l4rKyIN6kPA"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "SOMEBODY WHO LOVES",
+        "url": "https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N"
+      },
+      "artists": [
+        {
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "ONE HEART",
+      "url": "https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT"
     },
     {
       "added_at": "2026-05-05 22:00:31",

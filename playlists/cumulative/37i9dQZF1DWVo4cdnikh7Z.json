@@ -122,7 +122,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 47741,
       "name": "23 Theme (From \"AA23\")",
       "url": "https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d"
@@ -3195,6 +3195,32 @@
     },
     {
       "album": {
+        "name": "Sattendru Maarudhu Vaanilai",
+        "url": "https://open.spotify.com/album/40YLnnwKZTFJ3A1AWRBnrr"
+      },
+      "artists": [
+        {
+          "name": "Girishh G",
+          "url": "https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        },
+        {
+          "name": "M.S Krsna",
+          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187005,
+      "name": "Akkadi",
+      "url": "https://open.spotify.com/track/51EoNR5y3NhIy57Rej6jbq"
+    },
+    {
+      "album": {
         "name": "Akkadi (From \"Sattendru Maarudhu Vaanilai\")",
         "url": "https://open.spotify.com/album/71XwMCXc53hF4ShYbvvUZI"
       },
@@ -6174,6 +6200,36 @@
       "duration_ms": 295954,
       "name": "Azhagazhaga (From \"Janakiram\")",
       "url": "https://open.spotify.com/track/0va3hP1KEhzmySebZSjHYb"
+    },
+    {
+      "album": {
+        "name": "Azhagazhagai Manam (From \"Paris Cafe\")",
+        "url": "https://open.spotify.com/album/1Zx5hhV0N1H9kenGZki6rW"
+      },
+      "artists": [
+        {
+          "name": "K",
+          "url": "https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Gayathree",
+          "url": "https://open.spotify.com/artist/61vOy6fovvY3EyItCJLhxC"
+        },
+        {
+          "name": "Vivek Velmurugan",
+          "url": "https://open.spotify.com/artist/05sMmvP0FuxI7HD67MAzQ8"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Azhagazhagai Manam (From \"Paris Cafe\")",
+      "url": "https://open.spotify.com/track/3uKexAAEzlcKd87O8Uyx5q"
     },
     {
       "album": {
@@ -13566,7 +13622,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 237642,
       "name": "Esa Kaaththa",
       "url": "https://open.spotify.com/track/5iz385akkVvrHRrHCtEGlc"
@@ -44772,7 +44828,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 307800,
       "name": "Seelay Seelay (From \"29\")",
       "url": "https://open.spotify.com/track/0ckcTjwiL6Vwrn2jT3ZkaD"
@@ -49798,6 +49854,32 @@
       "duration_ms": 239110,
       "name": "The One (From \"Retro\")",
       "url": "https://open.spotify.com/track/2m3QwNw6Xe4s8MfapdTbWo"
+    },
+    {
+      "album": {
+        "name": "The Rage (From \"Blast\")",
+        "url": "https://open.spotify.com/album/7jwXKnS5yFxoFdTfn12IBo"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Rapper Ro",
+          "url": "https://open.spotify.com/artist/3hJzCWlHznAi4I7K00rWAL"
+        },
+        {
+          "name": "Chethan Handattu",
+          "url": "https://open.spotify.com/artist/6zN29jJJVpH7SsVM0YRigi"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225272,
+      "name": "The Rage - From \"Blast\"",
+      "url": "https://open.spotify.com/track/31VIMLQnQAnm0Jtsco6d8N"
     },
     {
       "album": {

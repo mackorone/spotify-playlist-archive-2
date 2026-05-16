@@ -1160,10 +1160,32 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 195761,
       "name": "Feel Right",
       "url": "https://open.spotify.com/track/5pyi5wDSHfdY3R5JQdngQ9"
+    },
+    {
+      "album": {
+        "name": "10 Ways to Steal Home Plate",
+        "url": "https://open.spotify.com/album/0OS4Ytut9bGNfc2wpY4kiI"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Gartner",
+          "url": "https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195761,
+      "name": "Feel Right (feat. J Hart)",
+      "url": "https://open.spotify.com/track/6Uq1MKC4SPcYFvPvp3Vmu2"
     },
     {
       "album": {
@@ -4292,10 +4314,32 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 210790,
       "name": "Wake The Giant",
       "url": "https://open.spotify.com/track/6fQoomNZcRthXGJmR8JulG"
+    },
+    {
+      "album": {
+        "name": "Wake the Giant (feat. JHart) [Radio Edit]",
+        "url": "https://open.spotify.com/album/7uAjD6g38JgWultKRWmYUs"
+      },
+      "artists": [
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210790,
+      "name": "Wake the Giant (feat. JHart) - Radio Edit",
+      "url": "https://open.spotify.com/track/4uxFPTkgNUooymo14c86yK"
     },
     {
       "album": {

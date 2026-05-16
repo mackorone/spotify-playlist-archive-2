@@ -930,6 +930,24 @@
     {
       "album": {
         "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267213,
+      "name": "Pasar\u00e1",
+      "url": "https://open.spotify.com/track/2yLPiANWzNWbULcpbQfk6x"
+    },
+    {
+      "album": {
+        "name": "Agarrate Fuerte",
         "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
       },
       "artists": [
@@ -958,7 +976,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 151773,
       "name": "Pasemos a otro tema - en vivo",
       "url": "https://open.spotify.com/track/19oeyrvbBfAcpgMEGQ3v3S"

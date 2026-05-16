@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267,052 likes - 138 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,267,534 likes - 138 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 22 | [Primavera](https://open.spotify.com/track/1GstcZ4ooGDwEFlB9a66H6) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 7:23 |
 | 23 | [Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/track/03rTshJnAuh5YxvXrHGw5V) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Chopin: Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/album/4DivI1dZOa7WfhdwNBYxmb) | 4:28 |
 | 24 | [Préludes, Book 1: VIII\. La Fille Aux Cheveux de Lin](https://open.spotify.com/track/0g6Lm1d1FcfzV7ZkCzy8aP) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Anna Tsybuleva](https://open.spotify.com/artist/5KR6Fiu20JZXyqLH7PHn8N) | [The Complete Debussy: Préludes pour solo piano](https://open.spotify.com/album/7lRTB8X2ZkzxD8hxfDcMtX) | 2:45 |
-| 25 | [Fracture \(Version for Harp\)](https://open.spotify.com/track/57ZtJmvZGjy0ZSI8SeixHq) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg), [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Fracture \(Version for Harp\)](https://open.spotify.com/album/1LP7HhC2BTgGVMacSOC1SF) | 3:39 |
+| 25 | [Fracture \(Version for Harp\)](https://open.spotify.com/track/57ZtJmvZGjy0ZSI8SeixHq) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S), [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture \(Version for Harp\)](https://open.spotify.com/album/1LP7HhC2BTgGVMacSOC1SF) | 3:39 |
 | 26 | [Istanbul](https://open.spotify.com/track/4wKob4SjImqLpFqr8ygpgz) | [Alberto Giurioli](https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU) | [Istanbul](https://open.spotify.com/album/5QxXqJHvFGnU2EFgJEwt99) | 3:12 |
 | 27 | [12 Songs, Op\. 21: V\. Lilacs \(Transcr\. Rachmaninoff for Solo Piano\)](https://open.spotify.com/track/06emSBtL6jcUXcjVlayUHl) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Sergei Babayan](https://open.spotify.com/artist/79gBfLMlUJNdcXv1nc33oK) | [Rachmaninoff: 12 Songs, Op\. 21: V\. Lilacs \(Transcr\. Rachmaninoff for Solo Piano\)](https://open.spotify.com/album/3BZO2AAzTm2p9R9xmLvucs) | 3:01 |
 | 28 | [Préludes / Book 2, L\. 123: 5\. Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 |

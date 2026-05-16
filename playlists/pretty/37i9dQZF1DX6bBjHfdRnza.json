@@ -1,13 +1,49 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring From Dave. Curated by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring Delilah. Curated by human Spotify editors. \n",
   "num_followers": 212842,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHzTtAoTT0U8xx9fyLNe8kbps9ly",
+  "snapshot_id": "AAAAAEdBALxoj3W81dISb4uQj+NbT6Pm",
   "tracks": [
+    {
+      "added_at": "2026-05-15 04:01:46",
+      "album": {
+        "name": "Journey EP",
+        "url": "https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
+        }
+      ],
+      "duration_ms": 181108,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
+    },
+    {
+      "added_at": "2026-05-15 04:01:46",
+      "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr"
+      },
+      "artists": [
+        {
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
+        },
+        {
+          "name": "Dr\u00e9ya Mac",
+          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
+        }
+      ],
+      "duration_ms": 160285,
+      "name": "Fino",
+      "url": "https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA"
+    },
     {
       "added_at": "2026-05-06 19:01:48",
       "album": {
@@ -131,6 +167,22 @@
       "duration_ms": 187669,
       "name": "Clubwalker",
       "url": "https://open.spotify.com/track/6NjcmK0kTqYqPuGHywAR5T"
+    },
+    {
+      "added_at": "2026-05-15 04:01:46",
+      "album": {
+        "name": "Non Stop",
+        "url": "https://open.spotify.com/album/07vh38TMCsVcaahSyrpecs"
+      },
+      "artists": [
+        {
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/6z0Zc6uf2ofI2KkUupFepg"
     },
     {
       "added_at": "2026-05-14 03:02:00",
@@ -259,6 +311,22 @@
       "duration_ms": 154167,
       "name": "frog",
       "url": "https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5"
+    },
+    {
+      "added_at": "2026-05-15 04:01:46",
+      "album": {
+        "name": "Need Some Fun",
+        "url": "https://open.spotify.com/album/48dHXF7ZT5ndX4yzJSz8K3"
+      },
+      "artists": [
+        {
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Need Some Fun",
+      "url": "https://open.spotify.com/track/3zSZUO1ZFIkwC4CdV7Rzls"
     },
     {
       "added_at": "2026-04-03 04:02:29",
@@ -695,22 +763,6 @@
     {
       "added_at": "2026-04-15 17:24:57",
       "album": {
-        "name": "Kinesis / Get Up N Dance",
-        "url": "https://open.spotify.com/album/2rr3B4LbCkTqk5RY6T9jsJ"
-      },
-      "artists": [
-        {
-          "name": "Jordan George",
-          "url": "https://open.spotify.com/artist/4AVZ1AsKWbzEc50djOcn2w"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Kinesis - Short Mix",
-      "url": "https://open.spotify.com/track/2JiASV4tYTbbB45lUJySdq"
-    },
-    {
-      "added_at": "2026-04-15 17:24:57",
-      "album": {
         "name": "Summer Card",
         "url": "https://open.spotify.com/album/3od5UAhncfYXEiHwkYqk0K"
       },
@@ -743,22 +795,6 @@
       "duration_ms": 240000,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/5ggI0yUk07SOIjgq6URRM8"
-    },
-    {
-      "added_at": "2026-04-08 16:58:31",
-      "album": {
-        "name": "wav.",
-        "url": "https://open.spotify.com/album/3ZGHNX5i4aaHmYZgslN4fU"
-      },
-      "artists": [
-        {
-          "name": "Harrison First",
-          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
-        }
-      ],
-      "duration_ms": 180299,
-      "name": "the benefactor",
-      "url": "https://open.spotify.com/track/53cBYaLXJTXOA9jtSIW6Ka"
     },
     {
       "added_at": "2026-04-15 19:22:49",
@@ -843,26 +879,6 @@
       "duration_ms": 151968,
       "name": "Thru My Mind",
       "url": "https://open.spotify.com/track/2IOkHMQbAuAxcH6SqCqm1w"
-    },
-    {
-      "added_at": "2026-04-03 15:07:52",
-      "album": {
-        "name": "In The Air",
-        "url": "https://open.spotify.com/album/6ThBelfuz9hYQLrF2rGKrV"
-      },
-      "artists": [
-        {
-          "name": "Jeno",
-          "url": "https://open.spotify.com/artist/6a6RDE2aXu0ZPQPxpllNps"
-        },
-        {
-          "name": "Wempe",
-          "url": "https://open.spotify.com/artist/55DlXvQEA1caP9xf39DSlW"
-        }
-      ],
-      "duration_ms": 216785,
-      "name": "In The Air",
-      "url": "https://open.spotify.com/track/0QfHRJwzVFgNLQwZmMpUfz"
     },
     {
       "added_at": "2026-03-25 16:00:36",
@@ -1159,22 +1175,6 @@
       "duration_ms": 184015,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/3Z6iA9iNhiKQIxib5VwcXp"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Mi Gentee EP",
-        "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
-      },
-      "artists": [
-        {
-          "name": "Chinonegro",
-          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
-        }
-      ],
-      "duration_ms": 208782,
-      "name": "Mi Gentee",
-      "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
     },
     {
       "added_at": "2026-01-23 05:00:26",

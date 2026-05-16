@@ -4243,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "\u00bfY si no es para siempre?",
+        "url": "https://open.spotify.com/album/41QlWOIDLYx2XjEEDhYS3z"
+      },
+      "artists": [
+        {
+          "name": "Gregorio",
+          "url": "https://open.spotify.com/artist/5nyxxX1YUpHqeq1q1HFYtJ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202727,
+      "name": "Otros Ojos Te Ven",
+      "url": "https://open.spotify.com/track/7JgYtaM1AN23ZhdmhYowYm"
+    },
+    {
+      "album": {
         "name": "Ozono",
         "url": "https://open.spotify.com/album/0Yh9K0Fo5hLl92tEmP0g7y"
       },
@@ -4324,7 +4342,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 177719,
       "name": "palacio - Spotify Sessions",
       "url": "https://open.spotify.com/track/5Zu8zZJhmEyu2yg1GBo7dK"
@@ -5334,7 +5352,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 161198,
       "name": "Sin Se\u00f1al",
       "url": "https://open.spotify.com/track/6YgrmHbYxlDTF6F57vvtCx"
@@ -6100,10 +6118,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 198701,
       "name": "Tu Despertador",
       "url": "https://open.spotify.com/track/6fWNrtEd8z5ONHUCCiOuBS"
+    },
+    {
+      "album": {
+        "name": "Loco X Volver",
+        "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235714,
+      "name": "Tu recuerdo",
+      "url": "https://open.spotify.com/track/2Myp53WxhQq9JTWNEFNyCn"
     },
     {
       "album": {
@@ -6340,6 +6376,32 @@
       "duration_ms": 216440,
       "name": "Una Vida Contigo",
       "url": "https://open.spotify.com/track/6ZuoTdrlwsIdXO3p4VOqcl"
+    },
+    {
+      "album": {
+        "name": "Loco X Volver",
+        "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194224,
+      "name": "Una vida juntos",
+      "url": "https://open.spotify.com/track/5t4jQPNGUqciQDDxXEnQKr"
     },
     {
       "album": {

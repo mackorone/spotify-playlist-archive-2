@@ -3715,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "No Me Enamoro",
+        "url": "https://open.spotify.com/album/5mPBuaqamFbE2fGmJa9SXL"
+      },
+      "artists": [
+        {
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "No Me Enamoro",
+      "url": "https://open.spotify.com/track/5WKhyU61ndpYy3se3wZUFG"
+    },
+    {
+      "album": {
         "name": "no me llores",
         "url": "https://open.spotify.com/album/3Mw32npgxPmKcB7uxsd4AN"
       },

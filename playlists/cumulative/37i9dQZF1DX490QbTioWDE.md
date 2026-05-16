@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Q´Lokura, Lauta & Amigo de Artistas
 
-621 songs - 1 day 13 hr 35 min
+622 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [En la cara \- En Vivo](https://open.spotify.com/track/4buQ1OSw1JwfU2Qj9Cq2MY) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [En la cara \(En Vivo\)](https://open.spotify.com/album/3LDA9nD7K36cegTBBWumuE) | 2:57 | 2024-09-13 | 2025-01-14 |
 | [En Libertad](https://open.spotify.com/track/1DKiKqd2S5OVyQmj7OS855) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Con el Corazón en la Mano](https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf) | 2:53 | 2024-08-20 | 2025-08-19 |
 | [En Mi Cama una Cualquiera](https://open.spotify.com/track/1NY5y5yyjZGqvdhffOeA1R) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 3:43 | 2021-12-24 | 2022-07-29 |
-| [En otra vida \- En Vivo](https://open.spotify.com/track/07IixpZJQJZSvNAWiLOfck) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [En otra vida \(En Vivo\)](https://open.spotify.com/album/0Ujtg97hUUgW4pabzGnMuB) | 2:19 | 2025-09-26 |  |
+| [En otra vida \- En Vivo](https://open.spotify.com/track/07IixpZJQJZSvNAWiLOfck) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [En otra vida \(En Vivo\)](https://open.spotify.com/album/0Ujtg97hUUgW4pabzGnMuB) | 2:19 | 2025-09-26 | 2026-05-16 |
 | [En Otra Vida \- Versión Cuarteto](https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [En Otra Vida \- Versión Cuarteto](https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA) | 2:28 | 2024-12-13 |  |
 | [En privado \- En Vivo](https://open.spotify.com/track/2V8bCSCCfWgckOWeix4NGw) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [En privado \(En Vivo\)](https://open.spotify.com/album/0ha0iI8Kjko64RHxw9yyUk) | 2:28 | 2026-02-20 |  |
 | [Enfrentados](https://open.spotify.com/track/4bp6aza2gUPrIKJzIXij3s) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Carli Jiménez](https://open.spotify.com/artist/5rGUuPEIFYMVmocNdihpUe) | [Enfrentados](https://open.spotify.com/album/7F6CpxCSP813AHoBml1pGl) | 3:24 | 2022-02-04 | 2022-05-23 |
@@ -627,6 +627,7 @@
 | [Yo Quería \(Estadio Vélez\)](https://open.spotify.com/track/1THCr8ykaAhoXoX1WpQWUb) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Yo Quería \(Estadio Vélez\)](https://open.spotify.com/album/1w06EiB5vVFIfZcdKa7OTY) | 4:05 | 2023-08-04 | 2023-10-07 |
 | [¿Cómo haré?](https://open.spotify.com/track/2IpQHErYoWeDEzOvvlYJ1l) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [¿Cómo haré?](https://open.spotify.com/album/39fVOE1zBxuX6JkOVEndGu) | 2:17 | 2024-08-16 | 2024-12-21 |
 | [¿Quién te dijo?](https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [NHAY](https://open.spotify.com/artist/65fxKyBt1Tx8P0nAItFTwG) | [¿Quién te dijo?](https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn) | 2:45 | 2025-01-10 | 2025-08-16 |
+| [¿Quién te dijo? \- En Vivo](https://open.spotify.com/track/4BjYX4xJUmU2Xw4hHT74vu) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [¿Quién te dijo? \(En Vivo\)](https://open.spotify.com/album/26oGC4bZV0LAAClH9Tnc9Y) | 2:40 | 2026-05-15 |  |
 | [Él no soy yo](https://open.spotify.com/track/63F0fLgN8dMRlhWCRnbkyk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Obsesión](https://open.spotify.com/album/2xjcx9guWV4VtexEYDDWly) | 3:46 | 2021-12-24 | 2022-07-21 |
 | [Él No Soy Yo](https://open.spotify.com/track/6X9Mq6dtHUoHbcdot8mnri) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Obsesión](https://open.spotify.com/album/04H5Ux6U24V75xIqMMD9he) | 3:46 | 2022-09-09 | 2022-09-17 |
 

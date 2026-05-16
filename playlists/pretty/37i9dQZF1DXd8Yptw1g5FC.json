@@ -1,12 +1,12 @@
 {
   "description": "\u0130rem Derici ve haftan\u0131n en iyi \u00e7\u0131k\u0131\u015flar\u0131!",
-  "num_followers": 313668,
+  "num_followers": 314418,
   "original_name": "New Music Friday T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACbEHJMrThwCCgyL1b50sznWiTgT",
+  "snapshot_id": "AAAAAH47Ubx/ONZ84kfP+jGVXeV8YUa9",
   "tracks": [
     {
       "added_at": "2026-05-14 21:17:59",
@@ -59,6 +59,30 @@
       "duration_ms": 182551,
       "name": "ADIMIZ T\u00dcRK\u0130YE",
       "url": "https://open.spotify.com/track/5ZDrQKObDyXFG9M0KdqmT4"
+    },
+    {
+      "added_at": "2026-05-15 04:15:56",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "added_at": "2026-05-14 21:17:59",
@@ -170,10 +194,14 @@
         {
           "name": "Cem Adrian",
           "url": "https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj"
+        },
+        {
+          "name": "DERBEND",
+          "url": "https://open.spotify.com/artist/5HUa70pmGqPiOSu0lmT5mM"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 270337,
+      "name": "Yine Ayr\u0131l\u0131k",
       "url": "https://open.spotify.com/track/6o9OF2yk8aotpdC9BBQ8fx"
     },
     {
@@ -186,10 +214,14 @@
         {
           "name": "La\u00e7in",
           "url": "https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa"
+        },
+        {
+          "name": "akca",
+          "url": "https://open.spotify.com/artist/1OBAc1CshCapEzN3cfmNtc"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 149381,
+      "name": "\u00dcst\u00fcnde Ad\u0131n Var",
       "url": "https://open.spotify.com/track/4yu1f3GuaWDW8oLWmzuLX7"
     },
     {
@@ -499,7 +531,7 @@
     {
       "added_at": "2026-05-14 21:17:59",
       "album": {
-        "name": "SON DURAK (feat. Zen-G)",
+        "name": "SON DURAK",
         "url": "https://open.spotify.com/album/6p3XvabQkcW8P1oEXJsWhk"
       },
       "artists": [
@@ -513,7 +545,7 @@
         }
       ],
       "duration_ms": 228837,
-      "name": "SON DURAK (feat. Zen-G)",
+      "name": "SON DURAK",
       "url": "https://open.spotify.com/track/6bWlcUZZVFC27FU5dG4pOO"
     },
     {
@@ -1119,6 +1151,22 @@
     {
       "added_at": "2026-05-14 21:17:59",
       "album": {
+        "name": "Kaniya Ev\u00een\u00ea",
+        "url": "https://open.spotify.com/album/0f4sRVJq0g0TaifO9epull"
+      },
+      "artists": [
+        {
+          "name": "Hozan Dino",
+          "url": "https://open.spotify.com/artist/1K3mSN1InjiGRqyakmLz5H"
+        }
+      ],
+      "duration_ms": 262765,
+      "name": "Kaniya Ev\u00een\u00ea",
+      "url": "https://open.spotify.com/track/18ov8AunHQgj0yZn7gyVwD"
+    },
+    {
+      "added_at": "2026-05-14 21:17:59",
+      "album": {
         "name": "Ama Yine De",
         "url": "https://open.spotify.com/album/3Y6IzuLMo3moaJfwdcfJns"
       },
@@ -1522,6 +1570,10 @@
         {
           "name": "Alya",
           "url": "https://open.spotify.com/artist/44KujdHA0ZaOgGzyaAdXmu"
+        },
+        {
+          "name": "R\u0131za Tamer",
+          "url": "https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ"
         }
       ],
       "duration_ms": 188350,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,026 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,060 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 70 | [Simulacrum](https://open.spotify.com/track/73qCc86jf0LPG7pRdB7Ob8) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG) | [Simulacrum / Nnff](https://open.spotify.com/album/6pEWsFQUx7sTfodZetvdup) | 4:23 |
 | 71 | [Something Real](https://open.spotify.com/track/5ylKFAdMokkhy9cZeshJQY) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Something Real](https://open.spotify.com/album/5U1s3hxTPXZWEEc8d82ak2) | 2:59 |
 | 72 | [Piggies](https://open.spotify.com/track/0YmVJGxRW8VDvEoDYE8d0S) | [The Amazing](https://open.spotify.com/artist/16f3WYlA4miISj20MG5J30) | [Piggies](https://open.spotify.com/album/1MmtHO2F23nIID3DUI5Sn3) | 3:51 |
-| 73 | [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 |
+| 73 | [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X), [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 |
 | 74 | [Neptunne](https://open.spotify.com/track/3o68NfY8DRpevdlXuWI33g) | [The Thing](https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L) | [Neptunne](https://open.spotify.com/album/3xOLLJBueYAHqroPeORhHT) | 5:23 |
 | 75 | [Come Take A Ride](https://open.spotify.com/track/2Hb1RDK3hY7OM2rjI99r7w) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Wild Style](https://open.spotify.com/album/1ek4iWWxAsvaLjym9EXoZC) | 2:40 |
 | 76 | [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 |

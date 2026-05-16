@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 151835,
+  "num_followers": 151873,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agO/AAAAAADOzO9h3unjpoFN9smUSR5u",
+  "snapshot_id": "agUQgAAAAABvriiQmy7H6RSu9FAeW1BB",
   "tracks": [
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 294616,
-      "name": "Deliverance",
-      "url": "https://open.spotify.com/track/537CmK97BafGLCgelxK0fS"
+      "duration_ms": 270225,
+      "name": "Lizard Skin",
+      "url": "https://open.spotify.com/track/5CPRRhl7cWZPGv9kGISivd"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 270225,
-      "name": "Lizard Skin",
-      "url": "https://open.spotify.com/track/5CPRRhl7cWZPGv9kGISivd"
+      "duration_ms": 294616,
+      "name": "Deliverance",
+      "url": "https://open.spotify.com/track/537CmK97BafGLCgelxK0fS"
     }
   ],
   "unique_name": "This Is Gojira",

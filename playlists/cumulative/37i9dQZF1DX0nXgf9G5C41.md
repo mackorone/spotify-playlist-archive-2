@@ -4,7 +4,7 @@
 
 > A dive into Jersey Club's rise from regional to mainstream heights
 
-100 songs - 5 hr 27 min
+101 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Headphones On](https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 4:00 | 2025-08-11 | 2026-04-30 |
 | [Honey](https://open.spotify.com/track/3q4TVUhxinWgFOzeMb2gVM) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Honey](https://open.spotify.com/album/6hbAG1cLZ8McraWrH5Pqad) | 3:38 | 2025-08-11 | 2026-04-30 |
 | [I Don’t Wanna](https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 3:04 | 2025-08-11 | 2026-04-30 |
-| [In Ha Mood](https://open.spotify.com/track/3l7Qdlbi2EWYvVOyj8RDKe) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:09 | 2026-04-29 |  |
+| [In Ha Mood](https://open.spotify.com/track/3l7Qdlbi2EWYvVOyj8RDKe) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:09 | 2026-04-29 | 2026-05-16 |
 | [jersey luv](https://open.spotify.com/track/0Au2L6RX9JeZ80G0GtxNlY) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Crying in the Club](https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN) | 3:51 | 2026-04-29 |  |
 | [JIGGY IN JERSEY Pt2](https://open.spotify.com/track/5YGZ0BVMUaLBNTr5JSaSzJ) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC) | [JIGGY IN JERSEY Pt2](https://open.spotify.com/album/2C7CauX1huKjGl3yO2Ijf9) | 1:49 | 2026-04-29 |  |
 | [Just Wanna Rock](https://open.spotify.com/track/4Ls53fBNVfaXTROBi6X8Hw) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:03 | 2026-04-29 |  |
@@ -98,6 +98,7 @@
 | [THEN THERE'S ONE](https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [THEN THERE'S ONE](https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU) | 1:19 | 2025-08-11 | 2026-04-30 |
 | [These People](https://open.spotify.com/track/2P84DJTV4P84wEqhkeL7z7) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Mentalized](https://open.spotify.com/album/73SrRRU9bujnn0qfSZCi8a) | 4:30 | 2025-08-11 | 2026-04-30 |
 | [Tomorrow Comes Today](https://open.spotify.com/track/3qdDjz9kOvquEFbvXBYOMQ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 3:13 | 2025-08-11 | 2026-04-30 |
+| [True Bestie \(feat\. Iconic Savvy\)](https://open.spotify.com/track/5njYiWKlMfU1HkOyetTRg8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Iconic Savvy](https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 2:28 | 2026-05-15 |  |
 | [Truisms 4 Dummies](https://open.spotify.com/track/40oMDrqiESAbKzfnK6avpB) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH) | [The Head Hurts but the Heart Knows the Truth](https://open.spotify.com/album/3g16U5C8SE3xYybOaqF94x) | 4:01 | 2025-08-11 | 2026-04-30 |
 | [Twerkin Wit Ya Friends](https://open.spotify.com/track/2CM0HCWTEPjQaO4YnmlhVt) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ) | [Set The Tone](https://open.spotify.com/album/1R2kDXi7J13y9NMUGYiQVm) | 2:40 | 2026-04-29 |  |
 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Vibe \(If I Back It Up\)](https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0) | 1:23 | 2026-04-29 |  |

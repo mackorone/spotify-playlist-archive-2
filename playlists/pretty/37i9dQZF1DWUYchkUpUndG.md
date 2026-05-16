@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Godfrey Gad
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,726 likes - 89 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,829 likes - 89 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 2 | [Oh My Soul](https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh), [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Pst\. Oche Ogebe](https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk) | [Oh My Soul](https://open.spotify.com/album/0kCQtj3r882jtLDX7TvxUy) | 2:52 |
 | 3 | [Worship My King](https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Worship My King](https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR) | 5:00 |
 | 4 | [Ifunanya](https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Ifunanya](https://open.spotify.com/album/57pEiJAqAL6uQ57jujKiFs) | 5:14 |
-| 5 | [Track 4](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 0:00 |
+| 5 | [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 |
 | 6 | [Your Name](https://open.spotify.com/track/2jQ8n2okRsbC6GVjKT8Q9w) | [Oliver Lingk](https://open.spotify.com/artist/3sJLO3PPCeDyrSGX8P29kJ), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Your Name](https://open.spotify.com/album/5jsIf9sxwfLtMtNhUdLXHB) | 3:15 |
 | 7 | [Jireh](https://open.spotify.com/track/3PzMMIwLiUTvirBij9AcSw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Rozil](https://open.spotify.com/artist/7DKK0ozHbmXGIx5KsVL3uF) | [Jireh](https://open.spotify.com/album/7jPZxPOJK7PkT3EymnDuWA) | 3:16 |
 | 8 | [Themba Lethu \- Live at the Durban ICC/ 2025](https://open.spotify.com/track/0EAZbdLRr4ATJugP2Wg3cu) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngegama Lakho/ Themba Lethu](https://open.spotify.com/album/4wBUn5NnLNZ6B3YSRAPgXX) | 8:17 |

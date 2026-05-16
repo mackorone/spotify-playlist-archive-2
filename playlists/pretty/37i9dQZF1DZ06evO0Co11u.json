@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 197702,
+  "num_followers": 197712,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agO/AAAAAADOMV5gCrzZXExOE0sgaSy/",
+  "snapshot_id": "agUQgAAAAAAAuPL+8c418Z+Wtcgu84SL",
   "tracks": [
     {
       "added_at": null,
@@ -39,34 +39,6 @@
       "duration_ms": 139226,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Early in the Morning (Remastered 2026 in Super Stereo by Good Gold Records)",
-        "url": "https://open.spotify.com/album/2GMIQdJjHp5qGQ0ZqPb1OX"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet",
-          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Virginia Liston",
-          "url": "https://open.spotify.com/artist/1Fl6swWf1Dh2YkRENDIbzS"
-        },
-        {
-          "name": "Clarence Williams",
-          "url": "https://open.spotify.com/artist/5zjKpiCCiuKiT6uhSt7aFe"
-        }
-      ],
-      "duration_ms": 177663,
-      "name": "Early in the Morning - Remastered 2026 in Super Stereo by Good Gold Records",
-      "url": "https://open.spotify.com/track/5oddpAKoRL7SiFmaVW2WLN"
     },
     {
       "added_at": null,
@@ -915,18 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essence of Armstrong",
-        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
+        "name": "Oh Didn't He Ramble",
+        "url": "https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sy Oliver's Orchestra",
+          "url": "https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY"
         }
       ],
-      "duration_ms": 199893,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
+      "duration_ms": 202106,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR"
     },
     {
       "added_at": null,
@@ -947,22 +923,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh Didn't He Ramble",
-        "url": "https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre"
+        "name": "Essence of Armstrong",
+        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Sy Oliver's Orchestra",
-          "url": "https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY"
         }
       ],
-      "duration_ms": 202106,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR"
+      "duration_ms": 199893,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 133266,
+      "name": "I Still Get Jealous",
+      "url": "https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8"
     }
   ],
   "unique_name": "This Is Louis Armstrong",

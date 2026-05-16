@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Kobie Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,982 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,989 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 5 | [Playing For Keeps](https://open.spotify.com/track/5GdVcbQNi5opA5L39G0MDF) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Playing For Keeps](https://open.spotify.com/album/4mb6hp99zL7cEyk0iXCmZn) | 2:59 |
 | 6 | [Brown Sugar](https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [Brown Sugar](https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe) | 3:09 |
 | 7 | [Other](https://open.spotify.com/track/6jSwoPoyTthzDYNmr6XS5Z) | [Urthboy](https://open.spotify.com/artist/2j9Ronn6pPSxcsqnDbVGpZ), [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2), [Ballast](https://open.spotify.com/artist/5KMX7TgDgTpKDXL5bf3fq7) | [Other](https://open.spotify.com/album/5hkSHxdIceloFM6sy9gyPt) | 3:25 |
-| 8 | [Track 2](https://open.spotify.com/track/2RSaKYZsVd9Px5ZLyH1fy7) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Love Songs For The Streets](https://open.spotify.com/album/3fdsFwfBPE618kDPu3AzQ9) | 0:00 |
+| 8 | [Miss Independent](https://open.spotify.com/track/2RSaKYZsVd9Px5ZLyH1fy7) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Love Songs For The Streets](https://open.spotify.com/album/3fdsFwfBPE618kDPu3AzQ9) | 2:33 |
 | 9 | [Jezebel](https://open.spotify.com/track/2ww5S3KQ6d73WAVbPXgCPC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Jezebel](https://open.spotify.com/album/2wCruyJJvR1rEJcKYNhqgv) | 1:58 |
 | 10 | [Split Personality](https://open.spotify.com/track/2BVhM6EuVLSxL4bMux9SNn) | [ozpolo](https://open.spotify.com/artist/2I8O5ZIJaRsRY7jtRLvr6A), [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P), [HKRamz](https://open.spotify.com/artist/11sv1aT0SJiblvZJFHITEO), [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Split Personality](https://open.spotify.com/album/0iPYsOa6ftpKkF4vdaIqLi) | 2:37 |
 | 11 | [Problems](https://open.spotify.com/track/7dORj96n085LkNeFJcqpP4) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Problems](https://open.spotify.com/album/2wcAjd76Lqfa05twein279) | 3:15 |

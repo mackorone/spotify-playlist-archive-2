@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Coi Leray",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Taffy",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -12226,7 +12226,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 173806,
       "name": "Rackies (feat. ATL Jacob)",
       "url": "https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd"
@@ -12792,6 +12792,24 @@
       "duration_ms": 168986,
       "name": "Self Made",
       "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
+    },
+    {
+      "album": {
+        "name": "Sexxy",
+        "url": "https://open.spotify.com/album/49OujRbYAHaPrUj6kFBqRg"
+      },
+      "artists": [
+        {
+          "name": "Breskii",
+          "url": "https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Sexxy",
+      "url": "https://open.spotify.com/track/7DGr8RxLyy0ofCtSLmZtxW"
     },
     {
       "album": {

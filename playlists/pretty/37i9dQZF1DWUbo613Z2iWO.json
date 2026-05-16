@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Mack Keane",
-  "num_followers": 59281,
+  "description": "R&B of the moment by the artists of the future. Cover: James Savage",
+  "num_followers": 59292,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWVAMwj8q54hjudDd+th5XxRLRE",
+  "snapshot_id": "AAAAAGJvBGkSH4SCQURPEMflEJwFJkhv",
   "tracks": [
+    {
+      "added_at": "2026-05-15 06:02:32",
+      "album": {
+        "name": "PINE",
+        "url": "https://open.spotify.com/album/7j8j1wcsPnzyzM3ZmS1X2x"
+      },
+      "artists": [
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "duration_ms": 155670,
+      "name": "Say Sumn",
+      "url": "https://open.spotify.com/track/5sL4dsV605fLUKdepT7pif"
+    },
     {
       "added_at": "2026-05-08 05:09:15",
       "album": {
@@ -25,24 +41,20 @@
       "url": "https://open.spotify.com/track/62PpNCrIep6clOAMg2gKt7"
     },
     {
-      "added_at": "2026-05-08 05:09:15",
+      "added_at": "2026-05-15 06:02:32",
       "album": {
-        "name": "Laugh Later, Cry Now",
-        "url": "https://open.spotify.com/album/7kNkExIne21fch2RNJkvTJ"
+        "name": "THE EDGE",
+        "url": "https://open.spotify.com/album/0OeCOxmJZPbLdSZYSmHYg8"
       },
       "artists": [
         {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "CARI",
-          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 130235,
-      "name": "Laugh Later, Cry Now",
-      "url": "https://open.spotify.com/track/4i7sF4JEHhRzzBbokH1kIS"
+      "duration_ms": 172605,
+      "name": "PAGEANT STAGE",
+      "url": "https://open.spotify.com/track/18xbuNAEvWdiJpFMLgyRHj"
     },
     {
       "added_at": "2026-04-24 04:03:03",
@@ -65,6 +77,58 @@
       "url": "https://open.spotify.com/track/3prJRFb6nICR3uC7mqhkjs"
     },
     {
+      "added_at": "2026-05-15 06:02:32",
+      "album": {
+        "name": "Blood On The Strings",
+        "url": "https://open.spotify.com/album/6Cb2qgqXFRguQa01S95j6G"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Blood On The Strings",
+      "url": "https://open.spotify.com/track/5dhRaReCkkoaJUgVilnd5B"
+    },
+    {
+      "added_at": "2026-05-08 05:09:15",
+      "album": {
+        "name": "Laugh Later, Cry Now",
+        "url": "https://open.spotify.com/album/7kNkExIne21fch2RNJkvTJ"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "duration_ms": 130235,
+      "name": "Laugh Later, Cry Now",
+      "url": "https://open.spotify.com/track/4i7sF4JEHhRzzBbokH1kIS"
+    },
+    {
+      "added_at": "2026-05-15 06:02:32",
+      "album": {
+        "name": "Life is Unfair",
+        "url": "https://open.spotify.com/album/6RtyjYB8SbfMQIK8o4YdAj"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Life is Unfair",
+      "url": "https://open.spotify.com/track/4ZUNsrg67FyS47d8eLRV2I"
+    },
+    {
       "added_at": "2026-05-01 04:52:34",
       "album": {
         "name": "So\u2026",
@@ -79,6 +143,22 @@
       "duration_ms": 196631,
       "name": "So\u2026",
       "url": "https://open.spotify.com/track/1W31Osw7XybJ4YcS3NCOZ5"
+    },
+    {
+      "added_at": "2026-05-15 06:02:32",
+      "album": {
+        "name": "Break Me Off",
+        "url": "https://open.spotify.com/album/6dQRJLvQNiDEOdH7rri6NS"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 174465,
+      "name": "Break Me Off",
+      "url": "https://open.spotify.com/track/01nqAnr8UmgLjgKSjhLGLF"
     },
     {
       "added_at": "2026-05-08 05:09:15",
@@ -97,6 +177,26 @@
       "url": "https://open.spotify.com/track/56qMTbPy6yAI5sGSrFSMcU"
     },
     {
+      "added_at": "2026-05-15 06:02:32",
+      "album": {
+        "name": "ZODIAC SINE",
+        "url": "https://open.spotify.com/album/39r8RmnljzvFLBQmolyjBo"
+      },
+      "artists": [
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        },
+        {
+          "name": "Seafood Sam",
+          "url": "https://open.spotify.com/artist/42i1K4n41jrf6DuIOQW1BY"
+        }
+      ],
+      "duration_ms": 268636,
+      "name": "ZODIAC SINE",
+      "url": "https://open.spotify.com/track/37a2ERLEjkVOob68CjD06X"
+    },
+    {
       "added_at": "2026-05-08 05:09:15",
       "album": {
         "name": "I Tried",
@@ -113,24 +213,20 @@
       "url": "https://open.spotify.com/track/3TAp8qfC53qxlzES7ndQ9I"
     },
     {
-      "added_at": "2026-05-01 04:52:34",
+      "added_at": "2026-05-15 06:02:32",
       "album": {
-        "name": "Bottles & Lights",
-        "url": "https://open.spotify.com/album/5Wvm7Co0vhdyPk5Ac0uZk6"
+        "name": "april showers",
+        "url": "https://open.spotify.com/album/0ZJqPDvP8qunZSLwsbSaEz"
       },
       "artists": [
         {
-          "name": "Chxrry",
-          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Malaya",
+          "url": "https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Bottles & Lights",
-      "url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H"
+      "duration_ms": 86648,
+      "name": "ironic",
+      "url": "https://open.spotify.com/track/20DqrRX3TWpLRE0CgGNWXG"
     },
     {
       "added_at": "2026-04-24 04:03:03",
@@ -147,6 +243,22 @@
       "duration_ms": 207256,
       "name": "Love Ain't Shit",
       "url": "https://open.spotify.com/track/2UKa3EzviDMvdcAvlVNUo6"
+    },
+    {
+      "added_at": "2026-05-15 06:02:32",
+      "album": {
+        "name": "THE EDGE",
+        "url": "https://open.spotify.com/album/0OeCOxmJZPbLdSZYSmHYg8"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 88000,
+      "name": "IF YOU LET ME",
+      "url": "https://open.spotify.com/track/5x3hwzbVsbX0AAEagU2Rd7"
     },
     {
       "added_at": "2026-05-08 05:09:15",
@@ -167,6 +279,42 @@
       "duration_ms": 177173,
       "name": "Hvnly (feat. JIHYO)",
       "url": "https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl"
+    },
+    {
+      "added_at": "2026-05-15 06:02:32",
+      "album": {
+        "name": "Firestorm",
+        "url": "https://open.spotify.com/album/1M6NTBZo0XT64XLlWIiHji"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 149720,
+      "name": "Firestorm",
+      "url": "https://open.spotify.com/track/5Oqa07elZ6N9dd9YL28gNU"
+    },
+    {
+      "added_at": "2026-05-01 04:52:34",
+      "album": {
+        "name": "Bottles & Lights",
+        "url": "https://open.spotify.com/album/5Wvm7Co0vhdyPk5Ac0uZk6"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Bottles & Lights",
+      "url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H"
     },
     {
       "added_at": "2026-05-08 05:09:15",
@@ -2665,118 +2813,6 @@
       "url": "https://open.spotify.com/track/3s1s0R29XccW507Vjxoqlu"
     },
     {
-      "added_at": "2025-12-05 08:19:53",
-      "album": {
-        "name": "STILL IN MOTION",
-        "url": "https://open.spotify.com/album/0eq4HkoZsIFbB8XOMva0LZ"
-      },
-      "artists": [
-        {
-          "name": "spaceluvrrr",
-          "url": "https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb"
-        },
-        {
-          "name": "QWESi",
-          "url": "https://open.spotify.com/artist/4p0j2PYnc6LxlJPEPLzluR"
-        },
-        {
-          "name": "GIOVANNA",
-          "url": "https://open.spotify.com/artist/4dKNVy72FShsqA2JJrkaHb"
-        }
-      ],
-      "duration_ms": 171660,
-      "name": "keep goin' (feat. GIOVANNA)",
-      "url": "https://open.spotify.com/track/3XEkWSOpnxnYCfRGjVIliT"
-    },
-    {
-      "added_at": "2025-12-05 08:19:53",
-      "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/2snM9P8zJFDAtWQ8Blgzbs"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 117460,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/250EPvE8NZiTdFoJoU4sSO"
-    },
-    {
-      "added_at": "2025-11-21 06:25:10",
-      "album": {
-        "name": "Cut Ties (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6dkIA6cPbDA99Q3zNon5iS"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 150744,
-      "name": "Jury",
-      "url": "https://open.spotify.com/track/0HqIvIEYPWDnI2gSmyxWZy"
-    },
-    {
-      "added_at": "2025-12-12 05:00:46",
-      "album": {
-        "name": "GROW UP (feat. Dende)",
-        "url": "https://open.spotify.com/album/1dPheNKU0kmoyeDoKHXraF"
-      },
-      "artists": [
-        {
-          "name": "LUCIIA",
-          "url": "https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd"
-        },
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 216943,
-      "name": "GROW UP (feat. Dende)",
-      "url": "https://open.spotify.com/track/2pGJStBbf6jJMkbT7CFFaS"
-    },
-    {
-      "added_at": "2025-12-05 08:19:53",
-      "album": {
-        "name": "Daily!",
-        "url": "https://open.spotify.com/album/356QCIJgTv7vh7ucQv52K6"
-      },
-      "artists": [
-        {
-          "name": "Josef Lamercier",
-          "url": "https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc"
-        },
-        {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
-        }
-      ],
-      "duration_ms": 146054,
-      "name": "Daily!",
-      "url": "https://open.spotify.com/track/15klwfNZblMfdGLiqgATFU"
-    },
-    {
-      "added_at": "2025-12-12 05:00:46",
-      "album": {
-        "name": "Cowboy From Brooklyn",
-        "url": "https://open.spotify.com/album/0VRjbRVRxZ3MyMz31W1KLW"
-      },
-      "artists": [
-        {
-          "name": "nyan",
-          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
-        }
-      ],
-      "duration_ms": 228256,
-      "name": "Dedication 6",
-      "url": "https://open.spotify.com/track/0BqM09B7nQxZn0zKb8gfPC"
-    },
-    {
       "added_at": "2025-11-21 06:25:10",
       "album": {
         "name": "Float",
@@ -2811,90 +2847,6 @@
       "duration_ms": 208626,
       "name": "Always",
       "url": "https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs"
-    },
-    {
-      "added_at": "2025-10-10 06:44:24",
-      "album": {
-        "name": "Can't Explain It (with Girlfriend)",
-        "url": "https://open.spotify.com/album/1rAGncOnfUWIcU8RUCKxMZ"
-      },
-      "artists": [
-        {
-          "name": "Jermain Reese Jr.",
-          "url": "https://open.spotify.com/artist/3qcuLIoSn9oRiqljDxvx2T"
-        },
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Can't Explain It (with Girlfriend)",
-      "url": "https://open.spotify.com/track/6Cb7FCGm6Gatt4vhpJsynC"
-    },
-    {
-      "added_at": "2025-11-21 06:25:10",
-      "album": {
-        "name": "Officer, Pt. 2",
-        "url": "https://open.spotify.com/album/51rx6zehMft3Ud6HNw1MbR"
-      },
-      "artists": [
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Officer, Pt. 2",
-      "url": "https://open.spotify.com/track/1wmJ47pSNRkxsyMyfemUPJ"
-    },
-    {
-      "added_at": "2025-11-21 06:25:10",
-      "album": {
-        "name": "Too Far",
-        "url": "https://open.spotify.com/album/39UA7cSjAZfKpPodH8cJsl"
-      },
-      "artists": [
-        {
-          "name": "Marco McKinnis",
-          "url": "https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Too Far",
-      "url": "https://open.spotify.com/track/2Knmf00ysVzsITSdghjxQx"
-    },
-    {
-      "added_at": "2025-11-21 06:25:10",
-      "album": {
-        "name": "SMN",
-        "url": "https://open.spotify.com/album/5Lqu1Aql2kburAS8qBSslb"
-      },
-      "artists": [
-        {
-          "name": "tendai",
-          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
-        }
-      ],
-      "duration_ms": 110598,
-      "name": "SMN",
-      "url": "https://open.spotify.com/track/3VNkWiAFcbuqkNE1ajpBNE"
-    },
-    {
-      "added_at": "2025-11-14 09:43:17",
-      "album": {
-        "name": "Fire&Smoke",
-        "url": "https://open.spotify.com/album/6N9LE0bNFcT54QXOBqXv1X"
-      },
-      "artists": [
-        {
-          "name": "Grimm Lynn",
-          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2NqLPkS0YMgyHeSGE3voiQ"
     },
     {
       "added_at": "2025-11-07 06:29:18",
@@ -2967,54 +2919,6 @@
       "duration_ms": 164306,
       "name": "Act of God / Force Majeure",
       "url": "https://open.spotify.com/track/3mGGgCB6VwLoA4WvI5X0xs"
-    },
-    {
-      "added_at": "2025-11-07 06:29:18",
-      "album": {
-        "name": "MOOD CONTROL",
-        "url": "https://open.spotify.com/album/1kWD76hBVHdACbWMNgwqRX"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        }
-      ],
-      "duration_ms": 175820,
-      "name": "POSSESSED",
-      "url": "https://open.spotify.com/track/2vQvq4W6IFWqe3UN9iwn4W"
-    },
-    {
-      "added_at": "2025-11-07 06:29:18",
-      "album": {
-        "name": "hella jealous",
-        "url": "https://open.spotify.com/album/0Q0DLgcmAFmehAKjNGx2mz"
-      },
-      "artists": [
-        {
-          "name": "TYLER LEWIS",
-          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
-        }
-      ],
-      "duration_ms": 189401,
-      "name": "hella jealous",
-      "url": "https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Dean's Home",
-        "url": "https://open.spotify.com/album/6PlMdUOo0eMq6u4ZNSOoBr"
-      },
-      "artists": [
-        {
-          "name": "Dean Brady",
-          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
-        }
-      ],
-      "duration_ms": 183042,
-      "name": "Looking for Trouble",
-      "url": "https://open.spotify.com/track/7x2ILyNOw4bofJSL7IKAyy"
     },
     {
       "added_at": "2025-10-03 04:26:01",

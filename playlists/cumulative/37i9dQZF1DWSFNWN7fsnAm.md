@@ -4,7 +4,7 @@
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-321 songs - 20 hr 25 min
+322 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,5 +329,6 @@
 | [Y.O.U.](https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Y.O.U.](https://open.spotify.com/album/3SXXeeBoNzJg7oMqmXy0bh) | 3:03 | 2025-10-02 |  |
 | [You Have House](https://open.spotify.com/track/0TexWvbEtdhC37oBNetaHw) | [Supernova](https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG) | [You Have House](https://open.spotify.com/album/61w0uKRZSvpp0KKPNK5xBi) | 3:26 | 2022-08-17 | 2023-06-13 |
 | [Yurican Soul](https://open.spotify.com/track/3wWRDze2BT30T2fEaSB5nQ) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Yurican Soul](https://open.spotify.com/album/4BctqbnS16FdzjMKu1bmvJ) | 4:04 | 2022-08-17 | 2023-06-13 |
+| [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/0opSDloCLZOuKbO968zLH5) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/5HBTCoQOw75m5huue8nkBl) | 2:56 | 2026-05-15 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

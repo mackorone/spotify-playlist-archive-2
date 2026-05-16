@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QMvE8mcOAb.md) - [plain]
 
 > lo\-fi bedroom jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,983 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,977 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QMvE8mcOAb.md) - [plain]
 | 22 | [Song for a Friend](https://open.spotify.com/track/27iWlSfqZePLYZpuRZNoU1) | [NECTAR](https://open.spotify.com/artist/5ZmobiDLLeEniEtDdWAnzy) | [Song for a Friend](https://open.spotify.com/album/2xxBHhlU62ONU0aFJFu170) | 2:55 |
 | 23 | [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 |
 | 24 | [I Am](https://open.spotify.com/track/1TEzkRVKpyh9uQr90vsCW6) | [Marcus Index](https://open.spotify.com/artist/3isIciQi3mdBpxt9GUiLJo) | [I Am](https://open.spotify.com/album/7lggTvIY40hLC7AslKyo3D) | 2:53 |
-| 25 | [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 |
+| 25 | [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X), [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 |
 | 26 | [Ghosts and Ghouls](https://open.spotify.com/track/3g0USg8EPH42WXpopZsoFK) | [Hector Morlet](https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A) | [Ghosts and Ghouls](https://open.spotify.com/album/4hYrxeRMqfOAMeBJ6qqjhC) | 3:45 |
 | 27 | [Abigail \(Casio Version\)](https://open.spotify.com/track/5Sogl4Mqn8A0d2hphWR616) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Abigail](https://open.spotify.com/album/6BJOMpz6MCHfRb3ZjIr8FQ) | 1:41 |
 | 28 | [Barefoot Blues](https://open.spotify.com/track/0KS5LPwYlSuHXokQlKvKCN) | [Tex Crick](https://open.spotify.com/artist/6tZLFWPPLQRWjRaDAhVYu0) | [Barefoot Blues](https://open.spotify.com/album/3584HJpJ4y5rYOMGUWwy3s) | 4:39 |

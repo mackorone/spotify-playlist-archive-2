@@ -3797,6 +3797,32 @@
     },
     {
       "album": {
+        "name": "Husky Dusky",
+        "url": "https://open.spotify.com/album/0Y7GwKCKb4qsqSFQqaL68G"
+      },
+      "artists": [
+        {
+          "name": "Gana Bala",
+          "url": "https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg"
+        },
+        {
+          "name": "Reguvin",
+          "url": "https://open.spotify.com/artist/0TmlNikhbYpazLXghCt2RB"
+        },
+        {
+          "name": "Ragav Krishnan",
+          "url": "https://open.spotify.com/artist/037UHtIMYyNjfBJZNDuN8q"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230126,
+      "name": "Husky Dusky",
+      "url": "https://open.spotify.com/track/6a39b7ysisF42OBCnLwf3r"
+    },
+    {
+      "album": {
         "name": "i Aval",
         "url": "https://open.spotify.com/album/5mA7g4MIR3WHIZVTiRyDsJ"
       },
@@ -4186,7 +4212,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 305148,
       "name": "Ini Ondraai",
       "url": "https://open.spotify.com/track/3jE4ZFOG9R5c0w4tSuMtE4"
@@ -4884,7 +4910,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 183944,
       "name": "Kaalam Neram (From \"MM Originals\") (Original Soundtrack)",
       "url": "https://open.spotify.com/track/4reJxn5fEju74xRPpRdUPm"
@@ -6364,7 +6390,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 264839,
       "name": "Kannodu",
       "url": "https://open.spotify.com/track/5y72RMUU5lfxiyA4JwripP"
@@ -9470,7 +9496,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 179095,
       "name": "NEERODA",
       "url": "https://open.spotify.com/track/5g1bOJVsi8SbCy7aNMTlip"
@@ -10854,7 +10880,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 208800,
       "name": "Oruvan Varuvan",
       "url": "https://open.spotify.com/track/6HkWmT4Kb5dha2URWxl36W"
@@ -11370,7 +11396,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 172225,
       "name": "Pesa Koodadho",
       "url": "https://open.spotify.com/track/4NR1O8WvE23KUB0tCFhp4r"
@@ -12676,6 +12702,24 @@
       "duration_ms": 177000,
       "name": "Sattaiyila Button Illa - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1TQN8q2X6dS3RXrnoxfFpA"
+    },
+    {
+      "album": {
+        "name": "Scene (From\" Saina Music Indie\")",
+        "url": "https://open.spotify.com/album/1KH0Z78HKzl8DqwT2zEgvx"
+      },
+      "artists": [
+        {
+          "name": "Karuvadu",
+          "url": "https://open.spotify.com/artist/67X1H3DJyh1hMMVIJvIShT"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Scene - From\" Saina Music Indie\"",
+      "url": "https://open.spotify.com/track/5oVdp5lZLOBAhjYXUTPjwF"
     },
     {
       "album": {
@@ -16526,6 +16570,36 @@
       "duration_ms": 282352,
       "name": "Vizhi",
       "url": "https://open.spotify.com/track/0yfou1n7Osbq1objkFdawy"
+    },
+    {
+      "album": {
+        "name": "Vizhigalil Aasa",
+        "url": "https://open.spotify.com/album/74lAUvn1TeerTY0CN2U1tI"
+      },
+      "artists": [
+        {
+          "name": "Praveen Sriram",
+          "url": "https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6"
+        },
+        {
+          "name": "RAJ-RIZ",
+          "url": "https://open.spotify.com/artist/6OAMNxGZwWZAuYqRhh4Y5d"
+        },
+        {
+          "name": "Surabhi Vimala",
+          "url": "https://open.spotify.com/artist/03W0fDGDp3NuAgNUXjm6pT"
+        },
+        {
+          "name": "Tamil Mani",
+          "url": "https://open.spotify.com/artist/5GQclhWiFwYsMfPMMsdwx8"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242896,
+      "name": "Vizhigalil Aasa",
+      "url": "https://open.spotify.com/track/4q0VwdxR6Kok5bq7aYiTui"
     },
     {
       "album": {

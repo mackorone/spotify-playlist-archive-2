@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "A Room Full of Light",
+        "url": "https://open.spotify.com/album/1XtZF93NTxhp8fspfnc5W2"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/0Tc5RmUZd5MfNBwBQfEXld"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125270,
+      "name": "A Room Full of Light",
+      "url": "https://open.spotify.com/track/4hmRgk4K8yfDjbmyqipDql"
+    },
+    {
+      "album": {
         "name": "a second chance",
         "url": "https://open.spotify.com/album/4I83UWtTiNcDqVhoo0srKV"
       },
@@ -710,6 +728,28 @@
       "duration_ms": 139714,
       "name": "Always With You",
       "url": "https://open.spotify.com/track/2tKGLXNuou7Ab3Y9xER86c"
+    },
+    {
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/355PrfNgcFsHCW4EDEvF8U"
+      },
+      "artists": [
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        },
+        {
+          "name": "Pevanni",
+          "url": "https://open.spotify.com/artist/3YG6GacnNybthfkmJbsaVE"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/0ni2451cP51AjRCaFc0ItW"
     },
     {
       "album": {
@@ -1605,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Beings",
+        "url": "https://open.spotify.com/album/0cXvN1qyoN1iJsJE73GEd2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Beings",
+      "url": "https://open.spotify.com/track/4Ypnczcao2JT7Bo3yyz7eL"
+    },
+    {
+      "album": {
         "name": "benchside",
         "url": "https://open.spotify.com/album/3NrrgGz64V2xLxJyuICCGX"
       },
@@ -2088,7 +2146,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 141939,
       "name": "Buck Stop",
       "url": "https://open.spotify.com/track/59pbhakI7VpgKLB3J9r7gO"
@@ -5394,7 +5452,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 138181,
       "name": "Everest",
       "url": "https://open.spotify.com/track/2X0lc7Ibt8RGzyCM9ptUwj"
@@ -13175,6 +13233,24 @@
     },
     {
       "album": {
+        "name": "Open Sky",
+        "url": "https://open.spotify.com/album/6m5jEICAaEiCg9J18H12lp"
+      },
+      "artists": [
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/1AeSPGqAkY1Me6ed49vb0n"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Open Sky",
+      "url": "https://open.spotify.com/track/3Ks3mEDB1j2BVT7Ui3Wcv7"
+    },
+    {
+      "album": {
         "name": "Opus 2",
         "url": "https://open.spotify.com/album/716LHTsujovH8m2J576NaV"
       },
@@ -18096,7 +18172,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 122349,
       "name": "Still Dock",
       "url": "https://open.spotify.com/track/6CvradJS3BYVT3sjrz6y6n"
@@ -21614,7 +21690,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 134400,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD"

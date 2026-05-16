@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: zoo zoo sea
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,014 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,032 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 40 | [東京](https://open.spotify.com/track/6JNBAJ02z2gGP8nP1sNp3a) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [なみなみならぬ](https://open.spotify.com/album/2VvUBERRms5ZubnGCd3G2r) | 3:51 |
 | 41 | [fortuna \- DC Mizey Relive](https://open.spotify.com/track/3GWGoLih8u9xDZhWnLX2js) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6), [白迦](https://open.spotify.com/artist/3KjADB16nxNieETV9T2RMr), [DC Mizey](https://open.spotify.com/artist/1HNN3FOrHLzQSRJLOKmmta) | [fortuna \(DC Mizey Relive\)](https://open.spotify.com/album/4xUZ6CwHwvPvAWfBpJwhuY) | 4:04 |
 | 42 | [カプチーノ](https://open.spotify.com/track/2VfsS5nO0vm4AeR3ts7G1z) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [カプチーノ](https://open.spotify.com/album/1ippPj7PxFgTq0de7pdAUP) | 2:31 |
-| 43 | [歓迎光臨デビューザワールド](https://open.spotify.com/track/7c1vv0wL77V5oMbfPUYwh0) | [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [D.watt](https://open.spotify.com/artist/7jEjiWsuWaoWwNS9I8CtJr) | [歓迎光臨デビューザワールド](https://open.spotify.com/album/7vY2jQ0lImn3zDbPKKXi5R) | 3:09 |
+| 43 | [歓迎光臨☆デビュー・ザ・ワールド](https://open.spotify.com/track/7c1vv0wL77V5oMbfPUYwh0) | [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [D.watt](https://open.spotify.com/artist/7jEjiWsuWaoWwNS9I8CtJr) | [歓迎光臨☆デビュー・ザ・ワールド](https://open.spotify.com/album/7vY2jQ0lImn3zDbPKKXi5R) | 3:09 |
 | 44 | [OTAGAISAMA](https://open.spotify.com/track/79q0msEh7B5nn8wOtbWjEW) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [OTAGAISAMA](https://open.spotify.com/album/0LQPUOmo9ApWdoQjJ73XDt) | 3:57 |
 | 45 | [Period](https://open.spotify.com/track/6n6Nc84hTi28o98tiHeV3o) | [INIMILE](https://open.spotify.com/artist/5ZJ0xmmLxxb6fQRUFIhjvl) | [Period](https://open.spotify.com/album/73WKQa9rIR4qQvevCqBymi) | 3:17 |
 | 46 | [OL★ism](https://open.spotify.com/track/0GhaiZgtOv5P0DSuG9YPMv) | [令和不祥事](https://open.spotify.com/artist/2Z4H4x5xdkp2x4Gul5tSTO) | [OL★ism](https://open.spotify.com/album/48tK6oUssIgGFiXhrZ1im7) | 4:00 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Zo\u00eb Livay & Aaron Blommaert",
+  "description": "Frisse Nederlandse pop. Cover: Sabien",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -3223,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Eindelijk Eerlijk",
+        "url": "https://open.spotify.com/album/5LgZAUOTk6N6fWaOqSNYxp"
+      },
+      "artists": [
+        {
+          "name": "JASHA",
+          "url": "https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160240,
+      "name": "Bewaren",
+      "url": "https://open.spotify.com/track/2FgCaGJ6rES2dyK5HajLmw"
+    },
+    {
+      "album": {
         "name": "Bij Deze",
         "url": "https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek"
       },
@@ -3274,7 +3292,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 198049,
       "name": "Bij Mij Zijn",
       "url": "https://open.spotify.com/track/61gJZi8r1UjFYw5VmZ875X"
@@ -14791,6 +14809,28 @@
     },
     {
       "album": {
+        "name": "Mi Lobi Yu",
+        "url": "https://open.spotify.com/album/7HukpmRU3XyJhU0qi76U1L"
+      },
+      "artists": [
+        {
+          "name": "Gordon",
+          "url": "https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2"
+        },
+        {
+          "name": "Re-Play",
+          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190830,
+      "name": "Mi Lobi Yu",
+      "url": "https://open.spotify.com/track/703eJAh3Xl39wQpDyGSMHI"
+    },
+    {
+      "album": {
         "name": "Midnight Cruiser",
         "url": "https://open.spotify.com/album/5gb6H1SM0TusFvuu92iOZG"
       },
@@ -20672,24 +20712,6 @@
       "duration_ms": 162259,
       "name": "Toxisch",
       "url": "https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g"
-    },
-    {
-      "album": {
-        "name": "Eindelijk Eerlijk",
-        "url": "https://open.spotify.com/album/5LgZAUOTk6N6fWaOqSNYxp"
-      },
-      "artists": [
-        {
-          "name": "JASHA",
-          "url": "https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/2FgCaGJ6rES2dyK5HajLmw"
     },
     {
       "album": {

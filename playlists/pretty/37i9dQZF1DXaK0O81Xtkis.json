@@ -1,13 +1,77 @@
 {
-  "description": "a little indie, a little pop, soda featuring Daniel Seavey",
-  "num_followers": 229758,
+  "description": "a little indie, a little pop, soda featuring MICO",
+  "num_followers": 229863,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADgSMqtQ6E2EteIUmk2xbTjHV3oG",
+  "snapshot_id": "AAAAAFZgMjG2s7mVRn56CE2seyW1KvA3",
   "tracks": [
+    {
+      "added_at": "2026-05-15 04:08:25",
+      "album": {
+        "name": "Like you mean it",
+        "url": "https://open.spotify.com/album/798jmpqSH0IYejKbp7mtRd"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "duration_ms": 147300,
+      "name": "Like you mean it",
+      "url": "https://open.spotify.com/track/4DCz1jb9Me9dn12CqqFk6N"
+    },
+    {
+      "added_at": "2026-05-15 04:08:25",
+      "album": {
+        "name": "Bluish",
+        "url": "https://open.spotify.com/album/49CGtCKtpP9F9lJ2TjVq1u"
+      },
+      "artists": [
+        {
+          "name": "Father Of Peace",
+          "url": "https://open.spotify.com/artist/27nYMwQ6QyHV76mzwXarkO"
+        }
+      ],
+      "duration_ms": 151555,
+      "name": "Bluish",
+      "url": "https://open.spotify.com/track/4z6uxjuQNiEHfBiPGbqqJ8"
+    },
+    {
+      "added_at": "2026-05-15 04:08:25",
+      "album": {
+        "name": "Word Vomit",
+        "url": "https://open.spotify.com/album/4f675l51sEciftAWInTtKB"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 166439,
+      "name": "Word Vomit",
+      "url": "https://open.spotify.com/track/29XRcFuqT5quAetizfP8d4"
+    },
+    {
+      "added_at": "2026-05-15 04:08:25",
+      "album": {
+        "name": "Housekeeping",
+        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 205841,
+      "name": "Housekeeping",
+      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
+    },
     {
       "added_at": "2026-04-24 04:01:34",
       "album": {
@@ -23,6 +87,86 @@
       "duration_ms": 172554,
       "name": "Time to Time (Annie)",
       "url": "https://open.spotify.com/track/6w1uqluhcV4Q8aNMDnZlIZ"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-05-15 04:08:25",
+      "album": {
+        "name": "MISS U",
+        "url": "https://open.spotify.com/album/2ZCGxJ2LtsOmIyIhIrwV24"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 151145,
+      "name": "MISS U",
+      "url": "https://open.spotify.com/track/48FfsXjz8rd8CLhnIwWQNw"
+    },
+    {
+      "added_at": "2026-05-15 04:08:25",
+      "album": {
+        "name": "round and round",
+        "url": "https://open.spotify.com/album/7fNSHWi4EJ3RHygITurjog"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 167770,
+      "name": "round and round",
+      "url": "https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH"
+    },
+    {
+      "added_at": "2026-05-15 04:08:25",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/7M6orDmP97kOxy7Evuf2d5"
+      },
+      "artists": [
+        {
+          "name": "The Wldlfe",
+          "url": "https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W"
+        }
+      ],
+      "duration_ms": 192356,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/6EUSY6w1esfVEorLKpZbLZ"
+    },
+    {
+      "added_at": "2026-05-15 04:08:25",
+      "album": {
+        "name": "American Teenage Prophecy",
+        "url": "https://open.spotify.com/album/7fqBTbPzWkCfuTvWenODfg"
+      },
+      "artists": [
+        {
+          "name": "Kid Sistr",
+          "url": "https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Boys in Skirts",
+      "url": "https://open.spotify.com/track/1viohmE5vdwuD6DKdb4CZH"
     },
     {
       "added_at": "2026-05-01 04:48:34",
@@ -41,6 +185,22 @@
       "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
     },
     {
+      "added_at": "2026-05-15 04:08:25",
+      "album": {
+        "name": "Chloe Showed Me",
+        "url": "https://open.spotify.com/album/1iN809Rv6ca7WOfJvuAmlr"
+      },
+      "artists": [
+        {
+          "name": "Sofia D'Angelo",
+          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
+        }
+      ],
+      "duration_ms": 150797,
+      "name": "Chloe Showed Me",
+      "url": "https://open.spotify.com/track/5XQTbbeLLN5WYvye53LApg"
+    },
+    {
       "added_at": "2026-05-08 04:02:28",
       "album": {
         "name": "in my body",
@@ -55,6 +215,22 @@
       "duration_ms": 220800,
       "name": "in my body",
       "url": "https://open.spotify.com/track/50nUvAn8Aag64TnXbLRD8V"
+    },
+    {
+      "added_at": "2026-05-15 04:08:25",
+      "album": {
+        "name": "Growing Pains (Deluxe)",
+        "url": "https://open.spotify.com/album/4ZSJ4RcSnjccnx3LhZ35uA"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 167523,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/1N54JSlyPD0YriuRhantnh"
     },
     {
       "added_at": "2026-05-04 17:05:27",
@@ -383,22 +559,6 @@
     {
       "added_at": "2026-04-03 04:03:26",
       "album": {
-        "name": "Buy Me A Car",
-        "url": "https://open.spotify.com/album/2ypIqNDlVf9Ukfxt7guIxI"
-      },
-      "artists": [
-        {
-          "name": "Presley Regier",
-          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
-        }
-      ],
-      "duration_ms": 209841,
-      "name": "Buy Me A Car",
-      "url": "https://open.spotify.com/track/0F4FEE1cOzkp8tysmHfidR"
-    },
-    {
-      "added_at": "2026-04-03 04:03:26",
-      "album": {
         "name": "Daredevil",
         "url": "https://open.spotify.com/album/1GgeRqhrpX8WUXMOZx16Gr"
       },
@@ -415,22 +575,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "Loretta's Last Call",
-        "url": "https://open.spotify.com/album/2GLrkdbYxmkxButSpM6U6d"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 192372,
-      "name": "Loretta's Last Call",
-      "url": "https://open.spotify.com/track/3bm0yuIdIcyh5XCTxa7Ee8"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "Baby Blue / When It Comes To Loving You",
         "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
       },
@@ -443,22 +587,6 @@
       "duration_ms": 171630,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "added_at": "2026-04-03 04:03:26",
@@ -523,22 +651,6 @@
       "duration_ms": 182000,
       "name": "westside",
       "url": "https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj"
-    },
-    {
-      "added_at": "2026-03-20 04:00:49",
-      "album": {
-        "name": "down under",
-        "url": "https://open.spotify.com/album/6u1MWDlyJlzW28ithVAYp3"
-      },
-      "artists": [
-        {
-          "name": "Kevian Kraemer",
-          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
-        }
-      ],
-      "duration_ms": 204557,
-      "name": "down under",
-      "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
     },
     {
       "added_at": "2026-04-03 04:03:26",
@@ -703,282 +815,6 @@
       "duration_ms": 141176,
       "name": "Sleeping In My Car",
       "url": "https://open.spotify.com/track/1z72b1oJqfdDbS3jnWcKjN"
-    },
-    {
-      "added_at": "2026-03-20 04:00:49",
-      "album": {
-        "name": "Do You Really Love Her",
-        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 228168,
-      "name": "Do You Really Love Her",
-      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
-    },
-    {
-      "added_at": "2026-03-06 05:00:25",
-      "album": {
-        "name": "How the Fire Started",
-        "url": "https://open.spotify.com/album/3b70siwvHaKL8mYunPu3Zd"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 175272,
-      "name": "How the Fire Started",
-      "url": "https://open.spotify.com/track/6muc6qsSWXopaIhitb7Elb"
-    },
-    {
-      "added_at": "2026-03-16 20:04:39",
-      "album": {
-        "name": "Pardon Me",
-        "url": "https://open.spotify.com/album/7A2lM8Nv9uSsopJk5PvaRp"
-      },
-      "artists": [
-        {
-          "name": "The Court",
-          "url": "https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ"
-        }
-      ],
-      "duration_ms": 138462,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/4pnbLZ74D1KUCqDHwe2CXn"
-    },
-    {
-      "added_at": "2026-02-27 05:00:34",
-      "album": {
-        "name": "You Always Liked Me Better When I Was Stoned",
-        "url": "https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 189913,
-      "name": "You Always Liked Me Better When I Was Stoned",
-      "url": "https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN"
-    },
-    {
-      "added_at": "2026-03-17 00:18:43",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Feel Something",
-      "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
-    },
-    {
-      "added_at": "2026-02-27 05:00:34",
-      "album": {
-        "name": "the punisher",
-        "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 189107,
-      "name": "the punisher",
-      "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
-    },
-    {
-      "added_at": "2026-02-27 05:00:34",
-      "album": {
-        "name": "moving on",
-        "url": "https://open.spotify.com/album/6JK3X7apZZoLbQ2KI0rX62"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "moving on",
-      "url": "https://open.spotify.com/track/56kplWYajG9mIypjY8cVn4"
-    },
-    {
-      "added_at": "2026-02-27 05:00:34",
-      "album": {
-        "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
-        "url": "https://open.spotify.com/album/4jYpqLjsWQdhsCcs1hXyHe"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 149137,
-      "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
-      "url": "https://open.spotify.com/track/29rXj5xHh7tGAA8H5Zqrxy"
-    },
-    {
-      "added_at": "2026-02-27 05:00:34",
-      "album": {
-        "name": "All Of It Now",
-        "url": "https://open.spotify.com/album/2aQOFp3PNTfxsptIkS6zSp"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "All Of It Now",
-      "url": "https://open.spotify.com/track/3exzGjyEWjVfHvqKgclPwE"
-    },
-    {
-      "added_at": "2026-02-27 05:00:34",
-      "album": {
-        "name": "Someone Like You",
-        "url": "https://open.spotify.com/album/28QSOarZmQJHYS9OekihnB"
-      },
-      "artists": [
-        {
-          "name": "Good Boy Daisy",
-          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
-        }
-      ],
-      "duration_ms": 223306,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/73YAQ6CwxG7UwHOJEviF52"
-    },
-    {
-      "added_at": "2026-02-13 05:00:48",
-      "album": {
-        "name": "Go For Broke",
-        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Go For Broke",
-      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
-    },
-    {
-      "added_at": "2026-02-20 05:00:54",
-      "album": {
-        "name": "Blame it on You",
-        "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
-      },
-      "artists": [
-        {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
-        }
-      ],
-      "duration_ms": 185318,
-      "name": "Blame it on You",
-      "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:48",
-      "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Dancing On The Wall",
-      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
-    },
-    {
-      "added_at": "2026-02-20 05:00:54",
-      "album": {
-        "name": "Feelin' Myself",
-        "url": "https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56"
-      },
-      "artists": [
-        {
-          "name": "Mondo",
-          "url": "https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv"
-        }
-      ],
-      "duration_ms": 165057,
-      "name": "Feelin' Myself",
-      "url": "https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ"
-    },
-    {
-      "added_at": "2026-02-20 05:00:54",
-      "album": {
-        "name": "Hot Commodity",
-        "url": "https://open.spotify.com/album/3f3yARpUzUJrNpX8FigRJz"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 174097,
-      "name": "Hot Commodity",
-      "url": "https://open.spotify.com/track/44LRPhsLKNtWQvuIuAzfdk"
-    },
-    {
-      "added_at": "2026-02-13 05:00:48",
-      "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/71LN5sgNOqcRkIk2Kbi6jR"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 152720,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/1F5G0Au0xfNSYnX7NCDnqC"
-    },
-    {
-      "added_at": "2026-02-06 10:00:13",
-      "album": {
-        "name": "Lost In The Wonder",
-        "url": "https://open.spotify.com/album/7fttWtjzkhPgTRpNy9pII6"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        },
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/2lXi0eQYkj5eLLLWYfG6rh"
     }
   ],
   "unique_name": "soda",

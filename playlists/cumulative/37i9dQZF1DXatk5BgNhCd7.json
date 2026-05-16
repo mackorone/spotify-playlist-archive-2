@@ -21621,6 +21621,28 @@
     },
     {
       "album": {
+        "name": "The World Meets Los Mirlos",
+        "url": "https://open.spotify.com/album/0WDu5tUg69jIZRrIy9dsLx"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185051,
+      "name": "De Jueves a Jueves",
+      "url": "https://open.spotify.com/track/69eH4RW7DqhhOo1zhlGwRG"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Ausente",
         "url": "https://open.spotify.com/album/5BPIBe84184YHDF0CDLrxu"
       },
@@ -58489,6 +58511,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Que Palabras",
+        "url": "https://open.spotify.com/album/0LUFuSfEP0eKUSu8mEj7Wf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245293,
+      "name": "M\u00e1s Que Palabras",
+      "url": "https://open.spotify.com/track/0DaFowAqjlEbisMddK326N"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Que Perfecta",
         "url": "https://open.spotify.com/album/1QxDZJJjtY5Z0lLW8QPoeK"
       },
@@ -67151,7 +67191,7 @@
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 140620,
+      "duration_ms": 202064,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/20JOMOGgkSjmiGGKu1lGjl"
     },
@@ -69414,6 +69454,36 @@
       "duration_ms": 200842,
       "name": "Ponte La 10",
       "url": "https://open.spotify.com/track/7BTZzDl2yiRc8ICoFK6Po2"
+    },
+    {
+      "album": {
+        "name": "Benedicto",
+        "url": "https://open.spotify.com/album/4hqG8ZTTKU3AFVykyw2CIy"
+      },
+      "artists": [
+        {
+          "name": "NATIVO PRADA",
+          "url": "https://open.spotify.com/artist/5hpTBWuc77KZmvW2NVB3aB"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "MKAA",
+          "url": "https://open.spotify.com/artist/5jYiEg2LZRI3chJAT5UXNC"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170307,
+      "name": "Popo Ropo Remix",
+      "url": "https://open.spotify.com/track/24M4kc57vNopIJeJMoN8KH"
     },
     {
       "album": {
@@ -88382,60 +88452,6 @@
       "duration_ms": 283125,
       "name": "Tqg",
       "url": "https://open.spotify.com/track/2ss4k10PdYJQTyxIucJX7n"
-    },
-    {
-      "album": {
-        "name": "M\u00e1s Que Palabras",
-        "url": "https://open.spotify.com/album/0LUFuSfEP0eKUSu8mEj7Wf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "date_added": "2026-05-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/0DaFowAqjlEbisMddK326N"
-    },
-    {
-      "album": {
-        "name": "The World Meets Los Mirlos",
-        "url": "https://open.spotify.com/album/0WDu5tUg69jIZRrIy9dsLx"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "date_added": "2026-05-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/69eH4RW7DqhhOo1zhlGwRG"
-    },
-    {
-      "album": {
-        "name": "Benedicto",
-        "url": "https://open.spotify.com/album/4hqG8ZTTKU3AFVykyw2CIy"
-      },
-      "artists": [
-        {
-          "name": "NATIVO PRADA",
-          "url": "https://open.spotify.com/artist/5hpTBWuc77KZmvW2NVB3aB"
-        }
-      ],
-      "date_added": "2026-05-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/24M4kc57vNopIJeJMoN8KH"
     },
     {
       "album": {

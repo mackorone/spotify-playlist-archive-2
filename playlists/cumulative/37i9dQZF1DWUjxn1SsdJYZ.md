@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Kobie Dee
 
-1,562 songs - 3 day 0 hr 43 min
+1,562 songs - 3 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -848,6 +848,7 @@
 | [Mind My French](https://open.spotify.com/track/5S3V5vTQQwdNiXbjCE8wCd) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [Mind My French](https://open.spotify.com/album/2vd2M2XCE0aJovR5DpGeYp) | 2:49 | 2025-07-10 | 2025-10-24 |
 | [Mindless Exchanges](https://open.spotify.com/track/0D8hvuBYi7G5IvEdUuCpgO) | [Agung Mango](https://open.spotify.com/artist/1XXBwJeXvPE1PdXWjJLuXf), [Eric Spice](https://open.spotify.com/artist/6QESzAv0RlIn1sKeHkNTeE), [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251) | [An Empty Chant](https://open.spotify.com/album/3u5uAojuu9CLEql5n1JBge) | 3:09 | 2025-03-28 | 2025-04-25 |
 | [Miracle](https://open.spotify.com/track/7E7VIjMLTtF0zVXib89ynb) | [Mikey G](https://open.spotify.com/artist/25niOfSoj3aza7VTVAvpvb) | [Miracle](https://open.spotify.com/album/5gce06rCTR0REWrp74uRoo) | 3:25 | 2025-06-05 | 2025-07-25 |
+| [Miss Independent](https://open.spotify.com/track/2RSaKYZsVd9Px5ZLyH1fy7) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Love Songs For The Streets](https://open.spotify.com/album/3fdsFwfBPE618kDPu3AzQ9) | 2:33 | 2026-05-14 |  |
 | [Miss You Still](https://open.spotify.com/track/0SarTtshZyZMdLB6KdClab) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Miss You Still](https://open.spotify.com/album/2Ji8E0Cm2RzoJWRNoKTJVt) | 2:30 | 2024-05-16 | 2024-07-19 |
 | [Missing You](https://open.spotify.com/track/6y7bGmhOmTcdrCChF4iIK8) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Missing You](https://open.spotify.com/album/15MCsYjHBiBfEToH6CGq5R) | 2:42 | 2025-07-24 | 2025-10-10 |
 | [MISSY](https://open.spotify.com/track/0s1JX4cVN4jVNfFhBylUoc) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [MISSY](https://open.spotify.com/album/3rtoCKsQ2nZYzUkO21gKsX) | 2:04 | 2023-09-28 | 2024-04-19 |
@@ -1390,7 +1391,6 @@
 | [Tough Love](https://open.spotify.com/track/7JmctumoH7K1lDaKlx5I6q) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Tough Love / No Other](https://open.spotify.com/album/1WYpq3GHsaOCsHpC7ezJca) | 2:18 | 2025-10-23 | 2025-11-28 |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-08-16 |
-| [Track 2](https://open.spotify.com/track/2RSaKYZsVd9Px5ZLyH1fy7) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Love Songs For The Streets](https://open.spotify.com/album/3fdsFwfBPE618kDPu3AzQ9) | 0:00 | 2026-05-14 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 | 2022-12-04 | 2023-01-20 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 | 2022-12-05 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-02 | 2023-04-21 |

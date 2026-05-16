@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Adam Ten
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,322 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,365 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 3 | [What Is Luv](https://open.spotify.com/track/6cbUxwLzwFKxHRrkKocDno) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [What Is Luv](https://open.spotify.com/album/1NDF0g1a4mEtG5x9aLOBub) | 3:54 |
 | 4 | [U Ain't Lyin'](https://open.spotify.com/track/2Jiax1WNF2PvupJP0Rn6EL) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [All Stars 10](https://open.spotify.com/album/4BgswkEYUQ1Cn7WVXbDwYi) | 3:38 |
 | 5 | [The Only One \- Radio Edit](https://open.spotify.com/track/3eEdbkAYt1mYKDoHYzc4Ig) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp), [Karl Williams](https://open.spotify.com/artist/6F7RlpNDeVEeiwt5EaA6fE) | [The Only One](https://open.spotify.com/album/1xj0AHYzc0hxmAKHW1vuHS) | 5:08 |
-| 6 | [Track 4](https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Shake Down EP](https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1) | 0:00 |
+| 6 | [Alex](https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Shake Down EP](https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1) | 4:41 |
 | 7 | [Joyride](https://open.spotify.com/track/2nXM4YTwkUPGzSG848Wxjx) | [Mary Jane](https://open.spotify.com/artist/33JXsS1fs0UYg1W7LwSzHo) | [Joyride](https://open.spotify.com/album/6mztEHqv00R5TZBWR6Fhr4) | 5:00 |
 | 8 | [So Divine](https://open.spotify.com/track/3Jw0Ll8KQ58RvNMZXgA7Aq) | [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv) | [So Divine EP](https://open.spotify.com/album/5OCpYdpNDtgpouukkMNQPs) | 3:09 |
 | 9 | [A Gira \(with Emanuel Satie, Maga, Sean Doron, Tim Engelhardt & Scenarios\) \- Remix](https://open.spotify.com/track/77kExLr3RKN77SYcVEZZ14) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Scenarios](https://open.spotify.com/artist/67Y8oTELtWBk3MncBMCG1H), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [A Gira \(with Emanuel Satie, Maga, Sean Doron, Tim Engelhardt & Scenarios\) \[Remix\]](https://open.spotify.com/album/33ryXYhRDCEqDH86X8CRx8) | 2:55 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 19 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 |
 | 20 | [Sunday Routine](https://open.spotify.com/track/3GAAROhEVPSXEjWxESvTiZ) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Sunday Routine](https://open.spotify.com/album/6KQoTPbf0pUWuZvrg1Zm88) | 3:42 |
 | 21 | [Atonement](https://open.spotify.com/track/0wY3lSkIzsRX5qf2ymW0ea) | [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv) | [So Divine EP](https://open.spotify.com/album/5OCpYdpNDtgpouukkMNQPs) | 3:42 |
-| 22 | [Track 1](https://open.spotify.com/track/2wjJc5f7Xy4EksJvv40qUv) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Friends](https://open.spotify.com/album/5jm2SNw5FX4YUVeB8qCXOI) | 0:00 |
+| 22 | [My Friend](https://open.spotify.com/track/2wjJc5f7Xy4EksJvv40qUv) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Friends](https://open.spotify.com/album/5jm2SNw5FX4YUVeB8qCXOI) | 4:34 |
 | 23 | [Say That](https://open.spotify.com/track/26BOjvrFDJHxD6HQUQqIcn) | [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6), [Millero](https://open.spotify.com/artist/1g3D0SFLbUx6nuGgLSuegX) | [Say That](https://open.spotify.com/album/1I8uHbZc7ZQTEX2O2Cqm4O) | 3:21 |
 | 24 | [Ascension](https://open.spotify.com/track/2BYIeXYCuMROGM3tZqUGJg) | [Jörgen](https://open.spotify.com/artist/5VyeEMMtjmwHLmbXj0T3uM) | [Ascension](https://open.spotify.com/album/5sPlmU8wfKE5AHn2CnHYcA) | 4:44 |
 | 25 | [Give It All](https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Give It All](https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d) | 2:59 |

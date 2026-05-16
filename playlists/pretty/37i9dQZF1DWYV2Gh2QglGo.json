@@ -1,60 +1,44 @@
 {
-  "description": "The home of Canadian country music. Cover: Kalsey Kulyk",
-  "num_followers": 83940,
+  "description": "The home of Canadian country music. Cover: Shania Twain",
+  "num_followers": 83945,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ0AvMDZW3pvMrxp44H1QjR/k/4o",
+  "snapshot_id": "AAAAAGSIrHMgosDN4vR9cl2AQ8t/zpo2",
   "tracks": [
     {
-      "added_at": "2026-05-08 04:05:38",
+      "added_at": "2026-05-15 04:03:14",
       "album": {
-        "name": "Little Boy",
-        "url": "https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy"
+        "name": "Dirty Rosie",
+        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
       },
       "artists": [
         {
-          "name": "Kalsey Kulyk",
-          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 218141,
-      "name": "Little Boy",
-      "url": "https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW"
+      "duration_ms": 166792,
+      "name": "Dirty Rosie",
+      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
     },
     {
-      "added_at": "2026-05-08 04:05:38",
+      "added_at": "2026-04-17 04:05:01",
       "album": {
-        "name": "Tethered",
-        "url": "https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL"
+        "name": "Deep Water",
+        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
       },
       "artists": [
         {
-          "name": "Lucas Mason",
-          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
         }
       ],
-      "duration_ms": 241686,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6"
-    },
-    {
-      "added_at": "2026-05-08 04:05:38",
-      "album": {
-        "name": "Why On Earth",
-        "url": "https://open.spotify.com/album/6Qk7iW6zUycGSDoWCiVzV8"
-      },
-      "artists": [
-        {
-          "name": "Shantaia",
-          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Why On Earth",
-      "url": "https://open.spotify.com/track/4hprLONLP4nq3K7U09XslR"
+      "duration_ms": 153069,
+      "name": "Deep Water",
+      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
     },
     {
       "added_at": "2026-04-03 04:04:15",
@@ -73,6 +57,86 @@
       "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
     },
     {
+      "added_at": "2026-05-08 04:05:38",
+      "album": {
+        "name": "Tethered",
+        "url": "https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mason",
+          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+        }
+      ],
+      "duration_ms": 241686,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6"
+    },
+    {
+      "added_at": "2026-05-15 04:03:14",
+      "album": {
+        "name": "Buckin' Time",
+        "url": "https://open.spotify.com/album/3gJOBumSAiaKALhHh61BeJ"
+      },
+      "artists": [
+        {
+          "name": "The Wild Palominos",
+          "url": "https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO"
+        }
+      ],
+      "duration_ms": 211818,
+      "name": "Buckin' Time",
+      "url": "https://open.spotify.com/track/0vngx1kZ2Y38BPFYg0zE6O"
+    },
+    {
+      "added_at": "2026-05-15 04:03:14",
+      "album": {
+        "name": "Smooth Runnin'",
+        "url": "https://open.spotify.com/album/4TUltZG7FSdsplQFTSjWYV"
+      },
+      "artists": [
+        {
+          "name": "Delta Sweet",
+          "url": "https://open.spotify.com/artist/50y7lUCZOffDQNaQ6QVlPx"
+        }
+      ],
+      "duration_ms": 187150,
+      "name": "Smooth Runnin'",
+      "url": "https://open.spotify.com/track/2PeMkcxVPG0S8JBXZ04fEn"
+    },
+    {
+      "added_at": "2026-05-15 04:03:14",
+      "album": {
+        "name": "Sorry (Country Version)",
+        "url": "https://open.spotify.com/album/5eBkSxZKyGprzAvaKe75wT"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 197224,
+      "name": "Sorry - Country Version",
+      "url": "https://open.spotify.com/track/4zjJQpfb5fKRsRnXLrMy7G"
+    },
+    {
+      "added_at": "2026-05-08 04:05:38",
+      "album": {
+        "name": "Why On Earth",
+        "url": "https://open.spotify.com/album/6Qk7iW6zUycGSDoWCiVzV8"
+      },
+      "artists": [
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Why On Earth",
+      "url": "https://open.spotify.com/track/4hprLONLP4nq3K7U09XslR"
+    },
+    {
       "added_at": "2026-04-17 04:05:01",
       "album": {
         "name": "In The Feeling",
@@ -87,6 +151,150 @@
       "duration_ms": 200623,
       "name": "Rest Of My",
       "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
+    },
+    {
+      "added_at": "2026-05-15 04:03:14",
+      "album": {
+        "name": "Small Town Livin'",
+        "url": "https://open.spotify.com/album/2HcA9JfsHF2g8AFnykVFC4"
+      },
+      "artists": [
+        {
+          "name": "Dallas Alexander",
+          "url": "https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Small Town Livin'",
+      "url": "https://open.spotify.com/track/75itNJKchO03eboJuCSiq3"
+    },
+    {
+      "added_at": "2026-05-15 04:03:14",
+      "album": {
+        "name": "I've Got a Keg",
+        "url": "https://open.spotify.com/album/0AeFwdmKMfeCJVkicdIc1l"
+      },
+      "artists": [
+        {
+          "name": "Justin Fancy",
+          "url": "https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj"
+        }
+      ],
+      "duration_ms": 218947,
+      "name": "I've Got a Keg",
+      "url": "https://open.spotify.com/track/52XmxHMoAUSrkCZiD2OBWw"
+    },
+    {
+      "added_at": "2026-04-24 04:04:47",
+      "album": {
+        "name": "MISERY",
+        "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+        }
+      ],
+      "duration_ms": 212581,
+      "name": "MISERY",
+      "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
+    },
+    {
+      "added_at": "2026-05-15 04:03:14",
+      "album": {
+        "name": "got me good",
+        "url": "https://open.spotify.com/album/6R7PeFmfgKpSxgSGuoHw6j"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "duration_ms": 169309,
+      "name": "got me good",
+      "url": "https://open.spotify.com/track/6yPGzAdjpbOWz65bx2rbNX"
+    },
+    {
+      "added_at": "2026-05-08 04:05:38",
+      "album": {
+        "name": "Little Boy",
+        "url": "https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "duration_ms": 218141,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW"
+    },
+    {
+      "added_at": "2026-04-24 04:04:47",
+      "album": {
+        "name": "The Way I Know You Now",
+        "url": "https://open.spotify.com/album/1LRPntWeUXZauPxf8oBEhf"
+      },
+      "artists": [
+        {
+          "name": "Zach McPhee",
+          "url": "https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN"
+        }
+      ],
+      "duration_ms": 172301,
+      "name": "The Way I Know You Now",
+      "url": "https://open.spotify.com/track/0po2VGEzWtCtsfpAJfgRkU"
+    },
+    {
+      "added_at": "2026-05-15 04:03:14",
+      "album": {
+        "name": "Bad Weather",
+        "url": "https://open.spotify.com/album/2XvglEycq8eGDXVs59s45L"
+      },
+      "artists": [
+        {
+          "name": "Sheri Marie Ptolemy",
+          "url": "https://open.spotify.com/artist/1FSvvr0FJTrRRqinxwzBH7"
+        }
+      ],
+      "duration_ms": 219568,
+      "name": "Bad Weather",
+      "url": "https://open.spotify.com/track/0xTUAjetB5iZrm18btwJ5Z"
+    },
+    {
+      "added_at": "2026-04-24 04:04:47",
+      "album": {
+        "name": "Two-Lane Testimony",
+        "url": "https://open.spotify.com/album/2IjBSgu75CoQpUdjROSTPB"
+      },
+      "artists": [
+        {
+          "name": "Josh Stumpf",
+          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
+        }
+      ],
+      "duration_ms": 212205,
+      "name": "Johnnie Walker (Back to Me)",
+      "url": "https://open.spotify.com/track/7sObNFmO0LiCaeo2nK2TIq"
+    },
+    {
+      "added_at": "2026-05-15 04:03:14",
+      "album": {
+        "name": "If I\u2019m Still Here",
+        "url": "https://open.spotify.com/album/10nH45WSBMECJ16qs3hAbU"
+      },
+      "artists": [
+        {
+          "name": "Dylan Burk",
+          "url": "https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx"
+        }
+      ],
+      "duration_ms": 213461,
+      "name": "If I\u2019m Still Here",
+      "url": "https://open.spotify.com/track/4xPF37muZeLcYs8pf8CONc"
     },
     {
       "added_at": "2026-05-08 04:05:38",
@@ -121,38 +329,6 @@
       "url": "https://open.spotify.com/track/5p4rAajj1Osq1aS8vFBgdO"
     },
     {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "Two-Lane Testimony",
-        "url": "https://open.spotify.com/album/2IjBSgu75CoQpUdjROSTPB"
-      },
-      "artists": [
-        {
-          "name": "Josh Stumpf",
-          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
-        }
-      ],
-      "duration_ms": 212205,
-      "name": "Johnnie Walker (Back to Me)",
-      "url": "https://open.spotify.com/track/7sObNFmO0LiCaeo2nK2TIq"
-    },
-    {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "MISERY",
-        "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
-      },
-      "artists": [
-        {
-          "name": "CARV",
-          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
-        }
-      ],
-      "duration_ms": 212581,
-      "name": "MISERY",
-      "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
-    },
-    {
       "added_at": "2026-05-08 04:05:38",
       "album": {
         "name": "More",
@@ -185,22 +361,6 @@
       "url": "https://open.spotify.com/track/6aPxQeKXniplK7r7a565i2"
     },
     {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "Deep Water",
-        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 153069,
-      "name": "Deep Water",
-      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
-    },
-    {
       "added_at": "2026-05-08 04:05:38",
       "album": {
         "name": "Longer Than A Little While",
@@ -231,22 +391,6 @@
       "duration_ms": 161245,
       "name": "Meant to Be Mine",
       "url": "https://open.spotify.com/track/2Ale0UYT2kuFfdtUrEFFfD"
-    },
-    {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "The Way I Know You Now",
-        "url": "https://open.spotify.com/album/1LRPntWeUXZauPxf8oBEhf"
-      },
-      "artists": [
-        {
-          "name": "Zach McPhee",
-          "url": "https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN"
-        }
-      ],
-      "duration_ms": 172301,
-      "name": "The Way I Know You Now",
-      "url": "https://open.spotify.com/track/0po2VGEzWtCtsfpAJfgRkU"
     },
     {
       "added_at": "2026-05-08 04:05:38",

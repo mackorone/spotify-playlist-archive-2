@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-570 songs - 1 day 7 hr 19 min
+572 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-01-12 | 2025-07-31 |
 | [My Life](https://open.spotify.com/track/2NDZ6i6UfOUSKgFiTQKbnv) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [My Life](https://open.spotify.com/album/7mjgGNr0d9YXywp7luOqHh) | 4:54 | 2020-09-13\* | 2022-09-03 |
 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 | 2021-04-30 | 2021-11-11 |
+| [Need You](https://open.spotify.com/track/7agDigat5F6DfXVDGbKYIq) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Need You](https://open.spotify.com/album/73zsO7hNKgGHEd2F3TQTPP) | 2:39 | 2026-05-15 |  |
 | [Needing Space](https://open.spotify.com/track/2QLDAd5vTn2wacico7aIDm) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Needing Space](https://open.spotify.com/album/5ZQH0ojDNdakVj4YLDpLJ4) | 3:32 | 2021-06-18 |  |
 | [Never Be the Same](https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU), [Agatha Saron](https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO) | [Never Be the Same \(Sons Of Maria vs\. Agatha Saron\)](https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U) | 3:20 | 2020-09-13\* | 2021-11-11 |
 | [Never Change](https://open.spotify.com/track/0cTvHN1nMaINu2cZFK87d8) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Change](https://open.spotify.com/album/28DnS842lod3ntK4UA7g27) | 3:15 | 2025-09-05 |  |
@@ -458,6 +459,7 @@
 | [Stay High \(VIP\) \[feat\. Julia Church\]](https://open.spotify.com/track/0EgrJVOPYVgsFiF5D0RKRV) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High \(feat\. Julia Church\) \[Zerb Remix\]](https://open.spotify.com/album/2QiJpXZC0xupQ2CAxsE5xJ) | 3:12 | 2024-02-23 | 2024-11-30 |
 | [Stay Right Here](https://open.spotify.com/track/0IDGbb3NY9pJoMzfkI4Jt4) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK), [Peer Pressure](https://open.spotify.com/artist/7ecIJx38Dwdtdguyzhvt4k) | [Stay Right Here](https://open.spotify.com/album/4z2hKkEoHtzfIzJFqPw3WH) | 2:48 | 2023-06-30 | 2025-07-31 |
 | [Stay With Me](https://open.spotify.com/track/6V1vqiEYqCM9202G61gzkQ) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Stay With Me](https://open.spotify.com/album/7CHlEFrIfo1OCq7iIMQnUQ) | 3:02 | 2023-07-28 | 2023-12-14 |
+| [Steps](https://open.spotify.com/track/6BInuwLPCZt6d5Oj1reZEZ) | [Daydream Affiliate](https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV) | [Steps](https://open.spotify.com/album/0t8qT7uMuOMQ27kFzZavnc) | 3:28 | 2026-05-15 |  |
 | [Still Be There \(feat\. Josh Tobias\)](https://open.spotify.com/track/4w6By5JzUpjc7IworHA5IB) | [Tim Hughes](https://open.spotify.com/artist/4WEMphmXl2F6iDiskozVez), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Still Be There \(feat\. Josh Tobias\)](https://open.spotify.com/album/6khyhgY2GMeTtIbAZ5pI5s) | 2:48 | 2021-12-04 | 2022-03-12 |
 | [Straight From The Heart \(feat\. Nørskov\)](https://open.spotify.com/track/4AqyqhDduUCYzwXcFIrhWL) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Nørskov](https://open.spotify.com/artist/5iC6qaicSqv8Wd7Q6dW0BH) | [Straight From The Heart \(feat\. Nørskov\)](https://open.spotify.com/album/4O0gBwGRlHkhsgWNBvtCZX) | 3:28 | 2021-06-19 | 2021-07-24 |
 | [Strings Attached](https://open.spotify.com/track/2Yp20FZndUt36hb0NJHZI8) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Arkaden](https://open.spotify.com/artist/2GSLyxjLJioTwuGZehuz7S), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Strings Attached](https://open.spotify.com/album/2LClegATV1tmJ0wgh6ePab) | 3:05 | 2022-07-15 | 2026-01-17 |

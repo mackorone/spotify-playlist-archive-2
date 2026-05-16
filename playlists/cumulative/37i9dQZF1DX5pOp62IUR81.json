@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 135347,
       "name": "I Love You Guys",
       "url": "https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu"
@@ -4158,6 +4158,24 @@
       "duration_ms": 75893,
       "name": "The Punisher Main Title",
       "url": "https://open.spotify.com/track/0rSJtqCSAkhKORRpJlk7pL"
+    },
+    {
+      "album": {
+        "name": "The Punisher: One Last Kill (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/55GpbjrB6e50qnvB9HHU1n"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137280,
+      "name": "The Punisher: One Last Kill",
+      "url": "https://open.spotify.com/track/0FloDfbM8ifR0uARY24gNL"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11657226,
+  "num_followers": 11659655,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPmor4sJVWRF9rt4GFLic/8tzF2+",
+  "snapshot_id": "AAAAAIqci53yM35VoJF2KmE17BDwmC+w",
   "tracks": [
     {
       "added_at": "2026-02-13 15:58:36",
@@ -57,26 +57,6 @@
       "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
     },
     {
-      "added_at": "2025-11-17 15:48:56",
-      "album": {
-        "name": "NO BATID\u00c3O",
-        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
-      },
-      "artists": [
-        {
-          "name": "ZXKAI",
-          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
-        },
-        {
-          "name": "slxughter",
-          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
-        }
-      ],
-      "duration_ms": 107933,
-      "name": "NO BATID\u00c3O - Slowed",
-      "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
-    },
-    {
       "added_at": "2026-03-22 01:21:26",
       "album": {
         "name": "MATADORA",
@@ -111,6 +91,26 @@
       "duration_ms": 121739,
       "name": "TIKI TIKI - Slowed",
       "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
+    },
+    {
+      "added_at": "2025-11-17 15:48:56",
+      "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "duration_ms": 107933,
+      "name": "NO BATID\u00c3O - Slowed",
+      "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
     },
     {
       "added_at": "2025-08-01 17:05:50",
@@ -221,24 +221,28 @@
       "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
     },
     {
-      "added_at": "2025-07-14 17:03:16",
+      "added_at": "2026-03-22 01:21:26",
       "album": {
-        "name": "MENTE M\u00c1",
-        "url": "https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv"
+        "name": "TAKA LA DENTRO",
+        "url": "https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE"
       },
       "artists": [
         {
-          "name": "Nakama",
-          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
+          "name": "SEKIMANE",
+          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
         },
         {
-          "name": "Mc Staff",
-          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
+          "name": "shonci",
+          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 75302,
-      "name": "MENTE M\u00c1",
-      "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
+      "duration_ms": 89809,
+      "name": "TAKA LA DENTRO",
+      "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
     },
     {
       "added_at": "2025-07-25 18:46:04",
@@ -281,28 +285,24 @@
       "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
     },
     {
-      "added_at": "2026-03-22 01:21:26",
+      "added_at": "2025-07-14 17:03:16",
       "album": {
-        "name": "TAKA LA DENTRO",
-        "url": "https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE"
+        "name": "MENTE M\u00c1",
+        "url": "https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv"
       },
       "artists": [
         {
-          "name": "SEKIMANE",
-          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
+          "name": "Nakama",
+          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
         },
         {
-          "name": "shonci",
-          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "Mc Staff",
+          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
         }
       ],
-      "duration_ms": 89809,
-      "name": "TAKA LA DENTRO",
-      "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
+      "duration_ms": 75302,
+      "name": "MENTE M\u00c1",
+      "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
     },
     {
       "added_at": "2026-03-06 14:00:09",
@@ -349,30 +349,6 @@
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
     },
     {
-      "added_at": "2026-03-13 13:55:22",
-      "album": {
-        "name": "MONTAGEM DOMER",
-        "url": "https://open.spotify.com/album/43EihSOXIPNrqMaPjEQsAH"
-      },
-      "artists": [
-        {
-          "name": "Paizo",
-          "url": "https://open.spotify.com/artist/1R7VmMOHe7I2hoAFUSloPK"
-        },
-        {
-          "name": "DJ LXILL",
-          "url": "https://open.spotify.com/artist/3A3vlTSTD6FJ8zTgSUdBzY"
-        },
-        {
-          "name": "DJ FallThox",
-          "url": "https://open.spotify.com/artist/2SE6mfDFx1U34XJsT48MUN"
-        }
-      ],
-      "duration_ms": 87093,
-      "name": "MONTAGEM DOMER - Super Slowed",
-      "url": "https://open.spotify.com/track/2h4amIvI8Qi2k7IFK3igKZ"
-    },
-    {
       "added_at": "2026-01-07 15:55:13",
       "album": {
         "name": "Fendi 2",
@@ -395,26 +371,6 @@
       "duration_ms": 90526,
       "name": "Fendi 2",
       "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
-    },
-    {
-      "added_at": "2025-06-30 15:54:16",
-      "album": {
-        "name": "Vem Vem",
-        "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
-      },
-      "artists": [
-        {
-          "name": "Jmilton",
-          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
-        },
-        {
-          "name": "MC Xangai",
-          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
-        }
-      ],
-      "duration_ms": 83183,
-      "name": "Vem Vem",
-      "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
     },
     {
       "added_at": "2025-05-02 15:58:53",
@@ -441,20 +397,28 @@
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
     },
     {
-      "added_at": "2026-03-27 16:00:08",
+      "added_at": "2026-03-13 13:55:22",
       "album": {
-        "name": "MONTAGEM TENTA",
-        "url": "https://open.spotify.com/album/12PzbfrtUPfMa7iiDgv4zj"
+        "name": "MONTAGEM DOMER",
+        "url": "https://open.spotify.com/album/43EihSOXIPNrqMaPjEQsAH"
       },
       "artists": [
         {
-          "name": "merunes",
-          "url": "https://open.spotify.com/artist/6BVew7phcmD5R1VEKV4cxa"
+          "name": "Paizo",
+          "url": "https://open.spotify.com/artist/1R7VmMOHe7I2hoAFUSloPK"
+        },
+        {
+          "name": "DJ LXILL",
+          "url": "https://open.spotify.com/artist/3A3vlTSTD6FJ8zTgSUdBzY"
+        },
+        {
+          "name": "DJ FallThox",
+          "url": "https://open.spotify.com/artist/2SE6mfDFx1U34XJsT48MUN"
         }
       ],
-      "duration_ms": 93038,
-      "name": "MONTAGEM TENTA - Slowed",
-      "url": "https://open.spotify.com/track/5WShZpWdfHKvWonA4ZUJHW"
+      "duration_ms": 87093,
+      "name": "MONTAGEM DOMER - Super Slowed",
+      "url": "https://open.spotify.com/track/2h4amIvI8Qi2k7IFK3igKZ"
     },
     {
       "added_at": "2025-07-25 18:46:04",
@@ -501,6 +465,94 @@
       "url": "https://open.spotify.com/track/2MzMxS2bByjQdbxt4tmkzI"
     },
     {
+      "added_at": "2026-05-15 15:15:08",
+      "album": {
+        "name": "MUTILATOR",
+        "url": "https://open.spotify.com/album/3cIfOF2VU2EpkZBhU7NHSR"
+      },
+      "artists": [
+        {
+          "name": "ZMAJOR",
+          "url": "https://open.spotify.com/artist/4nzcYFR90Ep4i3P6mlZSkP"
+        }
+      ],
+      "duration_ms": 109419,
+      "name": "MUTILATOR (SLOWED)",
+      "url": "https://open.spotify.com/track/0uYxQl1aLEhVBOEoMhF2tT"
+    },
+    {
+      "added_at": "2026-02-06 17:42:53",
+      "album": {
+        "name": "GOZALO",
+        "url": "https://open.spotify.com/album/2b5kmUGgnWXyh4Y0ohWW2b"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 120263,
+      "name": "GOZALO - Slowed",
+      "url": "https://open.spotify.com/track/35egmKvIZbJjbirRX7OFGe"
+    },
+    {
+      "added_at": "2025-06-30 15:54:16",
+      "album": {
+        "name": "Vem Vem",
+        "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
+      },
+      "artists": [
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        }
+      ],
+      "duration_ms": 83183,
+      "name": "Vem Vem",
+      "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
+    },
+    {
+      "added_at": "2026-05-01 15:50:01",
+      "album": {
+        "name": "FUNK ABNORMAL",
+        "url": "https://open.spotify.com/album/1L2kODY4rShKP0phbzgys3"
+      },
+      "artists": [
+        {
+          "name": "DJ V12",
+          "url": "https://open.spotify.com/artist/0PEgH2YVz5tadElsDE8ZpD"
+        },
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "duration_ms": 101410,
+      "name": "FUNK ABNORMAL - SLOWED",
+      "url": "https://open.spotify.com/track/1BoDSjzUW6Bjf8JjHmY6D2"
+    },
+    {
+      "added_at": "2026-03-27 16:00:08",
+      "album": {
+        "name": "MONTAGEM TENTA",
+        "url": "https://open.spotify.com/album/12PzbfrtUPfMa7iiDgv4zj"
+      },
+      "artists": [
+        {
+          "name": "merunes",
+          "url": "https://open.spotify.com/artist/6BVew7phcmD5R1VEKV4cxa"
+        }
+      ],
+      "duration_ms": 93038,
+      "name": "MONTAGEM TENTA - Slowed",
+      "url": "https://open.spotify.com/track/5WShZpWdfHKvWonA4ZUJHW"
+    },
+    {
       "added_at": "2026-02-06 17:42:53",
       "album": {
         "name": "REVENGE !",
@@ -521,20 +573,28 @@
       "url": "https://open.spotify.com/track/3ZEUbnmVPwGRhLm28QzXkI"
     },
     {
-      "added_at": "2025-09-26 14:24:18",
+      "added_at": "2026-03-06 14:00:09",
       "album": {
-        "name": "envy",
-        "url": "https://open.spotify.com/album/4KtkPcD2WUXZUW7ibEI25d"
+        "name": "MONTAGEM UNKNOWN",
+        "url": "https://open.spotify.com/album/0jz8txoELkgDDlJ2NWZEsZ"
       },
       "artists": [
         {
-          "name": "slxughter",
-          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+          "name": "AKXNESHIVA",
+          "url": "https://open.spotify.com/artist/3LXZBeAgQEX0BdDq8g9CXD"
+        },
+        {
+          "name": "Avenxir",
+          "url": "https://open.spotify.com/artist/4Q2hJ2sAi0Tw1G5Gxv668a"
+        },
+        {
+          "name": "HamiBeats",
+          "url": "https://open.spotify.com/artist/2nv6vP5WuDHsI4PxXhM5Wi"
         }
       ],
-      "duration_ms": 126401,
-      "name": "envy - slowed",
-      "url": "https://open.spotify.com/track/57Ju5lrvYBZJvmxKFrtzSt"
+      "duration_ms": 80879,
+      "name": "MONTAGEM UNKNOWN - Slowed",
+      "url": "https://open.spotify.com/track/62n9gOtXkZZM4ielTvJI00"
     },
     {
       "added_at": "2024-07-05 13:50:01",
@@ -551,6 +611,34 @@
       "duration_ms": 149522,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
+    },
+    {
+      "added_at": "2026-04-24 16:36:44",
+      "album": {
+        "name": "Nervy Funk",
+        "url": "https://open.spotify.com/album/0Y4lL1j9XikSvmkV3EBhaX"
+      },
+      "artists": [
+        {
+          "name": "DJ KVNXD",
+          "url": "https://open.spotify.com/artist/3vQ1gsZp0nDDTqzTYo4qih"
+        },
+        {
+          "name": "Dj Zidzz",
+          "url": "https://open.spotify.com/artist/5Sx8Q1pGJcAK3UGHZ2qq2N"
+        },
+        {
+          "name": "BRTS7",
+          "url": "https://open.spotify.com/artist/04H6h6RYseXvpjRTmc3lTw"
+        },
+        {
+          "name": "DJ ALGUS ZL",
+          "url": "https://open.spotify.com/artist/18iXllw5RiVqGnMBl2Eny2"
+        }
+      ],
+      "duration_ms": 102394,
+      "name": "Nervy Funk - Ultra Slowed",
+      "url": "https://open.spotify.com/track/2cbxj8sawxD8tIz4IARGWA"
     },
     {
       "added_at": "2025-02-28 15:27:21",
@@ -577,52 +665,20 @@
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
     },
     {
-      "added_at": "2025-04-25 14:06:35",
+      "added_at": "2026-03-06 14:00:09",
       "album": {
-        "name": "MONTAGEM BAIL\u00c3O",
-        "url": "https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ"
+        "name": "LUZ ROJA",
+        "url": "https://open.spotify.com/album/4NHFS2rkWqSWooSdt3CLmQ"
       },
       "artists": [
         {
-          "name": "Repsaj",
-          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
-        },
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        },
-        {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
-        },
-        {
-          "name": "Mc Jhey",
-          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
+          "name": "bxkq",
+          "url": "https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW"
         }
       ],
-      "duration_ms": 103727,
-      "name": "MONTAGEM BAIL\u00c3O",
-      "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
-    },
-    {
-      "added_at": "2026-05-01 15:50:01",
-      "album": {
-        "name": "FUNK ABNORMAL",
-        "url": "https://open.spotify.com/album/1L2kODY4rShKP0phbzgys3"
-      },
-      "artists": [
-        {
-          "name": "DJ V12",
-          "url": "https://open.spotify.com/artist/0PEgH2YVz5tadElsDE8ZpD"
-        },
-        {
-          "name": "SXID",
-          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
-        }
-      ],
-      "duration_ms": 101410,
-      "name": "FUNK ABNORMAL - SLOWED",
-      "url": "https://open.spotify.com/track/1BoDSjzUW6Bjf8JjHmY6D2"
+      "duration_ms": 122924,
+      "name": "LUZ ROJA - Slowed",
+      "url": "https://open.spotify.com/track/4NH7KpFmBfE5yskuVRDqce"
     },
     {
       "added_at": "2025-02-28 15:27:21",
@@ -657,22 +713,6 @@
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
-      "added_at": "2026-02-06 17:42:53",
-      "album": {
-        "name": "GOZALO",
-        "url": "https://open.spotify.com/album/2b5kmUGgnWXyh4Y0ohWW2b"
-      },
-      "artists": [
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 120263,
-      "name": "GOZALO - Slowed",
-      "url": "https://open.spotify.com/track/35egmKvIZbJjbirRX7OFGe"
-    },
-    {
       "added_at": "2024-03-22 16:01:00",
       "album": {
         "name": "CUTE DEPRESSED",
@@ -705,28 +745,48 @@
       "url": "https://open.spotify.com/track/5Ls7xSu1mqG13LRrXBHD8q"
     },
     {
-      "added_at": "2026-03-06 14:00:09",
+      "added_at": "2025-04-25 14:06:35",
       "album": {
-        "name": "MONTAGEM UNKNOWN",
-        "url": "https://open.spotify.com/album/0jz8txoELkgDDlJ2NWZEsZ"
+        "name": "MONTAGEM BAIL\u00c3O",
+        "url": "https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ"
       },
       "artists": [
         {
-          "name": "AKXNESHIVA",
-          "url": "https://open.spotify.com/artist/3LXZBeAgQEX0BdDq8g9CXD"
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
         },
         {
-          "name": "Avenxir",
-          "url": "https://open.spotify.com/artist/4Q2hJ2sAi0Tw1G5Gxv668a"
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
         },
         {
-          "name": "HamiBeats",
-          "url": "https://open.spotify.com/artist/2nv6vP5WuDHsI4PxXhM5Wi"
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        },
+        {
+          "name": "Mc Jhey",
+          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
         }
       ],
-      "duration_ms": 80879,
-      "name": "MONTAGEM UNKNOWN - Slowed",
-      "url": "https://open.spotify.com/track/62n9gOtXkZZM4ielTvJI00"
+      "duration_ms": 103727,
+      "name": "MONTAGEM BAIL\u00c3O",
+      "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
+    },
+    {
+      "added_at": "2025-09-26 14:24:18",
+      "album": {
+        "name": "envy",
+        "url": "https://open.spotify.com/album/4KtkPcD2WUXZUW7ibEI25d"
+      },
+      "artists": [
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "duration_ms": 126401,
+      "name": "envy - slowed",
+      "url": "https://open.spotify.com/track/57Ju5lrvYBZJvmxKFrtzSt"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -747,34 +807,6 @@
       "duration_ms": 96923,
       "name": "SPOOKY",
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2026-04-24 16:36:44",
-      "album": {
-        "name": "Nervy Funk",
-        "url": "https://open.spotify.com/album/0Y4lL1j9XikSvmkV3EBhaX"
-      },
-      "artists": [
-        {
-          "name": "DJ KVNXD",
-          "url": "https://open.spotify.com/artist/3vQ1gsZp0nDDTqzTYo4qih"
-        },
-        {
-          "name": "Dj Zidzz",
-          "url": "https://open.spotify.com/artist/5Sx8Q1pGJcAK3UGHZ2qq2N"
-        },
-        {
-          "name": "BRTS7",
-          "url": "https://open.spotify.com/artist/04H6h6RYseXvpjRTmc3lTw"
-        },
-        {
-          "name": "DJ ALGUS ZL",
-          "url": "https://open.spotify.com/artist/18iXllw5RiVqGnMBl2Eny2"
-        }
-      ],
-      "duration_ms": 102394,
-      "name": "Nervy Funk - Ultra Slowed",
-      "url": "https://open.spotify.com/track/2cbxj8sawxD8tIz4IARGWA"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -813,30 +845,6 @@
       "url": "https://open.spotify.com/track/38dHd7r4mSSVhRvVulD1na"
     },
     {
-      "added_at": "2025-08-11 21:16:02",
-      "album": {
-        "name": "DOORS LIGHT FUNK",
-        "url": "https://open.spotify.com/album/1oH6V6BqazPBkXKAbGuDZV"
-      },
-      "artists": [
-        {
-          "name": "DJ VTTT77",
-          "url": "https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X"
-        },
-        {
-          "name": "DJ VYZ",
-          "url": "https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F"
-        },
-        {
-          "name": "Mc Rd",
-          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
-        }
-      ],
-      "duration_ms": 103495,
-      "name": "DOORS LIGHT FUNK - SLOWED",
-      "url": "https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR"
-    },
-    {
       "added_at": "2024-05-17 14:03:55",
       "album": {
         "name": "Eu Sento Gabu!",
@@ -871,22 +879,6 @@
       "duration_ms": 77206,
       "name": "FINA LANA",
       "url": "https://open.spotify.com/track/4qv2RLROjDDmnVTeVHVmpy"
-    },
-    {
-      "added_at": "2026-03-06 14:00:09",
-      "album": {
-        "name": "LUZ ROJA",
-        "url": "https://open.spotify.com/album/4NHFS2rkWqSWooSdt3CLmQ"
-      },
-      "artists": [
-        {
-          "name": "bxkq",
-          "url": "https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW"
-        }
-      ],
-      "duration_ms": 122924,
-      "name": "LUZ ROJA - Slowed",
-      "url": "https://open.spotify.com/track/4NH7KpFmBfE5yskuVRDqce"
     },
     {
       "added_at": "2026-02-06 17:42:53",
@@ -927,6 +919,30 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "added_at": "2025-08-11 21:16:02",
+      "album": {
+        "name": "DOORS LIGHT FUNK",
+        "url": "https://open.spotify.com/album/1oH6V6BqazPBkXKAbGuDZV"
+      },
+      "artists": [
+        {
+          "name": "DJ VTTT77",
+          "url": "https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X"
+        },
+        {
+          "name": "DJ VYZ",
+          "url": "https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        }
+      ],
+      "duration_ms": 103495,
+      "name": "DOORS LIGHT FUNK - SLOWED",
+      "url": "https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR"
     },
     {
       "added_at": "2024-11-15 15:00:00",
@@ -1383,22 +1399,6 @@
       "duration_ms": 67596,
       "name": "VAPO NO SETOR",
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"
-    },
-    {
-      "added_at": "2024-04-26 14:45:00",
-      "album": {
-        "name": "Funk of Gal\u00e1ctico",
-        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
-      },
-      "artists": [
-        {
-          "name": "SXID",
-          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "Funk of Gal\u00e1ctico",
-      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
     },
     {
       "added_at": "2022-05-13 04:02:00",

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123941,
+  "num_followers": 123940,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVY1yEM5Kky+c0knxxzW08Yltx7UNg",
+  "snapshot_id": "AAAVZBSvnK8zg9DFhRioPdlUy+7hZHr7",
   "tracks": [
+    {
+      "added_at": "2026-05-15 13:23:00",
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/2kF5dv4paXL6FrnULatMg9"
+      },
+      "artists": [
+        {
+          "name": "TANTRON",
+          "url": "https://open.spotify.com/artist/6HTp9Q7rmHmQjatn98BLAi"
+        },
+        {
+          "name": "Wiguez",
+          "url": "https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU"
+        },
+        {
+          "name": "Moneo",
+          "url": "https://open.spotify.com/artist/6K6iokRdBoOaZiItaX6bYJ"
+        }
+      ],
+      "duration_ms": 207292,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/7I476tfODLKX0ZydqPcZpX"
+    },
     {
       "added_at": "2026-05-14 12:59:49",
       "album": {

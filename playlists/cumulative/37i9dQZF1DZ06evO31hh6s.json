@@ -58,7 +58,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 277706,
       "name": "13 Goin' On 30",
       "url": "https://open.spotify.com/track/67CrJ4YmYTbmsMtNi6dqVh"
@@ -1088,6 +1088,24 @@
           "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
         }
       ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184659,
+      "name": "Eazy Come Eazy Go (feat. Malachi)",
+      "url": "https://open.spotify.com/track/56gjj1LNXTaNQdldzvtqzS"
+    },
+    {
+      "album": {
+        "name": "Son of God",
+        "url": "https://open.spotify.com/album/3urVMZt4Oej0afNgNRuJuD"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
       "date_removed": "2025-11-11",
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 182131,
       "name": "Fire In My Soul",
       "url": "https://open.spotify.com/track/6g8tMYVLdRG08vbDpNfxeP"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 213564,
       "name": "GANG",
       "url": "https://open.spotify.com/track/1OisrdyrsLdmz7IrmUBQCp"
@@ -2153,6 +2171,40 @@
     },
     {
       "album": {
+        "name": "Noble Justice: The Lost Songs",
+        "url": "https://open.spotify.com/album/6bjW7AymdOPfmO3Ve1CGXz"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "E.D.I. Mean",
+          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
+        },
+        {
+          "name": "Napoleon",
+          "url": "https://open.spotify.com/artist/666IIaxis8fAPLQ1Uva457"
+        },
+        {
+          "name": "Newchild",
+          "url": "https://open.spotify.com/artist/2MmO453eo3pOdVLq4xIIFO"
+        },
+        {
+          "name": "Hussein Fatal",
+          "url": "https://open.spotify.com/artist/320OQx68FlvfJiPGSx5mxW"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257253,
+      "name": "Killaz In Here",
+      "url": "https://open.spotify.com/track/5GowLqkKlJUnpiXuioOBWQ"
+    },
+    {
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/3N7Og743HnTDJ9qWk0E5u2"
       },
@@ -2388,7 +2440,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 196992,
       "name": "Life Iz Good",
       "url": "https://open.spotify.com/track/0wBmxPvIZ9PMwFiXfyG8UZ"
@@ -2804,7 +2856,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 269626,
       "name": "Noble Justice",
       "url": "https://open.spotify.com/track/6OtsT3jPVmnrVmA85Z33Md"
@@ -3404,7 +3456,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 64128,
       "name": "Rap God",
       "url": "https://open.spotify.com/track/6bDCSfBOCbHgJq3Tv7RQjW"
@@ -4444,7 +4496,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 301581,
       "name": "UMotherfuckerU",
       "url": "https://open.spotify.com/track/4kaNicV2wiezVeeyPL498c"
@@ -4810,7 +4862,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 188074,
       "name": "Wounds (feat. Young Noble)",
       "url": "https://open.spotify.com/track/38Q3yhF4CYwMNe6lQ9Gzi1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 320 likes - 2,287 songs - 5 day 15 hr 19 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 320 likes - 2,290 songs - 5 day 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2295,5 +2295,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2285 | [When The Tornado Comes](https://open.spotify.com/track/7394SpkcD7WUtx3OWis2YV) | [Adam Aronson](https://open.spotify.com/artist/5lrLb0jXN8RE9HMFLtnN9X) | [When The Tornado Comes](https://open.spotify.com/album/7ncobca1PIxSqABQGQEP4Z) | 3:10 |
 | 2286 | [Te Tīmatanga \(Te Pū\)](https://open.spotify.com/track/2FIF4VZmClzDeA3OSvQeuZ) | [Toroa](https://open.spotify.com/artist/3s7ob7yKHjS7z0yb6dp9C7) | [Te Tīmatanga](https://open.spotify.com/album/5sznJKnLWxiGq04Y7R0Um1) | 6:07 |
 | 2287 | [Riddim In Dub](https://open.spotify.com/track/2er9UkwfQgKXhOtExYKNzn) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Zion Train](https://open.spotify.com/artist/6sDKfmMPaTI7MYeFoNFrg7), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Astral Vision](https://open.spotify.com/album/4skr9ieBSHKCa52ivYa7hy) | 5:51 |
+| 2288 | [Light of the Angels](https://open.spotify.com/track/4Aa9uXRXo1WVXbRQ1nll6N) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [Light of the Angels](https://open.spotify.com/album/3a3TpxB3nygVF9wcj4YyBA) | 2:14 |
+| 2289 | [My Life](https://open.spotify.com/track/22it1yLanqga1DevYiSPz8) | [Slimeytee23](https://open.spotify.com/artist/1hiy2ZLpsXqRLuF7s92RDU), [Oscar Ken](https://open.spotify.com/artist/18NBt7ThpqpvlMkCMIeCA1), [Lookey](https://open.spotify.com/artist/1HXBbllMhhBO6EftHA8DtZ), [Real YUNG\-J](https://open.spotify.com/artist/0AKep9NdQTcR7rLgWxdQOE) | [My Life](https://open.spotify.com/album/7cIW5b100TSmzjzh9WHBHo) | 2:53 |
+| 2290 | [Friends](https://open.spotify.com/track/1qw1zLMAay6JWNdJQsYxzN) | [Dror](https://open.spotify.com/artist/31BRzHwH9Ayqp5AbRDk9kO) | [Friends](https://open.spotify.com/album/73VF9EoEhaCk3Yl5ViqnBx) | 3:24 |
 
-Snapshot ID: `AAAJmMwyx4RkFm4deYYOZ2wwcsdVPt8W`
+Snapshot ID: `AAAJnbanqHZh0vPYvbPmy9HHggS9JCp/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Suilju, Adfbigga, SKEEKS, Dv, JR, Highguest en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,000 likes - 74 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,992 likes - 74 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 2 | [Lyca & Slammers](https://open.spotify.com/track/1TCvXAJ0PZAimDMi6hyFvv) | [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Lyca & Slammers](https://open.spotify.com/album/6vaLcRaqbe90A4GdLMO9Yf) | 2:28 |
 | 3 | [Facilite](https://open.spotify.com/track/0bBPWZ39zGtQFSakKoVZYQ) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [Facilite](https://open.spotify.com/album/54GpPAeABO2QML3GhwNKiv) | 2:18 |
 | 4 | [Audemars Piguet](https://open.spotify.com/track/5gA49eaLpmPKPkWbLAp64m) | [Dv](https://open.spotify.com/artist/4MgUht9kRLFmS5uNiycgeC) | [Audemars Piguet](https://open.spotify.com/album/7tqtNw72lDnknEn5838rcc) | 2:55 |
-| 5 | [Dillemas](https://open.spotify.com/track/2x6l3h76dFbsdnmMyUEeHc) | [JR](https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Dillemas](https://open.spotify.com/album/4FyejwrgubiRT6frn5Ixj8) | 1:56 |
+| 5 | [DILEMMAS](https://open.spotify.com/track/2x6l3h76dFbsdnmMyUEeHc) | [JR](https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [DILEMMAS](https://open.spotify.com/album/4FyejwrgubiRT6frn5Ixj8) | 1:56 |
 | 6 | [Trenches](https://open.spotify.com/track/68GBhskSJbuoEg8f9A7yCG) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu) | [Trenches](https://open.spotify.com/album/6EbL6KZi2O1PrCEPGRfA6B) | 2:46 |
 | 7 | [Tijdsbesef](https://open.spotify.com/track/7eWWWlXpM2W1lu2PmAwdUk) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Tijdsbesef](https://open.spotify.com/album/0knfeJEu8FayHqWu8H9j9L) | 2:33 |
 | 8 | [Minimaal](https://open.spotify.com/track/1S1cjiIxxgSzpxlUeZrm8L) | [Ezzie](https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp) | [Minimaal](https://open.spotify.com/album/24RKfzm8uBP62RhuuEVO3h) | 2:29 |

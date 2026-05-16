@@ -4,7 +4,7 @@
 
 > neler yaşamışım ben ya...
 
-38 songs - 1 hr 47 min
+40 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,12 +14,14 @@
 | [Bilen Varsa](https://open.spotify.com/track/4X7mqQVz8rs6rbbe0iTMiC) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Bilen Varsa](https://open.spotify.com/album/1InCVaeeXbDzR3kSLD08VA) | 2:20 | 2026-03-12 |  |
 | [Derin Mevzular](https://open.spotify.com/track/65jBnp5troNslpir74QATL) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Derin Mevzular](https://open.spotify.com/album/0WvQu884CNsdFUNJt067MX) | 2:51 | 2023-06-24 |  |
 | [Geçici Heves](https://open.spotify.com/track/64WFDkSCGgg2XQwcps2QOL) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Geçici Heves](https://open.spotify.com/album/3XFjA4NrDiIP1o2zSyyTqn) | 2:41 | 2022-07-27 |  |
+| [Gözlerin Lazım](https://open.spotify.com/track/61WXoK5Lu4xI9fjXkWlL70) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Gözlerin Lazım](https://open.spotify.com/album/0Ll45DLQRvuqeJtMmag0a9) | 2:59 | 2026-05-15 |  |
 | [Güzelimden](https://open.spotify.com/track/2aiG5yDdWiokTwi2d0Y03G) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Güzelimden](https://open.spotify.com/album/33XqJ0Ris5B2aQUua7t5Vz) | 3:23 | 2025-12-04 |  |
 | [Harbi Güzel](https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Harbi Güzel](https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW) | 2:55 | 2022-07-27 |  |
 | [Harbi Güzel \- Emrah Karaduman Remix](https://open.spotify.com/track/5ioJr9L1UpYqQEvjrWVVvJ) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk) | [Harbi Güzel \(Emrah Karaduman Remix\)](https://open.spotify.com/album/46nvIR1gkyEHyKlrMkdDLr) | 2:54 | 2022-07-27 | 2025-04-11 |
 | [Harbiden](https://open.spotify.com/track/61P518MTME02qGi6MeTmYm) | [Cengiz Ateş](https://open.spotify.com/artist/6XsUIOewd3g4mNOwFXpNFy) | [Harbiden](https://open.spotify.com/album/0c8ArZ4B9F6iZaEveRiRR4) | 3:02 | 2022-11-17 |  |
 | [Her Zerrene](https://open.spotify.com/track/5RlKRK8iKnzRtY5Aep5Gnl) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Her Zerrene](https://open.spotify.com/album/2IAGAUOIhYhKdZzMnY5xV8) | 2:29 | 2025-09-26 |  |
 | [İzleri Belli](https://open.spotify.com/track/2dxXmAftbqWGxsxYdMkmS3) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [İzleri Belli](https://open.spotify.com/album/04Rdyug1KAnC4aooCmLgJ8) | 2:48 | 2023-07-14 |  |
+| [Kim Özleyecek](https://open.spotify.com/track/4CRdavZLSgH4oiUZxGx6lD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kim Özleyecek](https://open.spotify.com/album/5GT9iBUJHUUVC4Y3BEvKuQ) | 2:48 | 2026-05-15 |  |
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-23 |  |
 | [Mutlu Bir Son](https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:07 | 2025-11-06 |  |
 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 | 2024-01-26 | 2024-08-10 |

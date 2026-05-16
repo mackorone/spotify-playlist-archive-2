@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Juli\u00e1n Mercado, Gerardo Mercado & Antonin Padilla \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana. Omar Camacho y Santa Fe Klan \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -2893,6 +2893,28 @@
     },
     {
       "album": {
+        "name": "Atr\u00e9vete",
+        "url": "https://open.spotify.com/album/20vNurDn3Jc6lpRWBiOxlP"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209489,
+      "name": "Atr\u00e9vete",
+      "url": "https://open.spotify.com/track/1VMwXqyPNq6OUxjpmliimG"
+    },
+    {
+      "album": {
         "name": "18",
         "url": "https://open.spotify.com/album/2qvKHTgVmbWmP4ofcZ9r2M"
       },
@@ -5176,6 +5198,28 @@
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
+    },
+    {
+      "album": {
+        "name": "CHAKA",
+        "url": "https://open.spotify.com/album/5RHNvFPGELfCyjtkrcc9uq"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        },
+        {
+          "name": "El Randal",
+          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159119,
+      "name": "CHAKA",
+      "url": "https://open.spotify.com/track/2wTWVd1YHRR5IM7pPvpUjS"
     },
     {
       "album": {
@@ -12842,7 +12886,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 126709,
       "name": "Fijense",
       "url": "https://open.spotify.com/track/0d6BDklCCMCEVnEz6mOSHf"
@@ -13660,6 +13704,24 @@
       "duration_ms": 190249,
       "name": "Golpe de Suerte (En Vivo)",
       "url": "https://open.spotify.com/track/0MEEO56ULnC24ZLp0V4Ov2"
+    },
+    {
+      "album": {
+        "name": "gordo",
+        "url": "https://open.spotify.com/album/6gpNsJpfnF6wJIt4DAAvRm"
+      },
+      "artists": [
+        {
+          "name": "Sult\u00e1n",
+          "url": "https://open.spotify.com/artist/6Pj5swwZDsvdcMLXI6s7ui"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191541,
+      "name": "gordo",
+      "url": "https://open.spotify.com/track/26QBWySujXdsrxAPAlle0b"
     },
     {
       "album": {
@@ -17010,7 +17072,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 164220,
       "name": "Llenadera",
       "url": "https://open.spotify.com/track/6H2K72rU0s9fKdiQD1i2YE"
@@ -17032,7 +17094,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 207642,
       "name": "llorar (with Fabio Capri)",
       "url": "https://open.spotify.com/track/1ZUNAsGOHZCM4cxtrhDkzA"
@@ -18269,6 +18331,24 @@
     },
     {
       "album": {
+        "name": "Malandior II",
+        "url": "https://open.spotify.com/album/6zRah2B8u17evP7b8AMi50"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216631,
+      "name": "Malandior II",
+      "url": "https://open.spotify.com/track/1y3r1WV3bLCB7t7SsJ3CsR"
+    },
+    {
+      "album": {
         "name": "Malandrin",
         "url": "https://open.spotify.com/album/1z8479vViQ5svBGirVpm40"
       },
@@ -18494,7 +18574,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 155970,
       "name": "Maniaque",
       "url": "https://open.spotify.com/track/0zWhZGXOh5EZyAbXeWdTbL"
@@ -20280,7 +20360,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 207253,
       "name": "Mientras Me Esperan",
       "url": "https://open.spotify.com/track/4OjcIqaPD6KFaxcur6UtNg"
@@ -24316,6 +24396,28 @@
     {
       "album": {
         "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/7cEEDRlLB47OyweUl6arK8"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "Brian Santin",
+          "url": "https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202064,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/20JOMOGgkSjmiGGKu1lGjl"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/6LGShO5eNRwhcRC9qD2hs8"
       },
       "artists": [
@@ -27296,7 +27398,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 219812,
       "name": "Restricci\u00f3n",
       "url": "https://open.spotify.com/track/1koldF2E8ngK2KkbmLV4OF"

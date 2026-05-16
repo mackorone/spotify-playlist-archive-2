@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: aron! Mei Semones
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,169 likes - 94 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,177 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Macramé \(ft\. Mei Semones\)](https://open.spotify.com/track/4AKMCbXYw5zXpHMAUeQ8uy) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Macramé](https://open.spotify.com/album/2fzrBj31NWHaEjODwESbKy) | 3:31 |
 | 2 | [In a Spiral](https://open.spotify.com/track/1NVuW1w0mkVJQF5nFGo1PR) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [John Connor](https://open.spotify.com/album/2ctx9aWCjIlAWojJSIcVKA) | 5:39 |
-| 3 | [Track 7](https://open.spotify.com/track/6LeXODbhlorIYhCnoxWT6Y) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 0:00 |
+| 3 | [MASTERPIECE](https://open.spotify.com/track/6LeXODbhlorIYhCnoxWT6Y) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 4:51 |
 | 4 | [Liyoze Line Nangakithi](https://open.spotify.com/track/5q7fC6mCFVUr6FWg3w8dhx) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Liyoze Line Nangakithi](https://open.spotify.com/album/4INvgaGXRdna2ganfmKpDW) | 4:26 |
 | 5 | [THIEF](https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [THIEF](https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ) | 3:02 |
 | 6 | [Ocean Light \(Phase 1: Prelude\)](https://open.spotify.com/track/4lKQi60Oe2wnJk8Qrn1QHE) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ocean Light \(Phase 1: Prelude\)](https://open.spotify.com/album/6IgWVDyxuNsFRPGUTThgpG) | 2:02 |

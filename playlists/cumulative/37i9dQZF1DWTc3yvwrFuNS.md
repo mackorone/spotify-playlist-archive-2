@@ -4,7 +4,7 @@
 
 > Videos from our studio and live sessions\. Music videos available only on Premium\. Cover: Kehlani
 
-28 songs - 1 hr 36 min
+29 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Antología \- Spotify Anniversary Version](https://open.spotify.com/track/7hXvUF9b5saD4GK7d1H9LX) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:44 | 2026-05-08 |  |
 | [Blackout Drunk \(Spotify OUTSIDE Version\) \- Live from Ojai, CA](https://open.spotify.com/track/4UNPiA1Fy8LCCXDjv1z4QG) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [SPOTIFY OUTSIDE](https://open.spotify.com/album/3hXNqpeNR603puVaRFMLfI) | 2:45 | 2026-05-08 |  |
 | [Buddy Holly \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 2:43 | 2026-05-08 |  |
-| [Drifting](https://open.spotify.com/track/0xOdxoAIMvT1xvOIodlKqO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Drifting \(Spotify OUTSIDE Version\) \- Live from West Hollywood, CA](https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc) | 4:23 | 2026-05-08 |  |
+| [Drifting](https://open.spotify.com/track/0xOdxoAIMvT1xvOIodlKqO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Drifting \(Spotify OUTSIDE Version\) \- Live from West Hollywood, CA](https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc) | 4:23 | 2026-05-08 | 2026-05-16 |
+| [Drifting \- \(Spotify OUTSIDE Version\) \- Live from West Hollywood, CA](https://open.spotify.com/track/2PUXoqVN9bh9QEZaVsb8fe) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Drifting \(Spotify OUTSIDE Version\) \- Live from West Hollywood, CA](https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc) | 4:16 | 2026-05-15 |  |
 | [DROGA LETAL \(Live\) \- Spotify Live Room](https://open.spotify.com/track/2dcU6QzHaKgZG36mKQpzFV) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Junior H \- Spotify Live Room](https://open.spotify.com/album/5YdEBNUaKJtFfnDKtDAxVW) | 3:34 | 2026-05-08 |  |
 | [Día de Enero \- Spotify Anniversary Version](https://open.spotify.com/track/1tXZylFuEsD84CSVvswZJD) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 2:52 | 2026-05-08 |  |
 | [Folded \(Live\) \- Spotify Live Room](https://open.spotify.com/track/7wokbzrXvMh3dJvSjkuW73) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded \(Live\) \- Spotify Live Room](https://open.spotify.com/album/64AUAPx8kVRTuBO16NDUWN) | 4:02 | 2026-05-08 |  |

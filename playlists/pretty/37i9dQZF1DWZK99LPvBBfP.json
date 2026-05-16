@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 370564,
+  "num_followers": 370691,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Domino Remixes",
-        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
-      },
-      "artists": [
-        {
-          "name": "Oxia",
-          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
-        }
-      ],
-      "duration_ms": 435266,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "One For The Lad's",
         "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 216933,
       "name": "Insomnia - Radio Edit",
       "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Domino Remixes",
+        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
+      },
+      "artists": [
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "duration_ms": 435266,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Experience: Expanded (Remastered)",
-        "url": "https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "Out Of Space (Remastered)",
-      "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "The Age Of Love",
         "url": "https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 408773,
       "name": "The Age Of Love - Jam & Spoon Watch Out For Stella Mix",
       "url": "https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Experience: Expanded (Remastered)",
+        "url": "https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "Out Of Space (Remastered)",
+      "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Horny (Radio Edit's)",
-        "url": "https://open.spotify.com/album/7fxH11g146zNuxqqi1bmXX"
+        "name": "Innovator",
+        "url": "https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY"
       },
       "artists": [
         {
-          "name": "Mousse T.",
-          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
-        },
-        {
-          "name": "Hot 'N' Juicy",
-          "url": "https://open.spotify.com/artist/7c40GtC37kwpGDm8kbYcHr"
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
         }
       ],
-      "duration_ms": 187826,
-      "name": "Horny - Horny '98 Radio Edit",
-      "url": "https://open.spotify.com/track/18hpe34wFdKjpl5nMZ5tvY"
+      "duration_ms": 362946,
+      "name": "Strings Of Life",
+      "url": "https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc"
     }
   ],
   "unique_name": "Ibiza Classics",

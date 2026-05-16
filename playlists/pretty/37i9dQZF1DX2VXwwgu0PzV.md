@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Sal Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,019 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,091 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [E No Dey Finish](https://open.spotify.com/track/607RU3eLBQCeiqBCWBh4eq) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [E No Dey Finish](https://open.spotify.com/album/6i2e0TpfHMdjMXyxZmv4PM) | 2:53 |
-| 2 | [Track 4](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 0:00 |
+| 2 | [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 |
 | 3 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 |
 | 4 | [Oh My Soul](https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh), [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Pst\. Oche Ogebe](https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk) | [Oh My Soul](https://open.spotify.com/album/0kCQtj3r882jtLDX7TvxUy) | 2:52 |
 | 5 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 50 | [Jugular Jugular](https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Jugular Jugular](https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn) | 4:35 |
 | 51 | [Secret Place 2](https://open.spotify.com/track/7sdcYMko06RQa2tE3HqfDT) | [Team GLE](https://open.spotify.com/artist/1GK0GKn4TJBlpChudHQyHB), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Psalm Hills](https://open.spotify.com/artist/2pssl6dzeh6h6IpUIq9XQ7), [Abims](https://open.spotify.com/artist/3ByJvshy0yP9wc2dOOIuKJ), [BlissfulRhema](https://open.spotify.com/artist/4ArOdnfFvG6N47f45Tsqcg) | [Secret Place 2](https://open.spotify.com/album/3fMcDTYThilgWcPUtxKcXw) | 2:20 |
 | 52 | [CONFIDENCE](https://open.spotify.com/track/4cYVlSyIPEiRltx8xAN8sy) | [Timothee ideh](https://open.spotify.com/artist/4llcsc3EzTthtRCn8gtOSH) | [Born Again](https://open.spotify.com/album/6voohzReiKaIKyrs31jdYl) | 2:37 |
-| 53 | [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 |
+| 53 | [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Beulah Land Music](https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 |
 | 54 | [Happy Song](https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Happy Song](https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX) | 2:27 |
 | 55 | [Gbope](https://open.spotify.com/track/18lugVv4mlCGA6n3O5dYPs) | [Olusegun Omobamibo](https://open.spotify.com/artist/4bj7iVQUXxrhsyY3CK8EQO), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Gbope](https://open.spotify.com/album/2rywaYongdzg9D4gAUiQpj) | 5:22 |
 | 56 | [Shield](https://open.spotify.com/track/49d9ZqAAGr2UDh0EVXnbiM) | [Obinna music](https://open.spotify.com/artist/2JEiNVs3w1fFMRYLnFsYY7), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Shield](https://open.spotify.com/album/4dJYfut3tQB2OdqUTDkrR8) | 2:57 |

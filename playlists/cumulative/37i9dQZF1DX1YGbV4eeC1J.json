@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0n38FRZY0LI1cgI4nAychR"
+      },
+      "artists": [
+        {
+          "name": "Miss Kamweru",
+          "url": "https://open.spotify.com/artist/7bhv4dzPZ4ukV1fCBJNeUQ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2WVcEQjK8nDQq3xcGrb1I3"
+    },
+    {
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC"
       },

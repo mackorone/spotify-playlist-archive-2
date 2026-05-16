@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,446 songs - 9 day 21 hr 8 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,453 songs - 9 day 21 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4454,5 +4454,12 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4444 | [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 |
 | 4445 | [Black or White](https://open.spotify.com/track/4tok7s1cquoHTxgHPIv8Xe) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Black or White](https://open.spotify.com/album/6jAQM6dV7PLwD05KnDotSk) | 6:05 |
 | 4446 | [Where you and music meet](https://open.spotify.com/track/3KxEFfyYA4gYbpqouqxZgx) | [Patrick van Bergen](https://open.spotify.com/artist/0iIsumYuMvo8U1dfOVuGXY) | [Where you and music meet](https://open.spotify.com/album/1BCGjd7MKvuxSi5LoMS90O) | 4:22 |
+| 4447 | [Inbox folder](https://open.spotify.com/track/5u5cZwsUCcKI5u93hLO7ql) | [Sunglasses](https://open.spotify.com/artist/5w6Xd09yAf8hmzTF363zV4) | [Inbox folder](https://open.spotify.com/album/6jho4gWOQn84V0gghWkD9P) | 4:42 |
+| 4448 | [L\. \- Demo Version](https://open.spotify.com/track/63cBVtluSwFYpkN7mlhxno) | [Sunglasses](https://open.spotify.com/artist/5w6Xd09yAf8hmzTF363zV4) | [L\. \(Demo Version\)](https://open.spotify.com/album/7cBEzuDQckINm2KoUIJAFl) | 3:08 |
+| 4449 | [Dreams mobilia](https://open.spotify.com/track/7varKXqsq43mXl8iV9Lmfq) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Dreams mobilia](https://open.spotify.com/album/4rKIxNKvsm4OUlZ4OwhoJJ) | 3:14 |
+| 4450 | [R.I.P.](https://open.spotify.com/track/23i0tPsziYDQHC7xjMaQzb) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 4:26 |
+| 4451 | [Guardian angel](https://open.spotify.com/track/1dwM6OWrnxTC9f37XLPZdn) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:57 |
+| 4452 | [\(Ghost track\)](https://open.spotify.com/track/4LpeXM0YGS6IRr1Lb15paF) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:55 |
+| 4453 | [Nighttrippin](https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH) | [Dance Commander](https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl) | [Nighttrippin](https://open.spotify.com/album/21g866EGYrGD8zbuP9cvF8) | 3:25 |
 
-Snapshot ID: `AAAInVRF3V8F+WN01+al8+zl1Otymdwg`
+Snapshot ID: `AAAIpCBAbDYF2gVOzjuH8SdBHHdYQtHA`

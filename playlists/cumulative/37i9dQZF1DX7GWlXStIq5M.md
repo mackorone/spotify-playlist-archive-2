@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mateus Carrilho, Isma
 
-1,140 songs - 2 day 8 hr 27 min
+1,141 songs - 2 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [ALTA TENSÃO](https://open.spotify.com/track/3WpW3fck8V6yljWCRNynXL) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [ALTA TENSÃO](https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH) | 2:08 | 2023-12-08 | 2024-01-13 |
 | [ALÔ](https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [YASSIQ](https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl) | 2:08 | 2023-02-14 | 2023-04-09 |
 | [Amanhã](https://open.spotify.com/track/5NymnW8GUo8rbcpjnATBM1) | [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Amanhã](https://open.spotify.com/album/4fAOx1ZdilrOoeOl0D0d0l) | 2:09 | 2024-03-22 | 2024-06-08 |
-| [amanhã de manhã](https://open.spotify.com/track/7re1atoPYsUFVx2Kv6mOqK) | [lola ferrera](https://open.spotify.com/artist/73XYpnz3T3doSWen2bH10K) | [amanhã de manhã](https://open.spotify.com/album/7wnb54oeH4W62nXcF66qzU) | 2:32 | 2026-01-30 |  |
+| [amanhã de manhã](https://open.spotify.com/track/7re1atoPYsUFVx2Kv6mOqK) | [lola ferrera](https://open.spotify.com/artist/73XYpnz3T3doSWen2bH10K) | [amanhã de manhã](https://open.spotify.com/album/7wnb54oeH4W62nXcF66qzU) | 2:32 | 2026-01-30 | 2026-05-16 |
 | [Amapiano](https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil) | [JOTTA R](https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Amapiano](https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm) | 2:19 | 2025-07-18 |  |
 | [American Pie](https://open.spotify.com/track/1PZUD6jjtYsOUC9vDjdJHK) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [O Iluminado](https://open.spotify.com/album/0e2bs8KEArBtFeMYoqBYKP) | 2:59 | 2020-10-20 | 2022-07-29 |
 | [Amigo de Ninguém](https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PODERIA SER \(bem\) PIOR](https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0) | 2:51 | 2023-03-17 | 2023-03-25 |
@@ -144,6 +144,7 @@
 | [Barulhinho](https://open.spotify.com/track/6n3AlHpR08vRzmkqPLMnUo) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Barulhinho](https://open.spotify.com/album/1gFplCaLXiRiMHccV2BrIv) | 2:49 | 2023-07-14 | 2023-08-26 |
 | [Batom](https://open.spotify.com/track/5X1p2CarWqiYsur43hpKMD) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Batom](https://open.spotify.com/album/56Zhvpb2xP2PxRuXqYz0DM) | 3:31 | 2020-10-20 | 2022-07-11 |
 | [Batom Vermelho](https://open.spotify.com/track/6SxNVigLtUeoXKTYH5iicx) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Luz](https://open.spotify.com/artist/0GDmQMglyUkqBwyZQSQQis) | [Batom Vermelho](https://open.spotify.com/album/5cUylpq20ChUUswHz1Nh0c) | 2:31 | 2024-02-16 | 2024-03-02 |
+| [Baunilha](https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk) | [Sofia Oliveira](https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC) | [Baunilha](https://open.spotify.com/album/5FQpFAn13w2MoL370CkkkV) | 3:09 | 2026-05-15 |  |
 | [BELIEVE IT](https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:03 | 2020-10-20 | 2023-01-01 |
 | [BELIEVE IT](https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:03 | 2020-10-20 | 2023-02-15 |
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2024-01-05 | 2025-02-22 |

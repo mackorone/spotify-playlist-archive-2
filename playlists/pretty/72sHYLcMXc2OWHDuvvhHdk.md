@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 570 likes - 2,648 songs - 6 day 10 hr 21 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 570 likes - 2,658 songs - 6 day 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1789,7 +1789,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 1779 | [Backroads](https://open.spotify.com/track/73uGEAHMqdsupTVmJlX9fl) | [B.J Salyer](https://open.spotify.com/artist/0bqxjfiDpMt6MIrF6A17vN) | [Backroads](https://open.spotify.com/album/6vpwCQnYL2ERD1IDY7tGxi) | 3:19 |
 | 1780 | [Pray for Tonight](https://open.spotify.com/track/3oe09Q7QkdLddpZ5Qf4PRO) | [Tears on Paper](https://open.spotify.com/artist/3I8bUKDD6miAP2trqMdWo4) | [Pray for Tonight](https://open.spotify.com/album/6VoNFQFefnLBrbhknk2s83) | 5:47 |
 | 1781 | [Unravel](https://open.spotify.com/track/24bevjfgrbjJbu6mMuBIbp) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Low Fidelity](https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE) | 1:42 |
-| 1782 | [Canto da Sereia](https://open.spotify.com/track/3avEyTvbscuFpmrSLIvx2Q) | [cami santiz](https://open.spotify.com/artist/5SqIDTS8ZHDtkIFZpS6G0S) | [Canto da Sereia](https://open.spotify.com/album/2KXK8IRKmsI6DtAZD989P5) | 2:33 |
+| 1782 | [Canto da Sereia](https://open.spotify.com/track/3avEyTvbscuFpmrSLIvx2Q) | [cami santiz](https://open.spotify.com/artist/5SqIDTS8ZHDtkIFZpS6G0S) | [Canto da Sereia](https://open.spotify.com/album/2KXK8IRKmsI6DtAZD989P5) | 2:31 |
 | 1783 | [Love](https://open.spotify.com/track/1rwTGrj5GEeNoDZ5cUtJ3u) | [Don Bidie](https://open.spotify.com/artist/0U9q7BDC2ChSXyN1LSzPAD) | [Capable](https://open.spotify.com/album/6HyQzerNjdV5xwPmqjb5Zk) | 2:44 |
 | 1784 | [Let Go](https://open.spotify.com/track/5z57aJ8tJYDjEITybj8poL) | [Future Infinite](https://open.spotify.com/artist/1eZsrhuGcU7Rgj8BDcH7BI), [Imperial](https://open.spotify.com/artist/550b8T0chvvOkcIFueL0fx), [Stewart Garry](https://open.spotify.com/artist/3fqslVO8AqGSrAkUkmcFuU), [Sareem Poems](https://open.spotify.com/artist/0eftDOchNXxRmc1krF1ZKi) | [Let Go](https://open.spotify.com/album/4OVQEh80plxXKUHLxvLXRd) | 2:43 |
 | 1785 | [Web of Time](https://open.spotify.com/track/4wyrsRJq8qrAgXG0TlE8OL) | [Ronnie C](https://open.spotify.com/artist/7EwO8hgVA4r6mPq6Kp0Ef3) | [Tha Largo](https://open.spotify.com/album/18nEXoZvifmIs650L9cTn6) | 3:46 |
@@ -2656,5 +2656,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2646 | [Árbol](https://open.spotify.com/track/0GpiB3Dx2Bcj3xKALOENJR) | [Eduardo Robles](https://open.spotify.com/artist/2qwNSIP0Jyv5mstU2i5wwm) | [De paso música que dejan los migrantes](https://open.spotify.com/album/24OvaVA7Rp7mjugolMl4jN) | 3:54 |
 | 2647 | [Sanctuary](https://open.spotify.com/track/6U79SPUdOBIwaZ62hX2nKZ) | [Victorian Darkwave](https://open.spotify.com/artist/0sLsnNiEVSMZugnnUhlHmu) | [Dream Echo](https://open.spotify.com/album/1FIupHRKq7lTbWpSddF1Ro) | 4:11 |
 | 2648 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 |
+| 2649 | [Miedo a Morir](https://open.spotify.com/track/4aBQOoMb2cQY20yFXG3Z8c) | [Mounts](https://open.spotify.com/artist/0OO0O97YjnKAlWpv5tTJpv), [JNull](https://open.spotify.com/artist/6n4XUJWTCbESSDDmeomYDn) | [Miedo a Morir](https://open.spotify.com/album/19yeHVAOSaEf15IfwB6nh5) | 2:34 |
+| 2650 | [Daisy](https://open.spotify.com/track/3d5hWEKuetJFGns4axVWoV) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Daisy](https://open.spotify.com/album/06AG0fmXUeImnkqEgVnVjI) | 2:46 |
+| 2651 | [Si tu no me quieres](https://open.spotify.com/track/61Cg5IIYjOYDxN82j22FEE) | [Jesús Alberto](https://open.spotify.com/artist/2dzulanNWznWKEoNaZuh0O) | [Ecos de mi historia](https://open.spotify.com/album/48GHcieUeSGjf2o7q67ENS) | 4:10 |
+| 2652 | ['t Gele strand](https://open.spotify.com/track/5uRPYnTsA2IJY1yicGBOkV) | [Whoop Agency](https://open.spotify.com/artist/1BFDYoi7txEZcpvXMsTqaj) | ['t Gele strand](https://open.spotify.com/album/0bVSCXkYMa03DuFfT1bQ95) | 4:56 |
+| 2653 | [Lov Lov](https://open.spotify.com/track/4fEVCH8VsgLXOWRI9B8mbE) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Lov Lov](https://open.spotify.com/album/7p6LhF7FSKnWTwaqTr0uul) | 2:05 |
+| 2654 | [Don't Let Me Down](https://open.spotify.com/track/6kH1KGFlD5EQwl3QdUwtgn) | [TriniPrince](https://open.spotify.com/artist/6WPYob9LKVO2vFN2ZCZkZl) | [Don't Let Me Down](https://open.spotify.com/album/6a9nMqBFWp7FnAJiy5N2PQ) | 2:10 |
+| 2655 | [Memphis](https://open.spotify.com/track/6WNHo42aEret1BEMr0MygY) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Memphis](https://open.spotify.com/album/6r3PjsrksR537vEPgAqKHF) | 3:09 |
+| 2656 | [Photo](https://open.spotify.com/track/3AskBZkfkNxWS4FKsmyHom) | [Miles Squiers](https://open.spotify.com/artist/1flMzKAdXGX7sebCJW8V2v), [Morgan Turpin](https://open.spotify.com/artist/0cZNtUCKuCZEyZk6ovvZD4) | [Photo](https://open.spotify.com/album/5jPCEAzxOLtDnPLwIIOruj) | 2:26 |
+| 2657 | [Lovely Day](https://open.spotify.com/track/3eLwumm3ieQzPeFtVPTO5p) | [NAPOCK](https://open.spotify.com/artist/77ED2nkxoyZuvzbrFqbjqG) | [Ghost Games](https://open.spotify.com/album/05C49td5PHly4WfgJEaLXI) | 4:47 |
+| 2658 | [Nothing Stays the Same](https://open.spotify.com/track/40kkdgYKd9hYFSFAnkfGZJ) | [Silver Harbour](https://open.spotify.com/artist/49T3G8iqq5PE2lo49Lpslr) | [Nothing Stays the Same](https://open.spotify.com/album/7JgbfgQaPsYqQwxsFaojHH) | 3:42 |
 
-Snapshot ID: `AAAK8Qzjk7U2zJuj6vTqu5h3/H4bDZQ4`
+Snapshot ID: `AAAK+6hxkbwnv/2eNDweOFpKfikUHE7C`

@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes MCs do hip hop nacional\. Foto: Majis
 
-239 songs - 10 hr 35 min
+240 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 | 2023-01-27 |  |
 | [Desfecho](https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Desfecho](https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021) | 2:22 | 2023-06-30 | 2026-04-24 |
 | [DIOR](https://open.spotify.com/track/7IGmqq7pQCIdWCYWSKFvXD) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G), [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p), [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO) | [DIOR](https://open.spotify.com/album/4TTywHFtN5RB6DA7lteDB5) | 2:57 | 2024-07-12 | 2024-09-27 |
-| [Disney](https://open.spotify.com/track/0JsoISSv40wbMuKXkbkz57) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Favela Drill](https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ) | 2:43 | 2023-09-01 |  |
+| [Disney](https://open.spotify.com/track/0JsoISSv40wbMuKXkbkz57) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Favela Drill](https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ) | 2:43 | 2023-09-01 | 2026-05-16 |
 | [DIZPARA](https://open.spotify.com/track/3WG9lER2hToOg4vg8TvF8s) | [Charm Mone](https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c) | [CORRE](https://open.spotify.com/album/4cUvIR6DfafOnGzeLlfayI) | 2:09 | 2024-09-27 | 2025-10-03 |
 | [Drinks e Safiras](https://open.spotify.com/track/56uwvZ7zUko1jBrD14nAOz) | [Mestra](https://open.spotify.com/artist/0DzMVY6htcmrpdC3f3J3Jm), [Yanna Mc](https://open.spotify.com/artist/3luf43YaYclVRwVfYLRKnF), [Rualogia Lab](https://open.spotify.com/artist/0CnQ6hl5qaXYfrYAy50u6k) | [Drinks e Safiras](https://open.spotify.com/album/7pwGE901unwGsjW8b728eh) | 1:57 | 2022-03-18 | 2023-08-26 |
 | [Embrazando](https://open.spotify.com/track/5CfabusnRCoAHPYUheMg3u) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Embrazando](https://open.spotify.com/album/1ne6MMagaIhU433qxJOwts) | 2:41 | 2022-05-27 | 2022-10-15 |
@@ -116,6 +116,7 @@
 | [Indomável](https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ) | [CRIOLA](https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Indomável](https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA) | 1:52 | 2025-10-10 |  |
 | [Invisível](https://open.spotify.com/track/12Ue4VoNFehYCgNcFfcrFL) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Invisível](https://open.spotify.com/album/4q1vv6Ymy01U0oHxfcODyB) | 3:29 | 2022-03-18 | 2022-05-28 |
 | [IRREVERSÍVEL](https://open.spotify.com/track/2VNpMBY9uV6JlqEjMSUu0T) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [IRREVERSÍVEL](https://open.spotify.com/album/0WZzO4lMc7tz4KpMUKNpR9) | 3:04 | 2023-11-10 | 2024-06-01 |
+| [JA FAZEM HORAS](https://open.spotify.com/track/3ktjRiYWnKIJv277yiaDGC) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [Dukke Beats](https://open.spotify.com/artist/3KNAaZbqoQXjS4omCogmjr) | [SEM ESTRESSE](https://open.spotify.com/album/3C7I3CVyHFbTtpFdIcxMpl) | 2:10 | 2026-05-15 |  |
 | [Jogo da Vida](https://open.spotify.com/track/6jK8DJfC4wVPyfEc7SEgfe) | [Visão Records](https://open.spotify.com/artist/51jC7VpvzmZ6gN6LHrJNy5), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo da Vida](https://open.spotify.com/album/2ZcjMx3IEjStin63pGb7u2) | 2:00 | 2025-06-28 | 2026-04-24 |
 | [Jogo de Sedução](https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo de Sedução](https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX) | 3:45 | 2024-02-02 |  |
 | [Joias Caras](https://open.spotify.com/track/6qL6PbTSJYMF9waKQOWdNb) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Biazotto](https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b) | [Joias Caras](https://open.spotify.com/album/6iPNo87W8FkjKyPPwsnhdG) | 1:58 | 2023-09-29 |  |

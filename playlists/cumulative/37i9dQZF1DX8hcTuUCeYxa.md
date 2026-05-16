@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Fat Dog
 
-2,869 songs - 6 day 21 hr 10 min
+2,870 songs - 6 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-20 | 2025-03-21 |
 | [0898 HEARTACHE](https://open.spotify.com/track/2knig0RTl2lqDSo0oeXyxv) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [0898 HEARTACHE](https://open.spotify.com/album/7B7VvPT1Nf96mgY1Toz5W3) | 5:16 | 2024-06-28 | 2024-07-12 |
 | [100 Summers](https://open.spotify.com/track/3nGdMRCCVS8TZiJOVKQD2P) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [100 Summers](https://open.spotify.com/album/2wq4WfPC7ic596WQnY1L2Z) | 3:58 | 2025-08-21 | 2025-09-19 |
+| [100,000](https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Little Wide Open](https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U) | 5:13 | 2026-05-15 |  |
 | [1000 Pieces](https://open.spotify.com/track/1s3w1ze8uQWSgNc9ZXc6rf) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Uppercut](https://open.spotify.com/album/5UdNNstyCjoxQWebmfdFWS) | 2:59 | 2025-11-06 | 2025-11-21 |
 | [1010](https://open.spotify.com/track/5YDccHnqG3jdBbLBydJi0D) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [1010](https://open.spotify.com/album/6NXEsa5dZR72T5AuNSi2R3) | 2:32 | 2024-08-22 | 2024-09-06 |
 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-07-24 | 2025-08-22 |
@@ -2252,7 +2253,7 @@
 | [Spaced Out](https://open.spotify.com/track/2q5vyK48JeyTLtGIDuNd01) | [Flanger Kids](https://open.spotify.com/artist/0Z6OJHkHFz4JiwDHaCzhE9) | [Spaced Out](https://open.spotify.com/album/1IjfDke3aUl5XcSBea9oqd) | 3:11 | 2025-07-10 | 2025-07-19 |
 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-05-29 | 2025-06-27 |
 | [Speed Freak](https://open.spotify.com/track/36qGcGSAI3rzgOQkoJHu6U) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Speed Freak](https://open.spotify.com/album/5XQHf9voY21g3m8dV7XwPs) | 3:29 | 2025-01-09 | 2025-01-24 |
-| [Speedracer](https://open.spotify.com/track/1F5mjn6Io5C9D8HCsbvXgS) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Speedracer](https://open.spotify.com/album/7ESSanHYjlI4RB83ooVPaS) | 3:16 | 2026-05-07 |  |
+| [Speedracer](https://open.spotify.com/track/1F5mjn6Io5C9D8HCsbvXgS) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Speedracer](https://open.spotify.com/album/7ESSanHYjlI4RB83ooVPaS) | 3:16 | 2026-05-07 | 2026-05-16 |
 | [SPIDERS](https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF) | 4:27 | 2025-09-05 | 2025-10-03 |
 | [Spiderweb](https://open.spotify.com/track/5ta38ATbnAmzHtiVmTfEtS) | [CRIMER](https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX) | [Spiderweb](https://open.spotify.com/album/2OKoWnK59TWTrMvtZxTJk7) | 3:01 | 2025-10-30 | 2025-11-14 |
 | [Spike Island](https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Spike Island](https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy) | 4:42 | 2025-04-10 | 2025-05-09 |

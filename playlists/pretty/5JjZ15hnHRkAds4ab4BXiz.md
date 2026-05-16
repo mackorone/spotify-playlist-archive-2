@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 703 songs - 1 day 20 hr 20 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 711 songs - 1 day 21 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -711,5 +711,13 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 701 | [How I Made My Millions](https://open.spotify.com/track/4OuUXis3HgBtLoSaYz3Brp) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [No Surprises](https://open.spotify.com/album/4IUjCg0H2fJknfSG2uGoTa) | 3:09 |
 | 702 | [Palo Alto](https://open.spotify.com/track/7obvmD1HzGaYGIURbzhvaE) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [No Surprises](https://open.spotify.com/album/4IUjCg0H2fJknfSG2uGoTa) | 3:43 |
 | 703 | [Falling out of Love](https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Falling out of Love](https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ) | 6:21 |
+| 704 | [Accolade](https://open.spotify.com/track/2daenV00lTyDocrYqDUUGi) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Blue Fairy](https://open.spotify.com/album/5KVrBZhszK5SXeLDmScFNZ) | 3:03 |
+| 705 | [Cover Me](https://open.spotify.com/track/3MWjEpbMsX9XQVCOEy5qMZ) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Blue Fairy](https://open.spotify.com/album/5KVrBZhszK5SXeLDmScFNZ) | 3:26 |
+| 706 | [Lotus](https://open.spotify.com/track/09tyNbt7AVzBKHIRqaYhMm) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Blue Fairy](https://open.spotify.com/album/5KVrBZhszK5SXeLDmScFNZ) | 3:45 |
+| 707 | [Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO) | 5:20 |
+| 708 | [Excuse](https://open.spotify.com/track/0OFHufUvVOPvNKOPgbaDRn) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO) | 5:51 |
+| 709 | [Analog Sentimentalism](https://open.spotify.com/track/46H9VQlQW2Aqf4zVY60cYR) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO) | 4:24 |
+| 710 | [White Ceiling](https://open.spotify.com/track/0w5DKGccxr2uWY3pFbVeUS) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO) | 10:00 |
+| 711 | [To See the Next Part of the Dream](https://open.spotify.com/track/7Gi8tR6JoLx25QKa3ygICX) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO) | 5:07 |
 
-Snapshot ID: `AAAnrc7hniZBWKFss4/4Bg61VRgigr/M`
+Snapshot ID: `AAAntxNIGJAZAGFVhsq8BChhOiiIIyl7`

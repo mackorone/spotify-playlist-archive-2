@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-651 songs - 1 day 12 hr 11 min
+651 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [Sanity](https://open.spotify.com/track/1hRxHkgUvC9ir8gMlob3u5) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Sanity](https://open.spotify.com/album/5kM7OkUeReOpkKMxhDKbYv) | 2:09 | 2024-03-29 | 2024-06-07 |
 | [Satisfaction](https://open.spotify.com/track/0CMc04Rm7XZWjT1DwdYoHD) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Satisfaction](https://open.spotify.com/album/2SyQwAaiJD1F2jx3mRZcpQ) | 3:38 | 2024-08-02 | 2024-10-18 |
 | [Satisfy](https://open.spotify.com/track/2n2UqNsBAK4GkD5vwh4sGE) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Ola'sage](https://open.spotify.com/artist/7sOMk7p7RRSkNw7nBSitlH) | [The Chosen](https://open.spotify.com/album/2usFGJHiYjTGmv1IrGZZlS) | 2:26 | 2024-05-10 | 2024-07-12 |
+| [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 | 2026-05-15 |  |
 | [Sau Dari](https://open.spotify.com/track/1RsaOCrxfp53UDmuvcj025) | [Mr Yels](https://open.spotify.com/artist/6NpdLK2Iz3GsyZiz9Ur0Pr), [David Jones David](https://open.spotify.com/artist/32aoqiqeUQo0SYPWRdwGg9) | [Sau Dari](https://open.spotify.com/album/0h29g6O0QKZsvXfVPnGa6N) | 1:10 | 2023-10-20 | 2024-01-12 |
 | [SAVE ME](https://open.spotify.com/track/52421Cu6PvzoXcg9FRP27k) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ) | [SAVE ME](https://open.spotify.com/album/1boDiAtone3s8PH7kv6eqo) | 3:23 | 2024-05-03 | 2024-08-09 |
 | [Saves Me](https://open.spotify.com/track/5JZrrE7Azlre5rNugfZ8xg) | [Uchenna](https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC) | [Saves Me](https://open.spotify.com/album/4nWlOdwnZoXuT9xUlMhG1r) | 2:42 | 2024-10-18 | 2024-11-08 |
@@ -582,7 +583,6 @@
 | [To me](https://open.spotify.com/track/312MQvrve82qCPpYQP2hbi) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [To me](https://open.spotify.com/album/5c6wFb8kE1iL0IswbinfWO) | 2:34 | 2024-02-10 | 2024-04-06 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-10-20 |  |
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-23 |
-| [Track 4](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 0:00 | 2026-05-15 |  |
 | [True Love](https://open.spotify.com/track/64g7yZSdEEU5EctgNSXoat) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [True Love](https://open.spotify.com/album/0fysW24DQvmfDWN1WFxpNE) | 2:30 | 2024-02-09 | 2024-03-22 |
 | [Trust](https://open.spotify.com/track/4jmPjHDQ9d8tIMTDELLIXF) | [GERALD ADUGBO](https://open.spotify.com/artist/06y01hToOeibM9lqYOApKl) | [Trust](https://open.spotify.com/album/61fpMsOw2HZQwJhqUsKUOd) | 2:33 | 2025-09-19 | 2025-10-31 |
 | [Trust](https://open.spotify.com/track/74DC94uJKUT4ifisoMjCWr) | [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Trust](https://open.spotify.com/album/3vCyVi8EnduLV93bGih19L) | 2:52 | 2024-03-08 | 2024-05-03 |

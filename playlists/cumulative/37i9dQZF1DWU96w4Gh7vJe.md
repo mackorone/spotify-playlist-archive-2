@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-244 songs - 15 hr 21 min
+245 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Could Be Something](https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Could Be Something](https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI) | 3:16 | 2023-10-20 | 2025-01-15 |
 | [Dati \(feat\. Skusta Clee\)](https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Byahe](https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b) | 3:17 | 2023-10-20 |  |
 | [Delusyon](https://open.spotify.com/track/2cCDHJUUC9NmxPPr7JkP3R) | [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e), [Ken Manguiat](https://open.spotify.com/artist/5X0lDO3wabgkXnCyXZpXKz) | [Delusyon](https://open.spotify.com/album/2u4i2jr1X6AdlQrvKlAXZ2) | 3:12 | 2025-02-26 | 2025-05-01 |
+| [Desperado](https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Fictions You Produce](https://open.spotify.com/album/1XnZLallUu8u13vepIfW35) | 3:18 | 2026-05-12 |  |
 | [Di Ko Alam](https://open.spotify.com/track/1ESvI4PhWa7pZCh7JRrmLs) | [RussJr](https://open.spotify.com/artist/1tfSYCR5FHZlqLzla1lJeG), [Melodias](https://open.spotify.com/artist/51mJcbrO6wCPWJDXffpAKi) | [Di Ko Alam](https://open.spotify.com/album/65yOErUwFhSK9t1so39QBT) | 3:12 | 2026-03-10 | 2026-04-13 |
 | [Di Ko Sinabi](https://open.spotify.com/track/5LsHJdZUGkLVzW8Uz1LgLV) | [Hezekiah Mesina](https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp) | [Di Ko Sinabi](https://open.spotify.com/album/0YSVtW6W2TJcOVzEZsUGQ5) | 4:35 | 2026-03-09 | 2026-03-18 |
 | [Di Na](https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Di Na](https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI) | 4:07 | 2026-03-17 | 2026-05-12 |
@@ -203,7 +204,7 @@
 | [Sana'y Di Matapos Ang Gabi](https://open.spotify.com/track/43bWUDblEE6AabBVAv9y8X) | [Saranggola Society](https://open.spotify.com/artist/4zNyknsvBptSyQ09BUlfax) | [Sana'y Di Matapos Ang Gabi](https://open.spotify.com/album/5meu1mbjCUpY5IXOv98KZW) | 4:56 | 2026-03-09 | 2026-03-31 |
 | [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 | 2024-12-16 | 2025-02-05 |
 | [Sapat](https://open.spotify.com/track/16DOniUplo7e5jpPuf5Y7q) | [Andrew Ramos](https://open.spotify.com/artist/15O0YfpWiSYUMsaJJkoZMI) | [Sapat](https://open.spotify.com/album/3g6qYWAya2Mg149N7UlPQe) | 3:51 | 2025-11-24 | 2025-12-09 |
-| [Set You Free](https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD) | [Side A](https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [The Platinum Collection](https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz) | 4:33 | 2024-02-27 |  |
+| [Set You Free](https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD) | [Side A](https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [The Platinum Collection](https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz) | 4:33 | 2024-02-27 | 2026-05-16 |
 | [sh\*t sobrang init](https://open.spotify.com/track/0P30Kh9Ye53cIib0q9j673) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [sh\*t sobrang init](https://open.spotify.com/album/3yYDFXBAptstNq40E5g4Cw) | 3:02 | 2025-04-30 | 2025-07-09 |
 | [Sikretong Tayo Lang May Alam](https://open.spotify.com/track/3ifW37TIg8ZLHcVbwlapdP) | [SHANNi](https://open.spotify.com/artist/46rXMWiYqSYCwidbAAWPTp) | [Sikretong Tayo Lang May Alam](https://open.spotify.com/album/1DNAxfgMrm75PFo0k0gIUT) | 4:46 | 2025-11-07 | 2025-11-25 |
 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 | 2023-10-20 |  |

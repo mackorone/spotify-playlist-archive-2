@@ -4,7 +4,7 @@
 
 > 
 
-1,001 songs - 2 day 15 hr 3 min
+1,004 songs - 2 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Catheter](https://open.spotify.com/track/4vTd0i3NaGpnzJH6zbNmhS) | [luella](https://open.spotify.com/artist/73K5oITfYGv4aemqaBcOk7) | [Catheter](https://open.spotify.com/album/1KHVYY0lMIUPBcsL6NA7Vs) | 2:17 | 2025-02-07 |  |
 | [Chain Reaction](https://open.spotify.com/track/6eUV8Oq5y8IN64lXvXI8Ma) | [Hollywood Brown](https://open.spotify.com/artist/12mNM98ggDqToRrtIHoEVN) | [Reverberator](https://open.spotify.com/album/5NzSnhcEID2WaSoA9WCun5) | 4:00 | 2025-07-02 |  |
 | [Chains We Don’t See](https://open.spotify.com/track/4DQ22ctWmDXPyNi90U7dig) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Chains We Don’t See](https://open.spotify.com/album/6HTX3i1r5pifMffwycpBx1) | 3:18 | 2026-01-23 |  |
+| [Chameleon](https://open.spotify.com/track/3cHgPTTUVaXXuXPRjLFQvQ) | [Barny Holmes](https://open.spotify.com/artist/5VVqpAN9Tx5L60NOHqiMXi) | [Chameleon](https://open.spotify.com/album/1J2fR4ljSgbw9HJETIw0we) | 3:45 | 2026-05-15 |  |
 | [Chibo Da Paz](https://open.spotify.com/track/5YdFeUWIdKNS9CWXkwpFaH) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Chibo Da Paz](https://open.spotify.com/album/2Ly60U1eaASX4ADbkzgv7K) | 3:19 | 2025-04-24 |  |
 | [Choke On Shame](https://open.spotify.com/track/3Uj9MWSuSluWsAwvLB9r5H) | [Wildchains](https://open.spotify.com/artist/6LTDVLBOAZYAcrn459uQf8) | [Choke On Shame](https://open.spotify.com/album/1PwPl6Nf3pfmr4gVvVu5SM) | 5:15 | 2025-08-21 |  |
 | [Chromatic Aberration II: Red](https://open.spotify.com/track/4Qv19dRn9pUgn51xNZpBEC) | [Sanyi](https://open.spotify.com/artist/4LuNXJttaMzPJr9nrSguqs), [Twisting Ties](https://open.spotify.com/artist/5l2MXFMPlVDgy11PZNpDlm) | [Chromatic Aberration](https://open.spotify.com/album/0uCgEnMDfretxwhZ3RBXHV) | 3:30 | 2025-05-15 |  |
@@ -301,6 +302,7 @@
 | [Frozen Lusters of Shattered Purity](https://open.spotify.com/track/7s4A4kjY9ZEqioiu08jPyU) | [Trails of Anguish](https://open.spotify.com/artist/6LUo6fHv3BDFWskGqljGlP) | [Frozen Lusters of Shattered Purity](https://open.spotify.com/album/7wk0cRINe5xCLEIb3zzb3h) | 4:24 | 2026-03-06 |  |
 | [Fruit Flies](https://open.spotify.com/track/6rY8QNp26wvxJIZcOLpLLp) | [Semachos](https://open.spotify.com/artist/1CG5ZIyrRrIWEBMMu6cvLH) | [Fruit Flies](https://open.spotify.com/album/28WvifoppUEl3lL0iRmxfT) | 2:42 | 2025-10-09 |  |
 | [Future \#1](https://open.spotify.com/track/2MbuXgY5GbsbeDtTA22v8T) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Strains](https://open.spotify.com/album/1sSopvKkS0Y38hLgXBGyVx) | 3:23 | 2025-05-15 |  |
+| [Galaxy Of Delights](https://open.spotify.com/track/1sHlpl3JBOzquWXye4KQ7j) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 3:31 | 2026-05-15 |  |
 | [Ganância](https://open.spotify.com/track/52exrDs5KivzWvtg4e7LEc) | [BRAVA HC](https://open.spotify.com/artist/5xCfJYUnnIkUjjuIA0tfUn) | [Ganância](https://open.spotify.com/album/5bvIVnNAxlGJLVcKpm2pWY) | 3:16 | 2025-09-04 |  |
 | [Garbarekk](https://open.spotify.com/track/0VyTyDjnfqIV1JtoTsro7w) | [Magnetfisch](https://open.spotify.com/artist/1kSxv7KegqfXIQXpD4zZhX) | [Existing Building](https://open.spotify.com/album/1O0E3PBFUihI34M7haYlbv) | 3:56 | 2026-05-09 |  |
 | [Gasoline Heart](https://open.spotify.com/track/1DDF1awnQP2oRlWzQdl8mw) | [Matty Mannant](https://open.spotify.com/artist/7Md4vnO1EzzzwN716kEXtR) | [Gasoline Heart](https://open.spotify.com/album/5mZHaJw6plNCF1CUEBcsJu) | 3:49 | 2025-06-12 |  |
@@ -567,6 +569,7 @@
 | [Now That's What I Call a \(Re\)Lapse in Judgement](https://open.spotify.com/track/4PQR9OLOKPoObDJus6p93x) | [Adjust the Sails](https://open.spotify.com/artist/4xVPBr0C8OxqJL4796EZzr) | [Now That's What I Call a \(Re\)Lapse in Judgement](https://open.spotify.com/album/1j4m67BaGYEn6tabMEKPXY) | 2:43 | 2025-02-07 |  |
 | [NPC](https://open.spotify.com/track/1orEd9mHUDxDVKqT0GVd3R) | [Dan Malo](https://open.spotify.com/artist/46rQ8R6ujcodl1QCv4mTTF) | [NPC](https://open.spotify.com/album/7dtYFoUxfoIh5ZXzXLyvzS) | 4:35 | 2025-02-17 |  |
 | [NUMB VISION](https://open.spotify.com/track/5yo5ztbdpoKISbfiQxbZYe) | [Lowhill](https://open.spotify.com/artist/7i6h22ezHqGU7V6vQCCfE3) | [DENIAL](https://open.spotify.com/album/70AsrxF2MiaQPKdXoM86sc) | 3:07 | 2025-12-30 |  |
+| [När kommer du hem till mig igen?](https://open.spotify.com/track/5KbhspQpwoUFChZhOh63zs) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [När kommer du hem till mig igen?](https://open.spotify.com/album/5LYBq6tfJhUqYertG0Dj7p) | 2:49 | 2026-05-15 |  |
 | [Nèmesi](https://open.spotify.com/track/1cGGFm0ysWvPZbsvynCTa9) | [Saüc](https://open.spotify.com/artist/4OmgmK0ZHxYO6oHDkeMSVN) | [Catarsi](https://open.spotify.com/album/4JbGKFuDtvps49Yp1wzXb4) | 4:38 | 2025-10-19 |  |
 | [O Porquê da Gente](https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [O Porquê da Gente](https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW) | 3:54 | 2026-01-14 |  |
 | [Oblivion](https://open.spotify.com/track/0PM5XynIMuGuKK7quAutGc) | [Black Reuss](https://open.spotify.com/artist/1XOqNj1Cvo0DtJUv7TGa6R) | [Oblivion](https://open.spotify.com/album/2OOHex3XINAsQiaepiNDfo) | 5:35 | 2026-02-07 |  |

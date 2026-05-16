@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Umur Erdem
 
-400 songs - 20 hr 28 min
+401 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [İstila](https://open.spotify.com/track/55RMTZJaCJpUl4lT8JmJX7) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [DANS İLLÜZYON](https://open.spotify.com/album/5jBFycgr33bOZb68ET8XfB) | 3:21 | 2024-06-20 | 2024-08-09 |
 | [İyi Bilirsin](https://open.spotify.com/track/6DGN33TDClN9geoathxgmF) | [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [İyi Bilirsin](https://open.spotify.com/album/3eHPNIDQnb5DVfsLMFSUJF) | 3:04 | 2025-07-03 |  |
 | [İyiler Kazanır](https://open.spotify.com/track/6fjyJZUq7N8WrJzgpE0lEi) | [Pus](https://open.spotify.com/artist/6BOUB5akfQ6iQT0qS7XrNU) | [İyiler Kazanır](https://open.spotify.com/album/2hzT1woGP3YNR8uHI2Ysry) | 3:55 | 2026-05-08 |  |
+| [İyileşeceğim](https://open.spotify.com/track/02758HG3FuHb9YadfpaKge) | [Ezgi Eyüboğlu](https://open.spotify.com/artist/6kjMT9B9HENP9YDIYXrzpa) | [İyileşeceğim](https://open.spotify.com/album/00v0CYn3iF7QsvIE98cqT7) | 3:35 | 2026-05-08 |  |
 | [İzlerim](https://open.spotify.com/track/60aYyHOqGlZIb4V8YzO77Y) | [OD Band](https://open.spotify.com/artist/4jT7a6Eq3mnAxfboEQLvzL) | [İzlerim](https://open.spotify.com/album/0Ytzk1Gaw628FXQR4tJOn1) | 4:04 | 2026-04-17 | 2026-05-09 |
 | [İçimdeki Yalnızlar Uyandı](https://open.spotify.com/track/6APkosKtqkaP79d5zsMyI2) | [Tuğçe Bürge](https://open.spotify.com/artist/7ki317glV5cmTMG8rvUlcF) | [İçimdeki Yalnızlar Uyandı](https://open.spotify.com/album/5Y06UqoD6w16yC710MulKV) | 4:29 | 2026-02-19 | 2026-02-28 |
 | [İşte De Böyle](https://open.spotify.com/track/7dX613EBq3NEULW2oHzHyO) | [Duru And](https://open.spotify.com/artist/79h9QbZLQ5w3lgDxDOanyQ) | [İşte De Böyle](https://open.spotify.com/album/4PMB0miN18Yl10OQIPo9X3) | 2:21 | 2025-08-28 | 2025-09-05 |
@@ -256,7 +257,7 @@
 | [Sakince](https://open.spotify.com/track/5S4WsBGDf23u4LvSzkqp9D) | [Aishe](https://open.spotify.com/artist/0O4H5buGzNVQ9wp334e1wg) | [Sakince](https://open.spotify.com/album/0rJ2rVtlgOBe1P0LX9z5aF) | 2:35 | 2026-02-12 | 2026-04-28 |
 | [sakla ikimizi](https://open.spotify.com/track/6lArS3LY2ieViyvpYGcLTi) | [Olabilir!](https://open.spotify.com/artist/5Q17hiDpug3g5J2Z7XSWhd) | [sakla ikimizi](https://open.spotify.com/album/0ipeFeWEiC0pOnIWah5M4i) | 3:33 | 2026-05-08 |  |
 | [Sal](https://open.spotify.com/track/44nYGyz9DwMU6dOWVxL2FK) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Sal](https://open.spotify.com/album/0SkOqSQaogpiYuUm5hwhre) | 2:37 | 2024-07-04 | 2024-11-22 |
-| [Sana Değen Ellerim](https://open.spotify.com/track/1aYBSPmq9ORPj1cGCejlUU) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [Sana Değen Ellerim](https://open.spotify.com/album/1hzJneiAVLILxU5K2OjS30) | 3:03 | 2025-07-10 |  |
+| [Sana Değen Ellerim](https://open.spotify.com/track/1aYBSPmq9ORPj1cGCejlUU) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [Sana Değen Ellerim](https://open.spotify.com/album/1hzJneiAVLILxU5K2OjS30) | 3:03 | 2025-07-10 | 2026-05-16 |
 | [Sana Saygımdan](https://open.spotify.com/track/7zruRpV7lwBpNOznSB0ajp) | [Çağrı Kaymak](https://open.spotify.com/artist/48lJuxfvMSWwx2R5885xtb) | [Sana Saygımdan](https://open.spotify.com/album/5UIN7Fdlqsv2ph8ZcNKLfl) | 2:37 | 2025-09-25 | 2025-12-13 |
 | [SANA YOK](https://open.spotify.com/track/6guSXEILlodbBe1uLen7Jf) | [Öykü](https://open.spotify.com/artist/4RhGRpWkUswnIi6vHMa0Jr) | [SANA YOK](https://open.spotify.com/album/3zblBLTGuW38AaBv1jbkCw) | 2:10 | 2026-01-08 | 2026-04-11 |
 | [Say](https://open.spotify.com/track/4no0XGOaz8wTxZhOfW9yZy) | [İkbal Özkan](https://open.spotify.com/artist/4jpJ7QKQCkp7Y8B0xbuC41) | [Say](https://open.spotify.com/album/1IihZjrYbFHHOhlf02HQRq) | 2:48 | 2025-09-04 | 2025-11-07 |

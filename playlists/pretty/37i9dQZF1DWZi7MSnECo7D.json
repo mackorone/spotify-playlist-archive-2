@@ -1,15 +1,35 @@
 {
-  "description": "M\u00fasica brasileira fora da curva. Foto: Jambu",
-  "num_followers": 771174,
+  "description": "M\u00fasica brasileira fora da curva. Foto: Cidade Dormit\u00f3rio, YMA",
+  "num_followers": 771049,
   "original_name": "alt BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALyGa0k8r/kwvQSqG2HsWzduLRMi",
+  "snapshot_id": "AAAAAMLFuv1819pmYqrXCFhdlTrqZa9K",
   "tracks": [
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
+      "album": {
+        "name": "Cinema B\u00e9lico?",
+        "url": "https://open.spotify.com/album/7HTM8l0ms2UGoIGOSbtnKD"
+      },
+      "artists": [
+        {
+          "name": "Cidade Dormit\u00f3rio",
+          "url": "https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf"
+        },
+        {
+          "name": "YMA",
+          "url": "https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9"
+        }
+      ],
+      "duration_ms": 200887,
+      "name": "Morcega",
+      "url": "https://open.spotify.com/track/4X6ahvTtoxqt99uFNvzmVb"
+    },
+    {
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Me Deixe Estar",
         "url": "https://open.spotify.com/album/5QY7Wb95tBrj2I67ziAhJX"
@@ -25,7 +45,23 @@
       "url": "https://open.spotify.com/track/6Cqw1DqoQOkrFGCX2uTc3d"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
+      "album": {
+        "name": "PEDAGIOS Y CARONAS",
+        "url": "https://open.spotify.com/album/1ADyzZnYO53coeiJT79BtK"
+      },
+      "artists": [
+        {
+          "name": "Tangolo Mangos",
+          "url": "https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o"
+        }
+      ],
+      "duration_ms": 142682,
+      "name": "ARMADURA ARMADILHA",
+      "url": "https://open.spotify.com/track/2qtSDKYyQVr1ef0XgIfPcw"
+    },
+    {
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Bicicleta",
         "url": "https://open.spotify.com/album/5mAxGGwUUdtykGZLCIz4zd"
@@ -41,7 +77,7 @@
       "url": "https://open.spotify.com/track/5R6QiRpQDGoWsdjj1Q0pfs"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Migalhas",
         "url": "https://open.spotify.com/album/6fQCzPUP45tyjMbwzcOlKJ"
@@ -57,27 +93,23 @@
       "url": "https://open.spotify.com/track/0aq7xZ7JUOuOeHJaIPTpI3"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
-        "name": "Trailers do futuro",
-        "url": "https://open.spotify.com/album/4bLafK72fi1C4KIXfYHEi0"
+        "name": "Catamar\u00e3",
+        "url": "https://open.spotify.com/album/3xj0ACmQ7wluSKYIISFfae"
       },
       "artists": [
         {
-          "name": "Cidade Dormit\u00f3rio",
-          "url": "https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf"
-        },
-        {
-          "name": "Grisa",
-          "url": "https://open.spotify.com/artist/7hV07PjlQI1Zcy31okJJZ5"
+          "name": "TEG\u00ca",
+          "url": "https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F"
         }
       ],
-      "duration_ms": 244180,
-      "name": "Trailers do futuro",
-      "url": "https://open.spotify.com/track/5fXO4FNwekuKXWjpaxhuEP"
+      "duration_ms": 154224,
+      "name": "Catamar\u00e3",
+      "url": "https://open.spotify.com/track/6iuuKZ0eVuRrv6DzL6NAni"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Colch\u00e3o",
         "url": "https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ"
@@ -93,7 +125,23 @@
       "url": "https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
+      "album": {
+        "name": "Dil\u00favio de Dinheiro Algum",
+        "url": "https://open.spotify.com/album/7Fr1ExGVYK2g9zUF7oxLWv"
+      },
+      "artists": [
+        {
+          "name": "Ludovic",
+          "url": "https://open.spotify.com/artist/2zKQpbSlJv1z8xK9mFaXwU"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "Dil\u00favio de Dinheiro Algum",
+      "url": "https://open.spotify.com/track/4kGAcLyuxF38RA7dmGEjYG"
+    },
+    {
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "meia volta",
         "url": "https://open.spotify.com/album/5mJRNHDQf9db5gFTu9nD1W"
@@ -109,7 +157,27 @@
       "url": "https://open.spotify.com/track/3uPnhYJOAw1lvwRewOLS8U"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
+      "album": {
+        "name": "Luzes Que V\u00e3o Passando - Frio",
+        "url": "https://open.spotify.com/album/0D40fjIvrWnBTNMDrHXuW3"
+      },
+      "artists": [
+        {
+          "name": "Pablo Vermell",
+          "url": "https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5"
+        },
+        {
+          "name": "Superv\u00e3o",
+          "url": "https://open.spotify.com/artist/6RaRPRrUnOwLbXI5q0nvFj"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Luzes Que V\u00e3o Passando - Frio",
+      "url": "https://open.spotify.com/track/7x3VTgrjDdkDhDA2kUog9v"
+    },
+    {
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "seres urbanos",
         "url": "https://open.spotify.com/album/3oCQoO5vhmFboVlUlLqyYg"
@@ -125,7 +193,23 @@
       "url": "https://open.spotify.com/track/358mmoC0a4iwFKNQ4nBan5"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
+      "album": {
+        "name": "Ainda Aqui",
+        "url": "https://open.spotify.com/album/14sjEivdUvcT0kdBzRRYDC"
+      },
+      "artists": [
+        {
+          "name": "Rafa Canovas",
+          "url": "https://open.spotify.com/artist/4bwXauSZTnrlZLw47HkDuD"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "\u00daltima Noite",
+      "url": "https://open.spotify.com/track/2eZWmLAuzWgNTJZlQV2E6p"
+    },
+    {
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Casca",
         "url": "https://open.spotify.com/album/7MElLSV72WuGzovGuuofil"
@@ -145,7 +229,7 @@
       "url": "https://open.spotify.com/track/7y4aQ9TBqOot08yUtglTE1"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Assim (Acho Um Pouco Bom)",
         "url": "https://open.spotify.com/album/18KpMIbMOSkPEjlaCPpjvM"
@@ -165,7 +249,7 @@
       "url": "https://open.spotify.com/track/1qibtJEVQ6iZ3hM23M9KQV"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "T\u00e1 Foda",
         "url": "https://open.spotify.com/album/2j3ATjDBr3H0LgUiOyhUkN"
@@ -189,7 +273,27 @@
       "url": "https://open.spotify.com/track/4NmGGeaEyyfv69VxfXjdRH"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
+      "album": {
+        "name": "Trailers do futuro",
+        "url": "https://open.spotify.com/album/4bLafK72fi1C4KIXfYHEi0"
+      },
+      "artists": [
+        {
+          "name": "Cidade Dormit\u00f3rio",
+          "url": "https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf"
+        },
+        {
+          "name": "Grisa",
+          "url": "https://open.spotify.com/artist/7hV07PjlQI1Zcy31okJJZ5"
+        }
+      ],
+      "duration_ms": 244180,
+      "name": "Trailers do futuro",
+      "url": "https://open.spotify.com/track/5fXO4FNwekuKXWjpaxhuEP"
+    },
+    {
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/3D0eJW90GsA9qO0NzTGZ8n"
@@ -205,7 +309,7 @@
       "url": "https://open.spotify.com/track/2bPS49N2cTGa5Eb0R0clP5"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Desculpa",
         "url": "https://open.spotify.com/album/7bypvt3AG7P0zibqWQzudA"
@@ -221,7 +325,7 @@
       "url": "https://open.spotify.com/track/0eYhsqk8WYzwjI5EEiKHL8"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Faz Tanto Tempo",
         "url": "https://open.spotify.com/album/1y0esu7IlufE8X2d0mLVRz"
@@ -237,7 +341,7 @@
       "url": "https://open.spotify.com/track/4QLHR9sNJDPwNX0pAjkPp0"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/3gzq2cXMfBjN5oJxC8K05M"
@@ -253,7 +357,7 @@
       "url": "https://open.spotify.com/track/2rNO2pDk2R1WK3YApUmR8J"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Julieta",
         "url": "https://open.spotify.com/album/4Q1FAQU7FMaX5QnjHxQHkX"
@@ -269,7 +373,7 @@
       "url": "https://open.spotify.com/track/7iVdVEANzcCXpYpLRzsd6w"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "SOLAR",
         "url": "https://open.spotify.com/album/5JEZpxHrCy37EfkPWyrzLC"
@@ -289,16 +393,12 @@
       "url": "https://open.spotify.com/track/6UoKRLc50C8dHPWPvoa7R1"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Ainda aprendendo a lidar",
         "url": "https://open.spotify.com/album/2Fw76SOb68k0RtNTWA5TKv"
       },
       "artists": [
-        {
-          "name": "Vitor Campos Scabbia",
-          "url": "https://open.spotify.com/artist/6MroesEATvDBEtsp0mpx5R"
-        },
         {
           "name": "Cronistas",
           "url": "https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq"
@@ -309,7 +409,7 @@
       "url": "https://open.spotify.com/track/0IRUazz8KtNHIiyf5ezOGX"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "h\u00e1 um certo medo em deixar ir",
         "url": "https://open.spotify.com/album/0MBDKiJdfzCx4IucubJ9fa"
@@ -325,7 +425,7 @@
       "url": "https://open.spotify.com/track/2Lzhyfc0HTqSPpLKSwYWZE"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "O Que Fazem Os Adultos?",
         "url": "https://open.spotify.com/album/0oIrkLblF8M5gMINtQItma"
@@ -345,27 +445,7 @@
       "url": "https://open.spotify.com/track/2wtMnf9LHAuLOKJiU9GE8G"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
-      "album": {
-        "name": "Novelo",
-        "url": "https://open.spotify.com/album/0m2qrKqCmHcmTDUmOqhsK9"
-      },
-      "artists": [
-        {
-          "name": "Clara Castro",
-          "url": "https://open.spotify.com/artist/328HvJJoTrRr4AwtJtlChp"
-        },
-        {
-          "name": "Laura Concei\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/3GwHMJksRHmGDFCae0Mqs9"
-        }
-      ],
-      "duration_ms": 99696,
-      "name": "Morango",
-      "url": "https://open.spotify.com/track/3NCORaZ7l8APvvyVMhIRBw"
-    },
-    {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Toda esfera",
         "url": "https://open.spotify.com/album/4hAbx7wgmY0FeBeXEOdK7G"
@@ -381,7 +461,7 @@
       "url": "https://open.spotify.com/track/1ZTrlN4pjVEMBoafchACc3"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Melhor Resposta",
         "url": "https://open.spotify.com/album/3HkXrJbILbnwdazjRGFZOv"
@@ -397,23 +477,7 @@
       "url": "https://open.spotify.com/track/3y4XwP5QX7z2E9Co6U2lKs"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
-      "album": {
-        "name": "Eu e Voc\u00ea ou Tudo o que Eu N\u00e3o Quero que Voc\u00ea Saiba",
-        "url": "https://open.spotify.com/album/3MIrm2IWtieKTKzvcWej6A"
-      },
-      "artists": [
-        {
-          "name": "sorosoro",
-          "url": "https://open.spotify.com/artist/4ULegGFxtDXiqcqWDCOUGB"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Eu J\u00e1 N\u00e3o Aguento Mais",
-      "url": "https://open.spotify.com/track/6dJr7GSHUozwaHrYAXvXX4"
-    },
-    {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "No Lugar",
         "url": "https://open.spotify.com/album/1k6CBaapU4uoa4f1RgARjz"
@@ -429,7 +493,7 @@
       "url": "https://open.spotify.com/track/1vhNRQZLL0PtdpkzLucwK0"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Sem In\u00edcio Nem Fim",
         "url": "https://open.spotify.com/album/4X8OdTAgIsHiFYItSm1k5D"
@@ -445,7 +509,7 @@
       "url": "https://open.spotify.com/track/3ui5IGS8jIlvqmtD9EfJDP"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Me Diz Que Vai Ficar Tudo Bem",
         "url": "https://open.spotify.com/album/777j9m7iXB8jagtOqxPqIR"
@@ -461,7 +525,7 @@
       "url": "https://open.spotify.com/track/0odwNQkRJs4vrvPfovvOHl"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "BALA DE BANANA",
         "url": "https://open.spotify.com/album/2ecM686DWMlwwbKvnqtjto"
@@ -477,7 +541,7 @@
       "url": "https://open.spotify.com/track/48TkQgizaqWSIajEodSKLx"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Sobre as Aves",
         "url": "https://open.spotify.com/album/2zC8x6wMa5ANYVLObQ7MM2"
@@ -493,7 +557,7 @@
       "url": "https://open.spotify.com/track/0ivp9LTo2VaHHe0L2pkg4S"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Voc\u00ea Sabe Bem",
         "url": "https://open.spotify.com/album/0r4SCZb2ad6flYCzFRaECL"
@@ -513,7 +577,7 @@
       "url": "https://open.spotify.com/track/08qLu0pFzJMUMhm7X6s6Ta"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Palavra de Amigo",
         "url": "https://open.spotify.com/album/0nrRXmFg1ez4pjIWaEhVlv"
@@ -529,7 +593,7 @@
       "url": "https://open.spotify.com/track/1eceS7epAB4s1U4TRD1FyC"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "AQUINO ao vivo",
         "url": "https://open.spotify.com/album/7KBvhJdGKzB0mAuivMfGSG"
@@ -545,7 +609,7 @@
       "url": "https://open.spotify.com/track/2qmh5D1CE0WEqFQ8SB1SzW"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Depressa",
         "url": "https://open.spotify.com/album/2o3ooJPzpn2Y6UHGtoRtoN"
@@ -561,23 +625,7 @@
       "url": "https://open.spotify.com/track/1fdw0RylmEVesr0sKUeT4x"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
-      "album": {
-        "name": "Quest\u00e3o de Fogo",
-        "url": "https://open.spotify.com/album/3gPuiyXFEI43yREaJjGZnf"
-      },
-      "artists": [
-        {
-          "name": "Oblomov",
-          "url": "https://open.spotify.com/artist/2EUaba83feGXNAGXAhERE7"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Quest\u00e3o de Fogo",
-      "url": "https://open.spotify.com/track/4powTPisOZkWY8da8sBeWl"
-    },
-    {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Denga (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ZroXj4Ayz1012p5sWt2kf"
@@ -593,23 +641,7 @@
       "url": "https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
-      "album": {
-        "name": "Me mande um (sinal)",
-        "url": "https://open.spotify.com/album/2yjyedH74RW8Vn3kQfFMvD"
-      },
-      "artists": [
-        {
-          "name": "corama",
-          "url": "https://open.spotify.com/artist/6MIhN6VoByrGx5EjVoz21W"
-        }
-      ],
-      "duration_ms": 153398,
-      "name": "Me mande um (sinal)",
-      "url": "https://open.spotify.com/track/2JwXqx97V0XvZpKKPUAwVx"
-    },
-    {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Menina do cabelo alaranjado",
         "url": "https://open.spotify.com/album/40wuN4ukAndX0xBCYIbecA"
@@ -625,7 +657,7 @@
       "url": "https://open.spotify.com/track/2Rspg5WSGNFmU0XicEwYr8"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "RESID\u00caNCIA RISCO #01",
         "url": "https://open.spotify.com/album/48pIeNximaHm0vhUa8naBT"
@@ -645,7 +677,7 @@
       "url": "https://open.spotify.com/track/0fSkB57cN8TsZBIbhvUeNA"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/0bAjb8XF1KuD49NvdRgiiI"
@@ -661,7 +693,7 @@
       "url": "https://open.spotify.com/track/3C7rx29J2MH2rVrEdLUKWc"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Ao Vivo na Argentina",
         "url": "https://open.spotify.com/album/51XlyGF3Blula76b4YUPCO"
@@ -677,7 +709,7 @@
       "url": "https://open.spotify.com/track/7JhCm3FTTe6mP0OJrEHstO"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Descansad\u00e3o",
         "url": "https://open.spotify.com/album/5xwO7zqxJBdv17d0jrj6sJ"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/74rzS1YhGpXzqb00TF1BjS"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Ensalada de Verano",
         "url": "https://open.spotify.com/album/5vFfW1UcJQPUjVhJEfgb5I"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/7qwBPJeOXTYhSxRPOfVGWs"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "fim de domingo",
         "url": "https://open.spotify.com/album/7mNeGSINS61SOeqVOhOj1F"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/28NK0zNiD1tYD8TRYDzkzz"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "O Sonho da Lagosta",
         "url": "https://open.spotify.com/album/1EeLGkApCB1q9t8jb1ZADa"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/6fV2IXHvlIda4fHJuXEvXn"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Julieta",
         "url": "https://open.spotify.com/album/4Q1FAQU7FMaX5QnjHxQHkX"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/1C6o5ypsjD6TUPlTPqFbT0"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Voc\u00ea \u00c9 Marcante",
         "url": "https://open.spotify.com/album/2L79fd9okcnR3p1fCTGg4P"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/4zrCqMzFIkW5e9dletNJBZ"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "slow down / vc me disse",
         "url": "https://open.spotify.com/album/6P0uNdRotmFioY6RbJbOdc"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/2GVOf10WzZfkAUYJL4CYL8"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Euforia",
         "url": "https://open.spotify.com/album/0UpfBrBSO0TIKC7eJ8A96f"
@@ -829,7 +861,7 @@
       "url": "https://open.spotify.com/track/4iYoNJIRDj42S1pMJUxZce"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "\u00c9 o Poder da Dan\u00e7a",
         "url": "https://open.spotify.com/album/1rhOfNKkeZTpl7ngJcVHiB"
@@ -845,7 +877,7 @@
       "url": "https://open.spotify.com/track/4Ll3b1EHZp3FEK0njFSuCy"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "maravilhosamente bem (remix by Mul\u00fa)",
         "url": "https://open.spotify.com/album/44wmqzxOycy35rAHNYORAZ"
@@ -865,7 +897,7 @@
       "url": "https://open.spotify.com/track/6UwtDRcAaONIoG4U1z19BN"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Presente",
         "url": "https://open.spotify.com/album/6ZRkE4Q2fphdQ1pizokpp7"
@@ -881,7 +913,7 @@
       "url": "https://open.spotify.com/track/12fmgHPWF4ljzjxdqjusuY"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Atr\u00e1s do teu olhar",
         "url": "https://open.spotify.com/album/3uQGqqn02mxG3VrHjrshmF"
@@ -897,7 +929,7 @@
       "url": "https://open.spotify.com/track/0ZzykRDMx7FJqOUmtFec0M"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Teto Preto",
         "url": "https://open.spotify.com/album/2yIoEX7Z4IaSgjhvkm6hvd"
@@ -913,7 +945,7 @@
       "url": "https://open.spotify.com/track/1QNCgY1JdzW8jlj5dbOn9w"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Agu\u00e7a",
         "url": "https://open.spotify.com/album/726y6Ihnu5X0axz8yxPgCB"
@@ -929,7 +961,7 @@
       "url": "https://open.spotify.com/track/4QoRAKN5XUGSN2zEekKrnK"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "1KG",
         "url": "https://open.spotify.com/album/0MR2BlgqSihTLNnICvUi9t"
@@ -949,7 +981,7 @@
       "url": "https://open.spotify.com/track/1tvOQsOtB7d044F4SyDy05"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "D\u00f3i Ter",
         "url": "https://open.spotify.com/album/5TCfkPqWAZ93yV9ejBcIQG"
@@ -965,7 +997,7 @@
       "url": "https://open.spotify.com/track/0LlyT9UpvTaI0A7oKYt2Yk"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "me chame como quiser",
         "url": "https://open.spotify.com/album/7jHexgvU6fY0ipOv4WG4VM"
@@ -981,7 +1013,7 @@
       "url": "https://open.spotify.com/track/6ZQ2w20nB6WXeySZirfl8G"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Me Pede",
         "url": "https://open.spotify.com/album/0gnhQV4j0nQh4NvoNVHfad"
@@ -997,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3uTUUjzDliYIEpHi1YSLJC"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "13 de maio",
         "url": "https://open.spotify.com/album/6sLFxRt2ZXRCLERB8nZxZg"
@@ -1013,7 +1045,7 @@
       "url": "https://open.spotify.com/track/3hhUJ3fjSWcFhWJ7Df28xZ"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Sabo",
         "url": "https://open.spotify.com/album/2bW3OKawZMlsEwunwtWjAk"
@@ -1033,7 +1065,7 @@
       "url": "https://open.spotify.com/track/0ABwGonw1WbL4BouDlRgeO"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Barco Amn\u00e9sia",
         "url": "https://open.spotify.com/album/6YpmOtjPnyN21IcjmqULDl"
@@ -1049,23 +1081,7 @@
       "url": "https://open.spotify.com/track/7DPXgopzi3ilUPuMqJvVkt"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
-      "album": {
-        "name": "L\u00e1 Na Z\u00e1rea Todos Querem Viver Bem",
-        "url": "https://open.spotify.com/album/1InkjsA0pPp4AjeDpAOpbK"
-      },
-      "artists": [
-        {
-          "name": "Mateus Fazeno Rock",
-          "url": "https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5"
-        }
-      ],
-      "duration_ms": 285434,
-      "name": "Daquilo que Nois Merece",
-      "url": "https://open.spotify.com/track/1iZOIvRDiNogvXKnxag9ug"
-    },
-    {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Telejornal Animal",
         "url": "https://open.spotify.com/album/0g9meJjVpasnyuWqdoeWCH"
@@ -1081,7 +1097,7 @@
       "url": "https://open.spotify.com/track/74FqY7lGAMYPdz2Wogl5GY"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "O Velho",
         "url": "https://open.spotify.com/album/0N0pg3yRDgJmTftrRpXIkP"
@@ -1097,7 +1113,7 @@
       "url": "https://open.spotify.com/track/1tIVCufxDH7CkTLd1kLLmY"
     },
     {
-      "added_at": "2026-05-08 15:50:01",
+      "added_at": "2026-05-15 03:03:21",
       "album": {
         "name": "Terno Rei ilumina Sonast\u00e9rio",
         "url": "https://open.spotify.com/album/0NDOAD5l5L49dHicoe8zDd"
@@ -1115,38 +1131,6 @@
       "duration_ms": 221312,
       "name": "Peito (Ao Vivo no Sonast\u00e9rio)",
       "url": "https://open.spotify.com/track/0lpXOaa0AyPQbKMUFaAuNb"
-    },
-    {
-      "added_at": "2026-05-08 15:50:01",
-      "album": {
-        "name": "Confiss\u00e3o",
-        "url": "https://open.spotify.com/album/2ETWgGs7LWfgC24JOI3jDV"
-      },
-      "artists": [
-        {
-          "name": "Paira",
-          "url": "https://open.spotify.com/artist/5zp72qFQJre0AGm5eIdFVW"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Confiss\u00e3o",
-      "url": "https://open.spotify.com/track/2rIve8Bzo7b0x5u2CahwPJ"
-    },
-    {
-      "added_at": "2026-05-08 15:50:01",
-      "album": {
-        "name": "AVGN na Radio Agulha (ao vivo)",
-        "url": "https://open.spotify.com/album/6LML6JqiKorFCyfujnNz4t"
-      },
-      "artists": [
-        {
-          "name": "Superv\u00e3o",
-          "url": "https://open.spotify.com/artist/6RaRPRrUnOwLbXI5q0nvFj"
-        }
-      ],
-      "duration_ms": 158058,
-      "name": "Love e V\u00edcio em Sunshine (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0H4MhUG9yuruXduPny8FWt"
     }
   ],
   "unique_name": "alt BR",

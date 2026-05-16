@@ -2385,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Poser",
+        "url": "https://open.spotify.com/album/4jSSgjHPTpw3x6jnNbVD1d"
+      },
+      "artists": [
+        {
+          "name": "ilykimchi",
+          "url": "https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119338,
+      "name": "Poser",
+      "url": "https://open.spotify.com/track/5YandKtJP8NChZW4CDSFj1"
+    },
+    {
+      "album": {
         "name": "Pretty Poison",
         "url": "https://open.spotify.com/album/30kd0zsWPmZX52ImIlOawx"
       },
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 185721,
       "name": "Puss Puss - Girls Trip",
       "url": "https://open.spotify.com/track/3SI1ESntI5Fv9BtXShVtZQ"

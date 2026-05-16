@@ -1292,11 +1292,15 @@
       },
       "artists": [
         {
+          "name": "Tito Flow",
+          "url": "https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v"
+        },
+        {
           "name": "Amenazzy",
           "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -1310,7 +1314,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 241503,
       "name": "Dios Bendiga (Remix)",
       "url": "https://open.spotify.com/track/4S8wmEZy12C5UJUU0IQUee"
@@ -1956,7 +1960,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 165600,
       "name": "Florentino",
       "url": "https://open.spotify.com/track/562Ljlj5cWInjA3Yx7fO3j"
@@ -2659,6 +2663,28 @@
     },
     {
       "album": {
+        "name": "LOKEI",
+        "url": "https://open.spotify.com/album/0HhutdBHq4jcUuWcdRl1ZI"
+      },
+      "artists": [
+        {
+          "name": "Aaerosoul",
+          "url": "https://open.spotify.com/artist/5HkKsAAxLk8ICXAOyqRmju"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "LOKEI",
+      "url": "https://open.spotify.com/track/7IWCkadiKRXAGM0UCG2Xy4"
+    },
+    {
+      "album": {
         "name": "Los Valles",
         "url": "https://open.spotify.com/album/1NONMqgGZkqv1LLJ65RzCE"
       },
@@ -2814,7 +2840,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 190500,
       "name": "MALPARIDO",
       "url": "https://open.spotify.com/track/4wjIqViyNbifMldqFsdZk2"
@@ -3642,7 +3668,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 185660,
       "name": "NOS RELOJEAN",
       "url": "https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u"
@@ -3952,6 +3978,32 @@
       "duration_ms": 249897,
       "name": "PACK M",
       "url": "https://open.spotify.com/track/65OZK9U4Qjjjo3ph77iuya"
+    },
+    {
+      "album": {
+        "name": "PALETA",
+        "url": "https://open.spotify.com/album/29ciIZV5EK3Tng6ljBVFP6"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        },
+        {
+          "name": "Cimarr\u00f3n",
+          "url": "https://open.spotify.com/artist/55RsSMUUEc7iMzXQcRSHnI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "PALETA",
+      "url": "https://open.spotify.com/track/2SzCyTPBzybQRToUmxYiMg"
     },
     {
       "album": {

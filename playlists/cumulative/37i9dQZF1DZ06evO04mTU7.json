@@ -695,6 +695,28 @@
     },
     {
       "album": {
+        "name": "Nasci pra ser - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2gQtiyrMsbXHQAFaphqkKR"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175402,
+      "name": "Nasci pra ser - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2TVPbqCPJezGriT4wjCtyD"
+    },
+    {
+      "album": {
         "name": "A Pe\u00e7a Final",
         "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
       },

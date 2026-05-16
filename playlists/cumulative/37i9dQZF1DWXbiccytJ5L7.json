@@ -3067,6 +3067,28 @@
     },
     {
       "album": {
+        "name": "Solitary Sunrise",
+        "url": "https://open.spotify.com/album/5YIj0UkyEwheTooHZXT7SO"
+      },
+      "artists": [
+        {
+          "name": "Big Mo",
+          "url": "https://open.spotify.com/artist/6p0IWgx77UVIe3OBcaSgdA"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137007,
+      "name": "Solitary Sunrise",
+      "url": "https://open.spotify.com/track/0FnrYTWJGIV4Z4RG12awmn"
+    },
+    {
+      "album": {
         "name": "So Help Me God",
         "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
       },

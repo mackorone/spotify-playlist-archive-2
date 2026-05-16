@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Tanxugueiras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,768 likes - 119 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,779 likes - 119 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 23 | [Honey](https://open.spotify.com/track/3yYWcIuxJ2bE30uWYwMrGz) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Honey](https://open.spotify.com/album/1dqDOYhWvz8npwRAV6nXIR) | 2:18 |
 | 24 | [Ya no duele](https://open.spotify.com/track/6rBlAOLtp6jl3oYZQDofBQ) | [Hoonine](https://open.spotify.com/artist/7JLaKdKaR60XFtyXkwDICp) | [Ya no duele](https://open.spotify.com/album/5t7q37sAxlzN4KS4o20KC7) | 3:24 |
 | 25 | [Cat Fun](https://open.spotify.com/track/3w4nZeRSVFl1a0zAPGfoRA) | [Hnos Munoz](https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU) | [Cat Fun](https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm) | 3:28 |
-| 26 | [Track 9](https://open.spotify.com/track/1RA4w3uISppCKLm5oiSmY9) | [Emilia, Pardo y Bazán](https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j) | [Qué ha sido de los planes que hicimos anoche cuando estábamos borrachos](https://open.spotify.com/album/2rBEnYmhKJNtoR0USzLOCV) | 0:00 |
+| 26 | [Pido perdón](https://open.spotify.com/track/1RA4w3uISppCKLm5oiSmY9) | [Emilia, Pardo y Bazán](https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j) | [Qué ha sido de los planes que hicimos anoche cuando estábamos borrachos](https://open.spotify.com/album/2rBEnYmhKJNtoR0USzLOCV) | 2:51 |
 | 27 | [Kinder Bueno & Lotus](https://open.spotify.com/track/7qcK6Udp3c3WZ81HhU59fz) | [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [GRAVY](https://open.spotify.com/artist/2KbUHBduxmVybndhBOItql), [Piel Canala](https://open.spotify.com/artist/2gDERQi7c7SEWBzH1juZlS) | [Kinder Bueno & Lotus](https://open.spotify.com/album/39PSYED2szx6jiI44iBitp) | 3:08 |
 | 28 | [Pienso En Ti](https://open.spotify.com/track/6JrampDbMp4AM7R0TyLGtN) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Pienso En Ti](https://open.spotify.com/album/3h9y40Uj7jkoEVbn0TvgKb) | 3:23 |
 | 29 | [RECIPROCIDAD](https://open.spotify.com/track/17GUT7njYLs4yyNxXizmGB) | [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [RECIPROCIDAD](https://open.spotify.com/album/3JKvyrF0aRvnY5clHokKFP) | 2:47 |

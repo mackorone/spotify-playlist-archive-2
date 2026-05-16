@@ -2,14 +2,14 @@
 
 ### [Salsa Colombiana](https://open.spotify.com/playlist/37i9dQZF1DX18u16ebmQgx)
 
-> ¡Brillando baldosa! Foto: Guayacán Orquesta
+> ¡Brillando baldosa! Foto: Grupo Niche
 
-143 songs - 10 hr 41 min
+145 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Amantes \- Versión Salsa](https://open.spotify.com/track/30UA08ePK3varU1cNX2Owt) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Amantes \(Versión Salsa\)](https://open.spotify.com/album/1H1HjzU8EqJNAdSJgAVAmN) | 4:04 | 2022-06-24 | 2022-11-29 |
-| [Amor A Mitad](https://open.spotify.com/track/5yyfFBIoO5KwYd5yJ90VKf) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 3:11 | 2024-11-29 |  |
+| [Amor A Mitad](https://open.spotify.com/track/5yyfFBIoO5KwYd5yJ90VKf) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 3:11 | 2024-11-29 | 2026-05-16 |
 | [Amé a Mi Manera](https://open.spotify.com/track/7j0G6jPJGeI2JDHhOIiOqg) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Amé a Mi Manera](https://open.spotify.com/album/6wErcTCOsuPrVRzXVKCMGl) | 5:20 | 2026-05-01 |  |
 | [Antioqueña](https://open.spotify.com/track/0q9gWhv4K5GKzkJW80PYgS) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Antioqueña](https://open.spotify.com/album/6XC3sy2ZJvlDj6ezJLx8eb) | 4:29 | 2023-08-04 |  |
 | [Ayúdame Inspiración](https://open.spotify.com/track/4t3ZKcUdZkASycS1nixIgL) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Cuba Linda](https://open.spotify.com/album/5XhWe2O6ZHYu33IE67buw7) | 4:07 | 2022-06-24 | 2024-07-13 |
@@ -34,7 +34,7 @@
 | [Caramelo](https://open.spotify.com/track/3XChc2lJ2X4mlo5lX726Yw) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Fiesta Latina Sigilosa Vol\. 4](https://open.spotify.com/album/2q87HYnblQriFvSllw2uhu) | 3:35 | 2022-06-24 | 2022-11-14 |
 | [Caramelo](https://open.spotify.com/track/7FzYZso8aRnoE9gKDbauJA) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Bailando Salsa](https://open.spotify.com/album/7A9rMQU9AmTm9zST0SzHED) | 3:35 | 2022-06-24 | 2024-04-19 |
 | [Castigala](https://open.spotify.com/track/033vO3yfYViqWIKo8BdrTK) | [Los Nemus Del Pacifico](https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 4:36 | 2022-06-24 |  |
-| [Clásicos 1.0: Robando Sueños](https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Clásicos 1.0](https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl) | 3:54 | 2025-03-28 |  |
+| [Clásicos 1.0: Robando Sueños](https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Clásicos 1.0](https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl) | 3:54 | 2025-03-28 | 2026-05-16 |
 | [Conmoción](https://open.spotify.com/track/0uub4RZQaDYpziNCEIKgKM) | [Conmoción Orquesta](https://open.spotify.com/artist/2IStcUgrPfLfTXDjrhdjnd) | [La Cara del Gato](https://open.spotify.com/album/4YaY94wkPsU8nm10dMuGdq) | 5:00 | 2022-06-24 | 2025-08-16 |
 | [Curao en Salsa](https://open.spotify.com/track/1I70lW77TO4TbXAyAofPYy) | [Curao En Salsa](https://open.spotify.com/artist/6olL7cjgBRwpBZIphKCV5b) | [Salsa para el Bailador, Vol\. 1](https://open.spotify.com/album/7vqBHVKimf5ggc7PghVgMv) | 4:50 | 2022-06-24 |  |
 | [Dale al Bombo](https://open.spotify.com/track/43zdSGprJL0dg6cBQbwftd) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [Historia de la Salsa en el Siglo XX \(Vol\. 3\)](https://open.spotify.com/album/5cteav4JbTG3fF1nSVkZVs) | 3:43 | 2023-08-04 |  |
@@ -102,6 +102,7 @@
 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 | 2022-06-24 | 2024-04-19 |
 | [Micaela](https://open.spotify.com/track/4fMzopYZnezYVCOADldvq7) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [Boogaloo Is Here](https://open.spotify.com/album/1SemOW7b7Wz8yEyQTmZ6p6) | 4:44 | 2022-06-24 | 2022-11-13 |
 | [Misterio](https://open.spotify.com/track/3DIkuC14QBUNNsdPkAl6MT) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:48 | 2025-08-15 |  |
+| [Más Que Palabras](https://open.spotify.com/track/0DaFowAqjlEbisMddK326N) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Más Que Palabras](https://open.spotify.com/album/0LUFuSfEP0eKUSu8mEj7Wf) | 4:05 | 2026-05-15 |  |
 | [Negrita](https://open.spotify.com/track/3Jo2SW9CXnKN5HKm8l1kaP) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa Lado B](https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn) | 4:00 | 2022-06-24 |  |
 | [Noche de Arreboles](https://open.spotify.com/track/0OwS05mubfyTnplfP8rMwu) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:05 | 2022-06-24 |  |
 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 | 2022-06-24 | 2024-04-19 |
@@ -146,6 +147,7 @@
 | [Soy de Lo Peor](https://open.spotify.com/track/74GBtgq1XjVrNdp5Lv1jbM) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cuba Linda](https://open.spotify.com/album/5XhWe2O6ZHYu33IE67buw7) | 4:20 | 2022-06-24 |  |
 | [Te Necesito](https://open.spotify.com/track/4oNLeMYQUM4qfmZvfrToA0) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Dilema](https://open.spotify.com/album/7174cMsFU58E6JGbi3XOFK) | 4:15 | 2022-06-24 | 2023-09-16 |
 | [Tocando el Cielo Con las Manos](https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4) | 4:47 | 2022-11-29 |  |
+| [Tu recuerdo](https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Tu recuerdo](https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw) | 3:55 | 2026-05-15 |  |
 | [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-06-24 | 2024-04-27 |
 | [Vendedora de Amor](https://open.spotify.com/track/3uzuhX2qGvWN1XbqXWsx1v) | [Moncho Santana](https://open.spotify.com/artist/2JqEiy0aIziuAupest70fk) | [Aqui Estoy](https://open.spotify.com/album/17PeYAzeVDjmS3mP121grU) | 4:35 | 2022-06-24 |  |
 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 | 2022-06-24 |  |

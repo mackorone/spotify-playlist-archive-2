@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-312 songs - 17 hr 51 min
+313 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Shut Down](https://open.spotify.com/track/1wXKu5C1Y4YKGH1D4KEtA3) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Shut Down \(String Quartet Version\)](https://open.spotify.com/album/55LFEajoBG2pQIQFlIxfQ2) | 2:28 | 2024-09-27 |  |
 | [Simply The Best \(arr\. piano\)](https://open.spotify.com/track/5kYIZfn2qQbZHokroBDYxB) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Simply The Best \(arr\. piano\)](https://open.spotify.com/album/1xZviTqam23dfVpt6eccS4) | 2:54 | 2021-11-19 | 2023-09-30 |
 | [Smells Like Teen Spirit \- Piano Cover](https://open.spotify.com/track/6fvqtnABaU0svCjVTg7oSk) | [Queenz of Piano](https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz) | [Smells Like Teen Spirit](https://open.spotify.com/album/5ekaL7idjwFklKpUPZqChX) | 3:47 | 2021-11-19 |  |
+| [Snooze](https://open.spotify.com/track/2ewnQHMl0MwFVw04HAwNz4) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Snooze](https://open.spotify.com/album/0krxPHkFpWjjrEN96N16Gp) | 3:11 | 2026-05-15 |  |
 | [Snow On The Beach](https://open.spotify.com/track/2R9V7FCHYlhUiusE1lGJ08) | [Atwood Quartet](https://open.spotify.com/artist/4jdwgzrl2k8c9Fu6kIOyUx) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 4:12 | 2024-05-17 |  |
 | [Soda Pop \(Arr\. Piano\) \- From "K\-Pop Demon Hunters"](https://open.spotify.com/track/3g20p7Phwdn3BEl5Y8jSWG) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Soda Pop \(Arr\. Piano\)](https://open.spotify.com/album/1QCCzFAggMsQDMaGirK3nW) | 2:33 | 2025-11-26 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/4RF3cNvUyTDYiuj1Xw4XWs) | [Mike Dawes](https://open.spotify.com/artist/3B83ffT0B4Si3ttxzY9fMz) | [What Just Happened?](https://open.spotify.com/album/0tc53fBUv9MTYjhqFOIeWH) | 4:04 | 2021-11-19 |  |

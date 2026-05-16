@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96286,
+  "num_followers": 96282,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agO/AAAAAADQ8mIULR8QPu27LVv77Brp",
+  "snapshot_id": "agUQgAAAAAChubqS85N4h0U4R2njKwHa",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall Back (feat. NAV)",
-        "url": "https://open.spotify.com/album/7suwBb7PlZ6zupyHE1PYwP"
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
       "artists": [
         {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        },
-        {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 160055,
-      "name": "Fall Back (feat. NAV)",
-      "url": "https://open.spotify.com/track/2P2t2ligxAF1B562FDYrDu"
+      "duration_ms": 185785,
+      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5cx2X3RlGDk6g4DkPq4NYw"
     },
     {
       "added_at": null,
@@ -391,26 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+        "name": "Fall Back (feat. NAV)",
+        "url": "https://open.spotify.com/album/7suwBb7PlZ6zupyHE1PYwP"
       },
       "artists": [
         {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 185785,
-      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5cx2X3RlGDk6g4DkPq4NYw"
+      "duration_ms": 160055,
+      "name": "Fall Back (feat. NAV)",
+      "url": "https://open.spotify.com/track/2P2t2ligxAF1B562FDYrDu"
     },
     {
       "added_at": null,

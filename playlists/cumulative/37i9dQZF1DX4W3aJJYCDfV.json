@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-01",
-  "description": "Brand new music from Jorja Smith, Tove Lo and more! ",
+  "description": "Brand new music from Drake, Gracie Abrams, Jorja Smith, Tove Lo more! ",
   "name": "New Music Friday UK",
   "tracks": [
     {
@@ -1850,6 +1850,24 @@
       "duration_ms": 130979,
       "name": "120",
       "url": "https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN"
+    },
+    {
+      "album": {
+        "name": "Hear me vent",
+        "url": "https://open.spotify.com/album/3sAfU8HtLEbFcsoBUL88BJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Zino",
+          "url": "https://open.spotify.com/artist/7AUV18vpujVWJKIDZtFfWS"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162306,
+      "name": "12am in Milan",
+      "url": "https://open.spotify.com/track/3nP7GDxbWL9UqT5vkAqZb7"
     },
     {
       "album": {
@@ -17452,6 +17470,24 @@
       "duration_ms": 268626,
       "name": "Allbarone",
       "url": "https://open.spotify.com/track/4c2aIzS237QA5qLwC53wds"
+    },
+    {
+      "album": {
+        "name": "Alleluya (Another World)",
+        "url": "https://open.spotify.com/album/4ZGcnoWB6M3CDYp3v1fNfV"
+      },
+      "artists": [
+        {
+          "name": "Tommy W\u00c1",
+          "url": "https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210452,
+      "name": "Alleluya (Another World)",
+      "url": "https://open.spotify.com/track/7M2ThqUVttzAEZxf9XFF5Y"
     },
     {
       "album": {
@@ -54136,6 +54172,28 @@
       "duration_ms": 140952,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/00Z7FpxTgCo6bNy9VX8wFU"
+    },
+    {
+      "album": {
+        "name": "SET YOUR SIGHTS HIGHER",
+        "url": "https://open.spotify.com/album/4FveEBVuGPSWSvqmD7xgbR"
+      },
+      "artists": [
+        {
+          "name": "Tdarq",
+          "url": "https://open.spotify.com/artist/32fjTg4szazZo87Sgxs9a2"
+        },
+        {
+          "name": "db.",
+          "url": "https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150855,
+      "name": "BUILT LIKE TEE",
+      "url": "https://open.spotify.com/track/4QoshbFOlPPfXhiMaG5Mxv"
     },
     {
       "album": {
@@ -141897,6 +141955,24 @@
     },
     {
       "album": {
+        "name": "Girls Can't Listen to Booter",
+        "url": "https://open.spotify.com/album/173VaKfALh7yKEMxI7281o"
+      },
+      "artists": [
+        {
+          "name": "Booter Bee",
+          "url": "https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Girls Can't Listen to Booter",
+      "url": "https://open.spotify.com/track/4gY5wDSK7qU8QIShnlIE4T"
+    },
+    {
+      "album": {
         "name": "Girls first",
         "url": "https://open.spotify.com/album/0G3hx74DdbIhleZNgkuML6"
       },
@@ -197303,6 +197379,24 @@
     },
     {
       "album": {
+        "name": "Journey EP",
+        "url": "https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181108,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
+    },
+    {
+      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/0EbLbz4gsR540LasIjMdNA"
       },
@@ -231238,6 +231332,24 @@
       "duration_ms": 191139,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/4maoPRr7kjuafK4oZBoF6o"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307681,
+      "name": "Make Them Cry",
+      "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
     },
     {
       "album": {
@@ -329163,6 +329275,28 @@
     },
     {
       "album": {
+        "name": "HABIBTI",
+        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Slap The City (feat. Qendresa)",
+      "url": "https://open.spotify.com/track/3nwcQXP0mBmXmlrirQxCkz"
+    },
+    {
+      "album": {
         "name": "Devour",
         "url": "https://open.spotify.com/album/0ZnuaHRAI6C7fGxg1VuoXO"
       },
@@ -383512,78 +383646,6 @@
       "duration_ms": 246078,
       "name": "Tracing Lines",
       "url": "https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL"
-    },
-    {
-      "album": {
-        "name": "Girls Can't Listen to Booter",
-        "url": "https://open.spotify.com/album/173VaKfALh7yKEMxI7281o"
-      },
-      "artists": [
-        {
-          "name": "Booter Bee",
-          "url": "https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4gY5wDSK7qU8QIShnlIE4T"
-    },
-    {
-      "album": {
-        "name": "Journey EP",
-        "url": "https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
-    },
-    {
-      "album": {
-        "name": "Hear me vent",
-        "url": "https://open.spotify.com/album/3sAfU8HtLEbFcsoBUL88BJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Zino",
-          "url": "https://open.spotify.com/artist/7AUV18vpujVWJKIDZtFfWS"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3nP7GDxbWL9UqT5vkAqZb7"
-    },
-    {
-      "album": {
-        "name": "SET YOUR SIGHTS HIGHER",
-        "url": "https://open.spotify.com/album/4FveEBVuGPSWSvqmD7xgbR"
-      },
-      "artists": [
-        {
-          "name": "Tdarq",
-          "url": "https://open.spotify.com/artist/32fjTg4szazZo87Sgxs9a2"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4QoshbFOlPPfXhiMaG5Mxv"
     },
     {
       "album": {

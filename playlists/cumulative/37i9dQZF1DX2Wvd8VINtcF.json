@@ -5251,6 +5251,24 @@
     },
     {
       "album": {
+        "name": "Blondie",
+        "url": "https://open.spotify.com/album/6H79OvWsiK17wkuwoz7dKj"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Blondie",
+      "url": "https://open.spotify.com/track/4lwO2ry2YOH3DwRsixjl7h"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
       },

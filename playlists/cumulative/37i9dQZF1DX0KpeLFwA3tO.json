@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: eleventwelfth",
+  "description": "The best new music from the wide world of punk. Cover: Held.",
   "name": "All New Punk",
   "tracks": [
     {
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 128874,
       "name": "AMERICAN NIGHTMARE",
       "url": "https://open.spotify.com/track/53i9GNkUlsdTCVTs0O5h7U"
@@ -4635,6 +4635,24 @@
     },
     {
       "album": {
+        "name": "Barely Here",
+        "url": "https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "Barely Here",
+      "url": "https://open.spotify.com/track/31JIr6kHiX8KOJB3M0XeLF"
+    },
+    {
+      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
       },
@@ -5076,6 +5094,24 @@
       "duration_ms": 173269,
       "name": "Before I Die",
       "url": "https://open.spotify.com/track/7BcTWgmZQp5Ueu3XdjCdFY"
+    },
+    {
+      "album": {
+        "name": "Before We Go",
+        "url": "https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154571,
+      "name": "Before We Go",
+      "url": "https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY"
     },
     {
       "album": {
@@ -12626,7 +12662,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 179280,
       "name": "Dance In The USA",
       "url": "https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV"
@@ -17993,6 +18029,24 @@
     },
     {
       "album": {
+        "name": "Fast Forward, Rewind",
+        "url": "https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212960,
+      "name": "Fast Forward, Rewind",
+      "url": "https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u"
+    },
+    {
+      "album": {
         "name": "Fastlanes",
         "url": "https://open.spotify.com/album/68C3fZTaYCvSPjA4bfDty4"
       },
@@ -20270,6 +20324,24 @@
       "duration_ms": 43000,
       "name": "GENOCIDE FUCK OFF",
       "url": "https://open.spotify.com/track/0IR8MVfOD3tJUMtOqq55wm"
+    },
+    {
+      "album": {
+        "name": "Gentlemen Callers",
+        "url": "https://open.spotify.com/album/7fJdmdngQl69PHuV6F1p0I"
+      },
+      "artists": [
+        {
+          "name": "Piebald",
+          "url": "https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243931,
+      "name": "Gentlemen Callers",
+      "url": "https://open.spotify.com/track/4jHpLUYzRU4xBdHhGc3DUU"
     },
     {
       "album": {
@@ -22966,7 +23038,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 206780,
       "name": "Head Alight",
       "url": "https://open.spotify.com/track/7rZ9v828KtoWTNjHpMwLBb"
@@ -29380,7 +29452,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 265273,
       "name": "KNIFEPOINT",
       "url": "https://open.spotify.com/track/4zQ4y8Q5hSBHqkN6h95Hxl"
@@ -30094,7 +30166,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 183013,
       "name": "Learned My Lesson",
       "url": "https://open.spotify.com/track/2r6g2jsDLg9o03HC0yRO2N"
@@ -36482,7 +36554,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 288680,
       "name": "No Feeling",
       "url": "https://open.spotify.com/track/4irsdnZsat5QRfveJwb3Qz"
@@ -36504,6 +36576,24 @@
       "duration_ms": 160750,
       "name": "No Future? No Thanks!",
       "url": "https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A"
+    },
+    {
+      "album": {
+        "name": "No God",
+        "url": "https://open.spotify.com/album/0jRTea6wJN0q140LwWQPt5"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165426,
+      "name": "No God",
+      "url": "https://open.spotify.com/track/1McpAvcwxctyBOqPulTmSQ"
     },
     {
       "album": {
@@ -37344,6 +37434,24 @@
       "duration_ms": 204506,
       "name": "Not Afraid To Die",
       "url": "https://open.spotify.com/track/28dH3pe1JYjOZPdL0gzIqN"
+    },
+    {
+      "album": {
+        "name": "Not Bad for New Jersey",
+        "url": "https://open.spotify.com/album/19tKO12szYbQAPSm8AJjbU"
+      },
+      "artists": [
+        {
+          "name": "Brian Fallon",
+          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215205,
+      "name": "Not Bad for New Jersey",
+      "url": "https://open.spotify.com/track/5Kszd0UjX0FESgdqQuJw3f"
     },
     {
       "album": {
@@ -39282,7 +39390,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 134400,
       "name": "Oyster Perpetual",
       "url": "https://open.spotify.com/track/0d77sZmUwJ2W6rWNzBVY0g"
@@ -41866,7 +41974,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 151558,
       "name": "Pulpit",
       "url": "https://open.spotify.com/track/7vVQn6r1bNfYBVkNlI25cH"
@@ -42822,6 +42930,44 @@
       "duration_ms": 191053,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/0eQEiz74qCxTqbprWu03og"
+    },
+    {
+      "album": {
+        "name": "Rebel Kids",
+        "url": "https://open.spotify.com/album/7rF6tlDfntv1e46K3OrNgG"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        },
+        {
+          "name": "Freddy R. Cricien Jr.",
+          "url": "https://open.spotify.com/artist/68cujMHEJZWm52qpPLfLyI"
+        },
+        {
+          "name": "Michael Justian",
+          "url": "https://open.spotify.com/artist/2dnvqDnVMKEZNbRkRnrjCR"
+        },
+        {
+          "name": "Michael Gurnari",
+          "url": "https://open.spotify.com/artist/2D0nSN1vJ4Mzg2JhsbNSfL"
+        },
+        {
+          "name": "Andrew Baylis",
+          "url": "https://open.spotify.com/artist/4Za6HvgWPOX6MAjmSEIY58"
+        },
+        {
+          "name": "Paul Thomas Delaney",
+          "url": "https://open.spotify.com/artist/41kQp4WYT9UcPRMXrOxNPl"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197793,
+      "name": "Rebel Kids",
+      "url": "https://open.spotify.com/track/1szn2OMziB1WiyoexQto7n"
     },
     {
       "album": {
@@ -44871,6 +45017,24 @@
     },
     {
       "album": {
+        "name": "Scatter The Ashes",
+        "url": "https://open.spotify.com/album/6bMpqOuyZEJxweTRYydpp7"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182739,
+      "name": "Scatter The Ashes",
+      "url": "https://open.spotify.com/track/2B6uPzQpYdJSCvst6Q4tZO"
+    },
+    {
+      "album": {
         "name": "Scissors",
         "url": "https://open.spotify.com/album/6oF5vC3F95Xv51qjdKjwjf"
       },
@@ -45474,7 +45638,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 202744,
       "name": "Setting Fires",
       "url": "https://open.spotify.com/track/6DR3L7CKoLAivNdK9fhR6w"
@@ -46209,6 +46373,24 @@
     },
     {
       "album": {
+        "name": "Show The World What's Underneath",
+        "url": "https://open.spotify.com/album/3gF2W44vFNZZFn5s8nqidn"
+      },
+      "artists": [
+        {
+          "name": "Super Sometimes",
+          "url": "https://open.spotify.com/artist/4zB8iT4joBTjD6VES4cLbF"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158746,
+      "name": "Show the World What's Underneath",
+      "url": "https://open.spotify.com/track/2nSSMiwJbGgTdNjQwrVkCA"
+    },
+    {
+      "album": {
         "name": "POP PUNK PONZI SCHEME!!!",
         "url": "https://open.spotify.com/album/0rkZSgDbzpQA6elsUSzy8e"
       },
@@ -46592,6 +46774,24 @@
       "duration_ms": 196394,
       "name": "Sign Of The Times",
       "url": "https://open.spotify.com/track/6tWjzLE4Pw9U1nitxAjHCt"
+    },
+    {
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/7dR2Wa1Fhg5zb89dyLpfvi"
+      },
+      "artists": [
+        {
+          "name": "madfolk",
+          "url": "https://open.spotify.com/artist/5vNrI4nHYfbgIa82oIvLPE"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145038,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/7oASlqA3FjzMkSETfLYh6G"
     },
     {
       "album": {
@@ -53435,7 +53635,7 @@
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 197332,
+      "duration_ms": 196608,
       "name": "The Worst Thing I've Ever Done",
       "url": "https://open.spotify.com/track/0VUkY6Uga7OmNWxcfyjAvj"
     },
@@ -53874,7 +54074,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 221719,
       "name": "This Thing is Old",
       "url": "https://open.spotify.com/track/4h0fR9diodQffQvz9cSRaJ"
@@ -57515,6 +57715,24 @@
     },
     {
       "album": {
+        "name": "GREY",
+        "url": "https://open.spotify.com/album/5mK510MU59pOQFk1OLLol8"
+      },
+      "artists": [
+        {
+          "name": "Held.",
+          "url": "https://open.spotify.com/artist/3ZOzZEPo5kM5QZlfdF6vgm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177914,
+      "name": "WAVES OF FIRE",
+      "url": "https://open.spotify.com/track/62suCfrMdxkGEg5sLnMg4A"
+    },
+    {
+      "album": {
         "name": "way of the exploding dickhead / unpopular parts of a pig",
         "url": "https://open.spotify.com/album/4LAsvG39DQSSIYMGl26pZF"
       },
@@ -59904,7 +60122,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 212349,
       "name": "You Hate Me",
       "url": "https://open.spotify.com/track/5Vpb3sJeb6pWjkPuEZchEG"

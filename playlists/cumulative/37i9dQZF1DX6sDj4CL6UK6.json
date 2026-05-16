@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "English songs from Indian artists\nCover: Prateek Kuhad",
+  "description": "English songs from Indian artists.\nCover: Prateek Kuhad",
   "name": "Indian Indie English",
   "tracks": [
     {
@@ -762,6 +762,24 @@
       "duration_ms": 190560,
       "name": "Blue Sweatshirt",
       "url": "https://open.spotify.com/track/3lnKi2aWh2tS1MvHGLFA3B"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/6BlYYjKLjE1FzoJFaftbXh"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186533,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/56Rdvp163gJ4Bn9v1UqMC2"
     },
     {
       "album": {

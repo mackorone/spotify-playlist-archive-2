@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Justyna Steczkowska, Skolim
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,940 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,972 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [wszystko jedno, wszystko źle](https://open.spotify.com/track/1yXPUokqPGKcdzP7gsS6TZ) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [pele\-mele](https://open.spotify.com/album/445NbCN6D81ShHmKjbmFiz) | 3:05 |
 | 60 | [Berlin](https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Berlin](https://open.spotify.com/album/5J13FhMrY4J7bgenI6ipXa) | 2:55 |
 
-Snapshot ID: `AAAAANFWwsl0az0xFJpCGi2j0esnd/d3`
+Snapshot ID: `AAAAAKiE3OzjzZnnX+gnauOXmjSW/feR`

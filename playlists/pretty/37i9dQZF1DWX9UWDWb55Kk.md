@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,513 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,488 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 104 | [Who We Are](https://open.spotify.com/track/56cqmGid7J5wMyfXJzOEOd) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Spectrum of Love](https://open.spotify.com/album/50rgN4NAnnRqFzl7TTtnQv) | 2:55 |
 | 105 | [Sad Girls Club](https://open.spotify.com/track/31dBT1IqBa146UmlJiQ3vS) | [The Magnettes](https://open.spotify.com/artist/2v7NkjMDChkzTs7uoVh4tU) | [Sad Girls Club](https://open.spotify.com/album/1iWUqvLTsHxLEIfddzhDkw) | 3:46 |
 | 106 | [Internationally \- Prod\. Jam City & Dubbel Dutch](https://open.spotify.com/track/3PLcsZsfC1jt2E1zsKIE8A) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Dubbel Dutch](https://open.spotify.com/artist/08k2TtlE1pYESgljfijLaI) | [Worldwide Angel](https://open.spotify.com/album/4CseW0RVZOocevhdVs3pLV) | 3:14 |
-| 107 | [So Good \- Remix](https://open.spotify.com/track/59QoGfYmotLsHfHNTid0GG) | [Danna](https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [So Good \(Remix\)](https://open.spotify.com/album/2to38Ofn77eT73BOYPpP9F) | 2:58 |
+| 107 | [So Good \- Remix](https://open.spotify.com/track/59QoGfYmotLsHfHNTid0GG) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [So Good \(Remix\)](https://open.spotify.com/album/2to38Ofn77eT73BOYPpP9F) | 2:58 |
 | 108 | [Talking Dirty](https://open.spotify.com/track/1bCdntYo52BzYMP7s38dQp) | [Bonkers Beat Club](https://open.spotify.com/artist/4iOBGfQcQnaCbchbsOdEQx) | [Drippin](https://open.spotify.com/album/4g8T9QR3asXXB9RLTNyMP9) | 3:34 |
 | 109 | [Dime](https://open.spotify.com/track/0wyV7uIeaON89oWBcL0AA6) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Dime](https://open.spotify.com/album/3en3ILNZj2XjDqrljiz1VQ) | 2:48 |
 | 110 | [Bills](https://open.spotify.com/track/7rlCeTnjn0plPZkVAcctPZ) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills](https://open.spotify.com/album/6ItEjseW8RWuVTDLd1vcnp) | 3:24 |
@@ -304,7 +304,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 294 | [Mar el poder del mar](https://open.spotify.com/track/6ocEqJbiybvhxfpBTUHBc1) | [Facto Delafe y las flores azules](https://open.spotify.com/artist/5D5oIuHtOHSaU5alV1HNXF) | [Facto Delafe y las flores azules vs\. El monstruo de las ramblas](https://open.spotify.com/album/0DFm88WlNKVWXWivWX6fFU) | 3:45 |
 | 295 | [You Don't Wanna Play With Us](https://open.spotify.com/track/5f0UKMNvoRb8qFDphlTcGE) | [TheUnder](https://open.spotify.com/artist/7ogskCVMF90MFsHCNrUXTR), [Robyn The Bank](https://open.spotify.com/artist/72ikur4gC8lH9yIsF5Idx2) | [Feel My Vibe EP](https://open.spotify.com/album/3M12NhXw2ghuwi8rXu7CYI) | 2:24 |
 | 296 | [Hush](https://open.spotify.com/track/1KXmhAw04yiTMhZRQc6Zr4) | [New Day](https://open.spotify.com/artist/37RpgSSShLJehlJFZGEuoU) | [Fever](https://open.spotify.com/album/2t1hKGtM1uYRMbq1Dq7WAt) | 3:14 |
-| 297 | [Lo Que No Sabes](https://open.spotify.com/track/2w4Apocnq858NCmzWlB8W9) | [Danna](https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd) | [Lo Que No Sabes](https://open.spotify.com/album/31ZWi8b1CuqzIOL80XwVE9) | 3:54 |
+| 297 | [Lo Que No Sabes](https://open.spotify.com/track/2w4Apocnq858NCmzWlB8W9) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Lo Que No Sabes](https://open.spotify.com/album/31ZWi8b1CuqzIOL80XwVE9) | 3:54 |
 | 298 | [The Cheek](https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [The Cheek](https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW) | 3:43 |
 | 299 | [Kiska \(киска\)](https://open.spotify.com/track/2QH60efQnKgqIPw8l3h01Y) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/4LQnP464IJRnX6V6wR81Zy) | 3:46 |
 | 300 | [Binary Lovers](https://open.spotify.com/track/2krhDzJqusaOZJP2LR3nCA) | [AMBRE](https://open.spotify.com/artist/0Huwt9af9FL4ZTzyb48QKB) | [Binary Lovers](https://open.spotify.com/album/2sn0IfD81sUXZJzeZ5EYZ3) | 3:28 |

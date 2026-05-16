@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Jambu",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Cidade Dormit\u00f3rio, YMA",
   "name": "alt BR",
   "tracks": [
     {
@@ -1408,6 +1408,24 @@
       "duration_ms": 196634,
       "name": "Aqui Dentro",
       "url": "https://open.spotify.com/track/3ui5IGS8jIlvqmtD9EfJDP"
+    },
+    {
+      "album": {
+        "name": "PEDAGIOS Y CARONAS",
+        "url": "https://open.spotify.com/album/1ADyzZnYO53coeiJT79BtK"
+      },
+      "artists": [
+        {
+          "name": "Tangolo Mangos",
+          "url": "https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142682,
+      "name": "ARMADURA ARMADILHA",
+      "url": "https://open.spotify.com/track/2qtSDKYyQVr1ef0XgIfPcw"
     },
     {
       "album": {
@@ -2891,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Catamar\u00e3",
+        "url": "https://open.spotify.com/album/3xj0ACmQ7wluSKYIISFfae"
+      },
+      "artists": [
+        {
+          "name": "TEG\u00ca",
+          "url": "https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154224,
+      "name": "Catamar\u00e3",
+      "url": "https://open.spotify.com/track/6iuuKZ0eVuRrv6DzL6NAni"
+    },
+    {
+      "album": {
         "name": "CAVALO",
         "url": "https://open.spotify.com/album/6kYxoYEPkf29cET8FPHqGI"
       },
@@ -3466,7 +3502,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 215111,
       "name": "Confiss\u00e3o",
       "url": "https://open.spotify.com/track/2rIve8Bzo7b0x5u2CahwPJ"
@@ -4034,7 +4070,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 285434,
       "name": "Daquilo que Nois Merece",
       "url": "https://open.spotify.com/track/1iZOIvRDiNogvXKnxag9ug"
@@ -4630,6 +4666,24 @@
       "duration_ms": 186466,
       "name": "Dif\u00edcil",
       "url": "https://open.spotify.com/track/6ynlZyyVnqMZ8iD8G3ZjGX"
+    },
+    {
+      "album": {
+        "name": "Dil\u00favio de Dinheiro Algum",
+        "url": "https://open.spotify.com/album/7Fr1ExGVYK2g9zUF7oxLWv"
+      },
+      "artists": [
+        {
+          "name": "Ludovic",
+          "url": "https://open.spotify.com/artist/2zKQpbSlJv1z8xK9mFaXwU"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181920,
+      "name": "Dil\u00favio de Dinheiro Algum",
+      "url": "https://open.spotify.com/track/4kGAcLyuxF38RA7dmGEjYG"
     },
     {
       "album": {
@@ -5316,10 +5370,6 @@
       },
       "artists": [
         {
-          "name": "Vitor Campos Scabbia",
-          "url": "https://open.spotify.com/artist/6MroesEATvDBEtsp0mpx5R"
-        },
-        {
           "name": "Cronistas",
           "url": "https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq"
         }
@@ -5772,7 +5822,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 167333,
       "name": "Eu J\u00e1 N\u00e3o Aguento Mais",
       "url": "https://open.spotify.com/track/6dJr7GSHUozwaHrYAXvXX4"
@@ -7976,7 +8026,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 158058,
       "name": "Love e V\u00edcio em Sunshine (Ao Vivo)",
       "url": "https://open.spotify.com/track/0H4MhUG9yuruXduPny8FWt"
@@ -8116,6 +8166,28 @@
       "duration_ms": 120000,
       "name": "Luz Negra",
       "url": "https://open.spotify.com/track/5HLfgMXvOFua9bwsBUY6em"
+    },
+    {
+      "album": {
+        "name": "Luzes Que V\u00e3o Passando - Frio",
+        "url": "https://open.spotify.com/album/0D40fjIvrWnBTNMDrHXuW3"
+      },
+      "artists": [
+        {
+          "name": "Pablo Vermell",
+          "url": "https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5"
+        },
+        {
+          "name": "Superv\u00e3o",
+          "url": "https://open.spotify.com/artist/6RaRPRrUnOwLbXI5q0nvFj"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Luzes Que V\u00e3o Passando - Frio",
+      "url": "https://open.spotify.com/track/7x3VTgrjDdkDhDA2kUog9v"
     },
     {
       "album": {
@@ -8708,7 +8780,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 153398,
       "name": "Me mande um (sinal)",
       "url": "https://open.spotify.com/track/2JwXqx97V0XvZpKKPUAwVx"
@@ -9520,10 +9592,32 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 99696,
       "name": "Morango",
       "url": "https://open.spotify.com/track/3NCORaZ7l8APvvyVMhIRBw"
+    },
+    {
+      "album": {
+        "name": "Cinema B\u00e9lico?",
+        "url": "https://open.spotify.com/album/7HTM8l0ms2UGoIGOSbtnKD"
+      },
+      "artists": [
+        {
+          "name": "Cidade Dormit\u00f3rio",
+          "url": "https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf"
+        },
+        {
+          "name": "YMA",
+          "url": "https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200887,
+      "name": "Morcega",
+      "url": "https://open.spotify.com/track/4X6ahvTtoxqt99uFNvzmVb"
     },
     {
       "album": {
@@ -12934,7 +13028,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 260000,
       "name": "Quest\u00e3o de Fogo",
       "url": "https://open.spotify.com/track/4powTPisOZkWY8da8sBeWl"
@@ -17316,6 +17410,24 @@
       "duration_ms": 184646,
       "name": "\u00d4 Lulu",
       "url": "https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6"
+    },
+    {
+      "album": {
+        "name": "Ainda Aqui",
+        "url": "https://open.spotify.com/album/14sjEivdUvcT0kdBzRRYDC"
+      },
+      "artists": [
+        {
+          "name": "Rafa Canovas",
+          "url": "https://open.spotify.com/artist/4bwXauSZTnrlZLw47HkDuD"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251253,
+      "name": "\u00daltima Noite",
+      "url": "https://open.spotify.com/track/2eZWmLAuzWgNTJZlQV2E6p"
     },
     {
       "album": {

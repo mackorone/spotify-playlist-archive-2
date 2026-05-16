@@ -34348,6 +34348,10 @@
         {
           "name": "Alya",
           "url": "https://open.spotify.com/artist/44KujdHA0ZaOgGzyaAdXmu"
+        },
+        {
+          "name": "R\u0131za Tamer",
+          "url": "https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ"
         }
       ],
       "date_added": "2026-05-14",
@@ -71815,6 +71819,24 @@
     },
     {
       "album": {
+        "name": "Kaniya Ev\u00een\u00ea",
+        "url": "https://open.spotify.com/album/0f4sRVJq0g0TaifO9epull"
+      },
+      "artists": [
+        {
+          "name": "Hozan Dino",
+          "url": "https://open.spotify.com/artist/1K3mSN1InjiGRqyakmLz5H"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262765,
+      "name": "Kaniya Ev\u00een\u00ea",
+      "url": "https://open.spotify.com/track/18ov8AunHQgj0yZn7gyVwD"
+    },
+    {
+      "album": {
         "name": "Fersiz & Kanl\u0131 G\u00f6zlerim",
         "url": "https://open.spotify.com/album/4GEfqIS82hVwHaxdhP0caV"
       },
@@ -100905,6 +100927,32 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
+      "album": {
         "name": "Randevu",
         "url": "https://open.spotify.com/album/1sfk7bIf0XWIhW81BUfmOs"
       },
@@ -114623,25 +114671,7 @@
     },
     {
       "album": {
-        "name": "Son Durak",
-        "url": "https://open.spotify.com/album/1m0GmOWljEdFjK9ShfjT7F"
-      },
-      "artists": [
-        {
-          "name": "Devrjm",
-          "url": "https://open.spotify.com/artist/3gXJYXyCdgAgdd8hKygyEy"
-        }
-      ],
-      "date_added": "2026-01-29",
-      "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
-      "duration_ms": 126835,
-      "name": "Son Durak",
-      "url": "https://open.spotify.com/track/7pVpJ20Bg3lDhRrEA9Ul7q"
-    },
-    {
-      "album": {
-        "name": "SON DURAK (feat. Zen-G)",
+        "name": "SON DURAK",
         "url": "https://open.spotify.com/album/6p3XvabQkcW8P1oEXJsWhk"
       },
       "artists": [
@@ -114658,8 +114688,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 228837,
-      "name": "SON DURAK (feat. Zen-G)",
+      "name": "SON DURAK",
       "url": "https://open.spotify.com/track/6bWlcUZZVFC27FU5dG4pOO"
+    },
+    {
+      "album": {
+        "name": "Son Durak",
+        "url": "https://open.spotify.com/album/1m0GmOWljEdFjK9ShfjT7F"
+      },
+      "artists": [
+        {
+          "name": "Devrjm",
+          "url": "https://open.spotify.com/artist/3gXJYXyCdgAgdd8hKygyEy"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2026-02-06",
+      "duration_ms": 126835,
+      "name": "Son Durak",
+      "url": "https://open.spotify.com/track/7pVpJ20Bg3lDhRrEA9Ul7q"
     },
     {
       "album": {
@@ -123330,42 +123378,6 @@
       "duration_ms": 138212,
       "name": "TOZPEMBE",
       "url": "https://open.spotify.com/track/4OgyM015xx4c2NECTQlND2"
-    },
-    {
-      "album": {
-        "name": "DIVA/NE EP pt.1",
-        "url": "https://open.spotify.com/album/6wb7KX8SDspzJzbREsBO8S"
-      },
-      "artists": [
-        {
-          "name": "La\u00e7in",
-          "url": "https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4yu1f3GuaWDW8oLWmzuLX7"
-    },
-    {
-      "album": {
-        "name": "DERBEND",
-        "url": "https://open.spotify.com/album/6jNatVdXK6ET81G1OBhTb2"
-      },
-      "artists": [
-        {
-          "name": "Cem Adrian",
-          "url": "https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/6o9OF2yk8aotpdC9BBQ8fx"
     },
     {
       "album": {
@@ -138199,6 +138211,28 @@
     },
     {
       "album": {
+        "name": "DERBEND",
+        "url": "https://open.spotify.com/album/6jNatVdXK6ET81G1OBhTb2"
+      },
+      "artists": [
+        {
+          "name": "Cem Adrian",
+          "url": "https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj"
+        },
+        {
+          "name": "DERBEND",
+          "url": "https://open.spotify.com/artist/5HUa70pmGqPiOSu0lmT5mM"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270337,
+      "name": "Yine Ayr\u0131l\u0131k",
+      "url": "https://open.spotify.com/track/6o9OF2yk8aotpdC9BBQ8fx"
+    },
+    {
+      "album": {
         "name": "Yine Bana Yaln\u0131zl\u0131k",
         "url": "https://open.spotify.com/album/62HsQ9jY96jr7g78XwC5Wx"
       },
@@ -146558,6 +146592,28 @@
       "duration_ms": 185062,
       "name": "\u00dcst\u00fcm\u00fcze Basm\u0131\u015flar",
       "url": "https://open.spotify.com/track/08KIW7J3cH4AgyYd1TwG2s"
+    },
+    {
+      "album": {
+        "name": "DIVA/NE EP pt.1",
+        "url": "https://open.spotify.com/album/6wb7KX8SDspzJzbREsBO8S"
+      },
+      "artists": [
+        {
+          "name": "La\u00e7in",
+          "url": "https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa"
+        },
+        {
+          "name": "akca",
+          "url": "https://open.spotify.com/artist/1OBAc1CshCapEzN3cfmNtc"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149381,
+      "name": "\u00dcst\u00fcnde Ad\u0131n Var",
+      "url": "https://open.spotify.com/track/4yu1f3GuaWDW8oLWmzuLX7"
     },
     {
       "album": {

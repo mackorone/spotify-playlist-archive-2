@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > DANDARA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,927 likes - 106 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,915 likes - 106 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 49 | [me engualichaste](https://open.spotify.com/track/27BnpXJ0jVJzbYvHwSrrm7) | [Natán](https://open.spotify.com/artist/0E9SrOvn3lOYk15neJW2Lb) | [me engualichaste](https://open.spotify.com/album/2u3DKceCkaCCtzU14NYn75) | 2:42 |
 | 50 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 |
 | 51 | [Será Mañana](https://open.spotify.com/track/5vQXYcTDm8XOXNfiuQfO3B) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Será Mañana](https://open.spotify.com/album/2dBvHfucAWo864I0MsYlhx) | 3:13 |
-| 52 | [PODER](https://open.spotify.com/track/43Qf6HSkCuXBQeOjjzacoT) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [PODER](https://open.spotify.com/album/4g0rqG42TcD9fN6XmiGXfX) | 5:04 |
+| 52 | [Poder](https://open.spotify.com/track/43Qf6HSkCuXBQeOjjzacoT) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [Poder](https://open.spotify.com/album/4g0rqG42TcD9fN6XmiGXfX) | 5:04 |
 | 53 | [BENDITA](https://open.spotify.com/track/7nXV9qGCPnQm5nma1rUqth) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Evan Bitz](https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt) | [BENDITA](https://open.spotify.com/album/3CMlncydpQblkwDkEIZLeX) | 2:23 |
 | 54 | [Pensando en Ella](https://open.spotify.com/track/0xKip9rjYsEWRdBYlJ0G3K) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Pensando en Ella](https://open.spotify.com/album/3bnsZ3LTSKoCTVAE0TjxM5) | 3:24 |
 | 55 | [Flores & Bombones](https://open.spotify.com/track/6Ql7su4mpj8exyItSH47oa) | [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Flores & Bombones](https://open.spotify.com/album/5un3rZAMO4KMOe9YQH9WSk) | 2:51 |

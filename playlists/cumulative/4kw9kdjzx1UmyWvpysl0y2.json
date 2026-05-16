@@ -10983,6 +10983,32 @@
     },
     {
       "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/2kF5dv4paXL6FrnULatMg9"
+      },
+      "artists": [
+        {
+          "name": "TANTRON",
+          "url": "https://open.spotify.com/artist/6HTp9Q7rmHmQjatn98BLAi"
+        },
+        {
+          "name": "Wiguez",
+          "url": "https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU"
+        },
+        {
+          "name": "Moneo",
+          "url": "https://open.spotify.com/artist/6K6iokRdBoOaZiItaX6bYJ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207292,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/7I476tfODLKX0ZydqPcZpX"
+    },
+    {
+      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/7HVmjL6BNGQcasnOZxfBio"
       },

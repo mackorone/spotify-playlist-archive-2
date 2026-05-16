@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,678 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,709 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Vadiagem](https://open.spotify.com/track/2jJh9rkFfCYxkjtfbNdv0l) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Sabor de amor](https://open.spotify.com/album/7ujzNhKq8tpx14MXkTLNBW) | 3:22 |
 | 75 | [Luzes e Flashes](https://open.spotify.com/track/3KdtQeQ70qqCijTLlpbiBv) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Luzes e Flashes](https://open.spotify.com/album/06NOcxlBI6V5SkuRdQGItH) | 3:31 |
 
-Snapshot ID: `AAAAAGVsJtOkaXIaUV1WJymPmy0jkgV9`
+Snapshot ID: `AAAAAA5FB/tR+uVjH9z6Z92wjXv1labh`

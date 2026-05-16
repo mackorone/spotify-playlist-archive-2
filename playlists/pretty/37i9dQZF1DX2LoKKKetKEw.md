@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Theresa Phondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,547 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,557 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 59 | [Holy Love](https://open.spotify.com/track/07cr2u369CWTuGefo4dygx) | [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Holy Love](https://open.spotify.com/album/6EvveehL6Gg3JF17niRJk6) | 2:50 |
 | 60 | [EASY](https://open.spotify.com/track/3p0APw04agDTOQtctspfaC) | [Terungwa](https://open.spotify.com/artist/1VIaFi0nZDdpxIIb1P9Acj), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [EASY](https://open.spotify.com/album/0s5vTDcuZ8J2hi46KfHQtv) | 3:05 |
 | 61 | [Alive](https://open.spotify.com/track/3MwLu7gPqB81ql2AecxkFn) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r) | [Alive](https://open.spotify.com/album/22U2vWcz5CaxU9x6S9oehH) | 2:20 |
-| 62 | [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 |
+| 62 | [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Beulah Land Music](https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 |
 | 63 | [Wa Gbile Na](https://open.spotify.com/track/2GKNyDFZWhUb2JCwip2hSH) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 3:24 |
 | 64 | [WDT\(Who Did This\)](https://open.spotify.com/track/1TMqD52xEZFi3oeYg3sYGR) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu) | [EDEN](https://open.spotify.com/album/7p02mIe1Nhfhq1ArwoLYi0) | 3:16 |
 | 65 | [Jericho \(Sempe\)](https://open.spotify.com/track/5BC3vCM7hkbTY7lfpsmOUv) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Niyispeak](https://open.spotify.com/artist/1t2cYkpzE36VcFiGpFB0zJ) | [Jericho \(Sempe\)](https://open.spotify.com/album/1bkndTyolFsy6Sv44DtgFb) | 2:28 |

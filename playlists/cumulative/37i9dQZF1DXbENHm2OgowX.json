@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 150299,
       "name": "(Something)",
       "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 112826,
       "name": "4AM ambient version",
       "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 176000,
       "name": "antihistamine. - instrumental",
       "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
@@ -384,6 +384,24 @@
       "duration_ms": 203424,
       "name": "Bardo Landscape",
       "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
+    },
+    {
+      "album": {
+        "name": "Bathed in Grey",
+        "url": "https://open.spotify.com/album/4uOcT4LvlBiK9GaETWiv8H"
+      },
+      "artists": [
+        {
+          "name": "Michael FK",
+          "url": "https://open.spotify.com/artist/4Ppqyb0QJec1QNtK0VuuA3"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253090,
+      "name": "Bathed in Grey",
+      "url": "https://open.spotify.com/track/4IOy9rSBZa8UJJ9Wz2ipGa"
     },
     {
       "album": {
@@ -660,7 +678,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 191000,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/2pEcP8gvx0G1aA3NmNbwlJ"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 256825,
       "name": "Disengaged",
       "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
@@ -1079,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "eclipse",
+        "url": "https://open.spotify.com/album/3yspqmjHAoYTy6tZr3r4HR"
+      },
+      "artists": [
+        {
+          "name": "R\u014d\u014dh",
+          "url": "https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB"
+        },
+        {
+          "name": "Symoo",
+          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112615,
+      "name": "eclipse",
+      "url": "https://open.spotify.com/track/7v6D9mDpewgsnyPjtRqEmc"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
       },
@@ -1164,6 +1204,28 @@
       "duration_ms": 261849,
       "name": "Even The Horizon Knows Its Bounds VIII",
       "url": "https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T"
+    },
+    {
+      "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/2MhALvvPg6IIgdmU56HZIj"
+      },
+      "artists": [
+        {
+          "name": "Aurenth",
+          "url": "https://open.spotify.com/artist/7CM5sCDVQcnURPRMnASkBb"
+        },
+        {
+          "name": "CADYY",
+          "url": "https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98644,
+      "name": "EXIT",
+      "url": "https://open.spotify.com/track/3MsD0d8IKah8MM7Kl50cmV"
     },
     {
       "album": {
@@ -1332,6 +1394,32 @@
       "duration_ms": 230173,
       "name": "For One Another",
       "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
+    },
+    {
+      "album": {
+        "name": "if things were different",
+        "url": "https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr"
+      },
+      "artists": [
+        {
+          "name": "findnothing",
+          "url": "https://open.spotify.com/artist/0BksomtJ8esgOVfmXrpX1B"
+        },
+        {
+          "name": "hide waldo",
+          "url": "https://open.spotify.com/artist/7G4Fsp2wsfpic7VX867NQH"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98108,
+      "name": "for us",
+      "url": "https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN"
     },
     {
       "album": {
@@ -1634,7 +1722,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 173026,
       "name": "Heavy Water/I'd Rather Be Sleeping",
       "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
@@ -2065,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "lonely nights",
+        "url": "https://open.spotify.com/album/5arUS3gNKE0xIvJLubzJzv"
+      },
+      "artists": [
+        {
+          "name": "fauxe.",
+          "url": "https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103208,
+      "name": "lonely nights",
+      "url": "https://open.spotify.com/track/5VdDy30M2oaoaXeYkGz9ST"
+    },
+    {
+      "album": {
         "name": "Lonesome Sound",
         "url": "https://open.spotify.com/album/5frWXfCvYwKWOU3yjs6CGb"
       },
@@ -2135,6 +2241,46 @@
     },
     {
       "album": {
+        "name": "lost in a memory",
+        "url": "https://open.spotify.com/album/4yJijb3dcyfKZipPi0D3Ou"
+      },
+      "artists": [
+        {
+          "name": "\u00d8nedream",
+          "url": "https://open.spotify.com/artist/4TLZjB1XM0iMf74RcB9Oy2"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168013,
+      "name": "lost in a memory",
+      "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
+    },
+    {
+      "album": {
+        "name": "lost in the forest",
+        "url": "https://open.spotify.com/album/6c1WtpUzNaEYRToR0NZZi5"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106675,
+      "name": "lost in the forest",
+      "url": "https://open.spotify.com/track/7nXa1PLguS1cJe1nrYJ321"
+    },
+    {
+      "album": {
         "name": "I Could Live In Hope",
         "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
       },
@@ -2146,7 +2292,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 589106,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo"
@@ -2186,6 +2332,28 @@
       "duration_ms": 204043,
       "name": "Mat\u00e8l",
       "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
+    },
+    {
+      "album": {
+        "name": "Melancholic Rain",
+        "url": "https://open.spotify.com/album/7jNQLGLjxvpGT4TlYn9Zru"
+      },
+      "artists": [
+        {
+          "name": "S\u00c6TA",
+          "url": "https://open.spotify.com/artist/2YGX24ACQ6l88HmiuTG39p"
+        },
+        {
+          "name": "empty street",
+          "url": "https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146619,
+      "name": "Melancholic Rain",
+      "url": "https://open.spotify.com/track/3gZDbtA8m1hGBUHwVO5wwg"
     },
     {
       "album": {
@@ -2276,6 +2444,24 @@
       "duration_ms": 302638,
       "name": "My Body Betrayed Me",
       "url": "https://open.spotify.com/track/4qYG7y2tM6tm78Ygx42Ci3"
+    },
+    {
+      "album": {
+        "name": "my last days on earth",
+        "url": "https://open.spotify.com/album/0KwmxR4yFvFRmbIACIBH89"
+      },
+      "artists": [
+        {
+          "name": "undercurrent.",
+          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "my last days on earth",
+      "url": "https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF"
     },
     {
       "album": {
@@ -2508,10 +2694,32 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 121550,
       "name": "now i know what i mean",
       "url": "https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG"
+    },
+    {
+      "album": {
+        "name": "nowhere else",
+        "url": "https://open.spotify.com/album/2fzqLRpVhM0v6zhK2LqgaY"
+      },
+      "artists": [
+        {
+          "name": "tee",
+          "url": "https://open.spotify.com/artist/0fP5QqFFGGeFmWsf2R0Sk2"
+        },
+        {
+          "name": "tiired",
+          "url": "https://open.spotify.com/artist/0j5uHWFTI0qo3WLcyIkOLN"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117209,
+      "name": "nowhere else",
+      "url": "https://open.spotify.com/track/6MT4GDbRyctS4852m38kDj"
     },
     {
       "album": {
@@ -2580,7 +2788,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 237847,
       "name": "Part",
       "url": "https://open.spotify.com/track/03cSAXCu8hzINJuF6D0YBA"
@@ -3290,7 +3498,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 276866,
       "name": "Squatter's Quarters",
       "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
@@ -3751,6 +3959,24 @@
     },
     {
       "album": {
+        "name": "try to find you",
+        "url": "https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU"
+      },
+      "artists": [
+        {
+          "name": "Inlirium",
+          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99493,
+      "name": "try to find you",
+      "url": "https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX"
+    },
+    {
+      "album": {
         "name": "Arborescence",
         "url": "https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww"
       },
@@ -3895,6 +4121,28 @@
     },
     {
       "album": {
+        "name": "what stayed after you left",
+        "url": "https://open.spotify.com/album/6jpYWedczd8uOiQqvpAkBE"
+      },
+      "artists": [
+        {
+          "name": "Fieldn\u00f8te",
+          "url": "https://open.spotify.com/artist/0lFZFORfkO4KUR7f2a3gLN"
+        },
+        {
+          "name": "Peter Mowry",
+          "url": "https://open.spotify.com/artist/4mafztcbCRLBcgsVyf19nU"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "what stayed after you left",
+      "url": "https://open.spotify.com/track/1qDc9kOiH3F8J8A8X7oZQq"
+    },
+    {
+      "album": {
         "name": "WHEN I WAS OLDER (Music Inspired By The Film ROMA)",
         "url": "https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU"
       },
@@ -3982,7 +4230,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 135000,
       "name": "Where Souls Linger",
       "url": "https://open.spotify.com/track/2ghAHl6x2S1Tw26fbgVEw4"
@@ -4018,7 +4266,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 348800,
       "name": "Words",
       "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"

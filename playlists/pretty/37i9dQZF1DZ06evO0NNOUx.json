@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 196453,
+  "num_followers": 196584,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agO/AAAAAAAu4gC5Qoo3Fu6eXuJTqQgo",
+  "snapshot_id": "agUQgAAAAABaULfDm6orCihZUqVUu+t2",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 161975,
-      "name": "UPS & DOWNS",
-      "url": "https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OKAY!",
         "url": "https://open.spotify.com/album/3i6UnjFI76QC3zakPBApV7"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 274693,
       "name": "OKAY!",
       "url": "https://open.spotify.com/track/3AqhSTSYYOm8EVMkD8tRaW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 161975,
+      "name": "UPS & DOWNS",
+      "url": "https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "JESUS IS ALIVE",
+        "url": "https://open.spotify.com/album/4rZQnsZvcW7KyNw7wZX2Hz"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 128341,
+      "name": "JESUS IS ALIVE",
+      "url": "https://open.spotify.com/track/4LLBhbxaX6tltjQjpMx9by"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAWN PATROL",
         "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
       },
@@ -856,9 +872,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 211606,
-      "name": "FIRST LOVE",
-      "url": "https://open.spotify.com/track/62BVIIb6e4KJg9J703r8E5"
+      "duration_ms": 169167,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5PssXGdxHPpfRL9yoJEk9A"
     },
     {
       "added_at": null,

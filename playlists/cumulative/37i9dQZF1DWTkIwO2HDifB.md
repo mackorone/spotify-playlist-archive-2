@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: Mc Lele JP
+> Os funks mais 🔑 do Brasil / Foto: Aaron Modesto, MC Magal, MC Meno K, DJ Glenner
 
 439 songs - 1 day 2 hr 2 min
 

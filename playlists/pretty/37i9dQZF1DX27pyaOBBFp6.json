@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 25688,
+  "num_followers": 25699,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Ramses Shaffy - Laat Me",
+        "url": "https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73"
+      },
+      "artists": [
+        {
+          "name": "Ramses Shaffy",
+          "url": "https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4"
+        }
+      ],
+      "duration_ms": 134186,
+      "name": "Sammy",
+      "url": "https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Die Goeie Ouwe Tijd Top 100",
         "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Ramses Shaffy - Laat Me",
-        "url": "https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73"
-      },
-      "artists": [
-        {
-          "name": "Ramses Shaffy",
-          "url": "https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4"
-        }
-      ],
-      "duration_ms": 134186,
-      "name": "Sammy",
-      "url": "https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste Van Boudewijn De Groot",
         "url": "https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD"
       },
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Vertedering - De 60 Mooiste Luisterliedjes",
-        "url": "https://open.spotify.com/album/7wychIhuEA1yc9YClKzR17"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Mijn Vlakke Land",
-      "url": "https://open.spotify.com/track/1UlztlUKod6mibYwJEWbsp"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Favorieten van Toen",
         "url": "https://open.spotify.com/album/3cFCIbnr6p0ITYXEmsA2Y1"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 159533,
       "name": "Kom van dat dak af",
       "url": "https://open.spotify.com/track/4I07xdkqgw91HqlP4t5h9B"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "De Vertedering - De 60 Mooiste Luisterliedjes",
+        "url": "https://open.spotify.com/album/7wychIhuEA1yc9YClKzR17"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Mijn Vlakke Land",
+      "url": "https://open.spotify.com/track/1UlztlUKod6mibYwJEWbsp"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollands Glorie",
-        "url": "https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8"
-      },
-      "artists": [
-        {
-          "name": "Het Cocktail Trio",
-          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Wie heeft de sleutels van de jukebox gezien",
-      "url": "https://open.spotify.com/track/765nN5UPfEY3cf956Qvzpj"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Zai Zai Zai",
         "url": "https://open.spotify.com/album/6RXvitAivy3iW8ebDORM2t"
       },
@@ -471,18 +455,34 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+        "name": "Hollands Glorie",
+        "url": "https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8"
       },
       "artists": [
         {
-          "name": "Jasperina de Jong",
-          "url": "https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX"
+          "name": "Het Cocktail Trio",
+          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
         }
       ],
-      "duration_ms": 210013,
-      "name": "De Wandelclub",
-      "url": "https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H"
+      "duration_ms": 201760,
+      "name": "Wie heeft de sleutels van de jukebox gezien",
+      "url": "https://open.spotify.com/track/765nN5UPfEY3cf956Qvzpj"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "The Real... Will Tura",
+        "url": "https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6"
+      },
+      "artists": [
+        {
+          "name": "Will Tura",
+          "url": "https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8"
+        }
+      ],
+      "duration_ms": 135760,
+      "name": "Draai Dan 797204",
+      "url": "https://open.spotify.com/track/1e4u7Y4k7KISE5dRDFGzHW"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "The Real... Will Tura",
-        "url": "https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6"
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
       },
       "artists": [
         {
-          "name": "Will Tura",
-          "url": "https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8"
+          "name": "Jasperina de Jong",
+          "url": "https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX"
         }
       ],
-      "duration_ms": 135760,
-      "name": "Draai Dan 797204",
-      "url": "https://open.spotify.com/track/1e4u7Y4k7KISE5dRDFGzHW"
+      "duration_ms": 210013,
+      "name": "De Wandelclub",
+      "url": "https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Beste Van",
-        "url": "https://open.spotify.com/album/1XeTdhNPw6BSdPQrb13TcW"
-      },
-      "artists": [
-        {
-          "name": "Bob Benny",
-          "url": "https://open.spotify.com/artist/4quJ3J41hqATpXNJFYZHUH"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Waar En Wanneer",
-      "url": "https://open.spotify.com/track/2zNv1HqUrYRoYCKry4P5bD"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "De Regenboog Serie: Cocktail Trio",
         "url": "https://open.spotify.com/album/6O0otUrHvn27olinmbP8bu"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 146965,
       "name": "Kangaroe Eiland",
       "url": "https://open.spotify.com/track/0iVB5A9tWOYWP403yqgcXR"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Het Beste Van",
+        "url": "https://open.spotify.com/album/1XeTdhNPw6BSdPQrb13TcW"
+      },
+      "artists": [
+        {
+          "name": "Bob Benny",
+          "url": "https://open.spotify.com/artist/4quJ3J41hqATpXNJFYZHUH"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Waar En Wanneer",
+      "url": "https://open.spotify.com/track/2zNv1HqUrYRoYCKry4P5bD"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "16 Vlaamse Hits",
-        "url": "https://open.spotify.com/album/0joha6r0Q7FUybe1YodKsc"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Anja- De laatste dans",
-      "url": "https://open.spotify.com/track/3ZKJvMeGf3nyvXYUbRZyLm"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Hollandse Hits Top 100",
         "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 188320,
       "name": "Oh Was Ik Maar Bij Moeder Thuis Gebleven",
       "url": "https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "16 Vlaamse Hits",
+        "url": "https://open.spotify.com/album/0joha6r0Q7FUybe1YodKsc"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Anja- De laatste dans",
+      "url": "https://open.spotify.com/track/3ZKJvMeGf3nyvXYUbRZyLm"
     },
     {
       "added_at": "2024-07-19 06:41:15",

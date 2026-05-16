@@ -88,10 +88,28 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 263173,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/0xOdxoAIMvT1xvOIodlKqO"
+    },
+    {
+      "album": {
+        "name": "Drifting (Spotify OUTSIDE Version) - Live from West Hollywood, CA",
+        "url": "https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256072,
+      "name": "Drifting - (Spotify OUTSIDE Version) - Live from West Hollywood, CA",
+      "url": "https://open.spotify.com/track/2PUXoqVN9bh9QEZaVsb8fe"
     },
     {
       "album": {

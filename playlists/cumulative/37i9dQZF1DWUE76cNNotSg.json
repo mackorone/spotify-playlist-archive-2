@@ -336,7 +336,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 241983,
       "name": "A Message to Myself",
       "url": "https://open.spotify.com/track/04VkKDZvMssOBSP4Cw06Z2"
@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/44ttbL2Fz4egisPoRcNnkk"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Anywhere You Go",
+      "url": "https://open.spotify.com/track/6OzdWQeYMHqXsINla4BgP8"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
       },
@@ -810,6 +828,28 @@
       "duration_ms": 242239,
       "name": "Baby Blue (feat. Oliver Sim)",
       "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
+    },
+    {
+      "album": {
+        "name": "Baby Come Back (feat. Mayer Hawthorne)",
+        "url": "https://open.spotify.com/album/5q3GgbDAc3ns0GLsZKuzRV"
+      },
+      "artists": [
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193864,
+      "name": "Baby Come Back (feat. Mayer Hawthorne)",
+      "url": "https://open.spotify.com/track/5V7PUAfCy02UxXauMnN9T8"
     },
     {
       "album": {
@@ -1512,7 +1552,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 244848,
       "name": "Caf\u00e9 Pacific",
       "url": "https://open.spotify.com/track/5XZQ4aIsrTZGuTqsuWZpOK"
@@ -2440,7 +2480,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 182226,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/7lkMWvf06hYwUEEzo5FhAd"
@@ -3483,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Falling Again",
+        "url": "https://open.spotify.com/album/4adnBo43aGOYUjnHHVzI8G"
+      },
+      "artists": [
+        {
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Falling Again",
+      "url": "https://open.spotify.com/track/1KOKSXOF3t21CKCR3DeEkR"
+    },
+    {
+      "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/1j4s6sv6WFu86u052hrpTh"
       },
@@ -3764,7 +3822,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 144000,
       "name": "Feelin' Blue",
       "url": "https://open.spotify.com/track/2UnGmYcXHH2utQ0OmLDB3d"
@@ -6279,6 +6337,28 @@
     },
     {
       "album": {
+        "name": "Like It",
+        "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266923,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
+    },
+    {
+      "album": {
         "name": "Like No Tomorrow",
         "url": "https://open.spotify.com/album/1y6gGiq5QNDj1r8fPPVAnA"
       },
@@ -7984,7 +8064,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 137974,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/7wsn9GRkhsKP4gqs4d8pEP"
@@ -8398,7 +8478,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 221694,
       "name": "One Day I'll Get It Right",
       "url": "https://open.spotify.com/track/3NPZBNLQQmH9Onvsqn4xgd"
@@ -8492,7 +8572,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 156688,
       "name": "open this wall",
       "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
@@ -10186,6 +10266,24 @@
       "duration_ms": 226120,
       "name": "So Good to Me - Radio Edit",
       "url": "https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k"
+    },
+    {
+      "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/3sntlWn4kPslXhQ4DNoTnV"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231186,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/77jqExS9vI0ITvPUO2d4cl"
     },
     {
       "album": {
@@ -12514,7 +12612,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 152727,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/1SBzR8E9SRvUZH3WHT73B5"
@@ -13136,7 +13234,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 217226,
       "name": "You Make Me Feel So Good",
       "url": "https://open.spotify.com/track/6lx8BAoZxATQV3cDPitrbB"

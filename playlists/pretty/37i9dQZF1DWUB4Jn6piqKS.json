@@ -1,6 +1,6 @@
 {
   "description": "Stompers, floaters and floorshakers - these are the tracks that defined the Northern Soul movement.",
-  "num_followers": 150091,
+  "num_followers": 150124,
   "original_name": "Northern Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Big Hits & Hard To Find Classics",
-        "url": "https://open.spotify.com/album/0I4XWJ2ovnMdzqH61zioBD"
-      },
-      "artists": [
-        {
-          "name": "Barbara Randolph",
-          "url": "https://open.spotify.com/artist/1JloDwcRC1jrV3NWiZjMXM"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "I Got A Feeling - Single Version",
-      "url": "https://open.spotify.com/track/1w6gJH9upDjPnrT4dtvITo"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Northern Soul Story Vol.1: The Twisted Wheel",
         "url": "https://open.spotify.com/album/4m7PZF4kH6K7JKOp2vlf3d"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 158066,
       "name": "Soul Time - Single Version",
       "url": "https://open.spotify.com/track/3im4hrqpF3MW0uTtwuNHxZ"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Big Hits & Hard To Find Classics",
+        "url": "https://open.spotify.com/album/0I4XWJ2ovnMdzqH61zioBD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Randolph",
+          "url": "https://open.spotify.com/artist/1JloDwcRC1jrV3NWiZjMXM"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "I Got A Feeling - Single Version",
+      "url": "https://open.spotify.com/track/1w6gJH9upDjPnrT4dtvITo"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Ain't Nothin But a House Party",
-        "url": "https://open.spotify.com/album/6Zd5nGmHAPgw1o1GsRE4zw"
-      },
-      "artists": [
-        {
-          "name": "The Showstoppers",
-          "url": "https://open.spotify.com/artist/20KXZcTJLZTfi2ER7yFnqr"
-        }
-      ],
-      "duration_ms": 158973,
-      "name": "Ain't Nothin but a Houseparty",
-      "url": "https://open.spotify.com/track/64JXjk4JU0WG7BJwQTSga4"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Northern Soul Story Vol.3: Blackpool Mecca",
         "url": "https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
+        "name": "Ain't Nothin But a House Party",
+        "url": "https://open.spotify.com/album/6Zd5nGmHAPgw1o1GsRE4zw"
+      },
+      "artists": [
+        {
+          "name": "The Showstoppers",
+          "url": "https://open.spotify.com/artist/20KXZcTJLZTfi2ER7yFnqr"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "Ain't Nothin but a Houseparty",
+      "url": "https://open.spotify.com/track/64JXjk4JU0WG7BJwQTSga4"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
         "name": "Nolan",
         "url": "https://open.spotify.com/album/1Bi02TLjn4ONPqXTM6r9eu"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Northern Soul Keep the Faith",
-        "url": "https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B"
-      },
-      "artists": [
-        {
-          "name": "Jimmy James",
-          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
-        }
-      ],
-      "duration_ms": 181213,
-      "name": "A Man Like Me",
-      "url": "https://open.spotify.com/track/4CLKhjVUCZf00wVghhRImp"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Northern Soul Story Vol.4: Wigan Casino",
         "url": "https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 156266,
       "name": "I Can't Help Lovin' You",
       "url": "https://open.spotify.com/track/4DOWrtJ31Ewt2rLQCtLF1D"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Northern Soul Keep the Faith",
+        "url": "https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B"
+      },
+      "artists": [
+        {
+          "name": "Jimmy James",
+          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
+        }
+      ],
+      "duration_ms": 181213,
+      "name": "A Man Like Me",
+      "url": "https://open.spotify.com/track/4CLKhjVUCZf00wVghhRImp"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "The Best Of The Northern Soul Story",
-        "url": "https://open.spotify.com/album/1e5GWj2QMByTH63cp8WOU4"
-      },
-      "artists": [
-        {
-          "name": "The Sweet Things",
-          "url": "https://open.spotify.com/artist/604AUHQHCsMb50eBHNvwe1"
-        }
-      ],
-      "duration_ms": 154853,
-      "name": "I'm In a World of Trouble - Single Version",
-      "url": "https://open.spotify.com/track/2odfCOYhjN8mo75tUclkrO"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Soul Satisfaction",
         "url": "https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 125800,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/4vwwhYgJU23tJPrBZiKL6U"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "The Best Of The Northern Soul Story",
+        "url": "https://open.spotify.com/album/1e5GWj2QMByTH63cp8WOU4"
+      },
+      "artists": [
+        {
+          "name": "The Sweet Things",
+          "url": "https://open.spotify.com/artist/604AUHQHCsMb50eBHNvwe1"
+        }
+      ],
+      "duration_ms": 154853,
+      "name": "I'm In a World of Trouble - Single Version",
+      "url": "https://open.spotify.com/track/2odfCOYhjN8mo75tUclkrO"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Northern Soul: Keep the Faith!",
-        "url": "https://open.spotify.com/album/4syXcIzY2okMdzgktYYVkJ"
+        "name": "Uptown, Down South",
+        "url": "https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu"
       },
       "artists": [
         {
-          "name": "The Artistics",
-          "url": "https://open.spotify.com/artist/2iy394hZHUSLDMIxAnrz8x"
+          "name": "Percy Wiggins",
+          "url": "https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC"
         }
       ],
-      "duration_ms": 149413,
-      "name": "This Heart of Mine",
-      "url": "https://open.spotify.com/track/1RGWRD9vqwgu7APmedrpJs"
+      "duration_ms": 135933,
+      "name": "That's Loving You",
+      "url": "https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz"
     }
   ],
   "unique_name": "Northern Soul Classics",

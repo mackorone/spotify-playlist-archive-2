@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "a light in the dark",
+        "url": "https://open.spotify.com/album/59Q8iycFG9YLCZjIeD78Yk"
+      },
+      "artists": [
+        {
+          "name": "R\u014d\u014dh",
+          "url": "https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB"
+        },
+        {
+          "name": "unknown self",
+          "url": "https://open.spotify.com/artist/3UxnkB5CBHJXesluSlwlTj"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100060,
+      "name": "a light in the dark",
+      "url": "https://open.spotify.com/track/22BFIW0GJ3ED8bVj3gKaxT"
+    },
+    {
+      "album": {
         "name": "a long road",
         "url": "https://open.spotify.com/album/6dEAHP5IbP0cOj5hvmid5h"
       },
@@ -433,6 +455,24 @@
     },
     {
       "album": {
+        "name": "As Within, So Without",
+        "url": "https://open.spotify.com/album/5FG7AiUn0nVeYrPY8NdQYh"
+      },
+      "artists": [
+        {
+          "name": "The Visual Mood",
+          "url": "https://open.spotify.com/artist/2br1uIZDNZ7f4aWruiFSV2"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105923,
+      "name": "As Within, So Without",
+      "url": "https://open.spotify.com/track/5QbJ22lsdmLrZnfh4e0lq2"
+    },
+    {
+      "album": {
         "name": "Asleep On The Wing",
         "url": "https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k"
       },
@@ -550,6 +590,24 @@
       "duration_ms": 141052,
       "name": "barely alive",
       "url": "https://open.spotify.com/track/0wYfnN2nWNlSC4X8GssK6Z"
+    },
+    {
+      "album": {
+        "name": "be breaking a butterfly on a wheel",
+        "url": "https://open.spotify.com/album/5GFTl6jICroDXeHgedwlLZ"
+      },
+      "artists": [
+        {
+          "name": "dierollie",
+          "url": "https://open.spotify.com/artist/03bk7A5a2rXuTbYyLdqyhb"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91515,
+      "name": "be breaking a butterfly on a wheel",
+      "url": "https://open.spotify.com/track/407MKypcWpFMtXEKAGsJ6y"
     },
     {
       "album": {
@@ -728,7 +786,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 190693,
       "name": "Broken Memory",
       "url": "https://open.spotify.com/track/1bV6tK6Vv6knANu0bXDGVq"
@@ -1096,7 +1154,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 132000,
       "name": "cold weather",
       "url": "https://open.spotify.com/track/1S7EqdygajSoxDgufkgk9L"
@@ -1461,6 +1519,28 @@
     },
     {
       "album": {
+        "name": "does love exist?",
+        "url": "https://open.spotify.com/album/29ggEkhD53Hq5nZBJcxBPy"
+      },
+      "artists": [
+        {
+          "name": "ist",
+          "url": "https://open.spotify.com/artist/7ngiG9OzPYYIEW0yZuQZka"
+        },
+        {
+          "name": "ID10",
+          "url": "https://open.spotify.com/artist/6AZ1XtXdaFlXxadYdUijtX"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115020,
+      "name": "does love exist?",
+      "url": "https://open.spotify.com/track/1I62jrfjps4ImIDMSR3rLa"
+    },
+    {
+      "album": {
         "name": "don't cry",
         "url": "https://open.spotify.com/album/7yBKwlVI3Oaq1cAi6Qu8Ul"
       },
@@ -1810,7 +1890,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 66000,
       "name": "eleven",
       "url": "https://open.spotify.com/track/0IyHgdEYkrEnB8njH9MGlD"
@@ -2050,7 +2130,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 131232,
       "name": "evolve",
       "url": "https://open.spotify.com/track/6UqprAOIjEKrDOqJN7JrEp"
@@ -2356,7 +2436,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 141818,
       "name": "floating time",
       "url": "https://open.spotify.com/track/63EQWvrjKwjZvlvz6eWANk"
@@ -2588,6 +2668,24 @@
       "duration_ms": 114059,
       "name": "fred",
       "url": "https://open.spotify.com/track/7EGol6AkSm1FtUWASo6CL9"
+    },
+    {
+      "album": {
+        "name": "freedom souls",
+        "url": "https://open.spotify.com/album/4bgYEk1s7DaiQXp5OLzh5M"
+      },
+      "artists": [
+        {
+          "name": "arancina",
+          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110714,
+      "name": "freedom souls",
+      "url": "https://open.spotify.com/track/4lTexYjzWdMnGRZT8ZDvqF"
     },
     {
       "album": {
@@ -3225,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "in motion",
+        "url": "https://open.spotify.com/album/1ENRodpsOwwcixzJajmsia"
+      },
+      "artists": [
+        {
+          "name": "widx.",
+          "url": "https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138576,
+      "name": "in motion",
+      "url": "https://open.spotify.com/track/7wKBJm9KzFCk0GtOSAOG3c"
+    },
+    {
+      "album": {
         "name": "in the bleak midwinter (Remixes)",
         "url": "https://open.spotify.com/album/1kXLlpfXHC0T7il7cGl3Ff"
       },
@@ -3413,6 +3529,28 @@
     },
     {
       "album": {
+        "name": "last moments",
+        "url": "https://open.spotify.com/album/6ol3rYTjupP2kb5O9ZPKcA"
+      },
+      "artists": [
+        {
+          "name": "idontno",
+          "url": "https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49"
+        },
+        {
+          "name": "cinar",
+          "url": "https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "last moments",
+      "url": "https://open.spotify.com/track/09qkOWbz01EhuHUOfjBPLH"
+    },
+    {
+      "album": {
         "name": "lead me back",
         "url": "https://open.spotify.com/album/0Z60QB6dSX1KLyYpkbpUbv"
       },
@@ -3498,7 +3636,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 120330,
       "name": "left behind",
       "url": "https://open.spotify.com/track/4yt3ObQmk5XnQtFbEmckJM"
@@ -4014,7 +4152,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 96000,
       "name": "midnight session",
       "url": "https://open.spotify.com/track/1BQZgeu6kzduKrI5TfqUIM"
@@ -4514,7 +4652,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 91264,
       "name": "oblivion",
       "url": "https://open.spotify.com/track/03zgNq4xbILY2BcaLywOn0"
@@ -4764,6 +4902,24 @@
       "duration_ms": 144039,
       "name": "paranoia",
       "url": "https://open.spotify.com/track/5r4auqBxZ4EH0Abqk7DUrh"
+    },
+    {
+      "album": {
+        "name": "past dream",
+        "url": "https://open.spotify.com/album/0pWCh3WKUi01zbeE2qaP4E"
+      },
+      "artists": [
+        {
+          "name": "nobody was home",
+          "url": "https://open.spotify.com/artist/6nPWDiu70KzJVByi5TyO8K"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "past dream",
+      "url": "https://open.spotify.com/track/6Zb3YQ9bGgQXOyDROwLWmk"
     },
     {
       "album": {
@@ -5348,7 +5504,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 101329,
       "name": "Shades of Us",
       "url": "https://open.spotify.com/track/5Yi2zHug2z0RuceLWWZ9ON"
@@ -5899,6 +6055,24 @@
     },
     {
       "album": {
+        "name": "The day I left",
+        "url": "https://open.spotify.com/album/0rPG0zmtQRlqZyJOsaVaJV"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128727,
+      "name": "The day I left",
+      "url": "https://open.spotify.com/track/1bYNRzRX4BdcLNUqm2Dp6T"
+    },
+    {
+      "album": {
         "name": "the day she was born",
         "url": "https://open.spotify.com/album/4uFAjHWFl5sHlKzH9r5KEa"
       },
@@ -6008,7 +6182,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 132000,
       "name": "the light in your eyes",
       "url": "https://open.spotify.com/track/1ssdD9ZB1s0iGxRjCq67e7"
@@ -6498,6 +6672,24 @@
       "duration_ms": 114000,
       "name": "we knew each other by heart",
       "url": "https://open.spotify.com/track/6ip6T0WS8w8bVvQlJadJ1O"
+    },
+    {
+      "album": {
+        "name": "we used to stay up",
+        "url": "https://open.spotify.com/album/32dnize4AUN1BOgETCvqik"
+      },
+      "artists": [
+        {
+          "name": "memoryfile",
+          "url": "https://open.spotify.com/artist/0IFRgEpgSsLjsb1q4GOZze"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104206,
+      "name": "we used to stay up",
+      "url": "https://open.spotify.com/track/3p5ckG1B75lNH0bnMceg7w"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Blossom",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Levity",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -5030,7 +5030,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 128571,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/3Yjv5Avygtqs4v0nYtkFna"
@@ -9091,6 +9091,24 @@
     },
     {
       "album": {
+        "name": "DO AS I SAY",
+        "url": "https://open.spotify.com/album/0ldvzzs4B1TDj8kUPv5HLb"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "DO AS I SAY",
+      "url": "https://open.spotify.com/track/56NCLe3cAx4QCtHDhl6WD8"
+    },
+    {
+      "album": {
         "name": "Do Over",
         "url": "https://open.spotify.com/album/5BuOTw8w1ZefJ8j3qaQsgU"
       },
@@ -12727,6 +12745,28 @@
     },
     {
       "album": {
+        "name": "Fiyah",
+        "url": "https://open.spotify.com/album/2lCCMpR6zWuf0nMlsbp6lB"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        },
+        {
+          "name": "SubDocta",
+          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Fiyah",
+      "url": "https://open.spotify.com/track/3rDogGwJQNoozZYBiomNcA"
+    },
+    {
+      "album": {
         "name": "Fkdmeupinside",
         "url": "https://open.spotify.com/album/6qp9XlkYX0an6hceGaBWho"
       },
@@ -13338,7 +13378,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 236291,
       "name": "Free",
       "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
@@ -13549,6 +13589,28 @@
     },
     {
       "album": {
+        "name": "Fuck The Whole World (Subtronics Remix)",
+        "url": "https://open.spotify.com/album/24kOcYxCPLESlexPHkM3Ct"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "Fuck The Whole World - Subtronics Remix",
+      "url": "https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT"
+    },
+    {
+      "album": {
         "name": "Fuck U Love U",
         "url": "https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w"
       },
@@ -13652,7 +13714,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 217731,
       "name": "Funk Rocket",
       "url": "https://open.spotify.com/track/7AnzIylfuXxE4ycVSavEXo"
@@ -16628,7 +16690,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 186666,
       "name": "HORSEPOWER",
       "url": "https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3"
@@ -21240,7 +21302,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 221333,
       "name": "Machine",
       "url": "https://open.spotify.com/track/3PMel3HLmAWXHzUyP3ZMuf"
@@ -23069,6 +23131,32 @@
     },
     {
       "album": {
+        "name": "powerANTHEM / need (u)",
+        "url": "https://open.spotify.com/album/2OTkR8cOmqhBjSWya9fdPg"
+      },
+      "artists": [
+        {
+          "name": "No Signal",
+          "url": "https://open.spotify.com/artist/1aJGcBWhdgt1b8sEZ1Hupk"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        },
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "need (u)",
+      "url": "https://open.spotify.com/track/3Y2q0up7I4xfHZD59z3Yf4"
+    },
+    {
+      "album": {
         "name": "need2know",
         "url": "https://open.spotify.com/album/62woKz3YaWjZi1nTVc2cRu"
       },
@@ -23114,6 +23202,24 @@
       "duration_ms": 284800,
       "name": "Neon Angel (feat. Leah Culver)",
       "url": "https://open.spotify.com/track/00G9JbHRx6G6QVn0DYFpgu"
+    },
+    {
+      "album": {
+        "name": "Neon Soul",
+        "url": "https://open.spotify.com/album/6HnQIxrBh3JMlsd4P3F8X3"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Neon Soul",
+      "url": "https://open.spotify.com/track/5ONOXYgmiuLZk8oxy2zr0X"
     },
     {
       "album": {
@@ -24806,7 +24912,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 201379,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
@@ -26428,7 +26534,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 179142,
       "name": "Pop",
       "url": "https://open.spotify.com/track/0TgoIKzHyU2zysMf12KuJD"
@@ -26748,6 +26854,24 @@
       "duration_ms": 213103,
       "name": "PRAY FOR ME",
       "url": "https://open.spotify.com/track/40rP1fSM5OuPLQ6RaCpUro"
+    },
+    {
+      "album": {
+        "name": "Shangri-La",
+        "url": "https://open.spotify.com/album/4Wd709XzGV3CiZpX1ONSpM"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191172,
+      "name": "Pressure Dub",
+      "url": "https://open.spotify.com/track/2tckDgctQvbsT8ouG0Jipp"
     },
     {
       "album": {
@@ -27360,6 +27484,28 @@
       "duration_ms": 240000,
       "name": "RAD",
       "url": "https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu"
+    },
+    {
+      "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R"
     },
     {
       "album": {

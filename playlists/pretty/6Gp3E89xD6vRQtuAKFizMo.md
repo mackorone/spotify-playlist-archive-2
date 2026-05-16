@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 ### [DIM MAK: IN ROTATION](https://open.spotify.com/playlist/6Gp3E89xD6vRQtuAKFizMo)
 
-> Brand new music from Steve Aoki’s Dim Mak Records, updated every Friday!
+> Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 43,455 likes - 163 songs - 7 hr 33 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 43,451 likes - 163 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 162 | [MAMI](https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [MAMI](https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu) | 1:50 |
 | 163 | [Call Me On Your Way Home \(feat\. Alisa\)](https://open.spotify.com/track/1qaajTYMmyFJWeP6Ze535N) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Alisa](https://open.spotify.com/artist/3V64tT9rVD9R0DaA4XKt3K) | [Call Me On Your Way Home \(feat\. Alisa\)](https://open.spotify.com/album/2GdaVuxuvnbvB1FxZtToO7) | 2:55 |
 
-Snapshot ID: `AAAasjVsdLjfBFqSuEb9gok9awNTWPhL`
+Snapshot ID: `AAAas4lGzAYwpy+4w2M+oRV+7uuLIzd8`

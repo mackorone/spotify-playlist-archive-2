@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Amma",
+        "url": "https://open.spotify.com/album/45WmiWqunnT90rWWOwBcqB"
+      },
+      "artists": [
+        {
+          "name": "G.M. Sathish",
+          "url": "https://open.spotify.com/artist/0m9blwcUpRErTUJSNVn7Mb"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Amma",
+      "url": "https://open.spotify.com/track/4o7tPAJ4vDbBHzM8pJZOyr"
+    },
+    {
+      "album": {
         "name": "AMMA (Janmaala Runamu Kanipinchava)",
         "url": "https://open.spotify.com/album/3aBG1lIVqPWTUQDphSNQXN"
       },
@@ -2414,6 +2432,24 @@
       "duration_ms": 187383,
       "name": "Godavari",
       "url": "https://open.spotify.com/track/7EmSbTmg17FhujgxefuPBa"
+    },
+    {
+      "album": {
+        "name": "Goddamn Beauty",
+        "url": "https://open.spotify.com/album/16Fxgm4g53UomKgFxHaFMP"
+      },
+      "artists": [
+        {
+          "name": "C Shor",
+          "url": "https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125802,
+      "name": "Goddamn Beauty",
+      "url": "https://open.spotify.com/track/0jJZjXt0xaUvQZ8nqvNrYW"
     },
     {
       "album": {
@@ -5816,6 +5852,36 @@
       "duration_ms": 214054,
       "name": "Nee Ayya Naa Mama",
       "url": "https://open.spotify.com/track/2U1QW0GcLmXQQJd4JToiHg"
+    },
+    {
+      "album": {
+        "name": "Nee Kalle",
+        "url": "https://open.spotify.com/album/4OmUsM5RJoTh9JOcwRcWXo"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Srirag Vadlakonda",
+          "url": "https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193697,
+      "name": "Nee Kalle",
+      "url": "https://open.spotify.com/track/1VYwiZpCXmsUvgkAhKn66o"
     },
     {
       "album": {

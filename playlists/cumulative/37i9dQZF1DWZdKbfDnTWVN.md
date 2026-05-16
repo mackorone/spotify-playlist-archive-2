@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ?si=1ks8jsdKTNKHVTC78WiC2Q"> Jovie Jovv</a>
 
-504 songs - 1 day 2 hr 58 min
+504 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Mzii](https://open.spotify.com/track/2MTKIuBt9s56WqJE0VVcom) | [Ranny Ryan](https://open.spotify.com/artist/3IDBrkwgX6G1xbkO3J0j1A), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Mzii](https://open.spotify.com/album/7KTmki77n1ynngR77s11s5) | 3:31 | 2025-08-29 | 2026-01-30 |
 | [Na Btw \(Slatt Odyssey Mode!\)](https://open.spotify.com/track/17gOtaGlFwfwSY3D7dVTjJ) | [Kareem](https://open.spotify.com/artist/7vLb64Tj2f43pRAhCDhe65), [Teebagz](https://open.spotify.com/artist/5q1GxDw3IW0NQlwyvt1DZA), [Lorde Sketchy](https://open.spotify.com/artist/12qLnOqlC6XVCeoX3o2q7a) | [Na Btw \(Slatt Odyssey Mode!\)](https://open.spotify.com/album/05nZyXNkRN0QFeiR5J599w) | 2:34 | 2025-11-27 | 2026-02-20 |
 | [Na Flex Stingo](https://open.spotify.com/track/0df5MvRn6bFLhXJ7vqAlCR) | [44 Dugg](https://open.spotify.com/artist/0qPF5ftrwGhNAwk6OmEIHu), [Yung Pharaoh Bazzu](https://open.spotify.com/artist/6WviebIgx275lh6StKjOQR) | [BUD HABITS](https://open.spotify.com/album/2MbO45bSSghQY6XWbH9Fmh) | 2:48 | 2025-12-04 | 2026-02-20 |
+| [Nachizi](https://open.spotify.com/track/4gsJE7EY6Ugolq6ObjsmMS) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di) | [Street Mathematics](https://open.spotify.com/album/4yrgJMdk4vpvYIFN3NABDL) | 1:52 | 2026-05-14 |  |
 | [Nairobi](https://open.spotify.com/track/7ipje7w6H8in5Otc4pEex4) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Nairobi](https://open.spotify.com/album/7uWo9YZ9ggrk7E00QddrXm) | 3:16 | 2025-08-07 | 2025-08-15 |
 | [Nairobi Pengz](https://open.spotify.com/track/6vYlSCbecwhbLN7LCReItg) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [CHONJO](https://open.spotify.com/album/7MKDPUsNzh4adGw36ACW9C) | 3:42 | 2022-07-07 | 2023-09-15 |
 | [NAKAM SAI](https://open.spotify.com/track/5SsJ89pT9ECdRSvnTaw3MT) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [sosatheprodigyy](https://open.spotify.com/artist/54uepANVLTKjmciiFiq7uJ) | [NAKAM SAI](https://open.spotify.com/album/2stmWMDUPYilkBut28ytFg) | 2:58 | 2025-08-07 | 2025-08-15 |
@@ -458,7 +459,6 @@
 | [Toka DM](https://open.spotify.com/track/6oh6IXKCefpxvUd9EizU82) | [MAD G](https://open.spotify.com/artist/3i55n15iAnDbfy60FX053E) | [Toka DM](https://open.spotify.com/album/5N0RZBpJm8LYdZ4A3WxZ76) | 2:55 | 2025-12-18 |  |
 | [Tom Mboya](https://open.spotify.com/track/2y5CIx4aoIGMoJilesf2yA) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [Tom Mboya](https://open.spotify.com/album/1FC8uWdB2v0vgMiLFqbnH9) | 3:40 | 2022-07-07 | 2023-04-21 |
 | [Too Much](https://open.spotify.com/track/0KeypJHo1vNcEUR5cQSBHz) | [GTA](https://open.spotify.com/artist/5ja1GRgYKlXJNpcCLB3mxh), [NATTY](https://open.spotify.com/artist/4eNDlXIuO29xtFWoqRmcli) | [Nattorius](https://open.spotify.com/album/1ixq1wEqfuauhtyVe8X8OT) | 2:12 | 2023-01-19 | 2023-06-30 |
-| [Track 4](https://open.spotify.com/track/4gsJE7EY6Ugolq6ObjsmMS) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ) | [Street Mathematics](https://open.spotify.com/album/4yrgJMdk4vpvYIFN3NABDL) | 0:00 | 2026-05-14 |  |
 | [Trap Harakati](https://open.spotify.com/track/5zqzBnWP6dLTNLp7zT0jXx) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ) | [Trap Harakati](https://open.spotify.com/album/5uSLpHtIbUEAQyb1F2pHvo) | 2:49 | 2026-04-16 |  |
 | [Tsunami](https://open.spotify.com/track/0Z412tcJhHWjmU7q05qI7T) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Scar](https://open.spotify.com/artist/4jNWY4AuhaqlwrKsYpYPhH) | [Invisible Currency](https://open.spotify.com/album/3bMnNtT3KDro78bMlWiq8a) | 6:14 | 2022-03-17 | 2023-05-19 |
 | [Tukawake](https://open.spotify.com/track/11w3BiPcMqNq0peyzPmx6Q) | [K\-Rupt](https://open.spotify.com/artist/1l2O926MJtrHhSgDGRayJ4) | [Ogopa 2 \- Strictly For The Hanyee In You](https://open.spotify.com/album/6ZJyOUYH9xf2VhfADsYvNl) | 3:57 | 2025-08-07 | 2025-08-15 |

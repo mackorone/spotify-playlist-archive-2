@@ -2,7 +2,7 @@
 
 ### [90s](https://open.spotify.com/playlist/6wsFITBT08NA12LlCG9h3Q)
 
-> A <a href="http://www.digster.fm/decades">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.
+> A classic playlist with the best hits of the 90s featuring No Doubt, Spice Girls, Smash Mouth, Nirvana, and all those 90s hits you can't resist!
 
 81 songs - 5 hr 33 min
 

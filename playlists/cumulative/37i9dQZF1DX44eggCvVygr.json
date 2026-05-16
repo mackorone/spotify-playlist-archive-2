@@ -5,6 +5,46 @@
   "tracks": [
     {
       "album": {
+        "name": "Scattered Thoughts",
+        "url": "https://open.spotify.com/album/5ESXATt30MXodjyyubLgx2"
+      },
+      "artists": [
+        {
+          "name": "Gary Davenport",
+          "url": "https://open.spotify.com/artist/49c7NHtdbavJhYgbbSMqDN"
+        },
+        {
+          "name": "Mannequin",
+          "url": "https://open.spotify.com/artist/0ncOCqtA5Tr9gzMp9q9j3T"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212549,
+      "name": "A Desperate Situation",
+      "url": "https://open.spotify.com/track/5vXhKSafgIvuu0N9Lgh1IT"
+    },
+    {
+      "album": {
+        "name": "Woven Hand",
+        "url": "https://open.spotify.com/album/0M1BsAowLxOrnBsx0YYlNy"
+      },
+      "artists": [
+        {
+          "name": "Wovenhand",
+          "url": "https://open.spotify.com/artist/0dpglhdTlof5BS5LX7uJmg"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1lCUxOz23eADjrFqx6jxKU"
+    },
+    {
+      "album": {
         "name": "Lost Angeles",
         "url": "https://open.spotify.com/album/7urtHe1NCIWrYAXeZ0mm0q"
       },
@@ -81,6 +121,28 @@
     },
     {
       "album": {
+        "name": "Static Transmission (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0DC5wktGeVckfUFwlwOzZ9"
+      },
+      "artists": [
+        {
+          "name": "Steve Wynn",
+          "url": "https://open.spotify.com/artist/5JFS60r6NwiQfX8Ue29JHL"
+        },
+        {
+          "name": "The Miracle 3",
+          "url": "https://open.spotify.com/artist/5xxhoFAogyDcYxVTrWKSi8"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395333,
+      "name": "Amphetamine",
+      "url": "https://open.spotify.com/track/7FdDmyk09A7GeR5gAvj9Kd"
+    },
+    {
+      "album": {
         "name": "The Life Pursuit",
         "url": "https://open.spotify.com/album/3G6qfauXGRxcWaCFZvGaLU"
       },
@@ -114,6 +176,42 @@
       "duration_ms": 244400,
       "name": "Another Sunny Day",
       "url": "https://open.spotify.com/track/1SxC3v3Mcm5VPxeXaF59NY"
+    },
+    {
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
+    },
+    {
+      "album": {
+        "name": "Appreciation",
+        "url": "https://open.spotify.com/album/1Hl6aW4nDvL84u0lLekXoS"
+      },
+      "artists": [
+        {
+          "name": "Sue Chaloner",
+          "url": "https://open.spotify.com/artist/5jR2IGu7JriDPAnlni1imX"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399333,
+      "name": "Appreciation",
+      "url": "https://open.spotify.com/track/50hyGuuIBEt08mgNOaY8i0"
     },
     {
       "album": {
@@ -212,6 +310,42 @@
       "duration_ms": 213200,
       "name": "As Long As You're With Me",
       "url": "https://open.spotify.com/track/6eAuIwnjzvUFxtNVTPlKA3"
+    },
+    {
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "album": {
+        "name": "B-Sides & Rarities (Part II)",
+        "url": "https://open.spotify.com/album/5Axs0anoTccGoYPVLcd1zu"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274440,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/1mK0EFtJkeBneIpFbujzk0"
     },
     {
       "album": {
@@ -499,6 +633,42 @@
     },
     {
       "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
+    },
+    {
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/7mIAY7o0BiPwlT2S3gCQo3"
       },
@@ -532,6 +702,24 @@
       "duration_ms": 211224,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/6sQU3wCAsVtsj3H6CtOTVa"
+    },
+    {
+      "album": {
+        "name": "Low Estate",
+        "url": "https://open.spotify.com/album/3ezJ6fGtmEmdqTqdbpHvr0"
+      },
+      "artists": [
+        {
+          "name": "16 Horsepower",
+          "url": "https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268973,
+      "name": "Brimstone Rock",
+      "url": "https://open.spotify.com/track/1VPXSg3UFaDX80xgrTVjQT"
     },
     {
       "album": {
@@ -637,6 +825,42 @@
     },
     {
       "album": {
+        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
+        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200097,
+      "name": "Caballo Prieto Azabache",
+      "url": "https://open.spotify.com/track/1fOi6nfmNTYUJFEyvGNfkF"
+    },
+    {
+      "album": {
+        "name": "Keep Moving On",
+        "url": "https://open.spotify.com/album/5V9o2sVPjhrB78w4mCOPh6"
+      },
+      "artists": [
+        {
+          "name": "Friends in Tokyo",
+          "url": "https://open.spotify.com/artist/7ibSayHmOpaidZJPhgdWYb"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249599,
+      "name": "Call Me Devil",
+      "url": "https://open.spotify.com/track/5VXfsQX2NYS9USmDgVyys0"
+    },
+    {
+      "album": {
         "name": "Now",
         "url": "https://open.spotify.com/album/4JNN9xvSq7Y98h1qzyF8IS"
       },
@@ -670,6 +894,24 @@
       "duration_ms": 209960,
       "name": "Can't take my eyes off you - Music from The Netflix Series \"La Casa de Papel\"",
       "url": "https://open.spotify.com/track/688zRXjBtLgc3qmPGmsQrv"
+    },
+    {
+      "album": {
+        "name": "Brick By Brick",
+        "url": "https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253493,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc"
     },
     {
       "album": {
@@ -763,6 +1005,42 @@
     },
     {
       "album": {
+        "name": "Donde M\u00e1s Duele (Canta Por Sabina)",
+        "url": "https://open.spotify.com/album/4j89DqadD1mU277shXYG8F"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "Con Dos Camas Vac\u00edas",
+      "url": "https://open.spotify.com/track/5n3ZwwRCDcE6o3MLXqEJeK"
+    },
+    {
+      "album": {
+        "name": "Origenes (Remasterizado)",
+        "url": "https://open.spotify.com/album/5ibUEYPfyBvJ7WH6YGPOXO"
+      },
+      "artists": [
+        {
+          "name": "Marisol",
+          "url": "https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152546,
+      "name": "Corre, Corre Caballito - Remasterizado",
+      "url": "https://open.spotify.com/track/2Eblevm2HXAtNCfDlCscYp"
+    },
+    {
+      "album": {
         "name": "Hacia Lo Salvaje",
         "url": "https://open.spotify.com/album/30EpnkJuxCNI7AsAFmbMuQ"
       },
@@ -835,6 +1113,60 @@
     },
     {
       "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165026,
+      "name": "Don't Come Close - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2VnM6w4pDLiSa9CipmUPs3"
+    },
+    {
+      "album": {
+        "name": "Folkl\u00f3rico",
+        "url": "https://open.spotify.com/album/2rRb5BnMMlFwwb1d1q22m7"
+      },
+      "artists": [
+        {
+          "name": "Pipo Romero",
+          "url": "https://open.spotify.com/artist/4ummYkljHZF1YvDE4DSmkq"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291361,
+      "name": "Donde Te Lleve",
+      "url": "https://open.spotify.com/track/6YNDVabXm4q4zixkohwoB1"
+    },
+    {
+      "album": {
+        "name": "To Bring You My Love",
+        "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194506,
+      "name": "Down By The Water",
+      "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
+    },
+    {
+      "album": {
         "name": "La Casa de Papel (Soundtrack de la serie de Netflix)",
         "url": "https://open.spotify.com/album/5mYheUBalLjf9h29OEWlk5"
       },
@@ -854,6 +1186,24 @@
       "duration_ms": 300186,
       "name": "Es el fin (End Credits)",
       "url": "https://open.spotify.com/track/0Xmmv8HdMb51xAhSPR8GGx"
+    },
+    {
+      "album": {
+        "name": "Pol\u00edtico",
+        "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199296,
+      "name": "Es-Toy",
+      "url": "https://open.spotify.com/track/7xmGMLRtaMWPzOSgq6HEiT"
     },
     {
       "album": {
@@ -1049,6 +1399,28 @@
     },
     {
       "album": {
+        "name": "CARNAGE",
+        "url": "https://open.spotify.com/album/2ENZX0TZOt42tmCMgUyoNJ"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        },
+        {
+          "name": "Warren Ellis",
+          "url": "https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316546,
+      "name": "Hand of God",
+      "url": "https://open.spotify.com/track/57WdEMAQu8zxYpTht2Xrmu"
+    },
+    {
+      "album": {
         "name": "Build Me Up Buttercup",
         "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
       },
@@ -1157,6 +1529,42 @@
     },
     {
       "album": {
+        "name": "SPARK",
+        "url": "https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171512,
+      "name": "HEART WILL BEAT",
+      "url": "https://open.spotify.com/track/4ZaaS7sAV5dfbYrUZ9QswN"
+    },
+    {
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/0PtqooT6O0E1uyizFZevFY"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160240,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5ibNaVO251Pb2c0Wdl00gG"
+    },
+    {
+      "album": {
         "name": "IRM (Version Deluxe)",
         "url": "https://open.spotify.com/album/3yskvqosKohzIMFeEAHAFt"
       },
@@ -1194,6 +1602,24 @@
       "duration_ms": 176666,
       "name": "I Can't Stop Crying",
       "url": "https://open.spotify.com/track/0Ej4QsLqA04ox2SdrConlZ"
+    },
+    {
+      "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
     },
     {
       "album": {
@@ -1241,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149786,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
+    },
+    {
+      "album": {
         "name": "Pizza Pop",
         "url": "https://open.spotify.com/album/3GScIDM0j0GnnNdISSd1Df"
       },
@@ -1256,6 +1700,78 @@
       "duration_ms": 183800,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2tbEVt14awDrNoI8Llckaf"
+    },
+    {
+      "album": {
+        "name": "Born for This",
+        "url": "https://open.spotify.com/album/4wGV0NcbWVd9eWQOnM3KU3"
+      },
+      "artists": [
+        {
+          "name": "Royal Deluxe",
+          "url": "https://open.spotify.com/artist/54OEro9sWZ3mVfMdlz2CIt"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228986,
+      "name": "I'm a Wanted Man",
+      "url": "https://open.spotify.com/track/36KULjoNwTiiZTynwvc07s"
+    },
+    {
+      "album": {
+        "name": "Starvation",
+        "url": "https://open.spotify.com/album/5sXX1gUG8Zi2c5oPSvi94X"
+      },
+      "artists": [
+        {
+          "name": "The Dogs",
+          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219853,
+      "name": "I'm Done With Fucking, I Just Want To Dance",
+      "url": "https://open.spotify.com/track/3cJAcsbDM8lc2Ze1p8kM2A"
+    },
+    {
+      "album": {
+        "name": "Fever Ray",
+        "url": "https://open.spotify.com/album/0XwEfJMejqTpgalJwtp1CM"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228400,
+      "name": "If I Had a Heart",
+      "url": "https://open.spotify.com/track/3on9znKmGp0TaYcWPhqdVE"
+    },
+    {
+      "album": {
+        "name": "Ultimate Insomnia",
+        "url": "https://open.spotify.com/album/13Ln8UXA5vcskfxKMW58T9"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214386,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/3XTefle3zvDkjgS1Fiq14A"
     },
     {
       "album": {
@@ -1281,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Baltus",
+        "url": "https://open.spotify.com/album/6nJKSj8yqRNDn9r4oKn1UE"
+      },
+      "artists": [
+        {
+          "name": "Gundelach",
+          "url": "https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312640,
+      "name": "Iron",
+      "url": "https://open.spotify.com/track/6pSe07yFdMW2h34w6YfwBr"
+    },
+    {
+      "album": {
         "name": "Comic Strip",
         "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
       },
@@ -1300,6 +1834,24 @@
       "duration_ms": 268600,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
+    },
+    {
+      "album": {
+        "name": "Fever Ray",
+        "url": "https://open.spotify.com/album/0XwEfJMejqTpgalJwtp1CM"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337106,
+      "name": "Keep the Streets Empty for Me",
+      "url": "https://open.spotify.com/track/1ZsUmKQt3RvaxuHVHbJlyI"
     },
     {
       "album": {
@@ -1415,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "COWBOYS DE LA A3",
+        "url": "https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263942,
+      "name": "La Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5"
+    },
+    {
+      "album": {
         "name": "La Casa de Papel (Soundtrack de la serie de Netflix)",
         "url": "https://open.spotify.com/album/5mYheUBalLjf9h29OEWlk5"
       },
@@ -1452,6 +2022,24 @@
       "duration_ms": 157683,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/3PV8uIQnxD4Qiimn3x6PVr"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429760,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
     },
     {
       "album": {
@@ -1573,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321133,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
+    },
+    {
+      "album": {
         "name": "Render Me Numb, Trivial Violence",
         "url": "https://open.spotify.com/album/7yWIwU3osgvIKa3dJcgrmE"
       },
@@ -1624,6 +2230,24 @@
       "duration_ms": 180226,
       "name": "Maskenfreiheit",
       "url": "https://open.spotify.com/track/5kt1RIPNkxzCnNKRl80mjE"
+    },
+    {
+      "album": {
+        "name": "Sugarbread",
+        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
+      },
+      "artists": [
+        {
+          "name": "Soap&Skin",
+          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Me and the Devil",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
       "album": {
@@ -1743,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Nights In White Satin",
+        "url": "https://open.spotify.com/album/1wQJqldAjmo4QgEXx0BTwU"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264997,
+      "name": "Nights In White Satin",
+      "url": "https://open.spotify.com/track/5w1ingzqrsJka9nlnEFB64"
+    },
+    {
+      "album": {
         "name": "Berl\u00edn (Soundtrack de la serie de Netflix)",
         "url": "https://open.spotify.com/album/6SmaGloomWUWNlpCWJCUzU"
       },
@@ -1819,6 +2461,42 @@
     },
     {
       "album": {
+        "name": "REFLECTIONS////VOID",
+        "url": "https://open.spotify.com/album/5WmULsvnnF9Q0orVnlH5Mf"
+      },
+      "artists": [
+        {
+          "name": "THEFALLS",
+          "url": "https://open.spotify.com/artist/4Ki3LyU8CcSI0hetRxfTUF"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236301,
+      "name": "Patterns Emerge (I)",
+      "url": "https://open.spotify.com/track/6Ywb3b48cR6dyyEvzmW4IF"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3iDWMzi5acaZhJGHo2Bp9v"
+      },
+      "artists": [
+        {
+          "name": "Will Barber",
+          "url": "https://open.spotify.com/artist/5SGMzmIT9ZpDLegJF1dXef"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207653,
+      "name": "Personal Jesus",
+      "url": "https://open.spotify.com/track/6Gnh183RDXfaDVkuPSqwrE"
+    },
+    {
+      "album": {
         "name": "Pescador De Hombres",
         "url": "https://open.spotify.com/album/6Tx5TBvbXUC3AsWr3buaGK"
       },
@@ -1834,6 +2512,42 @@
       "duration_ms": 231640,
       "name": "Pescador De Hombres",
       "url": "https://open.spotify.com/track/7od71ucLRijC3mHYPXej7q"
+    },
+    {
+      "album": {
+        "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
+        "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197613,
+      "name": "Pretty Vacant",
+      "url": "https://open.spotify.com/track/21rz5LMBiIpQWRGQcb0xIg"
+    },
+    {
+      "album": {
+        "name": "Prisoner of the Road",
+        "url": "https://open.spotify.com/album/6tKNM2APSpYWtLwh9yBemD"
+      },
+      "artists": [
+        {
+          "name": "Sivert H\u00f8yem",
+          "url": "https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200258,
+      "name": "Prisoner of the Road",
+      "url": "https://open.spotify.com/track/1uZYGqKAg2k4hF4XJQqSra"
     },
     {
       "album": {
@@ -1913,6 +2627,50 @@
     },
     {
       "album": {
+        "name": "We Fall In",
+        "url": "https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231546,
+      "name": "Run to You",
+      "url": "https://open.spotify.com/track/5yX0C0jvaybCkcrkxqmXoZ"
+    },
+    {
+      "album": {
+        "name": "Musica da giostra, Vol. 5",
+        "url": "https://open.spotify.com/album/4akXzx7YiWrQhg6RsRsZeQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Matrix",
+          "url": "https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A"
+        },
+        {
+          "name": "Matt Joe",
+          "url": "https://open.spotify.com/artist/4tvFg9qFhq66pEncmIyyaU"
+        },
+        {
+          "name": "Carolina Marquez",
+          "url": "https://open.spotify.com/artist/3vrdwWVmzTsSJotjp92OPW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163359,
+      "name": "Sar\u00e0 perch\u00e9 ti amo",
+      "url": "https://open.spotify.com/track/7kLF4qbwgmeryXvrFmkHAb"
+    },
+    {
+      "album": {
         "name": "The Royal Wedding - The Official Album",
         "url": "https://open.spotify.com/album/7ivHp5OyJc1kgb4YBugNuA"
       },
@@ -1951,6 +2709,132 @@
     },
     {
       "album": {
+        "name": "Bomb The Rocks: Early Days Singles 1989-1996",
+        "url": "https://open.spotify.com/album/70dhCg14HnQoEbiBzmBHnO"
+      },
+      "artists": [
+        {
+          "name": "The 5.6.7.8's",
+          "url": "https://open.spotify.com/artist/5MZqcO35TJh5QXaFmvXmUy"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136453,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/6l9svXDiPTXPbwJV6Fgb2W"
+    },
+    {
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293933,
+      "name": "Season of the Witch",
+      "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
+    },
+    {
+      "album": {
+        "name": "... are we done yet?",
+        "url": "https://open.spotify.com/album/5ET2CEiiTY1u7honxQKGTY"
+      },
+      "artists": [
+        {
+          "name": "El Cuero",
+          "url": "https://open.spotify.com/artist/4nFlnjQABUsQJooWtYmR35"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238605,
+      "name": "Separated",
+      "url": "https://open.spotify.com/track/1PaZ6KTojFqDpMWi5hcKqA"
+    },
+    {
+      "album": {
+        "name": "Protest Songs",
+        "url": "https://open.spotify.com/album/1bY21Hf0ISCQf7h6FFVyC2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293320,
+      "name": "Shipbuilding",
+      "url": "https://open.spotify.com/track/0jj2ArKpC8JiitdG0Qp69N"
+    },
+    {
+      "album": {
+        "name": "The Tears Are Voodoo",
+        "url": "https://open.spotify.com/album/613txtdpSvuaolLagUZBRt"
+      },
+      "artists": [
+        {
+          "name": "The Dogs",
+          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103640,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/0UjMukWoE7YVrlOSao6Opq"
+    },
+    {
+      "album": {
+        "name": "Horehound",
+        "url": "https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO"
+      },
+      "artists": [
+        {
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "So Far from Your Weapon",
+      "url": "https://open.spotify.com/track/6hBNFfpbWW6M1G0rM73wd6"
+    },
+    {
+      "album": {
+        "name": "Strangers / Lovers",
+        "url": "https://open.spotify.com/album/1fCIZsyLgrpVq299mnkvav"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/6hCGVqheUBzymvfA7IB4Y9"
+    },
+    {
+      "album": {
         "name": "La Casa de Papel (Soundtrack de la serie de Netflix)",
         "url": "https://open.spotify.com/album/5mYheUBalLjf9h29OEWlk5"
       },
@@ -1970,6 +2854,42 @@
       "duration_ms": 86293,
       "name": "Somos la resistencia",
       "url": "https://open.spotify.com/track/7IrM2bLIb6VFz0TIdZQeO3"
+    },
+    {
+      "album": {
+        "name": "Tears Of Fire: The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159760,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
+    },
+    {
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "album": {
@@ -2137,6 +3057,24 @@
     },
     {
       "album": {
+        "name": "The Brothel",
+        "url": "https://open.spotify.com/album/6lRHRyZC4RYbazo76APfp9"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375693,
+      "name": "The Brothel",
+      "url": "https://open.spotify.com/track/0ZrRfFSH6kNp62zUXMDOlu"
+    },
+    {
+      "album": {
         "name": "Fire Fleet And Candlelight",
         "url": "https://open.spotify.com/album/00BbQk8JTzSQBEuZAQz5oV"
       },
@@ -2152,6 +3090,24 @@
       "duration_ms": 182133,
       "name": "The Circle Game",
       "url": "https://open.spotify.com/track/4iTSDr8jIXEfJcyl9qymmC"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 703373,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK"
     },
     {
       "album": {
@@ -2188,6 +3144,42 @@
       "duration_ms": 322173,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
+    },
+    {
+      "album": {
+        "name": "REFLECTIONS////VOID",
+        "url": "https://open.spotify.com/album/5WmULsvnnF9Q0orVnlH5Mf"
+      },
+      "artists": [
+        {
+          "name": "THEFALLS",
+          "url": "https://open.spotify.com/artist/4Ki3LyU8CcSI0hetRxfTUF"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452029,
+      "name": "The Hardest Part Is Over",
+      "url": "https://open.spotify.com/track/5eMS2b7fcIg1lmE1Kxq4ag"
+    },
+    {
+      "album": {
+        "name": "The Pressure / Let Me Burn",
+        "url": "https://open.spotify.com/album/2J4JU9t8KyxSYkDRssXIMP"
+      },
+      "artists": [
+        {
+          "name": "Rachel Fannan",
+          "url": "https://open.spotify.com/artist/45NEcLQE6r8oramtHa7tAe"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337998,
+      "name": "The Pressure",
+      "url": "https://open.spotify.com/track/3iOYYgqbU37NaleKILQOkg"
     },
     {
       "album": {
@@ -2387,6 +3379,32 @@
     },
     {
       "album": {
+        "name": "Two Tenors - A Tone and a Bone b/w (C'mon) Dance To The Drumbeat",
+        "url": "https://open.spotify.com/album/52TS5PJjBNSBntBRAHtGL9"
+      },
+      "artists": [
+        {
+          "name": "Jimmy \"Preacher\" Ellis",
+          "url": "https://open.spotify.com/artist/77HOMvyqRFw0nkx6V8Yewz"
+        },
+        {
+          "name": "The Odd Fellows",
+          "url": "https://open.spotify.com/artist/4HYiyKk8tYieACk2NTGH4P"
+        },
+        {
+          "name": "Consolidated Productions",
+          "url": "https://open.spotify.com/artist/2PDzi2CD1a1WB3adez3UkX"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204614,
+      "name": "Two Tenors - A Tone and A Bone",
+      "url": "https://open.spotify.com/track/6wxaa5o54a8h8bb8nNToe2"
+    },
+    {
+      "album": {
         "name": "High Violet (Expanded Edition)",
         "url": "https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT"
       },
@@ -2499,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "Excitable Boy",
+        "url": "https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg"
+      },
+      "artists": [
+        {
+          "name": "Warren Zevon",
+          "url": "https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209466,
+      "name": "Werewolves of London",
+      "url": "https://open.spotify.com/track/6kotXaSQaGYxE62hVpdHWu"
+    },
+    {
+      "album": {
         "name": "Berl\u00edn (Soundtrack de la serie de Netflix)",
         "url": "https://open.spotify.com/album/6SmaGloomWUWNlpCWJCUzU"
       },
@@ -2532,6 +3568,24 @@
       "duration_ms": 201293,
       "name": "Who Can It Be Now?",
       "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
+    },
+    {
+      "album": {
+        "name": "Southside Chicago",
+        "url": "https://open.spotify.com/album/19FdxlbSShGA86U6y7noRm"
+      },
+      "artists": [
+        {
+          "name": "Otis Brown",
+          "url": "https://open.spotify.com/artist/0zwPBH9v7TUk4xfrZbS4nC"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180453,
+      "name": "Who's Gonna Take Me Home",
+      "url": "https://open.spotify.com/track/0bDg3h3Z87imk3F1SYAbpY"
     },
     {
       "album": {
@@ -2589,6 +3643,68 @@
     },
     {
       "album": {
+        "name": "How Will the Wolf Survive?",
+        "url": "https://open.spotify.com/album/5dl01XDIMXrmjJ22obqfhQ"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222306,
+      "name": "Will the Wolf Survive?",
+      "url": "https://open.spotify.com/track/1p6OGxxPyfJPV459PdEBjM"
+    },
+    {
+      "album": {
+        "name": "... are we done yet?",
+        "url": "https://open.spotify.com/album/5ET2CEiiTY1u7honxQKGTY"
+      },
+      "artists": [
+        {
+          "name": "El Cuero",
+          "url": "https://open.spotify.com/artist/4nFlnjQABUsQJooWtYmR35"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262727,
+      "name": "Words of Love",
+      "url": "https://open.spotify.com/track/0A4Oy2njVkRCt6Nx5xdZM2"
+    },
+    {
+      "album": {
+        "name": "The Gabbard Brothers",
+        "url": "https://open.spotify.com/album/4ISaonLe2hkl6KjhxGN7rD"
+      },
+      "artists": [
+        {
+          "name": "The Gabbard Brothers",
+          "url": "https://open.spotify.com/artist/0saxv31ca6EfpxCmpX33Wx"
+        },
+        {
+          "name": "Andrew Gabbard",
+          "url": "https://open.spotify.com/artist/34q6xZrTKUR0YIrDxlIdU6"
+        },
+        {
+          "name": "Buffalo Killers",
+          "url": "https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190001,
+      "name": "Yer A Rockstar",
+      "url": "https://open.spotify.com/track/5xuLWuzVDFpqAtAbONnMrq"
+    },
+    {
+      "album": {
         "name": "You'll Never Walk Alone (The EMI Years 1963-1966)",
         "url": "https://open.spotify.com/album/2xjQOixp5YLkhVDcAh8MY0"
       },
@@ -2604,6 +3720,42 @@
       "duration_ms": 160186,
       "name": "You'll Never Walk Alone - Mono; 2002 Remaster",
       "url": "https://open.spotify.com/track/6catF1lDhNTjjGa2GxRQNN"
+    },
+    {
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
+    },
+    {
+      "album": {
+        "name": "Moral Panic (The Complete Edition)",
+        "url": "https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290769,
+      "name": "Your Blood",
+      "url": "https://open.spotify.com/track/68P5wNscfcZpK3UEEkbajc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX44eggCvVygr"

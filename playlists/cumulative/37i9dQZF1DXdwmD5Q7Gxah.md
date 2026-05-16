@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> ear on the cover =\] <a href="https://loremandfriends.substack.com/p/post\-hyperpop\-rockie\-rode\-arima\-ederra">read our substack 🫧  </a>
+> <a href="https://loremandfriends.substack.com/p/post\-hyperpop\-rockie\-rode\-arima\-ederra">read our substack 🫧  </a>   Smerz on the cover 🦋
 
-3,804 songs - 8 day 16 hr 8 min
+3,809 songs - 8 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1399,6 +1399,7 @@
 | [Hard Being Alive \(feat\. chloe moriondo\)](https://open.spotify.com/track/5DlYApPK4CTb6Bkyn68VQf) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Hard Being Alive \(feat\. chloe moriondo\)](https://open.spotify.com/album/0fQy3GCuYkHg7FlSR8Akuq) | 2:56 | 2022-01-14 | 2022-02-26 |
 | [Hard to Believe](https://open.spotify.com/track/0KOUhmRuztZUFOl6QCogLE) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 3:41 | 2022-06-15 | 2022-10-26 |
 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2021-02-19 | 2022-01-22 |
+| [Hardy \(feat\. Clairo\)](https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Hardy \(feat\. Clairo\)](https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE) | 3:53 | 2026-05-15 |  |
 | [Harley](https://open.spotify.com/track/35hgaNam8alvYUy7FHBAJl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Harley](https://open.spotify.com/album/4Yjouh8baN1M2FvKh9Nt6Z) | 2:41 | 2025-07-17 | 2026-02-07 |
 | [Harmony](https://open.spotify.com/track/37oNvv3Qqse1Hpj0MeSiDG) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Pink Must](https://open.spotify.com/artist/2ugqiyhldi0oFKePKmHIy9) | [Harmony](https://open.spotify.com/album/0MbPCtAJZVJmqGne38mQdF) | 2:53 | 2025-04-18 | 2025-05-31 |
 | [Hartwell](https://open.spotify.com/track/4TLXwgCmciX8sYIVj1b7Xg) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 2:52 | 2025-07-02 | 2025-11-14 |
@@ -1844,6 +1845,7 @@
 | [Kitten](https://open.spotify.com/track/1bEYQp9eT55EmNzMXXFWEY) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 3:56 | 2026-04-17 |  |
 | [Klouds Will Carry Me To Sleep](https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk) | [Gelli Haha](https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI) | [Switcheroo](https://open.spotify.com/album/6Wx8B7uw0trE9PQRXfIA78) | 3:44 | 2026-03-27 |  |
 | [Kneepads](https://open.spotify.com/track/4nrMhdklAbLUkHRv1H7YkA) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Welcome to the Witching Hour](https://open.spotify.com/album/2gUR7ulwZBk5lmGHkwlhKX) | 2:35 | 2021-03-19 | 2021-11-13 |
+| [Knifefish](https://open.spotify.com/track/1KiWQFbHX5VPg41EEErqXh) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Knifefish](https://open.spotify.com/album/00PbPT6noUQpRC9bWXXJu4) | 2:26 | 2026-05-15 |  |
 | [Know It Best](https://open.spotify.com/track/0r08QTvrSoVCHAe5tuqGcp) | [Teather](https://open.spotify.com/artist/1KpS0Dvf6uxvuDFZ9nZoFw) | [It Was Only Perfect Because It Was Never Real](https://open.spotify.com/album/6yuyUAXokVkJ5AZB5BwinT) | 3:54 | 2025-08-01 | 2026-02-07 |
 | [Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [The Snow Strippers](https://open.spotify.com/album/0cE44CtxepzcW0uP2Gx7xA) | 3:06 | 2023-11-07 | 2024-01-11 |
 | [Know You](https://open.spotify.com/track/4O0BeqEIU7KU2l8gQiO1eD) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Know You](https://open.spotify.com/album/6vkyH88dDtIfuhLNYXerEZ) | 3:25 | 2020-09-10 | 2021-04-10 |
@@ -2042,6 +2044,7 @@
 | [Lovesong \(The Way\) \[feat\. Bluets\]](https://open.spotify.com/track/4JkKXuKp2RdbE5M7L4z19Z) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Bluets](https://open.spotify.com/artist/2V8wLBnb01iDtyiAFoVGWe) | [One, Violet](https://open.spotify.com/album/47JCcUororo6viAIq4bFVB) | 3:59 | 2020-01-10 | 2020-03-25 |
 | [Loving You](https://open.spotify.com/track/1YhL0is8h9VlLcvNDmwmN4) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Loving You](https://open.spotify.com/album/5AeZ9pjEI1mBjr6mrR38MO) | 3:27 | 2020-06-20 | 2020-12-23 |
 | [Low](https://open.spotify.com/track/4bEghJHwz3GaFtY9OY4Bnr) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Low](https://open.spotify.com/album/1Qcys5TrMsduwYSkV1D0xw) | 2:22 | 2020-12-18 | 2021-03-06 |
+| [lts here](https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:34 | 2026-05-15 |  |
 | [Lucifèrine](https://open.spotify.com/track/6yi1BE15fXy72Js1uvxf3v) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Lucifèrine](https://open.spotify.com/album/38VCD1EtDYyiRE8iTolIS5) | 5:01 | 2024-11-15 | 2025-03-14 |
 | [Lucky](https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lucky](https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js) | 2:28 | 2025-02-07 | 2025-05-14 |
 | [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 | 2020-04-20 | 2020-07-31 |
@@ -2101,6 +2104,7 @@
 | [marry me](https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [marry me](https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1) | 2:37 | 2023-09-01 | 2023-09-26 |
 | [Martha](https://open.spotify.com/track/75QoXqTlvBwuITzow9egCB) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time \(Remastered\)](https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb) | 4:28 | 2021-07-31 | 2021-08-12 |
 | [Massachusetts](https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts](https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb) | 3:38 | 2024-06-12 | 2024-09-07 |
+| [Massacre](https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Massacre](https://open.spotify.com/album/2z3jdGl1joL7e7yhJLi9Nr) | 2:55 | 2026-05-15 |  |
 | [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 | 2022-10-07 | 2023-01-19 |
 | [Matador](https://open.spotify.com/track/4TcYr9WX6HSlevULMw3nnA) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/1wBk0x6HFBHRvIH42qyhBE) | 3:16 | 2023-07-31 | 2023-08-12 |
 | [Matilda](https://open.spotify.com/track/3aA5fk4c6a7e5HM4rJqkSF) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:48 | 2022-05-27 | 2022-06-22 |
@@ -3011,6 +3015,7 @@
 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 | 2022-12-09 | 2023-02-16 |
 | [SOUNDS LIKE FUN](https://open.spotify.com/track/6qNxMWdejaZeUkBQdNkcwT) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [SURF](https://open.spotify.com/album/6HAtvmKh1IjhZMQYEUjQ6b) | 2:03 | 2020-06-02 | 2020-09-10 |
 | [Soup](https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Soup](https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT) | 3:33 | 2024-07-11 | 2025-01-14 |
+| [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 | 2026-05-15 |  |
 | [Sour Apple](https://open.spotify.com/track/30QoxncreJHjHwsvlTlHTl) | [Sundarta](https://open.spotify.com/artist/7h3Gz1wNpOgcM04KbNeuZJ) | [Sour Apple](https://open.spotify.com/album/00hJ6NRmX5LfBKGUbKb4TB) | 5:47 | 2023-01-18 | 2023-03-18 |
 | [Space Cadet](https://open.spotify.com/track/3jK7Phs5IsCWndQVGD4NZz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/14dX5gXAHZFHWmOlOmdxO9) | 4:24 | 2019-10-17 | 2019-11-14 |
 | [Space Girl](https://open.spotify.com/track/5tfZ1uYrArdbDqiZ7z1aCE) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [Space Girl](https://open.spotify.com/album/6hiGYyZjkFhQ3M7khG2zs7) | 3:51 | 2020-11-27 | 2021-01-29 |

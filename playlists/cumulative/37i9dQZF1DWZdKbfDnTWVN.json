@@ -6213,6 +6213,28 @@
     },
     {
       "album": {
+        "name": "Street Mathematics",
+        "url": "https://open.spotify.com/album/4yrgJMdk4vpvYIFN3NABDL"
+      },
+      "artists": [
+        {
+          "name": "Jovie Jovv",
+          "url": "https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ"
+        },
+        {
+          "name": "Swahili Papi",
+          "url": "https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di"
+        }
+      ],
+      "date_added": "2026-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Nachizi",
+      "url": "https://open.spotify.com/track/4gsJE7EY6Ugolq6ObjsmMS"
+    },
+    {
+      "album": {
         "name": "Nairobi",
         "url": "https://open.spotify.com/album/7uWo9YZ9ggrk7E00QddrXm"
       },
@@ -9622,24 +9644,6 @@
       "duration_ms": 132685,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/0KeypJHo1vNcEUR5cQSBHz"
-    },
-    {
-      "album": {
-        "name": "Street Mathematics",
-        "url": "https://open.spotify.com/album/4yrgJMdk4vpvYIFN3NABDL"
-      },
-      "artists": [
-        {
-          "name": "Jovie Jovv",
-          "url": "https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ"
-        }
-      ],
-      "date_added": "2026-05-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/4gsJE7EY6Ugolq6ObjsmMS"
     },
     {
       "album": {

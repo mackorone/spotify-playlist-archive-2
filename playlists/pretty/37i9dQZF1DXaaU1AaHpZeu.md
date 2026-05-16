@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Jaze en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,958 likes - 48 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,943 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 24 | [Oh no!](https://open.spotify.com/track/50dSDiNFqqRKMY9OrTg9NB) | [BARIRI](https://open.spotify.com/artist/7EI5ggCJHETX3cWcqtQR2F) | [Después de esa nube](https://open.spotify.com/album/20HX1jnHFdwbysoVaMTblp) | 3:10 |
 | 25 | [Quién Soy](https://open.spotify.com/track/19YThG1ZdhciilFWmtkHhJ) | [Espíritu System](https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0) | [Quién Soy](https://open.spotify.com/album/0PzM61dLbAarvUeXo0owFo) | 2:49 |
 | 26 | [Después de ti](https://open.spotify.com/track/5SF3gBJIwEcsTZHmhGbICi) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX) | [Después de ti](https://open.spotify.com/album/3opcPOkagArNTti47Cvelc) | 3:39 |
-| 27 | [Track 9](https://open.spotify.com/track/1RA4w3uISppCKLm5oiSmY9) | [Emilia, Pardo y Bazán](https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j) | [Qué ha sido de los planes que hicimos anoche cuando estábamos borrachos](https://open.spotify.com/album/2rBEnYmhKJNtoR0USzLOCV) | 0:00 |
+| 27 | [Pido perdón](https://open.spotify.com/track/1RA4w3uISppCKLm5oiSmY9) | [Emilia, Pardo y Bazán](https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j) | [Qué ha sido de los planes que hicimos anoche cuando estábamos borrachos](https://open.spotify.com/album/2rBEnYmhKJNtoR0USzLOCV) | 2:51 |
 | 28 | [Todo el día](https://open.spotify.com/track/4zXoeo1Gqin9WXOzBBQ4s9) | [Nelson](https://open.spotify.com/artist/2NI2Q6XCBRPKZ87h0fuFNo) | [Todo el día](https://open.spotify.com/album/6jFC4MHzDBAOAKcsUzQiE6) | 3:46 |
 | 29 | [cómo?](https://open.spotify.com/track/4VG1qvz7k4ivLsNqP3dIpX) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cómo?](https://open.spotify.com/album/6usXVOK17LvPtKDB8JF36W) | 3:15 |
 | 30 | [respirar en cuadro](https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C), [Accidents](https://open.spotify.com/artist/0f2zT6pFZKYyFnFZQuZuS5) | [respirar en cuadro](https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j) | 6:13 |
@@ -45,16 +45,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 35 | [Cardiofobia](https://open.spotify.com/track/7oVTcDawxabRnhITiuXuhk) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [Cardiofobia](https://open.spotify.com/album/6N8HTFvfxx5IGmpNb8Xz79) | 3:15 |
 | 36 | [Ahora Que Estás](https://open.spotify.com/track/2UJvRcFZo6mAtDxissns7E) | [Claudia Zuazo](https://open.spotify.com/artist/38PTakSfrLtihwgUbgnKZV) | [Ahora Que Estás](https://open.spotify.com/album/1HczxRVjQ3tA8KVEK65FCX) | 4:25 |
 | 37 | [Gira el Tiempo](https://open.spotify.com/track/3lTQXg49817mxgOwHJvf70) | [Alejandra Paniagua](https://open.spotify.com/artist/428BJ6UrRiqssMjAWEujtR) | [Madre](https://open.spotify.com/album/4GO6j0wI4cXyETX9ROJUoI) | 3:37 |
-| 38 | [Mucho mejor](https://open.spotify.com/track/0O5DNU4umOM4kmnXkJmDRu) | [KINKY LOVER](https://open.spotify.com/artist/6atnQAeriB4Ql9r9MuVlIm), [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP) | [Mucho mejor](https://open.spotify.com/album/5PhNEMIAAZfjhS3G8lej4r) | 2:17 |
-| 39 | [FOMO](https://open.spotify.com/track/1ToHZ1ZFkzzD5oCobJWyRJ) | [Muyaio](https://open.spotify.com/artist/1ze7Vr6ybqdkQ0jRT9HUhP) | [Scroll Infinito](https://open.spotify.com/album/3zpJBpzaA5tAFauGMvmgaN) | 2:35 |
-| 40 | [Cabriolas](https://open.spotify.com/track/6MUKyohIAFyULlCbYcqBKZ) | [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh) | [Cabriolas](https://open.spotify.com/album/68FJcKeX8YafjR5ZXLt062) | 3:05 |
-| 41 | [Algo Más](https://open.spotify.com/track/6pm2DDFxdVodtXx9LlPvRv) | [Mani](https://open.spotify.com/artist/4HVjYYDIGeYUsWESBmE8N1) | [Algo Más](https://open.spotify.com/album/0fsTTVM5aSA762DYnFmWvS) | 3:22 |
-| 42 | [Nueva Era](https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Belleza De Las Flores](https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE) | 3:17 |
-| 43 | [Terrorismo Emocional](https://open.spotify.com/track/40b6CIfFwpDsc29JQgOVVf) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Terrorismo Emocional](https://open.spotify.com/album/7dwI8MTrfvMQKYnFdHokyU) | 3:59 |
-| 44 | [Baldosas Amarillas](https://open.spotify.com/track/7qEd0ZZUxcD0BhaAPrHZib) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Baldosas Amarillas](https://open.spotify.com/album/0VtrFuR6cadEBhZQ1zOQdz) | 3:12 |
-| 45 | [Divulgar](https://open.spotify.com/track/23FFwHT8ddbIRYBp3O6HaS) | [Alkaloides](https://open.spotify.com/artist/3EuxYSlJqnkPSr0adIH0kK), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Divulgar](https://open.spotify.com/album/4ukNZw382xrzkG5uZCdzTn) | 4:11 |
-| 46 | [Antes De Ti](https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Antes De Ti](https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF) | 2:56 |
-| 47 | [Alguien ha boicoteado el ponche](https://open.spotify.com/track/2hbigqixZkar3NFu2MKgNL) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Alguien ha boicoteado el ponche](https://open.spotify.com/album/0UPllFYQjkQWfk7dgkDQT1) | 3:18 |
-| 48 | [Tiempo](https://open.spotify.com/track/0k7ccZxW8AYwCn2pbE06R2) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Tiempo](https://open.spotify.com/album/0vclePJHhGXYC8EeZz8PdW) | 4:12 |
+| 38 | [Fama](https://open.spotify.com/track/0E956hCtqDXRjJH22FnkVz) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Dreams Of Love](https://open.spotify.com/album/4rTTcxnbeBiOGXS9wrYJdR) | 3:13 |
+| 39 | [Mucho mejor](https://open.spotify.com/track/0O5DNU4umOM4kmnXkJmDRu) | [KINKY LOVER](https://open.spotify.com/artist/6atnQAeriB4Ql9r9MuVlIm), [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP) | [Mucho mejor](https://open.spotify.com/album/5PhNEMIAAZfjhS3G8lej4r) | 2:17 |
+| 40 | [FOMO](https://open.spotify.com/track/1ToHZ1ZFkzzD5oCobJWyRJ) | [Muyaio](https://open.spotify.com/artist/1ze7Vr6ybqdkQ0jRT9HUhP) | [Scroll Infinito](https://open.spotify.com/album/3zpJBpzaA5tAFauGMvmgaN) | 2:35 |
+| 41 | [Cabriolas](https://open.spotify.com/track/6MUKyohIAFyULlCbYcqBKZ) | [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh) | [Cabriolas](https://open.spotify.com/album/68FJcKeX8YafjR5ZXLt062) | 3:05 |
+| 42 | [Algo Más](https://open.spotify.com/track/6pm2DDFxdVodtXx9LlPvRv) | [Mani](https://open.spotify.com/artist/4HVjYYDIGeYUsWESBmE8N1) | [Algo Más](https://open.spotify.com/album/0fsTTVM5aSA762DYnFmWvS) | 3:22 |
+| 43 | [Nueva Era](https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Belleza De Las Flores](https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE) | 3:17 |
+| 44 | [Terrorismo Emocional](https://open.spotify.com/track/40b6CIfFwpDsc29JQgOVVf) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Terrorismo Emocional](https://open.spotify.com/album/7dwI8MTrfvMQKYnFdHokyU) | 3:59 |
+| 45 | [Baldosas Amarillas](https://open.spotify.com/track/7qEd0ZZUxcD0BhaAPrHZib) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Baldosas Amarillas](https://open.spotify.com/album/0VtrFuR6cadEBhZQ1zOQdz) | 3:12 |
+| 46 | [Divulgar](https://open.spotify.com/track/23FFwHT8ddbIRYBp3O6HaS) | [Alkaloides](https://open.spotify.com/artist/3EuxYSlJqnkPSr0adIH0kK), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Divulgar](https://open.spotify.com/album/4ukNZw382xrzkG5uZCdzTn) | 4:11 |
+| 47 | [Antes De Ti](https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Antes De Ti](https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF) | 2:56 |
+| 48 | [Alguien ha boicoteado el ponche](https://open.spotify.com/track/2hbigqixZkar3NFu2MKgNL) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Alguien ha boicoteado el ponche](https://open.spotify.com/album/0UPllFYQjkQWfk7dgkDQT1) | 3:18 |
+| 49 | [Tiempo](https://open.spotify.com/track/0k7ccZxW8AYwCn2pbE06R2) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Tiempo](https://open.spotify.com/album/0vclePJHhGXYC8EeZz8PdW) | 4:12 |
 
 Snapshot ID: `AAAAAL88v5bROtdzETTfwff/Ci/t3Dvq`

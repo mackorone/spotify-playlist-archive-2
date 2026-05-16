@@ -1,13 +1,45 @@
 {
-  "description": "Buffalo Traffic Jam on the cover <3",
+  "description": "Jobi Riccio on the cover <3",
   "num_followers": 145603,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKBOkzgqS5HkRCGn8T0G0v6sk63F",
+  "snapshot_id": "AAAAANO/aIPLRaNIk2UdOZW8FAqRvcRt",
   "tracks": [
+    {
+      "added_at": "2026-05-15 04:01:50",
+      "album": {
+        "name": "Face The Feeling",
+        "url": "https://open.spotify.com/album/0nbOE96i0mvngykkXaQew0"
+      },
+      "artists": [
+        {
+          "name": "Jobi Riccio",
+          "url": "https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO"
+        }
+      ],
+      "duration_ms": 256755,
+      "name": "A Little at a Time",
+      "url": "https://open.spotify.com/track/29tZfTb09xQTjo7zMpVPj7"
+    },
+    {
+      "added_at": "2026-05-01 04:03:03",
+      "album": {
+        "name": "You Never Did Anything Wrong",
+        "url": "https://open.spotify.com/album/1xSwpgGTUS2mPqUeJm4H7L"
+      },
+      "artists": [
+        {
+          "name": "mer marcum",
+          "url": "https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN"
+        }
+      ],
+      "duration_ms": 267854,
+      "name": "You Never Did Anything Wrong",
+      "url": "https://open.spotify.com/track/4i48XJB5LK9FWvubslk3Ko"
+    },
     {
       "added_at": "2026-05-08 04:03:42",
       "album": {
@@ -25,20 +57,28 @@
       "url": "https://open.spotify.com/track/344KZeQWZKibpxndj98m1j"
     },
     {
-      "added_at": "2026-05-01 04:03:03",
+      "added_at": "2026-05-15 04:01:50",
       "album": {
-        "name": "You Never Did Anything Wrong",
-        "url": "https://open.spotify.com/album/1xSwpgGTUS2mPqUeJm4H7L"
+        "name": "Pigeons & Planes Presents: See You Next Year 3",
+        "url": "https://open.spotify.com/album/1LjkpcxdrqE8mSDghyhlwu"
       },
       "artists": [
         {
-          "name": "mer marcum",
-          "url": "https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN"
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        },
+        {
+          "name": "emory",
+          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
         }
       ],
-      "duration_ms": 267854,
-      "name": "You Never Did Anything Wrong",
-      "url": "https://open.spotify.com/track/4i48XJB5LK9FWvubslk3Ko"
+      "duration_ms": 163152,
+      "name": "scratch",
+      "url": "https://open.spotify.com/track/73W3LkcxKvzCJ2vthJXk7M"
     },
     {
       "added_at": "2026-04-24 04:01:57",

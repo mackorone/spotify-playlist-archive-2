@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Back in the Valley",
+        "url": "https://open.spotify.com/album/6avarjaIMnNNnszdJOWa3m"
+      },
+      "artists": [
+        {
+          "name": "Golf Trip",
+          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192372,
+      "name": "Back in the Valley",
+      "url": "https://open.spotify.com/track/42ifli02Y5C3OFZOIPDZ1m"
+    },
+    {
+      "album": {
         "name": "Untitled '91",
         "url": "https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Where nature and white noise meet.",
-  "num_followers": 908133,
+  "num_followers": 908125,
   "original_name": "Nature Noise",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Soothing Green Noise",
-        "url": "https://open.spotify.com/album/4U0vt6QJHQrvrh4IRxO2pg"
-      },
-      "artists": [
-        {
-          "name": "Baltic Nature Sounds",
-          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
-        }
-      ],
-      "duration_ms": 136550,
-      "name": "Rainy Night - Sweet Spot Green Noise",
-      "url": "https://open.spotify.com/track/4K1TQrctzubFO1My5EiyMh"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Nature Rain Relaxation",
         "url": "https://open.spotify.com/album/6l6y3ned8RViGuo8Jy07gq"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 152000,
       "name": "Steady Rain",
       "url": "https://open.spotify.com/track/07sMMvZeZ0AExRWF2UX8Wf"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/4U0vt6QJHQrvrh4IRxO2pg"
+      },
+      "artists": [
+        {
+          "name": "Baltic Nature Sounds",
+          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
+        }
+      ],
+      "duration_ms": 136550,
+      "name": "Rainy Night - Sweet Spot Green Noise",
+      "url": "https://open.spotify.com/track/4K1TQrctzubFO1My5EiyMh"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
+        "name": "Green Noise - Babbling Brook",
+        "url": "https://open.spotify.com/album/5RNtcW6NQhn1zwGzFRSSeJ"
+      },
+      "artists": [
+        {
+          "name": "ombrea",
+          "url": "https://open.spotify.com/artist/64YqS5ICB0wzPrsHREywYV"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Green Noise - Babbling Brook",
+      "url": "https://open.spotify.com/track/2GlZtmspCbB3pnPyntQHBR"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
         "name": "Rainforest Retreat: Experiencing the Green Noise of Nature's Canopy",
         "url": "https://open.spotify.com/album/4iLNqLLvHuAfQPebzZAbXe"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 152006,
       "name": "Schlaf Regen",
       "url": "https://open.spotify.com/track/7jKGnqFbFlbiLsuk667GF6"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
-        "name": "Green Noise - Babbling Brook",
-        "url": "https://open.spotify.com/album/5RNtcW6NQhn1zwGzFRSSeJ"
-      },
-      "artists": [
-        {
-          "name": "ombrea",
-          "url": "https://open.spotify.com/artist/64YqS5ICB0wzPrsHREywYV"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Green Noise - Babbling Brook",
-      "url": "https://open.spotify.com/track/2GlZtmspCbB3pnPyntQHBR"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Soothing River Sounds",
-        "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
-      },
-      "artists": [
-        {
-          "name": "Rivers and Streams",
-          "url": "https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7"
-        }
-      ],
-      "duration_ms": 169983,
-      "name": "Upstream River Sounds",
-      "url": "https://open.spotify.com/track/3HtzQDc13GIkar1d3suvKl"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Worldwide Green Noise",
         "url": "https://open.spotify.com/album/0FRzMGKvSbn98TvZvrqJc2"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "JBE River Sounds",
-        "url": "https://open.spotify.com/album/3orPY7ARSexj6E3z5JIQVc"
+        "name": "Soothing River Sounds",
+        "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
       },
       "artists": [
         {
-          "name": "JBE Nature Sounds",
-          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+          "name": "Rivers and Streams",
+          "url": "https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7"
         }
       ],
-      "duration_ms": 162007,
-      "name": "Streaming Brook",
-      "url": "https://open.spotify.com/track/7gXySy6c7ixl0m6FYTrGsu"
+      "duration_ms": 169983,
+      "name": "Upstream River Sounds",
+      "url": "https://open.spotify.com/track/3HtzQDc13GIkar1d3suvKl"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
+        "name": "JBE River Sounds",
+        "url": "https://open.spotify.com/album/3orPY7ARSexj6E3z5JIQVc"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "duration_ms": 162007,
+      "name": "Streaming Brook",
+      "url": "https://open.spotify.com/track/7gXySy6c7ixl0m6FYTrGsu"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
         "name": "Peaceful Rain Sleep",
         "url": "https://open.spotify.com/album/3HIatTLC5cX3O0EGOFsPDQ"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 148000,
       "name": "Calm Rain Storm & Gentle White Noise",
       "url": "https://open.spotify.com/track/5X8Hut4pmjxDUd8bYfFqjb"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
-        "name": "Sunday Night Waves",
-        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
-      },
-      "artists": [
-        {
-          "name": "Microdynamic Recordings",
-          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
-        }
-      ],
-      "duration_ms": 174345,
-      "name": "Misty Waves",
-      "url": "https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Rain Sounds Vol. 3",
-        "url": "https://open.spotify.com/album/2abBIAGnbK4LEppbtAB3KL"
+        "name": "Sunday Night Waves",
+        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
       },
       "artists": [
         {
-          "name": "JBE Nature Sounds",
-          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+          "name": "Microdynamic Recordings",
+          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
         }
       ],
-      "duration_ms": 208619,
-      "name": "Forest Rain",
-      "url": "https://open.spotify.com/track/1gDhRTrbT942IknQqleVqB"
+      "duration_ms": 174345,
+      "name": "Misty Waves",
+      "url": "https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1143,6 +1127,22 @@
       "duration_ms": 169630,
       "name": "Rain Clappering Outside",
       "url": "https://open.spotify.com/track/3PCbiNhD6DqC1kmeLfWVjk"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Rain Sounds Vol. 3",
+        "url": "https://open.spotify.com/album/2abBIAGnbK4LEppbtAB3KL"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "duration_ms": 208619,
+      "name": "Forest Rain",
+      "url": "https://open.spotify.com/track/1gDhRTrbT942IknQqleVqB"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Evergreen Noise",
-        "url": "https://open.spotify.com/album/1RLp7d0lQa4gQxYlVsImJt"
+        "name": "Stereo Waves",
+        "url": "https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ"
       },
       "artists": [
         {
-          "name": "Celestial Noise",
-          "url": "https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z"
+          "name": "4D Nature Recordings",
+          "url": "https://open.spotify.com/artist/6EAXjip845wircvDzEImru"
         }
       ],
-      "duration_ms": 154033,
-      "name": "Evergreen Noise",
-      "url": "https://open.spotify.com/track/2mmfMsEA9FmbrphnBvyJEa"
+      "duration_ms": 154284,
+      "name": "Stereo Waves",
+      "url": "https://open.spotify.com/track/29DeShLV9kzW2RXeTpo8bX"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Stereo Waves",
-        "url": "https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ"
+        "name": "Evergreen Noise",
+        "url": "https://open.spotify.com/album/1RLp7d0lQa4gQxYlVsImJt"
       },
       "artists": [
         {
-          "name": "4D Nature Recordings",
-          "url": "https://open.spotify.com/artist/6EAXjip845wircvDzEImru"
+          "name": "Celestial Noise",
+          "url": "https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z"
         }
       ],
-      "duration_ms": 154284,
-      "name": "Stereo Waves",
-      "url": "https://open.spotify.com/track/29DeShLV9kzW2RXeTpo8bX"
+      "duration_ms": 154033,
+      "name": "Evergreen Noise",
+      "url": "https://open.spotify.com/track/2mmfMsEA9FmbrphnBvyJEa"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Volume 2",
-        "url": "https://open.spotify.com/album/5JszjLduB2DL2yy9jAu92o"
-      },
-      "artists": [
-        {
-          "name": "Now That\u2019s What I Call Rain",
-          "url": "https://open.spotify.com/artist/4gH7uEKcdTcU4vYnQIpq6A"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Rain Flow",
-      "url": "https://open.spotify.com/track/4czA4cB3hWwKhkLuXqdABF"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Relaxing Running Water",
         "url": "https://open.spotify.com/album/5bfdoeCy8FpHfed8W5ObC7"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 186321,
       "name": "Relaxing River Sounds",
       "url": "https://open.spotify.com/track/1bj1hZ1gz6EpO6xpMfGzfs"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/5JszjLduB2DL2yy9jAu92o"
+      },
+      "artists": [
+        {
+          "name": "Now That\u2019s What I Call Rain",
+          "url": "https://open.spotify.com/artist/4gH7uEKcdTcU4vYnQIpq6A"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Rain Flow",
+      "url": "https://open.spotify.com/track/4czA4cB3hWwKhkLuXqdABF"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
+        "name": "Gentle Waters",
+        "url": "https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Gentle Waters (Rain)",
+      "url": "https://open.spotify.com/track/5DKlfLW5p13tBiuetBLWNX"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
         "name": "Oceanic Samples",
         "url": "https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 138205,
       "name": "\u00c9lev\u00e9 Naturel",
       "url": "https://open.spotify.com/track/5IxXSlodpE3vSMSDUtjktG"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
-        "name": "Gentle Waters",
-        "url": "https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD"
-      },
-      "artists": [
-        {
-          "name": "NatuREM",
-          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Gentle Waters (Rain)",
-      "url": "https://open.spotify.com/track/5DKlfLW5p13tBiuetBLWNX"
     },
     {
       "added_at": "2026-04-02 10:07:29",

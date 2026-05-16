@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Gibbs",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Mata",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -2682,6 +2682,24 @@
       "duration_ms": 154054,
       "name": "BRAK REGU\u0141",
       "url": "https://open.spotify.com/track/1U7pE3ztxh37auLRtIaWrK"
+    },
+    {
+      "album": {
+        "name": "#MATA2040",
+        "url": "https://open.spotify.com/album/3qbTjrny6JVyR9Q8hZoJYT"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "BRAKUJE MI MATY",
+      "url": "https://open.spotify.com/track/0KwCJQfnBHQgPOHjwY9W2x"
     },
     {
       "album": {
@@ -6130,7 +6148,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 285857,
       "name": "Etiuda nr11 FOKUS x RAHIM",
       "url": "https://open.spotify.com/track/3Ck8RXdhIYiuZnT6kWNeHZ"
@@ -17323,6 +17341,28 @@
     },
     {
       "album": {
+        "name": "#MATA2040",
+        "url": "https://open.spotify.com/album/3qbTjrny6JVyR9Q8hZoJYT"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "PROLOG",
+      "url": "https://open.spotify.com/track/2IacziADIq3nCPjFtWItH2"
+    },
+    {
+      "album": {
         "name": "Przedostatni raz",
         "url": "https://open.spotify.com/album/0LQqpZH9iQAUIwbaeWG9Fr"
       },
@@ -23690,7 +23730,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 132244,
       "name": "\u015amigus Dyngus",
       "url": "https://open.spotify.com/track/1zkJvY0eByAJ5DLtE7CKvA"

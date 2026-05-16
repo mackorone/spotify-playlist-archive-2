@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Göksel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,553,092 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,110 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 13 | [GÜLİSTAN](https://open.spotify.com/track/16Cn3tlpdhLH66ZArTgDAE) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [GÜLİSTAN](https://open.spotify.com/album/5fi8SOINA1bXKmNDT7Wl3p) | 3:38 |
 | 14 | [Nahide](https://open.spotify.com/track/4AC6Eg0zc2kZ72ZXVdU96J) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Nahide](https://open.spotify.com/album/2dA17mW4Y7Nb9VNz0RII6p) | 3:34 |
 | 15 | [Kader Kurbanıyım](https://open.spotify.com/track/4888qqKoMifQTbr4s4FiH6) | [Kibariye](https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90), [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [Kader Kurbanıyım](https://open.spotify.com/album/5wJY7LxfV4BTElVIiURdNY) | 3:03 |
-| 16 | [Track 4](https://open.spotify.com/track/6o9OF2yk8aotpdC9BBQ8fx) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [DERBEND](https://open.spotify.com/album/6jNatVdXK6ET81G1OBhTb2) | 0:00 |
+| 16 | [Yine Ayrılık](https://open.spotify.com/track/6o9OF2yk8aotpdC9BBQ8fx) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj), [DERBEND](https://open.spotify.com/artist/5HUa70pmGqPiOSu0lmT5mM) | [DERBEND](https://open.spotify.com/album/6jNatVdXK6ET81G1OBhTb2) | 4:30 |
 | 17 | [Uyku Bile Tutamıyor](https://open.spotify.com/track/1KAmW7WP1qIN9eBbrcPBcj) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn) | [Uyku Bile Tutamıyor](https://open.spotify.com/album/4QU5BCRuHmKIJSqmAyvlRR) | 3:06 |
 | 18 | [Yangın Yeri](https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Yangın Yeri](https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj) | 2:31 |
 | 19 | [YENİ BİRİ](https://open.spotify.com/track/0wx08CQnNntQhnkhEq9h2r) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [YENİ BİRİ](https://open.spotify.com/album/14ZzDyIYf5mBua5zRnIldK) | 2:33 |

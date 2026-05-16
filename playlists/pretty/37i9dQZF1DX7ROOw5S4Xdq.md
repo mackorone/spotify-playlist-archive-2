@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: fhop music
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,222 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,424 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 29 | [Não Vai Te Faltar Nada \- Ao Vivo](https://open.spotify.com/track/3UCj0lZzBSXFkAvqQ3CA6t) | [Amanda Ferrari](https://open.spotify.com/artist/75wI9bTpjKQgKTBfYNzs4W), [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ) | [Não Vai Te Faltar Nada \(Ao Vivo\)](https://open.spotify.com/album/4ORrkZFnKKtXzolFn1gZUb) | 4:41 |
 | 30 | [Abala as Estruturas](https://open.spotify.com/track/4j7ZlXahndX87cKxdi0oz2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [GBA Worship](https://open.spotify.com/artist/4t6soZWVyBgyasne3JFfPI), [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD) | [Abala as Estruturas](https://open.spotify.com/album/662Gy6BCAMjBvJzhr99f9d) | 4:10 |
 | 31 | [Máquina do Tempo](https://open.spotify.com/track/7shaVdtIEPSlJmQT8d4rkY) | [Grace Jhones](https://open.spotify.com/artist/4f7YRHMPr5MIfJQiAgby5u), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Memórias](https://open.spotify.com/album/0hc57lmeutzIqrq60WBcn8) | 4:04 |
-| 32 | [Devolva a Minha Igrejinha \- Acústico](https://open.spotify.com/track/2nJXXrlpsATWmxlv4AHZcq) | [Calmará](https://open.spotify.com/artist/2NCFdDa6TX1WWI1r1HxpYE), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV) | [Devolva a Minha Igrejinha \- Oração Acústica](https://open.spotify.com/album/3wDqbkaGObLYMTD9TcYj5e) | 5:55 |
+| 32 | [Devolva a Minha Igrejinha \- Oração Acústica](https://open.spotify.com/track/2nJXXrlpsATWmxlv4AHZcq) | [Calmará](https://open.spotify.com/artist/2NCFdDa6TX1WWI1r1HxpYE), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV) | [Devolva a Minha Igrejinha \- Oração Acústica](https://open.spotify.com/album/3wDqbkaGObLYMTD9TcYj5e) | 5:55 |
 | 33 | [Eu Vou Abrir O Mar \- Ao Vivo](https://open.spotify.com/track/2Nr4wtTQgOUDPvuObu2PCe) | [Samuel Eleoterio](https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv) | [Eu Vou Abrir O Mar \(Ao Vivo\)](https://open.spotify.com/album/58AGyBJwB5sXJogXBgWwFi) | 4:45 |
 | 34 | [Inconfundível \- Ao Vivo](https://open.spotify.com/track/6eB3ebf3iDnd8q7D7trIHv) | [Rodrigo Torres](https://open.spotify.com/artist/7d39sb27yeZFIV3QhEjaQ9) | [Inconfundível \(Ao Vivo\)](https://open.spotify.com/album/3aoDPmRwAXkTbkX9ctwQrs) | 5:24 |
 | 35 | [Foi Milagre](https://open.spotify.com/track/6VIb9ERGRy7CTRto2klppd) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Foi Milagre](https://open.spotify.com/album/3apfg66AwUlPNh3uYnstxp) | 4:24 |

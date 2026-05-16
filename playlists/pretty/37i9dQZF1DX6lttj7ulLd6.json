@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 401439,
+  "num_followers": 401768,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "My Inspiration",
-        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "Last Look",
         "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 303106,
       "name": "Ocean Way",
       "url": "https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "My Inspiration",
+        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
+        "name": "Jumpin' Off",
+        "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 325800,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 244874,
       "name": "The Last Kiss",
       "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Candlelight",
-      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
-      },
-      "artists": [
-        {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "My One And Only One",
         "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
       },
@@ -635,8 +619,8 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Jumpin' Off",
-        "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
       },
       "artists": [
         {
@@ -644,9 +628,25 @@
           "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 325800,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+      "duration_ms": 279040,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Down / Fade",
-        "url": "https://open.spotify.com/album/51NGl5luvcNeDYpJkt2ftG"
-      },
-      "artists": [
-        {
-          "name": "Taipei Tapes",
-          "url": "https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT"
-        }
-      ],
-      "duration_ms": 124848,
-      "name": "Down / Fade",
-      "url": "https://open.spotify.com/track/7Mwv58TkZw4Oh9aJF3bFrQ"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "Winning\u2019s Easy (When You Want It To Be)",
         "url": "https://open.spotify.com/album/5uLwe7jvlIH89BInp8tWtu"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "What\u2019s The Score?",
-        "url": "https://open.spotify.com/album/0popt4iTWZquTjXmVHUc6H"
+        "name": "Down / Fade",
+        "url": "https://open.spotify.com/album/51NGl5luvcNeDYpJkt2ftG"
       },
       "artists": [
         {
-          "name": "Charles Rudy",
-          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
+          "name": "Taipei Tapes",
+          "url": "https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT"
         }
       ],
-      "duration_ms": 264640,
-      "name": "What\u2019s The Score?",
-      "url": "https://open.spotify.com/track/2Be8e1STQgWtsbYcETqT3L"
+      "duration_ms": 124848,
+      "name": "Down / Fade",
+      "url": "https://open.spotify.com/track/7Mwv58TkZw4Oh9aJF3bFrQ"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1299,6 +1283,22 @@
       "duration_ms": 273713,
       "name": "Warm Breeze, No Plans",
       "url": "https://open.spotify.com/track/45S1m0gzipf5XV5jWhabH7"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "What\u2019s The Score?",
+        "url": "https://open.spotify.com/album/0popt4iTWZquTjXmVHUc6H"
+      },
+      "artists": [
+        {
+          "name": "Charles Rudy",
+          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
+        }
+      ],
+      "duration_ms": 264640,
+      "name": "What\u2019s The Score?",
+      "url": "https://open.spotify.com/track/2Be8e1STQgWtsbYcETqT3L"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Picante",
-        "url": "https://open.spotify.com/album/0ZHhbsQQI6wFPYU4pClcaw"
-      },
-      "artists": [
-        {
-          "name": "Charles Rudy",
-          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
-        }
-      ],
-      "duration_ms": 302459,
-      "name": "Picante",
-      "url": "https://open.spotify.com/track/3YSonOZutvi9PoFiNxLcrS"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "Echoes Of Hollywood",
         "url": "https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 184875,
       "name": "Echoes Of Hollywood",
       "url": "https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "Picante",
+        "url": "https://open.spotify.com/album/0ZHhbsQQI6wFPYU4pClcaw"
+      },
+      "artists": [
+        {
+          "name": "Charles Rudy",
+          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
+        }
+      ],
+      "duration_ms": 302459,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/3YSonOZutvi9PoFiNxLcrS"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "BeatBack",
-        "url": "https://open.spotify.com/album/0eAzf1Udink2LqCREIPuhR"
-      },
-      "artists": [
-        {
-          "name": "Charles Rudy",
-          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
-        }
-      ],
-      "duration_ms": 232969,
-      "name": "BeatBack",
-      "url": "https://open.spotify.com/track/4G48A6PsZpnfEWlhjmqQGo"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "Cat and Mouse",
         "url": "https://open.spotify.com/album/0kSCTapQtnOjLNjn9bdaFX"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 143498,
       "name": "Cat and Mouse",
       "url": "https://open.spotify.com/track/1SHbIUQu4hIv15BIZW6IkK"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "BeatBack",
+        "url": "https://open.spotify.com/album/0eAzf1Udink2LqCREIPuhR"
+      },
+      "artists": [
+        {
+          "name": "Charles Rudy",
+          "url": "https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE"
+        }
+      ],
+      "duration_ms": 232969,
+      "name": "BeatBack",
+      "url": "https://open.spotify.com/track/4G48A6PsZpnfEWlhjmqQGo"
     },
     {
       "added_at": "2026-05-08 04:00:34",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-05-08 04:00:34",
       "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 247746,
-      "name": "Mallorca",
-      "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
-    },
-    {
-      "added_at": "2026-05-08 04:00:34",
-      "album": {
         "name": "simply delicious",
         "url": "https://open.spotify.com/album/0OEZ89P3GA7p9ZJlqJpMPV"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 193937,
       "name": "simply delicious",
       "url": "https://open.spotify.com/track/0j7PqCoTnjdE4dIxHOUo7n"
+    },
+    {
+      "added_at": "2026-05-08 04:00:34",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 247746,
+      "name": "Mallorca",
+      "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
     },
     {
       "added_at": "2026-05-08 04:00:34",

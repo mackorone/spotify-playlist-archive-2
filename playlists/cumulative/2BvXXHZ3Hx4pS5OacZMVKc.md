@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-454 songs - 23 hr 17 min
+455 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Daydream](https://open.spotify.com/track/3o9NWxu4L3u22WBJTfq1Nj) | [Cream Blade](https://open.spotify.com/artist/5Px3CFPaLOQwOILnyQ5HwS), [romi](https://open.spotify.com/artist/03fWMFv4epXaib7b7PDP78) | [Daydream](https://open.spotify.com/album/7L0JggFuhaLrd4Qa9iJv6r) | 3:54 | 2022-02-03 | 2022-09-15 |
 | [Dead of Night](https://open.spotify.com/track/3nVK1WJpMLATbK7QEg840r) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Dead of Night](https://open.spotify.com/album/5wl7bVpnMRoal4apZYUO3k) | 3:53 | 2022-02-03 | 2022-09-15 |
 | [Dead Of Night \(VIP\) \- Remix](https://open.spotify.com/track/3z3wBalHCvpnAO63d6na7v) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Dead Of Night \(VIP\) \[Remix\]](https://open.spotify.com/album/1kuliqL1e3KkvuPbFvQ31X) | 4:02 | 2022-02-03 | 2023-08-11 |
+| [Deep End](https://open.spotify.com/track/784DsuZ2P86jqOmhzYTkdv) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Fendy Cisneros](https://open.spotify.com/artist/2LwuboX4U5ljjdoDmuMRc2), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Deep End](https://open.spotify.com/album/2Ny0KwjIuUXwUWEzTiJedo) | 4:21 | 2026-05-15 |  |
 | [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 | 2024-06-14 |  |
 | [Demnuhbad](https://open.spotify.com/track/22CeWpYhyEruCsFauCHlLv) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Demnuhbad](https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH) | 3:06 | 2022-11-03 | 2023-08-11 |
 | [Desperate](https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Desperate](https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv) | 3:15 | 2023-04-28 |  |

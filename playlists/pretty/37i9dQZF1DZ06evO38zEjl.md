@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,361 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,363 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 23 | [Scintilla](https://open.spotify.com/track/4hyKeaBJh35akJQrdMmCVx) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 0:50 |
 | 24 | [Hex](https://open.spotify.com/track/4JMozDRCLvmpEPI7s84zX5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 6:24 |
 | 25 | [Charm \(Over "Burundi Cloud"\)](https://open.spotify.com/track/5V5NS2wWOiu9uOPDVOgwOT) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 21:30 |
-| 26 | [Pastorale Vassant](https://open.spotify.com/track/7FLZV65L6y99GmidDfjnn1) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 3:59 |
+| 26 | [Her First Rain](https://open.spotify.com/track/6c5YdmrqRZA8Dg1wvN0VjG) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 1:38 |
 | 27 | [Reykjavik](https://open.spotify.com/track/0A4uK12VvfptV5QTJinuV6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 2:16 |
-| 28 | [Parasol Blanc, pt\. 2](https://open.spotify.com/track/1VeMQPvEgDpbmszWba9vIR) | [Hadouk Trio](https://open.spotify.com/artist/6LGJztKkpc9F9yNpPSh8Js), [Didier Malherbe](https://open.spotify.com/artist/29ZPj7LSaUStGFCPyivcOl), [Loy Ehrlich](https://open.spotify.com/artist/1Y21TMXwcmh3J7ScCMRQdH), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Utopies](https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7) | 3:33 |
-| 29 | [Passage D.E.](https://open.spotify.com/track/20CaaX6tsB7XeuThOZjNgk) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 5:25 |
-| 30 | [Her First Rain](https://open.spotify.com/track/6c5YdmrqRZA8Dg1wvN0VjG) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 1:38 |
+| 28 | [Passage D.E.](https://open.spotify.com/track/20CaaX6tsB7XeuThOZjNgk) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 5:25 |
+| 29 | [Maarifa Street](https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 7:09 |
+| 30 | [Pastorale Vassant](https://open.spotify.com/track/7FLZV65L6y99GmidDfjnn1) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 3:59 |
 | 31 | [Cool Down Coda](https://open.spotify.com/track/5WVkNw9y3FH9lxjjPjfoka) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 1:45 |
-| 32 | [Maarifa Street](https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 7:09 |
+| 32 | [Parasol Blanc, pt\. 2](https://open.spotify.com/track/1VeMQPvEgDpbmszWba9vIR) | [Hadouk Trio](https://open.spotify.com/artist/6LGJztKkpc9F9yNpPSh8Js), [Didier Malherbe](https://open.spotify.com/artist/29ZPj7LSaUStGFCPyivcOl), [Loy Ehrlich](https://open.spotify.com/artist/1Y21TMXwcmh3J7ScCMRQdH), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Utopies](https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7) | 3:33 |
 | 33 | [Solaire](https://open.spotify.com/track/7Le2FN7uEVuHdbaxvxMTH4) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 6:49 |
 | 34 | [Manga Scene](https://open.spotify.com/track/4H1mGSeiayRkwB08vaJAfI) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 5:44 |
 | 35 | [Unknown Wish](https://open.spotify.com/track/2HPoZ2u0s3mYTBNmV0sVey) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 49 | [Wing Melodies](https://open.spotify.com/track/3nWWMBKHbfhQGZOYHKynKb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 7:33 |
 | 50 | [Darbari Bridge](https://open.spotify.com/track/0EiW7uVV0szH089yAUf5xX) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 11:42 |
 
-Snapshot ID: `agO/AAAAAADHf13PXyKYgO0Y+2UYDb0F`
+Snapshot ID: `agUQgAAAAADNbTIkEq7CIlsCZGXeudla`

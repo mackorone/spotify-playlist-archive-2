@@ -2,7 +2,7 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak:
+> viral, trend ve yükselenler\.  Kapak: Ayla Çelik
 
 278 songs - 14 hr 12 min
 

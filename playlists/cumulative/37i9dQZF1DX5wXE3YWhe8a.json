@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Beings",
+        "url": "https://open.spotify.com/album/0cXvN1qyoN1iJsJE73GEd2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Beings",
+      "url": "https://open.spotify.com/track/4Ypnczcao2JT7Bo3yyz7eL"
+    },
+    {
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/4EhrkJX0ev0uXsevOhLvuh"
       },
@@ -793,6 +811,28 @@
     },
     {
       "album": {
+        "name": "Lemonade Skies",
+        "url": "https://open.spotify.com/album/4MPJfxUxGqHCrNI09jTgKF"
+      },
+      "artists": [
+        {
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+        },
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108433,
+      "name": "Lemonade Skies",
+      "url": "https://open.spotify.com/track/2QScYv7NtiUilhZEGO0HZi"
+    },
+    {
+      "album": {
         "name": "letters never sent",
         "url": "https://open.spotify.com/album/2uUNzBZxFhDF0Ew0182lUw"
       },
@@ -1040,6 +1080,24 @@
       "duration_ms": 124500,
       "name": "olive tree",
       "url": "https://open.spotify.com/track/3CxVdw3aHx8HonEJSnYfSG"
+    },
+    {
+      "album": {
+        "name": "one last day of spring",
+        "url": "https://open.spotify.com/album/7aQ4JXcKgDX7WK91roxn1z"
+      },
+      "artists": [
+        {
+          "name": "flowray",
+          "url": "https://open.spotify.com/artist/7apxuBS2y7E7Cs8ruOYhvd"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "one last day of spring",
+      "url": "https://open.spotify.com/track/1hzEffa1AVckKDxPbAvUN6"
     },
     {
       "album": {

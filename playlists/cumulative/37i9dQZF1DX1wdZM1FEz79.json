@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \uac15\uc9c0\uc6d0(Kangziwon)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \ub2e4\ub9b0(Darin)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -2461,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/31lghStw9FTYI9HSjEjfiZ"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191489,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/08uirDi1mfmqvrSIlWDR7e"
+    },
+    {
+      "album": {
         "name": "Eiffel Tower effect",
         "url": "https://open.spotify.com/album/5Ee0f9SUslVEGLld3PqIO0"
       },
@@ -3260,7 +3278,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 226853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C"
@@ -3354,7 +3372,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "Give U the Universe",
       "url": "https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4"
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 267435,
       "name": "Gleaning",
       "url": "https://open.spotify.com/track/0G5gCyheNKiXyfei3xhIBe"
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
@@ -5402,7 +5420,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 148720,
       "name": "La Danse De La Joie",
       "url": "https://open.spotify.com/track/1PesmnG3M2KOjYnaq3ppR5"
@@ -5550,7 +5568,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 201730,
       "name": "lemon",
       "url": "https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS"
@@ -5970,7 +5988,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 179999,
       "name": "Love Is You",
       "url": "https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a"
@@ -7570,7 +7588,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 129000,
       "name": "Peas and carrots",
       "url": "https://open.spotify.com/track/4n42HTO7zNVpTViUILfsLY"
@@ -8494,7 +8512,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 233906,
       "name": "slow day",
       "url": "https://open.spotify.com/track/6wBV7hsXeg7GAMXGbDen4T"
@@ -10046,7 +10064,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 168877,
       "name": "This Life Feels Ruined",
       "url": "https://open.spotify.com/track/7e4kQ0rFWMazzPRHaib9qq"
@@ -10534,7 +10552,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 144274,
       "name": "Undelivered",
       "url": "https://open.spotify.com/track/6CKUQCPdVYwmqRf0ffGwGg"

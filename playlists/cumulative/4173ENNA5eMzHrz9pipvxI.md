@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: POLTERGST
 
-1,992 songs - 3 day 23 hr 56 min
+1,993 songs - 3 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1380,6 +1380,7 @@
 | [Party Schedule](https://open.spotify.com/track/5qanaqRzPEoioP5LMdCAba) | [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [Party Schedule](https://open.spotify.com/album/48bSJq72U6fOdtVGuhcHUZ) | 2:29 | 2023-06-08 | 2023-06-23 |
 | [Pedestal](https://open.spotify.com/track/2y5o0uRMeAXdoEuBARHbLW) | [ANDROZONE](https://open.spotify.com/artist/2uNZa3sOY18Nf6n3WHKIg6) | [Pedestal](https://open.spotify.com/album/66C8ND4Wu3iTb23pLz1cxX) | 2:31 | 2023-01-26 | 2023-02-10 |
 | [Pega Pega](https://open.spotify.com/track/3c65eVJXgjdGXjsfLjqy6D) | [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO), [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY) | [Pega Pega](https://open.spotify.com/album/61GhWu3UEDaYkXbIcLWNJW) | 2:38 | 2023-03-23 | 2023-04-07 |
+| [PENSIERO STUPENDO](https://open.spotify.com/track/6dl5xUOJL67D5eBUobLKq7) | [Giuseppe Roccasalvo](https://open.spotify.com/artist/1MAoAQKtM0Dhz1SjvtabT7), [JOE ROK](https://open.spotify.com/artist/78OT3nPLhfTE5QDVSzDLzP), [BENZATO](https://open.spotify.com/artist/6Ht2FYYLzR6Mvs7AuIG1x4) | [PENSIERO STUPENDO](https://open.spotify.com/album/7IP4guV5mNoJH0ZtMDkQKX) | 2:36 | 2026-05-15 |  |
 | [People Of The Night](https://open.spotify.com/track/7HthNr6lwXLPT5rhoJoCZr) | [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [People Of The Night](https://open.spotify.com/album/0NknmmPDXQ7DWLcdNxMjy5) | 2:37 | 2025-02-27 | 2025-04-19 |
 | [Permission](https://open.spotify.com/track/1aKASOozYerKL6WwYtqqbj) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Permission](https://open.spotify.com/album/1cuEHKMtUWcrehv5XeqSlt) | 2:35 | 2024-06-28 | 2024-07-05 |
 | [Perreo](https://open.spotify.com/track/2FXVpbS6z7ctOV55h9ozCZ) | [Quentro](https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi), [Tuna](https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup), [Kuntay Cevizci](https://open.spotify.com/artist/3wN0Ob8OktbGnRVBaSqx8K) | [Perreo](https://open.spotify.com/album/6sx32X0E7IXfWLH3ldmNd4) | 4:12 | 2024-08-01 | 2024-08-09 |

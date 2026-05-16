@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 407552,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/0A1BAZGroEdUY7XiokOuWe"
@@ -1656,6 +1656,32 @@
       "duration_ms": 344506,
       "name": "I Promise",
       "url": "https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe"
+    },
+    {
+      "album": {
+        "name": "Intrepid Traveller",
+        "url": "https://open.spotify.com/album/65L6ZPuO7WChBvYNmBsSEI"
+      },
+      "artists": [
+        {
+          "name": "Simon Phillips",
+          "url": "https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy"
+        },
+        {
+          "name": "Phillip Whack",
+          "url": "https://open.spotify.com/artist/4lnvZfKIPepTetpaKdBn86"
+        },
+        {
+          "name": "Alex Sill",
+          "url": "https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467114,
+      "name": "Intrepid Traveller",
+      "url": "https://open.spotify.com/track/3tb1taUkDZMWb0zqF9SSY1"
     },
     {
       "album": {

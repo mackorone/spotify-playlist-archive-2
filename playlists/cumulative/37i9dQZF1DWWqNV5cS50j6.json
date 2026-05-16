@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Alternative indie music etc. Cover: JPEGMAFIA",
+  "description": "Alternative indie music etc. Cover: Genesis Owusu",
   "name": "anti pop",
   "tracks": [
     {
@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "campthehills",
+        "url": "https://open.spotify.com/album/730BEbU2Ka6T64vHyrtZSZ"
+      },
+      "artists": [
+        {
+          "name": "campthehills",
+          "url": "https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "armed & ready",
+      "url": "https://open.spotify.com/track/413LD6QpKlCH2qb1ZAGGHJ"
+    },
+    {
+      "album": {
         "name": "Nina Gone Wild",
         "url": "https://open.spotify.com/album/60E5YjIiwvu8mmoCI6hbZu"
       },
@@ -3208,6 +3226,24 @@
       "duration_ms": 218469,
       "name": "Big Brown Eyes",
       "url": "https://open.spotify.com/track/2eQotZtrNHzi38qge7CGXE"
+    },
+    {
+      "album": {
+        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216311,
+      "name": "BIG DOG",
+      "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
     },
     {
       "album": {
@@ -9499,6 +9535,24 @@
     },
     {
       "album": {
+        "name": "Everglades",
+        "url": "https://open.spotify.com/album/6pErDmXR3rA9dkZr9Fwv0E"
+      },
+      "artists": [
+        {
+          "name": "AZIEDOESNTEXIST",
+          "url": "https://open.spotify.com/artist/13BgU01okousPOFvmiwecU"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108505,
+      "name": "Everglades",
+      "url": "https://open.spotify.com/track/02FkZqM5go6FyrOS85qzAa"
+    },
+    {
+      "album": {
         "name": "Every Summer",
         "url": "https://open.spotify.com/album/1HZWU6NhcwXiOu2Ki01kfm"
       },
@@ -12094,7 +12148,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 147086,
       "name": "girlfriend ..",
       "url": "https://open.spotify.com/track/4YoLlQtpwBQpoRGF3j2wPp"
@@ -17361,6 +17415,24 @@
     },
     {
       "album": {
+        "name": "Knifefish",
+        "url": "https://open.spotify.com/album/00PbPT6noUQpRC9bWXXJu4"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146788,
+      "name": "Knifefish",
+      "url": "https://open.spotify.com/track/1KiWQFbHX5VPg41EEErqXh"
+    },
+    {
+      "album": {
         "name": "kora",
         "url": "https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc"
       },
@@ -18168,7 +18240,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 211224,
       "name": "LINE BACK 22",
       "url": "https://open.spotify.com/track/4OViUVBX31BQ47QRMpXiFI"
@@ -25552,7 +25624,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 176335,
       "name": "Regular Looking Man",
       "url": "https://open.spotify.com/track/4BZhgjzRhZyqcKpViR9TaN"
@@ -27180,7 +27252,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 196955,
       "name": "SHADOWS",
       "url": "https://open.spotify.com/track/5qPtQaDS9sdeQ1co9z2Xkb"
@@ -29204,7 +29276,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 121412,
       "name": "STANKA POOH",
       "url": "https://open.spotify.com/track/1mMVC8AsuUUelwopm51Jht"
@@ -34970,6 +35042,28 @@
       "duration_ms": 168938,
       "name": "When Will This Body Be Mine?",
       "url": "https://open.spotify.com/track/2B4m7QOMcFcRrurISKhs6W"
+    },
+    {
+      "album": {
+        "name": "When You Had It All",
+        "url": "https://open.spotify.com/album/35jiodhbSf3z6lSZedKgs5"
+      },
+      "artists": [
+        {
+          "name": "Perfect Person",
+          "url": "https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ"
+        },
+        {
+          "name": "Holostar",
+          "url": "https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227532,
+      "name": "When You Had It All",
+      "url": "https://open.spotify.com/track/2zmLiqywhWDH17FR2T9NXA"
     },
     {
       "album": {

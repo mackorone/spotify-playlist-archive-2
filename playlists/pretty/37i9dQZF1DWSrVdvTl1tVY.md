@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,598 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,618 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 49 | [All Day](https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All Day](https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ) | 2:17 |
 | 50 | [Big Space](https://open.spotify.com/track/6Uhy569s1JlYKwqI5k06ui) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Big Space](https://open.spotify.com/album/5K7XTnfL9nJQBxVWRt7inj) | 2:43 |
 | 51 | [Danca](https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Danca](https://open.spotify.com/album/4q7vgxW9x6ySjuYTb9IeGh) | 2:49 |
-| 52 | [Track 1](https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [Journey EP](https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs) | 0:00 |
+| 52 | [Journey](https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [Journey EP](https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs) | 3:01 |
 | 53 | [Love Me](https://open.spotify.com/track/2K4ZCttA5SRyfDqmEzINfv) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Love Me / Here We Go](https://open.spotify.com/album/07EHEKqpc5xHak2NhneCGk) | 3:41 |
 | 54 | [Don't Stop](https://open.spotify.com/track/5q9k7vafwOFIB6ErqcjCJe) | [Dafs](https://open.spotify.com/artist/4o1Bvr2CXpQRuw7JnTaO4N) | [Don't Stop](https://open.spotify.com/album/3Ml1RHy8ZnnCUOcG1kP2bA) | 3:16 |
 | 55 | [All I Want](https://open.spotify.com/track/5KMQ8HVOIRLNrhlFoaSU5a) | [Lauren Lo Sung](https://open.spotify.com/artist/2skgOXx0JaoCoR7gqJYH05) | [All I Want](https://open.spotify.com/album/1vmJMPksM5cVN6YRtpNTQY) | 3:28 |

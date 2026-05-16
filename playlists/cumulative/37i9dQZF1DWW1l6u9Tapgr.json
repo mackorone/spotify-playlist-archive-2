@@ -2497,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Where 2? EP",
+        "url": "https://open.spotify.com/album/3wABfYCaNrbWACVgpcCP5O"
+      },
+      "artists": [
+        {
+          "name": "Dungeoneering",
+          "url": "https://open.spotify.com/artist/1cO8gmAHjMQi8OqeNVSZDK"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286500,
+      "name": "Kellogg Means",
+      "url": "https://open.spotify.com/track/4cAt0QVSWzZguBTxRtGDHH"
+    },
+    {
+      "album": {
         "name": "Kick Up (feat. ralph)",
         "url": "https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT"
       },
@@ -2776,6 +2794,24 @@
       "duration_ms": 226360,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/3mPJqwKbOikvV9lqng2DJh"
+    },
+    {
+      "album": {
+        "name": "Where 2? EP",
+        "url": "https://open.spotify.com/album/3wABfYCaNrbWACVgpcCP5O"
+      },
+      "artists": [
+        {
+          "name": "Dungeoneering",
+          "url": "https://open.spotify.com/artist/1cO8gmAHjMQi8OqeNVSZDK"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Mental Water Proof",
+      "url": "https://open.spotify.com/track/763Fcep5X7TBgeYBGzmTCk"
     },
     {
       "album": {
@@ -3416,7 +3452,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 298758,
       "name": "Open Wide",
       "url": "https://open.spotify.com/track/3FyeVXkDnkVem3Oh0To4eq"
@@ -4832,7 +4868,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 168210,
       "name": "VI",
       "url": "https://open.spotify.com/track/0RtrRjzA7CYyl3qTJDOtmj"

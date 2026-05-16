@@ -6,8 +6,40 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAADrN9LVY673D24/Z9s0zxner8ibjIQ",
+  "snapshot_id": "AAADtcrw7IwSgtsCgwb5e4MvFuvR9Qg8",
   "tracks": [
+    {
+      "added_at": "2026-05-15 10:15:04",
+      "album": {
+        "name": "Fifty-Mission Cap/Locked In The Trunk Of A Car (Live July 22 - August 20, 2016)",
+        "url": "https://open.spotify.com/album/1rtZEr8M5i7KL2FIoz6w5a"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 305320,
+      "name": "Fifty-Mission Cap - Live July 22 - August 20, 2016",
+      "url": "https://open.spotify.com/track/5mBexjD1HlwDQwoM7tMQzN"
+    },
+    {
+      "added_at": "2026-05-15 10:15:12",
+      "album": {
+        "name": "Fifty-Mission Cap/Locked In The Trunk Of A Car (Live July 22 - August 20, 2016)",
+        "url": "https://open.spotify.com/album/1rtZEr8M5i7KL2FIoz6w5a"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 335093,
+      "name": "Locked In The Trunk Of A Car - Live July 22 - August 20, 2016",
+      "url": "https://open.spotify.com/track/7IwFHPOFXm0HVFa5l9qJbE"
+    },
     {
       "added_at": "2026-05-08 12:13:12",
       "album": {
@@ -59,6 +91,54 @@
       "duration_ms": 191325,
       "name": "Home to Us",
       "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
+    },
+    {
+      "added_at": "2026-05-15 10:16:07",
+      "album": {
+        "name": "Eire (Outtake)",
+        "url": "https://open.spotify.com/album/74obDeOtAXpBC3qKNRBXCB"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Eire - Outtake",
+      "url": "https://open.spotify.com/track/0sxu6iFprqQjwP9nXmUpgI"
+    },
+    {
+      "added_at": "2026-05-15 10:16:20",
+      "album": {
+        "name": "Carry The Light",
+        "url": "https://open.spotify.com/album/4yXAcm3dPQhqEO0TEu9shz"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+        }
+      ],
+      "duration_ms": 264394,
+      "name": "Carry The Light",
+      "url": "https://open.spotify.com/track/6lVM0iNMgw7YdWrDw4hcTz"
+    },
+    {
+      "added_at": "2026-05-15 10:16:31",
+      "album": {
+        "name": "The Pet Sounds Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4POLTw4bBMszbH6fExToyB"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "God Only Knows - Brian Sings Lead / Mix 3/12/66",
+      "url": "https://open.spotify.com/track/7uPRoR2cOFjgQ8lXEnSNuL"
     },
     {
       "added_at": "2026-05-08 12:13:41",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. TRIST\u00c1N!. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Porter en portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "PEDAGIOS Y CARONAS",
+        "url": "https://open.spotify.com/album/1ADyzZnYO53coeiJT79BtK"
+      },
+      "artists": [
+        {
+          "name": "Tangolo Mangos",
+          "url": "https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142682,
+      "name": "ARMADURA ARMADILHA",
+      "url": "https://open.spotify.com/track/2qtSDKYyQVr1ef0XgIfPcw"
+    },
+    {
+      "album": {
         "name": "Aroma A Nostalgia",
         "url": "https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL"
       },
@@ -1812,6 +1830,24 @@
       "duration_ms": 183653,
       "name": "California",
       "url": "https://open.spotify.com/track/5PbpA8xmXXbau3WeeLQw0p"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/2G0d0nh6rxnAtVSlfbFZxO"
+      },
+      "artists": [
+        {
+          "name": "Electrify",
+          "url": "https://open.spotify.com/artist/4Hf6DxoplRHxpz1Mh2DRDi"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222713,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/3oOcd8RxAMAvd4rntXZCil"
     },
     {
       "album": {
@@ -2924,6 +2960,24 @@
       "duration_ms": 197138,
       "name": "Cuando el Circo Llega al Pueblo",
       "url": "https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V"
+    },
+    {
+      "album": {
+        "name": "cuando no miraba atr\u00e1s",
+        "url": "https://open.spotify.com/album/2LL0sS8DFUIviQAqwpOE6D"
+      },
+      "artists": [
+        {
+          "name": "incluso si nunca despiertas",
+          "url": "https://open.spotify.com/artist/1U15da7scYhZb2sdEs4sFI"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119368,
+      "name": "cuando no miraba atr\u00e1s",
+      "url": "https://open.spotify.com/track/5cJWsZdN9imPUn5jQzIgqn"
     },
     {
       "album": {
@@ -4926,7 +4980,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 216000,
       "name": "ERES INCREIBLE",
       "url": "https://open.spotify.com/track/1dH3R9AxxIk1AG9HS5sVDs"
@@ -5189,6 +5243,24 @@
     },
     {
       "album": {
+        "name": "Estado 03",
+        "url": "https://open.spotify.com/album/0HXp4htATr4ntYfQ29mTsa"
+      },
+      "artists": [
+        {
+          "name": "Elefantes",
+          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241941,
+      "name": "Estado 03",
+      "url": "https://open.spotify.com/track/29tQbUZC1rCxHP7QPBGphX"
+    },
+    {
+      "album": {
         "name": "Super H (Homenaje al Super 8 de Los Planetas)",
         "url": "https://open.spotify.com/album/2ZT83rOpAIhACchXvYfNgb"
       },
@@ -5432,6 +5504,24 @@
       "duration_ms": 234731,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/1atYmd4arC3jqNuKyYWQ0t"
+    },
+    {
+      "album": {
+        "name": "Fiesta en la Ciudad",
+        "url": "https://open.spotify.com/album/5pSDd5eusuCSM37UceAq0U"
+      },
+      "artists": [
+        {
+          "name": "Los Cogelones",
+          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242230,
+      "name": "Fiesta en la Ciudad",
+      "url": "https://open.spotify.com/track/6NAoDrD7PUfz0S1k8HqByh"
     },
     {
       "album": {
@@ -7517,6 +7607,24 @@
     },
     {
       "album": {
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/0NGGZYuNf9CLS2PVUZTQTB"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209510,
+      "name": "Ll\u00e9vame de Vuelta",
+      "url": "https://open.spotify.com/track/41krgZ16YCbiDzz2WNpRv0"
+    },
+    {
+      "album": {
         "name": "Rizoma",
         "url": "https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2"
       },
@@ -7600,7 +7708,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 206727,
       "name": "Lo Que Desconozco",
       "url": "https://open.spotify.com/track/7nc9ntLNjoGgiVjLC6jgpS"
@@ -7755,6 +7863,24 @@
     },
     {
       "album": {
+        "name": "Los Llamados Pitag\u00f3ricos",
+        "url": "https://open.spotify.com/album/6FsxcuAF5nouopLZ5ZE6Kz"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242065,
+      "name": "Los Llamados Pitag\u00f3ricos",
+      "url": "https://open.spotify.com/track/7ydaxAURHTlX3JGOo7JEsW"
+    },
+    {
+      "album": {
         "name": "Los Malaventurados No Lloran",
         "url": "https://open.spotify.com/album/3mM4Rc25A4uJnEx0xOTTnL"
       },
@@ -7788,7 +7914,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 189429,
       "name": "Los Paraca\u00eddas",
       "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
@@ -7828,7 +7954,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 170000,
       "name": "Love To Be Loved",
       "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
@@ -8274,7 +8400,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 209600,
       "name": "Marioneta",
       "url": "https://open.spotify.com/track/36gN6hYRWPGbarIlCMdmby"
@@ -8828,7 +8954,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 169423,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0GxSmOPT9gml7M2n5SSUk9"
@@ -8886,6 +9012,24 @@
       "duration_ms": 188181,
       "name": "Mi Canci\u00f3n",
       "url": "https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72"
+    },
+    {
+      "album": {
+        "name": "Mi Catedral",
+        "url": "https://open.spotify.com/album/7rR8qrcmBnzJeqOj2dWq9n"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268053,
+      "name": "Mi Catedral",
+      "url": "https://open.spotify.com/track/46dzyJIPzp8WhdG8pFd4oj"
     },
     {
       "album": {
@@ -11105,6 +11249,24 @@
     },
     {
       "album": {
+        "name": "Perdidos en el Tiempo",
+        "url": "https://open.spotify.com/album/6wfdERria2uPruLgfkrVbN"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192882,
+      "name": "Perdidos en el Tiempo",
+      "url": "https://open.spotify.com/track/0puJdIslV3W1bJvS5qj1s1"
+    },
+    {
+      "album": {
         "name": "Perdon",
         "url": "https://open.spotify.com/album/2YXro8EOgghc32QWeEhuGy"
       },
@@ -11910,7 +12072,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 217268,
       "name": "Regu",
       "url": "https://open.spotify.com/track/4wlcS37iL0p5UVUG6edsqW"
@@ -14061,6 +14223,28 @@
     },
     {
       "album": {
+        "name": "Troleo",
+        "url": "https://open.spotify.com/album/6FQf51yZPm75XkUO0mU2TG"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        },
+        {
+          "name": "l0rna",
+          "url": "https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174663,
+      "name": "Troleo",
+      "url": "https://open.spotify.com/track/23LItei3DFF1Ny4l27lQgE"
+    },
+    {
+      "album": {
         "name": "Trueno",
         "url": "https://open.spotify.com/album/45rYlbwuN3TOtQILdlhNiU"
       },
@@ -14728,7 +14912,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 164000,
       "name": "veo, veo",
       "url": "https://open.spotify.com/track/5Wz7GBWgsoOZ5zSuzlyyUn"
@@ -14960,7 +15144,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 207109,
       "name": "VIVA M\u00c9XICO",
       "url": "https://open.spotify.com/track/2kh6djQUWo8pqR8FagrMaA"
@@ -15043,6 +15227,24 @@
     },
     {
       "album": {
+        "name": "Voy Hacia la Luz",
+        "url": "https://open.spotify.com/album/3z81XfHdTEzVBN6FZbfZdu"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226859,
+      "name": "Voy Hacia la Luz",
+      "url": "https://open.spotify.com/track/6auczjkanxttVmAny5oB7L"
+    },
+    {
+      "album": {
         "name": "Vueltas",
         "url": "https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx"
       },
@@ -15108,7 +15310,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 208500,
       "name": "Vulnerables",
       "url": "https://open.spotify.com/track/2gac1fUGyTRa95XWnAgiow"

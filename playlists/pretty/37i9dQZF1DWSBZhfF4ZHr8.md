@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Joseph Kamel
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,488 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,508 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 4 | [Close to You](https://open.spotify.com/track/53zIb2goiAPlyy40I71UlI) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Close to you](https://open.spotify.com/album/1CFSPUxpsNnHO6BscKWSec) | 2:16 |
 | 5 | [Je pense à vous](https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Je pense à vous](https://open.spotify.com/album/7nYETPT6MTJ1UcIn1x4MFF) | 2:52 |
 | 6 | [La Vida Loca](https://open.spotify.com/track/74vHwfc0huNsTubsZMqtj4) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Luiza](https://open.spotify.com/album/5nEO73oNBTQBDq3qdYpnov) | 3:06 |
-| 7 | [C'est dur d'aimer](https://open.spotify.com/track/1a2dh2wtCzMZedHpUjplzv) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Kakouprod](https://open.spotify.com/artist/6g75synhG2eMd0j2228MPR) | [Oubliez\-moi](https://open.spotify.com/album/75ymIEBQv8zZhnKtabtB9C) | 3:10 |
+| 7 | [C'est dur d'aimer](https://open.spotify.com/track/1a2dh2wtCzMZedHpUjplzv) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Oubliez\-moi](https://open.spotify.com/album/75ymIEBQv8zZhnKtabtB9C) | 3:10 |
 | 8 | [On s'trouvera un endroit \- Radio edit](https://open.spotify.com/track/27x6gCrmOhEIWJqFyVHHge) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [On s'trouvera un endroit](https://open.spotify.com/album/5SFmWNRuXnHKBnJUJeXqid) | 2:53 |
 | 9 | [Problème \(feat\. La Fouine\)](https://open.spotify.com/track/4xwa2sVbOq5WEeW998mzk9) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 2:42 |
 | 10 | [Libertà](https://open.spotify.com/track/0pAdIWqcWYbeQeYsSgitia) | [César](https://open.spotify.com/artist/29QLxgXz1rdMvaVK2aWFlU) | [Libertà](https://open.spotify.com/album/68bhRlQAHBfPvrFVFLiw1E) | 3:01 |

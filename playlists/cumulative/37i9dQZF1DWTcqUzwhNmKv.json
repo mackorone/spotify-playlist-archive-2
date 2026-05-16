@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Motionless In White are on top of today's best Metal playlist.",
+  "description": "Beartooth are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 232874,
       "name": "Angel Wings",
       "url": "https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 253612,
       "name": "Anomalous Descent",
       "url": "https://open.spotify.com/track/5DDlpPo7RB1mTeqP6YUD2g"
@@ -2134,6 +2134,24 @@
       "duration_ms": 276764,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6"
+    },
+    {
+      "album": {
+        "name": "Beneath the Scythe",
+        "url": "https://open.spotify.com/album/5JJLReI8HApHrBRwskW102"
+      },
+      "artists": [
+        {
+          "name": "Khemmis",
+          "url": "https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355366,
+      "name": "Beneath the Scythe",
+      "url": "https://open.spotify.com/track/4FIUe6szGpTGCaXQHisXr6"
     },
     {
       "album": {
@@ -3999,6 +4017,24 @@
     },
     {
       "album": {
+        "name": "Cloudfall",
+        "url": "https://open.spotify.com/album/1LmMZePgxxd8pnvUoUrf0X"
+      },
+      "artists": [
+        {
+          "name": "REZN",
+          "url": "https://open.spotify.com/artist/3pDqLo5LnCyCBxhKZygkfK"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Cloudfall",
+      "url": "https://open.spotify.com/track/1uEpwlrcgNuTLFYf8yQgfj"
+    },
+    {
+      "album": {
         "name": "Coda",
         "url": "https://open.spotify.com/album/5GaHWICFVGzEGg8ndmQmsP"
       },
@@ -4180,7 +4216,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 285247,
       "name": "Commander of Pain",
       "url": "https://open.spotify.com/track/66wTyS8P8hbXbLl07LIenU"
@@ -5996,7 +6032,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 394000,
       "name": "Doberman",
       "url": "https://open.spotify.com/track/5vWfIEWXevuwFSVqgrItHC"
@@ -6202,6 +6238,24 @@
       "duration_ms": 193121,
       "name": "Don\u2019t Look Away",
       "url": "https://open.spotify.com/track/13TI2bhTRld8pgk9xM8wm9"
+    },
+    {
+      "album": {
+        "name": "Doom in Bloom",
+        "url": "https://open.spotify.com/album/6rACINI8jqJ82X1AjuqCmN"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197370,
+      "name": "Doom in Bloom",
+      "url": "https://open.spotify.com/track/2VBZe3z0ZV0IWYYqbTiZ4Y"
     },
     {
       "album": {
@@ -7304,7 +7358,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 275673,
       "name": "Everyone Dies Alone",
       "url": "https://open.spotify.com/track/4suU2hfS3Qt3ps8iO81WmE"
@@ -7434,6 +7488,24 @@
       "duration_ms": 266338,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg"
+    },
+    {
+      "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
     },
     {
       "album": {
@@ -9625,6 +9697,24 @@
     },
     {
       "album": {
+        "name": "A Pale White Dot",
+        "url": "https://open.spotify.com/album/47qRIlDca3KNMA0WZMtIXR"
+      },
+      "artists": [
+        {
+          "name": "Periphery",
+          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259593,
+      "name": "Heaven on High",
+      "url": "https://open.spotify.com/track/7s1qpqm8n0r0FXyvgKSeqM"
+    },
+    {
+      "album": {
         "name": "Heaven Sent",
         "url": "https://open.spotify.com/album/7b4C59FU0bTArX0RL7x0un"
       },
@@ -10100,7 +10190,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 215277,
       "name": "Hum of Hurt",
       "url": "https://open.spotify.com/track/4KtVa02qhJM36lG1sxh9Wi"
@@ -10454,6 +10544,24 @@
       "duration_ms": 189915,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
+    },
+    {
+      "album": {
+        "name": "I Don't Want To Be Here Anymore",
+        "url": "https://open.spotify.com/album/090SI5QPbYJLjk1vYTK99f"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "I Don\u2019t Want to Be Here Anymore",
+      "url": "https://open.spotify.com/track/11utu1CyDWIN46SfiHW2DD"
     },
     {
       "album": {
@@ -11435,6 +11543,24 @@
     },
     {
       "album": {
+        "name": "It's For The Kids",
+        "url": "https://open.spotify.com/album/5mc7wwT115hsZ6KmwUMoot"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260115,
+      "name": "It's For The Kids",
+      "url": "https://open.spotify.com/track/1Z3sOQYPOHaPySW35C9fj3"
+    },
+    {
+      "album": {
         "name": "It's Hell Down Here",
         "url": "https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a"
       },
@@ -12298,7 +12424,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 231213,
       "name": "Lest We Fall",
       "url": "https://open.spotify.com/track/1g0YyvMI8e82KtutPZV8QG"
@@ -16397,6 +16523,24 @@
     },
     {
       "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
+    },
+    {
+      "album": {
         "name": "Deo Gratias",
         "url": "https://open.spotify.com/album/0FiZOFkh6fw3C4DTD5cyKF"
       },
@@ -17008,7 +17152,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 192966,
       "name": "Rip",
       "url": "https://open.spotify.com/track/189BviPaRZsYE0TEoxpqKq"
@@ -17226,6 +17370,24 @@
       "duration_ms": 491133,
       "name": "Rose Tinted World",
       "url": "https://open.spotify.com/track/67vYna8TF0R0kQfN92x933"
+    },
+    {
+      "album": {
+        "name": "Roses & Rotting Corpses",
+        "url": "https://open.spotify.com/album/3YpRnWz4P3UibHGxzesHK9"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206293,
+      "name": "Roses & Rotting Corpses",
+      "url": "https://open.spotify.com/track/5rnyv9rngYQjobMUExlExu"
     },
     {
       "album": {
@@ -23202,7 +23364,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 156475,
       "name": "violins",
       "url": "https://open.spotify.com/track/1GU3ZXK8lkqKBmz2fR0Dpe"

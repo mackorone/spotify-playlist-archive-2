@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "A Bouquet for You",
+        "url": "https://open.spotify.com/album/7IkJU3kCZez1E2HHjsDV8r"
+      },
+      "artists": [
+        {
+          "name": "Fileas Aunad",
+          "url": "https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122114,
+      "name": "A Bouquet for You",
+      "url": "https://open.spotify.com/track/3YMV0hjtvusTsRlIrRr3x2"
+    },
+    {
+      "album": {
         "name": "A Curious Little Friend",
         "url": "https://open.spotify.com/album/2QGHW3FOTRPMTV393SqM0X"
       },
@@ -398,6 +416,24 @@
       "duration_ms": 112250,
       "name": "A Ram Sam Sam",
       "url": "https://open.spotify.com/track/2gZD7grWxjEquN8xxLGN8Y"
+    },
+    {
+      "album": {
+        "name": "A Slow Afternoon",
+        "url": "https://open.spotify.com/album/0HlPbnimXIIbD0JMscFalh"
+      },
+      "artists": [
+        {
+          "name": "Nils Meissner",
+          "url": "https://open.spotify.com/artist/4HplXNPEnXXrvxWjbSwQCt"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97556,
+      "name": "A Slow Afternoon",
+      "url": "https://open.spotify.com/track/46hNtNgafxdBidJZqGl9s6"
     },
     {
       "album": {
@@ -866,6 +902,24 @@
       "duration_ms": 108083,
       "name": "Alouette",
       "url": "https://open.spotify.com/track/5HS1xJ3ebVv4AYF9X22OK1"
+    },
+    {
+      "album": {
+        "name": "Alphabet Box",
+        "url": "https://open.spotify.com/album/2wkBafkoRUwbS61A03Q7P1"
+      },
+      "artists": [
+        {
+          "name": "David Finnegan",
+          "url": "https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85081,
+      "name": "Alphabet Box",
+      "url": "https://open.spotify.com/track/6X4oUaLQEZnmEY4szG1DF0"
     },
     {
       "album": {
@@ -2669,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "Buttercup",
+        "url": "https://open.spotify.com/album/0DBmvBcdmp7qqq8fJqbNAA"
+      },
+      "artists": [
+        {
+          "name": "Isaac Arlo",
+          "url": "https://open.spotify.com/artist/3fBtaLdG5OVcOAva8ZzyK5"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129232,
+      "name": "Buttercup",
+      "url": "https://open.spotify.com/track/4u86xRLjl01fO1ive1ameZ"
+    },
+    {
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/6h7Psm9coLEenLZ5po1grF"
       },
@@ -3328,7 +3400,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 104019,
       "name": "Count Two for Tea",
       "url": "https://open.spotify.com/track/1IH3zsX9rbi1bnc5LVDlIh"
@@ -5758,7 +5830,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 81250,
       "name": "Fresh Finds",
       "url": "https://open.spotify.com/track/0Wi6FZnLJotCnssoo72y4Y"
@@ -10766,7 +10838,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 90263,
       "name": "Mama Bear's Blanket",
       "url": "https://open.spotify.com/track/0Zgvc2ELsZNATXFUuqFcJJ"
@@ -11594,7 +11666,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 120890,
       "name": "Moonlit Serenade",
       "url": "https://open.spotify.com/track/3z1ws5nxhunb1ffFZUGKml"
@@ -12858,6 +12930,24 @@
       "duration_ms": 101269,
       "name": "N\u00e4r trollmor har lagt sina elva sm\u00e5 troll",
       "url": "https://open.spotify.com/track/7KLODMiUhRae6TROVoo9o9"
+    },
+    {
+      "album": {
+        "name": "Ocean Drift",
+        "url": "https://open.spotify.com/album/0VUyGHJMrBGByNq5cI4S3c"
+      },
+      "artists": [
+        {
+          "name": "Nicolao Bove",
+          "url": "https://open.spotify.com/artist/5Ke0uM0iaP3REyXSJ861IW"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111964,
+      "name": "Ocean Drift",
+      "url": "https://open.spotify.com/track/0NUITsj2xC9TyLQrCPXcdI"
     },
     {
       "album": {
@@ -16163,6 +16253,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Star",
+        "url": "https://open.spotify.com/album/6E61eGXj51N6vfl6VKIbOK"
+      },
+      "artists": [
+        {
+          "name": "Elyas Bloom",
+          "url": "https://open.spotify.com/artist/4l88UGBwmjualT3n2rUJgm"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92388,
+      "name": "Sleepy Star",
+      "url": "https://open.spotify.com/track/6ugvpmFKOb8OVZxH5n2pGo"
+    },
+    {
+      "album": {
         "name": "Sleepy Sweetheart",
         "url": "https://open.spotify.com/album/3521CDtJT2c4ErbvEbB52D"
       },
@@ -17650,7 +17758,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 123952,
       "name": "Sunset Light",
       "url": "https://open.spotify.com/track/4zyrpCm7RVSBFWc3txtr6z"
@@ -19187,6 +19295,24 @@
     },
     {
       "album": {
+        "name": "The Sleeping Tiger",
+        "url": "https://open.spotify.com/album/0WNr08B2oRPkjN8i7JE97Z"
+      },
+      "artists": [
+        {
+          "name": "Isaac Tira",
+          "url": "https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91581,
+      "name": "The Sleeping Tiger",
+      "url": "https://open.spotify.com/track/02Y40kiT3mpPuYmBp5rvAJ"
+    },
+    {
+      "album": {
         "name": "The Sleeping Valley",
         "url": "https://open.spotify.com/album/0GGgiz3oX70EHNdfkSPrpm"
       },
@@ -19306,7 +19432,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 112161,
       "name": "The Sparrow's Song",
       "url": "https://open.spotify.com/track/6RHl5tPNXG2TMt2yrz5mPF"
@@ -19738,7 +19864,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 78073,
       "name": "Three Jolly Fishermen",
       "url": "https://open.spotify.com/track/43F86Pd7zjLtyPx3pxD02P"

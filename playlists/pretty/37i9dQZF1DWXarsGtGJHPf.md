@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXarsGtGJHPf.md) - [plain]
 
 > Enjoy the iconic K\-OSTs with the music videos! \(Cover: Dynamite Kiss\(키스는 괜히 해서\)\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,149 likes - 36 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,155 likes - 36 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXarsGtGJHPf.md) - [plain]
 | 35 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/0bppRVbxbVfZO0QrSdTeJi) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/0OL3dNYRwEE1yCB3DdzLHZ) | 3:12 |
 | 36 | [Fall In Love](https://open.spotify.com/track/09UK5kAe4SNJPOdU10DH73) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Fall In Love](https://open.spotify.com/album/4Z7wwnpo2e2FQplLqLXyNz) | 4:02 |
 
-Snapshot ID: `AAAAAEvnugQsI/zt6wPq5ekB9hQYe9jF`
+Snapshot ID: `AAAAAELHHq92MuxNqlTCrSLEi+0r6cgH`

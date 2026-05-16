@@ -4,7 +4,7 @@
 
 > 📸 LA JOAQUI
 
-311 songs - 14 hr 7 min
+312 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Mío No Tuyo \(feat\. Julianno Sosa\)](https://open.spotify.com/track/2y7M3BNqkUGY0eJ9oAL55R) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Mío No Tuyo \(feat\. Julianno Sosa\)](https://open.spotify.com/album/3MsigXOlPVWg1Csy7xzPrI) | 3:07 | 2023-12-15 | 2026-02-14 |
 | [Nada de Amor](https://open.spotify.com/track/4p8so2vUkBzmtQ4POvBJUs) | [Piku](https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [Nada de Amor](https://open.spotify.com/album/4MEuO4hxVdEUICnUDr1fg0) | 2:40 | 2024-09-06 | 2024-09-28 |
 | [NO LES DA](https://open.spotify.com/track/6pryujEohwqSNKGTW33SKE) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Lea in the Mix](https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP) | [MEGA CALLEJERO FINO RKT 2](https://open.spotify.com/album/5W9hkZ6wujcnIFUuj3Czzz) | 1:20 | 2026-04-24 |  |
+| [No Me Enamoro](https://open.spotify.com/track/5WKhyU61ndpYy3se3wZUFG) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [No Me Enamoro](https://open.spotify.com/album/5mPBuaqamFbE2fGmJa9SXL) | 3:05 | 2026-05-15 |  |
 | [no me llores](https://open.spotify.com/track/31ADaq3knYnKfKDbyeKoRb) | [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [godie.](https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH), [V.I.C](https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s) | [no me llores](https://open.spotify.com/album/3Mw32npgxPmKcB7uxsd4AN) | 2:26 | 2025-08-28 | 2025-09-20 |
 | [NO SE VE NA](https://open.spotify.com/track/4p2Q6Tv4Nvkmczss8QtW3I) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [NO SE VE NA](https://open.spotify.com/album/2bHpbrSulNCo8ZOEV0btLA) | 2:26 | 2024-05-10 |  |
 | [No Te Habia Visto Bien](https://open.spotify.com/track/2HNUXZKxqJgbTC7k0JYavy) | [LT Promise](https://open.spotify.com/artist/69ElvGSkRPaoxWFPLqfUac), [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [No Te Habia Visto Bien](https://open.spotify.com/album/5MyZPrlcLwzzWFdmFWUA0h) | 2:07 | 2024-10-11 | 2024-12-21 |

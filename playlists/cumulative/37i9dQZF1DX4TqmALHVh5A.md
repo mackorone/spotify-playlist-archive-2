@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : BLOWSOM
+> La scène française branchée sur courant alternatif\. Photo : Dynamite Shakers
 
-481 songs - 1 day 1 hr 10 min
+483 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Plus fort que toi](https://open.spotify.com/track/3SbwOjvnZXWnSuadX52xc6) | [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs), [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Plus fort que toi](https://open.spotify.com/album/7fkxpUqnPNTSnNiUJvI2Hx) | 2:31 | 2025-12-11 | 2026-01-24 |
 | [Plus rien dans la tête](https://open.spotify.com/track/0hKdKnBLjQgHO6MedwYUkd) | [Bonne Nuit](https://open.spotify.com/artist/2Xf3fVORh2V843bnBPq6SP) | [Crier Vomir Pleurer](https://open.spotify.com/album/33PakfNdXr3X7cAWEAkGeg) | 2:52 | 2026-02-19 |  |
 | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/track/5riDJY8bBZ5q93T6SuEyCt) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/album/4rRoWGVgwlIX75hKwLdtOg) | 2:10 | 2023-09-28 | 2023-11-10 |
+| [Pollen](https://open.spotify.com/track/4DlYbKx9n2tyRyqaavWbYQ) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Pollen](https://open.spotify.com/album/2D88YSSmZgwqyClOORleb0) | 2:21 | 2026-05-15 |  |
 | [Pornstar](https://open.spotify.com/track/3R7fcy9r7uIj6dl6VL6eAT) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Pornstar](https://open.spotify.com/album/10i2f4W4eRzNUHvudx6Qyc) | 2:50 | 2025-11-06 | 2026-01-24 |
 | [Premier Baiser](https://open.spotify.com/track/6zKP5wtxXNpzDWxcHA9LRa) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Premier Baiser](https://open.spotify.com/album/3pEJyWEz9kGVYzXE9j9MZt) | 2:50 | 2024-06-20 | 2024-11-29 |
 | [Presque Punk](https://open.spotify.com/track/75HY55DJoZNg8lK1IZ2i4m) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/7Ismclfo1TZYljMc8FGfAj) | 3:53 | 2025-08-28 | 2025-11-28 |
@@ -426,7 +427,7 @@
 | [t qu'un gros FDC](https://open.spotify.com/track/4URpzCq5Q2e3yjZtWC81RI) | [Citron Sucré](https://open.spotify.com/artist/4jdwrt4GxKV6buiNuwHSDp) | [t qu'un gros FDC](https://open.spotify.com/album/64pVg1o7OOdIgwX1a9Ilzt) | 5:17 | 2025-02-13 | 2025-05-16 |
 | [T'as les formes t'as les armes](https://open.spotify.com/track/4sOtdy0lt9vHnrF6OgbdhK) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [T'as les formes t'as les armes](https://open.spotify.com/album/1etOZNIsJItzWO5GOMJWbk) | 3:10 | 2024-11-28 | 2025-04-25 |
 | [Ta Fiction](https://open.spotify.com/track/7gJWaS57o9JEdTddHAYGle) | [Chien Méchant](https://open.spotify.com/artist/3tGEmt91uOUsBANyfWmABd) | [Ta Fiction](https://open.spotify.com/album/0NHVDvucQ8dxh5OY3oG3X6) | 3:11 | 2024-11-14 | 2025-03-07 |
-| [Tais\-toi](https://open.spotify.com/track/3LwfbyO75PgkZ0xWE1vSZD) | [VONFELT](https://open.spotify.com/artist/6A93vsKzaeq6m03BwAkTAU) | [Tais\-toi](https://open.spotify.com/album/4N0BiJFSutaAq66ZbNDJva) | 2:32 | 2026-04-16 |  |
+| [Tais\-toi](https://open.spotify.com/track/3LwfbyO75PgkZ0xWE1vSZD) | [VONFELT](https://open.spotify.com/artist/6A93vsKzaeq6m03BwAkTAU) | [Tais\-toi](https://open.spotify.com/album/4N0BiJFSutaAq66ZbNDJva) | 2:32 | 2026-04-16 | 2026-05-16 |
 | [Take Off Late](https://open.spotify.com/track/03fygREX2cwp5eK4BSnd90) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Mārara](https://open.spotify.com/album/1T3PfI7AsCc3hHXfsZTGC1) | 3:23 | 2026-03-05 | 2026-04-24 |
 | [TAKING MY DISTANCE](https://open.spotify.com/track/4OSnWq7hDostU8EhYlkyVL) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [TAKING MY DISTANCE](https://open.spotify.com/album/11o2nfD30PapyYXd00imh8) | 2:54 | 2024-10-03 | 2024-11-08 |
 | [Tango Montrouge](https://open.spotify.com/track/4ALUui623wOZZhsJ1h3M2V) | [Olkan & La Vipère Rouge](https://open.spotify.com/artist/7HhOFqVLUdzGOuLgazZhAC) | [Tango Montrouge](https://open.spotify.com/album/5AXn24BfwO7rlfQlLnPjKc) | 3:11 | 2025-11-20 | 2026-02-20 |
@@ -444,10 +445,11 @@
 | [Tornado Queen](https://open.spotify.com/track/0omnj8vNCpnBtoFMMQISiL) | [Sans Lactose](https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L) | [C'est comme ça](https://open.spotify.com/album/44OwQ3T3Iz5gROLNULcBH4) | 2:22 | 2025-11-06 | 2026-01-16 |
 | [Toujours +](https://open.spotify.com/track/7nDrQOUNCJ7kzduuRcBzyW) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Toujours +](https://open.spotify.com/album/5Q74yoVZNHnbWy4W1lrrH9) | 2:28 | 2024-10-17 | 2025-03-07 |
 | [Tout eteindre](https://open.spotify.com/track/3TVR0qA8G8V30Ywtnf1Xgm) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Tout eteindre](https://open.spotify.com/album/7kWbrWPzUb3j1BySkQRqJI) | 4:41 | 2023-11-09 | 2024-02-02 |
-| [Tout sauf la vérité](https://open.spotify.com/track/2WhOzOZmVXZDaMSzWvVKwa) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Tout sauf la vérité](https://open.spotify.com/album/3Z68OlrIgQ6SztVZW7PZeI) | 2:42 | 2026-02-19 |  |
+| [Tout sauf la vérité](https://open.spotify.com/track/2WhOzOZmVXZDaMSzWvVKwa) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Tout sauf la vérité](https://open.spotify.com/album/3Z68OlrIgQ6SztVZW7PZeI) | 2:42 | 2026-02-19 | 2026-05-16 |
 | [Tout seul](https://open.spotify.com/track/6VZ0v0TSl98xFn6rQuzVgy) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g) | [Tout seul](https://open.spotify.com/album/434ZXKSEKFsnFPImSq1si0) | 2:20 | 2026-01-23 | 2026-04-24 |
 | [Tovsk](https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD) | [Vipères Sucrées Salées](https://open.spotify.com/artist/6CAIJHm9VUJsqMjRdRnBc5) | [Tovsk](https://open.spotify.com/album/2c6Y0gdj5J23TeQhEHJwq2) | 2:45 | 2023-11-30 | 2024-03-08 |
 | [Travail Famille Connasse](https://open.spotify.com/track/4ruytwNYWTnvwEq3XNhv0l) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Travail Famille Connasse](https://open.spotify.com/album/3cvnKTweWEc1Wwgi3SmhtX) | 3:28 | 2024-11-21 | 2025-03-12 |
+| [Trop Instable](https://open.spotify.com/track/3qglIdcFgSVNKMZw5UzzwR) | [Blaame](https://open.spotify.com/artist/40eNfkD7ZldjqnmTm4fbdl) | [Trop Instable](https://open.spotify.com/album/4jguA0V4PC2mfYrBDXBkrE) | 2:52 | 2026-05-15 |  |
 | [Trouble](https://open.spotify.com/track/2jWSqM1ZAUWFB0MiWvjsZs) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Trouble](https://open.spotify.com/album/4Ra0HAJtws6bcNy6bAh87v) | 3:23 | 2024-10-17 | 2024-11-22 |
 | [Tu le sais](https://open.spotify.com/track/38cM42gpzzdkNwbX3CKWdC) | [Loane Coste](https://open.spotify.com/artist/6WZ9mM5VZI25OL93YiWi8d) | [Tu le sais](https://open.spotify.com/album/38sEcWTeJxsmx05A88Mf0v) | 3:05 | 2025-05-01 | 2025-09-26 |
 | [tu t'es laissé aller](https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [trop de choses à prouver](https://open.spotify.com/album/3hzGGpG5isbfTez00TFkcG) | 2:39 | 2024-01-04 | 2024-06-28 |

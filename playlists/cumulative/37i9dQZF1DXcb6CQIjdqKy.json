@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Tauren Wells",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Lauren Daigle, The New Respects & Brooke Ligertwood",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Anybody Else",
+        "url": "https://open.spotify.com/album/1YoIWKiqd3WX1vyeHl7plU"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216015,
+      "name": "Anybody Else",
+      "url": "https://open.spotify.com/track/0UvtjG6qhQQmbDyCbfZeey"
+    },
+    {
+      "album": {
         "name": "Anything Is Possible",
         "url": "https://open.spotify.com/album/2jkGzcxRCneDToxgQRjSUV"
       },
@@ -2524,7 +2542,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 154169,
       "name": "Black Sheep II",
       "url": "https://open.spotify.com/track/0spY4QN3gI12ohsr4TdqXu"
@@ -7436,7 +7454,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 203229,
       "name": "God's Way",
       "url": "https://open.spotify.com/track/45nUmxdwpjdkosuOCmywu9"
@@ -8820,7 +8838,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 189500,
       "name": "He Can",
       "url": "https://open.spotify.com/track/3En8bMeRZ8s3HkYCDAX75P"
@@ -13564,6 +13582,24 @@
       "duration_ms": 180829,
       "name": "Koolaid",
       "url": "https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo"
+    },
+    {
+      "album": {
+        "name": "Lake Of Fire",
+        "url": "https://open.spotify.com/album/1eUbv2vRwcVboQI53tcuuZ"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200765,
+      "name": "Lake Of Fire",
+      "url": "https://open.spotify.com/track/1zrh3tlviFYxXH47gOURPe"
     },
     {
       "album": {
@@ -21603,6 +21639,32 @@
     },
     {
       "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
+      },
+      "artists": [
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265381,
+      "name": "Sublime Gracia",
+      "url": "https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO"
+    },
+    {
+      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/5FpQF1u1Sichs5junqgw20"
       },
@@ -23856,7 +23918,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 214535,
       "name": "The Water",
       "url": "https://open.spotify.com/track/7wA1KK75SuO4XfhfNPfbbT"
@@ -25382,6 +25444,32 @@
       "duration_ms": 222230,
       "name": "Watch Your Mouth",
       "url": "https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM"
+    },
+    {
+      "album": {
+        "name": "EAT",
+        "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "The New Respects",
+          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167254,
+      "name": "Watchmen",
+      "url": "https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ"
     },
     {
       "album": {

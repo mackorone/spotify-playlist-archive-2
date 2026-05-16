@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 88954,
+  "num_followers": 88980,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "agO/AAAAAADDdpulALG38Bw+d4dTtfps",
+  "snapshot_id": "agUQgAAAAABKOWMJVfQvrkoaItFkqhqm",
   "tracks": [
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 244614,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy"
+      "duration_ms": 232614,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 232614,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz"
+      "duration_ms": 244614,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy"
     },
     {
       "added_at": null,

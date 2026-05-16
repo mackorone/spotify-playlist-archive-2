@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Victor García en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,093 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,115 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 13 | [Para Que Ya No Duela](https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Para Que Ya No Duela](https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw) | 3:33 |
 | 14 | [Fondo de Pantalla](https://open.spotify.com/track/2kB7CPK1WlijXjrzeK58Gk) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp), [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [Fondo de Pantalla](https://open.spotify.com/album/3p0BZHZ4TAqS5TMWOf0bcn) | 2:28 |
 | 15 | [LABERINTO](https://open.spotify.com/track/6VML7jhukVfsspoeOFaDye) | [MALA MAÑA](https://open.spotify.com/artist/6oEnb01go5SoSwwyo8wbRa), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [LABERINTO](https://open.spotify.com/album/0qKWsGCgLTVOmkHbvid764) | 2:46 |
-| 16 | [Lo Tienes Todo \- Live](https://open.spotify.com/track/1ITjtIekTFl1wv3HHx5P3M) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [Desde El Patio Western Club Vol\. 1 \(Live\)](https://open.spotify.com/album/3HfHWAiaDDu9go2FCvc1lD) | 2:47 |
+| 16 | [you have everything \- Live](https://open.spotify.com/track/1ITjtIekTFl1wv3HHx5P3M) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [Desde El Patio Western Club Vol\. 1 \(Live\)](https://open.spotify.com/album/3HfHWAiaDDu9go2FCvc1lD) | 2:47 |
 | 17 | [Ay Dieguito](https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ay Dieguito](https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD) | 2:50 |
 | 18 | [Qué Vida Tan Rara](https://open.spotify.com/track/27x9K9d2hCELfnxmj2gvKx) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Qué Vida Tan Rara](https://open.spotify.com/album/3AFfm54Ur7oadKjRv1VSXt) | 2:21 |
 | 19 | [Le Reclamé A Cupido](https://open.spotify.com/track/0YnR66KiP0J4BqDYF3lm4m) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Le Reclamé A Cupido](https://open.spotify.com/album/6ZbGUlwaGbv7GmJ57i1isb) | 2:56 |

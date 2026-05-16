@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Complete Collection](https://open.spotify.com/playlist/37i9dQZF1DWTUm9HjVUKnL)
 
-> The full collection of Spotify Singles recordings\. Cover: Damiano David
+> The full collection of Spotify Singles recordings\. Cover: Mack Keane
 
 1,355 songs - 3 day 9 hr 28 min
 
